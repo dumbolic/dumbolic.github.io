@@ -2,7 +2,7 @@ name: Auto Update Content
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '*/30 * * * *'  # every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # ✅ Ensure the token is used for checkout
+          token: ${{ secrets.GH_PAT }}  # ✅ This gives push access
+
+      - name: Set up SSH key
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -35,6 +40,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "🌀 Auto update content"
-            # Force push using the token
-            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git
+            git remote set-url origin git@github.com:dumbolic/dumbolic.github.io.git
+            git push origin main
           fi
