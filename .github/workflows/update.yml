@@ -29,11 +29,11 @@ jobs:
 
       - name: Commit & push
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # Ensure GH_PAT is passed as an environment variable
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub's built-in token for authentication
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/dumbolic/dumbolic.github.io.git
           git add content.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
