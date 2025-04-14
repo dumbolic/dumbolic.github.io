@@ -53,7 +53,7 @@ def get_youtube_music():
 def get_tech_news():
     try:
         response = requests.get(
-            "https://newsapi.org/v2/top-headlines?category=technology&apiKey=YOUR_API_KEY"
+            "https://newsapi.org/v2/top-headlines?category=technology&apiKey=2215913e768a49a28d97b55ec0e67ca8"
         )
         articles = response.json().get("articles", [])
         tech_news = []
