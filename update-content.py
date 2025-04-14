@@ -51,16 +51,26 @@ def get_youtube_music():
     return "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1"
 
 def get_tech_news():
-    return [
-        {"title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health"},
-        {"title": "Quantum computing breakthroughs announced", "link": "https://example.com/quantum"}
-    ]
+    try:
+        r = requests.get("https://newsapi.org/v2/top-headlines?category=technology&apiKey=YOUR_API_KEY")
+        articles = r.json()["articles"]
+        return [{"title": article["title"], "link": article["url"]} for article in articles]
+    except:
+        return [
+            {"title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health"},
+            {"title": "Quantum computing breakthroughs announced", "link": "https://example.com/quantum"}
+        ]
 
 def get_sports_news():
-    return [
-        {"title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket"},
-        {"title": "Real Madrid advances to UCL final", "link": "https://example.com/football"}
-    ]
+    try:
+        r = requests.get("https://newsapi.org/v2/top-headlines?category=sports&apiKey=YOUR_API_KEY")
+        articles = r.json()["articles"]
+        return [{"title": article["title"], "link": article["url"]} for article in articles]
+    except:
+        return [
+            {"title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket"},
+            {"title": "Real Madrid advances to UCL final", "link": "https://example.com/football"}
+        ]
 
 def get_weather():
     try:
