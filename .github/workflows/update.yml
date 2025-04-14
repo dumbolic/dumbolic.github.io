@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}  # ✅ This gives push access
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,7 +30,6 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git
           git add content.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
