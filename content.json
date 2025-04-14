@@ -1,24 +1,38 @@
 {
-  "quote": "Simplicity is the ultimate sophistication. – Leonardo da Vinci",
-  "fact": "Bananas are berries, but strawberries aren’t.",
-  "crypto": "BTC: $65,312 | ETH: $3,212",
+  "quote": "Out of your vulnerabilities will come your strength. \u2013 Sigmund Freud",
+  "fact": "A jellyfish is 95 percent water!",
+  "crypto": "BTC: $84,534 | ETH: $1,631.68",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why don't some couples go to the gym? Because some relationships don't work out.",
+  "joke": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
+  "bing_background": "https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
-  "bing_background": "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1",
   "tech_news": [
-    { "title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health" }
+    {
+      "title": "AI is revolutionizing healthcare",
+      "link": "https://example.com/ai-health"
+    },
+    {
+      "title": "Quantum computing breakthroughs announced",
+      "link": "https://example.com/quantum"
+    }
   ],
   "sports_news": [
-    { "title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket" }
+    {
+      "title": "India defeats Australia in last-over thriller",
+      "link": "https://example.com/cricket"
+    },
+    {
+      "title": "Real Madrid advances to UCL final",
+      "link": "https://example.com/football"
+    }
   ],
   "weather": {
-    "location": "Mumbai",
-    "temp": 30,
-    "description": "Partly Cloudy"
+    "location": "Unknown",
+    "temp": "N/A",
+    "description": "N/A"
   }
 }
