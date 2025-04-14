@@ -26,15 +26,10 @@ jobs:
       - name: Run script
         run: python update-content.py
 
+      - name: Debugging: Print Git remote URL
+        run: |
+          git remote -v
+          echo "Remote URL: https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git"
+
       - name: Commit & push
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git  # Explicitly use GH_PAT here
-          git add content.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "🌀 Auto update content"
-            git push
-          fi
