@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GH_PAT }}  # Ensure the token is used for checkout
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,7 +28,7 @@ jobs:
 
       - name: Debugging: Check git remote
         run: |
-          git remote -v
+          git remote -v  # Debug to ensure the remote is correct
 
       - name: Commit & push
         run: |
@@ -38,7 +38,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            # Directly use token in push URL
+            # Use the token in the push URL directly for authentication
             git commit -m "🌀 Auto update content"
             git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git
           fi
