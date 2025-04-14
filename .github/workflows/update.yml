@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # Ensure token is passed here for push access
+          token: ${{ secrets.GH_PAT }}  # ✅ This gives push access
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,6 +27,8 @@ jobs:
         env:
           WEATHER_API: ${{ secrets.Weather_API }}  # Pass Weather API secret to the script
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}  # Pass News API secret to the script
+          SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}  # Pass Sports API secret to the script
+          TECH_API_KEY: ${{ secrets.TECH_API_KEY }}  # Pass Tech API secret to the script
         run: python update-content.py
 
       - name: Commit & push
