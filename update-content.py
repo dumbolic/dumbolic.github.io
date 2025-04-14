@@ -1,4 +1,4 @@
-import requests, json, random
+import requests, json, random, os
 
 def get_quote():
     try:
@@ -52,8 +52,9 @@ def get_youtube_music():
 
 def get_tech_news():
     try:
+        api_key = os.getenv('NEWS_API_KEY')  # Fetch API key from environment variable
         response = requests.get(
-            "https://newsapi.org/v2/top-headlines?category=technology&apiKey=2215913e768a49a28d97b55ec0e67ca8"
+            f"https://newsapi.org/v2/top-headlines?category=technology&apiKey={api_key}"
         )
         articles = response.json().get("articles", [])
         tech_news = []
@@ -72,8 +73,9 @@ def get_tech_news():
 
 def get_sports_news():
     try:
+        api_key = os.getenv('NEWS_API_KEY')  # Fetch API key from environment variable
         response = requests.get(
-            "https://newsapi.org/v2/top-headlines?category=sports&apiKey=2215913e768a49a28d97b55ec0e67ca8"
+            f"https://newsapi.org/v2/top-headlines?category=sports&apiKey={api_key}"
         )
         articles = response.json().get("articles", [])
         sports_news = []
@@ -92,7 +94,7 @@ def get_sports_news():
 
 def get_weather():
     try:
-        key = "demo"  # Replace with real API key
+        key = "demo"  # Replace with real API key if needed for the weather API
         r = requests.get(f"http://api.weatherapi.com/v1/current.json?key={key}&q=Mumbai")
         data = r.json()
         return {
