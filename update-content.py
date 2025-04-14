@@ -44,7 +44,7 @@ def get_sports_news():
         ]
 
 # Weather API
-WEATHER_API_KEY = os.getenv('WEATHER_API')
+WEATHER_API_KEY = os.getenv('WEATHER_API_KEY')
 
 def get_weather():
     try:
