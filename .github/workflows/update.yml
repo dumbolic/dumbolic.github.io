@@ -22,12 +22,17 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python update-content.py
+        run: python update-content.py  # Ensure this script handles audio file generation or downloading
+
+      - name: Add audio files to commit (if new or updated)
+        run: |
+          git add audio/quote_audio.mp3
+          git add audio/fact_audio.mp3
+          git add content.json
 
       - name: Commit changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add content.json
           git commit -m "🔄 Auto-update content" || echo "No changes to commit"
           git push
