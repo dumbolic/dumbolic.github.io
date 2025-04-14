@@ -1,9 +1,24 @@
 {
-  "quote": "Believe you can and you're halfway there. – Theodore Roosevelt",
-  "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient tombs that are over 3,000 years old!",
-  "book": "‘Sapiens: A Brief History of Humankind’ by Yuval Noah Harari",
-  "tip": "Use semantic HTML to make your web pages more accessible and SEO-friendly.",
-  "crypto": "BTC: $65,000 | ETH: $3,200",
-  "song": "‘Bohemian Rhapsody’ – Queen",
-  "news": "NASA confirms plans to establish Moon base by 2035."
+  "quote": "Simplicity is the ultimate sophistication. – Leonardo da Vinci",
+  "fact": "Bananas are berries, but strawberries aren’t.",
+  "crypto": "BTC: $65,312 | ETH: $3,212",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why don't some couples go to the gym? Because some relationships don't work out.",
+  "word_of_the_day": {
+    "word": "effervescent",
+    "definition": "Vivacious and enthusiastic."
+  },
+  "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
+  "bing_background": "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1",
+  "tech_news": [
+    { "title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health" }
+  ],
+  "sports_news": [
+    { "title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket" }
+  ],
+  "weather": {
+    "location": "Mumbai",
+    "temp": 30,
+    "description": "Partly Cloudy"
+  }
 }
