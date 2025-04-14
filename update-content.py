@@ -1,106 +1,97 @@
-import requests
-import json
-import random
-import pyttsx3  # For local TTS (if you're not using a cloud service)
-import os
+import requests, json, random
 
-# Initialize pyttsx3 TTS engine
-engine = pyttsx3.init()
-
-# Function to get random quote
 def get_quote():
     try:
         r = requests.get("https://zenquotes.io/api/random")
-        return r.json()[0]['q'] + " – " + r.json()[0]['a']
+        return f"{r.json()[0]['q']} – {r.json()[0]['a']}"
     except:
-        return "Stay positive, work hard, make it happen."
+        return "Be yourself; everyone else is already taken. – Oscar Wilde"
 
-# Function to get random fact
 def get_fact():
     try:
         r = requests.get("https://uselessfacts.jsph.pl/random.json?language=en")
         return r.json()["text"]
     except:
-        return "Octopuses have three hearts."
+        return "Honey never spoils."
 
-# Function to get crypto prices
 def get_crypto():
     try:
         r = requests.get("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd")
         prices = r.json()
-        return {
-            "BTC": f"${prices['bitcoin']['usd']:,}",
-            "ETH": f"${prices['ethereum']['usd']:,}"
-        }
+        return f"BTC: ${prices['bitcoin']['usd']:,} | ETH: ${prices['ethereum']['usd']:,}"
     except:
-        return {"BTC": "$65,000", "ETH": "$3,200"}
+        return "BTC: $0 | ETH: $0"
 
-# Function to get random tip
 def get_tip():
-    tips = [
-        "Comment your code – Future You will thank you.",
-        "Use version control, even for small projects.",
-        "Don't repeat yourself (DRY principle).",
-        "Use `alt` tags for images to improve accessibility."
-    ]
-    return random.choice(tips)
+    return random.choice([
+        "Use keyboard shortcuts to save time.",
+        "Commit often with meaningful messages.",
+        "Keep your software dependencies updated."
+    ])
 
-# Function to get the latest news (placeholder for now)
-def get_news():
-    return "NASA's Artemis mission preps for lunar base in 2035."  # placeholder
-
-# Function to get a random joke
 def get_joke():
     try:
         r = requests.get("https://icanhazdadjoke.com/", headers={"Accept": "application/json"})
         return r.json()["joke"]
     except:
-        return "Why do programmers prefer dark mode? Because light attracts bugs."
+        return "Debugging: Being the detective in a crime movie where you are also the murderer."
 
-# Function to get the word of the day
-def get_word_of_the_day():
-    # This can be made dynamic with an API later
+def get_word():
     return {
-        "word": "ephemeral",
-        "definition": "Lasting for a very short time."
+        "word": "effervescent",
+        "definition": "Vivacious and enthusiastic."
     }
 
-# Function to convert text to speech (TTS)
-def text_to_speech(text, filename="audio_output.mp3"):
-    try:
-        # Ensure the 'audio' directory exists
-        os.makedirs("audio", exist_ok=True)
-        audio_file = f"audio/{filename}"
-        engine.save_to_file(text, audio_file)
-        engine.runAndWait()
-        return audio_file
-    except Exception as e:
-        print(f"Error in text-to-speech conversion: {e}")
-        return None
+def get_bing_background():
+    r = requests.get("https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1")
+    img = r.json()['images'][0]['url']
+    return f"https://www.bing.com{img}"
 
-# Generate content.json
-content = {
+def get_youtube_music():
+    return "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1"
+
+def get_tech_news():
+    return [
+        {"title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health"},
+        {"title": "Quantum computing breakthroughs announced", "link": "https://example.com/quantum"}
+    ]
+
+def get_sports_news():
+    return [
+        {"title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket"},
+        {"title": "Real Madrid advances to UCL final", "link": "https://example.com/football"}
+    ]
+
+def get_weather():
+    try:
+        key = "demo"  # Replace with real API key
+        r = requests.get(f"http://api.weatherapi.com/v1/current.json?key={key}&q=Mumbai")
+        data = r.json()
+        return {
+            "location": data["location"]["name"],
+            "temp": data["current"]["temp_c"],
+            "description": data["current"]["condition"]["text"]
+        }
+    except:
+        return {
+            "location": "Unknown",
+            "temp": "N/A",
+            "description": "N/A"
+        }
+
+data = {
     "quote": get_quote(),
     "fact": get_fact(),
-    "book": "Sapiens: A Brief History of Humankind – Yuval Noah Harari",
-    "tip": get_tip(),
     "crypto": get_crypto(),
-    "song": "Bohemian Rhapsody – Queen",
-    "news": get_news(),
+    "tip": get_tip(),
     "joke": get_joke(),
-    "word_of_the_day": get_word_of_the_day()
+    "word_of_the_day": get_word(),
+    "bing_background": get_bing_background(),
+    "youtube_music": get_youtube_music(),
+    "tech_news": get_tech_news(),
+    "sports_news": get_sports_news(),
+    "weather": get_weather()
 }
 
-# Save content data to JSON file
 with open("content.json", "w") as f:
-    json.dump(content, f, indent=2)
-
-# Generate real-time audio from quote and fact
-quote_audio = text_to_speech(content['quote'], "quote_audio.mp3")
-fact_audio = text_to_speech(content['fact'], "fact_audio.mp3")
-
-# Print out the audio file paths generated
-if quote_audio:
-    print(f"Quote audio saved as: {quote_audio}")
-if fact_audio:
-    print(f"Fact audio saved as: {fact_audio}")
+    json.dump(data, f, indent=2)

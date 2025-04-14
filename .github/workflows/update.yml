@@ -2,7 +2,7 @@ name: Auto Update Content
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
+    - cron: '*/30 * * * *'  # every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -21,18 +21,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run update script
-        run: python update-content.py  # Ensure this script handles audio file generation or downloading
+      - name: Run script
+        run: python update-content.py
 
-      - name: Add audio files to commit (if new or updated)
-        run: |
-          git add audio/quote_audio.mp3
-          git add audio/fact_audio.mp3
-          git add content.json
-
-      - name: Commit changes
+      - name: Commit & push
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git commit -m "🔄 Auto-update content" || echo "No changes to commit"
+          git add content.json
+          git commit -m "🌀 Auto update content"
           git push
