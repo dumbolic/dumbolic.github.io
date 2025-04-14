@@ -1,4 +1,9 @@
-import requests, json, random, os
+import requests, json, random
+import os  # To access environment variables
+
+# Get the Weather API key and News API key from environment variables
+weather_api_key = os.getenv('WEATHER_API')
+news_api_key = os.getenv('NEWS_API_KEY')
 
 def get_quote():
     try:
@@ -51,18 +56,18 @@ def get_youtube_music():
     return "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1"
 
 def get_tech_news():
+    if not news_api_key:
+        print("Error: News API key not found!")
+        return [
+            {"title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health"},
+            {"title": "Quantum computing breakthroughs announced", "link": "https://example.com/quantum"}
+        ]
     try:
-        api_key = os.getenv('NEWS_API_KEY')  # Fetch API key from environment variable
         response = requests.get(
-            f"https://newsapi.org/v2/top-headlines?category=technology&apiKey={api_key}"
+            f"https://newsapi.org/v2/top-headlines?category=technology&apiKey={news_api_key}"
         )
         articles = response.json().get("articles", [])
-        tech_news = []
-        for article in articles:
-            tech_news.append({
-                "title": article["title"],
-                "link": article["url"]
-            })
+        tech_news = [{"title": article["title"], "link": article["url"]} for article in articles]
         return tech_news
     except Exception as e:
         print(f"Error fetching tech news: {e}")
@@ -72,18 +77,18 @@ def get_tech_news():
         ]
 
 def get_sports_news():
+    if not news_api_key:
+        print("Error: News API key not found!")
+        return [
+            {"title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket"},
+            {"title": "Real Madrid advances to UCL final", "link": "https://example.com/football"}
+        ]
     try:
-        api_key = os.getenv('NEWS_API_KEY')  # Fetch API key from environment variable
         response = requests.get(
-            f"https://newsapi.org/v2/top-headlines?category=sports&apiKey={api_key}"
+            f"https://newsapi.org/v2/top-headlines?category=sports&apiKey={news_api_key}"
         )
         articles = response.json().get("articles", [])
-        sports_news = []
-        for article in articles:
-            sports_news.append({
-                "title": article["title"],
-                "link": article["url"]
-            })
+        sports_news = [{"title": article["title"], "link": article["url"]} for article in articles]
         return sports_news
     except Exception as e:
         print(f"Error fetching sports news: {e}")
@@ -93,16 +98,24 @@ def get_sports_news():
         ]
 
 def get_weather():
+    if not weather_api_key:
+        print("Error: Weather API key not found!")
+        return {
+            "location": "Unknown",
+            "temp": "N/A",
+            "description": "N/A"
+        }
     try:
-        key = "demo"  # Replace with real API key if needed for the weather API
-        r = requests.get(f"http://api.weatherapi.com/v1/current.json?key={key}&q=Mumbai")
+        r = requests.get(f"http://api.weatherapi.com/v1/current.json?key={weather_api_key}&q=Mumbai")
+        r.raise_for_status()  # Check if the request was successful
         data = r.json()
         return {
             "location": data["location"]["name"],
             "temp": data["current"]["temp_c"],
             "description": data["current"]["condition"]["text"]
         }
-    except:
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching weather data: {e}")
         return {
             "location": "Unknown",
             "temp": "N/A",
