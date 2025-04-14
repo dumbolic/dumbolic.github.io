@@ -28,6 +28,8 @@ jobs:
         run: python update-content.py
 
       - name: Commit & push
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # Ensure GH_PAT is passed as an environment variable
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
