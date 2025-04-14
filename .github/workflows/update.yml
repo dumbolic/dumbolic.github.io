@@ -3,7 +3,7 @@ name: Auto Update Content
 on:
   schedule:
     - cron: '*/30 * * * *'  # every 30 minutes
-  workflow_dispatch:
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
   update:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # This token is used for other API accesses like getting content
+          token: ${{ secrets.GH_PAT }}  # Use the newly created GH_PAT
 
       - name: Set up SSH key
         run: |
