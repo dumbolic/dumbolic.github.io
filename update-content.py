@@ -52,10 +52,19 @@ def get_youtube_music():
 
 def get_tech_news():
     try:
-        r = requests.get("https://newsapi.org/v2/top-headlines?category=technology&apiKey=YOUR_API_KEY")
-        articles = r.json()["articles"]
-        return [{"title": article["title"], "link": article["url"]} for article in articles]
-    except:
+        response = requests.get(
+            "https://newsapi.org/v2/top-headlines?category=technology&apiKey=YOUR_API_KEY"
+        )
+        articles = response.json().get("articles", [])
+        tech_news = []
+        for article in articles:
+            tech_news.append({
+                "title": article["title"],
+                "link": article["url"]
+            })
+        return tech_news
+    except Exception as e:
+        print(f"Error fetching tech news: {e}")
         return [
             {"title": "AI is revolutionizing healthcare", "link": "https://example.com/ai-health"},
             {"title": "Quantum computing breakthroughs announced", "link": "https://example.com/quantum"}
@@ -63,10 +72,19 @@ def get_tech_news():
 
 def get_sports_news():
     try:
-        r = requests.get("https://newsapi.org/v2/top-headlines?category=sports&apiKey=YOUR_API_KEY")
-        articles = r.json()["articles"]
-        return [{"title": article["title"], "link": article["url"]} for article in articles]
-    except:
+        response = requests.get(
+            "https://newsapi.org/v2/top-headlines?category=sports&apiKey=2215913e768a49a28d97b55ec0e67ca8"
+        )
+        articles = response.json().get("articles", [])
+        sports_news = []
+        for article in articles:
+            sports_news.append({
+                "title": article["title"],
+                "link": article["url"]
+            })
+        return sports_news
+    except Exception as e:
+        print(f"Error fetching sports news: {e}")
         return [
             {"title": "India defeats Australia in last-over thriller", "link": "https://example.com/cricket"},
             {"title": "Real Madrid advances to UCL final", "link": "https://example.com/football"}
