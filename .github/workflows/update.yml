@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # ✅ Ensure token is passed here
+          token: ${{ secrets.GH_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,10 +26,24 @@ jobs:
       - name: Run script
         run: python update-content.py
 
-      - name: Debugging: Print Git remote URL
+      - name: Debugging: Check git remote
         run: |
           git remote -v
-          echo "Remote URL: https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git"
+          echo "Checking remote URL: https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git"
+
+      - name: Debugging: Test git authentication
+        run: |
+          git ls-remote https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git
 
       - name: Commit & push
         run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/dumbolic/dumbolic.github.io.git
+          git add content.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🌀 Auto update content"
+            git push
+          fi
