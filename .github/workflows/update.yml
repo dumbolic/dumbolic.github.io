@@ -13,13 +13,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # ✅ This gives push access
+          token: ${{ secrets.GH_PAT }}  # This token is used for other API accesses like getting content
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
+      - name: Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
 
+      - name: Set remote URL to SSH
+        run: |
+          git remote set-url origin git@github.com:dumbolic/dumbolic.github.io.git
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          
       - name: Install dependencies
         run: pip install requests
 
@@ -28,13 +36,9 @@ jobs:
 
       - name: Commit & push
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
           git add content.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "🌀 Auto update content"
             git push
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}  # Ensure the token is used for git push
