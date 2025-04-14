@@ -10,50 +10,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # Ensure GH_PAT is set up in your secrets
+          token: ${{ secrets.GH_PAT }}  # ✅ This gives push access
 
-      # Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
-      # Install dependencies
       - name: Install dependencies
         run: pip install requests
 
-      # Run the Python script
       - name: Run script
-        env:
-          WEATHER_API: ${{ secrets.Weather_API }}  # Pass Weather API secret to the script
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}  # Pass News API secret to the script
         run: python update-content.py
 
-      # Set up SSH for GitHub Actions to use SSH key-based authentication
-      - name: Set up SSH key for GitHub Actions
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
-
-      # Set remote URL to SSH for GitHub
-      - name: Set remote URL to SSH
-        run: |
-          git remote set-url origin git@github.com:dumbolic/dumbolic.github.io.git
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-
-      # Commit & push changes
       - name: Commit & push
         run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add content.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "🌀 Auto update content"
             git push
+          fi
