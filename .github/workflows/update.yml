@@ -26,7 +26,7 @@ jobs:
       - name: Run script
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}  # Ensure secret for news API is passed
-          WEATHER_API: ${{ secrets.WEATHER_API }}  # Ensure secret for weather API is passed
+          WEATHER_API: ${{ secrets.WEATHER_API_KEY }}  # Ensure secret for weather API is passed
         run: python update-content.py
 
       - name: Commit & push
