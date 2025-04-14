@@ -3,37 +3,43 @@ name: Auto Update Content
 on:
   schedule:
     - cron: '*/30 * * * *'  # every 30 minutes
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository using the token
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # Use the newly created GH_PAT
+          token: ${{ secrets.GH_PAT }}
 
-      - name: Set up SSH key
+      # Set up SSH for authentication
+      - name: Set up SSH key for GitHub Actions
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
 
+      # Set remote URL to SSH
       - name: Set remote URL to SSH
         run: |
           git remote set-url origin git@github.com:dumbolic/dumbolic.github.io.git
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          
+        
+      # Install dependencies (e.g., requests)
       - name: Install dependencies
         run: pip install requests
 
+      # Run the Python script
       - name: Run script
         run: python update-content.py
 
+      # Commit & Push changes
       - name: Commit & push
         run: |
           git add content.json
