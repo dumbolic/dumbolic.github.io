@@ -1,144 +1,169 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Stay updated with daily inspiration, facts, crypto prices, and more!">
-    <title>InspireBoard - Daily Updates</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-            display: flex;
-            justify-content: space-between;
-            padding: 20px;
-        }
-        header {
-            background-color: #2a3d66;
-            color: white;
-            padding: 20px;
-            text-align: center;
-            width: 100%;
-        }
-        .content {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            width: 100%;
-            flex-wrap: wrap;
-        }
-        .tile {
-            background-color: white;
-            margin: 10px;
-            padding: 20px;
-            width: 30%;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        .tile h3 {
-            color: #2a3d66;
-        }
-        footer {
-            background-color: #2a3d66;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-        .tile img {
-            max-width: 100%;
-            border-radius: 8px;
-        }
-        .tile p {
-            font-size: 1.2em;
-        }
-
-        @media screen and (max-width: 768px) {
-            .content {
-                flex-direction: column;
-            }
-
-            .tile {
-                width: 80%;
-                margin: 10px auto;
-            }
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InspireBoard - Daily Dashboard</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-light: #f0f4f8;
+      --bg-dark: #1e1e2f;
+      --text-light: #333;
+      --text-dark: #eee;
+    }
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background-color: var(--bg-light);
+      color: var(--text-light);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      transition: background-color 0.4s ease, color 0.4s ease;
+    }
+    .dark-mode {
+      background-color: var(--bg-dark);
+      color: var(--text-dark);
+    }
+    header {
+      padding: 1rem;
+      text-align: center;
+      background: rgba(0, 0, 0, 0.7);
+      color: white;
+    }
+    .toggle-container {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      cursor: pointer;
+    }
+    .tabs {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin: 1rem 0;
+      flex-wrap: wrap;
+    }
+    .tab {
+      padding: 0.5rem 1rem;
+      background: #ccc;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    .tab:hover {
+      background: #999;
+    }
+    .tab-content {
+      display: none;
+      padding: 2rem;
+      animation: fadein 1s;
+    }
+    .tab-content.active {
+      display: block;
+    }
+    @keyframes fadein {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .tile {
+      margin: 1rem;
+      padding: 1rem;
+      background: rgba(255,255,255,0.85);
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      max-width: 300px;
+      flex: 1;
+    }
+    .tiles {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    iframe {
+      width: 100%;
+      max-width: 560px;
+      height: 315px;
+      margin: 10px auto;
+      display: block;
+      border: none;
+    }
+  </style>
 </head>
 <body>
+  <div class="toggle-container" onclick="toggleDarkMode()">
+    <i class="fas fa-adjust"></i> Toggle Theme
+  </div>
 
-<header>
-    <h1>Welcome to InspireBoard!</h1>
-    <p>Your source for daily inspiration, fun facts, crypto prices, and more.</p>
-</header>
+  <header>
+    <h1>InspireBoard - Daily Dashboard</h1>
+    <p>Personalized updates in real time</p>
+  </header>
 
-<div class="content">
-    <!-- Quote Tile -->
-    <div class="tile" id="quote">
-        <h3>Daily Quote</h3>
-        <p>Loading...</p>
+  <div class="tabs">
+    <div class="tab" onclick="showTab('main')">🌅 Daily</div>
+    <div class="tab" onclick="showTab('tech')">💻 Tech</div>
+    <div class="tab" onclick="showTab('sports')">🏅 Sports</div>
+    <div class="tab" onclick="showTab('weather')">🌤️ Weather</div>
+  </div>
+
+  <div id="main" class="tab-content active">
+    <div class="tiles">
+      <div class="tile" id="quote"></div>
+      <div class="tile" id="fact"></div>
+      <div class="tile" id="crypto"></div>
+      <div class="tile" id="tip"></div>
+      <div class="tile" id="word"></div>
+      <div class="tile" id="joke"></div>
     </div>
+  </div>
 
-    <!-- Fact Tile -->
-    <div class="tile" id="fact">
-        <h3>Did You Know?</h3>
-        <p>Loading...</p>
-    </div>
+  <div id="tech" class="tab-content">
+    <div class="tiles" id="tech-news"></div>
+  </div>
 
-    <!-- Crypto Tile -->
-    <div class="tile" id="crypto">
-        <h3>Crypto Prices</h3>
-        <p>Loading...</p>
-    </div>
-</div>
+  <div id="sports" class="tab-content">
+    <div class="tiles" id="sports-news"></div>
+  </div>
 
-<footer>
-    <p>&copy; <span id="current-year"></span> Dumbolic.com | All rights reserved</p>
-</footer>
+  <div id="weather" class="tab-content">
+    <div class="tile" id="weather-info">Fetching weather...</div>
+  </div>
 
-<script>
-    // Set the current year in the footer
-    document.getElementById('current-year').textContent = new Date().getFullYear();
+  <iframe id="yt-music" src="" allow="autoplay"></iframe>
 
-    // Fetch content from the content.json
-    fetch('https://raw.githubusercontent.com/dumbolic/dumbolic.github.io/main/content.json')
-        .then(response => response.json())
-        .then(data => {
-            // If data is missing, show fallback content
-            if (!data.quote || !data.fact || !data.crypto) {
-                data = {
-                    quote: "Default quote: Stay positive, work hard, make it happen.",
-                    fact: "Default fact: The Earth is round.",
-                    crypto: "BTC: $0, ETH: $0"
-                };
-            }
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle("dark-mode");
+    }
 
-            // Update Quote
-            document.getElementById('quote').innerHTML = `
-                <h3>Daily Quote</h3>
-                <p>${data.quote}</p>
-            `;
-            // Update Fact
-            document.getElementById('fact').innerHTML = `
-                <h3>Did You Know?</h3>
-                <p>${data.fact}</p>
-            `;
-            // Update Crypto Prices
-            document.getElementById('crypto').innerHTML = `
-                <h3>Crypto Prices</h3>
-                <p>${data.crypto}</p>
-            `;
-        })
-        .catch(err => {
-            console.error('Error fetching content:', err);
-        });
-</script>
+    function showTab(id) {
+      document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+      document.getElementById(id).classList.add('active');
+    }
 
+    fetch('content.json')
+      .then(res => res.json())
+      .then(data => {
+        document.body.style.backgroundImage = `url(${data.bing_background})`;
+        document.getElementById('quote').innerHTML = `<h3>Quote</h3><p>${data.quote}</p>`;
+        document.getElementById('fact').innerHTML = `<h3>Fact</h3><p>${data.fact}</p>`;
+        document.getElementById('crypto').innerHTML = `<h3>Crypto</h3><p>${data.crypto}</p>`;
+        document.getElementById('tip').innerHTML = `<h3>Tip</h3><p>${data.tip}</p>`;
+        document.getElementById('word').innerHTML = `<h3>Word</h3><p>${data.word_of_the_day.word} - ${data.word_of_the_day.definition}</p>`;
+        document.getElementById('joke').innerHTML = `<h3>Joke</h3><p>${data.joke}</p>`;
+        document.getElementById('yt-music').src = data.youtube_music;
+
+        const tech = data.tech_news.map(n => `<div class='tile'><h4>${n.title}</h4><p><a href='${n.link}' target='_blank'>Read more</a></p></div>`).join('');
+        document.getElementById('tech-news').innerHTML = tech;
+
+        const sports = data.sports_news.map(n => `<div class='tile'><h4>${n.title}</h4><p><a href='${n.link}' target='_blank'>More</a></p></div>`).join('');
+        document.getElementById('sports-news').innerHTML = sports;
+
+        document.getElementById('weather-info').innerHTML = `<h3>${data.weather.location}</h3><p>${data.weather.description}, ${data.weather.temp}°C</p>`;
+      });
+  </script>
 </body>
 </html>
