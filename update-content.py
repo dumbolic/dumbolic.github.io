@@ -43,25 +43,42 @@ def get_sports_news():
             {"title": "Real Madrid advances to UCL final", "link": "https://example.com/football"}
         ]
 
-# Weather API
+import requests
+import os
+
 WEATHER_API_KEY = os.getenv('WEATHER_API_KEY')
 
 def get_weather():
     try:
-        r = requests.get(f"http://api.weatherapi.com/v1/current.json?key={WEATHER_API_KEY}&q=Mumbai")
-        data = r.json()
-        return {
-            "location": data["location"]["name"],
-            "temp": data["current"]["temp_c"],
-            "description": data["current"]["condition"]["text"]
-        }
-    except Exception as e:
+        # Make API request to WeatherAPI
+        response = requests.get(f"http://api.weatherapi.com/v1/current.json?key={WEATHER_API_KEY}&q=Mumbai")
+        
+        # Check if the response is valid
+        if response.status_code == 200:
+            data = response.json()
+            return {
+                "location": data["location"]["name"],
+                "temp": data["current"]["temp_c"],
+                "description": data["current"]["condition"]["text"]
+            }
+        else:
+            print(f"Error: Received status code {response.status_code}")
+            return {
+                "location": "Unknown",
+                "temp": "N/A",
+                "description": "N/A"
+            }
+    except requests.exceptions.RequestException as e:
+        # This will catch network issues, timeout, invalid request, etc.
         print(f"Error fetching weather data: {e}")
         return {
             "location": "Unknown",
             "temp": "N/A",
             "description": "N/A"
         }
+
+# Call the function to test it
+print(get_weather())
 
 # Function to generate a quote
 def get_quote():
