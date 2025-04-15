@@ -1,9 +1,9 @@
 {
-  "quote": "If there is a book that you want to read, but it hasn't been written yet, then you must write it. \u2013 Toni Morrison",
-  "fact": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
-  "crypto": "BTC: $84,065 | ETH: $1,611.0",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Parallel lines have so much in common. It\u2019s a shame they\u2019ll never meet.",
+  "quote": "There is always risk, so learn to manage risk instead of avoiding it. \u2013 Robert Kiyosaki",
+  "fact": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
+  "crypto": "BTC: $83,976 | ETH: $1,594.15",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Where do you take someone who\u2019s been injured in a peek-a-boo accident? To the I.C.U.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,42 @@
   "bing_background": "https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Apple\u2019s complicated plan to improve its AI while protecting privacy - The Verge",
+      "link": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy"
+    },
+    {
+      "title": "A Bunch Of Sega And Bethesda Switch Games Are On Sale Right Now - Kotaku",
+      "link": "https://kotaku.com/sega-bethesda-switch-eshop-big-sale-partner-showcase-1851776134"
+    },
+    {
+      "title": "Razer built a game-streaming app on top of Moonlight, and it\u2019s not too bad - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/04/razer-built-a-game-streaming-app-on-top-of-moonlight-and-its-not-too-bad/"
+    },
+    {
+      "title": "Meet Neptune, a TikTok alternative where creators can hide likes and follower counts - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/"
+    },
+    {
+      "title": "Days After Launching In Early Access, This New Steam Game Is Shutting Down - GameSpot",
+      "link": "https://www.gamespot.com/articles/days-after-launching-in-early-access-this-new-steam-game-is-shutting-down/1100-6530851/"
+    },
+    {
+      "title": "Death Stranding 2 lets players skip boss fights - Polygon",
+      "link": "https://www.polygon.com/news/558431/death-stranding-2-boss-fight-skip-easy-mode"
+    },
+    {
+      "title": "NASA\u2019s Phase 2 RIF Plan Is Due To OMB/OPM Today - NASA Watch",
+      "link": "https://nasawatch.com/personnel-news/nasas-phase-2-rif-plan-is-due-to-omb-opm-today/"
+    },
+    {
+      "title": "Polygon readers can get an exclusive deal on Blue Prince - Polygon",
+      "link": "https://www.polygon.com/gaming/558371/blue-prince-fanatical-polygon-sale"
+    },
+    {
+      "title": "What Zaslav Learned From Flopping - Vulture",
+      "link": "http://www.vulture.com/article/david-zaslav-warner-bros.html"
+    },
     {
       "title": "Zelda games on Switch 2 will include weapon repairs, but in the most Nintendo way - Polygon",
       "link": "https://www.polygon.com/nintendo-switch-2/558300/breath-of-the-wild-switch-2-edition-equipment-repairs-zelda-notes"
@@ -28,16 +64,20 @@
       "link": "https://arstechnica.com/gadgets/2025/04/report-apple-will-take-another-crack-at-ipad-multitasking-in-ipados-19/"
     },
     {
-      "title": "You can hot swap the battery on Samsung\u2019s new rugged tablet - The Verge",
-      "link": "https://www.theverge.com/news/648022/samsung-rugged-military-grade-galaxy-xcover7-pro-tab-active"
+      "title": "Google\u2019s newest AI model is designed to help study dolphin \u2018speech\u2019 - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/14/googles-newest-ai-model-is-designed-to-help-study-dolphin-speech/"
+    },
+    {
+      "title": "Metro 2033 Redux Gets 100% Discount On Xbox To Celebrate Anniversary - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/04/metro-2033-redux-gets-100percent-discount-on-xbox-to-celebrate-anniversary"
+    },
+    {
+      "title": "The Mass Effect And Dragon Age Teams \u2018Didn\u2019t Get Along,\u2019 According To Ex-BioWare Dev - Kotaku",
+      "link": "https://kotaku.com/dragon-age-mass-effect-bioware-david-gaider-anthem-1851776055"
     },
     {
       "title": "Windows 10 PC can't be upgraded? You have 5 options and 6 months to take action - ZDNET",
       "link": "https://www.zdnet.com/article/windows-10-pc-cant-be-upgraded-you-have-5-options-and-6-months-to-take-action/"
-    },
-    {
-      "title": "The Subjective Charms of Objective-C - WIRED",
-      "link": "https://www.wired.com/story/objective-c-programming-language-verbose/"
     },
     {
       "title": "Silent Hill 2, Alan Wake 2, and More Games Discounted in Best Buy\u2019s Spring Sale - IGN",
@@ -46,84 +86,80 @@
     {
       "title": "Nintendo \u2018warned to expect 145% tariff on Nintendo Switch 2\u2019 - Video Games Chronicle",
       "link": "https://www.videogameschronicle.com/news/nintendo-warned-to-expect-145-tariff-on-nintendo-switch-2/"
-    },
-    {
-      "title": "Chipolo\u2019s newest AirTag competitor works with both Apple and Google\u2019s finding networks - TechCrunch",
-      "link": "https://techcrunch.com/2025/04/14/chipolos-newest-airtag-competitor-works-with-both-apple-and-googles-finding-networks/"
-    },
-    {
-      "title": "Announcing Magic Spotlight: FINAL FANTASY in Chiba, Japan - magic.gg",
-      "link": "https://magic.gg/news/announcing-magic-spotlight-final-fantasy"
-    },
-    {
-      "title": "Digital Foundry: hands-on with Cyberpunk 2077 on Switch 2 - can the new Nintendo console handle it? - Eurogamer",
-      "link": "https://www.eurogamer.net/digitalfoundry-2025-hands-on-with-cyberpunk-2077-on-switch-2-can-the-new-nintendo-console-handle-it"
-    },
-    {
-      "title": "Windows\u2019 Controversial Recall Is Back\u2014Here\u2019s How to Control It - Gizmodo",
-      "link": "https://gizmodo.com/windows-controversial-recall-is-back-heres-how-to-control-it-2000589002"
-    },
-    {
-      "title": "iPhone 17 Pro Max case fit test shows off biggest camera bump yet - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/14/iphone-17-pro-max-case-fit-test-shows-off-biggest-camera-bump-yet/"
-    },
-    {
-      "title": "I Tested The AI That Calls Your Elderly Parents If You Can't Be Bothered - 404 Media",
-      "link": "https://www.404media.co/i-tested-the-ai-that-calls-your-elderly-parents-if-you-cant-bothered/"
-    },
-    {
-      "title": "Mario Kart World is the most excited I\u2019ve been for a launch game since Mario 64 - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/features/mario-kart-world-hands-on/"
-    },
-    {
-      "title": "Pok\u00e9mon TCG: Journey Together and Lost Origin Premium Box Boosters Are Back in Stock Today - IGN",
-      "link": "https://www.ign.com/articles/pokemon-tcg-stock-update-journey-together-lost-origin-ex-big-boxes"
-    },
-    {
-      "title": "Samsung Good Lock is now available via the Play Store as global launch begins - 9to5Google",
-      "link": "http://9to5google.com/2025/04/14/samsung-good-lock-play-store-release-global/"
-    },
-    {
-      "title": "Archaeologists Unearth 7,275-Year-Old Well That Could Be the World\u2019s Oldest Wooden Structure - Indian Defence Review",
-      "link": "https://indiandefencereview.com/7275-year-old-well-oldest-wooden-structure/"
     }
   ],
   "sports_news": [
     {
-      "title": "Luka Don\u010di\u0107 leads way among top-selling NBA jerseys in 2024-25 season - NBA",
-      "link": "https://www.nba.com/news/top-selling-jerseys-2024-25-nba-season"
+      "title": "Titans Warned Against Drafting Cam Ward Amid Rumors - Yahoo Sports",
+      "link": "https://athlonsports.com/nfl/tennessee-titans/titans-warned-drafting-cam-ward-rumors"
     },
     {
-      "title": "Cowboys begin 2025 voluntary OTAs, key players file to launch the Brian Schottenheimer era - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/cowboys-begin-2025-voluntary-otas-headline-players-file-to-launch-the-brian-schottenheimer-era"
+      "title": "Pit stop strategy separates the winners and losers in IndyCar Long Beach GP - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/pit-stop-strategy-separates-the-winners-and-losers-in-indycar-long-beach-gp/10713253/"
     },
     {
-      "title": "Does Bristol have a problem beyond Kyle Larson being just too good at the track? - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nascar/kyle-larson-dominates-at-bristol"
+      "title": "Hot off her NCAA title, Paige Bueckers cruises for 1st pick in the WNBA draft - NPR",
+      "link": "https://www.npr.org/2025/04/14/nx-s1-5364857/wnba-draft-1st-pick-paige-bueckers-2025"
     },
     {
-      "title": "Mike Budenholzer becomes 3rd fired Suns head coach in 3 years - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/mike-budenholzer-fired-2/3575409/"
+      "title": "Josh Pate Drops Bombshell About Nico Iamaleava\u2019s Behavior During College Football Playoff - Yahoo Sports",
+      "link": "https://athlonsports.com/college/tennessee-volunteers/josh-pate-reveals-nico-iamaleava-threatened-to-sit-out-playoff-game-over-nil-discussions"
+    },
+    {
+      "title": "Vice President JD Vance fumbles trophy during Ohio State football's White House visit - The Columbus Dispatch",
+      "link": "https://www.dispatch.com/story/sports/college/2025/04/14/jd-vance-drops-ohio-state-football-title-trophy-white-house/83085953007/"
+    },
+    {
+      "title": "Patrick Peterson: I can still play, but don\u2019t want to - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-peterson-i-can-still-play-but-dont-want-to"
+    },
+    {
+      "title": "Minnesota Lynx Acquire Karlie Samuelson From Washington Mystics - Minnesota Lynx",
+      "link": "https://lynx.wnba.com/news/minnesota-lynx-acquire-karlie-samuelson-from-washington-mystics"
+    },
+    {
+      "title": "Maxx Crosby named Eastern Michigan football assistant G.M. - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-named-eastern-michigan-football-assistant-g-m"
+    },
+    {
+      "title": "Three-round NFL mock draft: NFC contenders add QBs as seven go on first two days; Cowboys snag two playmakers - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/draft/news/three-round-nfl-mock-draft-nfc-contenders-add-qbs-as-seven-go-on-first-two-days-cowboys-snag-two-playmakers/"
+    },
+    {
+      "title": "Mike Budenholzer Fired by Suns After Missing NBA Playoffs in 1st Season as HC - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25183904-mike-budenholzer-fired-suns-after-missing-nba-playoffs-1st-season-hc"
+    },
+    {
+      "title": "Penske Entertainment looking to bring Long Beach vibe to more IndyCar events - RACER",
+      "link": "https://racer.com/2025/04/14/penske-entertainment-looking-to-bring-long-beach-vibe-to-more-indycar-events/"
     },
     {
       "title": "2025 NFL mock draft: Colorado's Travis Hunter rises, Shedeur Sanders falls into bottom of top 10 - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/2025-nfl-mock-draft-colorados-travis-hunter-rises-shedeur-sanders-falls-into-bottom-of-top-10/"
     },
     {
+      "title": "Micah Parsons reports for the start of the offseason program - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-reports-for-the-start-of-the-offseason-program"
+    },
+    {
       "title": "Demidov to make NHL debut with Canadiens against Blackhawks - NHL.com",
       "link": "https://www.nhl.com/news/montreal-canadiens-ivan-demidov-to-make-nhl-debut-tonight-against-blackhawks"
+    },
+    {
+      "title": "'Too many beatings\u2019\u2026 Michael Chandler told to retire by UFC legend after Paddy Pimblett loss - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/04/14/too-many-beatings-michael-chandler-told-to-retire-by-ufc-legend-after-paddy-pimblett-loss/"
     },
     {
       "title": "Kyren Lacy died of self-inflicted gunshot wound during police pursuit - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyren-lacy-died-of-self-inflicted-gunshot-wound-during-police-pursuit"
     },
     {
-      "title": "Paige Bueckers is ready for her WNBA closeup as she is set to get drafted No. 1 by the Dallas Wings - AP News",
-      "link": "https://apnews.com/article/wnba-2025-draft-paige-bueckers-a28fac1f8159d889ce385339717ab987"
-    },
-    {
       "title": "Five Takeaways From the Final Day of the 2024-25 NBA Regular Season - The Ringer",
       "link": "https://www.theringer.com/2025/04/14/nba/nba-regular-season-end-takeaways-kawhi-leonard-clippers"
+    },
+    {
+      "title": "Illini freshman guard Kasparas Jakucionis declares for 2025 NBA Draft - 247Sports",
+      "link": "https://247sports.com/college/illinois/article/kasparas-jakucionis-declares-for-2025-nba-draft-illinois-fighting-illini-basketball-248467771/"
     },
     {
       "title": "Should Ravens Trade Up for an X-Receiver? | Late for Work - Baltimore Ravens",
@@ -132,38 +168,6 @@
     {
       "title": "Alex Cora Makes Admission After Garrett Crochet\u2019s Near No-Hitter - NESN",
       "link": "https://nesn.com/2025/04/alex-cora-makes-admission-after-garrett-crochets-near-no-hitter/"
-    },
-    {
-      "title": "Nico Iamaleava possible transfer destinations: Which schools make sense for ex-Tennessee QB - 247Sports",
-      "link": "https://247sports.com/longformarticle/nico-iamaleava-possible-transfer-destinations-which-schools-make-sense-for-ex-tennessee-qb-248733225/"
-    },
-    {
-      "title": "Royals Rumblings - News for April 14, 2025 - Royals Review",
-      "link": "https://www.royalsreview.com/2025/4/14/24407590/royals-rumblings-news-for-april-14-2025"
-    },
-    {
-      "title": "Rory McIlroy's Behavior Toward Bryson DeChambeau During Masters is Turning Heads - Yahoo Sports",
-      "link": "https://athlonsports.com/golf/rory-mcilroys-behavior-toward-bryson-dechambeau-during-masters-is-turning-heads"
-    },
-    {
-      "title": "Warriors bound for play-in tournament after overtime loss to Clippers in season finale - The Mercury News",
-      "link": "https://www.mercurynews.com/2025/04/13/warriors-bound-for-play-in-tournament-after-overtime-loss-to-clippers/"
-    },
-    {
-      "title": "2025 NFL Draft: 3 teams that should trade back - PFF",
-      "link": "https://www.pff.com/news/draft-2025-nfl-draft-teams-trade-back"
-    },
-    {
-      "title": "5 Winners and 5 Losers from Bahrain \u2013 Who excelled in the heat of the Sakhir desert? - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-bahrain-who-excelled-in-the-heat-of-the-sakhir.4QqnVKpw1FwYQg1BdEq2AI"
-    },
-    {
-      "title": "A lot less embarrassing but still not fun: numbers for the morning after - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/04/14/a-lot-less-embarrassing-but-still-not-fun-numbers-for-the-morning-after/"
-    },
-    {
-      "title": "What drivers said after Kyle Larson\u2019s NASCAR Cup win at Bristol Motor Speedway - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/what-drivers-said-after-kyle-larsons-nascar-cup-win-at-bristol-motor-speedway"
     }
   ],
   "weather": {
