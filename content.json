@@ -1,9 +1,9 @@
 {
-  "quote": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. \u2013 Benjamin Franklin",
-  "fact": "Koala is Aboriginal for \"no drink\".",
-  "crypto": "BTC: $84,092 | ETH: $1,585.41",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I had a dream that I was a muffler last night. I woke up exhausted!",
+  "quote": "The weak can never forgive. Forgiveness is the attribute of the strong. \u2013 Mahatma Gandhi",
+  "fact": "The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill. \u00a0",
+  "crypto": "BTC: $83,691 | ETH: $1,574.4",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Metro 2033 Redux free for all Xbox players for a limited time - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/metro-2033-redux-free-on-xbox"
+      "title": "Xbox Game Pass late April titles announced - Eurogamer",
+      "link": "https://www.eurogamer.net/xbox-game-pass-late-april-titles-announced"
     },
     {
-      "title": "6 New PS Plus Extra, Premium Games Available to Download Now - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/04/6-new-ps-plus-extra-premium-games-available-to-download-now"
+      "title": "There\u2019s A Misconception About \u2018Destiny 2\u2019 And \u2018Marathon\u2019 Development - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/04/15/theres-a-misconception-about-destiny-2-and-marathon-development/"
     },
     {
-      "title": "You Can Finally Repair Weapons In Zelda: BOTW And TOTK On Switch 2 (Sort Of) - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/you-can-finally-repair-weapons-in-zelda-botw-and-totk-on-switch-2-sort-of"
+      "title": "\"Nintendo Is Losing Their Identity\" With Switch 2, Former PlayStation Boss Says - GameSpot",
+      "link": "https://www.gamespot.com/articles/nintendo-is-losing-their-identity-with-switch-2-former-playstation-boss-says/1100-6530863/"
     },
     {
-      "title": "\u2018Nintendo is losing their identity\u2019: Shuhei Yoshida says Switch 2\u2019s focus on power is what other companies would do - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/nintendo-is-losing-their-identity-shuhei-yoshida-says-switch-2s-focus-on-power-is-what-other-companies-would-do/"
+      "title": "Nanoleaf\u2019s new pegboard dock lights up your accessories and room - The Verge",
+      "link": "https://www.theverge.com/news/648318/nanoleaf-pegboard-desk-dock-lighting-charging"
     },
     {
-      "title": "Samsung will resume the One UI 7 rollout sooner than you think (Updated: Confirmed) - Android Authority",
-      "link": "https://www.androidauthority.com/one-ui-7-rollout-resuming-3544322/"
+      "title": "\u2018Elder Scrolls IV: Oblivion Remake\u2019 Images Leak Ahead Of Imminent Release - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/04/15/elder-scrolls-iv-oblivion-remake-images-leak-ahead-of-imminent-release/"
+    },
+    {
+      "title": "How to upgrade your 'incompatible' Windows 10 PC to Windows 11 now - ZDNET",
+      "link": "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11-now/"
+    },
+    {
+      "title": "Android phones will soon reboot if they\u2019re locked for a few days - The Verge",
+      "link": "https://www.theverge.com/news/648757/google-android-update-automatic-reboot-phone-locked"
+    },
+    {
+      "title": "Lost Records: Fans and creators anticipate release of 'Rage' - BBC",
+      "link": "https://www.bbc.com/news/articles/cly1jg08e4go"
+    },
+    {
+      "title": "Apple details how it plans to improve its AI models by privately analyzing user data - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/15/apple-details-how-it-plans-to-improve-its-ai-models-by-privately-analyzing-user-data/"
+    },
+    {
+      "title": "Foldable iPhone's Under-Screen Camera Likely Won't Include Face ID - MacRumors",
+      "link": "https://www.macrumors.com/2025/04/15/foldable-iphone-under-screen-camera-no-face-id/"
+    },
+    {
+      "title": "iPhone users are using these tricks to avoid a pricey upgrade - AOL.com",
+      "link": "https://www.businessinsider.com/iphone-users-using-tricks-avoid-pricey-upgrade-batteries-2025-4"
+    },
+    {
+      "title": "Metro 2033 Redux Gets 100% Discount On Xbox To Celebrate Anniversary - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/04/metro-2033-redux-gets-100percent-discount-on-xbox-to-celebrate-anniversary"
+    },
+    {
+      "title": "TDK claims optical breakthrough to tackle generative AI\u2019s biggest bottleneck - Financial Times",
+      "link": "https://www.ft.com/content/f08da7af-be14-430e-845f-f46e84b321b8"
     },
     {
       "title": "How To Get Trophies And Blue Tents In Blue Prince - GameSpot",
@@ -48,122 +80,94 @@
       "link": "https://www.nintendolife.com/news/2025/04/marvel-vs-capcom-fighting-collection-scores-a-new-switch-update-this-week"
     },
     {
+      "title": "Samsung says mysterious One UI 7 delay is to \u2018ensure the best possible experience\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2025/04/14/samsung-one-ui-7-delay-statement-explanation/"
+    },
+    {
       "title": "Don't delete that mystery empty folder. Windows put it there as a security fix - theregister.com",
       "link": "https://www.theregister.com/2025/04/14/windows_update_inetpub/"
-    },
-    {
-      "title": "A Bunch Of Sega And Bethesda Switch Games Are On Sale Right Now - Kotaku",
-      "link": "https://kotaku.com/sega-bethesda-switch-eshop-big-sale-partner-showcase-1851776134"
-    },
-    {
-      "title": "Apple to Analyze User Data on Devices to Bolster AI Technology - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2025-04-14/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology"
-    },
-    {
-      "title": "Meet Neptune, a TikTok alternative where creators can hide likes and follower counts - TechCrunch",
-      "link": "https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/"
-    },
-    {
-      "title": "New YouTube feature could end doomscrolling - Dexerto",
-      "link": "https://www.dexerto.com/youtube/new-youtube-feature-could-end-doomscrolling-3179978/"
-    },
-    {
-      "title": "Days After Launching In Early Access, This New Steam Game Is Shutting Down - GameSpot",
-      "link": "https://www.gamespot.com/articles/days-after-launching-in-early-access-this-new-steam-game-is-shutting-down/1100-6530851/"
-    },
-    {
-      "title": "What Zaslav Learned From Flopping - Vulture",
-      "link": "http://www.vulture.com/article/david-zaslav-warner-bros.html"
-    },
-    {
-      "title": "NVIDIA GeForce RTX 5060 Ti full specs confirmed through GPU-Z leak - VideoCardz.com",
-      "link": "https://videocardz.com/newz/nvidia-geforce-rtx-5060-ti-full-specs-confirmed-through-gpu-z-leak"
-    },
-    {
-      "title": "Google raises required minimum storage in Android 15, but it won\u2019t affect most phones - 9to5Google",
-      "link": "http://9to5google.com/2025/04/14/android-15-new-minimum-storage-requirement/"
-    },
-    {
-      "title": "\"Major\" Nintendo supplier warns Nintendo Switch 2 will be subject to 145% US tariffs - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/major-nintendo-supplier-warns-nintendo-switch-2-will-be-subject-to-145-us-tariffs"
-    },
-    {
-      "title": "Report: Apple will take another crack at iPad multitasking in iPadOS 19 - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/04/report-apple-will-take-another-crack-at-ipad-multitasking-in-ipados-19/"
     }
   ],
   "sports_news": [
     {
-      "title": "2025 NFL mock draft: Predicting where Travis Hunter, Shedeur Sanders, Ashton Jeanty and others will land - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/2025-nfl-mock-draft-predicting-where-travis-hunter-shedeur-sanders-ashton-jeanty-and-others-will-land/"
+      "title": "Bill Belichick\u2019s girlfriend took active role in shielding Steve Belichick from nepotism concerns - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichicks-girlfriend-took-active-role-in-shielding-steve-belichick-from-nepotism-concerns"
+    },
+    {
+      "title": "2025 NFL Mock Draft: 3-Round Predictions Based on Latest B/R Scouting Dept. Rankings - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25183758-2025-nfl-mock-draft-3-round-predictions-based-latest-br-scouting-dept-rankings"
+    },
+    {
+      "title": "Jalen Ramsey landing spots: Dolphins, star CB mutually agree to seek trade options, per report - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/jalen-ramsey-landing-spots-dolphins-star-cb-mutually-agree-to-seek-trade-options-per-report/"
+    },
+    {
+      "title": "College football transfer portal's 10 best available players - 247Sports",
+      "link": "https://247sports.com/longformarticle/college-football-transfer-portals-10-best-available-players-248778014/"
+    },
+    {
+      "title": "How Tennessee clawed back power in refusing QB's NIL demand - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/44674085/how-tennessee-clawed-back-some-power-saying-goodbye-qb-nico-iamaleava"
+    },
+    {
+      "title": "WNBA Fans Saddened After Hailey Van Lith's Reaction to Rejoining Angel Reese - Yahoo Sports",
+      "link": "https://athlonsports.com/wnba/chicago-sky/wnba-fans-saddened-after-hailey-van-liths-reaction-to-rejoining-angel-reese"
+    },
+    {
+      "title": "Fantasy Baseball SP Roundup 4/14: Holmes Improvement - Pitcher List",
+      "link": "http://pitcherlist.com/sp-roundup-4-14-25/"
     },
     {
       "title": "FINAL \u2013 Kings 5, Oilers 0 \u2013 Kempe, Anderson, Hiller - LA Kings Insider",
       "link": "https://lakingsinsider.com/2025/04/14/final-kings-5-oilers-0-kempe-anderson-hiller/"
     },
     {
+      "title": "Padres storm back on Cubs to remain perfect at home - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2025/04/14/padres-storm-back-on-cubs-to-remain-perfect-at-home/"
+    },
+    {
       "title": "Mets To Place Jose Siri On Injured List With Tibia Fracture - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/04/mets-to-place-jose-siri-on-injured-list-with-tibia-fracture.html"
     },
     {
-      "title": "WNBA Draft winners and losers: Wings hit big with Paige Bueckers, Sedona Prince surprisingly goes undrafted - CBS Sports",
-      "link": "https://www.cbssports.com/wnba/news/wnba-draft-winners-and-losers-wings-hit-big-with-paige-bueckers-sedona-prince-surprisingly-goes-undrafted/"
+      "title": "Don Hasselbeck, former Super Bowl champion, ex-Giant and father of two NFL QBs, dead at 70 - New York Post",
+      "link": "https://nypost.com/2025/04/15/sports/don-hasselbeck-former-super-bowl-champion-and-ex-giant-dead-at-70/"
     },
     {
-      "title": "Ex-New England Patriots tight end Don Hasselbeck has died according to son - MassLive",
-      "link": "https://www.masslive.com/patriots/2025/04/ex-new-england-patriots-tight-end-don-hasselbeck-has-died-according-to-son.html"
+      "title": "2025 WNBA Draft Recap: Fever Draft Timpson, Hall, Ejim - Indiana Fever",
+      "link": "https://fever.wnba.com/news/2025-wnba-draft-recap-fever-draft-timpson-hall-ejim"
     },
     {
       "title": "NBA Makes Ja Morant Announcement Before Warriors Game - Yahoo Sports",
       "link": "https://athlonsports.com/nba/memphis-grizzlies/nba-makes-ja-morant-announcement-before-warriors-game"
     },
     {
-      "title": "Michael Chandler breaks his silence after Paddy Pimblett defeat at UFC 314 with emotional message - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/04/14/michael-chandler-breaks-his-silence-after-paddy-pimblett-defeat-at-ufc-314-with-emotional-message/"
+      "title": "Kaboly Thinks Aaron Rodgers Could Be The \u2018Hang-up\u2019 In T.J. Watt Contract Negotiations - Steelers Depot",
+      "link": "https://steelersdepot.com/2025/04/kaboly-thinks-aaron-rodgers-could-be-the-hangup-in-t-j-watt-contract-negotiations/"
     },
     {
-      "title": "Sparks select Sarah Ashlee Barker with No. 9 pick - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/2025/4/14/24408571/sparks-2025-wnba-draft-sarah-ashlee-barker-alabama-first-round-pick"
+      "title": "Vance fumbles championship trophy during Ohio State football\u2019s White House visit - OregonLive.com",
+      "link": "https://www.oregonlive.com/collegefootball/2025/04/vance-fumbles-championship-trophy-during-ohio-state-footballs-white-house-visit.html"
+    },
+    {
+      "title": "Michael Chandler breaks his silence after Paddy Pimblett defeat at UFC 314 with emotional message - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/04/14/michael-chandler-breaks-his-silence-after-paddy-pimblett-defeat-at-ufc-314-with-emotional-message/"
     },
     {
       "title": "Who could become the next Phoenix Suns head coach? - Arizona Sports",
       "link": "https://arizonasports.com/nba/phoenix-suns/suns-coach-candidates/3580750/"
     },
     {
-      "title": "Rockies Place Kris Bryant On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/04/rockies-to-place-kris-bryant-on-injured-list.html"
+      "title": "Giants will have a private workout with Shedeur Sanders - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-will-have-a-private-workout-with-shedeur-sanders"
     },
     {
-      "title": "Sharks\u2019 Logan Couture set to announce end of his playing career - The Mercury News",
-      "link": "https://www.mercurynews.com/2025/04/14/sharks-logan-couture-set-to-announce-end-of-playing-career-per-report/"
-    },
-    {
-      "title": "The transfer QB North Carolina is trending for who's not named Nico Iamaleava - 247Sports",
-      "link": "https://247sports.com/article/unc-trends-for-qb-on-transfer-portal-crystal-ball-tar-heels-not-expected-to-pursue-tennessees-nico-iamaleava-248761992/"
-    },
-    {
-      "title": "How Russell Westbrook Styled Georgia Amoore for the 2025 WNBA Draft - Vogue",
-      "link": "https://www.vogue.com/slideshow/russell-westbrook-georgia-amoore-2025-wnba-draft"
+      "title": "17 prospects to attend 2025 NFL Draft in Green Bay - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/17-prospects-to-attend-2025-nfl-draft-in-green-bay"
     },
     {
       "title": "Steph Curry Congratulates Rory McIlroy on Masters Win With Four-Word Message - Sports Illustrated",
       "link": "https://www.si.com/golf/steph-curry-congratulates-rory-mcilroy-masters-win"
-    },
-    {
-      "title": "Josh Kroenke addresses relationship between Michael Malone, Calvin Booth that led Nuggets to fire both: \u2018Neither of them deserved it\u2019 - The Denver Post",
-      "link": "https://www.denverpost.com/2025/04/14/josh-kroenke-comments-michael-malone-calvin-booth-relationship/"
-    },
-    {
-      "title": "Mason Graham favored to go No. 5 overall in 2025 NFL draft - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-graham-favored-to-go-no-5-overall-in-2025-nfl-draft"
-    },
-    {
-      "title": "Patrick Peterson: I can still play, but don\u2019t want to - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-peterson-i-can-still-play-but-dont-want-to"
-    },
-    {
-      "title": "NBA regular-season grades for every West team: Warriors get 'A' despite landing in play-in, Suns and Mavs fail - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/nba-regular-season-grades-for-every-west-team-warriors-get-a-despite-landing-in-play-in-suns-and-mavs-fail/"
     }
   ],
   "weather": {
