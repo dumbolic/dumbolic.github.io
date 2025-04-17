@@ -1,9 +1,9 @@
 {
-  "quote": "Words have no power to impress the mind without the exquisite horror of their reality. \u2013 Edgar Allan Poe",
-  "fact": "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
-  "crypto": "BTC: $85,362 | ETH: $1,610.9",
+  "quote": "The quality, not the longevity, of one's life is what is important. \u2013 Martin Luther King, Jr.",
+  "fact": "Canada makes up 6.67 percent of the Earth`s land area",
+  "crypto": "BTC: $85,020 | ETH: $1,598.81",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the m&m go to school? Because it wanted to be a Smartie!",
+  "joke": "Why can't a bicycle stand on its own? It's two-tired.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple fixes two zero-days exploited in targeted iPhone attacks - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-exploited-in-targeted-iphone-attacks/"
+    },
+    {
+      "title": "How I Became Highly Educated Grist For The AI Mill - Defector",
+      "link": "https://defector.com/how-i-became-highly-educated-grist-for-the-ai-mill"
+    },
+    {
+      "title": "Tomorrow's Mario Kart World Direct Will Be Short - Kotaku",
+      "link": "https://kotaku.com/nintendo-switch-2-mario-kart-world-direct-length-time-1851776422"
+    },
+    {
+      "title": "RuneScape: Dragonwilds just got shadow-dropped on Steam in early access - Polygon",
+      "link": "https://www.polygon.com/news/559687/runescape-dragonwilds-steam-pc-shadow-drop-jagex"
+    },
+    {
+      "title": "Fallout 3 Remaster In The Works, But It's Not Arriving Anytime Soon - Report - GameSpot",
+      "link": "https://www.gamespot.com/articles/there-is-a-fallout-3-remaster-in-the-works-but-its-not-arriving-anytime-soon-report/1100-6530903/"
+    },
+    {
+      "title": "Silent Hill 2 developer Bloober shows off Cronos: The New Dawn's intriguing merge mechanics - Eurogamer",
+      "link": "https://www.eurogamer.net/silent-hill-2-developer-bloober-shows-off-cronos-the-new-dawns-intriguing-merge-mechanics"
+    },
+    {
       "title": "Anker\u2019s new UV printer can create fake wood and paint textures on various materials - The Verge",
       "link": "https://www.theverge.com/news/649760/anker-eufymake-uv-printer-e1-kickstarter"
     },
     {
-      "title": "China just shook up the race to the Moon, its scientists have detected a design flaw in NASA\u2019s reactor. - Farmingdale Observer",
-      "link": "https://farmingdale-observer.com/2025/04/16/china-just-shook-up-the-race-to-the-moon-its-scientists-have-detected-a-design-flaw-in-nasas-reactor/"
+      "title": "Google Wallet app adding real-time status to train tickets - 9to5Google",
+      "link": "http://9to5google.com/2025/04/16/google-wallet-train-status/"
+    },
+    {
+      "title": "Figma tells AI startup to stop using the term \u2018Dev Mode\u2019 - The Verge",
+      "link": "https://www.theverge.com/news/649851/figma-dev-mode-trademark-loveable-dispute"
     },
     {
       "title": "[Update: Optional] Google rolling out auto-restart security feature to Android - 9to5Google",
       "link": "http://9to5google.com/2025/04/16/android-auto-restart-security/"
     },
     {
+      "title": "Apple 'Vision Air' Headset Rumored to Feature Thinner, Lighter Design With 'Midnight' Finish - MacRumors",
+      "link": "https://www.macrumors.com/2025/04/16/apple-vision-air-rumored-with-new-design/"
+    },
+    {
       "title": "The Optimist\u2019s Case For Bungie\u2019s \u2018Marathon\u2019 - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/04/16/the-optimists-case-for-bungies-marathon/"
     },
     {
-      "title": "Ninja Gaiden: Ragebound shows the franchise still needs 2D games - Polygon",
-      "link": "https://www.polygon.com/impressions/558956/ninja-gaiden-ragebound-preview"
+      "title": "A first look at Microsoft\u2019s new Xbox Copilot - The Verge",
+      "link": "https://www.theverge.com/notepad-microsoft-newsletter/649665/microsoft-xbox-copilot-first-look-notepad"
     },
     {
       "title": "Doom: The Dark Ages Xbox Controllers and Wrap Are Up for Preorder - IGN",
@@ -40,130 +72,102 @@
       "link": "https://www.forbes.com/sites/paultassi/2025/04/16/blue-prince-is-obviously-goty-possibly-even-with-a-2025-gta-6/"
     },
     {
+      "title": "Samsung posts updated One UI 7 rollout schedule through July amid delay - 9to5Google",
+      "link": "http://9to5google.com/2025/04/16/samsung-updated-one-ui-7-rollout-schedule-through-july/"
+    },
+    {
       "title": "The Outer Worlds 2's Worlds Are Going Bigger \u2013 IGN First - IGN",
       "link": "https://www.ign.com/articles/the-outer-worlds-2s-worlds-are-going-bigger-ign-first"
     },
     {
+      "title": "Best Deals Today: Pok\u00e9mon 151 Booster Bundle, Surging Sparks, and Journey Together Restocks - IGN",
+      "link": "https://www.ign.com/articles/best-deals-today-pokmon-151-booster-bundle-surging-sparks-and-journey-together-restocks"
+    },
+    {
       "title": "Google may introduce an expressive new Material Design theme at I/O this May - Android Authority",
       "link": "https://www.androidauthority.com/material-design-expressive-google-io-3545058/"
-    },
-    {
-      "title": "Nintendo Confirms Duration For Tomorrow's Mario Kart World Direct - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/nintendo-confirms-duration-for-tomorrows-mario-kart-world-direct"
-    },
-    {
-      "title": "Apple Launches 2025 Earth Day Promotion With Discounted Accessories - MacRumors",
-      "link": "https://www.macrumors.com/2025/04/16/apple-earth-day-recycling-promotion/"
-    },
-    {
-      "title": "Nvidia\u2019s latest GPU drivers fix lots of bugs and crashes - The Verge",
-      "link": "https://www.theverge.com/news/649599/nvidia-driver-576-02-bug-fixes-crashes-download-game-ready"
-    },
-    {
-      "title": "iPhone Fold: New Leak Reveals Camera Setup on Outer Display - MacRumors",
-      "link": "https://www.macrumors.com/2025/04/16/iphone-fold-camera-setup-outer-display/"
-    },
-    {
-      "title": "\"It's good that we were still allowed to exist at all\" After the Oblivion remaster leak, Skyblivion project lead confirms the team will keep working and \"stay positive\" - VG247",
-      "link": "https://www.vg247.com/oblivion-remaster-leak-skyblivion-project-lead-stay-positive"
-    },
-    {
-      "title": "Neuroscience Says Music Is an 'Emotion Regulation Machine.' Here\u2019s What to Play for Happiness, Productivity, or Deep Thinking - Inc.com",
-      "link": "https://www.inc.com/jessica-stillman/the-best-music-for-happiness-productivity-studying/91173726"
-    },
-    {
-      "title": "Opera adds its Aria AI assistant to Opera Mini on Android - TechCrunch",
-      "link": "https://techcrunch.com/2025/04/16/opera-adds-its-aria-ai-assistant-to-opera-mini-browser/"
-    },
-    {
-      "title": "Apple: Since you care about yOuR pRiVaCy, we'll train our AI on made-up emails - theregister.com",
-      "link": "https://www.theregister.com/2025/04/16/apple_ai_training_privacy/"
-    },
-    {
-      "title": "I test ChatGPT for a living \u2014 5 prompts I wish I'd known about sooner - Tom's Guide",
-      "link": "https://www.tomsguide.com/ai/5-chatgpt-prompts-i-wish-id-known-about-sooner"
-    },
-    {
-      "title": "How To Open The Blue Door In Blue Prince - GameSpot",
-      "link": "https://www.gamespot.com/gallery/blue-prince-blue-door-tunnel-unlock/2900-6459/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Isaiah Bond sues his accuser - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isaiah-bond-sues-his-accuser"
+    },
+    {
+      "title": "NBA Intel: Pelicans, Suns, Kings, Nuggets, and 76ers front office and coaching changes - HoopsHype",
+      "link": "https://hoopshype.com/lists/nba-intel-pelicans-suns-kings-nuggets-and-76ers-front-office-and-coaching-changes/"
+    },
+    {
+      "title": "Another goal scored: Cleveland is getting a women's soccer team - News 5 Cleveland WEWS",
+      "link": "https://www.news5cleveland.com/Cleveland-is-getting-a-womens-soccer-team"
+    },
+    {
+      "title": "Urban Meyer chimes in on Nico Iamaleava: \"Tennessee is screwed\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/urban-meyer-chimes-in-on-nico-iamaleava-tennessee-is-screwed"
+    },
+    {
+      "title": "Bruins Announce Roster Transactions - NHL.com",
+      "link": "https://www.nhl.com/bruins/news/bruins-announce-roster-transactions-x7162"
+    },
+    {
+      "title": "Mets Getting Jeff McNeil Reps In Center Field - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/04/mets-rumors-jeff-mcneil-center-field.html"
+    },
+    {
+      "title": "Fran Brown says he wasn\u2019t willing to match Trebor Pena\u2019s asking price: \u2018You\u2019ve got to go\u2019 - Syracuse.com",
+      "link": "https://www.syracuse.com/orangefootball/2025/04/fran-brown-says-he-wasnt-willing-to-match-trebor-penas-asking-price-youve-got-to-go.html"
+    },
+    {
+      "title": "Projected Lineup: April 16 at Montreal | Carolina Hurricanes - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-april-16-at-montreal"
+    },
+    {
+      "title": "Giants G.M. Joe Schoen: Not mandatory for us to take a quarterback - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-g-m-joe-schoen-not-mandatory-for-us-to-take-a-quarterback"
+    },
+    {
+      "title": "5 storylines we\u2019re excited about at the Saudi Arabian GP - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2025-saudi.5dmXFbf4vRf8JNzVR6xACH"
+    },
+    {
+      "title": "Mailbag: Could the Ravens Draft a First Round Edge Rusher? - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-nfl-draft-first-round-edge-rusher-jack-jones"
+    },
+    {
+      "title": "Israeli hoops prospect Mayer commits to Purdue - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/44699861/touted-israeli-hoops-prospect-omer-mayer-commits-purdue"
+    },
+    {
+      "title": "Steph Curry, Warriors Open as Favorites vs. Rockets in 2025 NBA Playoff Betting Odds - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25184902-steph-curry-warriors-open-favorites-vs-rockets-2025-nba-playoff-betting-odds"
+    },
+    {
+      "title": "NASCAR Xfinity Series qualifying order for Rockingham Speedway - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/04/16/nascar-xfinity-series-qualifying-order-for-rockingham-speedway/"
+    },
+    {
+      "title": "St. John\u2019s lands top shooter Oziyah Sellers in Rick Pitino\u2019s bid to fix biggest weakness - New York Post",
+      "link": "https://nypost.com/2025/04/16/sports/st-johns-lands-top-shooter-oziyah-sellers-in-transfer-portal/"
+    },
+    {
+      "title": "Barring a sudden 'vault of cash' available, Utah football expects a 'quiet' transfer portal - KSL News",
+      "link": "https://www.ksl.com/article/51295797/barring-a-sudden-vault-of-cash-available-utah-football-expects-a-quiet-transfer-portal"
+    },
     {
       "title": "Seahawks 2025 full 7-round mock draft: In which Trader John shows up - Field Gulls",
       "link": "https://www.fieldgulls.com/2025/4/16/24408744/seattle-seahawks-2025-full-7-round-mock-draft-trader-john-schneider-shows-up"
     },
     {
-      "title": "John Harbaugh doubts there are \"enough hours in the day\" to play both ways on a full-time basis - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-doubts-there-are-enough-hours-in-the-day-to-play-both-ways-on-a-full-time-basis"
+      "title": "Final debate over NCAA settlement puts roster limits in spotlight - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/04/16/house-ncaa-settlement-roster-limits/"
     },
     {
       "title": "The Opener: Strider, Schmidt, Rockies - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/04/the-opener-strider-schmidt-rockies.html"
     },
     {
-      "title": "Gabon forward dies following fall from 11th floor of building - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/44698121/gabon-forward-dies-following-fall-11th-floor-building"
-    },
-    {
-      "title": "Stanley Cup Playoffs Buzz: Canadiens have another chance to clinch berth - NHL.com",
-      "link": "https://www.nhl.com/news/stanley-cup-playoffs-buzz-news-and-notes-april-16-2025"
-    },
-    {
-      "title": "Defenseman Kris Letang Undergoes Successful Surgery - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/defenseman-kris-letang-undergoes-successful-surgery"
-    },
-    {
-      "title": "Ex-Marlins GM Ng hired as AUSL commissioner - ESPN",
-      "link": "https://www.espn.com/espn/story/_/id/44696584/ex-marlins-gm-kim-ng-run-ausl-commissioner"
-    },
-    {
-      "title": "Bucky Brooks' top five 2025 NFL Draft prospects by position 3.0: Travis Hunter ranks No. 1 at WR and CB - NFL.com",
-      "link": "https://www.nfl.com/news/bucky-brooks-top-five-2025-nfl-draft-prospects-by-position-3-0-travis-hunter-ranks-no-1-at-wr-and-cb"
-    },
-    {
-      "title": "'Dumbest thing I've ever heard': Warriors' Kerr blasts Trump attack on Harvard after win - SFGATE",
-      "link": "https://www.sfgate.com/warriors/article/warriors-steve-kerr-blasts-trump-attack-harvard-20278355.php"
-    },
-    {
-      "title": "WPSL Pro launching as 2nd-tier women's league - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/44691581/wpsl-pro-launching-second-tier-womens-league"
-    },
-    {
-      "title": "Dane Brugler 7-round mock draft: Making QB Jalen Milroe a New York Giant - Big Blue View",
-      "link": "https://www.bigblueview.com/2025/4/16/24409635/dane-brugler-7-round-mock-draft-making-qb-jalen-milroe-a-new-york-giant"
-    },
-    {
-      "title": "ESPN: Nico Iamaleava has 'zero market' after Tennessee split, entering transfer portal - On3.com",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-vols-football-nico-iamaleava-transfer-portal-espn-no-market/"
-    },
-    {
-      "title": "2025 MLB draft rankings: There's a new No. 1 atop our midseason update - ESPN",
-      "link": "https://www.espn.com/mlb/insider/story/_/id/44669785/mlb-draft-2025-rankings-update-top-midseason-ncaa-college-high-school-baseball"
-    },
-    {
-      "title": "No. 5 pick will send message about who the Jaguars \"are going to be moving forward\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-5-pick-will-send-message-about-who-the-jaguars-are-going-to-be-moving-forward"
-    },
-    {
-      "title": "Five things to watch out for at the Saudi Arabian GP - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-saudi-arabian-gp/10713846/"
-    },
-    {
-      "title": "How Warriors Play-in Win over Grizzlies Changes the 2025 NBA Playoff Picture - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25184787-how-warriors-play-win-over-grizzlies-changes-2025-nba-playoff-picture"
-    },
-    {
-      "title": "National mock drafts have Browns targeting one player with No. 2 pick - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/04/browns-mock-drafts-converge-on-travis-hunter-at-no-2-pick.html"
-    },
-    {
-      "title": "NFL Draft Expert Predicts Nine Patriots Picks In Newest Mock - NESN",
-      "link": "https://nesn.com/2025/04/nfl-mock-draft-expert-predicts-nine-patriots-picks-2/"
-    },
-    {
-      "title": "NBA Playoff Picture 2025 for East, West Bracket After Magic, Warriors Advance - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25184739-nba-playoff-picture-2025-east-west-bracket-after-magic-warriors-advance"
+      "title": "Shedeur Sanders: Experience handling pressure is the edge I have over any other player - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-experience-handling-pressure-is-the-edge-i-have-over-any-other-player"
     }
   ],
   "weather": {
