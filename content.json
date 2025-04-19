@@ -1,9 +1,9 @@
 {
-  "quote": "In peace, sons bury their fathers. In war, fathers bury their sons.  \u2013 Herodotus",
-  "fact": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-  "crypto": "BTC: $85,197 | ETH: $1,614.01",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
+  "quote": "It's not what we do once in a while that shapes our lives, but what we do consistently. \u2013 Tony Robbins",
+  "fact": "The name of all continents in the world end with the same letter that they start with.",
+  "crypto": "BTC: $85,276 | ETH: $1,617.29",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Is there a hole in your shoe? No\u2026 Then how\u2019d you get your foot in it?",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,36 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "ChatGPT is referring to users by their names unprompted, and some find it \u2018creepy\u2019 - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/18/chatgpt-is-referring-to-users-by-their-names-unprompted-and-some-find-it-creepy/"
+    },
+    {
+      "title": "Blue Prince has over 25% of Steam players losing all their free time to it - Polygon",
+      "link": "https://www.polygon.com/news/561251/blue-prince-steam-data-hours"
+    },
+    {
+      "title": "Mandragora's Dark Fantasy World Offers A Lengthy Campaign With Tons Of Secrets - Kotaku",
+      "link": "https://kotaku.com/mandragora-soulslike-how-long-to-beat-new-game-plus-1851776837"
+    },
+    {
       "title": "Microsoft's Copilot Vision is now free for all Edge users - here's how it works - ZDNet",
       "link": "https://www.zdnet.com/article/microsofts-copilot-vision-is-now-free-for-all-edge-users-heres-how-it-works/"
     },
     {
-      "title": "The Ultimate Nintendo Switch 2 Q&A: We answer more than 90 of your Switch 2 questions - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/features/the-ultimate-nintendo-switch-2-qa-we-answer-more-than-90-of-your-switch-2-questions/"
+      "title": "Your Windows 10 PC isn't dead yet - this OS from Google can revive it - ZDNET",
+      "link": "https://www.zdnet.com/article/your-windows-10-pc-isnt-dead-yet-this-os-from-google-can-revive-it/"
     },
     {
-      "title": "Apple One could add a new service in iOS 19, here\u2019s what\u2019s coming - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/18/apple-one-could-add-a-new-service-in-ios-19-heres-whats-coming/"
+      "title": "Rune Factory: Guardians Of Azuma Switch 2 Cart Will Apparently Also Work On Switch 1 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/04/rune-factory-guardians-of-azuma-switch-2-cart-will-apparently-also-work-on-switch-1"
+    },
+    {
+      "title": "Battlestate Games Intends to Release Tarkov 1.0 This Year - Insider Gaming",
+      "link": "https://insider-gaming.com/battlestate-games-tarkov-1-0-release-in-2025/"
     },
     {
       "title": "Massive Best Buy weekend sale is live from $7 \u2014 here's 27 deals I'd shop on Apple, Lego, OLED TVs and more - Tom's Guide",
       "link": "https://www.tomsguide.com/sales-events/massive-best-buy-weekend-sale-is-live-from-usd7-heres-25-deals-id-shop-on-apple-lego-oled-tvs-and-more"
     },
     {
+      "title": "The Apple Watch Series 10 Drops to the Lowest Price Ever on Amazon for a Limited Time - IGN",
+      "link": "https://www.ign.com/articles/apple-watch-10-deal-2025"
+    },
+    {
+      "title": "Lunar Remastered Collection Is Available Now And Exclusive To Amazon - GameSpot",
+      "link": "https://www.gamespot.com/articles/lunar-remastered-collection-is-available-now-and-exclusive-to-amazon/1100-6528818/"
+    },
+    {
       "title": "Kingdom Hearts Fans Are Feasting On Crumbs After Disney Referenced The Series In A Small Way - Kotaku",
       "link": "https://kotaku.com/kingdom-hearts-4-goofy-movie-max-lofi-youtube-video-1851776776"
     },
     {
-      "title": "Popular Steam Game Lowers DLC Price Due To Everything Else Getting More Expensive - Kotaku",
-      "link": "https://kotaku.com/everspace-2-wrath-of-the-ancients-expansion-price-lower-1851776712"
-    },
-    {
       "title": "Nintendo Maintains Nintendo Switch 2 Pricing, Retail Pre-Orders to Begin April 24 in U.S. - News - Nintendo Official Site - Nintendo",
       "link": "https://www.nintendo.com/us/whatsnew/nintendo-maintains-nintendo-switch-2-pricing-retail-pre-orders-to-begin-april-24-in-u-s/"
-    },
-    {
-      "title": "Google is preparing to make Android Settings a bit more colorful - Android Authority",
-      "link": "https://www.androidauthority.com/android-settings-homepage-icon-colors-3545863/"
     },
     {
       "title": "Sunderfolk review: RPG magic that transports your friends together - Ars Technica",
@@ -52,8 +68,16 @@
       "link": "http://9to5google.com/2025/04/18/android-16-beta-pixel-battery-health/"
     },
     {
+      "title": "Is This Unassuming Yeti Release Destined to Become the Brand\u2019s Next All-Time Classic? - Gear Patrol",
+      "link": "https://www.gearpatrol.com/food/yeti-rambler-bowls/"
+    },
+    {
       "title": "MicroSD Express Cards Are Selling Out Thanks To Switch 2 Fever - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/04/microsd-express-cards-are-selling-out-thanks-to-switch-2-fever"
+    },
+    {
+      "title": "Google\u2019s 4K Streamer Just Got Its First Price Cut, and It\u2019s Almost Too Low to Believe - Gizmodo",
+      "link": "https://gizmodo.com/googles-4k-streamer-just-got-its-first-price-cut-and-its-almost-too-low-to-believe-2000591006"
     },
     {
       "title": "As layoffs continue to scar the video game industry, Indiana Jones and the Great Circle proves the value of keeping dev teams together for decades - Eurogamer",
@@ -66,36 +90,32 @@
     {
       "title": "31 Lucky Ducks Who Won Big Contests And Giveaways Are Revealing All The Juicy Details Of Their Prizes - BuzzFeed",
       "link": "https://www.buzzfeed.com/hannahdobro/contest-winners-reveal-what-they-really-won"
-    },
-    {
-      "title": "Uh Oh, It Looks Like Select Switch 2 Games Won't Support Cloud Saves - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/uh-oh-it-looks-like-select-switch-2-games-wont-support-cloud-saves"
-    },
-    {
-      "title": "iOS 18.4.1 iPhone Update: Apple Urges Installation For All Users - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/04/18/ios-1841-apple-releases-urgent-iphone-update-recommended-for-all-users-iphone-16-pro-max/"
-    },
-    {
-      "title": "Microsoft still has a massive Windows 10 problem - and there's no easy way out - ZDNET",
-      "link": "https://www.zdnet.com/article/microsoft-still-has-a-massive-windows-10-problem-and-theres-no-easy-way-out/"
-    },
-    {
-      "title": "Star Wars Outlaws Switch 2 release date confirmed, A Pirate\u2019s Fortune DLC trailer revealed - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/star-wars-outlaws-switch-2-release-date-confirmed-a-pirates-fortune-dlc-trailer-revealed/"
-    },
-    {
-      "title": "GeForce RTX GPUs gain up to 3-8% synthetic performance with latest 576.02 graphics drivers - VideoCardz.com",
-      "link": "https://videocardz.com/newz/geforce-rtx-gpus-gain-up-to-3-8-synthetic-performance-with-latest-572-02-graphics-drivers"
-    },
-    {
-      "title": "With Elena's release date, Street Fighter 6's competition and content updates are now out of sync and disconnected - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/apr/17/street-fighter-elena-disconnect/"
     }
   ],
   "sports_news": [
     {
-      "title": "FP2: Norris fastest as Tsunoda brings out the red flags - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp2-norris-tops-the-times-during-second-practice-in-saudi-arabia-as-tsunoda.3PosFmkV2ApxUuHDXoGRL8"
+      "title": "Source: Popovich out of hospital after incident - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/44735476/source-spurs-gregg-popovich-home-hospital-incident"
+    },
+    {
+      "title": "LAFC Head Coach Steve Cherundolo To Step Down At End Of Season - Los Angeles Football Club",
+      "link": "https://www.lafc.com/volunteer-corps/news/lafc-head-coach-steve-cherundolo-to-step-down-at-end-of-season"
+    },
+    {
+      "title": "Former champion Julio Cesar Chavez Jr. is the right opponent for Jake Paul - ESPN",
+      "link": "https://www.espn.com/boxing/story/_/id/44731489/julio-cesar-chavez-jr-right-boxing-opponent-jake-paul"
+    },
+    {
+      "title": "Mariners Select Casey Lawrence - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/04/mariners-select-casey-lawrence.html"
+    },
+    {
+      "title": "Aaron Rodgers shouldn\u2019t have been surprised to hear Jets were moving on - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-shouldnt-have-been-surprised-to-hear-jets-were-moving-on"
+    },
+    {
+      "title": "F1 Saudi Arabian GP: FP2 red-flagged for Yuki Tsunoda crash, Lando Norris on top - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/f1-saudi-arabian-gp-fp2/10714670/"
     },
     {
       "title": "Daniel Jeremiah gives Big Blue View perfect 3-round draft haul for New York Giants - Big Blue View",
@@ -106,72 +126,52 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-defends-decision-to-retire-shedeur-sanders-travis-hunter-numbers"
     },
     {
+      "title": "'Remco slowly killed me' - Wout van Aert left questioning his sprint after Evenepoel beats him to win De Brabantse Pijl - Cyclingnews",
+      "link": "https://www.cyclingnews.com/news/remco-slowly-killed-me-wout-van-aert-left-questioning-his-sprint-after-evenepoel-beats-him-to-win-de-brabantse-pijl/"
+    },
+    {
+      "title": "Jaxson Dart, Mykel Williams are off the list of expected draft attendees - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-mykel-williams-no-longer-on-list-of-draft-attendees"
+    },
+    {
       "title": "Amen Thompson Primed to Soar As Houston Launches NBA Title Chase - Sports Illustrated",
       "link": "https://www.si.com/nba/amen-thompson-primed-to-soar-as-houston-launches-nba-title-chase"
     },
     {
-      "title": "Chisholm ejected over K, continues criticism on social media - MLB.com",
-      "link": "https://www.mlb.com/news/jazz-chisholm-jr-ejected-issues-social-media-message"
+      "title": "One Edge Rusher in Every Round That the Ravens Could Draft - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-nfl-draft-edge-rusher-every-round-donovan-ezeiruaku"
     },
     {
-      "title": "As it happened: Brabantse Pijl Men decided by two-up sprint between Evenepoel and Van Aert - Cyclingnews",
-      "link": "https://www.cyclingnews.com/races/de-brabantse-pijl-2025/elite-men/live-report/"
+      "title": "ESPN Believes Chicago Bears Are Team To Watch For 1st Round Trade - Sports Mockery",
+      "link": "https://www.sportsmockery.com/chicago-bears/espn-believes-chicago-bears-are-team-to-watch-for-draft-day-trade/"
     },
     {
-      "title": "Paul to fight ex-world champion Chavez Jr in June - Yahoo",
-      "link": "https://www.bbc.com/sport/boxing/articles/cjewkd07gvxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
-    },
-    {
-      "title": "Ashton Jeanty sees a \"running back renaissance\" going on in the NFL - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-sees-a-running-back-renaissance-going-on"
+      "title": "Livvy Dunne retires from gymnastics after heartbreaking end to LSU\u2019s season - New York Post",
+      "link": "https://nypost.com/2025/04/18/sports/livvy-dunne-retires-from-gymnastics-after-end-of-lsus-season/"
     },
     {
       "title": "Tracking Tennessee\u2019s possible QB options in the transfer portal - 247Sports",
       "link": "https://247sports.com/college/tennessee/longformarticle/tennessee-vols-football-transfer-portal-tracker-possible-qb-options-248939718/"
     },
     {
-      "title": "Transfer portal intel: The latest on top available college football players after Day 2 of spring window - 247Sports",
-      "link": "https://247sports.com/article/transfer-portal-intel-the-latest-on-top-available-college-football-players-after-day-2-of-spring-window-248939361/"
+      "title": "Steelers should move on from Aaron Rodgers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-should-move-on-from-aaron-rodgers"
+    },
+    {
+      "title": "Brian Windhorst Warns About 'Incomplete' Lakers Going Up Against Timberwolves - Sports Illustrated",
+      "link": "https://www.si.com/nba/brian-windhorst-warns-about-incomplete-lakers-going-up-against-timberwolves"
+    },
+    {
+      "title": "Red Sox Won\u2019t Soon Promote Roman Anthony, Despite Torrid Stretch - NESN",
+      "link": "https://nesn.com/2025/04/red-sox-wont-soon-promote-roman-anthony-despite-torrid-stretch/"
+    },
+    {
+      "title": "NFL's smallest market prepares to host league's top offseason spectacle as draft comes to Green Bay - AP News",
+      "link": "https://apnews.com/article/nfl-draft-lambeau-field-green-bay-d524d9ccedb6b509569bdba209105561"
     },
     {
       "title": "Chargers G.M. Joe Hortiz: We don\u2019t feel pressure to address any position in draft - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-g-m-joe-hortiz-we-dont-feel-pressure-to-address-any-position-in-draft"
-    },
-    {
-      "title": "Miller family buys RSL, Royals as Smith Entertainment Group exits - KSL News",
-      "link": "https://www.ksl.com/article/51297183/miller-family-buys-rsl-royals-as-smith-entertainment-group-exits"
-    },
-    {
-      "title": "Chiefs\u2019 Brett Veach says it\u2019s hard to trade back in the NFL Draft - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/2025/4/18/24410995/chiefs-draft-brett-veach-says-its-hard-to-trade-back"
-    },
-    {
-      "title": "2025 NFL Draft preview: Great DT depth could help Detroit Lions - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/4/18/24410392/2025-nfl-draft-preview-great-dt-depth-could-help-detroit-lions"
-    },
-    {
-      "title": "Thoughts on a 5-3 Rangers win - Lone Star Ball",
-      "link": "https://www.lonestarball.com/2025/4/18/24410973/thoughts-on-a-5-3-rangers-win"
-    },
-    {
-      "title": "NFL Analyst Proposes Major Draft Day Trade For Patriots - NESN",
-      "link": "https://nesn.com/2025/04/nfl-analyst-proposes-major-draft-day-trade-for-patriots/"
-    },
-    {
-      "title": "NFL mock draft 2025: Giants end up taking Shedeur Sanders at No. 3 as three QBs are selected in Round 1 - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/draft/news/nfl-mock-draft-2025-giants-end-up-taking-shedeur-sanders-at-no-3-as-three-qbs-are-selected-in-round-1/"
-    },
-    {
-      "title": "NBA playoff predictions: Ranking the Top 15 players for the 2025 postseason - HoopsHype",
-      "link": "https://hoopshype.com/lists/nba-playoff-predictions-ranking-the-top-15-players-for-the-2025-postseason/"
-    },
-    {
-      "title": "Seahawks 7-round mock draft: A drafted QB(!), a trade, a folk-hero RB, and a D-II surprise - Tacoma News Tribune",
-      "link": "https://www.thenewstribune.com/sports/nfl/seattle-seahawks/article304399066.html"
-    },
-    {
-      "title": "VIDEO: Addressing the Jameson Williams trade discourse - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/4/18/24410207/video-detroit-lions-jameson-williams-wide-receiver-discourse"
     }
   ],
   "weather": {
