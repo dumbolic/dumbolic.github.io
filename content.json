@@ -1,9 +1,9 @@
 {
-  "quote": "Facts are the enemy of truth.  \u2013 Miguel de Cervantes",
-  "fact": "Because of the rotation of the earth, an object can be thrown farther if it is thrown west.",
-  "crypto": "BTC: $85,257 | ETH: $1,619.45",
+  "quote": "A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. \u2013 Criss Jami",
+  "fact": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
+  "crypto": "BTC: $85,139 | ETH: $1,616.24",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Can February march? No, but April may.",
+  "joke": "How many apples grow on a tree? All of them!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ZionValley_EN-US2520458606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Microsoft's Copilot Vision is now free for all Edge users - here's how it works - ZDNet",
+      "link": "https://www.zdnet.com/article/microsofts-copilot-vision-is-now-free-for-all-edge-users-heres-how-it-works/"
+    },
+    {
+      "title": "The Ultimate Nintendo Switch 2 Q&A: We answer more than 90 of your Switch 2 questions - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/features/the-ultimate-nintendo-switch-2-qa-we-answer-more-than-90-of-your-switch-2-questions/"
+    },
+    {
+      "title": "Apple One could add a new service in iOS 19, here\u2019s what\u2019s coming - 9to5Mac",
+      "link": "https://9to5mac.com/2025/04/18/apple-one-could-add-a-new-service-in-ios-19-heres-whats-coming/"
+    },
     {
       "title": "Massive Best Buy weekend sale is live from $7 \u2014 here's 27 deals I'd shop on Apple, Lego, OLED TVs and more - Tom's Guide",
       "link": "https://www.tomsguide.com/sales-events/massive-best-buy-weekend-sale-is-live-from-usd7-heres-25-deals-id-shop-on-apple-lego-oled-tvs-and-more"
@@ -36,16 +48,12 @@
       "link": "https://arstechnica.com/gaming/2025/04/sunderfolk-review-rpg-magic-that-transports-your-friends-together/"
     },
     {
-      "title": "Is This Unassuming Yeti Release Destined to Become the Brand\u2019s Next All-Time Classic? - Gear Patrol",
-      "link": "https://www.gearpatrol.com/food/yeti-rambler-bowls/"
+      "title": "Android 16 Beta 4: How to bring back Pixel Battery health [U] - 9to5Google",
+      "link": "http://9to5google.com/2025/04/18/android-16-beta-pixel-battery-health/"
     },
     {
       "title": "MicroSD Express Cards Are Selling Out Thanks To Switch 2 Fever - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/04/microsd-express-cards-are-selling-out-thanks-to-switch-2-fever"
-    },
-    {
-      "title": "Google\u2019s 4K Streamer Just Got Its First Price Cut, and It\u2019s Almost Too Low to Believe - Gizmodo",
-      "link": "https://gizmodo.com/googles-4k-streamer-just-got-its-first-price-cut-and-its-almost-too-low-to-believe-2000591006"
     },
     {
       "title": "As layoffs continue to scar the video game industry, Indiana Jones and the Great Circle proves the value of keeping dev teams together for decades - Eurogamer",
@@ -72,58 +80,78 @@
       "link": "https://www.zdnet.com/article/microsoft-still-has-a-massive-windows-10-problem-and-theres-no-easy-way-out/"
     },
     {
+      "title": "Star Wars Outlaws Switch 2 release date confirmed, A Pirate\u2019s Fortune DLC trailer revealed - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/star-wars-outlaws-switch-2-release-date-confirmed-a-pirates-fortune-dlc-trailer-revealed/"
+    },
+    {
       "title": "GeForce RTX GPUs gain up to 3-8% synthetic performance with latest 576.02 graphics drivers - VideoCardz.com",
       "link": "https://videocardz.com/newz/geforce-rtx-gpus-gain-up-to-3-8-synthetic-performance-with-latest-572-02-graphics-drivers"
     },
     {
       "title": "With Elena's release date, Street Fighter 6's competition and content updates are now out of sync and disconnected - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/apr/17/street-fighter-elena-disconnect/"
-    },
-    {
-      "title": "Here\u2019s the first live demo of Android XR on Google\u2019s prototype smart glasses [Video] - 9to5Google",
-      "link": "http://9to5google.com/2025/04/17/google-android-xr-smart-glasses-live-demo/"
-    },
-    {
-      "title": "World's First Foldable E-Reader Tablet Opens And Closes Like A Real Book - Yanko Design",
-      "link": "https://www.yankodesign.com/2025/04/17/worlds-first-foldable-e-reader-tablet-opens-and-closes-like-a-real-book/"
-    },
-    {
-      "title": "Android 16 Beta 4: Some AOD clocks get Dynamic Color - 9to5Google",
-      "link": "http://9to5google.com/2025/04/17/android-16-aod-clocks-color/"
     }
   ],
   "sports_news": [
+    {
+      "title": "FP2: Norris fastest as Tsunoda brings out the red flags - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/fp2-norris-tops-the-times-during-second-practice-in-saudi-arabia-as-tsunoda.3PosFmkV2ApxUuHDXoGRL8"
+    },
+    {
+      "title": "Daniel Jeremiah gives Big Blue View perfect 3-round draft haul for New York Giants - Big Blue View",
+      "link": "https://www.bigblueview.com/2025/4/18/24411337/daniel-jeremiah-perfect-3-round-draft-haul-for-new-york-giants-abdul-carter-jaxson-dart"
+    },
+    {
+      "title": "Deion Sanders defends decision to retire Shedeur Sanders, Travis Hunter numbers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-defends-decision-to-retire-shedeur-sanders-travis-hunter-numbers"
+    },
+    {
+      "title": "Amen Thompson Primed to Soar As Houston Launches NBA Title Chase - Sports Illustrated",
+      "link": "https://www.si.com/nba/amen-thompson-primed-to-soar-as-houston-launches-nba-title-chase"
+    },
+    {
+      "title": "Chisholm ejected over K, continues criticism on social media - MLB.com",
+      "link": "https://www.mlb.com/news/jazz-chisholm-jr-ejected-issues-social-media-message"
+    },
     {
       "title": "As it happened: Brabantse Pijl Men decided by two-up sprint between Evenepoel and Van Aert - Cyclingnews",
       "link": "https://www.cyclingnews.com/races/de-brabantse-pijl-2025/elite-men/live-report/"
     },
     {
-      "title": "Jake Paul vs. Julio Cesar Chavez Jr. Fight Set for June 28 After Win vs. Mike Tyson - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25187838-jake-paul-vs-julio-cesar-chavez-jr-fight-set-june-28-after-win-vs-mike-tyson"
+      "title": "Paul to fight ex-world champion Chavez Jr in June - Yahoo",
+      "link": "https://www.bbc.com/sport/boxing/articles/cjewkd07gvxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
     },
     {
-      "title": "Livvy Dunne retires from gymnastics after heartbreaking end to LSU\u2019s season - New York Post",
-      "link": "https://nypost.com/2025/04/18/sports/livvy-dunne-retires-from-gymnastics-after-end-of-lsus-season/"
+      "title": "Ashton Jeanty sees a \"running back renaissance\" going on in the NFL - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-sees-a-running-back-renaissance-going-on"
     },
     {
-      "title": "FP1: Gasly sets the pace from Norris and Leclerc during first practice in Saudi Arabia - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp1-gasly-sets-the-pace-from-norris-and-leclerc-during-first-practice-in.4zrPQ3oeRw89AchYOPyPqX"
-    },
-    {
-      "title": "Steelers should move on from Aaron Rodgers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-should-move-on-from-aaron-rodgers"
+      "title": "Tracking Tennessee\u2019s possible QB options in the transfer portal - 247Sports",
+      "link": "https://247sports.com/college/tennessee/longformarticle/tennessee-vols-football-transfer-portal-tracker-possible-qb-options-248939718/"
     },
     {
       "title": "Transfer portal intel: The latest on top available college football players after Day 2 of spring window - 247Sports",
       "link": "https://247sports.com/article/transfer-portal-intel-the-latest-on-top-available-college-football-players-after-day-2-of-spring-window-248939361/"
     },
     {
-      "title": "Trebor Pena visiting College Football Playoff semifinalist (report) - Syracuse.com",
-      "link": "https://www.syracuse.com/orangefootball/2025/04/trebor-pena-visiting-college-football-playoff-semifinalist-report.html"
+      "title": "Chargers G.M. Joe Hortiz: We don\u2019t feel pressure to address any position in draft - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-g-m-joe-hortiz-we-dont-feel-pressure-to-address-any-position-in-draft"
     },
     {
-      "title": "The six most likely Eagles first-round picks - PhillyVoice",
-      "link": "https://www.phillyvoice.com/five-most-likely-eagles-first-round-picks/"
+      "title": "Miller family buys RSL, Royals as Smith Entertainment Group exits - KSL News",
+      "link": "https://www.ksl.com/article/51297183/miller-family-buys-rsl-royals-as-smith-entertainment-group-exits"
+    },
+    {
+      "title": "Chiefs\u2019 Brett Veach says it\u2019s hard to trade back in the NFL Draft - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/2025/4/18/24410995/chiefs-draft-brett-veach-says-its-hard-to-trade-back"
+    },
+    {
+      "title": "2025 NFL Draft preview: Great DT depth could help Detroit Lions - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/4/18/24410392/2025-nfl-draft-preview-great-dt-depth-could-help-detroit-lions"
+    },
+    {
+      "title": "Thoughts on a 5-3 Rangers win - Lone Star Ball",
+      "link": "https://www.lonestarball.com/2025/4/18/24410973/thoughts-on-a-5-3-rangers-win"
     },
     {
       "title": "NFL Analyst Proposes Major Draft Day Trade For Patriots - NESN",
@@ -134,44 +162,16 @@
       "link": "https://www.cbssports.com/nfl/draft/news/nfl-mock-draft-2025-giants-end-up-taking-shedeur-sanders-at-no-3-as-three-qbs-are-selected-in-round-1/"
     },
     {
-      "title": "Ruben Amorim takes 'inspiration' from treble-winning season for Lyon comeback win, \u2018it\u2019s never\u2026\u2019 - United In Focus",
-      "link": "https://www.unitedinfocus.com/news/ruben-amorim-takes-inspiration-from-treble-winning-season-for-lyon-comeback-win-its-never/"
+      "title": "NBA playoff predictions: Ranking the Top 15 players for the 2025 postseason - HoopsHype",
+      "link": "https://hoopshype.com/lists/nba-playoff-predictions-ranking-the-top-15-players-for-the-2025-postseason/"
     },
     {
-      "title": "Lions G.M. Brad Holmes: You can get in trouble chasing needs in the draft - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-g-m-brad-holmes-you-can-get-in-trouble-chasing-needs-in-the-draft"
+      "title": "Seahawks 7-round mock draft: A drafted QB(!), a trade, a folk-hero RB, and a D-II surprise - Tacoma News Tribune",
+      "link": "https://www.thenewstribune.com/sports/nfl/seattle-seahawks/article304399066.html"
     },
     {
-      "title": "Max Verstappen dismisses concerns over possible Red Bull exit after turbulent start to season - CNN",
-      "link": "https://www.cnn.com/2025/04/18/sport/max-verstappen-red-bull-exit-spt-intl/index.html"
-    },
-    {
-      "title": "The NHL Stanley Cup Playoffs begin Saturday. Here's what to watch for - NPR",
-      "link": "https://www.npr.org/2025/04/18/nx-s1-5368546/nhl-stanley-cup-playoffs-preview"
-    },
-    {
-      "title": "Broncos think the strength of the 2025 NFL draft is in the late first and middle rounds - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-think-the-strength-of-the-2025-nfl-draft-is-in-the-late-first-and-middle-rounds"
-    },
-    {
-      "title": "Ray Fittipaldo's final 7-round Steelers mock NFL draft: Time for a sizable investment - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/04/18/nfl-draft-steelers-omar-khan-mike-tomlin-derrick-harmon/stories/202504180005"
-    },
-    {
-      "title": "Yankees' Jazz Chisholm ejected for arguing strikeout call, blasts umpire on social media minutes later - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/yankees-jazz-chisholm-ejected-for-arguing-strikeout-call-blasts-umpire-on-social-media-minutes-later/"
-    },
-    {
-      "title": "Semifinals recap: Oklahoma, Missouri, Utah, and UCLA advance, individual champions crowned | 2025 NCAA Women's Gymnastics Championships - Gymnastics Now",
-      "link": "https://gymnastics-now.com/live-updates-semifinals-individual-finals-at-2025-ncaa-womens-gymnastics-championships/"
-    },
-    {
-      "title": "NCAA gymnastics championships results: Jordan Chiles, UCLA advance to final - USA Today",
-      "link": "https://www.usatoday.com/story/sports/college/2025/04/17/ncaa-gymnastics-championships-2025-live-updates-results/83139146007/"
-    },
-    {
-      "title": "No. 1 Gymnastics Falls in NCAA Semifinal; Chio Wins 2025 NCAA Vault Championship - lsusports.net",
-      "link": "https://lsusports.net/news/2025/04/17/no-1-gymnastics-falls-in-ncaa-semifinal-chio-wins-2025-ncaa-vault-championship/"
+      "title": "VIDEO: Addressing the Jameson Williams trade discourse - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/4/18/24410207/video-detroit-lions-jameson-williams-wide-receiver-discourse"
     }
   ],
   "weather": {
