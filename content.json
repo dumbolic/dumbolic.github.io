@@ -1,9 +1,9 @@
 {
-  "quote": "Life can only be understood backwards; but it must be lived forwards. \u2013 Soren Kierkegaard",
-  "fact": "\"Underground\" is the only word in the English language that begins and ends with the letters \"und\"",
-  "crypto": "BTC: $85,259 | ETH: $1,616.59",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
+  "quote": "I am always doing what I cannot do yet, in order to learn how to do it. \u2013 Vincent van Gogh",
+  "fact": "`Obsession` is the most popular boat name.",
+  "crypto": "BTC: $85,233 | ETH: $1,615.5",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "They're making a movie about clocks. It's about time",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ZionValley_EN-US2520458606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "GameStop, Target, and Walmart announce when their Switch 2 preorders start - The Verge",
+      "link": "https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time"
+    },
     {
       "title": "The Gigabyte GeForce RTX 5070 Graphics Card Is in Stock at MSRP for Amazon Prime Members - IGN",
       "link": "https://www.ign.com/articles/nvidia-geforce-rtx-5070-graphics-card-is-in-stock-at-msrp-on-amazon"
@@ -26,6 +30,10 @@
     {
       "title": "Microsoft researchers create super\u2011efficient AI that uses up to 96% less energy - Ars Technica",
       "link": "https://arstechnica.com/ai/2025/04/microsoft-researchers-create-super%e2%80%91efficient-ai-that-uses-up-to-96-less-energy/"
+    },
+    {
+      "title": "We tried the ChatGPT 'reverse location search' trend, and it's scary - Mashable",
+      "link": "https://mashable.com/article/chatgpt-reverse-location-search-privacy-concerns"
     },
     {
       "title": "Synology confirms that higher-end NAS products will require its branded drives - Ars Technica",
@@ -44,24 +52,12 @@
       "link": "https://kotaku.com/mandragora-soulslike-how-long-to-beat-new-game-plus-1851776837"
     },
     {
-      "title": "Your Windows 10 PC isn't dead yet - this OS from Google can revive it - ZDNET",
-      "link": "https://www.zdnet.com/article/your-windows-10-pc-isnt-dead-yet-this-os-from-google-can-revive-it/"
-    },
-    {
       "title": "That Google email look real? Don't click - it might be scam. Here's how to tell - ZDNet",
       "link": "https://www.zdnet.com/article/that-google-email-look-real-dont-click-it-might-be-scam-heres-how-to-tell/"
     },
     {
-      "title": "Rune Factory: Guardians Of Azuma Switch 2 Cart Will Apparently Also Work On Switch 1 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/rune-factory-guardians-of-azuma-switch-2-cart-will-apparently-also-work-on-switch-1"
-    },
-    {
       "title": "Battlestate Games Intends to Release Tarkov 1.0 This Year - Insider Gaming",
       "link": "https://insider-gaming.com/battlestate-games-tarkov-1-0-release-in-2025/"
-    },
-    {
-      "title": "Apple One could add a new service in iOS 19, here\u2019s what\u2019s coming - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/18/apple-one-could-add-a-new-service-in-ios-19-heres-whats-coming/"
     },
     {
       "title": "YouTube Music rolling out \u2018Consistent volume\u2019 on Android, iOS - 9to5Google",
@@ -76,23 +72,39 @@
       "link": "https://www.ign.com/articles/apple-watch-10-deal-2025"
     },
     {
-      "title": "Lunar Remastered Collection Is Available Now And Exclusive To Amazon - GameSpot",
-      "link": "https://www.gamespot.com/articles/lunar-remastered-collection-is-available-now-and-exclusive-to-amazon/1100-6528818/"
-    },
-    {
-      "title": "The Nintendo Switch 2 Price Won\u2019t Get Hit By Trump\u2019s Tariffs - WIRED",
-      "link": "https://www.wired.com/story/the-nintendo-switch-2-price-wont-get-hit-by-trumps-tariffs/"
-    },
-    {
       "title": "Kingdom Hearts Fans Are Feasting On Crumbs After Disney Referenced The Series In A Small Way - Kotaku",
       "link": "https://kotaku.com/kingdom-hearts-4-goofy-movie-max-lofi-youtube-video-1851776776"
     },
     {
-      "title": "Oblivion Remastered: Everything We Know Ahead of Its Rumoured Release Next Week - Push Square",
-      "link": "https://www.pushsquare.com/guides/oblivion-remastered-everything-we-know-ahead-of-its-rumoured-release-next-week"
+      "title": "This Week in Games - Prices and Princesses - Anime News Network",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2025-04-18/prices-and-princesses/.223526"
+    },
+    {
+      "title": "Sunderfolk review: RPG magic that transports your friends together - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/04/sunderfolk-review-rpg-magic-that-transports-your-friends-together/"
+    },
+    {
+      "title": "Android 16 Beta 4: How to bring back Pixel Battery health [U] - 9to5Google",
+      "link": "http://9to5google.com/2025/04/18/android-16-beta-pixel-battery-health/"
+    },
+    {
+      "title": "Beats showcases Android in ad for 'universally compatible' cables that Apple was forced to support [Video] - 9to5Google",
+      "link": "http://9to5google.com/2025/04/18/beats-android-usb-c-cable-ad/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Heat 123-114 Hawks (Apr 18, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401766462"
+    },
+    {
+      "title": "Titsworth Pitches No. 2 Clemson To 2-1 Win Over No. 17 Cardinals - Clemson Tigers",
+      "link": "https://clemsontigers.com/cu254181/"
+    },
+    {
+      "title": "Most runs EVER in an inning at Wrigley? That's just the start from Friday's craziness - MLB.com",
+      "link": "https://www.mlb.com/news/amazing-facts-from-d-backs-cubs-game"
+    },
     {
       "title": "Rays Select Chandler Simpson - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/04/rays-to-select-chandler-simpson.html"
@@ -102,8 +114,20 @@
       "link": "https://www.mlssoccer.com/news/lafc-coach-steve-cherundolo-to-step-down-after-2025-season"
     },
     {
-      "title": "Transfer portal intel: The latest on top available college football players after Day 2 of spring window - 247Sports",
-      "link": "https://247sports.com/article/transfer-portal-intel-the-latest-on-top-available-college-football-players-after-day-2-of-spring-window-248939361/"
+      "title": "Mark Hughes: Saudi GP long runs paint a scary picture - The Race",
+      "link": "https://www.the-race.com/formula-1/saudi-gp-friday-practice-analysis-2025-mclaren/"
+    },
+    {
+      "title": "Yankees' Jazz Chisholm suspended one game after he blasted umpire on social media following ejection - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/yankees-jazz-chisholm-suspended-one-game-after-he-blasted-umpire-on-social-media-following-ejection/"
+    },
+    {
+      "title": "Paul Zeise: Steelers and Aaron Rodgers are handling this situation exactly the right way - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/paul-zeise/2025/04/18/rodgers-steelers-khan-tomlin-nfl-free-agency/stories/202504180076"
+    },
+    {
+      "title": "This star BYU receiver has reportedly entered the transfer portal - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/04/18/byu-receiver-keelan-marion-enters-transfer-portal/"
     },
     {
       "title": "John Spytek on possibly drafting Ashton Jeanty: The idea is to add elite players at any position - NBC Sports",
@@ -114,6 +138,10 @@
       "link": "https://sports.yahoo.com/boxing/article/jake-paul-to-face-ex-champ-julio-cesar-chavez-jr-in-first-fight-since-beating-mike-tyson-165937274.html"
     },
     {
+      "title": "Boston Marathon and city insist all are welcome. But some runners say politics will keep them home - AP News",
+      "link": "https://apnews.com/article/boston-marathon-trump-travel-fe710d72d81df888afb9857f2ef20378"
+    },
+    {
       "title": "Gregg Popovich has medical incident in restaurant, is resting at home, AP source says - AP News",
       "link": "https://apnews.com/article/gregg-popovich-restaurant-health-92aaa9c067595ad7ed3571054b315fcd"
     },
@@ -122,52 +150,24 @@
       "link": "https://www.nfl.com/news/nfl-draft-2025-preview-daniel-jeremiah-conference-call-takeaways"
     },
     {
+      "title": "Syracuse football losing two more former starters to transfer portal - Syracuse.com",
+      "link": "https://www.syracuse.com/orangefootball/2025/04/syracuse-football-losing-two-more-former-starters-to-transfer-portal.html"
+    },
+    {
       "title": "Crosby feeling urgency as Penguins miss Stanley Cup Playoffs for 3rd straight season - NHL.com",
       "link": "https://www.nhl.com/news/sidney-crosby-feeling-urgency-as-pittsburgh-penguins-miss-stanley-cup-playoffs-again"
+    },
+    {
+      "title": "NFL Draft analyst Daniel Jeremiah names 3 intriguing Seahawks options at wide receiver - Field Gulls",
+      "link": "https://www.fieldgulls.com/2025/4/18/24411353/nfl-network-draft-analyst-daniel-jeremiah-names-seahawks-options-wide-receiver-bech-horton-williams"
     },
     {
       "title": "Real Salt Lake and the Utah Royals have new, familiar owners - The Salt Lake Tribune",
       "link": "https://www.sltrib.com/sports/rsl/2025/04/18/larry-h-miller-family-buys-real/"
     },
     {
-      "title": "NBA Player Props for Andrew Wiggins, Dyson Daniels on Friday, April 18 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-player-props-for-play-in-tournament-games-on-friday-april-18-qs"
-    },
-    {
       "title": "Stephen A. Smith apologizes to Suns owner Mat Ishbia \u2014 with a caveat - New York Post",
       "link": "https://nypost.com/2025/04/18/sports/stephen-a-smith-apologizes-to-suns-owner-mat-ishbia-with-a-caveat/"
-    },
-    {
-      "title": "Mariners Select Casey Lawrence - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/04/mariners-select-casey-lawrence.html"
-    },
-    {
-      "title": "Chad Reuter 7-round Giants mock draft: Another potential scenario for New York - Big Blue View",
-      "link": "https://www.bigblueview.com/2025/4/18/24411412/chad-reuter-7-round-giants-mock-draft-another-potential-scenario-for-new-york"
-    },
-    {
-      "title": "Mike Sullivan makes clear his intent to coach Penguins next season - TribLIVE.com",
-      "link": "https://triblive.com/sports/mike-sullivan-makes-clear-his-intent-to-coach-penguins-next-season/"
-    },
-    {
-      "title": "Yuki Tsunoda takes blame for Jeddah FP2 F1 crash - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/yuki-tsunoda-takes-blame-for-jeddah-fp2-f1-crash/10714680/"
-    },
-    {
-      "title": "Aaron Rodgers shouldn\u2019t have been surprised to hear Jets were moving on - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-shouldnt-have-been-surprised-to-hear-jets-were-moving-on"
-    },
-    {
-      "title": "Nats-Rox game postponed; split DH scheduled for Sunday - MLB.com",
-      "link": "https://www.mlb.com/news/rockies-nationals-april-18-2025-game-postponed"
-    },
-    {
-      "title": "NBA Awards Ballot: Shai Gilgeous-Alexander vs. Nikola Jokic for MVP, Plus All Other Picks - Sports Illustrated",
-      "link": "https://www.si.com/nba/nba-awards-ballot-shai-gilgeous-alexander-vs-nikola-jokic-for-mvp-plus-all-other-picks"
-    },
-    {
-      "title": "Deion Sanders defends decision to retire Shedeur Sanders, Travis Hunter numbers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-defends-decision-to-retire-shedeur-sanders-travis-hunter-numbers"
     }
   ],
   "weather": {
