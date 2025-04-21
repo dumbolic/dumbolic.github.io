@@ -1,9 +1,9 @@
 {
-  "quote": "Learn from the rejection and turn it into an opportunity! \u2013 Mary Engelbreit",
-  "fact": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
-  "crypto": "BTC: $87,273 | ETH: $1,631.69",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "How many apples grow on a tree? All of them!",
+  "quote": "There is a big difference between being centered and being self-centered. \u2013 Lolly Daskal",
+  "fact": "The most common name in world is Mohammed.",
+  "crypto": "BTC: $87,207 | ETH: $1,632.74",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "A cannibal is someone who is fed up with people.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Google Confirms Gmail Warning\u20143 Billion Users Must Now Act - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/04/20/google-confirms-gmail-update-stop-using-your-password-now/"
+    },
     {
       "title": "Nintendo isn\u2019t retiring Diddy Kong and here\u2019s why - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-probably-isnt-retiring-diddy-kong-heres-why/"
@@ -52,12 +56,8 @@
       "link": "https://www.forbes.com/sites/paultassi/2025/04/19/new-marathon-info-about-the-closed-alpha-ndas-and-open-beta/"
     },
     {
-      "title": "13 Times You Should Never Use an Extension Cord, According to Electricians - AOL.com",
-      "link": "https://www.marthastewart.com/times-to-never-use-an-extension-cord-11717282"
-    },
-    {
-      "title": "Google Confirms Gmail Warning\u2014Stop Using Your Password Now - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/04/19/google-confirms-gmail-update-stop-using-your-password-now/"
+      "title": "2XKO will have an offline mode with all champions unlocked, intended to support tournament organizers - VG247",
+      "link": "https://www.vg247.com/2xko-offline-mode-all-champions-unlocked-tournaments"
     },
     {
       "title": "Early RTX 5060 Ti benchmarks reveal why Nvidia withheld the 8GB version from reviewers - TechSpot",
@@ -94,12 +94,16 @@
   ],
   "sports_news": [
     {
-      "title": "Knicks ride insane fourth-quarter run with help from unexpected hero to take thrilling Game 1 over Pistons - New York Post",
-      "link": "https://nypost.com/2025/04/19/sports/knicks-ride-wild-fourth-quarter-run-to-take-game-1-over-pistons/"
-    },
-    {
       "title": "Lakers' lack of a reliable center exposed for first time since Luka Don\u010di\u0107 trade in Game 1 loss to Wolves - CBS Sports",
       "link": "https://www.cbssports.com/nba/news/lakers-lack-of-a-reliable-center-exposed-for-first-time-since-luka-doncic-trade-in-game-1-loss-to-wolves/"
+    },
+    {
+      "title": "Heroes, zeros from Knicks\u2019 Game 1 win over Pistons: Jalen Brunson recovers from slow start for huge game - New York Post",
+      "link": "https://nypost.com/2025/04/20/sports/heroes-zeros-from-knicks-game-1-win-over-pistons/"
+    },
+    {
+      "title": "LeBron James, Luka Doncic, Lakers Criticized By NBA Fans in G1 Loss to Edwards, Wolves - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25188340-lebron-james-luka-doncic-lakers-criticized-nba-fans-g1-loss-edwards-wolves"
     },
     {
       "title": "Three goals, three points: Sounders smash Nashville SC - Sounder at Heart",
@@ -110,16 +114,12 @@
       "link": "https://www.motorsport.com/nascar-xs/news/jesse-love-disqualifed-sammy-smith-wins-rockingham-nascar-xfinity/10715225/"
     },
     {
-      "title": "Biggest takeaways from Michigan Football\u2019s Spring Game - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/2025/4/19/24412091/michigan-wolverines-football-spring-game-bryce-underwood-sherrone-moore"
+      "title": "Renck: Russell Mania is maddening. But Nuggets don\u2019t win without Westbrook - The Denver Post",
+      "link": "https://www.denverpost.com/2025/04/19/russell-westbrook-nuggets-clippers-game-1-renck/"
     },
     {
       "title": "Missouri State football star Todric McGee dies at 21 - NBC News",
       "link": "https://www.nbcnews.com/sports/ncaa/missouri-state-football-star-todric-mcgee-dies-21-rcna202005"
-    },
-    {
-      "title": "3 takeaways: Players, fan frustration on display during Pirates' shutout loss to Guardians - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/pirates/2025/04/19/pirates-paul-skenes-derek-shelton-mlb-guardians/stories/202504170144"
     },
     {
       "title": "Red Rocks come up short again - Deseret News",
@@ -150,20 +150,24 @@
       "link": "https://www.barcablaugranes.com/2025/4/20/24411960/three-talking-points-from-barcelona-4-3-celta-vigo-la-liga"
     },
     {
-      "title": "Oklahoma wins seventh national gymnastics championship, besting multiple Olympic medalists - NBC News",
-      "link": "https://www.nbcnews.com/sports/gymnastics/oklahoma-wins-seventh-national-gymnastics-championship-besting-multipl-rcna201998"
+      "title": "Oklahoma wins NCAA women's gymnastics championship, finishing ahead of UCLA, Jordan Chiles - Yahoo Sports",
+      "link": "https://sports.yahoo.com/olympics/article/oklahoma-wins-ncaa-womens-gymnastics-championship-finishing-ahead-of-ucla-jordan-chiles-220117286.html"
     },
     {
       "title": "OL Draft Rumors: Campbell, Jackson, Membou - ProFootballRumors.com",
       "link": "https://www.profootballrumors.com/2025/04/ol-draft-rumors-campbell-jackson-membou"
     },
     {
-      "title": "Jon Anik \u2018shames\u2019 Diego Lopes for mistake in pivotal moment in UFC 314 title fight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/04/19/jon-anik-shames-diego-lopes-for-mistake-in-pivotal-moment-in-ufc-314-title-fight/"
+      "title": "What we learned as Cubs take season series over Diamondbacks | Cubs News - Marquee Sports Network",
+      "link": "https://www.marqueesportsnetwork.com/chicago-cubs-score-highlights-craig-counsell-ben-brown-arizona-diamondbacks/"
     },
     {
-      "title": "Mark Hughes: The faster McLaren blew pole again - The Race",
-      "link": "https://www.the-race.com/formula-1/mark-hughes-the-faster-mclaren-blew-pole-again/"
+      "title": "Three Hypothetical Steelers Trade Scenarios: Minor, Moderate, And Major Moves - Steelers Depot",
+      "link": "https://steelersdepot.com/2025/04/three-hypothetical-steelers-trade-scenarios-minor-moderate-and-major-moves/"
+    },
+    {
+      "title": "Ducks GM Verbeek Discusses Not Retaining Cronin as Head Coach and Other Topics - NHL.com",
+      "link": "https://www.nhl.com/ducks/news/ducks-gm-verbeek-discusses-not-retaining-cronin-as-coach-and-other-topics"
     }
   ],
   "weather": {
