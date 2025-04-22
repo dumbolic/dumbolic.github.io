@@ -1,9 +1,9 @@
 {
-  "quote": "We become brave by doing brave acts. \u2013 Aristotle",
-  "fact": "Average number of days a West German goes without washing his underwear: 7",
-  "crypto": "BTC: $88,479 | ETH: $1,624.07",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
+  "quote": "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. \u2013 Ming-Dao Deng",
+  "fact": "The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.",
+  "crypto": "BTC: $88,535 | ETH: $1,628.03",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "How many tickles does it take to tickle an octopus? Ten-tickles!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "44 Products So Good Reviewers Bought Backups Of Them Just In Case - BuzzFeed",
+      "link": "https://www.buzzfeed.com/emmalord9/products-bought-back-ups-just-in-case-an"
+    },
+    {
+      "title": "\"Stay Tuned\" For Next Mainline Mario, Says Nintendo's Bowser - Nintendo Life",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXRlV0ZEVEllYVBESE52eFNBcU1PRHZ5czRpbVJGSE5KMTh6RmV4MWdyb0pSaHJwLUprb2xqZ2htUThXeF9MQU55OVdFZUhNY3NKUkF1NFdSc1JEV0U2N2NNMlFiXy1mZ2h6emlQTWpZMmFqUjlybmZIRFhSWDdieU5GUk1EVnVlcXNnWmN2bDl1bXRmZ3AzbkVkMjVsR2s?oc=5"
+    },
+    {
+      "title": "What's Palworld Dev's Defence Against Nintendo's Lawsuit? Pikmin 3, Apparently - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/04/whats-palworld-devs-defence-against-nintendos-lawsuit-pikmin-3-apparently"
+    },
+    {
       "title": "Sound Up: The Lexus GR GT3 Sports Car Sounds Amazing - Motor1.com",
       "link": "https://www.motor1.com/news/757114/lexus-gr-gt3-sports-car-supercar-sound-video/"
     },
     {
-      "title": "Samsung\u2019s April 2025 update brings new One UI 7 features to Galaxy S25 series, expansion started - Sammy Fans",
-      "link": "https://www.sammyfans.com/2025/04/21/samsungs-april-2025-update-brings-new-one-ui-7-features-to-galaxy-s25-series-expansion-started/"
+      "title": "I test Gemini for a living \u2014 5 prompts I wish I knew sooner - Tom's Guide",
+      "link": "https://www.tomsguide.com/ai/i-test-gemini-for-a-living-5-prompts-i-wish-i-knew-sooner"
+    },
+    {
+      "title": "Millions Of Americans Get Microsoft\u2019s Free Upgrade Offer - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/04/21/millions-of-americans-get-microsofts-free-upgrade-offer/"
+    },
+    {
+      "title": "Samsung rolls out new Galaxy S25 series update in more regions - SamMobile",
+      "link": "https://www.sammobile.com/2025/04/10/galaxy-s24-one-ui-7-stable-update-now-available-in-usa/"
     },
     {
       "title": "The Elder Scrolls IV: Oblivion Remastered: New leak reveals colossal storage space requirement - Notebookcheck",
@@ -38,10 +58,6 @@
     {
       "title": "This Week\u2019s Japanese Game Releases: Clair Obscur: Expedition 33, Fatal Fury: City of the Wolves, The Hundred Line: Last Defense Academy, more - Gematsu",
       "link": "https://www.gematsu.com/2025/04/this-weeks-japanese-game-releases-clair-obscur-expedition-33-fatal-fury-city-of-the-wolves-the-hundred-line-last-defense-academy-more"
-    },
-    {
-      "title": "OnePlus 13T: Compact dimensions officially confirmed alongside MagSafe accessories as OnePlus 13 comparisons drawn in early hands-on photos - Notebookcheck",
-      "link": "https://www.notebookcheck.net/OnePlus-13T-Compact-dimensions-officially-confirmed-alongside-MagSafe-accessories-as-OnePlus-13-comparisons-drawn-in-early-hands-on-photos.1002235.0.html"
     },
     {
       "title": "Soulslike action RPG Riven Crown announced for PC - Gematsu",
@@ -70,22 +86,6 @@
     {
       "title": "9 Of The Most Powerful Japanese Cruiser Motorcycles, Ranked By Horsepower - SlashGear",
       "link": "https://www.slashgear.com/1838563/powerful-japanese-cruiser-motorcycles-ranked-horsepower/"
-    },
-    {
-      "title": "iPhone 17 Pro\u2019s rumored camera bar design may have a sneaky new perk - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/20/iphone-17-pro-camera-bar-new-perk/"
-    },
-    {
-      "title": "I'm Not Saying These 33 Products Are Magic, But They Definitely Work *Really Well* - BuzzFeed",
-      "link": "https://www.buzzfeed.com/jordanagrigs/im-not-saying-these-products-are-magic-but-they"
-    },
-    {
-      "title": "What Is The 5-4-3-2-1 Grocery Shopping Method (And Does It Work)? - The Takeout",
-      "link": "https://www.thetakeout.com/1834000/what-is-5-4-3-2-1-grocery-shopping/"
-    },
-    {
-      "title": "9 macOS Sequoia features every Mac user should know - Digital Trends",
-      "link": "https://www.digitaltrends.com/computing/macos-sequoia-features-every-mac-user-should-know/"
     }
   ],
   "sports_news": [
@@ -94,24 +94,28 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-patriots-will-need-a-first-round-pick-who-can-handle-high-expectations"
     },
     {
-      "title": "Steph Curry, Jimmy Butler hold off scrappy Rockets as Warriors win Game 1 - The Mercury News",
-      "link": "https://www.mercurynews.com/2025/04/20/warriors-rockets-playoffs-game-1-2025/"
+      "title": "Brown and Horner share views on Verstappen\u2019s penalty - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/brown-and-horner-share-contrasting-views-on-verstappens-penalty-in-saudi.4b7ohrLjWwogz8nKeGs7yk"
+    },
+    {
+      "title": "Heitritter: Pittsburgh Steelers\u2019 2025 Mock Draft (Final Version) - Steelers Depot",
+      "link": "https://steelersdepot.com/2025/04/heitritter-pittsburgh-steelers-2025-mock-draft-final-version/"
     },
     {
       "title": "NBA playoffs Game 1 winners and losers: Lakers get wake-up call, Curry cooks Houston, Knicks go on awesome run - CBS Sports",
       "link": "https://www.cbssports.com/nba/news/nba-playoffs-game-1-winners-and-losers-lakers-get-wake-up-call-curry-cooks-houston-knicks-go-on-awesome-run/"
     },
     {
-      "title": "Winners and losers from F1's 2025 Saudi Arabian GP - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/winners-losers-2025-saudi-arabian-gp/10715593/"
+      "title": "Padres' Luis Arraez stretchered off field, taken to hospital after scary collision at first base in win over Astros - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/article/padres-luis-arraez-released-from-hospital-rejoins-team-after-scary-collision-in-win-over-astros-235953848.html"
+    },
+    {
+      "title": "Warriors 95, Rockets 85: How Golden State beat Houston in Game 1 of NBA playoff series - Houston Chronicle",
+      "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-golden-state-warriors-game-1-playoffs-20284234.php"
     },
     {
       "title": "Ingrid Lindblad wins JM Eagle LA Championship in 3rd start as LPGA Tour member - LPGA",
       "link": "https://www.lpga.com/news/2025/ingrid-lindblad-wins-jm-eagle-la-championship-in-3rd-start-as-lpga-tour-member"
-    },
-    {
-      "title": "Fernando Tatis Jr. leads Padres past Astros after Luis Arraez hospitalized following collision - San Diego Union-Tribune",
-      "link": "https://www.sandiegouniontribune.com/2025/04/20/padres-luis-arraez-exits-sundays-game-after-collision-at-first/"
     },
     {
       "title": "Ja Morant sends defiant message to Grizzlies after ugly Game 1 loss to Thunder - New York Post",
@@ -130,6 +134,14 @@
       "link": "https://lakingsinsider.com/2025/04/20/as-lak-edm-round-4-beckons-the-question-is-simple-whats-different-the-kings-feel-its-quite-a-bit/"
     },
     {
+      "title": "Justin Thomas pours in first winning putt of length \u2013 and he has Xander Schauffele to thank - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/justin-thomas-pours-in-first-winning-putt-of-length-and-he-has-xander-schauffele-to-thank"
+    },
+    {
+      "title": "Miami defensive tackle Josh Horton signs with Georgia - 247Sports",
+      "link": "https://247sports.com/college/georgia/article/georgia-bulldogs-miami-defensive-tackle-josh-horton-transfer-kirby-smart-249045308/"
+    },
+    {
       "title": "'At the end of the day, it\u2019s not my decision': Andrew McCutchen expresses frustration over his inconsistent playing time - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/pirates/2025/04/20/pirates-andrew-mccutchen-mlb-derek-shelton/stories/202504200107"
     },
@@ -138,8 +150,8 @@
       "link": "https://nypost.com/2025/04/20/sports/juan-soto-mets-overcome-bullpen-slipup-to-sweep-cardinals/"
     },
     {
-      "title": "Justin Thomas birdies first playoff hole for first win since 2022 at RBC Heritage - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/justin-thomas-birdies-first-playoff-hole-for-first-win-since-2022-at-rbc-heritage"
+      "title": "Braves\u2019 Ronald Acu\u00f1a Jr. calls out manager in post on X - WSB-TV",
+      "link": "https://www.wsbtv.com/news/local/braves-ronald-acua-jr-calls-out-manager-post-x/EPZIFNAN6ZFJRAPOPE6V5YPK3U/"
     },
     {
       "title": "Aaron Judge and Yankees angry over home run that wasn\u2019t - AP News",
@@ -150,12 +162,8 @@
       "link": "https://www.nhl.com/news/st-louis-blues-winnipeg-jets-game-2-preview-april-21"
     },
     {
-      "title": "3 Seattle Mariners takeaways from series win over Blue Jays - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-observations-what-stood-out-in-series-win-over-blue-jays/1807876"
-    },
-    {
-      "title": "RBC Heritage 2025 prize money: Full purse payout from Harbour Town - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/rbc-heritage-2025-prize-money-full-purse-payout-from-harbour-town"
+      "title": "3 takeaways: Pirates await an even tougher road ahead following second sweep in last three series - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/pirates/2025/04/20/mlb-pirates-guardians-angels-dodgers-derek-shelton-mitch-keller/stories/202504170152"
     }
   ],
   "weather": {
