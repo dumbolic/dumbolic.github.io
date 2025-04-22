@@ -1,9 +1,9 @@
 {
-  "quote": "The number one cause of failure is the fear of failure. \u2013 Steve Harvey",
-  "fact": "the bird is the word",
-  "crypto": "BTC: $88,772 | ETH: $1,633.74",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "To be Frank, I'd have to change my name.",
+  "quote": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. \u2013 Sun Tzu",
+  "fact": "40,000 Americans are injured by toilets each year.",
+  "crypto": "BTC: $89,583 | ETH: $1,634.05",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why are fish easy to weigh? Because they have their own scales.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,106 +12,134 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The One Video To Actually Sell You On Bungie\u2019s \u2018Marathon\u2019 - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/04/21/the-one-video-to-actually-sell-you-on-bungies-marathon/"
+    },
+    {
+      "title": "New Gmail Warning \u2014 Do Not Open This Email From Google - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2025/04/21/new-gmail-warning---do-not-open-this-email-from-google/"
+    },
+    {
+      "title": "Vivo just outclassed Samsung with the X200 Ultra - Android Central",
+      "link": "https://www.androidcentral.com/phones/vivo/vivo-puts-samsung-to-shame-with-the-x200-ultra"
+    },
+    {
+      "title": "Is this what you were expecting out of Grant Holmes? - Battery Power",
+      "link": "https://www.batterypower.com/2025/4/21/24412972/atlanta-braves-grant-holmes-daily-question"
+    },
+    {
+      "title": "Look Outside is an instant classic that balances body horror with compassion - Polygon",
+      "link": "https://www.polygon.com/impressions/560877/look-outside-body-horror-compassionate-monsters"
+    },
+    {
+      "title": "At $16,000, Is This 1974 Ford Capri A Worthy Tribute? - Jalopnik",
+      "link": "https://www.jalopnik.com/1837745/1974-ford-capri-for-sale-16000/"
+    },
+    {
+      "title": "NVIDIA GeForce 576.02 driver said to be affected by GPU temperature sensor bug - VideoCardz.com",
+      "link": "https://videocardz.com/newz/nvidia-geforce-576-02-driver-said-to-be-affected-by-serious-gpu-temperature-sensor-bug"
+    },
+    {
       "title": "44 Products So Good Reviewers Bought Backups Of Them Just In Case - BuzzFeed",
       "link": "https://www.buzzfeed.com/emmalord9/products-bought-back-ups-just-in-case-an"
     },
     {
-      "title": "\"Stay Tuned\" For Next Mainline Mario, Says Nintendo's Bowser - Nintendo Life",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXRlV0ZEVEllYVBESE52eFNBcU1PRHZ5czRpbVJGSE5KMTh6RmV4MWdyb0pSaHJwLUprb2xqZ2htUThXeF9MQU55OVdFZUhNY3NKUkF1NFdSc1JEV0U2N2NNMlFiXy1mZ2h6emlQTWpZMmFqUjlybmZIRFhSWDdieU5GUk1EVnVlcXNnWmN2bDl1bXRmZ3AzbkVkMjVsR2s?oc=5"
+      "title": "Lunar Remastered Dev Apologises For Stock Issues After Rocky Physical Launch - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/04/lunar-remastered-dev-apologises-for-stock-issues-after-rocky-physical-launch"
     },
     {
-      "title": "What's Palworld Dev's Defence Against Nintendo's Lawsuit? Pikmin 3, Apparently - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/whats-palworld-devs-defence-against-nintendos-lawsuit-pikmin-3-apparently"
+      "title": "If You\u2019re an iPhone Owner, These AirPods Pro 2 Now Cost Almost Nothing - Gizmodo",
+      "link": "https://gizmodo.com/if-youre-an-iphone-owner-these-airpods-pro-2-now-cost-almost-nothing-2000591974"
+    },
+    {
+      "title": "New Android And iPhone PIN Code Warning \u2014 1 Is The Magic Number - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2025/04/21/android-and-iphone-pin-code-warning---1-is-the-magic-number/"
+    },
+    {
+      "title": "10 Tech Enthusiast Guilty Pleasures - TechSpot",
+      "link": "https://www.techspot.com/article/2978-tech-guilty-pleasures/"
+    },
+    {
+      "title": "\"Stay Tuned\" For Next Mainline Mario, Says Nintendo's Bowser - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/04/stay-tuned-for-next-mainline-mario-says-nintendos-bowser"
+    },
+    {
+      "title": "DOOM: The Dark Ages Just Got Its Second Official Trailer - Wccftech",
+      "link": "https://wccftech.com/doom-the-dark-ages-just-got-its-second-official-trailer/"
+    },
+    {
+      "title": "SPARKLE confirms Arc Battlemage GPU with 24GB memory slated for May-June - VideoCardz.com",
+      "link": "https://videocardz.com/newz/sparkle-confirms-arc-battlemage-gpu-with-24gb-memory-slated-for-may-june"
     },
     {
       "title": "Sound Up: The Lexus GR GT3 Sports Car Sounds Amazing - Motor1.com",
       "link": "https://www.motor1.com/news/757114/lexus-gr-gt3-sports-car-supercar-sound-video/"
     },
     {
+      "title": "Steam makes hit game free for just 48 hours: 'a sweet escape' - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/steam/steam-free-game-48-hours-april-316047-20250421"
+    },
+    {
       "title": "I test Gemini for a living \u2014 5 prompts I wish I knew sooner - Tom's Guide",
       "link": "https://www.tomsguide.com/ai/i-test-gemini-for-a-living-5-prompts-i-wish-i-knew-sooner"
-    },
-    {
-      "title": "Millions Of Americans Get Microsoft\u2019s Free Upgrade Offer - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/04/21/millions-of-americans-get-microsofts-free-upgrade-offer/"
-    },
-    {
-      "title": "Samsung rolls out new Galaxy S25 series update in more regions - SamMobile",
-      "link": "https://www.sammobile.com/2025/04/10/galaxy-s24-one-ui-7-stable-update-now-available-in-usa/"
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion Remastered: New leak reveals colossal storage space requirement - Notebookcheck",
-      "link": "https://www.notebookcheck.net/The-Elder-Scrolls-IV-Oblivion-Remastered-New-leak-reveals-colossal-storage-space-requirement.1002285.0.html"
-    },
-    {
-      "title": "Google Photos now lets you upgrade your pics to 'Ultra HDR' after the fact - Android Authority",
-      "link": "https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/"
-    },
-    {
-      "title": "Gemini Live's real-time screen sharing is now available to all Android users - Android Central",
-      "link": "https://www.androidcentral.com/apps-software/android-os/gemini-live-real-time-screen-sharing-now-available-to-all-android-users"
-    },
-    {
-      "title": "DOOM: The Dark Ages second trailer - Gematsu",
-      "link": "https://www.gematsu.com/2025/04/doom-the-dark-ages-second-trailer"
-    },
-    {
-      "title": "This Week\u2019s Japanese Game Releases: Clair Obscur: Expedition 33, Fatal Fury: City of the Wolves, The Hundred Line: Last Defense Academy, more - Gematsu",
-      "link": "https://www.gematsu.com/2025/04/this-weeks-japanese-game-releases-clair-obscur-expedition-33-fatal-fury-city-of-the-wolves-the-hundred-line-last-defense-academy-more"
-    },
-    {
-      "title": "Soulslike action RPG Riven Crown announced for PC - Gematsu",
-      "link": "https://www.gematsu.com/2025/04/soulslike-action-rpg-riven-crown-announced-for-pc"
-    },
-    {
-      "title": "A lot of Logitech products cost more now than two months ago - The Verge",
-      "link": "https://www.theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories"
-    },
-    {
-      "title": "CarPlay app with web browser for streaming video hits App Store - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/20/carplay-app-with-web-browser-for-streaming-video-hits-app-store/"
-    },
-    {
-      "title": "Google Calculator 8.7 rolling out with a spacing tweak - 9to5Google",
-      "link": "http://9to5google.com/2025/04/20/google-calculator-8-7/"
-    },
-    {
-      "title": "SNK warns of desync issues in Fatal Fury: City of the Wolves for Xbox, recommends disabling crossplay until update - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/apr/20/snk-desync-fatal-fury-cotw/"
-    },
-    {
-      "title": "Walmart+ Members Can Now Get Free Access to Apple TV+, Apple Music, Apple Books, & More For a Limited Time - | Cord Cutters News",
-      "link": "https://cordcuttersnews.com/walmart-members-can-now-get-free-access-to-apple-tv-apple-music-apple-books-more-for-a-limited-time/"
-    },
-    {
-      "title": "9 Of The Most Powerful Japanese Cruiser Motorcycles, Ranked By Horsepower - SlashGear",
-      "link": "https://www.slashgear.com/1838563/powerful-japanese-cruiser-motorcycles-ranked-horsepower/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Chris Ballard on QBs: You don\u2019t want to pass on a player who could be really good - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-ballard-on-qbs-you-dont-want-to-pass-on-a-player-who-could-be-really-good"
+    },
+    {
+      "title": "Shannon Sharpe is sued for sexual assault and battery - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shannon-sharpe-is-sued-for-sexual-assault-and-battery"
+    },
+    {
+      "title": "Kurt Busch, Randy LaJoie join Hall of Fame Class of 2026 nominees - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/04/21/kurt-busch-randy-lajoie-join-hall-of-fame-class-of-2026-nominees/"
+    },
+    {
+      "title": "Fantasy Baseball Daily Hitting Recap: 4/20/25 - Pitcher List",
+      "link": "http://pitcherlist.com/fantasy-baseball-daily-hitting-recap-4-20-25/"
+    },
+    {
+      "title": "NFL insider 2025 mock draft: Shedeur Sanders falls out of first round, only one QB taken on Day 1 - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/draft/news/nfl-insider-2025-mock-draft-shedeur-sanders-falls-out-of-first-round-only-one-qb-taken-on-day-1/"
+    },
+    {
+      "title": "2025 NFL mock draft: Detroit Lions get another \u2018Dirtbag\u2019 guard at pick No. 60 - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/4/21/24410778/2025-nfl-mock-draft-detroit-lions-get-another-dirtbag-guard-at-pick-no-60"
+    },
+    {
+      "title": "Max Verstappen says \u2018people can\u2019t handle the full truth\u2019 after Saudi Arabia time-penalty - Yahoo Sports",
+      "link": "https://www.cnn.com/2025/04/21/sport/max-verstappen-saudi-arabia-time-penalty-spt-intl"
+    },
+    {
+      "title": "Edd Straw's 2025 F1 Saudi Arabian Grand Prix driver rankings - The Race",
+      "link": "https://www.the-race.com/formula-1/f1-saudi-arabian-grand-prix-2025-driver-rankings-edd-straw/"
+    },
     {
       "title": "Mike Vrabel: Patriots will need a first-round pick who can handle high expectations - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-patriots-will-need-a-first-round-pick-who-can-handle-high-expectations"
     },
     {
-      "title": "Brown and Horner share views on Verstappen\u2019s penalty - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/brown-and-horner-share-contrasting-views-on-verstappens-penalty-in-saudi.4b7ohrLjWwogz8nKeGs7yk"
+      "title": "\u2018He\u2019s made for the spotlight\u2019: Inside Ty Jerome\u2019s legendary playoff debut - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2025/04/hes-made-for-the-spotlight-inside-ty-jeromes-legendary-playoff-debut.html"
     },
     {
-      "title": "Heitritter: Pittsburgh Steelers\u2019 2025 Mock Draft (Final Version) - Steelers Depot",
-      "link": "https://steelersdepot.com/2025/04/heitritter-pittsburgh-steelers-2025-mock-draft-final-version/"
+      "title": "Virat Kohli Unhappy After Getting Man Of The Match vs Punjab Kings. Says: \"Should Go To...\" - NDTV Sports",
+      "link": "https://sports.ndtv.com/ipl-2025/virat-kohli-unhappy-after-getting-man-of-the-match-vs-punjab-kings-says-should-go-to-8211789"
+    },
+    {
+      "title": "Stephen Curry scores 31 points in the Warriors' 95-85 victory over the Rockets 95-85 in Game 1 - AP News",
+      "link": "https://apnews.com/article/rockets-warriors-score-4cc52267b040880196b08e78f8f97bb2"
     },
     {
       "title": "NBA playoffs Game 1 winners and losers: Lakers get wake-up call, Curry cooks Houston, Knicks go on awesome run - CBS Sports",
       "link": "https://www.cbssports.com/nba/news/nba-playoffs-game-1-winners-and-losers-lakers-get-wake-up-call-curry-cooks-houston-knicks-go-on-awesome-run/"
     },
     {
-      "title": "Padres' Luis Arraez stretchered off field, taken to hospital after scary collision at first base in win over Astros - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/article/padres-luis-arraez-released-from-hospital-rejoins-team-after-scary-collision-in-win-over-astros-235953848.html"
-    },
-    {
-      "title": "Warriors 95, Rockets 85: How Golden State beat Houston in Game 1 of NBA playoff series - Houston Chronicle",
-      "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-golden-state-warriors-game-1-playoffs-20284234.php"
+      "title": "Luis Arraez Carted Off Field After Collision At First Base - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/04/luis-arraez-carted-off-field-after-collision-at-first-base.html"
     },
     {
       "title": "Ingrid Lindblad wins JM Eagle LA Championship in 3rd start as LPGA Tour member - LPGA",
@@ -122,12 +150,8 @@
       "link": "https://nypost.com/2025/04/20/sports/ja-morant-sends-defiant-message-after-ugly-game-1-loss-to-thunder/"
     },
     {
-      "title": "Dodgers Notes: Treinen, Snell, Glasnow - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/04/dodgers-notes-treinen-snell-glasnow.html"
-    },
-    {
-      "title": "Cavs make early statement with dominant 121-100 win over Miami Heat in playoff series opener - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/04/cavs-make-early-statement-with-dominant-121-100-win-over-miami-heat-in-playoff-series-opener.html"
+      "title": "Joe Mazzulla Tabs Surprise Player Who Put Celtics \u2018On His Back\u2019 In Game 1 Win - NESN",
+      "link": "https://nesn.com/2025/04/joe-mazzulla-tabs-surprise-player-who-put-celtics-on-his-back-in-game-1-win/"
     },
     {
       "title": "As LAK/EDM Round 4 beckons, the question is simple - what's different? The Kings feel its quite a bit..... - LA Kings Insider",
@@ -140,30 +164,6 @@
     {
       "title": "Miami defensive tackle Josh Horton signs with Georgia - 247Sports",
       "link": "https://247sports.com/college/georgia/article/georgia-bulldogs-miami-defensive-tackle-josh-horton-transfer-kirby-smart-249045308/"
-    },
-    {
-      "title": "'At the end of the day, it\u2019s not my decision': Andrew McCutchen expresses frustration over his inconsistent playing time - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/pirates/2025/04/20/pirates-andrew-mccutchen-mlb-derek-shelton/stories/202504200107"
-    },
-    {
-      "title": "Juan Soto, Mets stars\u2019 bats overcome bullpen slipup to complete four-game sweep of Cardinals - New York Post",
-      "link": "https://nypost.com/2025/04/20/sports/juan-soto-mets-overcome-bullpen-slipup-to-sweep-cardinals/"
-    },
-    {
-      "title": "Braves\u2019 Ronald Acu\u00f1a Jr. calls out manager in post on X - WSB-TV",
-      "link": "https://www.wsbtv.com/news/local/braves-ronald-acua-jr-calls-out-manager-post-x/EPZIFNAN6ZFJRAPOPE6V5YPK3U/"
-    },
-    {
-      "title": "Aaron Judge and Yankees angry over home run that wasn\u2019t - AP News",
-      "link": "https://apnews.com/article/judge-nonhome-run-yankees-392a085753d0be78986180879b0f7e1f"
-    },
-    {
-      "title": "Blues at Jets, Western Conference 1st Round Game 2 preview - NHL.com",
-      "link": "https://www.nhl.com/news/st-louis-blues-winnipeg-jets-game-2-preview-april-21"
-    },
-    {
-      "title": "3 takeaways: Pirates await an even tougher road ahead following second sweep in last three series - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/pirates/2025/04/20/mlb-pirates-guardians-angels-dodgers-derek-shelton-mitch-keller/stories/202504170152"
     }
   ],
   "weather": {
