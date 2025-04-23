@@ -1,9 +1,9 @@
 {
-  "quote": "Happiness is the absence of the striving for happiness. \u2013 Zhuangzi",
-  "fact": "The name of the girl on the statue of liberty is Mother of Exiles.",
-  "crypto": "BTC: $93,796 | ETH: $1,814.99",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+  "quote": "You are the sky. Everything else - it's just the weather. \u2013 Pema Chodron",
+  "fact": "You can sail all the way around the world at latitude 60 degrees south.",
+  "crypto": "BTC: $93,994 | ETH: $1,814.57",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I cut my finger chopping cheese, but I think that I may have grater problems.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nvidia\u2019s GPU drivers are a mess - The Verge",
+      "link": "https://www.theverge.com/news/653115/nvidia-gpu-drivers-black-screen-crashes-issues"
+    },
+    {
+      "title": "Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials - The Hacker News",
+      "link": "https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html"
+    },
+    {
+      "title": "Tired Of Pro Controller Charge Times? The Switch 2 Model Is A Huge Step Up - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/04/tired-of-pro-controller-charge-times-the-switch-2-model-is-a-huge-step-up"
+    },
+    {
       "title": "NVIDIA GeForce RTX 5060 Ti with 8GB memory is far behind 16GB model in gaming performance, review shows - VideoCardz.com",
       "link": "https://videocardz.com/newz/nvidia-geforce-rtx-5060-ti-with-8gb-memory-is-far-behind-16gb-model-in-gaming-performance-review-shows"
     },
     {
-      "title": "Nintendo Expands Switch Online's GBA Library With A Classic Fire Emblem - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/nintendo-expands-switch-onlines-gba-library-with-a-classic-fire-emblem"
+      "title": "How to stay on Windows 10 instead of installing Linux - theregister.com",
+      "link": "https://www.theregister.com/2025/04/22/windows_10_ltsc/"
     },
     {
       "title": "Exclusive: Anthropic warns fully AI employees are a year away - Axios",
       "link": "https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security"
     },
     {
+      "title": "Google just fired the first shot of the next battle in the AI war - Business Insider",
+      "link": "https://www.businessinsider.com/google-openai-anthropic-ai-agents-training-data-2025-4"
+    },
+    {
+      "title": "AMD Radeon RX 6500 non-XT spotted, features 1024 cores, 4GB 64-bit memory and 55W TBP - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-radeon-rx-6500-non-xt-spotted-features-1024-cores-4gb-64-bit-memory-and-55w-tbp"
+    },
+    {
       "title": "Duolingo is getting a chess course - The Verge",
       "link": "https://www.theverge.com/news/649319/duolingo-chess-course-ios-test"
     },
     {
-      "title": "Nintendo Announces Official Pre-Order Date for the Switch 2 \u2014 Everything You Need to Know About When and Where to Buy - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/lifestyle/shopping/where-when-to-preorder-buy-nintendo-switch-2-online-1236116319/"
+      "title": "Stable One UI 7 is about to hit Global Galaxy S23 models - Sammy Fans",
+      "link": "https://www.sammyfans.com/2025/04/22/stable-one-ui-7-is-about-to-hit-global-galaxy-s23-models/"
+    },
+    {
+      "title": "Game Boy Advance \u2013 Nintendo Switch Online adds Fire Emblem: The Sacred Stones - Gematsu",
+      "link": "https://www.gematsu.com/2025/04/game-boy-advance-nintendo-switch-online-adds-fire-emblem-the-sacred-stones"
     },
     {
       "title": "All Heroes And Abilities In Overwatch 2 Stadium Mode - GameSpot",
@@ -52,8 +76,8 @@
       "link": "https://9to5mac.com/2025/04/21/rumor-iphone-17-pro-could-launch-in-sky-blue/"
     },
     {
-      "title": "Nintendo Switch 2 Pro Controller charge time much faster than Switch 1 - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-switch-2-pro-controller-charge-time-much-faster-than-switch-1/"
+      "title": "Game Boy clone maker Anbernic suspends all shipments to US - The Verge",
+      "link": "https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china"
     },
     {
       "title": "Sidecar app removing CarPlay browser and video playback feature, refunds available - 9to5Mac",
@@ -66,40 +90,40 @@
     {
       "title": "Google Photos Now Lets You Convert Standard Photos to Ultra HDR - Lifehacker",
       "link": "https://lifehacker.com/tech/google-photos-convert-images-ultra-hdr"
-    },
-    {
-      "title": "NVIDIA Pushes Out New GeForce Hotfix Driver 576.15, Addressing Display Crashing & GPU Temperature Sensor Issues - Wccftech",
-      "link": "https://wccftech.com/nvidia-pushes-out-new-geforce-hotfix-driver-576-15/"
-    },
-    {
-      "title": "Input lag test results for Fatal Fury: City of the Wolves on PlayStation 5, PlayStation 4, Xbox and Steam Deck - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/apr/21/fatal-fury-input-lag/"
-    },
-    {
-      "title": "Quince Made the Perfect Perfume Dupes - The Cut",
-      "link": "http://www.thecut.com/article/fragrance-review-quinces-dupes-of-le-labo-santal-baccarat.html"
-    },
-    {
-      "title": "A Week After Remaster Leak, Bethesda Teases Elder Scrolls IV: Oblivion Announcement Tomorrow - Game Informer",
-      "link": "https://gameinformer.com/2025/04/21/a-week-after-remaster-leak-bethesda-teases-elder-scrolls-iv-oblivion-announcement"
-    },
-    {
-      "title": "Sony shows off the PS5 Pro\u2019s liquid metal updates - The Verge",
-      "link": "https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes"
     }
   ],
   "sports_news": [
+    {
+      "title": "2025 NFL Draft: This Year\u2019s QB Class Is \u2018A Lot Like 2022\u2019 - Sports Illustrated",
+      "link": "https://www.si.com/nfl/2025-nfl-draft-qb-class-like-2022"
+    },
+    {
+      "title": "Colts G.M. Chris Ballard looking for \"hard to find\" three-down tight end - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-g-m-chris-ballard-looking-for-hard-to-find-three-down-tight-end"
+    },
+    {
+      "title": "Brian Gutekunst: Packers already have a roster we can win with, won\u2019t draft for need - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-gutekunst-packers-already-have-a-roster-we-can-win-with-wont-draft-for-need"
+    },
+    {
+      "title": "GAME 1 FINAL \u2013 Kings 6, Oilers 5 \u2013 Danault, Kopitar, Byfield, Fiala, Hiller - LA Kings Insider",
+      "link": "https://lakingsinsider.com/2025/04/21/game-1-final-kings-6-oilers-5-danault-kopitar-byfield-fiala-hiller/"
+    },
     {
       "title": "Fantasy Baseball SP Roundup 4/21: Maxterpiece Theater - Pitcher List",
       "link": "http://pitcherlist.com/sp-roundup-4-21-25/"
     },
     {
-      "title": "Tennessee\u2019s transfer QB search ends with Joey Aguilar in de facto trade with UCLA - 247Sports",
-      "link": "https://247sports.com/college/tennessee/article/joey-aguilar-tennessee-vols-transfer-portal-qb-search-trade-nico-iamaleava-ucla-bruins-appalachian-state-mountaineers-249083602/"
+      "title": "Kozora: Pittsburgh Steelers 2025 Mock Draft (Final Version) - Steelers Depot",
+      "link": "https://steelersdepot.com/2025/04/kozora-pittsburgh-steelers-2025-mock-draft-final-version/"
     },
     {
-      "title": "'A great time to be a Met': Lindor's 2-homer night powers Mets past Phils - MLB.com",
-      "link": "https://www.mlb.com/news/francisco-lindor-hits-two-homers-in-mets-win-vs-phillies"
+      "title": "Dan Bylsma fired by Kraken, Jason Botterill moving into GM role - Sound Of Hockey",
+      "link": "https://soundofhockey.com/2025/04/21/kraken-fire-dan-bylsma-move-ron-francis-from-gm-role/"
+    },
+    {
+      "title": "NFL Analyst Lays Out Interesting Draft Plan For Patriots - NESN",
+      "link": "https://nesn.com/2025/04/nfl-analyst-lays-out-interesting-draft-plan-for-patriots/"
     },
     {
       "title": "Alex Ovechkin finally scores first career overtime playoff goal 20 seasons into career: \u2018Good things happen when you go to the net\u2019 - RMNB",
@@ -110,64 +134,40 @@
       "link": "https://bleacherreport.com/articles/25189058-cade-cunningham-amazes-nba-fans-pistons-beat-knicks-snap-playoff-losing-streak"
     },
     {
-      "title": "Game Thread \u2013 Kings vs. Oilers, Round 1, Game 1 - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2025/04/21/game-thread-kings-vs-oilers-round-1-game-1/"
-    },
-    {
-      "title": "Shannon Sharpe Accused Of Rape In Civil Suit; NFL Hall Of Famer Responds Via Lawyer Statement - Deadline",
-      "link": "http://deadline.com/2025/04/shannon-sharpe-accused-rape-lawsuit-1236373425/"
-    },
-    {
       "title": "For Mavericks GM Nico Harrison, the end could come sooner than he expects - Dallas News",
       "link": "https://www.dallasnews.com/sports/mavericks/2025/04/21/for-mavericks-gm-nico-harrison-the-end-could-come-sooner-than-he-expects/"
     },
     {
-      "title": "Report: Madden Iamaleava makes transfer decision before officialling entering portal - On3.com",
-      "link": "https://www.on3.com/college/ucla-bruins/news/report-madden-iamaleava-plans-to-transfer-to-ucla-to-join-brother-nico/"
+      "title": "Brian Daboll needed just 10 words to describe Giants\u2019 NFL draft process - New York Post",
+      "link": "https://nypost.com/2025/04/21/sports/brian-daboll-needed-just-10-words-to-describe-giants-nfl-draft-decision-making-process/"
+    },
+    {
+      "title": "2025 NFL Mock Draft: Shedeur Sanders to the Steelers + Ashton Jeanty to the Bears | Football 301 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/2025-nfl-mock-draft-shedeur-sanders-to-the-steelers--ashton-jeanty-to-the-bears--football-301-003733911.html"
+    },
+    {
+      "title": "Sources: UCLA's Aguilar to transfer to Tennessee - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/44789528/ucla-qb-joey-aguilar-plans-transfer-tennessee"
     },
     {
       "title": "Fantasy Baseball: Prospect call-up Nick Kurtz adds another potential stud to the first base ranks - CBS Sports",
       "link": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-prospect-call-up-nick-kurtz-adds-another-potential-stud-to-the-first-base-ranks/"
     },
     {
+      "title": "NFC Draft Rumors: Jaire Alexander, Bears, Lions, Packers, Vikings - NFLTradeRumors.co",
+      "link": "https://nfltraderumors.co/nfl-draft-rumors-jaire-alexander-bears-lions-packers-vikings/"
+    },
+    {
       "title": "What we learned from Seahawks' pre-draft news conference - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/seahawks/four-takeaways-from-seahawks-pre-draft-press-conference/"
     },
     {
-      "title": "Final Mock Drafts Are In: What the Experts See for 49ers at No. 11 - San Francisco 49ers",
-      "link": "https://www.49ers.com/news/2025-nfl-draft-final-mock-drafts-49ers-at-no-11-trade-will-johnson-walter-nolen-mason-graham"
+      "title": "Pro Football Hall of Famer and podcast star Shannon Sharpe sued for sexual assault and battery - CNN",
+      "link": "https://www.cnn.com/2025/04/21/sport/shannon-sharpe-sued-sexual-assault-battery/index.html"
     },
     {
-      "title": "Bears Are \u201cPraying\u201d For Ashton Jeanty to Fall to Them at Pick No. 10 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/bears/2025/04/21/ashton-jeanty-runors-0421/"
-    },
-    {
-      "title": "Seven-round NFL mock drafts for all 32 teams: Breaking down the perfect draft plan for every franchise - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/seven-round-nfl-mock-drafts-for-all-32-teams-breaking-down-the-perfect-draft-plan-for-every-franchise/"
-    },
-    {
-      "title": "NFL Draft Rumors: Tetairoa McMillan, Jalen Milroe, Tyler Shough, Medical Red Flags - NFLTradeRumors.co",
-      "link": "https://nfltraderumors.co/nfl-draft-rumors-tetairoa-mcmillan-jalen-milroe-tyler-shough-medical-red-flags/"
-    },
-    {
-      "title": "Steelers Swing Big On Quarterback, Add Explosive Weapons In ESPN's Latest Seven-Round Mock Draft - Steelers Depot",
-      "link": "https://steelersdepot.com/2025/04/steelers-swing-big-on-quarterback-add-explosive-weapons-in-espns-latest-seven-round-mock-draft/"
-    },
-    {
-      "title": "Tottenham 1-2 Nottingham Forest: We don\u2019t talk about Nuno no no - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/2025/4/21/24413341/tottenham-1-2-nottingham-forest-we-dont-talk-about-nuno-no-no"
-    },
-    {
-      "title": "Former NBA Star Makes Jayson Tatum Accusation After Game 1 - Athlon Sports",
-      "link": "https://athlonsports.com/nba/boston-celtics/former-nba-star-makes-jayson-tatum-accusation-after-game-1"
-    },
-    {
-      "title": "Kraken fire head coach Dan Bylsma after one season in charge - KING5.com",
-      "link": "https://www.king5.com/article/sports/nhl/kraken/kraken-fire-head-coach-dan-bylsma-one-season-charge/281-01e1a3b9-62ef-436e-9836-d0263e8c5aa5"
-    },
-    {
-      "title": "Vikings Fans Get the Tweet They\u2019ve Wanted for 8 Months - Vikings Territory",
-      "link": "https://vikingsterritory.com/2025/news/top_news/vikings-fans-get-tweet"
+      "title": "Spencer Strider to IL with hamstring strain, Michael Petersen recalled - Battery Power",
+      "link": "https://www.batterypower.com/2025/4/21/24413488/spencer-strider-to-il-with-hamstring-strain-michael-petersen-recalled"
     }
   ],
   "weather": {
