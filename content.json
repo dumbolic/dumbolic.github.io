@@ -1,9 +1,9 @@
 {
-  "quote": "Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. \u2013 Kamal Ravikant",
-  "fact": "3.6 cans of Spam are consumed each second.",
-  "crypto": "BTC: $94,265 | ETH: $1,794.04",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Is there a hole in your shoe? No\u2026 Then how\u2019d you get your foot in it?",
+  "quote": "Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. \u2013 Simon Sinek",
+  "fact": "An eighteenth-century German named Matthew Birchinger, known as \"the little man of Nuremberg,\" played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.",
+  "crypto": "BTC: $94,289 | ETH: $1,797.37",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Galaxy S24 FE finally starts getting stable One UI 7.0 update - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s21-plus-ultra-fe-one-ui-7-update-schedule/"
+      "title": "Duolingo is getting a chess course - The Verge",
+      "link": "https://www.theverge.com/news/649319/duolingo-chess-course-ios-test"
     },
     {
       "title": "Nintendo Announces Official Pre-Order Date for the Switch 2 \u2014 Everything You Need to Know About When and Where to Buy - The Hollywood Reporter",
       "link": "http://www.hollywoodreporter.com/lifestyle/shopping/where-when-to-preorder-buy-nintendo-switch-2-online-1236116319/"
+    },
+    {
+      "title": "Breaking: Samsung Galaxy S23, S23+ and S23 Ultra getting stable One UI 7.0 - Sammy Fans",
+      "link": "https://www.sammyfans.com/2025/04/21/breaking-samsung-galaxy-s23-s23-and-s23-ultra-getting-stable-one-ui-7-0/"
     },
     {
       "title": "Game Boy Advance \u2013 Nintendo Switch Online adds Fire Emblem: The Sacred Stones - Gematsu",
@@ -40,36 +44,36 @@
       "link": "https://www.cnet.com/science/space/amazon-sets-new-rocket-launch-date-for-its-starlink-satellite-service-rival/"
     },
     {
-      "title": "Sidecar app removing CarPlay browser and video playback feature, refunds available - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/21/sidecar-app-removing-carplay-browser-and-video-playback-feature-refunds-available/"
+      "title": "Game Boy clone maker Anbernic suspends all shipments to US - The Verge",
+      "link": "https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china"
     },
     {
-      "title": "iOS 19 reportedly dropping support for these iPhones - Tom's Guide",
-      "link": "https://www.tomsguide.com/phones/iphones/ios-19-reportedly-dropping-support-for-these-iphones"
+      "title": "Sidecar app removing CarPlay browser and video playback feature, refunds available - 9to5Mac",
+      "link": "https://9to5mac.com/2025/04/21/sidecar-app-removing-carplay-browser-and-video-playback-feature-refunds-available/"
     },
     {
       "title": "Google Photos Now Lets You Convert Standard Photos to Ultra HDR - Lifehacker",
       "link": "https://lifehacker.com/tech/google-photos-convert-images-ultra-hdr"
     },
     {
+      "title": "New report pins Q4 release date for Samsung\u2019s \u2018tri-fold\u2019 and Galaxy Z Flip FE - 9to5Google",
+      "link": "http://9to5google.com/2025/04/21/samsung-galaxy-z-flip-fe-tri-fold-q4-2025-release-date-report/"
+    },
+    {
+      "title": "NVIDIA Pushes Out New GeForce Hotfix Driver 576.15, Addressing Display Crashing & GPU Temperature Sensor Issues - Wccftech",
+      "link": "https://wccftech.com/nvidia-pushes-out-new-geforce-hotfix-driver-576-15/"
+    },
+    {
       "title": "Input lag test results for Fatal Fury: City of the Wolves on PlayStation 5, PlayStation 4, Xbox and Steam Deck - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/apr/21/fatal-fury-input-lag/"
-    },
-    {
-      "title": "Galaxy Z Flip 7 Was Rumored To Ship With The Exynos 2500, But Has Apparently Passed All Of Samsung\u2019s Internal Tests With The Snapdragon 8 Elite Instead - Wccftech",
-      "link": "https://wccftech.com/galaxy-z-flip-7-passed-all-samsung-internal-tests-with-the-snapdragon-8-elite/"
-    },
-    {
-      "title": "NVIDIA releases GeForce Hot Fix driver solving GPU temperature reporting issue - VideoCardz.com",
-      "link": "https://videocardz.com/pixel/nvidia-releases-geforce-hot-fix-driver-solving-gpu-temperature-problem"
     },
     {
       "title": "Quince Made the Perfect Perfume Dupes - The Cut",
       "link": "http://www.thecut.com/article/fragrance-review-quinces-dupes-of-le-labo-santal-baccarat.html"
     },
     {
-      "title": "Sony shows off the PS5 Pro\u2019s liquid metal updates - The Verge",
-      "link": "https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes"
+      "title": "PS5 Pro Liquid Metal Cooling Improved After OG PS5 Challenges, Sony Confirms - PlayStation LifeStyle",
+      "link": "https://www.playstationlifestyle.net/2025/04/21/ps5-pro-liquid-metal-cooling-improved/"
     },
     {
       "title": "Diablo 4's Battle Pass Is Getting A Major Rework For Season 8 - GameSpot",
@@ -78,32 +82,52 @@
     {
       "title": "A Week After Remaster Leak, Bethesda Teases Elder Scrolls IV: Oblivion Announcement Tomorrow - Game Informer",
       "link": "https://www.gameinformer.com/2025/04/21/a-week-after-remaster-leak-bethesda-teases-elder-scrolls-iv-oblivion-announcement"
-    },
-    {
-      "title": "Bluesky is adding blue checks for \u2018authentic and notable\u2019 accounts - The Verge",
-      "link": "https://www.theverge.com/news/652687/bluesky-blue-checks-verification-authentic-notable-accounts"
-    },
-    {
-      "title": "Is Atlanta Braves 2B Ozzie Albies cooked? (April Edition) - Battery Power",
-      "link": "https://www.batterypower.com/2025/4/21/24412762/atlanta-braves-player-analysis-ozzie-albies-offensive-production-lack-therof-is-it-over"
     }
   ],
   "sports_news": [
     {
-      "title": "Kings 6-5 Oilers (Apr 21, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nhl/recap?gameId\\\\u003d401768174"
+      "title": "Fantasy Baseball SP Roundup 4/21: Maxterpiece Theater - Pitcher List",
+      "link": "http://pitcherlist.com/sp-roundup-4-21-25/"
     },
     {
-      "title": "Nico Iamaleava\u2019s brother, Madden, is expected to transfer to UCLA, too - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nico-iamaleavas-brother-madden-is-expected-to-transfer-to-ucla-too"
+      "title": "'A great time to be a Met': Lindor's 2-homer night powers Mets past Phils - MLB.com",
+      "link": "https://www.mlb.com/news/francisco-lindor-hits-two-homers-in-mets-win-vs-phillies"
+    },
+    {
+      "title": "Warriors' Butler drops fire Steph bar after win vs. Rockets - Yahoo Sports",
+      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/jimmy-butler-steph-curry-organized-chaos/1844273/?partner=yahoo"
+    },
+    {
+      "title": "Alex Ovechkin finally scores first career overtime playoff goal 20 seasons into career: \u2018Good things happen when you go to the net\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/04/21/alex-ovechkin-first-career-playoff-overtime-goal/"
     },
     {
       "title": "Cade Cunningham Amazes NBA Fans as Pistons Beat Knicks to Snap Playoff Losing Streak - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25189058-cade-cunningham-amazes-nba-fans-pistons-beat-knicks-snap-playoff-losing-streak"
     },
     {
+      "title": "Game Thread \u2013 Kings vs. Oilers, Round 1, Game 1 - LA Kings Insider",
+      "link": "https://lakingsinsider.com/2025/04/21/game-thread-kings-vs-oilers-round-1-game-1/"
+    },
+    {
       "title": "The Kraken need a coach (again). Here are some potential candidates - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/kraken/who-could-replace-fired-kraken-coach-dan-bylsma-heres-an-early-list/"
+    },
+    {
+      "title": "Shannon Sharpe Accused Of Rape In Civil Suit; NFL Hall Of Famer Responds Via Lawyer Statement - Deadline",
+      "link": "http://deadline.com/2025/04/shannon-sharpe-accused-rape-lawsuit-1236373425/"
+    },
+    {
+      "title": "For Mavericks GM Nico Harrison, the end could come sooner than he expects - Dallas News",
+      "link": "https://www.dallasnews.com/sports/mavericks/2025/04/21/for-mavericks-gm-nico-harrison-the-end-could-come-sooner-than-he-expects/"
+    },
+    {
+      "title": "Report: Madden Iamaleava makes transfer decision before officialling entering portal - On3.com",
+      "link": "https://www.on3.com/college/ucla-bruins/news/report-madden-iamaleava-plans-to-transfer-to-ucla-to-join-brother-nico/"
+    },
+    {
+      "title": "Sources: UCLA's Aguilar to transfer to Tennessee - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/44789528/ucla-qb-joey-aguilar-plans-transfer-tennessee"
     },
     {
       "title": "What we learned from Seahawks' pre-draft news conference - The Seattle Times",
@@ -114,20 +138,16 @@
       "link": "https://www.49ers.com/news/2025-nfl-draft-final-mock-drafts-49ers-at-no-11-trade-will-johnson-walter-nolen-mason-graham"
     },
     {
-      "title": "Live updates: Washington Capitals vs Montreal Canadiens \u2013 Round 1, Game 1 - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/04/21/live-updates-washington-capitals-vs-montreal-canadiens-round-1-game-1/"
+      "title": "Athletics To Promote Nick Kurtz - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/04/athletics-to-promote-nick-kurtz.html"
     },
     {
-      "title": "BREAKING: Tennessee lands replacement for Nico Iamaleava - On3.com",
-      "link": "https://www.on3.com/college/tennessee-volunteers/news/former-ucla-qb-joey-aguilar-commits-to-tennessee/"
+      "title": "There\u2019s one place Rangers\u2019 far-ranging coaching search won\u2019t go - New York Post",
+      "link": "https://nypost.com/2025/04/21/sports/theres-one-place-rangers-far-ranging-coaching-search-wont-go/"
     },
     {
       "title": "Seven-round NFL mock drafts for all 32 teams: Breaking down the perfect draft plan for every franchise - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/seven-round-nfl-mock-drafts-for-all-32-teams-breaking-down-the-perfect-draft-plan-for-every-franchise/"
-    },
-    {
-      "title": "Braves Place Spencer Strider On IL With Hamstring Strain - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/04/braves-place-spencer-strider-on-il-with-hamstring-strain.html"
     },
     {
       "title": "Steelers Swing Big On Quarterback, Add Explosive Weapons In ESPN's Latest Seven-Round Mock Draft - Steelers Depot",
@@ -142,28 +162,8 @@
       "link": "https://cartilagefreecaptain.sbnation.com/2025/4/21/24413341/tottenham-1-2-nottingham-forest-we-dont-talk-about-nuno-no-no"
     },
     {
-      "title": "DI Board of Directors conditionally approves House settlement-related rules changes - NCAA.org",
-      "link": "https://www.ncaa.org/news/2025/4/21/media-center-di-board-of-directors-conditionally-approves-house-settlement-related-rules-changes.aspx"
-    },
-    {
-      "title": "Clippers vs Nuggets Odds, Prediction: NBA Playoffs Game 2 Picks for Monday, April 21 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/clippers-vs-nuggets-prediction-odds-nba-pick-for-monday-april-21-qs"
-    },
-    {
-      "title": "Nick Kurtz debut: Athletics to promote top prospect to majors after reconfiguring infield, per report - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/nick-kurtz-debut-athletics-to-promote-top-prospect-to-majors-after-reconfiguring-infield-per-report/"
-    },
-    {
-      "title": "5 things learned from Packers GM Brian Gutekunst as 2025 NFL Draft approaches - Green Bay Packers",
-      "link": "https://www.packers.com/news/5-things-learned-from-packers-gm-brian-gutekunst-as-2025-nfl-draft-approaches"
-    },
-    {
-      "title": "'Being a contender for the Stanley Cup' remains Penguins president Kyle Dubas' long-term focus - TribLIVE.com",
-      "link": "https://triblive.com/sports/being-a-contender-for-the-stanley-cup-remains-penguins-president-kyle-dubas-long-term-focus/"
-    },
-    {
-      "title": "Nerdy Birds: 2025 Falcons Insider Draft Guide - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/2025-nfl-draft-falcons-history-insider-guide"
+      "title": "Former NBA Star Makes Jayson Tatum Accusation After Game 1 - Athlon Sports",
+      "link": "https://athlonsports.com/nba/boston-celtics/former-nba-star-makes-jayson-tatum-accusation-after-game-1"
     }
   ],
   "weather": {
