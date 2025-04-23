@@ -1,9 +1,9 @@
 {
-  "quote": "The successful warrior is the average man, with laser-like focus. \u2013 Bruce Lee",
-  "fact": "One-fourth of the world`s population lives on less than $200 a year.\u00a0 Ninety million people survive on less than $75 a year.",
-  "crypto": "BTC: $93,603 | ETH: $1,801.3",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What is the best way to carve?\r\nWhittle by whittle.",
+  "quote": "Every act of creation is first an act of destruction. \u2013 Pablo Picasso",
+  "fact": "The human heart creates enough pressure to squirt blood 30ft.",
+  "crypto": "BTC: $93,822 | ETH: $1,804.93",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Somebody stole my Microsoft Office and they're going to pay - you have my Word.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,52 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nintendo Switch 2 Preorders: A Complete Guide To Getting Your Hands On One - Kotaku",
+      "link": "https://kotaku.com/switch-2-preorder-amazon-walmart-best-buy-gamestop-1851777336"
+    },
+    {
+      "title": "Apple Intelligence No Longer \u2018Available Now\u2019 After False Advertising Inquiry - Gizmodo",
+      "link": "https://gizmodo.com/apple-intelligence-no-longer-available-now-after-false-advertising-inquiry-2000592796"
+    },
+    {
       "title": "The New 2025 85\" Hisense QD7 4K Mini-LED Gaming TV Is Out Today, and It's Already on Sale - IGN",
       "link": "https://www.ign.com/articles/hisense-qd7-4k-mini-led-gaming-tv-deal-2025"
+    },
+    {
+      "title": "The Elder Scrolls 4: Oblivion Remastered Finally Revealed in First-Look Gameplay \u2014 and It's Out Today - IGN",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-4-oblivion-remastered-finally-revealed-in-first-look-gameplay-and-its-out-today"
     },
     {
       "title": "Google Fi is launching a $35 / month unlimited plan - The Verge",
       "link": "https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan"
     },
     {
-      "title": "You can play the Unreal-powered The Elder Scrolls IV: Oblivion remaster today - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/04/you-can-play-the-unreal-powered-the-elder-scrolls-iv-oblivion-remaster-today/"
-    },
-    {
       "title": "Apple\u2019s New Siri Chief Enlists Vision Pro Talent to Start Comeback Bid - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2025-04-22/apple-s-new-siri-chief-mike-rockwell-overhauls-management-to-start-turnaround"
     },
     {
-      "title": "Elder Scrolls 6 Mentioned by Todd Howard During Oblivion Remastered Reveal - Insider Gaming",
-      "link": "https://insider-gaming.com/elder-scrolls-6-mentioned-by-todd-howard-during-oblivion-remastered-reveal/"
+      "title": "Two undergrads built an AI speech model to rival NotebookLM - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/22/two-undergrads-built-an-ai-speech-model-to-rival-notebooklm/"
     },
     {
-      "title": "Civilization VII's Road To Recovery Continues With Fourth Big Update - Kotaku",
-      "link": "https://kotaku.com/civilization-7-patch-notes-1-2-0-switch-steam-reviews-1851777269"
-    },
-    {
-      "title": "Apple drops \u2018available now\u2019 from Apple Intelligence page - The Verge",
-      "link": "https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim"
-    },
-    {
-      "title": "A streamer played an hour of Marathon early before Bungie cut him off - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/a-streamer-played-an-hour-of-marathon-early-before-bungie-cut-him-off"
-    },
-    {
-      "title": "Why I love my ridiculous 77-inch LG C3 OLED TV - The Verge",
-      "link": "https://www.theverge.com/tech/651072/lg-c3-oled-tv-favorites"
-    },
-    {
-      "title": "Retro game industry in panic as Trump tariffs threaten hobby - Polygon",
-      "link": "https://www.polygon.com/gaming/562454/retro-handheld-industry-retroid-anbernic"
-    },
-    {
-      "title": "Android's Photo Picker is about to get the search feature you've always wanted - Android Authority",
-      "link": "https://www.androidauthority.com/android-photo-picker-search-2-3546611/"
-    },
-    {
-      "title": "Your daily Chiefs trivia game, Tuesday edition - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/2025/4/22/24413790/sb-nation-chiefs-daily-trivia-in-5"
+      "title": "Samsung launches \u2018Re-Newed\u2019 Galaxy S24 series with $250 minimum trade-in value - 9to5Google",
+      "link": "http://9to5google.com/2025/04/22/samsung-launches-re-newed-galaxy-s24-price-trade-in-value/"
     },
     {
       "title": "Coca-Cola under fire after bombshell report exposes ties to controversial industry: 'The cost is irreversible damage to our children's health' - Yahoo",
@@ -74,20 +58,80 @@
     {
       "title": "iPhone 17 Pro Allegedly Coming in Sky Blue Color Used for MacBook Air - MacRumors",
       "link": "https://www.macrumors.com/2025/04/22/iphone-17-pro-sky-blue-color/"
+    },
+    {
+      "title": "Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials - The Hacker News",
+      "link": "https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html"
+    },
+    {
+      "title": "Google just fired the first shot of the next battle in the AI war - Business Insider",
+      "link": "https://www.businessinsider.com/google-openai-anthropic-ai-agents-training-data-2025-4"
+    },
+    {
+      "title": "Legion Tab Gen 4: Lenovo confirms a feature missing from its last gaming tablet - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Legion-Tab-Gen-4-Lenovo-confirms-a-feature-missing-from-its-last-gaming-tablet.1002797.0.html"
+    },
+    {
+      "title": "All Heroes And Abilities In Overwatch 2 Stadium Mode - GameSpot",
+      "link": "https://www.gamespot.com/gallery/overwatch-2-stadium-heroes-and-abilities-list/2900-6490/"
+    },
+    {
+      "title": "Diablo 4's Battle Pass Is Getting A Major Rework For Season 8 - GameSpot",
+      "link": "https://www.gamespot.com/articles/diablo-4-battle-pass-is-getting-a-major-rework-for-season-8/1100-6530937/"
+    },
+    {
+      "title": "The 2025 BMW M5 Is a Brilliant Performer, But Hard to Love - Road & Track",
+      "link": "https://www.roadandtrack.com/reviews/a63968611/2025-bmw-m5-sedan-review-magazine/"
+    },
+    {
+      "title": "Stimulating the retina to allow people to see a brand new color - Medical Xpress",
+      "link": "https://medicalxpress.com/news/2025-04-retina-people-brand.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Anthony Edwards Fined $50K by NBA for NSFW Remarks to Fan on Video in Wolves-Lakers - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25189283-anthony-edwards-fined-50k-nba-nsfw-remarks-fan-video-wolves-lakers"
+      "title": "NFL draft could get \u2018a little wild\u2019 with GM predicting trade bonanza - New York Post",
+      "link": "https://nypost.com/2025/04/22/sports/nfl-draft-could-get-a-little-wild-with-gm-predicting-trade-bonanza/"
     },
     {
-      "title": "Travis Hunter Sr. receives court permission to leave home confinement for the draft - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-sr-receives-court-permission-to-leave-home-confinement-for-the-draft"
+      "title": "Mike Patrick, longtime ESPN broadcaster, dies - ESPN",
+      "link": "https://www.espn.com/espn/story/_/id/44803930/mike-patrick-espn-play-play-voice-36-years-dies-80"
+    },
+    {
+      "title": "4 Patriots rumors we are hearing before the NFL Draft - Pats Pulpit",
+      "link": "https://www.patspulpit.com/2025/4/22/24413884/patriots-rumors-nfl-draft-campbell-walker-trade"
+    },
+    {
+      "title": "Everything You Need to Know About the Ravens\u2019 2025 Draft - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-nfl-draft-preview-2025-everything-you-need-to-know"
+    },
+    {
+      "title": "Timberwolves' Anthony Edwards fined $50,000 for obscene gesture and comment directed at heckler - AP News",
+      "link": "https://apnews.com/article/nba-timberwolves-anthony-edwards-fine-b5849ab715c909741d570bd95bd67dd4"
+    },
+    {
+      "title": "NBA Parlay Picks Tonight: +435 Bet for Tuesday, April 22 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nba-parlay-picks-tonight-bet-tuesday-april-22-qs"
+    },
+    {
+      "title": "James Cook is not at the start of Bills voluntary workouts - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-is-not-at-the-start-of-bills-voluntary-workouts"
+    },
+    {
+      "title": "Jerry Jones Says Cowboys Are Working on '2 Pretty Substantial Trades' Ahead of Draft - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25189294-jerry-jones-says-cowboys-are-working-2-pretty-substantial-trades-ahead-draft"
+    },
+    {
+      "title": "Browns \u2018not immediately slamming down the phone\u2019 as teams call them and the Giants to move up to 2 and 3, ana - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/04/browns-not-immediately-slamming-down-the-phone-as-teams-call-them-and-the-giants-to-move-up-to-2-and-3-analyst-says.html"
     },
     {
       "title": "Lamoriello will not return as Islanders president, general manager - NHL.com",
       "link": "https://www.nhl.com/news/lou-lamoriello-will-not-return-as-new-york-islanders-general-manager"
+    },
+    {
+      "title": "Guardians Select Will Wilson - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/04/guardians-select-will-wilson.html"
     },
     {
       "title": "Pro Football Hall of Famer and podcast star Shannon Sharpe sued for sexual assault and battery. He says it\u2019s a \u2018shakedown\u2019 - CNN",
@@ -98,64 +142,32 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-reports-to-falcons-for-first-day-of-voluntary-offseason-work"
     },
     {
-      "title": "Ex-NBA ROY Carter-Williams to debut in boxing - ESPN",
-      "link": "https://www.espn.com/boxing/story/_/id/44801938/former-nba-roy-michael-carter-williams-make-boxing-debut"
+      "title": "Jalen Brunson Is The NBA\u2019s Premier Falling-Down Artist - Defector",
+      "link": "https://defector.com/jalen-brunson-is-the-nbas-premier-falling-down-artist"
+    },
+    {
+      "title": "Al Horford calls out Magic guard after controversial Jayson Tatum foul - MassLive",
+      "link": "https://www.masslive.com/celtics/2025/04/al-horford-calls-out-magic-guard-after-controversial-jayson-tatum-foul.html"
     },
     {
       "title": "Cincinnati football player Jeremiah Kelly dies unexpectedly at his home - NBC News",
       "link": "https://www.nbcnews.com/sports/college-football/cincinnati-football-player-jeremiah-kelly-dies-rcna202401"
     },
     {
-      "title": "One Cornerback in Every Round the Ravens Could Draft - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-nfl-draft-cornerback-every-round"
+      "title": "49ers linked with potential trade up candidate in the first round if this prospect falls to pick No. 11 - Niners Nation",
+      "link": "https://www.ninersnation.com/2025/4/22/24414021/49ers-ashton-jeany-broncos-trade-up-justin-fields"
     },
     {
-      "title": "Brock Purdy joins 49ers for voluntary conditioning amidst extension talks - Niners Nation",
-      "link": "https://www.ninersnation.com/2025/4/22/24414013/brock-purdy-joins-49ers-voluntary-conditioning-amidst-contract-extension-negotiations"
+      "title": "Raiders 2025 Mock Draft Tracker 11.0: The Raiders are (almost) on the clock - Las Vegas Raiders",
+      "link": "https://www.raiders.com/news/raiders-2025-mock-draft-tracker-the-raiders-are-almost-on-the-clock-nfl-2025"
     },
     {
-      "title": "2025 NFL mock draft: Shedeur Sanders taken late in Round 1 after QB-needy team trades up to get him - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/draft/news/2025-nfl-mock-draft-shedeur-sanders-taken-late-in-round-1-after-qb-needy-team-trades-up-to-get-him/"
+      "title": "Column | It\u2019s Alex Ovechkin\u2019s season and Alex Ovechkin\u2019s franchise \u2014 still - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/04/22/barry-svrluga-alex-ovechkin-capitals-game-1/"
     },
     {
-      "title": "Steelers putting finishing touches on draft prep - Steelers.com",
-      "link": "https://www.steelers.com/news/steelers-putting-finishing-touches-on-2025-draft-prep"
-    },
-    {
-      "title": "The Luka Doncic trade makes sense once you understand Nico Harrison - SBNation.com",
-      "link": "https://www.sbnation.com/nba/2025/4/22/24413683/luka-doncic-trade-nico-harrison-explanation-mavericks-gm-comments"
-    },
-    {
-      "title": "Kraken GM Ron Francis replaced by Jason Botterill in front-office restructure - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/kraken/kraken-gm-ron-francis-replaced-by-jason-botterill-in-front-office-restructure/"
-    },
-    {
-      "title": "Lions 7-round mock draft: Trade up nets elite DL talent - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/4/22/24413836/video-detroit-lions-mock-draft-2025-nfl-seven-round"
-    },
-    {
-      "title": "Jameson Williams posts cryptic message on social media; possible landing spots if Lions trades WR - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/jameson-williams-posts-cryptic-message-on-social-media-possible-landing-spots-if-lions-trades-wr/"
-    },
-    {
-      "title": "Eagles News: Daniel Jeremiah discusses Philadelphia potentially trading up for Jalon Walker - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/2025/4/22/24413925/eagles-news-daniel-jeremiah-discusses-philadelphia-potentially-trading-up-jalon-walker-georgia-edge"
-    },
-    {
-      "title": "Projected Lineup: Round 1, Game 2 vs. NJD - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-round-1-game-2-vs-njd"
-    },
-    {
-      "title": "New York Giants \u2018fielding calls\u2019 for No. 3 overall pick, per report - Big Blue View",
-      "link": "https://www.bigblueview.com/2025/4/22/24413951/new-york-giants-draft-rumors-giants-fielding-calls-for-no-3-overall-pick-per-report"
-    },
-    {
-      "title": "Jason Mackey: Forget bricks and bobbleheads. Pirates owner Bob Nutting should worry about fixing his team's baseball problems - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/jason-mackey/2025/04/22/bob-nutting-bucco-bricks-paul-skenes-bobblehead-derek-shelton-ben-cherington/stories/202504220038"
-    },
-    {
-      "title": "Chicago Bears Notes: More NFL Insider Mock Drafts Focus On Trenches - Bleacher Nation",
-      "link": "https://www.bleachernation.com/bears/2025/04/22/bears-notes-april-22-2025/"
+      "title": "Davante Adams was \u201cshocked\u201d by Jets\u2019 handling of Aaron Rodgers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-was-shocked-by-jets-handling-of-aaron-rodgers"
     }
   ],
   "weather": {
