@@ -1,9 +1,9 @@
 {
-  "quote": "Knowing others is wisdom, knowing yourself is enlightenment. \u2013 Lao Tzu",
-  "fact": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
-  "crypto": "BTC: $92,536 | ETH: $1,746.59",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How do hens stay fit? They always egg-cercise!",
+  "quote": "The way to get started is to quit talking and begin doing. \u2013 Walt Disney",
+  "fact": "`Obsession` is the most popular boat name.",
+  "crypto": "BTC: $92,408 | ETH: $1,746.94",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,66 +12,102 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Ghost of Yotei Gets PS5 Release Date, Trailer, Pre-Order Details - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/04/ghost-of-yotei-gets-ps5-release-date-trailer-pre-order-details"
+    },
+    {
+      "title": "There's already almost 100 mods for Oblivion Remake, even without official support from Bethesda - Eurogamer",
+      "link": "https://www.eurogamer.net/theres-already-almost-100-mods-for-oblivion-remake-even-without-official-support-from-bethesda"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 Has The Juice - Kotaku",
+      "link": "https://kotaku.com/clair-obscur-expedition-33-rpg-review-in-progress-1851777402"
+    },
+    {
+      "title": "New Porsche 911 'Spirit 70' Revives the Iconic 'Pasha' Seats - Motor1.com",
+      "link": "https://www.motor1.com/news/757392/2026-porsche-911-spirit-70/"
+    },
+    {
       "title": "Scientists Say They Found a New Color Humans Have Never Seen Before - ScienceAlert",
       "link": "https://www.sciencealert.com/scientists-say-they-found-a-new-color-humans-have-never-seen-before"
     },
     {
-      "title": "Google Fi Gains New $35/Month Unlimited Plan, Improved iPhone Integration - MacRumors",
-      "link": "https://www.macrumors.com/2025/04/22/google-fi-improved-iphone-integration/"
+      "title": "Samsung now sells refurbished Galaxy S24 Ultra, S24+, and S24 at discounted prices - ZDNET",
+      "link": "https://www.zdnet.com/article/samsung-now-sells-refurbished-galaxy-s24-ultra-s24-and-s24-at-discounted-prices/"
     },
     {
-      "title": "Bethesda Gifts The Elder Scrolls IV: Oblivion Remastered Keys to Entire Skyblivion Modding Team - IGN",
-      "link": "https://www.ign.com/articles/bethesda-gifts-the-elder-scrolls-iv-oblivion-remastered-keys-to-entire-skyblivion-modding-team"
+      "title": "Apple Intelligence No Longer \u2018Available Now\u2019 After False Advertising Inquiry - Gizmodo",
+      "link": "https://gizmodo.com/apple-intelligence-no-longer-available-now-after-false-advertising-inquiry-2000592796"
     },
     {
-      "title": "The New 2025 85\" Hisense QD7 4K Mini-LED Gaming TV Is Out Today, and It's Already on Sale - IGN",
-      "link": "https://www.ign.com/articles/hisense-qd7-4k-mini-led-gaming-tv-deal-2025"
+      "title": "Character.AI unveils AvatarFX, an AI video model to create lifelike chatbots - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/22/character-ai-unveils-avatarfx-an-ai-video-model-to-create-lifelike-chatbots/"
     },
     {
-      "title": "New video shows iPhone 17 Air thinness hands-on: \u2018that feels futuristic\u2019 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/22/new-video-shows-iphone-17-air-thinness-hands-on-that-feels-futuristic/"
+      "title": "Overwatch 2\u2019s new mode, Stadium, is the game\u2019s 3rd pillar, Blizzard says - Polygon",
+      "link": "https://www.polygon.com/overwatch/559233/overwatch-2-stadium-mode-blizzard-interview"
+    },
+    {
+      "title": "Twitch Drop: Get the Beetriz Pet\u2014Now Live! \u2014 World of Warcraft - Blizzard News",
+      "link": "https://news.blizzard.com/en-us/article/24195997/twitch-drop-get-the-beetriz-petnow-live"
     },
     {
       "title": "Instagram Launches Video-Editing App to Draw TikTok Creators (META) - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2025-04-22/instagram-launches-video-editing-app-to-draw-tiktok-creators"
     },
     {
-      "title": "Your daily Chiefs trivia game, Tuesday edition - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/2025/4/22/24413790/sb-nation-chiefs-daily-trivia-in-5"
+      "title": "A botched One UI 7 rollout tarnishes Samsung\u2019s otherwise stellar update - 9to5Google",
+      "link": "http://9to5google.com/2025/04/22/samsung-flat-out-fumbled-the-one-ui-7-rollout/"
+    },
+    {
+      "title": "AMD is finally releasing the most affordable next-gen graphics cards to challenge Nvidia - Glass Almanac",
+      "link": "https://glassalmanac.com/amd-is-finally-releasing-the-most-affordable-next-gen-graphics-cards-to-challenge-nvidia/"
+    },
+    {
+      "title": "Samsung could disappoint fans waiting for the Galaxy S25 FE - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-galaxy-s25-fe-m36-5g-soc-leak-3546771/"
+    },
+    {
+      "title": "Samsung is working on One UI 7 Watch beta update right now - SamMobile",
+      "link": "https://www.sammobile.com/news/samsung-releases-march-2025-security-update-galaxy-watch-ultra-watch-7/"
     },
     {
       "title": "Coca-Cola under fire after bombshell report exposes ties to controversial industry: 'The cost is irreversible damage to our children's health' - Yahoo",
       "link": "https://www.yahoo.com/news/coca-cola-under-fire-bombshell-113034785.html"
     },
     {
-      "title": "Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials - The Hacker News",
-      "link": "https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html"
+      "title": "iPhone 17 Pro Allegedly Coming in Sky Blue Color Used for MacBook Air - MacRumors",
+      "link": "https://www.macrumors.com/2025/04/22/iphone-17-pro-sky-blue-color/"
     },
     {
-      "title": "Google just fired the first shot of the next battle in the AI war - Business Insider",
-      "link": "https://www.businessinsider.com/google-openai-anthropic-ai-agents-training-data-2025-4"
-    },
-    {
-      "title": "Diablo 4's Battle Pass Is Getting A Major Rework For Season 8 - GameSpot",
-      "link": "https://www.gamespot.com/articles/diablo-4-battle-pass-is-getting-a-major-rework-for-season-8/1100-6530937/"
-    },
-    {
-      "title": "The 2025 BMW M5 Is a Brilliant Performer, But Hard to Love - Road & Track",
-      "link": "https://www.roadandtrack.com/reviews/a63968611/2025-bmw-m5-sedan-review-magazine/"
-    },
-    {
-      "title": "Google DeepMind on what\u2019s next for Gemini, AGI, and AI self-awareness - 9to5Google",
-      "link": "http://9to5google.com/2025/04/21/demis-hassabis-gemini-next/"
+      "title": "Your daily Lions trivia game, Tuesday edition - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/4/22/24413767/sb-nation-lions-daily-trivia-in-5"
     }
   ],
   "sports_news": [
     {
-      "title": "Luka Doncic Hyped By NBA Fans as LeBron, Lakers Beat Anthony Edwards, Wolves in Game 2 - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25189497-luka-doncic-hyped-nba-fans-lebron-lakers-beat-anthony-edwards-wolves-game-2"
+      "title": "Cris Collinsworth's 2025 NFL Mock Draft: Three quarterbacks selected, Cowboys land Will Campbell - PFF",
+      "link": "https://www.pff.com/news/draft-cris-collinsworth-2025-nfl-mock-draft"
     },
     {
-      "title": "Milwaukee Bucks vs. Indiana Pacers Live Score and Stats - April 22, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20250422_MIL@IND/"
+      "title": "7-round Patriots mock draft 3.0 | Mark Daniels - MassLive",
+      "link": "https://www.masslive.com/patriots/2025/04/7-round-patriots-mock-draft-30-mark-daniels.html-2"
+    },
+    {
+      "title": "Ashton Jeanty now favored to go to Jaguars with No. 5 pick - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-now-favored-to-go-to-jaguars-with-no-5-pick"
+    },
+    {
+      "title": "Brian Batko's 7-round 2025 Steelers mock draft: Threading the short-term and long-term needle - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/04/23/steelers-mock-draft-7-rounds-2025/stories/202504220035"
+    },
+    {
+      "title": "Tigers Fall to Northwestern State in Midweek Matchup - lsusports.net",
+      "link": "https://lsusports.net/news/2025/04/22/baseball-falls-to-northwestern-state-13-3-in-midweek-matchup/"
+    },
+    {
+      "title": "Ashton Jeanty Reportedly Won't Be Picked By Raiders with No. 6 Pick in 2025 NFL Draft - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25189484-ashton-jeanty-reportedly-wont-be-picked-raiders-no-6-pick-2025-nfl-draft"
     },
     {
       "title": "Micah Parsons candid about contract talks, training camp status: 'I gotta be ready for Week 1' - Dallas Cowboys",
@@ -82,8 +118,8 @@
       "link": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/phillies-news/phillies-drop-a-game-and-series-and-hope-they-didnt-lose-much-more/662058/"
     },
     {
-      "title": "Oilers hoping 'X-factor' Kane returns vs. Kings - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/44807943/edmonton-oilers-forward-evander-kane-return-round-1"
+      "title": "The early candidates for the Islanders\u2019 GM opening after Lou Lamoriello\u2019s firing - New York Post",
+      "link": "https://nypost.com/2025/04/22/sports/the-early-candidates-for-next-islanders-gm-after-lou-lamoriello-firing/"
     },
     {
       "title": "Shannon Sharpe Admits Offering $10M To Settle Rape Claims, Now Calls Lawsuit \u201cA Shakedown\u201d - Deadline",
@@ -98,48 +134,28 @@
       "link": "https://www.barcablaugranes.com/2025/4/23/24414300/hansi-flick-and-jagoba-arrasate-blown-away-by-pedri-after-barcelona-beat-mallorca"
     },
     {
+      "title": "Former NFL kicker, current broadcaster Jay Feely to run for Congress in Arizona - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-nfl-kicker-current-broadcaster-jay-feely-to-run-for-congress-in-arizona"
+    },
+    {
       "title": "With the 41st pick in the 2025 SB Nation Mock Draft, the Chicago Bears select... - Windy City Gridiron",
       "link": "https://www.windycitygridiron.com/2025/4/22/24411024/with-the-41st-pick-in-the-2025-sb-nation-mock-draft-chicago-bears-select-texas-alfred-collins-nfl"
     },
     {
-      "title": "Brock Purdy has arrived ahead of the NFL Draft, and that\u2019s great news for the 49ers - The San Francisco Standard",
-      "link": "https://sfstandard.com/2025/04/22/brock-purdy-49ers-nfl-draft/"
-    },
-    {
-      "title": "Giants\u2019 No. 3 NFL draft pick presents Joe Schoen a delicate QB puzzle to navigate - New York Post",
-      "link": "https://nypost.com/2025/04/22/sports/giants-no-3-pick-presents-joe-schoen-a-delicate-qb-puzzle-to-navigate/"
-    },
-    {
-      "title": "Celtics' Payton Pritchard wins NBA's Sixth Man of the Year for providing Boston with young spark - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/celtics-payton-pritchard-wins-nbas-sixth-man-of-the-year-for-providing-boston-with-young-spark/"
-    },
-    {
-      "title": "2025 NFL Draft: Pro execs, scouts, coaches rank and evaluate the top 18 prospects in this QB class - NFL.com",
-      "link": "https://www.nfl.com/news/2025-nfl-draft-pro-execs-scouts-coaches-rank-and-evaluate-the-top-18-prospects-in-this-qb-class"
+      "title": "Payton Pritchard Wins 2024-25 NBA Sixth Man of the Year over Ty Jerome, Malik Beasley - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25170659-payton-pritchard-wins-2024-25-nba-sixth-man-year-over-ty-jerome-malik-beasley"
     },
     {
       "title": "Mike Patrick, longtime ESPN announcer, dies at 80 - USA Today",
       "link": "https://www.usatoday.com/story/sports/nfl/2025/04/22/mike-patrick-espn-nfl-announcer-dies/83217602007/"
     },
     {
-      "title": "Ex-NFL kicker Feely to run for Congress in Ariz. - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/44804971/jay-feely-run-house-representatives-arizona"
-    },
-    {
       "title": "Men's Freestyle Seeds - 2025 US Open Wrestling Championships - FloWrestling",
       "link": "https://www.flowrestling.org/articles/14111162-mens-freestyle-seeds-2025-us-open-wrestling-championships"
     },
     {
-      "title": "Atlanta Braves starter Spencer Strider has a Grade 1 hamstring strain, per report - Battery Power",
-      "link": "https://www.batterypower.com/2025/4/22/24414276/atlanta-braves-injury-report-spencer-strider-hamstring-injury-grade-one-strain"
-    },
-    {
       "title": "Conor McGregor outlines major condition for UFC comeback as he names desired return opponent - Bloody Elbow",
       "link": "https://bloodyelbow.com/2025/04/22/conor-mcgregor-outlines-major-condition-for-ufc-comeback-as-he-names-desired-return-opponent/"
-    },
-    {
-      "title": "X\u2019s and O\u2019s: Breaking down film of new Vols transfer QB Joey Aguilar - 247Sports",
-      "link": "https://247sports.com/college/tennessee/longformarticle/joey-aguilar-tennessee-vols-football-transfer-portal-qb-analysis-film-breakdown-249101303/"
     }
   ],
   "weather": {
