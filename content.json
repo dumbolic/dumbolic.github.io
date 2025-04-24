@@ -1,9 +1,9 @@
 {
-  "quote": "The sun shines upon good and bad alike. \u2013 Hans Christian Andersen",
-  "fact": "The buzz from an electric razor in America plays in the key of B flat; Key of G in England.",
-  "crypto": "BTC: $92,677 | ETH: $1,765.47",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "No matter how kind you are, German children are kinder.",
+  "quote": "We will outstretch the hand if you unclench your fist. \u2013 Barack Obama",
+  "fact": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
+  "crypto": "BTC: $92,865 | ETH: $1,774.69",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How many apples grow on a tree? All of them!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Scientists Say They Found a New Color Humans Have Never Seen Before - ScienceAlert",
+      "link": "https://www.sciencealert.com/scientists-say-they-found-a-new-color-humans-have-never-seen-before"
+    },
+    {
+      "title": "Google Fi Gains New $35/Month Unlimited Plan, Improved iPhone Integration - MacRumors",
+      "link": "https://www.macrumors.com/2025/04/22/google-fi-improved-iphone-integration/"
+    },
+    {
       "title": "Bethesda Gifts The Elder Scrolls IV: Oblivion Remastered Keys to Entire Skyblivion Modding Team - IGN",
       "link": "https://www.ign.com/articles/bethesda-gifts-the-elder-scrolls-iv-oblivion-remastered-keys-to-entire-skyblivion-modding-team"
     },
     {
       "title": "iPhone 17 Air allegedly shown in multiple videos \u2014 and it's super, super thin - Tom's Guide",
       "link": "https://www.tomsguide.com/phones/iphones/iphone-17-air-allegedly-shown-in-new-video-and-its-super-super-thin"
+    },
+    {
+      "title": "Walmart's Doom: The Dark Ages Controller And Game Bundle Saves You Cash - GameSpot",
+      "link": "https://www.gamespot.com/articles/walmarts-doom-the-dark-ages-controller-and-game-bundle-saves-you-cash/1100-6530902/"
     },
     {
       "title": "Apple Intelligence No Longer \u2018Available Now\u2019 After False Advertising Inquiry - Gizmodo",
@@ -28,16 +40,12 @@
       "link": "https://www.ign.com/articles/hisense-qd7-4k-mini-led-gaming-tv-deal-2025"
     },
     {
-      "title": "Google Fi is launching a $35 / month unlimited plan - The Verge",
-      "link": "https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan"
+      "title": "Overwatch 2\u2019s new mode, Stadium, is the game\u2019s 3rd pillar, Blizzard says - Polygon",
+      "link": "https://www.polygon.com/overwatch/559233/overwatch-2-stadium-mode-blizzard-interview"
     },
     {
-      "title": "Apple\u2019s New Siri Chief Enlists Vision Pro Talent to Start Comeback Bid - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-04-22/apple-s-new-siri-chief-mike-rockwell-overhauls-management-to-start-turnaround"
-    },
-    {
-      "title": "Samsung launches \u2018Re-Newed\u2019 Galaxy S24 series with $250 minimum trade-in value - 9to5Google",
-      "link": "http://9to5google.com/2025/04/22/samsung-launches-re-newed-galaxy-s24-price-trade-in-value/"
+      "title": "Introducing Edits: A Streamlined Video Creation App - Meta Platforms",
+      "link": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/"
     },
     {
       "title": "Insta360 Says Its X5 360\u00b0 Camera Is the Smartest and Toughest Ever Made - PetaPixel",
@@ -60,14 +68,6 @@
       "link": "https://www.businessinsider.com/google-openai-anthropic-ai-agents-training-data-2025-4"
     },
     {
-      "title": "All Heroes And Abilities In Overwatch 2 Stadium Mode - GameSpot",
-      "link": "https://www.gamespot.com/gallery/overwatch-2-stadium-heroes-and-abilities-list/2900-6490/"
-    },
-    {
-      "title": "Researchers say they've discovered a new color that no human has ever perceived - TechSpot",
-      "link": "https://www.techspot.com/news/107629-researchers-theyve-discovered-new-color-no-human-has.html"
-    },
-    {
       "title": "Diablo 4's Battle Pass Is Getting A Major Rework For Season 8 - GameSpot",
       "link": "https://www.gamespot.com/articles/diablo-4-battle-pass-is-getting-a-major-rework-for-season-8/1100-6530937/"
     },
@@ -78,36 +78,56 @@
   ],
   "sports_news": [
     {
+      "title": "Lakers 94-85 Timberwolves (Apr 22, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401767915"
+    },
+    {
+      "title": "Falcons\u2019 best approach with Kirk Cousins could be to wait - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-best-approach-with-kirk-cousins-could-be-to-wait"
+    },
+    {
+      "title": "Milwaukee Bucks vs. Indiana Pacers Live Score and Stats - April 22, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20250422_MIL@IND/"
+    },
+    {
+      "title": "Phillies drop a game and series and hope they didn't lose much more - NBC Sports Philadelphia",
+      "link": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/phillies-news/phillies-drop-a-game-and-series-and-hope-they-didnt-lose-much-more/662058/"
+    },
+    {
       "title": "Shannon Sharpe Admits Offering $10M To Settle Rape Claims, Now Calls Lawsuit \u201cA Shakedown\u201d - Deadline",
       "link": "http://deadline.com/2025/04/shannon-sharpe-settlement-rape-lawsuit-1236374408/"
     },
     {
-      "title": "Former NFL kicker, current broadcaster Jay Feely to run for Congress in Arizona - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-nfl-kicker-current-broadcaster-jay-feely-to-run-for-congress-in-arizona"
+      "title": "Knicks need to fix three key issues behind Karl-Anthony Towns\u2019 unacceptable Game 2 performance - New York Post",
+      "link": "https://nypost.com/2025/04/22/sports/knicks-need-to-nip-three-issues-behind-karl-anthony-towns-unacceptable-game-2-performance/"
     },
     {
-      "title": "Lakers vs. Timberwolves odds, score prediction, time: 2025 NBA playoff picks, Game 2 best bets by proven model - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/lakers-vs-timberwolves-odds-score-prediction-time-2025-nba-playoff-picks-game-2-best-bets-by-proven-model/"
+      "title": "Hansi Flick and Jagoba Arrasate blown away by Pedri after Barcelona beat Mallorca - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/2025/4/23/24414300/hansi-flick-and-jagoba-arrasate-blown-away-by-pedri-after-barcelona-beat-mallorca"
     },
     {
-      "title": "Giants\u2019 No. 3 NFL draft pick presents Joe Schoen a delicate QB puzzle to navigate - New York Post",
-      "link": "https://nypost.com/2025/04/22/sports/giants-no-3-pick-presents-joe-schoen-a-delicate-qb-puzzle-to-navigate/"
+      "title": "With the 41st pick in the 2025 SB Nation Mock Draft, the Chicago Bears select... - Windy City Gridiron",
+      "link": "https://www.windycitygridiron.com/2025/4/22/24411024/with-the-41st-pick-in-the-2025-sb-nation-mock-draft-chicago-bears-select-texas-alfred-collins-nfl"
     },
     {
-      "title": "Man City 2-1 Aston Villa: Pep Guardiola continues to solve Manchester City puzzle - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cdrg2d1jgy3o"
+      "title": "Brock Purdy has arrived ahead of the NFL Draft, and that\u2019s great news for the 49ers - The San Francisco Standard",
+      "link": "https://sfstandard.com/2025/04/22/brock-purdy-49ers-nfl-draft/"
     },
     {
-      "title": "Col\u00f3n fired as CEO of U.S. Center for SafeSport - ESPN",
-      "link": "https://www.espn.com/olympics/story/_/id/44806087/juriese-colon-ceo-us-center-safesport"
+      "title": "Celtics' Payton Pritchard wins NBA's Sixth Man of the Year for providing Boston with young spark - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/celtics-payton-pritchard-wins-nbas-sixth-man-of-the-year-for-providing-boston-with-young-spark/"
     },
     {
-      "title": "Seahawks 2025 7-round mock draft 3.0: Investing in the OL on Day 2 - Field Gulls",
-      "link": "https://www.fieldgulls.com/2025/4/22/24414235/seattle-seahawks-2025-nfl-draft-7-round-mock-draft"
+      "title": "Grizzlies vs Thunder Prediction, Picks, Odds for Game 2 of NBA Playoff Series - Action Network",
+      "link": "https://www.actionnetwork.com/nba/grizzlies-vs-thunder-prediction-odds-pick-nba-playoffs-game-2-tuesday-april-22-qs"
     },
     {
       "title": "2025 NFL Draft: Pro execs, scouts, coaches rank and evaluate the top 18 prospects in this QB class - NFL.com",
       "link": "https://www.nfl.com/news/2025-nfl-draft-pro-execs-scouts-coaches-rank-and-evaluate-the-top-18-prospects-in-this-qb-class"
+    },
+    {
+      "title": "Mike Patrick, longtime ESPN announcer, dies at 80 - USA Today",
+      "link": "https://www.usatoday.com/story/sports/nfl/2025/04/22/mike-patrick-espn-nfl-announcer-dies/83217602007/"
     },
     {
       "title": "NFL Draft 2025: Why the Detroit Lions should select Mykel Williams - Pride Of Detroit",
@@ -118,8 +138,8 @@
       "link": "https://www.bleedinggreennation.com/2025/4/22/24414249/mike-mayock-take-eagles-2025-nfl-draft-options-philadelphia-mason-taylor"
     },
     {
-      "title": "Arkansas puts departed QB Madden Iamaleava in its crosshairs by encouraging NIL collective to recoup buyout - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/arkansas-puts-departed-qb-madden-iamaleava-in-its-crosshairs-by-encouraging-nil-collective-to-recoup-buyout/"
+      "title": "Ex-NFL kicker Feely to run for Congress in Ariz. - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/44804971/jay-feely-run-house-representatives-arizona"
     },
     {
       "title": "Men's Freestyle Seeds - 2025 US Open Wrestling Championships - FloWrestling",
@@ -134,28 +154,8 @@
       "link": "https://bloodyelbow.com/2025/04/22/conor-mcgregor-outlines-major-condition-for-ufc-comeback-as-he-names-desired-return-opponent/"
     },
     {
-      "title": "Christian McCaffrey has no restrictions as the 49ers\u2019 offseason program opens - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-has-no-restrictions-as-the-49ers-offseason-program-opens"
-    },
-    {
       "title": "X\u2019s and O\u2019s: Breaking down film of new Vols transfer QB Joey Aguilar - 247Sports",
       "link": "https://247sports.com/college/tennessee/longformarticle/joey-aguilar-tennessee-vols-football-transfer-portal-qb-analysis-film-breakdown-249101303/"
-    },
-    {
-      "title": "NFL draft could get \u2018a little wild\u2019 with GM predicting trade bonanza - New York Post",
-      "link": "https://nypost.com/2025/04/22/sports/nfl-draft-could-get-a-little-wild-with-gm-predicting-trade-bonanza/"
-    },
-    {
-      "title": "Mike Patrick, longtime ESPN broadcaster, dies - ESPN",
-      "link": "https://www.espn.com/espn/story/_/id/44803930/mike-patrick-espn-play-play-voice-36-years-dies-80"
-    },
-    {
-      "title": "Jerry Jones: Cowboys working on '2 pretty substantive trades' - theScore.com",
-      "link": "https://thescore.com/nfl/news/3272814"
-    },
-    {
-      "title": "4 Patriots rumors we are hearing before the NFL Draft - Pats Pulpit",
-      "link": "https://www.patspulpit.com/2025/4/22/24413884/patriots-rumors-nfl-draft-campbell-walker-trade"
     }
   ],
   "weather": {
