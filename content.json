@@ -1,9 +1,9 @@
 {
-  "quote": "Receive without complaint, Work with fate. \u2013 Ming-Dao Deng",
-  "fact": "The electric chair was invented by a dentist.",
-  "crypto": "BTC: $94,670 | ETH: $1,789.49",
+  "quote": "If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. \u2013 Unknown",
+  "fact": "Meteorologists claim they`re right 85% of the time (think about that one!)",
+  "crypto": "BTC: $94,405 | ETH: $1,774.77",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What kind of music do mummy's like? Rap",
+  "joke": "A panda walks into a bar and says to the bartender \u201cI\u2019ll have a Scotch and . . . . . . . . . . . . . . Coke thank you\u201d. \r\n\r\n\u201cSure thing\u201d the bartender replies and asks \u201cbut what\u2019s with the big pause?\u201d \r\n\r\nThe panda holds up his hands and says \u201cI was born with them\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,40 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Adobe to launch mobile app for AI image generation tool as OpenAI steps up rivalry - CNBC",
-      "link": "https://www.cnbc.com/2025/04/24/adobe-plans-mobile-app-for-firefly-ai-image-generator-to-rival-openai.html"
+      "title": "Look to the Skies with Pok\u00e9mon TCG Pocket\u2019s Upcoming Expansion, Celestial Guardians - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/look-to-the-skies-with-pokemon-tcg-pockets-upcoming-expansion-celestial-guardians"
     },
     {
-      "title": "Samsung To Reportedly Hold An Event On May 13 To Unveil The Galaxy S25 Edge, With The Ultra-Slim Flagship Apparently Launching In Three Markets Later That Month - Wccftech",
-      "link": "https://wccftech.com/galaxy-s25-edge-reportedly-getting-announced-on-may-13/"
+      "title": "Perplexity's New iOS Voice Assistant Works Where Siri Still Can't - MacRumors",
+      "link": "https://www.macrumors.com/2025/04/24/perplexity-voice-assistant-ios-app/"
     },
     {
-      "title": "Nintendo Switch 2 preorders were a total mess \u2014 at first - The Verge",
-      "link": "https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems"
+      "title": "OnePlus 13T launches with Snapdragon 8 Elite chip, \u2018Shortcut Key,\u2019 and more - 9to5Google",
+      "link": "http://9to5google.com/2025/04/24/oneplus-13t-launches-with-snapdragon-8-elite-chip-shortcut-key-and-more/"
+    },
+    {
+      "title": "Adobe releases new Firefly image generation models and a redesigned Firefly web app - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/24/adobe-releases-new-firefly-image-generation-models-and-a-redesigned-firefly-web-app/"
+    },
+    {
+      "title": "Adobe wants to create a robots.txt styled indicator for images used in AI training - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/24/adobe-wants-to-create-a-robots-txt-styled-indicator-for-images-used-in-ai-training/"
+    },
+    {
+      "title": "iPhone 17 Air barely thicker than side buttons in latest design leak - 9to5Mac",
+      "link": "https://9to5mac.com/2025/04/24/iphone-17-air-barely-thicker-than-side-buttons-in-latest-design-leak/"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 Original Soundtrack now available digitally and on streaming services - RPG Site",
+      "link": "https://www.rpgsite.net/news/17289-clair-obscur-expedition-33-original-soundtrack-spotify-apple-music-youtube-itunes-digital"
     },
     {
       "title": "'You Can't Lick a Badger Twice': Google Failures Highlight a Fundamental AI Flaw - WIRED",
       "link": "https://www.wired.com/story/google-ai-overviews-meaning/"
     },
     {
-      "title": "2025's Best-Reviewed Game Can \"Exist Alongside\" Oblivion Remastered, Clair Obscur Star Says - GameSpot",
-      "link": "https://www.gamespot.com/articles/2025s-best-reviewed-game-can-exist-alongside-oblivion-remastered-clair-obscur-star-says/1100-6531070/"
+      "title": "Google starts Extended Repair Program for Pixel 7a battery swelling - 9to5Google",
+      "link": "http://9to5google.com/2025/04/23/pixel-7a-extended-repair-program/"
     },
     {
       "title": "Human Eyes See New Color \"Olo\" for the First Time - Neuroscience News",
       "link": "https://neurosciencenews.com/olo-oz-visual-neuroscience-28706/"
     },
     {
-      "title": "Perplexity targets Siri with actually useful voice actions from an iPhone AI chatbot app - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/23/perplexity-targets-siri-with-actually-useful-voice-actions-from-an-iphone-ai-chatbot-app/"
-    },
-    {
-      "title": "The iPhone 17 Air looks incredibly thin in new video leak - Mashable",
-      "link": "https://mashable.com/article/iphone-17-air-ultra-thin-design-video-leak"
-    },
-    {
-      "title": "OnePlus 13T: Display specs officially revealed ahead of imminent launch - Notebookcheck",
-      "link": "https://www.notebookcheck.net/OnePlus-13T-Display-specs-officially-revealed-ahead-of-imminent-launch.1003287.0.html"
+      "title": "iPhone 16e had stronger demand than iPhone SE 3 did at launch - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/04/23/iphone-16e-had-stronger-demand-than-iphone-se-3-did-at-launch"
     },
     {
       "title": "Get up to 60% off print books and 80% off Kindle books during the Amazon Book Sale - Fox News",
@@ -54,24 +62,60 @@
     {
       "title": "Bethesda has \"no intention\" to shut down fan-made Skyblivion mod - Eurogamer",
       "link": "https://www.eurogamer.net/bethesda-has-no-intention-to-shut-down-fan-made-skyblivion-mod"
-    },
-    {
-      "title": "Apple Intelligence No Longer \u2018Available Now\u2019 After False Advertising Inquiry - Gizmodo",
-      "link": "https://gizmodo.com/apple-intelligence-no-longer-available-now-after-false-advertising-inquiry-2000592796"
     }
   ],
   "sports_news": [
     {
-      "title": "2025 NFL mock draft: Three QBs in Round 1, plus the Patriots and Cowboys take the first two WRs off the board - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/draft/news/2025-nfl-mock-draft-three-qbs-in-round-1-plus-the-patriots-and-cowboys-take-the-first-two-wrs-off-the-board/"
+      "title": "Report: Broncos have taken calls from teams about 20th overall pick - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-broncos-have-taken-calls-from-teams-about-20th-overall-pick"
     },
     {
-      "title": "Walk-off thriller caps perfect homestand for MLB-best Mets - MLB.com",
-      "link": "https://www.mlb.com/news/starling-marte-walk-off-single-completes-mets-sweep"
+      "title": "Eagles News: \"Walter Nolen is a player the Eagles covet\" - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/2025/4/24/24415491/eagles-news-walter-nolen-nfl-draft-rumors-covet-philadelphia-ole-miss-defensive-tackle"
     },
     {
-      "title": "Warriors' Jimmy Butler Suffers Pelvis Injury After Hard Fall vs. Rockets, Will Get MRI - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25189804-warriors-jimmy-butler-suffers-pelvis-injury-after-hard-fall-vs-rockets-will-get-mri"
+      "title": "2025 NFL Draft: Jaguars looking to be aggressive, plus more of the latest intel from NFL insider - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/2025-nfl-draft-jaguars-looking-to-be-aggressive-plus-more-of-the-latest-intel-from-nfl-insider/"
+    },
+    {
+      "title": "Mel Kiper Jr. Shares Major Patriots Draft Intel Right Before Round 1 - NESN",
+      "link": "https://nesn.com/2025/04/mel-kiper-jr-shares-major-patriots-draft-intel-right-before-round-1/"
+    },
+    {
+      "title": "Dane Brugler mock draft: Another Abdul Carter-Jaxson Dart pairing for Giants - Big Blue View",
+      "link": "https://www.bigblueview.com/2025/4/24/24415469/dane-brugler-mock-draft-another-abdul-carter-jaxson-dart-pairing-for-new-york-giants"
+    },
+    {
+      "title": "Giants first-round pick prediction for NFL Draft 2025 made by Post expert - New York Post",
+      "link": "https://nypost.com/2025/04/24/sports/giants-first-round-pick-prediction-for-nfl-draft-2025-made-by-post-expert/"
+    },
+    {
+      "title": "Kevin Stefanski: Travis Hunter is uniquely equipped to play both ways - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-travis-hunter-is-uniquely-equipped-to-play-both-ways"
+    },
+    {
+      "title": "Tim Benz: What the Steelers will do \u2014 and what they should do \u2014 in the 2025 NFL Draft - TribLIVE.com",
+      "link": "https://triblive.com/sports/tim-benz-what-the-steelers-will-do-and-what-they-should-do-in-the-2025-nfl-draft/"
+    },
+    {
+      "title": "Where Shedeur Sanders will land and five other 2025 NFL Draft storylines - New York Post",
+      "link": "https://nypost.com/2025/04/24/sports/where-shedeur-sanders-will-land-and-five-other-2025-nfl-draft-storylines/"
+    },
+    {
+      "title": "What could Jets GM Darren Mougey accomplish in his first draft? - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/44804447/new-york-jets-2025-nfl-draft-darren-mougey"
+    },
+    {
+      "title": "FINAL \u2013 Kings 6, Oilers 2 \u2013 Kempe, Anderson, Clarke, Foegele, Hiller - LA Kings Insider",
+      "link": "https://lakingsinsider.com/2025/04/23/final-kings-6-oilers-2-kempe-anderson-clarke-foegele-hiller/"
+    },
+    {
+      "title": "Golden State's Jimmy Butler leaves game with pelvis contusion and his status for Game 3 is unknown - AP News",
+      "link": "https://apnews.com/article/warriors-butler-injured-668ced271a58b8697b1362557694f1a7"
+    },
+    {
+      "title": "Celtics\u2019 Kristaps Porzingis Sends Message Following Bloody Game 2 Incident - NESN",
+      "link": "https://nesn.com/2025/04/celtics-kristaps-porzingis-sends-message-following-bloody-game-2-incident/"
     },
     {
       "title": "Rockets Beat Stephen Curry, Warriors in Game 2 as Jimmy Butler Injury Concerns Fans - Bleacher Report",
@@ -82,6 +126,10 @@
       "link": "https://nypost.com/2025/04/24/sports/shannon-sharpe-allegedly-threatened-to-choke-accuser-in-audio-clip/"
     },
     {
+      "title": "What Donovan Mitchell said after his heroic fourth quarter performance in Game 2 - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2025/04/what-donovan-mitchell-said-after-his-heroic-fourth-quarter-performance-in-game-2.html"
+    },
+    {
       "title": "Tyler Lockett says he has signed with the Titans - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-lockett-says-he-has-signed-with-the-titans"
     },
@@ -90,56 +138,12 @@
       "link": "https://russianmachineneverbreaks.com/2025/04/23/logan-thompson-two-points-montreal-canadiens-its-the-playoffs-brother/"
     },
     {
-      "title": "Former North Carolina Standout Beau Atkinson, One of the Top Defensive Ends in the Portal, Commits to Ohio State - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football-recruiting/2025/04/155865/former-north-carolina-standout-beau-atkinson-one-of-the-top-defensive-ends-in-the-portal-commits-to-ohio"
+      "title": "Judge Ices House v. NCAA Settlement Approval Over Roster Limits - Sportico.com",
+      "link": "https://www.sportico.com/leagues/college-sports/2025/house-ncaa-settlement-wilken-delay-1234849672/"
     },
     {
       "title": "Chicago Bears great Steve McMichael dies at 67 after battle with ALS - AP News",
       "link": "https://apnews.com/article/steve-mcmichael-dead-als-chicago-bears-36c7f215df3a90a562dc88b9fe5a7fe2"
-    },
-    {
-      "title": "Enhanced Box Score: Cubs 7, Dodgers 6 \u2013 April 23, 2025 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/04/23/enhanced-box-score-cubs-7-dodgers-6-april-23-2025/"
-    },
-    {
-      "title": "Judge refuses to approve NCAA settlement that would allow revenue sharing for college athletes - USA Today",
-      "link": "https://www.usatoday.com/story/sports/college/2025/04/23/ncaa-settlement-revenue-sharing-approval-delayed-judge/83238797007/"
-    },
-    {
-      "title": "2025 NFL Draft - Daniel Jeremiah Mock Draft 4.0: The Giants land Abdul Carter and Jaxson Dart - Big Blue View",
-      "link": "https://www.bigblueview.com/2025/4/23/24415223/2025-nfl-draft-daniel-jeremiah-mock-draft-4-0-the-giants-land-abdul-carter-and-jaxson-dart"
-    },
-    {
-      "title": "US Open Wrestling 2025 Brackets, Live Updates And Results - FloWrestling",
-      "link": "https://www.flowrestling.org/articles/14111530-us-open-wrestling-2025-brackets-live-updates-and-results"
-    },
-    {
-      "title": "Rangers To Select Nick Ahmed, Place Corey Seager On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/04/rangers-to-select-nick-ahmed-place-corey-seager-on-injured-list.html"
-    },
-    {
-      "title": "The Gambo 5: Predicting the Cardinals\u2019 1st-round NFL Draft pick - Arizona Sports",
-      "link": "https://arizonasports.com/nfl/arizona-cardinals/gambo-5/3581656/"
-    },
-    {
-      "title": "Paige Bueckers Turns Heads as First Look in WNBA Uniform Released - Athlon Sports",
-      "link": "https://athlonsports.com/wnba/dallas-wings/paige-bueckers-turns-heads-wnba-uniform-released"
-    },
-    {
-      "title": "Lions, Kerby Joseph agree to four-year contract extension - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-kerby-joseph-agree-to-four-year-contract-extension"
-    },
-    {
-      "title": "Arsenal 2-2 C Palace (Apr 23, 2025) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/704618"
-    },
-    {
-      "title": "One Horse Eliminated, 34 Forward to CCI5* Competition at Defender Kentucky - Eventing Nation",
-      "link": "https://eventingnation.com/one-horse-eliminated-34-forward-to-cci5-competition-at-defender-kentucky/"
-    },
-    {
-      "title": "Magic vs Celtics Odds, Prediction, Picks for NBA Playoffs Game 2 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/magic-vs-celtics-prediction-odds-pick-nba-playoffs-game-2-wednesday-april-23-qs"
     }
   ],
   "weather": {
