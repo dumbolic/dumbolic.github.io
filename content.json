@@ -1,9 +1,9 @@
 {
-  "quote": "The essence of the Way is detachment. \u2013 Bodhidharma",
-  "fact": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
-  "crypto": "BTC: $95,126 | ETH: $1,801.23",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Guy told me today he did not know what cloning is. I told him, \"that makes 2 of us.\"",
+  "quote": "Each day your life grows a day shorter. Make every move count. \u2013 Ming-Dao Deng",
+  "fact": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
+  "crypto": "BTC: $95,163 | ETH: $1,796.13",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,106 +12,150 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nintendo Switch 2 preorders are sold out everywhere - The Verge",
-      "link": "https://www.theverge.com/news/655361/nintendo-switch-2-preorders-sold-out-walmart-gamestop-target"
+      "title": "Motorola Debuts $1,300 AI-Infused Razr Phone, Swarovski Earbuds - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-04-24/motorola-razr-ultra-and-swarovski-earbuds-price-release-date-specs"
     },
     {
-      "title": "Motorola announces super-colorful Razr, Razr+, and Razr Ultra flip phones - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/04/motorola-reveals-three-new-super-colorful-razr-foldables/"
+      "title": "GameStop Bungles Nintendo Switch 2 First Day Preorders - Gizmodo",
+      "link": "https://gizmodo.com/gamestop-absolutely-bungles-nintendo-switch-2-day-1-preorders-2000593926"
+    },
+    {
+      "title": "Nintendo Switch 2 getting a camera that works in handheld mode - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-2-getting-a-camera-that-works-in-handheld-mode/"
+    },
+    {
+      "title": "EA Sports announces release date for College Football 26 game - On3.com",
+      "link": "https://www.on3.com/news/ea-sports-announces-college-football-26-will-be-released-july-10-2025/"
     },
     {
       "title": "iPhone 17 Air Now Rumored to Feature 12GB of RAM Like the Pro Models - MacRumors",
       "link": "https://www.macrumors.com/2025/04/24/iphone-17-air-12gb-ram-rumor/"
     },
     {
-      "title": "You can get a free Apple Watch pin today at the Apple Store - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/24/you-can-get-a-free-apple-watch-pin-today-at-the-apple-store/"
-    },
-    {
       "title": "Bethesda Shows Solidarity with Clair Obscur: Expedition 33 After Oblivion Remastered Launch - Push Square",
       "link": "https://www.pushsquare.com/news/2025/04/bethesda-shows-solidarity-with-clair-obscur-expedition-33-after-oblivion-remastered-launch"
+    },
+    {
+      "title": "Elder Scrolls: Oblivion remastered players urge to change 1 setting for instant boost - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/pc/elder-scrolls-oblivion-remastered-settings-159593-20250424"
+    },
+    {
+      "title": "Apple Watch 10 Years Later: The Feature That Changed Everything for Me - CNET",
+      "link": "https://www.cnet.com/tech/mobile/apple-watch-10-years-later-the-one-feature-that-changed-everything-for-me/"
     },
     {
       "title": "Review: Ryzen AI CPU makes this the fastest the Framework Laptop 13 has ever been - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/04/review-ryzen-ai-cpu-makes-this-the-fastest-the-framework-laptop-13-has-ever-been/"
     },
     {
-      "title": "Perplexity's New iOS Voice Assistant Works Where Siri Still Can't - MacRumors",
-      "link": "https://www.macrumors.com/2025/04/24/perplexity-voice-assistant-ios-app/"
+      "title": "iPhone 17 Air Almost as Thin as Its Buttons, New Images Show - MacRumors",
+      "link": "https://www.macrumors.com/2025/04/24/iphone-17-air-thin-as-buttons/"
     },
     {
       "title": "Adobe releases new Firefly image generation models and a redesigned Firefly web app - TechCrunch",
       "link": "https://techcrunch.com/2025/04/24/adobe-releases-new-firefly-image-generation-models-and-a-redesigned-firefly-web-app/"
     },
     {
-      "title": "Adobe wants to create a robots.txt styled indicator for images used in AI training - TechCrunch",
-      "link": "https://techcrunch.com/2025/04/24/adobe-wants-to-create-a-robots-txt-styled-indicator-for-images-used-in-ai-training/"
-    },
-    {
-      "title": "iPhone 17 Air barely thicker than side buttons in latest design leak - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/24/iphone-17-air-barely-thicker-than-side-buttons-in-latest-design-leak/"
+      "title": "Adobe\u2019s new app helps credit creators and fight AI fakery - The Verge",
+      "link": "https://www.theverge.com/news/654883/adobe-content-authenticity-web-app-beta-availability"
     },
     {
       "title": "'You Can't Lick a Badger Twice': Google Failures Highlight a Fundamental AI Flaw - WIRED",
       "link": "https://www.wired.com/story/google-ai-overviews-meaning/"
     },
     {
+      "title": "Gemini has 350 million monthly users, Google reveals in court hearing - 9to5Google",
+      "link": "http://9to5google.com/2025/04/23/google-gemini-monthly-users-count-court-hearing/"
+    },
+    {
       "title": "Amazon Has the Newest Kindle at an All-Time Low Price for Its Big 2025 Book Sale - IGN",
       "link": "https://www.ign.com/articles/amazon-has-the-newest-kindle-at-an-all-time-low-price-for-its-big-2025-book-sale"
+    },
+    {
+      "title": "Roku rolls out smaller streaming sticks, new security cameras - The Seattle Times",
+      "link": "https://www.bloomberg.com/news/articles/2025-04-23/roku-rolls-out-smaller-streaming-sticks-new-security-cameras"
     },
     {
       "title": "Human Eyes See New Color \"Olo\" for the First Time - Neuroscience News",
       "link": "https://neurosciencenews.com/olo-oz-visual-neuroscience-28706/"
     },
     {
-      "title": "Google I/O 2025 teases Material 3 Expressive, Android 16 for TV, in-car Gemini - 9to5Google",
-      "link": "http://9to5google.com/2025/04/23/android-google-i-o-2025/"
+      "title": "Google Photos could soon save you from downloading photos one-by-one (Update: Rolling out) - Android Authority",
+      "link": "https://www.androidauthority.com/google-photos-download-multiple-photos-apk-teardown-3547199/"
     },
     {
-      "title": "Google\u2019s Gemini User Numbers Revealed in Court - The Information",
-      "link": "https://www.theinformation.com/briefings/googles-gemini-user-numbers-revealed-court"
+      "title": "Roku says its ads aren\u2019t meant to be \u201cinterruptive\u201d after controversial test - The Verge",
+      "link": "https://www.theverge.com/tech/654389/roku-2025-event-ads-interview"
     },
     {
-      "title": "Bethesda has \"no intention\" to shut down fan-made Skyblivion mod - Eurogamer",
-      "link": "https://www.eurogamer.net/bethesda-has-no-intention-to-shut-down-fan-made-skyblivion-mod"
+      "title": "Perplexity targets Siri with actually useful voice actions from an iPhone AI chatbot app - 9to5Mac",
+      "link": "https://9to5mac.com/2025/04/23/perplexity-targets-siri-with-actually-useful-voice-actions-from-an-iphone-ai-chatbot-app/"
     }
   ],
   "sports_news": [
     {
-      "title": "Bears trading up to No. 5 for Ashton Jeanty heats up in betting markets - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-trading-up-to-no-5-for-ashton-jeanty-heats-up-in-betting-markets"
+      "title": "Shannon Sharpe stepping aside from ESPN in wake of sexual assault lawsuit - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/shannon-sharpe-stepping-espn-wake-sexual-assault-lawsuit-rcna202887"
     },
     {
-      "title": "Who will the Saints draft tonight? We asked 34 local media members who cover the team for their pick. - NOLA.com",
-      "link": "https://www.nola.com/sports/saints/who-will-the-saints-draft-tonight-we-asked-34-local-media-members-who-cover-the/article_1c3023a2-1d43-4ba0-89f2-586366747d35.html"
+      "title": "2025 NFL mock draft: Predicting every team's first-round pick before night one kicks off from Green Bay - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/draft/news/2025-nfl-mock-draft-predicting-every-teams-first-round-pick-before-night-one-kicks-off-from-green-bay/"
     },
     {
-      "title": "NFL Draft 2025: Teams Looking to Move Down, Few Looking to Move Up - Sports Illustrated",
-      "link": "https://www.si.com/nfl/nfl-draft-2025-latest-first-round-intel-albert-breer"
+      "title": "Browns haven\u2019t had a first-round selection since 2021 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-havent-had-a-first-round-selection-since-2021"
     },
     {
-      "title": "NFL Draft 2025: Predicting what the Seattle Seahawks will do with their first-round pick - Field Gulls",
-      "link": "https://www.fieldgulls.com/2025/4/24/24409112/nfl-draft-2025-field-gulls-predicts-seattle-seahawks-first-round-pick"
+      "title": "Report: Patriots traveled to meet with OL Will Campbell in Louisiana recently - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patriots-traveled-to-meet-with-ol-will-campbell-in-louisiana-recently"
+    },
+    {
+      "title": "Sources: USC recruit Arenas in coma after crash - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/44837333/usc-recruit-alijah-arenas-induced-coma-crash-per-sources"
+    },
+    {
+      "title": "Staff writers reveal Cowboys 7-Round Mock - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/staff-writers-reveal-cowboys-7-round-mock"
+    },
+    {
+      "title": "Joe Mazzulla gives notable update on Jayson Tatum injury before Game 3 - MassLive",
+      "link": "https://www.masslive.com/celtics/2025/04/joe-mazzulla-gives-notable-update-on-jayson-tatum-injury-before-game-3.html"
+    },
+    {
+      "title": "Teams are divided on Tyler Warren, Colson Loveland as top tight end - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teams-are-divided-on-tyler-warren-colson-loveland-as-top-tight-end"
+    },
+    {
+      "title": "Larson miscue ends in crash at Indy 500 practice - ESPN",
+      "link": "https://www.espn.com/racing/story/_/id/44836255/kyle-larson-takes-first-crash-indy-500-practice-miscue"
+    },
+    {
+      "title": "Warriors reportedly optimistic Jimmy Butler avoided 'long-term' pelvic injury - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/warriors-optimistic-jimmy-butler-avoided-injury-20292477.php"
     },
     {
       "title": "Inside Giants\u2019 last-minute 2025 NFL Draft thinking on Shedeur Sanders, Jaxson Dart - New York Post",
       "link": "https://nypost.com/2025/04/24/sports/inside-giants-2025-nfl-draft-thinking-on-shedeur-sanders-jaxson-dart/"
     },
     {
-      "title": "'Very unique' Vardy will 'never be forgotten' by Foxes - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/ce92mz9kxnmo"
+      "title": "Lack of pre-draft trades could bump up the ratings for round one - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lack-of-pre-draft-trades-could-bump-up-the-ratings-for-round-one"
+    },
+    {
+      "title": "Browns, Giants Reportedly Longshots to Trade No. 2, No. 3 Picks amid NFL Draft Rumors - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25189932-browns-giants-reportedly-longshots-trade-no-2-no-3-picks-amid-nfl-draft-rumors"
     },
     {
       "title": "Shedeur Sanders Shares One-Word Message Ahead of 2025 NFL Draft - Sports Illustrated",
       "link": "https://www.si.com/nfl/shedeur-sanders-shares-one-word-message-ahead-of-2025-nfl-draft"
     },
     {
-      "title": "Mike Tomlin seems to be very comfortable with drafting Shedeur Sanders - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-seems-to-be-very-comfortable-with-drafting-shedeur-sanders"
+      "title": "Draft Guru Forecasts Stunning Broncos Trade-Up in Final Mock - Sports Illustrated",
+      "link": "https://www.si.com/nfl/broncos/news/broncos-trade-up-colston-loveland-draft-guru-prediction"
     },
     {
-      "title": "Kyle Larson hits wall, crashes during Indy 500 open test - Motorsport.com",
-      "link": "https://www.motorsport.com/indycar/news/kyle-larson-crashes-indy-500-open-test/10716537/"
+      "title": "Final Steelers mock draft tracker: Shedeur Sanders, Jaxson Dart have the herd behind them - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/04/24/nfl-mock-draft-news-rumors-shedeur-sanders-jaxson-dart/stories/202504240078"
     },
     {
       "title": "3 round mock draft: The 49ers shouldn\u2019t completely forget about the offensive line - Niners Nation",
@@ -122,40 +166,12 @@
       "link": "https://www.phillyvoice.com/eagles-local-beat-writer-2025-mock-draft-roundup/"
     },
     {
-      "title": "2025 NFL Draft: What time will the Detroit Lions pick at 28? - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/4/24/24414785/2025-nfl-draft-what-time-will-detroit-lions-pick-28-first-round"
+      "title": "Latest NFL Draft rumors could gift the Chiefs a blue-chip prospect in the first round - Arrowhead Addict",
+      "link": "https://arrowheadaddict.com/latest-nfl-draft-rumors-could-gift-the-chiefs-blue-chip-prospect-in-the-first-round-01jsm3zr4dnq"
     },
     {
-      "title": "Keeler: Avalanche, Jared Bednar somehow found way to ruin Gabe Landeskog Night at Ball Arena - The Denver Post",
-      "link": "https://www.denverpost.com/2025/04/24/stars-vs-avalanche-game-3-gabe-landeskog/"
-    },
-    {
-      "title": "Late for Work: Two Prominent Draft Analysts Make Surprising Final Picks for Ravens - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/late-for-work-two-prominent-draft-analysts-make-surprising-final-picks-for-ravens"
-    },
-    {
-      "title": "Report: Broncos have taken calls from teams about 20th overall pick - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-broncos-have-taken-calls-from-teams-about-20th-overall-pick"
-    },
-    {
-      "title": "Pete Crow-Armstrong Continues to Shine, Swanson, Brujan, Merryweather, Mongo, and Other Cubs Bullets - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/04/24/pete-crow-armstrong-continues-to-shine-swanson-brujan-merryweather-mongo-and-other-cubs-bullets/"
-    },
-    {
-      "title": "The Greetham Angle Projection: What will the Cleveland Browns do with their First Five Picks in the NFL Draft? - 247Sports",
-      "link": "https://247sports.com/nfl/cleveland-browns/longformarticle/the-greetham-angle-projection-what-will-the-cleveland-browns-do-with-their-first-five-picks-in-the-nfl-draft-249037172/"
-    },
-    {
-      "title": "2025 NFL Draft: Jaguars looking to be aggressive, plus more of the latest intel from NFL insider - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/2025-nfl-draft-jaguars-looking-to-be-aggressive-plus-more-of-the-latest-intel-from-nfl-insider/"
-    },
-    {
-      "title": "Rockets-Warriors: 5 takeaways as Rockets get back on track in Game 2 - NBA",
-      "link": "https://www.nba.com/news/rockets-warriors-takeaways-game-2-2025-nba-playoffs"
-    },
-    {
-      "title": "Dricus du Plessis releases statement on injury rumors, fight announcement - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/4/24/24415487/dricus-du-plessis-releases-statement-on-injury-rumors-fight-announcement"
+      "title": "Final Minnesota Vikings mock drafts from the NFL\u2019s most trusted experts - Sports Illustrated",
+      "link": "https://www.si.com/nfl/vikings/news/final-minnesota-vikings-mock-drafts-from-the-nfl-s-most-trusted-experts"
     }
   ],
   "weather": {
