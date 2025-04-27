@@ -1,9 +1,9 @@
 {
-  "quote": "The quality of your life is determined by the quality of questions you ask. \u2013 Tony Robbins",
-  "fact": "A spider has transparent blood.",
-  "crypto": "BTC: $94,345 | ETH: $1,801.03",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I got an A on my origami assignment when I turned my paper into my teacher",
+  "quote": "Believe and you're halfway there. \u2013 Harry S. Truman",
+  "fact": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+  "crypto": "BTC: $94,251 | ETH: $1,800.22",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What's black and white and read all over? The newspaper.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google will stop supporting early Nest thermostats on October 25 - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/26/google-will-stop-supporting-early-nest-thermostats-on-october-25/"
+    },
+    {
       "title": "Google says Android\u2019s Find My Device network is 4x faster, teases UWB \u2018very soon\u2019 - 9to5Google",
       "link": "http://9to5google.com/2025/04/26/android-find-my-device-network-speed-uwb-improvements/"
     },
     {
       "title": "Northern Lights Forecast: These 7 States Could See Aurora Borealis Tonight - Forbes",
       "link": "https://www.forbes.com/sites/conormurray/2025/04/26/northern-lights-forecast-these-7-states-could-see-aurora-borealis-tonight/"
+    },
+    {
+      "title": "PlayStation's Big Games Big Deals sale features Mortal Kombat 1, Dragon Ball Sparking Zero and more fighting game deals to check out - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/apr/26/playstation-big-deals-sales-fighters/"
+    },
+    {
+      "title": "Apple warns iPhone users to delete this popular app immediately - SILive.com",
+      "link": "https://www.silive.com/entertainment/2025/04/apple-warns-iphone-users-to-delete-this-popular-app-immediately.html"
     },
     {
       "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining - Hacker News",
@@ -76,98 +88,90 @@
       "link": "https://www.nintendolife.com/news/2025/04/round-up-multiple-switch-2-game-pre-order-trailers-released"
     },
     {
-      "title": "Indiana Jones PS5 Is Selling Faster Than on Xbox and PC, Claims Analysts - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/04/indiana-jones-ps5-is-selling-faster-than-on-xbox-and-pc-claims-analysts"
-    },
-    {
-      "title": "Apple\u2019s iPhone Warning\u2014Do You Need To Delete Google Chrome? - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/04/26/do-you-suddenly-need-to-delete-google-chrome/"
-    },
-    {
-      "title": "Police: Feds raid upscale home in Hempfield, find steroid lab making millions of dollars of the drug - TribLIVE.com",
-      "link": "https://triblive.com/local/westmoreland/police-feds-raid-upscale-home-in-hempfield-find-steroid-lab-making-millions-of-dollars-of-the-drug/"
+      "title": "Do Not Use This Login On Your PC\u2014You Lose Everything - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/04/26/do-not-use-this-login-on-your-pc-you-lose-everything/"
     }
   ],
   "sports_news": [
     {
-      "title": "Raiders select DT JJ Pegues with the No. 180 pick in the 2025 NFL Draft - Las Vegas Raiders",
-      "link": "https://www.raiders.com/news/jj-pegues-ole-miss-raiders-select-defensive-tackle-180-pick-2025-nfl-draft"
+      "title": "Chris Eubank Jr. edges Conor Benn in thrilling British blockbuster with father in corner - Yahoo Sports",
+      "link": "https://sports.yahoo.com/boxing/live/chris-eubank-jr-edges-conor-benn-in-thrilling-british-blockbuster-with-father-in-corner-050039350.html"
+    },
+    {
+      "title": "Ravens draft kicker with Tucker's future uncertain - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/44873037/ravens-pick-loop-nfl-draft-tucker-future-uncertain"
+    },
+    {
+      "title": "Raiders select QB Cam Miller with the No. 215 pick in the 2025 NFL Draft - Las Vegas Raiders",
+      "link": "https://www.raiders.com/news/cam-miller-north-dakota-state-raiders-select-quarterback-number-215-pick-2025-nfl-draft"
+    },
+    {
+      "title": "Barryn Sorrell coming to Green Bay was just meant to be - Green Bay Packers",
+      "link": "https://www.packers.com/news/barryn-sorrell-coming-to-green-bay-was-just-meant-to-be"
+    },
+    {
+      "title": "A CLOSER LOOK: Defensive lineman Ahmed Hassanein - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/2025-nfl-draft-detroit-lions-a-closer-look-defensive-lineman-ahmed-hassanein"
+    },
+    {
+      "title": "2025 NFL Draft grades for Round 3: Seahawks earn 'A+' for Jalen Milroe pick, Browns get 'C' for Dillon Gabriel - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/draft/news/2025-nfl-draft-grades-for-round-3-seahawks-earn-a-for-jalen-milroe-pick-browns-get-c-for-dillon-gabriel/"
+    },
+    {
+      "title": "The Official Site of the Minnesota Vikings - Minnesota Vikings",
+      "link": "https://www.vikings.com/draft/2025/picks/kobe-king"
+    },
+    {
+      "title": "Steelers draft Ohio State QB Will Howard in sixth round - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-draft-ohio-state-qb-will-howard"
+    },
+    {
+      "title": "2025 NFL Draft grades for Round 4: Giants earn 'A' for Cam Skattebo; Chiefs, Commanders get steals at WR - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/2025-nfl-draft-grades-for-round-4-giants-earn-a-for-cameron-skattebo-chiefs-commanders-get-steals/"
     },
     {
       "title": "Lions trade up, draft offensive lineman Miles Frazier - Detroit Lions",
       "link": "https://www.detroitlions.com/news/2025-nfl-draft-detroit-lions-trade-up-offensive-lineman-miles-frazier"
     },
     {
-      "title": "How he fits: Yahya Black, DT, Iowa - Steelers.com",
-      "link": "https://www.steelers.com/news/how-he-fits-yahya-black-dt-iowa"
+      "title": "READ: Rams select ILB Chris Paul Jr. with 172nd pick in the 2025 NFL Draft - TheRams.com",
+      "link": "https://www.therams.com/news/chris-paul-jr-nfl-draft-inside-linebacker-ole-miss"
+    },
+    {
+      "title": "Chicago Bears select DB Zah Frazier in fifth round of 2025 NFL Draft - Chicago Bears",
+      "link": "https://www.chicagobears.com/news/chicago-bears-2025-nfl-draft-zah-frazier-utsa-defensive-back-fifth-round"
     },
     {
       "title": "Seahawks Select Wide Receiver Tory Horton With 166th Overall Pick - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/tory-horton-2025-nfl-draft-wide-receiver-colorado-state"
     },
     {
-      "title": "2025 NFL Draft: RB Cam Skattebo, Arizona State, Round 4, Pick 105 - New York Giants",
-      "link": "https://www.giants.com/news/cam-skattebo-nfl-draft-running-back-arizona-state-running-back"
+      "title": "How he fits: Jack Sawyer, OLB, Ohio State - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-how-he-fits-jack-sawyer-olb-ohio-state"
     },
     {
       "title": "Seahawks Select Defensive End Rylie Mills With 142nd Overall Pick - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/rylie-mills-2025-nfl-draft-defensive-tackle-notre-dame"
     },
     {
-      "title": "2025 NFL Draft tracker live: Round 5 picks by team, grades; Browns pick Shedeur Sanders after trading up - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/2025-nfl-draft-tracker-live-round-6-picks-by-team-grades-browns-pick-shedeur-sanders-after-trading-up/live/"
+      "title": "Five Things to Know About Chiefs Third-Round Pick CB Nohl Williams - Kansas City Chiefs",
+      "link": "https://www.chiefs.com/news/five-things-to-know-about-chiefs-third-round-pick-cb-nohl-williams-"
     },
     {
       "title": "Shedeur Sanders selected by Cleveland Browns after falling to fifth round of NFL draft - NBC News",
       "link": "https://www.nbcnews.com/sports/nfl/shedeur-sanders-selected-cleveland-browns-falling-fifth-nfl-draft-rcna203080"
     },
     {
-      "title": "Seahawks trade Sam Howell to the Vikings - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-trade-sam-howell-to-the-vikings"
-    },
-    {
-      "title": "2025 NFL Draft: Packers select Texas DL Barryn Sorrell in 4th round, No. 124 overall - Green Bay Packers",
-      "link": "https://www.packers.com/news/packers-texas-dl-barryn-sorrell-2025-nfl-draft"
-    },
-    {
-      "title": "Steelers take Jack Sawyer, not Shedeur Sanders, with pick No. 123 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-take-jack-sawyer-not-shedeur-sanders-with-pick-no-123"
+      "title": "READ: Rams select DL Ty Hamilton with 148th pick in the 2025 NFL Draft - TheRams.com",
+      "link": "https://www.therams.com/news/ty-hamilton-nfl-draft-defensive-lineman-ohio-state"
     },
     {
       "title": "Falcons select Billy Bowman Jr. with No. 118 pick in 2025 NFL Draft - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/billy-bowman-jr-with-no-118-pick-2025-nfl-draft"
     },
     {
-      "title": "Panthers GM noncommittal on Clowney's future - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/44868760/panthers-gm-noncommittal-jadeveon-clowney-future-team"
-    },
-    {
       "title": "Wrexham is on the verge of promotion after Wycombe loses to Leyton Orient - AP News",
       "link": "https://apnews.com/article/wrexham-promotion-charlton-ryan-reynolds-58d5d3744c969460194f59593906e798"
-    },
-    {
-      "title": "In comparison to other sports, the draft dominates - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-comparison-to-other-sports-the-draft-dominates"
-    },
-    {
-      "title": "John Schneider: Jalen Milroe was \u201cdamn close\u201d to Seattle\u2019s highest-rated QB - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-schneider-jalen-milroe-was-damn-close-to-seattles-highest-rated-qb"
-    },
-    {
-      "title": "Ravens Get One of Day 2\u2019s Biggest Steals| Late for Work - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-grade-day-2-pick-mike-green-emery-jones-jr-shedeur-sanders"
-    },
-    {
-      "title": "TWENTYMAN: 10 prospects who could interest Lions on Day 3 - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/detroit-lions-2025-nfl-draft-10-prospects-day-3-swinson-skattebo"
-    },
-    {
-      "title": "Joe Mazzulla\u2019s questionable moves prove costly in Game 3 Magic loss - MassLive",
-      "link": "https://www.masslive.com/celtics/2025/04/joe-mazzullas-questionable-moves-prove-costly-in-game-3-magic-loss.html"
-    },
-    {
-      "title": "Five Things to Know About Chiefs Second-Round Pick DT Omarr Norman-Lott - Kansas City Chiefs",
-      "link": "https://www.chiefs.com/news/five-things-to-know-about-chiefs-second-round-pick-dt-omarr-norman-lott"
     }
   ],
   "weather": {
