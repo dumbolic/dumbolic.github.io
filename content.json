@@ -1,9 +1,9 @@
 {
-  "quote": "The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. \u2013 Yanni",
-  "fact": "You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.",
-  "crypto": "BTC: $95,115 | ETH: $1,800.97",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Where did Captain Hook get his hook? From a second hand store.",
+  "quote": "For every minute you are angry you lose sixty seconds of happiness. \u2013 Ralph Waldo Emerson",
+  "fact": "Most toilets flush in E flat.",
+  "crypto": "BTC: $95,073 | ETH: $1,799.83",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Did you hear about the Mexican train killer? He had loco motives",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -14,6 +14,10 @@
     {
       "title": "'EA Sports Madden NFL 26' Switch 2 File Size Seemingly Revealed - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/04/ea-sports-madden-nfl-26-switch-2-file-size-seemingly-revealed"
+    },
+    {
+      "title": "Japan: Life-sized Eevee and Eeveelution plushies coming soon - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/04/27/japan-life-sized-eevee-and-eeveelution-plushies-coming-soon/"
     },
     {
       "title": "This popular internet browser app is spying on you, Apple warns - AL.com",
@@ -40,10 +44,6 @@
       "link": "https://www.phonearena.com/news/galaxy-z-flip-7-razr-ultra-rivalry-starts-with-the-battery_id169862"
     },
     {
-      "title": "Talking Point: What Are You Playing This Weekend? (26th April) - Nintendo Life",
-      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-april"
-    },
-    {
       "title": "I spent $3,000 on a PC only to play a $20 game. I have zero regrets - Digital Trends",
       "link": "https://www.digitaltrends.com/computing/i-spent-3k-on-my-pc-i-didnt-need-to/"
     },
@@ -64,6 +64,14 @@
       "link": "https://www.windowscentral.com/gaming/xbox/all-xbox-games-launching-april-28-through-may-4-2025"
     },
     {
+      "title": "The Elder Scrolls Online rolls out premium feature to all for free but these players are not happy about it - Eurogamer",
+      "link": "https://www.eurogamer.net/the-elder-scrolls-online-rolls-out-premium-feature-to-all-for-free-but-these-players-are-not-happy-about-it"
+    },
+    {
+      "title": "I used a free app to fix my biggest problem with macOS - Digital Trends",
+      "link": "https://www.digitaltrends.com/computing/i-used-a-free-app-to-fix-my-biggest-problem-with-macos/"
+    },
+    {
       "title": "Indiana Jones and the Great Circle selling faster on PS5 than Steam and Xbox - Eurogamer",
       "link": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-selling-faster-on-ps5-than-steam-and-xbox"
     },
@@ -82,92 +90,84 @@
     {
       "title": "Welcome to Chat Haus, the coworking space for AI chatbots - TechCrunch",
       "link": "https://techcrunch.com/2025/04/27/welcome-to-chat-haus-the-coworking-space-for-ai-chatbots/"
-    },
-    {
-      "title": "Report finds Meta\u2019s celebrity-voiced chatbots could discuss sex with minors - TechCrunch",
-      "link": "https://techcrunch.com/2025/04/27/report-finds-metas-celebrity-voiced-chatbots-could-discuss-sex-with-minors/"
     }
   ],
   "sports_news": [
     {
+      "title": "Commanders, D.C. reach deal for stadium at RFK - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/44893202/washington-commanders-dc-reach-deal-new-stadium-rfk-site"
+    },
+    {
+      "title": "Cars of Ryan Preece, Joey Logano disqualified after failing inspection at Talladega - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/cars-of-ryan-preece-joey-logano-disqualified-after-failing-inspection-at-talladega"
+    },
+    {
+      "title": "After botched no-call on final play, Knicks beat Pistons in Game 4 - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/04/27/pistons-knicks-foul-call-josh-hart-tim-hardaway-jr/"
+    },
+    {
+      "title": "Mariners win Logan Evans' debut to take AL West lead - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-hold-off-marlins-to-win-logan-evans-mlb-debut/"
+    },
+    {
+      "title": "NFL is \u201creviewing\u201d Jeff Ulbrich\u2019s role in the Shedeur Sanders prank call - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-reviewing-jeff-ulbrichs-role-in-the-shedeur-sanders-prank-call"
+    },
+    {
+      "title": "Magic Johnson Calls JJ Redick's Handling of LeBron James, Luka Doncic Into Question - Sports Illustrated",
+      "link": "https://www.si.com/nba/magic-johnson-questions-jj-redick-handling-lebron-james-luka-doncic-minutes-lakers-loss-timberwolves"
+    },
+    {
+      "title": "Zurich Classic 2025 prize money: Full team, individual payouts for $9.2 million purse - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/zurich-classic-2025-prize-money-full-team-individual-payouts-for-9-2-million-purse"
+    },
+    {
+      "title": "Panthers agree to terms with veteran wideout, Clemson legend Hunter Renfrow - Carolina Panthers",
+      "link": "https://www.panthers.com/news/panthers-agree-to-terms-with-veteran-wideout-clemson-legend-hunter-renfrow"
+    },
+    {
+      "title": "2025 Zurich Classic leaderboard: Andrew Novak, Ben Griffin register first career PGA Tour wins together - CBS Sports",
+      "link": "https://www.cbssports.com/golf/news/2025-zurich-classic-leaderboard-andrew-novak-ben-griffin-register-first-career-pga-tour-wins-together/live/"
+    },
+    {
+      "title": "Ryne Stanek blows another save as Mets\u2019 bullpen collapses in walk-off loss to Nationals - New York Post",
+      "link": "https://nypost.com/2025/04/27/sports/ryne-stanek-blows-another-save-in-mets-walk-off-loss-to-nationals/"
+    },
+    {
+      "title": "The Giants Seriously Just Won on a Walk-Off Little League Home Run - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/04/27/the-giants-seriously-just-won-on-a-walk-off-little-league-home-run/"
+    },
+    {
+      "title": "NFL Draft 2025: Mel Kiper Jr., others grade Buffalo Bills\u2019 draft class - Syracuse.com",
+      "link": "https://www.syracuse.com/buffalo-bills/2025/04/nfl-draft-2025-mel-kiper-jr-others-grade-buffalo-bills-draft-class.html"
+    },
+    {
       "title": "Bill Belichick CBS Interview Interrupted by Girlfriend Jordan Hudson After Relationship Question: \u2018We\u2019re Not Talking About This\u2019 - Variety",
       "link": "https://variety.com/2025/tv/news/bill-belichick-cbs-interview-interrupted-jordan-hudson-relationship-question-1236379679/"
+    },
+    {
+      "title": "Browns QB plan skidded off the rails with selection of Shedeur Sanders - TheLandOnDemand.com",
+      "link": "https://thelandondemand.com/news/2025/apr/27/browns-qb-plan-skidded-off-the-tracks-with-selection-of-shedeur-sanders/"
+    },
+    {
+      "title": "Red Sox's Jarren Duran heckled by Guardians fan, team identifies individual who 'crossed the line' - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/red-soxs-jarren-duran-heckled-by-guardians-fan-team-identifies-individual-who-crossed-the-line/"
+    },
+    {
+      "title": "Packers Draft Grades: Green Bay gets average scores for 2025 crop - Acme Packing Company",
+      "link": "https://www.acmepackingcompany.com/2025/4/27/24418996/green-bay-packers-draft-grades-2025"
     },
     {
       "title": "Austin Cindric edges out Ryan Preece at the line, captures Talladega victory - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/04/27/nascar-cup-series-talladega-race-recap/"
     },
     {
+      "title": "Tigers Earn Series Win with 12-2 Victory over Tennessee - lsusports.net",
+      "link": "https://lsusports.net/news/2025/04/27/baseball-defeats-tennessee-12-2-in-series-finale/"
+    },
+    {
       "title": "UFL looking into incident between Panthers, fan - ESPN",
       "link": "https://www.espn.com/united-football-league/story/_/id/44890145/ufl-investigating-incident-michigan-panthers-fan"
-    },
-    {
-      "title": "NBA acknowledges a foul that wasn\u2019t called at end of Pistons-Knicks game - AP News",
-      "link": "https://apnews.com/article/knicks-pistons-missed-call-81631ae352317aefc249c201c7b9b6d8"
-    },
-    {
-      "title": "Red Sox\u2019 Jarren Duran reacts to fan\u2019s \u2018inappropriate\u2019 comment relating to prior suicide attempt - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/04/red-sox-jarren-duran-reacts-to-fans-inappropriate-comment-relating-to-prior-suicide-attempt.html"
-    },
-    {
-      "title": "How experts are grading the Seahawks' newest draft class - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-draft-review-experts-give-gm-john-schneider-high-marks/"
-    },
-    {
-      "title": "Dick Barnett, legendary Knicks NBA champion, dead at 88 - New York Post",
-      "link": "https://nypost.com/2025/04/27/sports/dick-barnett-legendary-knicks-nba-champion-dead-at-88/"
-    },
-    {
-      "title": "'Euphoria' as Arsenal reach first European final in 18 years - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c99pl5d07gjo"
-    },
-    {
-      "title": "Sunday Patriots Notes: 6 thoughts on New England\u2019s 2025 NFL Draft - Pats Pulpit",
-      "link": "https://www.patspulpit.com/2025/4/27/24418756/patriots-thoughts-2025-nfl-draft-campbell-wolf-vrabel"
-    },
-    {
-      "title": "Tyler Glasnow Leaves Start Due To Shoulder Discomfort - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/04/tyler-glasnow-leaves-start-due-to-shoulder-discomfort.html"
-    },
-    {
-      "title": "'A moment 35 years in the making, this was Anfield's day of destiny' - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c7vn92498zyo"
-    },
-    {
-      "title": "Gausman ejected after 53-pitch inning vs. Yanks - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/44888091/blue-jays-kevin-gausman-john-schneider-ejected-vs-yankees"
-    },
-    {
-      "title": "NFL says 600,000 fans attended the draft in Green Bay - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-says-600-000-fans-attended-the-draft-in-green-bay"
-    },
-    {
-      "title": "NFL mock draft 2026: Arch Manning's pro career begins in familiar place and other way-too-early picks - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/draft/news/nfl-mock-draft-2026-arch-mannings-pro-career-begins-in-familiar-place-and-other-way-too-early-picks/"
-    },
-    {
-      "title": "Projected Lineup: Round 1, Game 4 at NJD - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-round-1-game-4-at-njd"
-    },
-    {
-      "title": "Primeau set for \u2018little bit different\u2019 view of Game 4 as Canadiens backup goalie - NHL.com",
-      "link": "https://www.nhl.com/news/cayden-primeau-raced-for-opportunity-to-rejoin-montreal-in-nhl-playoffs"
-    },
-    {
-      "title": "Graziano: Overreaction To Criticize Steelers For Not Forcing QB Early In NFL Draft - Steelers Depot",
-      "link": "https://steelersdepot.com/2025/04/graziano-overreaction-to-criticize-steelers-for-not-forcing-qb-early-in-nfl-draft/"
-    },
-    {
-      "title": "2025 NFL Draft Grades: How the Atlanta Falcons fared - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/2025-nfl-draft-grades-atlanta-falcons"
-    },
-    {
-      "title": "\u2018Some things are just meant to be:\u2019 Behind the scenes with Texas defensive end Barryn Sorrell, the most emotional, heartwarming \u2014 and logistically confusing \u2014 pick of the Packers\u2019 draft - Channel 3000",
-      "link": "https://www.channel3000.com/news/some-things-are-just-meant-to-be-behind-the-scenes-with-texas-defensive-end-barryn/article_4e6b0356-46e0-4b18-a300-ec07ef8cac8a.html"
-    },
-    {
-      "title": "New England Patriots delete controversial Mr. Irrelevant post - Awful Announcing",
-      "link": "https://awfulannouncing.com/nfl/new-england-patriots-delete-controversial-mr-irrelevant-post.html"
     }
   ],
   "weather": {
