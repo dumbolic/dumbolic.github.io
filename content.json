@@ -1,9 +1,9 @@
 {
-  "quote": "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. \u2013 Sonia Ricotti",
-  "fact": "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
-  "crypto": "BTC: $94,021 | ETH: $1,759.54",
+  "quote": "He who cheats the earth will be cheated by the earth. \u2013 Chinese Proverb",
+  "fact": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
+  "crypto": "BTC: $94,011 | ETH: $1,764.56",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
+  "joke": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,162 +12,166 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Borderlands 4 Launch Brought Forward by 11 Days \u2014 What Could It Mean for the GTA 6 Release Date? - IGN",
+      "link": "https://www.ign.com/articles/borderlands-4-launch-brought-forward-by-11-days-what-could-it-mean-for-the-gta-6-release-date"
+    },
+    {
+      "title": "Here are Android Auto\u2019s upcoming climate controls [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/04/29/android-auto-climate-controls-preview/"
+    },
+    {
+      "title": "Baldur's Gate 3 And Nier Automata Directors React To AI Hype - Kotaku",
+      "link": "https://kotaku.com/larian-baldurs-gate-3-nier-automata-ai-chatgpt-1851778257"
+    },
+    {
+      "title": "Microsoft reportedly working on Elite Series 3 and two more Xbox controllers - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/microsoft-reportedly-has-three-new-xbox-controllers-in-development"
+    },
+    {
+      "title": "CD Projekt Red shares more Cyberpunk Switch 2 footage, says it\u2019s the \u2018best way\u2019 to play it on the go - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/cd-projekt-red-shares-more-cyberpunk-switch-2-footage-says-its-the-best-way-to-play-it-on-the-go/"
+    },
+    {
+      "title": "Some Good News About \u2018Marathon\u2019 Closed Alpha Codes, Finally - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/04/29/some-good-news-about-marathon-closed-alpha-codes-finally/"
+    },
+    {
+      "title": "Nintendo aiming for up to 1080p resolution, 60 FPS with HDR, in handheld with Donkey Kong - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/04/29/nintendo-aiming-for-up-to-1080p-resolution-60-fps-with-hdr-in-handheld-with-donkey-kong/"
+    },
+    {
+      "title": "Bird Buddy\u2019s new nature camera attracts and records more than just birds - The Verge",
+      "link": "https://www.theverge.com/news/657183/bird-buddy-petal-nature-camera-wonder-blocks-insects-plants-pollinators"
+    },
+    {
+      "title": "Scientists Unveil \u2018Olo,\u2019 a Brand-New Color That\u2019s Only Been Seen by 5 People - Indian Defence Review",
+      "link": "https://indiandefencereview.com/scientists-unveil-olo-a-brand-new-color-thats-only-been-seen-by-5-people/"
+    },
+    {
+      "title": "Is the New Ferrari 296 Speciale Special Enough? - Road & Track",
+      "link": "https://www.roadandtrack.com/news/a64490168/ferrari-296-speciale/"
+    },
+    {
+      "title": "Yes, You Can Adjust The Camera In Mario Kart World - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/04/yes-you-can-adjust-the-camera-in-mario-kart-world"
+    },
+    {
+      "title": "Microsoft Confirms $1.50 Windows Security Update Hotpatch Fee Starts July 1 - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2025/04/29/microsoft-confirms-150-windows-security-update-fee-starts-july-1/"
+    },
+    {
+      "title": "You have two months left to update your old LG phone - The Verge",
+      "link": "https://www.theverge.com/news/657725/lg-phone-android-update-servers-shutdown"
+    },
+    {
+      "title": "Galaxy S21 gets its last OS update, One UI 7, ahead of schedule - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s23-stable-one-ui-7-update-released-india/"
+    },
+    {
+      "title": "Elder Scrolls 4 Oblivion's level scaling was a \"mistake\", says designer, so why is it in the remaster? - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/elder-scrolls-4-oblivions-level-scaling-was-a-mistake-says-designer-so-why-is-it-in-the-remaster"
+    },
+    {
+      "title": "Xbox Game Pass adds co-op ARPG Towerborne today - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/towerborne-xbox-game-pass"
+    },
+    {
+      "title": "Mount Everest Is No Longer Earth\u2019s Tallest Anymore: Scientists Discover Hidden Giants 100x Taller - Indian Defence Review",
+      "link": "https://indiandefencereview.com/mount-everest-is-no-longer-earths-tallest-anymore-scientists-discover-hidden-giants-100x-taller/"
+    },
+    {
+      "title": "Baldur\u2019s Gate 3 director says his studio isn\u2019t interested in making DLC because \u2018it\u2019s boring\u2019 - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/baldurs-gate-3-director-says-his-studio-isnt-interested-in-making-dlc-because-its-boring/"
+    },
+    {
+      "title": "Apple's design for the 20th anniversary iPhone is apparently so 'extraordinarily complex' it must be made in China, report says - Fortune",
+      "link": "https://fortune.com/article/apple-iphone-20th-anniversary-2027-design-extraordinarily-complex-china-india/"
+    },
+    {
       "title": "Far Cry 4 Now Finally Runs at 60fps On PlayStation 5 - IGN",
       "link": "https://www.ign.com/articles/far-cry-4-now-finally-runs-at-60fps-on-playstation-5"
-    },
-    {
-      "title": "As Days Gone gets its PS5 remaster, it's only right that it gets a critical reevaluation too - Eurogamer",
-      "link": "https://www.eurogamer.net/as-days-gone-gets-its-ps5-remaster-its-only-right-that-it-gets-a-critical-reevaluation-too"
-    },
-    {
-      "title": "BMW Defends the M2 Race Car's Four-Cylinder Engine - Motor1.com",
-      "link": "https://www.motor1.com/news/758005/bmw-defends-four-cylinder-m2/"
-    },
-    {
-      "title": "Nothing Phone (3) is \u2018100%\u2019 coming to the United States, Carl Pei says - 9to5Google",
-      "link": "http://9to5google.com/2025/04/28/nothing-phone-3-united-states/"
-    },
-    {
-      "title": "Deal: Google Pixel 9 plummets to its all-time low price - Android Authority",
-      "link": "https://www.androidauthority.com/google-pixel-9-deal-3548886/"
-    },
-    {
-      "title": "WUCHANG: Fallen Feathers launches July 24 - Gematsu",
-      "link": "https://www.gematsu.com/2025/04/wuchang-fallen-feathers-launches-july-24"
-    },
-    {
-      "title": "Pixel Users Will Soon Be Able To Turn Off Their Screens With A Simple Double-Tap, As Google Works On Adding The Long-Awaited Feature In Android 16 - Wccftech",
-      "link": "https://wccftech.com/pixel-users-will-soon-be-able-to-turn-off-their-screens-with-a-simple-double-tap-as-google-works-on-adding-the-long-awaited-feature-in-android-16/"
-    },
-    {
-      "title": "Next Fatal Fury: City of the Wolves update detailed and is coming this week - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/apr/28/fatal-fury-update-coming/"
-    },
-    {
-      "title": "Baldur's Gate 3 boss says studio didn't do DLC because it was the \"boring\" option - Eurogamer",
-      "link": "https://www.eurogamer.net/baldurs-gate-3-boss-says-studio-didnt-do-dlc-because-it-was-the-boring-option"
-    },
-    {
-      "title": "19 Years Later, Oblivion's Anakin Skywalker Easter Egg Is Still Burning - GameSpot",
-      "link": "https://www.gamespot.com/articles/19-years-later-oblivions-anakin-skywalker-easter-egg-is-still-burning/1100-6531182/"
-    },
-    {
-      "title": "ARM Achieves An Unfathomable Milestone; Ships 250 Billion Chips Since The Company\u2019s Inception 40 Years Ago; Now Aiming For More Categories - Wccftech",
-      "link": "https://wccftech.com/arm-achieves-new-milestone-ships-250-billion-chips/"
-    },
-    {
-      "title": "Apple iPhone 17 Air: Latest Leaks Reveal New Design In Great Detail - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/04/28/apple-iphone-17-latest-leak-shows-new-designs-in-striking-detail/"
-    },
-    {
-      "title": "AirPods Pro 3\u2019s best upgrade could be the gift that keeps giving - 9to5Mac",
-      "link": "https://9to5mac.com/2025/04/28/airpods-pro-3s-best-upgrade-could-be-the-gift-that-keeps-giving/"
-    },
-    {
-      "title": "NVIDIA Rolls Out GeForce Hotfix Display Driver 576.26 For Fixing Grey Screen Crashes, Display Flickers And More - Wccftech",
-      "link": "https://wccftech.com/nvidia-rolls-out-geforce-hotfix-display-driver-576-26/"
-    },
-    {
-      "title": "iPhone 17's Scratch Resistant Anti-Reflective Display Coating Canceled - MacRumors",
-      "link": "https://www.macrumors.com/2025/04/28/iphone-17-anti-reflective-coating-canceled/"
-    },
-    {
-      "title": "Migrating away from Rust - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d43824640"
-    },
-    {
-      "title": "The AirPods Pro and AirPods 4 Earbuds Are on Sale Ahead of Mother's Day - IGN",
-      "link": "https://www.ign.com/articles/best-apple-airpods-pro-deal-2025-for-mothers-day"
-    },
-    {
-      "title": "Got an old LG smartphone? You've got 2 months to update before LG turns off the servers - Android Authority",
-      "link": "https://www.androidauthority.com/lg-smartphone-updates-3548804/"
-    },
-    {
-      "title": "The New 2025 Apple iPad Drops to the Lowest Price of the Year on Amazon (All Colors Available) - IGN",
-      "link": "https://www.ign.com/articles/the-new-2025-apple-ipad-drops-to-the-lowest-price-ever-for-mothers-day"
     }
   ],
   "sports_news": [
     {
-      "title": "George Kittle agrees to four-year extension with 49ers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-agrees-to-four-year-extension-with-49ers"
+      "title": "Sources: Kings finalizing deal for Christie as HC - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/44918568/sources-kings-name-doug-christie-full-head-coach"
     },
     {
-      "title": "Mariusz Pudzianowski hits back at famous critic after earning monster payday for 30-second Eddie Hall fight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/04/29/mariusz-pudzianowski-hits-back-at-famous-critic-after-earning-monster-payday-for-30-second-eddie-hall-fight/"
+      "title": "Bill Belichick\u2019s girlfriend promises a \u201cfull statement\u201d later today - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichicks-girlfriend-promises-a-full-statement-later-today"
     },
     {
-      "title": "Rockets-Warriors: 5 takeaways from Jimmy Butler's return in Game 4 thriller - NBA",
-      "link": "https://www.nba.com/news/rockets-warriors-takeaways-game-4-2025-nba-playoffs"
+      "title": "Mel Kiper unaware he ended up in middle of Shedeur Sanders NFL draft controversy - New York Post",
+      "link": "https://nypost.com/2025/04/29/sports/mel-kiper-unaware-his-shedeur-sanders-takes-sparked-nfl-draft-controversy/"
     },
     {
-      "title": "Giants Considered Trading Up For Shedeur Sanders; Teams Took QB Off Draft Boards? - ProFootballRumors.com",
-      "link": "https://www.profootballrumors.com/2025/04/giants-considered-trading-up-for-shedeur-sanders-teams-took-qb-off-draft-boards"
+      "title": "George Kittle\u2019s deal has an inflated final year that pushes it past Trey McBride\u2019s APY - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittles-deal-has-an-inflated-final-year-that-pushes-it-past-trey-mcbrides-apy"
     },
     {
-      "title": "Report: Bill Belichick's girlfriend delayed CBS interview for 30 minutes after storming out - Yahoo Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bill-belichicks-girlfriend-delayed-cbs-interview-for-30-minutes-after-storming-out"
+      "title": "Five things experts got wrong about 2025 NFL Draft: Shedeur Sanders' standing, Browns sold on Travis Hunter - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/five-things-experts-got-wrong-about-2025-nfl-draft-shedeur-sanders-standing-browns-sold-on-travis-hunter/"
     },
     {
-      "title": "Jalen Hurts, Saquon Barkley send messages on Eagles' White House visit. Then Trump sent his - The News Journal",
-      "link": "https://www.delawareonline.com/story/sports/nfl/eagles/2025/04/28/eagles-jalen-hurts-saquon-barkley-send-president-donald-trump-different-message-on-visit/83202905007/"
+      "title": "Yankees\u2019 Aaron Judge Weighs In On Jarren Duran\u2019s Incident With Fan - NESN",
+      "link": "https://nesn.com/2025/04/yankees-aaron-judge-weighs-in-on-jarren-durans-incident-with-fan/"
     },
     {
-      "title": "Gov. Wes Moore: Maryland made \u2018good faith\u2019 offer to keep Commanders in Landover - WTOP",
-      "link": "https://wtop.com/maryland/2025/04/md-made-good-faith-very-strong-offer-to-keep-commanders-in-dc-governor-says/"
+      "title": "Giants say they had no conversations with Donald Trump about Saquon Barkley - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-say-they-had-no-conversations-with-donald-trump-about-saquon-barkley"
     },
     {
-      "title": "Cavs win by 55 points to sweep Heat and finish off most lopsided series in NBA playoff history - AP News",
-      "link": "https://apnews.com/article/cavaliers-heat-score-86862b76fc93c58d6ee495c1068307d9"
+      "title": "Major update made after 'deeply upsetting' neck-slice death of ice hockey player - New York Post",
+      "link": "https://nypost.com/2025/04/29/sports/matt-petgrave-will-not-face-charges-over-death-of-adam-johnson/"
     },
     {
-      "title": "Heat Culture is finally starting to show cracks, so what's next for Miami after getting swept by the Cavs? - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/heat-culture-is-finally-starting-to-show-cracks-so-whats-next-for-miami-after-getting-swept-by-the-cavs/"
+      "title": "Shedeur Sanders was not the only prospect to receive a prank call during the NFL draft - AP News",
+      "link": "https://apnews.com/article/nfl-draft-prank-call-shedeur-sanders-027749fcb71bafa5ff44b73bd4a03d03"
     },
     {
-      "title": "L.A.'s Glasnow joins Snell on IL with similar injury - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/44909246/los-angeles-dodgers-place-tyler-glasnow-il-right-shoulder-inflammation"
+      "title": "Donald Trump Somehow Made the Eagles\u2019 White House Visit About Taylor Swift - Rolling Stone",
+      "link": "http://www.rollingstone.com/music/music-news/donald-trump-taylor-swift-eagles-chiefs-white-house-visit-1235327341/"
     },
     {
-      "title": "Dubas Provides Insight into Coaching Change, Path Forward - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/dubas-provides-insight-into-coaching-change-path-forward"
+      "title": "Inbox: How freaking cool was that? - Green Bay Packers",
+      "link": "https://www.packers.com/news/inbox-how-freaking-cool-was-that-april-29-2025"
     },
     {
-      "title": "NFL should limit internal access to prospects\u2019 phone numbers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-should-limit-internal-access-to-prospects-phone-numbers"
+      "title": "2025 Kentucky Derby predictions, odds, date, horses, post positions: Surprising picks by horse racing expert - CBS Sports",
+      "link": "https://www.cbssports.com/general/news/2025-kentucky-derby-predictions-odds-date-horses-post-positions-surprising-picks-by-horse-racing-expert/"
     },
     {
-      "title": "NBA Admits To Costly Mistake In Lakers\u2019 Game 4 Loss To Timberwolves - Lakers Nation",
-      "link": "https://lakersnation.com/nba-admits-to-costly-mistake-in-lakers-game-4-loss-to-timberwolves/"
+      "title": "Fantasy Baseball Daily Hitting Recap: 4/28/25 - Pitcher List",
+      "link": "http://pitcherlist.com/fantasy-baseball-daily-hitting-recap-4-28-25/"
     },
     {
-      "title": "This is the Warriors employee who decides if Jimmy Butler plays or not - SFGATE",
-      "link": "https://www.sfgate.com/warriors/article/this-man-decides-warriors-jimmy-butler-plays-20298822.php"
+      "title": "Pac-12 reaches TV deals for OSU, WSU games - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/44916471/pac-12-reaches-tv-deals-25-oregon-st-washington-st-games"
     },
     {
-      "title": "Eagles' Saquon Barkley defends golfing with President Trump, who claims he told Giants not to let RB leave - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/eagles-saquon-barkley-defends-golfing-with-president-trump-who-claims-he-told-giants-not-to-let-rb-leave/"
+      "title": "Late for Work: Ravens' Biggest Winners Coming Out of the Draft - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-draft-winners-losers-power-rankings-malaki-starks"
     },
     {
-      "title": "Speedboat that flipped midair in 200 mph crash wins race on Arizona lake - AP News",
-      "link": "https://apnews.com/article/speedboat-flips-airborne-arizona-lake-havasu-race-4bc1589e11bc9710c6575d492a113fdd"
+      "title": "Nuggets-Clippers Is Peak Adrenaline Farming - The Ringer",
+      "link": "https://www.theringer.com/2025/04/29/nba/denver-nuggets-los-angeles-clippers-nba-playoffs-2025"
     },
     {
-      "title": "Free agent WR Diontae Johnson visits Browns - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-wr-diontae-johnson-visits-browns"
+      "title": "Inside the wild timeline of the Saints' bizarre saga of Derek Carr's shoulder injury - NOLA.com",
+      "link": "https://www.nola.com/sports/saints/saints-derek-carr-shoulder-injury-timeline/article_e55d02be-3512-4d4e-a586-4fe786dcc532.html"
     },
     {
-      "title": "Top 10 NFL Draft hauls: Ranking the teams that reeled in the most talent - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/top-10-nfl-draft-hauls-ranking-teams-reeled-most-talent"
+      "title": "Way too early New York Giants 53-man roster projection - Big Blue View",
+      "link": "https://www.bigblueview.com/2025/4/29/24419552/way-too-early-new-york-giants-53-man-roster-projection"
     },
     {
-      "title": "Impact: Projecting roles for each of the Cowboys' nine draft picks - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/impact-projecting-roles-for-each-of-the-cowboys-nine-draft-picks"
+      "title": "2026 NFL Mock Draft: Way-too-early look at next year's class, including Arch Manning - PFF",
+      "link": "https://www.pff.com/news/draft-2026-nfl-mock-draft-way-too-early-arch-manning"
     },
     {
-      "title": "Dept. of Ed.: Penn violated law with trans swimmer - ESPN",
-      "link": "https://www.espn.com/college-sports/story/_/id/44906340/penn-violated-laws-transgender-swimmer-competed"
+      "title": "TWENTYMAN: 5 takeaways from 2025 NFL Draft - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/detroit-lions-5-takeaways-from-2025-nfl-draft-ratledge-frazier-teslaa"
     }
   ],
   "weather": {
