@@ -1,9 +1,9 @@
 {
-  "quote": "The purpose of life is to contribute in some way to making things better. \u2013 Robert F. Kennedy",
-  "fact": "The average person`s left hand does 56% of the typing.",
-  "crypto": "BTC: $96,291 | ETH: $1,836.96",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
+  "quote": "You only live once, but if you do it right, once is enough. \u2013 Mae West",
+  "fact": "The shape of plant collenchyma\u2019s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.",
+  "crypto": "BTC: $97,001 | ETH: $1,844.65",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple Violated Antitrust Ruling, Judge Finds - WSJ",
+      "link": "https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957"
+    },
+    {
+      "title": "E Ink Android tablet maker Onyx Boox is making a $1,900 color E Ink monitor - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/"
+    },
+    {
+      "title": "Sketchy rumors hint at an iPhone desktop mode - The Verge",
+      "link": "https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors"
+    },
+    {
       "title": "Raspberry Pi cuts product returns by 50% by changing up its pin soldering - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/04/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering/"
     },
     {
-      "title": "Random: Clair Obscur Director Celebrates Amazing Switch RPG Which Launched On Same Day - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/04/random-clair-obscur-director-celebrates-amazing-switch-rpg-which-launched-on-same-day"
+      "title": "Bay Area video game giant worth $37 billion cuts staff for 3rd year straight - SFGATE",
+      "link": "https://www.sfgate.com/tech/article/electronic-arts-layoffs-hundreds-20302979.php"
+    },
+    {
+      "title": "Nintendo limits a game-sharing loophole as it introduces Virtual Game Cards - The Verge",
+      "link": "https://www.theverge.com/news/659074/nintendo-switch-online-game-sharing-loophole"
+    },
+    {
+      "title": "Nobody\u2019s Asking for Unnecessarily Skinny iPhones or Samsung Galaxy Phones - Gizmodo",
+      "link": "https://gizmodo.com/nobodys-asking-for-unnecessarily-skinny-iphones-or-samsung-galaxy-phones-2000596535"
     },
     {
       "title": "Android 16's redesign might look this, as a major leak surfaces - Android Central",
       "link": "https://www.androidcentral.com/apps-software/android-os/android-16-ui-icons-panel-redesign-leak"
-    },
-    {
-      "title": "Windows RDP lets you log in using revoked passwords. Microsoft is OK with that. - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
     },
     {
       "title": "Google\u2019s Play Store lost nearly half its apps - The Verge",
@@ -40,6 +56,10 @@
       "link": "https://www.wired.com/story/airborne-airplay-flaws/"
     },
     {
+      "title": "Meta Is Turning Its Ray-Bans Into a Surveillance Machine for AI - Gizmodo",
+      "link": "https://gizmodo.com/meta-is-turning-its-ray-bans-into-a-surveillance-machine-for-ai-2000596395"
+    },
+    {
       "title": "Evil Dead: The Game pulled from digital storefronts - Polygon",
       "link": "https://www.polygon.com/gaming/567151/evil-dead-the-game-removed-from-digital-storefronts-steam"
     },
@@ -48,16 +68,12 @@
       "link": "https://www.ign.com/articles/world-of-warcraft-is-getting-a-one-button-option-that-will-automatically-cast-the-ideal-next-spell-but-at-a-cost"
     },
     {
-      "title": "PlayStation Plus Free Games For May 2025 Revealed - GameSpot",
-      "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-may-2025/1100-6531161/"
+      "title": "Balatro comes to PlayStation Plus in May - Polygon",
+      "link": "https://www.polygon.com/news/567104/ps-plus-may-2025-free-games-essential"
     },
     {
       "title": "Assassin's Creed Shadows post-launch roadmap features regular new story missions, parkour updates, New Game Plus - Eurogamer",
       "link": "https://www.eurogamer.net/assassins-creed-shadows-post-launch-roadmap-features-regular-new-story-missions-parkour-updates-new-game-plus"
-    },
-    {
-      "title": "These Startups Are Building Advanced AI Models Without Data Centers - WIRED",
-      "link": "https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/"
     },
     {
       "title": "Someone at YouTube needs glasses - Hacker News",
@@ -74,36 +90,32 @@
     {
       "title": "Everything You Need To Know About Overwatch 2\u2019s Gundam Wing Collaboration - Kotaku",
       "link": "https://kotaku.com/overwatch-2-gundam-wing-event-challenges-skins-1851778449"
-    },
-    {
-      "title": "After Years of Struggle, Blizzard Has Found Itself in Uncharted Territory: Overwatch Players Are Having Fun Again - IGN",
-      "link": "https://www.ign.com/articles/after-years-of-struggle-blizzard-has-found-itself-in-uncharted-territory-overwatch-players-are-having-fun-again"
-    },
-    {
-      "title": "Call of Duty\u2019s Ongoing 4/20 Obsession Sparks Debate Among Fans: Some Have Had Enough, Others Really Want That Seth Rogen Skin - IGN",
-      "link": "https://www.ign.com/articles/call-of-dutys-ongoing-420-obsession-sparks-debate-among-fans-some-have-had-enough-others-really-want-that-seth-rogen-skin"
-    },
-    {
-      "title": "When ChatGPT Broke an Entire Field: An Oral History - Quanta Magazine",
-      "link": "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Riveras added as defendants in sexual abuse suit - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/44940868/mariano-rivera-wife-added-defendants-sexual-abuse-suit"
+    },
+    {
+      "title": "NFL sent Shedeur Sanders\u2019s phone number directly to Jeff Ulbrich - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-sent-shedeur-sanderss-phone-number-directly-to-jeff-ulbrich"
+    },
+    {
+      "title": "2025 Kentucky Derby betting: How and where to bet on the Derby, exclusive promo codes, picks, plus odds - CBS Sports",
+      "link": "https://www.cbssports.com/betting/news/2025-kentucky-derby-betting-how-and-where-to-bet-on-the-derby-exclusive-promo-codes-picks-plus-odds/"
+    },
     {
       "title": "Bills sign wide receiver Elijah Moore - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-wide-receiver-elijah-moore"
     },
     {
-      "title": "\u2018Not the worst result\u2019 - Raphinha gives his verdict on Barcelona\u2019s Champions League draw with Inter - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/2025/4/30/24421259/not-the-worst-result-raphinha-gives-his-verdict-on-barcelonas-champions-league-draw-with-inter"
+      "title": "2025 Pro Swim Series - Fort Lauderdale: Day 1 Finals Live Recap - SwimSwam",
+      "link": "https://swimswam.com/2025-pro-swim-series-fort-lauderdale-day-1-finals-live-recap/"
     },
     {
-      "title": "NFL fines Falcons and defensive coordinator Jeff Ulbrich following prank call to Shedeur Sanders - AP News",
-      "link": "https://apnews.com/article/nfl-sanders-falcons-fine-prank-call-be7efb4084d4deb4821b95cb43919e4d"
-    },
-    {
-      "title": "John Elway\u2019s longtime agent dies after golf cart accident - NewsNation",
-      "link": "https://www.newsnationnow.com/us-news/west/john-elways-longtime-agent-dies-golf-cart-accident/"
+      "title": "2026 NFL Mock Draft: A way-too-early look at where Arch Manning, Drew Allar, Garrett Nussmeier might fit - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/2026-nfl-mock-draft-a-way-too-early-look-at-where-arch-manning-drew-allar-garrett-nussmeier-might-fit"
     },
     {
       "title": "Women\u2019s Pro Hockey Coming to PNW - NHL.com",
@@ -118,8 +130,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kwesi-adofo-mensah-excited-to-reward-andrew-van-ginkel-for-year-he-had"
     },
     {
-      "title": "UNC\u2019s Belichick defends Hudson as \u2018doing her job\u2019 after interjecting during CBS interview - AP News",
-      "link": "https://apnews.com/article/unc-belichick-girlfriend-jordon-hudson-444939d933e4f92f280f62ba6b193de1"
+      "title": "Jeff Sperbeck dies after falling out of golf cart reportedly driven by John Elway in Southern California - Yahoo Sports",
+      "link": "https://sports.yahoo.com/article/jeff-sperbeck-dies-falling-golf-194559421.html"
+    },
+    {
+      "title": "Charles Barkley Had Violent Answer for What He Would've Done to Tyrese Haliburton\u2019s Dad - Sports Illustrated",
+      "link": "https://www.si.com/nba/charles-barkley-violent-answer-for-what-he-would-ve-done-tyrese-haliburton-dad-giannis-antetokounmpo"
     },
     {
       "title": "Jets QB Jordan Travis Will Retire - New York Jets",
@@ -134,8 +150,8 @@
       "link": "https://www.espn.com/nfl/story/_/id/44936588/ravens-decline-tyler-linderbaum-fifth-year-option"
     },
     {
-      "title": "2025 Kentucky Derby predictions, odds, date, horses, post positions: Surprising picks from horse racing expert - CBS Sports",
-      "link": "https://www.cbssports.com/general/news/2025-kentucky-derby-predictions-odds-date-horses-post-positions-surprising-picks-from-horse-racing-expert/"
+      "title": "NBA Same Game Parlay Tonight: +320 Bet for Wednesday, April 30 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nba-same-game-parlay-tonight-xxx-bet-for-wednesday-april-30-qs"
     },
     {
       "title": "Fun Facts About Every Ravens Draft Pick - Baltimore Ravens",
@@ -154,20 +170,8 @@
       "link": "https://www.nascar.com/news-media/2025/04/31/race-weekend-updates-links-texas/"
     },
     {
-      "title": "Stephen A. Smith Blasts Tyrese Haliburton\u2019s Dad Over \u2018Embarrassing\u2019 Giannis Clash - Sports Illustrated",
-      "link": "https://www.si.com/media/stephen-a-smith-blasts-tyrese-haliburton-dad"
-    },
-    {
-      "title": "\u2018They Hit It Out Of The Park:\u2019 Doug Whaley Lauds Steelers\u2019 Draft Haul - Steelers Depot",
-      "link": "https://steelersdepot.com/2025/04/they-hit-it-out-of-the-park-doug-whaley-lauds-steelers-draft-haul/"
-    },
-    {
-      "title": "J.J. McCarthy: Justin Jefferson is so special, I can\u2019t wait to work with him every day - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-justin-jefferson-is-so-special-i-cant-wait-to-work-with-him-every-day"
-    },
-    {
-      "title": "NBA playoff odds, picks: Can Austin Reaves save Lakers from elimination? Plus best bet for Warriors-Rockets - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/nba-playoff-odds-picks-can-austin-reaves-save-lakers-from-elimination-plus-best-bet-for-warriors-rockets/"
+      "title": "Cowboys NFL Draft winners and losers: Dak Prescott on both lists; Will McClay, Micah Parsons fired up - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/cowboys-nfl-draft-winners-and-losers-dak-prescott-on-both-lists-will-mcclay-micah-parsons-fired-up/"
     }
   ],
   "weather": {
