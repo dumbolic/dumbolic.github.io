@@ -1,9 +1,9 @@
 {
-  "quote": "Life is not a problem to be solved, but a reality to be experienced. \u2013 Soren Kierkegaard",
-  "fact": "You spend 7 years of your life in the bathroom.",
-  "crypto": "BTC: $96,871 | ETH: $1,827.53",
+  "quote": "Help others achieve their dreams and you will achieve yours. \u2013 Les Brown",
+  "fact": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+  "crypto": "BTC: $96,996 | ETH: $1,833.19",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
+  "joke": "My cat was just sick on the carpet, I don\u2019t think it\u2019s feline well.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "E Ink Android tablet maker Onyx Boox is making a $1,900 color E Ink monitor - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/"
+      "title": "Microsoft: Xbox is now the \"biggest publisher\" on PlayStation, as PC Game Pass hits 45% year over year growth - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-xbox-is-now-the-biggest-publisher-on-playstation-as-pc-game-pass-hits-45-percent-year-over-year-growth"
+    },
+    {
+      "title": "Microsoft\u2019s most capable new Phi 4 AI model rivals the performance of far larger systems - TechCrunch",
+      "link": "https://techcrunch.com/2025/04/30/microsofts-most-capable-new-phi-4-ai-model-rivals-the-performance-of-far-larger-systems/"
+    },
+    {
+      "title": "Office is too slow, so Microsoft is making it load at Windows startup - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d43852162"
     },
     {
       "title": "Google\u2019s Gemini chatbot gets upgraded image creation tools - TechCrunch",
@@ -24,24 +32,12 @@
       "link": "https://thegamepost.com/new-details-destiny-1-staten-story-2013-reboot/"
     },
     {
-      "title": "Meta Now Collects More Data From Ray-Bans to Bolster AI - MacRumors",
-      "link": "https://www.macrumors.com/2025/04/30/meta-ray-bans-data-ai/"
-    },
-    {
       "title": "Sketchy rumors hint at an iPhone desktop mode - The Verge",
       "link": "https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors"
     },
     {
-      "title": "Leaked image teases Samsung's \"beyond slim\" phone for mid-May launch - Android Headlines",
-      "link": "https://www.androidheadlines.com/2025/04/leaked-image-teases-samsungs-beyond-slim-phone-for-mid-may-launch.html"
-    },
-    {
       "title": "Google Just Launched an AI-Powered Duolingo Alternative - Lifehacker",
       "link": "https://lifehacker.com/tech/google-launches-an-ai-powered-duolingo-alternative"
-    },
-    {
-      "title": "Aston Martin unveils most powerful internal combustion SUV on the planet - supercarblondie.com",
-      "link": "https://supercarblondie.com/aston-martin-unveils-most-powerful-internal-combustion-suv-on-the-planet/"
     },
     {
       "title": "Ubisoft Reveals Massive Post-Launch Road Map For Assassin's Creed Shadows - Kotaku",
@@ -56,10 +52,6 @@
       "link": "https://www.sfgate.com/tech/article/electronic-arts-layoffs-hundreds-20302979.php"
     },
     {
-      "title": "Nintendo limits a game-sharing loophole as it introduces Virtual Game Cards - The Verge",
-      "link": "https://www.theverge.com/news/659074/nintendo-switch-online-game-sharing-loophole"
-    },
-    {
       "title": "Nobody\u2019s Asking for Unnecessarily Skinny iPhones or Samsung Galaxy Phones - Gizmodo",
       "link": "https://gizmodo.com/nobodys-asking-for-unnecessarily-skinny-iphones-or-samsung-galaxy-phones-2000596535"
     },
@@ -72,10 +64,6 @@
       "link": "https://www.androidcentral.com/apps-software/android-os/android-16-ui-icons-panel-redesign-leak"
     },
     {
-      "title": "Windows RDP lets you log in using revoked passwords. Microsoft is OK with that. - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
-    },
-    {
       "title": "Only 5 people have seen the new color uncovered at UC Berkeley - SFGATE",
       "link": "https://www.sfgate.com/local/article/five-people-see-new-color-uc-berkeley-20302688.php"
     },
@@ -84,18 +72,50 @@
       "link": "https://www.investors.com/news/technology/google-stock-apple-stock-pichai-gemini-ai-licensing-deal/"
     },
     {
-      "title": "Google\u2019s Play Store lost nearly half its apps - The Verge",
-      "link": "https://www.theverge.com/news/658932/google-play-store-lost-half-apps"
+      "title": "Aston Martin DBX S Has 23-Inch Magnesium Wheels And A Grille Designed For Better Weight Distribution - Jalopnik",
+      "link": "https://www.jalopnik.com/1847912/aston-martin-dbx-s-specs-design-details/"
     },
     {
-      "title": "This Guy Lost Over 20 Percent Body Fat in His 60s. These 3 Tips Helped Him Do It. - Men's Health",
-      "link": "https://www.menshealth.com/health/a64623361/weight-loss-transformation-60-pounds-age-60/"
+      "title": "Evil Dead: The Game pulled from digital storefronts - Polygon",
+      "link": "https://www.polygon.com/gaming/567151/evil-dead-the-game-removed-from-digital-storefronts-steam"
+    },
+    {
+      "title": "World of Warcraft Is Getting a One-Button Option That Will Automatically Cast the Ideal Next Spell \u2014 but at a Cost - IGN",
+      "link": "https://www.ign.com/articles/world-of-warcraft-is-getting-a-one-button-option-that-will-automatically-cast-the-ideal-next-spell-but-at-a-cost"
+    },
+    {
+      "title": "PlayStation Plus Free Games For May 2025 Revealed - GameSpot",
+      "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-may-2025/1100-6531161/"
     }
   ],
   "sports_news": [
     {
-      "title": "Will LeBron James play next season? Lakers star doesn't have answer on future after first-round playoff exit - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/will-lebron-james-play-next-season-lakers-star-doesnt-have-answer-on-future-after-first-round-playoff-exit/"
+      "title": "NFC East 2025 draft grades: Giants edition - PhillyVoice",
+      "link": "https://www.phillyvoice.com/nfc-east-2025-draft-grades-giants-edition-abdul-carter-jaxson-dart/"
+    },
+    {
+      "title": "NBA draft lottery 101: Date, time, odds, format, history - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/44921796/nba-draft-lottery-format-history-key-facts"
+    },
+    {
+      "title": "LeBron James to mull NBA future after Lakers\u2019 early exit from playoffs - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/05/01/is-lebron-retiring-today/"
+    },
+    {
+      "title": "What is the cost if Man Utd miss out on Champions League qualification? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c789ezrv2kzo"
+    },
+    {
+      "title": "FA says transgender women cannot compete in women's football from 1 June - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cz01z4rdx4no"
+    },
+    {
+      "title": "What's next for Lakers? First-round exit starts clock on long-term plan after Luka Don\u010di\u0107 trade - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/whats-next-for-lakers-first-round-exit-starts-clock-on-long-term-plan-after-luka-doncic-trade/"
+    },
+    {
+      "title": "Rockets-Warriors: 5 takeaways as Houston passes gut check to force Game 6 - NBA",
+      "link": "https://www.nba.com/news/rockets-warriors-takeaways-game-5-2025-nba-playoffs"
     },
     {
       "title": "Bill Belichick\u2019s daughter-in-law shades Jordon Hudson as CBS interview drama grows - New York Post",
@@ -122,8 +142,12 @@
       "link": "https://www.cbssports.com/nfl/news/john-elways-business-partner-ex-agent-dies-after-fall-from-golf-cart-driven-by-hall-of-fame-qb-per-report/"
     },
     {
-      "title": "A more concerning Jalen Brunson debate will linger after Game 5 debacle - New York Post",
-      "link": "https://nypost.com/2025/04/30/sports/jalen-brunson-ankle-debate-will-linger-after-game-5-debacle/"
+      "title": "Rockets Facing Major Steph Curry Accusation Amid Warriors Game - Athlon Sports",
+      "link": "https://athlonsports.com/nba/memphis-grizzlies/rockets-facing-major-steph-curry-accusation-amid-warriors-game"
+    },
+    {
+      "title": "Thierry Henry is so awed by Lamine Yamal's Champions League performance that he asks for his Barcelona shirt - CBS Sports",
+      "link": "https://www.cbssports.com/soccer/news/thierry-henry-is-so-awed-by-lamine-yamals-champions-league-performance-that-he-asks-for-his-barcelona-shirt/"
     },
     {
       "title": "NFL sent Shedeur Sanders\u2019s phone number directly to Jeff Ulbrich - NBC Sports",
@@ -140,34 +164,6 @@
     {
       "title": "\u2018Lamine showed us the way\u2019 - Hansi Flick hails Yamal after Barcelona\u2019s Champions League draw with Inter - Barca Blaugranes",
       "link": "https://www.barcablaugranes.com/2025/5/1/24421277/lamine-showed-us-the-way-hansi-flick-hails-yamal-after-barcelonas-champions-league-draw-with-inter"
-    },
-    {
-      "title": "PWHL announces Seattle for 2nd expansion franchise, plans to add 2 more by 2026-27, AP source says - AP News",
-      "link": "https://apnews.com/article/womens-hockey-pwhl-expansion-seattle-6e93a32a6c8419385a0a5342f0836b61"
-    },
-    {
-      "title": "Source: Bills adding WR Moore on 1-year deal - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/44939177/bills-adding-free-agent-wr-elijah-moore-source-says"
-    },
-    {
-      "title": "USA Volleyball Announces 2025 U21 Women\u2019s National Team for Pan American Cup - USA Volleyball",
-      "link": "https://usavolleyball.org/story/usa-volleyball-announces-2025-u21-womens-national-team-for-pan-american-cup/"
-    },
-    {
-      "title": "Red Sox Rumors: Short-Term Move Makes Room For Veteran - NESN",
-      "link": "https://nesn.com/2025/04/red-sox-rumors-short-term-move-makes-room-for-veteran/"
-    },
-    {
-      "title": "Charles Barkley Had Violent Answer for What He Would've Done to Tyrese Haliburton\u2019s Dad - Sports Illustrated",
-      "link": "https://www.si.com/nba/charles-barkley-violent-answer-for-what-he-would-ve-done-tyrese-haliburton-dad-giannis-antetokounmpo"
-    },
-    {
-      "title": "Kevin O'Connell explains why J.J. McCarthy hasn't been named Vikings' starting QB - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/news/kevin-o-connell-explains-why-j-j-mccarthy-hasn-t-been-named-vikings-starting-qb"
-    },
-    {
-      "title": "Betting the NBA Playoffs: Four bets for Wednesday - ESPN",
-      "link": "https://www.espn.com/espn/betting/story/_/id/44935055/four-bets-wednesday-playoff-games"
     }
   ],
   "weather": {
