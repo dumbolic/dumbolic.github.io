@@ -1,9 +1,9 @@
 {
-  "quote": "What is a friend? A single soul dwelling in two bodies. \u2013 Aristotle",
-  "fact": "The San Francisco Cable cars are the only mobile National Monuments.",
-  "crypto": "BTC: $95,691 | ETH: $1,838.05",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why was it called the dark ages? Because of all the knights. ",
+  "quote": "Unless you're ashamed of yourself now and then, you're not honest. \u2013 William Faulkner",
+  "fact": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
+  "crypto": "BTC: $95,675 | ETH: $1,834.13",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -16,16 +16,20 @@
       "link": "https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable"
     },
     {
+      "title": "Updated Northern Lights Forecast: These 6 States Could See Aurora Borealis Tonight - Forbes",
+      "link": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/03/updated-northern-lights-forecast-these-6-states-could-see-aurora-borealis-tonight/"
+    },
+    {
       "title": "Nintendo is suing the accessory manufacturer that showed off Switch 2 early - Video Games Chronicle",
       "link": "https://www.videogameschronicle.com/news/nintendo-is-suing-the-accessory-manufacturer-that-showed-off-switch-2-early/"
     },
     {
-      "title": "iPhone 17 Air will revive discontinued Apple accessory to help with important tradeoff - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/03/iphone-17-air-will-revive-discontinued-apple-accessory-to-help-with-important-tradeoff/"
+      "title": "Thanks to Xbox's price hike, the Series S is now more expensive than the PS5 - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/thanks-to-xboxs-price-hike-the-series-s-is-now-more-expensive-than-the-ps5"
     },
     {
-      "title": "Jacy Jayne Reacts to Gigi Dolin\u2019s WWE Release - Ringside News",
-      "link": "https://www.ringsidenews.com/2025/05/03/jacy-jayne-reacts-to-gigi-dolins-wwe-release/"
+      "title": "iPhone 17 Air Expected to Have Battery Case Due to 'Worse' Battery Life - MacRumors",
+      "link": "https://www.macrumors.com/2025/05/03/iphone-17-air-battery-case-report/"
     },
     {
       "title": "Grand Theft Auto VI delayed again, this time until May 2026 - AP News",
@@ -72,12 +76,8 @@
       "link": "https://www.nintendolife.com/news/2025/05/oops-yuji-horii-might-may-not-have-leaked-massive-remake-news-after-all"
     },
     {
-      "title": "Summer Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
-      "link": "https://www.halowaypoint.com/news/summer-update-2025-halo-infinite"
-    },
-    {
-      "title": "The CEO Who Says an Asteroid Is Coming to Destroy America\u2019s Businesses - WSJ",
-      "link": "https://www.wsj.com/business/tariffs-china-ryan-petersen-small-business-35f99669"
+      "title": "Google is going to let kids use its Gemini AI - The Verge",
+      "link": "https://www.theverge.com/news/660678/google-gemini-ai-children-under-13-family-link-chatbot-access"
     },
     {
       "title": "\u2018Evil Dead: The Game\u2019 Has Been Quietly Delisted From Digital Storefronts - Bloody Disgusting",
@@ -90,36 +90,52 @@
   ],
   "sports_news": [
     {
-      "title": "Every word from Arteta\u2019s post-Bournemouth presser | Press conference | News - Arsenal.com",
-      "link": "https://www.arsenal.com/news/every-word-artetas-post-bournemouth-presser-2"
+      "title": "Dodgers Recall Hyeseong Kim - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/dodgers-to-recall-hyeseong-kim.html"
     },
     {
-      "title": "Bearman drops out of the points after being hit with penalty for unsafe release in Miami Sprint - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/bearman-drops-out-of-the-points-after-being-hit-with-penalty-for-unsafe.1CjI2Ugz1HuI8KNoMsvC5R"
+      "title": "Verstappen surges to pole position ahead of Norris and Antonelli in Miami GP Qualifying - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/verstappen-surges-to-pole-position-ahead-of-norris-and-antonelli-in-miami-gp.65c4uuRdWk8qEEivJQPQUx"
     },
     {
-      "title": "2025 Kentucky Derby predictions, horses, odds, post positions, date: Surprising picks by horse racing expert - CBS Sports",
-      "link": "https://www.cbssports.com/general/news/2025-kentucky-derby-predictions-horses-odds-post-positions-date-surprising-picks-by-horse-racing-expert/"
+      "title": "Storm's Samuelson (ACL) likely out for season - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/44984725/storm-katie-lou-samuelson-expected-miss-season-torn-acl"
+    },
+    {
+      "title": "How and where to bet on the Kentucky Derby 2025: Best Kentucky Derby betting app, sites, expert picks, promos - CBS Sports",
+      "link": "https://www.cbssports.com/general/news/how-to-bet-on-the-kentucky-derby-2025-where-to-bet-best-apps-twinspires-fanduel-racing/"
+    },
+    {
+      "title": "Yuki Tsunoda and Kimi Antonelli among drivers promoted to F1 Miami sprint points after penalties - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/yuki-tsunoda-and-kimi-antonelli-among-drivers-promoted-to-f1-miami-sprint-points-after-penalties/10719477/"
+    },
+    {
+      "title": "Kavan Markwood 'awake, alert' after PNC Park fall, those close to him say - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/2025/05/03/kavan-markwood-update-pnc-park-fall-pirates-cubs/stories/202505030047"
+    },
+    {
+      "title": "Yankees squander late lead but hope they avoided the worst in loss to Rays - New York Post",
+      "link": "https://nypost.com/2025/05/03/sports/yankees-squander-late-lead-but-avoid-worst-in-loss-to-rays/"
+    },
+    {
+      "title": "In photos: Kentucky Derby style thrills - Axios",
+      "link": "https://www.axios.com/2025/05/03/in-photos-kentucky-derby-style-thrills"
     },
     {
       "title": "Carson Hocevar claims first career Busch Light Pole Award at Texas - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/05/03/cup-series-2025-texas-busch-light-pole-qualifying/"
     },
     {
-      "title": "Fan who fell from bleachers at Cubs-Pirates game is awake, family says: 'Eternally grateful' - ABC7 Chicago",
-      "link": "https://abc7chicago.com/post/kavan-markwood-awake-speak-family-says-falling-bleachers-pirates-cubs-game/16312906/"
+      "title": "Shilo Sanders\u2019 Tough Buccaneers Admission Sounds Alarm for Todd Bowles as Coach Prime Breaks Silence Over Antonio Brown Disrespect - EssentiallySports",
+      "link": "https://www.essentiallysports.com/ncaa-college-football-news-shilo-sanders-tough-buccaneers-admission-sounds-alarm-for-todd-bowles-as-coach-prime-breaks-silence-over-antonio-brown-disrespect/"
     },
     {
-      "title": "Caitlin Clark Explains Why She Missed First Fever Preseason Game - Sports Illustrated",
-      "link": "https://www.si.com/wnba/caitlin-clark-explains-why-missed-first-fever-preseason-game"
+      "title": "Norris wins chaotic Miami Sprint from Piastri and Hamilton after late Safety Car and multiple incidents - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/norris-wins-chaotic-miami-sprint-from-piastri-and-hamilton-after-late-safety.3BuF89LkPN0p4bsqA2YyDm"
     },
     {
-      "title": "F1 Miami GP: Norris leads McLaren 1-2 in safety car finish to sprint - Autosport",
-      "link": "https://www.autosport.com/f1/news/f1-miami-gp-norris-leads-mclaren-1-2-in-safety-car-finish-to-sprint/10719333/"
-    },
-    {
-      "title": "Report: President Trump considers executive order limiting NIL payments - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-president-trump-considers-executive-order-limiting-nil-payments"
+      "title": "Olympian charged in Florida with battery on female fellow athlete - AP News",
+      "link": "https://apnews.com/article/olympic-athlete-fred-kerley-arrested-battery-f5b5ea47e8f4f2193221556827a757cb"
     },
     {
       "title": "Huge embarrassment for Harry Kane as cameras catch Bayern striker waiting to run on pitch & celebrate Bundesliga title only for RB Leipzig to score in final seconds to keep Vincent Kompany's side waiting - Goal.com",
@@ -130,12 +146,12 @@
       "link": "https://www.mlbtraderumors.com/2025/05/red-sox-place-triston-casas-on-10-day-il-select-abraham-toro.html"
     },
     {
-      "title": "Blue Jays To Sign Spencer Turnbull - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/blue-jays-to-sign-spencer-turnbull.html"
-    },
-    {
       "title": "Seven questions facing new NY Rangers coach Mike Sullivan - Lohud",
       "link": "https://www.lohud.com/story/sports/nhl/rangers/2025/05/03/mike-sullivan-ny-rangers-nhl-7-questions-facing-new-head-coach/83415474007/"
+    },
+    {
+      "title": "President Donald Trump considering executive order for NIL after meeting with Nick Saban, per report - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/president-donald-trump-considering-executive-order-for-nil-after-meeting-with-nick-saban-per-report/"
     },
     {
       "title": "Report: Jordon Hudson \u201cforced her way\u201d into Bill Belichick\u2019s Super Bowl commercial - NBC Sports",
@@ -152,18 +168,6 @@
     {
       "title": "Rookie Minicamp Will Give First Indication of Early Contributors | 50 Words or Less - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/carson-vinson-mike-green-emery-jones-garrett-dellinger-offensive-line-depth"
-    },
-    {
-      "title": "NFL Insider reveals fascinating information on Shedeur Sanders\u2019 selection - Dawgs By Nature",
-      "link": "https://www.dawgsbynature.com/2025/5/3/24422950/browns-nfl-draft-insider-reveals-information-on-sheder-sanders-selection-shedeur-sanders"
-    },
-    {
-      "title": "Gregg Popovich: The Old-School Coach Who Saw the Future of the NBA - WSJ",
-      "link": "https://www.wsj.com/sports/basketball/gregg-popovich-spurs-duncan-wembanyama-dc32ae8b"
-    },
-    {
-      "title": "Braves News: Pitchers\u2019 duel at Truist, Spencer Strider\u2019s status, and more - Battery Power",
-      "link": "https://www.batterypower.com/2025/5/3/24422921/atlanta-braves-news-pitchers-duel-los-angeles-dodgers-grant-holmes-matt-olson-spencer-strider-more"
     }
   ],
   "weather": {
