@@ -1,9 +1,9 @@
 {
-  "quote": "Never do to others what you would not like them to do to you.  \u2013 Confucius",
-  "fact": "38% of American men say they love their cars more than women",
-  "crypto": "BTC: $94,269 | ETH: $1,809.83",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I wanted to be a tailor but I didn't suit the job",
+  "quote": "Being entirely honest with oneself is a good exercise. \u2013 Sigmund Freud",
+  "fact": "Koala is Aboriginal for \"no drink\".",
+  "crypto": "BTC: $94,205 | ETH: $1,808.27",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads \u201cSmall medium at large.\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,94 +12,106 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "This Samsung Galaxy Watch design feature might be returning soon - and it's good news for fans - ZDNET",
+      "link": "https://www.zdnet.com/article/this-samsung-galaxy-watch-design-feature-might-be-returning-soon-and-its-good-news-for-fans/"
+    },
+    {
+      "title": "Chips aren\u2019t improving like they used to, and it\u2019s killing game console price cuts - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/chips-arent-improving-like-they-used-to-and-its-killing-game-console-price-cuts/"
+    },
+    {
+      "title": "Microsoft Issues June 1 Warning \u2014 Do Not Wait, Save Your Passwords Now - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2025/05/04/save-all-your-passwords-before-june-1-microsoft-warns-app-users/"
+    },
+    {
+      "title": "Nintendo details changes to Nintendo 64 Nintendo Classics app on Switch 2 - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/05/04/nintendo-details-changes-to-nintendo-64-nintendo-classics-app-on-switch-2/"
+    },
+    {
+      "title": "Koei Tecmo details Wild Hearts S differences on Nintendo Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/koei-tecmo-details-wild-hearts-s-differences-on-nintendo-switch-2/"
+    },
+    {
       "title": "Clair Obscur: Expedition 33: How the 'Game of the Year' was made - BBC",
       "link": "https://www.bbc.com/news/articles/c078j5gd71ro"
+    },
+    {
+      "title": "55 billion tons of iron uncovered, this colossal treasure is worth trillions and could shake up the global economic balance. - Farmingdale Observer",
+      "link": "https://farmingdale-observer.com/2025/05/03/55-billion-tons-of-iron-uncovered-this-colossal-treasure-is-worth-trillions-and-could-shake-up-the-global-economic-balance/"
     },
     {
       "title": "Day 2 Randoms - Bike Festival Riva 2025 - Pinkbike",
       "link": "https://www.pinkbike.com/news/day-2-randoms-bike-festival-riva-2025.html"
     },
     {
+      "title": "Capcom: We have older fighting games that aren't playable on modern hardware, we'll listen to fans to offer a place to play them - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/may/03/capcom-older-fighting-games/"
+    },
+    {
+      "title": "Apple reportedly launching new MacBook Pro later this year: Here\u2019s whats rumored - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/03/apple-m5-macbook-pro-rumor-roundup/"
+    },
+    {
       "title": "Janet Jackson\u2019s \u2018Rhythm Nation\u2019 crashed some Windows laptops for years - The Verge",
       "link": "https://www.theverge.com/news/660747/janet-jackson-rhythm-nation-windows-hard-drives-laptops-crash"
     },
     {
-      "title": "Nintendo files lawsuit against Genki over Switch 2 mockup shown at CES 2025 booth - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-files-lawsuit-against-genki-over-switch-2-mockup-shown-at-ces-2025-booth/"
+      "title": "Nintendo on the importance of diversity at the company, says it will always be important - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-on-the-importance-of-diversity-at-the-company-says-it-will-always-be-important/"
+    },
+    {
+      "title": "Apple may stagger next year\u2019s iPhones to make way for a foldable - The Verge",
+      "link": "https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable"
+    },
+    {
+      "title": "Watch A Chevy Blazer EV SS Crush A Mountain-Climbing Range Test - InsideEVs",
+      "link": "https://insideevs.com/news/758467/chevy-blazer-ev-ss-mountain-range/"
     },
     {
       "title": "Updated Northern Lights Forecast: These 6 States Could See Aurora Borealis Tonight - Forbes",
       "link": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/03/updated-northern-lights-forecast-these-6-states-could-see-aurora-borealis-tonight/"
     },
     {
+      "title": "This Chinese breakthrough could change microprocessors forever - Boy Genius Report",
+      "link": "https://bgr.com/tech/this-chinese-breakthrough-could-change-microprocessors-forever/"
+    },
+    {
+      "title": "No, sorry, put the party poppers away, Chrono Trigger isn't getting a remake, as far as anyone knows anyway - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/no-sorry-put-the-party-poppers-away-chrono-trigger-isnt-getting-a-remake-as-far-as-anyone-knows-anyway"
+    },
+    {
       "title": "Oblivion Remastered Players Realize They Made a Huge Mistake (But You Can Still Fix It) - ComicBook.com",
       "link": "http://comicbook.com/gaming/news/oblivion-remastered-mistakes-wrist-shackles/"
     },
     {
-      "title": "Thanks to Xbox's price hike, the Series S is now more expensive than the PS5 - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/thanks-to-xboxs-price-hike-the-series-s-is-now-more-expensive-than-the-ps5"
-    },
-    {
-      "title": "Everyone's gutted about the GTA 6 delay except this guy - Eurogamer",
-      "link": "https://www.eurogamer.net/everyones-gutted-about-the-gta-6-delay-except-this-guy"
-    },
-    {
-      "title": "Google\u2019s Gemini has beaten Pok\u00e9mon Blue (with a little help) - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/03/googles-gemini-has-beaten-pokemon-blue-with-a-little-help/"
-    },
-    {
-      "title": "Opinion: Here\u2019s what I\u2019ve learned after writing about Apple, Intel and Silicon Valley for over 30 years - MarketWatch",
-      "link": "https://www.marketwatch.com/story/heres-what-ive-learned-after-writing-about-apple-intel-and-silicon-valley-for-over-30-years-605ea0a0"
-    },
-    {
-      "title": "Quick, to the Bat Computer! There's a Batmobile on Bring a Trailer - Yahoo! Autos",
-      "link": "https://www.caranddriver.com/news/a64649024/batmobile-bring-a-trailer-auction/"
-    },
-    {
-      "title": "Apple Plans iPhone Release Schedule Shakeup, New Styles - The Information",
-      "link": "https://www.theinformation.com/articles/apple-plans-iphone-release-schedule-shakeup-new-styles"
-    },
-    {
-      "title": "Microsoft ends Authenticator password autofill, moves users to Edge - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-ends-authenticator-password-autofill-moves-users-to-edge/"
-    },
-    {
-      "title": "Bungie Extends Marathon Closed Alpha Test, Major Faction Changes and AI Buffs Incoming - The Game Post",
-      "link": "https://thegamepost.com/bungie-extends-marathon-closed-alpha-test/"
-    },
-    {
-      "title": "Cheap stuff that doesn\u2019t suck, take 2 - The Verge",
-      "link": "https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools"
-    },
-    {
-      "title": "Polygon\u2019s new owner says it will \u2018do what\u2019s right for Polygon\u2019 - The Verge",
-      "link": "https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview"
-    },
-    {
-      "title": "Summer Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
-      "link": "https://www.halowaypoint.com/news/summer-update-2025-halo-infinite"
-    },
-    {
-      "title": "9 Assassin\u2019s Creed Games Are Reportedly in Development - Wccftech",
-      "link": "https://wccftech.com/9-assassins-creed-games-are-reportedly-in-development/"
-    },
-    {
-      "title": "\u2018Destiny 2\u2019 Content Vaulting Causes More Legal Problems For Bungie - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/05/03/destiny-2-content-vaulting-causes-more-legal-problems-for-bungie/"
+      "title": "Nintendo is suing the accessory manufacturer that showed off Switch 2 early - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/nintendo-is-suing-the-accessory-manufacturer-that-showed-off-switch-2-early/"
     }
   ],
   "sports_news": [
     {
-      "title": "Scheffler leads by six after storm delay - Yahoo Sports",
-      "link": "https://www.bbc.com/sport/golf/articles/cr4nyryyw3no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+      "title": "Jason Mackey: Pirates\u2019 failure to \u2018win on the margins\u2019 has bigger meaning - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/jason-mackey/2025/05/04/mlb-pirates-ben-cherington-derek-shelton-bob-nutting/stories/202505040106"
+    },
+    {
+      "title": "Unfortunately, I Am Obsessed With Bill Belichick\u2019s 24-Year-Old Girlfriend\u2014and You Should Be Too - Slate",
+      "link": "https://slate.com/life/2025/05/bill-belichick-girlfriend-jordan-hudson-interview-age.html"
+    },
+    {
+      "title": "\u2018Gave up\u2019\u2026 Bo Nickal accused of quitting after suffering first career loss at UFC Des Moines - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/04/gave-up-bo-nickal-accused-of-quitting-after-suffering-first-career-loss-at-ufc-des-moines/"
+    },
+    {
+      "title": "NHL releases dates of Capitals-Hurricanes second-round playoff series games - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/05/04/capitals-hurricanes-second-round-playoff-series-dates/"
     },
     {
       "title": "Canelo cruises, locks up Sept. clash with Crawford - ESPN",
       "link": "https://www.espn.com/boxing/story/_/id/44989314/canelo-cruises-locks-sept-12-clash-crawford"
     },
     {
-      "title": "UFC Des Moines results: Reinier de Ridder brutally knocks out Bo Nickal for shock upset - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/article/ufc-des-moines-results-reinier-de-ridder-brutally-knocks-out-bo-nickal-for-shock-upset-044613091.html"
+      "title": "Avalanche's MacKinnon 'in shock' after Game 7 collapse - theScore.com",
+      "link": "https://thescore.com/nhl/news/3280197"
     },
     {
       "title": "James Harden pulls yet another Game 7 Houdini disappearing act as Clippers are eliminated by Nuggets - CBS Sports",
@@ -110,24 +122,12 @@
       "link": "https://www.nhl.com/goldenknights/news/second-round-of-stanley-cup-playoffs-to-open-tuesday-may-6-at-t-mobile-arena"
     },
     {
-      "title": "Mikko Rantanen Exhilarates NHL Fans as Stars Eliminate MacKinnon, Avalanche in Game 7 - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25192846-mikko-rantanen-exhilarates-nhl-fans-stars-eliminate-mackinnon-avalanche-game-7"
-    },
-    {
-      "title": "Kawhi Leonard Gives First Comments on Gregg Popovich Stepping Down From Spurs HC Job - Sports Illustrated",
-      "link": "https://www.si.com/nba/kawhi-leonard-gregg-popovich-stepping-down-spurs-hc-job"
-    },
-    {
       "title": "News, notes and observations from Seahawks rookie minicamp - Seattle Sports",
       "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-2025-rookie-minicamp-news-notes-observations/1809422"
     },
     {
-      "title": "Fernando Tatis Jr. plays a day after injury, runs Padres to win over Pirates - San Diego Union-Tribune",
-      "link": "https://www.sandiegouniontribune.com/2025/05/03/fernando-tatis-jr-plays-a-day-after-injury-runs-padres-to-win-over-pirates/"
-    },
-    {
-      "title": "Fan who fell 21 feet onto field at Pirates game now awake in positive sign: \u2018Feels nothing short of miraculous\u2019 - New York Post",
-      "link": "https://nypost.com/2025/05/03/sports/fan-who-fell-21-feet-onto-field-at-pirates-game-now-awake/"
+      "title": "Enhanced Box Score: Cubs 6, Brewers 2 \u2013 May 3, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/05/03/enhanced-box-score-cubs-6-brewers-2-may-3-2025/"
     },
     {
       "title": "Mark Hughes: McLaren needs to learn from ruthless Verstappen execution - The Race",
@@ -138,16 +138,20 @@
       "link": "https://www.npr.org/2025/05/03/nx-s1-5385847/sovereignty-winner-kentucky-derby-journalism"
     },
     {
+      "title": "Rookie WR Rankings 4.0 | 2025 Post-NFL Draft - Dynasty Nerds",
+      "link": "https://www.dynastynerds.com/rookie-wr-rankings-4-0-2025-post-nfl-draft/"
+    },
+    {
+      "title": "Man who fell from PNC Park stands now \u2018awake, alert\u2019 but has \u2018long road ahead\u2019 - WPXI",
+      "link": "https://www.wpxi.com/news/local/man-who-fell-pnc-park-stands-now-awake-alert-has-long-road-ahead/CU7KVPZ34NAAZO5ZVEW6FVWCQY/"
+    },
+    {
       "title": "Katie Ledecky, Gretchen Walsh break world records to cap historic swim meet - NBC Sports",
       "link": "https://www.nbcsports.com/olympics/news/katie-ledecky-world-record-800m-freestyle-swimming"
     },
     {
       "title": "Game Two Between Vols & Tigers Suspended, Sunday Schedule Modified - University of Tennessee Athletics",
       "link": "https://utsports.com/news/2025/5/3/baseball-game-two-between-vols-tigers-suspended-sunday-schedule-modified.aspx"
-    },
-    {
-      "title": "Peter King tees off on Bill Belichick\u2019s book tour - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/peter-king-tees-off-on-bill-belichicks-book-tour"
     },
     {
       "title": "\u201cROUNDBALL ROCK\u201d RETURNS TO NBC SPORTS\u2019 COVERAGE OF THE NBA - NBC Sports",
@@ -158,12 +162,8 @@
       "link": "https://huskers.com/news/2025/05/3/huskers-finish-spring-with-sweep-in-ord"
     },
     {
-      "title": "Marc-Andre ter Stegen speaks out after making Barcelona return in Real Valladolid win - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/2025/5/3/24423223/marc-andre-ter-stegen-speaks-out-after-making-barcelona-return-in-real-valladolid-win"
-    },
-    {
-      "title": "Palou rips to Barber pole with a field of surprises behind - RACER",
-      "link": "https://racer.com/2025/05/03/palou-rips-to-barber-pole-with-a-field-of-surprises-behind/"
+      "title": "Cavs have one primary focus area ahead of Eastern Conference semifinals vs. Indiana Pacers - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2025/05/cavs-have-one-primary-focus-area-ahead-of-eastern-conference-semifinals-vs-indiana-pacers.html"
     }
   ],
   "weather": {
