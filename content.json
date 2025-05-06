@@ -1,9 +1,9 @@
 {
-  "quote": "If you put water into a cup, it becomes the cup. \u2013 Bruce Lee",
-  "fact": "A bull can inseminate 300 cows from one single ejaculation.",
-  "crypto": "BTC: $94,127 | ETH: $1,793.94",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the girl smear peanut butter on the road? To go with the traffic jam.",
+  "quote": "Good luck is opportunity meeting preparedness. \u2013 Deepak Chopra",
+  "fact": "The most common name in world is Mohammed.",
+  "crypto": "BTC: $94,017 | ETH: $1,788.29",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Where does batman go to the bathroom? The batroom.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Maker of AI \u2018vibe coding\u2019 app Cursor hits $9bn valuation - Financial Times",
-      "link": "https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2"
+      "title": "It Must Be Nice to Be a West Village Girl - The Cut",
+      "link": "http://www.thecut.com/article/nyc-west-village-neighborhood-new-generation-women-girls.html"
+    },
+    {
+      "title": "60-Hour Dance Sessions, Simulated Sex, and Ketamine: Inside the World of Hardcore VR Ravers - WIRED",
+      "link": "https://www.wired.com/story/60-hour-dance-sessions-simulated-sex-and-ketamine-inside-the-world-of-hardcore-vr-ravers/"
+    },
+    {
+      "title": "Expedition 33 Is Increasing in Popularity with Each Successive Week - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/05/expedition-33-is-increasing-in-popularity-with-each-successive-week"
+    },
+    {
+      "title": "Your TV's USB port has a forgotten benefit that can make an old system feel new again - ZDNET",
+      "link": "https://www.zdnet.com/home-and-office/home-entertainment/your-tvs-usb-port-has-a-forgotten-benefit-that-can-make-an-old-system-feel-new-again/"
+    },
+    {
+      "title": "Hypothermia hits prisoner in unheated cell in 3rd episode of \u2018Death County, PA\u2019 - PennLive.com",
+      "link": "https://www.pennlive.com/crime/2025/05/hypothermia-hits-prisoner-in-unheated-cell-in-3rd-episode-of-death-county-pa.html"
+    },
+    {
+      "title": "Doug Bowser Reiterates The Importance Of Diversity Within Nintendo - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/05/doug-bowser-reiterates-the-importance-of-diversity-within-nintendo"
+    },
+    {
+      "title": "Half-Life 3 is \u2018playable end-to-end\u2019, Valve insider claims - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/half-life-3-is-playable-end-to-end-valve-insider-claims/"
+    },
+    {
+      "title": "Apple plans to split iPhone 18 launch into two phases in 2026 - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/05/apple-plans-to-split-iphone-18-launch-into-two-phases-in-2026/"
+    },
+    {
+      "title": "Skype shuts down on May 5: Ever wondered why it was called Skype? - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2025/5/5/skype-shuts-down-on-may-5-ever-wondered-why-it-was-called-skype"
+    },
+    {
+      "title": "Android 16 could introduce an Intrusion Detection feature (APK teardown) - Android Authority",
+      "link": "https://www.androidauthority.com/android-16-intrusion-detection-3550583/"
+    },
+    {
+      "title": "Microsoft Confirms You Cannot Cancel New Windows PC Update - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/05/05/microsoft-confirms-you-cannot-cancel-new-windows-pc-update/"
+    },
+    {
+      "title": "The Quintessential Quintuplets Gets Fantasy RPG in September - Anime News Network",
+      "link": "https://www.animenewsnetwork.com/news/2025-05-05/the-quintessential-quintuplets-gets-fantasy-rpg-in-september/.224179"
+    },
+    {
+      "title": "Ditching Samsung and Apple phones? Remember these 3 things - Tom's Guide",
+      "link": "https://www.tomsguide.com/phones/3-things-you-should-remember-if-youre-ditching-samsung-and-apple-phones"
     },
     {
       "title": "Street Fighter 6's Elena patch will likely be the largest update for the game we've seen to date - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/may/04/street-fighter-6-update-largest/"
-    },
-    {
-      "title": "Dungeon RPG The Quintessential Princesses: Fantasy, the Abyss, and the Magic Academy announced for PS5, PS4, and Switch - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/dungeon-rpg-the-quintessential-princesses-fantasy-the-abyss-and-the-magic-academy-announced-for-ps5-ps4-and-switch"
-    },
-    {
-      "title": "Skype is shutting down for good today, and leaving us with... whatever this is - Android Police",
-      "link": "https://www.androidpolice.com/skype-shutting-down/"
     },
     {
       "title": "\"This Might Be A Very Controversial Take\": Oblivion Remastered Players Don't Miss A Key Mechanic From Skyrim And Want It Changed For The Elder Scrolls 6 - TheGamer",
@@ -40,58 +80,38 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/"
     },
     {
+      "title": "Microsoft tries to knife passwords once and for all - at least for consumers - theregister.com",
+      "link": "https://www.theregister.com/2025/05/04/security_news_in_brief/"
+    },
+    {
       "title": "The Material 3 Expressive redesign of Google Clock leaks out [Gallery] - 9to5Google",
       "link": "http://9to5google.com/2025/05/04/google-clock-material-3-expressive-leak/"
     },
     {
       "title": "These are the best new MacBook deals right now: options as low as $649 - 9to5Mac",
       "link": "https://9to5mac.com/2025/05/04/best-macbook-deals-may-2025/"
-    },
-    {
-      "title": "Roku is looking into complaints about washed-out HDR streams - The Verge",
-      "link": "https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray"
-    },
-    {
-      "title": "New Virtua Fighter game is set in same world as prior titles, ring outs likely to return - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/may/04/new-virtua-fighter-world-same/"
-    },
-    {
-      "title": "A Major Blu-ray Manufacture Will Stop Making Blu-ray Drives & Stop Making Blu-ray Discs As Demand Drops - | Cord Cutters News",
-      "link": "https://cordcuttersnews.com/a-major-blu-ray-manufacture-will-stop-making-blu-ray-drives-stop-making-blu-ray-discs-as-demand-drops/"
-    },
-    {
-      "title": "\"This skyscraper runs solely on solar energy\": in Miami, this sculpted tower powers all its floors with revolutionary integrated technology. - Farmingdale Observer",
-      "link": "https://farmingdale-observer.com/2025/05/04/this-skyscraper-runs-solely-on-solar-energy-in-miami-this-sculpted-tower-powers-all-its-floors-with-revolutionary-integrated-technology/"
-    },
-    {
-      "title": "Nintendo is suing accessory maker Genki after its unofficial Switch 2 mockups - The Verge",
-      "link": "https://www.theverge.com/news/660815/nintendo-lawsuit-genki-switch-2-accessories"
-    },
-    {
-      "title": "The Louvre\u2019s Nintendo 3DS audio guide service is ending after 13 years - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/the-louvres-nintendo-3ds-audio-guide-service-is-ending-after-13-years/"
-    },
-    {
-      "title": "Motorola is finally updating Razr+ (2024) to Android 15, two months faster than last year - 9to5Google",
-      "link": "http://9to5google.com/2025/05/04/motorola-razr-2025-android-15-update/"
-    },
-    {
-      "title": "It May Be Too Late To Fix Marathon\u2019s Core Problem - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/05/04/it-may-be-too-late-to-fix-marathons-core-problem/"
-    },
-    {
-      "title": "Arashi Gaiden launches July 14 - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/arashi-gaiden-launches-july-14"
-    },
-    {
-      "title": "Call of Duty: Black Ops 7 Leak Reveals Battle Pass Paywall For LTMs and Exclusive Rewards - The Game Post",
-      "link": "https://thegamepost.com/call-of-duty-black-ops-7-leak-battle-pass-paywall-ltms-exclusive-rewards/"
     }
   ],
   "sports_news": [
     {
-      "title": "Stephen Curry and Buddy Hield lead Warriors past Rockets 103-89 in Game 7 - AP News",
-      "link": "https://apnews.com/article/warriors-rockets-score-nba-playoffs-2025-d75989545a5eff62d32e28240e0d7eb7"
+      "title": "Should Evanilson's winner against Arsenal have been disallowed for handball? - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/44980702/the-var-review-arsenal-bournemouth-evanilson-handball"
+    },
+    {
+      "title": "Bo Nickal's prediction for future Khamzat Chimaev fight comes back to bite him after UFC Des Moines defeat - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/05/bo-nickals-prediction-for-future-khamzat-chimaev-fight-comes-back-to-bite-him-after-ufc-des-moines-defeat/"
+    },
+    {
+      "title": "Why Warriors and Timberwolves are the perfect title-contention measuring sticks for one another - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/why-warriors-and-timberwolves-are-the-perfect-title-contention-measuring-sticks-for-one-another/"
+    },
+    {
+      "title": "Like the Jets before them, the Steelers are making win-now moves to secure Aaron Rodgers - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/like-the-jets-before-them-the-steelers-are-making-win-now-moves-to-secure-aaron-rodgers-044254847.html"
+    },
+    {
+      "title": "Mets Likely To Place Jesse Winker On 10-Day IL With Oblique Injury - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/mets-likely-to-place-jesse-winker-on-10-day-il-with-oblique-injury.html"
     },
     {
       "title": "2025 Stanley Cup Playoffs 2nd round schedule - NHL.com",
@@ -102,18 +122,6 @@
       "link": "https://www.badlefthook.com/2025/5/5/24423923/naoya-inoue-vs-cardenas-full-fight-video-highlights-results-survives-knockdown-boxing-news-2025"
     },
     {
-      "title": "What's next for Rockets? Why Game 7 loss to Warriors doesn't mean it's time to force a star trade - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/whats-next-for-rockets-why-game-7-loss-to-warriors-doesnt-mean-its-time-to-force-a-star-trade/"
-    },
-    {
-      "title": "As MacKenzie Gore battles the elements, the Nats beat back the Reds - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/05/04/mackenzie-gore-nationals-reds-luis-garcia-jr/"
-    },
-    {
-      "title": "Timberwolves\u2019 keys to success against Golden State, and a series prediction - Pioneer Press",
-      "link": "https://www.twincities.com/2025/05/04/timberwolves-keys-to-success-against-golden-state-and-a-series-prediction/"
-    },
-    {
       "title": "Trump set to announce the 2027 NFL draft will be in Washington \u2014 possibly on the National Mall - NBC News",
       "link": "https://www.nbcnews.com/politics/trump-administration/trump-set-announce-2027-nfl-draft-will-washington-possibly-national-ma-rcna204753"
     },
@@ -122,52 +130,36 @@
       "link": "https://nypost.com/2025/05/04/sports/fevers-caitlin-clark-hits-insane-36-foot-3-pointer-in-iowa-return/"
     },
     {
+      "title": "Rangers Place Leody Taveras On Outright Waivers - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/rangers-place-leody-taveras-on-outright-waivers.html"
+    },
+    {
       "title": "What drivers said after Texas NASCAR Cup race won by Joey Logano in overtime - NBC Sports",
       "link": "https://www.nbcsports.com/nascar/news/what-drivers-said-after-texas-nascar-cup-race-won-by-joey-logano-in-overtime"
     },
     {
-      "title": "Red Bull's protest into George Russell over yellow flags rejected by Miami stewards | Formula 1\u00ae - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/breaking-red-bulls-russell-protest-outcome-confirmed-by-miami-stewards.2jlSNxUxibBfs9vLXKyjSR"
+      "title": "2025 Miami Grand Prix \u2013 McLAREN race Report \"I\u2019m very, very happy to be leaving Miami on top\" - McLaren.com",
+      "link": "https://www.mclaren.com/racing/formula-1/2025/miami-grand-prix/race-report"
     },
     {
-      "title": "Even After Unparalleled Success, Katie Ledecky Is Still Chasing History - Sports Illustrated",
-      "link": "https://www.si.com/olympics/katie-ledecky-chasing-swimming-history-world-record"
+      "title": "Scottie Scheffler caps dominant Byron Nelson win with record-tying 72-hole score - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-caps-dominant-byron-nelson-win-with-record-tying-72-hole-score"
     },
     {
-      "title": "Cavs suffer first loss of NBA playoffs, 121-112, to surgical Indiana Pacers - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/05/cavs-suffer-first-loss-of-nba-playoffs-121-112-to-surgical-indiana-pacers.html"
-    },
-    {
-      "title": "Chiefs first-round pick Josh Simmons signs rookie contract - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-first-round-pick-josh-simmons-signs-rookie-contract"
+      "title": "Tyrese Haliburton, Pacers Beat Donovan Mitchell, Cavs, Thrill NBA Fans in Game 1 Win - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25193035-tyrese-haliburton-pacers-beat-donovan-mitchell-cavs-thrill-nba-fans-game-1-win"
     },
     {
       "title": "Warriors' Draymond Green admitted he set 'wrong' example before Game 7 - SFGATE",
       "link": "https://www.sfgate.com/warriors/article/draymond-green-admits-wrong-leadership-warriors-20309672.php"
     },
     {
-      "title": "Leclerc: \u201cNo bad feelings\u201d with Hamilton despite Ferrari team orders - Autosport",
-      "link": "https://www.autosport.com/f1/news/leclerc-no-bad-feelings-hamilton-despite-ferrari-team-orders/10720030/"
-    },
-    {
-      "title": "Miami GP winner Oscar Piastri outshines team-mate Lando Norris in F1 2025 title fight - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/how-miami-gp-winner-piastri-is-surpassing-team-mate-norris-in-f1-2025-title-race/10720005/"
-    },
-    {
       "title": "\u2018It\u2019s probably my best race\u2019 of all time, Palou says of Barber win - RACER",
       "link": "https://racer.com/2025/05/04/its-probably-my-best-race-of-all-time-palou-says-of-barber-win/"
     },
     {
-      "title": "Thoughts on an 8-1 Rangers win - Lone Star Ball",
-      "link": "https://www.lonestarball.com/2025/5/4/24423793/thoughts-on-an-8-1-rangers-win"
-    },
-    {
       "title": "Tom Wilson on Capitals\u2019 second-round series against Hurricanes: \u2018You know what you\u2019re going to get from them\u2019 - RMNB",
       "link": "https://russianmachineneverbreaks.com/2025/05/04/tom-wilson-capitals-second-round-series-hurricanes/"
-    },
-    {
-      "title": "Florida State routes Clemson in Game 3 for series win - NCAA.com",
-      "link": "https://www.ncaa.com/live-updates/baseball/d1/florida-state-routes-clemson-game-3-series-win"
     }
   ],
   "weather": {
