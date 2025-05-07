@@ -1,9 +1,9 @@
 {
-  "quote": "The grass is greener where you water it. \u2013 Neil Barringham",
-  "fact": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the \"1\"encased in the \"shield\" and a spider hidden in the front upper right-hand corner.",
-  "crypto": "BTC: $96,508 | ETH: $1,810.97",
+  "quote": "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. \u2013 Aristophanes",
+  "fact": "When the French Academy was preparing its first dictionary, it defined \"crab\" as, \"A small red fish, which walks backwards.\" This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, \"Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards.\"",
+  "crypto": "BTC: $97,509 | ETH: $1,845.16",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
+  "joke": "What do you do when you see a space man?\r\nPark your car, man.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Google accidentally reveals Android\u2019s Material 3 Expressive interface ahead of I/O - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/05/google-accidentally-reveals-androids-material-3-expressive-interface-ahead-of-i-o/"
+      "title": "Google accidentally reveals details about its new Android design language, Material 3 Expressive - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/05/google-accidentally-reveals-details-about-its-new-android-design-language-material-3-expressive/"
     },
     {
       "title": "It's last call for Skype as the once-popular video calling app shuts down - NPR",
       "link": "https://www.npr.org/2025/05/05/nx-s1-5387436/skype-shutting-down"
-    },
-    {
-      "title": "Ecco The Dolphin Is Making A Comeback With Remasters & New Game - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/05/ecco-the-dolphin-is-making-a-comeback-with-remasters-and-new-game"
     },
     {
       "title": "Apple\u2019s latest iPad Mini has dropped to its lowest price in months - The Verge",
@@ -36,8 +32,16 @@
       "link": "https://mynintendonews.com/2025/05/05/ex-assassins-creed-lead-says-switch-2-game-key-cards-lose-what-makes-gaming-special/"
     },
     {
+      "title": "Ecco the Dolphin and Ecco: The Tides of Time remasters announced alongside third Ecco game - Gematsu",
+      "link": "https://www.gematsu.com/2025/05/ecco-the-dolphin-and-ecco-the-tides-of-time-remasters-announced-alongside-third-ecco-game"
+    },
+    {
       "title": "Apple iPhone 17 Air Promises Curious Design Change, New Leak Says - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2025/05/05/apple-iphone-17-air-may-have-ugly-design-change-new-leak-claims/"
+    },
+    {
+      "title": "The Hottest Cards In May's Team Rocket Pok\u00e9mon TCG Set, Destined Rivals - Kotaku",
+      "link": "https://kotaku.com/pokemon-tcg-destined-rivals-price-value-team-rocket-1851779160"
     },
     {
       "title": "PS Store Sales Charts: The Top Three Best-Selling Games on PS5 Are from Microsoft - Push Square",
@@ -54,10 +58,6 @@
     {
       "title": "Why Google Gemini\u2019s Pok\u00e9mon success isn\u2019t all it\u2019s cracked up to be - Ars Technica",
       "link": "https://arstechnica.com/ai/2025/05/why-google-geminis-pokemon-success-isnt-all-its-cracked-up-to-be/"
-    },
-    {
-      "title": "Devolver Digital Is Going Out of Its Way to Launch a New Game the Same Day as GTA 6 - IGN",
-      "link": "https://www.ign.com/articles/devolver-digital-is-going-out-of-its-way-to-launch-a-new-game-the-same-day-as-gta-6"
     },
     {
       "title": "Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi - The Hacker News",
@@ -86,24 +86,48 @@
   ],
   "sports_news": [
     {
-      "title": "Poll: What Should The Red Sox Do About First Base? - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/poll-what-should-the-red-sox-do-about-first-base.html"
+      "title": "Ravens made a \"football decision\" (wink, nod) about Justin Tucker - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-made-a-football-decision-wink-nod-about-justin-tucker"
     },
     {
-      "title": "Ravens release Justin Tucker - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-release-justin-tucker"
+      "title": "Islanders land No. 1 overall pick in NHL Draft Lottery stunner - New York Post",
+      "link": "https://nypost.com/2025/05/05/sports/islanders-land-no-1-overall-pick-in-nhl-draft-lottery-stunner/"
+    },
+    {
+      "title": "Patriots Fans Got It Wrong With Julian Edelman Team HOF Selection - NESN",
+      "link": "https://nesn.com/2025/05/patriots-fans-got-it-wrong-with-julian-edelman-team-hof-selection/"
+    },
+    {
+      "title": "Where to watch Celtics vs. Knicks: TV channel, Game 1 prediction, pick, live stream for 2025 NBA playoffs - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/where-to-watch-celtics-vs-knicks-tv-channel-game-1-prediction-pick-live-stream-for-2025-nba-playoffs/"
+    },
+    {
+      "title": "BREAKING: Jared Curtis, the nation\u2019s No. 1 QB prospect, commits to Georgia football - DawgNation",
+      "link": "https://www.DawgNation.com/recruiting/sentells-intel/jared-curtis-georgia-football-lands-commitment-no-1-qb-2026-recruiting-class/XEE5MHRHPRHXDHBQWKED5QJUKE/"
+    },
+    {
+      "title": "Fleury bids final farewell to NHL after 22 seasons - NHL.com",
+      "link": "https://www.nhl.com/news/marc-andre-fleury-bids-final-farewell-to-minnesota-wild"
     },
     {
       "title": "Hansi Flick reveals his message to his Barcelona players ahead of Champions League tie with Inter Milan - Barca Blaugranes",
       "link": "https://www.barcablaugranes.com/2025/5/5/24424229/hansi-flick-reveals-message-barcelona-players-champions-league-inter-milan"
     },
     {
+      "title": "Cavs HC Kenny Atkinson Calls Out Pacers for Crossing 'Line of Physicality' in Game 1 - Sports Illustrated",
+      "link": "https://www.si.com/nba/cavs-hc-kenny-atkinson-calls-out-pacers-crossing-line-of-physicality-game-1"
+    },
+    {
+      "title": "LeBron James Cancels 2025 Met Gala Appearance Despite Being Honorary Chair At Event - Deadline",
+      "link": "http://deadline.com/2025/05/lebron-james-cancels-2025-met-gala-appearance-1236385756/"
+    },
+    {
       "title": "Rangers Name Bret Boone Hitting Coach, Recall Evan Carter - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/05/rangers-hire-bret-boone-hitting-coach-recall-evan-carter.html"
     },
     {
-      "title": "Sentell\u2019s Intel: The 5-star decision day for QB Jared Curtis is here for Georgia football and Oregon - DawgNation",
-      "link": "https://www.DawgNation.com/recruiting/sentells-intel/decision-day-here-5-star-qb-jared-curtis-between-georgia-football-oregon/NNMTWEUYEJBAVFAW6YSZUA6UCI/"
+      "title": "Shota Imanaga heads to IL, Cubs call up righty from Triple-A | Cubs News - Marquee Sports Network",
+      "link": "https://www.marqueesportsnetwork.com/chicago-cubs-shota-imanaga-injured-list-gavin-hollowell/"
     },
     {
       "title": "Power Rankings: Truist Championship - PGA Tour",
@@ -114,56 +138,32 @@
       "link": "https://www.mlbtraderumors.com/2025/05/astros-place-yordan-alvarez-on-injured-list-3.html"
     },
     {
-      "title": "Denver, David Carle Further Commitment to Future Excellence of Pioneers Hockey - University of Denver Athletics",
-      "link": "https://denverpioneers.com/news/2025/5/5/denver-pioneers-hockey-head-coach-david-carle-signs-multi-year-contract-extension.aspx"
+      "title": "Playoff predictions, second round: Peter vs Ian vs Keith, a coin - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/05/05/playoff-predictions-second-round-peter-vs-ian-vs-keith-a-coin-5/"
+    },
+    {
+      "title": "The Matchup That Will Decide Each NBA Playoff Second-Round Series - Sports Illustrated",
+      "link": "https://www.si.com/nba/matchup-that-will-decide-each-nba-playoff-second-round-series"
+    },
+    {
+      "title": "Washington to host the 2027 NFL draft on the National Mall, President Donald Trump says - WTOP",
+      "link": "https://wtop.com/nfl/2025/05/the-commanders-are-hosting-the-2027-nfl-draft-in-washington-ap-source-says-2/"
     },
     {
       "title": "Why Warriors' Jimmy Butler has avoided playing in Minnesota for 4 years - SFGATE",
       "link": "https://www.sfgate.com/warriors/article/warriors-jimmy-butler-minnesota-saga-explained-20310894.php"
     },
     {
-      "title": "Ranking 16 potential Finals matchups: Thunder vs. Celtics, Cavaliers vs. Warriors and more sets we want to see - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/ranking-16-potential-finals-matchups-thunder-vs-celtics-cavaliers-vs-warriors-and-more-sets-we-want-to-see/"
+      "title": "Rams, Matthew Stafford finalize details of new contract - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-matthew-stafford-finalize-details-of-new-contract"
     },
     {
-      "title": "President Trump announces 2027 NFL draft will be held on the National Mall - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-announces-2027-nfl-draft-will-be-held-on-the-national-mall"
+      "title": "Jon Gruden becomes part owner of the AF1\u2019s Nashville Kats - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-gruden-becomes-part-owner-of-the-af1s-nashville-kats"
     },
     {
-      "title": "LeBron James Won't Attend Met Gala Due to Knee Injury from Lakers' Loss vs. Wolves - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25193219-lebron-james-wont-attend-met-gala-due-knee-injury-lakers-loss-vs-wolves"
-    },
-    {
-      "title": "Formula 1: Alpine poised to replace Jack Doohan with Franco Colapinto - BBC",
-      "link": "https://www.bbc.com/sport/formula1/articles/cx2w8y04np2o"
-    },
-    {
-      "title": "Bo Nickal\u2019s head coach responds to critics, admits \u2018lack of experience showed\u2019 in first UFC loss - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/5/5/24424201/bo-nickal-head-coach-responds-criticism-admits-lack-of-experience-showed-in-first-ufc-loss"
-    },
-    {
-      "title": "NFL Mock Draft Monday: 2026 mocks are here - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/2025/5/5/24424140/nfl-mock-draft-monday-2026-mocks-are-here"
-    },
-    {
-      "title": "Raiders name Anthony Patch Senior Personnel Executive - Las Vegas Raiders",
-      "link": "https://www.raiders.com/news/raiders-name-anthony-patch-senior-personnel-executive"
-    },
-    {
-      "title": "Blake out as Kings general manager, no replacement named - NHL.com",
-      "link": "https://www.nhl.com/news/rob-blake-out-as-los-angeles-kings-general-manager-agreed-to-part-ways-with-team"
-    },
-    {
-      "title": "Gregg Popovich speaks at news conference introducing Mitch Johnson as new Spurs coach - AP News",
-      "link": "https://apnews.com/article/spurs-mitch-johnson-gregg-popovich-749691645cbf5e0cfff2c93c3f5928c3"
-    },
-    {
-      "title": "D-backs\u2019 Lawlar, Padres\u2019 De Vries headline April's Minor League Players of the Month - MLB.com",
-      "link": "https://www.mlb.com/news/2025-minor-league-baseball-april-players-of-the-month"
-    },
-    {
-      "title": "2025 NBA playoff predictions: Expert picks for Warriors vs. Timberwolves, Thunder vs. Nuggets in second round - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/2025-nba-playoff-predictions-expert-picks-for-warriors-vs-timberwolves-thunder-vs-nuggets-in-second-round/"
+      "title": "Dana White told to cut Bo Nickal from the UFC by former lightweight star - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/05/dana-white-told-to-cut-bo-nickal-from-the-ufc-by-former-lightweight-star/"
     }
   ],
   "weather": {
