@@ -1,9 +1,9 @@
 {
-  "quote": "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. \u2013 Elbert Hubbard",
-  "fact": "The male gypsy moth can \"smell\" the virgin female gypsy moth from 1.8 miles away. \u00a0",
-  "crypto": "BTC: $101,460 | ETH: $2,068.59",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you do when your bunny gets wet? You get your hare dryer.",
+  "quote": "You get in life what you have the courage to ask for. \u2013 Oprah Winfrey",
+  "fact": "The serial number of the first MAC ever produced was 2001.",
+  "crypto": "BTC: $101,165 | ETH: $2,065.36",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Two peanuts were walking down the street. One was a salted.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,72 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Just weeks after sale, Pok\u00e9mon Go will soon let you play more from home - but developers say Monopoly Go owner isn't behind sweeping changes - Eurogamer",
+      "link": "https://www.eurogamer.net/just-weeks-after-sale-pokemon-go-will-soon-let-you-play-more-from-home-but-developers-say-monopoly-go-owner-isnt-behind-sweeping-changes"
+    },
+    {
+      "title": "Samsung\u2019s next big Galaxy Watch update leaks with new health features, Gemini, more - 9to5Google",
+      "link": "http://9to5google.com/2025/05/07/samsung-galaxy-watch-one-ui-8-update-features-leak/"
+    },
+    {
+      "title": "Open source project curl is sick of users submitting \u201cAI slop\u201d vulnerabilities - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/open-source-project-curl-is-sick-of-users-submitting-ai-slop-vulnerabilities/"
+    },
+    {
+      "title": "Figma releases new AI-powered tools for creating sites, app prototypes, and marketing assets - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/07/figma-releases-new-ai-powered-tools-for-creating-sites-app-prototypes-and-marketing-assets/"
+    },
+    {
+      "title": "Elden Ring Nightreign director promises difficulty tweaks following beta feedback, and updates for Nightlord Gladius - Eurogamer",
+      "link": "https://www.eurogamer.net/elden-ring-nightreign-director-promises-difficulty-tweaks-following-beta-feedback-and-updates-for-nightlord-gladius"
+    },
+    {
+      "title": "Level-5 CEO: Video games are being made 80-90% by AI - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/05/07/level-5-ceo-video-games-are-being-made-80-90-by-ai/"
+    },
+    {
+      "title": "iOS 18.5: Five new iPhone features are coming next week - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/07/ios-185-five-new-features-are-coming-next-week/"
+    },
+    {
       "title": "Nintendo Switch 2 Pre-Orders Now Open To All Paid NSO Members In The UK - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/05/nintendo-switch-2-pre-orders-now-open-to-all-paid-nso-members-in-the-uk"
     },
     {
-      "title": "PlayStation announces new studio focused on \u2018immersive multiplayer worlds\u2019 - The Verge",
-      "link": "https://www.theverge.com/news/662579/team-lfg-playstation-studio"
+      "title": "The web series is back \u2014 only this time, they\u2019re TikToks - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/"
     },
     {
       "title": "Curiosity and Chaos in our latest in-game event! - Disney Dreamlight Valley",
       "link": "https://disneydreamlightvalley.com/en/news/CheshireChaos2025"
     },
     {
+      "title": "Sony reveals new PlayStation studio from former Bungie developers - Eurogamer",
+      "link": "https://www.eurogamer.net/sony-reveals-new-playstation-studio-from-former-bungie-developers"
+    },
+    {
+      "title": "Galaxy Watch 8 FCC listing confirms several key details - SamMobile",
+      "link": "https://www.sammobile.com/news/first-signs-galaxy-watch-8-classic-batteries-certification/"
+    },
+    {
+      "title": "Genshin Impact introduces age-gating as part of loot box crackdown - polygon.com",
+      "link": "https://www.polygon.com/genshin-impact/597934/genshin-impact-age-verification"
+    },
+    {
       "title": "Microsoft updates the Windows 11 Start Menu - theregister.com",
       "link": "https://www.theregister.com/2025/05/07/microsoft_updates_the_windows_11/"
     },
     {
-      "title": "Netflix Overhauls TV Homepage With \u2018More Intuitive\u2019 Design, Adds OpenAI-Powered Chatbot - Variety",
-      "link": "https://variety.com/2025/tv/news/netflix-redesigns-homepage-ai-chatbot-1236388858/"
+      "title": "Netflix Plans Major Overhaul of Homepage Design, OpenAI-Powered Search and TikTok-Style Vertical Feeds - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/business/business-news/new-netflix-homescreen-coming-soon-vertical-video-openai-1236208893/"
+    },
+    {
+      "title": "The Motorola Razr 2025 lineup's textures are a sensory delight - Android Central",
+      "link": "https://www.androidcentral.com/phones/motorola/the-motorola-razr-2025-lineups-textures-are-a-sensory-delight"
+    },
+    {
+      "title": "Matter\u2019s latest update brings NFC onboarding and multi-device setup - The Verge",
+      "link": "https://www.theverge.com/news/662266/matter-spec-update1-4-1-nfc-multi-device-setup"
     },
     {
       "title": "Sennheiser\u2019s new affordable open earbuds are less affordable in the US - The Verge",
@@ -38,132 +86,84 @@
     {
       "title": "Apple Watch in significant global decline for two years now; new features needed - 9to5Mac",
       "link": "https://9to5mac.com/2025/05/07/apple-watch-in-significant-global-decline-for-two-years-now-new-features-needed/"
-    },
-    {
-      "title": "Samsung monthly updates: May 2025 security patch fixes dozens of bugs - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-monthly-updates-may-2025-security-patch-fixes-dozens-of-bugs/"
-    },
-    {
-      "title": "Microsoft's new Surface devices just got major redesigns - and I'm tempted to switch - ZDNET",
-      "link": "https://www.zdnet.com/article/microsofts-new-surface-devices-just-got-major-redesigns-and-im-tempted-to-switch/"
-    },
-    {
-      "title": "Here Are Apple's Full iOS 18.5 Release Notes - MacRumors",
-      "link": "https://www.macrumors.com/2025/05/06/ios-18-5-full-release-notes/"
-    },
-    {
-      "title": "A new bill would force Apple to allow third-party app stores - The Verge",
-      "link": "https://www.theverge.com/news/662180/app-store-freedom-act-apple-third-party-app-stores"
-    },
-    {
-      "title": "Apple Intelligence 2.0: Here\u2019s what\u2019s coming to your iPhone next - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/06/apple-intelligence-20-heres-whats-coming-to-your-iphone-next/"
-    },
-    {
-      "title": "Entry list: Tide 150 at Kansas Speedway - arcaracing.com",
-      "link": "https://www.arcaracing.com/2025/05/06/entry-list-tide-150-at-kansas-speedway-2/"
-    },
-    {
-      "title": "Summer 2025 Playlists - Halo Waypoint",
-      "link": "https://www.halowaypoint.com/news/summer-2025-playlists"
-    },
-    {
-      "title": "Apple can still fix this iPhone 17 Air mistake before launch - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/06/apple-can-still-fix-this-iphone-17-air-mistake-before-launch/"
-    },
-    {
-      "title": "May Community Day Classic: Machop - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/may-community-day-classic-machop/"
-    },
-    {
-      "title": "Major Destiny 2 Reveals \u2013 Metroidvania Exploration, Star Wars Lightsabers, New Multi-Year Fate Saga - Game Informer",
-      "link": "https://www.gameinformer.com/2025/05/06/major-destiny-2-reveals-metroidvania-exploration-star-wars-lightsabers-new-multi-year"
-    },
-    {
-      "title": "Dead by Daylight To Donate Proceeds from Orela Rose Outfits To Charity - Dead by Daylight",
-      "link": "https://deadbydaylight.com/news/donate-proceeds-from-orela-rose-outfits-to-charity/"
-    },
-    {
-      "title": "ADDING MULTIMEDIA Rockstar Games Releases Trailer 2 for Grand Theft Auto VI - Business Wire",
-      "link": "https://www.businesswire.com/news/home/20250506618004/en/ADDING-MULTIMEDIA-Rockstar-Games-Releases-Trailer-2-for-Grand-Theft-Auto-VI"
     }
   ],
   "sports_news": [
     {
+      "title": "Tom Brady makes surprising claim about NFL draft role as Shedeur Sanders slid - New York Post",
+      "link": "https://nypost.com/2025/05/07/sports/tom-brady-makes-surprising-claim-about-nfl-draft-role-as-shedeur-sanders-slid/"
+    },
+    {
+      "title": "ACC to reduce number of games in men's basketball conference schedule from 20 to 18 after multiple down years - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/acc-to-reduce-number-of-games-in-mens-basketball-conference-schedule-from-20-to-18-after-multiple-down-years/"
+    },
+    {
+      "title": "Stephen Curry injury update: Warriors star out for Game 2 vs. Wolves, return timeline unclear, per report - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/stephen-curry-injury-update-warriors-star-out-multiple-games-with-hamstring-strain-return-timeline-unclear/"
+    },
+    {
+      "title": "'Broken everything': Kavan Markwood hasn't watched his fall from Clemente Wall during Pirates game - TribLIVE.com",
+      "link": "https://triblive.com/sports/pirates/i-didnt-see-it-kavan-markwood-says-of-fall-from-clemente-wall-during-pirates-game/"
+    },
+    {
+      "title": "Celtics reporters blame \u2018the rain\u2019 for Game 1 loss to Knicks - New York Post",
+      "link": "https://nypost.com/2025/05/07/sports/celtics-reporters-blame-the-rain-for-game-1-loss-to-knicks/"
+    },
+    {
       "title": "On the clock: Pipeline's first official 2025 mock draft is here! - MLB.com",
       "link": "https://www.mlb.com/news/mlb-pipeline-2025-mock-draft-may-6"
+    },
+    {
+      "title": "Starting Pitcher Streamer Rankings Fantasy Baseball: 5/7 & 5/8 & 5/9 - Pitcher List",
+      "link": "http://pitcherlist.com/starting-pitcher-streamer-rankings-fantasy-baseball-5-7-5-8-5-9/"
+    },
+    {
+      "title": "Former Buffalo Bills \u2018big play\u2019 WR released one year after signing with AFC South team - Syracuse.com",
+      "link": "https://www.syracuse.com/buffalo-bills/2025/05/former-buffalo-bills-big-play-wr-released-one-year-after-signing-with-afc-south-team.html"
     },
     {
       "title": "Eagles, Dallas Goedert close to agreement that will keep him in Philadelphia - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-dallas-goedert-close-to-agreement-that-will-keep-him-in-philadelphia"
     },
     {
-      "title": "Utah Mammoth unveiled as permanent brand identity after 4 rounds of surveys, fan vote - NHL.com",
-      "link": "https://www.nhl.com/news/mammoth-unveiled-as-utah-nickname"
-    },
-    {
-      "title": "Jaguars release Gabe Davis - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-release-gabe-davis"
-    },
-    {
-      "title": "Rohit Sharma Announces Retirement From Test Cricket, Shares Emotional Post: \"Will Continue To...\" - NDTV Sports",
-      "link": "https://sports.ndtv.com/cricket/rohit-sharma-announces-retirement-from-test-cricket-with-immediate-effect-8355299"
+      "title": "Utah Mammoth is the permanent name of the NHL team in Salt Lake City - AP News",
+      "link": "https://apnews.com/article/utah-mammoth-name-nhl-31aa2fa9d1cbb825ba5e0b61815e58de"
     },
     {
       "title": "Bowl projections: Big Ten, SEC dominate College Football Playoff field with Ohio State, Texas leading charge - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/bowl-projections-big-ten-sec-dominate-college-football-playoff-field-with-ohio-state-texas-leading-charge/"
     },
     {
-      "title": "If Knicks' defense keeps playing with fire vs. Celtics, they'll go up in flames before NBA playoffs are over - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/if-knicks-defense-keeps-playing-with-fire-vs-celtics-theyll-go-up-in-flames-before-nba-playoffs-are-over/"
-    },
-    {
       "title": "2025 PLL Draft Grades: Proactive Redwoods, Archers Steal The Night - Inside Lacrosse",
       "link": "https://www.insidelacrosse.com/article/2025-pll-draft-grades-proactive-redwoods-archers-steal-the-night/65259"
+    },
+    {
+      "title": "Starting 5, May 7: For the first time, road teams perfect through five - NBA",
+      "link": "https://www.nba.com/news/starting-5-may-7-for-the-first-time-road-teams-perfect-through-five"
+    },
+    {
+      "title": "Sabres hire Staal as special assistant to the general manager - NHL.com",
+      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-hire-eric-staal-front-office-special-assistant-to-the-general-manager"
     },
     {
       "title": "Cowboys finalize trade for WR George Pickens - Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/cowboys-agree-to-terms-on-trade-for-wr-george-pickens"
     },
     {
-      "title": "Tyrese Haliburton hits game-winning three to stun Cavs, Warriors win Game 1 vs. T-Wolves but lose Steph Curry to injury - CNN",
-      "link": "https://www.cnn.com/2025/05/07/sport/haliburton-pacers-cavaliers-curry-warriors-timberwolves-nba-spt-intl"
+      "title": "2025 NHL Draft: Post-lottery mock drafts are rolling in for the Penguins - PensBurgh",
+      "link": "https://www.pensburgh.com/2025/5/7/24425220/2025-nhl-draft-mock-draft-penguins-pick-brady-martin-victor-eklund-pens-jackson-smith"
     },
     {
-      "title": "Did Cavs find blueprint for series success despite catastrophic late-game collapse? - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/05/did-cavs-find-viable-blueprint-in-catastrophic-late-game-collapse-vs-pacers.html"
+      "title": "Post-draft 2025 NFL QB Power Rankings: Commanders' Jayden Daniels, Eagles' Jalen Hurts lead the way - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/post-draft-2025-nfl-qb-power-rankings-commanders-jayden-daniels-eagles-jalen-hurts-lead-the-way/"
     },
     {
-      "title": "Warriors vs. Timberwolves Game 1: Curry exits with hamstring injury but Butler, Hield spark Warriors win - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/warriors-vs-timberwolves-game-1-curry-exits-with-hamstring-injury-but-butler-hield-spark-warriors-win"
+      "title": "5 big 'what-ifs' from the 2025 NFL Draft - PFF",
+      "link": "https://www.pff.com/news/draft-big-what-ifs-2025-nfl-draft"
     },
     {
-      "title": "Warriors' Game 1 win forces Timberwolves coach to blast his young star - SFGATE",
-      "link": "https://www.sfgate.com/warriors/article/warriors-game-1-win-timberwolves-coach-blasts-star-20314333.php"
-    },
-    {
-      "title": "Trump Admin Warns FIFA World Cup Fans: \u2018Don\u2019t Overstay Your Visa\u2019 - Rolling Stone",
-      "link": "http://www.rollingstone.com/politics/politics-news/trump-admin-warns-fifa-world-cup-fans-visa-1235333403/"
-    },
-    {
-      "title": "Cubs takeaways: What we learned in wild extra-innings loss to Giants - Marquee Sports Network",
-      "link": "https://www.marqueesportsnetwork.com/chicago-cubs-score-highlights-san-francisco-giants-ryan-pressly-kyle-tucker/"
-    },
-    {
-      "title": "3 takeaways: Just one week into May, Pirates' season looks to be slipping away - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/pirates/2025/05/07/pirates-loss-cardinals-nl-central-paul-skenes-derek-shelton/stories/202505060050"
-    },
-    {
-      "title": "Kayvon Thibodeaux welcomes the idea of Abdul Carter fueling the Giants\u2019 pass rush - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kayvon-thibodeaux-welcomes-the-idea-of-abdul-carter-fueling-the-giants-pass-rush"
-    },
-    {
-      "title": "Three other prospects Bruins could target with the No. 7 pick in the 2025 NHL Draft - Boston.com",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/05/06/three-other-prospects-bruins-could-target-with-the-no-7-pick-in-the-2025-nhl-draft/"
-    },
-    {
-      "title": "Jaccob Slavin scores in OT as the Hurricanes beat the Capitals in Game 1 of their 2nd-round series - WRALSportsFan.com",
-      "link": "https://www.wralsportsfan.com/jaccob-slavin-scores-in-ot-as-the-hurricanes-beat-the-capitals-in-game-1-of-their-2nd-round-series/21995460/"
+      "title": "No Kentucky Derby winner Sovereignty in Preakness highlights some philosophical horse racing changes - AP News",
+      "link": "https://apnews.com/article/kentucky-derby-sovereignty-preakness-c095f7af64c3320fe41f3563ed1b8e2e"
     }
   ],
   "weather": {
