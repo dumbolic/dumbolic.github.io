@@ -1,9 +1,9 @@
 {
-  "quote": "Keep your face to the sunshine and you cannot see the shadows. \u2013 Helen Keller",
-  "fact": "1 in every 4 Americans has appeared someway or another on television.",
-  "crypto": "BTC: $102,754 | ETH: $2,178.25",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Debugging: Being the detective in a crime movie where you are also the murderer.",
+  "quote": "Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. \u2013 Peter Drucker",
+  "fact": "Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as \"tree nuts\"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.",
+  "crypto": "BTC: $103,017 | ETH: $2,176.74",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What did one nut say as he chased another nut?  I'm a cashew!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Over 1,000 PlayStation Games Are Just $20 Or Less In Massive Sale - Kotaku",
+      "link": "https://kotaku.com/psn-store-sale-20-under-best-games-ps4-ps5-deals-1851779652"
+    },
+    {
+      "title": "Tesla\u2019s \u2018Robotaxi\u2019 and \u2018Cybercab\u2019 trademarks hit roadblocks ahead of June launch - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/07/teslas-robotaxi-and-cybercab-trademarks-hit-roadblocks-ahead-of-june-launch/"
+    },
+    {
+      "title": "Rockstar says GTA 6's latest trailer was \"gameplay and cutscenes\" captured \"entirely in-game\" on PS5 - Eurogamer",
+      "link": "https://www.eurogamer.net/rockstar-says-gta-6s-latest-trailer-was-gameplay-and-cutscenes-captured-entirely-in-game-on-ps5"
+    },
+    {
       "title": "Android\u2019s splashy new paint job won\u2019t yank Gen Z from iPhones - The Verge",
       "link": "https://www.theverge.com/tech/662719/android-material-3-gen-z-iphone"
     },
     {
-      "title": "Remote Shadow Raids and Max Battles launching in Pok\u00e9mon GO this May - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/remote-shadow-raids-and-max-battles-launching-in-pokemon-go-this-may/"
+      "title": "Microsoft quietly bumps Surface Pro 11 and Surface Laptop 7 price by $200 in wake of new cheaper models - Windows Central",
+      "link": "https://www.windowscentral.com/hardware/surface/surface-pro-11-laptop-7-price-bump-1200-dollars"
+    },
+    {
+      "title": "Apple Music launches new \u2018Viral\u2019 playlist fueled by Shazam activity - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/07/apple-music-launches-new-viral-playlist-fueled-by-shazam-activity/"
+    },
+    {
+      "title": "Samsung\u2019s next big Galaxy Watch update leaks with new health features, Gemini, more - 9to5Google",
+      "link": "http://9to5google.com/2025/05/07/samsung-galaxy-watch-one-ui-8-update-features-leak/"
     },
     {
       "title": "Open source project curl is sick of users submitting \u201cAI slop\u201d vulnerabilities - Ars Technica",
@@ -26,10 +46,6 @@
     {
       "title": "Figma\u2019s big AI update takes on Adobe, WordPress, and Canva - The Verge",
       "link": "https://www.theverge.com/news/662678/figma-buzz-draw-make-sites-announcement-availability"
-    },
-    {
-      "title": "Matter update simplifies setup with multi-device QR codes and NFC tag support - 9to5Google",
-      "link": "http://9to5google.com/2025/05/07/matter-update-multi-device-qr-codes-nfc-tags/"
     },
     {
       "title": "Elden Ring Nightreign director promises difficulty tweaks following beta feedback, and updates for Nightlord Gladius - Eurogamer",
@@ -48,58 +64,74 @@
       "link": "https://www.nintendolife.com/news/2025/05/nintendo-switch-2-pre-orders-now-open-to-all-paid-nso-members-in-the-uk"
     },
     {
-      "title": "PlayStation has a new internal studio spun out from Bungie - Polygon",
-      "link": "https://www.polygon.com/news/597955/playstation-studios-bungie-spinoff-team-lfg-new-game"
-    },
-    {
-      "title": "The web series is back \u2014 only this time, they\u2019re TikToks - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/"
+      "title": "PlayStation announces new studio focused on \u2018immersive multiplayer worlds\u2019 - The Verge",
+      "link": "https://www.theverge.com/news/662579/team-lfg-playstation-studio"
     },
     {
       "title": "Curiosity and Chaos in our latest in-game event! - Disney Dreamlight Valley",
       "link": "https://disneydreamlightvalley.com/en/news/CheshireChaos2025"
     },
     {
-      "title": "Experience a New Dimension of Music Discovery With More Controls and Enhanced Tools - Spotify",
-      "link": "https://newsroom.spotify.com/2025-05-07/experience-a-new-dimension-of-music-discovery-with-more-controls-and-enhanced-tools/"
+      "title": "Spotify\u2019s latest update gives users more control over their listening experience - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/"
     },
     {
-      "title": "Genshin Impact Updates Shop to Show How Much You Need to Spend to Guarantee Pulling a Character \u2014 and Now Players Want HoYoverse to Sell the Characters Directly - IGN",
-      "link": "https://www.ign.com/articles/genshin-impact-updates-shop-to-show-how-much-you-need-to-spend-to-guarantee-pulling-a-character-and-now-players-want-hoyoverse-to-sell-the-characters-directly"
+      "title": "Rumour: Gears of War: Reloaded May Be Getting a Physical PS5 Release, No Word on Xbox - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/05/rumour-gears-of-war-reloaded-may-be-getting-a-physical-ps5-release-no-word-on-xbox"
     },
     {
-      "title": "Microsoft updates the Windows 11 Start Menu - theregister.com",
-      "link": "https://www.theregister.com/2025/05/07/microsoft_updates_the_windows_11/"
+      "title": "Private Japanese lunar lander enters orbit around moon ahead of a June touchdown - NBC News",
+      "link": "https://www.nbcnews.com/science/space/private-japanese-lunar-lander-enters-orbit-moon-ahead-june-touchdown-rcna205308"
     },
     {
-      "title": "The Motorola Razr 2025 lineup's textures are a sensory delight - Android Central",
-      "link": "https://www.androidcentral.com/phones/motorola/the-motorola-razr-2025-lineups-textures-are-a-sensory-delight"
-    },
-    {
-      "title": "One UI 8 leak shows new functionality for the Now Bar - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-z-flip-5-fold-5-one-ui-7-update-released-india/"
-    },
-    {
-      "title": "Apple Watch in significant global decline for two years now; new features needed - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/07/apple-watch-in-significant-global-decline-for-two-years-now-new-features-needed/"
-    },
-    {
-      "title": "Microsoft's new Surface devices just got major redesigns - and I'm tempted to switch - ZDNET",
-      "link": "https://www.zdnet.com/article/microsofts-new-surface-devices-just-got-major-redesigns-and-im-tempted-to-switch/"
+      "title": "Valve developers continue to impress, fixing Proton in less than a day for the Starfield Beta - GamingOnLinux",
+      "link": "https://www.gamingonlinux.com/2025/05/valve-developers-continue-to-impress-fixing-proton-in-less-than-a-day-for-the-starfield-beta/."
     }
   ],
   "sports_news": [
+    {
+      "title": "Report: President Trump plans to create college sports commission - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-president-trump-plans-to-create-college-sports-commission"
+    },
+    {
+      "title": "Capitals reflect on Game 1 loss to Carolina Hurricanes: \u2018We can\u2019t defend for the amount of time that we defended last night\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/05/07/capitals-reflect-game-1-hurricanes-loss/"
+    },
+    {
+      "title": "Florida CB Johnson faces 4 charges after arrest - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/45041451/florida-dijon-johnson-charged-two-felonies-arrest"
+    },
+    {
+      "title": "\u2018Disheartened\u2019 Alex Pereira blindsides fans, threatens to quit UFC \u2018if they want to play with me\u2019 - MMAmania.com",
+      "link": "https://www.mmamania.com/2025/5/7/24425665/disheartened-alex-pereira-threatens-quit-ufc-they-want-play-with-me-mma"
+    },
+    {
+      "title": "Police seize Maradona's medical records in raid - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/45040685/police-seize-maradona-medical-records-raid"
+    },
+    {
+      "title": "Los Angeles Rams and Hawai'i Tourism Authority team up to promote Hawaiian Islands with Mauicamp - TheRams.com",
+      "link": "https://www.therams.com/news/rams-hawaii-tourism-authority-promote-hawaiian-islands-mauicamp"
+    },
     {
       "title": "New details emerge about fatal golf cart crash involving John Elway - New York Post",
       "link": "https://nypost.com/2025/05/07/sports/new-details-emerge-about-fatal-golf-cart-crash-involving-john-elway/"
     },
     {
-      "title": "Warriors' Steph Curry Will Miss At Least 1 Week with Strained Hamstring Injury - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25193695-warriors-steph-curry-will-miss-least-1-week-strained-hamstring-injury"
+      "title": "Florida Safety Transfer Gregory Smith Commits to the Tar Heels - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/florida-safety-transfer-gregory-smith-commits-to-the-tar-heels-249439222/"
     },
     {
-      "title": "Celtics vs. Knicks prediction, odds, schedule, game times: Game 2 best bet as New York tries to go up 2-0 - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/celtics-vs-knicks-prediction-odds-schedule-game-times-game-2-best-bet-as-new-york-tries-to-go-up-2-0/"
+      "title": "Latest On Nationals\u2019 Rotation - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/latest-on-nationals-rotation.html"
+    },
+    {
+      "title": "Stephen Curry injury update: Warriors star out multiple games with hamstring strain, return timeline unclear - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/stephen-curry-injury-update-warriors-star-out-multiple-games-with-hamstring-strain-return-timeline-unclear/"
+    },
+    {
+      "title": "Inter Survived A War For The Ages - Defector",
+      "link": "https://defector.com/inter-survived-a-war-for-the-ages"
     },
     {
       "title": "Tom Brady makes surprising claim about NFL draft role as Shedeur Sanders slid - New York Post",
@@ -114,48 +146,24 @@
       "link": "https://triblive.com/sports/pirates/i-didnt-see-it-kavan-markwood-says-of-fall-from-clemente-wall-during-pirates-game/"
     },
     {
-      "title": "Steelers trade George Pickens two months after acquiring DK Metcalf from Seahawks - Field Gulls",
-      "link": "https://www.fieldgulls.com/2025/5/7/24425533/pittsburgh-steelers-trade-george-pickens-cowboys-dk-metcalf-seahawks-nfl-news"
+      "title": "Answering All Your Metallica Stage And Production Questions, Q&A Style - TechSideline.com",
+      "link": "https://virginiatech.sportswar.com/article/2025/05/07/answering-all-your-metallica-stage-and-production-questions-qa-style/"
     },
     {
-      "title": "Steelers minority owner Thomas Tull: Aaron Rodgers\u2019s situation is \u201cmore complex\u201d than AI - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-minority-owner-thomas-tull-aaron-rodgerss-situation-is-more-complex-than-ai"
+      "title": "Utah Mammoth is the permanent name of the NHL team in Salt Lake City - AP News",
+      "link": "https://apnews.com/article/utah-mammoth-name-nhl-31aa2fa9d1cbb825ba5e0b61815e58de"
     },
     {
-      "title": "On the clock: Pipeline's first official 2025 mock draft is here! - MLB.com",
-      "link": "https://www.mlb.com/news/mlb-pipeline-2025-mock-draft-may-6"
+      "title": "Celtics reporters blame \u2018the rain\u2019 for Game 1 loss to Knicks - New York Post",
+      "link": "https://nypost.com/2025/05/07/sports/celtics-reporters-blame-the-rain-for-game-1-loss-to-knicks/"
     },
     {
       "title": "Former Buffalo Bills \u2018big play\u2019 WR released one year after signing with AFC South team - Syracuse.com",
       "link": "https://www.syracuse.com/buffalo-bills/2025/05/former-buffalo-bills-big-play-wr-released-one-year-after-signing-with-afc-south-team.html"
     },
     {
-      "title": "Eagles, Dallas Goedert close to agreement that will keep him in Philadelphia - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-dallas-goedert-close-to-agreement-that-will-keep-him-in-philadelphia"
-    },
-    {
-      "title": "Shane's take: Canes stay true to themselves in overwhelming Caps - WRALSportsFan.com",
-      "link": "https://www.wralsportsfan.com/shane-s-take-canes-stay-true-to-themselves-in-overwhelming-caps/21996290/"
-    },
-    {
-      "title": "Tusks up: The Utah Hockey Club is now the Utah Mammoth - KSL News",
-      "link": "https://www.ksl.com/article/51308328/tusks-up-the-utah-hockey-club-is-now-the-utah-mammoth"
-    },
-    {
-      "title": "2025 PLL Draft Grades: Proactive Redwoods, Archers Steal The Night - Inside Lacrosse",
-      "link": "https://www.insidelacrosse.com/article/2025-pll-draft-grades-proactive-redwoods-archers-steal-the-night/65259"
-    },
-    {
-      "title": "Starting 5, May 7: For the first time, road teams perfect through five - NBA",
-      "link": "https://www.nba.com/news/starting-5-may-7-for-the-first-time-road-teams-perfect-through-five"
-    },
-    {
-      "title": "Sabres hire Staal as special assistant to the general manager - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-hire-eric-staal-front-office-special-assistant-to-the-general-manager"
-    },
-    {
-      "title": "2025 NHL Draft: Post-lottery mock drafts are rolling in for the Penguins - PensBurgh",
-      "link": "https://www.pensburgh.com/2025/5/7/24425220/2025-nhl-draft-mock-draft-penguins-pick-brady-martin-victor-eklund-pens-jackson-smith"
+      "title": "Sources: Dallas Goedert has deal in place to stay with the Eagles - Inquirer.com",
+      "link": "https://www.inquirer.com/eagles/eagles-dallas-goedert-contract-tight-end-20250507.html"
     }
   ],
   "weather": {
