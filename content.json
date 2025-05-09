@@ -1,9 +1,9 @@
 {
-  "quote": "A little progress each day adds up to big results. \u2013 Unknown",
-  "fact": "The scene where Indiana Jones shoots the swordsman in Raider\u2019s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
-  "crypto": "BTC: $102,998 | ETH: $2,340.39",
+  "quote": "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. \u2013 Epictetus",
+  "fact": "The average North American will eat 35,000 cookies during their life span.",
+  "crypto": "BTC: $102,850 | ETH: $2,337.11",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why are snake races so exciting? They're always neck and neck.",
+  "joke": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Samsung confirms big durability upgrade for Galaxy S25 Edge - and it's mostly good news - ZDNet",
+      "link": "https://www.zdnet.com/article/samsung-confirms-big-durability-upgrade-for-galaxy-s25-edge-and-its-mostly-good-news/"
+    },
+    {
+      "title": "Samsung\u2019s next Galaxy Watch update preps Now Bar, Shortcuts, battery charging limits - 9to5Google",
+      "link": "http://9to5google.com/2025/05/08/samsung-galaxy-watch-one-ui-8-update-now-bar-battery-leak/"
+    },
     {
       "title": "The odd path \u2018Expedition 33\u2019 took to becoming one of the best games of the year - The Washington Post",
       "link": "https://www.washingtonpost.com/entertainment/video-games/2025/05/08/expedition-33-making-of/"
@@ -24,28 +32,12 @@
       "link": "https://thegamepost.com/bungie-answers-destiny-2-year-of-prophecy-questions-renegades/"
     },
     {
-      "title": "The Millennial Canon Bracket: The Final Four - The Ringer",
-      "link": "https://www.theringer.com/2025/05/08/pop-culture/millennial-canon-bracket-final-four"
-    },
-    {
-      "title": "Google redesigning the Search bar widget on Android - 9to5Google",
-      "link": "http://9to5google.com/2025/05/08/google-search-bar-redesign/"
-    },
-    {
-      "title": "Google rolls out AI tools to protect Chrome users against scams - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/08/google-rolls-out-ai-tools-to-protect-chrome-users-against-scams/"
-    },
-    {
       "title": "Echoing Xbox, prices are going up for high-end Surfaces and some accessories - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/05/echoing-xbox-prices-are-going-up-for-high-end-surfaces-and-some-accessories/"
     },
     {
       "title": "Oops, Amazon Did It Again: The 2025 MacBook Air Drops for the 5th Time in a Month - Gizmodo",
       "link": "https://gizmodo.com/oops-amazon-did-it-again-the-2025-macbook-air-drops-for-the-5th-time-in-a-month-2000599698"
-    },
-    {
-      "title": "Europa Universalis V announced for PC - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/europa-universalis-v-announced-for-pc"
     },
     {
       "title": "iPhone 17 Air still recognizably thin in a case, video shows - 9to5Mac",
@@ -60,10 +52,6 @@
       "link": "https://www.buzzfeed.com/daves4/funny-picture-collection-may-8-2025"
     },
     {
-      "title": "Galaxy S25 Edge promises \u2018all-day battery\u2019 in leaked marketing that will definitely age well - 9to5Google",
-      "link": "http://9to5google.com/2025/05/08/samsung-galaxy-s25-edge-all-day-battery-leak/"
-    },
-    {
       "title": "Mafia: The Old Country Looks Glorious in Gameplay Trailer, PS5 Release Date Confirmed - Push Square",
       "link": "https://www.pushsquare.com/news/2025/05/mafia-the-old-country-looks-glorious-in-gameplay-trailer-ps5-release-date-confirmed"
     },
@@ -76,15 +64,47 @@
       "link": "https://www.ign.com/articles/pokemon-tcg-black-bolt-and-white-flare-where-to-buy"
     },
     {
-      "title": "Expedition 33 Patch Will Fix One Of The Most Broken Builds In The Game - GameSpot",
-      "link": "https://www.gamespot.com/articles/expedition-33-patch-will-fix-one-of-the-most-broken-builds-in-the-game/1100-6531392/"
-    },
-    {
       "title": "Whoop Launches Slimmer Fitness Bands With Blood Pressure, ECG Features - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/features/2025-05-08/review-whoop-5-0-whoop-mg-add-ecg-blood-pressure-subscription-from-199"
+    },
+    {
+      "title": "Why you\u2019re crazy if you travel without using ChatGPT and this new Google Maps AI feature - Boy Genius Report",
+      "link": "https://bgr.com/tech/i-use-chatgpt-to-travel-now-and-this-brilliant-google-maps-ai-feature-is-the-missing-piece-of-the-puzzle/"
+    },
+    {
+      "title": "The Millennial Canon Bracket: The Elite Eight - The Ringer",
+      "link": "https://www.theringer.com/2025/05/08/pop-culture/millennial-canon-bracket-elite-eight"
+    },
+    {
+      "title": "FTC Loses Appeal Challenging Microsoft's Acquisition of Activision Blizzard - IGN",
+      "link": "https://www.ign.com/articles/ftc-loses-appeal-challenging-microsofts-acquisition-of-activision-blizzard"
+    },
+    {
+      "title": "Lenovo\u2019s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid - The Verge",
+      "link": "https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs"
     }
   ],
   "sports_news": [
+    {
+      "title": "Chelsea: Enzo Maresca excited to face 'football dad' in Conference League final - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c2kqjzzynwno"
+    },
+    {
+      "title": "Reds To Place Hunter Greene On IL With Groin Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/reds-to-place-hunter-greene-on-il-with-groin-strain.html"
+    },
+    {
+      "title": "'This is new': Steph Curry's injury timeline vs. Wolves is getting worrisome - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/steph-curry-injury-timeline-wolves-worrisome-20318191.php"
+    },
+    {
+      "title": "Cubs To Promote Cade Horton - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/cubs-to-promote-cade-horton.html"
+    },
+    {
+      "title": "Rafael Devers says he refused to play first when Red Sox asked: 'Not an appropriate decision by them to ask' - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/rafael-devers-says-he-refused-to-play-first-when-red-sox-asked-not-an-appropriate-decision-by-them-to-ask/"
+    },
     {
       "title": "Jaguars officially release Gabe Davis with a failed physical designation - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-officially-release-gabe-davis-with-a-failed-physical-designation"
@@ -94,12 +114,8 @@
       "link": "https://www.dallascowboys.com/news/george-pickens-sees-cowboys-establish-winning-culture-vows-to-work-everyday-to-help-make-it-happen"
     },
     {
-      "title": "Report: Desmond Ridder no longer will attend Broncos\u2019 rookie minicamp - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-desmond-ridder-no-longer-will-attend-broncos-rookie-minicamp"
-    },
-    {
-      "title": "Rafael Devers Unwilling To Play First Base - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/rafael-devers-unwilling-to-play-first-base.html"
+      "title": "'Indebted' Saleh has a lot more 'cool concepts' in store for 2nd 49ers stint - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45057320/indebted-saleh-lot-more-cool-concepts-store-2nd-49ers-stint"
     },
     {
       "title": "Texans second-round WR Jayden Higgins gets a fully guaranteed contract - NBC Sports",
@@ -110,6 +126,14 @@
       "link": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-player-ratings-vs-bodoglimt-31601956"
     },
     {
+      "title": "Warriors Fend Off Penn State to Advance to NCAA Semifinals - Hawaii athletics",
+      "link": "https://hawaiiathletics.com/news/2025/5/8/mens-volleyball-warriors-fend-off-penn-state-to-advance-to-ncaa-semifinals.aspx"
+    },
+    {
+      "title": "Schedule Set for Lamar Hunt U.S. Open Cup Round of 16 - US Soccer",
+      "link": "https://www.ussoccer.com/stories/2025/05/schedule-set-lamar-hunt-us-open-cup-round-16"
+    },
+    {
       "title": "Poll: Can Jacob Wilson's Breakout Be Believed? - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/05/poll-jacob-wilsons-hot-start.html"
     },
@@ -118,8 +142,12 @@
       "link": "https://www.nbcnews.com/sports/olympics/2028-los-angeles-olympics-opening-closing-ceremony-locations-revealed-rcna205688"
     },
     {
-      "title": "NFL will announce international games, other contests ahead of official 2025 schedule release - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-announce-international-games-other-contests-ahead-of-official-2025-schedule-release"
+      "title": "Lemon, WS champ and 3-time All-Star, dies at 70 - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/45055851/chet-lemon-world-series-champion-3-all-star-dies-70"
+    },
+    {
+      "title": "Sandy Alcantara could once again complicate Marlins\u2019 trade deadline plans - New York Post",
+      "link": "https://nypost.com/2025/05/08/sports/sandy-alcantara-could-once-again-complicate-marlins-trade-deadline/"
     },
     {
       "title": "Pirates Fire Manager Derek Shelton - MLB Trade Rumors",
@@ -132,38 +160,6 @@
     {
       "title": "Trump ramps up plans for 2026 World Cup amid friction with neighbors: \u2018Tensions are a good thing\u2019 - Politico",
       "link": "https://www.politico.com/news/2025/05/08/trump-2026-world-cup-plans-00335839"
-    },
-    {
-      "title": "Devin Williams\u2019 early struggles already raising big Yankees trade questions - New York Post",
-      "link": "https://nypost.com/2025/05/08/sports/devin-williams-struggles-raising-big-yankees-trade-questions/"
-    },
-    {
-      "title": "Warriors' Steph Curry calls injury a 'gut punch,' does not have a target return date vs. Timberwolves - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/warriors-steph-curry-calls-injury-a-gut-punch-does-not-have-a-target-return-date-vs-timberwolves/"
-    },
-    {
-      "title": "Ranking the NFL's top 15 quarterbacks on rookie contracts: Is Jayden Daniels or C.J. Stroud at No. 1? - NFL.com",
-      "link": "https://www.nfl.com/news/ranking-the-nfl-s-top-15-quarterbacks-on-rookie-contracts-is-jayden-daniels-or-c-j-stroud-at-no-1"
-    },
-    {
-      "title": "At long last, Michigan State aligns with Larry Nassar survivors - ESPN",
-      "link": "https://www.espn.com/olympics/gymnastics/story/_/id/45054499/at-long-last-michigan-state-aligns-larry-nassar-survivors"
-    },
-    {
-      "title": "Enter Sandman: Metallica brings seismic shift to Virginia Tech stadium - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/45054539/metallica-virginia-tech-hokies-football-entrance-song-enter-sandman-lane-stadium"
-    },
-    {
-      "title": "Sullivan hopes to make Rangers 'most competitive team' - NHL.com",
-      "link": "https://www.nhl.com/news/mike-sullivan-hopes-to-make-new-york-rangers-most-competitive-team"
-    },
-    {
-      "title": "Ducks Name Quenneville Head Coach - NHL.com",
-      "link": "https://www.nhl.com/ducks/news/ducks-name-quenneville-head-coach"
-    },
-    {
-      "title": "IPL match in Dharamsala called off after floodlight failure - ESPNcricinfo",
-      "link": "https://www.espncricinfo.com/story/pbks-vs-dc-ipl-match-in-dharamsala-called-off-after-floodlight-failure-1485417"
     }
   ],
   "weather": {
