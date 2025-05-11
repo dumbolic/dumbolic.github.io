@@ -1,14 +1,14 @@
 {
-  "quote": "There is no absolute success in the world, only constant progress. \u2013 Jonathan Swift",
-  "fact": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
-  "crypto": "BTC: $103,806 | ETH: $2,529.3",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
+  "quote": "Learning never exhausts the mind.  \u2013 Leonardo da Vinci",
+  "fact": "Only one person in two billion will live to be 116 or older.",
+  "crypto": "BTC: $103,689 | ETH: $2,495.5",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
@@ -28,6 +28,10 @@
       "link": "https://techcrunch.com/2025/05/09/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/"
     },
     {
+      "title": "You Can Now Use LegoGPT to Turn Your Text Inputs Into Lego Designs - CNET",
+      "link": "https://www.cnet.com/tech/services-and-software/you-can-now-use-legogpt-to-turn-your-text-inputs-into-lego-designs/"
+    },
+    {
       "title": "Pok\u00e9mon GO Doubling Amount Of Daily Remote Raids Has Nothing To Do With New Owners - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/05/pokemon-go-doubling-amount-of-daily-remote-raids-has-nothing-to-do-with-new-owners"
     },
@@ -44,24 +48,28 @@
       "link": "https://aftermath.site/infinity-nikki-bubble-season-1-5-update"
     },
     {
+      "title": "This Soulslike Will Respect Your Time, But Rewards You For Playing It Twice - Kotaku",
+      "link": "https://kotaku.com/empyreal-soulslike-how-long-to-beat-new-game-plus-1851779993"
+    },
+    {
       "title": "\u2018Grand Theft Auto VI\u2019 Delay Impacts Every Game Company - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/newsletters/2025-05-09/-grand-theft-auto-vi-delay-is-impacting-every-game-company"
     },
     {
-      "title": "Mewgenics Is One of the Most Exciting Roguelikes I\u2019ve Played in Years - IGN",
-      "link": "https://www.ign.com/articles/mewgenics-is-one-of-the-most-exciting-roguelikes-ive-played-in-years"
-    },
-    {
-      "title": "I wore the Whoop 5.0 - it gave me the best of Oura Ring, Apple Watch, and more - ZDNET",
-      "link": "https://www.zdnet.com/article/i-wore-whoop-5-it-gave-me-the-best-of-oura-ring-apple-watch-and-more/"
-    },
-    {
-      "title": "Samsung Galaxy Watch 8 is ditching a fully circular design, leaked images suggest - 9to5Google",
-      "link": "http://9to5google.com/2025/05/09/samsung-galaxy-watch-8-design-leak-app/"
-    },
-    {
       "title": "Mafia: The Old Country minimum PC specs basically require a PS5-level GPU - Eurogamer",
       "link": "https://www.eurogamer.net/mafia-the-old-country-minimum-pc-specs-basically-require-a-ps5-level-gpu"
+    },
+    {
+      "title": "Google's new caching feature for Gemini 2.5 aims to reduce costs by up to 75 percent - the-decoder.com",
+      "link": "https://the-decoder.com/googles-new-caching-feature-for-gemini-2-5-aims-to-reduce-costs-by-up-to-75-percent/"
+    },
+    {
+      "title": "Whoop angers users over reneged free upgrade promises - The Verge",
+      "link": "https://www.theverge.com/news/664111/whoop-5-0-upgrade-anger-wearables"
+    },
+    {
+      "title": "Overwatch 2\u2019s Street Fighter Collaboration Would Be Cool If The Game Wasn\u2019t Becoming Fortnite - Kotaku",
+      "link": "https://kotaku.com/overwatch-2-street-fighter-skin-collaboration-crossover-1851779908"
     },
     {
       "title": "DOOM: The Dark Ages launch trailer - Gematsu",
@@ -72,70 +80,66 @@
       "link": "https://www.forbes.com/sites/paultassi/2025/05/09/clair-obscur-expedition-33-patch-slams-maelle-build-with-70-nerf/"
     },
     {
-      "title": "Delete Any Apps On Your Phone That Are On This List - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/05/09/delete-any-apps-on-your-phone-that-are-on-this-list/"
+      "title": "Galaxy Watch tiles could look different in Samsung\u2019s next big update - 9to5Google",
+      "link": "http://9to5google.com/2025/05/09/galaxy-watch-tiles-could-look-different-in-samsungs-next-big-update/"
     },
     {
-      "title": "iOS 19 Wish List: What Our Writers and Editors Hope to See in the Next iPhone Update - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/ios-19-wish-list-what-our-writers-and-editors-hope-to-see-in-the-next-iphone-update/"
-    },
-    {
-      "title": "Nintendo on claim that Switch isn't an innovation, says Mario Kart World and Donkey Kong Bananza couldn't be realized on Switch 1 - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-on-claim-that-switch-isnt-an-innovation-says-mario-kart-world-and-donkey-kong-bananza-couldnt-be-realized-on-switch-1/"
-    },
-    {
-      "title": "Nintendo president comments on approach to Switch 2 game and hardware prices - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-president-comments-on-approach-to-switch-2-game-and-hardware-prices/"
+      "title": "It\u2019s Hard to Believe, but Amazon Just Destroyed the Brand-New 2025 iPad Air Price - Gizmodo",
+      "link": "https://gizmodo.com/its-hard-to-believe-but-amazon-just-destroyed-the-brand-new-2025-ipad-air-price-2000600101"
     }
   ],
   "sports_news": [
     {
-      "title": "Cavs, back at full strength, rediscover their identity in 126-104 Game 3 rout of Pacers - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/05/cavs-back-at-full-strength-look-like-themselves-again-in-126-104-game-3-rout-of-pacers.html"
+      "title": "Oklahoma City Thunder vs. Denver Nuggets Live Score and Stats - May 9, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20250509_OKC@DEN/"
     },
     {
-      "title": "John Elway\u2019s agent Jeff Sperbeck\u2019s cause of death revealed - New York Post",
-      "link": "https://nypost.com/2025/05/09/sports/death-of-john-elways-friend-officially-ruled-an-accident/"
+      "title": "Cavs\u2019 demise greatly exaggerated, come back with emphatic 126-104 Game 3 win over Pacers - Fear The Sword",
+      "link": "https://www.fearthesword.com/2025/5/9/24427231/cavs-indiana-pacers-final-score-game-3-cleveland-cavaliers-nba-playoffs"
     },
     {
-      "title": "Roy fined maximum for actions in Golden Knights game - NHL.com",
-      "link": "https://www.nhl.com/news/vegas-golden-knights-nicolas-roy-fine-for-cross-checking"
+      "title": "Brad Keller to Start Tomorrow, Not Cade Horton - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/05/09/brad-keller-to-start-tomorrow-not-cade-horton/"
+    },
+    {
+      "title": "Pierrick Dub\u00e9 scores twice as Hershey Bears force series-deciding Game 5 against Lehigh Valley Phantoms - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/05/09/pierrick-dube-scores-twice-hershey-bears-lehigh-valley-phantoms-game-4/"
+    },
+    {
+      "title": "Red Sox brass, including John Henry, met with Rafael Devers following viral remarks about being asked to play 1B - Boston.com",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/05/09/red-sox-rafael-devers-john-henry-alex-cora-craig-breslow-sam-kennedy-meeting-quotes/"
+    },
+    {
+      "title": "NBA Fans Loved Nikola Jokic's Joker-Inspired Suit Before Game 3 vs. Thunder - Sports Illustrated",
+      "link": "https://www.si.com/nba/nba-fans-loved-nikola-jokic-joker-inspired-suit-before-game-3-thunder"
     },
     {
       "title": "Rookie minicamp report: Who stood out during Falcons practice - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/rookie-camp-report-who-stood-out-during-falcons-practice-james-pearce-jalon-walker-cobee-bryant"
     },
     {
-      "title": "Poll: In-Season Managerial Changes - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/poll-in-season-managerial-changes.html"
+      "title": "Dillon Gabriel gets first reps in team drills at minicamp as the undercard of Browns\u2019 QB competition kicks off - The Land on Demand",
+      "link": "https://thelandondemand.com/news/2025/may/09/dillon-gabriel-gets-first-reps-in-team-drills-at-minicamp-as-the-undercard-of-browns-qb-competition-kicks-off/"
     },
     {
       "title": "First look at Shedeur Sanders, Dillon Gabriel during rookie minicamp | OTAs & Minicamp - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/first-look-at-shedeur-sanders-dillon-gabriel-during-rookie-minicamp-otas-minicamp"
     },
     {
-      "title": "Tiger Woods' Son Charlie Fails to Qualify for 2025 U.S. Open After Shooting 75 - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25194495-tiger-woods-son-charlie-fails-qualify-2025-us-open-after-shooting-75"
-    },
-    {
-      "title": "U.S. opens worlds slate with shutout of Denmark - ESPN",
-      "link": "https://www.espn.com/olympics/hockey/story/_/id/45072138/beniers-daccord-lead-team-usa-hockey-worlds-opener"
+      "title": "Paul Skenes Has Blunt Reaction to Pirates Firing Manager Amid 12-26 Start - Sports Illustrated",
+      "link": "https://www.si.com/mlb/paul-skenes-has-blunt-reaction-pirates-firing-manager-amid-start"
     },
     {
       "title": "Patriots rookie minicamp notebook: First look at the Class of 2025 - 98.5 The Sports Hub",
       "link": "https://985thesportshub.com/2025/05/09/patriots-rookie-minicamp-notebook-first-look-at-the-class-of-2025/"
     },
     {
+      "title": "Good luck keeping impressive rookie QB Jaxson Dart on the Giants\u2019 bench - New York Daily News",
+      "link": "https://www.nydailynews.com/2025/05/09/jaxson-dart-impressive-rookie-qb-giants/"
+    },
+    {
       "title": "Report: Bill Belichick had P.R. expert Brandon Faber present at NYU book event - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bill-belichick-had-p-r-expert-brandon-faber-present-at-nyu-book-event"
-    },
-    {
-      "title": "Kevin Stefanski: Don\u2019t read anything into who takes first QB reps at practice - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-dont-read-anything-into-who-takes-first-qb-reps-at-practice"
-    },
-    {
-      "title": "Giants' Jaxson Dart Opened His Minicamp Presser With Incredibly Classy Move - Sports Illustrated",
-      "link": "https://www.si.com/nfl/giants-jaxson-dart-opened-minicamp-presser-incredibly-classy-move"
     },
     {
       "title": "Angels Select Shaun Anderson, Transfer Ben Joyce To 60-Day IL - MLB Trade Rumors",
@@ -146,24 +150,16 @@
       "link": "https://www.nhl.com/devils/news/devils-coaching-changes-release-5-9-25"
     },
     {
-      "title": "Bengals 1st-Round Draft Pick Shemar Stewart Sat Out Rookie Minicamp Due to Contract - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25194538-bengals-1st-round-draft-pick-shemar-stewart-sat-out-rookie-minicamp-due-contract"
-    },
-    {
       "title": "3 takeaways from the first day of Panthers rookie minicamp - Carolina Panthers",
       "link": "https://www.panthers.com/news/3-takeaways-from-the-first-day-of-panthers-rookie-minicamp"
     },
     {
+      "title": "Shemar Stewart, Demetrius Knight won\u2019t do on-field work until rookie deals are done - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-demetrius-knight-wont-do-on-field-work-until-rookie-deals-are-done"
+    },
+    {
       "title": "Rookie Minicamp Report: What we learned on Day 1 - Giants.com",
       "link": "https://www.giants.com/news/minicamp-report-jaxson-dart-abdul-carter-cam-skattebo-michael-strahan"
-    },
-    {
-      "title": "Cade Horton is Now With the Big League Team in New York - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/05/09/cade-horton-is-now-with-the-big-league-team-in-new-york/"
-    },
-    {
-      "title": "New Orleans Saints sign six 2025 draft picks to four-year contracts - New Orleans Saints",
-      "link": "https://www.neworleanssaints.com/news/new-orleans-saints-roster-2025-nfl-draft-picks-four-year-contracts-roster-moves-kelvin-banks-jr"
     }
   ],
   "weather": {
