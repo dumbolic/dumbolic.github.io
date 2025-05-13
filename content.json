@@ -1,9 +1,9 @@
 {
-  "quote": "Hope is a waking dream. \u2013 Aristotle",
-  "fact": "Only female mosquito\u2019s` bite and most are attracted to the color blue twice as much as to any other color.",
-  "crypto": "BTC: $103,203 | ETH: $2,544.33",
+  "quote": "It's easier to lose than to win.   \u2013 Wayne Gretzky",
+  "fact": "Butterflies taste with their hind feet.",
+  "crypto": "BTC: $103,552 | ETH: $2,549.33",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a troublesome Canadian high schooler? A poutine.",
+  "joke": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Leak May Explain Why So Many \u2018Physical\u2019 Switch 2 Games Are Actually Digital Downloads - Gizmodo",
+      "link": "https://gizmodo.com/leak-may-explain-why-so-many-physical-switch-2-games-are-actually-digital-downloads-2000600879"
+    },
+    {
+      "title": "Grand Theft Auto 4 for PS5, Xbox Series X/S reportedly in development, could release this year - Eurogamer",
+      "link": "https://www.eurogamer.net/grand-theft-auto-4-for-ps5-xbox-series-xs-reportedly-in-development-could-release-this-year"
+    },
+    {
+      "title": "Fighting game pro Punk says PS5 problems are to blame for his Evo Japan loss - polygon.com",
+      "link": "https://www.polygon.com/esports/598501/evo-japan-2025-punk-cotw-guilty-gear"
+    },
+    {
+      "title": "One Star Wars Blaster's Wild Journey In Andor Just Blew My Mind - Kotaku",
+      "link": "https://kotaku.com/star-wars-andor-season-2-ep-9-blaster-vel-gun-1851780222"
+    },
+    {
+      "title": "Nintendo threatens to brick Switch consoles for hacking, piracy - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/05/nintendo-threatens-to-brick-switch-consoles-for-hacking-piracy/"
+    },
+    {
+      "title": "Stellar Blade Director Gets Clair Obscur: Expedition 33 Platinum Trophy, Says It's Game of the Year - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/05/stellar-blade-director-gets-clair-obscur-expedition-33-platinum-trophy-says-its-game-of-the-year"
+    },
+    {
+      "title": "These Cars Are All Show And No Go - Jalopnik",
+      "link": "https://www.jalopnik.com/1855702/all-show-and-no-go-cars-reader-answer-roundup/"
+    },
+    {
       "title": "Nintendo Switch 2 pre-orders live: stock still available this week - GamesRadar+",
       "link": "https://www.gamesradar.com/news/live/nintendo-switch-2-pre-orders-week-six-check-stock/"
     },
     {
+      "title": "iOS 18.5 Expected This Week With These New Features - MacRumors",
+      "link": "https://www.macrumors.com/2025/05/12/ios-18-5-expected-this-week/"
+    },
+    {
       "title": "Google updating its \u2018G\u2019 icon for the first time in 10 years - 9to5Google",
       "link": "http://9to5google.com/2025/05/12/google-icon-update/"
+    },
+    {
+      "title": "Exclusive: InventWood is about to mass produce wood that\u2019s stronger than steel - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/"
     },
     {
       "title": "Sonos CEO says the company didn\u2019t understand the real world - 9to5Mac",
@@ -32,12 +68,16 @@
       "link": "https://kotaku.com/ori-moon-studios-no-rest-for-the-wicked-review-mahler-1851780166"
     },
     {
-      "title": "NVIDIA GeForce Game Ready 576.40 driver - VideoCardz.com",
-      "link": "https://videocardz.com/driver/nvidia-geforce-game-ready-576-40"
+      "title": "Tony Hawk\u2019s Pro Skater 4\u2019s upcoming remake is getting a major overhaul in one key area - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/tony-hawks-pro-skater-4s-upcoming-remake-is-getting-a-major-overhaul-in-one-key-area/"
     },
     {
-      "title": "Grand Theft Auto IV Port May Launch This Year on Current-Generation Consoles; Max Payne 3 Port May Follow \u2013 Rumor - Wccftech",
-      "link": "https://wccftech.com/grand-theft-auto-iv-port-current-generation-max-payne-3/"
+      "title": "The Overwatch developer team has unionized - The Verge",
+      "link": "https://www.theverge.com/news/664873/overwatch-union-microsoft-activision-blizzard"
+    },
+    {
+      "title": "I\u2019d like Apple\u2019s promised new Wi-Fi hotspot feature to go one step further - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/12/id-like-apples-promised-new-wi-fi-hotspot-feature-to-go-one-step-further/"
     },
     {
       "title": "Doom: The Dark Ages helms a week of GTA-style cop games, sweaty animal spas and feudal strategy - Rock Paper Shotgun",
@@ -46,60 +86,44 @@
     {
       "title": "It might be price hike season, but Sony just dopped a new PS Plus PS5 bundle that's actually a bargain - GamesRadar+",
       "link": "https://www.gamesradar.com/platforms/ps5/it-might-be-price-hike-season-but-sony-just-dopped-a-new-ps-plus-ps5-bundle-thats-actually-a-bargain/"
-    },
-    {
-      "title": "LEAKED: Samsung Galaxy S25 Edge, Photos, Hands-On Video! - Android Headlines",
-      "link": "https://www.androidheadlines.com/galaxy-s25-edge"
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion Remastered's Spectral Horse Discovery Sparks Community-Wide Ghost Hunt to Find Out What Caused 'Spookmane' to Come Into Existence - IGN",
-      "link": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-remastereds-spectral-horse-discovery-sparks-community-wide-ghost-hunt-to-find-out-what-caused-spookmane-to-come-into-existence"
-    },
-    {
-      "title": "Deals For Today: Pok\u00e9mon TCG Sealed Product, Plus Surprise Gaming Keyboard and Mouse Discounts - IGN",
-      "link": "https://www.ign.com/articles/best-deals-for-may-12-2025"
-    },
-    {
-      "title": "Google Keep brings text formatting to the web - The Verge",
-      "link": "https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app"
-    },
-    {
-      "title": "Scientists stunned as deep-sea camera captures elusive creature nearly 5,000 meters below the ocean's surface: 'The animal disappears from view' - Yahoo",
-      "link": "https://www.yahoo.com/news/scientists-stunned-deep-sea-camera-101525855.html"
-    },
-    {
-      "title": "The Samsung Galaxy S25 Ultra is a fantastic Android phone I hate using - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-galaxy-25-ultra-great-android-phone-i-hate-using-3552662/"
-    },
-    {
-      "title": "Campagnolo makes huge U-turn as new groupset breaks cover at Giro d'Italia - Cyclingnews",
-      "link": "https://www.cyclingnews.com/news/campagnolo-makes-huge-u-turn-as-new-groupset-breaks-cover-at-giro-ditalia/"
-    },
-    {
-      "title": "AMD Ryzen AI Max+ PRO 395 Linux Benchmarks: Outright Incredible Performance Review - Phoronix",
-      "link": "https://www.phoronix.com/review/amd-ryzen-ai-max-pro-395"
-    },
-    {
-      "title": "20th Anniversary iPhone Will Be Mostly Glass With All-Screen Design - MacRumors",
-      "link": "https://www.macrumors.com/2025/05/12/20th-anniversary-iphone-all-screen-design/"
-    },
-    {
-      "title": "Nintendo Insists AI-Generated Images Were Not Used in the Development of Mario Kart World After In-Game Billboards Sparked Speculation - IGN",
-      "link": "https://www.ign.com/articles/nintendo-insists-ai-generated-images-were-not-used-in-the-development-of-mario-kart-world-after-in-game-billboards-sparked-speculation"
-    },
-    {
-      "title": "New Retro Barchetta Looks Like Italy But Roars Like Detroit - Carscoops",
-      "link": "https://www.carscoops.com/2025/05/automobili-mignatta-rina-is-a-gorgeous-italian-barchetta-with-a-manual-v8/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Virat Kohli Test Retirement: 'Sourav Ganguly Gave India Spine, But Virat Kohli...' - Controversial Ex-India Coach Greg Chappell - NDTV Sports",
+      "link": "https://sports.ndtv.com/cricket/virat-kohli-test-retirement-live-updates-test-cricket-team-india-rohit-sharma-bcci-india-vs-england-8392619"
+    },
+    {
+      "title": "Tom Brady honors exes Gisele B\u00fcndchen and Bridget Moynahan in Mother\u2019s Day tribute - New York Post",
+      "link": "https://nypost.com/2025/05/12/sports/tom-brady-honors-exes-gisele-bundchen-bridget-moynahan-on-mothers-day/"
+    },
+    {
+      "title": "Michael Jordan Joining NBCUniversal\u2019s NBA Coverage As Special Correspondent - Deadline",
+      "link": "http://deadline.com/2025/05/michael-jordan-joining-nbcuniversal-nba-coverage-special-correspondent-1236393681/"
+    },
+    {
+      "title": "Will the Rafael Devers drama push him out of Boston? Star could land on NL team if spectacle continues - New York Post",
+      "link": "https://nypost.com/2025/05/12/sports/phillies-floated-as-rafael-devers-trade-possibility-with-red-sox-drama-festering/"
+    },
+    {
+      "title": "American League quarter-mark grades: Mariners, Tigers lead class, Yankees good but not yet great, Orioles fail - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/american-league-quarter-mark-grades-mariners-tigers-lead-class-yankees-good-but-not-yet-great-orioles-fail/"
+    },
     {
       "title": "The Cavaliers\u2019 Collapse Brings Back Some Brutal Questions - The Ringer",
       "link": "https://www.theringer.com/2025/05/12/nba/cleveland-cavaliers-indiana-pacers-nba-playoffs-2025-donovan-mitchell-injury"
     },
     {
-      "title": "Jake Paul promotion adds Marshall, Cameron - ESPN",
-      "link": "https://www.espn.com/boxing/story/_/id/45110282/jake-paul-promotion-adds-savannah-marshall-chantelle-cameron"
+      "title": "Late for Work: Ravens Reportedly Shut Down Rashod Bateman Trade Interest From Cowboys - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/rashod-bateman-cowboys-trade-ravens-roster"
+    },
+    {
+      "title": "Giannis Reportedly 'Open-Minded About Exploring' Trade for '1st Time in' Bucks Career - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25194958-giannis-reportedly-open-minded-about-exploring-trade-1st-time-bucks-career"
+    },
+    {
+      "title": "Look Out, Quail Hollow: Rory McIlroy Enters This PGA Championship Feeling Better Than Ever - Sports Illustrated",
+      "link": "https://www.si.com/golf/rory-mcilroy-2025-pga-championship-unburdened"
     },
     {
       "title": "Diamondbacks To Promote Jordan Lawlar - MLB Trade Rumors",
@@ -110,8 +134,16 @@
       "link": "https://www.cbssports.com/nba/news/2025-nba-draft-lottery-ranking-all-15-lottery-teams-by-who-has-most-at-stake-in-cooper-flagg-sweepstakes/"
     },
     {
+      "title": "Jack Della Maddalena fires back at 'punch drunk' UFC veteran who believes Belal Muhammad won at UFC 315 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/12/jack-della-maddalena-fires-back-at-punch-drunk-ufc-veteran-who-believes-belal-muhammad-won-at-ufc-315/"
+    },
+    {
       "title": "2025 NFL schedule opens with Cowboys at Eagles on Thursday, September 4 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2025-nfl-schedule-opens-with-cowboys-at-eagles-on-thursday-september-4"
+    },
+    {
+      "title": "Real Madrid want Alonso in place for Club World Cup - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c4g7pk04l5no"
     },
     {
       "title": "Indiana Pacers match NBA record in Game 4 rout of Cleveland Cavaliers to push No. 1 seed to brink of elimination - CNN",
@@ -122,16 +154,8 @@
       "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2025-emilia.4GF4njJsmwvrEs1egRCnbr"
     },
     {
-      "title": "'What a legend'... Israel Adesanya pays tribute to Jose Aldo after emotional retirement at UFC 315 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/05/12/what-a-legend-israel-adesanya-pays-tribute-to-jose-aldo-after-emotional-retirement-at-ufc-315/"
-    },
-    {
-      "title": "Nets hoping to beat NBA draft lottery odds, change franchise \u2014 like they did 25 years ago - New York Post",
-      "link": "https://nypost.com/2025/05/12/sports/nets-hoping-to-beat-nba-draft-lottery-odds-change-franchise/"
-    },
-    {
-      "title": "'Virat Kohli retirement big blow for India before England tour, but also opportunity for youngsters to gr - Times of India",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-retirement-big-blow-for-india-before-england-tour-but-also-opportunity-for-youngsters-to-grab-chance/articleshow/121105158.cms"
+      "title": "Kentucky Derby-winning jockey fined $62,000 and suspended for overuse of whip - CNN",
+      "link": "https://www.cnn.com/2025/05/12/sport/junior-alvarado-punishment-sovereignty-kentucky-derby-spt"
     },
     {
       "title": "Giants rookie RB Cam Skattebo hopes to keep running people over in the NFL - NBC Sports",
@@ -140,30 +164,6 @@
     {
       "title": "Cavs Called Out by Fans in Blowout Loss to Pacers, Donovan Mitchell Exits With Injury - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25194916-cavs-called-out-fans-blowout-loss-pacers-donovan-mitchell-exits-injury"
-    },
-    {
-      "title": "Pool Report on the Flagrant Foul Penalty 2 and the Technical Fouls called in the First Quarter of Tonight\u2019s Cleveland at Indiana Game - Official NBA",
-      "link": "https://official.nba.com/pool-report-on-the-flagrant-foul-penalty-2-and-the-technical-fouls-called-in-the-first-quarter-of-tonights-cleveland-at-indiana-game/"
-    },
-    {
-      "title": "Drastic change could help reverse worrying trending for Knicks starters - New York Post",
-      "link": "https://nypost.com/2025/05/11/sports/worrying-trend-has-knicks-starters-at-a-huge-disadvantage-vs-celtics/"
-    },
-    {
-      "title": "Blockbuster NBA Trade Idea Sends 2x All-Star to Lakers for Austin Reaves - Sports Illustrated",
-      "link": "https://www.si.com/nba/grizzlies/news/blockbuster-nba-trade-idea-sends-2x-all-star-to-lakers-for-austin-reaves-01jv13abqeya"
-    },
-    {
-      "title": "Red Sox, amid Rafael Devers saga, show something with biggest series win of season so far | Chris Cotillo - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/05/red-sox-amid-rafael-devers-saga-show-something-with-biggest-series-win-of-season-so-far-chris-cotillo.html"
-    },
-    {
-      "title": "Player Ratings: FC Barcelona 4-3 Real Madrid; 2025 La Liga - Managing Madrid",
-      "link": "https://www.managingmadrid.com/2025/5/12/24428198/player-ratings-fc-barcelona-4-3-real-madrid-2025-la-liga"
-    },
-    {
-      "title": "Charles Barkley calls NBA\u2019s treatment of Denver Nuggets \u2018unfair\u2019 - Awful Announcing",
-      "link": "https://awfulannouncing.com/nba/charles-barkley-denver-nuggets-unfair-schedule.html"
     }
   ],
   "weather": {
