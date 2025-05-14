@@ -1,9 +1,9 @@
 {
-  "quote": "The only place success comes before work is in the dictionary. \u2013 Vince Lombardi",
-  "fact": "Canada makes up 6.67 percent of the Earth`s land area",
-  "crypto": "BTC: $103,512 | ETH: $2,602.29",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
+  "quote": "You will not do incredible things without an incredible dream. \u2013 John Eliot",
+  "fact": "`Obsession` is the most popular boat name.",
+  "crypto": "BTC: $103,495 | ETH: $2,596.52",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads \u201cSmall medium at large.\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Microsoft shares its process (and discarded ideas) for redone Windows 11 Start menu - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/microsoft-shares-its-process-and-discarded-ideas-for-redone-windows-11-start-menu/"
+    },
+    {
+      "title": "Google is testing AI search on its homepage - CNBC",
+      "link": "https://www.cnbc.com/2025/05/13/google-ai-mode-search-home-page.html"
+    },
+    {
+      "title": "'Huge' Number Of People Cancelling DOOM Pre-Orders Over 'Botched Physical Release' - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/05/huge-number-of-people-cancelling-doom-pre-orders-over-botched-physical-release"
+    },
     {
       "title": "Google announces Material 3 Expressive, a colorful evolution of Android design - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/05/google-reveals-vibrant-material-3-expressive-coming-soon-to-a-pixel-near-you/"
@@ -24,12 +36,20 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/"
     },
     {
-      "title": "Google\u2019s bringing Gemini to your car with Android Auto - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/13/googles-bringing-gemini-to-your-car-with-android-auto/"
+      "title": "Google adding UWB for Android trackers \u2018this month,\u2019 luggage and airline integration soon - 9to5Google",
+      "link": "http://9to5google.com/2025/05/13/google-android-tracker-uwb-find-hub-airline-luggage-integration/"
     },
     {
-      "title": "Google adds UWB support to its rebranded Find Hub tracker app - The Verge",
-      "link": "https://www.theverge.com/news/665754/google-uwb-find-hub-rebrand-find-my-device-moto-tag"
+      "title": "Nintendo says its low-balled Switch 2 forecast is about price, not tariffs - Polygon",
+      "link": "https://www.polygon.com/nintendo-switch-2/598877/nintendo-switch-2-forecast-price-not-tariffs"
+    },
+    {
+      "title": "Android launches new protections against phone call scammers - The Verge",
+      "link": "https://www.theverge.com/news/665706/google-phone-call-scam-protection-banking-apps"
+    },
+    {
+      "title": "Google\u2019s bringing Gemini to your car with Android Auto - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/13/googles-bringing-gemini-to-your-car-with-android-auto/"
     },
     {
       "title": "These 26 Absolutely Mind-Blowing Photos Just Completely And Totally Shattered My Entire View Of The World Last Week - BuzzFeed",
@@ -44,106 +64,78 @@
       "link": "https://www.nintendolife.com/news/2025/05/looks-like-bravely-default-on-switch-2-will-still-have-0percent-encounter-toggle"
     },
     {
-      "title": "Microsoft extends Office support on Windows 10 through 2028 - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/05/microsoft-extends-office-support-on-windows-10-through-2028/"
-    },
-    {
       "title": "Universal Music Group and Apple Music announce Sound Therapy - Apple",
       "link": "https://www.apple.com/newsroom/2025/05/universal-music-group-and-apple-music-announce-sound-therapy/"
     },
     {
-      "title": "Switch 2's Price Could Affect \"Early Adoption,\" Nintendo Says - GameSpot",
-      "link": "https://www.gamespot.com/articles/switch-2s-price-could-affect-early-adoption-nintendo-says/1100-6531493/"
-    },
-    {
-      "title": "Magic\u2019s Final Fantasy commander decks are already mostly sold out - Polygon",
-      "link": "https://www.polygon.com/mtg-magic-the-gathering/598769/magic-the-gathering-mtg-final-fantasy-commander-decks-pre-orders"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33's French-inspired setting was originally steampunk London - Eurogamer",
-      "link": "https://www.eurogamer.net/clair-obscur-expedition-33s-french-inspired-setting-was-originally-steampunk-london"
+      "title": "The Best And Wildest Grand Theft Auto 6 Theories We've Seen So Far - GameSpot",
+      "link": "https://www.gamespot.com/gallery/gta-6-fan-theories/2900-6585/"
     },
     {
       "title": "Spotify\u2019s DJ Now Takes Requests, Enhancing Real-Time Music Discovery - Spotify",
       "link": "https://newsroom.spotify.com/2025-05-13/dj-voice-requests/"
     },
     {
-      "title": "Apple Announces New iOS 19 and macOS 16 Accessibility Features Ahead of WWDC - MacRumors",
-      "link": "https://www.macrumors.com/2025/05/13/apple-previews-ios-19-accessibility-features/"
+      "title": "Apple unveils powerful accessibility features coming later this year - Apple",
+      "link": "https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/"
     },
     {
-      "title": "GTA 6 Could be Delayed Again, Claims Industry Insider - Insider Gaming",
-      "link": "https://insider-gaming.com/gta-6-could-be-delayed-again-claims-industry-insider/"
+      "title": "Mavic 4 Pro official: DJI is skipping the US with its most advanced drone yet - The Verge",
+      "link": "https://www.theverge.com/tech/665418/dji-mavic-4-pro-no-us-launch-specs-price-release-date"
     },
     {
-      "title": "I tested DJI's latest flagship drone, and it's straight from the future (with one caveat) - ZDNet",
-      "link": "https://www.zdnet.com/home-and-office/i-tested-djis-latest-flagship-drone-and-its-straight-from-the-future-with-one-caveat/"
-    },
-    {
-      "title": "Remedy opens sign-ups to test Control multiplayer spin-off FBC: Firebreak - Eurogamer",
-      "link": "https://www.eurogamer.net/remedy-opens-sign-ups-to-test-control-multiplayer-spin-off-fbc-firebreak"
+      "title": "Exclusive | Apple to Support Brain-Implant Control of Its Devices - WSJ",
+      "link": "https://www.wsj.com/tech/apple-brain-computer-interface-9ec69919"
     }
   ],
   "sports_news": [
     {
-      "title": "Pete Rose reinstated by MLB and is eligible for Baseball Hall of Fame - NBC News",
-      "link": "https://www.nbcnews.com/sports/mlb/pete-rose-mlb-trump-reinstated-rcna206598"
+      "title": "Pete Rose among players removed from MLB banned list, eligible for Hall of Fame - ABC News",
+      "link": "https://abcnews.go.com/US/pete-rose-players-removed-mlb-banned-list-eligible/story?id\\\\u003d121769871"
     },
     {
-      "title": "Bodycam video shows arrest of former Ohio State wrestler Kyle Snyder during prostitution sting - 10TV",
-      "link": "https://www.10tv.com/article/news/crime/kyle-snyder-arrest-prostitution-sting/530-aeb83002-06e0-4aeb-b47b-1839fbd0d44f"
+      "title": "Boston Celtics star Jayson Tatum has surgery to repair ruptured Achilles tendon - CNN",
+      "link": "https://www.cnn.com/2025/05/13/sport/jayson-tatum-ruptured-achilles-tendon-spt"
     },
     {
-      "title": "Oswaldo Cabrera Suffers Ankle Fracture - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/oswaldo-cabrera-exits-in-ambulance-following-ankle-injury.html"
+      "title": "Column | As the Mavericks go from broke to fortune, the NBA lottery looks sketchy - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/05/13/nba-draft-lottery-dallas-mavericks-suspicion/"
     },
     {
-      "title": "NFL announces Week One Friday night game in Brazil will stream for free on YouTube - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-week-one-friday-night-game-in-brazil-will-stream-for-free-on-youtube"
+      "title": "Oswaldo Cabrera injury update: Yankees infielder hits IL with ankle fracture after leaving game in ambulance - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/oswaldo-cabrera-injury-update-yankees-infielder-hits-il-with-ankle-fracture-after-leaving-game-in-ambulance/"
     },
     {
-      "title": "Paul Allen estate says Trail Blazers officially for sale - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45129528/paul-allen-estate-says-trail-blazers-officially-sale"
+      "title": "Paul Allen\u2019s estate commences efforts to sell Portland Trail Blazers (but not the Seahawks) - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/paul-allens-estate-commences-efforts-to-sell-portland-trail-blazers-but-not-the-seahawks"
+    },
+    {
+      "title": "YouTube Will Livestream NFL 2025 Season Game for Free, a First for the Video Giant - Variety",
+      "link": "https://variety.com/2025/digital/news/youtube-nfl-free-livestream-2025-game-1236395902/"
     },
     {
       "title": "HC accelerator paused; NFL to reimagine program - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45129011/nfl-pauses-coach-accelerator-plans-reimagine-program"
     },
     {
-      "title": "Trey Hendrickson says he won\u2019t play under current contract - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-hendrickson-says-he-wont-play-under-current-contract"
+      "title": "Gold medal wrestler charged in prostitution sting - ESPN",
+      "link": "https://www.espn.com/olympics/story/_/id/45127932/us-gold-medalist-kyle-snyder-charged-prostitution-sting"
     },
     {
       "title": "A 2026 comeback is \"extremely unlikely\" for Derek Carr - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-2026-comeback-is-extremely-unlikely-for-derek-carr"
     },
     {
-      "title": "Jayson Tatum\u2019s injury leaves the Celtics shell-shocked against the Knicks - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/05/13/jayson-tatum-update-injury/"
-    },
-    {
       "title": "Bill Belichick, Jordon Hudson and the making of a PR disaster - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/05/13/bill-belichick-girlfriend-jordon-hudson/"
     },
     {
-      "title": "Preakness 150: Changing Dates of Middle Jewel - BloodHorse",
-      "link": "https://www.bloodhorse.com/horse-racing/articles/284489/preakness-150-changing-dates-of-middle-jewel"
-    },
-    {
-      "title": "Shedeur Sanders breaks silence on Browns\u2019 quarterback battle - New York Post",
-      "link": "https://nypost.com/2025/05/13/sports/shedeur-sanders-breaks-silence-on-browns-quarterback-battle/"
-    },
-    {
-      "title": "National League quarter-mark grades: Mets, Dodgers, Cubs and more score an 'A' while Rockies plumb new depths - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/national-league-quarter-mark-grades-mets-dodgers-cubs-and-more-score-an-a-while-rockies-plumb-new-depths/"
+      "title": "Pacers vs. Cavaliers has shown there is one big difference between the two teams - SBNation.com",
+      "link": "https://www.sbnation.com/nba/2025/5/13/24428984/cavaliers-vs-pacers-nba-playoffs-2025"
     },
     {
       "title": "Month of May: Kyle Larson\u2019s on-track schedule as he attempts The Double - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/05/13/month-of-may-kyle-larsons-on-track-schedule-as-he-attempts-the-double/"
-    },
-    {
-      "title": "One big takeaway for all 32 NFL teams after the 2025 NFL draft - PFF",
-      "link": "https://www.pff.com/news/nfl-one-big-takeaway-for-all-32-nfl-teams-after-the-2025-nfl-draft"
     },
     {
       "title": "Washington Commanders selected to play the Miami Dolphins in Madrid, Spain - Washington Commanders",
@@ -158,12 +150,12 @@
       "link": "https://www.nfl.com/news/2025-nfl-schedule-release-international-games-nfl-network"
     },
     {
-      "title": "NBA mock trades: Five possible post-Lottery deals, as Giannis, KD move for top picks, another Lakers-Mavs swap - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/nba-mock-trades-five-possible-post-lottery-deals-as-giannis-kd-move-for-top-picks-another-lakers-mavs-swap/"
+      "title": "Scoggins: Edwards got that look in those eyes, and the Warriors were doomed - Star Tribune",
+      "link": "https://www.startribune.com/minnesota-timberwolves-anthony-edwards-golden-state-warriors-game-4-western-conference-semifinals/601345209"
     },
     {
-      "title": "Packers to host Philadelphia on Monday Night Football in Week 10 - Green Bay Packers",
-      "link": "https://www.packers.com/news/packers-to-host-philadelphia-on-monday-night-football-in-week-10-2025"
+      "title": "Walker, Svechnikov score late as Hurricanes push Capitals to brink of elimination in 5-2 win - WRALSportsFan.com",
+      "link": "https://www.wralsportsfan.com/walker-svechnikov-score-late-as-hurricanes-push-capitals-to-brink-of-elimination-in-5-2-win/22004093/"
     }
   ],
   "weather": {
