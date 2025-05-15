@@ -1,9 +1,9 @@
 {
-  "quote": "There are people who have money and people who are rich. \u2013 Coco Chanel",
-  "fact": "Venus is the only planet that rotates clockwise.",
-  "crypto": "BTC: $103,319 | ETH: $2,532.71",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Scientists finally did a study on forks. It's about tine!",
+  "quote": "Things do not have meaning. We assign meaning to everything. \u2013 Tony Robbins",
+  "fact": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers. \u00a0",
+  "crypto": "BTC: $103,230 | ETH: $2,533.28",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why do fish live in salt water? Because pepper makes them sneeze!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,52 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google DeepMind creates super-advanced AI that can invent new algorithms - Ars Technica",
+      "link": "https://arstechnica.com/ai/2025/05/google-deepmind-creates-super-advanced-ai-that-can-invent-new-algorithms/"
+    },
+    {
+      "title": "Material 3 Expressive drops nav drawers on phones as short bottom bars return - 9to5Google",
+      "link": "http://9to5google.com/2025/05/14/material-3-expressive-navigation/"
+    },
+    {
+      "title": "Microsoft starts testing \u2018Hey, Copilot!\u2019 in Windows - The Verge",
+      "link": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation"
+    },
+    {
       "title": "12 Games Are Coming To PS Plus Game Catalog Next Week - Kotaku",
       "link": "https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673"
     },
     {
-      "title": "Square Enix cancels Kingdom Hearts mobile game - The Verge",
-      "link": "https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled"
+      "title": "New Switch 2 specs show large performance dip in undocked mode - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/05/new-switch-2-specs-show-large-performance-dip-in-undocked-mode/"
     },
     {
-      "title": "DeepMind claims its newest AI tool is a whiz at math and science problems - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/14/deepmind-claims-its-newest-ai-tool-is-a-whiz-at-math-and-science-problems/"
+      "title": "Apple Readies Feature That Lets Vision Pro Users Scroll With Their Eyes - Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2025-05-14/apple-readies-feature-that-lets-vision-pro-users-scroll-with-their-eyes"
+    },
+    {
+      "title": "Android Auto prepares media player change that might ruin your muscle memory - 9to5Google",
+      "link": "http://9to5google.com/2025/05/14/android-auto-media-player-buttons-beta-change/"
+    },
+    {
+      "title": "Android 16's new 90:10 split-screen is a game-changer for multitasking - Android Authority",
+      "link": "https://www.androidauthority.com/android-16-90-10-split-screen-3557268/"
     },
     {
       "title": "89 million Steam accounts reportedly leaked. Change your password now. - Mashable",
       "link": "https://mashable.com/article/89-million-steam-accounts-leaked-change-your-password"
     },
     {
-      "title": "Google\u2019s Gemini chatbot can now more easily analyze GitHub projects - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/14/googles-gemini-chatbot-can-now-more-easily-analyze-github-projects/"
+      "title": "Windows 10 and Microsoft 365 support deadlines didn't change - why this story just won't die - ZDNet",
+      "link": "https://www.zdnet.com/article/windows-10-and-microsoft-365-support-deadlines-didnt-change-why-this-story-just-wont-die/"
     },
     {
-      "title": "Nintendo Switch 2: final tech specs and system reservations confirmed - Eurogamer",
-      "link": "https://www.eurogamer.net/digitalfoundry-2025-nintendo-switch-2-final-tech-specs-and-system-reservations-confirmed"
-    },
-    {
-      "title": "With FBC: Firebreak, Remedy wants to tell a different kind of story - The Verge",
-      "link": "https://www.theverge.com/games/665752/fbc-firebreak-preview-interview-remedy-control-ps5-xbox"
+      "title": "Final Fantasy Maker Cancels Kingdom Hearts Spin-Off As It Focuses On 'Quality Over Quantity' - Kotaku",
+      "link": "https://kotaku.com/kingdom-hearts-missing-link-dq12-fft-square-enix-1851780603"
     },
     {
       "title": "Intel May Introduce The Arc \u201cB770\u201d Battlemage GPU At Computex Alongside Newer Pro Arc GPUs - Wccftech",
       "link": "https://wccftech.com/intel-may-introduce-the-arc-b770-battlemage-gpu-at-computex-alongside-newer-pro-arc-gpus/"
     },
     {
-      "title": "Minecraft is finally getting craftable saddles after a 15 year wait - Eurogamer",
-      "link": "https://www.eurogamer.net/minecraft-is-finally-getting-craftable-saddles-after-a-15-year-wait"
-    },
-    {
-      "title": "iPhone 18 Pro with in-display Face ID now looks very likely - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/14/iphone-18-pro-with-in-display-face-id-now-looks-very-likely/"
-    },
-    {
-      "title": "Here's how Google Circle to Search could be coming to Gemini (APK teardown) - Android Authority",
-      "link": "https://www.androidauthority.com/gemini-circle-screen-3557330/"
-    },
-    {
-      "title": "Say hello to the WiiM AMP Ultra, Sound & Sub Pro - Darko.Audio",
-      "link": "https://darko.audio/2025/05/say-hello-to-the-wiim-amp-ultra-sound-sub-pro/"
+      "title": "Helldivers 2 PlayStation Leak Suggests Players Will Fight Against the Illuminate on Super Earth Itself Next Week \u2014 and Now Gameplay of Super Earth Mega Cities Has Leaked, Too - IGN Southeast Asia",
+      "link": "https://sea.ign.com/helldivers-ii/227654/news/helldivers-2-playstation-leak-suggests-players-will-fight-against-the-illuminate-on-super-earth-itse"
     },
     {
       "title": "GTA 6 map comparison leaves fans absolutely floored - GAMINGbible",
@@ -72,102 +76,94 @@
       "link": "https://nintendoeverything.com/hogwarts-legacy-nintendo-switch-1-vs-switch-2-comparison-trailer/"
     },
     {
-      "title": "Google cleaning up the Gemini model picker - 9to5Google",
-      "link": "http://9to5google.com/2025/05/13/gemini-model-picker/"
-    },
-    {
       "title": "TikTok\u2019s newest AI filter turns your photos into videos - 9to5Mac",
       "link": "https://9to5mac.com/2025/05/13/tiktok-ai-alive-filter-turns-photos-into-videos/"
     },
     {
-      "title": "Microsoft shares its process (and discarded ideas) for redone Windows 11 Start menu - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/05/microsoft-shares-its-process-and-discarded-ideas-for-redone-windows-11-start-menu/"
+      "title": "DJI said Mavic 4 Pro wouldn\u2019t launch in US but these stores are selling it anyhow - The Verge",
+      "link": "https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo"
     },
     {
-      "title": "Google Pixel 9a gets stern \"do not buy\" warning as teardown reveals questionable design - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Google-Pixel-9a-gets-stern-do-not-buy-warning-as-teardown-reveals-questionable-design.1015554.0.html"
+      "title": "It took 15 YEARS for Minecraft to let us craft this item, but it's finally coming (plus new music and more) - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/minecraft/it-took-15-years-for-minecraft-to-let-us-craft-this-item-but-its-finally-coming-plus-new-music-and-more"
+    },
+    {
+      "title": "'Huge' Number Of People Cancelling DOOM Pre-Orders Over 'Botched Physical Release' - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/05/huge-number-of-people-cancelling-doom-pre-orders-over-botched-physical-release"
     }
   ],
   "sports_news": [
     {
-      "title": "2025 Preakness Stakes horses, odds, futures, date, preview: Expert who nailed 10 of 20 winners releases picks - CBS Sports",
-      "link": "https://www.cbssports.com/general/news/2025-preakness-stakes-horses-odds-futures-date-preview-expert-who-nailed-10-of-20-winners-releases-picks/"
+      "title": "NWSL players call for changes after King collapse - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/45148297/nwsl-players-association-savy-king-angel-city-collapse"
     },
     {
-      "title": "RB Henry agrees to $30M extension with Ravens - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45146544/rb-derrick-henry-agrees-two-year-30m-extension-ravens"
+      "title": "Cowboys-Commanders, Lions-Vikings round out Christmas schedule - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-commanders-lions-vikings-round-out-christmas-schedule"
+    },
+    {
+      "title": "Flyers Name Rick Tocchet Head Coach - NHL.com",
+      "link": "https://www.nhl.com/flyers/news/flyers-name-rick-tocchet-head-coach-x5489"
+    },
+    {
+      "title": "Cooper Flagg on heading to Mavericks as top pick in NBA Draft: 'I think it would be a really cool opportunity' - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/cooper-flagg-on-heading-to-mavericks-as-top-pick-in-nba-draft-i-think-it-would-be-a-really-cool-opportunity/"
+    },
+    {
+      "title": "LA Kings Name Ken Holland Vice President and General Manager - NHL.com",
+      "link": "https://www.nhl.com/kings/news/la-kings-name-ken-holland-vice-president-general-manager"
+    },
+    {
+      "title": "Dodgers To Promote Dalton Rushing - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/dodgers-to-promote-dalton-rushing.html"
+    },
+    {
+      "title": "2025 World Team Trials Seeds - Men's Freestyle - FloWrestling",
+      "link": "https://www.flowrestling.org/articles/14208761-2025-world-team-trials-seeds-mens-freestyle"
+    },
+    {
+      "title": "Derrick Henry, Ravens agree to two-year extension - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-ravens-agree-to-two-year-extension"
+    },
+    {
+      "title": "Agent's Take: The economic ramifications of Saints' Derek Carr's retirement - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/agents-take-the-economic-ramifications-of-saints-derek-carrs-retirement/"
+    },
+    {
+      "title": "How Celtics\u2019 Wyc Grousbeck Reacted To Jayson Tatum\u2019s Injury - NESN",
+      "link": "https://nesn.com/2025/05/how-celtics-wyc-grousbeck-reacted-to-jayson-tatum-injury/"
+    },
+    {
+      "title": "VANCOUVER CANUCKS NAME ADAM FOOTE 22ND HEAD COACH IN FRANCHISE HISTORY - NHL.com",
+      "link": "https://www.nhl.com/canucks/news/vancouver-canucks-name-adam-foote-22nd-head-coach-in-franchise-history"
     },
     {
       "title": "Report: Jets will host the Steelers (and presumably Aaron Rodgers) in Week 1 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jets-will-host-the-steelers-and-presumably-aaron-rodgers-in-week-1"
     },
     {
+      "title": "Donovan Mitchell Says He Hasn't Slept Since Cavs' NBA Playoff Exit, Watched Game Twice - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25195745-donovan-mitchell-says-he-hasnt-slept-cavs-nba-playoff-exit-watched-game-twice"
+    },
+    {
       "title": "2025 NFL schedule release live updates: Thanksgiving, Christmas, international games and more ahead of full announcement - Yahoo Sports",
       "link": "https://sports.yahoo.com/nfl/live/2025-nfl-schedule-release-live-updates-thanksgiving-christmas-international-games-and-more-ahead-of-full-announcement-120139601.html"
     },
     {
+      "title": "Seahawks schedule for 2025 starts to leak - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-schedule-for-2025-starts-to-leak/"
+    },
+    {
+      "title": "First look emerges of Nicholas Cage as John Madden (and Chrisian Bale as Al Davis) - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/first-look-emerges-of-nicholas-cage-as-john-madden-and-chrisian-bale-as-al-davis"
+    },
+    {
+      "title": "\u2018Paper champion\u2019: Fans react to Ilia Topuria fighting Charles Oliveira for vacant lightweight title at UFC 317 - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/14/24430064/paper-champion-fans-react-to-ilia-topuria-charles-oliveira-for-vacant-lightweight-title-at-ufc-317"
+    },
+    {
       "title": "Mariners Place Bryce Miller On IL With Elbow Inflammation - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/05/mariners-place-bryce-miller-on-il-with-elbow-inflammation.html"
-    },
-    {
-      "title": "Knicks vs. Celtics odds, prediction, start time: 2025 NBA playoff picks, Game 5 best bets by proven model - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/knicks-vs-celtics-odds-prediction-start-time-2025-nba-playoff-picks-game-5-best-bets-by-proven-model/"
-    },
-    {
-      "title": "2025 NBA Mock Draft: Ace Bailey falls to Jazz at No. 5, Cooper Flagg is top pick after Mavericks win lottery - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/2025-nba-mock-draft-ace-bailey-falls-to-jazz-at-no-5-cooper-flagg-is-top-pick-after-mavericks-win-lottery/"
-    },
-    {
-      "title": "In the text exchange between Trey Hendrickson and Zac Taylor, context becomes critical - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-the-text-exchange-between-trey-hendrickson-and-zac-taylor-context-becomes-critical"
-    },
-    {
-      "title": "Matt Carpenter Announces Retirement - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/matt-carpenter-announces-retirement.html"
-    },
-    {
-      "title": "Hollywood A-listers unrecognizable as they transform into famous NFLers for new movie - New York Post",
-      "link": "https://nypost.com/2025/05/14/entertainment/nicolas-cage-christian-bale-are-unrecognizable-in-madden-photo/"
-    },
-    {
-      "title": "Nation\u2019s top prospect calls out recruiting reporter over \u2018false narrative\u2019 - Awful Announcing",
-      "link": "https://awfulannouncing.com/college-football/jackson-cantwell-calls-out-recruiting-reporter.html"
-    },
-    {
-      "title": "NASCAR Cup Series qualifying order for All-Star Race - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/05/14/nascar-cup-series-qualifying-order-for-all-star-race/"
-    },
-    {
-      "title": "Chiefs-Cowboys on Thanksgiving will likely set a regular-season record - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-cowboys-on-thanksgiving-will-likely-set-a-regular-season-record"
-    },
-    {
-      "title": "Dak Prescott on George Pickens: I\u2019m excited, we needed help at that position - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-on-george-pickens-im-excited-we-needed-help-at-that-position"
-    },
-    {
-      "title": "Tracking Bill Belichick through Amelia Island: With Jordon Hudson offstage, UNC coach refocuses on football - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/tracking-bill-belichick-through-amelia-island-with-jordon-hudson-offstage-unc-coach-refocuses-on-football/"
-    },
-    {
-      "title": "WATCH: Bodycam footage of Ohio State Women's Basketball Coach Kevin McGuff's OVI arrest - Women's HoopDirt",
-      "link": "https://whoopdirt.com/watch-bodycam-footage-of-ohio-state-womens-basketball-coach-kevin-mcguffs-ovi-arrest/"
-    },
-    {
-      "title": "Missouri renews efforts to keep Chiefs from moving to Kansas - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-renews-efforts-to-keep-chiefs-from-moving-to-kansas"
-    },
-    {
-      "title": "What is the weather forecast for the 2025 Emilia-Romagna GP? - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2025-emilia-romagna-grand-prix.1Jv8wWRNSE4erxEItNUxay"
-    },
-    {
-      "title": "FIA announces major improvements to Appendix B of the International Sporting Code - Federation Internationale de l'Automobile",
-      "link": "https://www.fia.com/news/fia-announces-major-improvements-appendix-b-international-sporting-code"
-    },
-    {
-      "title": "Braves Minor League Recap: Ronald Acuna Jr. returns with a bang - Battery Power",
-      "link": "https://www.batterypower.com/2025/5/14/24429835/atlanta-braves-minor-league-recap-ronald-acuna-jr-returns-with-a-bang-garrett-baumann-david-mccabe"
     }
   ],
   "weather": {
