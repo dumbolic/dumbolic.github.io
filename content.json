@@ -1,9 +1,9 @@
 {
-  "quote": "Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. \u2013 Steve Harvey",
-  "fact": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-  "crypto": "BTC: $104,008 | ETH: $2,579.86",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+  "quote": "If you try, you might get exactly what you want. If you don't, you don't. \u2013 Unknown",
+  "fact": "3.6 cans of Spam are consumed each second.",
+  "crypto": "BTC: $104,124 | ETH: $2,584.46",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Free-to-play MMORRPG Blue Protocol: Star Resonance coming west in 2025 - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/free-to-play-mmorrpg-blue-protocol-star-resonance-coming-west-in-2025"
+      "title": "Garmin announces new Forerunner watches with splashy colors and running metrics - The Verge",
+      "link": "https://www.theverge.com/hands-on/667677/garmin-forerunner-970-and-570-specs-price-battery"
     },
     {
-      "title": "Engage in Disruption to Earn Double on All FIB Files Finales - Rockstar Games",
-      "link": "https://www.rockstargames.com/newswire/article/513kkkk323kkk7/engage-in-disruption-to-earn-double-on-all-fib-files-finales"
+      "title": "Google rolls out new AI and accessibility features to Android and Chrome - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/"
+    },
+    {
+      "title": "Gacha Spin-Off Persona 5: The Phantom X Skips PS5 for Worldwide Launch - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/05/gacha-spin-off-persona-5-the-phantom-x-skips-ps5-for-worldwide-launch"
+    },
+    {
+      "title": "Stellar Blade launches June 11 on PC, specs and features revealed - PlayStation.Blog",
+      "link": "https://blog.playstation.com/2025/05/15/stellar-blade-launches-june-11-on-pc-specs-and-features-revealed/"
     },
     {
       "title": "Baldur's Gate 3 Minis From WizKids Are Here, and They Aren't Leaving the Best Impression - IGN",
       "link": "https://www.ign.com/articles/baldurs-gate-3-minis-from-wizkids-are-here-and-they-arent-leaving-the-best-impression"
     },
     {
-      "title": "Samsung reportedly adopting new battery tech, just not the one you were hoping - 9to5Google",
-      "link": "http://9to5google.com/2025/05/15/samsung-new-battery-tech-report/"
+      "title": "\u2018Helldivers 2\u2019 Studio\u2019s Next Game Will Be Free From PlayStation Partnership - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/05/15/helldivers-2-studios-next-game-will-be-free-from-playstation-partnership/"
     },
     {
       "title": "Hunger Is a Multiplayer First-Person RPG That Uses an Extraction Loop but Isn\u2019t Defined by It - IGN",
       "link": "https://www.ign.com/articles/hunger-is-a-multiplayer-first-person-rpg-that-uses-an-extraction-loop-but-isnt-defined-by-it"
     },
     {
-      "title": "Persona 5: The Phantom X unmasks a global release date - Polygon",
-      "link": "https://www.polygon.com/gaming/599137/persona-5-the-phantom-x-gacha-announcement"
+      "title": "Huawei\u2019s latest watch has a snazzy new fingertip sensor - The Verge",
+      "link": "https://www.theverge.com/news/667128/huawei-watch-5-news-price-specs"
     },
     {
       "title": "Don't Expect Many Switch 2 Reviews At Launch - Kotaku",
@@ -44,7 +52,11 @@
       "link": "https://9to5mac.com/2025/05/15/another-iphone-fold-leak-says-camera-hole-punch-is-coming/"
     },
     {
-      "title": "Steam Says There's No Need to Change Your Password After Data Breach. But Set Up This Safety Feature Anyway - CNET",
+      "title": "Zacian and Zamazenta Debut at Pok\u00e9mon GO Fest With Crowned Sword & Crown Shield Energy - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/news/zacian-and-zamazenta-debut-at-pokemon-go-fest-with-crowned-sword-crown-shield-energy/"
+    },
+    {
+      "title": "Update: Steam Says There's No Need to Change Your Password After Data Breach. But Set Up This Safety Feature Anyway - CNET",
       "link": "https://www.cnet.com/tech/services-and-software/steam-says-theres-no-need-to-change-your-password-after-data-breach-but-set-up-this-safety-feature-anyways/"
     },
     {
@@ -60,42 +72,58 @@
       "link": "https://www.eurogamer.net/surprise-mortal-kombat-1-definitive-edition-has-fans-thinking-warner-bros-has-quietly-wrapped-up-development"
     },
     {
+      "title": "Got a Samsung phone? Get these 5 Samsung apps because they're not installed by default - Android Authority",
+      "link": "https://www.androidauthority.com/5-samsung-apps-you-should-use-3555236/"
+    },
+    {
       "title": "OpenAI\u2019s flagship GPT-4.1 model is now in ChatGPT - The Verge",
       "link": "https://www.theverge.com/news/667507/openai-chatgpt-gpt-4-1-ai-model-general-availability"
     },
     {
-      "title": "Garmin Forerunner 570: Major leaks reveal picture, pricing and specs for cheaper Forerunner 970 alternative ahead of schedule - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Garmin-Forerunner-570-Major-leaks-reveal-picture-pricing-and-specs-for-cheaper-Forerunner-970-alternative-ahead-of-schedule.1016749.0.html"
+      "title": "Apple Music tool to import playlists from Spotify and more looks to be rolling out - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/15/apple-music-tool-to-import-playlists-from-spotify-and-more-looks-to-be-rolling-out/"
     },
     {
       "title": "Test Death Stranding 2 reviews are scoring far higher than the original, claims Kojima - Video Games Chronicle",
       "link": "https://www.videogameschronicle.com/news/test-death-stranding-2-reviews/"
-    },
-    {
-      "title": "Windows Is Under Attack, Microsoft Confirms \u2014 Act Now, CISA Warns - Forbes",
-      "link": "https://www.forbes.com/sites/daveywinder/2025/05/15/microsoft-confirms-windows-is-under-attack---you-must-act-now/"
-    },
-    {
-      "title": "PS5 welcomes free new-gen upgrade, no PS Plus needed - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/playstation/ps5-free-new-gen-upgrade-no-ps-plus-080699-20250515"
-    },
-    {
-      "title": "They Paid $3,500 for Apple\u2019s Vision Pro. A Year Later, It Still Hurts. - WSJ",
-      "link": "https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341"
-    },
-    {
-      "title": "The 'End of 10' is nigh, but don't bury your PC just yet - theregister.com",
-      "link": "https://www.theregister.com/2025/05/15/end_of_10_campaign/"
-    },
-    {
-      "title": "First look at Kingdom Hearts 4 in three years suggests Mickey Mouse is playable - Eurogamer",
-      "link": "https://www.eurogamer.net/first-look-at-kingdom-hearts-4-in-three-years-suggests-mickey-mouse-is-playable"
     }
   ],
   "sports_news": [
     {
-      "title": "Colts apologize to Fins' Hill for now-deleted video - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45161707/colts-apologize-tyreek-hill-microsoft-now-deleted-video"
+      "title": "Caleb Williams wanted to spurn the Bears, join the Vikings - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-wanted-to-spurn-the-bears-join-the-vikings"
+    },
+    {
+      "title": "Seven top potential Giannis Antetokounmpo landing spots in a trade - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/seven-top-potential-giannis-antetokounmpo-landing-spots-in-a-trade"
+    },
+    {
+      "title": "NFL, Chiefs embrace K.C. overload - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-chiefs-embrace-k-c-overload"
+    },
+    {
+      "title": "Tyreek Hill laughs off Colts schedule-release video - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-laughs-off-colts-schedule-release-video"
+    },
+    {
+      "title": "Unsweet 16: World's top 3 golfers make mess of 16th hole at PGA Championship, taking double bogey - AP News",
+      "link": "https://apnews.com/article/pga-championship-mcilroy-scheffler-schauffele-double-bogey-4412a354492695646e66e12732606899"
+    },
+    {
+      "title": "Eagles News: Philadelphia has one of the toughest schedules in the NFL - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/2025/5/15/24430893/eagles-news-philadelphia-toughest-schedules-nfl-ranking-football-2025-season-analysis-difficult"
+    },
+    {
+      "title": "F1 2025's other dropped driver on Doohan's exit - The Race",
+      "link": "https://www.the-race.com/formula-1/jack-doohan-alpine-f1-exit-2025-other-dropped-driver-lawson-plus-ocon-react/"
+    },
+    {
+      "title": "Toronto Once Again Wins The Stanley Cup Of Angst - Defector",
+      "link": "https://defector.com/toronto-once-again-wins-the-stanley-cup-of-angst"
+    },
+    {
+      "title": "Inter Miami CF Signs Jordi Alba to Contract Extension - intermiamicf",
+      "link": "https://www.intermiamicf.com/news/inter-miami-cf-signs-jordi-alba-to-contract-extension"
     },
     {
       "title": "Jayson Tatum Asked Father This Heart-Wrenching Question After Injury - NESN",
@@ -106,8 +134,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/week-16-schedule-contains-odd-glitch-for-the-saturday-games"
     },
     {
-      "title": "2025 PGA Championship leaderboard: Live coverage, scoreboard updates, golf scores today in Round 1 - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/2025-pga-championship-leaderboard-live-coverage-scoreboard-updates-golf-scores-today-in-round-1/live/"
+      "title": "2025 NFL schedule: Which team has the hardest game lineup? - New York Post",
+      "link": "https://nypost.com/2025/05/15/sports/2025-nfl-schedule-which-team-has-the-hardest-game-lineup/"
+    },
+    {
+      "title": "NFL schedule 2025: Ranking every Week 1 game, including Cowboys vs. Eagles in season opener - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-schedule-2025-ranking-every-week-1-game-including-cowboys-vs-eagles-in-season-opener/"
     },
     {
       "title": "Titans, Saints, Browns have no primetime games scheduled in 2025 - NBC Sports",
@@ -118,52 +150,24 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-get-only-one-prime-time-game-in-year-five-of-the-trevor-lawrence-era"
     },
     {
-      "title": "University of Maryland Names James E. Smith as Athletic Director - University of Maryland Athletics",
-      "link": "https://umterps.com/news/2025/5/15/terrapin-athletics-university-of-maryland-names-james-e-smith-as-athletic-director.aspx"
-    },
-    {
       "title": "Pundits Predict Ravens\u2019 2025 Record Following Schedule Release | Late for Work - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/ravens-2025-schedule-release-derrick-henry-contract-extension-running-backs-tight-ends"
+    },
+    {
+      "title": "Maryland hiring Jim Smith as next AD: School taps Atlanta Braves executive to replace Damon Evans - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/maryland-hiring-jim-smith-as-next-ad-school-taps-atlanta-braves-executive-to-replace-damon-evans/"
+    },
+    {
+      "title": "49ers news: The 49ers rest differential is favorable in 2025 - Niners Nation",
+      "link": "https://www.ninersnation.com/2025/5/15/24430625/the-49ers-rest-differential-is-favorable-in-2025-nfl-schedule-release"
     },
     {
       "title": "There\u2019s Much More to the Fever Than the Caitlin Clark Show - Sports Illustrated",
       "link": "https://www.si.com/wnba/theres-much-more-to-fever-than-caitlin-clark"
     },
     {
-      "title": "What Jayson Tatum Told Celtics Before Game 5 Win Over Knicks - NESN",
-      "link": "https://nesn.com/2025/05/what-jayson-tatum-told-celtics-before-game-5-win-over-knicks/"
-    },
-    {
-      "title": "Will the 2025 NBA Draft Be Top-Heavy With Trades? - The Ringer",
-      "link": "https://www.theringer.com/2025/05/15/nba/nba-draft-2025-trade-rumors-mavericks-spurs-sixers"
-    },
-    {
-      "title": "Detroit Lions get schedule advantage in own AND opponents\u2019 bye week - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/5/15/24430623/detroit-lions-get-schedule-advantage-in-own-and-opponents-bye-week"
-    },
-    {
-      "title": "10 fun facts about the Patriots\u2019 2025 schedule - Pats Pulpit",
-      "link": "https://www.patspulpit.com/2025/5/15/24430431/patriots-2025-schedule-fun-facts"
-    },
-    {
-      "title": "Minnesota Timberwolves eliminate Steph Curry-less Golden State Warriors to reach Western Conference Finals - CNN",
-      "link": "https://www.cnn.com/2025/05/15/sport/minnesota-timberwolves-golden-state-warriors-game-5-spt"
-    },
-    {
-      "title": "100 days until Week 0: Top storylines, games and predictions for the 2025 season - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/44902696/2025-100-days-college-football-season-players-coaches-games"
-    },
-    {
-      "title": "NFL VP Mike North: If we knew Aaron Rodgers will play, Week 1 probably a national TV game - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-vp-mike-north-if-we-knew-aaron-rodgers-will-play-week-1-probably-a-national-tv-game"
-    },
-    {
-      "title": "First Call: Art Rooney II's lone schedule complaint; NFL scheduling exec denies knowledge about Aaron Rodgers - TribLIVE.com",
-      "link": "https://triblive.com/sports/first-call-art-rooney-iis-lone-schedule-complaint-nfl-scheduling-exec-denies-knowledge-about-aaron-rodgers/"
-    },
-    {
-      "title": "Giants news, 5/15: 2025 schedule released, Jameis Winston, Tae Banks, more - Big Blue View",
-      "link": "https://www.bigblueview.com/2025/5/15/24430484/giants-rumors-news-5-15-2025-schedule-released-jameis-winston-tae-banks-more"
+      "title": "Drum roll, please. And the Patriots 2025 record will be ... | Karen Guregian - MassLive",
+      "link": "https://www.masslive.com/patriots/2025/05/drum-roll-please-and-the-patriots-2025-record-will-be-karen-guregian.html"
     }
   ],
   "weather": {
