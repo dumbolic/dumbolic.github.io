@@ -1,9 +1,9 @@
 {
-  "quote": "High thoughts must have high language. \u2013 Aristophanes",
-  "fact": "One-fourth of the world`s population lives on less than $200 a year.\u00a0 Ninety million people survive on less than $75 a year.",
-  "crypto": "BTC: $103,305 | ETH: $2,571.19",
+  "quote": "Be a good animal, true to your instincts. \u2013 D. H. Lawrence",
+  "fact": "There are 293 ways to make change for a dollar.",
+  "crypto": "BTC: $103,556 | ETH: $2,590.52",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call corn that joins the army? Kernel.",
+  "joke": "What did the 0 say to the 8? Nice belt.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,94 +12,90 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "First look at Kingdom Hearts 4 in three years suggests Mickey Mouse is playable - Eurogamer",
+      "link": "https://www.eurogamer.net/first-look-at-kingdom-hearts-4-in-three-years-suggests-mickey-mouse-is-playable"
+    },
+    {
+      "title": "Apple Vision Pro Price Guessed Incorrectly Multiple Times On \u2018The Price Is Right\u2019 Show For The 256GB Version, Despite The Headset Garnering Massive Attention Worldwide - Wccftech",
+      "link": "https://wccftech.com/apple-vision-pro-price-guessed-incorrectly-on-the-price-is-right-show/"
+    },
+    {
       "title": "Material 3 Expressive is already making its way to Wear OS Tiles - 9to5Google",
       "link": "http://9to5google.com/2025/05/14/material-3-expressive-wear-os-tiles/"
+    },
+    {
+      "title": "Mortal Kombat 1 Looks To Be Winding Down Support With The 'Definitive Edition' - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/05/mortal-kombat-1-looks-to-be-winding-down-support-with-the-definitive-edition"
+    },
+    {
+      "title": "Apple Intelligence: Three features Apple needs to copy from the competition - 9to5Mac",
+      "link": "https://9to5mac.com/ai-features-apple-needs-to-adopt/"
     },
     {
       "title": "The latest Apple Maps update will bring out your bougie side - TechCrunch",
       "link": "https://techcrunch.com/2025/05/14/the-latest-apple-maps-update-will-bring-out-your-bougie-side/"
     },
     {
+      "title": "2025 MacBook Air Is Now Cheaper Than 2020 Model, Amazon Slashes Prices Like Never Before - Gizmodo",
+      "link": "https://gizmodo.com/2025-macbook-air-is-now-cheaper-than-2020-model-amazon-slashes-prices-like-never-before-2000602421"
+    },
+    {
       "title": "New 2025 iPad Now Costs Less Than AirPods Pro, Amazon Clears Out Stock - Gizmodo",
       "link": "https://gizmodo.com/new-2025-ipad-now-costs-less-than-airpods-pro-amazon-clears-out-stock-2000602403"
+    },
+    {
+      "title": "Epic Resubmits Fortnite to U.S. App Store After Not Hearing From Apple for 120+ Hours - MacRumors",
+      "link": "https://www.macrumors.com/2025/05/14/epic-resubmits-fortnite-to-app-store/"
     },
     {
       "title": "Microsoft starts testing \u2018Hey, Copilot!\u2019 in Windows - The Verge",
       "link": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation"
     },
     {
-      "title": "The frontier: A trading algorithm that writes itself and evolves - Forexlive",
-      "link": "https://www.forexlive.com/news/the-frontier-a-trading-algorithm-that-writes-itself-and-evolves-20250514/"
+      "title": "If You Liked Clair Obscur: Expedition 33, Play These Games Next - Game Informer",
+      "link": "https://gameinformer.com/2025/05/14/if-you-liked-clair-obscur-expedition-33-play-these-games-next"
+    },
+    {
+      "title": "Valve takes another step toward making SteamOS a true Windows competitor - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/05/valve-adds-steamos-compatible-game-label-as-it-prepares-to-expand-beyond-steam-deck/"
     },
     {
       "title": "89 Million Steam Accounts Allegedly Compromised in a Data Breach. Our Advice: Change Your Password Now - CNET",
       "link": "https://www.cnet.com/tech/services-and-software/89-million-steam-accounts-allegedly-compromised-in-a-data-breach-our-advice-change-your-password-now/"
     },
     {
-      "title": "12 Games Are Coming To PS Plus Game Catalog Next Week - Kotaku",
-      "link": "https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673"
+      "title": "Mouth Tape, Beauty Salt and Meat Bowls: Inside the Skinny Confidential\u2019s Wellness Empire - WSJ",
+      "link": "https://www.wsj.com/style/fashion/skinny-confidential-lauryn-bosstick-michael-him-and-her-podcast-02bfaf00"
     },
     {
       "title": "New Switch 2 specs show large performance dip in undocked mode - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/05/new-switch-2-specs-show-large-performance-dip-in-undocked-mode/"
     },
     {
-      "title": "Square Enix cancels Kingdom Hearts mobile game - The Verge",
-      "link": "https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled"
+      "title": "Android 16's new 90:10 split-screen is a game-changer for multitasking - Android Authority",
+      "link": "https://www.androidauthority.com/android-16-90-10-split-screen-3557268/"
     },
     {
       "title": "I Just Murdered A Very Rare, Near-Worthless Keyboard And I Might Have To Stop Playing PC Games Forever - Kotaku",
       "link": "https://kotaku.com/mechanical-keyboard-microsoft-squidgy-keys-1851780616"
     },
     {
-      "title": "Windows 10 and Microsoft 365 support deadlines didn't change - why this story just won't die - ZDNet",
-      "link": "https://www.zdnet.com/article/windows-10-and-microsoft-365-support-deadlines-didnt-change-why-this-story-just-wont-die/"
-    },
-    {
-      "title": "'FOMO Has Infected Modern Games,' Says Remedy Director of FBC: Firebreak - IGN",
-      "link": "https://www.ign.com/articles/fomo-has-infected-modern-games-says-remedy-director-of-fbc-firebreak"
-    },
-    {
-      "title": "Helldivers 2 PlayStation Leak Suggests Players Will Fight Against the Illuminate on Super Earth Itself Next Week \u2014 and Now Gameplay of Super Earth Mega Cities Has Leaked, Too - IGN Southeast Asia",
-      "link": "https://sea.ign.com/helldivers-ii/227654/news/helldivers-2-playstation-leak-suggests-players-will-fight-against-the-illuminate-on-super-earth-itse"
-    },
-    {
-      "title": "Samsung makes fun of heavy iPhones in new Galaxy S25 Edge ad - SamMobile",
-      "link": "https://www.sammobile.com/opinion/if-apples-eating-900-million-in-tariffs-what-hope-does-samsung-have/"
-    },
-    {
-      "title": "New DJI Mavic 4 Pro Drone Is on Sale Now, Despite What DJI Says - PCMag",
-      "link": "https://www.pcmag.com/news/new-dji-mavic-4-pro-drone-is-on-sale-now-despite-what-dji-says"
-    },
-    {
-      "title": "GTA 6 map comparison leaves fans absolutely floored - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/gta-6-map-comparison-422069-20250514"
-    },
-    {
-      "title": "Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server - The Hacker News",
-      "link": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html"
-    },
-    {
-      "title": "Hogwarts Legacy Nintendo Switch 1 vs. Switch 2 comparison trailer - Nintendo Everything",
-      "link": "https://nintendoeverything.com/hogwarts-legacy-nintendo-switch-1-vs-switch-2-comparison-trailer/"
-    },
-    {
-      "title": "Android 16-based One UI 8 to land on Galaxy phones this summer - Android Police",
-      "link": "https://www.androidpolice.com/android-16-one-ui-8-to-land-galaxy-phones-summer/"
+      "title": "Google will let restaurants highlight specials on their search profiles - The Verge",
+      "link": "https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening"
     }
   ],
   "sports_news": [
     {
-      "title": "Jaylen Brown, Celtics show championship grit in Game 5 win over Knicks: Takeaways - Boston.com",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/05/14/jaylen-brown-celtics-show-championship-grit-in-game-5-win-over-knicks-takeaways/"
+      "title": "Celtics-Knicks: 5 takeaways as defending champions keep season alive - NBA",
+      "link": "https://www.nba.com/news/celtics-knicks-takeaways-game-5-2025-nba-playoffs"
     },
     {
-      "title": "Timberwolves heading back to Western Conference finals after 121-110 Game 5 win over Golden State - Star Tribune",
-      "link": "https://www.startribune.com/timberwolves-warriors-game-5-nba-playoffs-live-updates/601350695"
+      "title": "2025 NFL schedules by team: Full list of times, dates, TV, streaming for entire season for all 32 franchises - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/2025-nfl-schedules-by-team-full-list-of-times-dates-tv-streaming-for-entire-season-for-all-32-franchises/"
     },
     {
-      "title": "2025 NFL schedule release live updates: Thanksgiving, Christmas, international games and more as full schedule is announced - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/live/2025-nfl-schedule-release-live-updates-thanksgiving-christmas-international-games-and-more-as-full-schedule-is-announced-120139408.html"
+      "title": "Colts deleted their schedule-release video - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-deleted-their-schedule-release-video"
     },
     {
       "title": "Charles Barkley calls Steph Curry injury return theory 'stupid' - SFGATE",
@@ -110,12 +106,12 @@
       "link": "https://www.arrowheadpride.com/2025/5/14/24430514/chiefs-2025-nfl-schedule-initial-observations-slate"
     },
     {
-      "title": "Pope meets Sinner: No. 1 player gives tennis fan Pope Leo XIV racket on Italian Open off day - AP News",
-      "link": "https://apnews.com/article/pope-leo-jannik-sinner-tennis-italian-open-9305b5f2957ac15c7a405f836371ec1e"
-    },
-    {
       "title": "Lions open as favorites over Packers in Week 1 of 2025 season - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/2025/5/14/24429402/detroit-lions-favorites-season-opener-packers-week-1-gambling-odds-2025"
+    },
+    {
+      "title": "Bears 2025 schedule release: Challenges throughout for new coach Ben Johnson - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/bears/2025/05/14/bears-nfl-schedule-release-day-thursday-tracker-caleb-williams-eagles-packers-fox-amazon"
     },
     {
       "title": "Commanders scheduled for eight standalone games in 2025 - NBC Sports",
@@ -134,12 +130,12 @@
       "link": "https://www.49ers.com/news/quick-observations-about-the-49ers-2025-regular-season-schedule"
     },
     {
-      "title": "Sunday Night Football kicks off with Ravens and Bills - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-kicks-off-with-ravens-and-bills"
-    },
-    {
       "title": "Patriots schedule takeaways: Mike Vrabel has a shot at a hot start - NBC Sports Boston",
       "link": "https://www.nbcsportsboston.com/nfl/new-england-patriots/2025-nfl-schedule-release-takeaways-mike-vrabel/709538/"
+    },
+    {
+      "title": "Atlanta Falcons 2025 schedule released - The Falcoholic",
+      "link": "https://www.thefalcoholic.com/2025/5/14/24430501/atlanta-falcons-2025-schedule-release-video-nfl-primetime-saints-buccaneers-panthers-nfl-germany"
     },
     {
       "title": "New Orleans Saints 2025 schedule presented by SeatGeek announced - New Orleans Saints",
@@ -150,8 +146,12 @@
       "link": "https://www.houstontexans.com/news/by-the-numbers-houston-texans-2025-schedule-release"
     },
     {
-      "title": "Steelers 2025 schedule: End-of-season grind returns - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/05/14/nfl-schedule-release-mike-tomlin-aaron-rodgers/stories/202505140034"
+      "title": "Here\u2019s the Buffalo Bills\u2019 2025 NFL regular-season schedule - Buffalo Rumblings",
+      "link": "https://www.buffalorumblings.com/2025/5/14/24430418/heres-the-buffalo-bills-2025-nfl-regular-season-schedule"
+    },
+    {
+      "title": "Steelers release 2025 schedule - Pittsburgh Steelers",
+      "link": "https://www.steelers.com/news/steelers-release-2025-schedule"
     },
     {
       "title": "Rams release official 2025 schedule - Los Angeles Rams",
@@ -162,12 +162,8 @@
       "link": "https://www.baltimoreravens.com/news/ravens-nfl-schedule-release-five-takeaways-primetime-games-thanksgiving-2025"
     },
     {
-      "title": "Bears produce 2025 schedule release video featuring Ben Johnson, Lamorne Morris - Chicago Bears",
-      "link": "https://www.chicagobears.com/news/bears-produce-2025-schedule-release-featuring-ben-johnson-lamorne-morris"
-    },
-    {
-      "title": "Atlanta Falcons 2025 schedule - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/falcons-2025-schedule-release-opponents"
+      "title": "Bucs' Division Title Defense Begins on the Road | 2025 Schedule Released - Tampa Bay Buccaneers",
+      "link": "https://www.buccaneers.com/news/nfl-schedule-2025-bucs-information-regular-season-opponents-preseason"
     }
   ],
   "weather": {
