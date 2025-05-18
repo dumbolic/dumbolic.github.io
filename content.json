@@ -1,19 +1,23 @@
 {
-  "quote": "Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die. \u2013 Gilbert Chesterton",
-  "fact": "The plastic things on the end of shoelaces are called aglets.",
-  "crypto": "BTC: $103,476 | ETH: $2,501.75",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
+  "quote": "The pain of parting is nothing to the joy of meeting again. \u2013 Charles Dickens",
+  "fact": "Ingrown toenails are hereditary. \u00a0",
+  "crypto": "BTC: $103,503 | ETH: $2,498.34",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What kind of music do planets listen to? Nep-tunes.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
       "title": "Doom: The Dark Ages and the challenges of finding new players - BBC",
       "link": "https://www.bbc.com/news/articles/c4gezq2q911o"
+    },
+    {
+      "title": "Apple's 20th Anniversary iPhone: What We Know So Far - MacRumors",
+      "link": "https://www.macrumors.com/guide/20th-anniversary-iphone/"
     },
     {
       "title": "GameStop will have more Switch 2 stock at launch - The Verge",
@@ -32,12 +36,16 @@
       "link": "https://www.theverge.com/news/668830/nintendo-switch-2-game-updates"
     },
     {
-      "title": "Thoughts on thinking - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d44008843"
+      "title": "Is This the Next Big Hair-Loss Solution for Men? \u2018We Call It a Lunch-Break Procedure.\u2019 - WSJ",
+      "link": "https://www.wsj.com/style/beauty/is-this-the-next-big-hair-loss-solution-for-men-we-call-it-a-lunch-break-procedure-f3758952"
     },
     {
       "title": "Epic\u2019s Mega sale has big discounts on games like GTA V, Red Dead Redemption, and Cyberpunk 2077 - The Verge",
       "link": "https://www.theverge.com/news/668798/epic-games-mega-sale-gta-v-cyberpunk-2077"
+    },
+    {
+      "title": "The Oura ring just got a new rival with a titanium design and 24/7 biometric tracking \u2014 no subscription required - Tom's Guide",
+      "link": "https://www.tomsguide.com/wellness/fitness-trackers/the-oura-ring-just-got-a-new-rival-with-a-titanium-design-and-24-7-biometric-tracking-no-subscription-required"
     },
     {
       "title": "Microsoft confirms May Windows 10 updates trigger BitLocker recovery - BleepingComputer",
@@ -48,16 +56,12 @@
       "link": "https://www.phonearena.com/news/honor-is-calling-out-samsungs-design-choices-and-it-brought-receipts_id170459"
     },
     {
-      "title": "Spotify is sorry that it revealed how many people listen to your podcast - The Verge",
-      "link": "https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update"
-    },
-    {
-      "title": "Jony Ive\u2019s dream iPhone that\u2019s all screen may finally be coming true - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/16/jony-ives-dream-iphone-thats-all-screen-may-finally-be-coming-true/"
-    },
-    {
       "title": "Nintendo admits Switch 2 won't support VRR on TV after all - Eurogamer",
       "link": "https://www.eurogamer.net/nintendo-admits-switch-2-wont-support-vrr-on-tv-after-all"
+    },
+    {
+      "title": "Spotify responds to backlash over public podcast play counts - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/16/spotify-responds-to-creator-backlash-at-public-podcast-play-counts/"
     },
     {
       "title": "WSJ: Some Apple Vision Pro Buyers 'Feel Total Regret' - MacRumors",
@@ -68,20 +72,16 @@
       "link": "https://www.gamespot.com/articles/take-two-boss-reacts-to-grand-theft-auto-6-delay/1100-6531597/"
     },
     {
+      "title": "Red Dead Redemption 2 reportedly set for Switch 2, as Take-Two boss praises Nintendo's console - Eurogamer",
+      "link": "https://www.eurogamer.net/red-dead-redemption-2-reportedly-set-for-switch-2-as-take-two-boss-praises-nintendos-console"
+    },
+    {
       "title": "Capcom goes for deep cuts with latest fighting game collection - The Verge",
       "link": "https://www.theverge.com/games-review/667921/capcom-fighting-collection-2-review-xbox-switch-steam-ps4"
     },
     {
-      "title": "Red Dead Redemption 2 new-gen upgrade leaks online - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/red-dead-redemption-2-new-gen-upgrade-leaks-979957-20250516"
-    },
-    {
       "title": "Nintendo Switch Online's latest N64 addition is a Rare treat - Eurogamer",
       "link": "https://www.eurogamer.net/nintendo-switch-onlines-latest-n64-addition-is-a-rare-treat"
-    },
-    {
-      "title": "Acer\u2019s Swift Edge laptop is gunning for the MacBook Air - The Verge",
-      "link": "https://www.theverge.com/news/668200/acers-swift-edge-laptop-is-gunning-for-the-macbook-air"
     },
     {
       "title": "This smart lock never runs out of battery \u2014 because I shoot it with lasers - The Verge",
@@ -106,12 +106,28 @@
       "link": "https://www.nascar.com/news-media/2025/05/16/2025-cup-series-pit-crew-challenge-winner/"
     },
     {
-      "title": "Knicks pound Celtics by 38 to reach East finals - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45186016/knicks-beat-celtics-38-book-long-awaited-spot-east-finals"
+      "title": "Jalen Brunson, Knicks Reach ECF for 1st Time in 25 Years, Wow Fans in Upset of Celtics - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25197099-jalen-brunson-knicks-reach-ecf-1st-time-25-years-wow-fans-upset-celtics"
+    },
+    {
+      "title": "Yankees make loud statement with win over Mets, Juan Soto in first Subway Series battle - New York Post",
+      "link": "https://nypost.com/2025/05/16/sports/yankees-beat-mets-in-first-subway-series-matchup-against-juan-soto/"
+    },
+    {
+      "title": "Braves 4-2 Red Sox (May 16, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/mlb/recap?gameId\\\\u003d401695563"
     },
     {
       "title": "2025 North Wilkesboro Speedway pit stall assignments - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/05/16/2025-north-wilkesboro-speedway-pit-stall-assignments/"
+    },
+    {
+      "title": "Sidney Crosby doesn\u2019t expect Alex Ovechkin to retire after historic 2024-25 season: \u2018He\u2019s playing unbelievable even at his age\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/05/16/sidney-crosby-alex-ovechkin-retire-2024-25-season/"
+    },
+    {
+      "title": "Report: McIlroy\u2019s driver deemed nonconforming ahead of PGA Championship - AP News",
+      "link": "https://apnews.com/article/rory-mcilroy-pga-championship-driver-test-8ad331e967454fba316c1a3251c22672"
     },
     {
       "title": "Ravens sign veteran NT Jenkins to replace Pierce - ESPN",
@@ -120,14 +136,6 @@
     {
       "title": "Hansi Flick reveals his toughest moments of Barcelona\u2019s season after La Liga title win - Barca Blaugranes",
       "link": "https://www.barcablaugranes.com/2025/5/17/24431620/hansi-flick-reveals-his-toughest-moments-of-barcelonas-season-after-la-liga-title-win"
-    },
-    {
-      "title": "Rory McIlroy squeaks into PGA weekend after driver reportedly ruled non-conforming - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/rory-mcilroy-squeaks-into-pga-weekend-after-driver-reportedly-ruled-non-conforming"
-    },
-    {
-      "title": "Qualifying results for NASCAR All-Star Race; Keselowski claims pole position - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/05/16/qualifying-results-for-nascar-all-star-race-keselowski-claims-pole-position/"
     },
     {
       "title": "Minnesota Twins injury: Carlos Correa out with concussion, Byron Buxton still testing - Star Tribune",
@@ -142,28 +150,16 @@
       "link": "https://www.cbssports.com/golf/news/2025-pga-championship-leaderboard-scottie-scheffler-si-woo-kim-max-homa-strap-on-rockets-in-round-2/live/"
     },
     {
-      "title": "Judge dismisses jury in Canadian hockey sexual assault case after complaint about defense behavior - AP News",
-      "link": "https://apnews.com/article/hockey-assault-trial-e7dcf3b8e2150ddd24d7a7575e4bcdf8"
-    },
-    {
-      "title": "Jayson Tatum greets Celtics back in New York with season on the line: \u2018Bigger than basketball now\u2019 - New York Post",
-      "link": "https://nypost.com/2025/05/16/sports/jayson-tatum-greets-celtics-back-in-new-york-with-season-on-the-line/"
-    },
-    {
-      "title": "Knicks vs. Celtics odds, prediction, spread, start time: 2025 NBA playoff picks, Game 6 bets by proven model - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/knicks-vs-celtics-odds-prediction-spread-start-time-2025-nba-playoff-picks-game-6-bets-by-proven-model/"
-    },
-    {
-      "title": "Is J.J. McCarthy the NFL's biggest wild card in 2025? Plus, five sneaky-good games in the schedule release - NFL.com",
-      "link": "https://www.nfl.com/news/is-j-j-mccarthy-the-nfl-s-biggest-wild-card-in-2025-plus-five-sneaky-good-games-in-the-schedule-release"
-    },
-    {
       "title": "Yankees Designate Tyler Matzek For Assignment - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/05/yankees-designate-tyler-matzek-for-assignment.html"
     },
     {
-      "title": "Steve Kerr Shares Honest Take on His Remaining Tenure as Warriors Head Coach - Sports Illustrated",
-      "link": "https://www.si.com/nba/steve-kerr-shares-honest-take-remaining-tenure-warriors-head-coach"
+      "title": "Bill Belichick Gives Proof Of Life, Stops By Another Morning Show - Defector",
+      "link": "https://defector.com/bill-belichick-gives-proof-of-life-stops-by-another-morning-show"
+    },
+    {
+      "title": "A Preakness Stakes long shot is named after an obscure Met - New York Post",
+      "link": "https://nypost.com/2025/05/16/sports/a-preakness-stakes-long-shot-is-named-after-an-obscure-met/"
     }
   ],
   "weather": {
