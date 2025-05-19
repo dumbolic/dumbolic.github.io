@@ -1,9 +1,9 @@
 {
-  "quote": "Re-examine all that you have been told... dismiss that which insults your soul. \u2013 Walt Whitman",
-  "fact": "Pinocchio is Italian for \"pine head.\"",
-  "crypto": "BTC: $103,694 | ETH: $2,441.69",
+  "quote": "We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  \u2013 Nikola Tesla",
+  "fact": "The Great Wall of China is the only man-made structure visible from space.",
+  "crypto": "BTC: $104,409 | ETH: $2,453.74",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "My cat was just sick on the carpet, I don\u2019t think it\u2019s feline well.",
+  "joke": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,34 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Breakthrough Proton Therapy Wipes Out Rare Cancer With No Side Effects - SciTechDaily",
+      "link": "https://scitechdaily.com/breakthrough-proton-therapy-wipes-out-rare-cancer-with-no-side-effects/"
+    },
+    {
+      "title": "Here are the sneaky ways that indicate your partner has remote access to your phone to spy on you, according to expert - New York Post",
+      "link": "https://nypost.com/2025/05/18/lifestyle/partner-is-spying-on-your-phone-tell-tale-signs/"
+    },
+    {
+      "title": "Star Citizen players slam CIG's \"non-apology\" after space-sim introduces \"pay to win\" items that cannot be earned in-game - Eurogamer",
+      "link": "https://www.eurogamer.net/star-citizen-players-slam-cigs-non-apology-after-space-sim-introduces-pay-to-win-items-that-cannot-be-earned-in-game"
+    },
+    {
+      "title": "I used two GPS hiking apps for backpacking and I\u2019ll do it again - The Verge",
+      "link": "https://www.theverge.com/hands-on/668845/all-trails-gaia-gps-cal-topo-backpacking-review"
+    },
+    {
+      "title": "This Week in Pok\u00e9mon GO (May 19\u201325): Events, Bonuses, and Raids You Shouldn\u2019t Miss - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/news/this-week-in-pokemon-go-may-19-25-events-bonuses-and-raids-you-shouldnt-miss/"
+    },
+    {
+      "title": "This HP 15\" Touchscreen Laptop (64GB RAM, 2TB SSD, i7) Drops $2,600, Now 72% Off on Amazon - Gizmodo",
+      "link": "https://gizmodo.com/stop-overpaying-hp-15-6-touchscreen-laptop-64gb-ram-2tb-ssd-i7-drops-2600-on-amazon-to-all-time-low-2000603560"
+    },
+    {
+      "title": "These Cars Weren't BMWs, But They Still Had BMW's Inline-6 - Jalopnik",
+      "link": "https://www.jalopnik.com/1858033/non-bmw-models-with-inline-6-engine/"
+    },
     {
       "title": "The top two GOTY 2025 front-runners are AA games and that\u2019s a good sign - Polygon",
       "link": "https://www.polygon.com/awards/599594/goty-2025-clair-obscur-split-fiction-aa"
@@ -22,6 +50,14 @@
     {
       "title": "Column | Gen Z users tested Instagram Teen Accounts; they got sex posts, body shaming - The Washington Post",
       "link": "https://www.washingtonpost.com/technology/2025/05/18/instagram-teen-accounts-test/"
+    },
+    {
+      "title": "Steam Game Is Free Before It\u2019s Removed Forever - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/steam-free-game-pc-mouthole/"
+    },
+    {
+      "title": "Standby for Hub Mode: Google wants to turn your Android phone into a smart display - Android Authority",
+      "link": "https://www.androidauthority.com/standby-mode-on-android-phones-3558674/"
     },
     {
       "title": "In a year full of giant games, some little mice stand out - The Verge",
@@ -36,138 +72,98 @@
       "link": "https://dailygalaxy.com/2025/05/a-massachusetts-student-accidentally-broke-the-laws-of-thermodynamics/"
     },
     {
+      "title": "Casting Shade On \u201cShade-Tolerant\u201d Solar Panels - Hackaday",
+      "link": "https://hackaday.com/2025/05/18/casting-shade-on-shade-tolerant-solar-panels/"
+    },
+    {
+      "title": "I ditched Gmail for Proton Mail hoping for privacy, but the grass wasn't greener - Android Authority",
+      "link": "https://www.androidauthority.com/proton-mail-vs-gmail-privacy-features-3555980/"
+    },
+    {
+      "title": "A massive hole in the sun\u2019s corona is now facing directly toward Earth - Jason Deegan",
+      "link": "https://jasondeegan.com/a-massive-hole-in-the-suns-corona-is-now-facing-directly-toward-earth/"
+    },
+    {
+      "title": "Amateur astrophotographer catches a cosmic sunflower in bloom - Space",
+      "link": "https://www.space.com/stargazing/astrophotography/amateur-astrophotographer-catches-a-cosmic-sunflower-in-bloom"
+    },
+    {
       "title": "Intel Arrow Lake Refresh rumored to be part of the Core Ultra 200 series - VideoCardz.com",
       "link": "https://videocardz.com/newz/intel-arrow-lake-refresh-rumored-to-be-part-of-the-core-ultra-200-series"
-    },
-    {
-      "title": "These 10 Hacks Could Be the End of Your Terrible Signal Forever - CNET",
-      "link": "https://www.cnet.com/tech/mobile/these-10-hacks-could-be-the-end-of-your-terrible-signal-forever/"
-    },
-    {
-      "title": "Your Android devices are getting several upgrades for free - including a big one for Auto - ZDNET",
-      "link": "https://www.zdnet.com/article/your-android-devices-are-getting-several-upgrades-for-free-including-a-big-one-for-auto/"
-    },
-    {
-      "title": "People Say It\u2019s a Magic Trick for Raising Smart, Happy Kids. I Simply Can\u2019t Do It. - Slate Magazine",
-      "link": "https://slate.com/life/2025/05/easy-family-dinner-ideas-simple-quick.html"
-    },
-    {
-      "title": "They grew up with smartphones. Now they're opting for dumb phones. - AOL.com",
-      "link": "https://www.businessinsider.com/appstinence-movement-tech-lovers-dumping-smartphones-age-of-dumb-phones-2025-5"
-    },
-    {
-      "title": "Still booting after all these years: The people stuck using ancient Windows computers - BBC",
-      "link": "https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers"
-    },
-    {
-      "title": "After years of flying high, celebrity tequila braces for impact - CNN",
-      "link": "https://www.cnn.com/2025/05/18/food/tequila-popularity-sales-2025"
-    },
-    {
-      "title": "Video: Nintendo Gives Us A Closer Look At Switch 2's GameCube Controller - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/05/video-nintendo-gives-us-a-closer-look-at-switch-2s-gamecube-controller"
-    },
-    {
-      "title": "Xiaomi\u2019s In-House XRING 01 Was Made Possible Thanks To Research Efforts That Lasted 10 years, CEO Says The Chipset Was Part Of Investments Touching $14.5 Billion - Wccftech",
-      "link": "https://wccftech.com/xiaomi-xring-01-development-lasted-10-years-and-cost-14-5-billion/"
-    },
-    {
-      "title": "All you need are these five exercises to build full-body strength and stability, says a certified yoga and Pilates teacher - Fit&Well",
-      "link": "https://www.fitandwell.com/wellness/yoga/all-you-need-are-these-five-exercises-to-build-full-body-strength-and-stability-says-a-certified-yoga-and-pilates-teacher"
-    },
-    {
-      "title": "Google I/O 2025: How to Watch and What to Expect - CNET",
-      "link": "https://www.cnet.com/tech/mobile/google-io-2025-android-how-to-watch-and-what-to-expect/"
-    },
-    {
-      "title": "Fate/hollow ataraxia REMASTERED launches in 2025 - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/fate-hollow-ataraxia-remastered-launches-in-2025"
-    },
-    {
-      "title": "A manuscript over 2,000 years old and buried under the ashes of Mount Vesuvius has been analyzed thanks to a new technique. - Stewartville Star",
-      "link": "https://thinkstewartville.com/2025/05/17/a-manuscript-over-2000-years-old-and-buried-under-the-ashes-of-mount-vesuvius-has-been-analyzed-thanks-to-a-new-technique/"
-    },
-    {
-      "title": "Here's A Look At The Size And Inside Of Switch 2 Game Cases - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/05/heres-a-look-at-the-size-and-inside-of-switch-2-game-cases"
     }
   ],
   "sports_news": [
+    {
+      "title": "Jose Alvarado Issued 80-Game PED Suspension - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/jose-alvarado-issued-80-game-ped-suspension.html"
+    },
+    {
+      "title": "Aaron Rodgers biographer thinks he\u2019ll be joining the Steelers soon - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-biographer-thinks-hell-be-joining-the-steelers-soon"
+    },
+    {
+      "title": "Orioles Place Tyler O\u2019Neill On 10-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/orioles-place-tyler-oneill-on-10-day-injured-list-2.html"
+    },
+    {
+      "title": "Verstappen storms to victory in thrilling Emilia-Romagna GP - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/verstappen-storms-to-victory-in-thrilling-emilia-romagna-grand-prix-ahead-of.4YJG3CyQJdFzCI6tiBtqoU"
+    },
+    {
+      "title": "Bill Belichick goes on the offensive to clean up his Jordon Hudson P.R. mess - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-goes-on-the-offensive-to-clean-up-his-jordon-hudson-p-r-mess"
+    },
+    {
+      "title": "Universities cutting sports, others adding ahead of $2.8 billion NCAA antitrust settlement - AP News",
+      "link": "https://apnews.com/article/ncaa-settlement-program-cuts-f734a27c13f7c09e956d630cc2755a6c"
+    },
+    {
+      "title": "Giannis Antetokounmpo Has NBA Fans in a Tizzy After He Names 'Favorite' Cities - Sports Illustrated",
+      "link": "https://www.si.com/nba/giannis-antetokounmpo-nba-fans-tizzy-names-favorite-cities"
+    },
+    {
+      "title": "UFC Vegas 106 results: Biggest winners, loser from \u2018Burns vs. Morales\u2019 last night - MMAmania.com",
+      "link": "https://www.mmamania.com/2025/5/18/24432327/ufc-vegas-106-results-biggest-winners-loser-burns-morales-last-night-espn-mma"
+    },
+    {
+      "title": "Nuggets vs. Thunder Prediction, Odds, Pick for NBA Playoffs Game 7 on Sunday, May 18 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nuggets-vs-thunder-prediction-odds-pick-for-nba-playoffs-game-7-on-sunday-may-18-qs"
+    },
     {
       "title": "Pirelli can't explain why its C6 tyre was so bad in Imola GP qualifying - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/pirelli-cant-explain-why-its-c6-tyre-so-bad-in-imola-gp-qualifying/10724041/"
     },
     {
-      "title": "Marc Guehi: Crystal Palace captain and team-mate Adam Wharton taken to hospital after FA Cup final - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c17rq452jr0o"
+      "title": "Caitlin Clark gets triple-double, flagrant foul for shoving Angel Reese in season-opening win - CNN",
+      "link": "https://www.cnn.com/2025/05/18/sport/caitlin-clark-triple-double-angel-reese-spt"
+    },
+    {
+      "title": "NBA Playoffs Best Bets, Picks, Predictions for Sunday, May 18 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nba-playoffs-best-bets-picks-predictions-for-sunday-may-18-qs"
+    },
+    {
+      "title": "Carlos Beltran knows about booing Juan Soto is dealing with - New York Post",
+      "link": "https://nypost.com/2025/05/18/sports/carlos-beltran-knows-about-booing-juan-soto-is-dealing-with/"
+    },
+    {
+      "title": "Late change to Imola F1 grid after Red Bull penalty - racingnews365.com",
+      "link": "https://racingnews365.com/late-change-to-imola-f1-grid-after-red-bull-penalty"
+    },
+    {
+      "title": "Is Brad Stevens a genius? Celtics President about to put reputation on line - MassLive",
+      "link": "https://www.masslive.com/sports/2025/05/is-brad-stevens-a-genius-celtics-president-about-to-put-reputation-on-line.html"
     },
     {
       "title": "The key storylines in Knicks-Pacers Eastern Conference Finals \u2014 from revenge to a new villain - New York Post",
       "link": "https://nypost.com/2025/05/18/sports/the-key-storylines-in-knicks-pacers-eastern-conference-finals/"
     },
     {
-      "title": "Underachieving Orioles fire manager Brandon Hyde as losses pile up - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/05/17/orioles-fire-brandon-hyde-manager/"
-    },
-    {
-      "title": "Five thoughts from Stars-Jets Game 6: Thomas Harley\u2019s OT goal sends Dallas to next round - Dallas News",
-      "link": "https://www.dallasnews.com/sports/stars/2025/05/17/five-thoughts-from-stars-jets-game-6-dallas-advances-after-winning-ot-thriller/"
-    },
-    {
-      "title": "With key relievers unavailable, Braves blow late lead to Red Sox - AJC.com",
-      "link": "https://www.ajc.com/sports/atlanta-braves/with-key-relievers-unavailable-braves-blow-late-lead-to-red-sox/CABADFVHPJGB7FOXUH24NOUUCA/"
+      "title": "\u2018Crazy\u2019 Red Sox walkoff included clean hands, Wally head, excited Rafael Devers - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/05/crazy-red-sox-walkoff-included-clean-hands-wally-head-excited-rafael-devers.html"
     },
     {
       "title": "Minnesota Twins run winning streak to 13 games with their third shutout in a row - Star Tribune",
       "link": "https://www.startribune.com/minnesota-twins-13-game-winning-streak-33-innings-scoreless-milwaukee-brewers-pablo-lopez/601356615"
-    },
-    {
-      "title": "PGA of America finally issues statement about Rory McIlroy\u2019s \u2018non-conforming\u2019 driver - New York Post",
-      "link": "https://nypost.com/2025/05/18/sports/pga-of-america-finally-issues-statement-about-rory-mcilroys-driver/"
-    },
-    {
-      "title": "Full schedule for Carolina Hurricanes in Eastern Conference Final - WRALSportsFan.com",
-      "link": "https://www.wralsportsfan.com/full-schedule-for-carolina-hurricanes-in-eastern-conference-final/22012162/"
-    },
-    {
-      "title": "Jets' Mark Scheifele Plays Game 6 vs. Stars After Father's Death, Scores Opening Goal - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25197214-jets-mark-scheifele-plays-game-6-vs-stars-after-fathers-death-scores-opening-goal"
-    },
-    {
-      "title": "2025 PGA Championship picks, odds: Jon Rahm, Bryson DeChambeau among 6 who can catch leader Scottie Scheffler - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/2025-pga-championship-picks-odds-jon-rahm-bryson-dechambeau-among-6-who-can-catch-leader-scottie-scheffler/"
-    },
-    {
-      "title": "LSU Falls to Southeastern, 7-6, Eliminated from Regional - lsusports.net",
-      "link": "https://lsusports.net/news/2025/05/17/lsu-eliminated-from-regional-falls-to-southeastern-8-7/"
-    },
-    {
-      "title": "Dodgers Notes: Kershaw, Edman, Hernandez, Ohtani - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/dodgers-notes-kershaw-edman-hernandez-ohtani.html"
-    },
-    {
-      "title": "What to Watch: All-Stars set to shine at North Wilkesboro - Nascar",
-      "link": "https://www.nascar.com/news-media/2025/05/17/what-to-watch-all-stars-set-to-shine-at-north-wilkesboro/"
-    },
-    {
-      "title": "2025 PGA Championship TV schedule, coverage, channel, where to watch online, golf live stream, tee times - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/2025-pga-championship-tv-schedule-coverage-channel-where-to-watch-online-golf-live-stream-tee-times/"
-    },
-    {
-      "title": "Three Denver Nuggets star players on injury report - KDVR",
-      "link": "https://kdvr.com/sports/denver-nuggets/three-denver-nuggets-star-players-on-injury-report/"
-    },
-    {
-      "title": "2025 PGA Championship final round tee times: Scottie Scheffler holds a 3-shot lead entering Sunday at Quail Hollow - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/breaking-news/article/2025-pga-championship-final-round-tee-times-scottie-scheffler-holds-a-3-shot-lead-entering-sunday-at-quail-hollow-000045138.html"
-    },
-    {
-      "title": "In comeback, Journalism wins 150th Preakness Stakes - NBC News",
-      "link": "https://www.nbcnews.com/sports/horse-racing/journalism-preakness-stakes-win-result-rcna207497"
-    },
-    {
-      "title": "Herta's crew chief Nick Allen heads up the greatest backup car build in modern Indy history - racer.com",
-      "link": "https://racer.com/2025/05/17/herta-s-crew-chief-nick-allen-heads-up-the-greatest-backup-car-build-in-modern-indy-history"
     }
   ],
   "weather": {
