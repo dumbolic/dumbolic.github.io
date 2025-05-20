@@ -1,9 +1,9 @@
 {
-  "quote": "No amount of regretting can change the past, and no amount of worrying can change the future. \u2013 Roy T. Bennett",
-  "fact": "Sex burns 360 calories per hour.",
-  "crypto": "BTC: $104,846 | ETH: $2,499.09",
+  "quote": "Who looks outside, dreams; who looks inside, awakes. \u2013 Lolly Daskal",
+  "fact": "The only nation whose name begins with an \"A\", but doesn`t end in an \"A\" is Afghanistan.",
+  "crypto": "BTC: $104,704 | ETH: $2,486.2",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a cow on a trampoline? A milk shake!",
+  "joke": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,83 +12,103 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Computex 2025 live \u2014 Nvidia goes big on AI, new laptops and more from the world's largest computing event - Tom's Guide",
-      "link": "https://www.tomsguide.com/news/live/computex-2025"
+      "title": "Where to buy RTX 5060 \u2014 live updates and stock checker - Tom's Guide",
+      "link": "https://www.tomsguide.com/news/live/where-to-buy-rtx-5060"
+    },
+    {
+      "title": "Greenwood diner\u2019s eclectic vibe makes it a neighborhood star - The Seattle Times",
+      "link": "https://www.seattletimes.com/pacific-nw-magazine/north-star-diner-shanghai-room-greenwood/"
+    },
+    {
+      "title": "NVIDIA DLSS 4 Multi Frame Generation and Other RTX Updates Shown Off for Upcoming and Existing PC Games - Wccftech",
+      "link": "https://wccftech.com/nvidia-dlss-4-multi-frame-generation-and-other-rtx-updates-shown-off-for-upcoming-and-existing-pc-games/"
+    },
+    {
+      "title": "Nintendo Switch 2 pre-orders live \u2014 latest restock updates and retailers to check ahead of launch day - Tom's Guide",
+      "link": "https://www.tomsguide.com/live/news/nintendo-switch-2-pre-orders-latest-updates-and-live-restocks"
+    },
+    {
+      "title": "How a NASA simulation inspired Clair Obscur\u2019s character lineup - Polygon",
+      "link": "https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle"
+    },
+    {
+      "title": "Files by Google is also getting a fresh coat of Material 3 Expressive (APK teardown) - Android Authority",
+      "link": "https://www.androidauthority.com/files-by-google-material-3-expressive-apk-teardown-3558907/"
+    },
+    {
+      "title": "Hideo Kojima reveals his next espionage game \u2018Physint\u2019 is 5-6 years away - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/hideo-kojima-reveals-his-next-espionage-game-physint-is-5-6-years-away/"
     },
     {
       "title": "MSI unveils GeForce RTX 5090 SUPRIM TITANIUM EDITION - VideoCardz.com",
       "link": "https://videocardz.com/newz/msi-unveils-geforce-rtx-5090-suprim-titanium-edition"
     },
     {
+      "title": "The Last of Us season two actor lands Intergalactic: The Heretic Prophet role after impressing Neil Druckmann on set - Eurogamer",
+      "link": "https://www.eurogamer.net/the-last-of-us-season-two-actor-lands-intergalactic-the-heretic-prophet-role-after-impressing-neil-druckmann-on-set"
+    },
+    {
+      "title": "The Switch 2 Has Six Joyful Nintendo Touches You Should Look Out for at Launch - Gizmodo",
+      "link": "https://gizmodo.com/the-switch-2-has-six-joyful-nintendo-touches-you-should-look-out-for-at-launch-2000603556"
+    },
+    {
+      "title": "Breakthrough stretchy battery moves like toothpaste and could power pacemakers and hearing aids - Live Science",
+      "link": "https://www.livescience.com/technology/engineering/breakthrough-stretchy-battery-moves-like-toothpaste-and-could-power-pacemakers-and-hearing-aids"
+    },
+    {
       "title": "Nintendo Renews A Couple Of Metroid Prime Trademarks - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/05/nintendo-renews-a-couple-of-metroid-prime-trademarks"
+    },
+    {
+      "title": "Apple\u2019s iPhone Update\u2014Why You Need To Change Your Messaging App - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/05/19/apples-iphone-update-why-you-need-to-change-your-messaging-app/"
     },
     {
       "title": "Intel Announces Arc Pro B-Series, \"Project Battlematrix\" Linux Software Improvements - Phoronix",
       "link": "https://www.phoronix.com/review/intel-arc-pro-b-series"
     },
     {
-      "title": "ASUS reveals quad-slot GeForce RTX 5080 Noctua Edition - VideoCardz.com",
-      "link": "https://videocardz.com/newz/asus-reveals-quad-slot-geforce-rtx-5080-noctua-edition"
+      "title": "Video of Woman Scrolling Through Invisible Phone Racks Up Over 50 Million Views - PetaPixel",
+      "link": "https://petapixel.com/2025/05/19/video-of-woman-scrolling-through-invisible-phone-racks-up-over-50-million-views/"
+    },
+    {
+      "title": "A year later, Apple Vision Pro owners say they regret buying the $3,500 headset - TechSpot",
+      "link": "https://www.techspot.com/news/107963-apple-vision-pro-owners-they-regret-buying-3500.html"
+    },
+    {
+      "title": "MSI showcases new Claw handhelds, previews future products - GadgetMatch",
+      "link": "https://www.gadgetmatch.com/msi-showcases-new-claw-handhelds-a8-polar-tempest-geforce-rtx-50-series-previews-business-productivity-concepts/"
+    },
+    {
+      "title": "ASUS Shows Off RTX 5080 Noctua Edition With Triple-Fan Cooler, ROG Astral RTX 5080 DOOM Edition With 666 Units - Wccftech",
+      "link": "https://wccftech.com/asus-rtx-5080-noctua-edition-triple-fan-cooler-rog-astral-rtx-5080-doom-edition-666-units/"
     },
     {
       "title": "ASUS Showcases World\u2019s First 610Hz Gaming Monitor: ROG STRIX ACE XG248Q5G Packed With Blazing Fast Super TN Panel - Wccftech",
       "link": "https://wccftech.com/asus-rog-strix-ace-xg248q5g-610hz-monitor/"
     },
     {
-      "title": "GeForce RTX 5060 debuts for desktops and laptops, but proper reviews need to wait - VideoCardz.com",
-      "link": "https://videocardz.com/newz/geforce-rtx-5060-debuts-for-desktops-and-laptops-but-proper-reviews-need-to-wait"
-    },
-    {
-      "title": "iPhone 17 Air Battery Capacity and Weight Allegedly Revealed - MacRumors",
-      "link": "https://www.macrumors.com/2025/05/19/iphone-17-air-battery-capacity-revealed/"
-    },
-    {
-      "title": "NVIDIA DLSS 4 Now Available In Over 125 Games & Apps, DOOM: The Dark Ages Path Tracing Update In June & Even More DLSS Titles - Wccftech",
-      "link": "https://wccftech.com/nvidia-dlss-4-125-games-doom-the-dark-ages-path-tracing-update-june-more-dlss-titles/"
-    },
-    {
-      "title": "MiSTer For Mortals: Meet The Multisystem 2 - Hackaday",
-      "link": "https://hackaday.com/2025/05/19/mister-for-mortals-meet-the-multisystem-2/"
-    },
-    {
-      "title": "Stellar Blade PS5, PC Will Add a Boss Battle with One of NIKKE's Most Popular Characters - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/05/stellar-blade-ps5-pc-will-add-a-boss-battle-with-one-of-nikkes-most-popular-characters"
-    },
-    {
-      "title": "The Last of Us actor teases Intergalactic role as production ramps up - Dexerto",
-      "link": "https://www.dexerto.com/gaming/the-last-of-us-actor-teases-intergalactic-role-as-production-ramps-up-3196986/"
-    },
-    {
-      "title": "Sorry, But IDK If You Can Handle The Cuteness Level Of All The Things In This Post - BuzzFeed",
-      "link": "https://www.buzzfeed.com/bekoconnell/cuteness-overload"
-    },
-    {
-      "title": "Final Fantasy Artist Tetsuya Nomura Addresses Magic: The Gathering's Sephiroth Card Art - Anime News Network",
-      "link": "https://www.animenewsnetwork.com/interest/2025-05-18/final-fantasy-artist-tetsuya-nomura-addresses-magic-the-gathering-sephiroth-card-art/.224405"
-    },
-    {
-      "title": "Intel Panther Lake CPUs Demoed At Computex, Close-Up Die Shots, ES Specs & Consumer-Ready Launch in Early 2026 - Wccftech",
-      "link": "https://wccftech.com/intel-panther-lake-cpus-demo-computex-close-up-die-shots-launch-in-early-2026/"
-    },
-    {
-      "title": "Capcom vs. SNK 2 wins poll by a landslide for favorite title in Capcom Fighting Collection 2 - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/may/18/wins-capcom-snk-2-poll/"
-    },
-    {
-      "title": "Samsung adds NVIDIA G-SYNC to 2025 OLED TVs, starting with OLED S95F flagship - VideoCardz.com",
-      "link": "https://videocardz.com/newz/samsung-adds-nvidia-g-sync-to-2025-oled-tvs-starting-with-oled-s95f-flagship"
-    },
-    {
-      "title": "All about the abandoned Apollo capsule in 'The Last of Us' (Season 2, Episode 6) - collectSPACE.com",
-      "link": "http://www.collectspace.com/news/news-051825a-the-last-of-us-space-museum-apollo-command-module.html"
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 character trailer - Yoriichi Type Zero - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-character-trailer-yoriichi-type-zero"
+      "title": "Spotted: New Cerv\u00e9lo S5 seen at Visma-Lease a Bike training camp, and it looks pretty much the same as the old one - Cyclingnews",
+      "link": "https://www.cyclingnews.com/news/spotted-new-cervelo-s5-seen-at-visma-lease-a-bike-training-camp-and-it-looks-pretty-much-the-same-as-the-old-one/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Cubs Expected To Recall Matt Shaw - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/cubs-expected-to-recall-matt-shaw.html"
+    },
+    {
+      "title": "The NBA's final 4 is set: Thunder, Knicks, Wolves and Pacers remain, and parity reigns again - AP News",
+      "link": "https://apnews.com/article/nba-playoffs-wolves-knicks-pacers-thunder-c10b17d2535f5374a5b5f28eff42e836"
+    },
+    {
+      "title": "Jon Rahm has emotional moment with wife after $1.5 million PGA Championship meltdown - New York Post",
+      "link": "https://nypost.com/2025/05/19/sports/jon-rahm-has-emotional-moment-with-wife-after-1-5-million-pga-championship-meltdown/"
+    },
+    {
+      "title": "NCAA softball winners and losers: Texas A&M falls as OU, Texas keep rolling - USA Today",
+      "link": "https://www.usatoday.com/story/sports/college/softball/2025/05/19/ncaa-softball-winners-losers-texas-am-oklahoma-jordy-bahl/83718109007/"
+    },
     {
       "title": "CeeDee Lamb on George Pickens: There\u2019s no A or B, we\u2019re both No. 1 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-on-george-pickens-theres-no-a-or-b-were-both-no-1"
@@ -102,12 +122,28 @@
       "link": "https://www.ncaa.com/news/softball/article/2025-05-19/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
     },
     {
+      "title": "Timberwolves, Thunder take different paths to Western Conference finals - Star Tribune",
+      "link": "https://www.startribune.com/nba-western-conference-finals-preview-minnesota-timberwolves-oklahoma-city-thunder/601356094"
+    },
+    {
+      "title": "Monday Bird Droppings: It\u2019s time to hear from Mike Elias about the direction of the Orioles - Camden Chat",
+      "link": "https://www.camdenchat.com/2025/5/19/24432569/orioles-news-rumors-brandon-hyde-fired-mike-elias-media"
+    },
+    {
+      "title": "WNBA probes alleged racist fan remarks during Indiana Fever's home win over Chicago Sky - NBC News",
+      "link": "https://www.nbcnews.com/sports/wnba/wnba-probes-alleged-racist-fan-remarks-indiana-fevers-home-win-chicago-rcna207594"
+    },
+    {
       "title": "5 Winners and 5 Losers from Imola \u2013 Who impressed at the 2025 Emilia-Romagna Grand Prix | Formula 1\u00ae - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-emilia-romagna-who-impressed-at-imola.7uD0TkBrs2GdZluXQmTdQE"
     },
     {
       "title": "Cam Ward: Xavier Restrepo will prove he belongs in NFL - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-xavier-restrepo-will-prove-he-belongs-in-nfl"
+    },
+    {
+      "title": "Brad Stevens unique gamble will sway Celtics offseason | Brian Robb - MassLive",
+      "link": "https://www.masslive.com/celtics/2025/05/brad-stevens-unique-gamble-could-sway-celtics-offseason-brian-robb.html"
     },
     {
       "title": "Fantasy Baseball SP Roundup 5/18: The Mick Abel Guy - Pitcher List",
@@ -122,52 +158,20 @@
       "link": "https://nypost.com/2025/05/19/sports/rob-gronkowski-bursts-out-laughing-at-joke-about-bill-belichicks-girlfriend-jordon-hudson/"
     },
     {
-      "title": "Panthers rely on strong foundations to win Game 7 against Maple Leafs - NHL.com",
-      "link": "https://www.nhl.com/news/florida-panthers-rely-on-strong-foundations-in-game-7-win"
+      "title": "Panthers rout the Maple Leafs 6-1 in Game 7 to advance to the Eastern Conference final - WRALSportsFan.com",
+      "link": "https://www.wralsportsfan.com/panthers-rout-the-maple-leafs-6-1-in-game-7-to-advance-to-the-eastern-conference-final/22014181/"
     },
     {
-      "title": "Suddenly red-hot Cody Bellinger steals Subway Series show in first taste of rivalry - New York Post",
-      "link": "https://nypost.com/2025/05/19/sports/cody-bellinger-steals-subway-series-show-in-first-taste-of-new-city-rivalry/"
-    },
-    {
-      "title": "Liberty stuns top overall seed Texas A&M in NCAA softball tournament - NCAA.com",
-      "link": "https://www.ncaa.com/news/softball/article/2025-05-18/liberty-stuns-top-overall-seed-texas-am-ncaa-softball-tournament"
-    },
-    {
-      "title": "Jon Rahm\u2019s \u2018Green Mile\u2019 meltdown cost him PGA Championship chance he desperately wanted - New York Post",
-      "link": "https://nypost.com/2025/05/18/sports/jon-rahms-three-hole-meltdown-cost-him-pga-championship/"
+      "title": "Juan Soto\u2019s brutal Subway Series doesn\u2019t change these Mets, Yankees realities - New York Post",
+      "link": "https://nypost.com/2025/05/19/sports/juan-sotos-brutal-subway-series-doesnt-change-these-mets-yankees-realities/"
     },
     {
       "title": "d'Arnaud enters Freeway Series history as Halos pull off rare sweep - MLB.com",
       "link": "https://www.mlb.com/news/yusei-kikuchi-injured-as-angels-sweep-dodgers"
     },
     {
-      "title": "9 Offseason Free-Agent Landing Spots for Mitch Marner After Maple Leafs Elimination - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25195972-9-offseason-free-agent-landing-spots-mitch-marner-after-maple-leafs-elimination"
-    },
-    {
       "title": "Brocky Purdy\u2019s new contract comes with a no-trade clause - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brocky-purdys-new-contract-comes-with-a-no-trade-clause"
-    },
-    {
-      "title": "Bryson DeChambeau praised for partaking in PGA Championship interview after loss - Awful Announcing",
-      "link": "https://awfulannouncing.com/golf/bryson-dechambeau-praised-post-round-interview-pga-championship.html"
-    },
-    {
-      "title": "Renck: Nikola Jokic knows Nuggets need deeper bench. And that\u2019s not all - The Denver Post",
-      "link": "https://www.denverpost.com/2025/05/18/nuggets-game-7-loss-nikola-jokic-deeper-bench/"
-    },
-    {
-      "title": "Scottie Scheffler Calls for \u2018More Robust\u2019 Testing After Winning PGA With Backup Driver - Sports Illustrated",
-      "link": "https://www.si.com/golf/scottie-scheffler-calls-more-robust-testing-pga-championship-backup-driver"
-    },
-    {
-      "title": "Team Penske has miserable Indy 500 qualifying day with 1 crashed car and 2 failed inspections - AP News",
-      "link": "https://apnews.com/article/indy-500-penske-qualifying-pole-2992ad3cdf325a67844428f54807a5d4"
-    },
-    {
-      "title": "Israeli-born, Russia-raised Indy 500 pole winner Robert Shwartzman calls for peace around the world - AP News",
-      "link": "https://apnews.com/article/indianapolis-500-robert-shwartzman-russia-israel-82257295b3358f0fcfa49e778bd269cd"
     }
   ],
   "weather": {
