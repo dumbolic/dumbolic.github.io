@@ -1,9 +1,9 @@
 {
-  "quote": "None but ourselves can free our minds. \u2013 Bob Marley",
-  "fact": "Ingrown toenails are hereditary. \u00a0",
-  "crypto": "BTC: $106,312 | ETH: $2,531.56",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Where do young cows eat lunch? In the calf-ateria.",
+  "quote": "Some people want it to happen, some wish it would happen, others make it happen. \u2013 Michael Jordan",
+  "fact": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
+  "crypto": "BTC: $106,134 | ETH: $2,570.68",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What has three letters and starts with gas? A Car.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "All about the abandoned Apollo capsule in 'The Last of Us' (Season 2, Episode 6) - collectSPACE.com",
+      "link": "http://www.collectspace.com/news/news-051825a-the-last-of-us-space-museum-apollo-command-module.html"
+    },
+    {
       "title": "Google I/O 2025: How to Watch and What to Expect - CNET",
       "link": "https://www.cnet.com/tech/mobile/google-io-2025-android-how-to-watch-and-what-to-expect/"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 character trailer - Yoriichi Type Zero - Gematsu",
+      "link": "https://www.gematsu.com/2025/05/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-character-trailer-yoriichi-type-zero"
     },
     {
       "title": "Apple is trying to get \u2018LLM Siri\u2019 back on track - The Verge",
@@ -26,6 +34,10 @@
     {
       "title": "Apple Will Reportedly Be More Cautious About Announcing New Features Well in Advance - MacRumors",
       "link": "https://www.macrumors.com/2025/05/18/apple-to-cut-down-on-early-announcements/"
+    },
+    {
+      "title": "Hogwarts Legacy on Nintendo Switch 2 Gets a Massive Upgrade - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/hogwarts-legacy-nintendo-switch-2-upgrade-no-loading-screens/"
     },
     {
       "title": "\u2018Circular Motion,\u2019 a debut both wildly imaginative and deeply emotional - The Washington Post",
@@ -74,60 +86,52 @@
     {
       "title": "First successful demonstration of quantum error correction of qudits for quantum computers - Phys.org",
       "link": "https://phys.org/news/2025-05-successful-quantum-error-qudits.html"
-    },
-    {
-      "title": "Beloved Ex-PlayStation Boss Believes $70, $80 Games Are a Steal - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/05/beloved-ex-playstation-boss-believes-usd70-usd80-games-are-a-steal"
-    },
-    {
-      "title": "Internet is baffled by woman\u2019s transparent phone \u2014 and the explanation is even wilder - New York Post",
-      "link": "https://nypost.com/2025/05/18/lifestyle/internet-baffled-by-bizarre-glass-phone/"
-    },
-    {
-      "title": "Best Buy and GameStop confirm they're getting Switch 2 restocks \u2014 here's when you can get it - Tom's Guide",
-      "link": "https://www.tomsguide.com/gaming/nintendo/best-buy-and-gamestop-confirm-theyre-getting-switch-2-restocks-heres-when-you-can-get-it"
-    },
-    {
-      "title": "Star Citizen players slam CIG's \"non-apology\" after space-sim introduces \"pay to win\" items that cannot be earned in-game - Eurogamer",
-      "link": "https://www.eurogamer.net/star-citizen-players-slam-cigs-non-apology-after-space-sim-introduces-pay-to-win-items-that-cannot-be-earned-in-game"
     }
   ],
   "sports_news": [
     {
-      "title": "WNBA investigating alleged racial comments from fans toward Angel Reese during Fever-Sky game - New York Post",
-      "link": "https://nypost.com/2025/05/18/sports/wnba-investigating-alleged-racial-comments-from-fans-toward-angel-reese/"
+      "title": "Renck: Nikola Jokic knows Nuggets need deeper bench. And that\u2019s not all - The Denver Post",
+      "link": "https://www.denverpost.com/2025/05/18/nuggets-game-7-loss-nikola-jokic-deeper-bench/"
     },
     {
       "title": "Scottie Scheffler fends off challenge, cruises to PGA Championship win - NBC Sports",
       "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-fends-off-challenge-cruises-to-pga-championship-win"
     },
     {
+      "title": "Jon Rahm \u2018embarrassed\u2019 about finish, but keeps PGA Championship defeat in perspective - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/jon-rahm-embarrassed-about-finish-but-keeps-pga-championship-defeat-in-perspective"
+    },
+    {
+      "title": "Team Penske has miserable Indy 500 qualifying day with 1 crashed car and 2 failed inspections - AP News",
+      "link": "https://apnews.com/article/indy-500-penske-qualifying-pole-2992ad3cdf325a67844428f54807a5d4"
+    },
+    {
       "title": "2025 NCAA softball bracket: Women's College World Series scores, schedule - NCAA.com",
       "link": "https://www.ncaa.com/news/softball/article/2025-05-18/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
     },
     {
-      "title": "Jared Jones To Meet With Dr. Keith Meister Regarding UCL Sprain - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/jared-jones-to-meet-with-dr-keith-meister-regarding-ucl-sprain.html"
+      "title": "Israeli-born, Russia-raised Indy 500 pole winner Robert Shwartzman calls for peace around the world - AP News",
+      "link": "https://apnews.com/article/indianapolis-500-robert-shwartzman-russia-israel-82257295b3358f0fcfa49e778bd269cd"
+    },
+    {
+      "title": "Jesuit alum Mick Abel ties Phillies\u2019 franchise record in \u2018surreal\u2019 MLB debut - OregonLive.com",
+      "link": "https://www.oregonlive.com/mlb/2025/05/jesuit-alum-mick-abel-ties-phillies-franchise-record-in-surreal-mlb-debut.html"
     },
     {
       "title": "Wolves vs. Thunder odds, lines, betting: Oklahoma City opens as biggest Western Conference finals favorite in franchise history - Yahoo Sports",
       "link": "https://sports.yahoo.com/nba/article/wolves-vs-thunder-odds-lines-betting-oklahoma-city-opens-as-biggest-western-conference-finals-favorite-in-franchise-history-231917558.html"
     },
     {
+      "title": "Phillies reliever Alvarado suspended 80 games for PED violation - MLB.com",
+      "link": "https://www.mlb.com/news/jose-alvarado-suspended-80-games"
+    },
+    {
       "title": "Jac Caglianone earns promotion to Omaha - Royals Review",
       "link": "https://www.royalsreview.com/2025/5/18/24432798/jac-caglianone-earns-promotion-to-omaha"
     },
     {
-      "title": "Giants 3-2 Athletics (May 18, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/mlb/recap?gameId\\\\u003d401695606"
-    },
-    {
       "title": "Live lineup updates, results from 2025 All-Star Race Weekend - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/05/18/live-lineup-updates-results-from-2025-all-star-race-weekend/"
-    },
-    {
-      "title": "Power, Newgarden cars fail inspections at Indy - ESPN",
-      "link": "https://www.espn.com/auto/story/_/id/45213722/team-penske-crash-failed-inspections-indy-qualifying"
     },
     {
       "title": "An Aaron Rodgers-Steelers resolution could be coming soon - New York Post",
@@ -146,28 +150,16 @@
       "link": "https://www.indycar.com/news/2025/05/05-18-fast12"
     },
     {
-      "title": "Sunday Night Baseball Parlay, Picks for Yankees vs Mets - Action Network",
-      "link": "https://www.actionnetwork.com/mlb/sunday-night-baseball-parlay-picks-yankees-vs-mets-qs"
+      "title": "\u2018Insane work\u2019\u2026Fans roast PFL co-founder\u2019s message to Patchy Mix ahead of UFC 316 debut - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/18/insane-workfans-roast-pfl-co-founders-message-to-patchy-mix-ahead-of-ufc-316-debut/"
     },
     {
-      "title": "Pirates Roasted for Posting Paul Skenes Complete Game Graphic After Loss to Phillies - Sports Illustrated",
-      "link": "https://www.si.com/mlb/pirates-roasted-paul-skenes-complete-game-graphic-loss-phillies"
+      "title": "Craig Lutz survives a wild race at North Wilkesboro Speedway for his first Modified Tour victory since 2022 - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/05/18/craig-lutz-survives-a-wild-race-at-north-wilkesboro-speedway-for-his-first-modified-tour-victory-since-2022/"
     },
     {
       "title": "George Kirby eager to return; Matt Brash deploys new toy | Mariners notebook - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/mariners-george-kirby-eager-to-return-matt-brash-deploys-new-toy-notebook/"
-    },
-    {
-      "title": "Enhanced Box Score: Cubs 6, White Sox 2 \u2013 May 18, 2025 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/05/18/enhanced-box-score-cubs-6-white-sox-2-may-18-2025/"
-    },
-    {
-      "title": "If Jos\u00e9 Alvarado took PEDs, he made a rational choice. Phillies are cooked either way. - Inquirer.com",
-      "link": "https://www.inquirer.com/phillies/phillies-jose-alvarado-suspended-80-games-ped-use-20250518.html-2"
-    },
-    {
-      "title": "Race results: FaithFest Evangelistic Ministries 150 at North Wilkesboro Speedway - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/05/18/race-results-faithfest-evangelistic-ministries-150-at-north-wilkesboro-speedway/"
     }
   ],
   "weather": {
