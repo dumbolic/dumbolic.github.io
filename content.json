@@ -1,9 +1,9 @@
 {
-  "quote": "Any idea, plan, or purpose may be placed in the mind through repetition of thought. \u2013 Napoleon Hill",
-  "fact": "The state of Florida is bigger than England!",
-  "crypto": "BTC: $105,089 | ETH: $2,530.36",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why is Peter Pan always flying? Because he Neverlands.",
+  "quote": "Being a good example is the best form of service. \u2013 Sathya Sai Baba",
+  "fact": "There are 269 steps to the top of the Leaning Tower of Pisa",
+  "crypto": "BTC: $105,253 | ETH: $2,534.59",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nvidia's RTX 5060 launch and the erosion of independent GPU reviews - TechSpot",
-      "link": "https://www.techspot.com/news/107962-nvidia-rtx-5060-launch-erosion-independent-gpu-reviews.html"
+      "title": "GeForce RTX 5060 debuts for desktops and laptops, but proper reviews need to wait - VideoCardz.com",
+      "link": "https://videocardz.com/newz/geforce-rtx-5060-debuts-for-desktops-and-laptops-but-proper-reviews-need-to-wait"
+    },
+    {
+      "title": "Sorry, But IDK If You Can Handle The Cuteness Level Of All The Things In This Post - BuzzFeed",
+      "link": "https://www.buzzfeed.com/bekoconnell/cuteness-overload"
     },
     {
       "title": "Final Fantasy Artist Tetsuya Nomura Addresses Magic: The Gathering's Sephiroth Card Art - Anime News Network",
@@ -76,38 +80,50 @@
       "link": "https://news.ubisoft.com/en-us/article/t63XgnGFUidxcAZQiPqoe/rainbow-six-siege-x-and-operation-daybreak-year-10-roadmap-reveal-details"
     },
     {
-      "title": "Speed Up Arduino With Clever Coding - Hackaday",
-      "link": "https://hackaday.com/2025/05/18/speed-up-arduino-with-clever-coding/"
-    },
-    {
       "title": "Samsung Makes New Free Offer To Millions Of Galaxy Phone Buyers - Forbes",
       "link": "https://www.forbes.com/sites/jaymcgregor/2025/05/18/samsung-galaxy-s25-ultra-free-subscription-offer/"
     },
     {
-      "title": "Woman caught on video scrolling on a transparent \"phone\" that is sold out - PhoneArena",
-      "link": "https://www.phonearena.com/news/woman-caught-on-video-scrolling-transparent-device_id170484"
+      "title": "I\u2019ve tried Apple Music\u2019s new Sound Theory playlists, and they\u2019ve solved my sleep troubles - TechRadar",
+      "link": "https://www.techradar.com/audio/apple-music/ive-tried-apple-musics-new-sound-theory-playlists-and-theyve-solved-my-sleep-troubles"
     }
   ],
   "sports_news": [
     {
-      "title": "Christopher Bell beats Joey Logano to win NASCAR All-Star Race - ESPN",
-      "link": "https://www.espn.com/racing/nascar/story/_/id/45217069/christopher-bell-beats-joey-logano-win-nascar-all-star-race"
+      "title": "Rob Gronkowski bursts out laughing at joke about Bill Belichick\u2019s 24-year-old girlfriend Jordon Hudson - New York Post",
+      "link": "https://nypost.com/2025/05/19/sports/rob-gronkowski-bursts-out-laughing-at-joke-about-bill-belichicks-girlfriend-jordon-hudson/"
+    },
+    {
+      "title": "\u2018He\u2019s a killer\u2019: Scottie Scheffler leaves no doubt at the PGA Championship - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/05/18/scottie-scheffler-wins-pga-championship/"
+    },
+    {
+      "title": "Joey Logano laments Bell\u2019s brushback, strategy stumble as All-Star runner-up - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/05/16/cup-series-2025-all-star-north-wilkesboro-joey-logano/"
+    },
+    {
+      "title": "Jon Rahm\u2019s \u2018Green Mile\u2019 meltdown cost him PGA Championship chance he desperately wanted - New York Post",
+      "link": "https://nypost.com/2025/05/18/sports/jon-rahms-three-hole-meltdown-cost-him-pga-championship/"
+    },
+    {
+      "title": "d'Arnaud enters Freeway Series history as Halos pull off rare sweep - MLB.com",
+      "link": "https://www.mlb.com/news/yusei-kikuchi-injured-as-angels-sweep-dodgers"
+    },
+    {
+      "title": "9 Offseason Free-Agent Landing Spots for Mitch Marner After Maple Leafs Elimination - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25195972-9-offseason-free-agent-landing-spots-mitch-marner-after-maple-leafs-elimination"
     },
     {
       "title": "Brocky Purdy\u2019s new contract comes with a no-trade clause - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brocky-purdys-new-contract-comes-with-a-no-trade-clause"
     },
     {
+      "title": "Bryson DeChambeau praised for partaking in PGA Championship interview after loss - Awful Announcing",
+      "link": "https://awfulannouncing.com/golf/bryson-dechambeau-praised-post-round-interview-pga-championship.html"
+    },
+    {
       "title": "Renck: Nikola Jokic knows Nuggets need deeper bench. And that\u2019s not all - The Denver Post",
       "link": "https://www.denverpost.com/2025/05/18/nuggets-game-7-loss-nikola-jokic-deeper-bench/"
-    },
-    {
-      "title": "Scottie Scheffler fends off challenge, cruises to PGA Championship win - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-fends-off-challenge-cruises-to-pga-championship-win"
-    },
-    {
-      "title": "Jon Rahm \u2018embarrassed\u2019 about finish, but keeps PGA Championship defeat in perspective - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/jon-rahm-embarrassed-about-finish-but-keeps-pga-championship-defeat-in-perspective"
     },
     {
       "title": "Team Penske has miserable Indy 500 qualifying day with 1 crashed car and 2 failed inspections - AP News",
@@ -130,8 +146,8 @@
       "link": "https://www.nba.com/news/2025-nba-playoffs-series-preview-thunder-timberwolves"
     },
     {
-      "title": "Royals No. 1 prospect Caglianone promoted to Triple-A - MLB.com",
-      "link": "https://www.mlb.com/news/jac-caglianone-promoted-to-triple-a-by-royals"
+      "title": "Jac Caglianone earns promotion to Omaha - Royals Review",
+      "link": "https://www.royalsreview.com/2025/5/18/24432798/jac-caglianone-earns-promotion-to-omaha"
     },
     {
       "title": "Noah Gragson wins 2025 All-Star Race Fan Vote - NASCAR.com",
@@ -142,24 +158,12 @@
       "link": "https://www.nascar.com/news-media/2025/05/18/live-lineup-updates-results-from-2025-all-star-race-weekend/"
     },
     {
-      "title": "An Aaron Rodgers-Steelers resolution could be coming soon - New York Post",
-      "link": "https://nypost.com/2025/05/18/sports/an-aaron-rodgers-steelers-resolution-could-be-coming-soon/"
-    },
-    {
-      "title": "Knicks\u2019 match-up with Pacers could come with Karl-Anthony Towns boon - New York Post",
-      "link": "https://nypost.com/2025/05/18/sports/pacers-playoff-match-up-favors-knicks-karl-anthony-towns/"
+      "title": "Rewinding No. 16 seed Oregon softball\u2019s walk-off comeback win over Stanford in Eugene Regional final - OregonLive.com",
+      "link": "https://www.oregonlive.com/ducks/2025/05/live-updates-no-16-seed-oregon-softball-vs-stanford-in-eugene-regional-final.html"
     },
     {
       "title": "Felix Rosenqvist Leads into Firestone Fast Six after Dramatic Top 12 - INDYCAR.com",
       "link": "https://www.indycar.com/news/2025/05/05-18-fast12"
-    },
-    {
-      "title": "Pirates Roasted for Posting Paul Skenes Complete Game Graphic After Loss to Phillies - Sports Illustrated",
-      "link": "https://www.si.com/mlb/pirates-roasted-paul-skenes-complete-game-graphic-loss-phillies"
-    },
-    {
-      "title": "Craig Lutz survives a wild race at North Wilkesboro Speedway for his first Modified Tour victory since 2022 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/05/18/craig-lutz-survives-a-wild-race-at-north-wilkesboro-speedway-for-his-first-modified-tour-victory-since-2022/"
     }
   ],
   "weather": {
