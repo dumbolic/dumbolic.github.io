@@ -1,27 +1,55 @@
 {
-  "quote": "A self that goes on changing is a self that goes on living. \u2013 Virginia Woolf",
-  "fact": "To Ensure Promptness, one is expected to pay beyond the value of service \u2013 hence the later abbreviation: T.I.P.",
-  "crypto": "BTC: $105,607 | ETH: $2,543.08",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.",
+  "quote": "Anger begins with folly, and ends with repentance.  \u2013 Beverly Sills",
+  "fact": "Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.",
+  "crypto": "BTC: $105,577 | ETH: $2,542.2",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why don\u2019t skeletons ever go trick or treating? Because they have nobody to go with.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Nvidia's RTX 5060 launch and the erosion of independent GPU reviews - TechSpot",
+      "link": "https://www.techspot.com/news/107962-nvidia-rtx-5060-launch-erosion-independent-gpu-reviews.html"
+    },
+    {
+      "title": "Final Fantasy Artist Tetsuya Nomura Addresses Magic: The Gathering's Sephiroth Card Art - Anime News Network",
+      "link": "https://www.animenewsnetwork.com/interest/2025-05-18/final-fantasy-artist-tetsuya-nomura-addresses-magic-the-gathering-sephiroth-card-art/.224405"
+    },
+    {
+      "title": "Intel Panther Lake CPUs Demoed At Computex, Close-Up Die Shots, ES Specs & Consumer-Ready Launch in Early 2026 - Wccftech",
+      "link": "https://wccftech.com/intel-panther-lake-cpus-demo-computex-close-up-die-shots-launch-in-early-2026/"
+    },
+    {
+      "title": "Capcom vs. SNK 2 wins poll by a landslide for favorite title in Capcom Fighting Collection 2 - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/may/18/wins-capcom-snk-2-poll/"
+    },
+    {
+      "title": "Xiaomi to officially unveil YU7, its 1st SUV, on May 22 - CnEVPost",
+      "link": "https://cnevpost.com/2025/05/19/xiaomi-to-unveil-yu7-may-22/"
+    },
+    {
+      "title": "Samsung adds NVIDIA G-SYNC to 2025 OLED TVs, starting with OLED S95F flagship - VideoCardz.com",
+      "link": "https://videocardz.com/newz/samsung-adds-nvidia-g-sync-to-2025-oled-tvs-starting-with-oled-s95f-flagship"
+    },
     {
       "title": "All about the abandoned Apollo capsule in 'The Last of Us' (Season 2, Episode 6) - collectSPACE.com",
       "link": "http://www.collectspace.com/news/news-051825a-the-last-of-us-space-museum-apollo-command-module.html"
     },
     {
-      "title": "Google I/O 2025: How to Watch and What to Expect - CNET",
-      "link": "https://www.cnet.com/tech/mobile/google-io-2025-android-how-to-watch-and-what-to-expect/"
-    },
-    {
       "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 character trailer - Yoriichi Type Zero - Gematsu",
       "link": "https://www.gematsu.com/2025/05/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-character-trailer-yoriichi-type-zero"
+    },
+    {
+      "title": "First look into upcoming Video Overviews before Google I/O - TestingCatalog",
+      "link": "https://www.testingcatalog.com/first-look-into-upcoming-ai-generated-video-overviews-from-google/"
+    },
+    {
+      "title": "Electric vehicles get major boost from new ultra-powerful lightweight battery - The Brighter Side of News",
+      "link": "https://www.thebrighterside.news/post/electric-vehicles-get-major-boost-from-new-ultra-powerful-lightweight-battery/"
     },
     {
       "title": "Apple is trying to get \u2018LLM Siri\u2019 back on track - The Verge",
@@ -32,12 +60,12 @@
       "link": "https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/"
     },
     {
-      "title": "Apple Will Reportedly Be More Cautious About Announcing New Features Well in Advance - MacRumors",
-      "link": "https://www.macrumors.com/2025/05/18/apple-to-cut-down-on-early-announcements/"
-    },
-    {
       "title": "Hogwarts Legacy on Nintendo Switch 2 Gets a Massive Upgrade - ComicBook.com",
       "link": "http://comicbook.com/gaming/news/hogwarts-legacy-nintendo-switch-2-upgrade-no-loading-screens/"
+    },
+    {
+      "title": "Apple Will Reportedly Let iPhone Users in the EU Switch Away From Siri - MacRumors",
+      "link": "https://www.macrumors.com/2025/05/18/apple-to-let-eu-users-switch-away-from-siri/"
     },
     {
       "title": "\u2018Circular Motion,\u2019 a debut both wildly imaginative and deeply emotional - The Washington Post",
@@ -52,43 +80,23 @@
       "link": "https://hackaday.com/2025/05/18/speed-up-arduino-with-clever-coding/"
     },
     {
-      "title": "Google Chrome Deadline\u201421 Days To Update Or Stop Using Browser - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/05/18/google-chrome-deadline-21-days-to-update-or-stop-using-your-browser/"
+      "title": "Samsung Makes New Free Offer To Millions Of Galaxy Phone Buyers - Forbes",
+      "link": "https://www.forbes.com/sites/jaymcgregor/2025/05/18/samsung-galaxy-s25-ultra-free-subscription-offer/"
     },
     {
-      "title": "Nintendo shows off unique Switch 2 home screen sounds - My Nintendo News",
-      "link": "https://mynintendonews.com/2025/05/18/nintendo-shows-off-switch-2-unique-home-screen-sounds/"
-    },
-    {
-      "title": "Syberia Remastered announced for PS5, Xbox Series, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/syberia-remastered-announced-for-ps5-xbox-series-and-pc"
-    },
-    {
-      "title": "Metal Detectorists Have Just Discovered The Most Legendary Artifact: A Gold Raven Head - The Daily Galaxy",
-      "link": "https://dailygalaxy.com/2025/05/metal-detectorists-have-just-discovered-the-most-legendary-artifact-a-gold-raven-head/"
-    },
-    {
-      "title": "Google Wallet requiring authentication to even open the app after a few minutes - 9to5Google",
-      "link": "http://9to5google.com/2025/05/18/google-wallet-app-verify/"
-    },
-    {
-      "title": "Ditching Obsidian and building my own - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d44022448"
-    },
-    {
-      "title": "Fantasy Life i early access on Xbox Series X/S delayed \" due to an ongoing technical issue on Xbox's side\" - Eurogamer",
-      "link": "https://www.eurogamer.net/fantasy-life-i-early-access-on-xbox-series-xs-delayed-due-to-an-ongoing-technical-issue-on-xboxs-side"
-    },
-    {
-      "title": "Injustice 3 is rumoured to be in development - Gamereactor UK",
-      "link": "https://www.gamereactor.eu/injustice-3-is-rumored-to-be-in-development-1545223/"
-    },
-    {
-      "title": "First successful demonstration of quantum error correction of qudits for quantum computers - Phys.org",
-      "link": "https://phys.org/news/2025-05-successful-quantum-error-qudits.html"
+      "title": "Woman caught on video scrolling on a transparent \"phone\" that is sold out - PhoneArena",
+      "link": "https://www.phonearena.com/news/woman-caught-on-video-scrolling-transparent-device_id170484"
     }
   ],
   "sports_news": [
+    {
+      "title": "Christopher Bell beats Joey Logano to win NASCAR All-Star Race - ESPN",
+      "link": "https://www.espn.com/racing/nascar/story/_/id/45217069/christopher-bell-beats-joey-logano-win-nascar-all-star-race"
+    },
+    {
+      "title": "Brocky Purdy\u2019s new contract comes with a no-trade clause - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brocky-purdys-new-contract-comes-with-a-no-trade-clause"
+    },
     {
       "title": "Renck: Nikola Jokic knows Nuggets need deeper bench. And that\u2019s not all - The Denver Post",
       "link": "https://www.denverpost.com/2025/05/18/nuggets-game-7-loss-nikola-jokic-deeper-bench/"
@@ -106,10 +114,6 @@
       "link": "https://apnews.com/article/indy-500-penske-qualifying-pole-2992ad3cdf325a67844428f54807a5d4"
     },
     {
-      "title": "2025 NCAA softball bracket: Women's College World Series scores, schedule - NCAA.com",
-      "link": "https://www.ncaa.com/news/softball/article/2025-05-18/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
-    },
-    {
       "title": "Israeli-born, Russia-raised Indy 500 pole winner Robert Shwartzman calls for peace around the world - AP News",
       "link": "https://apnews.com/article/indianapolis-500-robert-shwartzman-russia-israel-82257295b3358f0fcfa49e778bd269cd"
     },
@@ -118,16 +122,20 @@
       "link": "https://www.oregonlive.com/mlb/2025/05/jesuit-alum-mick-abel-ties-phillies-franchise-record-in-surreal-mlb-debut.html"
     },
     {
-      "title": "Wolves vs. Thunder odds, lines, betting: Oklahoma City opens as biggest Western Conference finals favorite in franchise history - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/wolves-vs-thunder-odds-lines-betting-oklahoma-city-opens-as-biggest-western-conference-finals-favorite-in-franchise-history-231917558.html"
+      "title": "3 best things we\u2019re seeing from Mariners after sweep over Padres - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/3-best-things-seattle-mariners-after-sweep-padres/1810972"
     },
     {
-      "title": "Phillies reliever Alvarado suspended 80 games for PED violation - MLB.com",
-      "link": "https://www.mlb.com/news/jose-alvarado-suspended-80-games"
+      "title": "NBA playoffs: What to expect in Thunder-Timberwolves series - NBA",
+      "link": "https://www.nba.com/news/2025-nba-playoffs-series-preview-thunder-timberwolves"
     },
     {
-      "title": "Jac Caglianone earns promotion to Omaha - Royals Review",
-      "link": "https://www.royalsreview.com/2025/5/18/24432798/jac-caglianone-earns-promotion-to-omaha"
+      "title": "Royals No. 1 prospect Caglianone promoted to Triple-A - MLB.com",
+      "link": "https://www.mlb.com/news/jac-caglianone-promoted-to-triple-a-by-royals"
+    },
+    {
+      "title": "Noah Gragson wins 2025 All-Star Race Fan Vote - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/05/18/2025-all-star-open-noah-gragson-wins-fan-vote/"
     },
     {
       "title": "Live lineup updates, results from 2025 All-Star Race Weekend - NASCAR.com",
@@ -138,28 +146,20 @@
       "link": "https://nypost.com/2025/05/18/sports/an-aaron-rodgers-steelers-resolution-could-be-coming-soon/"
     },
     {
-      "title": "Nuggets-Thunder Game 7 3-pointers: Why did refs let Alex Caruso take out Nikola Jokic? - The Denver Post",
-      "link": "https://www.denverpost.com/2025/05/18/alex-caruso-nikola-jokic-nuggets-thunder-game-7/"
-    },
-    {
-      "title": "Report: 49ers \u2018very close\u2019 to reaching extension with another star - Niners Nation",
-      "link": "https://www.ninersnation.com/2025/5/18/24432777/san-francisco-49ers-news-report-very-close-to-reaching-extension-with-star-linebacker-fred-warner"
+      "title": "Knicks\u2019 match-up with Pacers could come with Karl-Anthony Towns boon - New York Post",
+      "link": "https://nypost.com/2025/05/18/sports/pacers-playoff-match-up-favors-knicks-karl-anthony-towns/"
     },
     {
       "title": "Felix Rosenqvist Leads into Firestone Fast Six after Dramatic Top 12 - INDYCAR.com",
       "link": "https://www.indycar.com/news/2025/05/05-18-fast12"
     },
     {
-      "title": "\u2018Insane work\u2019\u2026Fans roast PFL co-founder\u2019s message to Patchy Mix ahead of UFC 316 debut - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/05/18/insane-workfans-roast-pfl-co-founders-message-to-patchy-mix-ahead-of-ufc-316-debut/"
+      "title": "Pirates Roasted for Posting Paul Skenes Complete Game Graphic After Loss to Phillies - Sports Illustrated",
+      "link": "https://www.si.com/mlb/pirates-roasted-paul-skenes-complete-game-graphic-loss-phillies"
     },
     {
       "title": "Craig Lutz survives a wild race at North Wilkesboro Speedway for his first Modified Tour victory since 2022 - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/05/18/craig-lutz-survives-a-wild-race-at-north-wilkesboro-speedway-for-his-first-modified-tour-victory-since-2022/"
-    },
-    {
-      "title": "George Kirby eager to return; Matt Brash deploys new toy | Mariners notebook - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-george-kirby-eager-to-return-matt-brash-deploys-new-toy-notebook/"
     }
   ],
   "weather": {
