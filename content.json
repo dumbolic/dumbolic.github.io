@@ -1,9 +1,9 @@
 {
-  "quote": "Live the moment for the moment. \u2013 Michael Jordan",
-  "fact": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
-  "crypto": "BTC: $105,794 | ETH: $2,476.11",
+  "quote": "It isn't that they can't see the solution. It is that they can't see the problem. \u2013 Gilbert Chesterton",
+  "fact": "1 in every 4 Americans has appeared someway or another on television.",
+  "crypto": "BTC: $105,639 | ETH: $2,461.09",
   "tip": "Keep your software dependencies updated.",
-  "joke": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.",
+  "joke": "What kind of music do mummy's like? Rap",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Hyundai Drops Ioniq 5 N Lease Price By $200 Per Month - Jalopnik",
+      "link": "https://www.jalopnik.com/1863912/hyundai-drops-ioniq-5-lease-price/"
+    },
     {
       "title": "iRacing Development Update: May 2025 - iRacing.com | iRacing.com Motorsport Simulations - iRacing.com",
       "link": "https://www.iracing.com/iracing-development-update-may-2025/"
@@ -20,8 +24,16 @@
       "link": "https://www.theverge.com/tech/669721/lg-c4-oled-tv-memorial-day-2025-deal-sale"
     },
     {
+      "title": "Microsoft takes Windows Subsystem for Linux open source after nearly a decade - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/microsoft-takes-windows-subsystem-for-linux-open-source-after-nearly-a-decade/"
+    },
+    {
       "title": "Apple is definitely gearing up for an iPhone Ultra - 9to5Mac",
       "link": "https://9to5mac.com/2025/05/19/iphone-ultra-more-likely-than-ever/"
+    },
+    {
+      "title": "Here\u2019s a look at the official Nintendo Switch 2 carrying case - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/05/19/heres-a-look-at-the-official-nintendo-switch-2-carrying-case/"
     },
     {
       "title": "Google launches standalone NotebookLM app for Android - TechCrunch",
@@ -32,6 +44,14 @@
       "link": "https://www.cnet.com/deals/my-favorite-laptop-for-travel-weighs-less-than-a-macbook-air-and-its-on-sale-for-the-first-time/"
     },
     {
+      "title": "Visit Lindblum In SCG\u2019s Exclusive MTG \u2014 FINAL FANTASY Preview Card - Star City Games",
+      "link": "https://articles.starcitygames.com/magic-the-gathering/visit-lindblum-in-scgs-exclusive-mtg-final-fantasy-preview-card/"
+    },
+    {
+      "title": "Bluesky is testing a new \u2018live\u2019 indicator, starting with the NBA - The Verge",
+      "link": "https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts"
+    },
+    {
       "title": "Here's What Cyberpunk 2077 Pok\u00e9mon Scarlet And Violet , And More Look Like On Switch 2 - Kotaku",
       "link": "https://kotaku.com/cyberpunk-2077-switch-2-footage-pokemon-violet-scarlet-1851781304"
     },
@@ -40,8 +60,12 @@
       "link": "https://www.gamespot.com/articles/the-overwatch-2-x-street-fighter-collaboration-is-a-match-made-in-heaven/1100-6531643/"
     },
     {
-      "title": "Microsoft is opening its on-device AI models up to web apps in Edge - The Verge",
-      "link": "https://www.theverge.com/news/669528/microsoft-ai-edge-browser-web-app-build-apis"
+      "title": "New Xbox Update Makes A Key Improvement - GameSpot",
+      "link": "https://www.gamespot.com/articles/new-xbox-update-makes-a-key-improvement/1100-6531640/"
+    },
+    {
+      "title": "Chrono Odyssey PC closed beta test set for June - Gematsu",
+      "link": "https://www.gematsu.com/2025/05/chrono-odyssey-pc-closed-beta-test-set-for-june"
     },
     {
       "title": "Nvidia Swears You\u2019ll Be Able to Buy an RTX 5060 at $300, but Good Luck Finding One - Gizmodo",
@@ -52,62 +76,82 @@
       "link": "https://arstechnica.com/gaming/2025/05/anno-117-pax-romana-hands-on-deep-city-building-in-a-gorgeous-ancient-rome/"
     },
     {
-      "title": "AI dev tools for Windows get a fresh coat of paint - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/19/microsoft-gives-its-ai-dev-tools-for-windows-a-fresh-coat-of-paint/"
+      "title": "GitHub, Microsoft embrace Anthropic\u2019s spec for connecting AI models to data sources - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/19/github-microsoft-embrace-anthropics-spec-for-connecting-ai-models-to-data-sources/"
     },
     {
-      "title": "Microsoft\u2019s Windows Subsystem for Linux is now open-source - The Verge",
-      "link": "https://www.theverge.com/news/669286/microsoft-windows-subsystem-for-linux-open-source"
+      "title": "Razer made its new Blade 14 thinner than ever and gave it a full-power RTX 5070 - The Verge",
+      "link": "https://www.theverge.com/news/669500/razer-blade-14-gaming-laptop-rtx-5060-5070-specs-price"
     },
     {
       "title": "GitHub\u2019s new AI coding agent can fix bugs for you - The Verge",
       "link": "https://www.theverge.com/news/669339/github-ai-coding-agent-fix-bugs"
-    },
-    {
-      "title": "Epic goes to court to force Fortnite back on US iOS - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/05/epic-goes-to-court-to-force-fortnite-back-on-us-ios/"
-    },
-    {
-      "title": "Struggling to declutter? Try the \u2018poop rule.\u2019 - The Washington Post",
-      "link": "https://www.washingtonpost.com/home/2025/05/19/poop-rule-decluttering/"
-    },
-    {
-      "title": "No Apps, No Notifications: US Startup's 'Fake' Phones Spark Buzz Online - NDTV",
-      "link": "https://www.ndtv.com/offbeat/no-apps-no-notifications-us-startups-fake-phones-spark-buzz-online-8455272"
-    },
-    {
-      "title": "Smash Bros. Melee Player Loses $2,000 To Rare Pok\u00e9mon Stadium Glitch - Kotaku",
-      "link": "https://kotaku.com/smash-bros-melee-moky-pokemon-stadium-glitch-1851781265"
-    },
-    {
-      "title": "Alexandria Ocasio-Cortez\u2019s Future Husband Sounds Like a Dreamboat: Get to Know Riley Roberts - Yahoo",
-      "link": "https://parade.com/celebrities/alexandria-ocasio-cortez-riley-roberts-relationship"
-    },
-    {
-      "title": "Google Chrome\u2019s Tab Search button is moving - 9to5Google",
-      "link": "http://9to5google.com/2025/05/19/google-chrome-tab-search-update/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Browns sign QB Shedeur Sanders - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-sign-qb-shedeur-sanders"
+    },
+    {
+      "title": "Spencer Rattler: Can\u2019t put too much pressure on yourself in QB competition - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-cant-put-too-much-pressure-on-yourself-in-qb-competition"
+    },
+    {
+      "title": "Bill Simmons Floats Bold Celtics Trade Idea That Would Send Jaylen Brown to Rockets - Sports Illustrated",
+      "link": "https://www.si.com/nba/bill-simmons-floats-bold-celtics-trade-idea-jaylen-brown-rockets"
+    },
+    {
+      "title": "INDYCAR penalizes two-time defending champ Josef Newgarden for Indy 500 - FOX Sports",
+      "link": "https://www.foxsports.com/stories/motor/indycar-penalizes-josef-newgarden-will-power-penske"
+    },
+    {
+      "title": "A Letter from Tom Gores - NBA",
+      "link": "https://pistons.com/news/a-letter-from-tom-gores"
+    },
+    {
+      "title": "The Orioles Are Nowhere - Defector",
+      "link": "https://defector.com/the-orioles-are-nowhere"
+    },
+    {
+      "title": "Derrick Henry on extension: \"I\u2019m just very grateful for this organization\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-extension-im-just-very-grateful-for-this-organization"
+    },
+    {
+      "title": "The Stage Is Set For A Wild Serie A Finale - Defector",
+      "link": "https://defector.com/the-stage-is-set-for-a-wild-serie-a-finale"
+    },
+    {
+      "title": "Nick Sirianni earns multi-year extension from Eagles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-earns-multi-year-extension-from-eagles"
+    },
     {
       "title": "Seattle Mariners: How pitchers beat SD; Brash adds change - Seattle Sports",
       "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/shannon-drayer/seattle-mariners-drayer-pitching-padres-matt-brash-changeup/1811021"
     },
     {
-      "title": "Eagles sign Nick Sirianni to contract extension - Philadelphia Eagles",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-nick-sirianni-contract-extension"
+      "title": "More details about Brock Purdy\u2019s contract emerge: The 49ers are getting a steal \u2014 if they keep winning - Niners Nation",
+      "link": "https://www.ninersnation.com/2025/5/19/24433197/details-about-brock-purdys-contract-emerge-the-49ers-are-getting-a-steal-if-they-keep-winning"
+    },
+    {
+      "title": "Stanley Cup Playoffs conference finals predictions by NHL.com - NHL.com",
+      "link": "https://www.nhl.com/news/2025-stanley-cup-playoffs-conference-finals-predictions-by-nhl-writers"
     },
     {
       "title": "Stella admits McLaren were \u2018a little surprised\u2019 by Red Bull\u2019s pace following Verstappen's Imola triumph - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/stella-admits-mclaren-were-a-little-surprised-by-red-bulls-pace-following.3HU4d9wJCj5dLMMROWCzdJ"
     },
     {
-      "title": "Penske won't have a shot at the Indy 500 pole after inspection issue - Motorsport.com",
-      "link": "https://www.motorsport.com/indycar/news/penske-cars-fail-inspection-wont-be-allowed-to-make-run-at-indy-500-pole/10724256/"
-    },
-    {
       "title": "Carlos Alcaraz Keeps Smiling At Jannik Sinner\u2019s Expense - Defector",
       "link": "https://defector.com/carlos-alcaraz-keeps-smiling-at-jannik-sinners-expense"
+    },
+    {
+      "title": "Schedule Set for Florida-Georgia Softball Super Regional - Florida Gators",
+      "link": "https://floridagators.com/news/2025/5/19/schedule-set-for-florida-georgia-softball-super-regional.aspx"
+    },
+    {
+      "title": "2025 NBA Mock Draft: Celtics go with SEC star after combine performances lead to shake-up - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/2025-nba-mock-draft-celtics-go-with-sec-star-after-combine-performances-lead-to-shake-up/"
     },
     {
       "title": "Mets fans irate over $765 million star Juan Soto not hustling at crucial Subway Series moment - New York Post",
@@ -116,54 +160,6 @@
     {
       "title": "Joe Douglas is reportedly returning to the Eagles - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/2025/5/19/24433139/joe-douglas-eagles-jets-general-manager-front-office-howie-roseman-nfl-news-philadelphia"
-    },
-    {
-      "title": "Braves Activate Spencer Strider - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/braves-expected-to-activate-spencer-strider-on-tuesday.html"
-    },
-    {
-      "title": "Nikola Jokic Got Candid About Denver's One Big Flaw After Game 7 Loss to Thunder - Sports Illustrated",
-      "link": "https://www.si.com/nba/nikola-jokic-denver-bench-depth-comments"
-    },
-    {
-      "title": "1 word to describe each of the last 4 teams standing in NBA playoffs - NBA",
-      "link": "https://www.nba.com/news/1-word-to-describe-teams-2025-conference-finals"
-    },
-    {
-      "title": "Takeaways: Inside Brock Purdy\u2019s New Contract With the 49ers - Sports Illustrated",
-      "link": "https://www.si.com/nfl/takeaways-inside-brock-purdy-new-contract-san-francisco-49ers"
-    },
-    {
-      "title": "The Maple Leafs Helped the Blackhawks With Their Loss on Sunday - Bleacher Nation",
-      "link": "https://www.bleachernation.com/blackhawks/2025/05/19/the-maple-leafs-helped-the-blackhawks-with-their-loss-on-sunday/"
-    },
-    {
-      "title": "Jon Rahm has emotional moment with wife after $1.5 million PGA Championship meltdown - New York Post",
-      "link": "https://nypost.com/2025/05/19/sports/jon-rahm-has-emotional-moment-with-wife-after-1-5-million-pga-championship-meltdown/"
-    },
-    {
-      "title": "Brad Marchand Needles Maple Leafs After Historic Game 7 Win - NESN",
-      "link": "https://nesn.com/2025/05/brad-marchand-needles-maple-leafs-after-historic-game-7-win/"
-    },
-    {
-      "title": "With emphasis at PGA, Scottie Scheffler reminds golf world who\u2019s No. 1 - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/with-emphasis-at-pga-scottie-scheffler-reminds-golf-world-whos-no-1"
-    },
-    {
-      "title": "WNBA investigating reports of racial slurs directed towards Angel Reese - CNN",
-      "link": "https://www.cnn.com/2025/05/19/sport/wnba-investigating-reports-racial-slurs-angel-reese-spt"
-    },
-    {
-      "title": "MLB Power Rankings: Tigers finally claim No. 1, plus why Twins, Cardinals represent the beauty of baseball - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/mlb-power-rankings-tigers-finally-claim-no-1-plus-why-twins-cardinals-represent-the-beauty-of-baseball/"
-    },
-    {
-      "title": "Aaron Gordon Thinks There Should Be More Time Between Games During the NBA Playoffs - Sports Illustrated",
-      "link": "https://www.si.com/nba/aaron-gordon-thinks-should-be-more-time-between-games-nba-playoffs"
-    },
-    {
-      "title": "How the Yankees\u2019 Juan Soto detour propelled them to an early Subway Series statement - New York Post",
-      "link": "https://nypost.com/2025/05/19/sports/how-yankees-juan-soto-detour-propelled-them-to-subway-series-statement/"
     }
   ],
   "weather": {
