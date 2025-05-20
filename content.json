@@ -1,9 +1,9 @@
 {
-  "quote": "If we have no peace, it is because we have forgotten that we belong to each other. \u2013 Mother Teresa",
-  "fact": "If one spells out numbers, they would have to count to One Thousand before coming across the letter \"A\".",
-  "crypto": "BTC: $106,685 | ETH: $2,506.43",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Some people eat light bulbs. They say it's a nice light snack.",
+  "quote": "Freedom lies in being bold. \u2013 Robert Frost",
+  "fact": "Average number of days a West German goes without washing his underwear: 7",
+  "crypto": "BTC: $106,870 | ETH: $2,514.22",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "You can't trust a ladder. It will always let you down",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The Last Of Us Cut A Beloved Segment From The Museum Scene, But It Looks Like HBO Shot It - Kotaku",
+      "link": "https://kotaku.com/last-of-us-dinosaur-museum-scene-set-pedro-pascal-joel-1851781387"
+    },
+    {
+      "title": "Baldur's Gate 3's terrible miniatures \"missed the mark\" so much, WizKids is offering refunds - Eurogamer",
+      "link": "https://www.eurogamer.net/baldurs-gate-3s-terrible-miniatures-missed-the-mark-so-much-wizkids-is-offering-refunds"
+    },
+    {
+      "title": "The Best Buy Memorial Day Sale Is Now Live With Fresh New Tech Deals - IGN",
+      "link": "https://www.ign.com/articles/best-buy-memorial-day-sale-2025-sale"
+    },
+    {
+      "title": "$15 Will Get You Every Witcher Game Including One Of The Best RPGs Of The Last Decade - Kotaku",
+      "link": "https://kotaku.com/witcher-3-sale-discount-steam-ps5-anniversary-1851781353"
+    },
+    {
+      "title": "Motorola confirms delayed Razr launch at Verizon amid bizarre rumors - 9to5Google",
+      "link": "http://9to5google.com/2025/05/19/motorola-razr-verizon-delay-rumors/"
+    },
+    {
+      "title": "Google releases its NotebookLM mobile app - The Verge",
+      "link": "https://www.theverge.com/news/669828/google-releases-its-notebooklm-mobile-app"
+    },
+    {
       "title": "Hyundai Drops Ioniq 5 N Lease Price By $200 Per Month - Jalopnik",
       "link": "https://www.jalopnik.com/1863912/hyundai-drops-ioniq-5-lease-price/"
+    },
+    {
+      "title": "Nintendo\u2019s latest Switch 2 video shows a close-up look at game cards, carry case - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/nintendos-latest-switch-2-video-shows-a-close-up-look-at-game-cards-carry-case/"
     },
     {
       "title": "iRacing Development Update: May 2025 - iRacing.com | iRacing.com Motorsport Simulations - iRacing.com",
@@ -32,28 +60,12 @@
       "link": "https://9to5mac.com/2025/05/19/iphone-ultra-more-likely-than-ever/"
     },
     {
-      "title": "Here\u2019s a look at the official Nintendo Switch 2 carrying case - My Nintendo News",
-      "link": "https://mynintendonews.com/2025/05/19/heres-a-look-at-the-official-nintendo-switch-2-carrying-case/"
-    },
-    {
-      "title": "Google launches standalone NotebookLM app for Android - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/19/google-launches-standalone-notebooklm-app-for-android/"
-    },
-    {
       "title": "My Favorite Laptop for Travel Weighs Less Than a MacBook Air, and It's on Sale for the First Time - CNET",
       "link": "https://www.cnet.com/deals/my-favorite-laptop-for-travel-weighs-less-than-a-macbook-air-and-its-on-sale-for-the-first-time/"
     },
     {
       "title": "Visit Lindblum In SCG\u2019s Exclusive MTG \u2014 FINAL FANTASY Preview Card - Star City Games",
       "link": "https://articles.starcitygames.com/magic-the-gathering/visit-lindblum-in-scgs-exclusive-mtg-final-fantasy-preview-card/"
-    },
-    {
-      "title": "Bluesky is testing a new \u2018live\u2019 indicator, starting with the NBA - The Verge",
-      "link": "https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts"
-    },
-    {
-      "title": "Here's What Cyberpunk 2077 Pok\u00e9mon Scarlet And Violet , And More Look Like On Switch 2 - Kotaku",
-      "link": "https://kotaku.com/cyberpunk-2077-switch-2-footage-pokemon-violet-scarlet-1851781304"
     },
     {
       "title": "The Overwatch 2 X Street Fighter Collaboration Is \"A Match Made In Heaven\" - GameSpot",
@@ -64,8 +76,8 @@
       "link": "https://www.gamespot.com/articles/new-xbox-update-makes-a-key-improvement/1100-6531640/"
     },
     {
-      "title": "Chrono Odyssey PC closed beta test set for June - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/chrono-odyssey-pc-closed-beta-test-set-for-june"
+      "title": "Microsoft is opening its on-device AI models up to web apps in Edge - The Verge",
+      "link": "https://www.theverge.com/news/669528/microsoft-ai-edge-browser-web-app-build-apis"
     },
     {
       "title": "Nvidia Swears You\u2019ll Be Able to Buy an RTX 5060 at $300, but Good Luck Finding One - Gizmodo",
@@ -74,36 +86,40 @@
     {
       "title": "Anno 117 Pax Romana hands-on: Gorgeous, deep, and tricky to learn - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/05/anno-117-pax-romana-hands-on-deep-city-building-in-a-gorgeous-ancient-rome/"
-    },
-    {
-      "title": "GitHub, Microsoft embrace Anthropic\u2019s spec for connecting AI models to data sources - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/19/github-microsoft-embrace-anthropics-spec-for-connecting-ai-models-to-data-sources/"
-    },
-    {
-      "title": "Razer made its new Blade 14 thinner than ever and gave it a full-power RTX 5070 - The Verge",
-      "link": "https://www.theverge.com/news/669500/razer-blade-14-gaming-laptop-rtx-5060-5070-specs-price"
-    },
-    {
-      "title": "GitHub\u2019s new AI coding agent can fix bugs for you - The Verge",
-      "link": "https://www.theverge.com/news/669339/github-ai-coding-agent-fix-bugs"
     }
   ],
   "sports_news": [
     {
+      "title": "Fred Warner, 49ers agree to three-year extension - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fred-warner-49ers-agree-to-three-year-extension"
+    },
+    {
       "title": "Browns sign QB Shedeur Sanders - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/browns-sign-qb-shedeur-sanders"
+    },
+    {
+      "title": "Cubs Designate Nicky Lopez For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/cubs-designate-nicky-lopez-for-assignment.html"
+    },
+    {
+      "title": "Power Rankings: Charles Schwab Challenge - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/power-rankings/2025/05/19/fantasy-golf-advice-tips-picks-charles-schwab-challenge-scottie-scheffler-colonial-jordan-spieth"
+    },
+    {
+      "title": "Trevor Lawrence on Travis Hunter: He\u2019s got a lot of juice, he\u2019s impressive to watch - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-on-travis-hunter-hes-got-a-lot-of-juice-hes-impressive-to-watch"
+    },
+    {
+      "title": "IndyCar president says qualifying scandal is \"devastating\" to Roger Penske - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/indycar-president-qualifying-scandal-devastating-roger-penske/10724537/"
     },
     {
       "title": "Spencer Rattler: Can\u2019t put too much pressure on yourself in QB competition - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-cant-put-too-much-pressure-on-yourself-in-qb-competition"
     },
     {
-      "title": "Bill Simmons Floats Bold Celtics Trade Idea That Would Send Jaylen Brown to Rockets - Sports Illustrated",
-      "link": "https://www.si.com/nba/bill-simmons-floats-bold-celtics-trade-idea-jaylen-brown-rockets"
-    },
-    {
-      "title": "INDYCAR penalizes two-time defending champ Josef Newgarden for Indy 500 - FOX Sports",
-      "link": "https://www.foxsports.com/stories/motor/indycar-penalizes-josef-newgarden-will-power-penske"
+      "title": "\u2018I\u2019m done\u2019\u2026Fans explode as Jon Jones drops huge hint about UFC future as Tom Aspinall talks stall - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/19/im-donefans-explode-as-jon-jones-drops-huge-hint-about-ufc-future-as-tom-aspinall-talks-stall/"
     },
     {
       "title": "A Letter from Tom Gores - NBA",
@@ -134,32 +150,20 @@
       "link": "https://www.ninersnation.com/2025/5/19/24433197/details-about-brock-purdys-contract-emerge-the-49ers-are-getting-a-steal-if-they-keep-winning"
     },
     {
+      "title": "What happened to McLaren's pace advantage on Red Bull at F1 Imola GP? - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/what-happened-mclaren-pace-advantage-red-bull-f1-imola-gp/10724497/"
+    },
+    {
       "title": "Stanley Cup Playoffs conference finals predictions by NHL.com - NHL.com",
       "link": "https://www.nhl.com/news/2025-stanley-cup-playoffs-conference-finals-predictions-by-nhl-writers"
     },
     {
-      "title": "Stella admits McLaren were \u2018a little surprised\u2019 by Red Bull\u2019s pace following Verstappen's Imola triumph - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/stella-admits-mclaren-were-a-little-surprised-by-red-bulls-pace-following.3HU4d9wJCj5dLMMROWCzdJ"
+      "title": "Frankie Luvu wants tush push banned: \"It\u2019s kind of like a cheepo play\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frankie-luvu-wants-tush-push-banned-its-kind-of-like-a-cheepo-play"
     },
     {
-      "title": "Carlos Alcaraz Keeps Smiling At Jannik Sinner\u2019s Expense - Defector",
-      "link": "https://defector.com/carlos-alcaraz-keeps-smiling-at-jannik-sinners-expense"
-    },
-    {
-      "title": "Schedule Set for Florida-Georgia Softball Super Regional - Florida Gators",
-      "link": "https://floridagators.com/news/2025/5/19/schedule-set-for-florida-georgia-softball-super-regional.aspx"
-    },
-    {
-      "title": "2025 NBA Mock Draft: Celtics go with SEC star after combine performances lead to shake-up - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/2025-nba-mock-draft-celtics-go-with-sec-star-after-combine-performances-lead-to-shake-up/"
-    },
-    {
-      "title": "Mets fans irate over $765 million star Juan Soto not hustling at crucial Subway Series moment - New York Post",
-      "link": "https://nypost.com/2025/05/19/sports/mets-fans-irate-over-juan-soto-not-hustling-out-of-box-vs-yankees/"
-    },
-    {
-      "title": "Joe Douglas is reportedly returning to the Eagles - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/2025/5/19/24433139/joe-douglas-eagles-jets-general-manager-front-office-howie-roseman-nfl-news-philadelphia"
+      "title": "Juan Soto Roasted by Fans for Baffling Move During At Bat in Yankees-Mets - Sports Illustrated",
+      "link": "https://www.si.com/mlb/juan-soto-roasted-baffling-move-lack-hustle-yankees-mets-subway-series"
     }
   ],
   "weather": {
