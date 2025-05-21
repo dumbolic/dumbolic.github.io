@@ -1,9 +1,9 @@
 {
-  "quote": "When one does not have what one wants, one must want what one has. \u2013 Sigmund Freud",
-  "fact": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
-  "crypto": "BTC: $106,918 | ETH: $2,526.29",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
+  "quote": "Success and failure come and go, but don't let them define you. It's who you are that matters. \u2013 Kamal Ravikant",
+  "fact": "There is a seven letter word in the English language that contains ten words without rearranging any of its letters, \"therein\": the, there, he, in, rein, her, here, ere, therein, herein. \u00a0",
+  "crypto": "BTC: $106,888 | ETH: $2,537.71",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What's the worst part about being a cross-eyed teacher?\r\n\r\nThey can't control their pupils.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "The Last Of Us Cut A Beloved Segment From The Museum Scene, But It Looks Like HBO Shot It - Kotaku",
-      "link": "https://kotaku.com/last-of-us-dinosaur-museum-scene-set-pedro-pascal-joel-1851781387"
+      "title": "MSI\u2019s new Claw A8 is powered by AMD - The Verge",
+      "link": "https://www.theverge.com/news/670096/msi-claw-a8-amd-z2-extreme-computex-2025"
+    },
+    {
+      "title": "First Elena match footage, combo trials, story and more revealed for Street Fighter 6 - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/may/19/elena-match-footage-sf6/"
+    },
+    {
+      "title": "Switch 2 Looks Like The Ultimate Nintendo System - GameSpot",
+      "link": "https://www.gamespot.com/articles/switch-2-looks-like-the-ultimate-nintendo-system/1100-6531652/"
+    },
+    {
+      "title": "Neil Druckmann is working on a second unannounced game at Naughty Dog - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/neil-druckmann-is-working-on-a-second-unannounced-game-at-naughty-dog/"
     },
     {
       "title": "Baldur's Gate 3's terrible miniatures \"missed the mark\" so much, WizKids is offering refunds - Eurogamer",
@@ -24,8 +36,12 @@
       "link": "https://www.ign.com/articles/best-buy-memorial-day-sale-2025-sale"
     },
     {
-      "title": "$15 Will Get You Every Witcher Game Including One Of The Best RPGs Of The Last Decade - Kotaku",
-      "link": "https://kotaku.com/witcher-3-sale-discount-steam-ps5-anniversary-1851781353"
+      "title": "Judge calls out 'Apple official who is personally responsible' in Fortnite app order - CNBC",
+      "link": "https://www.cnbc.com/2025/05/19/apple-fortnite-epic-games.html"
+    },
+    {
+      "title": "Razer Thins Out the Blade 14 and Fattens the Price Tag - Gizmodo",
+      "link": "https://gizmodo.com/razer-thins-out-the-blade-14-and-fattens-the-price-tag-2000604126"
     },
     {
       "title": "Motorola confirms delayed Razr launch at Verizon amid bizarre rumors - 9to5Google",
@@ -38,6 +54,10 @@
     {
       "title": "Hyundai Drops Ioniq 5 N Lease Price By $200 Per Month - Jalopnik",
       "link": "https://www.jalopnik.com/1863912/hyundai-drops-ioniq-5-lease-price/"
+    },
+    {
+      "title": "Walmart\u2019s $30 Chromecast with Google TV replacement launches, online sales open - 9to5Google",
+      "link": "http://9to5google.com/2025/05/19/walmart-onn-4k-plus-google-tv-now-available/"
     },
     {
       "title": "Nintendo\u2019s latest Switch 2 video shows a close-up look at game cards, carry case - Video Games Chronicle",
@@ -56,12 +76,8 @@
       "link": "https://arstechnica.com/gadgets/2025/05/microsoft-takes-windows-subsystem-for-linux-open-source-after-nearly-a-decade/"
     },
     {
-      "title": "Apple is definitely gearing up for an iPhone Ultra - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/19/iphone-ultra-more-likely-than-ever/"
-    },
-    {
-      "title": "My Favorite Laptop for Travel Weighs Less Than a MacBook Air, and It's on Sale for the First Time - CNET",
-      "link": "https://www.cnet.com/deals/my-favorite-laptop-for-travel-weighs-less-than-a-macbook-air-and-its-on-sale-for-the-first-time/"
+      "title": "27 Upcoming Nintendo Switch 2 Games We're Excited For In 2025 - Nintendo Life",
+      "link": "https://www.nintendolife.com/guides/27-upcoming-nintendo-switch-2-games-were-excited-for-in-2025"
     },
     {
       "title": "Visit Lindblum In SCG\u2019s Exclusive MTG \u2014 FINAL FANTASY Preview Card - Star City Games",
@@ -72,34 +88,58 @@
       "link": "https://www.gamespot.com/articles/the-overwatch-2-x-street-fighter-collaboration-is-a-match-made-in-heaven/1100-6531643/"
     },
     {
-      "title": "New Xbox Update Makes A Key Improvement - GameSpot",
-      "link": "https://www.gamespot.com/articles/new-xbox-update-makes-a-key-improvement/1100-6531640/"
-    },
-    {
-      "title": "Microsoft is opening its on-device AI models up to web apps in Edge - The Verge",
-      "link": "https://www.theverge.com/news/669528/microsoft-ai-edge-browser-web-app-build-apis"
-    },
-    {
-      "title": "Nvidia Swears You\u2019ll Be Able to Buy an RTX 5060 at $300, but Good Luck Finding One - Gizmodo",
-      "link": "https://gizmodo.com/nvidia-swears-youll-be-able-to-buy-an-rtx-5060-at-300-but-good-luck-finding-one-2000604000"
-    },
-    {
-      "title": "Anno 117 Pax Romana hands-on: Gorgeous, deep, and tricky to learn - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/05/anno-117-pax-romana-hands-on-deep-city-building-in-a-gorgeous-ancient-rome/"
+      "title": "Asus refreshes its gaming laptops with cheaper RTX 5060 options - The Verge",
+      "link": "https://www.theverge.com/news/669041/asus-rog-zephyrus-strix-tuf-rtx-5060-laptops-computex-specs-price"
     }
   ],
   "sports_news": [
     {
+      "title": "2025 NCAA softball bracket: Women's College World Series scores, schedule - NCAA.com",
+      "link": "https://www.ncaa.com/news/softball/article/2025-05-19/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
+    },
+    {
+      "title": "Packers revise tush-push proposal to ban all pushing of the runner - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-revise-tush-push-proposal-to-ban-all-pushing-of-the-runner"
+    },
+    {
+      "title": "Press conference: Arne Slot's assessment of Brighton 3-2 Liverpool - Liverpool FC",
+      "link": "https://www.liverpoolfc.com/news/press-conference-arne-slots-assessment-brighton-3-2-liverpool"
+    },
+    {
+      "title": "Marvin Harrison Jr.: I definitely put on some muscle this offseason - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-i-definitely-put-on-some-muscle-this-offseason"
+    },
+    {
+      "title": "INDYCAR penalizes two-time defending champ Josef Newgarden for Indy 500 - FOX Sports",
+      "link": "https://www.foxsports.com/stories/motor/indycar-penalizes-josef-newgarden-will-power-penske"
+    },
+    {
+      "title": "Larson runs 11th in practice at Indy, moves up in lineup as others get penalized - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/05/19/kyle-larson-monday-indy-500-practice-recap/"
+    },
+    {
+      "title": "NBA playoffs betting: How to bet the conference finals - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/45227313/2025-nba-playoffs-betting-how-bet-conference-finals"
+    },
+    {
       "title": "Fred Warner, 49ers agree to three-year extension - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fred-warner-49ers-agree-to-three-year-extension"
+    },
+    {
+      "title": "\u2018Strip the duck\u2019: Fans react to Jon Jones\u2019 latest comments on Tom Aspinall - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/19/24433348/strip-the-duck-fans-react-to-jon-jones-latest-comments-on-tom-aspinall"
+    },
+    {
+      "title": "Boomer Esiason wrongly suggests Juan Soto doesn\u2019t fly with Mets to road games - Awful Announcing",
+      "link": "https://awfulannouncing.com/mlb/boomer-esiason-juan-soto-private-jet-road-games.html"
     },
     {
       "title": "Browns sign QB Shedeur Sanders - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/browns-sign-qb-shedeur-sanders"
     },
     {
-      "title": "Cubs Designate Nicky Lopez For Assignment - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/cubs-designate-nicky-lopez-for-assignment.html"
+      "title": "Bleacher Report: Updated Mock Draft and projections after Draft Combine - NBA",
+      "link": "https://www.nba.com/news/bleacher-report-updated-mock-draft-and-projections-after-draft-combine"
     },
     {
       "title": "Power Rankings: Charles Schwab Challenge - PGA Tour",
@@ -110,60 +150,24 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-on-travis-hunter-hes-got-a-lot-of-juice-hes-impressive-to-watch"
     },
     {
-      "title": "IndyCar president says qualifying scandal is \"devastating\" to Roger Penske - Motorsport.com",
-      "link": "https://www.motorsport.com/indycar/news/indycar-president-qualifying-scandal-devastating-roger-penske/10724537/"
+      "title": "USTA to invest $800 million in US Open facilities in New York - CNBC",
+      "link": "https://www.cnbc.com/2025/05/19/usta-us-open-facilities-renovations.html"
     },
     {
       "title": "Spencer Rattler: Can\u2019t put too much pressure on yourself in QB competition - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-cant-put-too-much-pressure-on-yourself-in-qb-competition"
     },
     {
-      "title": "\u2018I\u2019m done\u2019\u2026Fans explode as Jon Jones drops huge hint about UFC future as Tom Aspinall talks stall - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/05/19/im-donefans-explode-as-jon-jones-drops-huge-hint-about-ufc-future-as-tom-aspinall-talks-stall/"
+      "title": "Report: Historic Notre Dame-USC rivalry in danger of ending - On3.com",
+      "link": "https://www.on3.com/news/historic-notre-dame-usc-rivalry-in-danger-of-ending/"
     },
     {
-      "title": "A Letter from Tom Gores - NBA",
-      "link": "https://pistons.com/news/a-letter-from-tom-gores"
+      "title": "So many ripple effects of the Jose Alvarado suspension - The Good Phight",
+      "link": "https://www.thegoodphight.com/2025/5/19/24433045/so-many-ripple-effects-of-the-jose-alvarado-suspension"
     },
     {
-      "title": "The Orioles Are Nowhere - Defector",
-      "link": "https://defector.com/the-orioles-are-nowhere"
-    },
-    {
-      "title": "Derrick Henry on extension: \"I\u2019m just very grateful for this organization\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-extension-im-just-very-grateful-for-this-organization"
-    },
-    {
-      "title": "The Stage Is Set For A Wild Serie A Finale - Defector",
-      "link": "https://defector.com/the-stage-is-set-for-a-wild-serie-a-finale"
-    },
-    {
-      "title": "Nick Sirianni earns multi-year extension from Eagles - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-earns-multi-year-extension-from-eagles"
-    },
-    {
-      "title": "Seattle Mariners: How pitchers beat SD; Brash adds change - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/shannon-drayer/seattle-mariners-drayer-pitching-padres-matt-brash-changeup/1811021"
-    },
-    {
-      "title": "More details about Brock Purdy\u2019s contract emerge: The 49ers are getting a steal \u2014 if they keep winning - Niners Nation",
-      "link": "https://www.ninersnation.com/2025/5/19/24433197/details-about-brock-purdys-contract-emerge-the-49ers-are-getting-a-steal-if-they-keep-winning"
-    },
-    {
-      "title": "What happened to McLaren's pace advantage on Red Bull at F1 Imola GP? - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/what-happened-mclaren-pace-advantage-red-bull-f1-imola-gp/10724497/"
-    },
-    {
-      "title": "Stanley Cup Playoffs conference finals predictions by NHL.com - NHL.com",
-      "link": "https://www.nhl.com/news/2025-stanley-cup-playoffs-conference-finals-predictions-by-nhl-writers"
-    },
-    {
-      "title": "Frankie Luvu wants tush push banned: \"It\u2019s kind of like a cheepo play\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frankie-luvu-wants-tush-push-banned-its-kind-of-like-a-cheepo-play"
-    },
-    {
-      "title": "Juan Soto Roasted by Fans for Baffling Move During At Bat in Yankees-Mets - Sports Illustrated",
-      "link": "https://www.si.com/mlb/juan-soto-roasted-baffling-move-lack-hustle-yankees-mets-subway-series"
+      "title": "Mitch Marner Destinations: Five Teams That Could Sign Maple Leafs Star in Free Agency - Sports Illustrated",
+      "link": "https://www.si.com/nhl/mitch-marner-destinations-five-teams-could-sign-maple-leafs-star-free-agency"
     }
   ],
   "weather": {
