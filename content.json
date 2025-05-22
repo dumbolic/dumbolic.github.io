@@ -1,9 +1,9 @@
 {
-  "quote": "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. \u2013 Aristophanes",
-  "fact": "Butterflies taste with their hind feet.",
-  "crypto": "BTC: $111,355 | ETH: $2,659.04",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the barber win the race? He took a short cut.",
+  "quote": "Unhappiness enters through a door that has been left open. \u2013 Zen Proverb",
+  "fact": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball. \u00a0",
+  "crypto": "BTC: $111,350 | ETH: $2,653.22",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What does a pirate pay for his corn? A buccaneer!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,30 @@
   "bing_background": "https://www.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Galaxy Watch 8 Classic renders show the squarish design, rotating bezel, third button [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/05/21/samsung-galaxy-watch-8-classic-renders-leak/"
+    },
+    {
+      "title": "Mario Kart World has been in development for 8 years as Nintendo struggled to improve a \u2018perfect\u2019 formula - Polygon",
+      "link": "https://www.polygon.com/news/600439/mario-kart-world-development-nintendo-switch-2"
+    },
+    {
+      "title": "Lies of P is getting difficulty options to make the Soulslike more accessible - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/lies-of-p-is-getting-difficulty-options-to-make-the-soulslike-more-accessible/"
+    },
+    {
+      "title": "Return of the Turbo button: SilverStone is making another \u201980s-style beige PC case - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/return-of-the-turbo-button-silverstone-is-making-another-80s-style-beige-pc-case/"
+    },
+    {
+      "title": "Mistral\u2019s new Devstral AI model was designed for coding - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/21/mistrals-new-devstral-model-was-designed-for-coding/"
+    },
+    {
+      "title": "Visual Feast Hellblade 2 Is Getting The PS5 Pro Treatment This Summer - Kotaku",
+      "link": "https://kotaku.com/hellblade-2-ps5-pro-update-xbox-enhanced-ninja-theory-1851781686"
+    },
     {
       "title": "Monster Train 2 Review - IGN",
       "link": "https://www.ign.com/articles/monster-train-2-review"
@@ -20,16 +44,12 @@
       "link": "https://www.theverge.com/news/671539/at-a-glance-shrinks-google-pixel-widget-android-16-material-3-expressive"
     },
     {
-      "title": "Senua\u2019s Saga: Hellblade II coming to PS5 this summer - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/senuas-saga-hellblade-ii-coming-to-ps5-this-summer"
+      "title": "The five coolest gadgets announced at Computex 2025 (and they're actually affordable) - ZDNET",
+      "link": "https://www.zdnet.com/article/the-five-coolest-gadgets-announced-at-computex-2025-and-theyre-actually-affordable/"
     },
     {
-      "title": "Ask the Developer Vol. 18: Mario Kart World \u2014 Part 1 - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-18-mario-kart-world-part-1/"
-    },
-    {
-      "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
-      "link": "https://www.barrons.com/articles/google-stock-price-alphabet-ai-eff79dc0"
+      "title": "Facer is returning to Wear OS, but not until the next big update - 9to5Google",
+      "link": "http://9to5google.com/2025/05/21/facer-wear-os-6-return/"
     },
     {
       "title": "AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU - The Verge",
@@ -40,8 +60,8 @@
       "link": "https://www.sammobile.com/news/galaxy-s26s-next-snapdragon-chipset-may-see-early-reveal-in-september/"
     },
     {
-      "title": "Volvo will be the first to install Google\u2019s Gemini in its cars - The Verge",
-      "link": "https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive"
+      "title": "Miniot returns with a sleeker Wheel 3 vertical turntable - The Verge",
+      "link": "https://www.theverge.com/news/671413/miniot-returns-with-a-sleeker-wheel-3-vertical-turntable"
     },
     {
       "title": "Fortnite back on US Apple app store after ban lifted - BBC",
@@ -52,58 +72,86 @@
       "link": "https://decrypt.co/321236/google-unveils-android-xr-glasses-gemini-ai-integration"
     },
     {
-      "title": "AMD Aims To Kick Rival Intel While It's Down - Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/amd-stock-intel-computex-2025-news/"
+      "title": "Google cofounder Sergey Brin shares why he's back at the company 'pretty much every day now' to work on AI - Business Insider",
+      "link": "https://www.businessinsider.com/google-cofounder-sergey-brin-ai-io-conference"
     },
     {
-      "title": "Wear OS 6 breathes new life into Facer - Android Police",
-      "link": "https://www.androidpolice.com/facer-is-making-a-comeback-on-wear-os-6/"
+      "title": "The latest Google Gemma AI model can run on phones - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/20/the-newest-google-gemma-ai-model-can-run-on-phones/"
     },
     {
-      "title": "Samsung Galaxy S25 Edge Hands-On: This Thin Phone Left a Deep Impression - CNET",
-      "link": "https://www.cnet.com/tech/mobile/my-hands-on-with-the-samsung-galaxy-s25-edge-has-me-reconsidering-a-thin-phone/"
-    },
-    {
-      "title": "Google says Android 16\u2019s new desktop mode builds on \u2018the foundation of Samsung DeX\u2019 - 9to5Google",
-      "link": "http://9to5google.com/2025/05/20/android-16-desktop-mode-samsung-dex/"
-    },
-    {
-      "title": "Chrome meets Gemini as Google highlights huge AI browsing updates - Android Central",
-      "link": "https://www.androidcentral.com/apps-software/ai/gemini-chrome-google-tasks-browsing-update"
-    },
-    {
-      "title": "Google Unveils Gen-AI Video Tool with Camera Controls, Consistent Character Design, and Even Sound - IndieWire",
-      "link": "https://www.indiewire.com/news/breaking-news/google-gen-ai-video-tool-flow-dave-clark-interview-1235124650/"
-    },
-    {
-      "title": "AI agents will do the grunt work of coding - Axios",
-      "link": "https://www.axios.com/2025/05/20/ai-agents-software-programming-coding"
-    },
-    {
-      "title": "Apple will hold WWDC from June 9 to June 13 - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/20/apple-will-hold-wwdc-from-june-9/"
+      "title": "I'm a TV expert and these are my favorite Memorial Day TV deals: Save up to $5,000 on Sony, Samsung, and more - ZDNET",
+      "link": "https://www.zdnet.com/home-and-office/home-entertainment/memorial-day-tv-deals-05-21-2025/"
     }
   ],
   "sports_news": [
     {
-      "title": "Jason Kelce offers to talk to owners to clear up misconceptions about the tush push - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-kelce-offers-to-talk-to-owners-to-clear-up-misconceptions-about-the-tush-push"
+      "title": "Bills will be on Hard Knocks this summer - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-will-be-on-hard-knocks-this-summer"
     },
     {
-      "title": "Lions withdraw proposal to change playoff seeding before vote - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-withdraw-proposal-to-change-playoff-seeding-before-vote"
+      "title": "Brad Stevens should opt for this bold maneuver in Celtics offseason | Brian Robb - MassLive",
+      "link": "https://www.masslive.com/celtics/2025/05/brad-stevens-should-opt-for-this-bold-maneuver-in-celtics-offseason-brian-robb.html"
     },
     {
-      "title": "McLaren to run \u2018Riviera-inspired\u2019 livery in Monaco and Spain - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/mclaren-reveal-tweaked-riviera-inspired-livery-for-monaco-and-spanish-grands.697HMvtQmLBNNiZilwTTUH"
+      "title": "Mariners Designate Casey Lawrence For Assignment, Select Jesse Hahn - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/mariners-designate-casey-lawrence-for-assignment-select-jesse-hahn.html"
     },
     {
-      "title": "Owners vote to allow NFL players to participate in flag football competition at 2028 LA Olympics - CNN",
-      "link": "https://www.cnn.com/2025/05/20/sport/nfl-players-olympic-flag-football-spt"
+      "title": "Pirates' Jared Jones To Undergo Elbow Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/jared-jones-season-ending-elbow-surgery-ucl-tommy-john-internal-brace.html"
     },
     {
-      "title": "Walker Buehler Shares Instagram Post After Ejection From Red Sox-Mets - NESN",
-      "link": "https://nesn.com/2025/05/walker-buehler-shares-instagram-post-after-ejection-from-red-sox-mets/"
+      "title": "Chael Sonnen apologizes for acting like \u2018madman\u2019 in hotel incident - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/21/24434521/chael-sonnen-apologizes-for-acting-like-madman-in-hotel-incident"
+    },
+    {
+      "title": "Team Penske releases three top executives following Indy 500 qualifying violations - FOX Sports",
+      "link": "https://www.foxsports.com/stories/motor/team-penske-releases-executives-indy-500"
+    },
+    {
+      "title": "Detroit Lions withdraw their playoff reseeding proposal - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/5/21/24434468/detroit-lions-withdraw-playoff-reseeding-proposal"
+    },
+    {
+      "title": "Exclusive | Juan Soto\u2019s messy Mets start is a \u2018rite of passage\u2019 \u2014 Mike Piazza knows exactly how this ends - New York Post",
+      "link": "https://nypost.com/2025/05/21/sports/mike-piazza-knows-exactly-how-juan-soto-can-fix-his-mets-mess/"
+    },
+    {
+      "title": "ESPN Analyst Makes Bold Proclamation After Game 1 of Timberwolves-Thunder Series - Sports Illustrated",
+      "link": "https://www.si.com/nba/timberwolves-thunder-game-1-espn-kendrick-perkins-bold-proclamation"
+    },
+    {
+      "title": "NBA pundits fume over Shai Gilgeous-Alexander foul grifting in Thunder\u2019s Game 1 win: \u2018Free throw merchant\u2019 - New York Post",
+      "link": "https://nypost.com/2025/05/21/sports/nba-pundits-fume-over-shai-gilgeous-alexander-foul-grifting/"
+    },
+    {
+      "title": "Where does Brock Purdy rank among the 32 starting NFL quarterbacks? - Niners Nation",
+      "link": "https://www.ninersnation.com/2025/5/21/24434320/where-does-brock-purdy-rank-among-the-32-starting-nfl-quarterbacks-49ers"
+    },
+    {
+      "title": "McLaren reveal latest one-off Monaco Grand Prix livery - RaceFans",
+      "link": "https://www.racefans.net/2025/05/21/mclaren-reveal-latest-one-off-monaco-grand-prix-livery/"
+    },
+    {
+      "title": "Sixers\u2019 8 best NBA Draft choices for No. 3 overall pick, ranked - SBNation.com",
+      "link": "https://www.sbnation.com/nba/2025/5/21/24433754/philadelphia-76ers-nba-draft-sixers-kon-knueppel-vj-edgecombe-ranking"
+    },
+    {
+      "title": "Jailton Almeida explains Magomed Ankalaev callout with UFC heavyweight division stalled out - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/21/24433195/jailton-almeida-magomed-ankalaev-callout-heavyweight-division-stalled-out-ufc"
+    },
+    {
+      "title": "Red Sox\u2019s Walker Buehler Claps Back At Francisco Lindor\u2019s Antics During Ejection - NESN",
+      "link": "https://nesn.com/2025/05/red-soxs-walker-buehler-claps-back-at-mets-stars-antics-during-ejection/"
+    },
+    {
+      "title": "Ranking 5 coaches on hot seat heading into 2025 season: Is this the end of the Mike Tomlin era with Steelers? - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/ranking-5-coaches-on-hot-seat-heading-into-2025-season-is-this-the-end-of-the-mike-tomlin-era-with-steelers/"
+    },
+    {
+      "title": "Top fits for Marner if he hits free agency - theScore.com",
+      "link": "https://thescore.com/nhl/news/3282060"
     },
     {
       "title": "What is the weather forecast for the 2025 Monaco Grand Prix? - Formula 1",
@@ -112,58 +160,6 @@
     {
       "title": "CeeDee Lamb: George Pickens hasn\u2019t stopped smiling since he got here - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-george-pickens-hasnt-stopped-smiling-since-he-got-here"
-    },
-    {
-      "title": "Live Your Life Like Knicks Fan Timoth\u00e9e Chalamet - The Ringer",
-      "link": "https://www.theringer.com/2025/05/21/nba/timothee-chalamet-new-york-knicks-fan-sports-bro-madison-square-garden"
-    },
-    {
-      "title": "Tottenham Hotspur vs. Manchester United Preview: Glory, glory, Tottenham Hotspur - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/2025/5/21/24433847/tottenham-hotspur-manchester-united-2025-europa-league-final-bilbao"
-    },
-    {
-      "title": "How Thunder's historically great defense could end Western Conference finals before series really even begins - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/how-thunders-historically-great-defense-could-end-western-conference-finals-before-series-really-even-begins/"
-    },
-    {
-      "title": "Yoshinobu Yamamoto starts it, Dodgers finish it with walk-off win over Arizona - Yahoo Sports",
-      "link": "https://sports.yahoo.com/article/yoshinobu-yamamoto-starts-dodgers-finish-052449118.html"
-    },
-    {
-      "title": "Hurricanes fall to Panthers in Game 1 of Eastern Conference Final - WRALSportsFan.com",
-      "link": "https://www.wralsportsfan.com/hurricanes-vs-panthers-game-1-eastern-conference-final-05202025/22016974/"
-    },
-    {
-      "title": "Nebraska Walks-Off Michigan State in Extras at the Big Ten Baseball Tournament - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/baseball/nebraska-walks-off-michigan-state-in-extras-at-the-big-ten-baseball-tournament-cornhuskers-omaha"
-    },
-    {
-      "title": "Bolton: Consider Jordan Spieth good bounce-back option at Charles Schwab Challenge - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/betting-dfs/2025/05/20/fantasy-insider-rob-bolton-charles-schwab-challenge-scheffler-spieth-texas"
-    },
-    {
-      "title": "Caitlin Clark makes more history, but Fever take first loss of season to new-look Dream - Yahoo Sports",
-      "link": "https://sports.yahoo.com/wnba/breaking-news/article/caitlin-clark-makes-more-history-but-fever-take-first-loss-of-season-to-new-look-dream-021732727.html"
-    },
-    {
-      "title": "How do the Knicks beat the Pacers? A panel of NBA experts break it down - New York Post",
-      "link": "https://nypost.com/2025/05/20/sports/nba-experts-break-down-knicks-keys-to-beating-pacers/"
-    },
-    {
-      "title": "A man is charged with providing alcohol to 20-year-old who fell from PNC Park outfield wall in April - AP News",
-      "link": "https://apnews.com/article/pirates-fan-fall-pnc-park-alcohol-charges-9e333cfbf2462c839595125267c90807"
-    },
-    {
-      "title": "ESPN 100 wing Hawthorne commits to Kentucky - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/45245051/espn-100-wing-braydon-hawthorne-commits-kentucky"
-    },
-    {
-      "title": "Seiya Suzuki Caps Off Eight-Run, Batting-Around Inning With a Homer - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/05/20/seiya-suzuki-caps-off-eight-run-batting-around-inning-with-a-homer/"
-    },
-    {
-      "title": "Mets sympathize with Juan Soto as $765 million man\u2019s gaffes pile up - New York Post",
-      "link": "https://nypost.com/2025/05/20/sports/mets-sympathize-with-juan-soto-as-765-million-mans-gaffes-pile-up/"
     }
   ],
   "weather": {
