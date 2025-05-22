@@ -1,9 +1,9 @@
 {
-  "quote": "Wit is educated insolence. \u2013 Aristotle",
-  "fact": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-  "crypto": "BTC: $109,985 | ETH: $2,589.08",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I heard there was a new store called Moderation. They have everything there",
+  "quote": "I do not seek. I find. \u2013 Pablo Picasso",
+  "fact": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning \"containing arsenic.\" \u00a0",
+  "crypto": "BTC: $110,568 | ETH: $2,595.1",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "AMD\u2019s $299 Radeon RX 9060 XT brings 8GB or 16GB of RAM to fight the RTX 5060 - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/amds-299-radeon-rx-9060-xt-brings-8gb-or-16gb-of-ram-to-fight-the-rtx-5060/"
+    },
+    {
       "title": "Google\u2019s Sergey Brin: \u2018I made a lot of mistakes with Google Glass\u2019 - TechCrunch",
       "link": "https://techcrunch.com/2025/05/20/googles-sergey-brin-i-made-a-lot-of-mistakes-with-google-glass/"
     },
     {
-      "title": "Fortnite is finally back on US iPhones - The Verge",
-      "link": "https://www.theverge.com/news/661290/fortnite-ios-iphone-epic-games-back-apple-app-store"
+      "title": "Google starts embedding AI chatbot into search - BBC",
+      "link": "https://www.bbc.com/news/articles/cpw77qwd117o"
+    },
+    {
+      "title": "The latest Google Gemma AI model can run on phones - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/20/the-newest-google-gemma-ai-model-can-run-on-phones/"
     },
     {
       "title": "Google commits $150M to develop AI glasses with Warby Parker - TechCrunch",
       "link": "https://techcrunch.com/2025/05/20/google-commits-150m-to-develop-ai-glasses-with-warby-parker/"
     },
     {
-      "title": "Self-hosting is having a moment. Ethan Sholly knows why. - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/05/self-hosting-is-having-a-moment-ethan-sholly-knows-why/"
-    },
-    {
-      "title": "Google let me try Gemini in a car, and it's everything I hoped it would be - Android Central",
-      "link": "https://www.androidcentral.com/apps-software/android-auto/i-tried-a-google-built-in-car-and-its-a-sneak-peek-at-gemini-on-android-auto"
-    },
-    {
       "title": "Google starts beta testing Android 16\u2019s youthful new look - The Verge",
       "link": "https://www.theverge.com/news/671153/google-beta-android-16-material-3-expressive-design-rollout"
+    },
+    {
+      "title": "Gemini 2.5 is leaving preview just in time for Google\u2019s new $250 AI subscription - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/05/gemini-2-5-is-leaving-preview-just-in-time-for-googles-new-250-ai-subscription/"
     },
     {
       "title": "Gigabyte Unveils Its Custom NVIDIA \u201cDGX Spark\u201d Mini-AI Supercomputer: The AI TOP ATOM Offering a Whopping 1,000 TOPS of AI Power - Wccftech",
@@ -52,78 +56,70 @@
       "link": "https://news.blizzard.com/en-us/article/24186407/season-16-midseason-keeps-the-magic-alive"
     },
     {
-      "title": "Google shows Project Astra controlling your Android phone - 9to5Google",
-      "link": "http://9to5google.com/2025/05/20/project-astra-android/"
-    },
-    {
-      "title": "Google Unveils Gen-AI Video Tool with Camera Controls, Consistent Character Design, and Even Sound - IndieWire",
-      "link": "https://www.indiewire.com/news/breaking-news/google-gen-ai-video-tool-flow-dave-clark-interview-1235124650/"
-    },
-    {
-      "title": "Google\u2019s Gemini AI is coming to Chrome - The Verge",
-      "link": "https://www.theverge.com/news/670201/google-gemini-chrome-ai-io-2025"
-    },
-    {
-      "title": "At Least A Few Stores Will Have Switch 2 In Stock The Day Of Launch For Fans Without Pre-Orders - Kotaku",
-      "link": "https://kotaku.com/switch-2-in-stock-target-best-buy-gamestop-preorder-1851781532"
+      "title": "Why Netflix should pay close attention to Google's new AI movie tool - Business Insider",
+      "link": "https://www.businessinsider.com/google-ai-movie-film-tool-flow-netflix-threat-2025-5"
     },
     {
       "title": "Apple\u2019s Worldwide Developers Conference kicks off June 9 - Apple",
       "link": "https://www.apple.com/newsroom/2025/05/apples-worldwide-developers-conference-kicks-off-june-9/"
     },
     {
-      "title": "As Gamers Express Concern About Borderlands 4 Potentially Costing $80, Gearbox Chief Randy Pitchford Says: \u2018If You\u2019re a Real Fan, You\u2019ll Find a Way to Make It Happen\u2019 - IGN",
-      "link": "https://www.ign.com/articles/as-gamers-express-concern-about-borderlands-4-potentially-costing-80-gearbox-chief-randy-pitchford-says-if-youre-a-real-fan-youll-find-a-way-to-make-it-happen"
-    },
-    {
-      "title": "Microsoft is putting AI actions into the Windows File Explorer - The Verge",
-      "link": "https://www.theverge.com/news/670251/microsoft-windows-11-ai-actions-file-explorer-context-menu"
+      "title": "Samsung Galaxy S25 Edge Review: A Lightweight Heavy Hitter - PCMag",
+      "link": "https://www.pcmag.com/reviews/samsung-galaxy-s25-edge"
     },
     {
       "title": "Google Releases NotebookLM App for iOS and Android - MacRumors",
       "link": "https://www.macrumors.com/2025/05/20/google-releases-notebooklm-app-for-ios-and-android/"
     },
     {
-      "title": "Ups and downs in One UI 7.0 rollout reveals user expectations for a fast and efficient software release - Sammy Fans",
-      "link": "https://www.sammyfans.com/2025/05/19/ups-and-downs-in-one-ui-7-0-rollout-reveals-user-expectations-for-a-fast-and-efficient-software-release/"
+      "title": "Microsoft Introduces GitHub AI Agent, Now With More Vibe Coding - Decrypt",
+      "link": "https://decrypt.co/320961/microsoft-introduces-github-ai-agent-now-with-more-vibe-coding"
+    },
+    {
+      "title": "Elgato is bringing a virtual Stream Deck to desktops. - The Verge",
+      "link": "https://www.theverge.com/news/669668/elgato-is-bringing-a-virtual-stream-deck-to-desktops"
     }
   ],
   "sports_news": [
     {
-      "title": "Man charged with buying beer for fan in PNC fall - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/45245456/police-charge-ethan-kirkwood-role-kavan-markwood-fall"
+      "title": "Caitlin Clark Makes WNBA History with Double-Double as Fever Lose to Griner, Dream - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25198045-caitlin-clark-makes-wnba-history-double-double-fever-lose-griner-dream"
+    },
+    {
+      "title": "How do the Knicks beat the Pacers? A panel of NBA experts break it down - New York Post",
+      "link": "https://nypost.com/2025/05/20/sports/nba-experts-break-down-knicks-keys-to-beating-pacers/"
+    },
+    {
+      "title": "Thunder vs. Timberwolves odds, line: Proven model reveals picks for NBA playoff matchup on May 20, 2025 - SportsLine",
+      "link": "https://www.sportsline.com/insiders/thunder-vs-timberwolves-odds-line-proven-model-reveals-picks-for-nba-playoff-matchup-on-may-20-2025/"
+    },
+    {
+      "title": "Jalen Hurts doubles down on skipping Eagles\u2019 White House visit: \u2018Wasn\u2019t available\u2019 - New York Post",
+      "link": "https://nypost.com/2025/05/20/sports/jalen-hurts-aj-brown-address-skipping-eagles-white-house-visit/"
     },
     {
       "title": "Ben Roethlisberger Has Been \u2018Really Good Mentor\u2019 Since Draft, Will Howard Says - Steelers Depot",
       "link": "https://steelersdepot.com/2025/05/will-howard-says-ben-roethlisberger-has-been-really-good-mentor-since-being-drafted/"
     },
     {
-      "title": "ESPN 100 wing Hawthorne commits to Kentucky - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/45245051/espn-100-wing-braydon-hawthorne-commits-kentucky"
+      "title": "Angel Reese reposts TikTok mocking \u2018white girl\u2019 Caitlin Clark as WNBA rivalry escalates - New York Post",
+      "link": "https://nypost.com/2025/05/20/sports/angel-reese-reposts-tiktok-mocking-caitlin-clark-as-rivalry-escalates/"
     },
     {
-      "title": "Where to watch Thunder vs. Timberwolves: TV channel, live stream for NBA playoffs, Game 1 odds, prediction - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/where-to-watch-thunder-vs-timberwolves-tv-channel-live-stream-for-nba-playoffs-game-1-odds-prediction/"
-    },
-    {
-      "title": "Walker Buehler, Alex Cora ejected after fiery argument over blown call against Mets - New York Post",
-      "link": "https://nypost.com/2025/05/20/sports/red-soxs-walker-buehler-alex-cora-ejected-after-fiery-argument-vs-mets/"
+      "title": "Friend charged with providing beer to fan who fell from bleachers at Pirates game: Police - ABC News",
+      "link": "https://abcnews.go.com/US/pirates-game-pnc-park-fall-charges-alcohol/story?id\\\\u003d122002158"
     },
     {
       "title": "Owners voted 32-0 to allow active players participate in Olympic flag football - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-voted-32-0-to-allow-active-players-participate-in-olympic-flag-football"
     },
     {
-      "title": "Dak Prescott cleared for everything except contact - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-cleared-for-everything-except-contact"
+      "title": "\u2018Rightfully went nuts\u2019 \u2014 Social media reacts to Walker Buehler, Alex Cora ejections - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/05/rightfully-went-nuts-social-media-reacts-to-walker-buehler-alex-cora-ejections.html"
     },
     {
       "title": "Hellebuyck feels adjustments may have led to playoff struggles with Jets - NHL.com",
       "link": "https://www.nhl.com/news/connor-hellebuyck-tweaks-may-have-led-to-playoff-struggles"
-    },
-    {
-      "title": "Kevin de Bruyne: Man City 'genius' bids farewell at Etihad Stadium - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c2011dze78xo"
     },
     {
       "title": "Big Ten Baseball Tournament Central: Schedule, Results, Pool Standings - Sports Illustrated",
@@ -148,10 +144,6 @@
     {
       "title": "Nick Sirianni declines to share any details about his new contract, including duration - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-declines-to-share-any-details-about-his-new-contract-including-duration"
-    },
-    {
-      "title": "Angel Reese responds to WNBA investigation of alleged fan abuse - CNN",
-      "link": "https://www.cnn.com/2025/05/20/sport/angel-reese-responds-wnba-investigation-spt"
     },
     {
       "title": "Team World manages a draw in marathon chess showdown against grandmaster Magnus Carlsen - NPR",
