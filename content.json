@@ -1,9 +1,9 @@
 {
-  "quote": "It is ignorance that causes most mistakes. \u2013 Harry S. Truman",
-  "fact": "\"Underground\" is the only word in the English language that begins and ends with the letters \"und\"",
-  "crypto": "BTC: $111,248 | ETH: $2,648.62",
+  "quote": "Always keep your eyes open. Keep watching. Because whatever you see can inspire you. \u2013 Grace Coddington",
+  "fact": "William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth",
+  "crypto": "BTC: $111,315 | ETH: $2,649.42",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you get hanging from Apple trees? Sore arms.",
+  "joke": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,86 +12,138 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Everything Google unveiled at I/O 2025: Gemini, AI Search, smart glasses, more - ZDNET",
-      "link": "https://www.zdnet.com/article/everything-google-unveiled-at-io-2025-gemini-ai-search-smart-glasses-more/"
+      "title": "Monster Train 2 Review - IGN",
+      "link": "https://www.ign.com/articles/monster-train-2-review"
+    },
+    {
+      "title": "Google is shrinking Pixel phones\u2019 At a Glance widget - The Verge",
+      "link": "https://www.theverge.com/news/671539/at-a-glance-shrinks-google-pixel-widget-android-16-material-3-expressive"
+    },
+    {
+      "title": "Senua\u2019s Saga: Hellblade II coming to PS5 this summer - Gematsu",
+      "link": "https://www.gematsu.com/2025/05/senuas-saga-hellblade-ii-coming-to-ps5-this-summer"
+    },
+    {
+      "title": "Ask the Developer Vol. 18: Mario Kart World \u2014 Part 1 - Nintendo",
+      "link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-18-mario-kart-world-part-1/"
+    },
+    {
+      "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
+      "link": "https://www.barrons.com/articles/google-stock-price-alphabet-ai-eff79dc0"
+    },
+    {
+      "title": "AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU - The Verge",
+      "link": "https://www.theverge.com/news/671490/amd-threadripper-9000-series-cpus-release-date"
+    },
+    {
+      "title": "Samsung will give the Galaxy S26 a new camera, finally! - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s26s-next-snapdragon-chipset-may-see-early-reveal-in-september/"
     },
     {
       "title": "Volvo will be the first to install Google\u2019s Gemini in its cars - The Verge",
       "link": "https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive"
     },
     {
-      "title": "Fortnite returns to the US App Store after a five-year gap - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/20/fortnite-returns-to-the-us-app-store-after-a-five-year-gap/"
+      "title": "Fortnite back on US Apple app store after ban lifted - BBC",
+      "link": "https://www.bbc.com/news/articles/c0711mrl470o"
     },
     {
       "title": "Google Unveils Android XR Glasses with Gemini AI Integration - Decrypt",
       "link": "https://decrypt.co/321236/google-unveils-android-xr-glasses-gemini-ai-integration"
     },
     {
-      "title": "AMD Introduces New Radeon Graphics Cards and Ryzen Threadripper Processors at COMPUTEX 2025 - AMD",
-      "link": "https://ir.amd.com/news-events/press-releases/detail/1253/amd-introduces-new-radeon-graphics-cards-and-ryzen-threadripper-processors-at-computex-2025"
-    },
-    {
       "title": "AMD Aims To Kick Rival Intel While It's Down - Investor's Business Daily",
       "link": "https://www.investors.com/news/technology/amd-stock-intel-computex-2025-news/"
     },
     {
-      "title": "Google's Magic Portrait finds a new way to inject life into your lockscreen - Android Police",
-      "link": "https://www.androidpolice.com/magic-portrait-android-16/"
+      "title": "Wear OS 6 breathes new life into Facer - Android Police",
+      "link": "https://www.androidpolice.com/facer-is-making-a-comeback-on-wear-os-6/"
     },
     {
-      "title": "Google starts beta testing Android 16\u2019s youthful new look - The Verge",
-      "link": "https://www.theverge.com/news/671153/google-beta-android-16-material-3-expressive-design-rollout"
+      "title": "Samsung Galaxy S25 Edge Hands-On: This Thin Phone Left a Deep Impression - CNET",
+      "link": "https://www.cnet.com/tech/mobile/my-hands-on-with-the-samsung-galaxy-s25-edge-has-me-reconsidering-a-thin-phone/"
     },
     {
-      "title": "AI Push Is Entering 'Middle Innings,' Microsoft Chief Says - Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/microsoft-stock-near-buy-point-build-keynote/"
+      "title": "Google says Android 16\u2019s new desktop mode builds on \u2018the foundation of Samsung DeX\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2025/05/20/android-16-desktop-mode-samsung-dex/"
+    },
+    {
+      "title": "Chrome meets Gemini as Google highlights huge AI browsing updates - Android Central",
+      "link": "https://www.androidcentral.com/apps-software/ai/gemini-chrome-google-tasks-browsing-update"
     },
     {
       "title": "Google Unveils Gen-AI Video Tool with Camera Controls, Consistent Character Design, and Even Sound - IndieWire",
       "link": "https://www.indiewire.com/news/breaking-news/google-gen-ai-video-tool-flow-dave-clark-interview-1235124650/"
     },
     {
-      "title": "Google\u2019s NotebookLM is getting Video Overviews - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/20/googles-notebooklm-is-getting-video-overviews/"
+      "title": "AI agents will do the grunt work of coding - Axios",
+      "link": "https://www.axios.com/2025/05/20/ai-agents-software-programming-coding"
     },
     {
-      "title": "Google Gemini is going to revolutionize how you use Gmail \u2014 here\u2019s what's coming - Tom's Guide",
-      "link": "https://www.tomsguide.com/ai/google-gemini/google-gemini-is-going-to-revolutionize-how-you-use-gmail-heres-whats-coming"
-    },
-    {
-      "title": "Apple\u2019s Worldwide Developers Conference kicks off June 9 - Apple",
-      "link": "https://www.apple.com/newsroom/2025/05/apples-worldwide-developers-conference-kicks-off-june-9/"
+      "title": "Apple will hold WWDC from June 9 to June 13 - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/20/apple-will-hold-wwdc-from-june-9/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Jason Kelce offers to talk to owners to clear up misconceptions about the tush push - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-kelce-offers-to-talk-to-owners-to-clear-up-misconceptions-about-the-tush-push"
+    },
+    {
+      "title": "Lions withdraw proposal to change playoff seeding before vote - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-withdraw-proposal-to-change-playoff-seeding-before-vote"
+    },
+    {
+      "title": "McLaren to run \u2018Riviera-inspired\u2019 livery in Monaco and Spain - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/mclaren-reveal-tweaked-riviera-inspired-livery-for-monaco-and-spanish-grands.697HMvtQmLBNNiZilwTTUH"
+    },
+    {
+      "title": "Owners vote to allow NFL players to participate in flag football competition at 2028 LA Olympics - CNN",
+      "link": "https://www.cnn.com/2025/05/20/sport/nfl-players-olympic-flag-football-spt"
+    },
+    {
+      "title": "Walker Buehler Shares Instagram Post After Ejection From Red Sox-Mets - NESN",
+      "link": "https://nesn.com/2025/05/walker-buehler-shares-instagram-post-after-ejection-from-red-sox-mets/"
+    },
+    {
+      "title": "What is the weather forecast for the 2025 Monaco Grand Prix? - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2025-monaco-grand-prix.3j9O1ciAsHR3HQ9oB10DlY"
+    },
+    {
+      "title": "CeeDee Lamb: George Pickens hasn\u2019t stopped smiling since he got here - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-george-pickens-hasnt-stopped-smiling-since-he-got-here"
+    },
     {
       "title": "Live Your Life Like Knicks Fan Timoth\u00e9e Chalamet - The Ringer",
       "link": "https://www.theringer.com/2025/05/21/nba/timothee-chalamet-new-york-knicks-fan-sports-bro-madison-square-garden"
     },
     {
-      "title": "Wolves spend a half challenging Thunder and a half without a hope - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-timberwolves-oklahoma-city-thunder-western-conference-finals-chris-finch-anthony-edwards/601356324"
+      "title": "Tottenham Hotspur vs. Manchester United Preview: Glory, glory, Tottenham Hotspur - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/2025/5/21/24433847/tottenham-hotspur-manchester-united-2025-europa-league-final-bilbao"
+    },
+    {
+      "title": "How Thunder's historically great defense could end Western Conference finals before series really even begins - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/how-thunders-historically-great-defense-could-end-western-conference-finals-before-series-really-even-begins/"
+    },
+    {
+      "title": "Yoshinobu Yamamoto starts it, Dodgers finish it with walk-off win over Arizona - Yahoo Sports",
+      "link": "https://sports.yahoo.com/article/yoshinobu-yamamoto-starts-dodgers-finish-052449118.html"
     },
     {
       "title": "Hurricanes fall to Panthers in Game 1 of Eastern Conference Final - WRALSportsFan.com",
       "link": "https://www.wralsportsfan.com/hurricanes-vs-panthers-game-1-eastern-conference-final-05202025/22016974/"
     },
     {
-      "title": "Las Vegas Raiders kick off 2025 OTAs: Five pressing questions for Pete Carroll\u2019s squad - Sportsnaut",
-      "link": "https://sportsnaut.com/nfl/las-vegas-raiders-2025-otas-five-pressing-questions/"
-    },
-    {
       "title": "Nebraska Walks-Off Michigan State in Extras at the Big Ten Baseball Tournament - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/baseball/nebraska-walks-off-michigan-state-in-extras-at-the-big-ten-baseball-tournament-cornhuskers-omaha"
     },
     {
-      "title": "Caitlin Clark Makes WNBA History with Double-Double as Fever Lose to Griner, Dream - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25198045-caitlin-clark-makes-wnba-history-double-double-fever-lose-griner-dream"
+      "title": "Bolton: Consider Jordan Spieth good bounce-back option at Charles Schwab Challenge - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/betting-dfs/2025/05/20/fantasy-insider-rob-bolton-charles-schwab-challenge-scheffler-spieth-texas"
     },
     {
-      "title": "Alex Cora, umpire explain \u2018very aggressive\u2019 Walker Buehler ejection in Red Sox win - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/05/alex-cora-umpire-explain-aggressive-walker-buehler-ejection-in-red-sox-win.html"
+      "title": "Caitlin Clark makes more history, but Fever take first loss of season to new-look Dream - Yahoo Sports",
+      "link": "https://sports.yahoo.com/wnba/breaking-news/article/caitlin-clark-makes-more-history-but-fever-take-first-loss-of-season-to-new-look-dream-021732727.html"
     },
     {
       "title": "How do the Knicks beat the Pacers? A panel of NBA experts break it down - New York Post",
@@ -102,48 +154,16 @@
       "link": "https://apnews.com/article/pirates-fan-fall-pnc-park-alcohol-charges-9e333cfbf2462c839595125267c90807"
     },
     {
+      "title": "ESPN 100 wing Hawthorne commits to Kentucky - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/45245051/espn-100-wing-braydon-hawthorne-commits-kentucky"
+    },
+    {
       "title": "Seiya Suzuki Caps Off Eight-Run, Batting-Around Inning With a Homer - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2025/05/20/seiya-suzuki-caps-off-eight-run-batting-around-inning-with-a-homer/"
     },
     {
-      "title": "Owners voted 32-0 to allow active players participate in Olympic flag football - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-voted-32-0-to-allow-active-players-participate-in-olympic-flag-football"
-    },
-    {
-      "title": "Kurt Busch reflects on his journey to Hall of Fame honor: \u2018I never would have imagined this\u2019 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/05/20/hall-of-fame-class-of-2026-kurt-busch-reflects/"
-    },
-    {
-      "title": "Dak Prescott cleared for everything except contact - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-cleared-for-everything-except-contact"
-    },
-    {
-      "title": "Roethlisberger Predicts Steelers\u2019 Record With (And Without) Rodgers - Steelers Depot",
-      "link": "https://steelersdepot.com/2025/05/roethlisberger-predicts-steelers-record-with-and-without-rodgers/"
-    },
-    {
-      "title": "CeeDee Lamb, George Pickens on building chemistry, complimenting each other - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/ceedee-lamb-george-pickens-on-building-chemistry-complimenting-each-other"
-    },
-    {
-      "title": "49ers Sign QB Brock Purdy to Five-Year Extension - San Francisco 49ers",
-      "link": "https://www.49ers.com/news/49ers-sign-qb-brock-purdy-to-five-year-extension"
-    },
-    {
-      "title": "College basketball rankings: Florida lands Arkansas' Boogie Fland, makes big jump in updated Top 25 And 1 - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-florida-lands-arkansas-boogie-fland-makes-big-jump-in-updated-top-25-and-1/"
-    },
-    {
-      "title": "High school softball players sue Minnesota leaders over transgender students in sports - kare11.com",
-      "link": "https://www.kare11.com/article/news/local/courts-news/trans-girls-sports-minnesota-softball-lawsuit/89-4b9ed5d2-53ff-4972-b359-d9b186420600"
-    },
-    {
-      "title": "Joe Burrow: Another night game in Baltimore isn\u2019t ideal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-another-night-game-in-baltimore-isnt-ideal"
-    },
-    {
-      "title": "Joe Burrow: Trey Hendrickson deserves to get paid what the market is - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-trey-hendrickson-deserves-to-get-paid-what-the-market-is"
+      "title": "Mets sympathize with Juan Soto as $765 million man\u2019s gaffes pile up - New York Post",
+      "link": "https://nypost.com/2025/05/20/sports/mets-sympathize-with-juan-soto-as-765-million-mans-gaffes-pile-up/"
     }
   ],
   "weather": {
