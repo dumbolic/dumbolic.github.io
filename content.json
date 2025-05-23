@@ -1,9 +1,9 @@
 {
-  "quote": "Your gift is something that you can do innately better than anything else. \u2013 Steve Harvey",
-  "fact": "Honking of car horns for a couple that just got married is an old superstition to insure great sex.",
-  "crypto": "BTC: $111,368 | ETH: $2,666.77",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.",
+  "quote": "There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.  \u2013 Orison Swett Marden",
+  "fact": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
+  "crypto": "BTC: $111,317 | ETH: $2,711.39",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I'll tell you what often gets over looked... garden fences.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Replacing an AirTag battery helped me reunite a lost dog with its owner - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/05/replacing-an-airtag-battery-helped-me-reunite-a-lost-dog-with-its-owner/"
+      "title": "Dyson\u2019s new superskinny stick vac is as thin as its hair dryer - The Verge",
+      "link": "https://www.theverge.com/news/671739/dyson-pencilvac-vacuum-cleaner-thin-skinny-slimmest"
     },
     {
       "title": "AMD Aims To Kick Rival Intel While It's Down - Investor's Business Daily",
       "link": "https://www.investors.com/news/technology/amd-stock-intel-computex-2025-news/"
     },
     {
+      "title": "Fortnite returns to U.S. iPhones after a protracted legal battle - The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2025/05/20/fortnite-ios-iphone-available/"
+    },
+    {
       "title": "Microsoft's and Google's dueling developer conferences reveal opposite AI strategies\u2014and a big weakness for one company - Fortune",
       "link": "https://fortune.com/2025/05/21/microsoft-build-google-io-conferences-showcase-divergent-consumer-business-ai-strategies/"
     },
     {
+      "title": "What are the Gemini app\u2019s free, AI Pro, and AI Ultra limits - 9to5Google",
+      "link": "http://9to5google.com/2025/05/21/gemini-app-limits-may-2025/"
+    },
+    {
       "title": "There was confusion inside Nintendo over whether Mario eats mushrooms - Polygon",
       "link": "https://www.polygon.com/culture/600572/mario-eats-mushrooms-power-up"
+    },
+    {
+      "title": "Sony Killing Half-Baked PlayStation Stars Loyalty Program Less Than Three Years Later - Kotaku",
+      "link": "https://kotaku.com/playstation-stars-digital-collectibles-ps5-nft-points-1851781718"
+    },
+    {
+      "title": "Google co-founder Sergey Brin admits he dropped the ball with Google Glass - Android Police",
+      "link": "https://www.androidpolice.com/sergey-brin-confesses-to-google-glass-mistakes/"
     },
     {
       "title": "Xbox and Antstream Arcade have launched a new Retro Classics service on Game Pass - Video Games Chronicle",
@@ -44,70 +60,62 @@
       "link": "http://9to5google.com/2025/05/21/volvo-google-android-automotive-features-faster-gemini/"
     },
     {
-      "title": "Senua\u2019s Saga: Hellblade II coming to PS5 this summer - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/senuas-saga-hellblade-ii-coming-to-ps5-this-summer"
+      "title": "Hellblade 2 Announced for PS5, Out This Summer - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/05/hellblade-2-announced-for-ps5-out-this-summer"
+    },
+    {
+      "title": "Gearbox\u2019s Randy Pitchford Responds To \u2018Borderlands 4\u2019 Price Debacle - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/05/21/gearboxs-randy-pitchford-responds-to-borderlands-4-price-debacle/"
     },
     {
       "title": "The five coolest gadgets announced at Computex 2025 (and they're actually affordable) - ZDNET",
       "link": "https://www.zdnet.com/article/the-five-coolest-gadgets-announced-at-computex-2025-and-theyre-actually-affordable/"
     },
     {
-      "title": "AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU - The Verge",
-      "link": "https://www.theverge.com/news/671490/amd-threadripper-9000-series-cpus-release-date"
-    },
-    {
-      "title": "Miniot returns with a sleeker Wheel 3 vertical turntable - The Verge",
-      "link": "https://www.theverge.com/news/671413/miniot-returns-with-a-sleeker-wheel-3-vertical-turntable"
+      "title": "Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager - The Hacker News",
+      "link": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html"
     },
     {
       "title": "Google Unveils Android XR Glasses with Gemini AI Integration - Decrypt",
       "link": "https://decrypt.co/321236/google-unveils-android-xr-glasses-gemini-ai-integration"
     },
     {
-      "title": "Google cofounder Sergey Brin shares why he's back at the company 'pretty much every day now' to work on AI - Business Insider",
-      "link": "https://www.businessinsider.com/google-cofounder-sergey-brin-ai-io-conference"
-    },
-    {
-      "title": "Amazon to be working on a foldable-screen laptop of its own - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/amazon_to_be_working_on_a_foldablescreen_laptop_of_its_own-news-67875.php"
-    },
-    {
-      "title": "The latest Google Gemma AI model can run on phones - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/20/the-newest-google-gemma-ai-model-can-run-on-phones/"
-    },
-    {
-      "title": "Your Google Gemini assistant is getting 8 useful features - here's the update log - ZDNET",
-      "link": "https://www.zdnet.com/article/your-google-gemini-assistant-is-getting-8-useful-features-heres-the-update-log/"
+      "title": "AMD Introduces New Radeon Graphics Cards and Ryzen Threadripper Processors at COMPUTEX 2025 - AMD",
+      "link": "https://ir.amd.com/news-events/press-releases/detail/1253/amd-introduces-new-radeon-graphics-cards-and-ryzen-threadripper-processors-at-computex-2025"
     }
   ],
   "sports_news": [
     {
-      "title": "'I'm a winner' - inside Postecoglou's second season at Tottenham - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c5yqqy55xjjo"
+      "title": "Yup, another Knicks choke in the Garden. Pacers finish off miracle comeback with Game 1 OT win - IndyStar",
+      "link": "https://www.indystar.com/story/sports/nba/pacers/2025/05/21/pacers-vs-knicks-score-tyrese-haliburton-aaron-nesmith-stun-new-york-in-game-1-ot/83695642007/"
+    },
+    {
+      "title": "All the Celebrities at Knicks vs. Pacers Game 1 of the NBA Eastern Conference Finals - Page Six",
+      "link": "https://pagesix.com/2025/05/21/celebrity-news/all-the-celebrities-at-knicks-vs-pacers-game-1-of-the-nba-eastern-conference-finals/"
+    },
+    {
+      "title": "Paige Bueckers returns to Minnesota: Dapper Dan dresses Wings star for homecoming game vs. Lynx - CBS Sports",
+      "link": "https://www.cbssports.com/wnba/news/paige-bueckers-returns-to-minnesota-dapper-dan-dresses-wings-star-for-homecoming-game-vs-lynx/"
     },
     {
       "title": "Caitlin Clark-Angel Reese rivalry is being hijacked and it\u2019s just small part of WNBA\u2019s hate-speech problem - New York Post",
       "link": "https://nypost.com/2025/05/21/sports/caitlin-clark-angel-reese-rivalry-being-hijacked-is-small-part-of-wnbas-hate-speech-problem/"
     },
     {
-      "title": "Indianapolis Colts owner and CEO Jim Irsay dies at 65 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45259729/indianapolis-colts-owner-ceo-jim-irsay-dies-65"
-    },
-    {
       "title": "Enhanced Games to Debut in 2026 Allowing PED Use in Olympic-Style Event - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25198378-enhanced-games-debut-2026-allowing-ped-use-olympic-style-event"
-    },
-    {
-      "title": "'An affront to any partnership we have had': City of Cleveland, Cuyahoga County sever ties with Greater Cleveland Partnership over Browns stadium saga - WKYC",
-      "link": "https://www.wkyc.com/article/news/local/cuyahoga-county/cleveland-cuyahoga-county-sever-ties-greater-cleveland-partnership-browns-brook-park-stadium/95-a386f76d-92e8-4ea3-9146-c643b9b740c7"
     },
     {
       "title": "Oklahoma City's Shai Gilgeous-Alexander named 2024-25 Kia NBA MVP - NBA",
       "link": "https://www.nba.com/news/kia-nba-most-valuable-player-award-2024-25-shai-gilgeous-alexander"
     },
     {
-      "title": "BYU quarterback Jake Retzlaff accused of sex assault in new civil lawsuit - The Salt Lake Tribune",
-      "link": "https://www.sltrib.com/sports/byu-cougars/2025/05/21/byu-quarterback-jake-retzlaff/"
+      "title": "Ange: Tottenham\u2019s Europa League win will \"change the club\" - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/2025/5/21/24434832/tottenham-hotspur-news-europa-league-title-ange-postecoglou-change-the-club"
+    },
+    {
+      "title": "Roger Penske addresses Indy 500 qualifying violations that led to dismissal of 3 employees - FOX Sports",
+      "link": "https://www.foxsports.com/stories/motor/roger-penske-indy-500-qualifying-rules-violations-dismissal-interview"
     },
     {
       "title": "Brock Purdy calls his contract extension \"a huge blessing\" - NBC Sports",
@@ -118,6 +126,10 @@
       "link": "https://www.cbssports.com/nfl/news/tush-push-vote-led-to-heated-exchange-between-nfl-owners-and-executives-per-report/"
     },
     {
+      "title": "Cleveland, Cuyahoga County cut ties with Greater Cleveland Partnership over Browns Brook Park stadium support - Cleveland.com",
+      "link": "https://www.cleveland.com/news/2025/05/cleveland-cuyahoga-county-cut-ties-with-greater-cleveland-partnership-over-browns-brook-park-stadium-support.html"
+    },
+    {
       "title": "Photos from Florida basketball's visit with President Donald Trump at the White House - Gainesville Sun",
       "link": "https://www.gainesville.com/picture-gallery/sports/college/2025/05/21/photos-president-donald-trump-welcomes-florida-basketball-to-the-white-house/83776890007/"
     },
@@ -126,12 +138,8 @@
       "link": "https://www.tennesseetitans.com/news/titans-sign-qb-cam-ward-to-rookie-contract"
     },
     {
-      "title": "Knicks-Pacers Eastern Conference Finals begin at MSG\u2014How to watch Game 1 free - New York Post",
-      "link": "https://nypost.com/2025/05/21/sports/how-to-watch-knicks-pacers-eastern-conference-finals-game-1-free/"
-    },
-    {
-      "title": "Report: \u201cNo Chance\u201d Paul Skenes Will Be Traded This Year - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/paul-skenes-trade-rumors-pirates-no-chance.html"
+      "title": "Jon Jones offers grim update on timing for potential Tom Aspinall fight - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/21/24434721/jon-jones-offers-grim-update-on-timing-for-potential-tom-aspinall-fight"
     },
     {
       "title": "Commanders, NFC East to be featured on HBO's in-season 'Hard Knocks' - Washington Commanders",
@@ -142,20 +150,16 @@
       "link": "https://www.mlbtraderumors.com/2025/05/jared-jones-season-ending-elbow-surgery-ucl-tommy-john-internal-brace.html"
     },
     {
-      "title": "Team Penske releases three top executives following Indy 500 qualifying violations - FOX Sports",
-      "link": "https://www.foxsports.com/stories/motor/team-penske-releases-executives-indy-500"
+      "title": "Reviewing all 13 fouls Shai Gilgeous-Alexander drew in Game 1 of Wolves-Thunder - Sports Illustrated",
+      "link": "https://www.si.com/nba/timberwolves/minnesota-timberwolves-news/reviewing-all-13-fouls-shai-gilgeous-alexander-drew-in-game-1-of-wolves-thunder"
     },
     {
-      "title": "Lions Withdraw NFL Playoff Bracket Reseeding Proposal Ahead of Rule Change Votes - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25198133-lions-withdraw-nfl-playoff-bracket-reseeding-proposal-ahead-rule-change-votes"
+      "title": "Lions withdraw proposal to change playoff seeding before vote - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-withdraw-proposal-to-change-playoff-seeding-before-vote"
     },
     {
-      "title": "Out of walking boot, Deshaun Watson is throwing at the Browns\u2019 facility - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/out-of-walking-boot-deshaun-watson-is-throwing-at-the-browns-facility"
-    },
-    {
-      "title": "Tom Aspinall makes upsetting admission regarding Jon Jones UFC title delays - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/05/21/tom-aspinall-makes-upsetting-admission-regarding-jon-jones-ufc-title-delays/"
+      "title": "The Opener: Crews, Hassell, Orioles, Angels, A\u2019s - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/the-opener-crews-hassell-orioles-angels-as.html"
     }
   ],
   "weather": {
