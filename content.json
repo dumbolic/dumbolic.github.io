@@ -1,9 +1,9 @@
 {
-  "quote": "If we know how to adapt, we end up being superior. \u2013 Ming-Dao Deng",
-  "fact": "Oak trees do not produce acorns until they are fifty years of age or older.",
-  "crypto": "BTC: $109,058 | ETH: $2,554.16",
+  "quote": "Looking after my health today gives me a better hope for tomorrow.  \u2013 Anne Wilson Schaef",
+  "fact": "Peanuts are one of the ingredients of dynamite.",
+  "crypto": "BTC: $108,878 | ETH: $2,551.48",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What kind of pants do ghosts wear? Boo jeans.",
+  "joke": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -14,6 +14,10 @@
     {
       "title": "[TCG] Doom of Dimensions - YGOrganization",
       "link": "https://ygorganization.com/tcg-doom-of-dimensions/"
+    },
+    {
+      "title": "OpenAI upgrades the AI model powering its Operator agent - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/23/openai-upgrades-the-ai-model-powering-its-operator-agent/"
     },
     {
       "title": "New Turn-Based TMNT Game Is A Mostly Successful Experiment - Kotaku",
@@ -30,6 +34,14 @@
     {
       "title": "Desktop Survivors 98 is more than just a retro Windows nostalgia trip - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/05/desktop-survivors-98-is-more-than-just-a-retro-windows-nostalgia-trip/"
+    },
+    {
+      "title": "Microsoft dumps AI into Notepad as 'Copilot all the things' mania takes hold in Redmond - theregister.com",
+      "link": "https://www.theregister.com/2025/05/23/microsoft_ai_notepad/"
+    },
+    {
+      "title": "How the \u2018Technology Brothers\u2019 Seized Silicon Valley - The Information",
+      "link": "https://www.theinformation.com/articles/technology-brothers-seized-silicon-valley"
     },
     {
       "title": "Digg founder Kevin Rose offers to buy Pocket from Mozilla - TechCrunch",
@@ -76,38 +88,58 @@
       "link": "https://www.rockpapershotgun.com/if-you-fancy-an-elder-scroll-open-world-rpg-tainted-grail-the-fall-of-avalon-hits-10-release-today"
     },
     {
-      "title": "Monolith Soft says procedurally generating assets in Xenoblade Chronicles 3 \u2018reduced man-hours considerably\u2019 - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/monolith-soft-says-procedurally-generating-assets-in-xenoblade-chronicles-3-reduced-man-hours-considerably/"
-    },
-    {
       "title": "Nintendo Switch Online gets four more Game Boy classics - Eurogamer",
       "link": "https://www.eurogamer.net/nintendo-switch-online-gets-four-more-game-boy-classics"
-    },
-    {
-      "title": "Elden Ring Nightreign could receive two player mode post-launch - Eurogamer",
-      "link": "https://www.eurogamer.net/elden-ring-nightreign-could-receive-two-player-mode-post-launch"
-    },
-    {
-      "title": "The Influencer Inspiring Girls to Eat As Little As Possible - The Cut",
-      "link": "http://www.thecut.com/article/influencer-liv-schmidt-subscriber-group-chat-weight-loss.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Jim Irsay let his football people do their jobs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-irsay-let-his-football-people-do-their-jobs"
+      "title": "Channing Crowder: Jordon Hudson \"choreographed\" Bill Belichick's interview on The Pivot Podcast - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/channing-crowder-jordon-hudson-choreographed-bill-belichicks-interview-on-the-pivot-podcast"
     },
     {
-      "title": "Bearman handed grid penalty for Monaco GP - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/breaking-bearman-handed-sizeable-monaco-gp-grid-penalty-after-red-flag.5F24X3VdlAUVm4iCTEqtj3"
+      "title": "How Liverpool (probably) snatched Florian Wirtz from Bayern Munich\u2019s grasp - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/5/23/24436026/liverpool-probably-snatched-florian-wirtz-from-bayern-munich-grasp-transfer-rumors-bayer-leverkusen"
+    },
+    {
+      "title": "Oliver Bearman slapped with 10-place grid drop for F1 Monaco GP - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/oliver-bearman-slapped-with-10-place-grid-drop-for-f1-monaco-gp/10725770/"
+    },
+    {
+      "title": "Jim Irsay let his football people do their jobs - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-irsay-let-his-football-people-do-their-jobs"
     },
     {
       "title": "Islanders hiring Mathieu Darche as new GM with massive to-do list awaiting him - New York Post",
       "link": "https://nypost.com/2025/05/23/sports/islanders-hiring-mathieu-darche-as-gm-with-huge-to-do-list-waiting/"
     },
     {
+      "title": "Josef Newgarden leads Indy 500 final practice, RHR's car erupts in flames - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/josef-newgarden-leads-indy-500-practice-rhr-erupts-flames/10725664/"
+    },
+    {
+      "title": "Sam LaPorta on 2024 dip in production: We scored the most points, everyone deserves the ball - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-laporta-on-2024-dip-in-production-we-scored-the-most-points-everyone-deserves-the-ball"
+    },
+    {
+      "title": "Tyrese Haliburton\u2019s girlfriend Jade Jones mocks Knicks over Game 1 collapse with spicy comment - New York Post",
+      "link": "https://nypost.com/2025/05/23/sports/tyrese-haliburtons-girlfriend-mocks-knicks-game-1-collapse-with-spicy-comment/"
+    },
+    {
+      "title": "Henry Cejudo reveals details in Kamaru Usman, Belal Muhammad podcast scuffle: \u2018Hands were thrown, slaps were given\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/23/24435951/henry-cejudo-details-kamaru-usman-belal-muhammad-podcast-scuffle-hands-were-thrown-slaps-were-given"
+    },
+    {
+      "title": "George Russell voices Mercedes 'surprise' ahead of major Monaco unknown - racingnews365.com",
+      "link": "https://racingnews365.com/george-russell-voices-mercedes-surprise-ahead-of-major-monaco-unknown"
+    },
+    {
       "title": "Lions\u2019 Penei Sewell says he\u2019s getting bigger and stronger this offseason - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-penei-sewell-says-hes-getting-bigger-and-stronger-this-offseason"
+    },
+    {
+      "title": "FP2: Leclerc fastest again during second practice in Monaco as Hadjar and Piastri each cause red flags - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/fp2-leclerc-fastest-again-during-second-practice-in-monaco-as-hadjar-and.49P0UBVKqBvNt7tVyiTHme"
     },
     {
       "title": "Braves DFA Orlando Arcia, Activate Ronald Acuna From IL - MLB Trade Rumors",
@@ -126,52 +158,16 @@
       "link": "https://www.cyclingnews.com/races/giro-d-italia-2025/stage-13/live-report/"
     },
     {
+      "title": "Rockies Fans\u2019 Best Hope Might Be More Losses - Defector",
+      "link": "https://defector.com/rockies-fans-best-hope-might-be-more-losses"
+    },
+    {
+      "title": "Missed Fists: Fight ends in seconds following suspicious knockout punch - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/23/24435705/missed-fists-fight-ends-in-seconds-following-suspicious-knockout-punch"
+    },
+    {
       "title": "Tottenham Hotspur to hold victory parade after Europa League triumph - BBC",
       "link": "https://www.bbc.com/news/live/c3087gp889vt"
-    },
-    {
-      "title": "Grady Jarrett calls it \"refreshing\" to start with Bears after 10 years with Falcons - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/grady-jarrett-calls-it-refreshing-to-start-with-bears-after-10-years-with-falcons"
-    },
-    {
-      "title": "Shai Gilgeous-Alexander Didn't Initially Recognize Chris Paul Sitting Next to His Wife - Sports Illustrated",
-      "link": "https://www.si.com/nba/shai-gilgeous-alexander-didnt-recognize-chris-paul-sitting-next-to-his-wife"
-    },
-    {
-      "title": "How \u2018miserable\u2019 hospital stay gave Aidan Hutchinson new perspective on life - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/5/23/24435788/how-miserable-hospital-stay-gave-aidan-hutchinson-new-perspective-on-life"
-    },
-    {
-      "title": "Stroll hit with penalty after Leclerc clash in Monaco FP1 - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/breaking-stroll-hit-with-grid-penalty-after-leclerc-clash-in-opening-monaco.4m6D7qDxnRcIxFphvbDZxw"
-    },
-    {
-      "title": "2025 NCAA softball bracket: Women's College World Series scores, schedule - NCAA.com",
-      "link": "https://www.ncaa.com/news/softball/article/2025-05-22/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
-    },
-    {
-      "title": "College Football Playoff alters seeding process: Why Notre Dame emerges as biggest winner under new format - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-playoff-alters-seeding-process-why-notre-dame-emerges-as-biggest-winner-under-new-format/"
-    },
-    {
-      "title": "NBA Playoffs Best Bets, Picks, Predictions for Friday, May 23 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-playoffs-best-bets-picks-predictions-for-friday-may-23-qs"
-    },
-    {
-      "title": "How do the Knicks bounce back from their historic collapse? Inside New York's state of mind and strategy for Game 2 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/how-do-the-knicks-bounce-back-from-their-historic-collapse-inside-new-yorks-state-of-mind-and-strategy-for-game-2-132815566.html"
-    },
-    {
-      "title": "How to Watch Nebraska Baseball vs. Oregon in the Big Ten Tournament: Preview, Breakdown, TV Channel - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/baseball/how-to-watch-nebraska-baseball-vs-oregon-in-the-big-ten-tournament-preview-breakdown-tv-channel-cornhuskers-omaha"
-    },
-    {
-      "title": "The Oklahoma City Thunder Smell Blood in the Water - The Ringer",
-      "link": "https://www.theringer.com/2025/05/23/nba/oklahoma-city-thunder-minnesota-timberwolves-game-2-nba-playoffs-2025"
-    },
-    {
-      "title": "Lake Como\u2019s Serie A Rise Has Its Club Dreaming of Becoming a Sports Disneyland - Sports Illustrated",
-      "link": "https://www.si.com/soccer/lake-como-1907-serie-a-rise-sports-disneyland-fabregas"
     }
   ],
   "weather": {
