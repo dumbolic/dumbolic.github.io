@@ -1,9 +1,9 @@
 {
-  "quote": "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided. \u2013 Tony Robbins",
-  "fact": "Length of beard an average man would grow if he never shaved 27.5 feet",
-  "crypto": "BTC: $108,588 | ETH: $2,532.37",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A cannibal is someone who is fed up with people.",
+  "quote": "Where does a thought go when it's forgotten? \u2013 Sigmund Freud",
+  "fact": "Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.",
+  "crypto": "BTC: $108,023 | ETH: $2,527.36",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "I/O versus io: Google and OpenAI can\u2019t stop messing with each other - The Verge",
+      "link": "https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive"
+    },
     {
       "title": "[TCG] Doom of Dimensions - YGOrganization",
       "link": "https://ygorganization.com/tcg-doom-of-dimensions/"
@@ -38,6 +42,10 @@
     {
       "title": "Microsoft dumps AI into Notepad as 'Copilot all the things' mania takes hold in Redmond - theregister.com",
       "link": "https://www.theregister.com/2025/05/23/microsoft_ai_notepad/"
+    },
+    {
+      "title": "BMW M celebrates the design world premiere of the new BMW M2 CS at the Concorso d'Eleganza Villa d'Este 2025 - BMW Group",
+      "link": "https://www.press.bmwgroup.com/canada/article/detail/T0450345EN/bmw-m-celebrates-the-design-world-premiere-of-the-new-bmw-m2-cs-at-the-concorso-d-eleganza-villa-d-este-2025?language=en"
     },
     {
       "title": "How the \u2018Technology Brothers\u2019 Seized Silicon Valley - The Information",
@@ -68,6 +76,10 @@
       "link": "https://arstechnica.com/gadgets/2025/05/steamos-3-7-brings-valves-gaming-os-to-other-handhelds-and-generic-amd-pcs/"
     },
     {
+      "title": "Anker\u2019s 14-Port Docking Station Drops to Its Lowest Price, Covers Everything From HDMI to USB-C - Gizmodo",
+      "link": "https://gizmodo.com/ankers-14-port-docking-station-drops-to-its-lowest-price-covers-everything-from-hdmi-to-usb-c-2000605981"
+    },
+    {
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot - TechCrunch",
       "link": "https://techcrunch.com/2025/05/23/chatgpt-everything-to-know-about-the-ai-chatbot/"
     },
@@ -78,32 +90,52 @@
     {
       "title": "Pok\u00e9mon GO Ancients Recovered Event Guide - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/event/ancients-recovered/"
-    },
-    {
-      "title": "The 5 coolest gadgets I saw at Computex 2025 (and that you can actually buy) - ZDNET",
-      "link": "https://www.zdnet.com/article/the-5-coolest-gadgets-i-saw-at-computex-2025-and-that-you-can-actually-buy/"
-    },
-    {
-      "title": "Skyrim-style open world RPG Tainted Grail: The Fall Of Avalon releases out of early access today - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/if-you-fancy-an-elder-scroll-open-world-rpg-tainted-grail-the-fall-of-avalon-hits-10-release-today"
-    },
-    {
-      "title": "Nintendo Switch Online gets four more Game Boy classics - Eurogamer",
-      "link": "https://www.eurogamer.net/nintendo-switch-online-gets-four-more-game-boy-classics"
     }
   ],
   "sports_news": [
     {
-      "title": "Channing Crowder: Jordon Hudson \"choreographed\" Bill Belichick's interview on The Pivot Podcast - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/channing-crowder-jordon-hudson-choreographed-bill-belichicks-interview-on-the-pivot-podcast"
+      "title": "White Sox Option Andrew Vaughn, Tim Elko - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/white-sox-option-andrew-vaughn-tim-elko.html"
+    },
+    {
+      "title": "Mariners Designate Jesse Hahn For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/mariners-designate-jesse-hahn-for-assignment.html"
+    },
+    {
+      "title": "Athletics Designate Seth Brown For Assignment, Option JJ Bleday - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/athletics-designate-seth-brown-for-assignment-option-jj-bleday.html"
+    },
+    {
+      "title": "Maple Leafs moving on from Shanahan was needed to 'help us get to the next level' - NHL.com",
+      "link": "https://www.nhl.com/news/brendan-shanahan-exit-needed-for-toronto-to-reach-the-next-level"
+    },
+    {
+      "title": "Ben Lively To Undergo Tommy John Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/ben-lively-to-undergo-tommy-john-surgery.html"
+    },
+    {
+      "title": "Hot diggity dog! Wienermobiles put on riveting race in Wienie 500 at Indianapolis Motor Speedway - AP News",
+      "link": "https://apnews.com/article/indianapolis-500-wiener-race-c5fd033c5ee3151c489093734b10188a"
     },
     {
       "title": "How Liverpool (probably) snatched Florian Wirtz from Bayern Munich\u2019s grasp - Bavarian Football Works",
       "link": "https://www.bavarianfootballworks.com/2025/5/23/24436026/liverpool-probably-snatched-florian-wirtz-from-bayern-munich-grasp-transfer-rumors-bayer-leverkusen"
     },
     {
+      "title": "What the teams said \u2013 Friday at the 2025 Monaco Grand Prix | Formula 1\u00ae - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-monaco-2025.67l8tJI399aoINXz8ag7D1"
+    },
+    {
+      "title": "Alex Cora backs Liam Hendriks after Red Sox pitcher, wife grapple with fan death threats - New York Post",
+      "link": "https://nypost.com/2025/05/23/sports/red-soxs-alex-cora-backs-liam-hendriks-after-pitcher-wife-face-death-threats/"
+    },
+    {
       "title": "Oliver Bearman slapped with 10-place grid drop for F1 Monaco GP - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/oliver-bearman-slapped-with-10-place-grid-drop-for-f1-monaco-gp/10725770/"
+    },
+    {
+      "title": "Aidan Hutchinson\u2019s contract continues to loom for Lions - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aidan-hutchinsons-contract-continues-to-loom-for-lions"
     },
     {
       "title": "Jim Irsay let his football people do their jobs - NBC Sports",
@@ -114,60 +146,28 @@
       "link": "https://nypost.com/2025/05/23/sports/islanders-hiring-mathieu-darche-as-gm-with-huge-to-do-list-waiting/"
     },
     {
+      "title": "Why the Kings traded away Tyrese Haliburton to the Pacers in one of the decade's most shocking moves - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/why-the-kings-traded-away-tyrese-haliburton-to-the-pacers-in-one-of-the-decades-most-shocking-moves/"
+    },
+    {
       "title": "Josef Newgarden leads Indy 500 final practice, RHR's car erupts in flames - Motorsport.com",
       "link": "https://www.motorsport.com/indycar/news/josef-newgarden-leads-indy-500-practice-rhr-erupts-flames/10725664/"
     },
     {
-      "title": "Sam LaPorta on 2024 dip in production: We scored the most points, everyone deserves the ball - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-laporta-on-2024-dip-in-production-we-scored-the-most-points-everyone-deserves-the-ball"
+      "title": "'People will say I'm back, but I was never gone' \u2013 Wout van Aert narrowly misses on second Giro d'Italia stage win - Cyclingnews",
+      "link": "https://www.cyclingnews.com/news/people-will-say-im-back-but-i-was-never-gone-wout-van-aert-narrowly-misses-on-second-giro-ditalia-stage-win/"
+    },
+    {
+      "title": "History looms, chaos brews: Welcome to a French Open with no clear script - WTA Tennis",
+      "link": "https://www.wtatennis.com/news/4271715/history-looms-chaos-brews-welcome-to-a-french-open-with-no-clear-script"
     },
     {
       "title": "Tyrese Haliburton\u2019s girlfriend Jade Jones mocks Knicks over Game 1 collapse with spicy comment - New York Post",
       "link": "https://nypost.com/2025/05/23/sports/tyrese-haliburtons-girlfriend-mocks-knicks-game-1-collapse-with-spicy-comment/"
     },
     {
-      "title": "Henry Cejudo reveals details in Kamaru Usman, Belal Muhammad podcast scuffle: \u2018Hands were thrown, slaps were given\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/5/23/24435951/henry-cejudo-details-kamaru-usman-belal-muhammad-podcast-scuffle-hands-were-thrown-slaps-were-given"
-    },
-    {
-      "title": "George Russell voices Mercedes 'surprise' ahead of major Monaco unknown - racingnews365.com",
-      "link": "https://racingnews365.com/george-russell-voices-mercedes-surprise-ahead-of-major-monaco-unknown"
-    },
-    {
-      "title": "Lions\u2019 Penei Sewell says he\u2019s getting bigger and stronger this offseason - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-penei-sewell-says-hes-getting-bigger-and-stronger-this-offseason"
-    },
-    {
-      "title": "FP2: Leclerc fastest again during second practice in Monaco as Hadjar and Piastri each cause red flags - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp2-leclerc-fastest-again-during-second-practice-in-monaco-as-hadjar-and.49P0UBVKqBvNt7tVyiTHme"
-    },
-    {
-      "title": "Braves DFA Orlando Arcia, Activate Ronald Acuna From IL - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/braves-dfa-orlando-arcia-activate-ronald-acuna-jr.html"
-    },
-    {
-      "title": "Georgia O\u2019Connor, U.K. boxer, dies at 25 after saying doctors 'gaslit' her on cancer concerns for months - NBC News",
-      "link": "https://www.nbcnews.com/sports/boxing/georgia-oconnor-uk-boxer-dies-25-saying-doctors-gaslit-cancer-concerns-rcna208766"
-    },
-    {
-      "title": "Kevin Stefanski: It won\u2019t be an even split of QB reps - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-it-wont-be-an-even-split-of-qb-reps"
-    },
-    {
-      "title": "As it happened: GC riders and puncheurs battle on uphill finish at stage 13 of the Giro d\u2019Italia - Cyclingnews",
-      "link": "https://www.cyclingnews.com/races/giro-d-italia-2025/stage-13/live-report/"
-    },
-    {
-      "title": "Rockies Fans\u2019 Best Hope Might Be More Losses - Defector",
-      "link": "https://defector.com/rockies-fans-best-hope-might-be-more-losses"
-    },
-    {
-      "title": "Missed Fists: Fight ends in seconds following suspicious knockout punch - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/5/23/24435705/missed-fists-fight-ends-in-seconds-following-suspicious-knockout-punch"
-    },
-    {
-      "title": "Tottenham Hotspur to hold victory parade after Europa League triumph - BBC",
-      "link": "https://www.bbc.com/news/live/c3087gp889vt"
+      "title": "Ronald Acu\u00f1a, Jr. activated, Orlando Arcia designated for assignment. - Battery Power",
+      "link": "https://www.batterypower.com/2025/5/23/24435970/ronald-acuna-jr-activated-orlando-arcia-designated-for-assignment-atlanta-braves-roster-moves"
     }
   ],
   "weather": {
