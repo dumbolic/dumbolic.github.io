@@ -1,9 +1,9 @@
 {
-  "quote": "The purpose of life is the life of purpose. \u2013 Robin Sharma",
-  "fact": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-  "crypto": "BTC: $107,792 | ETH: $2,499.58",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What\u2019s E.T. short for? He\u2019s only got little legs.",
+  "quote": "Given the choice between the experience of pain and nothing, I would choose pain. \u2013 William Faulkner",
+  "fact": "One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.",
+  "crypto": "BTC: $108,131 | ETH: $2,512.83",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "This Beautiful BMW Wagon Is Actually Going Into Production - Motor1.com",
+      "link": "https://www.motor1.com/news/760570/bmw-speedtop-concept-debut/"
+    },
+    {
+      "title": "Mortal Kombat 1 is finished receiving DLC characters and story content confirms NetherRealm Studios, shifts focus to next project - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/may/23/mortal-kombat-finished-characters/"
+    },
     {
       "title": "I/O versus io: Google and OpenAI can\u2019t stop messing with each other - The Verge",
       "link": "https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive"
@@ -22,6 +30,10 @@
     {
       "title": "The Best Memorial Day TV Deals We've Found So Far - IGN",
       "link": "https://www.ign.com/articles/best-tv-deals-for-memorial-day-2025"
+    },
+    {
+      "title": "Material 3 Expressive's approach to dynamic app color is sounding better and better - Android Authority",
+      "link": "https://www.androidauthority.com/material-3-expressive-color-3560841/"
     },
     {
       "title": "[TCG] Doom of Dimensions - YGOrganization",
@@ -76,50 +88,58 @@
       "link": "https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display"
     },
     {
-      "title": "SteamOS 3.7 brings Valve\u2019s gaming OS to other handhelds and generic AMD PCs - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/05/steamos-3-7-brings-valves-gaming-os-to-other-handhelds-and-generic-amd-pcs/"
-    },
-    {
       "title": "Anker\u2019s 14-Port Docking Station Drops to Its Lowest Price, Covers Everything From HDMI to USB-C - Gizmodo",
       "link": "https://gizmodo.com/ankers-14-port-docking-station-drops-to-its-lowest-price-covers-everything-from-hdmi-to-usb-c-2000605981"
-    },
-    {
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/23/chatgpt-everything-to-know-about-the-ai-chatbot/"
-    },
-    {
-      "title": "Here\u2019s How NVIDIA Manipulated the GeForce RTX 5060 Launch By Deceptive Tactics, But We Won\u2019t Fall For It Anymore - Wccftech",
-      "link": "https://wccftech.com/here-how-nvidia-manipulated-the-geforce-rtx-5060-launch-by-deceptive-tactics/"
     }
   ],
   "sports_news": [
     {
-      "title": "Aaron Rodgers drops a hint that he\u2019ll be heading for Pittsburgh - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-drops-a-hint-that-hell-be-heading-for-pittsburgh"
+      "title": "Red Sox\u2019s Alex Cora Expands On Alex Bregman Injury - NESN",
+      "link": "https://nesn.com/2025/05/red-soxs-alex-cora-expands-on-alex-bregman-injury/"
     },
     {
       "title": "Pacers-Knicks: Live updates, highlights from Game 2 - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/45275414/new-york-knicks-indiana-pacers-nba-playoffs-2025-game-2-live-updates-highlights-results"
     },
     {
+      "title": "Danica Patrick: \u2018Emotionally abusive\u2019 Aaron Rodgers relationship \u2018wore me down to nothing\u2019 - New York Post",
+      "link": "https://nypost.com/2025/05/23/sports/danica-patrick-opens-up-on-emotionally-abusive-aaron-rodgers-relationship/"
+    },
+    {
       "title": "Who\u2019ll coach the U.S. men\u2019s Olympic flag football team? - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wholl-coach-the-u-s-mens-olympic-flag-football-team"
     },
     {
-      "title": "Alex Cora Shares Red Sox Emergency Third Base Plan After Alex Bregman Injury - NESN",
-      "link": "https://nesn.com/2025/05/alex-cora-shares-red-sox-emergency-third-base-plan-after-alex-bregman-injury/"
+      "title": "It\u2019s Flo-ver? Germany star Florian Wirtz says \u2018yes\u2019 to Liverpool, \u2018no\u2019 to Bayern Munich per report - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/5/24/24433513/florian-wirtz-says-yes-liverpool-fc-bayern-munich-150m-transfer-bayer-leverkusen-arne-slot-kompany"
     },
     {
-      "title": "White Sox Option Andrew Vaughn, Tim Elko - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/white-sox-option-andrew-vaughn-tim-elko.html"
+      "title": "Shai Gilgeous-Alexander, Nikola Joki\u0107, Giannis Antetokounmpo anchor 2024-25 Kia All-NBA Team - NBA",
+      "link": "https://www.nba.com/news/2024-25-all-nba-teams-announced"
+    },
+    {
+      "title": "Dodgers vs Mets Prediction, F5 Pick, Odds Tonight - Action Network",
+      "link": "https://www.actionnetwork.com/mlb/los-angeles-dodgers-vs-new-york-mets-prediction-pick-odds-friday-may-23-qs"
+    },
+    {
+      "title": "Aaron Rodgers drops big hint that he\u2019s joining Steelers - Behind the Steel Curtain",
+      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/2025/5/23/24436091/aaron-rodgers-drops-big-hint-that-hes-joining-steelers-chicago-bears-joe-rogan-experience-nfl"
+    },
+    {
+      "title": "Kyle Larson eyes \u2018The Double\u2019 with confident Carb Day performance - Jayski's NASCAR Silly Season Site",
+      "link": "https://www.jayski.com/2025/05/23/kyle-larson-eyes-the-double-with-confident-carb-day-performance/"
     },
     {
       "title": "Athletics Designate Seth Brown For Assignment, Option JJ Bleday - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/05/athletics-designate-seth-brown-for-assignment-option-jj-bleday.html"
     },
     {
-      "title": "Maple Leafs moving on from Shanahan was needed to 'help us get to the next level' - NHL.com",
-      "link": "https://www.nhl.com/news/brendan-shanahan-exit-needed-for-toronto-to-reach-the-next-level"
+      "title": "Duke Recruiting: Sebastian Wilkins Commits! - Duke Basketball Report",
+      "link": "https://www.dukebasketballreport.com/2025/5/23/24435671/duke-recruiting-sebastian-wilkins-patrick-ngongba-dame-sarr-maliq-brown-jon-scheyer-khaman-maluach"
+    },
+    {
+      "title": "Tottenham Hotspur Victory Parade: In Pictures - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/2025/5/23/24436051/tottenham-hotspur-news-photos-gallery-victory-parade-in-pictures"
     },
     {
       "title": "Barcelona vs Arsenal: UEFA Women\u2019s Champions League final preview - Al Jazeera",
@@ -134,12 +154,8 @@
       "link": "https://apnews.com/article/indianapolis-500-wiener-race-c5fd033c5ee3151c489093734b10188a"
     },
     {
-      "title": "How Liverpool (probably) snatched Florian Wirtz from Bayern Munich\u2019s grasp - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/2025/5/23/24436026/liverpool-probably-snatched-florian-wirtz-from-bayern-munich-grasp-transfer-rumors-bayer-leverkusen"
-    },
-    {
-      "title": "What the teams said \u2013 Friday at the 2025 Monaco Grand Prix | Formula 1\u00ae - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-monaco-2025.67l8tJI399aoINXz8ag7D1"
+      "title": "Cain Velasquez reveals Dana White paid his $1M bail for release from jail - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/23/24434852/cain-velasquez-reveals-dana-white-paid-his-1m-bail-for-release-from-jail"
     },
     {
       "title": "Alex Cora backs Liam Hendriks after Red Sox pitcher, wife grapple with fan death threats - New York Post",
@@ -148,22 +164,6 @@
     {
       "title": "Oliver Bearman slapped with 10-place grid drop for F1 Monaco GP - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/oliver-bearman-slapped-with-10-place-grid-drop-for-f1-monaco-gp/10725770/"
-    },
-    {
-      "title": "Hall of Fame MLB writer snubs Buster Posey from All-2000s team - SFGATE",
-      "link": "https://www.sfgate.com/giants/article/mlb-insider-snubs-sf-giants-buster-posey-20342898.php"
-    },
-    {
-      "title": "Jim Irsay let his football people do their jobs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-irsay-let-his-football-people-do-their-jobs"
-    },
-    {
-      "title": "Why the Kings traded away Tyrese Haliburton to the Pacers in one of the decade's most shocking moves - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/why-the-kings-traded-away-tyrese-haliburton-to-the-pacers-in-one-of-the-decades-most-shocking-moves/"
-    },
-    {
-      "title": "Islanders hiring Mathieu Darche as new GM with massive to-do list awaiting him - New York Post",
-      "link": "https://nypost.com/2025/05/23/sports/islanders-hiring-mathieu-darche-as-gm-with-huge-to-do-list-waiting/"
     }
   ],
   "weather": {
