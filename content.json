@@ -1,9 +1,9 @@
 {
-  "quote": "In the end, it's not the years in your life that count. It's the life in your years. \u2013 Abraham Lincoln",
-  "fact": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
-  "crypto": "BTC: $108,039 | ETH: $2,510.99",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I thought about going on an all-almond diet. But that's just nuts.",
+  "quote": "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive. \u2013 Dalai Lama",
+  "fact": "The Vatican city registered 0 births in 1983",
+  "crypto": "BTC: $108,219 | ETH: $2,515.85",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "This Beautiful BMW Wagon Is Actually Going Into Production - Motor1.com",
-      "link": "https://www.motor1.com/news/760570/bmw-speedtop-concept-debut/"
+      "title": "Exclusive | On the Market for $10 Million: a New York Estate With a Large Stone Maze - WSJ",
+      "link": "https://www.wsj.com/real-estate/luxury-homes/on-the-market-for-10-million-a-new-york-estate-with-a-large-stone-maze-e1cb51b2"
+    },
+    {
+      "title": "Valve CEO Gabe Newell\u2019s Neuralink competitor is expecting its first brain chip this year - The Verge",
+      "link": "https://www.theverge.com/news/673938/gabe-newell-valve-founder-brain-computer-interface-first-chip-starfish"
     },
     {
       "title": "Mortal Kombat 1 is finished receiving DLC characters and story content confirms NetherRealm Studios, shifts focus to next project - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/may/23/mortal-kombat-finished-characters/"
+    },
+    {
+      "title": "Fantasy Life i studio announces free DLC as the \"slow-life RPG\" sequel gets off to a flying start - Eurogamer",
+      "link": "https://www.eurogamer.net/fantasy-life-i-studio-announces-free-dlc-as-the-slow-life-rpg-sequel-gets-off-to-a-flying-start"
     },
     {
       "title": "I/O versus io: Google and OpenAI can\u2019t stop messing with each other - The Verge",
@@ -32,12 +40,8 @@
       "link": "https://www.ign.com/articles/best-tv-deals-for-memorial-day-2025"
     },
     {
-      "title": "Material 3 Expressive's approach to dynamic app color is sounding better and better - Android Authority",
-      "link": "https://www.androidauthority.com/material-3-expressive-color-3560841/"
-    },
-    {
-      "title": "[TCG] Doom of Dimensions - YGOrganization",
-      "link": "https://ygorganization.com/tcg-doom-of-dimensions/"
+      "title": "Everything new in Android 16 QPR1 Beta 1 [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/05/23/android-16-qpr1-beta-1-everything-new/"
     },
     {
       "title": "New Turn-Based TMNT Game Is A Mostly Successful Experiment - Kotaku",
@@ -76,38 +80,74 @@
       "link": "https://techcrunch.com/2025/05/23/digg-founder-kevin-rose-offers-to-buy-pocket-from-mozilla/"
     },
     {
-      "title": "FANTASY LIFE i: The Girl Who Steals Time free DLC \u2018Update the World!\u2019 announced - Gematsu",
-      "link": "https://www.gematsu.com/2025/05/fantasy-life-i-the-girl-who-steals-time-free-dlc-update-the-world-announced"
-    },
-    {
       "title": "Massive data breach exposes 184 million passwords for Google, Microsoft, Facebook, and more - ZDNET",
       "link": "https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/"
     },
     {
       "title": "Vestaboard\u2019s Note is a smaller, cheaper version of its hypnotic split-flap display - The Verge",
       "link": "https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display"
-    },
-    {
-      "title": "Anker\u2019s 14-Port Docking Station Drops to Its Lowest Price, Covers Everything From HDMI to USB-C - Gizmodo",
-      "link": "https://gizmodo.com/ankers-14-port-docking-station-drops-to-its-lowest-price-covers-everything-from-hdmi-to-usb-c-2000605981"
     }
   ],
   "sports_news": [
+    {
+      "title": "Tom Thibodeau's dogmatic commitment to his starting lineup might cost the Knicks a trip to the NBA Finals - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/tom-thibodeaus-dogmatic-commitment-to-his-starting-lineup-might-cost-the-knicks-a-trip-to-the-nba-finals/"
+    },
+    {
+      "title": "Rhett Lowder Suffers Oblique Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/rhett-lowder-suffers-oblique-strain.html"
+    },
+    {
+      "title": "Yankees lose to maybe the worst team ever in Rockies - New York Post",
+      "link": "https://nypost.com/2025/05/23/sports/yankees-lose-to-maybe-the-worst-team-ever-in-rockies/"
+    },
+    {
+      "title": "Nebraska Softball Rocky Tops Tennessee to Open Knoxville Super Regional - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/softball/nebraska-softball-rocky-tops-tennessee-to-open-knoxville-super-regional-cornhuskers-big-ten"
+    },
+    {
+      "title": "Stephen A. Smith Incensed After Knicks Fall Down 2-0 in Eastern Conference Finals - Sports Illustrated",
+      "link": "https://www.si.com/nba/stephen-a-smith-incensed-after-knicks-fall-down-2-0-in-eastern-conference-finals"
+    },
+    {
+      "title": "Enhanced Box Score: Cubs 13, Reds 6 \u2013 May 23, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/05/23/enhanced-box-score-cubs-13-reds-6-may-23-2025/"
+    },
+    {
+      "title": "USA Swimming Sends Letter to National Team Athletes Warning Them of Enhanced Games Risks - SwimSwam",
+      "link": "https://swimswam.com/usa-swimming-sends-letter-to-national-team-athletes-warning-them-of-enhanced-games-risks/"
+    },
+    {
+      "title": "Austin Green wins at Charlotte in just second ARCA start - arcaracing.com",
+      "link": "https://www.arcaracing.com/2025/05/23/austin-green-charlotte-win/"
+    },
+    {
+      "title": "Schedule Changes Made to Big Ten Baseball Tournament Presented by IFS.ai - Big Ten Conference",
+      "link": "https://bigten.org/base/article/blt823016dcb9d56496/"
+    },
     {
       "title": "Red Sox\u2019s Alex Cora Expands On Alex Bregman Injury - NESN",
       "link": "https://nesn.com/2025/05/red-soxs-alex-cora-expands-on-alex-bregman-injury/"
     },
     {
-      "title": "Pacers-Knicks: Live updates, highlights from Game 2 - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45275414/new-york-knicks-indiana-pacers-nba-playoffs-2025-game-2-live-updates-highlights-results"
-    },
-    {
-      "title": "Danica Patrick: \u2018Emotionally abusive\u2019 Aaron Rodgers relationship \u2018wore me down to nothing\u2019 - New York Post",
-      "link": "https://nypost.com/2025/05/23/sports/danica-patrick-opens-up-on-emotionally-abusive-aaron-rodgers-relationship/"
+      "title": "Cleetus McFarland apologizes after causing ARCA pileup at Charlotte - Motorsport.com",
+      "link": "https://www.motorsport.com/arca/news/cleetus-mcfarland-apologizes-causing-multi-car-arca-wreck/10725840/"
     },
     {
       "title": "Who\u2019ll coach the U.S. men\u2019s Olympic flag football team? - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wholl-coach-the-u-s-mens-olympic-flag-football-team"
+    },
+    {
+      "title": "SEC Baseball Tournament 2025 Friday Scores, Updated Bracket and Schedule - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25198859-sec-baseball-tournament-2025-friday-scores-updated-bracket-and-schedule"
+    },
+    {
+      "title": "Emotions were on full display during final episode of ESPN\u2019s \u2018Around the Horn\u2019 - New York Post",
+      "link": "https://nypost.com/2025/05/23/sports/emotions-were-on-full-display-during-final-episode-of-espns-around-the-horn/"
+    },
+    {
+      "title": "ECF Playoff Game Thread: Knicks vs Pacers, Game Two, May 23, 2025 - Posting and Toasting",
+      "link": "https://www.postingandtoasting.com/2025/5/23/24435876/ecf-playoff-game-thread-knicks-vs-pacers-game-two-may-23-2025"
     },
     {
       "title": "It\u2019s Flo-ver? Germany star Florian Wirtz says \u2018yes\u2019 to Liverpool, \u2018no\u2019 to Bayern Munich per report - Bavarian Football Works",
@@ -118,52 +158,12 @@
       "link": "https://www.nba.com/news/2024-25-all-nba-teams-announced"
     },
     {
-      "title": "Dodgers vs Mets Prediction, F5 Pick, Odds Tonight - Action Network",
-      "link": "https://www.actionnetwork.com/mlb/los-angeles-dodgers-vs-new-york-mets-prediction-pick-odds-friday-may-23-qs"
+      "title": "The reality behind Juan Soto\u2019s slow start \u2014 even if the $765 million man doesn\u2019t believe it - New York Post",
+      "link": "https://nypost.com/2025/05/23/sports/money-changes-everything-even-if-mets-juan-soto-doesnt-believe-it/"
     },
     {
-      "title": "Aaron Rodgers drops big hint that he\u2019s joining Steelers - Behind the Steel Curtain",
-      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/2025/5/23/24436091/aaron-rodgers-drops-big-hint-that-hes-joining-steelers-chicago-bears-joe-rogan-experience-nfl"
-    },
-    {
-      "title": "Kyle Larson eyes \u2018The Double\u2019 with confident Carb Day performance - Jayski's NASCAR Silly Season Site",
-      "link": "https://www.jayski.com/2025/05/23/kyle-larson-eyes-the-double-with-confident-carb-day-performance/"
-    },
-    {
-      "title": "Athletics Designate Seth Brown For Assignment, Option JJ Bleday - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/athletics-designate-seth-brown-for-assignment-option-jj-bleday.html"
-    },
-    {
-      "title": "Duke Recruiting: Sebastian Wilkins Commits! - Duke Basketball Report",
-      "link": "https://www.dukebasketballreport.com/2025/5/23/24435671/duke-recruiting-sebastian-wilkins-patrick-ngongba-dame-sarr-maliq-brown-jon-scheyer-khaman-maluach"
-    },
-    {
-      "title": "Tottenham Hotspur Victory Parade: In Pictures - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/2025/5/23/24436051/tottenham-hotspur-news-photos-gallery-victory-parade-in-pictures"
-    },
-    {
-      "title": "Barcelona vs Arsenal: UEFA Women\u2019s Champions League final preview - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2025/5/23/barcelona-vs-arsenal-uefa-womens-champions-league-final-preview"
-    },
-    {
-      "title": "Ben Lively To Undergo Tommy John Surgery - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/ben-lively-to-undergo-tommy-john-surgery.html"
-    },
-    {
-      "title": "Hot diggity dog! Wienermobiles put on riveting race in Wienie 500 at Indianapolis Motor Speedway - AP News",
-      "link": "https://apnews.com/article/indianapolis-500-wiener-race-c5fd033c5ee3151c489093734b10188a"
-    },
-    {
-      "title": "Cain Velasquez reveals Dana White paid his $1M bail for release from jail - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/5/23/24434852/cain-velasquez-reveals-dana-white-paid-his-1m-bail-for-release-from-jail"
-    },
-    {
-      "title": "Alex Cora backs Liam Hendriks after Red Sox pitcher, wife grapple with fan death threats - New York Post",
-      "link": "https://nypost.com/2025/05/23/sports/red-soxs-alex-cora-backs-liam-hendriks-after-pitcher-wife-face-death-threats/"
-    },
-    {
-      "title": "Oliver Bearman slapped with 10-place grid drop for F1 Monaco GP - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/oliver-bearman-slapped-with-10-place-grid-drop-for-f1-monaco-gp/10725770/"
+      "title": "French Open 2025 Bracket, TV Schedule, Live Stream and Odds for Roland-Garros - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25198779-french-open-2025-bracket-tv-schedule-live-stream-and-odds-roland-garros"
     }
   ],
   "weather": {
