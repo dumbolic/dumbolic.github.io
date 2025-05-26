@@ -1,9 +1,9 @@
 {
-  "quote": "The best thing to hold onto in life is each other. \u2013 Audrey Hepburn",
-  "fact": "Van Gogh only sold one painting when he was alive.",
-  "crypto": "BTC: $109,646 | ETH: $2,549.79",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
+  "quote": "Learn from the rejection and turn it into an opportunity! \u2013 Mary Engelbreit",
+  "fact": "You were born with 300 bones, but by the time you are an adult you will only have 206.",
+  "crypto": "BTC: $109,660 | ETH: $2,548.55",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "AMD Radeon RX 9070 XT vs. Nvidia GeForce RTX 5070 - TechSpot",
+      "link": "https://www.techspot.com/review/2991-amd-radeon-9070-xt-vs-nvidia-rtx-5070/"
+    },
+    {
+      "title": "LEAKED: DJI Mini 5, Avata 3 And Neo 2. These 5 New DJI Products Coming Up! - DroneXL.co",
+      "link": "https://dronexl.co/2025/05/25/leaked-mini-5-pro-avata-3-neo-2-osmo-nano/"
+    },
+    {
+      "title": "Spotify will get a new Android Auto app \u2018in the coming months\u2019 with Jam support [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/05/25/spotify-android-auto-new-app/"
+    },
+    {
+      "title": "Real-world map data is helping make better games about farms and transportation - The Verge",
+      "link": "https://www.theverge.com/games/672035/openstreetmap-data-games"
+    },
+    {
+      "title": "Apple\u2019s rumored all-new HomePad may launch \u2018by the end of this year\u2019, per report - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/25/apple-homepad-launch-by-end-of-year-report/"
+    },
+    {
       "title": "Apple Watch and Apple TV operating systems to receive major design changes at WWDC alongside iOS 19 - 9to5Mac",
       "link": "https://9to5mac.com/2025/05/25/watchos-and-tvos-ios-19-redesign-wwdc/"
     },
     {
+      "title": "The next Nintendo Direct will reportedly drop around Switch 2\u2019s launch - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/the-next-nintendo-direct-will-reportedly-drop-around-switch-2s-launch/"
+    },
+    {
       "title": "Change Your PIN Code Now If It\u2019s On This List - Forbes",
       "link": "https://www.forbes.com/sites/daveywinder/2025/05/25/change-your-pin-code-now-if-its-on-this-list/"
+    },
+    {
+      "title": "Japan: 1.2 million Nintendo Switch 2 units seemingly allocated for launch - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/05/25/japan-1-2-million-nintendo-switch-2-units-seemingly-allocated-for-launch/"
     },
     {
       "title": "3D Is Back. This Time, You Can Ditch the Glasses - WIRED",
@@ -34,6 +62,10 @@
     {
       "title": "ASRock reveals Radeon RX 9070 XT Taichi concept GPU in white, features built-in LCD - VideoCardz.com",
       "link": "https://videocardz.com/newz/asrock-reveals-radeon-rx-9070-xt-taichi-concept-gpu-in-white-features-built-in-lcd"
+    },
+    {
+      "title": "Everything from Google I/O 2025 you might've missed: Gemini, smart glasses, and more - ZDNET",
+      "link": "https://www.zdnet.com/article/everything-from-google-io-2025-you-mightve-missed-gemini-smart-glasses-and-more/"
     },
     {
       "title": "Google\u2019s Gmail Upgrade\u2014Why You Need This New Email Address - Forbes",
@@ -58,68 +90,64 @@
     {
       "title": "Fallout 4 fans discover secret location and rare item we all missed - GAMINGbible",
       "link": "https://www.gamingbible.com/news/fallout-4-secret-location-386425-20250522"
-    },
-    {
-      "title": "Rust Coreutils 0.1 Released With Big Performance Gains - Can Match Or Exceed GNU Speed - Phoronix",
-      "link": "https://www.phoronix.com/news/Rust-Coreutils-0.1-Released"
-    },
-    {
-      "title": "Marketing For Marathon Has Reportedly Been Cancelled Following Plagiarism Controversy - TheGamer",
-      "link": "https://www.thegamer.com/marathon-bungie-sony-playstation-marketing-canceled-live-service-game/"
-    },
-    {
-      "title": "The Nintendo Switch 2 sure seems to work just fine with a USB mouse - The Verge",
-      "link": "https://www.theverge.com/news/674176/nintendo-switch-2-usb-mouse-support"
-    },
-    {
-      "title": "Exclusive: Overwatch 2 developers talk Street Fighter 6 collaboration, fighting game culture at Blizzard and if we'll see more - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/may/24/overwatch-2-street-fighter-interview/"
-    },
-    {
-      "title": "Why Were Three-Engine Airliners Discontinued? - SlashGear",
-      "link": "https://www.slashgear.com/1862515/why-three-engine-airliners-discontinued/"
-    },
-    {
-      "title": "5 expert tips to get the most out of ChatGPT every time you use it - Boy Genius Report",
-      "link": "https://bgr.com/tech/5-expert-tips-to-get-the-most-out-of-chatgpt-every-time-you-use-it/"
-    },
-    {
-      "title": "Taylor Gray scores 200th Xfinity Series pole for JGR: \u2018Makes your day easier for sure\u2019 - NASCAR.com",
-      "link": "https://www.nascar.com/videos/franchise/xfinity-series-highlights/taylor-gray-scores-200th-xfinity-series-pole-for-jgr/"
     }
   ],
   "sports_news": [
     {
-      "title": "Roger Goodell: USA Football will select Olympic team, not the NFL - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-usa-football-will-select-olympic-team-not-the-nfl"
+      "title": "As NFL players eye the Olympics, flag football veterans just want a chance - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/05/25/nfl-players-olympics-flag-football/"
     },
     {
-      "title": "Who starts where for the Monaco Grand Prix - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-after-hamilton-bearman-and-stroll-take.2JzQNVJLLPIq2z0dJUz7GS"
+      "title": "Ex-Penn State football star Julian Fleming\u2019s girlfriend killed in horror ATV crash that left him badly hurt - New York Post",
+      "link": "https://nypost.com/2025/05/25/sports/ex-penn-state-star-julian-flemings-girlfriend-killed-in-horror-atv-crash/"
     },
     {
-      "title": "'Unbelievable disrespect' - Indiana Fever coach calls out WNBA officiating after Caitlin Clark's furious outburst - talkSPORT",
-      "link": "http://talksport.com/basketball/3234681/wnba-caitlin-clark-no-call-fever-referees-disrespect-liberty/"
+      "title": "Rangers Designate Kevin Pillar For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/rangers-designate-kevin-pillar-for-assignment.html"
+    },
+    {
+      "title": "Norris takes victory over Leclerc and Piastri in gripping Monaco Grand Prix - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/norris-takes-victory-over-leclerc-and-piastri-in-gripping-monaco-grand-prix.4B7frXOoDY8UvKMu25Daoa"
+    },
+    {
+      "title": "Paddy Pimblett makes pick for potential Jon Jones vs. Tom Aspinall heavyweight clash - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/25/24436854/paddy-pimblett-makes-pick-for-potential-jon-jones-vs-tom-aspinall-heavyweight-clash"
+    },
+    {
+      "title": "Indianapolis 500 kicks off with sold-out grandstands and thunderous chants - AP News",
+      "link": "https://apnews.com/article/indy-500-bc71ef31fd4ce00e4c36f50ca2feba9a"
+    },
+    {
+      "title": "Travis Hunter marries fianc\u00e9e Leanna Lenee, buys her a G-Wagon after online criticism about their relationship - Page Six",
+      "link": "https://pagesix.com/2025/05/25/celebrity-news/travis-hunter-marries-fiancee-leanna-lenee-after-online-criticism-about-their-relationship/"
+    },
+    {
+      "title": "Aaron Rodgers isn\u2019t interested in joining the Saints - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-isnt-interested-in-joining-the-saints"
+    },
+    {
+      "title": "Minnesota Timberwolves set playoff franchise record in big win over Oklahoma City Thunder to trim West finals deficit to 2-1 - CNN",
+      "link": "https://www.cnn.com/2025/05/25/sport/timberwolves-thunder-franchise-record-west-finals-spt"
     },
     {
       "title": "OFFICIAL: Real Madrid sign Xabi Alonso - Managing Madrid",
       "link": "https://www.managingmadrid.com/2025/5/25/24436827/real-madrid-xabi-alonso-2025-official"
     },
     {
-      "title": "Report: Bayern Munich to pivot after Florian Wirtz transfer rejection - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/2025/5/24/24433511/bayern-munich-pivot-left-wing-florian-wirtz-transfer-liverpool-sane-coman-musiala-gnabry-leverkusen"
+      "title": "RG Live - Day 1, Sunday May 25 - Roland Garros",
+      "link": "https://www.rolandgarros.com/en-us/article/rg2025-rg-live---day-1-sunday-may-25"
     },
     {
       "title": "Here's all you need to know about F1\u2019s mandatory pitstops at Monaco GP - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/heres-all-you-need-to-know-about-f1s-mandatory-pitstops-at-monaco-gp/10726413/"
     },
     {
-      "title": "Five underdogs who could win the Indy 500 - The Race",
-      "link": "https://www.the-race.com/indycar/five-underdogs-who-could-win-the-indy-500/"
+      "title": "Chelsea fans\u2019 preferred lineup against Nottingham Forest: More midfield, less striker - We Ain't Got No History",
+      "link": "https://weaintgotnohistory.sbnation.com/2025/5/25/24436784/chelsea-fans-preferred-lineup-against-nottingham-forest-more-midfield-less-striker"
     },
     {
-      "title": "Rangers To Promote Alejandro Osuna - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/rangers-to-promote-alejandro-osuna.html"
+      "title": "Texas Rangers plan to call up outfielder Alejandro Osuna from Triple-A Round Rock - Dallas News",
+      "link": "https://www.dallasnews.com/sports/rangers/2025/05/24/texas-rangers-plan-to-call-up-outfielder-alejandro-osuna-from-triple-a-round-rock/"
     },
     {
       "title": "Atlanta Braves News: Ronald Acuna is truly back, Eli White, more - Battery Power",
@@ -130,8 +158,8 @@
       "link": "https://nesn.com/2025/05/how-marcelo-mayer-felt-after-his-red-sox-debut/"
     },
     {
-      "title": "23-year-old woman dies after ATV crash in Bradford County - WNEP",
-      "link": "https://www.wnep.com/article/news/local/bradford-county/woman-dies-after-atv-crash-in-bradford-county-columbia-township/523-2786338f-e24d-4e3e-b2f3-e76ecc8ea7a6"
+      "title": "Recap: Canes Crumble Late, Drop Game 3 - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/recap-canes-crumble-late-drop-game-3"
     },
     {
       "title": "Here are the celebrity Wolves fans spotted at Game 3 - Star Tribune",
@@ -140,26 +168,6 @@
     {
       "title": "Huskers Advance to Big Ten Title Game - University of Nebraska - Official Athletics Website - huskers.com",
       "link": "https://huskers.com/news/2025/05/24/huskers-advance-to-big-ten-title-game1"
-    },
-    {
-      "title": "Phillies make massive plays in 9th, 10th and 11th to extend streak with crazy win - Yahoo Sports",
-      "link": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/phillies-news/phillies-kyle-schwarber-brandon-marsh-max-kepler-max-lazar/667447/?partner=yahoo"
-    },
-    {
-      "title": "Panthers score 5 in the 3rd period, roll past Hurricanes 6-2 and move a win away from Cup final - WRALSportsFan.com",
-      "link": "https://www.wralsportsfan.com/panthers-score-5-in-the-3rd-period-roll-past-hurricanes-6-2-and-move-a-win-away-from-cup-final/22023483/"
-    },
-    {
-      "title": "Max Fried dazzles with \u2018disgusting\u2019 pickoff again in Yankees\u2019 win: \u2018Best move I\u2019ve seen\u2019 - New York Post",
-      "link": "https://nypost.com/2025/05/24/sports/max-fried-dazzles-with-disgusting-pickoff-again-in-yankees-win/"
-    },
-    {
-      "title": "AC Milan fans bash brass in 'Go Home' protest - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/45305875/ac-milan-beats-last-place-monza-amid-protests-poor-season"
-    },
-    {
-      "title": "UNC Solves Seminoles Again, Advances to ACCT Championship Game - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/unc-baseball-solves-seminoles-again-advances-to-acct-championship-game-250262631/"
     }
   ],
   "weather": {
