@@ -1,9 +1,9 @@
 {
-  "quote": "The people who are crazy enough to think they can change the world are the ones who do. \u2013 Steve Jobs",
-  "fact": "400-quarter pounders can be made from 1 cow.",
-  "crypto": "BTC: $109,300 | ETH: $2,559.04",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
+  "quote": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases. \u2013 Carl Jung",
+  "fact": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
+  "crypto": "BTC: $108,564 | ETH: $2,531.24",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why did the knife dress up in a suit? Because it wanted to look sharp",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Report: Google locks in Tensor chips at TSMC through \u2018Pixel 14\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2025/05/25/google-pixel-tensor-chips-tsmc-few-years-report/"
+    },
     {
       "title": "Armor King next DLC character for Tekken 8, full trailer for Fahkumram - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/may/25/armor-king-tekken8-fahkumram/"
@@ -24,12 +28,28 @@
       "link": "http://9to5google.com/2025/05/25/pixel-10-pro-colors-leak/"
     },
     {
+      "title": "Hell Clock launches June 18 - Gematsu",
+      "link": "https://www.gematsu.com/2025/05/hell-clock-launches-june-18"
+    },
+    {
+      "title": "2D cyber-fantasy Metroidvania SHADE Protocol announced for PC - Gematsu",
+      "link": "https://www.gematsu.com/2025/05/2d-cyber-fantasy-metroidvania-shade-protocol-announced-for-pc"
+    },
+    {
+      "title": "Three new DJI drones may be on the way - The Verge",
+      "link": "https://www.theverge.com/news/674305/dji-drones-mini-5-pro-avata-3-neo-2-leaked-images"
+    },
+    {
       "title": "Researchers claim ChatGPT o3 bypassed shutdown in controlled test - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/"
     },
     {
       "title": "Roguelike action game To Kill a God announced for PC - Gematsu",
       "link": "https://www.gematsu.com/2025/05/roguelike-action-game-to-kill-a-god-announced-for-pc"
+    },
+    {
+      "title": "Mario Kart World Shy Guy snowboarding mission - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/05/25/mario-kart-world-shy-guy-snowboarding-mission/"
     },
     {
       "title": "SEGA has other legacy games in the works beyond what\u2019s been announced - My Nintendo News",
@@ -48,6 +68,10 @@
       "link": "https://www.ign.com/articles/best-deals-for-may-25-2025"
     },
     {
+      "title": "See in the dark with our guide to the best night vision monoculars. - Space",
+      "link": "https://www.space.com/stargazing/skywatching-kit/best-night-vision-monoculars"
+    },
+    {
       "title": "Gemini in Chrome feels like a small step toward Google\u2019s agentic era - The Verge",
       "link": "https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era"
     },
@@ -62,112 +86,84 @@
     {
       "title": "Another MSI yellow-tipped power cable burns on GeForce RTX 5090 - VideoCardz.com",
       "link": "https://videocardz.com/newz/another-msi-yellow-tipped-power-cable-burns-on-geforce-rtx-5090"
-    },
-    {
-      "title": "Man who helped create 'creepy' street interview with two girls out clubbing addressed worrying context behind it - LADbible",
-      "link": "https://www.ladbible.com/news/technology/ai-street-interview-viral-deepmind-ceo-warning-559522-20250525"
-    },
-    {
-      "title": "New Fatal Fury: City of the Wolves tier list by Kensou - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/may/25/ffcotw-tiers-kensou-hotaru/"
-    },
-    {
-      "title": "GeForce GTX 970 upgraded to 8GB VRAM gets tested: up to 40% faster than stock model - VideoCardz.com",
-      "link": "https://videocardz.com/newz/geforce-gtx-970-upgraded-to-8gb-vram-gets-tested-up-to-40-faster-than-stock-model"
-    },
-    {
-      "title": "AMD Radeon RX 9070 XT vs. Nvidia GeForce RTX 5070 - TechSpot",
-      "link": "https://www.techspot.com/review/2991-amd-radeon-9070-xt-vs-nvidia-rtx-5070/"
-    },
-    {
-      "title": "Real-world map data is helping make better games about farms and transportation - The Verge",
-      "link": "https://www.theverge.com/games/672035/openstreetmap-data-games"
-    },
-    {
-      "title": "Apple prepares iOS 19, macOS 16 'Solarium' UI overhaul for WWDC - AppleInsider",
-      "link": "https://appleinsider.com/articles/25/05/25/apple-prepares-ios-19-macos-16-solarium-ui-overhaul-for-wwdc"
-    },
-    {
-      "title": "Apple\u2019s rumored all-new HomePad may launch \u2018by the end of this year\u2019, per report - 9to5Mac",
-      "link": "https://9to5mac.com/2025/05/25/apple-homepad-launch-by-end-of-year-report/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Sixteen regional sites selected for the 2025 NCAA Division I baseball championship - NCAA.com",
+      "link": "https://www.ncaa.com/news/baseball/article/2025-05-25/sixteen-regional-sites-selected-2025-ncaa-division-i-baseball-championship"
+    },
+    {
+      "title": "2025 NCAA softball bracket: Women's College World Series scores, schedule - NCAA.com",
+      "link": "https://www.ncaa.com/news/softball/article/2025-05-25/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
+    },
+    {
+      "title": "Tom Thibodeau shakes up Knicks\u2019 starting lineup with major change before must-win Game 3 - New York Post",
+      "link": "https://nypost.com/2025/05/25/sports/tom-thibodeau-shakes-up-knicks-starting-lineup-before-game-3/"
+    },
+    {
+      "title": "Where to watch Knicks vs. Pacers: TV channel, live stream for NBA playoffs, Game 3 prediction, time, odds - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/where-to-watch-knicks-vs-pacers-tv-channel-live-stream-for-nba-playoffs-game-3-prediction-time-odds/"
+    },
+    {
+      "title": "Knicks vs. Pacers Game 3 live updates: Eastern Conference finals news, score and highlights - New York Post",
+      "link": "https://nypost.com/2025/05/25/sports/knicks-vs-pacers-game-3-live-updates-eastern-conference-finals-news-score/"
+    },
+    {
+      "title": "Five thoughts from Stars-Oilers Game 3: Dallas\u2019 road struggles continue - Dallas News",
+      "link": "https://www.dallasnews.com/sports/stars/2025/05/25/five-thoughts-from-stars-oilers-game-3-dallas-road-struggles-continue/"
+    },
+    {
+      "title": "Live updates: Kyle Larson\u2019s attempt at Indy 500/Coca-Cola 600 \u2018Double\u2019 - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/05/25/live-updates-follow-kyle-larsons-attempt-at-indy-500-coca-cola-600-double/"
+    },
+    {
+      "title": "\u00c1lex Palou wins Indianapolis 500, Kyle Larson\u2019s quest for the \u2018Double\u2019 comes to an end after wreck - CNN",
+      "link": "https://www.cnn.com/2025/05/25/sport/palou-indianapolis-500-larson-double-spt"
+    },
+    {
+      "title": "Charles Schwab Challenge 2025 prize money: Full payout from the $9.5 million purse - Yahoo Sports",
+      "link": "https://www.nbcsports.com/golf/news/charles-schwab-challenge-2025-prize-money-full-payout-from-the-9-5-million-purse"
+    },
+    {
+      "title": "Starting XI and roster notes: Saba Lobjanidze to start for FC Cincinnati match - Atlanta United FC",
+      "link": "https://www.atlutd.com/news/starting-xi-roster-notes-squad-fc-cincinnati-may-25-2025"
+    },
+    {
+      "title": "Giants' Abdul Carter heartbroken by ATV crash that killed ex-Penn State teammate's girlfriend - New York Post",
+      "link": "https://nypost.com/2025/05/25/sports/giants-abdul-carter-heartbroken-by-atv-crash-that-killed-ex-penn-state-teammates-girlfriend/"
+    },
+    {
+      "title": "BACK-TO-BACK: Nebraska Runs Past UCLA to Win the Big Ten Baseball Tournament - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/baseball/back-to-back-nebraska-runs-past-ucla-to-win-the-big-ten-baseball-tournament-cornhuskers-omaha"
+    },
+    {
+      "title": "Tennessee Outlasts Nebraska Softball to Win the Knoxville Super Regional - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/softball/tennessee-outlasts-nebraska-softball-to-win-the-knoxville-super-regional-cornhuskers-big-ten"
+    },
     {
       "title": "UNC Clobbers Clemson, Claims ACC Baseball Tournament Title - 247Sports",
       "link": "https://247sports.com/college/north-carolina/article/unc-clobbers-clemson-claims-acc-baseball-tournament-title-250278658/"
     },
     {
-      "title": "Alex Palou wins 109th Indy 500: Results, reaction - NBC Sports",
-      "link": "https://www.nbcsports.com/motor-sports/news/alex-palou-wins-109th-indy-500-indycar-marcus-ericsson"
+      "title": "\u2018He was not given anything\u2019 \u2026 UFC star refutes claim Jon Jones \u2018owes\u2019 Tom Aspinall title fight - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/05/25/he-was-not-given-anything-ufc-star-refutes-claim-jon-jones-owes-tom-aspinall-title-fight/"
     },
     {
       "title": "2025 Charles Schwab Challenge leaderboard live updates: Golf scores, coverage in Round 4 at Colonial - CBS Sports",
       "link": "https://www.cbssports.com/golf/news/2025-charles-schwab-challenge-leaderboard-ben-griffin-hangs-on-for-first-individual-victory-on-pga-tour/live/"
     },
     {
-      "title": "Chicago Cubs vs. Cincinnati Reds Results, Stats, and Recap - May 25, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20250525_CHC@CIN/"
+      "title": "Thompson scores the golden goal for US - IIHF",
+      "link": "https://www.iihf.com/en/events/2025/wm/news/68298/gmg"
     },
     {
-      "title": "Chelsea and Newcastle the big winners on dramatic final day in top-five race - Premier League",
-      "link": "https://www.premierleague.com/news/4320392"
+      "title": "Cardinals 4-3 Diamondbacks (May 25, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/mlb/recap?gameId\\\\u003d401695697"
     },
     {
-      "title": "Tigers\u2019 Tarik Skubal makes complete-game history with latest dazzling gem - New York Post",
-      "link": "https://nypost.com/2025/05/25/sports/tigers-tarik-skubal-makes-complete-game-history-with-latest-gem/"
-    },
-    {
-      "title": "Padres Place Michael King On 15-Day Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/padres-place-michael-king-on-15-day-injured-list.html"
-    },
-    {
-      "title": "UFC legend warns Tom Aspinall against suffering same fate as Michael Chandler amidst ongoing Jon Jones wait - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/05/25/ufc-legend-warns-tom-aspinall-against-suffering-same-fate-as-michael-chandler-amidst-ongoing-jon-jones-wait/"
-    },
-    {
-      "title": "The winners and losers from F1's 2025 Monaco GP - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/the-winners-and-losers-from-f1s-2025-monaco-gp/10726751/"
-    },
-    {
-      "title": "Tar Heels Top Northwestern For NCAA Title, 12-8 - University of North Carolina Athletics",
-      "link": "https://goheels.com/news/2025/5/25/womens-lacrosse-wlax-recap-ncaa-final-vs-northwestern"
-    },
-    {
-      "title": "The King of Clay lives on but 'impossible' is dead - Roland Garros",
-      "link": "https://www.rolandgarros.com/en-us/article/rg2025-the-king-of-clay-lives-on-but-impossible-is-dead"
-    },
-    {
-      "title": "Viral video of Brittney Griner comment creates drama with Caitlin Clark at center - New York Post",
-      "link": "https://nypost.com/2025/05/25/sports/viral-video-of-brittney-griner-comment-creates-drama-with-caitlin-clark-at-center/"
-    },
-    {
-      "title": "Former Ohio State player Julian Fleming seriously injured in fatal Pennsylvania ATV crash - 10TV",
-      "link": "https://www.10tv.com/article/news/local/julian-fleming-seriously-injured-fatal-pennsylvania-atv-crash/530-caaf9501-428e-470c-9a09-3c26842b0571"
-    },
-    {
-      "title": "Shocking pre-race crash takes Scott McLaughlin out of Indy 500 - Motorsport.com",
-      "link": "https://www.motorsport.com/indycar/news/shocking-pre-race-crash-takes-scott-mclaughlin-out-of-indy-500/10726728/"
-    },
-    {
-      "title": "Austin Cindric responds to Team Penske\u2019s IndyCar changes - Jayski's NASCAR Silly Season Site",
-      "link": "https://www.jayski.com/2025/05/25/austin-cindric-responds-to-team-penskes-indycar-changes/"
-    },
-    {
-      "title": "Indianapolis 500 2025: Race action from start to finish at Indianapolis Motor Speedway - IndyStar",
-      "link": "https://www.indystar.com/picture-gallery/sports/motor/indy-500/2025/05/25/indy-500-2025-photos-race-action-from-start-to-finish-at-ims/83850219007/"
-    },
-    {
-      "title": "Aaron Rodgers Confirms He Won\u2019t Play For Saints In 2025 - Steelers Depot",
-      "link": "https://steelersdepot.com/2025/05/aaron-rodgers-confirms-he-wont-play-for-saints-in-2025/"
-    },
-    {
-      "title": "Injury updates on Mikkola, Greer and Reinhart - NHL.com",
-      "link": "https://www.nhl.com/panthers/news/injury-updates-on-mikkola-greer-and-reinhart"
-    },
-    {
-      "title": "Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/2025/5/25/24436949/nottingham-forest-0-1-chelsea-premier-league-post-match-reaction-ratings"
+      "title": "Cubs 11, Reds 8: Reese McGuire and the comeback Cubs do it again - Bleed Cubbie Blue",
+      "link": "https://www.bleedcubbieblue.com/2025/5/25/24437042/cubs-reds-recap-reese-mcguire-seiya-suzuki-mlb-scores"
     }
   ],
   "weather": {
