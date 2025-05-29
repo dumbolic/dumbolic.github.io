@@ -1,9 +1,9 @@
 {
-  "quote": "If you are lucky enough to find love, remember it is there and don't throw it away. \u2013 Stephen Hawking",
-  "fact": "Since 1978, 37 people have died by Vending Machine`s falling on them.\u00a0 13 people are killed annually.\u00a0 All this while trying to shake merchandise out of them. 113 people have been injured.",
-  "crypto": "BTC: $107,007 | ETH: $2,642.0",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the knife dress up in a suit? Because it wanted to look sharp",
+  "quote": "Never let the things you can't do stop you from doing what you can. \u2013 Ronald Reagan",
+  "fact": "You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.",
+  "crypto": "BTC: $107,513 | ETH: $2,666.54",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What did one nut say as he chased another nut?  I'm a cashew!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,30 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "CD Projekt Red is moving forward with Cyberpunk 2 - The Verge",
+      "link": "https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion"
+    },
+    {
+      "title": "Persona 4 voice actor confirms a remake is in development, after not being cast - Eurogamer",
+      "link": "https://www.eurogamer.net/persona-4-voice-actor-confirms-a-remake-is-in-development-after-not-being-cast"
+    },
+    {
+      "title": "The Nintendo Switch\u2019s complicated legacy with indie games - The Verge",
+      "link": "https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy"
+    },
+    {
+      "title": "Thicker, heavier iPhone 17 Pro Max revealed in new hands-on video - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/28/thicker-heavier-iphone-17-pro-max-revealed-in-new-hands-on-video/"
+    },
+    {
+      "title": "Elden Ring: Nightreign is an epic RPG squeezed into delicious bite-size capsules - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/05/elden-ring-nightreign-is-an-epic-rpg-squeezed-into-delicious-bite-size-capsules/"
+    },
+    {
+      "title": "Sony\u2019s ringing in the Switch 2 launch with PS5 deals - The Verge",
+      "link": "https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale"
+    },
     {
       "title": "Switch 2 Startup And Menu Settings Appear Online As Early Player Shows Off Console In 'Code Red' Leak For Nintendo - Kotaku",
       "link": "https://kotaku.com/nintendo-switch-2-menu-settings-firmware-day-one-patch-1851782656"
@@ -20,16 +44,12 @@
       "link": "https://press.pokemon.com/en/Release-Date-for-Pokemon-Legends-Z-A-Revealed-and-Pokemon-Presents-Vid"
     },
     {
-      "title": "Discord\u2019s new currency pays users to interact with ads - The Verge",
-      "link": "https://www.theverge.com/news/675481/discord-orbs-currency-quests-ads"
+      "title": "Logic Pro amplifies beat making on Mac and iPad with advanced new capabilities - Apple",
+      "link": "https://www.apple.com/newsroom/2025/05/logic-pro-amplifies-beat-making-on-mac-and-ipad-with-advanced-new-capabilities/"
     },
     {
       "title": "Pok\u00e9mon GO Crowned Zacian and Zamazenta Meta Guide (PvE/PvP) - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/meta/pokemon-go-crowned-zacian-and-zamazenta-meta-guide-pve-pvp/"
-    },
-    {
-      "title": "Microsoft wants Windows to update all software on your PC - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/"
     },
     {
       "title": "MindsEye boss claims game's negative reaction ahead of release has been paid for in \"concerted effort\" against studio - Eurogamer",
@@ -52,12 +72,16 @@
       "link": "https://arstechnica.com/gadgets/2025/05/what-i-learned-from-a-bambu-labs-a1-3d-printer-part-2-upgrades-and-mistakes/"
     },
     {
-      "title": "Samsung\u2019s One UI 8 beta arrives on Galaxy S25 phones - The Verge",
-      "link": "https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra"
+      "title": "PlayStation Plus drops 6 bonus free games after May line-up backlash - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-6-bonus-free-games-may-backlash-119150-20250528"
     },
     {
       "title": "Nintendo Switch Online N64 games are getting Rewind \u2014 but only on Switch 2 - The Verge",
       "link": "https://www.theverge.com/news/675429/nintendo-switch-online-n64-games-rewind-crt-filter-controls-switch-2-exclusive"
+    },
+    {
+      "title": "No more separate app updates? Microsoft wants Windows Update to handle it all now - Neowin",
+      "link": "https://www.neowin.net/news/no-more-separate-app-updates-microsoft-wants-windows-update-to-handle-it-all-now/"
     },
     {
       "title": "Nintendo Switch System Update Ver. 20.1.0 Changes Sound That Plays When NSO Is Launched From the Home Menu, Among Other Things - IGN",
@@ -66,44 +90,48 @@
     {
       "title": "Opera\u2019s new AI browser promises to write code while you sleep - The Verge",
       "link": "https://www.theverge.com/news/675406/opera-neon-ai-agentic-browser-chat-do-make-launch-release-date"
-    },
-    {
-      "title": "Nintendo celebrates Splatoon\u2019s 10th anniversary - My Nintendo News",
-      "link": "https://mynintendonews.com/2025/05/28/nintendo-celebrates-splatoons-10th-anniversary/"
-    },
-    {
-      "title": "The PS5 Pro Has Received Its First Discount For Days Of Play 2025 - GameSpot",
-      "link": "https://www.gamespot.com/articles/ps5-pro-console-best-deal-playstation-days-of-play-2025-sale/1100-6526406/"
-    },
-    {
-      "title": "Animal Crossing: New Horizons Update 2.0.7 Patch Notes - Switch & Switch 2 Multiplayer Compatibility \"Improved\" - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/05/animal-crossing-new-horizons-update-2-0-7-patch-notes-switch-and-switch-2-multiplayer-compatibility-improved"
-    },
-    {
-      "title": "Google rolling out Search widget redesign on Android - 9to5Google",
-      "link": "http://9to5google.com/2025/05/27/google-search-bar-widget-redesign/"
-    },
-    {
-      "title": "Apple Buys Its First Ever Video Game Studio - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/apple-buys-its-first-ever-video-game-studio/"
-    },
-    {
-      "title": "Anthropic launches a voice mode for Claude - TechCrunch",
-      "link": "https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/"
     }
   ],
   "sports_news": [
     {
-      "title": "The Opener: Harper, Seager, Bart - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/05/the-opener-harper-seager-bart.html"
+      "title": "Ronel Blanco To Undergo Season-Ending Elbow Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/astros-ronel-blanco-seaosn-ending-elbow-surgery.html"
     },
     {
-      "title": "California opens track-and-field finals to more girls after success of trans athlete - AP News",
-      "link": "https://apnews.com/article/california-trans-athletes-trump-triple-jump-b9cc5a64f89de29f5e224e11db5ae1aa"
+      "title": "Liverpool parade: Man wrongly identified as driver speaks out - BBC",
+      "link": "https://www.bbc.com/news/articles/cdedg865725o"
     },
     {
-      "title": "Brian Windhorst reveals surprising details of Knicks postgame incident: \u2018There is other footage\u2019 - New York Post",
-      "link": "https://nypost.com/2025/05/28/sports/brian-windhorst-reveals-surprising-details-of-knicks-postgame-incident/"
+      "title": "Giro d'Italia: Isaac del Toro rebounds to win stage 17 - Cyclingnews",
+      "link": "https://www.cyclingnews.com/races/giro-d-italia-2025/stage-17/results/"
+    },
+    {
+      "title": "Pat McAfee Called Out Timoth\u00e9e Chalamet And Other Celebrities During The NBA Playoffs, And Ben Stiller Took Offense - Yahoo Sports",
+      "link": "https://www.cinemablend.com/television/pat-mcafee-called-out-timothee-chalamet-celebrities-during-nba-eastern-conference-finals-ben-stiller-took-offense"
+    },
+    {
+      "title": "Chelsea, Betis fans clash before final in Poland - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/45359569/chelsea-real-betis-fans-clash-conference-league-final"
+    },
+    {
+      "title": "California opens track-and-field finals to more girls after success of trans athlete - NBC News",
+      "link": "https://www.nbcnews.com/nbc-out/out-news/california-opens-track-field-finals-girls-success-trans-athlete-rcna209414"
+    },
+    {
+      "title": "Joe Starkey: Terry Bradshaw\u2019s right for ripping Steelers as they wait on Mr. Rodgers - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/joe-starkey/2025/05/28/nfl-otas-terry-bradshaw-aaron-rodgers-kenny-pickett/stories/202505280020"
+    },
+    {
+      "title": "Charles Barkley Identifies Three Different Players As the Face of the NBA - Sports Illustrated",
+      "link": "https://www.si.com/nba/charles-barkley-three-different-players-face-of-nba"
+    },
+    {
+      "title": "Everything you need to know about Detroit Lions OTAs: Rules, dates, more - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/5/28/24438567/everything-you-need-to-know-about-detroit-lions-otas-rules-dates-more"
+    },
+    {
+      "title": "Projecting when Cam Ward, Shedeur Sanders, other rookie quarterbacks will make their NFL debuts - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/projecting-when-cam-ward-shedeur-sanders-other-rookie-quarterbacks-will-make-their-nfl-debuts/"
     },
     {
       "title": "Sean McDermott on using tush push: We\u2019ll play within the rules - NBC Sports",
@@ -118,8 +146,12 @@
       "link": "https://www.si.com/mlb/marlins-infielder-ronny-simon-errors"
     },
     {
-      "title": "Liverpool parade updates: Liverpool police question suspect as witnesses describe 'mayhem' of crash - BBC",
-      "link": "https://www.bbc.com/news/live/c5yqp4yp88nt"
+      "title": "The Knicks couldn\u2019t keep up - New York Post",
+      "link": "https://nypost.com/2025/05/28/sports/the-knicks-couldnt-keep-up/"
+    },
+    {
+      "title": "Report: Bayern Munich\u2019s signing of Jonathan Tah will push Kim Min-jae to the bench - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/5/28/24438543/report-bayern-munich-signing-of-jonathan-tah-will-push-kim-min-jae-to-the-bench-transfer-rumors"
     },
     {
       "title": "100 Bold Predictions for the 2025 NFL Season - Sports Illustrated",
@@ -130,44 +162,16 @@
       "link": "https://www.barcablaugranes.com/2025/5/28/24438541/lamine-yamals-contract-details-revealed-after-barcelona-star-signs-on-until-2031"
     },
     {
-      "title": "Xavier Legette \"honing in\" on catching the ball after costly drops as a rookie - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-legette-honing-in-on-catching-the-ball-after-costly-drops-as-a-rookie"
+      "title": "Giants news, 5/28: Jaxson Dart, OTAs begin, Brian Daboll, more headlines - Big Blue View",
+      "link": "https://www.bigblueview.com/2025/5/28/24438124/new-york-giants-news-rumors-5-28-how-many-jaxson-dart-starts-this-year-otas-begin-brian-daboll-more"
     },
     {
       "title": "Travis Hunter won\u2019t practice on both sides on same day during OTAs - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-wont-practice-on-both-sides-on-same-day-during-otas"
     },
     {
-      "title": "Tyrese Haliburton\u2019s historic performance leads Indiana Pacers past New York Knicks to the brink of NBA Finals - CNN",
-      "link": "https://www.cnn.com/2025/05/28/sport/tyrese-haliburton-game-4-ecf-pacers-knicks-spt"
-    },
-    {
-      "title": "Japan finally has a sumo champion after years of Mongolian dominance - AP News",
-      "link": "https://apnews.com/article/sumo-japan-new-champion-e7e977340c1ff600fa9145f74467b8ce"
-    },
-    {
-      "title": "Knicks\u2019 season on the brink after defensive disaster in Game 4 loss to Pacers - New York Post",
-      "link": "https://nypost.com/2025/05/27/sports/knicks-season-on-the-brink-after-dropping-game-4-heartbreaker-to-pacers/"
-    },
-    {
-      "title": "Enhanced Box Score: Cubs 4, Rockies 3 \u2013 May 27, 2025 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/05/27/enhanced-box-score-cubs-4-rockies-3-may-27-2025/"
-    },
-    {
-      "title": "Five thoughts from Stars-Oilers Game 4: Dallas drops third straight, faces elimination - Dallas News",
-      "link": "https://www.dallasnews.com/sports/stars/2025/05/27/five-thoughts-from-stars-oilers-game-4-dallas-drops-third-straight-faces-elimination/"
-    },
-    {
-      "title": "Bad Base Running Leads to Juan Soto Hitting 354-Foot Lineout to the First Baseman - Sports Illustrated",
-      "link": "https://www.si.com/mlb/bad-base-running-juan-soto-hitting-354-foot-lineout-to-first-baseman"
-    },
-    {
-      "title": "Rory McIlroy shocks golf world by not letting Jack Nicklaus know he\u2019s skipping Memorial - New York Post",
-      "link": "https://nypost.com/2025/05/27/sports/rory-mcilroy-didnt-bother-telling-jack-nicklaus-hes-skipping-memorial/"
-    },
-    {
-      "title": "Shohei Ohtani\u2019s 20th homer of season places him in elite Dodgers company - AP News",
-      "link": "https://apnews.com/article/dodgers-ohtani-04a27497a1f8c836165790280fae173c"
+      "title": "Cleveland Browns roster breakdown: New faces in key positions for 2025 as OTAs begin - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/05/cleveland-browns-roster-breakdown-new-faces-in-key-positions-for-2025-as-otas-begin.html"
     }
   ],
   "weather": {
