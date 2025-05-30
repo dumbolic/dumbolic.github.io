@@ -1,9 +1,9 @@
 {
-  "quote": "You can never get enough of what you don't need to make you happy. \u2013 Eric Hoffer",
-  "fact": "Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.\u00a0 The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.",
-  "crypto": "BTC: $104,482 | ETH: $2,553.96",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "The other day I was listening to a song about superglue, it\u2019s been stuck in my head ever since.",
+  "quote": "All human beings can alter their lives by altering their attitudes. \u2013 Andrew Carnegie",
+  "fact": "In the Philippine jungle, the yo-yo was first used as a weapon.",
+  "crypto": "BTC: $104,175 | ETH: $2,533.22",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What happens to a frog's car when it breaks down? It gets toad.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth - Kotaku",
-      "link": "https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983"
+      "title": "Google AI Overviews Says It's Still 2024 - WIRED",
+      "link": "https://www.wired.com/story/google-ai-overviews-says-its-still-2024/"
+    },
+    {
+      "title": "The Sonos Father's Day Sale Starts Really Early: Save up to 25% Off Soundbars and Speakers - IGN",
+      "link": "https://www.ign.com/articles/sonos-fathers-day-sale-2025-soundbars-speakers"
+    },
+    {
+      "title": "Gemini in Google Drive may finally be useful now that it can analyze videos - Ars Technica",
+      "link": "https://arstechnica.com/google/2025/05/gemini-in-google-drive-may-finally-be-useful-now-that-it-can-analyze-videos/"
     },
     {
       "title": "Perplexity\u2019s new tool can generate spreadsheets, dashboards, and more - TechCrunch",
       "link": "https://techcrunch.com/2025/05/29/perplexitys-new-tool-can-generate-spreadsheets-dashboards-and-more/"
     },
     {
-      "title": "Instagram isn\u2019t just for square photos anymore - The Verge",
-      "link": "https://www.theverge.com/news/676549/instagram-3-4-aspect-ratio-photos-phones-square-rectangle"
-    },
-    {
       "title": "This gamer spent nearly 32 000 dollars on a PC with 1 000 GB of RAM not for gaming - Glass Almanac",
       "link": "https://glassalmanac.com/this-gamer-spent-nearly-32-000-dollars-on-a-pc-with-1-000-gb-of-ram-not-for-gaming/"
     },
     {
-      "title": "No Mercy for Apple, Amazon Is Clearing Out Mac Mini M4 Stock at a New All-Time Low Price - Gizmodo",
-      "link": "https://gizmodo.com/no-mercy-for-apple-amazon-is-clearing-out-mac-mini-m4-stock-at-a-new-all-time-low-price-2000608606"
+      "title": "Google removes old \u2018Find your phone\u2019 ring, use Find Hub website instead - 9to5Google",
+      "link": "http://9to5google.com/2025/05/29/google-find-your-phone-hub-ring/"
+    },
+    {
+      "title": "LG is still giving away a free 27-inch gaming monitor, but you'll have to hurry - ZDNet",
+      "link": "https://www.zdnet.com/article/lg-is-still-giving-away-a-free-27-inch-gaming-monitor-but-youll-have-to-hurry/"
     },
     {
       "title": "The Switch 2 box art disclaimer is ugly, Nintendo fans scream - Polygon",
       "link": "https://www.polygon.com/nintendo-switch-2/602094/the-switch-2-box-art-disclaimer-is-ugly-nintendo-fans-scream"
+    },
+    {
+      "title": "The Game Informer Magazine Archive Expands - Game Informer",
+      "link": "https://www.gameinformer.com/announcement/2025/05/29/the-game-informer-magazine-archive-expands"
+    },
+    {
+      "title": "Helldivers 2 Gets Review Bombed Again, This Time Over Its Big Battle for Super Earth - IGN",
+      "link": "https://www.ign.com/articles/helldivers-2-gets-review-bombed-again-this-time-over-its-big-battle-for-super-earth"
+    },
+    {
+      "title": "Pixel Code Points to Long Desired Customization Feature - Droid Life",
+      "link": "https://www.droid-life.com/2025/05/29/new-pixel-themes-spotted-in-android-16-beta/"
     },
     {
       "title": "ASRock goes on record: confirms Ryzen CPU failures are linked to BIOS settings, offers warranty support - VideoCardz.com",
@@ -44,122 +64,110 @@
       "link": "https://www.bbc.com/news/articles/ceqg10zqd38o"
     },
     {
-      "title": "Porsche's Road-Going Le Mans Prototype Has a Name: 963 RSP - Motor1.com",
-      "link": "https://www.motor1.com/news/761126/porsche-963-rsp-teaser/"
-    },
-    {
-      "title": "Finally: Google is making theme packs to help you customize your Pixel phone - Android Authority",
-      "link": "https://www.androidauthority.com/google-pixel-themes-leak-3562392/"
-    },
-    {
-      "title": "Elden Ring Nightreign: FromSoftware Warns PC Gamers With 'the Latest Graphics Cards' May Suffer Framerate Drops - IGN",
-      "link": "https://www.ign.com/articles/elden-ring-nightreign-fromsoftware-warns-pc-gamers-with-the-latest-graphics-cards-may-suffer-framerate-drops"
-    },
-    {
       "title": "Blink\u2019s budget buzzer gets some worthwhile upgrades - The Verge",
       "link": "https://www.theverge.com/news/676241/blink-launches-second-gen-video-doorbell-with-person-detection"
+    },
+    {
+      "title": "Elden Ring Nightreign gets balance adjustments in day one patch - Eurogamer",
+      "link": "https://www.eurogamer.net/elden-ring-nightreign-gets-balance-adjustments-in-day-one-patch"
+    },
+    {
+      "title": "Apple to change the way it names operating systems, report says - TechCrunch",
+      "link": "https://techcrunch.com/2025/05/29/apple-to-change-the-way-it-names-operating-systems-report-says/"
+    },
+    {
+      "title": "One UI 8 extends predictive back to Samsung's stock apps - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-m55-android-15-one-ui-7-update-released/"
     },
     {
       "title": "Amid Competition, Amazon Is Clearing 2025 MacBook Air M4 Stock at an All-Time Low - Gizmodo",
       "link": "https://gizmodo.com/amid-competition-amazon-is-clearing-2025-macbook-air-m4-stock-at-an-all-time-low-2000608613"
     },
     {
-      "title": "Northern Lights Forecast: 10 States Might See Aurora Borealis Tonight - Forbes",
-      "link": "https://www.forbes.com/sites/tylerroush/2025/05/29/northern-lights-forecast-10-states-might-see-aurora-borealis-tonight/"
-    },
-    {
-      "title": "EA Developers Wave Goodbye to 'Ambitious and Special' Black Panther Game: 'It Breaks My Heart the World Won't See It' - IGN",
-      "link": "https://www.ign.com/articles/ea-developers-wave-goodbye-to-ambitious-and-special-black-panther-game-it-breaks-my-heart-the-world-wont-see-it"
-    },
-    {
-      "title": "Gemini can now watch Google Drive videos for you - The Verge",
-      "link": "https://www.theverge.com/news/676245/google-drive-gemini-video-summary-feature"
-    },
-    {
-      "title": "I Never Saw Animatronics Like This: Epic Universe Team Reveals Challenges of Theme Park Tech - CNET",
-      "link": "https://www.cnet.com/tech/i-never-saw-animatronics-like-this-epic-universe-team-reveals-challenges-of-theme-park-tech/"
+      "title": "PSA: Thousands of ASUS wireless routers compromised by botnet - 9to5Mac",
+      "link": "https://9to5mac.com/2025/05/29/psa-thousands-of-asus-wireless-routers-compromised-by-botnet/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Toews, ex-Blackhawks star, planning NHL return - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/45379173/former-blackhawks-star-jonathan-toews-planning-nhl-comeback"
+    },
+    {
+      "title": "Dodgers Nearing Deal For Alexis D\u00edaz - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/dodgers-nearing-deal-for-alexis-diaz.html"
+    },
+    {
+      "title": "Patrick Mahomes says he will leave Olympic flag football \"to the younger guys\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-says-he-will-leave-olympic-flag-football-to-the-younger-guys"
+    },
+    {
+      "title": "AJ Smith-Shawver Being Evaluated For Elbow Injury - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/05/aj-smith-shawver-being-evaluated-for-elbow-injury.html"
+    },
+    {
+      "title": "Diego Maradona\u2019s homicide trial declared invalid after judge filming scandal - CNN",
+      "link": "https://www.cnn.com/2025/05/29/americas/diego-maradona-homicide-trial-declared-invalid-latam-intl"
+    },
     {
       "title": "By the numbers: How Tyrese Haliburton and Pacers offense stack up against 'Showtime' Lakers of 1980s - CBS Sports",
       "link": "https://www.cbssports.com/nba/news/by-the-numbers-how-tyrese-haliburton-and-pacers-offense-stack-up-against-showtime-lakers-of-1980s/"
     },
     {
-      "title": "Report: Dolphins have discussed trade of TE Jonnu Smith to Steelers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dolphins-have-discussed-trade-of-te-jonnu-smith-to-steelers"
+      "title": "MLB invests in Athletes Unlimited Softball League ahead of June debut - AP News",
+      "link": "https://apnews.com/article/mlb-softball-league-d250a0b3a5bdf861bc56bf2faad25a6d"
     },
     {
-      "title": "NCAA discussing expanding March Madness tournament as soon as 2026 after previously saying it was unlikely - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/ncaa-discussing-expanding-march-madness-tournament-as-soon-as-2026-after-previously-saying-it-was-unlikely/"
+      "title": "2025 NBA Mock Draft 2.0: Thunder add Thomas Sorber and Rasheer Fleming, Asa Newell slides to Pacers - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/2025-nba-mock-draft-2-0-thunder-add-thomas-sorber-and-rasheer-fleming-asa-newell-slides-to-pacers"
+    },
+    {
+      "title": "Dolphins Pro Bowl TE Jonnu Smith subject of trade discussions with Steelers, per report - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/dolphins-pro-bowl-te-jonnu-smith-subject-of-trade-discussions-with-steelers-per-report/"
+    },
+    {
+      "title": "DeAndre Hopkins Is Making Strong First Impression With Ravens - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-deandre-hopkins-otas-strong-first-impression-mark-andrews-isaiah-likely-john-harbaugh"
+    },
+    {
+      "title": "Jon Jones undecided on future in UFC: \u2018I don\u2019t know what life holds as far as fighting and competing\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/5/29/24439500/jon-jones-undecided-on-future-in-ufc-i-dont-know-what-life-holds-as-far-as-fighting-and-competing"
+    },
+    {
+      "title": "Noah Cameron should remain in the rotation - Royals Review",
+      "link": "https://www.royalsreview.com/2025/5/29/24439429/noah-cameron-should-remain-in-the-rotation-royals-pitching-mlb-michael-lorenzen"
+    },
+    {
+      "title": "'Poorly designed' F1 rules need flexi-wings, argues Hamilton - The Race",
+      "link": "https://www.the-race.com/formula-1/poorly-designed-f1-rules-need-flexi-wings-argues-hamilton/"
+    },
+    {
+      "title": "Team of the Matchday: Atlanta United & Philadelphia Union boosted by late-game drama - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/team-of-the-matchday-atlanta-united-philadelphia-union-boosted-by-late-game-drama-md16"
+    },
+    {
+      "title": "Capitals say no decision has been made on Alex Ovechkin\u2019s NHL future after email mistake - NBC Sports",
+      "link": "https://www.nbcsports.com/nhl/news/capitals-say-no-decision-has-been-made-on-alex-ovechkins-nhl-future-after-email-mistake"
     },
     {
       "title": "Patrick Roy\u2019s fate decided as Islanders GM Mathieu Darche makes first critical decision - New York Post",
       "link": "https://nypost.com/2025/05/29/sports/patrick-roys-islanders-fate-decided-by-new-gm-mathieu-darche/"
     },
     {
-      "title": "2025 NCAA softball bracket: Women's College World Series scores, schedule - NCAA.com",
-      "link": "https://www.ncaa.com/news/softball/article/2025-05-29/2025-ncaa-softball-bracket-womens-college-world-series-scores-schedule"
+      "title": "Hazing, sexual rituals rampant in locker room, ex-Seton Hall pitcher says in explosive suit - NJ.com",
+      "link": "https://www.nj.com/essex/2025/05/hazing-sexual-rituals-rampant-in-locker-room-ex-seton-hall-pitcher-says-in-explosive-suit.html"
     },
     {
-      "title": "NFL announces five nationally televised preseason games - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-five-nationally-televised-preseason-games"
+      "title": "Mariners debut coming soon? Cole Young records 5-hit game - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-prospect-cole-young-5-hit-game/1812013"
+    },
+    {
+      "title": "The 25 most impactful transfers following the NBA draft deadline - 247Sports",
+      "link": "https://247sports.com/article/25-most-impactful-transfers-following-nba-draft-deadline-250376835/"
     },
     {
       "title": "Fantasy Baseball SP Roundup 5/28: McCullers Inside The Lines - Pitcher List",
       "link": "http://pitcherlist.com/sp-roundup-5-28-25/"
-    },
-    {
-      "title": "Stefon Diggs boat video is something Patriots are 'aware of,' Coach Mike Vrabel says - NBC News",
-      "link": "https://www.nbcnews.com/sports/nfl/stefon-diggs-boat-video-something-patriots-are-aware-coach-mike-vrabel-rcna209742"
-    },
-    {
-      "title": "Minnesota Timberwolves guard Mike Conley \u2018hurts a lot\u2019 after falling short of NBA Finals again - Andscape",
-      "link": "https://andscape.com/features/minnesota-timberwolves-guard-mike-conley-hurts-a-lot-after-falling-short-of-nba-finals-again/"
-    },
-    {
-      "title": "Father-of-three Paul Doyle charged over Liverpool parade crash - BBC",
-      "link": "https://www.bbc.com/news/articles/crk2l00p3r2o"
-    },
-    {
-      "title": "NBA World Reacts To Anthony Edwards' Performance In Timberwolves-Thunder Game - Sports Illustrated",
-      "link": "https://www.si.com/fannation/nba/fastbreak/nba-world-reacts-to-anthony-edwards-performance-in-timberwolves-thunder-game-5"
-    },
-    {
-      "title": "Penn State 2025 kick times: When will each non-conference game, Homecoming game with Northwestern, start? - On3.com",
-      "link": "https://www.on3.com/teams/penn-state-nittany-lions/news/penn-state-2025-kick-times-when-will-each-non-conference-game-homecoming-game-with-northwestern-start/"
-    },
-    {
-      "title": "ACC Announces Early-Season and Special Date Football Kickoff Times and Broadcast Schedule - Atlantic Coast Conference",
-      "link": "https://theacc.com/news/2025/5/29/acc-announces-early-season-and-special-date-football-kickoff-times-and-broadcast-schedule.aspx"
-    },
-    {
-      "title": "Big Ten, TV partners announce start times for four games, including Texas-Ohio State - 247Sports",
-      "link": "https://247sports.com/college/ohio-state/article/big-ten-tv-partners-announce-start-times-for-four-games-including-texas-longhorns-ohio-state-football-250368620/"
-    },
-    {
-      "title": "Big Ten Conference Announces Television Schedule for Early Season Football Games - Big Ten Conference",
-      "link": "https://bigten.org/fb/article/blt8eb3dde899ebe558/"
-    },
-    {
-      "title": "Tyreek Hill doesn\u2019t believe he deserves to be a Dolphins team captain - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-doesnt-believe-he-deserves-to-be-a-dolphins-team-captain"
-    },
-    {
-      "title": "NBA Playoffs Best Bets, Picks, Predictions for Thursday, May 29 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-playoffs-best-bets-picks-predictions-for-thursday-may-29-qs"
-    },
-    {
-      "title": "Red Sox Have Specific Reason For Not Promoting Roman Anthony - NESN",
-      "link": "https://nesn.com/2025/05/red-sox-have-specific-reason-for-not-promoting-roman-anthony/"
-    },
-    {
-      "title": "New England Patriots links 5/29/25 - OTAs: Offense shaky, Defensive line causing havoc - Pats Pulpit",
-      "link": "https://www.patspulpit.com/2025/5/29/24439267/patriots-news-links-5-29-25-otas-offense-shaky-defensive-line-causing-havoc"
-    },
-    {
-      "title": "Braves vs Phillies Game 1 Prediction, Pick, Odds, Start Time for Thursday, May 29 - Action Network",
-      "link": "https://www.actionnetwork.com/mlb/atlanta-braves-vs-philadelphia-phillies-prediction-pick-odds-thursday-may-29-game-1-qs"
     }
   ],
   "weather": {
