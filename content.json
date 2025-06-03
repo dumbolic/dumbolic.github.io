@@ -1,9 +1,9 @@
 {
-  "quote": "If you don't know where you're going, you will probably end up somewhere else. \u2013 Laurence J. Peter",
-  "fact": "\"Dreamt\" is the only English word that ends in the letters \"mt.\"",
-  "crypto": "BTC: $105,359 | ETH: $2,600.61",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why are basketball players messy eaters? Because they are always dribbling.",
+  "quote": "Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today. \u2013 Steve Maraboli",
+  "fact": "Leonardo Da Vinci invented the scissors.",
+  "crypto": "BTC: $105,358 | ETH: $2,601.04",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Brave x Junction demo now available - Gematsu",
+      "link": "https://www.gematsu.com/2025/06/brave-x-junction-demo-now-available"
+    },
+    {
+      "title": "How to take pictures of the Northern Lights with Google Pixel and other Android phones - 9to5Google",
+      "link": "http://9to5google.com/2025/06/01/how-to-take-pictures-northern-lights-android-google-pixel/"
+    },
     {
       "title": "The World Ends with You Director Tatsuya Kando Leaves Square Enix - Anime News Network",
       "link": "https://www.animenewsnetwork.com/news/2025-06-01/the-world-ends-with-you-director-tatsuya-kando-leaves-square-enix/.224996"
@@ -20,12 +28,12 @@
       "link": "https://www.sciencealert.com/an-extreme-drop-in-oxygen-will-eventually-suffocate-most-life-on-earth"
     },
     {
-      "title": "Samsung Nears Wide-Ranging Deal With Perplexity for AI Features - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-06-01/samsung-nears-wide-ranging-deal-with-perplexity-for-ai-features"
+      "title": "Posting Memes With Pride - Vulture",
+      "link": "http://www.vulture.com/article/pride-2025-meme-roundup.html"
     },
     {
-      "title": "Nintendo Has a Shrewd Plan for Selling the Switch 2 in Japan - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-06-01/switch-2-nintendo-has-a-shrewd-new-plan-for-japanese-retailers"
+      "title": "Samsung Nears Wide-Ranging Deal With Perplexity for AI Features - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-06-01/samsung-nears-wide-ranging-deal-with-perplexity-for-ai-features"
     },
     {
       "title": "Instagram for iPad is reportedly coming soon; here\u2019s when to expect it - 9to5Mac",
@@ -60,10 +68,6 @@
       "link": "https://www.wsj.com/tech/personal-tech/wearable-glucose-monitor-stelo-dexcom-6655e84d"
     },
     {
-      "title": "Call of Duty: Black Ops 6 now shows you microtransaction ads when you swap weapons - Eurogamer",
-      "link": "https://www.eurogamer.net/call-of-duty-black-ops-6-now-shows-you-microtransaction-ads-when-you-swap-weapons"
-    },
-    {
       "title": "Elena and the Season 3 balance patch for Street Fighter 6 are technically releasing a day early due to time zone differences - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/jun/01/elena-season-3-sf6-early/"
     },
@@ -74,10 +78,6 @@
     {
       "title": "Nintendo Switch 2 Welcome Tour overview trailer - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-switch-2-welcome-tour-overview-trailer/"
-    },
-    {
-      "title": "Tesla Launches Model 3 Tow Package in North America - Not a Tesla App",
-      "link": "https://www.notateslaapp.com/news/2767/tesla-launches-model-3-tow-package-in-north-america"
     },
     {
       "title": "A two-player Elden Ring Nightreign PC Mod is already available - Eurogamer",
@@ -94,28 +94,40 @@
   ],
   "sports_news": [
     {
-      "title": "UNC Falls to Oklahoma, Setting Up Winner-Take-All Finale in Regional - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/unc-baseball-falls-to-oklahoma-setting-up-winner-take-all-finale-in-regional-250519241/"
+      "title": "Wright State stuns No. 1 Vanderbilt with historic upset in baseball regionals - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/article/wright-state-stuns-no-1-vanderbilt-with-historic-upset-in-baseball-regionals-040543929.html"
     },
     {
-      "title": "Fantasy Baseball Week 11 Waiver-Wire Targets: It's Jac Caglianone time, as the top prospect gets the call - CBS Sports",
-      "link": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-waiver-wire-targets-its-jac-caglianone-time-as-the-top-prospect-gets-the-call/"
+      "title": "Royals Promote Jac Caglianone - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/royals-promote-jac-caglianone.html"
+    },
+    {
+      "title": "Vancouver Whitecaps lose Concacaf Champions Cup final to Cruz Azul - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/vancouver-whitecaps-lose-concacaf-champions-cup-final-to-cruz-azul"
+    },
+    {
+      "title": "See photos: Miguel Angel Jim\u00e9nez wins the Principal Charity Classic - The Des Moines Register",
+      "link": "https://www.desmoinesregister.com/picture-gallery/sports/golf/2025/06/01/photos-final-round-of-the-principal-charity-classic-pga-wakonda-club-miguel-jimnez/83919805007/"
+    },
+    {
+      "title": "UNC Falls to Oklahoma, Setting Up Winner-Take-All Finale in Regional - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/unc-baseball-falls-to-oklahoma-setting-up-winner-take-all-finale-in-regional-250519241/"
     },
     {
       "title": "Injuries force USMNT to make roster changes as the Gold Cup nears - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/06/01/usmnt-roster-folarin-balogun-injury/"
     },
     {
-      "title": "Vols endure 15-min. replay, beat Bruins at WCWS - ESPN",
-      "link": "https://www.espn.com/college-sports/softball/story/_/id/45427588/tennessee-advance-bruins-wcws-15-minute-review"
+      "title": "Women's College World Series: Tennessee walks off UCLA in extras to survive controversial ruling - Yahoo Sports",
+      "link": "https://sports.yahoo.com/article/womens-college-world-series-tennessee-walks-off-ucla-in-extras-to-survive-controversial-ruling-224606464.html"
     },
     {
-      "title": "Vanderbilt Baseball Eliminated by Wright State, 1st No. 1 Seed to Miss Regional Final - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25201128-vanderbilt-baseball-eliminated-wright-state-1st-no-1-seed-miss-regional-final"
+      "title": "Carlos Alcaraz praised for showing 'insane sportsmanship' during his French Open match against Ben Shelton - The Tennis Gazette",
+      "link": "https://www.thetennisgazette.com/news/carlos-alcaraz-praised-for-showing-insane-sportsmanship-during-his-french-open-match-against-ben-shelton/"
     },
     {
-      "title": "Corbin Burnes Leaves Game Due To Elbow Discomfort - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/corbin-burnes-leaves-game-due-to-elbow-discomfort.html"
+      "title": "7 Thoughts on Grand Slam Track Philadelphia: Melissa Jefferson-Wooden & Kenny Bednarek Rule the Sprints, Hello Nico Young, & More - LetsRun.com",
+      "link": "https://www.letsrun.com/news/2025/06/7-thoughts-on-grand-slam-track-philadelphia-melissa-jefferson-wooden-kenny-bednarek-rule-the-sprints-hello-nico-young-more/"
     },
     {
       "title": "Reds star Elly De La Cruz homers after learning of the death of his sister - AP News",
@@ -124,6 +136,10 @@
     {
       "title": "How to watch Arkansas vs. Creighton Game 2 channel stream, game time - 247Sports",
       "link": "https://247sports.com/college/arkansas/article/how-to-watch-arkansas-baseball-creighton-ncaa-tournament-channel-stream-game-time-250484379/"
+    },
+    {
+      "title": "UFC fighter rips opponent after seizure causes last-second main event cancellation: \u2018She\u2019s a complete mess\u2019 - New York Post",
+      "link": "https://nypost.com/2025/06/01/sports/erin-blanchfield-rips-maycee-barber-after-seizure-causes-ufc-cancellation/"
     },
     {
       "title": "'Club World Ca$h Grab': Players don protest shirts at pregame - Sounder at Heart",
@@ -138,16 +154,8 @@
       "link": "https://kstp.com/kstp-news/top-news/victims-in-mariucci-arena-shooting-discharged-from-hospital-still-no-charges-against-suspect/"
     },
     {
-      "title": "It just got $9 million cheaper for Bill Belichick to blow off UNC football - New York Post",
-      "link": "https://nypost.com/2025/06/01/sports/it-just-got-9-million-cheaper-for-bill-belichick-to-blow-off-unc-football/"
-    },
-    {
       "title": "Michigan State closing in on naming next athletic director - The Detroit News",
       "link": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2025/06/01/michigan-state-closing-in-on-naming-j-batt-athletic-director/83980140007/"
-    },
-    {
-      "title": "Carlos Alcaraz praises Ben Shelton and says what he does which is 'unbelievable' after knocking him out of Roland Garros - The Tennis Gazette",
-      "link": "https://www.thetennisgazette.com/news/carlos-alcaraz-praises-ben-shelton-and-says-what-he-does-which-is-unbelievable-after-knocking-him-out-of-roland-garros/"
     },
     {
       "title": "Trans athlete embraced as California track and field champion by peers while adult activists duel - San Francisco Chronicle",
@@ -160,18 +168,6 @@
     {
       "title": "Kentucky Downs No. 11 Tigers 16-4 in Clemson Regional - Clemson Tigers",
       "link": "https://clemsontigers.com/cu256011/"
-    },
-    {
-      "title": "\u2018Inside the NBA\u2019 crew bids an emotional goodbye to the NBA on TNT - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/06/01/inside-nba-tnt-ending/"
-    },
-    {
-      "title": "Season ends for Husker baseball with historic loss to Oklahoma - KETV",
-      "link": "https://www.ketv.com/article/husker-baseball-season-ends-in-big-loss-oklahoma/64938595"
-    },
-    {
-      "title": "Magic Johnson Bluntly Blames Two Players for Knicks' Season-Ending Loss - Sports Illustrated",
-      "link": "https://www.si.com/nba/magic-johnson-bluntly-blames-two-players-for-knicks-season-ending-loss"
     }
   ],
   "weather": {
