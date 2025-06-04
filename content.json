@@ -1,9 +1,9 @@
 {
-  "quote": "Often in the real world, it's not the smart that get ahead, but the bold. \u2013 Robert Kiyosaki",
-  "fact": "Thirty-five percent of people who use personal ads for dating are already married.",
-  "crypto": "BTC: $104,899 | ETH: $2,612.04",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
+  "quote": "By perseverance the snail reached the ark. \u2013 Charles Spurgeon",
+  "fact": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
+  "crypto": "BTC: $104,862 | ETH: $2,608.84",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "A panda walks into a bar and says to the bartender \u201cI\u2019ll have a Scotch and . . . . . . . . . . . . . . Coke thank you\u201d. \r\n\r\n\u201cSure thing\u201d the bartender replies and asks \u201cbut what\u2019s with the big pause?\u201d \r\n\r\nThe panda holds up his hands and says \u201cI was born with them\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "The Witcher 4 tech demo ran on a base PS5 to \u2018show how much we can optimize\u2019 - The Verge",
-      "link": "https://www.theverge.com/games/678895/the-witcher-4-ue5-tech-demo-ps5-interview"
+      "title": "Polish engineer creates postage stamp-sized 1980s Atari computer - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/"
+    },
+    {
+      "title": "Google\u2019s NotebookLM now lets you share your notebook \u2014 and AI podcasts \u2014 publicly - The Verge",
+      "link": "https://www.theverge.com/news/678915/google-notebooklm-share-public-link"
+    },
+    {
+      "title": "Testing Samsung's Super Thin Galaxy S25 Edge - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/03/samsung-galaxy-s25-edge-hands-on/"
     },
     {
       "title": "Destiny 2 Edge of Fate Artifact Perks Detailed - The Game Post",
       "link": "https://thegamepost.com/destiny-2-edge-of-fate-artifact-perks-detailed/"
     },
     {
-      "title": "Anniversary Celebrations Erupt in Sanctuary \u2014 Diablo IV - Blizzard News",
-      "link": "https://news.blizzard.com/en-us/article/24209999/anniversary-celebrations-erupt-in-sanctuary"
+      "title": "Apple unveils winners and finalists of the 2025 Apple Design Awards - Apple",
+      "link": "https://www.apple.com/newsroom/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/"
+    },
+    {
+      "title": "Adobe finally releases Photoshop for Android, and it\u2019s free (for now) - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/adobe-finally-releases-photoshop-for-android-and-its-free-for-now/"
     },
     {
       "title": "Apple iOS 26 For iPhone: Coming Next Week, A New Era For The iPhone - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2025/06/03/apple-ios-26-for-iphone-coming-next-week-a-new-era-for-the-iphone/"
+    },
+    {
+      "title": "iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability - The Verge",
+      "link": "https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift"
     },
     {
       "title": "Announcing Upcoming RCQs, Spotlight Events, Eternal Weekends, and More! - magic.gg",
@@ -40,16 +56,20 @@
       "link": "https://www.eurogamer.net/ps5-has-huge-price-advantage-over-xbox-and-switch-2"
     },
     {
+      "title": "Fallout 76: Gone Fission Release Notes - Bethesda.net",
+      "link": "https://bethesda.net/en/article/2fsxzAz2icHeeJYGR37kQs/fallout-76-gone-fission-release-notes"
+    },
+    {
       "title": "Elden Ring Nightreign devs confirm they\u2019re working on a duos mode - Polygon",
       "link": "https://www.polygon.com/elden-ring/603123/elden-ring-nightreign-duos-mode-confirmed"
     },
     {
-      "title": "PSA: YouTube app no longer supports these iPhone and iPad models - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/03/psa-youtube-app-no-longer-supports-these-iphone-and-ipad-models/"
+      "title": "YouTube bug breaks navigation bar on Android, Google investigating - 9to5Google",
+      "link": "http://9to5google.com/2025/06/03/youtube-bug-hides-navigation-bar/"
     },
     {
-      "title": "Epic is making it easier to create MetaHumans - The Verge",
-      "link": "https://www.theverge.com/news/678403/epic-games-metahumans-unreal-engine"
+      "title": "CD PROJEKT RED and Epic Games Present The Witcher 4 Unreal Engine 5 Tech Demo at The State of Unreal 2025! - cdprojekt.com",
+      "link": "https://www.cdprojekt.com/en/media/news/cd-projekt-red-and-epic-games-present-the-witcher-4-unreal-engine-5-tech-demo-at-the-state-of-unreal-2025/"
     },
     {
       "title": "8 Hours With Nintendo\u2019s Switch 2: It\u2019s the Sequel Handheld We Wanted - Gizmodo",
@@ -64,35 +84,31 @@
       "link": "https://www.cnet.com/tech/gaming/i-played-hours-of-mario-kart-world-and-used-gamechat-on-the-switch-2-im-hooked/"
     },
     {
-      "title": "\u201cMario Kart World\u201d Devs Broke Their Own Rule on Who Gets to Drive - WIRED",
-      "link": "https://www.wired.com/story/mario-kart-world-everyone-gets-to-drive/"
-    },
-    {
-      "title": "Nvidia CEO Pays Tribute To Late Nintendo President Satoru Iwata In New Switch 2 Video - Kotaku",
-      "link": "https://kotaku.com/satoru-iwata-switch-2-nvidia-nintendo-jensen-huang-1851783452"
-    },
-    {
-      "title": "Sony announces new State of Play showcase for June 4 - Polygon",
-      "link": "https://www.polygon.com/news/603104/sony-playstation-state-of-play-june-2025-start-time"
-    },
-    {
-      "title": "Wyze just built a camera into a light bulb, and it only costs $50 - 9to5Google",
-      "link": "http://9to5google.com/2025/06/03/wyze-bulb-cam-launch-price/"
-    },
-    {
-      "title": "Adobe launches beta version of its Photoshop app on Android - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/03/adobe-launches-beta-version-of-its-photoshop-app-on-android/"
-    },
-    {
-      "title": "Meta and Yandex are de-anonymizing Android users\u2019 web browsing identifiers - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/"
-    },
-    {
-      "title": "Samsung is struggling to sell the Galaxy S25 Edge - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-galaxy-s25-edge-is-now-on-sale-in-the-united-states/"
+      "title": "Sony Announces Surprise Last-Minute PlayStation Showcase Ahead Of Summer Game Fest - Kotaku",
+      "link": "https://kotaku.com/playstation-ps5-summer-showcase-state-play-wolverine-1851783458"
     }
   ],
   "sports_news": [
+    {
+      "title": "2025 U.S. Nationals: Day 1 Distance Session Live Recap - SwimSwam",
+      "link": "https://swimswam.com/2025-u-s-nationals-day-1-distance-session-live-recap/"
+    },
+    {
+      "title": "Wake Forest baseball coach apologizes for homophobic slur caught on camera - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/03/tom-walter-wake-forest-baseball-slur/"
+    },
+    {
+      "title": "49ers Sign WR Malik Knowles, Place WR Trent Taylor on IR, and Other Roster Moves - San Francisco 49ers",
+      "link": "https://www.49ers.com/news/49ers-sign-wr-malik-knowles-place-wr-trent-taylor-on-ir-and-other-roster-moves"
+    },
+    {
+      "title": "What ESPN\u2019s Football Power Index is projecting for Big 12 rivals BYU and Utah in 2025 - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/06/03/utah-byu-football-2025-espn-football-power-index-projections/"
+    },
+    {
+      "title": "Practice Report: Takeaways From Start of Second Week of OTAs - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-otas-kickers-go-perfect-tyler-loop-john-hoyland-lamar-jackson"
+    },
     {
       "title": "Vikings' 'all-time iron man' Marshall dies at 87 - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45444339/vikings-great-jim-marshall-played-282-straight-games-dies"
@@ -100,6 +116,10 @@
     {
       "title": "World Boxing apologizes for naming Olympic champion Imane Khelif in sex test policy - NBC News",
       "link": "https://www.nbcnews.com/sports/olympics/world-boxing-apologizes-imane-khelif-olympics-rcna210716"
+    },
+    {
+      "title": "'What Anushka has gone through \u2026 ': Virat Kohli gets emotional after RCB clinch IPL 2025 title - Times of India",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/what-anushka-sharma-has-gone-through-virat-kohli-gets-emotional-after-rcb-clinch-ipl-2025-title/articleshow/121606195.cms"
     },
     {
       "title": "Knicks fire coach Tom Thibodeau after Eastern Conference finals trip, AP source says - AP News",
@@ -110,60 +130,36 @@
       "link": "https://www.washingtonpost.com/education/2025/06/03/trans-athlete-public-schools-california-trump/"
     },
     {
-      "title": "Virat Kohli In Tears, Anushka Sharma In Disbelief As RCB End 18-Year Wait For IPL Title - NDTV Sports",
-      "link": "https://sports.ndtv.com/ipl-2025/virat-kohli-in-tears-anushka-sharma-in-disbelief-as-rcb-end-18-year-wait-for-ipl-title-8580526"
-    },
-    {
-      "title": "Wake baseball coach apologizes for anti-gay slur - ESPN",
-      "link": "https://www.espn.com/college-baseball/story/_/id/45443175/wake-forest-baseball-coach-tom-walter-apologizes-apparent-anti-gay-slur"
-    },
-    {
-      "title": "Sabalenka vs Zheng: Things we learned - Roland Garros",
-      "link": "https://www.rolandgarros.com/en-us/article/rg2025-sabalenka-v-zheng-things-we-learned"
-    },
-    {
       "title": "2025 NCAA baseball bracket: Men's College World Series scores, schedule - NCAA.com",
       "link": "https://www.ncaa.com/news/baseball/article/2025-06-03/2025-ncaa-baseball-bracket-mens-college-world-series-scores-schedule"
-    },
-    {
-      "title": "MLS\u2019s Chicago Fire will build new stadium, with no public funding - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mlss-chicago-fire-will-build-new-stadium-with-no-public-funding"
     },
     {
       "title": "Mets To Recall Ronny Mauricio - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/mets-to-recall-ronny-mauricio.html"
     },
     {
-      "title": "2025 U.S. Nationals: Day 1 Prelims Live Recap - SwimSwam",
-      "link": "https://swimswam.com/2025-u-s-nationals-day-1-prelims-live-recap/"
-    },
-    {
       "title": "PWHL ANNOUNCES PLAYER PROTECTION LISTS FOR 2025 EXPANSION ROSTER BUILDING PROCESS - PWHL",
       "link": "https://www.thepwhl.com/en/news/2025/june/03/pwhl-announces-player-protection-lists-for-2025-expansion-roster-building-process"
     },
     {
-      "title": "\u2018The best to ever do it\u2019: Lions players react to Frank Ragnow retirement - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/6/3/24442195/frank-ragnow-retirement-detroit-lions-players-reactions-best-ever"
+      "title": "Giardi: Emotional farewell for Andrews; plus, Stevenson feels the love - Boston Sports Journal",
+      "link": "https://www.bostonsportsjournal.com/2025/06/03/giardi-emotional-farewell-for-andrews-plus-stevenson-feels-the-love"
     },
     {
       "title": "Dolphins appear unlikely to trade Jonnu Smith to Steelers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-appear-unlikely-to-trade-jonnu-smith-to-steelers"
     },
     {
-      "title": "Shedeur Sanders needed someone to prepare him for the pre-draft process - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-needed-someone-to-prepare-him-for-the-pre-draft-process"
+      "title": "Chicago Fire Plan $650 Million Soccer Stadium At \u2018The 78\u2019 Site In South Loop - Block Club Chicago",
+      "link": "https://blockclubchicago.org/2025/06/03/chicago-fire-plan-650-million-soccer-stadium-at-the-78-site-in-south-loop/"
     },
     {
-      "title": "49ers still have one glaring issue on defense following trade for Bryce Huff - Niners Nation",
-      "link": "https://www.ninersnation.com/2025/6/3/24441516/49ers-glaring-issue-defense-following-trade-bryce-huff"
+      "title": "Would the Cubs Look at a Reunion with Newly-Available Reliever Jorge Lopez? - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/03/cubs-jorge-lopez/"
     },
     {
       "title": "Swimming world body to banish athletes and supporters of doping-fueled event in Las Vegas - AP News",
       "link": "https://apnews.com/article/swimming-doping-enhanced-games-aquatics-35832ac9a7d136fb4f9941088f701493"
-    },
-    {
-      "title": "DePaul soccer player Chase Stegall dies in residence hall - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/news/2025/06/03/depaul-soccer-player-chase-stegall-dies-in-residence-hall"
     }
   ],
   "weather": {
