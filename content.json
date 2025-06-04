@@ -1,9 +1,9 @@
 {
-  "quote": "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. \u2013 Aristophanes",
-  "fact": "The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.",
-  "crypto": "BTC: $104,973 | ETH: $2,627.68",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I used to work in a shoe recycling shop. It was sole destroying.",
+  "quote": "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. \u2013 Ming-Dao Deng",
+  "fact": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis.. \u00a0",
+  "crypto": "BTC: $105,474 | ETH: $2,661.59",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I was going to get a brain transplant, but I changed my mind",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Four hours with Mario Kart World barely scratched the surface - Polygon",
+      "link": "https://www.polygon.com/nintendo-switch-2/603046/mario-kart-world-impressions-gameplay-hands-on"
+    },
+    {
+      "title": "Epic showed off Unreal Engine 5 with an impressive Witcher 4 tech demo - The Verge",
+      "link": "https://www.theverge.com/news/678463/unreal-engine-5-witcher-4-tech-demo"
+    },
+    {
+      "title": "Sony announces new State of Play showcase for June 4 - Polygon",
+      "link": "https://www.polygon.com/news/603104/sony-playstation-state-of-play-june-2025-start-time"
+    },
+    {
       "title": "Meta and Yandex are de-anonymizing Android users\u2019 web browsing identifiers - Ars Technica",
       "link": "https://arstechnica.com/security/2025/06/headline-to-come/"
     },
     {
-      "title": "Nintendo Prepping For All Switch 2 Eventualities With 'Out Of Stock' Signs - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/nintendo-prepping-for-all-switch-2-eventualities-with-out-of-stock-signs"
-    },
-    {
-      "title": "I ignored Google's passkey prompts for months, but now I feel silly for waiting - Android Authority",
-      "link": "https://www.androidauthority.com/passkeys-vs-passwords-google-account-security-3558854/"
+      "title": "Watch Apple\u2019s WWDC 2025 keynote right here - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/03/watch-apples-wwdc-2025-keynote-right-here/"
     },
     {
       "title": "Epic Games to include open-source Arm Accuracy Super Resolution (ASR) into Fornite - VideoCardz.com",
       "link": "https://videocardz.com/newz/epic-games-to-include-open-source-arm-accuracy-super-resolution-asr-into-fornite"
+    },
+    {
+      "title": "Bing lets you use OpenAI\u2019s Sora video generator for free - The Verge",
+      "link": "https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator"
+    },
+    {
+      "title": "MSI revives CYCLONE GPU series for GeForce RTX 5060 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/msi-revives-cyclone-gpu-series-for-geforce-rtx-5060"
+    },
+    {
+      "title": "Switch 2 video shows how GameShare works when playing with a Switch owner - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/switch-2-video-shows-how-gameshare-works-when-playing-with-a-switch-owner/"
+    },
+    {
+      "title": "iPhone 17 and iPhone 17 Air ProMotion Rumors Disputed by Leaker - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/03/iphone-17-promotion-rumors-disputed/"
     },
     {
       "title": "Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3.5m players - Eurogamer",
@@ -44,62 +68,54 @@
       "link": "https://www.ign.com/articles/activision-insists-heavily-criticized-call-of-duty-black-ops-6-and-warzone-ads-in-loadout-menus-were-a-test-published-in-error-strips-them-out-following-backlash"
     },
     {
-      "title": "Nintendo Switch System Update 20.1.1 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/nintendo-switch-system-update-20-1-1-is-now-live-here-are-the-full-patch-notes"
+      "title": "Nintendo Switch update 20.1.1 out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-update-20-1-1-out-now-patch-notes/"
     },
     {
-      "title": "Video: Street Fighter 6 Showcases Four New Character Outfits - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/video-street-fighter-6-showcases-four-new-character-outfits"
+      "title": "Elena and Season 3 update maintenance and patch note times revealed for Street Fighter 6 - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/jun/02/street-fighter-server-maintenance/"
     },
     {
-      "title": "Xbox sale round-up June 3, 2025 - Games - TrueAchievements",
-      "link": "https://www.trueachievements.com/n59171/xbox-sale-roundup-june-3-2025-games"
+      "title": "Pokemon Scarlet and Violet 4.0.0 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/pokemon-scarlet-and-violet-4-0-0-update-out-now-patch-notes/"
+    },
+    {
+      "title": "Xbox sale round-up June 3, 2025 - DLC - TrueAchievements",
+      "link": "https://www.trueachievements.com/n59172/xbox-sale-roundup-june-3-2025-dlc"
     },
     {
       "title": "Walmart Nintendo Switch 2 pre-order: some US customers can buy it again - The Shortcut | Matt Swider",
       "link": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-pre-order-cancelled"
-    },
-    {
-      "title": "Counterpoint Research finally gives Apple some good news from Europe - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/02/iphone-16e-enters-europes-top-10-list/"
-    },
-    {
-      "title": "Court documents reveal OpenAI is coming for your iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/02/openai-is-coming-for-your-iphone/"
-    },
-    {
-      "title": "WWDC 2025: What to Expect From macOS 26 Tahoe - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/02/macos-26-tahoe-what-to-expect/"
-    },
-    {
-      "title": "Porsche Still Offers The Single Greatest And Possibly Most Excessive Feature In All Of Automobiles - The Autopian",
-      "link": "https://www.theautopian.com/porsche-still-offers-the-single-greatest-and-possibly-most-excessive-feature-in-all-of-automobiles/"
-    },
-    {
-      "title": "Microsoft will finally stop bugging Windows users about Edge \u2014 but only in Europe - The Verge",
-      "link": "https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge"
-    },
-    {
-      "title": "Microsoft belatedly attempts to tame USB-C confusion with its rules for PC OEMs - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/06/microsoft-belatedly-attempts-to-tame-usb-c-confusion-with-its-rules-for-pc-oems/"
-    },
-    {
-      "title": "By Adding This Free Carry Bag to Your Cart, The Anker Solix Power Station Drops 50% in Price on Amazon - Gizmodo",
-      "link": "https://gizmodo.com/by-adding-this-free-carry-bag-to-your-cart-the-anker-solix-power-station-drops-50-in-price-on-amazon-2000610249"
     }
   ],
   "sports_news": [
     {
-      "title": "2025 NBA Finals schedule, Thunder vs. Pacers odds: Dates, game times, TV coverage, NBA playoffs live stream - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/2025-nba-finals-schedule-thunder-vs-pacers-odds-dates-game-times-tv-coverage-nba-playoffs-live-stream/"
+      "title": "Mets To Recall Ronny Mauricio - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/mets-to-recall-ronny-mauricio.html"
     },
     {
-      "title": "Bruno Fernandes: Manchester United captain rejects move to Saudi - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c79eje7dq3xo"
+      "title": "How the Indiana Pacers Spun Style Into Substance - The Ringer",
+      "link": "https://www.theringer.com/2025/06/03/nba/indiana-pacers-tyrese-haliburton-pascal-siakam-nba-finals-2025"
+    },
+    {
+      "title": "UFC legend believes Jon Jones is making the most of a situation he's never been in before with Tom Aspinall saga - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/03/ufc-legend-believes-jon-jones-is-making-the-most-of-a-situation-hes-never-been-in-before-with-tom-aspinall-saga/"
+    },
+    {
+      "title": "'It depends who they want' - Robert Lewandowski suggests Ballon d'Or is rigged after missing out on top prize in brutal warning to Barcelona co-star Lamine Yamal - Goal.com",
+      "link": "https://www.goal.com/en/lists/robert-lewandowski-suggests-ballon-d-or-rigged-missing-out-top-prize-brutal-warning-barcelona-star-lamine-yamal/bltfa69133f14383138"
     },
     {
       "title": "Kevin Stefanski: Shedeur Sanders, Dillon Gabriel are like sponges, learning to be pros - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-shedeur-sanders-dillon-gabriel-are-like-sponges-learning-to-be-pros"
+    },
+    {
+      "title": "Marko: \"I don't know what kind of thought process was going on\" with Verstappen in Spanish GP - Autosport",
+      "link": "https://www.autosport.com/f1/news/marko-i-dont-know-what-kind-of-thought-process-was-going-on-with-verstappen-in-spanish-gp/10729262/"
+    },
+    {
+      "title": "Mets Stun Dodgers In Extras As Vientos Exits With Injury - Metsmerized Online",
+      "link": "https://metsmerizedonline.com/mets-stun-dodgers-in-extras-as-vientos-exits-with-injury/"
     },
     {
       "title": "SEC stumbles lead NCAA baseball tournament winners and losers in regional round - USA Today",
@@ -110,8 +126,12 @@
       "link": "https://lsusports.net/news/2025/06/02/lsu-defeats-little-rock-10-6-to-advance-to-the-super-regional/"
     },
     {
-      "title": "5 takeaways from Seahawks organized team activities | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/5-takeaways-from-seahawks-organized-team-activities-analysis/"
+      "title": "How the Seahawks offensive line lined up to start Week 2 of OTAs - Field Gulls",
+      "link": "https://www.fieldgulls.com/2025/6/2/24442104/seattle-seahawks-offensive-line-start-week-2-otas-nfl-offseason"
+    },
+    {
+      "title": "Even Saquon Barkley needed help to re-create his hurdle for \u2018Madden 26\u2019 - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/02/saquon-barkley-reverse-hurdle-madden-cover/"
     },
     {
       "title": "Sean O\u2019Malley backed to beat Merab Dvalishvili at UFC 316 after \u2018dead giveaway\u2019 in first fight - Bloody Elbow",
@@ -122,6 +142,10 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/death-threats-to-astros-pitcher-lance-mccullers-jr-came-from-overseas-resident"
     },
     {
+      "title": "OUsted! Texas Tech knocks off 4-time defending champs at WCWS - MLB.com",
+      "link": "https://www.mlb.com/news/texas-tech-eliminates-four-time-defending-champion-oklahoma-at-wcws"
+    },
+    {
       "title": "Yankees Planning To Place Luke Weaver On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/yankees-planning-to-place-luke-weaver-on-injured-list.html"
     },
@@ -130,32 +154,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-trade-a-2026-conditional-fifth-round-pick-for-bryce-huff"
     },
     {
+      "title": "ESPN Plans to Give \u2018Inside the NBA\u2019 Same Hands-Off Treatment As Pat McAfee - Sports Illustrated",
+      "link": "https://www.si.com/media/espn-give-inside-the-nba-same-hands-off-treatment-pat-mcafee"
+    },
+    {
       "title": "Tour players, a 17-year-old and a dentist among those who qualify for U.S. Open on Golf's Longest Day - NBC Sports",
       "link": "https://www.nbcsports.com/golf/news/tour-players-a-17-year-old-and-a-dentist-among-those-who-qualify-for-u-s-open-on-golfs-longest-day"
-    },
-    {
-      "title": "Giants Activate Jerar Encarnacion - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/giants-activate-jerar-encarnacion.html"
-    },
-    {
-      "title": "Why Mets are positioned to fare better than Yankees in latest Dodgers series - New York Post",
-      "link": "https://nypost.com/2025/06/02/sports/mets-are-positioned-to-fare-better-than-yankees-in-dodgers-series/"
-    },
-    {
-      "title": "Report: Steelers expect to have a deal with T.J. Watt by the start of the season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-steelers-expect-to-have-a-deal-with-t-j-watt-by-the-start-of-the-season"
-    },
-    {
-      "title": "LIVE Updates, Score, Notes: No. 14 Tennessee Baseball vs. Wake Forest Knoxville Regional Game Seven - Rocky Top Insider",
-      "link": "https://www.rockytopinsider.com/2025/06/02/live-updates-score-notes-no-14-tennessee-baseball-vs-wake-forest-knoxville-regional-game-seven/"
-    },
-    {
-      "title": "Patriots have no plans to release Stefon Diggs after controversial yacht video, per report - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/patriots-have-no-plans-to-release-stefon-diggs-after-controversial-yacht-video-per-report/"
-    },
-    {
-      "title": "Emotional David Andrews says he didn\u2019t want to play for any team other than the Patriots - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emotional-david-andrews-says-he-didnt-want-to-play-for-any-team-other-than-the-patriots"
     }
   ],
   "weather": {
