@@ -1,9 +1,9 @@
 {
-  "quote": "The merit of all things lies in their difficulty. \u2013 Alexandre Dumas",
-  "fact": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
-  "crypto": "BTC: $105,142 | ETH: $2,629.37",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Somebody stole my Microsoft Office and they're going to pay - you have my Word.",
+  "quote": "Never feel shame for trying and failing, for he who has never failed is he who has never tried. \u2013 Og Mandino",
+  "fact": "The average person spends 12 weeks a year `looking for things`.",
+  "crypto": "BTC: $105,126 | ETH: $2,629.26",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,40 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nintendo releases more Switch 1 game updates to improve Switch 2 compatibility - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-releases-more-switch-1-game-updates-to-improve-switch-2-compatibility/"
+    },
+    {
+      "title": "Samsung teases Galaxy Z Fold 7 with an absolutely bizarre \u2018Ultra experience\u2019 [Video] - 9to5Google",
+      "link": "http://9to5google.com/2025/06/03/samsung-galaxy-z-fold-7-teaser-ultra-experience/"
+    },
+    {
+      "title": "WWDC 2025: iOS 26 Rumored Features - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/03/wwdc-2025-ios-26-rumors/"
+    },
+    {
       "title": "Meta pauses mobile port tracking tech on Android after researchers cry foul - theregister.com",
       "link": "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/"
     },
     {
-      "title": "Nintendo Switch 2 Welcome Tour: So, Is it Worth $10? - IGN",
-      "link": "https://www.ign.com/articles/nintendo-switch-2-welcome-tour-so-is-it-worth-10"
+      "title": "Major US retailers cancel Nintendo Switch 2 pre-orders - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/major-us-retailers-cancel-nintendo-switch-2-pre-orders"
     },
     {
-      "title": "Exclusive: iOS 26 to bring new features for Messages, CarPlay, and more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/03/exclusive-ios-26-messages-carplay-more/"
+      "title": "Log in to your Samsung account by the end of next month or forever hold your peace - Android Police",
+      "link": "https://www.androidpolice.com/samsung-account-deletion-july-31/"
     },
     {
-      "title": "Polish engineer creates postage stamp-sized 1980s Atari computer - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/"
-    },
-    {
-      "title": "The New 2025 Apple iPad and iPad Air Have Just Dropped in Price Ahead of Father's Day - IGN",
-      "link": "https://www.ign.com/articles/best-apple-ipad-deals-for-fathers-day-2025"
+      "title": "Mario Kart World Is Not An Open-World Game, Nintendo Says - GameSpot",
+      "link": "https://www.gamespot.com/articles/mario-kart-world-is-not-an-open-world-game-nintendo-says/1100-6532034/"
     },
     {
       "title": "Google\u2019s NotebookLM now lets you share your notebook \u2014 and AI podcasts \u2014 publicly - The Verge",
       "link": "https://www.theverge.com/news/678915/google-notebooklm-share-public-link"
     },
     {
-      "title": "Destiny 2 Edge of Fate Artifact Perks Detailed - The Game Post",
-      "link": "https://thegamepost.com/destiny-2-edge-of-fate-artifact-perks-detailed/"
+      "title": "Daigo Umehara reacts to the universal mechanic changes coming to Street Fighter 6 Season 3 - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/jun/03/daigo-reactions-mechanic-changes-sf6/"
     },
     {
-      "title": "Samsung is deleting inactive accounts, here\u2019s how to save yours - 9to5Google",
-      "link": "http://9to5google.com/2025/06/03/samsung-is-deleting-inactive-accounts-heres-how-to-save-yours/"
-    },
-    {
-      "title": "Adobe finally releases Photoshop for Android, and it\u2019s free (for now) - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/06/adobe-finally-releases-photoshop-for-android-and-its-free-for-now/"
+      "title": "Destiny 2: The Edge Of Fate Draws On Metroidvanias To Bring You Back In - GameSpot",
+      "link": "https://www.gamespot.com/articles/destiny-2-the-edge-of-fate-draws-on-metroidvanias-to-bring-you-back-in/1100-6532011/"
     },
     {
       "title": "iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability - The Verge",
@@ -60,6 +64,10 @@
       "link": "https://www.eurogamer.net/ps5-has-huge-price-advantage-over-xbox-and-switch-2"
     },
     {
+      "title": "Fallout 76: Gone Fission Release Notes - Bethesda.net",
+      "link": "https://bethesda.net/en/article/2fsxzAz2icHeeJYGR37kQs/fallout-76-gone-fission-release-notes"
+    },
+    {
       "title": "Elden Ring Nightreign devs confirm they\u2019re working on a duos mode - Polygon",
       "link": "https://www.polygon.com/elden-ring/603123/elden-ring-nightreign-duos-mode-confirmed"
     },
@@ -68,34 +76,30 @@
       "link": "https://www.cdprojekt.com/en/media/news/cd-projekt-red-and-epic-games-present-the-witcher-4-unreal-engine-5-tech-demo-at-the-state-of-unreal-2025/"
     },
     {
-      "title": "8 Hours With Nintendo\u2019s Switch 2: It\u2019s the Sequel Handheld We Wanted - Gizmodo",
-      "link": "https://gizmodo.com/8-hours-with-nintendo-switch-2-its-the-sequel-handheld-we-wanted-2000610277"
-    },
-    {
-      "title": "Mario Kart World\u2019s designers had to rethink everything to make it open world - The Verge",
-      "link": "https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki"
+      "title": "Nintendo Switch 2 Size Comparison vs. Original Switch vs. Steam Deck - Gizmodo",
+      "link": "https://gizmodo.com/the-switch-2-is-beautifully-balanced-compared-to-the-og-switch-and-steam-deck-oled-2000610042"
     },
     {
       "title": "Nvidia CEO Pays Tribute To Late Nintendo President Satoru Iwata In New Switch 2 Video - Kotaku",
       "link": "https://kotaku.com/satoru-iwata-switch-2-nvidia-nintendo-jensen-huang-1851783452"
     },
     {
-      "title": "Playstation is holding its State of Play summer showcase this week - The Verge",
-      "link": "https://www.theverge.com/news/669527/playstation-state-of-play-summer-2025-ps5"
+      "title": "State of Play Confirmed for 4th June, 40+ Minutes of PS5 Games - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/state-of-play-confirmed-for-4th-june-40plus-minutes-of-ps5-games"
     },
     {
-      "title": "The Samsung Galaxy Z Fold7 receives Qi 2.1 certification - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/the_samsung_galaxy_z_fold7_receives_qi_21_certification-news-68081.php"
-    },
-    {
-      "title": "Samsung is struggling to sell the Galaxy S25 Edge - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-galaxy-s25-edge-is-now-on-sale-in-the-united-states/"
+      "title": "How one of San Francisco's most successful new chains 'just kind of happened' - SFGATE",
+      "link": "https://www.sfgate.com/sf-culture/article/san-francisco-successful-chain-just-happened-20352034.php"
     }
   ],
   "sports_news": [
     {
-      "title": "Barber details medical emergency that nixed fight - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/45446308/maycee-barber-details-medical-emergency-forced-last-minute-cancellation-ufc-fight-night-main-event-vs-erin-blanchfield"
+      "title": "John Brenkus, host of Emmy-winning \u2018Sport Science\u2019 on ESPN, died by suicide - New York Post",
+      "link": "https://nypost.com/2025/06/04/sports/john-brenkus-emmy-winning-espn-sport-science-host-died-by-suicide/"
+    },
+    {
+      "title": "M\u2019s Kirby struck in face by 103 mph line drive - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-george-kirby-struck-in-face-by-103-mph-line-drive/1812507"
     },
     {
       "title": "Trump, DOJ threaten Calif. with legal action, fines after trans athlete\u2019s win - The Washington Post",
@@ -104,6 +108,14 @@
     {
       "title": "Plane from Indianapolis diverted to Tulsa due to weather ahead of NBA Finals Game 1 - KOKH",
       "link": "https://okcfox.com/news/local/plane-from-indianapolis-diverted-to-tulsa-due-to-weather-ahead-of-nba-finals-game-1"
+    },
+    {
+      "title": "What the Spurs will do with the second pick - Pounding The Rock",
+      "link": "https://www.poundingtherock.com/2025/6/3/24442340/what-the-san-antonio-spurs-will-do-with-the-second-pick-in-the-2025-nba-draft-dylan-harper-giannis"
+    },
+    {
+      "title": "Yankees will have to find ninth-inning serenity in Luke Weaver\u2019s absence - New York Post",
+      "link": "https://nypost.com/2025/06/03/sports/yankees-will-have-to-get-by-without-luke-weavers-biggest-quality/"
     },
     {
       "title": "2025 U.S. Nationals: Day 1 Finals Live Recap - SwimSwam",
@@ -122,28 +134,16 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-steelers-dolphins-renew-talks-about-a-trade-for-jonnu-smith"
     },
     {
-      "title": "The Pittsburgh Steelers reached out to fans upset that Donald Trump received a jersey at a rally - AP News",
-      "link": "https://apnews.com/article/donald-trump-pittsburgh-steelers-41a255fe7d219ad62f3964857b59c811"
-    },
-    {
-      "title": "Son of Former NFL Star Dies at Chicago University - Newser",
-      "link": "https://www.newser.com/story/369687/son-of-former-nfl-star-dies-at-chicago-university.html"
-    },
-    {
       "title": "Wake Forest baseball coach apologizes for homophobic slur caught on camera - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/06/03/tom-walter-wake-forest-baseball-slur/"
     },
     {
-      "title": "Stephen Jones on Micah Parsons' contract situation, Cowboys CB room - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/stephen-jones-on-micah-parsons-contract-situation-cowboys-cb-room"
-    },
-    {
-      "title": "Jim Marshall, NFL ironman and \u2018cornerstone of the Minnesota Vikings,\u2019 dies at age 87 - Star Tribune",
-      "link": "https://www.startribune.com/jim-marshall-minnesota-vikings-ironman-dies-at-87/601366567"
-    },
-    {
       "title": "Mets place Mark Vientos on 10-day IL, option Max Kranick in flurry of roster moves - SNY",
       "link": "https://sny.tv/articles/mets-mark-vientos-10-day-il-max-kranick-roster-moves"
+    },
+    {
+      "title": "Steelers players defend attending Trump rally at U.S. Steel plant: 'I'm not apologetic about that' - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/06/03/steelers-players-backlash-trump-us-steel-nippon-rally/stories/202506020051"
     },
     {
       "title": "49ers Sign WR Malik Knowles, Place WR Trent Taylor on IR, and Other Roster Moves - San Francisco 49ers",
@@ -154,16 +154,12 @@
       "link": "https://www.deseret.com/sports/2025/06/03/utah-byu-football-2025-espn-football-power-index-projections/"
     },
     {
-      "title": "More men allege sexual misconduct by ex-IU doc - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/45444572/more-men-allege-sexual-misconduct-ex-indiana-team-doctor"
+      "title": "Tucker Barnhart Elects Free Agency - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/tucker-barnhart-elects-free-agency.html"
     },
     {
       "title": "Practice Report: Takeaways From Start of Second Week of OTAs - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/ravens-otas-kickers-go-perfect-tyler-loop-john-hoyland-lamar-jackson"
-    },
-    {
-      "title": "Mike Macdonald: Asking if Sam Darnold could lose starting job is a \"crazy question\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-asking-if-sam-darnold-could-lose-starting-job-is-a-crazy-question"
     },
     {
       "title": "Dodgers To Designate Chuckie Robinson For Assignment - MLB Trade Rumors",
@@ -172,6 +168,10 @@
     {
       "title": "World Boxing apologizes for naming Olympic champion Imane Khelif in sex test policy - NBC News",
       "link": "https://www.nbcnews.com/sports/olympics/world-boxing-apologizes-imane-khelif-olympics-rcna210716"
+    },
+    {
+      "title": "2025 Belmont Stakes picks, odds: Horse racing writer has best bets for final jewel of Triple Crown - SportsLine",
+      "link": "https://www.sportsline.com/insiders/2025-belmont-stakes-picks-odds-horse-racing-writer-has-best-bets-for-final-jewel-of-triple-crown/"
     }
   ],
   "weather": {
