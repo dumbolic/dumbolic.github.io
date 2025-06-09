@@ -1,9 +1,9 @@
 {
-  "quote": "It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. \u2013 Kahlil Gibran",
-  "fact": "The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.",
-  "crypto": "BTC: $107,993 | ETH: $2,567.53",
+  "quote": "If you let your head get too big, it'll break your neck. \u2013 Elvis Presley",
+  "fact": "The name of the girl on the statue of liberty is Mother of Exiles.",
+  "crypto": "BTC: $108,172 | ETH: $2,569.17",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I always wanted to look into why I procrastinate, but I keep putting it off. ",
+  "joke": "Don\u2019t interrupt someone working intently on a puzzle. Chances are, you\u2019ll hear some crosswords.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,72 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Xbox Games Showcase 2025 live: Xbox Ally gaming handheld, Persona 4 remake and all the big reveals as they happen - Tom's Guide",
+      "link": "https://www.tomsguide.com/news/live/xbox-games-showcase-2025-live"
+    },
+    {
+      "title": "P4R: Persona 4 Revival Finally, Officially Confirmed at Xbox Games Showcase - IGN",
+      "link": "https://www.ign.com/articles/p4r-persona-4-revival-finally-officially-confirmed-at-xbox-games-showcase"
+    },
+    {
+      "title": "Beast of Reincarnation Is a Game Freak Action Game Due Out 2026 - IGN",
+      "link": "https://www.ign.com/articles/beast-of-reincarnation-is-a-game-freak-action-game-due-out-2026"
+    },
+    {
+      "title": "Hollow Knight: Silksong comes out of hiding, with a 2025 release date promise - Polygon",
+      "link": "https://www.polygon.com/news/23160254/hollow-knight-silksong-release-date-trailer"
+    },
+    {
+      "title": "Third Plague Tale Game Revealed for PS5, Out Next Year - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/third-plague-tale-game-revealed-for-ps5-out-next-year"
+    },
+    {
+      "title": "This is how Microsoft is combining Windows and Xbox for handheld PCs - The Verge",
+      "link": "https://www.theverge.com/news/682011/microsoft-windows-xbox-pc-combination-features-rog-xbox-ally-devices"
+    },
+    {
+      "title": "The Outer Worlds 2 Release Date Revealed at Xbox Games Showcase - IGN",
+      "link": "https://www.ign.com/articles/the-outer-worlds-2-release-date-revealed-at-xbox-games-showcase"
+    },
+    {
+      "title": "After Silent Hill 2, Cronos: The New Dawn Might Complete Bloober Team's Redemption Arc - GameSpot",
+      "link": "https://www.gamespot.com/articles/after-silent-hill-2-cronos-the-new-dawn-might-complete-bloober-teams-redemption-arc/1100-6532234/"
+    },
+    {
+      "title": "Splitgate 2 slashes $145 cosmetic bundle price following fan backlash - Eurogamer",
+      "link": "https://www.eurogamer.net/splitgate-2-slashes-145-cosmetic-bundle-price-following-fan-backlash"
+    },
+    {
+      "title": "Gearbox publishes statement to confirm its games do not contain \"spyware\" as players slam new EULA - Eurogamer",
+      "link": "https://www.eurogamer.net/gearbox-publishes-statement-to-confirm-its-games-do-not-contain-spyware-as-players-slam-new-eula"
+    },
+    {
+      "title": "At WWDC 25, Apple should make amends with developers after AI shortfalls and lawsuits - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/08/at-wwdc-25-apple-should-make-amends-with-developers-after-ai-shortfalls-and-lawsuits/"
+    },
+    {
+      "title": "The Verge\u2019s favorite summer gear for 2025 - The Verge",
+      "link": "https://www.theverge.com/tech/679404/summer-gear-vacation-favorite"
+    },
+    {
       "title": "The USB-C dream is dead and it\u2019s too late to revive it - Android Authority",
       "link": "https://www.androidauthority.com/usb-c-cant-be-fixed-3560127/"
+    },
+    {
+      "title": "Next Tales of Remaster Announcement Confirmed for This Summer - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/next-tales-of-remaster-announcement-confirmed-for-this-summer"
     },
     {
       "title": "Apple\u2019s iOS 26 Liquid Glass Interface Is Built for 20th Anniversary iPhone - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d"
     },
     {
-      "title": "Reminder: Look Out for PS5 Logos in Today's Xbox Showcase - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/06/reminder-look-out-for-ps5-logos-in-todays-xbox-showcase"
+      "title": "The OnePlus Pad 3 tablet is still perfect for play and still awkward for work - The Verge",
+      "link": "https://www.theverge.com/tech/681301/oneplus-pad-3-review"
+    },
+    {
+      "title": "Scientists: We Built 'World's Smallest Violin' - Newser",
+      "link": "https://www.newser.com/story/369833/worlds-smallest-violin-cant-actually-play-the-worlds-saddest-song.html"
     },
     {
       "title": "Xbox console games are suddenly showing up inside the Xbox PC app - The Verge",
@@ -32,122 +88,90 @@
       "link": "https://www.gamespot.com/gallery/the-expanse-returns-and-all-the-cool-new-games-just-revealed-at-this-summer-showcase/2900-6647/"
     },
     {
-      "title": "The Mustang\u2019s New Appearance Pack Is a 1980s Fever Dream - Motor1.com",
-      "link": "https://www.motor1.com/news/761984/2026-ford-mustang-80s-fx-package/"
-    },
-    {
-      "title": "Sonic Team head warns leaks can \u2018ruin\u2019 plans and deals - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/sonic-team-head-warns-leaks-can-ruin-plans-and-deals/"
-    },
-    {
-      "title": "Season 3 Perfect Parry change has big implications for C. Viper in Street Fighter 6 - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/jun/07/cviper-perfect-parry-street-fighter6/"
-    },
-    {
-      "title": "The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf] - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d44203562"
-    },
-    {
-      "title": "Princess Peach's Voice Actor Has Been Replaced After 18 Years - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/princess-peachs-voice-actor-has-been-replaced-after-18-years"
-    },
-    {
-      "title": "Fortnite Chapter 6 Season 3 Battle Pass: All Skins And Rewards - GameSpot",
-      "link": "https://www.gamespot.com/gallery/fortnite-chapter-6-season-3-battle-pass-all-skins-and-rewards/2900-6652/"
-    },
-    {
-      "title": "Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74 - WIRED",
-      "link": "https://www.wired.com/story/bill-atkinson-apple-engineer-dies/"
-    },
-    {
-      "title": "Best Pok\u00e9mon to Vote for in August 2025 Community Day (PvP Analysis) - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/pvp/pokemon-go-community-day-august-2025-best-pvp-pick/"
-    },
-    {
-      "title": "Delete Every App On Your Smartphone That\u2019s On This List - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/06/07/delete-every-app-on-your-smartphone-thats-on-this-list/"
-    },
-    {
-      "title": "Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/rogue-trader-devs-owlcat-are-making-an-expanse-rpg-with-mass-effect-style-combat"
-    },
-    {
-      "title": "Mario Kart World tech analysis, including frame rate and resolution - Nintendo Everything",
-      "link": "https://nintendoeverything.com/mario-kart-world-tech-analysis-including-frame-rate-and-resolution/"
+      "title": "The 6 ChatGPT settings you need to change to get the most out of the AI chatbot - Mashable",
+      "link": "https://mashable.com/article/chatgpt-settings-to-change"
     }
   ],
   "sports_news": [
     {
-      "title": "French Open men's final results: Carlos Alcaraz, Jannik Sinner live updates, highlights from men's singles final - Yahoo Sports",
-      "link": "https://sports.yahoo.com/tennis/breaking-news/live/french-open-mens-final-results-carlos-alcaraz-jannik-sinner-live-updates-highlights-from-mens-singles-final-120023541.html"
+      "title": "Julio Rodriguez Helped Off Field Following Apparent Injury - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/julio-rodriguez-helped-off-field-following-apparent-injury.html"
     },
     {
-      "title": "Crit\u00e9rium du Dauphin\u00e9: Tadej Poga\u010dar wins stage 1 as Jonas Vingegaard rips up the script - Cyclingnews",
-      "link": "https://www.cyclingnews.com/races/criterium-du-dauphine-2025/stage-1/results/"
+      "title": "Ram set to return to NASCAR with Craftsman Truck Series entry in 2026 - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/06/08/ram-set-to-return-to-nascar-with-craftsman-truck-series-entry-in-2026/"
     },
     {
-      "title": "Dana White names two UFC legends who shouldn't have retired, as Jon Jones teases the end of his career - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/08/dana-white-names-two-ufc-legends-who-shouldnt-have-retired-as-jon-jones-teases-the-end-of-his-career/"
+      "title": "Patchy Mix reflects on \u2018tough night in the office\u2019 following heavily criticized UFC 316 debut - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/08/patchy-mix-reflects-on-tough-night-in-the-office-following-heavily-criticized-ufc-316-debut/"
+    },
+    {
+      "title": "Eagles News: Should Philadelphia trade for Trey Hendrickson? - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/2025/6/8/24445412/eagles-news-nfl-trade-rumors-philadelphia-trade-trey-hendrickson-bengals-contract-edge-rusher"
+    },
+    {
+      "title": "Toyota Leads Ferrari as Le Mans Test Day Concludes - Sportscar365",
+      "link": "https://sportscar365.com/lemans/wec/toyota-leads-ferrari-as-le-mans-test-day-concludes/"
     },
     {
       "title": "Athletes express concern over NCAA settlement\u2019s impact on non-revenue sports - AP News",
       "link": "https://apnews.com/article/ncaa-settlement-7aab7a3f3ee0a045b1cf1ce69e029b45"
     },
     {
-      "title": "Kubica Quickest in Opening Le Mans Test Session - Sportscar365",
-      "link": "https://sportscar365.com/lemans/wec/kubica-quickest-in-opening-le-mans-test-session/"
+      "title": "Jannik Sinner vs. Carlos Alcaraz: How to watch the 2025 men's French Open final today - Yahoo Sports",
+      "link": "https://sports.yahoo.com/tennis/article/jannik-sinner-vs-carlos-alcaraz-how-to-watch-the-2025-mens-french-open-final-today-213326048.html"
     },
     {
-      "title": "Patchy Mix\u2019s \u2018journeyman\u2019 comment comes back to haunt him as he\u2019s mocked after dreadful UFC 316 debut - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/08/patchy-mixs-journeyman-comment-comes-back-to-haunt-him-as-hes-mocked-after-dreadful-ufc-316-debut/"
+      "title": "Four Observations from Germany\u2019s 2-0 UEFA Nations League loss to France - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/6/8/24445365/german-national-team-match-analysis-observations-julian-nagelsmann-florian-wirtz-nick-woltemade"
+    },
+    {
+      "title": "'Now maybe I'm scared' \u2013 Tadej Poga\u010dar impressed by GC rivals despite success on explosive Crit\u00e9rium du Dauphin\u00e9 opener - Cyclingnews",
+      "link": "https://www.cyclingnews.com/news/now-maybe-im-scared-tadej-pogacar-impressed-by-gc-rivals-despite-success-on-explosive-criterium-du-dauphine-opener/"
+    },
+    {
+      "title": "NBA Finals Best Bets, Picks, Predictions for Sunday, June 8 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nba-finals-best-bets-picks-predictions-for-sunday-june-8-qs"
+    },
+    {
+      "title": "Top Red Sox prospect Roman Anthony crushes 497-foot grand slam as calls for his promotion grow - New York Post",
+      "link": "https://nypost.com/2025/06/08/sports/roman-anthony-crushes-497-foot-grand-slam-as-red-sox-promotion-calls-grow/"
+    },
+    {
+      "title": "Twins Place Zebby Matthews On 15-Day IL, Reinstate Danny Coulombe - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/twins-place-zebby-matthews-on-15-day-il-reinstate-danny-coulombe.html"
+    },
+    {
+      "title": "Aaron Rodgers fuels marriage rumors with sneaky ring appearance in Steelers contract photo - New York Post",
+      "link": "https://nypost.com/2025/06/08/sports/aaron-rodgers-steelers-contract-photo-fuels-marriage-rumors/"
+    },
+    {
+      "title": "Devin Booker Expected To Get $150M Extension Offer From Suns - RealGM",
+      "link": "https://basketball.realgm.com/wiretap/280694/Devin-Booker-Expected-To-Get-$150M-Extension-Offer-From-Suns"
+    },
+    {
+      "title": "Perfection unlocked: Marc Marquez delivers MotorLand masterclass - motogp.com",
+      "link": "https://www.motogp.com/en/news/2025/06/08/perfection-unlocked-marc-marquez-delivers-motorland-masterclass/751499"
+    },
+    {
+      "title": "U.S. Open power rankings: Every player at Oakmont ranked Nos. 1-156 - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/u-s-open-power-rankings-every-player-at-oakmont-ranked-nos-1-156"
+    },
+    {
+      "title": "Canadian teenager Summer McIntosh smashes 400m freestyle world record - CNN",
+      "link": "https://www.cnn.com/2025/06/08/sport/summer-mcintosh-400m-freestyle-world-record-spt"
+    },
+    {
+      "title": "Coco Gauff used words and a mirror to persuade herself she could win the French Open - AP News",
+      "link": "https://apnews.com/article/french-open-women-gauff-sabalenka-1c3171407a915f51948f276c7cf14014"
+    },
+    {
+      "title": "Dana White names two UFC legends who shouldn't have retired, as Jon Jones teases the end of his career - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/08/dana-white-names-two-ufc-legends-who-shouldnt-have-retired-as-jon-jones-teases-the-end-of-his-career/"
     },
     {
       "title": "2025 NCAA baseball bracket: Men's College World Series scores, schedule - NCAA.com",
       "link": "https://www.ncaa.com/news/baseball/article/2025-06-07/2025-ncaa-baseball-bracket-mens-college-world-series-scores-schedule"
-    },
-    {
-      "title": "UFC 316: Merab Dvalishvili stops Sean O\u2019Malley to retain title - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2025/6/8/ufc-316-merab-dvalishvili-stops-sean-omalley-to-retain-title"
-    },
-    {
-      "title": "Keyshawn Davis Jumps Opponent Backstage After Brother\u2019s Loss \u2014 Gets Dragged Out by Cops - Boxing News 24",
-      "link": "https://www.boxingnews24.com/2025/06/keyshawn-davis-jumps-opponent-backstage-after-brothers-loss-gets-dragged-out-by-cops/"
-    },
-    {
-      "title": "UFC 316 results: Kayla Harrison finishes Julianna Pe\u00f1a, squares off with Amanda Nunes - MMA Junkie",
-      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2025/06/08/ufc-316-results-kayla-harrison-vs-julianna-pena-amanda-nunes/84098675007/"
-    },
-    {
-      "title": "Weathers appears OK after being hit on head by errant throw in 1st - MLB.com",
-      "link": "https://www.mlb.com/news/ryan-weathers-hit-in-head-by-throw-to-second-base"
-    },
-    {
-      "title": "Trump attends UFC championship fight in New Jersey, taking a break from Musk feud for cage fights - ABC News",
-      "link": "https://abcnews.go.com/Politics/wireStory/trump-attends-ufc-championship-fight-new-jersey-taking-122621278"
-    },
-    {
-      "title": "10 things learned from 2025 NHL Scouting Combine - NHL.com",
-      "link": "https://www.nhl.com/news/10-things-learned-at-2025-nhl-scouting-combine"
-    },
-    {
-      "title": "With record crowd watching, Sky get blown out by Fever in first WNBA game at United Center - AP News",
-      "link": "https://apnews.com/article/fever-sky-caitlin-clark-angel-reese-bf767be2b5478c165f92f31f5a8137e6"
-    },
-    {
-      "title": "Sovereignty Wins 2025 Belmont Stakes, Beats Journalism in Final Triple Crown Leg - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25203242-sovereignty-wins-2025-belmont-stakes-beats-journalism-final-triple-crown-leg"
-    },
-    {
-      "title": "Red Sox prospect Roman Anthony hits 497-foot homer, longest in baseball in 2025 - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/06/red-sox-prospect-roman-anthony-hits-497-foot-homer-longest-in-baseball-in-2025.html"
-    },
-    {
-      "title": "A closer look at the striking metamorphosis of Tyrese Haliburton - NBA",
-      "link": "https://www.nba.com/news/haliburton-metamorphosis"
-    },
-    {
-      "title": "Steelers quickly settle any Aaron Rodgers jersey number mystery after signing - New York Post",
-      "link": "https://nypost.com/2025/06/07/sports/steelers-settle-aaron-rodgers-jersey-number-after-signing/"
     }
   ],
   "weather": {
