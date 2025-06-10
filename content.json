@@ -1,9 +1,9 @@
 {
-  "quote": "It's not about what it is, it's about what it can become. \u2013 Dr. Seuss",
-  "fact": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
-  "crypto": "BTC: $109,883 | ETH: $2,809.35",
+  "quote": "Only when I fall do I get up again. \u2013 Vincent van Gogh",
+  "fact": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
+  "crypto": "BTC: $109,685 | ETH: $2,794.47",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Did you hear about the submarine industry? It really took a dive...",
+  "joke": "Want to hear my pizza joke? Never mind, it's too cheesy.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Here\u2019s what\u2019s coming to macOS Tahoe - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/09/heres-whats-coming-to-macos-tahoe/"
+      "title": "Apple\u2019s big updates for Intel-based Macs will end with Tahoe - The Verge",
+      "link": "https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu"
     },
     {
-      "title": "WWDC 2025: all the news from Apple\u2019s annual developer conference - The Verge",
-      "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26"
+      "title": "Apple brings back tabs to the Photos app in iOS 26 - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/09/apple-brings-back-tabs-to-the-photos-app-in-ios-26/"
     },
     {
       "title": "Second New Glenn launch slips toward fall as program leadership departs - Ars Technica",
@@ -28,74 +28,78 @@
       "link": "https://9to5mac.com/2025/06/09/tvos-26-beta-1-now-available-for-apple-tv-4k/"
     },
     {
-      "title": "Apple unveils more Intelligence features, smarter Siri still nowhere to be seen - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/apple_announces_more_intelligence_features_smarter_siri_still_nowhere_to_be_seen-news-68178.php"
-    },
-    {
       "title": "Apple stock dropped as WWDC got going. Here's why. - Business Insider",
       "link": "https://www.businessinsider.com/apple-wwdc-aapl-stock-suddenly-dropped-keynote-ai-siri-2025-6"
+    },
+    {
+      "title": "Apple AirPods get new features, including studio-quality audio and a camera remote, at WWDC 2025 - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/09/apple-airpods-get-new-features-including-studio-quality-audio-and-a-camera-remote/"
     },
     {
       "title": "Apple Unveils AI-Powered 'Workout Buddy' for Apple Watch at WWDC - MacRumors",
       "link": "https://www.macrumors.com/2025/06/09/ai-powered-workout-buddy-coming-to-apple-watch/"
     },
     {
-      "title": "Apple\u2019s AirPods update adds camera controls and more - The Verge",
-      "link": "https://www.theverge.com/news/682852/apple-airpods-update-wwdc-2025"
-    },
-    {
       "title": "Full-screen Xbox handheld UI is coming to all Windows PCs \u201cstarting next year\u201d - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/06/full-screen-xbox-handheld-ui-is-coming-to-all-windows-pcs-starting-next-year/"
-    },
-    {
-      "title": "Galaxy Watch 8 Classic goes up for sale with hands-on photos showing new design, more [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2025/06/09/samsung-galaxy-watch-8-classic-ebay-leak/"
-    },
-    {
-      "title": "A weekend with the Nintendo Switch 2 - The Verge",
-      "link": "https://www.theverge.com/nintendo/682661/nintendo-switch-2-early-hands-on-mario-kart-world"
     }
   ],
   "sports_news": [
+    {
+      "title": "T.J. Oshie, the Caps\u2019 beloved \u2018warrior,\u2019 announces his NHL retirement - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/09/tj-oshie-retires-nhl-capitals-sochi/"
+    },
+    {
+      "title": "Nick Chubb passes physical, signs one-year, $2.5 million contract with Texans - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-passes-physical-signs-one-year-2-5-million-contract-with-texans"
+    },
+    {
+      "title": "Knicks\u2019 coaching change could bring them everything they\u2019re chasing - New York Post",
+      "link": "https://nypost.com/2025/06/09/sports/knicks-coaching-change-could-bring-them-everything-theyre-chasing/"
+    },
+    {
+      "title": "Oilers at Panthers, Stanley Cup Final Game 3 preview - NHL.com",
+      "link": "https://www.nhl.com/news/edmonton-oilers-florida-panthers-stanley-cup-final-game-3-preview-june-9"
+    },
+    {
+      "title": "Vince Marrow reportedly set to become general manager for Louisville football - On3.com",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/vince-marrow-reportedly-set-to-become-general-manager-for-louisville-football/"
+    },
     {
       "title": "Knicks, Jason Kidd have mutual interest in potential coaching blockbuster - New York Post",
       "link": "https://nypost.com/2025/06/09/sports/knicks-jason-kidd-have-mutual-interest-in-potential-blockbuster/"
     },
     {
-      "title": "Louisville poaches Kentucky associate head coach Vince Marrow for major staff role - On3.com",
-      "link": "https://www.on3.com/news/report-kentucky-associate-head-coach-vince-marrow-finalizing-three-year-deal-as-louisville-gm/"
-    },
-    {
-      "title": "Aaron Rodgers is officially a Steeler - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-is-officially-a-steeler"
+      "title": "Patriots QB Drake Maye Discusses Offense's Progress After Day One of Minicamp - New England Patriots",
+      "link": "https://www.patriots.com/news/patriots-qb-drake-maye-discusses-offense-s-progress-after-day-one-of-minicamp"
     },
     {
       "title": "Fantasy baseball: What to expect from Red Sox prospect Roman Anthony - ESPN",
       "link": "https://www.espn.com/fantasy/baseball/story/_/id/45441739/fantasy-baseball-boston-red-sox-roman-anthony-expect-stats-projections"
     },
     {
-      "title": "Simone Biles \u2018incinerated her legacy\u2019 with trans athlete posts: Riley Gaines - New York Post",
-      "link": "https://nypost.com/2025/06/09/sports/simone-biles-incinerated-her-legacy-with-trans-athlete-posts-riley-gaines/"
+      "title": "There\u2019s only one Jordon Hudson confidant willing to talk about her \u2014 here\u2019s what he said - New York Post",
+      "link": "https://nypost.com/2025/06/09/sports/one-jordon-hudson-confidant-willing-to-talk-heres-what-he-said/"
     },
     {
       "title": "Packers release CB Jaire Alexander - Green Bay Packers",
       "link": "https://www.packers.com/news/packers-release-cb-jaire-alexander-june-9-2025"
     },
     {
-      "title": "Dana White gives 23-year-old prospect a shot at no. 1 contender after UFC 316 win - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/09/dana-white-gives-23-year-old-prospect-a-shot-at-no-1-contender-after-ufc-316-win/"
-    },
-    {
       "title": "Sources: Jags make Cooke highest-paid punter - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45480832/sources-jaguars-make-logan-cooke-nfl-highest-paid-punter"
     },
     {
-      "title": "Power Rankings: 125th U.S. Open - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/power-rankings/2025/06/09/fantasy-golf-advice-tips-picks-US-Open-Oakmont-Country-Club"
+      "title": "Patriots Minicamp Notebook: Moving into the red zone - 98.5 The Sports Hub",
+      "link": "https://985thesportshub.com/2025/06/09/patriots-minicamp-notebook-moving-into-the-red-zone/"
     },
     {
-      "title": "Spurs Reportedly Have Explored Trading No. 14 NBA Draft Pick amid Giannis, KD Rumors - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25204055-spurs-reportedly-have-explored-trading-no-14-nba-draft-pick-amid-giannis-kd-rumors"
+      "title": "Manel Kape out, Joshua Van expected to face Brandon Royval at UFC 317 - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/6/9/24446192/manel-kape-out-joshua-van-expected-to-face-brandon-royval-at-ufc-317"
+    },
+    {
+      "title": "Cover 3: What we're learning about the Giants at OTAs - New York Giants",
+      "link": "https://www.giants.com/news/ota-recap-russell-wilson-jaxson-dart-abdul-carter-jameis-winston-jalin-hyatt"
     },
     {
       "title": "AJ Smith-Shawver Undergoes Tommy John Surgery - MLB Trade Rumors",
@@ -106,36 +110,16 @@
       "link": "https://www.inforum.com/sports/bison-media-zone/mens-sports/ncaa-vs-house-settled-what-does-it-mean-for-bison-athletics"
     },
     {
+      "title": "Simone Biles calls Riley Gaines 'truly sick' for opposing men in women's sports - Christian Post",
+      "link": "https://www.christianpost.com/news/simone-biles-criticizes-riley-gaines-for-womens-sports-advocacy.html"
+    },
+    {
       "title": "Germaine Pratt Reportedly Released by Bengals, Saves $5.6M in Salary Cap Space - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25203921-germaine-pratt-reportedly-released-bengals-saves-56m-salary-cap-space"
     },
     {
-      "title": "Cavs\u2019 Darius Garland undergoes offseason surgery - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/06/darius-garland-undergoes-offseason-surgery.html"
-    },
-    {
-      "title": "Henry Cejudo names contender that will beat Merab Dvalishvili - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/6/9/24445967/henry-cejudo-names-contender-that-will-beat-merab-dvalishvili"
-    },
-    {
-      "title": "Tennis star Coco Gauff credits election of Trump for French Open win: \u2018I\u2019m proud to be American\u2019 - NJ.com",
-      "link": "https://www.nj.com/sports/2025/06/tennis-star-coco-gauff-credits-the-election-of-trump-for-french-open-win-im-proud-to-be-american.html"
-    },
-    {
-      "title": "How Michigan Football\u2019s NCAA COI hearing (probably) went - Maize n Brew",
-      "link": "https://www.maizenbrew.com/24445519/michigan-football-ncaa-hearing-sherrone-moore-connor-stalions-sign-stealing-cheating-2025"
-    },
-    {
-      "title": "2025 NCAA Baseball Tournament Bracket: Which Teams Are Headed To The College World Series? - Baseball America",
-      "link": "https://www.baseballamerica.com/stories/2025-ncaa-baseball-tournament-bracket-which-teams-are-headed-to-the-college-world-series/"
-    },
-    {
-      "title": "Merab Dvalishvili's next challenger has simple answer after Joe Rogan questioned how he beats the champ - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/09/merab-dvalishvilis-next-challenger-has-simple-answer-after-joe-rogan-questioned-how-he-beats-the-champ/"
-    },
-    {
-      "title": "\u2018Omaha is in the Beaver blood\u2019: Oregon State baseball bashes Florida State, punches ticket to College World S - OregonLive.com",
-      "link": "https://www.oregonlive.com/beavers/2025/06/omaha-is-in-the-beaver-blood-oregon-state-baseball-bashes-florida-state-punches-ticket-to-college-world-series.html"
+      "title": "2025 U.S. Open odds, predictions: Top picks, bets, longshots to back at this week's PGA Tour tournament - SportsLine",
+      "link": "https://www.sportsline.com/insiders/2025-u-s-open-odds-predictions-top-picks-bets-longshots-to-back-at-this-weeks-pga-tour-tournament/"
     }
   ],
   "weather": {
