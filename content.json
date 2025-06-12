@@ -1,9 +1,9 @@
 {
-  "quote": "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances. \u2013 Thomas Jefferson",
-  "fact": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
-  "crypto": "BTC: $107,603 | ETH: $2,765.96",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why don't you find hippopotamuses hiding in trees?\r\nThey're really good at it.",
+  "quote": "Sometimes adversity is what you need to face in order to become successful. \u2013 Zig Ziglar",
+  "fact": "Elephants are the only animals that can`t jump.",
+  "crypto": "BTC: $107,611 | ETH: $2,764.47",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What\u2019s the longest word in the dictionary? Smiles. Because there\u2019s a mile between the two S\u2019s.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,78 +12,98 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Huawei\u2019s latest phone fits two telephoto lenses into one camera - The Verge",
+      "link": "https://www.theverge.com/news/685191/huawei-pura-80-ultra-switchable-dual-telephoto-periscope-lens"
+    },
+    {
+      "title": "Apple Updates Design Resources for iOS 26 Liquid Glass Interface - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/11/apple-updates-design-resources-ios-26/"
+    },
+    {
       "title": "HP reveals $24,999 hardware created just for Google Beam - The Verge",
       "link": "https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication"
     },
     {
-      "title": "Nintendo\u2019s Switch 2 is the fastest-selling game console of all time - The Verge",
-      "link": "https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record"
+      "title": "Nintendo provides solution to incorrect Switch 2 battery display - Eurogamer",
+      "link": "https://www.eurogamer.net/nintendo-provides-solution-to-incorrect-switch-2-battery-display"
     },
     {
       "title": "She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world - Ars Technica",
       "link": "https://arstechnica.com/space/2025/06/she-was-a-disney-star-with-platinum-records-but-bridgit-mendler-gave-it-up-to-change-the-world/"
     },
     {
+      "title": "The Top New Features in MacOS Tahoe\u2014Including One Feature Mac Nerds Will Love - WIRED",
+      "link": "https://www.wired.com/story/macos-26-tahoe-top-features/"
+    },
+    {
+      "title": "Inside the AI Party at the End of the World - WIRED",
+      "link": "https://www.wired.com/story/ai-risk-party-san-francisco/"
+    },
+    {
       "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - Yahoo",
       "link": "https://www.yahoo.com/news/nyc-woman-found-phone-buried-105000183.html"
     },
     {
-      "title": "Apple updates design resources for iOS 26, iPadOS 26, and macOS Tahoe 26 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/10/apple-updates-design-resources-for-ios-26-ipados-26-and-macos-tahoe-26/"
+      "title": "He\u2019s Blind. He Plays Video Games. Here\u2019s How That Works - WIRED",
+      "link": "https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/"
     },
     {
-      "title": "Apple Says Personalized Siri Features Shown at WWDC Last Year Were 'Real' and 'Working' - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/10/apple-says-personalized-siri-was-working/"
+      "title": "U.S. online stores put 'out of stock' signs as Nintendo Switch 2 sales hit record highs - CNBC",
+      "link": "https://www.cnbc.com/2025/06/11/nintendo-switch-console-record-sales.html"
+    },
+    {
+      "title": "Craig Federighi confirms Apple\u2019s first attempt at an AI Siri wasn\u2019t good enough - The Verge",
+      "link": "https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025"
+    },
+    {
+      "title": "Your Samsung Galaxy can nab you a free year of Perplexity Pro right now - Android Police",
+      "link": "https://www.androidpolice.com/free-perplexity-pro-with-samsung-galaxy/"
+    },
+    {
+      "title": "iPadOS 26 Multitasking Update Gets Rid of Split View and Slide Over - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/10/ipados-26-no-split-view-slide-over/"
     },
     {
       "title": "Google Pixel Watch June 2025 update rolling out - 9to5Google",
       "link": "http://9to5google.com/2025/06/10/pixel-watch-june-2025-update/"
     },
     {
-      "title": "Download the new iPadOS 26 light and dark wallpapers - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/10/ipados-26-light-and-dark-wallpapers/"
+      "title": "watchOS 26 update removes five faces from Apple Watch - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/10/watchos-26-removes-toy-story-more-faces/"
     },
     {
-      "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Mac Support Dies - TipRanks",
-      "link": "https://www.tipranks.com/news/intel-stock-nasdaqintc-blasts-up-as-mac-support-dies"
+      "title": "New Secure Boot flaw lets attackers install bootkit malware, patch now - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/"
     },
     {
-      "title": "Here are the major Google Pixel updates in June's feature drop you shouldn't ignore - Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/google-june-feature-drop-pixel-widget-feature-expands-rollout"
+      "title": "Apple leaks \u2018AirPods Pro 3\u2019 in the new iOS 26 beta - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/10/apple-leaks-airpods-pro-3-in-the-new-ios-26-beta/"
+    },
+    {
+      "title": "Apple TV 4K gets the screen saver feature I\u2019ve always wanted in tvOS 26 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/10/apple-tv-4k-gets-the-screen-saver-feature-ive-always-wanted-in-tvos-26/"
+    },
+    {
+      "title": "Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/"
     },
     {
       "title": "Snap plans to sell lightweight, consumer AR glasses in 2026 - TechCrunch",
       "link": "https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/"
-    },
-    {
-      "title": "Mario Kart World is the perfect Switch 2 launch game - The Verge",
-      "link": "https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2"
-    },
-    {
-      "title": "Qualcomm Demonstrates New Processor for AI-Based Smart Glasses (QCOM) - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2025-06-10/qualcomm-demonstrates-new-processor-for-ai-based-smart-glasses"
-    },
-    {
-      "title": "You can try Windows 11's newest Start menu now - here's how - ZDNET",
-      "link": "https://www.zdnet.com/article/you-can-try-windows-11s-newest-start-menu-now-heres-how/"
-    },
-    {
-      "title": "Tune In to NAIC Get Wolfe Glick\u2019s Incineroar and Other Special Gifts - Pokemon.com",
-      "link": "https://www.pokemon.com/us/pokemon-news/tune-in-to-naic-get-wolfe-glicks-incineroar-and-other-special-gifts"
-    },
-    {
-      "title": "Latest Galaxy S25 update sets the phone up for One UI 8 - 9to5Google",
-      "link": "http://9to5google.com/2025/06/10/latest-galaxy-s25-update-sets-the-phone-up-for-one-ui-8/"
-    },
-    {
-      "title": "Our Favorite Solar Wireless Outdoor Camera Drops on Amazon, Now Cheaper Than Black Friday and Prime Day - Gizmodo",
-      "link": "https://gizmodo.com/this-great-solar-wireless-security-camera-drops-on-amazon-now-cheaper-than-black-friday-and-prime-day-2000613691"
     }
   ],
   "sports_news": [
     {
-      "title": "Florian Wirtz: Liverpool finalising deal for Bayer Leverkusen playmaker - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tTmZxMXFUc2dqZHVPRy0xTGFMbnpBdWFqbnBRUjJJc2xQaDBpU0VuOXU4NndlbjhlLWppSzFoNHF3WTI0S1NNOTJjenJpNGlPTHJEQW4zeExVNGpvLTJmNWFIUXRXU00?oc=5"
+      "title": "Knicks\u2019 first crack at luring Jason Kidd shut down by Mavericks - New York Post",
+      "link": "https://nypost.com/2025/06/11/sports/knicks-first-crack-at-luring-jason-kidd-shut-down-by-mavericks/"
+    },
+    {
+      "title": "Bill Belichick: \u201cWe\u2019ve always dealt\u201d with outside \u201cnoise\u201d - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-weve-always-dealt-with-outside-noise"
+    },
+    {
+      "title": "WTA tennis players to get ranking protection after freezing eggs - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/cz9yz0l4v08o"
     },
     {
       "title": "Joe Burrow: We support Trey Hendrickson, but don\u2019t know what will happen - NBC Sports",
@@ -94,16 +114,20 @@
       "link": "https://www.phillyvoice.com/eagles-minicamp-practice-notes-drama-free-philly/"
     },
     {
+      "title": "Sean McVay: Matthew Stafford-Davante Adams relationship is \"cool to watch\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-matthew-stafford-davante-adams-relationship-is-cool-to-watch"
+    },
+    {
       "title": "Everything you need to know about new Le Mans qualifying format - The Race",
       "link": "https://www.the-race.com/endurance/everything-you-need-to-know-about-new-le-mans-qualifying-format/"
     },
     {
-      "title": "How worried should England fans be after defeat by Senegal? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTVN2dmE1SE1WNV9PamZrc1ZrRFBSRzRLUFZFYTQ1TWJfNGoxTDh3NmFCS1l5YVBpaXViVHRPQnI4NGdaYUFjSmhKbjVSQkJROHh1dEV4N2RLeUs5cm05SUJCX3dZRGc?oc=5"
+      "title": "Wetzel: It's new rules, same old game in NCAA athlete pay - ESPN",
+      "link": "https://www.espn.com/college-sports/story/_/id/45487335/new-rules-same-old-game-ncaa-athlete-pay"
     },
     {
-      "title": "Rams have lingering interest in Jalen Ramsey, but apparently not in Jaire Alexander - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-have-lingering-interest-in-jalen-ramsey-but-apparently-not-in-jaire-alexander"
+      "title": "Which teams have qualified for the 2026 FIFA World Cup and who are out? - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/6/11/which-teams-have-qualified-for-the-2026-fifa-world-cup-and-who-are-out"
     },
     {
       "title": "Packers have wide receiver Bo Melton playing cornerback in minicamp - NBC Sports",
@@ -122,8 +146,8 @@
       "link": "https://nesn.com/2025/06/roman-anthony-shines-in-red-sox-win-with-family-in-attendance/"
     },
     {
-      "title": "Knicks Reportedly Denied Ime Udoka, Chris Finch HC Interviews amid Jason Kidd Rumors - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25204668-knicks-reportedly-denied-ime-udoka-chris-finch-hc-interviews-amid-jason-kidd-rumors"
+      "title": "Yankees 10-2 Royals (Jun 10, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/mlb/recap?gameId\\\\u003d401695906"
     },
     {
       "title": "Jim Harbaugh underwent cardiac ablation, hip replacement surgery this offseason - NBC Sports",
@@ -134,32 +158,16 @@
       "link": "https://sports.yahoo.com/soccer/article/with-2026-world-cup-a-year-away-the-usmnt-is-directionless-015518483.html"
     },
     {
+      "title": "Nicolas Jackson helps Senegal to 3-1 victory over England - We Ain't Got No History",
+      "link": "https://weaintgotnohistory.sbnation.com/2025/6/11/24447116/nicolas-jackson-helps-senegal-to-3-1-victory-over-england"
+    },
+    {
       "title": "Myles Garrett lobbied to keep Nick Chubb and \u2018it\u2019s an emotional blow\u2019 that he\u2019s gone: Browns takeaways - Cleveland.com",
       "link": "https://www.cleveland.com/browns/2025/06/myles-garrett-lobbied-to-keep-nick-chubb-and-its-an-emotional-blow-that-hes-gone-browns-takeaways.html"
     },
     {
       "title": "Carlie Irsay-Gordon explains her habit of wearing a headset during games - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carlie-irsay-gordon-explains-her-habit-of-wearing-a-headset-during-games"
-    },
-    {
-      "title": "Roberts: Chance Of Ohtani Pitching Before All-Star Break Is \"North Of Zero\" - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/roberts-chance-of-ohtani-pitching-before-all-star-break-is-north-of-zero.html"
-    },
-    {
-      "title": "Why Browns QB Shedeur Sanders slept with his flashlight on, and where he\u2019s grown the most since the draft - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/06/why-browns-qb-shedeur-sanders-slept-with-his-flashlight-on-and-where-hes-grown-the-most-since-the-draft.html"
-    },
-    {
-      "title": "Aaron Judge's 469-Foot Home Run in Kansas City Left Baseball World in Disbelief - Sports Illustrated",
-      "link": "https://www.si.com/mlb/aaron-judge-469-foot-home-run-kansas-city-baseball-world-in-disbelief"
-    },
-    {
-      "title": "Andy Roddick can't believe what's happened to tennis after Roland Garros finishes, 'I certainly didn't expect it' - The Tennis Gazette",
-      "link": "https://www.thetennisgazette.com/news/andy-roddick-cant-believe-whats-happened-to-tennis-after-roland-garros-finishes-i-certainly-didnt-expect-it/"
-    },
-    {
-      "title": "Davante Adams feels rejuvenated: Joining Rams was \"exactly what I needed\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-feels-rejuvenated-joining-rams-was-exactly-what-i-needed"
     }
   ],
   "weather": {
