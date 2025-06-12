@@ -1,9 +1,9 @@
 {
-  "quote": "The privilege of a lifetime is to become who you truly are. \u2013 Carl Jung",
-  "fact": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of \"ough\" in the English Language.",
-  "crypto": "BTC: $108,651 | ETH: $2,774.06",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the barber win the race? He took a short cut.",
+  "quote": "Don't just sit there. Do something. The answers will follow. \u2013 Mark Manson",
+  "fact": "The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.",
+  "crypto": "BTC: $108,386 | ETH: $2,760.19",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\"",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,90 +12,110 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Craig Federighi confirms Apple\u2019s first attempt at an AI Siri wasn\u2019t good enough - The Verge",
+      "link": "https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025"
+    },
+    {
       "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Mac Support Dies - TipRanks",
       "link": "https://www.tipranks.com/news/intel-stock-nasdaqintc-blasts-up-as-mac-support-dies"
+    },
+    {
+      "title": "Apple TV 4K gets the screen saver feature I\u2019ve always wanted in tvOS 26 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/10/apple-tv-4k-gets-the-screen-saver-feature-ive-always-wanted-in-tvos-26/"
     },
     {
       "title": "Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos - TechCrunch",
       "link": "https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/"
     },
     {
-      "title": "'AirPods Pro 3' Referenced in iOS 26 Code - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/10/ios-26-code-airpods-pro-3/"
-    },
-    {
-      "title": "Here\u2019s how Craig Federighi explained the Siri delay. - The Verge",
-      "link": "https://www.theverge.com/apple-event/684680/heres-how-craig-federighi-explained-the-siri-delay"
-    },
-    {
       "title": "Mario Kart World is the perfect Switch 2 launch game - The Verge",
       "link": "https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2"
     },
     {
-      "title": "At WWDC 2025, Apple sang developers\u2019 praises amid AI letdowns and App Store battles - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/10/at-wwdc-2025-apple-sang-developers-praises-amid-ai-letdowns-and-app-store-battles/"
+      "title": "Steam Next Fest June 2025: 25 Of The Best Demos You Can Download Right Now - GameSpot",
+      "link": "https://www.gamespot.com/gallery/steam-next-fest-june-2025-best-demos/2900-6662/"
     },
     {
-      "title": "Xbox\u2019s new handheld is a surprisingly comfortable way to play Gears of War - The Verge",
-      "link": "https://www.theverge.com/games/684247/xbox-ally-x-hands-on-gears-of-war-reloaded"
+      "title": "WWDC 2025: Everything that Apple \u2018Sherlocked\u2019 this time - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/"
     },
     {
-      "title": "Latest Galaxy S25 update sets the phone up for One UI 8 - 9to5Google",
-      "link": "http://9to5google.com/2025/06/10/latest-galaxy-s25-update-sets-the-phone-up-for-one-ui-8/"
+      "title": "Nintendo has published two guides to help fix incorrect battery displays on Switch 2 - GoNintendo",
+      "link": "https://www.gonintendo.com/contents/49562-nintendo-has-published-two-guides-to-help-fix-incorrect-battery-displays-on-switch-2"
     },
     {
-      "title": "People Are Becoming Obsessed with ChatGPT and Spiraling Into Severe Delusions - futurism.com",
-      "link": "https://futurism.com/chatgpt-mental-health-crises"
+      "title": "The iPad Is a Full-On Computer Now - WIRED",
+      "link": "https://www.wired.com/story/the-ipad-is-a-full-on-computer-now/"
     },
     {
-      "title": "Nintendo Switch 2 restocks live \u2014 latest updates and retailers to check today - Tom's Guide",
-      "link": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-and-updates"
-    },
-    {
-      "title": "Splatoon Raiders announced for Switch 2, plus a chonky Splatoon 3 update incoming - Eurogamer",
-      "link": "https://www.eurogamer.net/splatoon-raiders-announced-for-switch-2-plus-a-chonky-splatoon-3-update-incoming"
-    },
-    {
-      "title": "After 20 Years of Reviewing TVs, I Actually Found One with Good Sound - CNET",
-      "link": "https://www.cnet.com/deals/after-20-years-of-reviewing-tvs-i-actually-found-a-new-one-with-good-sound/"
-    },
-    {
-      "title": "News Sites Are Getting Crushed by Google\u2019s New AI Tools - WSJ",
-      "link": "https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141"
-    },
-    {
-      "title": "Activision Says It\u2019s Working With Nintendo to Get Call of Duty on Switch, but Will Black Ops 7 Be on Switch 2? - IGN",
-      "link": "https://www.ign.com/articles/activision-says-its-working-with-nintendo-to-get-call-of-duty-on-switch-but-will-black-ops-7-be-on-switch-2"
-    },
-    {
-      "title": "Nothing Phone (3) surfaces in leaked render with no visible lights and three cameras - 9to5Google",
-      "link": "http://9to5google.com/2025/06/10/nothing-phone-3-leak-cameras-design/"
-    },
-    {
-      "title": "CarPlay in iOS 26: Liquid Glass, app widgets, refreshed apps - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/09/carplay-in-ios-26-liquid-glass-app-widgets-refreshed-apps/"
-    },
-    {
-      "title": "iOS 26 Features Battery Settings Overhaul - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/09/ios-26-battery-settings-overhaul/"
-    },
-    {
-      "title": "Apple's Finally Adding Call and Message Screening. Better Late Than Never, I Say - CNET",
-      "link": "https://www.cnet.com/tech/mobile/apples-finally-adding-call-and-message-screening-better-late-than-never-i-say/"
-    },
-    {
-      "title": "iPadOS 26 announced with new design, windowing system, Files upgrades, more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/09/ipados-26-announced-with-new-design-windowing-system-files-upgrades-more/"
+      "title": "2025 North America International Championships VGC Preview Roundtable - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/2025-north-america-international-championships-vgc-preview-roundtable"
     }
   ],
   "sports_news": [
     {
-      "title": "White Sox Designate Bryse Wilson For Assignment - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/white-sox-designate-bryse-wilson-for-assignment.html"
+      "title": "Roberts: Chance Of Ohtani Pitching Before All-Star Break Is \"North Of Zero\" - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/roberts-chance-of-ohtani-pitching-before-all-star-break-is-north-of-zero.html"
     },
     {
-      "title": "Aaron Rodgers Reveals He Got Married to Girlfriend Brittani During NFL Offseason - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25204566-aaron-rodgers-reveals-he-got-married-girlfriend-brittani-during-nfl-offseason"
+      "title": "Mary Lou Retton addresses May DUI arrest for first time - New York Post",
+      "link": "https://nypost.com/2025/06/10/sports/mary-lou-retton-addresses-may-dui-arrest-for-first-time/"
+    },
+    {
+      "title": "Top prospect Anthony's first MLB hit scores two - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/45488464/roman-anthony-gets-first-mlb-hit-red-sox-second-game"
+    },
+    {
+      "title": "Davante Adams feels rejuvenated: Joining Rams was \"exactly what I needed\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-feels-rejuvenated-joining-rams-was-exactly-what-i-needed"
+    },
+    {
+      "title": "One year to World Cup, have Tuchel's England regressed since Southgate? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cx27z1l5pdzo"
+    },
+    {
+      "title": "USMNT vs. Switzerland: Starting XI & Lineup Notes - US Soccer",
+      "link": "https://www.ussoccer.com/stories/2025/06/usmnt-switzerland-starting-lineup-notes-walker-zimmerman-matt-turner"
+    },
+    {
+      "title": "Knicks-Jason Kidd flirtation likely to hit a Mavericks roadblock - New York Post",
+      "link": "https://nypost.com/2025/06/10/sports/knicks-jason-kidd-flirtation-likely-to-hit-a-mavericks-roadblock/"
+    },
+    {
+      "title": "NCAA approves multiple major rule changes in men's college basketball - On3.com",
+      "link": "https://www.on3.com/news/ncaa-approves-multiple-major-rule-changes-in-mens-college-basketball/"
+    },
+    {
+      "title": "Notes and quotes from Day 1 of Raiders' 2025 mandatory minicamp - Las Vegas Raiders",
+      "link": "https://www.raiders.com/news/notes-and-quotes-from-day-1-of-raiders-2025-mandatory-minicamp"
+    },
+    {
+      "title": "Mystery woman has agreed to marry Aaron Rodgers - The Mercury News",
+      "link": "https://www.mercurynews.com/2025/06/10/mystery-woman-has-agreed-to-marry-aaron-rodgers/"
+    },
+    {
+      "title": "Aaron Rodgers says decision to sign with Steelers 'was best for my soul' - NFL.com",
+      "link": "https://www.nfl.com/news/aaron-rodgers-says-decision-to-sign-with-steelers-was-best-for-my-soul"
+    },
+    {
+      "title": "Micah Parsons will attend training camp but won\u2019t commit to participating without a deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-will-attend-training-camp-but-wont-commit-to-participating-without-a-deal"
+    },
+    {
+      "title": "James Cook faces the heat from Bills beat reporters - Buffalo Rumblings",
+      "link": "https://www.buffalorumblings.com/2025/6/10/24446879/buffalo-bills-rb-james-cook-faces-the-heat-from-reporters-nfl-contract-training-camp"
+    },
+    {
+      "title": "How the Falcons' draft picks looked to start mandatory minicamp - Atlanta Falcons",
+      "link": "https://www.atlantafalcons.com/news/falcons-draft-picks-mandatory-minicamp"
+    },
+    {
+      "title": "Shedeur Sanders throws deep touchdown pass and more observations | OTAs & Minicamp - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/shedeur-sanders-throws-deep-touchdown-pass-and-more-observations-otas-minicamp"
+    },
+    {
+      "title": "Shemar Stewart Calls Out Bengals Front Office As Contract Clash Continues - Sports Illustrated",
+      "link": "https://www.si.com/nfl/shemar-stewart-calls-out-bengals-front-office-contract-clash-continues"
     },
     {
       "title": "Observations from Titans Minicamp on Tuesday, When QB Cam Ward Ended Practice With 18 Straight Completions - Tennessee Titans",
@@ -106,68 +126,12 @@
       "link": "https://www.milehighreport.com/2025/6/10/24446916/report-broncos-are-signing-running-back-j-k-dobbins-to-a-one-year-deal"
     },
     {
-      "title": "Aaron Rodgers on picking Pittsburgh: \"It starts with Mike Tomlin\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-on-picking-pittsburgh-it-starts-with-mike-tomlin"
-    },
-    {
-      "title": "'Y'all just want to win arguments:' Shemar Stewart displeased with Bengals over contract - Cincinnati Enquirer",
-      "link": "https://www.cincinnati.com/story/sports/nfl/bengals/2025/06/10/shemar-stewart-contract-dispute-cincinnati-bengals-nfl-minicamp/84136526007/"
-    },
-    {
-      "title": "Deion Sanders is home in Texas dealing with an unspecified health issue - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-is-home-in-texas-dealing-with-an-unspecified-health-issue"
-    },
-    {
-      "title": "James Cook: I like my money, so that\u2019s why I\u2019m here - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-i-like-my-money-so-thats-why-im-here"
-    },
-    {
-      "title": "MLB Power Rankings: Week of June 9, 2025 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/06/10/mlb-power-rankings-060925/"
-    },
-    {
-      "title": "Panel approves changes to enhance the flow of the game in men\u2019s basketball - NCAA.org",
-      "link": "https://www.ncaa.org/news/2025/6/10/media-center-panel-approves-changes-to-enhance-the-flow-of-the-game-in-mens-basketball.aspx"
+      "title": "Stefon Diggs breaks silence on mysterious pink substance from boat party video - New York Post",
+      "link": "https://nypost.com/2025/06/10/sports/stefon-diggs-breaks-silence-on-pink-substance-from-boat-video/"
     },
     {
       "title": "Myles Garrett on Aaron Rodgers: Good opportunity to put him in the graveyard - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-on-aaron-rodgers-good-opportunity-to-put-him-in-the-graveyard"
-    },
-    {
-      "title": "Barkov, Reinhart finding game for Panthers at perfect time in Cup Final - NHL.com",
-      "link": "https://www.nhl.com/news/aleksander-barkov-sam-reinhart-finding-their-game-at-perfect-time-in-cup-final"
-    },
-    {
-      "title": "Saul 'Canelo' Alvarez v Terence Crawford: Las Vegas super-fight confirmed for 13 September - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/cgj8qwyzy0do"
-    },
-    {
-      "title": "Simone Biles makes surprising statement after ugly feud with Riley Gaines over trans athletes explodes - New York Post",
-      "link": "https://nypost.com/2025/06/10/sports/simone-biles-speaks-out-amid-feud-with-riley-gaines-over-trans-athletes/"
-    },
-    {
-      "title": "Get ready for the Men's College World Series -- breakdown of all 8 teams - MLB.com",
-      "link": "https://www.mlb.com/news/college-world-series-2025-preview"
-    },
-    {
-      "title": "2025 NBA Finals: 4 things to watch for in Game 3 - NBA",
-      "link": "https://www.nba.com/news/2025-nba-finals-game-3-preview"
-    },
-    {
-      "title": "TV Ratings: NBA Finals Fall, Tony Awards Surge - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/tv/tv-news/tv-ratings-nba-finals-tony-awards-2025-1236261337/"
-    },
-    {
-      "title": "Why Mavericks letting Jason Kidd go coach the Knicks sounds like a terrible idea - Dallas News",
-      "link": "https://www.dallasnews.com/sports/mavericks/2025/06/10/jason-kidd-coach-knicks-mavericks-rumors-flagg-brunson/"
-    },
-    {
-      "title": "Vikings Agree to Terms on Josh Oliver Contract Extension - Minnesota Vikings",
-      "link": "https://www.vikings.com/news/josh-oliver-contraction-extension-agreed-to-terms-2025"
-    },
-    {
-      "title": "What Malaki Starks Has Learned During OTAs - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/malaki-starks-otas-learn-faster-marlon-humphrey-kyle-hamilton-zach-orr-chuck-pagano"
     }
   ],
   "weather": {
