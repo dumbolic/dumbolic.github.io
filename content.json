@@ -1,9 +1,9 @@
 {
-  "quote": "Originality is the fine art of remembering what you hear but forgetting where you heard it.  \u2013 Laurence J. Peter",
-  "fact": "Koala is Aboriginal for \"no drink\".",
-  "crypto": "BTC: $105,885 | ETH: $2,642.04",
+  "quote": "He who knows best knows how little he knows. \u2013 Thomas Jefferson",
+  "fact": "Bats always turn left when exiting a cave",
+  "crypto": "BTC: $106,002 | ETH: $2,646.72",
   "tip": "Keep your software dependencies updated.",
-  "joke": "They laughed when I said I wanted to be a comedian \u2013 they\u2019re not laughing now.",
+  "joke": "Two silk worms had a race. They ended up in a tie.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,83 +12,119 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nintendo says your bad Switch 2 battery life might be a bug - The Verge",
-      "link": "https://www.theverge.com/news/685505/nintendo-says-your-bad-switch-2-battery-life-might-be-a-bug"
+      "title": "Apple\u2019s Craig Federighi on the long road to the iPad\u2019s Mac-like multitasking - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/apples-craig-federighi-on-the-long-road-to-the-ipads-mac-like-multitasking/"
     },
     {
-      "title": "CODE VEIN II Interview - Producer Keita Iizuka Discusses How the Sequel Takes a New Direction - GamerBraves",
-      "link": "https://www.gamerbraves.com/code-vein-ii-interview-producer-keita-iizuka-discusses-how-the-sequel-takes-a-new-direction/"
+      "title": "Apple Home is expanding its energy management features - The Verge",
+      "link": "https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc"
     },
     {
-      "title": "Resident Evil 9 Lets You Swap Between First-Person And Third-Person Whenever You Want - Kotaku",
-      "link": "https://kotaku.com/re9-resident-evil-requiem-first-third-person-option-ps5-1851784320"
+      "title": "How Long Of A Ride Is Mario Kart World? - Kotaku",
+      "link": "https://kotaku.com/mario-kart-world-how-long-to-beat-open-world-campaign-1851784366"
+    },
+    {
+      "title": "Google prepares to \u2018reduce\u2019 Pixel 6a battery due to \u2018overheating issue\u2019 amid fire reports - 9to5Google",
+      "link": "http://9to5google.com/2025/06/11/google-pixel-6a-battery-overheating-update-code/"
+    },
+    {
+      "title": "Snapchat rolls out a new $8.99 Lens+ subscription tier - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/11/snapchat-rolls-out-a-new-8-99-lens-subscription-tier/"
+    },
+    {
+      "title": "iOS 26 Will Add 10 New Features to the Messages App on Your iPhone - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/11/ios-26-new-messages-app-features/"
+    },
+    {
+      "title": "Meta AI gains video editing capabilities - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/11/meta-ai-gains-video-editing-capabilities/"
     },
     {
       "title": "HP reveals first Google Beam 3D video conferencing setup, priced at $25,000 - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/06/hp-reveals-first-google-beam-3d-video-conferencing-setup-priced-at-25000/"
     },
     {
-      "title": "iOS 26 Adds Custom Snooze Times After Years of 9-Minute Tyranny - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/11/ios-26-big-change-iphone-alarm-options/"
-    },
-    {
-      "title": "Android 16 adds Battery health percentage & \u2018assistance\u2019 on newer Pixel phones - 9to5Google",
-      "link": "http://9to5google.com/2025/06/11/android-16-pixel-battery-health-2/"
-    },
-    {
-      "title": "Microsoft creates separate Windows 11 24H2 update for incompatible PCs - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/"
+      "title": "Playing Resident Evil Requiem Left Me With More Questions Than Answers - gamespot.com",
+      "link": "https://www.gamespot.com/articles/resident-evil-9-requiem-hands-on-preview/1100-6532336/"
     },
     {
       "title": "Apple executives say new AI-powered Siri wasn\u2019t \u2018demoware\u2019 \u2014 it just wasn\u2019t ready to ship - TechCrunch",
       "link": "https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/"
     },
     {
-      "title": "The Dia browser is a big bet on the web \u2014 and an even bigger bet on AI - The Verge",
-      "link": "https://www.theverge.com/web/685232/dia-browser-ai-arc"
+      "title": "Google's Find Hub finally gets AirTag-like UWB precision finding - Android Police",
+      "link": "https://www.androidpolice.com/find-hub-uwb-precision-finding-moto-tag-update/"
     },
     {
       "title": "Magnetic Joy-Con Sticks Already In The Works For Switch 2 Amid Fears Of Drift - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/06/magnetic-joy-con-sticks-already-in-the-works-for-switch-2-amid-fears-of-drift"
     },
     {
-      "title": "Samsung could shake up its audio lineup with two new earbuds (APK teardown) - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-galaxy-buds-core-fe-3-leak-apk-teardown-3566450/"
+      "title": "Nintendo\u2019s Switch 2 is the fastest-selling game console of all time - The Verge",
+      "link": "https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record"
     },
     {
-      "title": "Huawei\u2019s latest phone fits two telephoto lenses into one camera - The Verge",
-      "link": "https://www.theverge.com/news/685191/huawei-pura-80-ultra-switchable-dual-telephoto-periscope-lens"
+      "title": "It's confirmed: Galaxy Z Fold 7 will feature Snapdragon 8 Elite - SamMobile",
+      "link": "https://www.sammobile.com/news/samsung-dominion-over-european-foldable-phone-market-under-threat/"
     },
     {
-      "title": "Microsoft is letting Windows 11 users try a redesigned Start menu, and I'll show you how to enable it - Windows Central",
-      "link": "https://www.windowscentral.com/software-apps/windows-11/windows-11s-start-menu-gets-a-bigger-new-look-get-it-today-with-simple-steps"
+      "title": "The Top New Features in MacOS Tahoe\u2014Including One Feature Mac Nerds Will Love - WIRED",
+      "link": "https://www.wired.com/story/macos-26-tahoe-top-features/"
     },
     {
       "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - Yahoo",
       "link": "https://www.yahoo.com/news/nyc-woman-found-phone-buried-105000183.html"
     },
     {
-      "title": "Review: Mario Kart World - My Nintendo News",
-      "link": "https://mynintendonews.com/2025/06/10/review-mario-kart-world/"
+      "title": "Upgrading Windows 10 to 11: Here\u2019s everything you need to know - PCWorld",
+      "link": "https://www.pcworld.com/article/2802119/upgrading-windows-10-to-11-heres-everything-you-need-to-know.html"
     },
     {
       "title": "Google Home makes it easier to create smarter, more precise automations - Android Police",
       "link": "https://www.androidpolice.com/google-home-create-smarter-more-precise-automations/"
     },
     {
-      "title": "A19 Pro Rumored To Match Apple\u2019s M4 Lineup In Single-Core Scores, But A Tipster Hints That It Will Not Achieve The Same Height In The Multi-Core Results And May Lose To The Competition - Wccftech",
-      "link": "https://wccftech.com/a19-pro-estimated-single-core-scores-equal-to-m4-low-multi-core-results/"
-    },
-    {
-      "title": "Nintendo Switch 2 Sets Record, Selling Over 3.5 Million Units Globally in First Four Days - Business Wire",
-      "link": "https://www.businesswire.com/news/home/20250610751405/en/Nintendo-Switch-2-Sets-Record-Selling-Over-3.5-Million-Units-Globally-in-First-Four-Days"
-    },
-    {
-      "title": "Samsung teases Galaxy Z Fold 7's camera and AI integration, and we have no idea what it means - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-galaxy-ai-vs-apple-intelligence-photo-video-search/"
+      "title": "Xcode 26 beta includes new \u2018Apple Vision Pro 4K\u2019 simulator - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/10/xcode-26-beta-includes-new-apple-vision-pro-4k-reference/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Jackson Jobe To Undergo Tommy John Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/jackson-jobe-to-undergo-tommy-john-surgery.html"
+    },
+    {
+      "title": "Royals Place Cole Ragans On IL With Rotator Cuff Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/royals-place-cole-ragans-on-il-with-rotator-cuff-strain.html"
+    },
+    {
+      "title": "Red Sox rookie Hunter Dobbins speaks out after false claims about dad\u2019s Yankees ties exposed - New York Post",
+      "link": "https://nypost.com/2025/06/11/sports/red-soxs-hunter-dobbins-blames-dad-for-false-yankees-claims/"
+    },
+    {
+      "title": "Back with Saleh, Huff revitalized after '24 setback - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45494731/back-saleh-niners-huff-revitalized-24-setback"
+    },
+    {
+      "title": "Free agent LB Germaine Pratt agrees to terms with Raiders - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-lb-germaine-pratt-agrees-to-terms-with-raiders"
+    },
+    {
+      "title": "5 takeaways from the second day of mandatory minicamp - Carolina Panthers",
+      "link": "https://www.panthers.com/news/x-takeaways-from-the-second-day-of-mandatory-minicamp-tetairoa-mcmillan-bryce-young-josh-norman"
+    },
+    {
+      "title": "Observations from Titans Minicamp on Wednesday - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/observations-from-titans-minicamp-on-wednesday-x2529"
+    },
+    {
+      "title": "Report: Packers taking full dead cap hit of $17 million on Jaire Alexander in 2025 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-packers-taking-full-dead-cap-hit-of-17-million-on-jaire-alexander-in-2025"
+    },
+    {
+      "title": "DeMarcus Cousins suspended for season, contract terminated after brawl with fans - AP News",
+      "link": "https://apnews.com/article/demarcus-cousins-basketball-puerto-rico-6ba115cf04dd35b59d31bedb0e36a755"
+    },
     {
       "title": "Breece Hall thought he might be traded until Aaron Glenn called him - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-thought-he-might-be-traded-until-aaron-glenn-called-him"
@@ -98,72 +134,32 @@
       "link": "https://www.washingtonpost.com/sports/2025/06/11/us-open-tee-times-how-watch/"
     },
     {
-      "title": "Players Anonymously Reveal Feelings About Alex Cora - NESN",
-      "link": "https://nesn.com/2025/06/players-anonymously-reveal-feelings-about-alex-cora/"
+      "title": "Female athletes appeal landmark NCAA settlement, saying it violates federal antidiscrimination law - AP News",
+      "link": "https://apnews.com/article/ncaa-house-settlement-appeal-female-athletes-e2864d7bcdf74d0c538c1f2e6c98fe6c"
+    },
+    {
+      "title": "Pope Leo XIV Dons White Sox Hat During Public General Audience in Vatican - Sports Illustrated",
+      "link": "https://www.si.com/mlb/pope-leo-xiv-dons-white-sox-hat-during-public-general-audience-vatican"
+    },
+    {
+      "title": "AHL unveils 2024-25 Top Prospects Team - The American Hockey League",
+      "link": "https://theahl.com/news/ahl-unveils-2024-25-top-prospects-team"
     },
     {
       "title": "ESPN announces TV start times, windows for 2025 SEC football season - Southeastern Conference",
       "link": "https://www.secsports.com/news/2025/06/espn-announces-tv-start-times-windows-for-2025-sec-football-season"
     },
     {
+      "title": "Washington Commanders Injury Update: Noah Brown carted off the field - Hogs Haven",
+      "link": "https://www.hogshaven.com/2025/6/11/24447543/washington-commanders-injury-update-noah-brown-carted-off-the-field"
+    },
+    {
       "title": "Knicks not in mix for Kevin Durant trade - New York Post",
       "link": "https://nypost.com/2025/06/11/sports/knicks-not-in-mix-for-kevin-durant-trade/"
     },
     {
-      "title": "NFL's top 10 offenses in 2025? Bills, Bucs, Ravens headline my projection; Broncos coming in HOT - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-s-top-10-offenses-in-2025-bills-bucs-ravens-headline-my-projection-broncos-coming-in-hot"
-    },
-    {
-      "title": "Brewers Move Aaron Civale To Bullpen - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/brewers-trade-rumors-aaron-civale-bullpen-not-happy.html"
-    },
-    {
-      "title": "Group of Women Athletes Files Appeal of House v. NCAA Settlement Approval - Front Office Sports",
-      "link": "http://frontofficesports.com/group-of-women-athletes-files-appeal-of-house-v-ncaa-settlement-approval/"
-    },
-    {
-      "title": "Brian Thomas Jr. OK after injury scare at minicamp - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-thomas-jr-ok-after-injury-scare-at-minicamp"
-    },
-    {
-      "title": "Detroit Lions only team with 3 players in top-20 NFLPA merch sales - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/6/11/24447420/nflpa-merchandise-sale-rankings-detroit-lions-2025-top-20"
-    },
-    {
-      "title": "FIFA Club World Cup predictions: Who are tournament favorites? - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/fifa-club-world-cup-predictions-who-are-tournament-favorites"
-    },
-    {
-      "title": "Crit\u00e9rium du Dauphin\u00e9: Remco Evenepoel crushes the clock on stage 4 individual time trial and takes overall lead - Cyclingnews",
-      "link": "https://www.cyclingnews.com/races/criterium-du-dauphine-2025/stage-4/results/"
-    },
-    {
-      "title": "Deion Sanders says everything is OK as he deals with health issue - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-says-everything-is-ok-as-he-deals-with-health-issue"
-    },
-    {
-      "title": "NCAA hints at 'positive momentum' towards men's basketball moving to quarters from halves - On3.com",
-      "link": "https://www.on3.com/news/ncaa-hints-at-positive-momentum-towards-mens-basketball-moving-to-quarters-from-halves/"
-    },
-    {
-      "title": "Rangers continuing Chris Kreider trade talks with Ducks as Chris Drury breaks up the core - New York Post",
-      "link": "https://nypost.com/2025/06/11/sports/rangers-continuing-chris-kreider-trade-talks-with-ducks-wednesday/"
-    },
-    {
-      "title": "Zac Taylor Throws Another Changeup As Bengals Look To Bolt Out Of The Box: 'We're Focusing On Ourselves' - Cincinnati Bengals",
-      "link": "https://www.bengals.com/news/zac-taylor-changes-training-camp-2025"
-    },
-    {
-      "title": "Bill Belichick: \u201cWe\u2019ve always dealt\u201d with outside \u201cnoise\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-weve-always-dealt-with-outside-noise"
-    },
-    {
-      "title": "Inbox: One helps feed the other - Green Bay Packers",
-      "link": "https://www.packers.com/news/inbox-one-helps-feed-the-other-june-11-2025"
-    },
-    {
-      "title": "Late for Work: Lamar Jackson Makes Big Jump Up in Chris Simms' Annual Quarterback Rankings - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/lamar-jackson-chris-simms-quarterback-rankings-ravens-nate-wiggins-breakout-team-zadarius-smith"
+      "title": "\u2018Dr. Dunk\u2019 Darnell Hillman remains important part of Indiana Pacers\u2019 rich history - Andscape",
+      "link": "https://andscape.com/features/dr-dunk-darnell-hillman-remains-important-part-of-indiana-pacers-rich-history/"
     }
   ],
   "weather": {
