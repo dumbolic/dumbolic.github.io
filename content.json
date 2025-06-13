@@ -1,9 +1,9 @@
 {
-  "quote": "Life goes by fast. Enjoy it. Calm down. It's all funny. \u2013 Joan Rivers",
-  "fact": "Deborah Winger did the voice of E.T.",
-  "crypto": "BTC: $104,810 | ETH: $2,528.01",
+  "quote": "Honor is the foundation of courage. \u2013 Amelia Earhart",
+  "fact": "The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
+  "crypto": "BTC: $104,961 | ETH: $2,534.15",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why didn\u2019t the skeleton cross the road? Because he had no guts.",
+  "joke": "What do you call a fish wearing a bowtie? Sofishticated.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Google says Android Open Source Project not being \u2018discontinued\u2019 amidst Pixel change impacting custom ROMs - 9to5Google",
+      "link": "http://9to5google.com/2025/06/12/android-open-source-project-pixel-change/"
+    },
     {
       "title": "Android 16 QPR1 Beta 2 redesigns viewed notifications, now transparent - 9to5Google",
       "link": "http://9to5google.com/2025/06/11/android-16-qpr1-beta-2-transparent-notifications/"
@@ -24,24 +28,12 @@
       "link": "https://arstechnica.com/gadgets/2025/06/apples-craig-federighi-on-the-long-road-to-the-ipads-mac-like-multitasking/"
     },
     {
-      "title": "Microsoft Installs Emergency Update On Windows PCs - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/06/11/microsoft-installs-emergency-update-on-windows-pcs/"
-    },
-    {
-      "title": "New Apple study challenges whether AI models truly \u201creason\u201d through problems - Ars Technica",
-      "link": "https://arstechnica.com/ai/2025/06/new-apple-study-challenges-whether-ai-models-truly-reason-through-problems/"
-    },
-    {
       "title": "How Long Of A Ride Is Mario Kart World? - Kotaku",
       "link": "https://kotaku.com/mario-kart-world-how-long-to-beat-open-world-campaign-1851784366"
     },
     {
       "title": "Feature: 11 Games With 'Secret' Performance Bumps You Should Revisit On Switch 2 - Nintendo Life",
       "link": "https://www.nintendolife.com/features/11-games-with-secret-performance-bumps-you-should-revisit-on-switch-2"
-    },
-    {
-      "title": "All of the new features coming to Apple\u2019s iOS apps - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/"
     },
     {
       "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - AOL.com",
@@ -52,44 +44,52 @@
       "link": "https://9to5mac.com/2025/06/11/watchos-26-adds-new-wrist-flick-gesture-for-these-apple-watch-models/"
     },
     {
-      "title": "Apple Knows AI Isn\u2019t What People Really Want, but It Can\u2019t Say That - Gizmodo",
-      "link": "https://gizmodo.com/apple-knows-ai-isnt-what-people-really-want-but-it-cant-say-that-2000614436"
-    },
-    {
-      "title": "New Dragon Age: The Veilguard report reveals more about turbulent development, including Forspoken-prompted shift from snark to seriousness - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/new-dragon-age-the-veilguard-report-reveals-more-about-turbulent-development-including-forspoken-prompted-shift-from-snark-to-seriousness"
+      "title": "Think before you click: Experts warn email \"Unsubscribe\" links pose security risks - TechSpot",
+      "link": "https://www.techspot.com/news/108263-think-before-you-click-experts-warn-unsubscribe-links.html"
     },
     {
       "title": "Resident Evil Requiem Playable in 1st and 3rd Person, New Screenshots - Push Square",
       "link": "https://www.pushsquare.com/news/2025/06/resident-evil-requiem-playable-in-1st-and-3rd-person-new-screenshots"
     },
     {
+      "title": "GTA 5's Next Major Update Revealed, And It's Coming Soon - gamespot.com",
+      "link": "https://www.gamespot.com/articles/gta-5s-next-major-update-revealed-and-its-coming-soon/1100-6532348/"
+    },
+    {
       "title": "Liquid Glass is more than skin deep on macOS Tahoe - AppleInsider",
       "link": "https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe"
+    },
+    {
+      "title": "Nintendo Switch 2 sets record, selling over 3.5 million units globally in first four days - News - Nintendo Official Site - Nintendo",
+      "link": "https://www.nintendo.com/us/whatsnew/nintendo-switch-2-sets-record-selling-over-3-5-million-units-globally-in-first-four-days/"
+    },
+    {
+      "title": "Microsoft creates separate Windows 11 24H2 update for incompatible PCs - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/"
+    },
+    {
+      "title": "Apple executives say new AI-powered Siri wasn\u2019t \u2018demoware\u2019 \u2014 it just wasn\u2019t ready to ship - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/"
+    },
+    {
+      "title": "\u2018Dragon Age: The Veilguard\u2019 Failure Owed To Live-Service Pivots, Says New Report - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/06/11/dragon-age-the-veilguard-failure-owed-to-live-service-pivots-says-new-report/"
+    },
+    {
+      "title": "Fujifilm Offers First Look at \u2018Classic\u2019 Camera It Will Unveil Tomorrow - PetaPixel",
+      "link": "https://petapixel.com/2025/06/11/fujifilm-offers-first-look-at-classic-camera-it-will-unveil-tomorrow/"
     },
     {
       "title": "Google's Find Hub finally gets AirTag-like UWB precision finding - Android Police",
       "link": "https://www.androidpolice.com/find-hub-uwb-precision-finding-moto-tag-update/"
     },
     {
-      "title": "Nintendo Switch 2 races to record sales, driven by Mario Kart World's blockbuster debut - ABC News",
-      "link": "https://abcnews.go.com/Technology/nintendo-switch-2-races-record-sales-driven-mario/story?id\\\\u003d122726415"
-    },
-    {
       "title": "HP Dimension with Google Beam Takes Virtual Collaboration to the Next Level at InfoComm 2025 - HP.com",
       "link": "https://www.hp.com/us-en/newsroom/press-releases/2025/hp-dimension-with-google-beam-at-infocomm-2025.html"
     },
     {
-      "title": "She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world - Ars Technica",
-      "link": "https://arstechnica.com/space/2025/06/she-was-a-disney-star-with-platinum-records-but-bridgit-mendler-gave-it-up-to-change-the-world/"
-    },
-    {
-      "title": "Seven Cool Video Games I Saw During (Well, After) Summer Game Fest - aftermath.site",
-      "link": "https://aftermath.site/best-indie-games-summer-game-fest-2025"
-    },
-    {
-      "title": "Crashed lander looks back at Earth from the moon photo of the day for June 10, 2025 - Space",
-      "link": "https://www.space.com/astronomy/moon/crashed-lander-looks-back-at-earth-from-the-moon-space-photo-of-the-day-for-june-10-2025"
+      "title": "It's confirmed: Galaxy Z Fold 7 will feature Snapdragon 8 Elite - SamMobile",
+      "link": "https://www.sammobile.com/news/samsung-dominion-over-european-foldable-phone-market-under-threat/"
     }
   ],
   "sports_news": [
@@ -98,24 +98,28 @@
       "link": "https://swimswam.com/summer-mcintosh-posts-423-65-400-im-to-break-her-own-world-record/"
     },
     {
-      "title": "Red Sox To Acquire Jorge Alcala - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/red-sox-to-acquire-jorge-alcala.html"
+      "title": "Red Sox trade for hard-throwing Twins reliever, send minor leaguer in deal - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/06/red-sox-trade-for-hard-throwing-twins-reliever-send-minor-leaguer-in-deal.html"
+    },
+    {
+      "title": "The winners of the Congressional Baseball Game since 1962 - Axios",
+      "link": "https://www.axios.com/2025/06/11/congressional-baseball-game-winners"
     },
     {
       "title": "Yankees Considering Starts For Ben Rice At Catcher - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/yankees-considering-starts-for-ben-rice-at-catcher.html"
     },
     {
-      "title": "'I feel for Jackson': Tigers' Jobe out for season with elbow surgery - The Detroit News",
-      "link": "https://www.detroitnews.com/story/sports/mlb/tigers/2025/06/11/detroit-tigers-jackson-jobe-will-have-elbow-surgery-miss-remainder-of-season/84157347007/"
+      "title": "The small bump in reps Shedeur Sanders got on Day 2 of Browns minicamp: Takeaways - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/06/the-small-bump-shedeur-sanders-got-on-day-2-of-browns-minicamp-takeaways.html"
     },
     {
       "title": "Bulls' Billy Donovan and Every Knicks Request Denied amid HC Search Rumors - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25204888-bulls-billy-donovan-and-every-knicks-request-denied-amid-hc-search-rumors"
     },
     {
-      "title": "'Really excited about this group': 5 takeaways from Seahawks minicamp - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-minicamp-5-takeaways-as-veterans-bolt-for-summer-analysis/"
+      "title": "What stood out from Seahawks\u2019 final minicamp practice - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/what-stood-out-seattle-seahawks-final-minicamp-practice-2025/1813353"
     },
     {
       "title": "Notes and quotes from Day 2 of Raiders' 2025 mandatory minicamp - Las Vegas Raiders",
@@ -126,10 +130,6 @@
       "link": "https://www.on3.com/her/news/report-womens-sports-athletes-to-file-appeal-on-house-vs-ncaa-settlement-title-ix-violations/"
     },
     {
-      "title": "Despite practicing at CB and WR, Bo Melton won\u2019t compare himself to Travis Hunter - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-practicing-at-cb-and-wr-bo-melton-wont-compare-himself-to-travis-hunter"
-    },
-    {
       "title": "Woke Writer Dan Wolken Calls Riley Gaines 'Uncivilized' For Addressing Simone Biles Apology - OutKick",
       "link": "https://www.outkick.com/sports/woke-writer-dan-wolken-calls-riley-gaines-uncivilized-after-responding-simone-biles-pro-trans-posts"
     },
@@ -138,20 +138,16 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-huff-thankful-he-landed-with-49ers"
     },
     {
-      "title": "Commanders CB Lattimore feeling 'way better' - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45495089/commanders-cb-marshon-lattimore-feeling-healthy-explosive"
+      "title": "7 storylines to follow ahead of the 2025 Men's College World Series - NCAA.com",
+      "link": "https://www.ncaa.com/news/baseball/article/2025-06-11/7-storylines-follow-ahead-2025-mens-college-world-series"
     },
     {
       "title": "Report: Suns, Kevin Durant\u2019s representatives sorting through multiple trade offers - NBC Sports",
       "link": "https://www.nbcsports.com/nba/news/report-suns-kevin-durants-representatives-sorting-through-multiple-trade-offers"
     },
     {
-      "title": "Shedeur Sanders goes the extra mile to win the Cleveland Browns starting quarterback job and the whole world is there to appreciate it - MARCA",
-      "link": "https://www.marca.com/en/nfl/cleveland-browns/2025/06/12/6849fea8ca4741337f8b45c0.html"
-    },
-    {
-      "title": "What to know about the 2025 U.S. Open, from tee times to TV schedule - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/06/11/us-open-tee-times-how-watch/"
+      "title": "Royals Place Cole Ragans On IL With Rotator Cuff Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/royals-place-cole-ragans-on-il-with-rotator-cuff-strain.html"
     },
     {
       "title": "Toyota Ends Up Fastest in Night Practice - Sportscar365",
@@ -172,6 +168,10 @@
     {
       "title": "Free agent LB Germaine Pratt agrees to terms with Raiders - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-lb-germaine-pratt-agrees-to-terms-with-raiders"
+    },
+    {
+      "title": "Joaquin Buckley shuts down narrative that Islam Makhachev is a 'big threat' to the top UFC welterweights - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/11/joaquin-buckley-shuts-down-narrative-that-islam-makhachev-is-a-big-threat-to-the-top-ufc-welterweights/"
     }
   ],
   "weather": {
