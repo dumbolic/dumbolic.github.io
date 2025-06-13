@@ -1,9 +1,9 @@
 {
-  "quote": "Knowledge isn't power until it is applied. \u2013 Dale Carnegie",
-  "fact": "The average person spends about two years on the phone in a lifetime.",
-  "crypto": "BTC: $105,098 | ETH: $2,554.88",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
+  "quote": "If you can't, you must. If you must, you can. \u2013 Tony Robbins",
+  "fact": "There is approximately one chicken for every human being in the world.",
+  "crypto": "BTC: $104,861 | ETH: $2,545.07",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Silent Hill 1 Remake Officially in Development at Bloober Team, Konami Has Announced - IGN",
+      "link": "https://www.ign.com/articles/silent-hill-1-remake-officially-in-development-at-bloober-team-konami-has-announced"
+    },
+    {
+      "title": "Metal Gear Solid Delta: Snake Eater Has an Online Multiplayer Mode Called Fox Hunt With Completely Different Gameplay Than Metal Gear Online - IGN",
+      "link": "https://www.ign.com/articles/metal-gear-solid-delta-snake-eater-has-an-online-multiplayer-mode-called-fox-hunt-with-completely-different-gameplay-than-metal-gear-online"
+    },
+    {
+      "title": "The Alters brings Kojima-esque weirdness to a tale of sci-fi survival - The Verge",
+      "link": "https://www.theverge.com/games-review/685213/the-alters-review-ps5-xbox-steam"
+    },
+    {
+      "title": "Fujifilm\u2019s new X-E5 is one of its sleekest mirrorless cameras yet - The Verge",
+      "link": "https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs"
+    },
+    {
+      "title": "ChatGPT juggernaut takes aim at Google's crown - Axios",
+      "link": "https://www.axios.com/2025/06/12/chatgpt-openai-google-search-battle"
+    },
+    {
+      "title": "MindsEye Invokes Memories Of Cyberpunk 2077 As PlayStation Begins To Issue Refunds - TheGamer",
+      "link": "https://www.thegamer.com/mindseye-players-refunds-playstation-5-ps5-like-cyberpunk-2077/"
+    },
+    {
       "title": "Google says Android Open Source Project not being \u2018discontinued\u2019 amidst Pixel change impacting custom ROMs - 9to5Google",
       "link": "http://9to5google.com/2025/06/12/android-open-source-project-pixel-change/"
+    },
+    {
+      "title": "Snapdragon 8 Elite 2: Latest performance leak raises hype with monstrous multi-core numbers - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Snapdragon-8-Elite-2-Latest-performance-leak-raises-hype-with-monstrous-multi-core-numbers.1035242.0.html"
     },
     {
       "title": "Android 16 QPR1 Beta 2 redesigns viewed notifications, now transparent - 9to5Google",
@@ -24,82 +52,66 @@
       "link": "https://www.macrumors.com/2025/06/11/ios-26-liquid-glass-transparency/"
     },
     {
+      "title": "Google rolling Pixel Buds Pro 2 firmware 3.154 update - 9to5Google",
+      "link": "http://9to5google.com/2025/06/11/pixel-buds-pro-2-3-154-update/"
+    },
+    {
       "title": "Apple\u2019s Craig Federighi on the long road to the iPad\u2019s Mac-like multitasking - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/06/apples-craig-federighi-on-the-long-road-to-the-ipads-mac-like-multitasking/"
     },
     {
-      "title": "How Long Of A Ride Is Mario Kart World? - Kotaku",
-      "link": "https://kotaku.com/mario-kart-world-how-long-to-beat-open-world-campaign-1851784366"
+      "title": "How to watch Konami\u2019s Press Start showcase for Naked Snake and Silent Hill news - Polygon",
+      "link": "https://www.polygon.com/news/606447/konami-press-start-games-showcase"
     },
     {
       "title": "Feature: 11 Games With 'Secret' Performance Bumps You Should Revisit On Switch 2 - Nintendo Life",
       "link": "https://www.nintendolife.com/features/11-games-with-secret-performance-bumps-you-should-revisit-on-switch-2"
     },
     {
-      "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - AOL.com",
-      "link": "https://www.aol.com/finance/nyc-woman-found-phone-buried-105000591.html"
-    },
-    {
       "title": "watchOS 26 adds new wrist flick gesture for these Apple Watch models - 9to5Mac",
       "link": "https://9to5mac.com/2025/06/11/watchos-26-adds-new-wrist-flick-gesture-for-these-apple-watch-models/"
     },
     {
-      "title": "Think before you click: Experts warn email \"Unsubscribe\" links pose security risks - TechSpot",
-      "link": "https://www.techspot.com/news/108263-think-before-you-click-experts-warn-unsubscribe-links.html"
+      "title": "PCI Express 7.0 Final Specification Published Along With PCIe Optical Interconnect - Phoronix",
+      "link": "https://www.phoronix.com/news/PCI-Express-7.0-PCIe-7.0"
     },
     {
-      "title": "Resident Evil Requiem Playable in 1st and 3rd Person, New Screenshots - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/06/resident-evil-requiem-playable-in-1st-and-3rd-person-new-screenshots"
+      "title": "Samsung teases a \u2018smarter\u2019 Galaxy Z Fold 7 camera amid rumors of upgraded hardware - 9to5Google",
+      "link": "http://9to5google.com/2025/06/11/samsung-galaxy-z-fold-7-camera-ai-teaser/"
     },
     {
-      "title": "GTA 5's Next Major Update Revealed, And It's Coming Soon - gamespot.com",
-      "link": "https://www.gamespot.com/articles/gta-5s-next-major-update-revealed-and-its-coming-soon/1100-6532348/"
-    },
-    {
-      "title": "Liquid Glass is more than skin deep on macOS Tahoe - AppleInsider",
-      "link": "https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe"
-    },
-    {
-      "title": "Nintendo Switch 2 sets record, selling over 3.5 million units globally in first four days - News - Nintendo Official Site - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/nintendo-switch-2-sets-record-selling-over-3-5-million-units-globally-in-first-four-days/"
-    },
-    {
-      "title": "Microsoft creates separate Windows 11 24H2 update for incompatible PCs - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/"
-    },
-    {
-      "title": "Apple executives say new AI-powered Siri wasn\u2019t \u2018demoware\u2019 \u2014 it just wasn\u2019t ready to ship - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/"
-    },
-    {
-      "title": "\u2018Dragon Age: The Veilguard\u2019 Failure Owed To Live-Service Pivots, Says New Report - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/06/11/dragon-age-the-veilguard-failure-owed-to-live-service-pivots-says-new-report/"
-    },
-    {
-      "title": "Fujifilm Offers First Look at \u2018Classic\u2019 Camera It Will Unveil Tomorrow - PetaPixel",
-      "link": "https://petapixel.com/2025/06/11/fujifilm-offers-first-look-at-classic-camera-it-will-unveil-tomorrow/"
-    },
-    {
-      "title": "Google's Find Hub finally gets AirTag-like UWB precision finding - Android Police",
-      "link": "https://www.androidpolice.com/find-hub-uwb-precision-finding-moto-tag-update/"
-    },
-    {
-      "title": "HP Dimension with Google Beam Takes Virtual Collaboration to the Next Level at InfoComm 2025 - HP.com",
-      "link": "https://www.hp.com/us-en/newsroom/press-releases/2025/hp-dimension-with-google-beam-at-infocomm-2025.html"
-    },
-    {
-      "title": "It's confirmed: Galaxy Z Fold 7 will feature Snapdragon 8 Elite - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-dominion-over-european-foldable-phone-market-under-threat/"
+      "title": "Snapchat rolls out a new $8.99 Lens+ subscription tier - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/11/snapchat-rolls-out-a-new-8-99-lens-subscription-tier/"
     }
   ],
   "sports_news": [
     {
-      "title": "Summer McIntosh Posts 4:23.65 400 IM to Break Her Own World Record - SwimSwam",
-      "link": "https://swimswam.com/summer-mcintosh-posts-423-65-400-im-to-break-her-own-world-record/"
+      "title": "The Opener: Misiorowski, Chisholm, Freeman - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/the-opener-misiorowski-chisholm-freeman.html"
     },
     {
-      "title": "Red Sox trade for hard-throwing Twins reliever, send minor leaguer in deal - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/06/red-sox-trade-for-hard-throwing-twins-reliever-send-minor-leaguer-in-deal.html"
+      "title": "Shemar Stewart leaves Bengals\u2019 minicamp - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-leaves-minicamp"
+    },
+    {
+      "title": "Summer McIntosh breaks third world record in five days, a Phelpsian feat - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/summer-mcintosh-world-record-swimming-400-meter-individual-medley"
+    },
+    {
+      "title": "The patterns emerging as Knicks coaching search takes another twist - New York Post",
+      "link": "https://nypost.com/2025/06/12/sports/knicks-coaching-search-takes-another-twist-after-jason-kidd-block/"
+    },
+    {
+      "title": "2025 U.S. Open leaderboard live coverage: Scoreboard updates, golf scores, tee times for Round 1 at Oakmont - CBS Sports",
+      "link": "https://www.cbssports.com/golf/news/2025-u-s-open-leaderboard-live-coverage-scoreboard-updates-golf-scores-tee-times-for-round-1-at-oakmont/live/"
+    },
+    {
+      "title": "NCAA hints at 'positive momentum' towards men's basketball moving to quarters from halves - On3.com",
+      "link": "https://www.on3.com/news/ncaa-hints-at-positive-momentum-towards-mens-basketball-moving-to-quarters-from-halves/"
+    },
+    {
+      "title": "Red Sox To Acquire Jorge Alcala - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/red-sox-to-acquire-jorge-alcala.html"
     },
     {
       "title": "The winners of the Congressional Baseball Game since 1962 - Axios",
@@ -114,64 +126,36 @@
       "link": "https://www.cleveland.com/browns/2025/06/the-small-bump-shedeur-sanders-got-on-day-2-of-browns-minicamp-takeaways.html"
     },
     {
-      "title": "Bulls' Billy Donovan and Every Knicks Request Denied amid HC Search Rumors - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25204888-bulls-billy-donovan-and-every-knicks-request-denied-amid-hc-search-rumors"
+      "title": "Diontae Johnson: One bad year doesn\u2019t define me - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/diontae-johnson-one-bad-year-doesnt-define-me"
     },
     {
-      "title": "What stood out from Seahawks\u2019 final minicamp practice - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/what-stood-out-seattle-seahawks-final-minicamp-practice-2025/1813353"
+      "title": "Jackson Jobe To Undergo Tommy John Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/jackson-jobe-to-undergo-tommy-john-surgery.html"
+    },
+    {
+      "title": "'Really excited about this group': 5 takeaways from Seahawks minicamp - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-minicamp-5-takeaways-as-veterans-bolt-for-summer-analysis/"
     },
     {
       "title": "Notes and quotes from Day 2 of Raiders' 2025 mandatory minicamp - Las Vegas Raiders",
       "link": "https://www.raiders.com/news/notes-and-quotes-from-day-2-of-raiders-2025-mandatory-minicamp"
     },
     {
+      "title": "Red Sox Outright Robert Stock - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/red-sox-outright-robert-stock-2.html"
+    },
+    {
       "title": "Report: Women's sports athletes to file appeal on House vs. NCAA settlement citing Title IX violations - On3.com",
       "link": "https://www.on3.com/her/news/report-womens-sports-athletes-to-file-appeal-on-house-vs-ncaa-settlement-title-ix-violations/"
     },
     {
+      "title": "Despite practicing at CB and WR, Bo Melton won\u2019t compare himself to Travis Hunter - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-practicing-at-cb-and-wr-bo-melton-wont-compare-himself-to-travis-hunter"
+    },
+    {
       "title": "Woke Writer Dan Wolken Calls Riley Gaines 'Uncivilized' For Addressing Simone Biles Apology - OutKick",
       "link": "https://www.outkick.com/sports/woke-writer-dan-wolken-calls-riley-gaines-uncivilized-after-responding-simone-biles-pro-trans-posts"
-    },
-    {
-      "title": "Bryce Huff thankful he landed with 49ers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-huff-thankful-he-landed-with-49ers"
-    },
-    {
-      "title": "7 storylines to follow ahead of the 2025 Men's College World Series - NCAA.com",
-      "link": "https://www.ncaa.com/news/baseball/article/2025-06-11/7-storylines-follow-ahead-2025-mens-college-world-series"
-    },
-    {
-      "title": "Report: Suns, Kevin Durant\u2019s representatives sorting through multiple trade offers - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/report-suns-kevin-durants-representatives-sorting-through-multiple-trade-offers"
-    },
-    {
-      "title": "Royals Place Cole Ragans On IL With Rotator Cuff Strain - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/royals-place-cole-ragans-on-il-with-rotator-cuff-strain.html"
-    },
-    {
-      "title": "Toyota Ends Up Fastest in Night Practice - Sportscar365",
-      "link": "https://sportscar365.com/lemans/wec/toyota-fastest-night-practice/"
-    },
-    {
-      "title": "Mariners' vibes turn ugly after sweep: 'Nobody feels sorry for us' - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/eugenio-suarez-slam-gives-mariners-bad-vibes-only-as-arizona-completes-sweep/"
-    },
-    {
-      "title": "Red Sox rookie addresses alleged false claims about father\u2019s background - Boston Herald",
-      "link": "https://www.bostonherald.com/2025/06/11/red-sox-hunter-dobbins-report-dad-background-new-york-yankees-mlb/"
-    },
-    {
-      "title": "Dobbins: 'No-brainer' joining ascending Broncos - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45494632/jk-dobbins-no-brainer-joining-forces-ascending-broncos"
-    },
-    {
-      "title": "Free agent LB Germaine Pratt agrees to terms with Raiders - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-lb-germaine-pratt-agrees-to-terms-with-raiders"
-    },
-    {
-      "title": "Joaquin Buckley shuts down narrative that Islam Makhachev is a 'big threat' to the top UFC welterweights - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/11/joaquin-buckley-shuts-down-narrative-that-islam-makhachev-is-a-big-threat-to-the-top-ufc-welterweights/"
     }
   ],
   "weather": {
