@@ -1,9 +1,9 @@
 {
-  "quote": "Doing the best at this moment puts you in the best place for the next moment. \u2013 Oprah Winfrey",
-  "fact": "A duck`s quack doesn`t echo, and no one knows why.",
-  "crypto": "BTC: $108,109 | ETH: $2,642.02",
+  "quote": "First say to yourself what you would be; and then do what you have to do. \u2013 Epictetus",
+  "fact": "Only female mosquito\u2019s` bite and most are attracted to the color blue twice as much as to any other color.",
+  "crypto": "BTC: $108,578 | ETH: $2,649.76",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Some people eat light bulbs. They say it's a nice light snack.",
+  "joke": "I\u2019ll tell you something about German sausages, they\u2019re the wurst",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nintendo fans are compiling a master list of what games run better - or worse - on Switch 2 - Eurogamer",
-      "link": "https://www.eurogamer.net/nintendo-fans-are-compiling-a-master-list-of-what-games-run-better-or-worse-on-switch-2"
-    },
-    {
-      "title": "Fake RTX 4090 with laser-engraved GA102 GPU exposed by repair shop, a recurring scam - VideoCardz.com",
-      "link": "https://videocardz.com/newz/fake-rtx-4090-with-laser-engraved-ga102-gpu-exposed-by-repair-shop-a-recurring-scam"
-    },
-    {
       "title": "iOS 26 New iPhone Release: Apple Delivers Unprecedented Update - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2025/06/15/ios-26-new-release-apple-quietly-delivers-unprecedented-iphone-update/"
+    },
+    {
+      "title": "Apple's Latest Movie Trailer Innovation Suggests The Future Of Premium Home Viewing - SlashFilm",
+      "link": "https://www.slashfilm.com/1885916/apple-movie-haptic-trailer-innovation-premium-home-viewing-future/"
+    },
+    {
+      "title": "Andy Bogard's Fatal Fury: City of the Wolves gameplay trailer revealed, releases June 24 - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/jun/15/andy-bogard-gameplay-trailer-ffcotw/"
     },
     {
       "title": "PlayStation Fans Call New PS1 Remake Announcement the \"Best News This Year\" - ComicBook.com",
@@ -36,6 +36,10 @@
       "link": "https://www.eurogamer.net/minecrafts-vibrant-visuals-update-finally-has-a-release-date"
     },
     {
+      "title": "Separating Material 3 Expressive from Android 16 was Google's smartest move all year - Android Police",
+      "link": "https://www.androidpolice.com/google-android-16-material-3-expressive/"
+    },
+    {
       "title": "Over 46,000 Grafana instances exposed to account takeover bug - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/"
     },
@@ -44,20 +48,12 @@
       "link": "https://www.gamingbible.com/news/platform/steam/fallout-meets-bioshock-new-adventure-game-482130-20250612"
     },
     {
-      "title": "Red Dead Redemption star teases he \"cannot wait\" for us to know about a big announcement that's coming \"before Friday\" - Eurogamer",
-      "link": "https://www.eurogamer.net/red-dead-redemption-star-teases-he-cannot-wait-for-us-to-know-about-a-big-announcement-thats-coming-before-friday"
-    },
-    {
       "title": "This decades-old Gmail trick is still my favorite email management hack - Android Police",
       "link": "https://www.androidpolice.com/gmail-plus-trick/"
     },
     {
       "title": "Change Your Gmail Password Now, Google Tells 2 Billion Users - Forbes",
       "link": "https://www.forbes.com/sites/daveywinder/2025/06/15/change-your-gmail-password-now-google-tells-2-billion-users/"
-    },
-    {
-      "title": "How to build the best keyboard in the world - The Verge",
-      "link": "https://www.theverge.com/tech/686441/norbauer-seneca-keyboard-creator"
     },
     {
       "title": "Mario Kart World wouldn\u2019t be in the running for Game of the Year even if it was perfect - polygon.com",
@@ -76,12 +72,16 @@
       "link": "https://www.mansionglobal.com/articles/the-architect-behind-drakes-c-100-million-toronto-mansion-designed-this-muskoka-castle-d9c36113"
     },
     {
-      "title": "She Spotted a Detail in a Photo and Knew Immediately\u2014Her Marriage Was Over - Jason Deegan",
-      "link": "https://jasondeegan.com/she-spotted-a-detail-in-a-photo-and-knew-immediately-her-marriage-was-over/"
+      "title": "Red Dead Redemption 2's PS5 Version Could Be Announced Next Week - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/red-dead-redemption-2s-ps5-version-could-be-announced-next-week"
     },
     {
-      "title": "The Latest X.Org Server Activity Are A Lot Of Code Reverts - Phoronix",
-      "link": "https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts"
+      "title": "I used the Samsung Galaxy S25 Ultra and Galaxy A16; here\u2019s what $1,100 more buys you - Android Police",
+      "link": "https://www.androidpolice.com/samsung-galaxy-s25-galaxy-a16-comparison/"
+    },
+    {
+      "title": "She Spotted a Detail in a Photo and Knew Immediately\u2014Her Marriage Was Over - Jason Deegan",
+      "link": "https://jasondeegan.com/she-spotted-a-detail-in-a-photo-and-knew-immediately-her-marriage-was-over/"
     },
     {
       "title": "GTA Online Money Fronts Update Download Goes Live Early - RockstarINTEL",
@@ -90,32 +90,44 @@
   ],
   "sports_news": [
     {
-      "title": "Who starts where for the Canadian Grand Prix - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-canada-2025.8IvAoFYQu6hmAg9J8Yv6D"
+      "title": "2025 U.S. Open leaderboard live coverage: Scoreboard updates, golf scores, tee times for Round 4 at Oakmont - CBS Sports",
+      "link": "https://www.cbssports.com/golf/news/2025-u-s-open-leaderboard-live-coverage-scoreboard-updates-golf-scores-tee-times-for-round-4-at-oakmont/live/"
+    },
+    {
+      "title": "Norris and Piastri collide in F1's Canadian GP as Russell wins - The Race",
+      "link": "https://www.the-race.com/formula-1/lando-norris-and-oscar-piastri-collide-in-f1-canadian-gp-as-russell-wins/"
+    },
+    {
+      "title": "Report: Bengals, Trey Hendrickson resume communication as he seeks contract extension - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bengals-trey-hendrickson-resume-communication-as-he-seeks-contract-extension"
+    },
+    {
+      "title": "LeBron James\u2019 message for Caitlin Clark after dominant return from injury - New York Post",
+      "link": "https://nypost.com/2025/06/15/sports/lebron-james-message-for-caitlin-clark-after-dominant-return-from-injury/"
+    },
+    {
+      "title": "Match Awards from Bayern Munich\u2019s merciless 10-0 win over Auckland City in the Club World Cup - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/6/15/24449735/bayern-munich-match-awards-win-auckland-city-fifa-club-world-cup-michael-olise-boey-thomas-muller"
+    },
+    {
+      "title": "Angel Reese Posts 1st Career Triple-Double as Sky Beat Sun in WNBA Commissioner's Cup - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25208438-angel-reese-posts-1st-career-triple-double-sky-beat-sun-wnba-commissioners-cup"
     },
     {
       "title": "Justin Gaethje, Anthony Smith, and more fighters call out the \u2018biggest flop in MMA history\u2019 at UFC Atlanta - Bloody Elbow",
       "link": "https://bloodyelbow.com/2025/06/15/justin-gaethje-anthony-smith-and-more-fighters-call-out-the-biggest-flop-in-mma-history-at-ufc-atlanta/"
     },
     {
-      "title": "Rangers Place Tyler Mahle On 15-Day Injured List, Recall Kumar Rocker - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/rangers-place-tyler-mahle-on-15-day-injured-list-recall-kumar-rocker.html"
+      "title": "\u2018He\u2019s Not Himself\u2019: Paul McGinley Disappointed in Rory McIlroy Amid Media Feud - Sports Illustrated",
+      "link": "https://www.si.com/golf/paul-mcginley-disappointed-rory-mcilroy-media-feud-us-open"
     },
     {
       "title": "Corey Conners withdraws from U.S. Open after injury striking camera cable - Awful Announcing",
       "link": "https://awfulannouncing.com/golf/corey-conners-us-open-camera-cable-injury.html"
     },
     {
-      "title": "Reports: Magic add Desmond Bane in trade with Grizzlies - NBA",
-      "link": "https://www.nba.com/news/magic-grizzlies-trade-bane-caldwell-pope"
-    },
-    {
-      "title": "The stage is set for Sunday drama at the US Open as Sam Burns leads Adam Scott and J.J. Spaun by one stroke - CNN",
-      "link": "https://www.cnn.com/2025/06/14/sport/us-open-third-round-spt"
-    },
-    {
-      "title": "In White Sox stadium broadcast, Pope Leo XIV sends message of hope to Chicago and the US - AP News",
-      "link": "https://apnews.com/article/pope-leo-chicago-baseball-stadium-catholic-mass-5fa10cc7084271e92c911b66de8cab51"
+      "title": "Former MLB Star Suffers Serious Injury in Savannah Bananas Game - Sports Illustrated",
+      "link": "https://www.si.com/mlb/former-mlb-star-serious-injury-savannah-bananas-game"
     },
     {
       "title": "Le Mans 24 Hours: Kubica wins with Ferrari as Porsche spoils 1-2-3 - Autosport",
@@ -126,8 +138,8 @@
       "link": "https://www.cyclingnews.com/races/criterium-du-dauphine-2025/stage-8/live-report/"
     },
     {
-      "title": "Sean Casey tore hamstring in Savannah Bananas cameo - Awful Announcing",
-      "link": "https://awfulannouncing.com/nhl/sean-casey-tore-hamstring-in-savannah-bananas-cameo.html"
+      "title": "Kevin Durant trade proposals range from calculated to chaotic - Bright Side Of The Sun",
+      "link": "https://www.brightsideofthesun.com/2025/6/15/24449175/kevin-durant-trade-rumors-phoenix-suns-mock-trades-return-grades-miami-minnesota-clippers-rockets"
     },
     {
       "title": "The Club World Cup is finally up and running \u2014 and soccer may never be the same - AP News",
@@ -138,28 +150,20 @@
       "link": "https://www.washingtonpost.com/sports/2025/06/15/usmnt-losing-streak-gold-cup/"
     },
     {
-      "title": "Kamaru Usman beats Joaquin Buckley at UFC Fight Night, calls for title shot - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2025/6/15/ufc-dvalishvili-keeps-bantamweight-title-vs-omalley-usman-beats-buckley"
-    },
-    {
-      "title": "Kevin Durant prefers trade to one of these three NBA teams - New York Post",
-      "link": "https://nypost.com/2025/06/15/sports/kevin-durant-prefers-trade-to-one-of-these-three-nba-teams/"
-    },
-    {
       "title": "Re-entering the draft isn\u2019t a viable option for Shemar Stewart - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/re-entering-the-draft-isnt-a-viable-option-for-shemar-stewart"
+    },
+    {
+      "title": "Mauricio Pochettino hits back at Christian Pulisic: \u2018I\u2019m the head coach\u2019 - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/mauricio-pochettino-hits-back-at-christian-pulisic-im-the-head-coach"
     },
     {
       "title": "Tonight's Live Results: Hitchins Vs. Kambosos And Cruz Vs. Mishiro From New York - Boxing News 24",
       "link": "https://www.boxingnews24.com/2025/06/tonights-live-results-hitchins-vs-kambosos-and-cruz-vs-mishiro-from-new-york/"
     },
     {
-      "title": "Caitlin Clark explodes for 32 points in return from injury as Indiana Fever hand New York Liberty first loss of season - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHBRc3luN09nQ3BLdXpWYi0yZlRBTFJPS3ctM0hUdUc5VXh0YThnXzItUkJoVUxpbDBJLThGdWxzbm9lMnRSNGFPNUczNGVVZW5LQ0E0cFFPSVlaYWFlOFJQWVhEaENEV2hnUGxCTlp2SkFUVlRVSzVTX1JIa3FaWk1pejg5SmJFQ19YaFYzbFlZWU8z0gGaAUFVX3lxTE8wSFpydWV0UHEzWm1HZEQxRkI1VjlITVppcTh0SXNOOXkwRnFlOTRzbVhjZEgtYzhrSkl2enBTb0R0cGd0QTVDTEY2bmpyQkZpSzNkRmxMNUEtdDk5SE8xcmt5cWFmUk1OdkRIMlowRHJFTUdoeFBzRGhQbmpxd3I3M3lSb2lCTkQ1SEFIS0RiVi1BZ1FycjFQNHc?oc=5"
-    },
-    {
-      "title": "Pope Leo on Jubilee of Sport: No one is born a champion or saint - Vatican News",
-      "link": "https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-on-jubilee-of-sport-no-one-is-born-a-champion-or-saint.html"
+      "title": "Jasson Dominguez\u2019s baserunning blunder in key spot sinks Yankees - New York Post",
+      "link": "https://nypost.com/2025/06/15/sports/jasson-dominguezs-baserunning-blunder-in-key-spot-sinks-yankees/"
     }
   ],
   "weather": {
