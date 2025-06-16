@@ -1,9 +1,9 @@
 {
-  "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance. \u2013 Alan Watts",
-  "fact": "The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.",
-  "crypto": "BTC: $105,367 | ETH: $2,530.81",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
+  "quote": "Do every act of your life as if it were your last. \u2013 Marcus Aurelius",
+  "fact": "%60 of all people using the Internet, use it for pornography.",
+  "crypto": "BTC: $105,842 | ETH: $2,569.36",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What is a vampire's favorite fruit? A blood orange.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.RheaDad_EN-US1643943847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Street Fighter 6 input lag tests on Nintendo Switch 2 reveal higher latency results than most other systems - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/jun/14/street-fighter-6-switch-lag/"
+    },
     {
       "title": "Obsidian Reiterates $80 \u2018Outer Worlds 2\u2019 Price Is On Xbox, Not Them - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/06/14/obsidian-reiterates-80-outer-worlds-2-price-is-on-xbox-not-them/"
@@ -40,10 +44,6 @@
       "link": "https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis"
     },
     {
-      "title": "Xbox Game Pass has four games confirmed for July so far - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/xbox-game-pass-four-games-confirmed-july-2025"
-    },
-    {
       "title": "ChatGPT Glossary: 52 AI Terms Everyone Should Know - CNET",
       "link": "https://www.cnet.com/tech/services-and-software/chatgpt-glossary-52-ai-terms-everyone-should-know/"
     },
@@ -64,6 +64,10 @@
       "link": "https://www.videogameschronicle.com/news/pre-orders-for-the-xbox-rog-ally-will-reportedly-begin-in-august-with-launch-expected-two-months-later/"
     },
     {
+      "title": "ChatGPT Is Telling People With Psychiatric Problems to Go Off Their Meds - futurism.com",
+      "link": "https://futurism.com/chatgpt-mental-illness-medications"
+    },
+    {
       "title": "Apple\u2019s SVP Of Software Engineering Craig Federighi Wants To Maintain The iPad\u2019s Simplicity, Making It The Best Touch Computer, As He Responds To The Possibility Of These Tablets Running macOS - Wccftech",
       "link": "https://wccftech.com/apple-craig-federighi-interview-why-macos-will-not-come-to-the-ipad/"
     },
@@ -76,54 +80,58 @@
       "link": "https://www.cnn.com/2025/06/14/tech/google-meta-snap-smart-glasses-ai"
     },
     {
+      "title": "Apple surprisingly releases revised iOS 26 Developer Beta to fix serious battery issue - PhoneArena",
+      "link": "https://www.phonearena.com/news/apple-revises-ios-26-developer-beta-due-to-battery-issue_id171333"
+    },
+    {
       "title": "Steam drops 8 free games, yours to keep forever with no subscription - GAMINGbible",
       "link": "https://www.gamingbible.com/news/platform/steam/steam-drops-8-free-games-982624-20250609"
     },
     {
       "title": "Resident Evil Requiem Report Reveals Huge Surprise Capcom Is Keeping Secret - ComicBook.com",
       "link": "http://comicbook.com/gaming/news/resident-evil-requiem-9-re9-capcom-leon/"
-    },
-    {
-      "title": "The Best \u2018Final Fantasy\u2019 References in Its Huge \u2018Magic: The Gathering\u2019 Crossover - Gizmodo",
-      "link": "https://gizmodo.com/final-fantasy-magic-the-gathering-best-easter-eggs-refrences-2000615683"
-    },
-    {
-      "title": "New paper pushes back on Apple\u2019s LLM \u2018reasoning collapse\u2019 study - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/13/new-paper-pushes-back-on-apples-llm-reasoning-collapse-study/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Durant prefers Heat, Spurs, Rockets, sources say - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/45515293/sources-durant-prefers-land-heat-spurs-rockets"
+    },
+    {
+      "title": "Missouri governor signs Chiefs, Royals stadium bill - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-governor-signs-chiefs-royals-stadium-bill"
+    },
+    {
+      "title": "U.S. Open 2025: Final-round tee times, pairings and featured groups Sunday at Oakmont - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/u-s-open-2025-final-round-tee-times-pairings-and-featured-groups-sunday-at-oakmont"
+    },
+    {
+      "title": "What to watch for in the Canadian Grand Prix - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/verstappen-vs-russell-part-ii-and-tsunoda-fighting-through-from-the-back.5dTnSIjyXauCA0JboTTmoN"
+    },
     {
       "title": "Final X Wrestling Results 2025. Here's Every Winner - FloWrestling",
       "link": "https://www.flowrestling.org/articles/14290908-final-x-wrestling-results-2025-heres-every-winner"
     },
     {
-      "title": "UFC Atlanta live updates: Kamaru Usman vs. Joaquin Buckley results, round-by-round analysis and highlights - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/live/ufc-atlanta-live-updates-kamaru-usman-vs-joaquin-buckley-results-round-by-round-analysis-and-highlights-050033254.html"
+      "title": "Twins To Place Royce Lewis On IL Due To Hamstring Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/royce-lewis-undergoing-mri-for-hamstring-strain.html"
     },
     {
-      "title": "2025 U.S. Open leaderboard live coverage: Scoreboard updates, golf scores, tee times for Round 3 at Oakmont - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/2025-u-s-open-leaderboard-breakdown-sam-burns-stays-hot-adam-scott-climbs-into-final-pairing-on-moving-day/live/"
-    },
-    {
-      "title": "Le Mans 24 Hours Live Commentary and Updates: #51 Ferrari leads after #83 goes off | Live text - Motorsport.com",
-      "link": "https://www.motorsport.com/lemans/live-text/le-mans-24-hours-live-commentary-and-updates-1124950/1124951/"
-    },
-    {
-      "title": "Swing points for each Kevin Durant suitor in Suns\u2019 trade negotiations - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/kevin-durant-trade-news/3587061/"
+      "title": "Chelsea vs. LAFC, Club World Cup: You choose the starting lineup - We Ain't Got No History",
+      "link": "https://weaintgotnohistory.sbnation.com/2025/6/14/24449395/how-should-chelsea-line-up-against-lafc-at-the-club-world-cup"
     },
     {
       "title": "Russell beats Verstappen and Piastri to pole in thrilling Qualifying for Canadian GP - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/russell-beats-verstappen-and-piastri-to-pole-in-thrilling-qualifying-for.4mhZxtILshXKnb4uYYxwZx"
     },
     {
-      "title": "F1 Canadian GP: Russell snatches last gasp pole from Verstappen, Norris seventh - Autosport",
-      "link": "https://www.autosport.com/f1/news/f1-canadian-gp-russell-snatches-last-gasp-pole-from-verstappen-norris-seventh/10732805/"
-    },
-    {
       "title": "Qualifying results: Berlin ARCA 200 at Berlin Raceway - arcaracing.com",
       "link": "https://www.arcaracing.com/2025/06/14/qualifying-results-berlin-arca-200-at-berlin-raceway-3/"
+    },
+    {
+      "title": "Where to Watch FIFA Club World Cup Free: Live Stream the 2025 Tournament Anywhere - Business Insider",
+      "link": "https://www.businessinsider.com/guides/streaming/where-to-watch-fifa-club-world-cup-2025"
     },
     {
       "title": "Simone Biles refused to see common sense question before mocking Riley Gaines - New York Post",
@@ -134,8 +142,16 @@
       "link": "https://www.bleachernation.com/cubs/2025/06/14/enhanced-box-score-cubs-2-pirates-1-june-14-2025/"
     },
     {
+      "title": "Dan Patrick: Blame the networks for showing Taylor Swift, Travis Kelce - Awful Announcing",
+      "link": "https://awfulannouncing.com/nhl/dan-patrick-blame-networks-taylor-swift-travis-kelce.html"
+    },
+    {
+      "title": "Le Mans 24 Hours, Hour 6: Ferrari in control with Porsche best of the rest - Autosport",
+      "link": "https://www.autosport.com/le-mans/news/le-mans-24-hours-hour-6-ferrari-in-control-with-porsche-best-of-the-rest/10732811/"
+    },
+    {
       "title": "Caitlin Clark returns from injury with \u2018bonkers\u2019 3-point barrage for Fever - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSm5BbDhreS1yZnJrV2FGSkJGZGxITE1Od0JHbTl2YTUwNW1YdE5vOHhDUUlFYlR2UFowbmJicWM5d1dsaGEwazVSZHl6T3I5NHRremtNQnlQNHBDcW1mVEx3TVpJVF9pSFZ4cUF5aW9HQk1IaVpURlVVR3paX2lEUG9JMTVKWmxaUVlCWExRc0JvXzlYWGRqbVVnYUxBWTMxcGJVNnVNemxVYzZ3MVV3?oc=5"
+      "link": "https://nypost.com/2025/06/14/sports/caitlin-clark-returns-from-injury-with-bonkers-3-point-barrage-for-fever/"
     },
     {
       "title": "Newgarden leads delayed first IndyCar practice at WWTR - RACER",
@@ -152,22 +168,6 @@
     {
       "title": "Mavericks sending strong Jason Kidd message to Knicks after denial: NBA insider - New York Post",
       "link": "https://nypost.com/2025/06/14/sports/mavericks-sending-strong-jason-kidd-message-to-knicks/"
-    },
-    {
-      "title": "Bruins Sign Victor Soderstrom to One-Year, Two-Way Contract - NHL.com",
-      "link": "https://www.nhl.com/bruins/news/bruins-sign-victor-soderstrom-to-one-year-two-way-contract"
-    },
-    {
-      "title": "Reds Acquire Brian Van Belle - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/reds-acquire-brian-van-belle.html"
-    },
-    {
-      "title": "South Africa\u2019s emotional WTC triumph: Proteas win first major cricket trophy in 27 years - AP News",
-      "link": "https://apnews.com/article/south-africa-australia-wtc-final-667bef80ea1a0b2f8ee45e0b2caf1d15"
-    },
-    {
-      "title": "Bayern Munich vs. Auckland City \u2014 Lineups, team news, injuries, and more! - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/2025/6/14/24449154/bayern-munich-auckland-city-lineups-team-news-injuries-more-musiala-kane-upamecano-muller-sane-coman"
     }
   ],
   "weather": {
