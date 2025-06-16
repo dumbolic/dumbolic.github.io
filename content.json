@@ -1,9 +1,9 @@
 {
-  "quote": "A leader leads by example, not by force. \u2013 Sun Tzu",
-  "fact": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
-  "crypto": "BTC: $106,255 | ETH: $2,574.64",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A cannibal is someone who is fed up with people.",
+  "quote": "Embody what you teach, and teach only what you have embodied. \u2013 Dan Millman",
+  "fact": "In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.",
+  "crypto": "BTC: $106,442 | ETH: $2,577.4",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iPhone 17 Pro Launching in Three Months With These 12 New Features - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/14/iphone-17-pro-and-pro-max-rumors/"
+    },
+    {
       "title": "Street Fighter 6 input lag tests on Nintendo Switch 2 reveal higher latency results than most other systems - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/jun/14/street-fighter-6-switch-lag/"
+    },
+    {
+      "title": "Week in Review: WWDC 2025 recap - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/14/week-in-review-wwdc-2025-recap/"
     },
     {
       "title": "Obsidian Reiterates $80 \u2018Outer Worlds 2\u2019 Price Is On Xbox, Not Them - Forbes",
@@ -34,10 +42,6 @@
     {
       "title": "Xbox Surprises Users With Free Copy of One of its Biggest Games - ComicBook.com",
       "link": "http://comicbook.com/gaming/news/xbox-series-x-free-game-june-2025/"
-    },
-    {
-      "title": "Grounded 2 is a lot of fun, and its best feature is happening because Obsidian left the Xbox One behind - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/grounded-2-hands-on-summer-game-fest-2025"
     },
     {
       "title": "Answering the Nintendo Switch 2\u2019s lingering accessibility questions - The Verge",
@@ -68,6 +72,10 @@
       "link": "https://futurism.com/chatgpt-mental-illness-medications"
     },
     {
+      "title": "Fujifilm's X-E5, New Bose Speakers, and Qualcomm's Smart Glasses Chip\u2014Your Gear News of the Week - WIRED",
+      "link": "https://www.wired.com/story/fujifilms-x-e5-new-bose-speakers-and-qualcomms-smart-glasses-chip-your-gear-news-of-the-week/"
+    },
+    {
       "title": "Apple\u2019s SVP Of Software Engineering Craig Federighi Wants To Maintain The iPad\u2019s Simplicity, Making It The Best Touch Computer, As He Responds To The Possibility Of These Tablets Running macOS - Wccftech",
       "link": "https://wccftech.com/apple-craig-federighi-interview-why-macos-will-not-come-to-the-ipad/"
     },
@@ -80,94 +88,78 @@
       "link": "https://www.cnn.com/2025/06/14/tech/google-meta-snap-smart-glasses-ai"
     },
     {
-      "title": "Apple surprisingly releases revised iOS 26 Developer Beta to fix serious battery issue - PhoneArena",
-      "link": "https://www.phonearena.com/news/apple-revises-ios-26-developer-beta-due-to-battery-issue_id171333"
-    },
-    {
-      "title": "Steam drops 8 free games, yours to keep forever with no subscription - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/steam/steam-drops-8-free-games-982624-20250609"
-    },
-    {
-      "title": "Resident Evil Requiem Report Reveals Huge Surprise Capcom Is Keeping Secret - ComicBook.com",
-      "link": "http://comicbook.com/gaming/news/resident-evil-requiem-9-re9-capcom-leon/"
+      "title": "Samsung\u2019s Android 16 update makes your phone feel faster [Video] - Sammy Fans",
+      "link": "https://www.sammyfans.com/2025/06/14/samsung-android-16-update-makes-your-phone-feel-faster/"
     }
   ],
   "sports_news": [
     {
-      "title": "Durant prefers Heat, Spurs, Rockets, sources say - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45515293/sources-durant-prefers-land-heat-spurs-rockets"
+      "title": "Panthers win again on road, return to Florida 1 win away from repeating as Stanley Cup champions - NHL.com",
+      "link": "https://www.nhl.com/news/florida-panthers-win-again-on-road-return-home-one-way-from-stanley-cup-repeat"
+    },
+    {
+      "title": "D.C. Defenders win UFL title, 58-34 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/d-c-defenders-win-ufl-title-58-34"
+    },
+    {
+      "title": "Yankees\u2019 brutal gaffe ruins rally after polarizing Hunter Dobbins exits in another loss to Red Sox - New York Post",
+      "link": "https://nypost.com/2025/06/14/sports/yankees-rally-stalls-after-brutal-gaffe-in-another-loss-to-red-sox/"
+    },
+    {
+      "title": "Messi\u2019s Inter Miami held by Al Ahly at FIFA Club World Cup - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/6/15/messis-inter-miami-held-by-al-ahly-at-fifa-club-world-cup"
+    },
+    {
+      "title": "Diamondbacks rally for 5 runs in 9th inning to walk-off Padres - Arizona Sports",
+      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/dbacks-padres/3587101/"
+    },
+    {
+      "title": "Race strategy guide for the Canadian Grand Prix - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-canadian-grand-prix.daKoeHA3RAb0qF8HIqrKq"
+    },
+    {
+      "title": "UFC on ESPN 69 video: Illegal Paul Craig upkick turns Rodolfo Bellato fight to no contest - MMA Junkie",
+      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2025/06/14/ufc-atlanta-paul-craig-vs-rodolfo-bellato-no-contest-illegal-kick/84214430007/"
+    },
+    {
+      "title": "Kevin Durant Reportedly Prefers Heat, Spurs, Rockets as Landing Spots amid NBA Rumors - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25208299-kevin-durant-reportedly-prefers-heat-spurs-rockets-landing-spots-amid-nba-rumors"
     },
     {
       "title": "Missouri governor signs Chiefs, Royals stadium bill - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-governor-signs-chiefs-royals-stadium-bill"
     },
     {
-      "title": "U.S. Open 2025: Final-round tee times, pairings and featured groups Sunday at Oakmont - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/u-s-open-2025-final-round-tee-times-pairings-and-featured-groups-sunday-at-oakmont"
+      "title": "Royals hold players-only meeting after 5th straight loss: \u2018Just tired of losing\u2019 - Kansas City Star",
+      "link": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article308666795.html"
     },
     {
-      "title": "What to watch for in the Canadian Grand Prix - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/verstappen-vs-russell-part-ii-and-tsunoda-fighting-through-from-the-back.5dTnSIjyXauCA0JboTTmoN"
+      "title": "Former NBC golf analyst Johnny Miller throws dig at Bryson DeChambeau\u2019s missed cut at U.S. Open - Awful Announcing",
+      "link": "https://awfulannouncing.com/golf/johnny-miller-bryson-dechambeau-missed-cut-dig-us-open.html"
+    },
+    {
+      "title": "Mauricio Pochettino on absent Christian Pulisic: 'Players cannot dictate the plan' - FOX Sports",
+      "link": "https://www.foxsports.com/stories/soccer/usmnt-mauricio-pochettino-addresses-absent-christian-pulisic-gold-cup"
+    },
+    {
+      "title": "Hometown hero Daniel Suarez scores Xfinity victory at Mexico City - Jayski's NASCAR Silly Season Site",
+      "link": "https://www.jayski.com/2025/06/14/hometown-hero-daniel-suarez-scores-xfinity-victory-at-mexico-city/"
+    },
+    {
+      "title": "U.S. Open 2025: Final-round tee times, pairings and featured groups Sunday at Oakmont - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/u-s-open-2025-final-round-tee-times-pairings-and-featured-groups-sunday-at-oakmont"
     },
     {
       "title": "Final X Wrestling Results 2025. Here's Every Winner - FloWrestling",
       "link": "https://www.flowrestling.org/articles/14290908-final-x-wrestling-results-2025-heres-every-winner"
     },
     {
+      "title": "Adjusted 2025 F1 Canadian Grand Prix starting grid after multiple penalties - racingnews365.com",
+      "link": "https://racingnews365.com/adjusted-2025-f1-canadian-grand-prix-starting-grid-after-penalty"
+    },
+    {
       "title": "Twins To Place Royce Lewis On IL Due To Hamstring Strain - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/royce-lewis-undergoing-mri-for-hamstring-strain.html"
-    },
-    {
-      "title": "Chelsea vs. LAFC, Club World Cup: You choose the starting lineup - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/2025/6/14/24449395/how-should-chelsea-line-up-against-lafc-at-the-club-world-cup"
-    },
-    {
-      "title": "Russell beats Verstappen and Piastri to pole in thrilling Qualifying for Canadian GP - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/russell-beats-verstappen-and-piastri-to-pole-in-thrilling-qualifying-for.4mhZxtILshXKnb4uYYxwZx"
-    },
-    {
-      "title": "Qualifying results: Berlin ARCA 200 at Berlin Raceway - arcaracing.com",
-      "link": "https://www.arcaracing.com/2025/06/14/qualifying-results-berlin-arca-200-at-berlin-raceway-3/"
-    },
-    {
-      "title": "Where to Watch FIFA Club World Cup Free: Live Stream the 2025 Tournament Anywhere - Business Insider",
-      "link": "https://www.businessinsider.com/guides/streaming/where-to-watch-fifa-club-world-cup-2025"
-    },
-    {
-      "title": "Simone Biles refused to see common sense question before mocking Riley Gaines - New York Post",
-      "link": "https://nypost.com/2025/06/14/sports/simone-biles-refused-to-see-common-sense-question-before-bashing-riley-gaines/"
-    },
-    {
-      "title": "Enhanced Box Score: Cubs 2, Pirates 1 \u2013 June 14, 2025 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/06/14/enhanced-box-score-cubs-2-pirates-1-june-14-2025/"
-    },
-    {
-      "title": "Dan Patrick: Blame the networks for showing Taylor Swift, Travis Kelce - Awful Announcing",
-      "link": "https://awfulannouncing.com/nhl/dan-patrick-blame-networks-taylor-swift-travis-kelce.html"
-    },
-    {
-      "title": "Le Mans 24 Hours, Hour 6: Ferrari in control with Porsche best of the rest - Autosport",
-      "link": "https://www.autosport.com/le-mans/news/le-mans-24-hours-hour-6-ferrari-in-control-with-porsche-best-of-the-rest/10732811/"
-    },
-    {
-      "title": "Caitlin Clark returns from injury with \u2018bonkers\u2019 3-point barrage for Fever - New York Post",
-      "link": "https://nypost.com/2025/06/14/sports/caitlin-clark-returns-from-injury-with-bonkers-3-point-barrage-for-fever/"
-    },
-    {
-      "title": "Newgarden leads delayed first IndyCar practice at WWTR - RACER",
-      "link": "https://racer.com/2025/06/14/newgarden-leads-delayed-first-indycar-practice-at-wwtr"
-    },
-    {
-      "title": "Panthers at Oilers, Stanley Cup Final Game 5 preview - NHL.com",
-      "link": "https://www.nhl.com/news/florida-panthers-edmonton-oilers-stanley-cup-final-game-5-preview-june-14"
-    },
-    {
-      "title": "Nationals\u2019 bat-retrieving dog Bruce laps up pregame attention, makes MLB debut - AP News",
-      "link": "https://apnews.com/article/nationals-bat-dog-bruce-35e1dfb0993cdecbda8d6258021c7d7d"
-    },
-    {
-      "title": "Mavericks sending strong Jason Kidd message to Knicks after denial: NBA insider - New York Post",
-      "link": "https://nypost.com/2025/06/14/sports/mavericks-sending-strong-jason-kidd-message-to-knicks/"
     }
   ],
   "weather": {
