@@ -1,9 +1,9 @@
 {
-  "quote": "Be regular and orderly in your life, so that you may be violent and original in your work. \u2013 Gustave Flaubert",
-  "fact": "Reindeer like to eat bananas.",
-  "crypto": "BTC: $105,733 | ETH: $2,553.74",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
+  "quote": "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. \u2013 Elon Musk",
+  "fact": "The airplane Buddy Holly died in was the \"American Pie.\" (Thus the name of the Don McLean song.)",
+  "crypto": "BTC: $105,630 | ETH: $2,555.44",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you get hanging from Apple trees? Sore arms.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Donkey Kong Bananza Direct Revealed For Wednesday, 18th June 2025 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/06/donkey-kong-bananza-direct-revealed-for-wednesday-18th-june-2025"
+    },
+    {
+      "title": "Critically Panned MindsEye Makes Surprising Debut in First Sales Report - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/critically-panned-mindseye-makes-surprising-debut-in-first-sales-report"
+    },
+    {
+      "title": "'Rumble Has Been Turned Off Due To Prolonged Use'? Don't Worry, Your Switch 2 Joy-Con Probably Aren't Broken - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/06/rumble-has-been-turned-off-due-to-prolonged-use-dont-worry-your-switch-2-joy-con-probably-arent-broken"
+    },
+    {
+      "title": "Exactly When Apple Will Launch iPhone 17 And iPhone 17 Pro - Forbes",
+      "link": "https://www.forbes.com/sites/davidphelan/2025/06/16/exactly-when-apple-will-launch-iphone-17-and-iphone-17-pro/"
+    },
+    {
+      "title": "OnePlus announces the Nord 5 and four more products - The Verge",
+      "link": "https://www.theverge.com/news/687441/oneplus-nord5-ce5-buds4-pad-lite-watch3"
+    },
+    {
+      "title": "Another Upcoming PS Plus Premium Game Appears to Leak - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/another-upcoming-ps-plus-premium-game-appears-to-leak"
+    },
+    {
+      "title": "Nintendo Switch 2: The Ars Technica review - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/06/nintendo-switch-2-the-ars-technica-review/"
+    },
+    {
+      "title": "Can wind power generators replace my home solar panels? My verdict after months of testing - ZDNET",
+      "link": "https://www.zdnet.com/home-and-office/energy/can-wind-power-generators-replace-my-home-solar-panels-my-verdict-after-months-of-testing/"
+    },
+    {
+      "title": "Tarkhan Dress: World's oldest known outfit was worn to an ancient Egyptian funeral 5,000 years ago - Live Science",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/tarkhan-dress-worlds-oldest-known-outfit-was-worn-to-an-ancient-egyptian-funeral-5-000-years-ago"
+    },
+    {
+      "title": "Microsoft: June Windows Server security updates cause DHCP issues - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/"
+    },
+    {
       "title": "Microsoft accidentally swapped Windows 11\u2019s startup sound with Vista\u2019s - The Verge",
       "link": "https://www.theverge.com/news/687417/microsoft-windows-11-startup-sound-boot-windows-vista-replacement-mistake-dev-channel"
+    },
+    {
+      "title": "A New Obesity Pill May Burn Fat Without Suppressing Appetite - WIRED",
+      "link": "https://www.wired.com/story/new-obesity-pill-may-burn-fat-without-suppressing-appetite/"
+    },
+    {
+      "title": "The Hoddle of Coffee: Tottenham Hotspur News and Links for Monday, June 16 - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/2025/6/16/24449633/the-hoddle-of-coffee-tottenham-hotspur-news-and-links-for-monday-june-16"
     },
     {
       "title": "AI alone cannot solve the productivity puzzle - Financial Times",
@@ -42,96 +90,68 @@
     {
       "title": "Steam new free download hailed as a 9/10 banger - GAMINGbible",
       "link": "https://www.gamingbible.com/news/platform/steam/steam-new-free-download-hailed-banger-410875-20250613"
-    },
-    {
-      "title": "I wanted to love the Google Pixel 7a when it was released in 2023, but it let me down in every way - Android Police",
-      "link": "https://www.androidpolice.com/google-pixel-7a-letdown/"
-    },
-    {
-      "title": "The Best Deals Today: Indiana Jones and the Great Circle, Nintendo Switch OLED, and More - IGN",
-      "link": "https://www.ign.com/articles/best-deals-for-june-15-2025"
-    },
-    {
-      "title": "Electromechanical Atari Is A Steampunk Meccano Masterpiece - Hackaday",
-      "link": "https://hackaday.com/2025/06/15/electromechanical-atari-is-a-steampunk-meccano-masterpiece/"
-    },
-    {
-      "title": "ChatGPT's AI coder Codex now lets you choose the best solution - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/"
-    },
-    {
-      "title": "Your MacBook is getting a big upgrade. 5 best features I can't wait to use in MacOS 26 - ZDNET",
-      "link": "https://www.zdnet.com/article/your-macbook-is-getting-a-big-upgrade-5-best-features-i-cant-wait-to-use-in-macos-26/"
-    },
-    {
-      "title": "Pok\u00e9mon GO Events (June 16\u201322, 2025): Kyogre, Yamper Debut & More! - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-june-16-22-2025-kyogre-yamper-debut-more/"
-    },
-    {
-      "title": "I found the best free and secure way to transfer files between Android and Windows or Mac - Android Police",
-      "link": "https://www.androidpolice.com/best-free-and-secure-way-to-transfer-files-between-android-windows-or-mac/"
-    },
-    {
-      "title": "Apple to Start Releasing Public Betas of AirPods Firmware Updates - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/15/airpods-firmware-public-betas/"
-    },
-    {
-      "title": "Galaxy Unpacked: Samsung may have already revealed the launch date and location for Galaxy Z Fold7, Flip7 and Watch 8 - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Galaxy-Unpacked-Samsung-may-have-already-revealed-the-launch-date-and-location-for-Galaxy-Z-Fold7-Flip7-and-Watch-8.1036588.0.html"
-    },
-    {
-      "title": "Unreleased GeForce RTX 3080 Ti with 20GB memory spotted on eBay - VideoCardz.com",
-      "link": "https://videocardz.com/newz/unreleased-geforce-rtx-3080-ti-with-20gb-memory-spotted-on-ebay"
-    },
-    {
-      "title": "Nintendo and Amazon\u2019s feud now seemingly resolved - My Nintendo News",
-      "link": "https://mynintendonews.com/2025/06/15/nintendo-and-amazons-feud-now-seemingly-resolved/"
-    },
-    {
-      "title": "Fake RTX 4090 with laser-engraved GA102 GPU exposed by repair shop, a recurring scam - VideoCardz.com",
-      "link": "https://videocardz.com/newz/fake-rtx-4090-with-laser-engraved-ga102-gpu-exposed-by-repair-shop-a-recurring-scam"
     }
   ],
   "sports_news": [
     {
-      "title": "Red Sox trade Rafael Devers to Giants in stunning MLB blockbuster - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/06/15/rafael-devers-trade-red-sox-giants/"
+      "title": "J.J. Spaun nearly fell apart at the US Open. A rain delay reset, and two magical shots, lifted him to the championship - CNN",
+      "link": "https://www.cnn.com/2025/06/16/sport/jj-spaun-us-open-champion-spt"
     },
     {
-      "title": "Zach Wilson: After my New York experience, I want to enjoy the game in Miami - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-wilson-after-my-new-york-experience-i-want-to-enjoy-the-game-in-miami"
+      "title": "Shohei Ohtani To Make Dodgers Pitching Debut On Monday - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/shohei-ohtani-to-return-to-pitching-on-monday.html"
     },
     {
-      "title": "The Lakers stance on Austin Reaves should not change after Desmond Bane trade - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/2025/6/15/24449836/austin-reaves-trade-lakers-grizzlies-desmond-bane-magic-nba-offseason"
+      "title": "Grizzlies trade Desmond Bane to Magic for four first-round picks, plus more - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/15/desmond-bane-trade-grizzlies-magic-cole-anthony/"
+    },
+    {
+      "title": "What Scottie Scheffler blamed for uncharacteristic US Open struggles - New York Post",
+      "link": "https://nypost.com/2025/06/16/sports/what-scottie-scheffler-blamed-for-uncharacteristic-us-open-struggles/"
+    },
+    {
+      "title": "Suns Notes: Durant Trade, Draft Workout - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/06/suns-notes-durant-trade-draft-workout.html"
     },
     {
       "title": "Queasy Shane van Gisbergen 'leaking out both holes' powers through to win at Mexico - FOX Sports",
       "link": "https://www.foxsports.com/stories/nascar/queasy-shane-van-gisbergen-leaking-out-both-holes-powers-through-win-mexico"
     },
     {
-      "title": "Rory McIlroy ends his US Open on a high note with a 67. The next major is in his home country - AP News",
-      "link": "https://apnews.com/article/us-open-rory-mcilroy-b281e683eeeda807f6163df1de83385d"
+      "title": "Rory McIlroy makes telling admission as struggles mount since Masters win - New York Post",
+      "link": "https://nypost.com/2025/06/15/sports/rory-mcilroy-makes-admission-as-struggles-mount-since-masters-win/"
     },
     {
-      "title": "J.J. Spaun Wins 2025 US Open at Oakmont Despite Rain, Wows Golf Fans With Clutch Putt - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25208520-jj-spaun-wins-2025-us-open-oakmont-despite-rain-wows-golf-fans-clutch-putt"
+      "title": "Philadelphia's pipeline shines, NYCFC get creative & more from Matchday 19 - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/philadelphia-s-pipeline-shines-nycfc-get-creative-more-from-matchday-19"
     },
     {
       "title": "Yankees' Aaron Judge finishes brutal Red Sox series with another dud \u2014 and he knows why - New York Post",
       "link": "https://nypost.com/2025/06/15/sports/yankees-aaron-judge-finishes-brutal-red-sox-series-with-another-dud-and-he-knows-why/"
     },
     {
-      "title": "Bayern Munich rolls to 10-0 romp at FIFA Club World Cup \u2014 over a bunch of amateurs - New York Post",
-      "link": "https://nypost.com/2025/06/15/sports/bayern-munich-rolls-to-10-0-romp-at-fifa-club-world-cup-over-a-bunch-of-amateurs/"
+      "title": "Stella says Norris and Piastri collision \u2018not acceptable\u2019 as he admits Briton has \u2018paid a price in the championship\u2019 - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/stella-says-norris-and-piastri-collision-not-acceptable-as-he-admits-briton.5I2G0joimFftevHuEeJDjj"
+    },
+    {
+      "title": "After Singing \u2018Star Spangled Banner\u2019 in Spanish at Dodgers Game in Spite of Being Warned Not To, Nezza Tearfully Says: \u2018Today, Out of All Days\u2026 I Needed to Do It\u2019 - Variety",
+      "link": "https://variety.com/2025/music/news/nezza-dodgers-spanish-star-spangled-banner-national-anthem-1236432536/"
     },
     {
       "title": "Play resumes in final round of U.S. Open at Oakmont Country Club - NBC Sports",
       "link": "https://www.nbcsports.com/golf/news/play-suspended-in-final-round-of-u-s-open-at-oakmont-country-club"
     },
     {
+      "title": "WATCH: Ian Happ Walks It Off for the Cubs! - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/15/watch-ian-happ-walks-it-off-for-the-cubs/"
+    },
+    {
       "title": "USMNT vs. Trinidad and Tobago: Starting XI & Lineup Notes - US Soccer",
       "link": "https://www.ussoccer.com/stories/2025/06/usmnt-trinidad-tobago-starting-lineup-notes-diego-luna-tim-ream"
+    },
+    {
+      "title": "Five Observations from Bayern Munich\u2019s dominant 10-0 win over Auckland City - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/6/15/24449734/bayern-munich-auckland-city-club-world-cup-jonathan-tah-lennart-karl-dayot-upamecano-jamal-musiala"
     },
     {
       "title": "Le Mans 24 Hours: Kubica wins with Ferrari as Porsche spoils 1-2-3 - Autosport",
