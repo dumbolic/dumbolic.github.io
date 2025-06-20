@@ -1,9 +1,9 @@
 {
-  "quote": "There is only one thing in the world worse than being talked about, and that is not being talked about.  \u2013 Oscar Wilde",
-  "fact": "The word Pennsylvania is misspelled on the Liberty Bell.",
-  "crypto": "BTC: $106,104 | ETH: $2,550.85",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Where\u2019s the bin? Dad: I haven\u2019t been anywhere!",
+  "quote": "Happiness is a quality of the soul...not a function of one's material circumstances. \u2013 Aristotle",
+  "fact": "Van Gogh only sold one painting when he was alive.",
+  "crypto": "BTC: $105,926 | ETH: $2,552.18",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Where do rabbits go after they get married? On a bunny-moon.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "John Gruber Reacts to Apple Declining His Interview After His Criticism - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/18/john-gruber-reacts-to-apple-declining-him/"
+    },
+    {
       "title": "Report: Google's switch to TSMC for Pixel 10 chip was a 'shock' and wake-up call for Samsung - 9to5Google",
       "link": "http://9to5google.com/2025/06/18/google-tsmc-pixel-10-chip-samsung-shock-report/"
+    },
+    {
+      "title": "Nintendo Switch 2 and Switch update 20.1.5 out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-2-switch-update-20-1-5-out-now-patch-notes/"
+    },
+    {
+      "title": "All the New CarPlay Features in iOS 26 - Lifehacker",
+      "link": "https://lifehacker.com/tech/all-the-new-carplay-features-in-ios-26"
     },
     {
       "title": "Google Messages rolling out Delete for everyone, Snooze notifications, & more - 9to5Google",
@@ -24,8 +36,16 @@
       "link": "https://www.polygon.com/gaming/607878/hades-2-narcissus-art-reveal-placeholder-unseen-update-greek-myth"
     },
     {
+      "title": "Tony Khan says he\u2019ll never take a bump again after getting hit with \u2018the deadliest move\u2019 in AEW - Cageside Seats",
+      "link": "https://www.cagesideseats.com/aew/2025/6/18/24451772/tony-khan-out-for-life-physically-involved-pro-wrestling-moves-bumps-spike-piledriver-neck-brace-aew"
+    },
+    {
       "title": "Elden Ring Nightreign Is Lying To You About How Long It Takes To Revive Someone And It's Not Even Close - Kotaku",
       "link": "https://kotaku.com/elden-ring-nightreign-revive-faster-tips-three-bars-1851784771"
+    },
+    {
+      "title": "Strange \u2018Modern\u2019 Structures Found at the Bottom of the Arctic Ocean\u2014What Are They? - The Daily Galaxy",
+      "link": "https://dailygalaxy.com/2025/06/strange-modern-structures-arctic-ocean/"
     },
     {
       "title": "Midjourney launches its first AI video generation model, V1 - TechCrunch",
@@ -40,12 +60,20 @@
       "link": "https://www.cnbc.com/2025/06/18/folding-iphone-apple.html"
     },
     {
+      "title": "All Glowing Musical Note locations in Disney Dreamlight Valley - Destructoid",
+      "link": "https://www.destructoid.com/all-glowing-musical-note-locations-in-disney-dreamlight-valley/"
+    },
+    {
       "title": "Facebook rolls out passkey support to fight phishing attacks - The Verge",
       "link": "https://www.theverge.com/news/689410/facebook-passkey-support-phishing-attacks"
     },
     {
       "title": "Pixel Owners Say Android 16 Update Forcing Them to Give Up - Droid Life",
       "link": "https://www.droid-life.com/2025/06/18/pixel-owners-say-android-16-update-forcing-them-to-give-up/"
+    },
+    {
+      "title": "Google\u2019s AI Mode can now have back-and-forth voice conversations - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/18/googles-ai-mode-can-now-have-back-and-forth-voice-conversations/"
     },
     {
       "title": "Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop Review - Phoronix",
@@ -60,58 +88,30 @@
       "link": "https://www.polygon.com/nintendo-switch-2/607651/donkey-kong-bananza-pauline-coop-2-player-nintendo-direct"
     },
     {
-      "title": "Samsung\u2019s first Android XR headset reportedly releasing in October - 9to5Google",
-      "link": "http://9to5google.com/2025/06/18/samsung-android-xr-project-moohan-release-date-report/"
-    },
-    {
       "title": "16 Billion Apple, Facebook, Google And Other Passwords Leaked \u2014 Act Now - Forbes",
       "link": "https://www.forbes.com/sites/daveywinder/2025/06/18/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/"
-    },
-    {
-      "title": "Grab these free retro Sega games for iPhone before it\u2019s too late - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/18/grab-these-free-retro-sega-games-for-iphone-before-its-too-late/"
-    },
-    {
-      "title": "Xbox has turned a corner \u2014 the future for Microsoft's gaming platform once again looks incredibly bright - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/xbox-has-turned-a-corner-the-future-for-microsofts-gaming-platform-once-again-looks-incredibly-bright"
-    },
-    {
-      "title": "Gearbox talks Borderlands 4: Exploration, fixing the meme humor, and entering the series\u2019 \u2018Simpsons Era\u2019 - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/features/gearbox-talks-borderlands-4-exploration-fixing-the-meme-humor-and-entering-the-series-simpsons-era/"
-    },
-    {
-      "title": "Your Samsung Galaxy Watch is about to get a big upgrade for free - 4 features I can't wait to try - ZDNET",
-      "link": "https://www.zdnet.com/article/your-samsung-galaxy-watch-is-about-to-get-a-big-upgrade-for-free-4-features-i-cant-wait-to-try/"
-    },
-    {
-      "title": "AirPods Pro 2 Are Back at Their Lowest Price as Apple Clears Out Limited Stock on Amazon - Gizmodo",
-      "link": "https://gizmodo.com/airpods-pro-2-are-back-at-their-lowest-price-as-apple-clears-out-limited-stock-on-amazon-2000617233"
-    },
-    {
-      "title": "MindsEye developers Build A Rocket Boy deny using bots to promote their game about bots going bad - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/mindseye-developers-build-a-rocket-boy-deny-using-bots-to-promote-their-game-about-bots-going-bad"
     }
   ],
   "sports_news": [
     {
+      "title": "Player Ratings: Real Madrid 1 - 1 Al Hilal - Managing Madrid",
+      "link": "https://www.managingmadrid.com/2025/6/19/24451982/player-ratings-real-madrid-1-1-al-hilal"
+    },
+    {
       "title": "Meet Mark Walter, the billionaire who agreed to buy Lakers in historic $10B deal - New York Post",
       "link": "https://nypost.com/2025/06/18/sports/meet-mark-walter-the-billionaire-who-agreed-to-buy-the-lakers/"
+    },
+    {
+      "title": "Florida Panthers appear to have damaged Stanley Cup - upi.com",
+      "link": "https://www.upi.com"
     },
     {
       "title": "Here are the standouts from Day 2 of the 2025 Draft Combine - MLB.com",
       "link": "https://www.mlb.com/news/2025-draft-combine-day-2-standouts"
     },
     {
-      "title": "LSU baseball score vs. Arkansas: Live updates from 2025 College World Series on Wednesday - NOLA.com",
-      "link": "https://www.nola.com/sports/lsu/lsu-baseball-score-arkansas-college-world-series-omaha-2025-wednesday/article_5fd3dcf3-8a42-468c-aa2d-1a83980cd62b.html"
-    },
-    {
       "title": "There's Growing Push For Caitlin Clark To Leave The WNBA - Yahoo Sports",
       "link": "https://thespun.com/wnba/theres-growing-push-for-caitlin-clark-to-leave-the-wnba"
-    },
-    {
-      "title": "Browns rookie QB Shedeur Sanders ticketed after police say he drove 101 mph in Cleveland suburb - Yahoo Sports",
-      "link": "https://www.cnn.com/2025/06/18/sport/cleveland-browns-shedeur-sanders-ticketed-spt"
     },
     {
       "title": "Report: Other MLB Teams 'Appalled' at How Rafael Devers Handled Red Sox Situation - Sports Illustrated",
@@ -130,24 +130,16 @@
       "link": "https://www.mmafighting.com/2025/6/18/24451697/dana-white-movsar-evloev-likely-gets-title-shot-with-win-over-aaron-pico-at-ufc-abu-dhabi"
     },
     {
-      "title": "Top 10 Players: Real Madrid 1-1 Al Hilal - Managing Madrid",
-      "link": "https://www.managingmadrid.com/2025/6/18/24451812/top-10-players-real-madrid-1-1-al-hilal"
+      "title": "Men's College World Series: LSU rallies back to stun Arkansas, red-hot Coastal Carolina batters Louisville - Yahoo",
+      "link": "https://sports.yahoo.com/college-sports/article/mens-college-world-series-lsu-rallies-back-to-stun-arkansas-red-hot-coastal-carolina-batters-louisville-214231068.html"
     },
     {
-      "title": "Stanley Cup damaged as the Florida Panthers celebrate a second straight championship - AP News",
-      "link": "https://apnews.com/article/panthers-stanley-cup-crack-60bd5610c41f16885a09ade63557f880"
-    },
-    {
-      "title": "CRAWFORD | They got back up: Louisville\u2019s CWS run ends, but the program reclaims its place - WDRB",
-      "link": "https://www.wdrb.com/sports/crawford-they-got-back-up-louisville-s-cws-run-ends-but-the-program-reclaims-its/article_dc3bb94a-ca49-4519-832a-c958dd00cca5.html"
+      "title": "Browns rookie Sanders cited for driving 101 mph - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45540231/browns-rookie-shedeur-sanders-cited-driving-101-mph"
     },
     {
       "title": "Rays in talks to sell to group led by Jacksonville developer - Tampa Bay Times",
       "link": "https://www.tampabay.com/sports/rays/2025/06/18/rays-talks-sell-group-led-by-jacksonville-developer-report/"
-    },
-    {
-      "title": "MLBits: Trade Deadline Names to Watch, Devers\u2019 New Tune, More - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/06/18/mlb-trade-deadline-chatter/"
     },
     {
       "title": "Travis Kelce shares thoughts on whether 2025 is his final season - Arrowhead Pride",
@@ -158,16 +150,24 @@
       "link": "https://www.thebaltimorebanner.com/sports/orioles-mlb/orioles-minor-league-death-luis-guevara-jetski-R7HSKBFHVBB35CLDMA4X2UT6NM/"
     },
     {
-      "title": "Ex-player sues Chiefs, cites racial discrimination - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45539732/ramzee-robinson-sues-chiefs-wrongful-termination-racial-discrimination"
-    },
-    {
       "title": "Singer defied Dodgers, belted anthem in Spanish - ESPN",
       "link": "https://www.espn.com/mlb/story/_/id/45539493/anthem-spanish-sparks-debate-dodgers-immigrant-support"
     },
     {
+      "title": "Minicamp Report (6/18): Notes from the sideline - Giants.com",
+      "link": "https://www.giants.com/news/minicamp-report-practice-russell-wilson-jaxson-dart-jameis-winston-tommy-devito"
+    },
+    {
       "title": "Ex-Raiders receiver Henry Ruggs apologizes to family of woman he killed in car crash - NBC News",
       "link": "https://www.nbcnews.com/news/us-news/ex-raiders-receiver-henry-ruggs-apologizes-car-crash-victims-family-rcna213758"
+    },
+    {
+      "title": "Travelers Championship Betting Odds, Picks, Predictions: Best Bets, Props, OAD - Lineups",
+      "link": "https://www.lineups.com/betting/travelers-championship-odds-picks-predictions-2025/"
+    },
+    {
+      "title": "Jaxson Dart: I feel like I\u2019ve made tremendous strides - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-i-feel-like-ive-made-tremendous-strides"
     }
   ],
   "weather": {
