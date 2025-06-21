@@ -1,9 +1,9 @@
 {
-  "quote": "Others have seen what is and asked why. I have seen what could be and asked why not \u2013 Pablo Picasso",
-  "fact": "The Black Widow spider eats her mate during or after sex.",
-  "crypto": "BTC: $103,406 | ETH: $2,423.55",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What time did the man go to the dentist? Tooth hurt-y.",
+  "quote": "Desire is suffering. \u2013 Naval Ravikant",
+  "fact": "The dot over the letter `i` is called a tittle. \u00a0",
+  "crypto": "BTC: $103,371 | ETH: $2,421.51",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the tomato blush? Because it saw the salad dressing.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "More Switch Titles Get Switch 2 Backwards Compatibility Fixes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/06/more-switch-titles-get-switch-2-backwards-compatibility-fixes"
+    },
     {
       "title": "NetEase Games announces AAA single-player action adventure game Blood Message for consoles, PC - Gematsu",
       "link": "https://www.gematsu.com/2025/06/netease-games-announces-aaa-single-player-action-adventure-game-blood-message-for-consoles-pc"
@@ -22,10 +26,6 @@
     {
       "title": "Google Phone's biggest redesign in years is starting to roll out - Android Police",
       "link": "https://www.androidpolice.com/google-phones-biggest-redesign-in-years-is-starting-to-roll-out/"
-    },
-    {
-      "title": "Samsung\u2019s panic over Google Pixel\u2019s TSMC shift shows a company lost in the woods - 9to5Google",
-      "link": "http://9to5google.com/2025/06/19/samsung-google-tensor-panic-lost-in-the-woods/"
     },
     {
       "title": "Adobe just released an iPhone camera app with full manual controls - 9to5Mac",
@@ -56,10 +56,6 @@
       "link": "https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses"
     },
     {
-      "title": "Northern Lights Alert: Some States Could See Aurora Borealis Thursday - Forbes",
-      "link": "https://www.forbes.com/sites/tylerroush/2025/06/19/northern-lights-forecast-minor-geomagnetic-storms-may-pull-aurora-borealis-to-these-states-tonight/"
-    },
-    {
       "title": "Nintendo Confirms Pauline's Age in Donkey Kong Bananza \u2014 Leaving Fans Wondering Whether It's a Super Mario Odyssey Prequel, and If Mario Will Appear As a Potential Villain - IGN",
       "link": "https://www.ign.com/articles/nintendo-confirms-paulines-age-in-donkey-kong-bananza-leaving-fans-wondering-whether-its-a-super-mario-odyssey-prequel-and-if-mario-will-appear-as-a-potential-villain"
     },
@@ -76,12 +72,12 @@
       "link": "https://www.eurogamer.net/dune-awakening-early-meta-helicopter-infested-nightmare"
     },
     {
-      "title": "Nintendo Switch 2 firmware update fixes Carbon Engine games - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-switch-2-firmware-update-carbon-engine-games-fixed/"
+      "title": "Xbox Is Working With Xenia Canary Emulator Team on a Classics Program That Will Bring Original Xbox, 360 Games to Current Consoles, PC, and Game Pass With Enhancements \u2013 Rumor - Wccftech",
+      "link": "https://wccftech.com/xbox-classics-emulator-enhancements/"
     },
     {
-      "title": "Report: Xbox Working On Massive Backwards Compatibility Overhaul Called 'Xbox Classics' - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2025/06/report-xbox-working-on-massive-backwards-compatibility-overhaul-called-xbox-classics"
+      "title": "Amazon Takes Up to $150 Off M4 Mac Mini With New All-Time Low Prices - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/19/get-apples-m4-mac-mini-low-prices/"
     },
     {
       "title": "The Nintendo Console Launches, Ranked From Worst To Best - Kotaku",
@@ -90,12 +86,32 @@
     {
       "title": "Stellar Blade , As Told By Steam Reviews - Kotaku",
       "link": "https://kotaku.com/stellar-blade-steam-reviews-switch-2-nude-mod-1851784779"
+    },
+    {
+      "title": "Nothing Phone (3) has \u2018Glyph Matrix\u2019 lights in corner, leaked design was likely wrong [Video] - 9to5Google",
+      "link": "http://9to5google.com/2025/06/19/nothing-phone-3-glyph-matrix-leaked-design/"
     }
   ],
   "sports_news": [
     {
-      "title": "Oklahoma City Thunder look to clinch NBA championship in Game 6 against the Pacers - CNN",
-      "link": "https://www.cnn.com/sport/live-news/thunder-pacers-nba-finals-game-6-spt"
+      "title": "Pacers force winner-take-all with Game 6 blowout - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/45547954/pacers-force-winner-take-all-rout-okc-game-6-nba-finals"
+    },
+    {
+      "title": "Video emerges of most recent Shedeur Sanders traffic stop - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/video-emerges-of-most-recent-shedeur-sanders-traffic-stop"
+    },
+    {
+      "title": "Thunder vs. Pacers score: NBA Finals Game 6 live updates as OKC, Shai Gilgeous-Alexander play for title - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/pacers-vs-thunder-score-indiana-forces-first-nba-finals-game-7-in-nine-years-with-blowout-victory/live/"
+    },
+    {
+      "title": "Federal immigration agents asked to leave Dodger Stadium parking lot, team says - AP News",
+      "link": "https://apnews.com/article/dodger-stadium-ice-denied-entry-8c71b0a569b7bec167d52e99390e2e82"
+    },
+    {
+      "title": "5-star safety Jett Washington commits to Oregon: 'Just the fit at Oregon is right for me' - On3.com",
+      "link": "https://www.on3.com/news/5-star-safety-jett-washington-commits-to-oregon-just-the-fit-at-oregon-is-right-for-me/"
     },
     {
       "title": "USMNT vs. Saudi Arabia: Starting XI & Lineup Notes - US Soccer",
@@ -110,20 +126,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rita-benson-leblanc-one-time-successor-to-tom-benson-is-arrested-in-south-carolina"
     },
     {
-      "title": "In must-see moment, fan at Wrigley Field scales netting to retrieve Sal Frelick's bat \u2014 then gets it back - Milwaukee Journal Sentinel",
-      "link": "https://www.jsonline.com/story/sports/mlb/brewers/2025/06/19/fan-at-wrigley-field-scales-netting-to-retrieve-sal-frelicks-bat/84277255007/"
+      "title": "Pacers' Tyrese Haliburton playing in Game 6 despite calf strain - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/45546506/pacers-tyrese-haliburton-play-game-6-rick-carlisle-says"
     },
     {
-      "title": "'Touched by God' - Messi shows he still has magic touch - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/clyn3y2rgl5o"
-    },
-    {
-      "title": "Pacers star Tyrese Haliburton will play in Game 6 of NBA Finals despite calf strain - AP News",
-      "link": "https://apnews.com/article/nba-finals-tyrese-haliburton-pacers-fe8e44d4914ffe6e7962a6736f3e9573"
-    },
-    {
-      "title": "Top scenes from Gainbridge Fieldhouse as Pacers look to force Game 7 - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45545904/oklahoma-city-thunder-indiana-pacers-game-6-sights-sounds"
+      "title": "Messi inspires Inter Miami to win against Porto at Club World Cup - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/6/19/messi-inspires-inter-miami-to-win-against-porto-at-club-world-cup"
     },
     {
       "title": "Everybody got what they needed in the Rafael Devers blockbuster - New York Post",
@@ -138,12 +146,12 @@
       "link": "https://www.royalsreview.com/2025/6/19/24452324/the-italian-stallions-pasquantino-the-royals-need-sweep-the-rangers-4-1-caglianone"
     },
     {
-      "title": "Shedeur Sanders has two speeding tickets this month - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-has-two-speeding-tickets-this-month"
-    },
-    {
       "title": "\u2018Why didn\u2019t we just wait?\u2019: Tarik Skubal voices frustration after rainy victory - MLive.com",
       "link": "https://www.mlive.com/tigers/2025/06/why-didnt-we-just-wait-tarik-skubal-voices-frustration-after-rainy-victory.html"
+    },
+    {
+      "title": "Mbappe discharged from hospital. No timeframe on when Real Madrid star will play at Club World Cup - AP News",
+      "link": "https://apnews.com/article/kylian-mbappe-illness-club-world-cup-f1ca09b7381120cb8c64bead46a709da"
     },
     {
       "title": "Coco Gauff Upset by Xinyu Wang in 2nd Round of German Open After Roland-Garros Title - Bleacher Report",
@@ -160,10 +168,6 @@
     {
       "title": "Red Sox roster: Kristian Campbell sent down to WooSox after prolonged slump - MassLive",
       "link": "https://www.masslive.com/redsox/2025/06/red-sox-roster-kristian-campbell-sent-down-to-woosox-after-prolonged-slump.html"
-    },
-    {
-      "title": "Dallas Cowboy cheerleaders get a major pay raise - KTLA",
-      "link": "https://ktla.com/entertainment/dallas-cowboy-cheerleaders-get-a-major-pay-raise/"
     }
   ],
   "weather": {
