@@ -1,9 +1,9 @@
 {
-  "quote": "In spite of everything, I shall rise again. \u2013 Vincent van Gogh",
-  "fact": "The most common name in world is Mohammed.",
-  "crypto": "BTC: $102,596 | ETH: $2,400.51",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did the doctor say to the gingerbread man who broke his leg? Try icing it.",
+  "quote": "Evil is whatever distracts.  \u2013 Franz Kafka",
+  "fact": "Valentine Tapley from Pike County, Missouri\u00a0 grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.",
+  "crypto": "BTC: $102,561 | ETH: $2,396.52",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Walmart Nintendo Switch 2 restock: confirmed time it'll be in stock - The Shortcut | Matt Swider",
+      "link": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-restock-confirmed"
+    },
+    {
       "title": "Halo: Edge of Dawn | Cover Reveal | Halo - Official Site (en) - Halo Waypoint",
       "link": "https://www.halowaypoint.com/news/halo-edge-of-dawn-cover-reveal"
     },
     {
       "title": "Get a 512GB Mac Mini M4 for its lowest price - The Verge",
       "link": "https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale"
+    },
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/20/chatgpt-everything-to-know-about-the-ai-chatbot/"
     },
     {
       "title": "Join Our next Developer Update Livestream \u2014 Diablo IV - Blizzard News",
@@ -28,8 +36,8 @@
       "link": "https://kotaku.com/sprite-tea-review-is-it-good-soda-taste-spritetea-1851784841"
     },
     {
-      "title": "This Magic: The Gathering Final Fantasy Card Just Sold For More Than Some Annual Salaries - GameSpot",
-      "link": "https://www.gamespot.com/articles/this-magic-the-gathering-final-fantasy-card-just-sold-for-more-than-some-annual-salaries/1100-6532557/"
+      "title": "Someone Already Tried Selling Magic: The Gathering's Golden Chocobo Final Fantasy Card For $50,000 - Kotaku",
+      "link": "https://kotaku.com/golden-chocobo-mtg-final-fantasy-price-foil-restock-1851784836"
     },
     {
       "title": "Video: Right, We Need To Talk About GameChat On Switch 2 - Nintendo Life",
@@ -56,6 +64,10 @@
       "link": "https://www.eurogamer.net/borderlands-4-combat-radar"
     },
     {
+      "title": "iPhone 17 Base Model Rumored to Come in New Purple and Green Colors - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/20/iphone-17-purple-green-colors-rumor/"
+    },
+    {
       "title": "Microsoft is blocking Google Chrome through its family safety feature - The Verge",
       "link": "https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature"
     },
@@ -70,40 +82,48 @@
     {
       "title": "Dune: Awakening creative director stands firm on PvP direction, reveals planned frequency of major updates - Eurogamer",
       "link": "https://www.eurogamer.net/dune-awakening-pvp-changes-next-update"
-    },
-    {
-      "title": "Which deity did Austin Riley besmirch to suffer the WPA vortex this time? - Battery Power",
-      "link": "https://www.batterypower.com/2025/6/20/24452631/which-deity-did-austin-riley-besmirch-suffer-the-wpa-vortex-this-time-daily-question-atlanta-braves"
-    },
-    {
-      "title": "How to turn off ACR on your TV (and what your TV stops tracking when you do) - ZDNet",
-      "link": "https://www.zdnet.com/home-and-office/home-entertainment/how-to-turn-off-acr-on-your-tv-and-what-your-tv-stops-tracking-when-you-do/"
-    },
-    {
-      "title": "Windows 11 migration heats up... on desktops - theregister.com",
-      "link": "https://www.theregister.com/2025/06/20/windows_11_migration_heats_up/"
     }
   ],
   "sports_news": [
     {
+      "title": "NFL declines comment on whether Rita Benson LeBlanc still owns part of the Saints - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-declines-comment-on-whether-rita-benson-leblanc-still-owns-part-of-the-saints"
+    },
+    {
+      "title": "Mariners cut everyday player to make room for Luke Raley - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-dfa-rowdy-tellez-to-make-room-for-luke-raleys-return/"
+    },
+    {
+      "title": "Caitlin Clark's Teammate Posts Unapologetic Video After Wild WNBA Brawl - HuffPost",
+      "link": "https://www.huffpost.com/entry/caitlin-clark-sophie-cunningham-wnba-brawl_n_68558be7e4b06f37ceed15da"
+    },
+    {
       "title": "Penguins Add Todd Nelson, Nick Bonino, Rich Clune and Troy Paquette to Coaching Staff - NHL.com",
       "link": "https://www.nhl.com/penguins/news/penguins-add-todd-nelson-nick-bonino-rich-clune-and-troy-paquette-to-coaching-staff"
+    },
+    {
+      "title": "Shedeur Sanders Police Traffic Stop Video Released from Speeding Violation - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25210923-shedeur-sanders-police-traffic-stop-video-released-speeding-violation"
     },
     {
       "title": "Kevin Durant Invests In PSG, Will Consult on 'Potential' Basketball Expansion Plans - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25210905-kevin-durant-invests-psg-will-consult-potential-basketball-expansion-plans"
     },
     {
+      "title": "Five teams that won the NFL offseason: Will Bears, Raiders hype translate into wins? - NFL.com",
+      "link": "https://www.nfl.com/news/five-teams-that-won-the-nfl-offseason-will-bears-raiders-hype-translate-into-wins"
+    },
+    {
+      "title": "2025 USA Basketball Men\u2019s U19 National Team Announced - USA Basketball",
+      "link": "https://www.usab.com/news/2025/06/2025-usa-basketball-mens-u19-national-team-announced"
+    },
+    {
+      "title": "Tom Brady Preferred Raiders Avoid Signing Sam Darnold - ProFootballRumors.com",
+      "link": "https://www.profootballrumors.com/2025/06/tom-brady-preferred-raiders-avoid-signing-sam-darnold"
+    },
+    {
       "title": "\u2018One game. Bring your A game\u2019: Shai Gilgeous-Alexander resets for historic NBA Finals Game 7 - Andscape",
       "link": "https://andscape.com/features/one-game-bring-your-a-game-shai-gilgeous-alexander-resets-for-historic-nba-finals-game-7/"
-    },
-    {
-      "title": "Mariners Designate Rowdy Tellez For Assignment - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/mariners-designate-rowdy-tellez-for-assignment.html"
-    },
-    {
-      "title": "Video surfaces of Shedeur Sanders\u2019 101 mph speeding pullover as cops reference mystery woman - New York Post",
-      "link": "https://nypost.com/2025/06/20/sports/video-of-shedeur-sanders-speeding-pullover-fuels-dating-rumors/"
     },
     {
       "title": "Dodgers say immigration agents denied entry to Los Angeles stadium - BBC",
@@ -114,6 +134,10 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-rams-minicamp-in-hawaii-is-about-quality-time-together"
     },
     {
+      "title": "How we got here: A timeline of events in the Jaden O'Neal/Bowe Bentley saga - OUInsider: Oklahoma Sooners Football & Basketball Recruiting",
+      "link": "https://oklahoma.rivals.com/news/how-we-got-here-a-timeline-of-events-in-the-jaden-o-neal-bowe-bentley-saga"
+    },
+    {
       "title": "2025 NBA mock draft 3.0, with trades: Will a team move up for Ace Bailey if the Sixers pass? - PhillyVoice",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-2025-nba-mock-draft-trade-free-agency-rumors-ace-bailey-vj-edgecombe-stats-highlights-kevin-durant/"
     },
@@ -122,36 +146,16 @@
       "link": "https://www.cbssports.com/nba/news/cedric-cowards-path-to-the-nba-draft-shouldnt-be-possible/"
     },
     {
-      "title": "George Kittle on Robert Saleh\u2019s return: Violence is coming - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-on-robert-salehs-return-violence-is-coming"
+      "title": "Andrei Arlovski calls Fedor Emelianenko loss his \u2018biggest regret,\u2019 still gunning for rematch - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/6/20/24452369/andrei-arlovski-calls-fedor-emelianenko-loss-biggest-regret-gunning-rematch-fedor-quiet-as-f-ck-now"
     },
     {
       "title": "Pirates reliever Dennis Santana: Fan 'crossed a line' prior to confrontation - WTAE",
       "link": "https://www.wtae.com/article/pirates-dennis-santana-tigers/65119016"
     },
     {
-      "title": "Tampa Bay Rays pitcher Hunter Bigge taken to hospital after getting hit by foul ball in dugout - NBC News",
-      "link": "https://www.nbcnews.com/sports/mlb/hunter-bigge-hospital-rcna214058"
-    },
-    {
-      "title": "Latest decision by ex-Rutgers star Ace Bailey\u2019s camp labeled \u2018delusional\u2019 and \u2018stupid\u2019 - NJ.com",
-      "link": "https://www.nj.com/rutgersbasketball/2025/06/espn-analysts-label-latest-decision-by-ex-rutgers-star-ace-baileys-camp-delusional-and-stupid.html"
-    },
-    {
-      "title": "Who\u2019s paying for Panthers parade? \u2018It\u2019s their parade and they should pay for it\u2019 - Sun Sentinel",
-      "link": "https://www.sun-sentinel.com/2025/06/20/whos-paying-for-panthers-victory-parade-its-their-parade-and-they-should-pay-for-it/"
-    },
-    {
-      "title": "How billionaire Mark Walter, set to own the controlling stake in Lakers, made his fortune - AP News",
-      "link": "https://apnews.com/article/los-angeles-lakers-sale-mark-walter-d7021cdd12bc56c08bbeb58eb8befd80"
-    },
-    {
-      "title": "Jaire Alexander, Aaron Rodgers will get re-acquainted this year - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaire-alexander-aaron-rodgers-will-get-re-acquainted-this-year"
-    },
-    {
-      "title": "Tyrese Haliburton plays through injury, sparks Pacers to force Game 7 - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/06/19/pacers-thunder-nba-finals-tyrese-haliburton/"
+      "title": "Chris Richards bails out USMNT at both ends in win over Saudi Arabia - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/19/usmnt-saudi-arabia-gold-cup-chris-richards/"
     }
   ],
   "weather": {
