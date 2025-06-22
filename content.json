@@ -1,9 +1,9 @@
 {
-  "quote": "The less people know, the more stubbornly they know it. \u2013 Osho",
-  "fact": "If one spells out numbers, they would have to count to One Thousand before coming across the letter \"A\".",
-  "crypto": "BTC: $102,675 | ETH: $2,273.89",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Where do you learn to make banana splits? At sundae school.",
+  "quote": "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy. \u2013 Ralph Marston",
+  "fact": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
+  "crypto": "BTC: $101,996 | ETH: $2,245.36",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "\u2018Monster Hunter Wilds\u2019 Collapses With 1% Of Launch Players, 82% Negative Reviews - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/06/21/monster-hunter-wilds-collapses-with-1-of-launch-players-82-negative-reviews/"
+    },
+    {
+      "title": "The Nintendo Switch 2 is an awesome upgrade for parents like me - The Verge",
+      "link": "https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare"
+    },
+    {
+      "title": "Former Nintendo Execs Fear We Might Be Waiting A While For A 3D Mario On Switch 2, Thanks To Donkey Kong - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/06/former-nintendo-execs-fear-we-might-be-waiting-a-while-for-a-3d-mario-on-switch-2-thanks-to-donkey-kong"
+    },
+    {
+      "title": "Splitgate 2 developer 1047 Games lays off \"small group of valued staff\" - Eurogamer",
+      "link": "https://www.eurogamer.net/splitgate-2-developer-1047-games-lays-off-small-group-of-valued-staff"
+    },
+    {
+      "title": "This Case Forced Me to Completely Rethink How I Handle the Switch 2 - Gizmodo",
+      "link": "https://gizmodo.com/this-case-forced-me-to-completely-rethink-how-i-handle-the-switch-2-2000615644"
+    },
+    {
+      "title": "I Got Ultherapy Instead of a Face-lift - The Cut",
+      "link": "http://www.thecut.com/article/i-got-ultherapy-instead-of-a-face-lift.html"
+    },
+    {
+      "title": "Stop Putting Your Phone Face Up on the Table - CNET",
+      "link": "https://www.cnet.com/tech/mobile/stop-putting-your-phone-face-up-on-the-table/"
+    },
+    {
+      "title": "Google Confirms Most Gmail Users Must Upgrade All Their Accounts - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/06/21/google-confirms-most-users-must-upgrade-gmail-and-other-accounts/"
+    },
+    {
+      "title": "A PvP Analysis on Community Day Kommo-o in All Leagues - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/pvp/a-pvp-analysis-on-community-day-kommo-o-in-all-leagues/"
+    },
+    {
       "title": "\u2018She never sleeps\u2019: This platform wants to be OnlyFans for the AI era - CNN",
       "link": "https://www.cnn.com/2025/06/21/tech/ohchat-onlyfans-for-the-ai-era-katie-price"
     },
     {
       "title": "Day One Highlights at Pro Tour Magic: The Gathering\u00ae\u2014FINAL FANTASY\u2122 - magic.gg",
       "link": "https://magic.gg/news/day-one-highlights-at-pro-tour-magic-the-gathering-final-fantasy"
+    },
+    {
+      "title": "I test TVs for a living \u2014 and I recommend these 2 TVs above everything else - Tom's Guide",
+      "link": "https://www.tomsguide.com/tvs/i-test-tvs-for-a-living-and-i-recommend-these-2-tvs-above-everything-else"
     },
     {
       "title": "SEGA leaks sales data for Sonic Superstars and Frontiers, Team Sonic Racing, Persona 5 Royal, Shin Megami Tensei 5 - Nintendo Everything",
@@ -28,74 +68,54 @@
       "link": "https://www.nintendolife.com/news/2025/06/nintendo-appears-to-have-updated-donkey-kong-bananzas-switch-2-file-size"
     },
     {
-      "title": "Monster Hunter Wilds' Recent Reviews Drop to Overwhelmingly Negative - 80 Level",
-      "link": "https://80.lv/articles/monster-hunter-wilds-recent-reviews-drop-to-overwhelmingly-negative"
+      "title": "Halo: Edge of Dawn | Cover Reveal | Halo - Official Site (en) - Halo Waypoint",
+      "link": "https://www.halowaypoint.com/news/halo-edge-of-dawn-cover-reveal"
     },
     {
       "title": "Diablo II: Resurrected Ladder Season 11 Now Live - Blizzard News",
       "link": "https://news.blizzard.com/en-us/article/24208340/diablo-ii-resurrected-ladder-season-11-now-live"
     },
     {
+      "title": "Sony Surprise PlayStation Fans With New Free PS5 Release - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/ps5-playstation-5-sony-free-release/"
+    },
+    {
       "title": "The growing popularity of gaming's surprise hit - gardening - BBC",
       "link": "https://www.bbc.com/news/articles/cj4edkdxz2xo"
     },
     {
-      "title": "New Nintendo Switch 2 Game Is Now the Highest-Rated Game of 2025 - ComicBook.com",
-      "link": "http://comicbook.com/gaming/news/nintendo-switch-2-game-2025/"
-    },
-    {
-      "title": "1047 Games, developers of Splitgate 2, layoff \u2018a small group\u2019 of valued staff - XboxEra",
-      "link": "https://xboxera.com/2025/06/21/1047-games-developers-of-splitgate-2-layoff-a-small-group-of-valued-staff/"
-    },
-    {
-      "title": "Quest 3S Xbox Edition Box Seemingly Leaks, Rumored To Launch Next Week - UploadVR",
-      "link": "https://www.uploadvr.com/quest-3s-xbox-edition-seemingly-leaks/"
-    },
-    {
-      "title": "The best Apple deals you can shop ahead of Amazon Prime Day 2025 - The Verge",
-      "link": "https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals"
-    },
-    {
-      "title": "Samsung\u2019s Galaxy Z Fold 7 looks positively svelte in dummy hands-on [Video] - 9to5Google",
-      "link": "http://9to5google.com/2025/06/20/samsungs-galaxy-z-fold-7-looks-positively-svelte-in-dummy-hands-on-video/"
-    },
-    {
-      "title": "Final Fantasy 14 to finally be playable thanks to new hat technology - Polygon",
-      "link": "https://www.polygon.com/news/608333/final-fantasy-14-hrothgar-viera-headgear"
-    },
-    {
-      "title": "The Lenovo Legion Go S (Z1 Extreme, SteamOS) Is Finally Available - IGN",
-      "link": "https://www.ign.com/articles/where-to-buy-lenovo-legion-go-s-z1-extreme-steamos"
-    },
-    {
-      "title": "Walmart Nintendo Switch 2 restock: confirmed time it'll be in stock - The Shortcut | Matt Swider",
-      "link": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-restock-confirmed"
-    },
-    {
-      "title": "AMD Just Landed A New Microsoft Partnership. Should You Buy AMD Stock Here? - Barchart.com",
-      "link": "https://www.barchart.com/story/news/32977967/amd-just-landed-a-new-microsoft-partnership-should-you-buy-amd-stock-here"
-    },
-    {
-      "title": "Get a 512GB Mac Mini M4 for its lowest price - The Verge",
-      "link": "https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale"
-    },
-    {
-      "title": "YouTube is hiding an excellent, official high-speed Pac-Man mod in plain sight - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/06/one-of-the-best-pac-man-games-in-years-is-playable-on-youtube-of-all-places/"
-    },
-    {
-      "title": "Six Things I Wish I Knew Before Setting Up My Switch 2 - Kotaku",
-      "link": "https://kotaku.com/nintendo-switch-2-system-transfer-controllers-4k-120hz-1851784851"
+      "title": "Walmart Is Restocking Switch 2 Consoles Soon, but Walmart+ Members Get First Dibs - IGN",
+      "link": "https://www.ign.com/articles/walmart-is-restocking-switch-2-consoles-soon-but-walmart-members-get-first-dibs"
     }
   ],
   "sports_news": [
     {
-      "title": "Notre Dame lands top safety target Joey O'Brien: \u201cThe brotherhood there, it\u2019s a well-oiled machine.\" - On3.com",
-      "link": "https://www.on3.com/news/notre-dame-joey-o-brien-commits-marcus-freeman-four-star-safety/"
+      "title": "On3\u2019s No. 5 QB Bowe Bentley commits to Oklahoma: \u201cDream come true!\u201d - On3.com",
+      "link": "https://www.on3.com/news/bowe-bentley-commits-to-oklahoma-four-star-qb-brent-venables/"
     },
     {
-      "title": "Aaron Judge looks like Superman again as he busts out of his Yankees slump - New York Post",
-      "link": "https://nypost.com/2025/06/21/sports/aaron-judge-blasts-homer-in-yankees-loss-to-orioles/"
+      "title": "Sam Darnold on final games in Minnesota: \"We laid an egg on offense\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-on-final-games-in-minnesota-we-laid-an-egg-on-offense"
+    },
+    {
+      "title": "Milwaukee Brewers rookie Jacob Misiorowski breaks 125-year-old record with six perfect innings against Minnesota Twins - CNN",
+      "link": "https://www.cnn.com/2025/06/21/sport/jacob-misiorowski-125-year-old-record-spt"
+    },
+    {
+      "title": "Jonathan Tah self-critical after gaffe in Bayern Munich\u2019s 2-1 victory over Boca Juniors in Club World Cup - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/6/21/24448743/jonathan-tah-self-critical-after-gaffe-in-bayern-munich-2-1-victory-over-boca-juniors-club-world-cup"
+    },
+    {
+      "title": "J.T. Realmuto, Nick Castellanos come together for \u2018fun\u2019 baserunning play in big win over Mets - Phillies Nation",
+      "link": "https://www.philliesnation.com/2025/06/philadelphia-phillies-jt-realmuto-nick-castellanos-slide-play/"
+    },
+    {
+      "title": "Red Sox reactions: Offensive breakout leads way to eighth win in last nine games - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/06/red-sox-reactions-offensive-breakout-leads-way-to-eighth-win-in-last-nine-games.html"
+    },
+    {
+      "title": "Joe Girardi offered prophetic commentary during Yankees loss - Awful Announcing",
+      "link": "https://awfulannouncing.com/mlb/joe-girardi-yankees-loss-luke-weaver-commentary.html"
     },
     {
       "title": "UFC Baku Results: Hill vs. Rountree Jr. - MMA Fighting",
@@ -106,8 +126,12 @@
       "link": "https://www.nba.com/news/thunder-pacers-game-7-preview-2025-finals"
     },
     {
-      "title": "Gadzhi Rabadanov destroys Kevin Lee with knockout flurry in PFL 6 main event - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/6/20/24453043/gadzhi-rabadanov-destroys-kevin-lee-with-knockout-flurry-in-pfl-6-main-event"
+      "title": "PFL 6 Results: Rabadanov vs. Lee - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/6/20/24452739/pfl-6-results-rabadanov-vs-lee"
+    },
+    {
+      "title": "All the NBA's latest trade talk, draft discussion and coaching carousel chatter ... and, yes, that includes the KD latest - Marc Stein | Substack",
+      "link": "https://marcstein.substack.com/p/all-the-nbas-latest-trade-talk-draft"
     },
     {
       "title": "MLB Suspends Roberts, Shildt, Suarez - MLB Trade Rumors",
@@ -122,48 +146,24 @@
       "link": "https://nypost.com/2025/06/20/sports/angels-manager-ron-washington-out-indefinitely-with-apparent-health-scare/"
     },
     {
-      "title": "Rafael Devers explains why he is willing to play first base for the Giants but not the Red Sox - AP News",
-      "link": "https://apnews.com/article/rafael-devers-giants-red-sox-first-base-271f99d7528ecb8df360ffdbd9a0653d"
+      "title": "MLB suspends Pirates\u2019 Dennis Santana four games after he went after fan in wild altercation - New York Post",
+      "link": "https://nypost.com/2025/06/20/sports/mlb-suspends-pirates-dennis-santana-after-wild-altercation/"
+    },
+    {
+      "title": "David Ortiz seemingly takes shot at Giants' Rafael Devers with Instagram story - NBC Sports Bay Area & California",
+      "link": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/david-ortiz-rafael-devers-trade/1857014/"
     },
     {
       "title": "ES Tunis 1-0 LAFC (Jun 20, 2025) Game Analysis - ESPN",
       "link": "https://www.espn.com/soccer/report/_/gameId/724445"
     },
     {
-      "title": "A.J. Puk Undergoes Elbow Surgery; Gabriel Moreno Diagnosed With Fractured Finger - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/a-j-puk-undergoes-elbow-surgery-gabriel-moreno-diagnosed-with-fractured-finger.html"
-    },
-    {
-      "title": "Pirates reliever Dennis Santana suspended 4 games, fined by MLB for taking swing at fan in Detroit - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/pirates-reliever-dennis-santana-suspended-4-games-fined-by-mlb-for-taking-swing-at-fan-in-detroit-225202581.html"
-    },
-    {
-      "title": "Cal Raleigh clubs two more homers as Mariners rally past Cubs - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/cal-raleigh-clubs-two-more-as-mariners-rally-past-cubs/"
-    },
-    {
       "title": "Shedeur Sanders' interaction with police after getting pulled over for speeding revealed in bodycam footage - Fox News",
       "link": "https://www.foxnews.com/sports/shedeur-sanders-interaction-police-after-getting-pulled-over-speeding-revealed-bodycam-footage2"
     },
     {
-      "title": "Chiefs cut two players as corresponding moves - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-cut-two-players-as-corresponding-moves"
-    },
-    {
-      "title": "Senegal women's hoops team denied U.S. visas - ESPN",
-      "link": "https://www.espn.com/olympics/story/_/id/45553392/senegal-women-basketball-team-members-denied-us-visas"
-    },
-    {
-      "title": "BYU\u2019s AJ Dybantsa officially named to Team USA for FIBA U19 Men\u2019s World Cup. Here\u2019s when he\u2019ll play - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/06/20/aj-dybanta-team-usa-u19-basketball-world-cup-schedule-byu/"
-    },
-    {
-      "title": "McDavid\u2019s future \u2018a No. 1 priority\u2019 for Oilers, GM says - NHL.com",
-      "link": "https://www.nhl.com/news/oilers-prioritizing-connor-mcdavid-s-future-with-the-team"
-    },
-    {
-      "title": "NBA Trade Rumors Roundup: Latest Kevin Durant trade rumors, Lakers search for center, more - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/nba-trade-rumors-roundup-latest-kevin-durant-trade-rumors-lakers-search-for-center-more"
+      "title": "Cal Raleigh breaks Johnny Bench\u2019s record for homers by a catcher before All-Star break - AP News",
+      "link": "https://apnews.com/article/cal-raleigh-johnny-bench-catcher-homers-allstar-break-56ca62a45e182f7f8271fa20f5014944"
     }
   ],
   "weather": {
