@@ -1,9 +1,9 @@
 {
-  "quote": "If you don't make things happen then things will happen to you. \u2013 Robert Collier",
-  "fact": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
-  "crypto": "BTC: $98,728 | ETH: $2,148.61",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+  "quote": "Life is a traveling to the edge of knowledge, then a leap taken. \u2013 D. H. Lawrence",
+  "fact": "Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.",
+  "crypto": "BTC: $99,412 | ETH: $2,189.95",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google Meet\u2019s Material 3 Expressive redesign has ludicrously capacious buttons - 9to5Google",
+      "link": "http://9to5google.com/2025/06/21/google-meet-material-3-expressive/"
+    },
+    {
+      "title": "Mario Kart World dev comments on why non-Mario characters aren\u2019t included - Nintendo Everything",
+      "link": "https://nintendoeverything.com/mario-kart-world-nintendo-characters/"
+    },
+    {
+      "title": "Earth is Eating Itself: Vast Chunks Of Crust Are Being Swallowed From Within - The Daily Galaxy",
+      "link": "https://dailygalaxy.com/2025/06/earth-eating-itself-chunks-crust-swallowed/"
+    },
+    {
+      "title": "iOS 26 Includes These Five Smaller Features You Might Have Missed - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/21/five-ios-26-features-you-might-have-missed/"
+    },
+    {
+      "title": "Poll: Is Xbox heading in the right direction? Cast your vote here! - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/poll-is-xbox-heading-in-the-right-direction-cast-your-vote"
+    },
+    {
+      "title": "Red Dead Redemption star says he \"possibly misled some people\" but insists \"exciting\" news is still on the way - Eurogamer",
+      "link": "https://www.eurogamer.net/red-dead-redemption-star-says-he-possibly-misled-some-people-but-insists-exciting-news-is-still-on-the-way"
+    },
+    {
       "title": "iOS 26's New Battery Life Mode Available Only on These iPhone Models - MacRumors",
       "link": "https://www.macrumors.com/2025/06/21/ios-26-adaptive-power-mode-compatible-iphones/"
+    },
+    {
+      "title": "Samsung\u2019s entry-level Galaxy Watch 7 has returned to its best price to date - The Verge",
+      "link": "https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale"
+    },
+    {
+      "title": "Apple Pulls 'Convince Your Parents to Get You a Mac' Ad From YouTube - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/21/apple-pulls-the-parent-presentation-video/"
+    },
+    {
+      "title": "Clanging Scales Kommo-o in the Pok\u00e9mon GO PvE & PvP meta - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/meta/clanging-scales-kommo-o-in-the-pokemon-go-pve-pvp-meta/"
     },
     {
       "title": "Even the Meta Quest can be an Xbox \u2014 Leaked images show an Xbox-branded Quest 3S that could shadow drop in just a few days - Windows Central",
@@ -24,10 +60,6 @@
       "link": "https://www.macrumors.com/2025/06/21/ios-26-adding-two-new-wi-fi-features/"
     },
     {
-      "title": "Wizard of Legend 2 is the co-op game of the year \u2014 even if it\u2019s broken - Polygon",
-      "link": "https://www.polygon.com/impressions/608315/wizard-legend-2-co-op"
-    },
-    {
       "title": "Samsung Makes New Free Offer To Millions Of Galaxy Phones And Tablets - Forbes",
       "link": "https://www.forbes.com/sites/jaymcgregor/2025/06/21/samsung-galaxy-phone-tablet-free-perplexity-ai-offer/"
     },
@@ -36,74 +68,86 @@
       "link": "https://www.forbes.com/sites/paultassi/2025/06/21/monster-hunter-wilds-collapses-with-1-of-launch-players-82-negative-reviews/"
     },
     {
+      "title": "First look at Battlefield 6 campaign leaks from latest test - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/first-look-at-battlefield-6-campaign-leaks-from-latest-test/"
+    },
+    {
       "title": "I\u2019m not typically an iPad fan, but the M4 iPad Pro changed my mind - 9to5Mac",
       "link": "https://9to5mac.com/2025/06/21/heres-why-the-m4-ipad-pro-changed-my-mind-review/"
     },
     {
+      "title": "Sega unveils plans for Tokyo flagship store alongside Nintendo - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/sega-unveils-plans-for-tokyo-flagship-store-alongside-nintendo/"
+    },
+    {
       "title": "The Nintendo Switch 2 is an awesome upgrade for parents like me - The Verge",
       "link": "https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare"
-    },
-    {
-      "title": "Amazon Isn\u2019t Waiting for Prime Day, This Three-Port USB-C Charger Is Almost Free - Gizmodo",
-      "link": "https://gizmodo.com/amazon-isnt-waiting-for-prime-day-this-three-port-usb-c-charger-is-almost-free-2000618622"
-    },
-    {
-      "title": "The First Prime Day Deal Has Landed: New HP Laptop (Touch, 64GB RAM, 2TB SSD, Win 11 Pro) Is 70% Off - Gizmodo",
-      "link": "https://gizmodo.com/the-first-prime-day-deal-has-landed-new-hp-laptop-touch-64gb-ram-2tb-ssd-win-11-pro-is-70-off-2000618613"
-    },
-    {
-      "title": "Former Nintendo Execs Fear We Might Be Waiting A While For A 3D Mario On Switch 2, Thanks To Donkey Kong - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/former-nintendo-execs-fear-we-might-be-waiting-a-while-for-a-3d-mario-on-switch-2-thanks-to-donkey-kong"
-    },
-    {
-      "title": "Splitgate 2 developer 1047 Games lays off \"small group of valued staff\" - Eurogamer",
-      "link": "https://www.eurogamer.net/splitgate-2-developer-1047-games-lays-off-small-group-of-valued-staff"
-    },
-    {
-      "title": "I Got Ultherapy Instead of a Face-lift - The Cut",
-      "link": "http://www.thecut.com/article/i-got-ultherapy-instead-of-a-face-lift.html"
-    },
-    {
-      "title": "ASUS ROG NUC 2025 with Core Ultra 9 275HX and RTX 5080 Laptop GPU now available in US for $2,849 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/asus-rog-nuc-2025-with-core-ultra-9-275hx-and-rtx-5080-laptop-gpu-now-available-in-us-for-2849"
-    },
-    {
-      "title": "Stop Putting Your Phone Face Up on the Table - CNET",
-      "link": "https://www.cnet.com/tech/mobile/stop-putting-your-phone-face-up-on-the-table/"
-    },
-    {
-      "title": "Google Confirms Most Gmail Users Must Upgrade All Their Accounts - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/06/21/google-confirms-most-users-must-upgrade-gmail-and-other-accounts/"
-    },
-    {
-      "title": "A PvP Analysis on Community Day Kommo-o in All Leagues - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/pvp/a-pvp-analysis-on-community-day-kommo-o-in-all-leagues/"
-    },
-    {
-      "title": "\u2018She never sleeps\u2019: This platform wants to be OnlyFans for the AI era - CNN",
-      "link": "https://www.cnn.com/2025/06/21/tech/ohchat-onlyfans-for-the-ai-era-katie-price"
-    },
-    {
-      "title": "Day One Highlights at Pro Tour Magic: The Gathering\u00ae\u2014FINAL FANTASY\u2122 - magic.gg",
-      "link": "https://www.magic.gg/news/day-one-highlights-at-pro-tour-magic-the-gathering-final-fantasy"
-    },
-    {
-      "title": "I test TVs for a living \u2014 and I recommend these 2 TVs above everything else - Tom's Guide",
-      "link": "https://www.tomsguide.com/tvs/i-test-tvs-for-a-living-and-i-recommend-these-2-tvs-above-everything-else"
     }
   ],
   "sports_news": [
+    {
+      "title": "Enhanced Box Score: Cubs 10, Mariners 7 \u2013 June 21, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/21/enhanced-box-score-cubs-10-mariners-7-june-21-2025/"
+    },
+    {
+      "title": "Ex-NFL player Kirk Barton charged with vehicular homicide, operating under the influence - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ex-nfl-player-kirk-barton-charged-with-vehicular-homicide-operating-under-the-influence"
+    },
+    {
+      "title": "L.A. Dodgers, facing fan pressure, pledge $1M after immigration raids - The Washington Post",
+      "link": "https://www.washingtonpost.com/nation/2025/06/21/dodgers-immigration-raids-los-angeles/"
+    },
+    {
+      "title": "Giants address allegations regarding Hjelle - MLB.com",
+      "link": "https://www.mlb.com/news/giants-address-allegations-regarding-sean-hjelle"
+    },
+    {
+      "title": "'I always practise that' - Bellingham fuels Jude comparisons with first Dortmund goal - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c36xe1ek1z2o"
+    },
+    {
+      "title": "Orioles Place Adley Rutschman On 10-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/orioles-place-adley-rutschman-on-10-day-injured-list.html"
+    },
+    {
+      "title": "\u2018That\u2019s f*cking illegal\u2019: Pros react to chaotic, foul-filled Jun Yong Park win at UFC Baku - mmafighting.com",
+      "link": "https://www.mmafighting.com/2025/6/21/24453335/thats-f-cking-illegal-pros-react-to-chaotic-foul-filled-jun-yong-park-win-at-ufc-baku"
+    },
+    {
+      "title": "Club World Cup crowds have wildly fluctuated, from swathes of empty seats to 'hostile' atmospheres - AP News",
+      "link": "https://apnews.com/article/club-world-cup-attendance-31a843277d6ace630898c0cf3f49ccfb"
+    },
     {
       "title": "Braves Place Chris Sale On 15-Day IL With Ribcage Fracture - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/braves-place-chris-sale-on-15-day-il-with-ribcage-fracture.html"
     },
     {
-      "title": "Former OSU football player charged in fatal crash in Dublin - nbc4i.com",
-      "link": "https://www.nbc4i.com/news/local-news/dublin/one-dead-after-car-crash-in-dublin-on-saturday-morning/"
+      "title": "Main Card Results | UFC Baku - ufc.com",
+      "link": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-hill-vs-rountree-jr-baku"
+    },
+    {
+      "title": "Red Sox vs Giants Predictions, Parlay, Picks, Odds for Saturday - Action Network",
+      "link": "https://www.actionnetwork.com/mlb/boston-red-sox-vs-san-francisco-giants-predictions-parlay-picks-odds-saturday-june-21-qs"
+    },
+    {
+      "title": "Stenhouse Jr. \u2018tired\u2019 of giving Hocevar \u2018any publicity\u2019 - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/06/21/stenhouse-jr-tired-of-giving-hocevar-any-publicity/"
+    },
+    {
+      "title": "Latest From Fischer, Stein: KD, Suns, Ware, Raptors, Knicks, Donovan - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/06/latest-from-fischer-stein-kd-suns-ware-raptors-knicks-donovan.html"
     },
     {
       "title": "Uncomfortable questions arise as Anthony Volpe, Francisco Alvarez fall short of expectations - New York Post",
       "link": "https://nypost.com/2025/06/21/sports/uncomfortable-questions-arise-as-anthony-volpe-francisco-alvarez-fall-short-of-expectations/"
+    },
+    {
+      "title": "Rays Select Paul Gervase - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/rays-select-paul-gervase.html"
+    },
+    {
+      "title": "Baltimore Orioles vs New York Yankees Predictions, Picks, Odds - Action Network",
+      "link": "https://www.actionnetwork.com/mlb/baltimore-orioles-vs-new-york-yankees-prediction-pick-odds-saturday-june-21-qs"
     },
     {
       "title": "Enzo Maresca rues \u2018six minutes that changed the game\u2019 in failed experiment against Flamengo - We Ain't Got No History",
@@ -114,64 +158,12 @@
       "link": "https://russianmachineneverbreaks.com/2025/06/21/brad-marchand-capitals-elliotte-friedman-nhl-free-agency-panthers/"
     },
     {
-      "title": "Dana White: UFC\u2019s new broadcast deal \u2018likely\u2019 going to multiple outlets, 4 major networks reportedly bidding - mmafighting.com",
-      "link": "https://www.mmafighting.com/2025/6/21/24452940/dana-white-ufc-new-broadcast-deal-likely-going-multiple-outlets-4-major-networks-reportedly-bidding"
-    },
-    {
       "title": "Cam Thomas Hopes To Re-Sign With Nets - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2025/06/cam-thomas-hopes-to-re-sign-with-nets.html"
     },
     {
-      "title": "LA Dodgers to donate $1M to help immigrants hit by ICE raids - Axios",
-      "link": "https://www.axios.com/2025/06/21/la-dodgers-donate-million-immigrants-ice-raids"
-    },
-    {
-      "title": "RELEASE: Blackhawks Acquire Andre Burakovsky from Kraken for Joe Veleno - NHL.com",
-      "link": "https://www.nhl.com/blackhawks/news/release-blackhawks-acquire-andre-burakovsky-from-kraken-for-joe-veleno"
-    },
-    {
-      "title": "Wisconsin suing Miami football for tampering in historic NIL case - New York Post",
-      "link": "https://nypost.com/2025/06/21/sports/wisconsin-suing-miami-football-for-tampering-in-historic-nil-case/"
-    },
-    {
-      "title": "On3\u2019s No. 5 QB Bowe Bentley commits to Oklahoma: \u201cDream come true!\u201d - On3.com",
-      "link": "https://www.on3.com/news/bowe-bentley-commits-to-oklahoma-four-star-qb-brent-venables/"
-    },
-    {
-      "title": "Milwaukee Brewers rookie Jacob Misiorowski breaks 125-year-old record with six perfect innings against Minnesota Twins - Yahoo Sports",
-      "link": "https://www.cnn.com/2025/06/21/sport/jacob-misiorowski-125-year-old-record-spt"
-    },
-    {
-      "title": "Sam Darnold on final games in Minnesota: \"We laid an egg on offense\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-on-final-games-in-minnesota-we-laid-an-egg-on-offense"
-    },
-    {
-      "title": "Braves News: Didier Fuentes debuts, Jurickson Profar rehabbing, and more - Battery Power",
-      "link": "https://www.batterypower.com/2025/6/21/24453141/atlanta-braves-news-didier-fuentes-mlb-debut-miami-marlins-jurickson-profar-gwinnett-stripers-more"
-    },
-    {
-      "title": "Jonathan Tah self-critical after gaffe in Bayern Munich\u2019s 2-1 victory over Boca Juniors in Club World Cup - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/2025/6/21/24448743/jonathan-tah-self-critical-after-gaffe-in-bayern-munich-2-1-victory-over-boca-juniors-club-world-cup"
-    },
-    {
-      "title": "Giants yet to see the benefit of Rafael Devers deal as they fall to Red Sox - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/giants/article/giants-see-benefit-devers-deal-fall-red-sox-20386792.php"
-    },
-    {
-      "title": "Rafael Devers explains why he is willing to play first base for the Giants but not the Red Sox - AP News",
-      "link": "https://apnews.com/article/rafael-devers-giants-red-sox-first-base-271f99d7528ecb8df360ffdbd9a0653d"
-    },
-    {
-      "title": "J.T. Realmuto, Nick Castellanos come together for \u2018fun\u2019 baserunning play in big win over Mets - Phillies Nation",
-      "link": "https://www.philliesnation.com/2025/06/philadelphia-phillies-jt-realmuto-nick-castellanos-slide-play/"
-    },
-    {
-      "title": "Clayton Kershaw continues his march toward 3,000 strikeouts in Dodgers' win - Yahoo Sports",
-      "link": "https://sports.yahoo.com/article/clayton-kershaw-continues-march-toward-051147090.html"
-    },
-    {
-      "title": "Joe Girardi offered prophetic commentary during Yankees loss - Awful Announcing",
-      "link": "https://awfulannouncing.com/mlb/joe-girardi-yankees-loss-luke-weaver-commentary.html"
+      "title": "Kraken Deal Andre Burakovsky To Chicago - NHL.com",
+      "link": "https://www.nhl.com/kraken/news/kraken-deal-andre-burakovsky-to-chicago-in-exchange-for-joe-veleno-bn"
     }
   ],
   "weather": {
