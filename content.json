@@ -1,9 +1,9 @@
 {
-  "quote": "The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge. \u2013 Stephen Hawking",
-  "fact": "Al Capone`s business card said he was a used furniture dealer.",
-  "crypto": "BTC: $104,941 | ETH: $2,399.96",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What's the difference between a guitar and a fish? You can tune a guitar but you can't \"tuna\" fish!",
+  "quote": "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in. \u2013 Robert Greene",
+  "fact": "John Lennon`s first girlfriend was named Thelma Pickles.",
+  "crypto": "BTC: $105,068 | ETH: $2,407.87",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "The Finals of Pro Tour Magic: The Gathering\u00ae\u2014FINAL FANTASY\u2122 - magic.gg",
+      "link": "https://magic.gg/news/the-finals-of-pro-tour-magic-the-gathering-final-fantasy"
+    },
     {
       "title": "The Switch 2 has enacted impressive improvements for Super Smash Bros. Ultimate... and that might even be causing some problems - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/jun/22/ssbu-switch-2-improvements-overly/"
@@ -44,16 +48,16 @@
       "link": "https://nintendoeverything.com/smash-bros-director-masahiro-sakurai-generative-ai/"
     },
     {
+      "title": "The Moto G Stylus 2025 gets so much right that I don\u2019t miss my flagship - Android Police",
+      "link": "https://www.androidpolice.com/moto-g-stylus-2025-after-two-months/"
+    },
+    {
       "title": "Fan-made Mario Kart 64 PC port released, with track editor and ultrawide support - Video Games Chronicle",
       "link": "https://www.videogameschronicle.com/news/fan-made-mario-kart-64-pc-port-released-with-track-editor-and-ultrawide-support/"
     },
     {
       "title": "\"100% completing\" Balatro has developer better \"equipped\" to design the next big update - Eurogamer",
       "link": "https://www.eurogamer.net/100-completing-balatro-has-developer-better-equipped-to-design-the-next-big-update"
-    },
-    {
-      "title": "Why I\u2019m excited for the Galaxy Z Fold 7, and not just because it\u2019s thin - 9to5Google",
-      "link": "http://9to5google.com/2025/06/22/galaxy-z-fold-7-why-excited/"
     },
     {
       "title": "Summer 2025 is being propped up by indie and AA gems - Polygon",
@@ -78,76 +82,60 @@
     {
       "title": "The $14 Billion AI Google Killer - Gizmodo",
       "link": "https://gizmodo.com/the-14-billion-ai-google-killer-2000618755"
-    },
-    {
-      "title": "The 4 best noise-canceling earbuds, according to years of editor testing - CNN",
-      "link": "https://www.cnn.com/cnn-underscored/reviews/noise-canceling-earbuds"
     }
   ],
   "sports_news": [
     {
+      "title": "Pacers star Tyrese Haliburton exits Game 7 of NBA Finals with right leg injury - NBA",
+      "link": "https://www.nba.com/news/tyrese-haliburton-game-7-finals-injury"
+    },
+    {
+      "title": "Oklahoma City Thunder: 2025 Champions Parade announced in OKC - News 9",
+      "link": "https://www.news9.com/story/6858c3bf460e87cc362999f7/oklahoma-city-thunder-2025-champions-parade-announced-in-okc"
+    },
+    {
       "title": "After a thrilling 7-game series, the Oklahoma City Thunder are finally NBA champions - NPR",
       "link": "https://www.npr.org/2025/06/22/nx-s1-5441761/oklahoma-city-thunder-wins-title-nba-finals-indiana-pacers"
+    },
+    {
+      "title": "Thunder offseason primer: The NBA champion with the brightest future - HoopsHype",
+      "link": "https://hoopshype.com/lists/thunder-offseason-primer-the-nba-champion-with-the-brightest-future/"
     },
     {
       "title": "Player Ratings: Real Madrid 3 - 1 Pachuca - Managing Madrid",
       "link": "https://www.managingmadrid.com/2025/6/23/24453936/player-ratings-real-madrid-3-1-pachuca"
     },
     {
-      "title": "Oklahoma native, Thunder fan Kristin Chenoweth performs national anthem before Game 7 of NBA Finals - AP News",
-      "link": "https://apnews.com/article/nba-finals-kristin-chenoweth-national-anthem-52d5a65d1146432967df1f0280e5224a"
-    },
-    {
-      "title": "Coastal Carolina head coach and assistant ejected during a heated 1st inning vs. LSU - NOLA.com",
-      "link": "https://www.nola.com/sports/lsu/coastal-carolina-lsu-coach-ejected-kevin-schnall-cws-final/article_3570ade6-1e14-4f5f-a8c5-cd18db3a92f7.html"
-    },
-    {
-      "title": "Pacers star Tyrese Haliburton left Game 7 of the NBA Finals with injury - NBC News",
-      "link": "https://www.nbcnews.com/sports/nba/tyrese-haliburton-injury-game-7-rcna214415"
+      "title": "Kevin Schnall Addresses College World Series Ejection, Suspension - Baseball America",
+      "link": "https://www.baseballamerica.com/stories/kevin-schnall-addresses-college-world-series-ejection-suspension/"
     },
     {
       "title": "Thunder vs. Pacers score: NBA Finals Game 7 live updates as OKC, Indy battle for 2025 championship - CBS Sports",
       "link": "https://www.cbssports.com/nba/news/thunder-vs-pacers-score-nba-finals-game-7-live-updates-as-okc-indy-battle-for-2025-championship/live/"
     },
     {
-      "title": "Shohei Ohtani pitches sharp first inning for Dodgers before driving in 5 runs at the plate - AP News",
-      "link": "https://apnews.com/article/shohei-ohtani-dodgers-pitches-ca73cfd1da2d0f02eb0f037a9a615d96"
-    },
-    {
-      "title": "What drivers said at Pocono after Cup race won by Chase Briscoe - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/what-drivers-said-at-pocono-after-cup-race-won-by-chase-briscoe"
+      "title": "Cup results, points after Pocono as the playoffs add another driver - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/cup-results-points-after-pocono-as-playoffs-add-another-driver"
     },
     {
       "title": "LSU wins the 2025 Men's College World Series - NCAA.com",
       "link": "https://www.ncaa.com/live-updates/baseball/d1/lsu-wins-2025-mens-college-world-series"
     },
     {
-      "title": "Solano, Canzone 'taking advantage' of heightened roles for Mariners - MLB.com",
-      "link": "https://www.mlb.com/news/donovan-solano-dominic-canzone-each-homer-twice-in-mariners-win"
-    },
-    {
-      "title": "Caitlin Clark Had Brutally Honest Take on Her Shooting Struggles in Fever\u2019s Loss - Sports Illustrated",
-      "link": "https://www.si.com/wnba/caitlin-clark-brutally-honest-take-shooting-struggles-fever-loss"
-    },
-    {
-      "title": "Tommy Fleetwood left heartbroken as Keegan Bradley pulls a stunner to deny him a first PGA Tour win - CNN",
-      "link": "https://www.cnn.com/2025/06/22/sport/keegan-bradley-tommy-fleetwood-spt"
+      "title": "Keegan Bradley wins shocker at Travelers, denying Tommy Fleetwood first Tour win - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/keegan-bradley-wins-shocker-at-travelers-denying-tommy-fleetwood-first-tour-win"
     },
     {
       "title": "Travis Hunter gets his full $30.57 million signing bonus up front - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-gets-his-full-30-57-million-signing-bonus-up-front"
     },
     {
-      "title": "Fantasy Baseball SP Roundup 6/21: Clarke Work Orange - Pitcher List",
-      "link": "http://pitcherlist.com/sp-roundup-6-21-25/"
-    },
-    {
       "title": "USMNT vs. Haiti: Starting XI & Lineup Notes - US Soccer",
       "link": "https://www.ussoccer.com/stories/2025/06/usmnt-haiti-starting-lineup-notes-tyler-adams-diego-luna"
     },
     {
-      "title": "Wanser 'didn't know we were on the right strategy until 10 to go' - RACER - Racing News",
-      "link": "https://racer.com/2025/06/22/wanser-didn-t-know-we-were-on-the-right-strategy-until-10-to-go-"
+      "title": "Hall of Famer D. Wayne Lukas has been hospitalized and will not return to training, family says - AP News",
+      "link": "https://apnews.com/article/d-wayne-lukas-hosptialized-3696adc1800e69d3f7708374bd444d1c"
     },
     {
       "title": "Florida Panthers order sushi for Stanley Cup parade from restaurant Oilers booked anticipating a Game 6 victory - RMNB",
@@ -158,12 +146,24 @@
       "link": "https://www.nascar.com/news-media/2025/06/22/inclement-weather-at-pocono-delays-start-of-cup-series-race/"
     },
     {
-      "title": "NBA Finals Game 7 traffic: No one allowed to drive into Bricktown after game, says PD - News 9",
-      "link": "https://www.news9.com/story/685869f3389ca48487ee8d2d/nba-finals-game-7-traffic-no-one-allowed-to-drive-into-bricktown-after-game"
+      "title": "Shohei Ohtani records first 2 strikeouts as a Dodger without allowing a run or hit in 2nd abbreviated start - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/shohei-ohtani-records-first-2-strikeouts-as-a-dodger-without-allowing-a-run-or-hit-in-2nd-abbreviated-start-205707539.html"
     },
     {
       "title": "Mike Breen addresses Doris Burke replacement reports: \u2018I really feel like we\u2019ve come so far\u2019 - Awful Announcing",
       "link": "https://awfulannouncing.com/espn/mike-breen-doris-burke-replacement-reports-feel-like-weve-come-so-far.html"
+    },
+    {
+      "title": "Aces' Becky Hammon Criticizes WNBA Referees Amid Caitlin Clark Physical Treatment - Sports Illustrated",
+      "link": "https://www.si.com/wnba/fever/news/aces-coach-becky-hammon-criticizes-wnba-referees-for-caitlin-clark-physical-treatment-01jyc8gr936g"
+    },
+    {
+      "title": "MLB Rumors: Red Sox Spoke To Multiple Teams Before Rafael Devers Trade - NESN",
+      "link": "https://nesn.com/2025/06/mlb-rumors-red-sox-spoke-to-multiple-teams-before-rafael-devers-trade/"
+    },
+    {
+      "title": "Suns reportedly trade Kevin Durant to Houston Rockets for Jalen Green, Dillon Brooks, draft picks - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nba/breaking-news/article/suns-trade-kevin-durant-to-houston-rockets-for-jalen-green-dillon-brooks-draft-picks-164401892.html"
     }
   ],
   "weather": {
