@@ -1,9 +1,9 @@
 {
-  "quote": "Success is not how high you have climbed, but how you make a positive difference to the world. \u2013 Roy T. Bennett",
-  "fact": "An ostrich`s eye is bigger than its brain. \u00a0",
-  "crypto": "BTC: $105,822 | ETH: $2,445.21",
+  "quote": "Focus on how far you have come in life rather than looking at the accomplishments of others. \u2013 Lolly Daskal",
+  "fact": "Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.",
+  "crypto": "BTC: $105,503 | ETH: $2,437.57",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a bear with no teeth? A gummy bear!",
+  "joke": "I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iOS 26 beta 2 adds brand new iPhone ringtone, listen here - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/23/ios-26-beta-2-adds-brand-new-iphone-ringtone-listen-here/"
+    },
+    {
+      "title": "Beavis and Butt-Head Are Coming to Call of Duty: Black Ops 6 and Warzone With Season 04 Reloaded \u2014 and Players Are Joking They\u2019re More MilSim Than Most Skins in the Game - IGN",
+      "link": "https://www.ign.com/articles/beavis-and-butt-head-are-coming-to-call-of-duty-black-ops-6-and-warzone-with-season-04-reloaded-and-players-are-joking-theyre-more-milsim-than-most-skins-in-the-game"
+    },
+    {
+      "title": "macOS Tahoe 26 beta 2 changes Finder icon - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/23/macos-tahoe-26-beta-2-changes-finder-icon/"
+    },
+    {
+      "title": "The Nightmare Hair Situation Antonia Gentry Endured On \"Ginny & Georgia\" Is Going Viral - BuzzFeed",
+      "link": "https://www.buzzfeed.com/kristatorres/ginny-georgia-antonia-gentry-hair-tiktok"
+    },
+    {
+      "title": "Mario Kart 64's Unofficial PC Port Is Amazing - Kotaku",
+      "link": "https://kotaku.com/mario-kart-64-pc-port-native-emulation-legal-nintendo-1851784946"
+    },
+    {
+      "title": "AI Translation Of Smash Bros. Director's Comments About AI Misses Nuance, Sparks Outrage - Kotaku",
+      "link": "https://kotaku.com/ai-translation-of-smash-bros-directors-comments-about-1851784945"
+    },
+    {
+      "title": "Over a million people now have access to the gen-AI powered Alexa+ - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/"
+    },
+    {
       "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/06/microsoft-surprises-ms-dos-fans-with-remake-of-ancient-text-editor-that-works-on-linux/"
     },
     {
-      "title": "Microsoft\u2019s Xbox UI update lets you pin games and customize your homescreen - The Verge",
-      "link": "https://www.theverge.com/news/691287/xbox-home-ui-pin-favorite-games-apps-rolling-out"
+      "title": "Apple Seeds Second Developer Betas of iOS 26 and iPadOS 26 - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/23/apple-seeds-ios-26-beta-2/"
     },
     {
       "title": "The Biggest Pros And Cons Of Dodge's Hemi Engine - Jalopnik",
       "link": "https://www.jalopnik.com/1887763/pros-cons-dodge-hemi-engine/"
     },
     {
+      "title": "Sega's leaked sales figures show Sonic's new frontier is heading in the right direction - Eurogamer",
+      "link": "https://www.eurogamer.net/segas-leaked-sales-figures-show-sonics-new-frontier-is-heading-in-the-right-direction"
+    },
+    {
+      "title": "watchOS 26 Adding a Smaller Yet Useful New Watch Face Setting - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/23/watchos-26-new-setting/"
+    },
+    {
+      "title": "Don't Like The New Xbox Game Hubs? Here's How To Turn Them Off - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/06/dont-like-the-new-xbox-game-hubs-heres-how-to-turn-them-off"
+    },
+    {
+      "title": "Is Apple Looking To Catch Up In AI With Big Deal? - Investor's Business Daily",
+      "link": "https://www.investors.com/news/technology/apple-stock-possible-ai-deal-perplexity/"
+    },
+    {
       "title": "Nintendo\u2019s Switch 2 is available online at Best Buy - The Verge",
       "link": "https://www.theverge.com/tech/691190/nintendo-switch-2-restock-best-buy"
+    },
+    {
+      "title": "Three Essential Tips For Those Jumping Into Breath Of The Wild For The First Time On Switch 2 - Kotaku",
+      "link": "https://kotaku.com/zelda-breath-of-the-wild-botw-switch-2-upgrade-tips-new-1851784911"
     },
     {
       "title": "There\u2019s Never Been A Better Time To Play The Best Digimon Game - Kotaku",
@@ -40,134 +88,90 @@
       "link": "http://9to5google.com/2025/06/23/galaxy-z-flip-7-renders-vivid-colors-gallery/"
     },
     {
-      "title": "Microsoft adds Steam games to its Xbox PC app on Windows - The Verge",
-      "link": "https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta"
-    },
-    {
       "title": "Donkey Kong Bananza Is Officially the Best-Selling Game on Amazon Right Now - IGN",
       "link": "https://www.ign.com/articles/donkey-kong-bananza-is-officially-the-best-selling-game-on-amazon-right-now"
-    },
-    {
-      "title": "Cyberpunk 2077's new update will have \"scope similar\" to 2.2, as CD Projekt announces delay - Eurogamer",
-      "link": "https://www.eurogamer.net/cyberpunk-2077s-new-update-will-have-scope-similar-to-22-as-cd-projekt-announces-delay"
-    },
-    {
-      "title": "\u2018Borderlands 4\u2019 Is Now My Most-Anticipated Game Of The Year - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/06/23/borderlands-4-is-now-my-most-anticipated-game-of-the-year/"
-    },
-    {
-      "title": "Galaxy Watch 8 series leak shows Samsung\u2019s upcoming wearables from every angle - 9to5Google",
-      "link": "http://9to5google.com/2025/06/23/samsung-galaxy-watch-8-series-renders-angles-leak/"
-    },
-    {
-      "title": "Apple keeps pulling its own ads - The Verge",
-      "link": "https://www.theverge.com/news/691113/apple-pulling-ads-parent-presentation"
-    },
-    {
-      "title": "iPhone 18 Pro With Under-Screen Face ID Now Rumored to Feature Smaller Dynamic Island - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/23/iphone-18-pro-smaller-dynamic-island-rumor/"
-    },
-    {
-      "title": "The one-man-army behind a ferocious new Raid-inspired beat-\u2019em-up answers all of our questions - Polygon",
-      "link": "https://www.polygon.com/608059/acts-of-blood-developer-interview-summer-games-fest"
-    },
-    {
-      "title": "Hinge CEO Justin McLeod says dating AI chatbots is \u2018playing with fire\u2019 - The Verge",
-      "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder"
-    },
-    {
-      "title": "Your Apple Watch is getting a big upgrade for free - 8 features I can't wait to use on WatchOS 26 - ZDNET",
-      "link": "https://www.zdnet.com/article/your-apple-watch-is-getting-a-big-upgrade-for-free-8-features-i-cant-wait-to-use-on-watchos-26/"
-    },
-    {
-      "title": "Apple iPhone 17 Series Will Showcase \u2018Design Revamp,\u2019 New Report Claims - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/06/23/apple-iphone-17-series-will-showcase-design-revamp-new-report-claims-iphone-16-pro-max/"
-    },
-    {
-      "title": "Google adds AI features to Chromebook Plus devices - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/23/google-adds-ai-features-to-chromebook-plus-devices/"
     }
   ],
   "sports_news": [
     {
-      "title": "Morning Briefing: Mets Demote Alvarez, Promote Two Prospects - Metsmerized Online",
-      "link": "https://metsmerizedonline.com/morning-briefing-mets-demote-alvarez-promote-two-prospects/"
+      "title": "Order of selection for 2025 NHL Draft - NHL.com",
+      "link": "https://www.nhl.com/news/2025-nhl-draft-order-of-selection-announced"
+    },
+    {
+      "title": "Reds Designate Jeimer Candelario For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/reds-designate-jeimer-candelario-for-assignment.html"
+    },
+    {
+      "title": "Indiana Pacers star Tyrese Haliburton suffered a torn right Achilles tendon in Game 7 of NBA Finals, per multiple reports - CNN",
+      "link": "https://www.cnn.com/2025/06/23/sport/tyrese-haliburton-torn-achilles-spt"
+    },
+    {
+      "title": "Prosecutors seek five-year prison term for Franco - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/45569836/prosecutors-seek-5-year-prison-term-rays-wander-franco"
+    },
+    {
+      "title": "Anderson Silva reacts to 'the end of another legendary era' following Jon Jones' UFC retirement - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/23/anderson-silva-reacts-to-the-end-of-another-legendary-era-following-jon-jones-ufc-retirement/"
+    },
+    {
+      "title": "SEAvPSG Starting XI: Sounders close out CWC group stage competition with solid lineup - Seattle Sounders FC",
+      "link": "https://www.soundersfc.com/news/seavpsg-starting-xi-sounders-close-out-cwc-group-stage-competition-with-solid-lineup"
+    },
+    {
+      "title": "Anthony Richardson says his shoulder is ready to go for training camp - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-says-his-shoulder-is-ready-to-go-for-training-camp"
+    },
+    {
+      "title": "Mets To Sign Richard Lovelady - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/mets-sign-richard-lovelady.html"
     },
     {
       "title": "The High Stakes of Kevin Durant\u2019s Closing Act - The Ringer",
       "link": "https://www.theringer.com/2025/06/23/nba/kevin-durant-trade-houston-rockets-legacy-career"
     },
     {
-      "title": "2025 NBA Mock Draft Post-Finals with Full Predictions, Pro Comps - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25209856-2025-nba-mock-draft-post-finals-full-predictions-pro-comps"
+      "title": "Flyers Acquire Trevor Zegras From Anaheim - NHL.com",
+      "link": "https://www.nhl.com/flyers/news/flyers-acquire-trevor-zegras-from-anaheim"
     },
     {
-      "title": "AP drops claim that Josh Shapiro said there will be no state money for stadium projects - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ap-drops-claim-that-josh-shapiro-said-there-will-be-no-state-money-for-stadium-projects"
+      "title": "MLB Power Rankings as Juan Soto's Mets Plummet While Rays and Cardinals Surge - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25211558-mlb-power-rankings-juan-sotos-mets-plummet-while-rays-and-cardinals-surge"
+    },
+    {
+      "title": "Top fantasy baseball prospects: Chase Burns getting the call, Colt Emerson heating up - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/baseball/news/top-fantasy-baseball-prospects-chase-burns-getting-the-call-colt-emerson-heating-up"
+    },
+    {
+      "title": "Scouting Drew Allar: Penn State quarterback similar to Joe Flacco - NFL.com",
+      "link": "https://www.nfl.com/news/scouting-drew-allar-penn-state-quarterback-similar-to-joe-flacco"
     },
     {
       "title": "Three observations from Real Madrid\u2019s 3-1 win vs Pachuca - Managing Madrid",
       "link": "https://www.managingmadrid.com/2025/6/23/24454211/three-observations-from-real-madrids-3-1-win-vs-pachuca"
     },
     {
-      "title": "Tommy Fleetwood's stumble gives US Ryder Cup team a Keegan Bradley-sized headache - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cr5v3mq71l7o"
-    },
-    {
       "title": "Free agent CB Rasul Douglas doesn\u2019t think he\u2019ll return to Green Bay - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-cb-rasul-douglas-doesnt-think-hell-return-to-green-bay"
+    },
+    {
+      "title": "The Return: Now We Know When Sh\u014dta Imanaga is Coming Back! - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/23/shota-imanaga-return/"
+    },
+    {
+      "title": "Tommy Fleetwood has touching moment with wife after crushing $3.6 million Travelers Championship finish - New York Post",
+      "link": "https://nypost.com/2025/06/23/sports/tommy-fleetwood-has-touching-moment-with-wife-after-crushing-travelers-championship-finish/"
     },
     {
       "title": "CBS Sports and Pac-12 extend partnership through the 2030-31 season - Pac-12 Conference",
       "link": "https://pac-12.com/news/2025/6/22/general-cbs-sports-and-pac-12-extend-partnership-through-the-2030-31-season.aspx"
     },
     {
-      "title": "Alex Caruso Throws Subtle Shade On Lakers' 2020 Ring; Addresses LeBron James' Comparisons With Shai Gilgeous-Alexander - Fadeaway World",
-      "link": "https://fadeawayworld.net/nba/oklahoma-city-thunder/alex-caruso-throws-subtle-shade-on-lakers-2020-ring-addresses-lebron-james-comparisons-with-shai-gilgeous-alexander"
+      "title": "Hoops Rumors Has The Latest On NBA Draft, Free Agency - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/hoops-rumors-has-the-latest-on-nba-draft-free-agency.html"
     },
     {
       "title": "Top five NFL draft values of the millennium at WR: Tyreek Hill, Justin Jefferson bring booming returns - NFL.com",
       "link": "https://www.nfl.com/news/best-nfl-draft-values-of-the-millennium-wide-receiver"
-    },
-    {
-      "title": "'Welcome to the NHL' to reveal behind-the-scenes look at Draft - NHL.com",
-      "link": "https://www.nhl.com/news/welcome-to-the-nhl-to-reveal-2025-draft-behind-the-scenes-look-at"
-    },
-    {
-      "title": "Woody Johnson agrees to purchase stake in Crystal Palace soccer team - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/woody-johnson-agrees-to-purchase-stake-in-crystal-palace-soccer-team"
-    },
-    {
-      "title": "Oklahoma City Thunder cap off incredible season with a hard-earned NBA title - CNN",
-      "link": "https://www.cnn.com/2025/06/23/sport/oklahoma-city-thunder-nba-title-spt-intl"
-    },
-    {
-      "title": "Dana White names the only fighter Jon Jones ever ducked and it\u2019s not Tom Aspinall - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/23/dana-white-names-the-only-fighter-jon-jones-ever-ducked-and-its-not-tom-aspinall/"
-    },
-    {
-      "title": "Cooper Flagg has \u2018the whole basketball world here at the tip of his fingers.\u2019 Newport, Maine, couldn\u2019t be prouder. - The Boston Globe",
-      "link": "https://www.bostonglobe.com/2025/06/23/sports/cooper-flagg-maine-nba-draft/"
-    },
-    {
-      "title": "Rotation Notes: Scherzer, Stroman, Imanaga, Eovaldi - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/rotation-notes-scherzer-stroman-imanaga-eovaldi.html"
-    },
-    {
-      "title": "Coastal Carolina coach says CWS ejection was unwarranted and he was wrongly accused of bumping ump - AP News",
-      "link": "https://apnews.com/article/cws-coastal-carolina-lsu-bd5796cc2d81cb14dc7992536def8a6d"
-    },
-    {
-      "title": "First-round pairings for NASCAR Cup In-Season Challenge are set - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/first-round-pairings-for-nascar-cup-in-season-challenge-are-set"
-    },
-    {
-      "title": "USMNT completes perfect Gold Cup group stage with win over Haiti \u2014 and opportunities missed or seized - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/article/usmnt-completes-perfect-gold-cup-group-stage-with-win-over-haiti--and-opportunities-missed-or-seized-010124105.html"
-    },
-    {
-      "title": "Cup results, points after Pocono as the playoffs add another driver - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/cup-results-points-after-pocono-as-playoffs-add-another-driver"
     }
   ],
   "weather": {
