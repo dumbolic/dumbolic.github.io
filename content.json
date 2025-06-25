@@ -1,9 +1,9 @@
 {
-  "quote": "If you don't program yourself, life will program you. \u2013 Les Brown",
-  "fact": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
-  "crypto": "BTC: $107,429 | ETH: $2,417.75",
+  "quote": "Growth comes at the point of resistance. \u2013 Josh Waitzkin",
+  "fact": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
+  "crypto": "BTC: $107,616 | ETH: $2,423.9",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "what happens when you cross a sheep with a kangaroo ? A woolly jumper!",
+  "joke": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "$28 external HDD on Amazon actually does what it claims, still not a good buy - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/28-external-hdd-on-amazon-actually-does-what-it-claims-still-not-a-good-buy/"
+    },
+    {
+      "title": "iPhone customers upset by Apple Wallet ad pushing F1 movie - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/"
+    },
+    {
+      "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNET",
+      "link": "https://www.zdnet.com/article/samsung-offers-1000-off-preorder-deal-for-new-galaxy-foldable-phones-ahead-of-unpacked/"
+    },
+    {
+      "title": "Microsoft makes Windows 10 extended security updates free, but there\u2019s a catch - The Verge",
+      "link": "https://www.theverge.com/news/691811/microsoft-windows-10-free-extended-security-updates"
+    },
+    {
+      "title": "Google finally lets Android users put Chrome\u2019s address bar on the bottom - The Verge",
+      "link": "https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom"
+    },
+    {
+      "title": "This iOS 26 feature could be Apple preparing for AirPods Pro 3 cameras - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/24/this-ios-26-feature-could-be-apple-preparing-for-airpods-pro-3-cameras/"
+    },
+    {
       "title": "Google Phone\u2019s M3 Expressive update redesigns bottom bar with Home, Keypad tabs - 9to5Google",
       "link": "http://9to5google.com/2025/06/24/google-phone-bottom-bar-redesign/"
+    },
+    {
+      "title": "Nvidia\u2019s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM - The Verge",
+      "link": "https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7"
+    },
+    {
+      "title": "Here's Everything New in macOS Tahoe Beta 2 - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/24/macos-tahoe-beta-2-new-features-changes/"
+    },
+    {
+      "title": "New Android 14 update for Chromecast with Google TV rolling out - 9to5Google",
+      "link": "http://9to5google.com/2025/06/24/new-android-14-chromecast-update/"
     },
     {
       "title": "iPhone 17 Pro: Four new camera features are coming this fall - 9to5Mac",
       "link": "https://9to5mac.com/2025/06/24/iphone-17-pro-four-new-camera-features-are-coming-this-fall/"
     },
     {
-      "title": "What a set of knockoff headphones taught me about headphones \u2014 and knockoffs - The Verge",
-      "link": "https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones"
-    },
-    {
-      "title": "NVIDIA GeForce RTX 5050 announced with 8GB GDDR6, $249 price, launching mid-to-late July - VideoCardz.com",
-      "link": "https://videocardz.com/newz/nvidia-geforce-rtx-5050-announced-with-8gb-gddr6-249-price-launching-mid-to-late-july"
+      "title": "Drag x Drive wheels onto Switch 2 as an eShop exclusive this August - Eurogamer",
+      "link": "https://www.eurogamer.net/drag-x-drive-wheels-onto-switch-2-as-an-eshop-exclusive-this-august"
     },
     {
       "title": "These battery-powered 4K cameras record 24/7 - The Verge",
       "link": "https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible"
     },
     {
-      "title": "Nintendo Confirms The Release Date For Drag X Drive On Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/nintendo-confirms-the-release-date-for-drag-x-drive-on-switch-2"
-    },
-    {
-      "title": "A week in Xbox VR with Microsoft and Meta\u2019s new $399 headset - The Verge",
-      "link": "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing"
+      "title": "Microsoft dips its toes into VR with limited edition Xbox-themed Meta Quest headset - Eurogamer",
+      "link": "https://www.eurogamer.net/microsoft-dips-its-toes-into-vr-with-limited-edition-xbox-themed-meta-quest-headset"
     },
     {
       "title": "Pixel 11\u2019s Tensor G6 will reportedly use 2nm process at TSMC, no longer lagging behind - 9to5Google",
@@ -48,54 +76,42 @@
       "link": "https://arstechnica.com/gadgets/2025/06/google-rolls-out-street-view-time-travel-to-celebrate-20-years-of-google-earth/"
     },
     {
-      "title": "I Love Lenovo's Latest ThinkPad X1 Carbon but Was Shocked at the Cost of Upgrades - CNET",
-      "link": "https://www.cnet.com/tech/computing/i-love-lenovos-latest-thinkpad-x1-carbon-but-was-shocked-at-the-cost-of-upgrades/"
+      "title": "Apple's Next iPad Pro Could Feature Ultra-Slim Bezels - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/24/future-oled-ipads-ultra-slim-bezels/"
     },
     {
-      "title": "Ambitious Minecraft Competitor Hytale Canceled After Nearly 7 Years of Development: 'This Is Not the Outcome Any of Us Wanted' - IGN",
-      "link": "https://www.ign.com/articles/ambitious-minecraft-competitor-hytale-canceled-after-nearly-7-years-of-development-this-is-not-the-outcome-any-of-us-wanted"
-    },
-    {
-      "title": "Budget Steam smash hit, Peak, is my new gaming obsession - Eurogamer",
-      "link": "https://www.eurogamer.net/budget-steam-smash-hit-peak-is-my-new-gaming-obsession"
+      "title": "Riot is shutting down studio behind its Minecraft-like game - The Verge",
+      "link": "https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure"
     },
     {
       "title": "Windows 11\u2019s indicators for volume and brightness can soon be moved out of the way - The Verge",
       "link": "https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization"
-    },
-    {
-      "title": "I've been using this one ChatGPT prompt for years \u2014 and it works in absolutely any situation - Tom's Guide",
-      "link": "https://www.tomsguide.com/ai/ive-been-using-this-one-chatgpt-prompt-for-years-it-works-in-absolutely-any-situation"
-    },
-    {
-      "title": "Kennedy Center President Melts Down at \u2018Hamilton\u2019 Duo in Social Media Tirade - The Daily Beast",
-      "link": "https://www.thedailybeast.com/kennedy-center-president-melts-down-at-hamilton-duo-in-social-media-tirade/"
-    },
-    {
-      "title": "Lexus\u2019 900 hp LFR spotted hunting AMGs on California\u2019s Angeles Crest highway - supercarblondie.com",
-      "link": "https://supercarblondie.com/lexus-lfr-spotted-hunting-amgs-on-californias-angeles-crest-highway/"
-    },
-    {
-      "title": "Microsoft\u2019s Free Upgrade Deadline For 400 Million Windows Users - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/06/24/microsofts-free-upgrade-deadline-for-400-million-windows-users/"
-    },
-    {
-      "title": "Two-versus-two tag-team fighting game Saturday AM: Battle Manga announced - Gematsu",
-      "link": "https://www.gematsu.com/2025/06/two-versus-two-tag-team-fighting-game-saturday-am-battle-manga-announced"
-    },
-    {
-      "title": "Google AI Mode suggesting prompts based on your past searches - 9to5Google",
-      "link": "http://9to5google.com/2025/06/23/google-ai-mode-search-prompts/"
-    },
-    {
-      "title": "Samsung Is Poised to Unveil Latest Folding Smartphones on July 9 - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2025-06-23/what-will-be-unveiled-at-samsung-unpacked-on-july-9-new-folding-phones-and-ai"
     }
   ],
   "sports_news": [
     {
+      "title": "Dean Spanos, Michael Bidwill celebrated Kyler Murray\u2019s non-fully-guaranteed contract - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dean-spanos-michael-bidwill-celebrated-kyler-murrays-non-fully-guaranteed-contract"
+    },
+    {
+      "title": "Final 2025 NBA mock draft: Predicting all 30 first-round selections - New York Post",
+      "link": "https://nypost.com/2025/06/24/sports/final-2025-nba-mock-draft-predicting-all-32-first-round-selections/"
+    },
+    {
+      "title": "Aaron Rodgers: I\u2019m pretty sure this is it - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-im-pretty-sure-this-is-it"
+    },
+    {
+      "title": "Arsenal set to make huge loss on Oleksandr Zinchenko as Fulham mull over \u00a310m bid for Ukraine international amid AC Milan interest - Goal.com",
+      "link": "https://www.goal.com/en/lists/arsenal-loss-oleksandr-zinchenko-fulham-10m-bid-ac-milan-interest/blt96ac3e726f9bae64"
+    },
+    {
       "title": "Ranking each division by quarterback heading into the 2025 NFL season - NFL.com",
       "link": "https://www.nfl.com/news/ranking-each-division-by-quarterback-heading-into-the-2025-nfl-season"
+    },
+    {
+      "title": "Penguins will pick at No. 11 and 12 in NHL draft after Rangers send them their top selection - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/penguins/2025/06/24/new-york-rangers-pick-nhl-draft/stories/202506240052"
     },
     {
       "title": "It's decision day for 5-star QB Ryder Lyons. Here\u2019s what BYU fans need to know - Deseret News",
@@ -106,8 +122,8 @@
       "link": "https://www.masslive.com/celtics/2025/06/brad-stevens-savvy-tactic-pays-dividends-with-anfernee-simons-trade-brian-robb.html"
     },
     {
-      "title": "The Rookie Sensation Who Throws 103 MPH\u2014and Has Been Almost Unhittable - WSJ",
-      "link": "https://www.wsj.com/sports/baseball/brewers-jacob-misiorowski-rookie-pitcher-paul-skenes-6289123a"
+      "title": "Blues unveil new primary uniforms inspired by Winter Classic jerseys - NHL.com",
+      "link": "https://www.nhl.com/blues/news/blues-unveil-new-primary-uniforms-and-logo"
     },
     {
       "title": "White Sox Sign Noah Syndergaard To Minor League Deal - MLB Trade Rumors",
@@ -122,6 +138,10 @@
       "link": "https://www.mlbtraderumors.com/2025/06/the-opener-burns-simpson-mlbtr-chat.html"
     },
     {
+      "title": "\u2018Confusing\u2019 injury sends Diamondbacks\u2019 Corbin Carroll to IL after X-ray fiasco - New York Post",
+      "link": "https://nypost.com/2025/06/24/sports/confusing-injury-sends-diamondbacks-corbin-carroll-to-il-after-x-ray-fiasco/"
+    },
+    {
       "title": "Inbox: Training camp is that proving ground - Green Bay Packers",
       "link": "https://www.packers.com/news/inbox-training-camp-is-that-proving-ground-june-24-2025"
     },
@@ -134,36 +154,20 @@
       "link": "https://nypost.com/2025/06/24/sports/knicks-have-third-head-coach-candidate-in-micah-nori/"
     },
     {
-      "title": "Rich Stephens, former Raiders offensive lineman, dead at 59 - New York Post",
-      "link": "https://nypost.com/2025/06/24/sports/rich-stephens-former-raiders-offensive-lineman-dead-at-59/"
+      "title": "Jon Jones\u2019 latest criminal charge was unearthed AFTER retirement news broke - MMAmania.com",
+      "link": "https://www.mmamania.com/2025/6/24/24454772/jon-jones-latest-criminal-charge-was-unearthed-after-retirement-news-broke"
     },
     {
-      "title": "Lamar Jackson cited broken mic on his phone during negotiations with Ravens - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-cited-broken-mic-on-his-phone-during-negotiations-with-ravens"
+      "title": "NHL mock draft 2025: Blackhawks at the center of unpredictable first round - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/blackhawks/2025/06/24/nhl-mock-draft-2025-blackhawks-misa-frondell-desnoyers-unpredictable-first-round"
     },
     {
-      "title": "Why Cooper Flagg is one of the NBA's most intriguing prospects of the last 15 years - NBC News",
-      "link": "https://www.nbcnews.com/sports/nba/cooper-flagg-one-nbas-intriguing-prospects-last-15-years-rcna213588"
+      "title": "How New Balance Went From \u2018Dad Shoe\u2019 To Scoring The No. 1 NBA Draft Prospect - Forbes",
+      "link": "https://www.forbes.com/sites/justinbirnbaum/2025/06/24/how-new-balance-went-from-dad-shoe-to-scoring-the-no-1-nba-draft-prospect/"
     },
     {
       "title": "Tom Aspinall's potential first challenger outlines how he will beat the new UFC heavyweight champion - Bloody Elbow",
       "link": "https://bloodyelbow.com/2025/06/24/tom-aspinalls-potential-first-challenger-outlines-how-he-will-beat-the-new-ufc-heavyweight-champion/"
-    },
-    {
-      "title": "Inter Miami advance in Club World Cup: \"A historic night for MLS\" - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/inter-miami-reach-club-world-cup-round-of-16-a-historic-night-for-mls"
-    },
-    {
-      "title": "Diamondbacks to place Corbin Carroll on injured list with wrist fracture - Arizona Sports",
-      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/corbin-carroll-il/3588023/"
-    },
-    {
-      "title": "Padres star Tatis sues Big League Advance in attempt to get out of future earnings deal - AP News",
-      "link": "https://apnews.com/article/fernando-tatis-jr-lawsuit-bla-42d9ee94c791ddbdb570c6cbe13cc1ee"
-    },
-    {
-      "title": "Cal Raleigh, Julio Rodriguez homer as Mariners surge to win over Twins - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/cal-raleigh-julio-rodriguez-homer-as-mariners-surge-to-win-over-twins/"
     }
   ],
   "weather": {
