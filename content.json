@@ -1,9 +1,9 @@
 {
-  "quote": "People who say it cannot be done should not interrupt those who are doing it. \u2013 George Bernard Shaw",
-  "fact": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.",
-  "crypto": "BTC: $107,123 | ETH: $2,423.93",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I decided to sell my Hoover\u2026 well it was just collecting dust.",
+  "quote": "Do every act of your life as if it were your last. \u2013 Marcus Aurelius",
+  "fact": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
+  "crypto": "BTC: $107,839 | ETH: $2,440.04",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the barber win the race? He took a short cut.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Android\u2019s youthful new design will change the way you make and answer calls - The Verge",
+      "link": "https://www.theverge.com/news/691960/google-phone-app-material-3-expressive-redesign-android"
+    },
+    {
+      "title": "These battery-powered 4K cameras record 24/7 - The Verge",
+      "link": "https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible"
+    },
+    {
+      "title": "Nintendo Confirms The Release Date For Drag X Drive On Switch 2 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/06/nintendo-confirms-the-release-date-for-drag-x-drive-on-switch-2"
+    },
+    {
+      "title": "A week in Xbox VR with Microsoft and Meta\u2019s new $399 headset - The Verge",
+      "link": "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing"
+    },
+    {
+      "title": "Google Earth turns 20, adding historical Street View imagery - 9to5Google",
+      "link": "http://9to5google.com/2025/06/24/google-earth-20-birthday/"
+    },
+    {
+      "title": "Microsoft\u2019s big lie: Your computer is fine (and you don\u2019t need to buy a new one) - Technical.ly",
+      "link": "https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/"
+    },
+    {
+      "title": "Budget Steam smash hit, Peak, is my new gaming obsession - Eurogamer",
+      "link": "https://www.eurogamer.net/budget-steam-smash-hit-peak-is-my-new-gaming-obsession"
+    },
+    {
+      "title": "Warning as some people are returning bricked Switch 2 consoles after MiG carts - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/06/24/warning-as-some-people-are-returning-bricked-switch-2-consoles-after-mig-carts/"
+    },
+    {
+      "title": "Did you know your Samsung phone has a secret Wi-Fi menu? Here\u2019s how to enable it - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-phones-secret-wi-fi-settings-connectivity-labs-how-enable-3570045/"
+    },
+    {
+      "title": "Riot is shutting down studio behind its Minecraft-like game - The Verge",
+      "link": "https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure"
+    },
+    {
+      "title": "Windows 11\u2019s indicators for volume and brightness can soon be moved out of the way - The Verge",
+      "link": "https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization"
+    },
+    {
+      "title": "Lexus\u2019 900 hp LFR spotted hunting AMGs on California\u2019s Angeles Crest highway - supercarblondie.com",
+      "link": "https://supercarblondie.com/lexus-lfr-spotted-hunting-amgs-on-californias-angeles-crest-highway/"
+    },
+    {
+      "title": "Google introduces AI mode to users in India - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/23/google-introduces-ai-mode-to-users-in-india/"
+    },
+    {
       "title": "Two-versus-two tag-team fighting game Saturday AM: Battle Manga announced - Gematsu",
       "link": "https://www.gematsu.com/2025/06/two-versus-two-tag-team-fighting-game-saturday-am-battle-manga-announced"
-    },
-    {
-      "title": "Xbox sale round-up June 24, 2025 - DLC - TrueAchievements",
-      "link": "https://www.trueachievements.com/n59435/xbox-sale-roundup-june-24-2025-dlc"
-    },
-    {
-      "title": "Yale\u2019s new Google Home smart lock is here \u2014 but it costs more thanks to tariffs - The Verge",
-      "link": "https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs"
     },
     {
       "title": "Samsung Is Poised to Unveil Latest Folding Smartphones on July 9 - Bloomberg",
       "link": "https://www.bloomberg.com/news/articles/2025-06-23/what-will-be-unveiled-at-samsung-unpacked-on-july-9-new-folding-phones-and-ai"
     },
     {
-      "title": "Phew: Apple fixed the Finder icon in macOS Tahoe 26 - The Verge",
-      "link": "https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta"
+      "title": "Google Pixel Camera 9.9 rolls out: Social Share removed, icon tweaks - 9to5Google",
+      "link": "http://9to5google.com/2025/06/23/pixel-camera-9-9-update/"
     },
     {
       "title": "Apple looked at Mira Murati\u2019s AI startup after OpenAI exit, and it won\u2019t stop there - 9to5Mac",
@@ -46,120 +90,80 @@
     {
       "title": "Apple\u2019s Liquid Glass interface improves with release of iOS 26 Beta 2 - TechCrunch",
       "link": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/"
-    },
-    {
-      "title": "Rematch Review - Unbelievable Tekkers - GameSpot",
-      "link": "https://www.gamespot.com/reviews/rematch-review-unbelievable-tekkers/1900-6418378/"
-    },
-    {
-      "title": "MindsEye developer confirms layoffs as it \"focuses on updates and performance optimization for MindsEye\" - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/mindseye-developer-confirms-layoffs-as-it-focuses-on-updates-and-performance-optimization-for-mindseye"
-    },
-    {
-      "title": "Sam\u2019s Club Just Made a Change to Its Rotisserie Chicken - Allrecipes",
-      "link": "https://www.allrecipes.com/sams-club-rotisserie-chicken-delivery-11754230"
-    },
-    {
-      "title": "iOS 26 beta 2 adds brand new iPhone ringtone, listen here - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/23/ios-26-beta-2-adds-brand-new-iphone-ringtone-listen-here/"
-    },
-    {
-      "title": "The Nightmare Hair Situation Antonia Gentry Endured On \"Ginny & Georgia\" Is Going Viral - BuzzFeed",
-      "link": "https://www.buzzfeed.com/kristatorres/ginny-georgia-antonia-gentry-hair-tiktok"
-    },
-    {
-      "title": "Mario Kart 64's Unofficial PC Port Is Amazing - Kotaku",
-      "link": "https://kotaku.com/mario-kart-64-pc-port-native-emulation-legal-nintendo-1851784946"
-    },
-    {
-      "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/06/microsoft-surprises-ms-dos-fans-with-remake-of-ancient-text-editor-that-works-on-linux/"
-    },
-    {
-      "title": "Google brings new Gemini features to Chromebooks, debuts first on-device AI - Ars Technica",
-      "link": "https://arstechnica.com/google/2025/06/google-brings-new-gemini-features-to-chromebooks-debuts-first-on-device-ai/"
-    },
-    {
-      "title": "Tune In on Twitch, Get Pok\u00e9mon TCG Pocket Hourglasses to Celebrate Eevee Grove - Pokemon.com",
-      "link": "https://www.pokemon.com/us/pokemon-news/tune-in-on-twitch-get-pokemon-tcg-pocket-hourglasses-to-celebrate-eevee-grove"
     }
   ],
   "sports_news": [
     {
-      "title": "Nationals\u2019 cornerstones come up big in series-opening win against Padres - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/06/24/nationals-padres-abrams-wood/"
+      "title": "Ace Bailey will make NBA executives who don\u2019t draft him look like dopes | Politi - NJ.com",
+      "link": "https://www.nj.com/rutgersbasketball/2025/06/ace-bailey-will-make-nba-executives-who-dont-draft-him-look-like-dopes-politi.html"
     },
     {
-      "title": "Pacers' Tyrese Haliburton Posts After Surgery on Achilles Injury, 'This S--t Sucks' - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25212385-pacers-tyrese-haliburton-posts-after-surgery-achilles-injury-s-t-sucks"
+      "title": "Top five NFL draft values of the millennium at TE: Travis Kelce, Rob Gronkowski among all-time greats - NFL.com",
+      "link": "https://www.nfl.com/news/best-nfl-draft-values-of-the-millennium-tight-end"
     },
     {
-      "title": "Cal Raleigh\u2019s latest home run sets multiple records - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/raleighs-latest-home-run-sets-personal-mariners-records/1814473"
+      "title": "Lamar Jackson cited broken mic on his phone during negotiations with Ravens - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-cited-broken-mic-on-his-phone-during-negotiations-with-ravens"
     },
     {
-      "title": "Kevin Durant stat sheet: 15 key numbers after deal to Rockets - NBA",
-      "link": "https://www.nba.com/news/kevin-durant-15-key-numbers-rockets"
+      "title": "Celtics reportedly trade Jrue Holiday to Blazers for Anfernee Simons, two picks - Boston Herald",
+      "link": "https://www.bostonherald.com/2025/06/23/celtics-reportedly-trade-jrue-holiday-to-blazers-for-anfernee-simons-two-picks/"
     },
     {
-      "title": "Club World Cup: Inter Miami validates the Messi project, but proves an exception to the MLS rule - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/article/club-world-cup-inter-miami-validates-the-messi-project-but-proves-an-exception-to-the-mls-rule-030336869.html"
+      "title": "Tom Aspinall's potential first challenger outlines how he will beat the new UFC heavyweight champion - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/24/tom-aspinalls-potential-first-challenger-outlines-how-he-will-beat-the-new-ufc-heavyweight-champion/"
+    },
+    {
+      "title": "Ridiculous Lionel Messi record emerges as Inter Miami make history at Club World Cup - talkSPORT",
+      "link": "http://talksport.com/football/3316567/lionel-messi-stat-inter-miami-club-world-cup/"
+    },
+    {
+      "title": "Cal Raleigh for MVP? After HR No. 32, his teammates aren't shy to say it - MLB.com",
+      "link": "https://www.mlb.com/news/mariners-hit-4-home-runs-bryan-woo-strikes-out-9-in-win-vs-twins"
     },
     {
       "title": "Corbin Carroll Diagnosed With Wrist Fracture - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/corbin-carroll-diagnosed-with-wrist-fracture.html"
     },
     {
-      "title": "Verdict in trial of Rays shortstop Wander Franco to come Thursday - Tampa Bay Times",
-      "link": "https://www.tampabay.com/sports/2025/06/23/wander-franco-trial-sexual-abuse-charge-verdict-scheduled-dominican-republic/"
+      "title": "Padres star Tatis sues Big League Advance in attempt to get out of future earnings deal - AP News",
+      "link": "https://apnews.com/article/fernando-tatis-jr-lawsuit-bla-42d9ee94c791ddbdb570c6cbe13cc1ee"
     },
     {
-      "title": "Padres\u2019 Fernando Tatis Jr. files complaint seeking to void future-earnings deal - San Diego Union-Tribune",
-      "link": "https://www.sandiegouniontribune.com/2025/06/23/padres-fernando-tatis-jr-seeks-to-void-future-earnings-deal-via-complaint/"
+      "title": "Schwellenbach's 7 strong innings help Braves move to 4-0 vs. Mets in 2025 - MLB.com",
+      "link": "https://www.mlb.com/news/spencer-schwellenbach-seven-strong-innings-win-over-mets"
+    },
+    {
+      "title": "Verdict in trial of Rays shortstop Wander Franco to come Thursday - Tampa Bay Times",
+      "link": "https://www.tampabay.com/sports/2025/06/23/wander-franco-trial-sexual-abuse-charge-verdict-scheduled-dominican-republic/"
     },
     {
       "title": "Pac-12\u2019s new media rights deal will feel familiar to San Diego State fans - San Diego Union-Tribune",
       "link": "https://www.sandiegouniontribune.com/2025/06/23/pac-12s-new-media-rights-deal-will-feel-familiar-to-san-diego-state-fans/"
     },
     {
-      "title": "Why Mike Dunleavy claims Warriors adding big-salary star is \u2018almost impossible' - NBC Sports Bay Area & California",
-      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/mike-dunleavy-offseason-free-agency-trade/1857500/"
+      "title": "MLB insider gives Red Sox extremely high grade for Rafael Devers trade - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/06/mlb-insider-gives-red-sox-extremely-high-grade-for-rafael-devers-trade.html"
     },
     {
       "title": "NBA Draft will have tons of international talent, which is to be expected - NBA",
       "link": "https://www.nba.com/news/2025-nba-draft-international-talent"
     },
     {
-      "title": "Reds cut infielder Jeimer Candelario halfway into $45 million deal: \u2018Sunk cost\u2019 - New York Post",
-      "link": "https://nypost.com/2025/06/23/sports/reds-cut-jeimer-candelario-halfway-into-45-million-deal/"
-    },
-    {
       "title": "Mets add Lovelady on MLB deal to bolster lefty 'pen depth - MLB.com",
       "link": "https://www.mlb.com/news/richard-lovelady-deal-with-mets-luisangel-acuna-optioned"
-    },
-    {
-      "title": "Buzz Williams on what Maryland's playing style will be, learning the Big Ten and more - 247Sports",
-      "link": "https://247sports.com/college/maryland/longformarticle/buzz-williams-on-what-marylands-playing-style-will-be-learning-the-big-ten-and-more-251191302/"
-    },
-    {
-      "title": "Ducks GM Pat Verbeek Discusses the Trade and What's Ahead for Anaheim - NHL.com",
-      "link": "https://www.nhl.com/ducks/news/ducks-gm-pat-verbeek-discusses-the-trade"
     },
     {
       "title": "Chase Field funding bill approved by Arizona House of Representatives, heads to Gov. Katie Hobbs - Arizona Sports",
       "link": "https://arizonasports.com/mlb/arizona-diamondbacks/chase-field-bill-2/3587985/"
     },
     {
+      "title": "DI Board of Directors formally adopts changes to roster limits - NCAA.org",
+      "link": "https://www.ncaa.org/news/2025/6/23/media-center-di-board-of-directors-formally-adopts-changes-to-roster-limits.aspx"
+    },
+    {
       "title": "Updates To UFC 317: Topuria vs Oliveira - UFC.com",
       "link": "https://www.ufc.com/news/updates-ufc-317-topuria-vs-oliveira"
-    },
-    {
-      "title": "A\u2019s John Fisher, MLB\u2019s Rob Manfred preside over finally breaking ground for Las Vegas stadium - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/athletics/article/a-s-john-fisher-mlb-s-rob-manfred-break-20389387.php"
-    },
-    {
-      "title": "TV Ratings: Game 7 Gives NBA Finals a Six-Year High - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/tv/tv-news/nba-finals-game-7-2025-tv-ratings-1236297429/"
     }
   ],
   "weather": {
