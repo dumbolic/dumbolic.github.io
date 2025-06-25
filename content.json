@@ -1,9 +1,9 @@
 {
-  "quote": "Growth comes at the point of resistance. \u2013 Josh Waitzkin",
-  "fact": "There are only four words in the English language which end in \"dous\": tremendous, horrendous, stupendous, and\u00a0 hazardous.",
-  "crypto": "BTC: $107,759 | ETH: $2,431.1",
+  "quote": "The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. \u2013 Carl Jung",
+  "fact": "60% of electrocutions occur while talking on the telephone during a thunderstorm.",
+  "crypto": "BTC: $107,716 | ETH: $2,437.46",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
+  "joke": "Why are pirates called pirates? Because they arrr!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Philips Hue bulbs will be even more expensive in July. And it may not end there. - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/philips-hue-bulbs-will-be-even-more-expensive-in-july-and-it-may-not-end-there/"
+    },
+    {
+      "title": "Microsoft extends free Windows 10 security updates into 2026, with strings attached - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/microsoft-extends-free-windows-10-security-updates-into-2026-with-strings-attached/"
+    },
+    {
+      "title": "Apple\u2019s thirsty F1 movie notification is going over as well as you\u2019d expect it to be - The Verge",
+      "link": "https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad"
+    },
+    {
       "title": "$28 external HDD on Amazon actually does what it claims, still not a good buy - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/06/28-external-hdd-on-amazon-actually-does-what-it-claims-still-not-a-good-buy/"
     },
     {
-      "title": "iPhone customers upset by Apple Wallet ad pushing F1 movie - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/"
+      "title": "A 5.8 millimeter-thin endurance marvel : Samsung Galaxy S25 Edge smartphone review - Notebookcheck",
+      "link": "https://www.notebookcheck.net/A-5-8-millimeter-thin-endurance-marvel-Samsung-Galaxy-S25-Edge-smartphone-review.1042425.0.html"
+    },
+    {
+      "title": "Apple was one of the few stocks down today. Why acquiring Perplexity could be key. - MarketWatch",
+      "link": "https://www.marketwatch.com/story/why-apple-potentially-acquiring-perplexity-could-be-big-news-for-its-stock-4d352b39"
     },
     {
       "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNET",
       "link": "https://www.zdnet.com/article/samsung-offers-1000-off-preorder-deal-for-new-galaxy-foldable-phones-ahead-of-unpacked/"
     },
     {
-      "title": "Microsoft makes Windows 10 extended security updates free, but there\u2019s a catch - The Verge",
-      "link": "https://www.theverge.com/news/691811/microsoft-windows-10-free-extended-security-updates"
+      "title": "Chrome for Android now lets you move the address bar to the bottom, too - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/24/chrome-for-android-now-lets-you-move-the-address-bar-to-the-bottom-too/"
     },
     {
-      "title": "Google finally lets Android users put Chrome\u2019s address bar on the bottom - The Verge",
-      "link": "https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom"
-    },
-    {
-      "title": "This iOS 26 feature could be Apple preparing for AirPods Pro 3 cameras - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/24/this-ios-26-feature-could-be-apple-preparing-for-airpods-pro-3-cameras/"
+      "title": "Embracing the Chaos - Game Informer",
+      "link": "https://gameinformer.com/feature/2025/06/24/embracing-the-chaos"
     },
     {
       "title": "Google Phone\u2019s M3 Expressive update redesigns bottom bar with Home, Keypad tabs - 9to5Google",
@@ -48,20 +60,24 @@
       "link": "https://www.macrumors.com/2025/06/24/macos-tahoe-beta-2-new-features-changes/"
     },
     {
-      "title": "New Android 14 update for Chromecast with Google TV rolling out - 9to5Google",
-      "link": "http://9to5google.com/2025/06/24/new-android-14-chromecast-update/"
+      "title": "The Best Game Of All Time Just Turned 25 Years Old - Kotaku",
+      "link": "https://kotaku.com/deus-ex-25-years-ion-storm-looking-glass-warren-ellis-1851784985"
+    },
+    {
+      "title": "Popular third-party Switch 2 case suffers manufacturing defect in small number of orders, producer promises it's \"working on it\" - Eurogamer",
+      "link": "https://www.eurogamer.net/popular-third-party-switch-2-case-suffers-manufacturing-defect-in-small-number-of-orders-producer-promises-its-working-on-it"
+    },
+    {
+      "title": "Nintendo\u2019s wheelchair basketball game will be out in August - The Verge",
+      "link": "https://www.theverge.com/news/691907/drag-x-drive-release-date-nintendo-switch-2"
     },
     {
       "title": "iPhone 17 Pro: Four new camera features are coming this fall - 9to5Mac",
       "link": "https://9to5mac.com/2025/06/24/iphone-17-pro-four-new-camera-features-are-coming-this-fall/"
     },
     {
-      "title": "Drag x Drive wheels onto Switch 2 as an eShop exclusive this August - Eurogamer",
-      "link": "https://www.eurogamer.net/drag-x-drive-wheels-onto-switch-2-as-an-eshop-exclusive-this-august"
-    },
-    {
-      "title": "These battery-powered 4K cameras record 24/7 - The Verge",
-      "link": "https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible"
+      "title": "Google DeepMind\u2019s optimized AI model runs directly on robots - The Verge",
+      "link": "https://www.theverge.com/news/691882/google-deepmind-on-device-ai-robots-gemini"
     },
     {
       "title": "Microsoft dips its toes into VR with limited edition Xbox-themed Meta Quest headset - Eurogamer",
@@ -70,104 +86,88 @@
     {
       "title": "Pixel 11\u2019s Tensor G6 will reportedly use 2nm process at TSMC, no longer lagging behind - 9to5Google",
       "link": "http://9to5google.com/2025/06/24/google-tensor-g6-tsmc-2nm-report/"
-    },
-    {
-      "title": "Google rolls out Street View time travel to celebrate 20 years of Google Earth - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/06/google-rolls-out-street-view-time-travel-to-celebrate-20-years-of-google-earth/"
-    },
-    {
-      "title": "Apple's Next iPad Pro Could Feature Ultra-Slim Bezels - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/24/future-oled-ipads-ultra-slim-bezels/"
-    },
-    {
-      "title": "Riot is shutting down studio behind its Minecraft-like game - The Verge",
-      "link": "https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure"
-    },
-    {
-      "title": "Windows 11\u2019s indicators for volume and brightness can soon be moved out of the way - The Verge",
-      "link": "https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization"
     }
   ],
   "sports_news": [
+    {
+      "title": "Wizards trade Jordan Poole, clearing their cap sheet down the line - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/24/wizards-trade-poole-mccollum/"
+    },
+    {
+      "title": "NBA owners unanimously approve $1.5 billion sale of Minnesota Timberwolves, WNBA's Lynx - AP News",
+      "link": "https://apnews.com/article/timberwolves-lynx-sale-20622fb7798002ed1b73a2198ae908d3"
+    },
+    {
+      "title": "Why angry Lionel Messi stormed off after Inter Miami secured FIFA Club World Cup last-16 spot with Argentine GOAT left shaking his head - Goal.com",
+      "link": "https://www.goal.com/en-us/news/why-angry-lionel-messi-stormed-off-inter-miami-fifa-club-world-cup-last-16-argentine-goat-shaking-head/blt580937296d5d67fe"
+    },
+    {
+      "title": "Aaron Rodgers: I don\u2019t want the attention, when I\u2019m done playing you won\u2019t see me - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-i-dont-want-the-attention-when-im-done-playing-you-wont-see-me"
+    },
+    {
+      "title": "Ryder Lyons commitment illustrates changes in how BYU sells itself - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/06/24/ryder-lyons-chooses-byu-cougars-inside-information/"
+    },
+    {
+      "title": "Chara, Thornton, Keith, Mogilny among 8 elected to Hockey Hall of Fame - NHL.com",
+      "link": "https://www.nhl.com/news/zdeno-chara-joe-thornton-duncan-keith-alexander-mogilny-elected-to-hockey-hall-of-fame"
+    },
+    {
+      "title": "EA Sports College Football 26 releases top 25 toughest places to play - On3.com",
+      "link": "https://www.on3.com/news/ea-sports-college-football-26-releases-top-25-toughest-places-to-play/"
+    },
+    {
+      "title": "MLB Power Rankings: Detroit Remains Atop the Rankings Despite a Top-5 Shuffle - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/24/mlb-power-rankings-062425/"
+    },
     {
       "title": "Dean Spanos, Michael Bidwill celebrated Kyler Murray\u2019s non-fully-guaranteed contract - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dean-spanos-michael-bidwill-celebrated-kyler-murrays-non-fully-guaranteed-contract"
     },
     {
-      "title": "Final 2025 NBA mock draft: Predicting all 30 first-round selections - New York Post",
-      "link": "https://nypost.com/2025/06/24/sports/final-2025-nba-mock-draft-predicting-all-32-first-round-selections/"
+      "title": "Getting Trevor Zegras at the right price point was crucial for Flyers - Daily Faceoff",
+      "link": "https://www.dailyfaceoff.com/news/trevor-zegras-price-point-return-trade-philadelphia-flyers-anaheim-ducks"
     },
     {
-      "title": "Aaron Rodgers: I\u2019m pretty sure this is it - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-im-pretty-sure-this-is-it"
+      "title": "Top NBA Draft Prospect\u2019s Stock Falling After Losing Almost Three Inches in Height - Sports Illustrated",
+      "link": "https://www.si.com/nba/ace-baileytop-draft-prospects-stock-falling-losing-almost-three-inches-height"
     },
     {
-      "title": "Arsenal set to make huge loss on Oleksandr Zinchenko as Fulham mull over \u00a310m bid for Ukraine international amid AC Milan interest - Goal.com",
-      "link": "https://www.goal.com/en/lists/arsenal-loss-oleksandr-zinchenko-fulham-10m-bid-ac-milan-interest/blt96ac3e726f9bae64"
+      "title": "Joel Embiid\u2019s murky health status clouds the Sixers\u2019 2025 NBA draft approach - Liberty Ballers",
+      "link": "https://www.libertyballers.com/2025/6/24/24454715/joel-embiids-health-status-sixers-2025-nba-draft-approach"
     },
     {
-      "title": "Ranking each division by quarterback heading into the 2025 NFL season - NFL.com",
-      "link": "https://www.nfl.com/news/ranking-each-division-by-quarterback-heading-into-the-2025-nfl-season"
+      "title": "Inside the Celtics' (first?) big trade, Boston's next major move and LOTS more trade talk and NBA Draft Intel - Marc Stein | Substack",
+      "link": "https://marcstein.substack.com/p/inside-the-celtics-first-big-trade"
+    },
+    {
+      "title": "Jon Jones bodycam footage shows UFC star threatening cop after shock retirement reveal - New York Post",
+      "link": "https://nypost.com/2025/06/24/sports/shocking-jon-jones-bodycam-footage-shows-ufc-star-threatening-cop/"
+    },
+    {
+      "title": "Islanders won't be trading No. 1 pick in 2025 NHL Draft, GM says - NHL.com",
+      "link": "https://www.nhl.com/news/new-york-wont-trade-no-1-pick-in-2025-nhl-draft-mathieu-darche-says"
     },
     {
       "title": "Penguins will pick at No. 11 and 12 in NHL draft after Rangers send them their top selection - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/penguins/2025/06/24/new-york-rangers-pick-nhl-draft/stories/202506240052"
     },
     {
-      "title": "It's decision day for 5-star QB Ryder Lyons. Here\u2019s what BYU fans need to know - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/06/24/how-to-watch-ryder-lyons-commitment-announcement/"
+      "title": "Corbin Carroll Placed On IL With Wrist Fracture - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/corbin-carroll-diagnosed-with-wrist-fracture.html"
     },
     {
-      "title": "Brad Stevens savvy tactic pays dividends with Anfernee Simons trade | Brian Robb - MassLive",
-      "link": "https://www.masslive.com/celtics/2025/06/brad-stevens-savvy-tactic-pays-dividends-with-anfernee-simons-trade-brian-robb.html"
-    },
-    {
-      "title": "Blues unveil new primary uniforms inspired by Winter Classic jerseys - NHL.com",
-      "link": "https://www.nhl.com/blues/news/blues-unveil-new-primary-uniforms-and-logo"
+      "title": "WNBA Power Rankings: Mercury Are Not in Retrograde - Sports Illustrated",
+      "link": "https://www.si.com/wnba/wnba-power-rankings-mercury-rise-liberty-fever-fall"
     },
     {
       "title": "White Sox Sign Noah Syndergaard To Minor League Deal - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/white-sox-sign-noah-syndergaard-to-minor-league-deal.html"
     },
     {
-      "title": "Ace Bailey will make NBA executives who don\u2019t draft him look like dopes | Politi - NJ.com",
-      "link": "https://www.nj.com/rutgersbasketball/2025/06/ace-bailey-will-make-nba-executives-who-dont-draft-him-look-like-dopes-politi.html"
-    },
-    {
       "title": "The Opener: Burns, Simpson, MLBTR Chat - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/06/the-opener-burns-simpson-mlbtr-chat.html"
-    },
-    {
-      "title": "\u2018Confusing\u2019 injury sends Diamondbacks\u2019 Corbin Carroll to IL after X-ray fiasco - New York Post",
-      "link": "https://nypost.com/2025/06/24/sports/confusing-injury-sends-diamondbacks-corbin-carroll-to-il-after-x-ray-fiasco/"
-    },
-    {
-      "title": "Inbox: Training camp is that proving ground - Green Bay Packers",
-      "link": "https://www.packers.com/news/inbox-training-camp-is-that-proving-ground-june-24-2025"
-    },
-    {
-      "title": "Top five NFL draft values of the millennium at TE: Travis Kelce, Rob Gronkowski among all-time greats - NFL.com",
-      "link": "https://www.nfl.com/news/best-nfl-draft-values-of-the-millennium-tight-end"
-    },
-    {
-      "title": "Knicks have third head coach candidate as Micah Nori interviews for job - New York Post",
-      "link": "https://nypost.com/2025/06/24/sports/knicks-have-third-head-coach-candidate-in-micah-nori/"
-    },
-    {
-      "title": "Jon Jones\u2019 latest criminal charge was unearthed AFTER retirement news broke - MMAmania.com",
-      "link": "https://www.mmamania.com/2025/6/24/24454772/jon-jones-latest-criminal-charge-was-unearthed-after-retirement-news-broke"
-    },
-    {
-      "title": "NHL mock draft 2025: Blackhawks at the center of unpredictable first round - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/blackhawks/2025/06/24/nhl-mock-draft-2025-blackhawks-misa-frondell-desnoyers-unpredictable-first-round"
-    },
-    {
-      "title": "How New Balance Went From \u2018Dad Shoe\u2019 To Scoring The No. 1 NBA Draft Prospect - Forbes",
-      "link": "https://www.forbes.com/sites/justinbirnbaum/2025/06/24/how-new-balance-went-from-dad-shoe-to-scoring-the-no-1-nba-draft-prospect/"
-    },
-    {
-      "title": "Tom Aspinall's potential first challenger outlines how he will beat the new UFC heavyweight champion - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/24/tom-aspinalls-potential-first-challenger-outlines-how-he-will-beat-the-new-ufc-heavyweight-champion/"
     }
   ],
   "weather": {
