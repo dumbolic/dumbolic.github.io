@@ -1,9 +1,9 @@
 {
-  "quote": "Lack of emotion causes lack of progress and lack of motivation. \u2013 Tony Robbins",
-  "fact": "Deborah Winger did the voice of E.T.",
-  "crypto": "BTC: $107,874 | ETH: $2,452.35",
+  "quote": "By seeking and blundering we learn. \u2013 Johann Wolfgang von Goethe",
+  "fact": "You can sail all the way around the world at latitude 60 degrees south.",
+  "crypto": "BTC: $107,449 | ETH: $2,427.09",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, \u2018No, just leave it in the carton!\u2019",
+  "joke": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "New Xbox 360 Update Adds More Ads 20 Years After Launch - Kotaku",
+      "link": "https://kotaku.com/xbox-360-console-update-more-ads-20-years-old-series-x-1851785111"
+    },
+    {
+      "title": "Google\u2019s spotty Find Hub network could get better thanks to a small setup tweak - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/googles-spotty-find-hub-network-could-get-better-thanks-to-a-small-setup-tweak/"
+    },
+    {
+      "title": "Ubuntu disables Intel GPU security mitigations, promises 20% performance boost - Ars Technica",
+      "link": "https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/"
+    },
+    {
+      "title": "Dbrand admits it had a \u2018spectacularly terrible response\u2019 to Killswitch Joy-Con grip detachment complaints - The Verge",
+      "link": "https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment"
+    },
+    {
+      "title": "Games run faster on SteamOS than Windows 11, Ars testing finds - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/"
+    },
+    {
+      "title": "Borderlands 4 Preview - Hands-On With All Four Vault Hunters - Game Informer",
+      "link": "https://www.gameinformer.com/preview/2025/06/25/hands-on-with-all-four-vault-hunters"
+    },
+    {
+      "title": "Anker\u2019s versatile travel charger is on sale just in time for summer - The Verge",
+      "link": "https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale"
+    },
+    {
+      "title": "New Hot Shots Golf Game Cops To Using Generative AI For Trees - Kotaku",
+      "link": "https://kotaku.com/everybodys-golf-hot-shots-pacman-ai-steam-ps5-1851785098"
+    },
+    {
+      "title": "Meta is adding AI-powered summaries to WhatsApp - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/"
+    },
+    {
+      "title": "Entry list: Lime Rock Park 100 at Lime Rock Park - arcaracing.com",
+      "link": "https://www.arcaracing.com/2025/06/25/entry-list-lime-rock-park-100/"
+    },
+    {
+      "title": "Jack Black to Reprise Officer Dick in \u2018Tony Hawk\u2019s Pro Skater 3 + 4\u2019 (EXCLUSIVE) - Variety",
+      "link": "https://variety.com/2025/gaming/news/jack-black-tony-hawks-pro-skater-3-4-officer-dick-1236440201/"
+    },
+    {
+      "title": "I\u2019ve been tracking Nintendo Switch 2 restocks for weeks, and a big one is coming - CNN",
+      "link": "https://www.cnn.com/cnn-underscored/electronics/nintendo-switch-2-restock-2025-06-25"
+    },
+    {
       "title": "The Video Game Industry as We Knew It Is Over. Something Unsavory Is Taking Its Place. - Slate Magazine",
       "link": "https://slate.com/culture/2025/06/nintendo-switch-2-video-games-xbox-playstation.html"
     },
     {
-      "title": "Sex advice: My girlfriend has a way to \"finish the job\" in bed. I hate every second of it. - Slate Magazine",
-      "link": "https://slate.com/advice/2025/06/sex-advice-girlfriend-oral-technique.html"
+      "title": "Google to Gemini Users: We\u2019re Going to Look at Your Texts Whether You Like It or Not - Gizmodo",
+      "link": "https://gizmodo.com/google-to-gemini-users-were-going-to-look-at-your-texts-whether-you-like-it-or-not-2000620141"
+    },
+    {
+      "title": "Leaked Pixel 10 Spec Sheet Confirms Important Change - Droid Life",
+      "link": "https://www.droid-life.com/2025/06/25/pixel-10-specs-google-trades-camera-downgrades-for-slightly-bigger-battery/"
     },
     {
       "title": "Remedy is in control - The Verge",
@@ -28,90 +80,58 @@
       "link": "https://videocardz.com/newz/samsung-launches-three-4k-32-inch-smart-monitors-m9-gets-qd-oled-panel-and-1599-price-tag"
     },
     {
-      "title": "Your iPhone Can Now Hold a Digital Driver's License. Here Are the States That Let You Do It - CNET",
-      "link": "https://www.cnet.com/tech/mobile/your-iphone-can-now-hold-a-digital-drivers-license-here-are-the-states-that-let-you-do-it/"
+      "title": "Square Enix acknowledges Expedition 33 success - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/06/25/square-enix-acknowledges-expedition-33-success/"
     },
     {
       "title": "Stalker 2's broken A-life system is finally working as designed, according to GSC Game World - Rock Paper Shotgun",
       "link": "https://www.rockpapershotgun.com/stalker-2s-broken-a-life-system-is-finally-working-as-designed-according-to-gsc-game-world"
-    },
-    {
-      "title": "You need to see Front Mission 3 Remake's redone Network graphics and photographs - RPG Site",
-      "link": "https://www.rpgsite.net/feature/17799-you-need-to-see-front-mission-3-remakes-redone-network-graphics-photograph"
-    },
-    {
-      "title": "Here\u2019s a running list of all of Tesla\u2019s robotaxi mishaps so far - The Verge",
-      "link": "https://www.theverge.com/news/692639/tesla-robotaxi-mistake-wrong-lane-phantom-braking"
-    },
-    {
-      "title": "Insta360\u2019s new wireless mic looks no bigger than an Apple AirTag - The Verge",
-      "link": "https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth"
-    },
-    {
-      "title": "Microsoft dangles extended Windows 10 support in exchange for Reward Points - theregister.com",
-      "link": "https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/"
-    },
-    {
-      "title": "Google Pixel 10 series allegedly gets brighter displays with better PWM on Pro models - 9to5Google",
-      "link": "http://9to5google.com/2025/06/25/google-pixel-10-display-upgrades-report/"
-    },
-    {
-      "title": "Donkey Kong & Pauline Amiibo Is Now Up For Pre-Order From Nintendo (UK) - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/06/donkey-kong-and-pauline-amiibo-is-now-up-for-pre-order-from-nintendo-uk"
-    },
-    {
-      "title": "Diablo 4\u2019s free with PlayStation Plus in July - Polygon",
-      "link": "https://www.polygon.com/news/608821/ps-plus-july-2025-games-diablo-4"
-    },
-    {
-      "title": "Netflix Backs Even Further Away From Gaming, Losing 20 Titles Next Month - Kotaku",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVJWN1BWRmpVU2s4eUVYczF4WmF2OWt5aFZZRkJuZ1lUVmR2clZwN1o5UlpwSURWclJZOVVvN1AtZW85bHNtT0s1XzVfQmVObjNkWjBnRUJNamUyZGx3U2FCMVJJcHM5ejhhTVNiMnRIbXQzVmNicVh6MUNjUFFhdXRFdlY5SnV5TVpr?oc=5"
-    },
-    {
-      "title": "Xbox Looker Senua's Saga: Hellblade 2 Runs at a Slick 60fps on PS5 - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/06/xbox-looker-senuas-saga-hellblade-2-runs-at-a-slick-60fps-on-ps5"
-    },
-    {
-      "title": "Ring cameras and doorbells now use AI to provide specific descriptions of motion activity - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/25/ring-cameras-and-doorbells-now-use-ai-to-provide-specific-descriptions-of-motion-activity/"
-    },
-    {
-      "title": "Here's What I Learned After Seven Months of Wearing Ray-Ban Meta Smart Glasses - Lifehacker",
-      "link": "https://lifehacker.com/tech/what-i-learned-after-ray-ban-glasses"
-    },
-    {
-      "title": "HDMI 2.2 will support 16K video at 60Hz - The Verge",
-      "link": "https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k"
-    },
-    {
-      "title": "Death Stranding 2's instantaneous loading times truly prove the power of the PS5 - Eurogamer",
-      "link": "https://www.eurogamer.net/death-stranding-2s-instantaneous-loading-times-truly-prove-the-power-of-the-ps5"
-    },
-    {
-      "title": "M5 iPad Pro OLED Displays Enter Mass Production for October Launch - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/25/m5-ipad-pro-oled-mass-production-october-launch/"
     }
   ],
   "sports_news": [
     {
-      "title": "Fan banned after heckling Diamondbacks' Ketel Marte to tears with comments about late mother - AP News",
-      "link": "https://apnews.com/article/diamondbacks-ketel-marte-833a9c8136e0767bdcfb6cd2ec7afe9e"
+      "title": "2025 NBA Draft live updates: Mavericks expected to take Cooper Flagg as No. 1 pick - AP News",
+      "link": "https://apnews.com/live/nba-draft-2025-picks-updates"
     },
     {
-      "title": "'Liver King' influencer arrested in Texas after threatening Joe Rogan - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/liver-king-arrested-threatening-joe-rogan-rcna215004"
+      "title": "Cooper Flagg's College GPA Goes Viral Before NBA Draft - Yahoo Sports",
+      "link": "https://thespun.com/nba/cooper-flaggs-college-gpa-goes-viral-before-nba-draft"
     },
     {
-      "title": "Jrue Holiday \u2018pissed\u2019 to land with Trail Blazers after Celtics divorce - New York Post",
-      "link": "https://nypost.com/2025/06/25/sports/jrue-holiday-pissed-to-land-with-trail-blazers-after-celtics-divorce/"
+      "title": "Blue Jays Designate Spencer Turnbull For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/blue-jays-designate-spencer-turnbull-for-assignment.html"
+    },
+    {
+      "title": "If Aaron Rodgers doesn\u2019t want attention, why is he doing Pat McAfee\u2019s show in June? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-aaron-rodgers-doesnt-want-attention-why-is-he-doing-pat-mcafees-show-in-june"
+    },
+    {
+      "title": "Liver King arrested in Austin after threatening Joe Rogan on Instagram - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.go.com/US/liver-king-arrested-austin-after-threatening-joe-rogan/story?id\\\\u003d123196365"
+    },
+    {
+      "title": "Report: Free agent CB Shaquill Griffin to reunite with Seahawks - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-free-agent-cb-shaquill-griffin-to-reunite-with-seahawks"
+    },
+    {
+      "title": "Did collusion case bring down Jeff Pash? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/did-collusion-case-bring-down-jeff-pash"
+    },
+    {
+      "title": "New Wolves owners want to leave Target Center. Here\u2019s what\u2019s at stake for downtown Minneapolis. - Star Tribune",
+      "link": "https://www.startribune.com/timberwolves-lynx-new-arena-target-center-downtown-minneapolis/601378028"
+    },
+    {
+      "title": "Column | Kevin Durant\u2019s lonely basketball journey trudges on to the next stop - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/06/25/kevin-durant-rockets-journeyman/"
     },
     {
       "title": "Bruins Unveil New Brand Identity with Refreshed Logos and Uniforms - NHL.com",
       "link": "https://www.nhl.com/bruins/news/bruins-unveil-new-brand-identity-with-refreshed-logos-and-uniforms"
     },
     {
-      "title": "RELEASE: Oilers acquire pick from Canucks for Kane - NHL.com",
-      "link": "https://www.nhl.com/oilers/news/release-oilers-acquire-pick-from-canucks-for-kane"
+      "title": "EA Sports College Football 26 releases top 25 toughest places to play - On3.com",
+      "link": "https://www.on3.com/news/ea-sports-college-football-26-releases-top-25-toughest-places-to-play/"
     },
     {
       "title": "DeWanna Bonner May Clear Waivers After Being Cut by Fever - Front Office Sports",
@@ -122,52 +142,32 @@
       "link": "https://www.nbcnews.com/news/latino/dodgers-announcer-jaime-jarrin-speaks-immigration-raids-rcna214976"
     },
     {
-      "title": "NBA Draft Rumors: Celtics Being Offered Premier Picks For Stars - NESN",
-      "link": "https://nesn.com/2025/06/nba-draft-rumors-celtics-being-offered-premier-picks-for-stars/"
-    },
-    {
       "title": "Fantasy Baseball SP Roundup 6/24: Where The Reds Burns Grows - Pitcher List",
       "link": "http://pitcherlist.com/sp-roundup-6-24-25/"
+    },
+    {
+      "title": "Official 2025 Cowboys training camp calendar, dates revealed - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/official-2025-cowboys-training-camp-calendar-dates-revealed"
     },
     {
       "title": "On the brink of retirement, this NFL player turned to psychedelics to help with his OCD - CNN",
       "link": "https://www.cnn.com/2025/06/25/sport/braden-smith-religious-scrupulosity-ocd-colts-nfl-spt"
     },
     {
-      "title": "Why angry Lionel Messi stormed off after Inter Miami secured FIFA Club World Cup last-16 spot with Argentine GOAT left shaking his head - Goal.com",
-      "link": "https://www.goal.com/en-us/news/why-angry-lionel-messi-stormed-off-inter-miami-fifa-club-world-cup-last-16-argentine-goat-shaking-head/blt580937296d5d67fe"
-    },
-    {
-      "title": "What the draw vs. Benfica cost Bayern Munich at the Club World Cup - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/2025/6/25/24455476/what-the-draw-vs-benfica-cost-bayern-munich-transfers-club-world-cup-kompany-kimmich-muller-kane"
-    },
-    {
       "title": "Joe Starkey: Oneil Cruz benching punctuates a surreal, disastrous first half of Pirates season - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/joe-starkey/2025/06/25/mlb-pirates-oniel-cruz-benched-don-kelly/stories/202506250035"
     },
     {
-      "title": "2025 NBA Mock Draft 4.0: Ace Bailey slides to Wizards, Spurs add Derik Queen - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/2025-nba-mock-draft-4-0-ace-bailey-slides-to-wizards-spurs-add-derik-queen"
+      "title": "Official website of the International Federation of Sport Climbing. - ifsc-climbing.",
+      "link": "https://www.ifsc-climbing.org/news/rookies-and-champions-advance-to-semi-final"
     },
     {
-      "title": "The Opener: Scherzer, Neto, Pitchers\u2019 Duel - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/the-opener-scherzer-neto-pitchers-duel.html"
+      "title": "The Boston Celtics Trades Were Cold, Calculated, and Completely Necessary - The Ringer",
+      "link": "https://www.theringer.com/2025/06/25/nba/boston-celtics-trade-rumors-jrue-holiday-kristaps-porzingis-jaylen-brown"
     },
     {
       "title": "Collin Morikawa parts with caddie Joe Greiner, employs former Cal teammate for Rocket Classic - NBC Sports",
       "link": "https://www.nbcsports.com/golf/news/collin-morikawa-parts-with-caddie-joe-greiner-employs-former-cal-teammate-for-rocket-classic"
-    },
-    {
-      "title": "NHL mock draft: Final projections for class of 2025 - theScore.com",
-      "link": "https://thescore.com/nhl/news/3299356"
-    },
-    {
-      "title": "Marc Lore and Alex Rodriguez vow not to move Timberwolves but say they\u2019ll push for a new arena - Star Tribune",
-      "link": "https://www.startribune.com/timberwolves-owners-marc-lore-alex-rodriguez-vow-not-to-move-but-are-eager-for-new-arena-development/601378463"
-    },
-    {
-      "title": "With collusion ruling out, multiple players are exploring their options - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-collusion-ruling-out-multiple-players-are-exploring-their-options"
     }
   ],
   "weather": {
