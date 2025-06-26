@@ -1,9 +1,9 @@
 {
-  "quote": "Older men declare war. But it is youth that must fight and die. \u2013 Herbert Hoover",
-  "fact": "Only one person in two billion will live to be 116 or older.",
-  "crypto": "BTC: $107,786 | ETH: $2,476.09",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What is the least spoken language in the world?\r\nSign Language",
+  "quote": "The danger of an adventure is worth a thousand days of ease and comfort. \u2013 Paulo Coelho",
+  "fact": "More bullets were fired in `Starship Troopers` than any other movie ever made.",
+  "crypto": "BTC: $107,835 | ETH: $2,480.19",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I used to be a banker, but I lost interest.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Super Smash Bros. Ultimate 13.0.4 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/super-smash-bros-ultimate-13-0-4-update-out-now-patch-notes/"
+    },
     {
       "title": "iCloud was down \u2014 live updates on Apple outage hitting Photos, Mail and more - Tom's Guide",
       "link": "https://www.tomsguide.com/news/live/icloud-down-live-updates-outage-6-24-25"
@@ -20,8 +24,8 @@
       "link": "https://9to5mac.com/2025/06/24/iphone-17-pro-a-closer-look-at-the-new-camera-bar-design/"
     },
     {
-      "title": "Google Phone Getting Major Makeover - Droid Life",
-      "link": "https://www.droid-life.com/2025/06/24/google-phone-material-3-expressive/"
+      "title": "\u2018I won\u2019t do it\u2019: Death Stranding 2\u2019s first big choice is scaring streamers but shouldn\u2019t scare you - Polygon",
+      "link": "https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile"
     },
     {
       "title": "\u2018War Thunder\u2019 continues to live up to its reputation for OPSEC violations - Task & Purpose",
@@ -44,102 +48,106 @@
       "link": "https://pokemongohub.net/post/news/zamazenta-and-zacian-gain-new-adventure-effects/"
     },
     {
-      "title": "Philips Hue lighting is getting even more expensive on July 1 as a \u2018direct result\u2019 of tariffs - 9to5Google",
-      "link": "http://9to5google.com/2025/06/24/philips-hue-lighting-price-hike-tariffs/"
+      "title": "$28 external HDD on Amazon actually does what it claims, still not a good buy - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/28-external-hdd-on-amazon-actually-does-what-it-claims-still-not-a-good-buy/"
     },
     {
       "title": "Apple was one of the few stocks down today. Why acquiring Perplexity could be key. - MarketWatch",
       "link": "https://www.marketwatch.com/story/why-apple-potentially-acquiring-perplexity-could-be-big-news-for-its-stock-4d352b39"
     },
     {
-      "title": "Samsung\u2019s offering a $50 credit if you commit to preordering its upcoming Galaxy foldable - The Verge",
-      "link": "https://www.theverge.com/tech/692011/samsung-unpacked-2025-galaxy-fold-ultra-pre-order-credit-deal"
-    },
-    {
       "title": "Death Stranding Timeline: Full Story Recap To Prepare You For On The Beach - GameSpot",
       "link": "https://www.gamespot.com/gallery/death-stranding-timeline-full-story-recap-to-prepare-you-for-on-the-beach/2900-6695/"
     },
     {
-      "title": "Chrome for Android now lets you move the address bar to the bottom, too - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/24/chrome-for-android-now-lets-you-move-the-address-bar-to-the-bottom-too/"
+      "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNET",
+      "link": "https://www.zdnet.com/article/samsung-offers-1000-off-preorder-deal-for-new-galaxy-foldable-phones-ahead-of-unpacked/"
+    },
+    {
+      "title": "Philips Hue is raising prices in the US \u2018as a direct result of tariffs\u2019 - The Verge",
+      "link": "https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase"
     },
     {
       "title": "Embracing the Chaos - Game Informer",
       "link": "https://gameinformer.com/feature/2025/06/24/embracing-the-chaos"
     },
     {
-      "title": "These battery-powered 4K cameras record 24/7 - The Verge",
-      "link": "https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible"
-    },
-    {
       "title": "Here's Everything New in macOS Tahoe Beta 2 - MacRumors",
       "link": "https://www.macrumors.com/2025/06/24/macos-tahoe-beta-2-new-features-changes/"
     },
     {
-      "title": "Popular third-party Switch 2 case suffers manufacturing defect in small number of orders, producer promises it's \"working on it\" - Eurogamer",
-      "link": "https://www.eurogamer.net/popular-third-party-switch-2-case-suffers-manufacturing-defect-in-small-number-of-orders-producer-promises-its-working-on-it"
-    },
-    {
-      "title": "Nintendo\u2019s wheelchair basketball game will be out in August - The Verge",
-      "link": "https://www.theverge.com/news/691907/drag-x-drive-release-date-nintendo-switch-2"
-    },
-    {
       "title": "Google rolls out new Gemini model that can run on robots locally - TechCrunch",
       "link": "https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/"
+    },
+    {
+      "title": "What a set of knockoff headphones taught me about headphones \u2014 and knockoffs - The Verge",
+      "link": "https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones"
     }
   ],
   "sports_news": [
     {
-      "title": "Sources: Kyrie declining option, to sign new deal - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45578603/mavericks-kyrie-irving-declining-player-option-intends-sign-3-year-119-million-contract"
+      "title": "'Multiple' Teams Showing 'Significant' Interest in Celtics' Jaylen Brown, Per Insider - Sports Illustrated",
+      "link": "https://www.si.com/nba/report-multiple-teams-showing-significant-interest-jaylen-brown-trade-celtics"
     },
     {
       "title": "NFL, NFLPA mum in response to release of collusion ruling - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-nflpa-mum-in-response-to-release-of-collusion-ruling"
     },
     {
+      "title": "Jrue Holiday \u2018pissed\u2019 after Celtics trade veteran to Blazers (report) - MassLive",
+      "link": "https://www.masslive.com/celtics/2025/06/jrue-holiday-pissed-after-celtics-trade-veteran-to-blazers-report.html"
+    },
+    {
       "title": "Report: Celtics, Hawks, Nets finalizing three-team trade that sends Porzingis to Atlanta - NBC Sports",
       "link": "https://www.nbcsports.com/nba/news/report-celtics-hawks-nets-finalizing-three-team-trade-that-sends-porzingis-to-atlanta"
+    },
+    {
+      "title": "NBA owners unanimously approve $1.5B sale of Wolves, WNBA's Lynx from Taylor to Lore-Rodriguez group - AP News",
+      "link": "https://apnews.com/article/timberwolves-lynx-sale-20622fb7798002ed1b73a2198ae908d3"
     },
     {
       "title": "Diontae Johnson expects Kenny Pickett to win starting job - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/diontae-johnson-expects-kenny-pickett-to-win-starting-job"
     },
     {
-      "title": "NBA Draft Storylines to Watch: Which Team Selects Ace Bailey, Other Polarizing Players - Sports Illustrated",
-      "link": "https://www.si.com/nba/nba-draft-2025-storylines-to-watch-ace-bailey-polarizing-players"
-    },
-    {
       "title": "Ex-UFC star Ben Askren placed on lung transplant list, wife reveals - New York Post",
       "link": "https://nypost.com/2025/06/24/sports/ex-ufc-star-ben-askren-placed-on-lung-transplant-list-wife-reveals/"
     },
     {
-      "title": "Benfica beat Bayern Munich, win Group C at Club World Cup - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/2025/6/24/24455118/benfica-beat-bayern-munich-win-group-c-at-club-world-cup"
-    },
-    {
-      "title": "2025 NBA Mock Draft 8.0: Projecting all 59 picks for final time - On3.com",
-      "link": "https://www.on3.com/pro/news/2025-nba-mock-draft-8-0-projecting-all-59-picks-for-final-time/"
+      "title": "Five Observations from Bayern Munich\u2019s 1-0 loss against SL Benfica in the Club World Cup - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/2025/6/24/24455065/benfica-bayern-munich-observations-match-analysis-fifa-club-world-cup-vincent-kompany-leroy-sane-slb"
     },
     {
       "title": "NASCAR teams fear \u2018catastrophic\u2019 impact of disclosing financial records during court fight - AP News",
       "link": "https://apnews.com/article/nascar-lawsuit-aa077f7ccaafad0924a4ac18801e7965"
     },
     {
-      "title": "NBA Approves Sale of Minnesota Timberwolves and Lynx to Marc Lore and Alex Rodriguez - NBA",
-      "link": "https://timberwolves.com/news/nba-approves-sale-of-minnesota-timberwolves-and-lynx-to-marc-lore-and-alex-rodriguez"
+      "title": "What Trevor Zegras said during his Flyers introductory press conference - Broad Street Hockey",
+      "link": "https://www.broadstreethockey.com/post/what-trevor-zegras-said-during-his-flyers-introductory-press-conference/"
     },
     {
       "title": "Gout Gout: Sprinter sets Australian record on senior international debut at Golden Spike - BBC",
       "link": "https://www.bbc.com/sport/athletics/articles/cm2z1dgr0r3o"
     },
     {
+      "title": "Colorado resort awarded 2 golf championships - KUSA.com",
+      "link": "https://www.9news.com/article/sports/golf/broadmoor-us-senior-open-championships/73-0368c43f-dfa6-4105-9c8e-5a02296ffa0d"
+    },
+    {
       "title": "Ryder Lyons commitment illustrates changes in how BYU sells itself - Deseret News",
       "link": "https://www.deseret.com/sports/2025/06/24/ryder-lyons-chooses-byu-cougars-inside-information/"
     },
     {
-      "title": "Chara, Thornton, Keith, Mogilny among 8 elected to Hockey Hall of Fame - NHL.com",
-      "link": "https://www.nhl.com/news/zdeno-chara-joe-thornton-duncan-keith-alexander-mogilny-elected-to-hockey-hall-of-fame"
+      "title": "Alexander Mogilny selected to Hockey Hall of Fame | Buffalo Sabres - NHL.com",
+      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-alexander-mogilny-selected-to-hockey-hall-of-fame"
+    },
+    {
+      "title": "Draft Notes: Spurs, Newell, Hawks, Essengue, More - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/06/draft-notes-spurs-newell-hawks-essengue-more.html"
+    },
+    {
+      "title": "76ers eye villainous move as the 2025 NBA Draft gets an interesting twist - The Sixer Sense",
+      "link": "https://thesixersense.com/76ers-eye-villainous-move-2025-nba-draft-gets-interesting-twist"
     },
     {
       "title": "EA Sports College Football 26 releases top 25 toughest places to play - On3.com",
@@ -154,20 +162,8 @@
       "link": "https://bleacherreport.com/articles/25213210-aaron-rodgers-says-hes-pretty-sure-hell-retire-after-2025-nfl-season-steelers"
     },
     {
-      "title": "WATCH: Thunder thanks OKC community as 2025 Champions Parade ends - News 9",
-      "link": "https://www.news9.com/story/685add08ee75310e09358765/thunder-thanks-okc-community-2025-champions-parade-ends"
-    },
-    {
       "title": "Top NBA Draft Prospect\u2019s Stock Falling After Losing Almost Three Inches in Height - Sports Illustrated",
       "link": "https://www.si.com/nba/ace-baileytop-draft-prospects-stock-falling-losing-almost-three-inches-height"
-    },
-    {
-      "title": "Islanders won't be trading No. 1 pick in 2025 NHL Draft, GM says - NHL.com",
-      "link": "https://www.nhl.com/news/new-york-wont-trade-no-1-pick-in-2025-nhl-draft-mathieu-darche-says"
-    },
-    {
-      "title": "Ranking each division by quarterback heading into the 2025 NFL season - NFL.com",
-      "link": "https://www.nfl.com/news/ranking-each-division-by-quarterback-heading-into-the-2025-nfl-season"
     }
   ],
   "weather": {
