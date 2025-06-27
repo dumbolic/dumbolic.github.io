@@ -1,9 +1,9 @@
 {
-  "quote": "We have a duty to maintain the light of consciousness to make sure it continues into the future. \u2013 Elon Musk",
-  "fact": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-  "crypto": "BTC: $107,201 | ETH: $2,424.42",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Without geometry life is pointless.",
+  "quote": "The people who succeed are irrationally passionate about something. \u2013 Naval Ravikant",
+  "fact": "The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.",
+  "crypto": "BTC: $107,157 | ETH: $2,422.21",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What's the worst part about being a cross-eyed teacher?\r\n\r\nThey can't control their pupils.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/"
+    },
+    {
+      "title": "Anthropic summons the spirit of Flash games for the AI age - Ars Technica",
+      "link": "https://arstechnica.com/ai/2025/06/anthropic-summons-the-spirit-of-flash-games-for-the-ai-age/"
+    },
+    {
+      "title": "Google banned from selling select Pixel phones in Japan, and it might not end there - 9to5Google",
+      "link": "http://9to5google.com/2025/06/26/google-pixel-japan-sales-ban/"
+    },
+    {
       "title": "Microsoft\u2019s Xbox PC launcher gets going with Steam, Epic, and other games showing up - The Verge",
       "link": "https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net"
     },
     {
       "title": "The Xbox 360 dashboard just got updated... to advertise newer Xboxes - The Verge",
       "link": "https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads"
+    },
+    {
+      "title": "Death Stranding 2's Launch Celebrated with Brilliant Artwork from PS Studios - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/death-stranding-2s-launch-celebrated-with-brilliant-artwork-from-ps-studios"
     },
     {
       "title": "iPhone 17 Air Screen Protector Reveals a Potential Design Difference - MacRumors",
@@ -34,6 +50,10 @@
     {
       "title": "Gemini is getting ready to replace Google Assistant on Android - The Verge",
       "link": "https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity"
+    },
+    {
+      "title": "The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone - The Verge",
+      "link": "https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator"
     },
     {
       "title": "Steam is down \u2014 live updates on outage - Tom's Guide",
@@ -60,110 +80,94 @@
       "link": "https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function"
     },
     {
+      "title": "watchOS 26 has these hardware requirements for Apple Intelligence - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/26/watchos-26-has-these-hardware-requirements-for-apple-intelligence/"
+    },
+    {
       "title": "Mario Kart World patch defies the way players want to race online - Polygon",
       "link": "https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online"
     },
     {
-      "title": "As AI kills search traffic, Google launches Offerwall to boost publisher revenue - TechCrunch",
-      "link": "https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/"
-    },
-    {
       "title": "Front Mission 3: Remake Appears To Replace 2D Art Assets With Generative AI - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/06/front-mission-3-remake-appears-to-replace-2d-art-assets-with-generative-ai"
-    },
-    {
-      "title": "What is an Xbox? - The Verge",
-      "link": "https://www.theverge.com/notepad-microsoft-newsletter/693576/microsoft-next-gen-xbox-steam-notepad"
-    },
-    {
-      "title": "Peter Thiel: Elon Musk has given up on Mars - UnHerd",
-      "link": "http://unherd.com/newsroom/peter-thiel-elon-musk-has-given-up-on-mars/"
-    },
-    {
-      "title": "Apple Podcasts picks 20 shows that \u2018define this medium\u2019 at two-decade milestone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/26/apple-podcasts-picks-20-shows-that-define-this-medium-at-two-decade-milestone/"
-    },
-    {
-      "title": "Nothing Phone (3) has a 50MP 'periscope' telephoto lens \u2013 here are the first samples [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2025/06/26/nothing-phone-3-telephoto-camera-samples/"
     }
   ],
   "sports_news": [
     {
-      "title": "Ex-Ravens PK Tucker gets 10-week suspension - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45591537/ex-ravens-kicker-justin-tucker-gets-10-week-ban-nfl"
+      "title": "Rays' Franco found guilty in sexual abuse case - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/45592342/rays-wander-franco-guilty-sexual-abuse-gets-suspended-sentence"
+    },
+    {
+      "title": "Boxing: Jake Paul vs Chavez Jr: Start time, fight card and how to watch - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/6/26/boxing-jake-paul-vs-chavez-jr-start-time-fight-card-and-how-to-watch"
+    },
+    {
+      "title": "SB LIX performer arrested for halftime protest - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45591753/sb-lix-performer-arrested-la-state-police-half-protest"
+    },
+    {
+      "title": "BYU basketball: Who was with Egor Demin at the 2025 NBA draft? - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/06/26/egor-demin-attends-2025-nba-draft-with-delaney-gibb-kevin-young-travis-hansen/"
+    },
+    {
+      "title": "Suns trade with Nets to move up in 2nd round of the draft - Arizona Sports",
+      "link": "https://arizonasports.com/nba/phoenix-suns/draft-trade-nets/3588350/"
+    },
+    {
+      "title": "Marner likely to test free agency, Maple Leafs GM says - NHL.com",
+      "link": "https://www.nhl.com/news/mitch-marner-likely-to-test-free-agency-maple-leafs-gm-says"
+    },
+    {
+      "title": "Kansas lawmaker says Kansas City Chiefs ask Kansas to extend STAR bond deadline - KSHB 41 Kansas City",
+      "link": "https://www.kshb.com/news/local-news/kansas-lawmaker-says-kansas-city-chiefs-ask-kansas-to-extend-star-bond-deadline"
+    },
+    {
+      "title": "Justin Tucker suspended for first 10 weeks of the 2025 season - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-tucker-suspended-for-first-10-games-of-the-2025-season"
+    },
+    {
+      "title": "NBA Draft First-Round Stock Report: Liking Dylan Harper, Ace Bailey Selections - Sports Illustrated",
+      "link": "https://www.si.com/nba/nba-draft-first-round-stock-report-liking-dylan-harper-ace-bailey-selections"
+    },
+    {
+      "title": "SURPRISE: Top247 quarterback Peyton Falzone flips commitment from Penn State to Auburn - 247Sports",
+      "link": "https://247sports.com/college/auburn/article/peyton-falzone-flips-from-penn-state-to-auburn-tigers-football-recruiting-251284809/"
     },
     {
       "title": "Bengals \"proud to keep our future\" where it belongs in Cincinnati - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-proud-to-keep-our-future-where-it-belongs-in-cincinnati"
     },
     {
-      "title": "Super Bowl LIX halftime show protester arrested months later, Louisiana State Police say - NOLA.com",
-      "link": "https://www.nola.com/news/crime_police/protestor-arrest-superbowl-new-orleans/article_364a205d-40f4-43c8-b2db-4fc4bfeaabca.html"
+      "title": "NHL, NHLPA Reportedly Agree to 84-Game Season, Contract Rules, More In CBA Talks - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25216769-nhl-nhlpa-reportedly-agree-84-game-season-contract-rules-more-cba-talks"
+    },
+    {
+      "title": "Who Captures NASCAR's In-Season Tourney? Predictions For Every Round - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nascar/round-by-round-predictions-in-season-tournament"
+    },
+    {
+      "title": "Seattle Mariners\u2019 series finale at Minnesota delayed by rain - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-series-finale-minnesota-rain-delay/1814813"
+    },
+    {
+      "title": "\"He's got to be extremely angered\" - Skip Bayless thinks Adam Silver was livid with the KD trade taking spotlight away from Game 7 - Yahoo Sports",
+      "link": "https://www.basketballnetwork.net/latest-news/skip-bayless-thinks-adam-silver-livid-kevin-durant-trade-taking-spotlight-from-game-7"
     },
     {
       "title": "Mighty Brewers Lad Out-Duels Paul Skenes - Defector",
       "link": "https://defector.com/mighty-brewers-lad-out-duels-paul-skenes"
     },
     {
-      "title": "Lando Norris confirms talks with McLaren: 'A tough couple of days' - racingnews365.com",
-      "link": "https://racingnews365.com/lando-norris-confirms-talks-with-mclaren-a-tough-couple-of-days"
-    },
-    {
-      "title": "BREAKING: WSOP Investigating Millionaire Maker Final Table Chip Dumping Allegations - PokerNews",
-      "link": "https://www.pokernews.com/news/2025/06/wsop-investigating-chip-dumping-allegations-48963.htm"
-    },
-    {
       "title": "Faith Kipyegon attempts to make history by smashing the 4-minute mile for women - NPR",
       "link": "https://www.npr.org/2025/06/26/nx-s1-5445959/4-minute-mile-kipyegon"
-    },
-    {
-      "title": "How analysts have graded the Brooklyn Nets drafting Egor Demin - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/06/26/egor-demin-brooklyn-nets-nba-draft-grades/"
     },
     {
       "title": "Wild trade veteran forward Frederick Gaudreau to Seattle for draft pick - Star Tribune",
       "link": "https://www.startribune.com/wild-trade-frederick-gaudreau-seattle-kraken-draft-pick/601372007"
     },
     {
-      "title": "How Cooper Flagg can make a staggering $930 million after being drafted No. 1 - New York Post",
-      "link": "https://nypost.com/2025/06/26/sports/cooper-flagg-can-make-a-staggering-930-million-after-being-drafted-no-1/"
-    },
-    {
-      "title": "New video shows just how unexpected Blazers\u2019 Yang Hansen NBA draft pick was - New York Post",
-      "link": "https://nypost.com/2025/06/26/sports/new-video-shows-just-how-unexpected-yang-hansen-nba-draft-pick-was/"
-    },
-    {
-      "title": "Report: Austin Reaves Declines Max Contract Extension With Lakers - Sports Illustrated",
-      "link": "https://www.si.com/nba/austin-reaves-declines-max-contract-extension-with-lakers-report"
-    },
-    {
-      "title": "Collin Murray-Boyles Explains Viral Misinterpreted Reaction to Getting Drafted by Raptors - Sports Illustrated",
-      "link": "https://www.si.com/nba/collin-murray-boyles-explains-viral-misinterpreted-reaction-to-getting-drafted-by-raptors"
-    },
-    {
-      "title": "NBA Draft grades roundup: Sixers' pick of VJ Edgecombe receives high marks - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-vj-edgecombe-stats-highlights-nba-draft-grades-roundup-ace-bailey/"
-    },
-    {
-      "title": "Dallas Stars sign captain Jamie Benn to one-year, $1 million contract extension - NHL.com",
-      "link": "https://www.nhl.com/stars/news/dallas-stars-sign-captain-jamie-benn-to-one-year-1-million-contract-extension-062625"
-    },
-    {
-      "title": "NBA Draft grades: Suns get credit after Khaman Maluach falls into their lap - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/nba-draft-grades/3588303/"
-    },
-    {
-      "title": "2025 NBA mock draft roundup: Who will the Lakers target in the second round? - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/2025/6/26/24456205/2025-nba-draft-mock-roundup-lakers-vladislav-goldin-eric-dixon-tamar-bates"
-    },
-    {
-      "title": "Indiana Fever star Caitlin Clark out with injury - KCRG",
-      "link": "https://www.kcrg.com/2025/06/26/indiana-fever-star-caitlin-clark-out-with-injury/"
-    },
-    {
-      "title": "Sabres trade J.J. Peterka to Mammoth in massive pre-NHL draft shakeup - New York Post",
-      "link": "https://nypost.com/2025/06/26/sports/sabres-trade-j-j-peterka-to-mammoth-in-massive-pre-nhl-draft-shakeup/"
+      "title": "Cubs Roster Move: Imanaga is Back, Fulmer DFA\u2019d - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/26/cubs-roster-move-imanaga-is-back-fulmer-dfad/"
     }
   ],
   "weather": {
