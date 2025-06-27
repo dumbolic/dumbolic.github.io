@@ -1,9 +1,9 @@
 {
-  "quote": "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. \u2013 Henry Ward Beecher",
-  "fact": "Length of beard an average man would grow if he never shaved 27.5 feet",
-  "crypto": "BTC: $107,101 | ETH: $2,423.68",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Velcro\u2026 What a rip-off.",
+  "quote": "There is only one thing that makes a dream impossible to achieve: the fear of failure. \u2013 Paulo Coelho",
+  "fact": "Crocodiles and alligators are surprisingly fast on land.\u00a0 Although they are rapid, they are not agile.\u00a0 So, if being chased by one, run in a zigzag line to lose him or her.",
+  "crypto": "BTC: $107,205 | ETH: $2,424.86",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Microsoft\u2019s Xbox PC launcher gets going with Steam, Epic, and other games showing up - The Verge",
+      "link": "https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net"
+    },
+    {
+      "title": "The Xbox 360 dashboard just got updated... to advertise newer Xboxes - The Verge",
+      "link": "https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads"
+    },
+    {
+      "title": "iPhone 17 Air Screen Protector Reveals a Potential Design Difference - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/26/alleged-iphone-17-air-screen-protector/"
+    },
+    {
+      "title": "Google Photos merges classic search with AI to speed up results - TechCrunch",
+      "link": "https://techcrunch.com/2025/06/26/google-photos-merges-classic-search-with-ai-to-speed-up-results/"
+    },
+    {
+      "title": "\u2018Fortnite\u2019 Players to Receive More Than $126 Million in Refunds From FTC - Variety",
+      "link": "https://variety.com/2025/gaming/news/how-to-get-fortnite-ftc-refund-1236441827/"
+    },
+    {
       "title": "Gemini is getting ready to replace Google Assistant on Android - The Verge",
       "link": "https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity"
     },
     {
       "title": "Steam is down \u2014 live updates on outage - Tom's Guide",
       "link": "https://www.tomsguide.com/news/live/steam-outage-june-26-2025"
+    },
+    {
+      "title": "13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/06/review-microsofts-13-inch-surface-laptop-isnt-bad-but-it-is-a-step-down/"
+    },
+    {
+      "title": "Galaxy S25 One UI 8 update may have already gone stable! - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s25-edge-one-ui-8-update-in-development/"
     },
     {
       "title": "Nintendo announces 2025 Switch eShop Summer Sale - first discount for Luigi's Mansion 2 HD, tons more - Nintendo Everything",
@@ -32,16 +60,16 @@
       "link": "https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function"
     },
     {
-      "title": "watchOS 26 has these hardware requirements for Apple Intelligence - 9to5Mac",
-      "link": "https://9to5mac.com/2025/06/26/watchos-26-has-these-hardware-requirements-for-apple-intelligence/"
-    },
-    {
       "title": "Mario Kart World patch defies the way players want to race online - Polygon",
       "link": "https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online"
     },
     {
       "title": "As AI kills search traffic, Google launches Offerwall to boost publisher revenue - TechCrunch",
       "link": "https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/"
+    },
+    {
+      "title": "Front Mission 3: Remake Appears To Replace 2D Art Assets With Generative AI - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/06/front-mission-3-remake-appears-to-replace-2d-art-assets-with-generative-ai"
     },
     {
       "title": "What is an Xbox? - The Verge",
@@ -52,54 +80,38 @@
       "link": "http://unherd.com/newsroom/peter-thiel-elon-musk-has-given-up-on-mars/"
     },
     {
-      "title": "As the full game is announced for PS Plus, here are six things to look forward to in Diablo 4 Season 9 - Eurogamer",
-      "link": "https://www.eurogamer.net/six-things-to-look-forward-to-in-diablo-4-season-9-ps-plus"
+      "title": "Apple Podcasts picks 20 shows that \u2018define this medium\u2019 at two-decade milestone - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/26/apple-podcasts-picks-20-shows-that-define-this-medium-at-two-decade-milestone/"
     },
     {
-      "title": "macOS Tahoe Brings Two iPhone Apps to Your Mac - MacRumors",
-      "link": "https://www.macrumors.com/2025/06/26/macos-tahoe-brings-two-iphone-apps-to-mac/"
-    },
-    {
-      "title": "Destiny 2 Edge of Fate Pre-orders Are Down Nearly 50% From The Final Shape, New Data Shows - The Game Post",
-      "link": "https://thegamepost.com/destiny-2-edge-of-fate-pre-orders-down-50-the-final-shape/"
-    },
-    {
-      "title": "\u201cSamsung Faces a Shocking Setback\u201d: Latest Smartphone Flops So Hard the Brand Is Forced to Rethink Its Entire Strategy - Rude Baguette",
-      "link": "https://www.rudebaguette.com/en/2025/06/samsung-faces-a-shocking-setback-latest-smartphone-flops-so-hard-the-brand-is-forced-to-rethink-its-entire-strategy/"
-    },
-    {
-      "title": "Nintendo Switch 2 Review: The Future in Familiar Form - CNET",
-      "link": "https://www.cnet.com/tech/gaming/nintendo-switch-2-review/"
-    },
-    {
-      "title": "The \u00d6verfl\u00f6d Suzume Supercar and New Safeguard Deliveries Now in GTA Online - Rockstar Games",
-      "link": "https://www.rockstargames.com/newswire/article/ak32aka841114k/the-overflod-suzume-supercar-and-new-safeguard-deliveries-now-in-gta-o"
-    },
-    {
-      "title": "FTC sends more than $126M to Fortnite gamers charged for unwanted purchases: How to file a claim - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://abcnews.go.com/GMA/Living/ftc-sends-126m-fortnite-gamers-charged-unwanted-purchases/story?id\\\\u003d123226958"
-    },
-    {
-      "title": "Radical S Pen upgrade could change how you'll use the Galaxy S26 Ultra - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s26-everything-we-know/"
-    },
-    {
-      "title": "Dell\u2019s new Premium laptops are here, for the XPS rebrand nobody asked for - The Verge",
-      "link": "https://www.theverge.com/news/693493/dell-premium-14-16-laptops-xps-price-availability"
+      "title": "Nothing Phone (3) has a 50MP 'periscope' telephoto lens \u2013 here are the first samples [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/06/26/nothing-phone-3-telephoto-camera-samples/"
     }
   ],
   "sports_news": [
     {
-      "title": "New Deal Keeps Bengals In Paycor Stadium Through 2036 - Bengals",
-      "link": "https://www.bengals.com/news/paycor-stadium-bengals-agreement-2025-cincinnati-2036-hamilton-county"
+      "title": "Ex-Ravens PK Tucker gets 10-week suspension - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45591537/ex-ravens-kicker-justin-tucker-gets-10-week-ban-nfl"
     },
     {
-      "title": "Where each D.C. Council member stands on the Commanders RFK stadium deal - The Washington Post",
-      "link": "https://www.washingtonpost.com/dc-md-va/2025/06/26/dc-council-rfk-stadium-commanders/"
+      "title": "Bengals \"proud to keep our future\" where it belongs in Cincinnati - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-proud-to-keep-our-future-where-it-belongs-in-cincinnati"
+    },
+    {
+      "title": "Super Bowl LIX halftime show protester arrested months later, Louisiana State Police say - NOLA.com",
+      "link": "https://www.nola.com/news/crime_police/protestor-arrest-superbowl-new-orleans/article_364a205d-40f4-43c8-b2db-4fc4bfeaabca.html"
+    },
+    {
+      "title": "Mighty Brewers Lad Out-Duels Paul Skenes - Defector",
+      "link": "https://defector.com/mighty-brewers-lad-out-duels-paul-skenes"
     },
     {
       "title": "Lando Norris confirms talks with McLaren: 'A tough couple of days' - racingnews365.com",
       "link": "https://racingnews365.com/lando-norris-confirms-talks-with-mclaren-a-tough-couple-of-days"
+    },
+    {
+      "title": "BREAKING: WSOP Investigating Millionaire Maker Final Table Chip Dumping Allegations - PokerNews",
+      "link": "https://www.pokernews.com/news/2025/06/wsop-investigating-chip-dumping-allegations-48963.htm"
     },
     {
       "title": "Faith Kipyegon attempts to make history by smashing the 4-minute mile for women - NPR",
@@ -110,24 +122,28 @@
       "link": "https://www.deseret.com/sports/2025/06/26/egor-demin-brooklyn-nets-nba-draft-grades/"
     },
     {
-      "title": "Sharks issue statement on Marc-Edouard Vlasic - NHL.com",
-      "link": "https://www.nhl.com/sharks/news/sharks-issue-statement-on-marc-edouard-vlasic"
-    },
-    {
       "title": "Wild trade veteran forward Frederick Gaudreau to Seattle for draft pick - Star Tribune",
       "link": "https://www.startribune.com/wild-trade-frederick-gaudreau-seattle-kraken-draft-pick/601372007"
     },
     {
-      "title": "'Neither fighter really did much'... Dana White was critical of Alexander Pantoja and Kai Kara-France's first fight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/26/neither-fighter-really-did-much-dana-white-was-critical-of-alexander-pantoja-and-kai-kara-frances-first-fight/"
+      "title": "How Cooper Flagg can make a staggering $930 million after being drafted No. 1 - New York Post",
+      "link": "https://nypost.com/2025/06/26/sports/cooper-flagg-can-make-a-staggering-930-million-after-being-drafted-no-1/"
     },
     {
-      "title": "Rockies promote Walker Monfort to executive vice president in leadership shuffle - The Denver Post",
-      "link": "https://www.denverpost.com/2025/06/26/walker-monfort-rockies-promotion-dick-monfort/"
+      "title": "New video shows just how unexpected Blazers\u2019 Yang Hansen NBA draft pick was - New York Post",
+      "link": "https://nypost.com/2025/06/26/sports/new-video-shows-just-how-unexpected-yang-hansen-nba-draft-pick-was/"
     },
     {
-      "title": "T.J. Puchyr agrees to buy Rick Ware Racing with plans to build a 3-car NASCAR team - AP News",
-      "link": "https://apnews.com/article/nascar-rick-ware-racing-puchyr-ccd9b642548cfa30192befea81b15ad3"
+      "title": "Report: Austin Reaves Declines Max Contract Extension With Lakers - Sports Illustrated",
+      "link": "https://www.si.com/nba/austin-reaves-declines-max-contract-extension-with-lakers-report"
+    },
+    {
+      "title": "Collin Murray-Boyles Explains Viral Misinterpreted Reaction to Getting Drafted by Raptors - Sports Illustrated",
+      "link": "https://www.si.com/nba/collin-murray-boyles-explains-viral-misinterpreted-reaction-to-getting-drafted-by-raptors"
+    },
+    {
+      "title": "NBA Draft grades roundup: Sixers' pick of VJ Edgecombe receives high marks - PhillyVoice",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-vj-edgecombe-stats-highlights-nba-draft-grades-roundup-ace-bailey/"
     },
     {
       "title": "Dallas Stars sign captain Jamie Benn to one-year, $1 million contract extension - NHL.com",
@@ -138,36 +154,16 @@
       "link": "https://arizonasports.com/nba/phoenix-suns/nba-draft-grades/3588303/"
     },
     {
-      "title": "Caitlin Clark is injured again with return timeline uncertain - New York Post",
-      "link": "https://nypost.com/2025/06/26/sports/caitlin-clark-is-injured-again/"
+      "title": "2025 NBA mock draft roundup: Who will the Lakers target in the second round? - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/2025/6/26/24456205/2025-nba-draft-mock-roundup-lakers-vladislav-goldin-eric-dixon-tamar-bates"
     },
     {
-      "title": "14 prospects the Sixers could draft at No. 35 overall in the 2025 NBA Draft - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-35-overall-pick-rumors-nba-draft-round-2-trade-free-agency-daryl-morey-rasheer-fleming/"
+      "title": "Indiana Fever star Caitlin Clark out with injury - KCRG",
+      "link": "https://www.kcrg.com/2025/06/26/indiana-fever-star-caitlin-clark-out-with-injury/"
     },
     {
       "title": "Sabres trade J.J. Peterka to Mammoth in massive pre-NHL draft shakeup - New York Post",
       "link": "https://nypost.com/2025/06/26/sports/sabres-trade-j-j-peterka-to-mammoth-in-massive-pre-nhl-draft-shakeup/"
-    },
-    {
-      "title": "Top five NFL draft values of the millennium at QB: Who joins Tom Brady at the front of the pack? - NFL.com",
-      "link": "https://www.nfl.com/news/best-nfl-draft-values-of-the-millennium-quarterback"
-    },
-    {
-      "title": "Atlantic Sun Conference and Western Athletic Conference to Forge Strategic Alliance - Atlantic Sun Conference",
-      "link": "https://asunsports.org/news/2025/6/26/asun-uac-announcement.aspx"
-    },
-    {
-      "title": "\u2018Liver King\u2019 freed after threatening Joe Rogan \u2014 and immediately starts ranting online again - New York Post",
-      "link": "https://nypost.com/2025/06/26/us-news/liver-king-released-from-jail-starts-posting-bizarre-clips-on-instagram-again/"
-    },
-    {
-      "title": "Browns release DE Ogbo Okoronkwo, sign K Andre Szmyt - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-release-de-ogbo-okoronkwo-sign-k-andre-szmyt"
-    },
-    {
-      "title": "Why Alex Albon thinks F1\u2019s racing rules are \u201ccreating a contact sport\u201d - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/why-albon-doesnt-like-how-were-racing-with-release-of-f1s-racing-rules/10736275/"
     }
   ],
   "weather": {
