@@ -1,9 +1,9 @@
 {
-  "quote": "Consider the rights of others before your own feelings, and the feelings of others before your own rights. \u2013 John Wooden",
-  "fact": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
-  "crypto": "BTC: $107,249 | ETH: $2,433.1",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Past, present, and future walked into a bar.... It was tense.",
+  "quote": "Against the assault of laughter nothing can stand. \u2013 Mark Twain",
+  "fact": "Prince Charles is an avid collecter of toilet seats.",
+  "crypto": "BTC: $107,229 | ETH: $2,431.16",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why was it called the dark ages? Because of all the knights. ",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,26 @@
   "bing_background": "https://www.bing.com/th?id=OHR.PrideParade_EN-US9405333794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Zacian (Crowned Sword) Raid Guide - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/guide/zacian-crowned-sword-raid-guide/"
+    },
+    {
+      "title": "The first new iOS 18.6 features were just detailed by Apple - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/27/the-first-new-ios-18-6-features-were-just-detailed-by-apple/"
+    },
+    {
+      "title": "Apple\u2019s M5 chip launches this fall, and these new products get it first - 9to5Mac",
+      "link": "https://9to5mac.com/2025/06/27/apples-m5-chip-launches-this-fall-and-these-new-products-get-it-first/"
+    },
+    {
+      "title": "So Long, Blue Screen of Death. Amazingly, You'll Be Missed - WIRED",
+      "link": "https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/"
+    },
+    {
+      "title": "The Helldivers 2 review bomb cape is finally here, a year after PSN backlash - Polygon",
+      "link": "https://www.polygon.com/gaming/609611/helldivers-2-review-bomb-cape"
+    },
     {
       "title": "Google quietly introduced precise Bluetooth tracking on the Pixel Watch 3 - The Verge",
       "link": "https://www.theverge.com/news/694246/google-android-pixel-watch-3-bluetooth-6-sounding-tracking-wear-os-update"
@@ -20,8 +40,8 @@
       "link": "https://www.gamespot.com/articles/switch-2-owners-can-save-big-on-dozens-of-games-in-the-nintendo-summer-sale/1100-6532780/"
     },
     {
-      "title": "Microsoft is retiring the infamous \u2018blue screen of death\u2019 - CNN",
-      "link": "https://www.cnn.com/2025/06/27/tech/microsoft-blue-screen-of-death-changes"
+      "title": "Death Stranding 2 is the latest front in Hideo Kojima's war on subtlety - AV Club",
+      "link": "https://www.avclub.com/game-theory-death-stranding-2"
     },
     {
       "title": "Street Fighter 6's latest outfit DLC adds the game's biggest batch of horny yet, which might distract people from the fact that this is only the second wave of costumes in 2 years - GamesRadar+",
@@ -32,12 +52,20 @@
       "link": "https://9to5mac.com/2025/06/27/apple-leaks-another-likely-airpods-pro-3-reference/"
     },
     {
+      "title": "iPhone 17 Base Model Rumored to Feature Larger Display - MacRumors",
+      "link": "https://www.macrumors.com/2025/06/27/iphone-17-base-model-larger-display-rumor/"
+    },
+    {
       "title": "\u2018The Last Of Us Part II\u2019 Insists There\u2019s Artistry In All Of Its Violence - Defector",
       "link": "https://defector.com/the-last-of-us-part-ii-insists-theres-artistry-in-all-of-its-violence"
     },
     {
-      "title": "Samsung S95F OLED TV Review: Fantastic Picture, Superior Anti-Glare - CNET",
-      "link": "https://www.cnet.com/tech/home-entertainment/samsung-s95f-oled-tv-review-fantastic-picture-superior-anti-glare/"
+      "title": "Here's Your Best Look Yet at PS5 Shooter Pragmata's Unique Gunplay Gimmick - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/06/heres-your-best-look-yet-at-ps5-shooter-pragmatas-unique-gunplay-gimmick"
+    },
+    {
+      "title": "Review: Dbrand Switch 2 Killswitch Case - Teething Troubles Aside, This Case Is Killer - Nintendo Life",
+      "link": "https://www.nintendolife.com/reviews/dbrand-switch-2-killswitch-case-teething-troubles-aside-this-case-is-killer"
     },
     {
       "title": "Android 16 can warn you if a fake cell tower is trying to spy on you - Android Authority",
@@ -48,6 +76,10 @@
       "link": "https://www.phonearena.com/news/samsung-galaxy-z-flip-7-fold-7-tri-fold-availability-leaked_id171762"
     },
     {
+      "title": "How to turn off AI search in Google Photos - 9to5Google",
+      "link": "http://9to5google.com/2025/06/27/how-to-turn-off-google-photos-ai-search/"
+    },
+    {
       "title": "Mario Smash Football primed for Switch 2's growing GameCube library - Eurogamer",
       "link": "https://www.eurogamer.net/mario-smash-football-primed-for-switch-2s-growing-gamecube-library"
     },
@@ -56,122 +88,90 @@
       "link": "https://www.ign.com/articles/capcom-experimented-with-open-world-and-online-resident-evil-requiem-ideas-before-going-back-to-the-drawing-board"
     },
     {
-      "title": "Not a typo! The LG C4 OLED TV just crashed to $699 at Amazon \u2014 this is incredible - Tom's Guide",
-      "link": "https://www.tomsguide.com/tvs/oled-tvs/not-a-typo-the-lg-c4-oled-tv-just-crashed-to-usd699-at-amazon-this-is-incredible"
-    },
-    {
-      "title": "Space Marine 2's Siege mode is out, letting you fight endless waves of Tyranids and the other, less good enemy - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/space-marine-2s-siege-mode-is-out-letting-you-fight-endless-waves-of-tyranids-and-the-other-less-good-enemy"
-    },
-    {
-      "title": "NVIDIA RTX 5050 spotted in Furmark test with up to 2940 MHz GPU clock - VideoCardz.com",
-      "link": "https://videocardz.com/newz/nvidia-rtx-5050-spotted-in-furmark-test-with-up-to-2940-mhz-gpu-clock"
-    },
-    {
-      "title": "Apple To Witness A Higher Growth With iPhone 18 Launch In 2026, As Advanced AI Capabilities And A Foldable Flagship Are Elements Missing From The iPhone 17 Series, Resulting In Fewer Sales - Wccftech",
-      "link": "https://wccftech.com/iphone-18-to-drive-higher-sales-momentum-thanks-to-foldable-launch-and-ai-capabilities/"
-    },
-    {
-      "title": "Windows 11 KB5060829 update released with 38 new changes, fixes - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/"
-    },
-    {
-      "title": "Porn Ban Warning For Millions Of iPhone And Android Users - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/06/27/porn-ban-warning-for-millions-of-iphone-and-android-users/"
-    },
-    {
-      "title": "Samsung is advancing One UI 8 development for the Galaxy S23 - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-one-ui-8-5-everything-to-know/"
-    },
-    {
-      "title": "Monster Hunter Wilds' next update detailed as Steam reviews continue Overwhelmingly Negative plunge - Eurogamer",
-      "link": "https://www.eurogamer.net/capcom-details-next-monster-hunter-wilds-update-as-steam-reviews-continue-overwhelmingly-negative-plunge"
-    },
-    {
-      "title": "Google is rolling out its AI-powered \u2018Ask Photos\u2019 search again \u2013 and it has a speed boost - The Verge",
-      "link": "https://www.theverge.com/news/694016/google-ask-photos-ai-gemini-search-speed-latency-boost"
+      "title": "Switch 2 permabans are so permanent that not even Nintendo itself can overturn them, as one user named 'Twink Link' discovered to their horror - GamesRadar+",
+      "link": "https://www.gamesradar.com/hardware/switch-2-permabans-are-so-permanent-that-not-even-nintendo-itself-can-overturn-them-as-one-user-named-twink-link-discovered-to-their-horror/"
     }
   ],
   "sports_news": [
     {
+      "title": "Inbox: Who might be drafting their new top prospect? - MLB.com",
+      "link": "https://www.mlb.com/news/pipeline-inbox-explores-which-teams-might-be-drafting-their-new-top-prospect-and-more"
+    },
+    {
+      "title": "Longtime Raptors exec Masai Ujiri out in massive NBA shakeup - New York Post",
+      "link": "https://nypost.com/2025/06/27/sports/longtime-raptors-exec-masai-ujiri-out-in-massive-nba-shakeup/"
+    },
+    {
+      "title": "Montreal Canadiens Getting Noah Dobson For Eight Years In Sign-And-Trade With Islanders: Reports - Yahoo Sports",
+      "link": "https://thehockeynews.com/news/latest-news/montreal-canadiens-get-noah-dobson-for-eight-years-in-sign-and-trade-with-islanders"
+    },
+    {
       "title": "49ers CB Lenoir arrested on obstruction charge - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45597350/49ers-deommodore-lenoir-arrested-la-obstruction-charge"
+    },
+    {
+      "title": "Three former Badgers are reuniting in the NBA on the same team - Bucky's 5th Quarter",
+      "link": "https://www.buckys5thquarter.com/2025/6/27/24457250/wisconsin-badgers-basketball-news-steven-crowl-exhibit-10-deal-utah-jazz-john-tonje-2025-nba-draft"
+    },
+    {
+      "title": "3 observations from Real Madrid\u2019s 3-0 win vs Salzburg - Managing Madrid",
+      "link": "https://www.managingmadrid.com/2025/6/27/24457200/3-observations-from-real-madrids-3-0-win-vs-salzburg"
     },
     {
       "title": "NHL, NHLPA agree on 4-year extension to CBA - NHL.com",
       "link": "https://www.nhl.com/news/nhl-nhlpa-agree-on-4-year-extension-to-cba"
     },
     {
+      "title": "The NFL draft needs an Ace Bailey - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-draft-needs-an-ace-bailey"
+    },
+    {
       "title": "Maple Leafs Re-sign Forward John Tavares - NHL.com",
       "link": "https://www.nhl.com/mapleleafs/news/maple-leafs-re-sign-forward-john-tavares"
+    },
+    {
+      "title": "Jake Paul spars with Piers Morgan over boxing credibility, abruptly ends interview - Fox News",
+      "link": "https://www.foxnews.com/sports/jake-paul-spars-piers-morgan-over-boxing-credibility-abruptly-ends-interview"
     },
     {
       "title": "How Toto Wolff faced the noise after George Russell revealed Max Verstappen Mercedes talks - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/how-toto-wolff-faced-the-noise-after-george-russell-revealed-max-verstappen-mercedes-talks/10736759/"
     },
     {
-      "title": "\u2018Illuminated\u2019 hype killer Charles Oliveira ready to defeat Ilia Topuria at UFC 317 - MMAmania.com",
-      "link": "https://www.mmamania.com/2025/6/27/24457206/illuminated-hype-killer-charles-oliveira-ready-to-defeat-ilia-topuria-at-ufc-317"
+      "title": "Jackson Ford decides today: Will the Pa., four-star pick Penn State? - On3.com",
+      "link": "https://www.on3.com/teams/penn-state-nittany-lions/news/jackson-ford-decides-today-will-the-pa-four-star-pick-penn-state/"
     },
     {
-      "title": "Ace Bailey\u2019s Jazz future gets murkier after interview with agent - New York Post",
-      "link": "https://nypost.com/2025/06/27/sports/ace-baileys-jazz-future-gets-murkier-after-agent-interview/"
-    },
-    {
-      "title": "Former Ravens Star Justin Tucker Lists Baltimore Home Amid NFL Suspension - Realtor.com",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/justin-tucker-baltimore-home-sale-nfl-suspension/"
+      "title": "Weigh-In Results | UFC 317: Topuria vs Oliveira - UFC.com",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-317-topuria-vs-oliveira"
     },
     {
       "title": "Cavs draft Duke guard with No. 49 pick in NBA Draft 2025 - Cleveland.com",
       "link": "https://www.cleveland.com/cavs/2025/06/cavs-draft-duke-guard-with-no-49-pick-in-nba-draft-2025.html"
     },
     {
-      "title": "Top five NFL draft values of the millennium at RB: Frank Gore among all-timers unearthed after Round 1 - NFL.com",
-      "link": "https://www.nfl.com/news/best-nfl-draft-values-of-the-millennium-running-back"
+      "title": "Jake Paul vs Julio Cesar Chavez Jr. simulation predicts upset win for unfancied underdog - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/27/jake-paul-vs-julio-cesar-chavez-jr-simulation-predicts-upset-win-for-unfancied-underdog/"
     },
     {
-      "title": "Jayden Quaintance headlines Kentucky players in 2026 NBA mock drafts - On3.com",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/jayden-quaintance-headlines-kentucky-players-2026-nba-mock-drafts/"
-    },
-    {
-      "title": "Steal of the draft? Wolves' second-rounder was once a projected lottery pick - Sports Illustrated",
-      "link": "https://www.si.com/nba/timberwolves/minnesota-timberwolves-news/steal-of-the-draft-wolves-second-rounder-was-once-a-projected-lottery-pick"
+      "title": "Meltzer's 2025 First-Round Mock Draft - NHL.com",
+      "link": "https://www.nhl.com/flyers/news/meltzer-s-2025-first-round-mock-draft"
     },
     {
       "title": "Late for Work: Where Does Lamar Jackson Rank Among Best Quarterback Draft Values of the Millennium? - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/lamar-jackson-quarterback-rankings-ravens-extension-nfl-draft-kyle-hamilton"
     },
     {
-      "title": "Russell sets the pace during first practice in Austria - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp1-russell-sets-the-pace-from-verstappen-as-dunne-takes-impressive-fourth.1ug4tWN4RC8ak0q1hDm8qy"
+      "title": "Field of 16: Atlanta presents opportunity for major playoff shake-up - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/06/27/field-of-16-atlanta-presents-opportunity-for-major-playoff-shake-up/"
     },
     {
-      "title": "Victoria Beckham Shares David Beckham Has Been Hospitalized - Yahoo",
-      "link": "https://www.eonline.com/news/1419213/david-beckham-hospitalized-victoria-beckham-reveals?cmpid=sn-syndicate-aolfeed-us-"
+      "title": "Russell tops FP1 in Austria, Dunne 4th for McLaren - ESPN",
+      "link": "https://www.espn.com/f1/story/_/id/45581727/george-russell-tops-fp1-alex-dunne-4th-mclaren"
     },
     {
-      "title": "Brentford appoint Keith Andrews as Thomas Frank's successor - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cn4lj9gv7lno"
-    },
-    {
-      "title": "UFC legend labels Jake Paul the 'biggest fake in the history of combat sports' after he storms out of interview - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/06/27/ufc-legend-labels-jake-paul-the-biggest-fake-in-the-history-of-combat-sports-after-he-storms-out-of-interview/"
-    },
-    {
-      "title": "Todd Bowles extension seals off one potential Bill Belichick path back to NFL - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-extension-seals-off-one-potential-bill-belichick-path-back-to-nfl"
-    },
-    {
-      "title": "NASCAR Friday schedule at Atlanta - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/nascar-friday-schedule-at-atlanta-motor-speedway-echopark-june-2025-xfinity-cup"
-    },
-    {
-      "title": "Why Boston Celtics traded back in second round of 2025 NBA Draft - MassLive",
-      "link": "https://www.masslive.com/celtics/2025/06/why-boston-celtics-traded-back-in-second-round-of-2025-nba-draft.html"
-    },
-    {
-      "title": "Jaguars see Brian Thomas Jr. continuing to develop, becoming a leader in Year 2 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-see-brian-thomas-jr-continuing-to-develop-becoming-a-leader-in-year-2"
+      "title": "\u2018He\u2019s wrong\u2019\u2026 Joe Rogan highlights big mistake Jon Jones made before UFC retirement - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/27/hes-wrong-joe-rogan-highlights-big-mistake-jon-jones-made-before-ufc-retirement/"
     }
   ],
   "weather": {
