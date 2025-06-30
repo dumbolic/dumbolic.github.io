@@ -1,9 +1,9 @@
 {
-  "quote": "Be brave. Take risks. Nothing can substitute experience. \u2013 Paulo Coelho",
-  "fact": "A literal translation of a standard traffic sign in China: \"Give large space to the festive dog that makes sport in the roadway.\"",
-  "crypto": "BTC: $107,624 | ETH: $2,512.42",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
+  "quote": "Great deeds are usually wrought at great risks. \u2013 Herodotus",
+  "fact": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis.. \u00a0",
+  "crypto": "BTC: $107,466 | ETH: $2,500.9",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What's the worst thing about ancient history class? The teachers tend to Babylon.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -26,6 +26,10 @@
     {
       "title": "Ever Wonder What Those Chrome Tubes On Semis Are? (No, They're Not Fuel Tanks) - Jalopnik",
       "link": "https://www.jalopnik.com/1893192/chrome-silver-tubes-semi-trucks-explained/"
+    },
+    {
+      "title": "His Overpriced Mustang Went Up In Flames Then Ford Mailed Him A Souvenir - Carscoops",
+      "link": "https://www.carscoops.com/2025/06/mustang-dark-horse-burns-down-ford-sends-welcome-kit-a-year-later/"
     },
     {
       "title": "Apple iPhone 17: Key Design Upgrade Promised In New Leak - Forbes",
@@ -60,10 +64,6 @@
       "link": "https://gizmodo.com/amazon-is-going-nuts-mac-mini-rival-windows-11-pro-1tb-ssd-32gb-ram-now-costs-peanuts-2000621829"
     },
     {
-      "title": "12 Things You Should Never Store in an Outdoor Shed - Real Simple",
-      "link": "https://www.realsimple.com/things-you-should-never-store-in-outdoor-shed-11754639"
-    },
-    {
       "title": "A neural brain implant provides near instantaneous speech - Ars Technica",
       "link": "https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/"
     },
@@ -88,14 +88,30 @@
       "link": "https://www.sammyfans.com/2025/06/29/samsung-u-turns-on-ugly-camera-ring-with-z-fold-7-galaxy-s26-next/"
     },
     {
-      "title": "Should you buy the iPhone 16 or wait for the iPhone 17? Here\u2019s the advice I gave my own dad - Tom's Guide",
-      "link": "https://www.tomsguide.com/phones/iphones/should-you-buy-the-iphone-16-or-wait-for-the-iphone-17-heres-the-advice-i-gave-my-own-dad"
+      "title": "Open-Source Knob Packed With Precision - Hackaday",
+      "link": "https://hackaday.com/2025/06/28/open-source-knob-packed-with-precision/"
     }
   ],
   "sports_news": [
     {
+      "title": "Enhanced Box Score: Astros 2, Cubs 0 \u2013 June 29, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/06/29/enhanced-box-score-astros-2-cubs-0-june-29-2025/"
+    },
+    {
+      "title": "Sources: BYU quarterback Jake Retzlaff expecting multigame suspension, putting future with program in doubt - The Salt Lake Tribune",
+      "link": "https://www.sltrib.com/sports/byu-cougars/2025/06/29/byu-quarterback-jake-retzlaff/"
+    },
+    {
+      "title": "Alabama lands top 3 OLB Griffin for 2026 class - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/45609820/alabama-lands-top-3-olb-xavier-griffin-2026-class"
+    },
+    {
       "title": "The feds are investigating NBA player Malik Beasley over gambling - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-feds-are-investigating-nba-player-malik-beasley-over-gambling"
+    },
+    {
+      "title": "White Sox Place Luis Robert Jr. On 10-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/06/white-sox-place-luis-robert-jr-on-10-day-injured-list-2.html"
     },
     {
       "title": "Industry-Shaping Horseman Lukas Dies at Age 89 - BloodHorse",
@@ -106,68 +122,52 @@
       "link": "https://www.motorsport.com/f1/news/max-verstappen-admits-watching-spa-24-after-crashing-out-of-f1-austrian-gp/10737747/"
     },
     {
+      "title": "Citing storm delays, Chelsea coach asks whether some American cities are \"the right place\" to play - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/citing-storm-delays-chelsea-coach-asks-whether-some-american-cities-are-the-right-place-to-play"
+    },
+    {
+      "title": "Tom Aspinall shares heartwarming moment with Israel Adesanya at UFC 317... 'Never let them take that away from you' - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/29/tom-aspinall-shares-heartwarming-moment-with-israel-adesanya-at-ufc-317-never-let-them-take-that-away-from-you/"
+    },
+    {
       "title": "Winners and losers from F1's 2025 Austrian Grand Prix - The Race",
       "link": "https://www.the-race.com/formula-1/winners-losers-f1-2025-austrian-grand-prix/"
     },
     {
-      "title": "Austrian Grand Prix result: Lando Norris wins from Oscar Piastri to narrow gap in drivers' championship - BBC",
-      "link": "https://www.bbc.com/sport/formula1/articles/c9qx0eyjqxpo"
+      "title": "'Thank God'... Sean O'Malley posts hilarious reaction to Ilia Topuria's UFC 317 KO win over Charles Oliveira - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/29/thank-god-sean-omalley-posts-hilarious-reaction-to-ilia-topurias-ufc-317-ko-win-over-charles-oliveira/"
+    },
+    {
+      "title": "Bojan Bogdanovic Announces Retirement - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/06/bojan-bogdanovic-announces-retirement.html"
+    },
+    {
+      "title": "Norris fends off Piastri for Austrian GP victory in thrilling race-long battle - F1",
+      "link": "https://www.formula1.com/en/latest/article/norris-fends-off-piastri-for-austrian-gp-victory-in-thrilling-race-long.2CH71wVvRP1FaU8s04Tj7f"
     },
     {
       "title": "2025 NHL Draft: Reactions to the Penguins stocking up the cabinets in a big way - PensBurgh",
       "link": "https://www.pensburgh.com/2025/6/29/24458301/2025-nhl-draft-reactions-to-the-penguins-stocking-up-the-cabinets-in-a-big-way"
     },
     {
-      "title": "Tyler Boyd would welcome a chance to play for the Steelers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-boyd-would-welcome-a-chance-to-play-for-the-steelers"
+      "title": "Top storylines to watch for opening of NHL free agency - NHL.com",
+      "link": "https://www.nhl.com/news/top-storylines-to-watch-for-opening-of-nhl-free-agency"
+    },
+    {
+      "title": "Wimbledon 2025: Jack Draper, Emma Raducanu & Katie Boulter lead large British contingent at the All England Club - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/cm2my49x07eo"
+    },
+    {
+      "title": "Free agent WR Tyler Boyd \u2018absolutely\u2019 open to playing for Steelers in 2025 - Behind the Steel Curtain",
+      "link": "https://www.behindthesteelcurtain.com/2025/6/29/24458137/tyler-boyd-news-steelers-clairton-pennsylvania-pitt-wide-receiver-bengals-titans-free-agent-tomlin"
+    },
+    {
+      "title": "Fantasy Baseball Waiver Wire: Jurickson Profar returns, Jacob Lopez is on a heater - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/baseball/news/fantasy-baseball-waiver-wire-jurickson-profar-returns-jacob-lopez-is-on-a-heater"
     },
     {
       "title": "Flyers getting high marks from experts for 2025 NHL Draft - Broad Street Hockey",
       "link": "https://www.broadstreethockey.com/post/flyers-getting-high-marks-for-2025-nhl-draft/"
-    },
-    {
-      "title": "Wake Up and Watch the Cubs Thump the Astros - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/06/29/wake-up-and-watch-the-cubs-thump-the-astros/"
-    },
-    {
-      "title": "Breaking down Rangers\u2019 Day 2 picks in 2025 NHL Draft - New York Post",
-      "link": "https://nypost.com/2025/06/29/sports/breaking-down-rangers-day-2-picks-in-2025-nhl-draft/"
-    },
-    {
-      "title": "Ilia Topuria makes case for being UFC's pound-for-pound best with first-round KO of Charles Oliveira - AP News",
-      "link": "https://apnews.com/article/ufc-317-ilia-topuria-charles-oliveira-f836c0966017f9193932ff9e97e54cfd"
-    },
-    {
-      "title": "Chase Elliott\u2019s Atlanta win takes away chance to earn a playoff spot for some drivers - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/chase-elliotts-atlanta-win-takes-away-chance-to-earn-a-playoff-spot-for-some-drivers"
-    },
-    {
-      "title": "Jake Paul Beats Julio C\u00e9sar Ch\u00e1vez Jr. After 10 Rounds - Variety",
-      "link": "https://variety.com/2025/tv/news/jake-paul-beats-julio-cesar-chavez-jr-1236441992/"
-    },
-    {
-      "title": "Bulls Notes: Okoro, Dosunmu, Essengue, Ball - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2025/06/bulls-notes-okoro-dosunmu-essengue-ball.html"
-    },
-    {
-      "title": "Miss Alabama 2025: Emma Terry, Miss Hoover, wins the crown - AL.com",
-      "link": "https://www.al.com/life/2025/06/miss-alabama-2025-emma-terry-miss-hoover-wins-the-crown.html"
-    },
-    {
-      "title": "UFC 317 results: Alexandre Pantoja submits Kai Kara-France as all-time flyweight r\u00e9sum\u00e9 continues to build - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/breaking-news/article/ufc-317-results-alexandre-pantoja-submits-kai-kara-france-as-all-time-flyweight-resume-continues-to-build-043452531.html"
-    },
-    {
-      "title": "Atlanta In-Season Challenge results, second-round matchups: Top two seeds eliminated in Round 1 - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/atlanta-in-season-challenge-results-top-two-seeds-are-eliminated-in-round-1-denny-hamlin-chase-briscoe"
-    },
-    {
-      "title": "Shohei Ohtani throws fastest pitch of career at 101.7 mph in 3rd mound start for Dodgers - AP News",
-      "link": "https://apnews.com/article/dodgers-shohei-ohtani-pitching-882646a3578e99e4c81b1c0e774df7d1"
-    },
-    {
-      "title": "Top NHL free agent forwards: Marner, Ehlers, Boeser likely available - NHL.com",
-      "link": "https://www.nhl.com/news/top-nhl-free-agent-forwards-available-2025"
     }
   ],
   "weather": {
