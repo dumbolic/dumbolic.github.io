@@ -1,9 +1,9 @@
 {
-  "quote": "Winning isn't always championships. \u2013 Michael Jordan",
-  "fact": "The dot over the letter `i` is called a tittle. \u00a0",
-  "crypto": "BTC: $107,326 | ETH: $2,461.19",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "\"What time is it?\" I don't know... it keeps changing.",
+  "quote": "What is planted in each person's soul will sprout.   \u2013 Rumi",
+  "fact": "On average, Americans eat 18 acres of pizza everyday.",
+  "crypto": "BTC: $106,829 | ETH: $2,444.55",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "You know that cemetery up the road? People are dying to get in there.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "The unbearable obviousness of AI fitness summaries - The Verge",
+      "link": "https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables"
+    },
+    {
+      "title": "Amazon Is Going Nuts, Mac Mini Rival (Windows 11 Pro, 1TB SSD, 32GB RAM) Now Costs Peanuts - Gizmodo",
+      "link": "https://gizmodo.com/amazon-is-going-nuts-mac-mini-rival-windows-11-pro-1tb-ssd-32gb-ram-now-costs-peanuts-2000621829"
+    },
+    {
+      "title": "12 Things You Should Never Store in an Outdoor Shed - Real Simple",
+      "link": "https://www.realsimple.com/things-you-should-never-store-in-outdoor-shed-11754639"
+    },
     {
       "title": "A neural brain implant provides near instantaneous speech - Ars Technica",
       "link": "https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/"
@@ -22,6 +34,10 @@
     {
       "title": "Direct Injection Engines: Why Carbon Buildup Happens (And How To Prevent It) - Jalopnik",
       "link": "https://www.jalopnik.com/1896337/direct-injection-engine-carbon-buildup-causes-fixes/"
+    },
+    {
+      "title": "Cyberpunk 2077 massive multiplayer update leaves fans floored - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/cyberpunk-2077-multiplayer-232313-20250629"
     },
     {
       "title": "Google Confirms Upgrade Choice For 2 Billion Android Users - Forbes",
@@ -40,16 +56,12 @@
       "link": "https://www.slashgear.com/1896159/how-to-clear-cache-data-android-at-once/"
     },
     {
-      "title": "Here's Every Square Enix Switch Game You Can Play On Switch 2 Right Now - Nintendo Life",
+      "title": "Here Are The Square Enix Switch Games You Can Play On Switch 2 Right Now - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/06/here-are-the-square-enix-switch-games-you-can-play-on-switch-2-right-now1"
     },
     {
       "title": "Fallout 4 gets total overhaul packed with new quests and content - GAMINGbible",
       "link": "https://www.gamingbible.com/news/platform/pc/fallout-4-overhaul-free-download-659773-20250625"
-    },
-    {
-      "title": "Acclaimed Horror Game Gets Surprising New Remaster - ComicBook.com",
-      "link": "http://comicbook.com/gaming/news/horror-games-best-remaster-2025/"
     },
     {
       "title": "\"Resident Evil: Requiem\" Is 1st & 3rd Person - Dark Horizons",
@@ -58,6 +70,10 @@
     {
       "title": "This tiny charging fix boosted my battery speed and most people have no idea they're doing it wrong - Android Police",
       "link": "https://www.androidpolice.com/boosting-phone-battery-charging-speed/"
+    },
+    {
+      "title": "Steam new free game has 100 percent positive reviews, and you can play now - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/steam/steam-free-game-100-percent-positive-reviews-199263-20250625"
     },
     {
       "title": "SEGA customer support says Sonic Racing: CrossWorlds is Game-Key Card - My Nintendo News",
@@ -74,32 +90,36 @@
     {
       "title": "Poll: Are You Happy with Your PS Plus Essential Games for July 2025? - Push Square",
       "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-july-2025"
-    },
-    {
-      "title": "Sonic Team boss explains why a Sonic Adventure remake / remaster isn\u2019t happening - Nintendo Everything",
-      "link": "https://nintendoeverything.com/sonic-adventure-remake-remaster-takashi-iizuka/"
-    },
-    {
-      "title": "Easter egg image uncovered in Power Mac G3 ROM after 27 years - AppleInsider",
-      "link": "https://appleinsider.com/articles/25/06/28/easter-egg-image-uncovered-in-power-mac-g3-rom-after-27-years"
-    },
-    {
-      "title": "The Best Deals Today: Steam Summer Sale, Twin Peaks, Super Mario Odyssey, and More - IGN",
-      "link": "https://www.ign.com/articles/best-deals-for-june-28-2025"
-    },
-    {
-      "title": "Galaxy Z Fold 7 leak shows thin unfolded design and return of hole punch camera - 9to5Google",
-      "link": "http://9to5google.com/2025/06/28/galaxy-z-fold-7-leak-unfolded-hole-punch-camera/"
     }
   ],
   "sports_news": [
     {
-      "title": "Austrian GP: Follow LIVE as Norris leads, Max out - ESPN",
-      "link": "https://www.espn.com/f1/story/_/id/45581513/austrian-grand-prix-follow-live-lando-norris-wins-pole"
+      "title": "Antonelli handed grid penalty for Verstappen clash - F1",
+      "link": "https://www.formula1.com/en/latest/article/antonelli-handed-three-place-grid-penalty-for-silverstone-after-verstappen.7GIpi2rLTwmOXHW5VfgFWT"
+    },
+    {
+      "title": "PSG vs Inter Miami LIVE: Club World Cup score, stats & updates - BBC",
+      "link": "https://www.bbc.com/sport/football/live/c4g27n1z63dt"
+    },
+    {
+      "title": "Jim Harbaugh Sued In Expanded Hacking Case - Defector",
+      "link": "https://defector.com/jim-harbaugh-sued-in-expanded-hacking-case"
+    },
+    {
+      "title": "Norris fends off Piastri for Austrian GP victory in thrilling race-long battle - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/norris-fends-off-piastri-for-austrian-gp-victory-in-thrilling-race-long.2CH71wVvRP1FaU8s04Tj7f"
+    },
+    {
+      "title": "Flyers getting high marks from experts for 2025 NHL Draft - Broad Street Hockey",
+      "link": "https://www.broadstreethockey.com/post/flyers-getting-high-marks-for-2025-nhl-draft/"
     },
     {
       "title": "Jake Paul vs. Julio Cesar Chavez Jr. results, highlights: 'Problem Child' cruises to easy decision win - CBS Sports",
       "link": "https://www.cbssports.com/boxing/news/jake-paul-vs-julio-cesar-chavez-jr-results-highlights-problem-child-cruises-to-easy-decision-win/live/"
+    },
+    {
+      "title": "Dana White issues emphatic two-word response to Jon Jones\u2019 claim he retired in 2024 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/06/29/dana-white-issues-emphatic-two-word-response-to-jon-jones-claim-he-retired-in-2024/"
     },
     {
       "title": "Ilia Topuria makes case for being UFC's pound-for-pound best with first-round KO of Charles Oliveira - AP News",
@@ -108,10 +128,6 @@
     {
       "title": "Chase Elliott\u2019s Atlanta win takes away chance to earn a playoff spot for some drivers - NBC Sports",
       "link": "https://www.nbcsports.com/nascar/news/chase-elliotts-atlanta-win-takes-away-chance-to-earn-a-playoff-spot-for-some-drivers"
-    },
-    {
-      "title": "Prayers Pouring In For Deion Sanders After Latest Health Post - Yahoo Sports",
-      "link": "https://thespun.com/college-football/colorado-buffaloes/prayers-pouring-in-for-deion-sanders-after-latest-health-post"
     },
     {
       "title": "Miss Alabama 2025: Emma Terry, Miss Hoover, wins the crown - AL.com",
@@ -130,6 +146,10 @@
       "link": "https://apnews.com/article/dodgers-shohei-ohtani-pitching-882646a3578e99e4c81b1c0e774df7d1"
     },
     {
+      "title": "Top NHL free agent forwards: Marner, Ehlers, Boeser likely available - NHL.com",
+      "link": "https://www.nhl.com/news/top-nhl-free-agent-forwards-available-2025"
+    },
+    {
       "title": "Dave Parker, former Pirates star bound for Hall of Fame, dies at 74 - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/06/28/dave-parker-death-pirates-hall-of-fame/"
     },
@@ -142,10 +162,6 @@
       "link": "https://nypost.com/2025/06/28/sports/mets-hold-players-only-meeting-as-season-threatens-to-go-off-rails/"
     },
     {
-      "title": "Jaylen Brown trade rumors: NBA insider hints at new team targeting Celtics star - MassLive",
-      "link": "https://www.masslive.com/celtics/2025/06/jaylen-brown-trade-rumors-nba-insider-hints-at-new-team-targeting-celtics-star.html"
-    },
-    {
       "title": "Enhanced Box Score: Cubs 12, Astros 3 \u2013 June 28, 2025 - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2025/06/28/enhanced-box-score-cubs-12-astros-3-june-28-2025/"
     },
@@ -156,22 +172,6 @@
     {
       "title": "Boston radio hosts slam Aaron Rodgers over \u2018douche move\u2019 final season announcement - Awful Announcing",
       "link": "https://awfulannouncing.com/nfl/weei-greg-hill-aaron-rodgers-douche-move-final-season-farewell.html"
-    },
-    {
-      "title": "Meet the Sabres' 2025 draft class - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-2025-nhl-draft-tracker"
-    },
-    {
-      "title": "Ace Bailey's Arrival in Utah Revealed by Jazz in Videos, Photos After 2025 NBA Draft - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25218820-ace-baileys-arrival-utah-revealed-jazz-videos-photos-after-2025-nba-draft"
-    },
-    {
-      "title": "Bruins Make Six Selections on Day Two of 2025 NHL Entry Draft - NHL.com",
-      "link": "https://www.nhl.com/bruins/news/bruins-make-six-selections-on-day-two-of-2025-nhl-entry-draft"
-    },
-    {
-      "title": "Yankees To Activate Marcus Stroman On Sunday - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/06/yankees-to-activate-marcus-stroman-on-sunday.html"
     }
   ],
   "weather": {
