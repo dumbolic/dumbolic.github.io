@@ -1,9 +1,9 @@
 {
-  "quote": "Learning is a weightless treasure you can always carry easily. \u2013 Chinese Proverb",
-  "fact": "There are two credit cards for every person in the United States.",
-  "crypto": "BTC: $109,417 | ETH: $2,579.84",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+  "quote": "Life may be full of pain but that's not an excuse to give up. \u2013 Arnold Schwarzenegger",
+  "fact": "The dot over the letter `i` is called a tittle. \u00a0",
+  "crypto": "BTC: $109,424 | ETH: $2,572.85",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Black Ops 6 & Warzone Season 4 Reloaded update patch notes - Dexerto",
+      "link": "https://www.dexerto.com/call-of-duty/black-ops-6-warzone-season-4-reloaded-update-patch-notes-3221300/"
+    },
+    {
       "title": "Nothing\u2019s \u2018first true flagship\u2019 phone plays it a little safe - The Verge",
       "link": "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price"
+    },
+    {
+      "title": "Nothing's New Phone (3) and Headphone (1) Look Nothing Like You've Seen Before - WIRED",
+      "link": "https://www.wired.com/story/nothing-phone-3-headphones-1-news/"
+    },
+    {
+      "title": "AI Siri May Be Forced to Get Emergency Brain Transplant from OpenAI or Anthropic - Gizmodo",
+      "link": "https://gizmodo.com/ai-siri-may-be-forced-to-get-emergency-brain-transplant-from-openai-or-anthropic-2000622739"
     },
     {
       "title": "New \u2018MacBook\u2019 rumor sounds like Apple\u2019s taking the iPad approach - 9to5Mac",
@@ -22,6 +34,10 @@
     {
       "title": "Upcoming Nintendo Switch 2 Games & Accessories For July & August 2025 - Nintendo Life",
       "link": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-july-and-august-2025"
+    },
+    {
+      "title": "Samsung\u2019s One UI 8 reportedly brings a robust security alert system - 9to5Google",
+      "link": "http://9to5google.com/2025/07/01/samsung-one-ui-8-update-big-security-improvements/"
     },
     {
       "title": "Xbox Game Pass is getting this Rick and Morty-esque shooter once again - Polygon",
@@ -34,10 +50,6 @@
     {
       "title": "Nintendo confirms Donkey Kong Bananza is being made by the Mario Odyssey team - Eurogamer",
       "link": "https://www.eurogamer.net/nintendo-confirms-donkey-kong-bananza-is-being-made-by-the-mario-odyssey-team"
-    },
-    {
-      "title": "Google kills its Keep app on Apple Watch - The Verge",
-      "link": "https://www.theverge.com/news/695590/google-keep-apple-watch-watchos-removed"
     },
     {
       "title": "Stardew Valley creator plays down reports he could help resurrect cancelled Minecraft-like Hytale - Eurogamer",
@@ -64,30 +76,26 @@
       "link": "https://www.theverge.com/news/695582/tinder-facial-recognition-us-california-test"
     },
     {
-      "title": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC",
-      "link": "https://www.cnbc.com/2025/07/01/apple-weighs-using-anthropic-or-openai-to-power-siri-in-major-reversal-bloomberg-news-.html"
+      "title": "Microsoft Removes Password Management from Authenticator App Starting August 2025 - The Hacker News",
+      "link": "https://thehackernews.com/2025/07/microsoft-removes-password-management.html"
     },
     {
       "title": "Netflix shoots for the moon with new NASA content partnership - NBC News",
       "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-nasa-live-programming-summer-2025-rcna216047"
-    },
-    {
-      "title": "Halo's Future Will Be Revealed... In October, Says Xbox - Kotaku",
-      "link": "https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384"
-    },
-    {
-      "title": "Analyst: M5 Vision Pro, Vision Air, and smart glasses coming in 2026\u20132028 - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/06/apple-will-introduce-vision-air-and-smart-glasses-in-2027-analyst-projects/"
     }
   ],
   "sports_news": [
     {
-      "title": "Free Agent Rumors: Ayton, Westbrook, Horford, Heat, Beasley - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2025/07/free-agent-rumors-ayton-westbrook-horford-heat-beasley.html"
+      "title": "CONFIRMED lineups: Real Madrid vs Juventus, 2025 FIFA Club World Cup - Managing Madrid",
+      "link": "https://www.managingmadrid.com/2025/7/1/24459495/real-madrid-vs-juventus-2025-fifa-club-world-cup-live-online-stream"
     },
     {
       "title": "2025 NBA Free Agency Live Tracker: Updates, news, rumors, top players, signings, trades - NBC Sports",
       "link": "https://www.nbcsports.com/nba/news/2025-nba-free-agency-trade-live-tracker"
+    },
+    {
+      "title": "Caitlin Clark dominates WNBA All-Star fan vote \u2014 but players vote her ninth among guards - NBC News",
+      "link": "https://www.nbcnews.com/sports/wnba/caitlin-clark-wnba-all-star-fan-peer-vote-rcna216236"
     },
     {
       "title": "Rangers sign Vladislav Gavrikov to seven-year, $49 million contract in NHL free agency splash - New York Post",
@@ -102,12 +110,16 @@
       "link": "https://sports.yahoo.com/nfl/breaking-news/article/tight-end-darren-waller-coming-out-of-retirement-traded-to-miami-dolphins-152215780.html"
     },
     {
-      "title": "Greg: UNC Taking Bold Step into New Era with AD Transition - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/greg-barnes-unc-taking-bold-step-into-new-athletics-era-with-ad-transition-bubba-cunningham-steve-newmark--251402949/"
+      "title": "Bill Belichick\u2019s boss, Bubba Cunningham, will leave UNC next year - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichicks-boss-bubba-cunningham-will-leave-unc-next-year"
     },
     {
       "title": "Dallas Stars name Glen Gulutzan as head coach - NHL.com",
       "link": "https://www.nhl.com/stars/news/dallas-stars-name-glen-gulutzan-as-head-coach-070125"
+    },
+    {
+      "title": "Tigers To Place Kerry Carpenter On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/tigers-to-place-kerry-carpenter-on-injured-list.html"
     },
     {
       "title": "The player and the life insurance agent behind Bobby Bonilla Day - The Washington Post",
@@ -118,36 +130,28 @@
       "link": "https://bleacherreport.com/articles/25219846-sga-embiid-tatum-and-richest-contracts-nba-history-after-285m-thunder-extension"
     },
     {
-      "title": "POWER RANKINGS: Who delivered perfection at the Austrian Grand Prix? - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/power-rankings-who-delivered-perfection-at-the-austrian-grand-prix.4CCBdZAqK7qHiqEVFPy8Uf"
+      "title": "Astros Notes: Pe\u00f1a, Matthews, Smith - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/astros-rumors-jeremy-pena-timeline-brice-matthews-promotion.html"
+    },
+    {
+      "title": "Photos of Wimbledon fans and players struggling to stay cool in record-breaking heat - AP News",
+      "link": "https://apnews.com/photo-gallery/wimbledon-tennis-heat-hot-weather-60ddcb8c393198d8d1f1329b39507e75"
     },
     {
       "title": "Syracuse basketball adds 4th game to Las Vegas trip outside of Players Era Festival - Syracuse.com",
       "link": "https://www.syracuse.com/orangebasketball/2025/07/syracuse-adds-4th-game-to-las-vegas-trip-outside-of-players-era-festival.html"
     },
     {
-      "title": "Lakers Rumors: DFS, Ayton, LeBron, Wiggins, LaRavia - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2025/07/lakers-rumors-dfs-ayton-lebron-wiggins-laravia.html"
+      "title": "AHL names to watch as free agency opens today - The American Hockey League",
+      "link": "https://theahl.com/news/ahl-names-to-watch-as-free-agency-opens-today"
     },
     {
       "title": "Vegas Golden Knights Acquire Forward Mitch Marner from Toronto Maple Leafs - NHL.com",
       "link": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-acquire-forward-mitch-marner-from-toronto-maple-leafs"
     },
     {
-      "title": "What to make of Cam Johnson-MPJ trade, rest of Brooklyn Nets\u2019 start to free agency - NetsDaily, for Brooklyn Nets fans",
-      "link": "https://www.netsdaily.com/2025/7/1/24459520/what-to-make-of-cam-johnson-mpj-trade-rest-of-brooklyn-nets-start-to-free-agency"
-    },
-    {
       "title": "Our 2025 Tour de France roster - EF Pro Cycling",
       "link": "https://www.efprocycling.com/racing/2025-tour-de-france-roster-ef-education-easypost/"
-    },
-    {
-      "title": "Caitlin Clark\u2019s shocking placement in WNBA players\u2019 All-Star voting revealed - New York Post",
-      "link": "https://nypost.com/2025/07/01/sports/caitlin-clarks-shocking-placement-in-wnba-players-all-star-voting-revealed/"
-    },
-    {
-      "title": "Rich Paul adds \u2018four teams\u2019 twist to LeBron James-Lakers trade speculation - New York Post",
-      "link": "https://nypost.com/2025/07/01/sports/rich-paul-adds-four-teams-twist-to-lebron-james-lakers-trade-speculation/"
     },
     {
       "title": "Jalen Ramsey, Minkah Fitzpatrick traded: What the Steelers and Dolphins gain from blockbuster swap - PFF",
@@ -158,8 +162,8 @@
       "link": "https://www.nj.com/knicks/2025/07/knicks-set-to-add-former-nba-6th-man-of-the-year-in-free-agency.html"
     },
     {
-      "title": "NHL Free Agency Opens Today - Winging It In Motown",
-      "link": "https://www.wingingitinmotown.com/nhl-free-agency-opens-today-red-wings-news-rumors/"
+      "title": "What LeBron James Opting Into Final Contract Year Means for the Lakers - Sports Illustrated",
+      "link": "https://www.si.com/nba/what-lebron-james-opting-into-final-contract-year-means-for-the-lakers"
     }
   ],
   "weather": {
