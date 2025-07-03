@@ -1,9 +1,9 @@
 {
-  "quote": "Waste no more time arguing about what a good man should be. Be one. \u2013 Marcus Aurelius",
-  "fact": "Most American car horns honk in the key of F.",
-  "crypto": "BTC: $109,071 | ETH: $2,580.33",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I am terrified of elevators. I\u2019m going to start taking steps to avoid them.",
+  "quote": "Whatever happens always happens on time. \u2013 Zen Proverb",
+  "fact": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
+  "crypto": "BTC: $108,703 | ETH: $2,565.07",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What is the difference between ignorance and apathy?\r\n\r\nI don't know and I don't care.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Congress just greenlit a NASA moon plan opposed by Musk and Isaacman - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/01/congress-just-greenlit-a-nasa-moon-plan-opposed-by-musk-and-isaacman/"
+    },
     {
       "title": "The biggest iPhone 17 mystery left could swing a lot of upgrade decisions - 9to5Mac",
       "link": "https://9to5mac.com/2025/07/01/the-biggest-iphone-17-mystery-left-could-swing-a-lot-of-upgrade-decisions/"
@@ -20,12 +24,24 @@
       "link": "https://www.gamespot.com/gallery/cod-season-4-reloaded-patch-notes-add-attachment-changes-and-goofy-verdansk-ltm/2900-6725/"
     },
     {
+      "title": "Android users can finally edit messages sent to iPhones, but there's a catch - Android Authority",
+      "link": "https://www.androidauthority.com/google-messages-edit-messages-sent-to-iphones-3573055/"
+    },
+    {
+      "title": "Nothing releases its first over-the-ear headphones, the $299 Headphone (1) - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/01/nothing-releases-its-first-over-the-ear-headphones-the-299-headphone-1/"
+    },
+    {
+      "title": "Hackers abuse generative AI tool to create phishing sites in 30 seconds - Axios",
+      "link": "https://www.axios.com/2025/07/01/okta-phishing-sites-generative-ai"
+    },
+    {
       "title": "Here\u2019s everything new for Apple Photos in iOS 26 - 9to5Mac",
       "link": "https://9to5mac.com/2025/07/01/heres-everything-new-for-apple-photos-in-ios-26/"
     },
     {
-      "title": "Nothing's New Phone (3) and Headphone (1) Look Nothing Like You've Seen Before - WIRED",
-      "link": "https://www.wired.com/story/nothing-phone-3-headphones-1-news/"
+      "title": "Nothing\u2019s \u2018first true flagship\u2019 phone plays it a little safe - The Verge",
+      "link": "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price"
     },
     {
       "title": "Threads gets its own DMs as app distances itself from Instagram - TechCrunch",
@@ -36,28 +52,16 @@
       "link": "https://www.theverge.com/news/695726/donkey-kong-bananza-developers-super-mario-odyssey"
     },
     {
-      "title": "AI Siri May Be Forced to Get Emergency Brain Transplant from OpenAI or Anthropic - Gizmodo",
-      "link": "https://gizmodo.com/ai-siri-may-be-forced-to-get-emergency-brain-transplant-from-openai-or-anthropic-2000622739"
+      "title": "Here's what's coming to Xbox Game Pass in July - Eurogamer",
+      "link": "https://www.eurogamer.net/heres-whats-coming-to-game-pass-in-july"
     },
     {
       "title": "New \u2018MacBook\u2019 rumor sounds like Apple\u2019s taking the iPad approach - 9to5Mac",
       "link": "https://9to5mac.com/2025/07/01/new-macbook-rumor-sounds-like-apples-taking-the-ipad-approach/"
     },
     {
-      "title": "Game Pass Adds 9 More Games In July, Including Tony Hawk Pro Skater Remasters - GameSpot",
-      "link": "https://www.gamespot.com/gallery/game-pass-adds-9-more-games-in-july-including-tony-hawk-pro-skater-game-remasters/2900-6723/"
-    },
-    {
-      "title": "Upcoming Nintendo Switch 2 Games & Accessories For July & August 2025 - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-july-and-august-2025"
-    },
-    {
       "title": "Samsung\u2019s One UI 8 reportedly brings a robust security alert system - 9to5Google",
       "link": "http://9to5google.com/2025/07/01/samsung-one-ui-8-update-big-security-improvements/"
-    },
-    {
-      "title": "Google Wallet gets a spiffy new look as Material 3 Expressive redesign rolls out - Android Police",
-      "link": "https://www.androidpolice.com/google-wallet-material-3-expressive-redesign-rolls-out/"
     },
     {
       "title": "Strange Tales of the West Emerge in Red Dead Online - Rockstar Games",
@@ -72,16 +76,16 @@
       "link": "https://www.eurogamer.net/stardew-valley-creator-plays-down-reports-he-could-help-resurrect-recently-cancelled-minecraft-like-hytale"
     },
     {
+      "title": "I Found the Best Samsung Galaxy Unpacked Rumors for the Fold 7, Flip 7 and Watch 8 - CNET",
+      "link": "https://www.cnet.com/tech/mobile/i-found-the-best-samsung-galaxy-unpacked-rumors-for-the-fold-7-flip-7-and-watch-8/"
+    },
+    {
       "title": "Kojima \"happy\" with Death Stranding 2 critical reception, spurring fans to \"fight and battle\" against war and climate change - Eurogamer",
       "link": "https://www.eurogamer.net/kojima-happy-with-death-stranding-2-critical-reception-spurring-fans-to-fight-and-battle-against-war-and-climate-change"
     },
     {
-      "title": "Google Gemini's next big trick could be RCS support - Android Police",
-      "link": "https://www.androidpolice.com/google-gemini-next-big-trick-could-be-rcs-support/"
-    },
-    {
-      "title": "Nintendo confirms hefty price increase, brace yourselves - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/nintendo/nintendo-confirms-hefty-price-increase-brace-yourselves-540375-20250701"
+      "title": "Google is playing a dangerous game with the Pixel 10 Pro - Android Authority",
+      "link": "https://www.androidauthority.com/google-pixel-10-pro-dangerous-game-3572514/"
     },
     {
       "title": "Nintendo Switch 2 Appears To Have Sold 5 Million Units In Its First Month - NintendoSoup",
@@ -90,24 +94,48 @@
   ],
   "sports_news": [
     {
-      "title": "Canes Acquire K'Andre Miller From New York - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/canes-acquire-k-andre-miller-from-new-york"
+      "title": "He hasn\u2019t played in MLB for more than two decades. One team is paying him $1.2 million a year until 2035 - CNN",
+      "link": "https://www.cnn.com/2025/07/01/sport/bobby-bonilla-day-new-york-mets-mlb-spt"
     },
     {
-      "title": "UPenn to update swimming records set by Lia Thomas, settling with feds on transgender athletes case - AP News",
-      "link": "https://apnews.com/article/upenn-lia-thomas-swimmer-transgender-athletes-trump-71720ecbeb8493ddbed539dd61995076"
+      "title": "Fever win Commissioner's Cup, deny Lynx repeat - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/45637519/indiana-fever-led-mvp-natasha-howard-beat-minnesota-lynx-win-commissioner-cup"
+    },
+    {
+      "title": "Red Panda injured during Fever-Lynx halftime - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/45637095/red-panda-injured-commissioner-cup-performance"
+    },
+    {
+      "title": "NHL Trade Grades for Rangers-Hurricanes K'Andre Miller Blockbuster - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25221262-nhl-trade-grades-rangers-hurricanes-kandre-miller-blockbuster"
+    },
+    {
+      "title": "2025 NHL Free Agency winners and losers: Panthers, Golden Knights break the game - Daily Faceoff",
+      "link": "https://www.dailyfaceoff.com/news/2025-nhl-free-agency-winners-losers-panthers-golden-knights-kings-oilers-bruins"
+    },
+    {
+      "title": "Diamondbacks ban fan ejected for interference in win vs. Giants - Arizona Sports",
+      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/ban-fan/3588937/"
+    },
+    {
+      "title": "Lia Thomas: UPenn to ban trans athletes after swimmer probe - BBC",
+      "link": "https://www.bbc.com/news/articles/cy4yy4dv2dyo"
+    },
+    {
+      "title": "Penguins Sign Justin Brazeau, Parker Wotherspoon and Caleb Jones to Two-Year Contracts - NHL.com",
+      "link": "https://www.nhl.com/penguins/news/penguins-sign-justin-brazeau-parker-wotherspoon-and-caleb-jones-to-two-year-contracts"
     },
     {
       "title": "FBI just one problem facing Malik Beasley amid $8M in escalating financial problems - The Detroit News",
       "link": "https://www.detroitnews.com/story/sports/nba/pistons/2025/07/01/malik-beasley-had-8m-in-problems-amid-on-court-resurgence-with-pistons/84434319007/"
     },
     {
-      "title": "American Coco Gauff ousted in the opening round at Wimbledon in a shocking upset - CNN",
-      "link": "https://www.cnn.com/2025/07/01/sport/coco-gauff-wimbledon-upset-spt"
+      "title": "NBA Offseason: Every free agency deal, extension & trade for all 30 teams - NBA",
+      "link": "https://www.nba.com/news/nba-offseason-deals-2025"
     },
     {
-      "title": "Penguins Acquire a 2028 Third-Round Draft Pick from San Jose in Exchange for Alex Nedeljkovic - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/penguins-acquire-a-2028-third-round-draft-pick-from-san-jose-in-exchange-for-alex-nedeljkovic"
+      "title": "Cavs reportedly sign Larry Nance Jr. in free agency - Fear The Sword",
+      "link": "https://www.fearthesword.com/2025/7/1/24460019/cavs-sign-larry-nance-jr-nba-free-agency-cleveland-cavaliers"
     },
     {
       "title": "Top 10 Players: Real Madrid 1-0 Juventus - Managing Madrid",
@@ -118,20 +146,16 @@
       "link": "https://www.mlbtraderumors.com/2025/07/pirates-trade-hunter-stratton-braves.html"
     },
     {
-      "title": "2025 NBA Free Agency Live Tracker: Updates, news, rumors, top players, signings, trades - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/2025-nba-free-agency-trade-live-tracker"
-    },
-    {
-      "title": "Arman Tsarukyan shockingly claims Ilia Topuria will be 'easier' to beat than Charles Oliveira after UFC 317 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/07/01/arman-tsarukyan-shockingly-claims-ilia-topuria-will-be-easier-to-beat-than-charles-oliveira-after-ufc-317/"
+      "title": "Sophie Cunningham ruffles feathers with curious comments about WNBA expansion cities - New York Post",
+      "link": "https://nypost.com/2025/07/01/sports/sophie-cunningham-ruffles-feathers-with-comments-about-wnba-expansion-cities/"
     },
     {
       "title": "Taylor Fritz blames Wimbledon opponent Giovanni Mpetshi Perricard in curfew controversy - New York Post",
       "link": "https://nypost.com/2025/07/01/sports/taylor-fritz-blames-giovanni-mpetshi-perricard-in-wimbledon-curfew-drama/"
     },
     {
-      "title": "Ducks Sign Mikael Granlund to Three-Year Contract - NHL.com",
-      "link": "https://www.nhl.com/ducks/news/ducks-sign-granlund-to-three-year-contract"
+      "title": "Gauff 'mentally overwhelmed,' falls at Wimbledon - ESPN",
+      "link": "https://www.espn.com/tennis/story/_/id/45634161/no-2-gauff-upset-first-round-wimbledon-yastremska"
     },
     {
       "title": "Oklahoma City Thunder Medical Update - NBA",
@@ -142,32 +166,12 @@
       "link": "https://www.miamiherald.com/sports/nba/miami-heat/article309794940.html"
     },
     {
-      "title": "Nike Stock Keeps Rising. Caitlin Clark Is Helping - Yahoo Finance",
-      "link": "https://www.investopedia.com/nike-stock-keeps-rising-caitlin-clark-is-helping-11764455"
-    },
-    {
-      "title": "Vladislav Gavrikov Signing a Solid Start for Rangers' Offseason, But More Must Be Done - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25220717-vladislav-gavrikov-signing-solid-start-rangers-offseason-more-must-be-done"
-    },
-    {
-      "title": "Something's Missing at Wimbledon - Newser",
-      "link": "https://www.newser.com/story/371204/somethings-missing-at-wimbledon.html"
-    },
-    {
-      "title": "Dallas Stars name Neil Graham as assistant coach - NHL.com",
-      "link": "https://www.nhl.com/stars/news/dallas-stars-name-neil-graham-as-assistant-coach-070125"
-    },
-    {
       "title": "Caitlin Clark dominates WNBA All-Star fan vote \u2014 but players vote her ninth among guards - NBC News",
       "link": "https://www.nbcnews.com/sports/wnba/caitlin-clark-wnba-all-star-fan-peer-vote-rcna216236"
     },
     {
-      "title": "Flyers Agree to Terms With Goaltender Dan Vladar | Philadelphia Flyers - NHL.com",
-      "link": "https://www.nhl.com/flyers/news/flyers-agree-to-terms-with-goaltender-dan-vladar"
-    },
-    {
-      "title": "Tight end Darren Waller coming out of retirement, traded to Miami Dolphins - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/tight-end-darren-waller-coming-out-of-retirement-traded-to-miami-dolphins-152215780.html"
+      "title": "Rangers sign Vladislav Gavrikov to seven-year, $49 million contract in NHL free agency splash - New York Post",
+      "link": "https://nypost.com/2025/07/01/sports/rangers-sign-vladislav-gavrikov-for-49m-in-nhl-free-agency/"
     }
   ],
   "weather": {
