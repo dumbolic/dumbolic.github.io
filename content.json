@@ -1,9 +1,9 @@
 {
-  "quote": "Common sense is not so common.  \u2013 Voltaire",
-  "fact": "There are two credit cards for every person in the United States.",
-  "crypto": "BTC: $109,489 | ETH: $2,576.33",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the barber win the race? He took a short cut.",
+  "quote": "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness. \u2013 Steve Maraboli",
+  "fact": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
+  "crypto": "BTC: $109,556 | ETH: $2,578.27",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What don't watermelons get married? Because they cantaloupe.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iPhone 17 Pro's New MagSafe Design Revealed in Leaked Photo - MacRumors",
+      "link": "https://www.macrumors.com/2025/07/02/iphone-17-pro-new-magsafe-design/"
+    },
+    {
+      "title": "New Apple TV 4K could be launching at the best possible moment - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/02/new-apple-tv-4k-could-be-launching-at-the-best-possible-moment/"
+    },
+    {
+      "title": "A 22-Year-Old Tech Bro Built a Website That That Judges Diners by Their Looks. Obviously. - Eater New York",
+      "link": "https://ny.eater.com/new-york-restaurant-news/400110/looksmapping-most-attractive-diners-nyc-la-sf"
+    },
+    {
+      "title": "Behind the next Battlefield game: Culture clash, crunch, and colossal stakes - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/07/behind-the-next-battlefield-game-culture-clash-crunch-and-colossal-stakes/"
+    },
+    {
+      "title": "iPadOS 26 has turned the iPad Mini into a powerhouse - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/02/ipados-26-has-turned-the-ipad-mini-into-a-powerhouse/"
+    },
+    {
+      "title": "Google details Home app \u2018Member\u2019 role with limited access, support for children - 9to5Google",
+      "link": "http://9to5google.com/2025/07/02/google-home-member-role-invite/"
+    },
+    {
       "title": "Destiny 2\u2019s Kepler And Portal Have Some Big Issues, It Seems - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/07/02/destiny-2s-kepler-and-portal-have-some-big-issues-it-seems/"
     },
     {
       "title": "The Ultrahuman Ring Air Shamed Me Into Ditching Unhealthy Habits - CNET",
       "link": "https://www.cnet.com/tech/mobile/the-ultrahuman-ring-air-shamed-me-into-ditching-unhealthy-habits/"
+    },
+    {
+      "title": "Forget Amazon \u2014 Best Buy's early anti-Prime Day deals drop prices on laptops, PC hardware, Xbox gear, and more - Windows Central",
+      "link": "https://www.windowscentral.com/hardware/laptops/best-buy-anti-prime-day-deals"
     },
     {
       "title": "Honor launches the \u2018world\u2019s thinnest\u2019 foldable - The Verge",
@@ -32,6 +60,10 @@
       "link": "https://wccftech.com/amd-fsr4-ps5-pro-2026-rdna5/"
     },
     {
+      "title": "Xbox VR might be my handheld of choice - Polygon",
+      "link": "https://www.polygon.com/gaming/610167/xbox-vr-handheld-quest-3s-game-pass"
+    },
+    {
       "title": "17 early Prime Day deals that are at least 50% off now - Tom's Guide",
       "link": "https://www.tomsguide.com/sales-events/15-early-prime-day-deals-that-are-at-least-50-percent-off-now"
     },
@@ -40,8 +72,16 @@
       "link": "https://dailygalaxy.com/2025/07/the-u-s-wont-be-happy-xiaomis-new-chip-is-so-advanced-even-the-chinese-government-has-praised-it/"
     },
     {
+      "title": "PlayStation drops 3 free games you can download now in anniversary celebration - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-3-free-anniversary-games-download-now-036387-20250702"
+    },
+    {
       "title": "Subnautica developer Unknown Worlds loses leadership team - Game Developer",
       "link": "https://www.gamedeveloper.com/business/subnautica-developer-unknown-worlds-loses-leadership-team"
+    },
+    {
+      "title": "Apple and Meta are proving it: AI is going corporate - Yahoo Finance",
+      "link": "https://finance.yahoo.com/news/apple-and-meta-are-proving-it-ai-is-going-corporate-100035392.html"
     },
     {
       "title": "Brazil: Nintendo is now facing legal action over ability to brick Switch 2 console - My Nintendo News",
@@ -50,128 +90,88 @@
     {
       "title": "Apple Has Reportedly Halted Foldable iPad Development, Likely Due To Manufacturing Difficulties; Lack Of Sufficient Demand For Tablets And Potentially Expensive Price Also Leading Factors - Wccftech",
       "link": "https://wccftech.com/apple-foldable-ipad-development-halted-due-to-manufacturing-difficulties/"
-    },
-    {
-      "title": "There are plenty of reasons to be excited for the Pixel 10, but how will it compare to the Pixel 9? - Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-vs-pixel-9"
-    },
-    {
-      "title": "Mecha Break Review in Progress - IGN",
-      "link": "https://www.ign.com/articles/mecha-break-review"
-    },
-    {
-      "title": "Minecraft Is Updating Copper To \"Make It More Useful\" - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/07/minecraft-is-updating-copper-to-make-it-more-useful"
-    },
-    {
-      "title": "Best Buy 4th of July Sale Is Live - Save On Video Games, TV, Accessories, & More - GameSpot",
-      "link": "https://www.gamespot.com/articles/best-buy-4th-of-july-sale-is-live-save-on-video-games-tv-accessories-more/1100-6532894/"
-    },
-    {
-      "title": "The Best Early Prime Day Tech Deals Under $25 - Lifehacker",
-      "link": "https://lifehacker.com/tech/the-best-early-prime-day-tech-deals-under-25-dollars"
-    },
-    {
-      "title": "The biggest iPhone 17 mystery left could swing a lot of upgrade decisions - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/01/the-biggest-iphone-17-mystery-left-could-swing-a-lot-of-upgrade-decisions/"
-    },
-    {
-      "title": "Google makes it easier to let friends and kids control your smart home - The Verge",
-      "link": "https://www.theverge.com/news/696189/google-home-member-admin-kids-launch"
-    },
-    {
-      "title": "CoD Season 4 Reloaded Patch Notes Add Attachment Changes And Goofy Verdansk LTM - GameSpot",
-      "link": "https://www.gamespot.com/gallery/cod-season-4-reloaded-patch-notes-add-attachment-changes-and-goofy-verdansk-ltm/2900-6725/"
-    },
-    {
-      "title": "Android users can finally edit messages sent to iPhones, but there's a catch - Android Authority",
-      "link": "https://www.androidauthority.com/google-messages-edit-messages-sent-to-iphones-3573055/"
-    },
-    {
-      "title": "Google AI Mode Is Here: Chatbot Search Is Changing the Internet - Fingerlakes1.com",
-      "link": "https://www.fingerlakes1.com/2025/07/01/google-ai-mode-search-chatbot-rollout-479237889/"
     }
   ],
   "sports_news": [
     {
+      "title": "Top five NFL draft values of the millennium at safety: Ed Reed proved to be a real first-round steal - NFL.com",
+      "link": "https://www.nfl.com/news/top-five-nfl-draft-values-of-the-millennium-at-safety-ed-reed-proved-to-be-a-real-first-round-steal"
+    },
+    {
+      "title": "Joe Rogan blamed for botched face off between Ilia Topuria, Paddy Pimblett at UFC 317 \u2014 \u2018This is WWE\u2019 - MMAmania.com",
+      "link": "https://www.mmamania.com/2025/7/2/24460372/joe-rogan-blamed-botched-face-off-between-ilia-topuria-paddy-pimblett-ufc-317-not-sport-this-is-wwe"
+    },
+    {
+      "title": "Joe Starkey: Steelers clearly won the Minkah Fitzpatrick trade \u2014 but to what end? - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/joe-starkey/2025/07/02/nfl-minkah-fitzpatrick-trade-jalen-ramsey-steelers/stories/202507020050"
+    },
+    {
+      "title": "Damian Lillard buyout: Celtics among teams interested in star guard (report) - MassLive",
+      "link": "https://www.masslive.com/celtics/2025/07/damian-lillard-buyout-celtics-among-teams-interested-in-star-guard-report.html"
+    },
+    {
       "title": "Malik Beasley faces multimillion-dollar lawsuit, too - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-beasley-faces-multimillion-dollar-lawsuit-too"
+    },
+    {
+      "title": "Bills first-rounder Maxwell Hairston is sued for sexual assault - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-first-rounder-maxwell-hairston-is-sued-for-sexual-assault"
+    },
+    {
+      "title": "Halfway to the Century Mark, Boyd Again, Kelly Hot, I-Cub Relievers, and Other Cubs Bullets - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/07/02/cubs-boyd-winning/"
+    },
+    {
+      "title": "Checking In On Top Remaining NBA Free Agents - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/07/checking-in-on-top-remaining-nba-free-agents-4.html"
     },
     {
       "title": "Queensland Reds 12-52 British and Irish Lions: Tourists score eight tries - BBC",
       "link": "https://www.bbc.com/sport/rugby-union/articles/cj9vwekzmddo"
     },
     {
+      "title": "Multiple Grand Slam winner left \u2018bemused\u2019 by what Alexander Zverev did in his shock first round exit at Wimbledon - The Tennis Gazette",
+      "link": "https://www.thetennisgazette.com/news/multiple-grand-slam-winner-left-bemused-by-what-alexander-zverev-did-in-his-shock-first-round-exit-at-wimbledon/"
+    },
+    {
       "title": "What is the weather forecast for the British GP? - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2025-british-grand-prix.2nyy8yM2a9ZODjYrWJA5Wf"
+    },
+    {
+      "title": "Indiana Fever win WNBA Commissioner\u2019s Cup without injured Caitlin Clark - CNN",
+      "link": "https://www.cnn.com/2025/07/02/sport/indiana-fever-wnba-commissioners-cup-caitlin-clark-spt"
     },
     {
       "title": "What is at stake in the Max Verstappen and Mercedes F1 situation - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/what-is-at-stake-in-the-max-verstappen-and-mercedes-f1-situation/10738516/"
     },
     {
+      "title": "Introducing the 'Bag' Hall of Fame: Eight NFL stars who got PAID, over and over and over again - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45616308/nfl-hall-fame-bag-highest-paid-contracts-cousins-revis-stafford-deion-sanders"
+    },
+    {
+      "title": "K\u2019Andre Miller traded to Hurricanes by Rangers, signs 8-year, $60 million contract - NHL.com",
+      "link": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract"
+    },
+    {
       "title": "UPenn updates swimming records to settle with feds on transgender athletes case - NPR",
       "link": "https://www.npr.org/2025/07/02/nx-s1-5454369/upenn-swimming-records-feds-transgender-athletes"
     },
     {
-      "title": "The hottest and freshest NBA free agency and trade talk - Marc Stein | Substack",
-      "link": "https://marcstein.substack.com/p/the-hottest-and-freshest-nba-free"
+      "title": "Top remaining NHL free agents: The best 2025 UFAs still on the board - Daily Faceoff",
+      "link": "https://www.dailyfaceoff.com/news/top-remaining-2025-nhl-free-agents-ufas-still-available"
+    },
+    {
+      "title": "With Ehlers Reportedly in Sight, Avalanche Smartly Play the Waiting Game - Colorado Hockey Now",
+      "link": "https://coloradohockeynow.com/2025/07/01/with-ehlers-reportedly-in-sight-avalanche-smartly-play-the-waiting-game/"
     },
     {
       "title": "Coco Gauff is the latest high seed to fall at a topsy-turvy Wimbledon - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/07/01/coco-gauff-wimbledon-upset-dayana-yastremska/"
     },
     {
-      "title": "After slow start to free agency, where do Lakers, LeBron James go from here? - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/after-slow-start-to-free-agency-where-do-lakers-lebron-james-go-from-here"
-    },
-    {
       "title": "Yoshinobu Yamamoto and the Dodgers cruise past the White Sox - Yahoo Sports",
       "link": "https://sports.yahoo.com/article/yoshinobu-yamamoto-dodgers-cruise-past-044722173.html"
-    },
-    {
-      "title": "Caitlin Clark-less Fever rip Lynx to capture WNBA Commissioner\u2019s Cup - New York Post",
-      "link": "https://nypost.com/2025/07/02/sports/caitlin-clark-less-fever-rip-lynx-to-capture-commissioners-cup/"
-    },
-    {
-      "title": "NCAA\u2019s House settlement era begins, shaking up college athletics as some schools opt out - AP News",
-      "link": "https://apnews.com/article/ncaa-settlement-opt-outs-8689d58826e7ace7e9ec2f4b06c6ace3"
-    },
-    {
-      "title": "NHL Free Agent Tracker - NHL.com",
-      "link": "https://www.nhl.com/news/free-agency-signings-nhl-2025-26"
-    },
-    {
-      "title": "Red Panda Down: Iconic NBA Performer Falls Off 7-Foot Unicycle At Halftime - Deadline",
-      "link": "http://deadline.com/2025/07/red-panda-falls-nba-halftime-performer-1236447459/"
-    },
-    {
-      "title": "Marner thrilled to be with 'unbelievable' Knights - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/45636920/marner-vegas-remains-committed-hoist-stanley-cup"
-    },
-    {
-      "title": "Grizzlies' Jackson injured after signing $240M extension - theScore.com",
-      "link": "https://thescore.com/nba/news/3306970"
-    },
-    {
-      "title": "Cam Heyward reacts to Minkah Fitzpatrick trade - Behind the Steel Curtain",
-      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/2025/7/1/24460011/cam-heyward-reacts-to-minkah-fitzpatrick-trade-pittsburgh-steelers-miami-dolphins-nfl"
-    },
-    {
-      "title": "D-backs ban ticket holder after game interference - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/45636526/diamondbacks-ban-season-ticket-holder-interference"
-    },
-    {
-      "title": "Yordan Alvarez Shut Down Due To Setback With Hand Injury - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/07/yordan-alvarez-shut-down-due-to-setback-with-hand-injury.html"
-    },
-    {
-      "title": "Rangers Agree to Terms with Vladislav Gavrikov - NHL.com",
-      "link": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-vladislav-gavrikov"
-    },
-    {
-      "title": "It only took one day for Cleveland\u2019s WNBA team to find their Joakim Noah - Fear The Sword",
-      "link": "https://www.fearthesword.com/2025/7/1/24459967/wnba-cleveland-indiana-fever-sophie-cunningham-caitlyn-clark-joakim-noah-cavs-cleveland-cavaliers"
     }
   ],
   "weather": {
