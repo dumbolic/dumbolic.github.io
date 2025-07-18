@@ -1,9 +1,9 @@
 {
-  "quote": "The less you open your heart to others, the more your heart suffers. \u2013 Deepak Chopra",
-  "fact": "An ostrich`s eye is bigger than its brain. \u00a0",
-  "crypto": "BTC: $117,828 | ETH: $3,572.82",
+  "quote": "You're on earth. There's no cure for that. \u2013 Samuel Beckett",
+  "fact": "The Human eyes never grow, but nose and ears never stop growing.",
+  "crypto": "BTC: $117,885 | ETH: $3,570.93",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
+  "joke": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Sony is still stubborn about the size of its cameras - The Verge",
+      "link": "https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen"
+    },
+    {
+      "title": "Destiny 2 Desert Perpetual Raid Loot Leaks Online: Exotic Weapon, Legendary Weapons, Armor Sets, Title, Emblems & More - The Game Post",
+      "link": "https://thegamepost.com/destiny-2-desert-perpetual-raid-loot-leaks/"
+    },
+    {
+      "title": "Samsung Galaxy Watch 8 Review: The Best Wearable AI - PCMag",
+      "link": "https://www.pcmag.com/reviews/samsung-galaxy-watch-8"
+    },
+    {
+      "title": "Slack says its AI can make sense of your company\u2019s jargon - The Verge",
+      "link": "https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant"
+    },
+    {
       "title": "Everything we learned from a week with Apple CarPlay Ultra - Ars Technica",
       "link": "https://arstechnica.com/cars/2025/07/everything-we-learned-from-a-week-with-apple-carplay-ultra/"
     },
     {
-      "title": "Studio behind Oblivion Remastered, one of 2025's biggest hits, subject to mass layoffs - report - Eurogamer",
-      "link": "https://www.eurogamer.net/studio-behind-oblivion-remastered-one-of-2025s-biggest-hits-subject-to-mass-layoffs-report"
+      "title": "I tested a new browser that makes Chrome feel outdated - Android Authority",
+      "link": "https://www.androidauthority.com/perplexity-comet-hands-on-3577968/"
+    },
+    {
+      "title": "Review: RoboCop: Rogue City - Unfinished Business (PS5) - Standalone Mini-Sequel Just Misses the Mark - Push Square",
+      "link": "https://www.pushsquare.com/reviews/ps5/robocop-rogue-city-unfinished-business"
     },
     {
       "title": "One Tech Tip: How to clean your computer, earbuds and smartphone - AP News",
       "link": "https://apnews.com/article/tech-cleaning-smartphone-computer-48a98c0de897e5280a5fd83b072e6284"
     },
     {
-      "title": "Apple\u2019s new daily puzzle game is basically Emoji Wordle - Polygon",
-      "link": "https://www.polygon.com/news/613453/emoji-game-new-apple-news-game"
+      "title": "Apple News+ launches clever new \u2018Emoji Game\u2019 for iOS 18.4 and later - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/16/emoji-game-ios-apple-news/"
     },
     {
       "title": "Microsoft is saving millions with AI and laying off thousands - where do we go from here? - ZDNET",
       "link": "https://www.zdnet.com/article/microsoft-is-saving-millions-with-ai-and-laying-off-thousands-where-do-we-go-from-here/"
+    },
+    {
+      "title": "Icon elements inspired by the Donkey Kong Bananza game are here for a limited time! - Nintendo",
+      "link": "https://www.nintendo.com/us/whatsnew/icon-elements-inspired-by-the-donkey-kong-bananza-game-are-here-for-a-limited-time/"
     },
     {
       "title": "Subnautica 2\u2019s creators sue their publisher for \u2018severely\u2019 damaging the game\u2019s release - The Verge",
@@ -40,58 +64,66 @@
       "link": "https://www.purexbox.com/news/2025/07/xbox-summer-sale-2025-now-live-1000plus-games-discounted"
     },
     {
-      "title": "Donkey Kong Switch Games Are Getting Price Cuts Alongside the Release of Bananza - IGN",
-      "link": "https://www.ign.com/articles/donkey-kong-switch-games-are-getting-price-cuts-alongside-the-release-of-bananza"
-    },
-    {
-      "title": "I want an iPhone Mini-sized Android phone (2022) - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d44586723"
-    },
-    {
       "title": "Nintendo is taking desperate measures in patent infringement case against Palworld \u2014 and it's looking a little weird - Windows Central",
       "link": "https://www.windowscentral.com/gaming/nintendo-is-taking-desperate-measures-in-patent-infringement-case-against-palworld-and-its-looking-a-little-weird"
     },
     {
-      "title": "New iPhone Fold rumors claim more affordable price, ultra-thin hardware - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/16/new-iphone-fold-rumors-claim-more-affordable-price-ultra-thin-hardware/"
+      "title": "New Pixel Watch 4 leak details even more hardware upgrades ahead of next month's launch - Android Authority",
+      "link": "https://www.androidauthority.com/pixel-watch-4-specs-revealed-early-3578146/"
     },
     {
-      "title": "Nothing Phone (3) teardown reveals a surprisingly sturdy, repairable smartphone - 9to5Google",
-      "link": "http://9to5google.com/2025/07/16/nothing-phone-3-teardown-sturdy-repairable/"
+      "title": "Foldable iPhone's Thickness and Price Range Detailed in New Reports - MacRumors",
+      "link": "https://www.macrumors.com/2025/07/16/foldable-iphone-thickness-and-price-rumors/"
     },
     {
-      "title": "Cyberpunk 2077's 2.3 update wants you to relax and take in the Night City sights with new self-driving cars - Eurogamer",
-      "link": "https://www.eurogamer.net/cyberpunk-2077s-23-update-wants-you-to-relax-and-take-in-the-night-city-sights-with-new-self-driving-cars"
+      "title": "Google Nest Aware and Aware Plus getting a price increase in August - 9to5Google",
+      "link": "http://9to5google.com/2025/07/16/nest-aware-price-2025/"
     },
     {
       "title": "YouTuber faces jail time for showing off Android-based gaming handhelds - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/"
-    },
-    {
-      "title": "Deals for Today: Switch 2 Invites Open Up On Amazon And Destined Rivals Is Now Below Market Value - IGN",
-      "link": "https://www.ign.com/articles/deals-for-today-switch-2-invites-open-up-on-amazon-and-destined-rivals-is-now-below-market-value"
-    },
-    {
-      "title": "The Galaxy Watch 8 gets a key battery health feature that more smartwatches need - Android Authority",
-      "link": "https://www.androidauthority.com/galaxy-watch-8-battery-protection-3578152/"
-    },
-    {
-      "title": "PS Direct\u2019s Summer Sale Has Some of the Best PS5 Console & Game Deals I\u2019ve Seen in Ages - IGN",
-      "link": "https://www.ign.com/articles/ps-direct-summer-sale-ps5-console-game-deals"
-    },
-    {
-      "title": "Razer Launches Thunderbolt 5 Dock Chroma With 10 Ports and Up to 8TB Internal SSD Expansion - MacRumors",
-      "link": "https://www.macrumors.com/2025/07/16/razer-thunderbolt-5-dock-chroma-full-mac-support/"
     }
   ],
   "sports_news": [
     {
-      "title": "Former Texans, Eagles LB Bryan Braman dies at age 38 - 6abc Philadelphia",
-      "link": "https://www.espn.com/nfl/story/_/id/45760225/former-texans-eagles-lb-bryan-braman-dies-age-38?ex_cid=espnapi_affiliate_abcotv"
+      "title": "Tour de France stage 12 LIVE - Remco Evenepoel dropped as the riders climb the first mountain of the Pyrenees - Cyclingnews",
+      "link": "https://www.cyclingnews.com/races/tour-de-france-2025/stage-12/live-report/"
+    },
+    {
+      "title": "Micah Parsons: Cowboys are making contract more complicated than it has to be - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-cowboys-are-making-contract-more-complicated-than-it-has-to-be"
+    },
+    {
+      "title": "Inside the Sauce Gardner deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-sauce-gardner-deal"
+    },
+    {
+      "title": "Concerns grow over Najee Harris after health update from fireworks incident: \u2018Extremely strange\u2019 - New York Post",
+      "link": "https://nypost.com/2025/07/17/sports/concerns-grow-over-najee-harris-after-update-from-fireworks-incident/"
+    },
+    {
+      "title": "Report: President Trump is \"actively working\" on an NIL executive order - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-president-trump-is-actively-working-on-an-nil-executive-order"
+    },
+    {
+      "title": "Bill Belichick, Robert Kraft continue to be at odds - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-robert-kraft-continue-to-be-at-odds"
+    },
+    {
+      "title": "Scottsdale PD investigating 'high-end' burglary of home belonging to D-backs star Ketel Marte - ABC15 Arizona",
+      "link": "https://www.abc15.com/news/local-news/scottsdale-pd-investigating-high-end-burglary-of-home-belonging-to-d-backs-star-ketel-marte"
+    },
+    {
+      "title": "Former Texans, Eagles LB Braman dies at 38 - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45760225/former-texans-eagles-lb-bryan-braman-dies-age-38"
     },
     {
       "title": "Hugo Ekitike: Liverpool close in on Eintracht Frankfurt striker in \u00a370m-plus - BBC",
       "link": "https://www.bbc.com/sport/football/articles/c1lj15rg412o"
+    },
+    {
+      "title": "Should we have been surprised? A look back at the season's first-half predictions - ESPN",
+      "link": "https://www.espn.com/fantasy/baseball/story/_/id/45755229/fantasy-baseball-espn-news-mlb-surprised-2025-july-17"
     },
     {
       "title": "The Open 2025 leaderboard live updates: Golf scores, Open Championship coverage, Round 1 at Royal Portrush - CBS Sports",
@@ -102,16 +134,24 @@
       "link": "https://www.cyclingnews.com/news/this-feels-very-scary-tobias-halland-johannessen-reveals-extent-of-threats-following-tadej-pogacars-tour-de-france-crash/"
     },
     {
+      "title": "Terence Crawford Sums Up Daniel Dubois Chances Of Beating Usyk In Just 3 Words - secondsout.com",
+      "link": "https://www.secondsout.com/news/crawford-on-dubois-chances-of-beating-usyk/"
+    },
+    {
+      "title": "Olivia Smith: Arsenal sign Liverpool forward for world record \u00a31m fee - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c3r9yz5x3w5o"
+    },
+    {
       "title": "Who is leading The 153rd Open? - The Open",
       "link": "https://www.theopen.com/latest/who-is-leading-the-open-royal-portrush"
     },
     {
-      "title": "ESPY Awards Shower Kudos on Women as Host Shane Gillis Delivers Edgy Jokes About Female Athletes - Variety",
-      "link": "https://variety.com/2025/tv/news/espy-awards-shane-gillis-monologue-female-athletes-1236463404/"
+      "title": "Opportunity wasted: Sounders settle for 3-3 draw - Sounder at Heart",
+      "link": "https://www.sounderatheart.com/2025/07/sounders-vs-rapids-recap-2/"
     },
     {
-      "title": "Second-rounder Alfred Collins, the 43rd overall pick, agrees to terms - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/second-rounder-alfred-collins-the-43rd-overall-pick-agrees-to-terms"
+      "title": "Sources: 49ers' Collins third Round 2 pick in fold - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45759250/sources-49ers-give-rookie-dt-alfred-collins-9m-guaranteed"
     },
     {
       "title": "Shai Gilgeous-Alexander and Simone Biles win top honors at ESPYS - AP News",
@@ -120,50 +160,6 @@
     {
       "title": "Eagles win Best Team at 2025 ESPYs - Philadelphia Eagles",
       "link": "https://www.philadelphiaeagles.com/news/eagles-win-best-team-at-2025-espys"
-    },
-    {
-      "title": "Turnberry won\u2019t be hosting British Open soon \u2014 but it\u2019s not because Trump - New York Post",
-      "link": "https://nypost.com/2025/07/16/sports/donald-trump-not-reason-for-no-british-open-at-turnberry-mark-darbon/"
-    },
-    {
-      "title": "Column | Terry McLaurin set a standard. Take care of him, Commanders. - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/07/16/terry-mclaurin-washington-commanders-contract/"
-    },
-    {
-      "title": "Full list of every ESPYS 2025 Award winner - ESPN",
-      "link": "https://www.espn.com/espys/story/_/page/voting202507/espys-2025-award-winners-saquon-barkley-caitlin-clark"
-    },
-    {
-      "title": "D.C. United officially names Ren\u00e9 Weiler its new coach - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/07/16/rene-weiler-dc-united-coach/"
-    },
-    {
-      "title": "Police: Ketel Marte's house burglarized during All-Star Game - Arizona Sports",
-      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/ketel-marte-house/3590383/"
-    },
-    {
-      "title": "2025 MLB ASG Draws 7.2M Viewers as Most-Watched All-Star Event in Sports - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25226818-2025-mlb-asg-draws-72m-viewers-most-watched-all-star-event-sports"
-    },
-    {
-      "title": "Jon Jones wants to face \u2018whoever\u2019s holding the belt\u2019 at heavyweight on UFC White House card - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/7/16/24469023/jon-jones-wants-to-face-whoevers-holding-the-belt-at-heavyweight-on-ufc-white-house-card"
-    },
-    {
-      "title": "Caitlin Clark Injury: Fever Provide Status Update for Game vs. Liberty - Sports Illustrated",
-      "link": "https://www.si.com/wnba/caitlin-clark-injury-fever-provide-status-update-for-game-vs-liberty"
-    },
-    {
-      "title": "Why Sonics\u2019 return wasn\u2019t buoyed by NBA\u2019s latest announcement | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/sonics/why-sonics-return-wasnt-buoyed-by-nbas-latest-announcement-analysis/"
-    },
-    {
-      "title": "Olympic bronze medalist Audun Groenvold dead at 49 after being struck by lightning - Yahoo Sports",
-      "link": "https://sports.yahoo.com/olympics/article/olympic-bronze-medalist-audun-groenvold-dead-at-49-after-being-struck-by-lightning-184542673.html"
-    },
-    {
-      "title": "Yes, President Trump took the Club World Cup Trophy. Here\u2019s why. - Yahoo Sports",
-      "link": "https://www.wearethemighty.com/entertainment/trump-club-world-cup-trophy/"
     }
   ],
   "weather": {
