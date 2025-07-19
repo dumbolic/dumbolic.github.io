@@ -1,9 +1,9 @@
 {
-  "quote": "If there's a definition of freedom, I think it's this: living life on your terms. \u2013 Kamal Ravikant",
-  "fact": "Only 6 people in the whole world have died from moshing.",
-  "crypto": "BTC: $117,915 | ETH: $3,538.87",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
+  "quote": "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man. \u2013 Mark Twain",
+  "fact": "The highest per capita Jell-O comsumption in the US is Des Moines.",
+  "crypto": "BTC: $118,080 | ETH: $3,543.67",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nintendo bringing back Switch Online: Playtest Program - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-online-playtest-program-july-2025/"
+    },
+    {
       "title": "Google rolling out Android 16 QPR1 Beta 3 for Pixel - 9to5Google",
       "link": "http://9to5google.com/2025/07/17/android-16-qpr1-beta-3-pixel/"
     },
     {
-      "title": "The Pixel Watch 4 might not become e-waste if you damage it - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/07/the-pixel-watch-4-might-not-become-e-waste-if-you-damage-it/"
+      "title": "Anthropic tightens usage limits for Claude Code \u2013 without telling users - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/"
+    },
+    {
+      "title": "How Long Is Donkey Kong Bananza: Full Chapter List And Hours To Beat - GameSpot",
+      "link": "https://www.gamespot.com/articles/how-long-is-donkey-kong-bananza-full-chapter-list-and-hours-to-beat/1100-6533248/"
     },
     {
       "title": "Evo 2025 Competitors: By the Numbers - Evo 2025",
       "link": "https://evo.gg/news/evo-2025-competitors-by-the-numbers/"
     },
     {
-      "title": "Samsung\u2019s Odyssey 3D monitor delivers great glasses-free 3D for a handful of games - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/07/samsungs-odyssey-3d-monitor-delivers-great-glasses-free-3d-for-a-handful-of-games/"
+      "title": "Gabe Newell's Daily Routine Sounds Very Legit - GameSpot",
+      "link": "https://www.gamespot.com/articles/gabe-newells-daily-routine-sounds-very-legit/1100-6533251/"
     },
     {
       "title": "Donkey Kong Bananza gets a launch day discount at Costco - The Verge",
@@ -36,14 +44,6 @@
       "link": "https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025"
     },
     {
-      "title": "Android Phones Can Detect Earthquakes Before the Ground Starts Shaking - Gizmodo",
-      "link": "https://gizmodo.com/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking-2000629636"
-    },
-    {
-      "title": "These new emoji are coming to your iPhone in iOS 26 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/17/these-new-emoji-are-coming-to-your-iphone-in-ios-26/"
-    },
-    {
       "title": "The Most Egregious Emmys Snub of the Year Reflects a Disturbing Trend in TV Awards - Slate Magazine",
       "link": "https://slate.com/culture/2025/07/emmy-nominations-2025-awards-snubs-hbo-tv.html"
     },
@@ -52,54 +52,70 @@
       "link": "https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494"
     },
     {
-      "title": "33.0.3 Patch Notes \u2014 Hearthstone - Blizzard News",
-      "link": "https://news.blizzard.com/en-us/article/24224212/33-0-3-patch-notes"
+      "title": "The next batch of emoji includes Bigfoot - The Verge",
+      "link": "https://www.theverge.com/news/709179/emoji-17-0-bigfoot-apple-core-orca-treasure-chest-trombone-dancer"
+    },
+    {
+      "title": "33.0.3 Patch Notes - Hearthstone",
+      "link": "https://playhearthstone.com/en-gb/blog/24224212/"
+    },
+    {
+      "title": "Three Games Are Available Today With Xbox Game Pass (July 17) - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/07/three-games-are-available-today-with-xbox-game-pass-july-17"
     },
     {
       "title": "iPhone 17 Pro renders reveal new orange and blue colors, more - 9to5Mac",
       "link": "https://9to5mac.com/2025/07/17/iphone-17-pro-renders-reveal-new-orange-and-blue-colors-more/"
     },
     {
+      "title": "Solar-powered 236-foot 'Skydweller' aircraft flies for mind-boggling 90 DAYS without stopping - The US Sun",
+      "link": "https://www.the-sun.com/tech/14744170/solar-powered-skydweller-aircraft-drone-fly-90-days/"
+    },
+    {
       "title": "AMD\u2019s new 96-core Threadripper CPU will set you back $11,699 - The Verge",
       "link": "https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability"
+    },
+    {
+      "title": "Civilization VI Platinum Edition free on EGS for a week, runs on Radeon HD 7970 or better - VideoCardz.com",
+      "link": "https://videocardz.com/newz/civilization-vi-platinum-edition-free-on-egs-for-a-week-runs-on-radeon-hd-7970-or-better"
     },
     {
       "title": "Gigantamax Butterfree Max Battle Day - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/event/gigantamax-butterfree-max-battle-day/"
     },
     {
-      "title": "Fitbit was down \u2014 live updates on the outage - Tom's Guide",
-      "link": "https://www.tomsguide.com/news/live/fitbit-outage-july-17-2025"
-    },
-    {
-      "title": "Apple launches new emoji word game to take on Wordle and the NYT - The Verge",
-      "link": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle"
-    },
-    {
-      "title": "Cyberpunk 2077 Update 2.3 Notes: New Auto-Driving Cars, Improved Photo Mode, And More - GameSpot",
-      "link": "https://www.gamespot.com/articles/cyberpunk-2077-update-2-3-notes-new-auto-driving-cars-improved-photo-mode-and-more/1100-6533203/"
-    },
-    {
-      "title": "Reviewing retro gaming handhelds may land YouTuber in jail - Eurogamer",
-      "link": "https://www.eurogamer.net/reviewing-retro-gaming-handhelds-may-land-youtuber-in-jail"
-    },
-    {
-      "title": "A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action - The Verge",
-      "link": "https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man"
+      "title": "Pixel Watch 4 may finally allow for repairs, but the details are incredibly vague - 9to5Google",
+      "link": "http://9to5google.com/2025/07/17/google-pixel-watch-4-repair-report/"
     }
   ],
   "sports_news": [
     {
-      "title": "Sources: Lillard finalizing return to Trail Blazers - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45765001/sources-damian-lillard-finalizing-deal-return-trail-blazers"
+      "title": "Micah Parsons is next up to become the highest paid non-quarterback - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-is-next-up-to-become-the-highest-paid-non-quarterback"
+    },
+    {
+      "title": "Veteran RHP Gibson retires after 13-year career - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/45765506/veteran-rhp-kyle-gibson-retires-13-year-career"
+    },
+    {
+      "title": "Six Gunners involved in Euro quarter-final chaos | International | News - Arsenal.com",
+      "link": "https://www.arsenal.com/news/six-gunners-involved-euro-quarter-final-chaos"
+    },
+    {
+      "title": "Felix Baumgartner, extreme athlete, dies in paragliding crash in Italy - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/7/17/felix-baumgartner-extreme-athlete-dies-in-paragliding-crash-in-italy"
+    },
+    {
+      "title": "Damian Lillard, Trail Blazers strike a deal for veteran guard\u2019s return to Portland - OregonLive.com",
+      "link": "https://www.oregonlive.com/sports/2025/07/damian-lillard-deep-in-discussions-with-trail-blazers-about-possible-return-bill-oram.html"
+    },
+    {
+      "title": "The Open 2025 leaderboard: Matt Fitzpatrick tied on top with Scottie Scheffler, Rory McIlroy, Jon Rahm in hunt - CBS Sports",
+      "link": "https://www.cbssports.com/golf/news/the-open-2025-leaderboard-matt-fitzpatrick-tied-on-top-with-scottie-scheffler-rory-mcilroy-jon-rahm-in-hunt/live/"
     },
     {
       "title": "Report: Rashee Rice settles one of the civil cases against him - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rashee-rice-settles-one-of-the-civil-cases-against-him"
-    },
-    {
-      "title": "Texas A&M coach Mike Elko: \"No intentions\" of Shemar Stewart returning to Aggies - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texas-a-m-coach-mike-elko-no-intentions-of-shemar-stewart-returning-to-aggies"
     },
     {
       "title": "Steelers, T.J. Watt agree to three-year contract extension - NBC Sports",
@@ -118,12 +134,8 @@
       "link": "https://www.espn.com/college-sports/story/_/id/45764381/donald-trump-considers-executive-order-ncaa-athletes-employment-status"
     },
     {
-      "title": "The Open 2025 leaderboard live updates: Golf scores, Open Championship coverage, Round 1 at Royal Portrush - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/the-open-2025-leaderboard-matt-fitzpatrick-tied-on-top-with-scottie-scheffler-rory-mcilroy-jon-rahm-in-hunt/live/"
-    },
-    {
-      "title": "Extreme skydiver Baumgartner dies in paragliding accident - DW",
-      "link": "https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216"
+      "title": "Elko: Unsigned Bengals pick not returning to A&M - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45764247/coach-says-bengals-pick-shemar-stewart-not-returning-texas-am"
     },
     {
       "title": "Ex-ESPNer Sarah Spain slams Shane Gillis after polarizing ESPYs appearance - New York Post",
@@ -138,8 +150,8 @@
       "link": "https://www.nhl.com/ducks/news/ducks-sign-dostal-to-five-year-contract"
     },
     {
-      "title": "Mike Williams abruptly retires at 30 after forgettable Jets run - New York Post",
-      "link": "https://nypost.com/2025/07/17/sports/chargers-mike-williams-retiring-from-nfl-at-age-30/"
+      "title": "Caitlin Clark Out for 2025 WNBA All-Star Game, 3-Point Contest After Groin Injury - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25227002-caitlin-clark-out-2025-wnba-all-star-game-3-point-contest-after-groin-injury"
     },
     {
       "title": "Team of the Matchday: FC Cincinnati, Nashville SC produce statement wins - MLSsoccer.com",
@@ -148,18 +160,6 @@
     {
       "title": "Bears agree to terms with second-rounder Ozzy Trapilo - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-agree-to-terms-with-second-rounder-ozzy-trapilo"
-    },
-    {
-      "title": "Vikings WR Jordan Addison pleads no contest in DUI case, accepts 'wet reckless' deal - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/jordan-addison-dui-plea-deal-wet-reckless"
-    },
-    {
-      "title": "Caitlin Clark pulls out of All-Star weekend because of groin injury - AP News",
-      "link": "https://apnews.com/article/clark-all-star-wnba-0bb32ceaa24c8f6ec0fc076c9886ba60"
-    },
-    {
-      "title": "2025 Draft first-round signings tracker - MLB.com",
-      "link": "https://www.mlb.com/news/2025-draft-signing-and-bonus-tracker"
     },
     {
       "title": "Bradley Beal bids the Suns farewell on Instagram - Arizona Sports",
