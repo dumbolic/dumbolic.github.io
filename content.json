@@ -1,9 +1,9 @@
 {
-  "quote": "Mistakes are always forgivable, if one has the courage to admit them.  \u2013 Bruce Lee",
-  "fact": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
-  "crypto": "BTC: $118,061 | ETH: $3,614.74",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I used to think I was indecisive, but now I'm not sure.",
+  "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.   \u2013 Bruce Lee",
+  "fact": "The strongest muscle (Relative to size) in the body is the tongue.",
+  "crypto": "BTC: $118,151 | ETH: $3,679.1",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you call a dictionary on drugs? High definition.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Why AI is moving from chatbots to the browser - The Verge",
+      "link": "https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet"
+    },
+    {
+      "title": "Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/"
+    },
+    {
       "title": "Leaked iPhone 17 Air battery capacity reveals new model\u2019s biggest weakness - 9to5Mac",
       "link": "https://9to5mac.com/2025/07/18/leaked-iphone-17-air-battery-capacity-reveals-new-models-biggest-weakness/"
     },
     {
-      "title": "No, phishers are not bypassing FIDO MFA, at least not yet. Here\u2019s why. - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/07/no-phishers-are-not-bypassing-fido-mfa-at-least-not-yet-heres-why/"
+      "title": "The Big Summer Warhammer Preview Show 2025: Everything Announced - IGN",
+      "link": "https://www.ign.com/articles/the-big-summer-warhammer-preview-show-2025-everything-announced"
     },
     {
       "title": "watchOS 26: Four new features your Apple Watch might not support - 9to5Mac",
@@ -34,10 +42,6 @@
     {
       "title": "Playing Metal Gear Solid 3 Without Pressure-Sensitive Buttons Is Giving Me Literal Phantom Pains - Kotaku",
       "link": "https://kotaku.com/metal-gear-solid-ps2-ps3-analog-pressure-sensitive-1851786575"
-    },
-    {
-      "title": "Google is doing \u2018Gemini Drops\u2019 with new Productivity Planner Gem, more - 9to5Google",
-      "link": "http://9to5google.com/2025/07/18/gemini-drops-july/"
     },
     {
       "title": "Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot - TechCrunch",
@@ -74,52 +78,48 @@
     {
       "title": "Apple\u2019s 24GB 15-inch M4 MacBook Air now up to $179 off, more from $849 - 9to5Toys",
       "link": "http://9to5toys.com/2025/07/18/apple-silver-24gb-13-inch-m4-macbook-air/"
-    },
-    {
-      "title": "AMD Stock Slips on Threadripper Pro Pricing - TipRanks",
-      "link": "https://www.tipranks.com/news/amd-stock-slips-on-threadripper-pro-pricing"
-    },
-    {
-      "title": "Donkey Kong Bananza Fans Are Having Way Too Much Fun With Its Artist Mode - Kotaku",
-      "link": "https://kotaku.com/donkey-kong-bananza-artist-mode-mario-paint-switch-2-1851786555"
     }
   ],
   "sports_news": [
     {
-      "title": "Construction halted at new Tennessee Titans Stadium after noose found at site - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://abcnews.go.com/Sports/wireStory/construction-halted-new-tennessee-titans-stadium-after-noose-123879131"
+      "title": "Liberty's Ionescu claims 2nd 3-point contest title - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/45772294/liberty-sabrina-ionescu-wins-wnba-all-star-3-point-contest"
     },
     {
-      "title": "Shannon Sharpe Settles $$50 Million Rape Lawsuit - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/business/business-news/shannon-sharpe-settles-rape-lawsuit-1236320033/"
+      "title": "Diamondbacks Sign Sergio Alc\u00e1ntara, Place Ketel Marte On Restricted List Due To Personal Matter - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/diamondbacks-sign-sergio-alcantara-place-ketel-marte-on-restricted-list-due-to-personal-matter.html"
     },
     {
-      "title": "Ketel Marte going on restricted list, D-backs sign Sergio Alcantara for 6th time - Arizona Sports",
-      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/ketel-marte-restricted-list/3590492/"
+      "title": "Pat McAfee goes scorched earth on NFLPA, calls for \u2018dawg\u2019 to run show after resignation scandal - New York Post",
+      "link": "https://nypost.com/2025/07/18/sports/pat-mcafee-destroys-nflpas-leadership-after-resignation-scandal/"
+    },
+    {
+      "title": "Attorney: Lawsuit alleging rape by Sharpe settled - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45771533/lawsuit-accusing-shannon-sharpe-sexual-assault-settled-attorney-says"
+    },
+    {
+      "title": "Caitlin Clark will be 'active on the sidelines' during WNBA All-Star Game despite injury - ABC News",
+      "link": "https://abcnews.go.com/GMA/Culture/caitlin-clark-active-sidelines-despite-injury-cheer-team/story?id\\\\u003d123859940"
+    },
+    {
+      "title": "2025 NFL All-Breakout Team, Defense: Packers boast 2 selections in Lukas Van Ness and Edgerrin Cooper - NFL.com",
+      "link": "https://www.nfl.com/news/2025-nfl-all-breakout-team-defense-packers-boast-2-selections-in-lukas-van-ness-and-edgerrin-cooper"
     },
     {
       "title": "2025 Draft first-round signings tracker - MLB.com",
       "link": "https://www.mlb.com/news/2025-draft-signing-and-bonus-tracker"
     },
     {
-      "title": "NASCAR puts pause on Chicago Street Race for 2026 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/07/18/nascar-puts-pause-on-chicago-street-race-for-2026/"
+      "title": "Scottie Scheffler fires 64, takes lead into weekend at The Open - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-fires-64-takes-lead-into-weekend-at-the-open"
     },
     {
       "title": "Bears agree to fully guaranteed deal with No. 39 pick Luther Burden III - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-agree-to-fully-guaranteed-deal-with-no-39-pick-luther-burden-iii"
     },
     {
-      "title": "NFLPA boss Lloyd Howell Jr.\u2019s pricy strip club adventures exposed before resignation - New York Post",
-      "link": "https://nypost.com/2025/07/18/sports/lloyd-howell-jr-s-pricy-strip-club-adventures-exposed-before-nflpa-resignation/"
-    },
-    {
       "title": "Euro 2025: Spain ruthlessly ends Switzerland\u2019s spirited run in quarterfinals - Yahoo Sports",
       "link": "https://sports.yahoo.com/article/euro-2025-spain-ruthlessly-ends-205854251.html"
-    },
-    {
-      "title": "WNBA players rue 'wasted' CBA talks with league - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/45770877/wnba-players-stand-firm-wasted-cba-talks-league"
     },
     {
       "title": "Stratospheric Skydiver Felix Baumgartner Dies In Paragliding Accident At 56 - Deadline",
@@ -138,32 +138,24 @@
       "link": "https://www.arcaracing.com/2025/07/18/qualifying-results-general-tire-150-at-dover-motor-speedway-2/"
     },
     {
-      "title": "Docs: Bettor placed 30 wagers on Rozier unders - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/45768772/records-show-new-details-unusual-betting-nba-rozier"
+      "title": "Former UFC fan fave Sanchez facing gun charges - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/45770259/former-ufc-fan-favorite-diego-sanchez-facing-gun-charges"
     },
     {
-      "title": "Sabrina Ionescu Shows True Character With Message For Caitlin Clark - Yahoo Sports",
-      "link": "https://thespun.com/wnba/sabrina-ionescu-shows-true-character-with-message-for-caitlin-clark"
+      "title": "Paige Bueckers seemingly confirms relationship with Azzi Fudd - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/45769903/paige-bueckers-dallas-wings-azzi-fudd-uconn-huskies-girlfriend"
     },
     {
       "title": "'I'm paid to win, not give away races' - Tadej Poga\u010dar refuses to rule out fighting for more Tour de France stage victories - Cyclingnews",
       "link": "https://www.cyclingnews.com/news/im-paid-to-win-not-give-away-races-tadej-pogacar-refuses-to-rule-out-fighting-for-more-tour-de-france-stage-victories/"
     },
     {
-      "title": "2025 Preseason All-SEC Football Team announced - On3",
-      "link": "https://www.on3.com/news/2025-preseason-all-sec-football-team-announced/"
+      "title": "Noose found at the site of the new Nissan Stadium, police investigating - News Channel 5 Nashville",
+      "link": "https://www.newschannel5.com/news/noose-found-at-the-site-of-the-new-nissan-stadium-police-investigating"
     },
     {
-      "title": "Former Michigan stars: Mike Williams retired after one day of training camp with Jim Harbaugh - New York Post",
-      "link": "https://nypost.com/2025/07/18/sports/former-michigan-stars-mike-williams-retired-after-one-day-of-training-camp-with-jim-harbaugh/"
-    },
-    {
-      "title": "The Bradley Beal farewell showed us who we really are - Bright Side Of The Sun",
-      "link": "https://www.brightsideofthesun.com/2025/7/18/24469451/phoenix-suns-fanbase-toxic-bradley-beal-farewell-kevin-durant-accountability-nba-culture"
-    },
-    {
-      "title": "Ex-UFC fighter Diego Sanchez arrested on multiple gun charges, including felony for shooting at or from a motor vehicle - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/7/18/24470034/ex-ufc-fighter-diego-sanchez-arrested-multiple-gun-charges-felony-shooting-at-or-from-motor-vehicle"
+      "title": "Seahawks agree to terms with second-round pick Elijah Arroyo - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-agree-to-terms-with-second-round-pick-elijah-arroyo"
     }
   ],
   "weather": {
