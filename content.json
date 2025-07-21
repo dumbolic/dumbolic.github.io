@@ -1,16 +1,24 @@
 {
-  "quote": "The only reason to be alive is to enjoy it. \u2013 Rita Mae Brown",
-  "fact": "A spider has transparent blood.",
-  "crypto": "BTC: $118,828 | ETH: $3,799.18",
+  "quote": "Freedom is the open window through which pours the sunlight of the human spirit and human dignity. \u2013 Herbert Hoover",
+  "fact": "The name of the girl on the statue of liberty is Mother of Exiles.",
+  "crypto": "BTC: $119,465 | ETH: $3,795.39",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the cookie cry? It was feeling crumby.",
+  "joke": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, \u201csorry we don\u2019t serve spirits\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.BigMoon_EN-US5436003142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "iPhone 17 And iPhone 17 Air Unprecedented Design Changes Revealed In New Leak - Forbes",
+      "link": "https://www.forbes.com/sites/davidphelan/2025/07/20/apple-iphone-17-pro-definitive-new-leak-confirms-key-design-changes/"
+    },
+    {
+      "title": "Renewed iPad Pros pair nicely with iPadOS 26, and they\u2019re quite affordable right now - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/19/great-amazon-renewed-ipad-deals/"
+    },
     {
       "title": "Digital Extremes reveals new devil-themed Warframe, Uriel - Polygon",
       "link": "https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon"
@@ -18,6 +26,10 @@
     {
       "title": "Leaked image suggests the next Battlefield game will be called Battlefield 6 - and the reveal event is coming very soon - Eurogamer",
       "link": "https://www.eurogamer.net/leaked-image-suggests-the-next-battlefield-game-will-be-called-battlefield-6-and-the-reveal-event-is-coming-very-soon"
+    },
+    {
+      "title": "Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/"
     },
     {
       "title": "Soulframe is opening the doors to anyone who wants to play its alpha, but may miss its initial 2025 release window - Eurogamer",
@@ -36,24 +48,12 @@
       "link": "https://www.cnbc.com/2025/07/19/36-year-old-lives-in-truck-full-time-for-1305/month.html"
     },
     {
-      "title": "RAZER announces Pokemon Collection PC acceesories - VideoCardz.com",
-      "link": "https://videocardz.com/newz/razer-announces-pokemon-collection-pc-acceesories"
-    },
-    {
-      "title": "Ubisoft's own shareholders demand response to the Stop Killing Games consumer movement - Eurogamer",
-      "link": "https://www.eurogamer.net/ubisofts-own-shareholders-demand-response-to-the-stop-killing-games-consumer-movement"
-    },
-    {
       "title": "New York Lumber Baron's Private Island Retreat Hits the Market for $2.7 Million\u2014With a Historic 8-Bedroom Mansion - Realtor.com",
       "link": "https://www.realtor.com/news/unique-homes/private-island-new-york-sale/"
     },
     {
       "title": "Here\u2019s how to save on a Samsung Galaxy Z Fold 7 preorder - The Verge",
       "link": "https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date"
-    },
-    {
-      "title": "Switch 2 vs Steam Deck: testing Valve's OLED model against the new Nintendo hybrid - Eurogamer",
-      "link": "https://www.eurogamer.net/digitalfoundry-2025-switch-2-vs-steam-deck-how-do-these-gaming-handhelds-compare-in-terms-of-performance-battery-life-and-more"
     },
     {
       "title": "All right, that\u2019s plenty of Soulslikes - Polygon",
@@ -64,16 +64,16 @@
       "link": "https://9to5mac.com/2025/07/19/asus-proart-6k-for-mac-users-availability-august/"
     },
     {
+      "title": "A premiere with powerful sound and guaranteed eye-catchers - Nothing Headphone (1) review - Notebookcheck",
+      "link": "https://www.notebookcheck.net/A-premiere-with-powerful-sound-and-guaranteed-eye-catchers-Nothing-Headphone-1-review.1061817.0.html"
+    },
+    {
       "title": "Best tech gifts for travelers - Cult of Mac",
       "link": "https://www.cultofmac.com/buying-guides/gifts-for-travelers"
     },
     {
       "title": "Donkey Kong Bananza Ending Explained - How Does it Connect to Mario Odyssey? - IGN",
       "link": "https://www.ign.com/articles/donkey-kong-bananza-ending-explained-how-does-it-connect-to-mario-odyssey"
-    },
-    {
-      "title": "Top Stories: iPhone 17 Colors, iOS 26 Public Beta Incoming, and More - MacRumors",
-      "link": "https://www.macrumors.com/2025/07/19/top-stories-iphone-17-colors/"
     },
     {
       "title": "Here\u2019s Destiny 2\u2019s List Of Disabled Raid Race Gear As Broken Bugs Pile Up - Forbes",
@@ -94,40 +94,68 @@
   ],
   "sports_news": [
     {
-      "title": "Manny Pacquiao vs. Mario Barrios results, highlights: Fight ends in majority draw, Barrios retains title - CBS Sports",
-      "link": "https://www.cbssports.com/boxing/news/manny-pacquiao-vs-mario-barrios-results-highlights-fight-ends-in-majority-draw-barrios-retains-title/live/"
+      "title": "UFC 318 results, highlights: Max Holloway spoils Dustin Poirier's retirement with win over 'The Diamond' - CBS Sports",
+      "link": "https://www.cbssports.com/mma/news/ufc-318-results-highlights-max-holloway-spoils-dustin-poiriers-retirement-with-win-over-the-diamond/live/"
     },
     {
-      "title": "WNBA All-Stars make statement with warmup shirts over CBA - AP News",
-      "link": "https://apnews.com/article/allstar-game-cba-7d122d2e895b7a60926299a78498ebc8"
+      "title": "'I'm sick': Manny Pacquiao vs. Mario Barrios controversy sets off boxing world - Yahoo Sports",
+      "link": "https://sports.yahoo.com/boxing/breaking-news/article/im-sick-manny-pacquiao-vs-mario-barrios-controversy-sets-off-boxing-world-050416790.html"
+    },
+    {
+      "title": "Manny Pacquiao vs. Mario Barrios results: Sebastian Fundora tops Tim Tszyu again to retain WBC world title - Yahoo Sports",
+      "link": "https://sports.yahoo.com/boxing/breaking-news/article/pacquiao-vs-barrios-results-sebastian-fundora-tops-tim-tszyu-again-to-retain-wbc-world-title-032940799.html"
+    },
+    {
+      "title": "Mets\u2019 bats fail again in sloppy loss to Reds with Citi Field boo birds out in full force - New York Post",
+      "link": "https://nypost.com/2025/07/19/sports/mets-bats-fail-again-in-sloppy-loss-to-reds/"
+    },
+    {
+      "title": "Ex-NFLPA head reportedly spent union funds at Magic City - AJC.com",
+      "link": "https://www.ajc.com/sports/2025/07/ex-nflpa-head-reportedly-spent-union-funds-at-magic-city/"
+    },
+    {
+      "title": "Enhanced Box Score: Cubs 6, Red Sox 0 \u2013 July 19, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/07/19/enhanced-box-score-cubs-6-red-sox-0-july-19-2025/"
+    },
+    {
+      "title": "John Oliver\u2019s Erie Moon Mammoths debut in front of a record crowd - AP News",
+      "link": "https://apnews.com/article/john-oliver-erie-moon-mammoths-8909814abd7f3c6e9768200e858515cf"
+    },
+    {
+      "title": "Caitlin Clark, WNBA players wear 'Pay Us What You Owe Us' T-shirts at All\u2011Star warm-ups: How much do they make? - Hindustan Times",
+      "link": "https://www.hindustantimes.com/sports/us-sports/caitlin-clark-wnba-players-wear-pay-us-what-you-owe-us-t-shirts-at-all-star-warm-ups-how-much-do-they-make-101752973044463.html"
     },
     {
       "title": "Diamondbacks' Eugenio Suarez hits 2 HRs in win vs. Cardinals - Arizona Sports",
       "link": "https://arizonasports.com/mlb/arizona-diamondbacks/eugenio-suarez-11/3590631/"
     },
     {
+      "title": "Insider: Steelers' Omar Khan Is Not Done With Bold Moves Just Yet - Steeler Nation",
+      "link": "https://www.steelernation.com/2025/07/19/steelers-insider-omar-khan-done-bold"
+    },
+    {
       "title": "Shane Lowry\u2019s British Open has unceremoniously gone down the drain - New York Post",
       "link": "https://nypost.com/2025/07/19/sports/shane-lowrys-british-open-run-down-the-drain-after-penalty-sickness/"
     },
     {
-      "title": "Caitlin Clark's stylish arrival steals the WNBA All-Star spotlight - Yahoo Sports",
-      "link": "https://www.sportingnews.com/us/wnba/indiana-fever/news/caitlin-clarks-stylish-arrival-steals-wnba-all-star-spotlight/a05bbd2e7f70bd2a8d8eb1a8"
-    },
-    {
-      "title": "Prelim Results | UFC 318: Holloway vs Poirier 3 - UFC.com",
-      "link": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-318-holloway-vs-poirier-3-new-orleans"
+      "title": "Texans agree to terms with second-round OT Aireontae Ersery - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-agree-to-terms-with-second-round-ot-aireontae-ersery"
     },
     {
       "title": "Usyk knocks out Dubois in fifth to unify heavyweight boxing belts - Al Jazeera",
       "link": "https://www.aljazeera.com/sports/2025/7/19/usyk-knocks-out-dubois-to-unify-heavyweight-boxing-belts"
     },
     {
+      "title": "Starting XI and roster notes: Derrick Williams features in new-look backline for Charlotte matchup - Atlanta United FC",
+      "link": "https://www.atlutd.com/news/starting-xi-roster-notes-derrick-williams-features-in-new-look-backline-for-charlotte-matchup-july-19-2025"
+    },
+    {
       "title": "Royals bullpen blows another game; they lose to Marlins 3-1 - Royals Review",
       "link": "https://www.royalsreview.com/2025/7/19/24470673/royals-bullpen-blows-another-game-they-lose-to-marlins-3-1"
     },
     {
-      "title": "David Wright ceremony puts on full display what Mets are still desperately lacking - New York Post",
-      "link": "https://nypost.com/2025/07/19/sports/mets-david-wright-ceremony-puts-on-display-what-team-is-missing/"
+      "title": "Euro 2025: Germany beat France thanks to Berger - DW",
+      "link": "https://www.dw.com/en/euro-2025-germany-beat-france-thanks-to-berger/a-73338598"
     },
     {
       "title": "WNBA set to close out All-Star weekend with exhibition game between Team Clark and Team Collier - AP News",
@@ -140,34 +168,6 @@
     {
       "title": "17-year-old Eli Willits, No. 1 overall pick in MLB Draft, signs with Nationals - AP News",
       "link": "https://apnews.com/article/nationals-eli-willits-signs-62587d4c9669e9dd113f69e5151748c5"
-    },
-    {
-      "title": "Internationals: Nusken strikes in epic Germany win | News | Official Site - Chelsea",
-      "link": "https://www.chelseafc.com/en/news/article/internationals-nusken-strikes-in-epic-germany-win"
-    },
-    {
-      "title": "Bulls sign Yuki Kawamura to Two-Way contract - NBA",
-      "link": "https://bulls.com/news/bulls-sign-yuki-kawamura-to-two-way-contract"
-    },
-    {
-      "title": "Cavs Rumors: Oladipo, Wade, Tomlin, Enaruna - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2025/07/cavs-rumors-oladipo-wade-tomlin-enaruna.html"
-    },
-    {
-      "title": "British Open Round 3 results, leaderboard: Scottie Scheffler breaks open 4-shot lead after Saturday - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/live/british-open-round-3-results-leaderboard-scottie-scheffler-breaks-open-4-shot-lead-after-saturday-103044710.html"
-    },
-    {
-      "title": "Roster Moves: Chicago Bears sign second-round draft selections - Chicago Bears Official Website",
-      "link": "https://www.chicagobears.com/news/roster-moves-chicago-bears-sign-second-round-draft-selections"
-    },
-    {
-      "title": "Qualifying cancelled due to rain, Chase Elliott on pole for NASCAR Cup at Dover - Motorsport.com",
-      "link": "https://www.motorsport.com/nascar-cup/news/qualifying-cancelled-due-to-rain-chase-elliott-on-pole-for-nascar-cup-at-dover/10743500/"
-    },
-    {
-      "title": "Rory McIlroy hits two balls in one shot during wild third round at The Open - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/rory-mcilroy-hits-two-balls-in-one-shot-during-wild-third-round-at-the-open"
     }
   ],
   "weather": {
