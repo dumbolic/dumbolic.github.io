@@ -1,9 +1,9 @@
 {
-  "quote": "Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become. \u2013 Paramahansa Yogananda",
-  "fact": "A cat has 32 muscles in each ear.",
-  "crypto": "BTC: $117,646 | ETH: $3,775.65",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Geology rocks, but Geography is where it's at!",
+  "quote": "The less people know, the more stubbornly they know it. \u2013 Osho",
+  "fact": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
+  "crypto": "BTC: $117,297 | ETH: $3,756.74",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What animal is always at a game of cricket? A bat.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Global hack on Microsoft product hits U.S., state agencies, researchers say - The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/"
+    },
+    {
+      "title": "PlayStation Store Losing Over 100 Games in Huge Removal - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/playstation-store-ps4-ps5-games-entergram/"
+    },
+    {
       "title": "Say This Exact Phrase to ChatGPT and It Will Remember You Forever\u2014Even When You Start a New Chat - Rude Baguette",
       "link": "https://www.rudebaguette.com/en/2025/07/say-this-exact-phrase-to-chatgpt-and-it-will-remember-you-forever-even-when-you-start-a-new-chat/"
     },
     {
       "title": "Microsoft quietly removes ability to purchase movies and TV shows on Xbox and the Microsoft Store - Eurogamer",
       "link": "https://www.eurogamer.net/microsoft-quietly-removes-ability-to-purchase-movies-and-tv-shows-on-xbox-and-the-microsoft-store"
+    },
+    {
+      "title": "Cyberpunk 2077 free expansion leaves fans heavily divided - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/cyberpunk-2077-free-expansion-fans-divided-134339-20250717"
     },
     {
       "title": "Feature: 10 Top Mario Kart Cosplays - From Blue Shells To Bowser - Nintendo Life",
@@ -48,8 +60,16 @@
       "link": "https://www.macrumors.com/2025/07/20/first-ios-27-rumor-surfaces/"
     },
     {
-      "title": "Deals: Pixel 9 series get discounts, Galaxy Z foldables still on pre-order - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/deals_pixel_9_series_get_discounts_galaxy_z_foldables_still_on_preorder-news-68685.php"
+      "title": "How Unreal Engine Is Changing Star Wars, Theme Parks, and the Future of Movies - IGN",
+      "link": "https://www.ign.com/articles/how-unreal-engine-is-changing-star-wars-theme-parks-and-the-future-of-movies"
+    },
+    {
+      "title": "HPE warns of hardcoded passwords in Aruba access points - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/"
+    },
+    {
+      "title": "ASUS announces ProArt PA32QCV professional monitor, 32-inch 6K IPS panel at $1299 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-announces-proart-pa32qcv-professional-monitor-32-inch-6k-ips-panel-at-1299"
     },
     {
       "title": "Why IBM's Amazing 'Sliding Keyboard' ThinkPad 701 Never Survived Past 1995 - Slashdot",
@@ -64,54 +84,58 @@
       "link": "https://www.outkick.com/culture/influencer-gia-duddy-coming-in-hot-from-the-bahamas-on-a-jet-ski"
     },
     {
-      "title": "Assassin's Creed Shadows budget confirmed to be over \u20ac100 million - TweakTown",
-      "link": "https://www.tweaktown.com/news/106503/assassins-creed-shadows-budget-confirmed-to-be-over-euro-100-million/index.html"
+      "title": "AMD's quiet move may shock gaming GPU market - TheStreet",
+      "link": "https://www.thestreet.com/technology/amds-quiet-move-may-shock-gaming-gpu-market"
     },
     {
-      "title": "Watch teen\u2019s emotional reaction seeing herself with hair for the first time - USA Today",
-      "link": "https://www.usatoday.com/story/life/humankind/2025/07/20/teen-tries-on-her-first-wig-after-losing-hair-to-alopecia-as-a-baby/85274014007/"
-    },
-    {
-      "title": "Listening to Dolby Atmos Music in a Cadillac for Two Weeks Ruined Stereo for Me - WIRED",
-      "link": "https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/"
-    },
-    {
-      "title": "PS5, PS4 Retro Shooter Neon Inferno Really Doesn't Need to Look This Awesome - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/07/ps5-ps4-retro-shooter-neon-inferno-really-doesnt-need-to-look-this-awesome"
-    },
-    {
-      "title": "5 underrated Android features I use all the time, and you should too - Android Authority",
-      "link": "https://www.androidauthority.com/underrated-android-features-you-should-know-3578425/"
-    },
-    {
-      "title": "The First Foldable iPhone Will Arrive Next Year in Un-Apple-Like Fashion - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2025-07-20/apple-s-2026-foldable-iphone-samsung-comparison-m5-ipad-pro-dual-front-cameras"
-    },
-    {
-      "title": "Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770) - CISA (.gov)",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/20/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770"
+      "title": "NVIDIA Bringing CUDA To RISC-V - Phoronix",
+      "link": "https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V"
     }
   ],
   "sports_news": [
     {
-      "title": "George Karlaftis agrees to four-year extension with Chiefs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-karlaftis-agrees-to-four-year-extension-with-chiefs"
+      "title": "Venus Williams returns to tennis at the DC Open after a 16-month hiatus - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/07/20/venus-williams-dc-open/"
+    },
+    {
+      "title": "Column | After baring his soul, Scottie Scheffler laid waste to the British Open - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/07/20/scottie-scheffler-open-majors/"
+    },
+    {
+      "title": "Thrilling NASCAR race at Dover in rain delay with 14 laps left, with 2 top drivers battling - The News Journal",
+      "link": "https://www.delawareonline.com/story/sports/motor/nascar/2025/07/20/rain-delays-nascar-race-at-dover-with-14-laps-left-denny-hamlin-leading/85301615007/"
+    },
+    {
+      "title": "Judge crushes 351st dinger, tied for 6th on Yanks' all-time list - MLB.com",
+      "link": "https://www.mlb.com/news/aaron-judge-climbs-yankees-home-run-list-with-first-at-truist-park"
+    },
+    {
+      "title": "JC Tretter resigns from NFL Players Association - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jc-tretter-resigns-from-nfl-players-association"
+    },
+    {
+      "title": "Sources: Chiefs lock up Karlaftis with 4-year deal - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45783276/chiefs-lock-de-george-karlaftis-4-year-deal"
+    },
+    {
+      "title": "Trump's latest demand: Washington football and Cleveland baseball teams should change names back - NBC News",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trumps-demand-washington-football-cleveland-baseball-name-change-rcna219890"
     },
     {
       "title": "Seahawks Release Tight End Noah Fant - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/seahawks-release-tight-end-noah-fant"
     },
     {
-      "title": "The Open 2025 leaderboard: Scottie Scheffler claims Claret Jug in historic, dominant win at Royal Portrush - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/the-open-2025-leaderboard-scottie-scheffler-claims-claret-jug-in-historic-dominant-win-at-royal-portrush/live/"
+      "title": "Wyndham Clark Addresses Banishment From Oakmont: \u2018I Feel Terrible\u2019 - Sports Illustrated",
+      "link": "https://www.si.com/golf/wyndham-clark-addresses-banishment-from-oakmont"
     },
     {
-      "title": "Source: QB Ridder returns to Cincy, joins Bengals - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45782681/source-desmond-ridder-join-bengals-cincinnati-return"
+      "title": "Boxing took more from Manny Pacquiao than WBC title win \u2014 it robbed him of his last real shot - Yahoo Sports",
+      "link": "https://sports.yahoo.com/boxing/article/boxing-took-more-from-manny-pacquiao-than-wbc-title-win-it-robbed-him-of-his-last-real-shot-mario-barrios-190148499.html"
     },
     {
-      "title": "Jon Jones \u2018disappointed\u2019 in Dana White denying him UFC White House headline spot - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/7/20/24471017/jon-jones-disappointed-in-dana-white-denying-him-ufc-white-house-headline-spot"
+      "title": "Lakers waive Shake Milton ahead of contract guarantee date - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/2025/7/19/24463166/lakers-rumors-reports-shake-milton-waive-release-nba-free-agency"
     },
     {
       "title": "Ole Miss freshman Adams, 18, killed in shooting - ESPN",
@@ -126,44 +150,28 @@
       "link": "https://bleacherreport.com/articles/25227765-dustin-poirier-calls-out-judges-scorecards-ufc-retirement-fight-loss-holloway"
     },
     {
-      "title": "Garcia breaks driver in anger on No. 2, cards 68 - ESPN",
-      "link": "https://www.espn.com/golf/story/_/id/45782019/sergio-garcia-cards-68-open-breaking-driver-no-2"
+      "title": "Mariners' Weirdest RBI of MLB Season Had Announcers So Confused - Sports Illustrated",
+      "link": "https://www.si.com/mlb/mariners-weirdest-rbi-mlb-season-announcers-confused"
     },
     {
       "title": "Ennis Rakestraw injures chest in Lions practice - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ennis-rakestraw-injures-chest-in-lions-practice"
     },
     {
-      "title": "Manny Pacquiao wants rematch with Mario Barrios after controversial draw, says he needs to train longer - Yahoo Sports",
-      "link": "https://sports.yahoo.com/boxing/article/manny-pacquiao-wants-rematch-with-mario-barrios-after-controversial-draw-says-he-needs-to-train-longer-143227947.html"
-    },
-    {
-      "title": "WNBA All-Stars make statement with warmup shirts over CBA - NBC News",
-      "link": "https://www.nbcnews.com/sports/wnba/wnba-stars-make-statement-warmup-shirts-cba-rcna219850"
-    },
-    {
-      "title": "John Oliver-Branded Minor League Baseball Team the Erie Moon Mammoths Play First Game - Rolling Stone",
-      "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/john-oliver-minor-league-baseball-team-erie-moon-mammoths-1235389628/"
-    },
-    {
-      "title": "Coach Caitlin Clark\u2019s Five Funniest Moments During 2025 WNBA All-Star Game - Sports Illustrated",
-      "link": "https://www.si.com/wnba/coach-caitlin-clark-five-funniest-moments-2025-wnba-all-star-game"
-    },
-    {
-      "title": "Report: NFLPA board of player reps is expected to vote on interim executive director soon - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-nflpa-board-of-player-reps-is-expected-to-vote-on-interim-executive-director-soon"
-    },
-    {
-      "title": "Liverpool Reportedly Agree \u20ac90M Hugo Ekitike Transfer with Frankfurt - The Liverpool Offside",
-      "link": "https://liverpooloffside.sbnation.com/liverpool-fc-transfer-news/2025/7/20/24470876/liverpool-transfer-news-reportedly-agree-90m-95m-fee-hugo-ekitike-eintracht-frankfurt-france-striker"
+      "title": "Jon Jones Says UFC White House Event Would be Retirement Fight, Dana White Responds - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25227761-jon-jones-says-ufc-white-house-event-would-be-retirement-fight-dana-white-responds"
     },
     {
       "title": "Pawn shop owner admits to fencing Burrow items - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45781024/pawn-shop-owner-admits-fencing-joe-burrow-stolen-property"
     },
     {
-      "title": "Chaos Ball's back: Mariners use both ends of the bat in walk-off win - MLB.com",
-      "link": "https://www.mlb.com/news/cole-young-hits-walk-off-after-dylan-moore-logs-rbi-with-bat-knob"
+      "title": "Oleksandr Usyk vs. Daniel Dubois 2 results, highlights: Ukrainian champ regains undisputed title with knockout - CBS Sports",
+      "link": "https://www.cbssports.com/boxing/news/oleksandr-usyk-vs-daniel-dubois-2-results-highlights-ukrainian-champ-regains-undisputed-title-with-knockout/live/"
+    },
+    {
+      "title": "Diamondbacks' Eugenio Suarez hits 2 HRs in win vs. Cardinals - Arizona Sports",
+      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/eugenio-suarez-11/3590631/"
     }
   ],
   "weather": {
