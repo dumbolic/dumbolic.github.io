@@ -1,9 +1,9 @@
 {
-  "quote": "Only those who dare to fail greatly can ever achieve greatly. \u2013 Robert F. Kennedy",
-  "fact": "This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.",
-  "crypto": "BTC: $118,499 | ETH: $3,680.25",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How much does a hipster weigh? An instagram.",
+  "quote": "The future will be shaped by those willing to commit their minds and their bodies to the task. \u2013 Robert F. Kennedy",
+  "fact": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of \"ough\" in the English Language.",
+  "crypto": "BTC: $118,863 | ETH: $3,706.37",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Bad at golf? Join the club.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Pixel 10 Pro Fold leaks in official-looking renders with only Google's two best Pro colors [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2025/07/23/pixel-10-pro-fold-leaks-official-looking-renders/"
+      "title": "Pixel 10 promo video leaks: Tensor G5 is Google\u2019s \u2018most efficient chip\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2025/07/23/pixel-10-tensor-g5-promo-leak/"
+    },
+    {
+      "title": "Review: Wheel World (PS5) - Open World Cycling Sim Is a Joy When It Isn't Chugging Along - Push Square",
+      "link": "https://www.pushsquare.com/reviews/ps5/wheel-world"
+    },
+    {
+      "title": "Google is bringing its AI-powered photo-to-video capability to more apps - The Verge",
+      "link": "https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts"
+    },
+    {
+      "title": "The Outer Worlds 2 will no longer be one of Microsoft\u2019s first $80 Xbox games - The Verge",
+      "link": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox"
+    },
+    {
+      "title": "Pok\u00e9mon GO Fest 2025: Max Finale Event - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2025-max-finale/"
     },
     {
       "title": "Former Xbox console exclusive Forza Horizon 5 is PS5's highest-selling game of the year so far, says analyst - Eurogamer",
       "link": "https://www.eurogamer.net/former-xbox-console-exclusive-forza-horizon-5-is-ps5s-highest-selling-game-of-the-year-so-far-says-analyst"
     },
     {
-      "title": "Rainbow Six Siege underperforms following \"pricing exploit\", according to Ubisoft - Eurogamer",
-      "link": "https://www.eurogamer.net/rainbow-six-siege-underperforms-following-pricing-exploit-according-to-ubisoft"
+      "title": "Nintendo Switch 2 is the fastest-selling video game hardware device in US history - Polygon",
+      "link": "https://www.polygon.com/news/615368/nintendo-switch-2-fastest-selling-video-game-hardware-device-united-states"
     },
     {
       "title": "\u2018Destiny 2\u2019 Just Secretly Fixed A Big \u2018Edge Of Fate\u2019 Problem - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/07/23/destiny-2-just-secretly-fixed-a-big-edge-of-fate-problem/"
     },
     {
-      "title": "Microsoft concedes that The Outer Worlds 2 was too expensive - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high"
+      "title": "PS5 system update will finally add wireless controller pairing across multiple devices - Eurogamer",
+      "link": "https://www.eurogamer.net/ps5-system-update-will-finally-add-wireless-controller-pairing-across-multiple-devices"
     },
     {
       "title": "Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade - Kotaku",
@@ -40,66 +56,82 @@
       "link": "https://www.theregister.com/2025/07/23/microsoft_copilot_vision/"
     },
     {
-      "title": "This iPhone case switches Lightning ports to USB-C - The Verge",
-      "link": "https://www.theverge.com/news/712133/iphone-case-lightning-to-usb-c-ken-pillonel"
+      "title": "New Case Brings USB-C Port to Lightning iPhones - MacRumors",
+      "link": "https://www.macrumors.com/2025/07/23/case-brings-usb-c-port-to-lightning-iphones/"
+    },
+    {
+      "title": "Proton\u2019s new privacy-first AI assistant encrypts all chats, keeps no logs - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/23/protons-new-privacy-first-ai-assistant-encrypts-all-chats-keeps-no-logs/"
     },
     {
       "title": "Julian LeFay, 'Father of The Elder Scrolls,' Has Died Aged 59, a Week After Stepping Back From Game Development Due to Cancer - IGN",
       "link": "https://www.ign.com/articles/julian-lefay-father-of-the-elder-scrolls-has-died-aged-59-a-week-after-stepping-back-from-game-development-due-to-cancer"
     },
     {
-      "title": "Northern Lights Update: These 10 States May See Aurora Borealis Wednesday - Forbes",
-      "link": "https://www.forbes.com/sites/tylerroush/2025/07/23/northern-lights-forecast-10-states-could-see-aurora-borealis-tonight/"
-    },
-    {
       "title": "Maingear\u2019s Retro95 combines \u201990s-era PC design with modern specs - The Verge",
       "link": "https://www.theverge.com/news/712101/maingear-retro95-sleeper-pc-gaming-specs-pricing"
-    },
-    {
-      "title": "Sony\u2019s new PS5 Power Saver mode sounds ideal for a PlayStation handheld - The Verge",
-      "link": "https://www.theverge.com/news/712212/sony-ps5-power-saver-handheld-rumors"
     },
     {
       "title": "Samsung Galaxy S26 Ultra could solve one of the biggest battery pain points - SamMobile",
       "link": "https://www.sammobile.com/news/samsung-considers-qi2-wireless-charging-future-galaxy-phones/"
     },
     {
-      "title": "Apple introduces AppleCare One, streamlining coverage into a single plan with incredible value - Apple",
-      "link": "https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/"
+      "title": "Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/"
     },
     {
-      "title": "Deltarune topped Switch 2 digital charts in June, while Mario Kart World dominated in active players - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/deltarune-topped-switch-2-digital-charts-in-june-while-mario-kart-world-dominated-in-active-players/"
-    },
-    {
-      "title": "Proton is launching a privacy-focused AI chatbot - The Verge",
-      "link": "https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot"
-    },
-    {
-      "title": "'There were days where I felt I could never leave': Intimate images of 'the real Hotel California' - BBC",
-      "link": "https://www.bbc.com/culture/article/20250721-intimate-images-of-the-real-hotel-california"
-    },
-    {
-      "title": "\u2018Starting Today\u2019\u2014Microsoft Confirms Free Windows Update - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/07/23/starting-today-microsoft-confirms-free-windows-update/"
-    },
-    {
-      "title": "WUCHANG: Fallen Feathers Benchmarks & PC Performance Analysis - DSOGaming",
-      "link": "https://www.dsogaming.com/pc-performance-analyses/wuchang-fallen-feathers-benchmarks-pc-performance-analysis/"
+      "title": "Metroid Dread studio's recent console and Epic-exclusive action-adventure \"underperformed\" due to \"increasingly selective consumers\", says publisher - Eurogamer",
+      "link": "https://www.eurogamer.net/metroid-dread-studios-recent-console-and-epic-exclusive-action-adventure-underperformed-due-to-increasingly-selective-consumers-says-publisher"
     }
   ],
   "sports_news": [
     {
-      "title": "Dolphins lineman Bayron Matos airlifted to hospital in scary training camp scene - New York Post",
-      "link": "https://nypost.com/2025/07/23/sports/dolphins-bayron-matos-airlifted-to-hospital-in-scary-scene/"
+      "title": "NFL training camp 2025 news, live updates: Russell Wilson is Giants' unquestioned QB1, per Brian Daboll - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/live/nfl-training-camp-july-23-2025-144547077.html"
+    },
+    {
+      "title": "Lionel Messi faces suspension for missing MLS All-Star Game without an injury - NBC News",
+      "link": "https://www.nbcnews.com/sports/mls/lionel-messi-mls-star-game-rcna220578"
+    },
+    {
+      "title": "Browns introduce a brown helmet - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-introduce-a-brown-helmet"
+    },
+    {
+      "title": "Chiefs are actively negotiating deals with Missouri and Kansas - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-are-actively-negotiating-deals-with-missouri-and-kansas"
+    },
+    {
+      "title": "Pickens on CeeDee Lamb, Dak Prescott, Brian Schottenheimer and 'fresh air' with Cowboys - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/pickens-on-ceedee-lamb-dak-prescott-brian-schottenheimer-and-fresh-air-with-cowboys"
+    },
+    {
+      "title": "Marcus Rashford: Barcelona sign Manchester United forward on loan - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c873zvn37jvo"
+    },
+    {
+      "title": "OU's Lanning: Tighten CFP, end season by Jan. 1 - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/45804775/oregon-dan-lanning-playoff-slate-mirror-other-sports"
+    },
+    {
+      "title": "Cardinals Designate Erick Fedde For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/cardinals-designate-erick-fedde-for-assignment.html"
+    },
+    {
+      "title": "Spencer Rattler took Wednesday\u2019s first-team reps, Tyler Shough up on Thursday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-took-wednesdays-first-team-reps-tyler-shough-up-on-thursday"
+    },
+    {
+      "title": "PUP players again headline Chiefs missing practice on Day 2 of training camp - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/2025/7/23/24473032/chiefs-injuries-pup-players-headline-those-missing-practice-for-training-camp-day-2"
     },
     {
       "title": "New Arsenal signings play in pre-season win over AC Milan - BBC",
       "link": "https://www.bbc.com/sport/football/articles/cn41e8kyp2lo"
     },
     {
-      "title": "2025 NFL training camp: Anthony Richardson, Travis Etienne among veterans who could lose starting roles - NFL.com",
-      "link": "https://www.nfl.com/news/2025-nfl-training-camp-anthony-richardson-travis-etienne-among-veterans-who-could-lose-starting-roles"
+      "title": "Dolphins offensive lineman Matos hospitalized, in stable condition after first day of training camp - Miami Herald",
+      "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article309893750.html"
     },
     {
       "title": "Bill Belichick's UNC Football Reportedly Sells Out All Tickets for 2025 CFB Season - Bleacher Report",
@@ -114,60 +146,20 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-relationship-with-tyreek-hill-is-still-a-work-in-progress"
     },
     {
+      "title": "Venus Williams upsets world No. 35 in first singles match in 16 months, makes WTA history at 45 years old - Yahoo Sports",
+      "link": "https://sports.yahoo.com/tennis/breaking-news/article/venus-williams-upsets-world-no-35-in-first-singles-match-in-16-months-makes-wta-history-at-45-years-old-015811672.html"
+    },
+    {
+      "title": "France Finally Has Something To Smile About At The Tour - Defector",
+      "link": "https://defector.com/france-finally-has-something-to-smile-about-at-the-tour"
+    },
+    {
       "title": "Fantasy Baseball SP Roundup 7/22: Crisard Of Ozz - pitcherlist.com",
       "link": "http://pitcherlist.com/sp-roundup-7-22-25/"
     },
     {
-      "title": "Texans put Joe Mixon on NFI list, 11 players on PUP list - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-put-joe-mixon-on-nfi-list-11-players-on-pup-list"
-    },
-    {
-      "title": "Five storylines as Packers open 2025 training camp - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/five-storylines-as-packers-open-2025-training-camp"
-    },
-    {
-      "title": "WNBA Players Want To Share In The League\u2019s \u201cHypergrowth\u201d - Defector",
-      "link": "https://defector.com/wnba-players-want-to-share-in-the-leagues-hypergrowth"
-    },
-    {
-      "title": "Dispatches from Bat Country: Daniel Levy will shock the world by signing Rodrygo through the power of friendship - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/2025/7/23/24472929/tottenham-hotspur-transfer-news-daniel-levy-rodrygo-real-madrid"
-    },
-    {
-      "title": "Dodgers Pitcher\u2019s Embarrassing Error Stunningly Led to Everyone Circling the Bases - Sports Illustrated",
-      "link": "https://www.si.com/mlb/dodgers-pitcher-error-twins-little-league"
-    },
-    {
-      "title": "What Does The WNBA Owe Angel Reese After Launching Up Nine Turnovers In A Blowout Loss? - OutKick",
-      "link": "https://www.outkick.com/sports/what-does-wnba-owe-angel-reese-after-launching-up-nine-turnovers-blowout-loss"
-    },
-    {
-      "title": "Report: ESPN will pay \"enormous\" amount, if/when NFL Media deal happens - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-will-pay-enormous-amount-if-when-nfl-media-deal-happens"
-    },
-    {
-      "title": "George Pickens: I\u2019m definitely excited to run better plays with Cowboys - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-im-definitely-excited-to-run-better-plays-with-cowboys"
-    },
-    {
-      "title": "Detroit Lions continuing to hype up Marcus Davenport - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/7/23/24472890/detroit-lions-continuing-to-hype-up-marcus-davenport"
-    },
-    {
-      "title": "Arsenal \u2018Resolve\u2019 Viktor Gyokeres Ballon d\u2019Or Clause After Bonus Standoff - Sports Illustrated",
-      "link": "https://www.si.com/soccer/arsenal-viktor-gyokeres-ballon-dor-clause-bonus-standoff"
-    },
-    {
-      "title": "7 under-the-radar players to watch at Patriots training camp - Pats Pulpit",
-      "link": "https://www.patspulpit.com/2025/7/23/24472483/patriots-training-camp-under-the-radar-players-to-watch"
-    },
-    {
-      "title": "US Olympic and Paralympic officials bar transgender women from competing in Olympic women\u2019s sports - AP News",
-      "link": "https://apnews.com/article/team-usa-transgender-athletes-338c43225fdfad936d4b85c1a67ced36"
-    },
-    {
-      "title": "Rutgers football: 6 things we learned at Big Ten Media Day | Injury updates, position battles, more - NJ.com",
-      "link": "https://www.nj.com/rutgersfootball/2025/07/rutgers-football-5-things-we-learned-at-big-ten-media-day-injury-updates-position-battles-more.html"
+      "title": "Here\u2019s what happened at Day 1 of Dolphins training camp: News, highlights, more - Miami Herald",
+      "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article309892880.html"
     }
   ],
   "weather": {
