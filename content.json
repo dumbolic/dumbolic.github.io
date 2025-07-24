@@ -1,9 +1,9 @@
 {
-  "quote": "Only when you can be extremely pliable and soft can you be extremely hard and strong. \u2013 Zen Proverb",
-  "fact": "Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.\u00a0 The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.",
-  "crypto": "BTC: $118,670 | ETH: $3,631.9",
+  "quote": "Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. \u2013 Rumi",
+  "fact": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of \"Lorne Greene`s Wild Kingdom.\"",
+  "crypto": "BTC: $119,042 | ETH: $3,638.85",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+  "joke": "Why was the broom late for the meeting? He overswept.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Wuchang: Fallen Feathers Review - IGN",
+      "link": "https://www.ign.com/articles/wuchang-fallen-feathers-review"
+    },
+    {
+      "title": "1047 Games lays off developers, CEO says he's made 'many, many mistakes' - Game Developer",
+      "link": "https://www.gamedeveloper.com/business/1047-games-lays-off-developers-ceo-says-he-s-made-many-many-mistakes-"
+    },
+    {
       "title": "Windows 11\u2019s new update will add a bunch of AI features - The Verge",
       "link": "https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch"
+    },
+    {
+      "title": "I tried Gordon Ramsay's favorite 10-minute pasta, and now I know why he makes it every week - Business Insider",
+      "link": "https://www.businessinsider.com/gordon-ramsay-easy-pasta-turkey-leek-recipe"
     },
     {
       "title": "Google Pixel 10 Pro and Pixel 10 Pro XL now shown in all colors too - GSMArena.com news - GSMArena.com",
       "link": "https://www.gsmarena.com/google_pixel_10_pro_and_pixel_10_pro_xl_now_shown_in_all_colors_too-news-68726.php"
     },
     {
-      "title": "Why I love my little round Dell USB-C mobile adapter - The Verge",
-      "link": "https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites"
+      "title": "Lexus LC 500 Drops The Hybrid Option For 2026 Because Literally Everyone Wanted The V8 - Jalopnik",
+      "link": "https://www.jalopnik.com/1919311/2026-lexus-lc-500-drops-hybrid-low-sales/"
     },
     {
       "title": "iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries - TechCrunch",
@@ -30,18 +42,6 @@
     {
       "title": "Battlefield 6 Reveal Trailer Coming Very Soon, See A Teaser Now - GameSpot",
       "link": "https://www.gamespot.com/articles/battlefield-6-reveal-trailer-coming-very-soon-see-a-teaser-now/1100-6533340/"
-    },
-    {
-      "title": "Borderlands 4 Launches On Switch 2 Just A Few Weeks After Other Consoles - Kotaku",
-      "link": "https://kotaku.com/borderlands-4-switch-2-release-date-october-ps5-sept-1851786737"
-    },
-    {
-      "title": "Splitgate 2 Will \u2018Go Back to Beta\u2019 to Undergo a Massive Rework Amid More Layoffs and Splitgate 1 Shutdown - IGN",
-      "link": "https://www.ign.com/articles/splitgate-2-will-go-back-to-beta-to-undergo-a-massive-rework-amid-more-layoffs-and-splitgate-1-shutdown"
-    },
-    {
-      "title": "OneXSugar: Playing with the first dual-screen transforming handheld - The Verge",
-      "link": "https://www.theverge.com/report/711116/onexsugar-sugar-1-hands-on-preview-transforming-dual-screen"
     },
     {
       "title": "Guy Goes Viral Painting Donkey Kong Bananza Yellow And Ruining His Switch - Kotaku",
@@ -68,10 +68,6 @@
       "link": "https://www.polygon.com/pokemon-go-guide/615038/gigantamax-journey-promo-code-redeem-timed-research-steps-rillaboom-cinderace-inteleon"
     },
     {
-      "title": "The Verge is getting way more personal with following feeds - The Verge",
-      "link": "https://www.theverge.com/bulletin/710925/the-verge-is-getting-way-more-personal-with-following-feeds"
-    },
-    {
       "title": "Nintendo Switch 2 + Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition Bundle available Oct. 16 - Nintendo",
       "link": "https://www.nintendo.com/us/whatsnew/nintendo-switch-2-pokemon-legends-z-a-nintendo-switch-2-edition-bundle-available-oct-16/"
     },
@@ -90,88 +86,92 @@
     {
       "title": "Campaign asking EU to stop publishers \"destroying\" online games hit by anonymous transparency complaint - Rock Paper Shotgun",
       "link": "https://www.rockpapershotgun.com/campaign-asking-eu-to-stop-publishers-destroying-online-games-hit-by-anonymous-transparency-complaint"
+    },
+    {
+      "title": "Here's the First Footage of Resident Evil 2: Dead Shot, a New Arcade Version of Capcom's Classic \u2014 and a Test Cabinet Is Available Now in the UK - IGN",
+      "link": "https://www.ign.com/articles/heres-the-first-footage-of-resident-evil-2-dead-shot-a-new-arcade-version-of-capcoms-classic-and-a-test-cabinet-is-available-now-in-the-uk"
     }
   ],
   "sports_news": [
     {
-      "title": "Trump likes renaming people, places and things. He's not the first to deploy that perk of power - AP News",
-      "link": "https://apnews.com/article/trump-rename-commanders-redskins-gulf-presidential-power-082b634a5ab74b02d58f4bf715d44910"
+      "title": "Browns place QB Deshaun Watson, DT Mike Hall Jr. on active/PUP - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-place-qb-deshaun-watson-dt-mike-hall-jr-on-active-pup"
     },
     {
-      "title": "Micah Parsons on lack of movement in talks: I don\u2019t take it personally; I just don\u2019t understand - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-on-lack-of-movement-in-talks-i-dont-take-it-personally-i-just-dont-understand"
-    },
-    {
-      "title": "Source: Raiders reunite safety Adams with Carroll - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45798162/source-raiders-sign-three-pro-bowl-safety-jamal-adams"
-    },
-    {
-      "title": "U.S. Olympic & Paralympic Committee will comply with Trump's ban on transgender women in women's sports - NBC News",
+      "title": "U.S. Olympic & Paralympic Committee will comply with Trump's ban on trans women in women's sports - NBC News",
       "link": "https://www.nbcnews.com/sports/olympics/us-olympic-paralympic-committee-will-comply-trumps-ban-transgender-wom-rcna220369"
     },
     {
-      "title": "Packers announce roster moves - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-announce-roster-moves-july-22-2025"
+      "title": "Commanders GM says non-football topics such as President Trump's comments don't reach him - AP News",
+      "link": "https://apnews.com/article/trump-commanders-name-stadium-adam-peters-a2e1c75f5cd01aa39cca6eaec49d1a32"
     },
     {
-      "title": "Panthers release linebacker Josey Jewell - Carolina Panthers",
-      "link": "https://www.panthers.com/news/panthers-release-linebacker-josey-jewell"
+      "title": "10 things we learned on Day 1 of Bears training camp - Chicago Bears Official Website",
+      "link": "https://www.chicagobears.com/news/10-things-we-learned-chicago-bears-training-camp-day-1-ryan-poles-ben-johnson-caleb-williams-grady-jarrett"
     },
     {
-      "title": "The 6 biggest storylines heading into Seahawks training camp - Field Gulls",
-      "link": "https://www.fieldgulls.com/2025/7/22/24472482/the-6-biggest-storylines-heading-into-seattle-seahawks-training-camp-2025"
+      "title": "Caleb Williams sets 4,000 passing yards, 70 percent completion rate as 2025 personal goals - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-sets-4-000-passing-yards-70-percent-completion-rate-as-2025-personal-goals"
     },
     {
-      "title": "Atlanta Braves, Cincinnati Reds wearing NASCAR-inspired uniforms for Speedway Classic - Jayski's NASCAR Silly Season Site",
-      "link": "https://www.jayski.com/2025/07/22/atlanta-braves-cincinnati-reds-wearing-nascar-inspired-uniforms-for-speedway-classic/"
+      "title": "Micah Parsons cites back tightness for not participating in practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-cites-back-tightness-for-not-participating-in-practice"
     },
     {
-      "title": "Saints' Mathieu retires on eve of training camp - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45796969/saints-tyrann-mathieu-retires-eve-training-camp"
+      "title": "Trevon Diggs 'happy to be' at Cowboys training camp, explains offseason training decision - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/trevon-diggs-happy-to-be-at-cowboys-training-camp-explains-offseason-training-decision"
     },
     {
-      "title": "Sean Murphy is an enticing trade candidate who shouldn\u2019t get traded - Battery Power",
-      "link": "https://www.batterypower.com/2025/7/22/24472457/atlanta-braves-mlb-trade-rumors-sean-murphy-buzz-factor-deadlin"
+      "title": "Raiders sign 5 free agents, waive 4 players - Raiders.com",
+      "link": "https://www.raiders.com/news/raiders-sign-jamal-adams-phillip-dorsett-nfl-players-transactions-2025-training-camp"
     },
     {
-      "title": "What we're hearing and seeing at Vikings training camp: Josh Metellus reports, future uncertain - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45704243/2025-nfl-training-camp-minnesota-vikings-updates-buzz-intel-position-battles"
+      "title": "Four Steelers on the bubble entering training camp - Behind the Steel Curtain",
+      "link": "https://www.behindthesteelcurtain.com/2025/7/22/24472602/four-steelers-on-the-bubble-entering-training-camp-scotty-miller-connor-heyward-demarvin-leal"
     },
     {
-      "title": "MLB Power Rankings: Brewers cruise to the top, Dodgers scuffling - NBC Sports",
-      "link": "https://www.nbcsports.com/mlb/news/mlb-power-rankings-brewers-cruise-to-the-top-dodgers-scuffling"
+      "title": "Five Observations from Tuesday\u2019s Practice | Chiefs Training Camp 7/22 - Kansas City Chiefs",
+      "link": "https://www.chiefs.com/news/five-observations-from-tuesday-s-practice-chiefs-training-camp-7-22"
     },
     {
-      "title": "Lions observations: 'We got violence' in as physical a non-padded practice as I can recall - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/nfl/lions/2025/07/22/lions-nfl-training-camp-observations/85319395007/"
+      "title": "Mike Vrabel scolds reporter for not paying attention in feisty Patriots press conference - New York Post",
+      "link": "https://nypost.com/2025/07/22/sports/mike-vrabel-scolds-reporter-in-feisty-patriots-press-conference/"
     },
     {
-      "title": "Bills will wear red helmets for final regular-season game at current stadium - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-will-wear-red-helmets-for-final-game-at-current-stadium"
+      "title": "'We're About To Make The Jump': Nebraska Football Coach Matt Rhule at Big Ten Media Days in Las Vegas - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/we-re-about-to-make-the-jump-nebraska-football-coach-matt-rhule-at-big-ten-media-days-in-las-vegas-cornhuskers"
     },
     {
-      "title": "Khabib Nurmagomedov claims Conor McGregor rivalry fueled by UFC: \u2018It was all Dana\u2019s doing\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/7/22/24472365/khabib-nurmagomedov-claims-conor-mcgregor-rivalry-fueled-by-ufc-it-was-all-danas-doing"
+      "title": "Euro 2025 semifinals: England reaches final on controversial extra-time penalty goal vs. Italy - Yahoo Sports",
+      "link": "https://sports.yahoo.com/soccer/live/euro-2025-semifinals-england-italy-180039011.html"
     },
     {
-      "title": "J.C. Tretter reiterates claim that he knew nothing about the hidden collusion ruling - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-c-tretter-reiterates-claim-that-he-knew-nothing-about-the-hidden-collusion-ruling"
+      "title": "Trey Hendrickson: I was more than willing to take less to make this work - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-hendrickson-i-was-more-than-willing-to-take-less-to-make-this-work"
     },
     {
-      "title": "Jeremiah Smith, Sonny Styles and Caleb Downs Earn Big Ten Preseason Honors, Smith is Conference's Lone Unanimo - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/07/156924/jeremiah-smith-sonny-styles-and-caleb-downs-earn-preseason-big-ten-honors-smith-unanimous-selection"
+      "title": "NBA Names Kyle Filipowski Summer League MVP, Announces All-SL Teams - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/07/nba-names-kyle-filipowski-summer-league-mvp-announces-all-sl-teams.html"
     },
     {
-      "title": "Historical Performances of Vingegaard and Poga\u010dar on Mont Ventoux | Tour de France 2025 Stage 16 - Lanterne Rouge",
-      "link": "https://lanternerouge.com/2025/07/22/historical-performances-of-vingegaard-and-pogacar-on-mont-ventoux-tour-de-france-2025-stage-16/"
+      "title": "Pete Carroll: We\u2019re going to win a bunch, and I don\u2019t care who hears that - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-were-going-to-win-a-bunch-and-i-dont-care-who-hears-that"
     },
     {
-      "title": "ACC Kickoff: Commissioner\u2019s Tone Masks UNC\u2019s Clearer Exit Path - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/acc-kickoff-2025-commissioners-tone-masks-uncs-clearer-exit-path-251928541/"
+      "title": "Detroit Lions training camp observations: Intensity ramps up on Day 3 - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/7/22/24472262/detroit-lions-training-camp-observations-intensity-ramps-up-on-day-3"
     },
     {
-      "title": "What a Packers, Elgton Jenkins compromise could look like - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/2025/7/22/24472427/green-bay-packers-elgton-jenkins-contract-update-hold-out-hold-in-2025-training-camp-restructure"
+      "title": "Royals Designate Tyler Gentry For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/royals-designate-tyler-gentry-for-assignment.html"
+    },
+    {
+      "title": "What we're hearing and seeing at 49ers training camp: McCaffrey, Williams are healthy on Day 1 - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45704292/2025-nfl-training-camp-san-francisco-49ers-updates-buzz-intel-position-battles"
+    },
+    {
+      "title": "Packers sign OL Zach Tom to contract extension - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-sign-ol-zach-tom-to-contract-extension-2025"
     }
   ],
   "weather": {
