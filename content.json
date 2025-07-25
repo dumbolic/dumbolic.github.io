@@ -1,9 +1,9 @@
 {
-  "quote": "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. \u2013 Charles Dickens",
-  "fact": "All polar bears are left-handed.",
-  "crypto": "BTC: $117,018 | ETH: $3,677.07",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you get when you cross a snowman with a vampire? Frostbite.",
+  "quote": "Life is a constant series of opportunities. \u2013 Ming-Dao Deng",
+  "fact": "Ten percent of the Russian government`s income comes from the sale of vodka.",
+  "crypto": "BTC: $117,276 | ETH: $3,714.42",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "\u2018NASCAR 25\u2019 console game set for October 2025 release date - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/"
+    },
+    {
       "title": "Google rethinks search results with its new AI-curated \u2018Web Guide\u2019 - The Verge",
       "link": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test"
+    },
+    {
+      "title": "This \u201890s parenting trend is back \u2014 and NY moms and dads are divided - New York Post",
+      "link": "https://nypost.com/2025/07/24/lifestyle/the-90s-parenting-trend-of-feral-child-summer-is-back/"
     },
     {
       "title": "Once a relative haven for adult games, itch.io begins removing explicit titles - Ars Technica",
@@ -24,40 +32,40 @@
       "link": "https://arstechnica.com/gadgets/2025/07/six-lesser-known-features-to-like-in-the-macos-26-tahoe-public-beta/"
     },
     {
-      "title": "Apple releases public betas of its new software updates with Liquid Glass - The Verge",
-      "link": "https://www.theverge.com/news/695142/apple-public-betas-liquid-glass-ios-macos-26"
-    },
-    {
       "title": "Google\u2019s Pixel Watch 4 might charge on its side - The Verge",
       "link": "https://www.theverge.com/news/713142/google-pixel-watch-4-charge-side"
     },
     {
-      "title": "Amazon introduces a more affordable color screen Kindle - TechCrunch",
-      "link": "https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/"
+      "title": "AppleCare One users get gift cards when switching from AppleCare+ - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/07/24/applecare-one-users-get-gift-cards-when-switching-from-applecare"
     },
     {
       "title": "Battlefield 6 finally revealed, with a dedicated multiplayer reveal coming next week - Eurogamer",
       "link": "https://www.eurogamer.net/battlefield-6-finally-revealed-with-a-dedicated-multiplayer-reveal-coming-next-week"
     },
     {
-      "title": "This Is Why Bose's SoundLink Plus Is the Goldilocks of Bose Bluetooth Speakers - CNET",
-      "link": "https://www.cnet.com/tech/home-entertainment/bose-soundlink-plus-review/"
-    },
-    {
       "title": "\u2018Starting Today\u2019\u2014Microsoft Confirms Free Windows Update - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2025/07/24/starting-today-microsoft-confirms-free-windows-update/"
     },
     {
-      "title": "Slim sneakers are the shoe of the summer - CNN",
-      "link": "https://www.cnn.com/2025/07/24/style/slim-sneakers-fashion-summer-2025"
+      "title": "Gemini app rolls out native Audio Overviews player on Android, iOS - 9to5Google",
+      "link": "http://9to5google.com/2025/07/24/gemini-audio-overviews-player/"
     },
     {
       "title": "\u2018WUCHANG: Fallen Feathers\u2019 Lands in the Cloud - NVIDIA Blog",
       "link": "https://blogs.nvidia.com/?p=83282"
     },
     {
-      "title": "Google Search rolling out customizable price tracking, virtual try on - 9to5Google",
-      "link": "http://9to5google.com/2025/07/24/google-price-tracking-update/"
+      "title": "Amazon expands Kindle Colorsoft family with 16 GB model and first-ever color Kindle for kids - About Amazon",
+      "link": "https://www.aboutamazon.com/news/devices/kindle-colorsoft-expansion-first-color-kindle-for-kids"
+    },
+    {
+      "title": "Google\u2019s new AI feature lets you virtually try on clothes - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/"
+    },
+    {
+      "title": "Pixel Phone app preps \u2018Call Message\u2019 live voicemail capability - 9to5Google",
+      "link": "http://9to5google.com/2025/07/24/pixel-phone-call-message/"
     },
     {
       "title": "The 12 Best Games On The Nintendo Switch 2 - Kotaku",
@@ -76,26 +84,34 @@
       "link": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-charging-speeds-battery-size-leaks_id172577"
     },
     {
-      "title": "We found Google's next Pixel-only calling feature and it's borrowed from Apple (APK teardown) - Android Authority",
-      "link": "https://www.androidauthority.com/google-pixel-call-message-3580467/"
-    },
-    {
-      "title": "Google acknowledges Assistant issues with Home, teases \u2018major improvements\u2019 coming - 9to5Google",
-      "link": "http://9to5google.com/2025/07/23/google-home-assistant-tease-major-improvements/"
-    },
-    {
-      "title": "Here is Lego\u2019s official Nintendo Game Boy \u2014 with lenticular display - The Verge",
-      "link": "https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display"
-    },
-    {
-      "title": "Sundar Pichai on agentic 2026, phones over glasses in near-term, and more - 9to5Google",
-      "link": "http://9to5google.com/2025/07/23/sundar-pichai-agentic-2026-glasses/"
+      "title": "Round Up: The Reviews Are In For Super Mario Party Jamboree - Nintendo Switch 2 Edition + Jamboree TV - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/07/round-up-the-reviews-are-in-for-super-mario-party-jamboree-nintendo-switch-2-edition-plus-jamboree-tv"
     }
   ],
   "sports_news": [
     {
+      "title": "President Donald Trump issues executive order for college sports - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/president-donald-trump-issues-executive-order-for-college-sports-204418513.html"
+    },
+    {
+      "title": "Aaron Rodgers\u2019s first pass of first team period was picked off - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgerss-first-pass-of-first-team-period-was-picked-off"
+    },
+    {
       "title": "Commanders news and observations: Incoming vets begin forming connections - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/07/24/commanders-news-observations-new-veterans-begin-forming-connections/"
+    },
+    {
+      "title": "5 things learned at Packers training camp \u2013 July 24 - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-july-24-2025"
+    },
+    {
+      "title": "Steelers training camp: Takeaways from Day One - Behind the Steel Curtain",
+      "link": "https://www.behindthesteelcurtain.com/2025/7/24/24473881/steelers-training-camp-takeaways-day-one-news-reports-aaron-rodgers-dk-metcalf-latrobe-notes-nfl"
+    },
+    {
+      "title": "Who Can You Trust? With Pablo Torre - Defector",
+      "link": "https://defector.com/who-can-you-trust-with-pablo-torre"
     },
     {
       "title": "Joe Flacco: Hard to tell how QB competition will look weeks from now - NBC Sports",
@@ -106,12 +122,8 @@
       "link": "https://nypost.com/2025/07/24/sports/suspended-nj-little-league-bat-flipper-can-play-in-state-championship-game-judge-rules/"
     },
     {
-      "title": "Detroit Lions training camp observations Day 4: Offense shifts interior OL - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/2025/7/24/24473571/detroit-lions-training-camp-observations-day-4-offense-shifts-interior-ol"
-    },
-    {
-      "title": "James Cook: I deserve to be paid what I want, what I need, and I will be eventually - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-i-deserve-to-be-paid-what-i-want-what-i-need-and-i-will-be-eventually"
+      "title": "Dan Campbell stops second straight Lions practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-pulls-plug-on-second-straight-lions-practice"
     },
     {
       "title": "Five ice hockey players found not guilty in Canada sexual assault case - BBC",
@@ -122,12 +134,28 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-say-justin-fields-is-day-to-day-with-dislocated-toe"
     },
     {
+      "title": "Eugenio Suarez trade market with D-backs involves 12 teams - Arizona Sports",
+      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/eugenio-suarez-14/3590951/"
+    },
+    {
+      "title": "Dolphins camp: Edge rushers impress and RBs move well; plus stock up, stock down - Sun Sentinel",
+      "link": "https://www.sun-sentinel.com/2025/07/24/dolphins-camp-edge-rushers-impress-and-rbs-move-well-plus-stock-up-stock-down/"
+    },
+    {
       "title": "Report: NFL will acquire up to 10 percent of ESPN as part of NFL Media deal - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-nfl-will-acquire-up-to-10-percent-of-espn-as-part-of-nfl-media-deal"
     },
     {
+      "title": "9 Players that stood out on day 2 of Patriots training camp - 98.5 The Sports Hub",
+      "link": "https://985thesportshub.com/2025/07/24/patriots-training-camp-standouts-drake-maye/"
+    },
+    {
       "title": "Commanders' Von Miller - I can 'still roll out of bed' and rush passer - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45814008/commanders-von-miller-roll-bed-rush-passer"
+    },
+    {
+      "title": "Caitlin Clark Gets Encouraging Injury Update - Sports Illustrated",
+      "link": "https://www.si.com/wnba/caitlin-clark-injury-update-return-date"
     },
     {
       "title": "Observations From Day 2 of Titans Training Camp on Thursday - Tennessee Titans",
@@ -138,40 +166,8 @@
       "link": "https://www.si.com/nfl/nfl-mailbag-why-arch-manning-could-declare-for-draft-saints-have-top-pick"
     },
     {
-      "title": "Tour de France stage 18: Ben O'Connor sails up Col de la Loze for solo victory while Tadej Poga\u010dar drops rivals with second at summit - Cyclingnews",
-      "link": "https://www.cyclingnews.com/races/tour-de-france-2025/stage-18/results/"
-    },
-    {
-      "title": "Watch: Jofra Archer Targets Injured Rishabh Pant's Fractured Toes, Next Ball India Star Does This - NDTV Sports",
-      "link": "https://sports.ndtv.com/england-vs-india-2025/jofra-archer-targets-injured-rishabh-pants-fractured-toes-next-ball-india-star-does-this-watch-8943194"
-    },
-    {
-      "title": "5 NFL teams under the most pressure in 2025 - SBNation.com",
-      "link": "https://www.sbnation.com/nfl/2025/7/24/24473644/nfl-teams-under-the-most-pressure-2025-colts-ravens-bills-cardinals"
-    },
-    {
-      "title": "J.J. McCarthy organized two throwing sessions with teammates in offseason - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-organized-two-throwing-sessions-with-teammates-in-offseason"
-    },
-    {
-      "title": "Mizzou Extends Contract of Head Football Coach Eliah Drinkwitz - University of Missouri Athletics",
-      "link": "https://mutigers.com/news/2025/7/24/mizzou-extends-contract-of-head-football-coach-eliah-drinkwitz.aspx"
-    },
-    {
-      "title": "Dolphins' Matos still in hospital for observation - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45812633/dolphins-bayron-matos-stable-condition-remains-hospital"
-    },
-    {
-      "title": "Jerry Jones is dark cloud Dallas Cowboys can\u2019t escape - Andscape",
-      "link": "https://andscape.com/features/jerry-jones-is-dark-cloud-dallas-cowboys-cant-escape/"
-    },
-    {
-      "title": "Oleksandr Usyk: WBO orders undisputed champion to face Joseph Parker - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/c8d6d9q2zq4o"
-    },
-    {
-      "title": "Here\u2019s what happened at Day 2 of Dolphins training camp: Who impressed, highlights, more - Miami Herald",
-      "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article309894560.html"
+      "title": "Sophie Cunningham reveals WNBA fine over TikTok video - Awful Announcing",
+      "link": "https://awfulannouncing.com/wnba/sophie-cunningham-tiktok-fine-officials.html"
     }
   ],
   "weather": {
