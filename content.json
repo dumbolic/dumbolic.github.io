@@ -1,9 +1,9 @@
 {
-  "quote": "I will not walk backward in life. \u2013 J.R.R. Tolkien",
-  "fact": "Only 6 people in the whole world have died from moshing.",
-  "crypto": "BTC: $117,164 | ETH: $3,748.61",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the house go to the doctor? It was having window panes.",
+  "quote": "What you seek is seeking you. \u2013 Rumi",
+  "fact": "There are 1,575 steps from the ground floor to the top of the Empire State building.",
+  "crypto": "BTC: $117,329 | ETH: $3,766.62",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "A book just fell on my head. I only have my shelf to blame.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.TigerDay_EN-US5038876410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "\u201cThey\u2019ll Know Everything You Click\u201d: AI-Powered Mobile Browsers Are Here and GEO Experts Warn \u201cThis Changes the Surveillance Game\u201d - Rude Baguette",
+      "link": "https://www.rudebaguette.com/en/2025/07/theyll-know-everything-you-click-ai-powered-mobile-browsers-are-here-and-geo-experts-warn-this-changes-the-surveillance-game/"
+    },
+    {
+      "title": "Now everyone can stream their own games in the Xbox PC app. - The Verge",
+      "link": "https://www.theverge.com/news/714633/xbox-pc-app-cloud-gaming-stream-your-own-game-play-history"
+    },
+    {
+      "title": "iPhone 17 Pro could be even more \u2018Pro\u2019 than usual this year - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/28/iphone-17-pro-could-be-even-more-pro-than-usual-this-year/"
+    },
     {
       "title": "Microsoft starts rolling out Xbox age verification in the UK - The Verge",
       "link": "https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features"
@@ -24,14 +36,6 @@
       "link": "https://arstechnica.com/gadgets/2025/07/another-google-pixel-6a-catches-fire-after-battery-nerfing-update/"
     },
     {
-      "title": "Google Chrome adds AI-powered store summaries to help US shoppers - TechCrunch",
-      "link": "https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/"
-    },
-    {
-      "title": "Leaker Reveals an iMac Design Detail That Never Happened - MacRumors",
-      "link": "https://www.macrumors.com/2025/07/28/alleged-imac-screen-prototype/"
-    },
-    {
       "title": "Pok\u00e9mon GO Cozy Companions Event - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/event/cozy-companions/"
     },
@@ -40,130 +44,118 @@
       "link": "https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick"
     },
     {
-      "title": "Magic: The Gathering Has A Price Problem, And It's Sabotaging Universes Beyond - GameSpot",
-      "link": "https://www.gamespot.com/articles/magic-the-gathering-has-a-price-problem-and-its-sabotaging-universes-beyond/1100-6533484/"
-    },
-    {
       "title": "Tales of the Shire falls short of the LOTR Animal Crossing promise - Polygon",
       "link": "https://www.polygon.com/review/616491/tales-shire-lotr-cozy-game-impressions"
     },
     {
-      "title": "Elon Musk Is Furious That People Are Launching So Many Satellites, Even Though He's Personally Responsible for 60 Percent of All Satellites Currently in Space - Futurism",
-      "link": "https://futurism.com/elon-musk-spacex-furious-ast-satellites-fcc"
+      "title": "AYANEO just launched a budget-focused sub-brand, and Retroid and ANBERNIC should be scared - Android Authority",
+      "link": "https://www.androidauthority.com/konkr-pocket-fit-announcement-3581611/"
     },
     {
       "title": "NVIDIA\u2019s GeForce RTX 50 SUPER Rumored to Drop Into The Markets as Soon as Q4 2025, Featuring Massive VRAM Upgrades - Wccftech",
       "link": "https://wccftech.com/nvidia-geforce-rtx-50-super-rumored-to-drop-into-the-markets-as-soon-as-q4-2025/"
     },
     {
-      "title": "Google Pixel grows in US, settling into top 4 spot ahead of Pixel 10 launch - 9to5Google",
-      "link": "http://9to5google.com/2025/07/28/google-pixel-us-market-share-q2-2025/"
-    },
-    {
-      "title": "Review: 2025 Santa Cruz Bullit eMTB - Pinkbike",
-      "link": "https://www.pinkbike.com/news/review-santa-cruz-bullit-2025.html"
-    },
-    {
-      "title": "PNW Components Release Loam Pedal V2 - Pinkbike",
-      "link": "https://www.pinkbike.com/news/pnw-components-release-loam-pedal-v2.html"
+      "title": "Here's how Samsung is speeding up software updates for Galaxy devices - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-release-updates-faster-3581650/"
     },
     {
       "title": "The Biggest Signs That AI Wrote a Paper, According to a Professor - Gizmodo",
       "link": "https://gizmodo.com/the-biggest-signs-that-ai-wrote-a-paper-according-to-a-professor-2000634580"
     },
     {
-      "title": "Xbox has laid out its Gamescom plans - and they include a playable demo of Hollow Knight: Silksong - Eurogamer",
-      "link": "https://www.eurogamer.net/xbox-has-laid-out-its-gamescom-plans-and-they-include-a-playable-demo-of-hollow-knight-silksong"
+      "title": "The Future Of Gaming Console Exclusives Is More In Doubt Than Ever - Kotaku",
+      "link": "https://kotaku.com/ps5-xbox-exclusivity-helldivers-spiderman-switch-2-1851787122"
     },
     {
       "title": "Google confirms Android Earthquake Alerts partially failed during deadly 2023 quake in Turkey - 9to5Google",
       "link": "http://9to5google.com/2025/07/28/google-android-earthquake-alerts-partial-failure-turkey-2023/"
     },
     {
-      "title": "Legendary GTX 1080 Ti Loses To RTX 5050 Even With Custom Liquid Cooling And OC; RTX 5050 Crushes The GOAT When Overclocked To 3.3GHz - Wccftech",
-      "link": "https://wccftech.com/legendary-gtx-1080-ti-loses-to-rtx-5050-even-with-custom-liquid-cooling-and-oc/"
+      "title": "Xbox just leaked Mortal Kombat: Legacy Kollection's release date - Eurogamer",
+      "link": "https://www.eurogamer.net/xbox-just-leaked-mortal-kombat-legacy-kollections-release-date"
+    },
+    {
+      "title": "Poll: What Review Score Would You Give Super Mario Party Jamboree TV? - Nintendo Life",
+      "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-super-mario-party-jamboree-tv"
     }
   ],
   "sports_news": [
+    {
+      "title": "Titans waive Treylon Burks - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-waive-treylon-burks"
+    },
+    {
+      "title": "Trench Report: Top Takeaways From Will Campbell and the Patriots First Padded Practice of the Summer - New England Patriots",
+      "link": "https://www.patriots.com/news/trench-report-top-takeaways-from-will-campbell-and-the-patriots-first-padded-practice-of-the-summer"
+    },
+    {
+      "title": "Deion Sanders says he had bladder cancer but plans to coach the Colorado Buffaloes this season - ABC News",
+      "link": "https://abcnews.go.com/Sports/wireStory/deion-sanders-bladder-cancer-coach-colorado-buffaloes-season-124145204"
+    },
+    {
+      "title": "Courtland Sutton agrees to four-year extension with Broncos - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/courtland-sutton-agrees-to-four-year-extension-with-broncos"
+    },
+    {
+      "title": "How Joe Flacco, 40 and unbothered, became the internet's favorite QB -- and maybe the Browns' best hope - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/how-joe-flacco-40-and-unbothered-became-the-internets-favorite-qb-and-maybe-the-browns-best-hope/"
+    },
+    {
+      "title": "Baker Mayfield: Bucs gave me guaranteed money in 2026 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-bucs-gave-me-guaranteed-money-in-2026"
+    },
     {
       "title": "Emmanuel Clase Placed On Administrative Leave Amid MLB\u2019s Sports-Betting Investigation - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/07/guardians-closer-emmanuel-clase-administrative-leave-gambling-investigation-mlb.html"
     },
     {
-      "title": "Braves To Acquire Carlos Carrasco - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/07/yankees-trade-carlos-carrasco-braves.html"
+      "title": "Former Michigan basketball player dies at age 22 in \u2018tragic accident\u2019 - ClickOnDetroit | WDIV Local 4",
+      "link": "https://www.clickondetroit.com/sports/2025/07/28/former-michigan-basketball-player-dies-at-age-22-in-tragic-accident/"
     },
     {
-      "title": "Deion announces he battled, beat bladder cancer - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/45843439/colorado-coach-deion-sanders-said-battled-bladder-cancer"
+      "title": "Training Camp Observations: First day in pads brings the physical play - Carolina Panthers",
+      "link": "https://www.panthers.com/news/training-camp-observations-first-day-in-pads-brings-the-physical-play-chuba-hubbard-trevin-wallace-tetairoa-mcmillan"
     },
     {
       "title": "Eagles 2025 training camp practice notes, Day 4: Quinyon Mitchell is a stud - PhillyVoice",
       "link": "https://www.phillyvoice.com/eagles-2025-training-camp-practice-notes-day-4-quinyon-mitchell-stud/"
     },
     {
-      "title": "Former Michigan basketball player dies at age 22 - MLive.com",
-      "link": "https://www.mlive.com/wolverines/2025/07/former-michigan-basketball-player-dies-at-age-22.html"
+      "title": "The Main Characters of the 2025 MLB Trade Deadline - The Ringer",
+      "link": "https://www.theringer.com/2025/07/28/mlb/mlb-trade-deadline-2025-rumors-news-predictions-tracker"
     },
     {
-      "title": "Minkah Fitzpatrick: I wanted to know I\u2019d be in Miami for more than one season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-i-wanted-to-know-id-be-in-miami-for-more-than-one-season"
+      "title": "'My whole body looks better:' Luka Don\u010di\u0107 shares summer workout routine, defying fitness criticisms - WFAA",
+      "link": "https://www.wfaa.com/article/sports/nba/luka-doncic-mens-health-skinny-fit-cover-fitness/287-21f9b789-acdf-413e-abb2-9f65ebd51893"
     },
     {
-      "title": "Lionel Messi, wife have Coldplay \u2018kiss cam\u2019 concert moment after controversial MLS suspension - New York Post",
-      "link": "https://nypost.com/2025/07/28/sports/lionel-messi-wife-have-coldplay-kiss-cam-concert-moment/"
-    },
-    {
-      "title": "Steelers releasing Cordarrelle Patterson just days into training camp - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/07/28/nfl-steelers-cordarrelle-patterson-training-camp-released/stories/202507280040"
+      "title": "Cordarrelle Patterson says Steelers have released him - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cordarrelle-patterson-says-steelers-have-released-him"
     },
     {
       "title": "Demi Vollering goes down hard in late Tour de France Femmes crash - Cyclingnews",
       "link": "https://www.cyclingnews.com/news/demi-vollering-goes-down-hard-in-late-tour-de-france-femmes-crash/"
     },
     {
-      "title": "Sources: Phillies' Bryce Harper cusses out Rob Manfred during meeting - 6abc Philadelphia",
-      "link": "https://www.espn.com/mlb/story/_/id/45842533/sources-phillies-bryce-harper-tells-mlb-boss-get-clubhouse?ex_cid=espnapi_affiliate_abcotv"
-    },
-    {
       "title": "3 Chiefs held out as Monday\u2019s training camp practice begins - Arrowhead Pride",
       "link": "https://www.arrowheadpride.com/2025/7/28/24475950/chiefs-injuries-3-players-held-out-monday-day-6"
     },
     {
-      "title": "Fantasy baseball stashes: Players who could see their value increase at the MLB Trade Deadline - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/baseball/news/fantasy-baseball-stashes-players-who-could-see-their-value-increase-at-the-mlb-trade-deadline"
+      "title": "2025 World Junior Summer Showcase: 3 things learned on Day 2 - NHL.com",
+      "link": "https://www.nhl.com/news/2025-world-junior-summer-showcase-notebook-july-28"
+    },
+    {
+      "title": "\u2018Know that I\u2019ll be here more than a season.\u2019 Minkah Fitzpatrick breaks silence - Miami Herald",
+      "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article311483902.html"
+    },
+    {
+      "title": "Concerning Buffalo Bills injury report grows as Dalton Kincaid among a dozen not practicing - Syracuse.com",
+      "link": "https://www.syracuse.com/buffalo-bills/2025/07/concerning-buffalo-bills-injury-report-grows-as-dalton-kincaid-among-a-dozen-not-practicing.html"
     },
     {
       "title": "NFL Takeaways: Inside Ben Johnson\u2019s Plan for Bears QB Caleb Williams - Sports Illustrated",
       "link": "https://www.si.com/nfl/nfl-takeaways-inside-ben-johnson-plan-for-bears-caleb-williams-training-camp"
-    },
-    {
-      "title": "Miami Dolphins 2025 Camp: Practice 5 Recap - Sports Illustrated",
-      "link": "https://www.si.com/nfl/dolphins/news/dolphins-2025-camp-practice-5-recap-01k18sp6a1ac"
-    },
-    {
-      "title": "MLB Speedway Classic to break attendance mark - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/45842074/mlb-speedway-classic-break-single-game-attendance-record"
-    },
-    {
-      "title": "Tom Aspinall slams Michael Chandler for \u2018bad fight IQ,\u2019 Chandler responds - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/7/28/24475889/tom-aspinall-slams-michael-chandler-for-bad-fight-iq-chandler-responds"
-    },
-    {
-      "title": "Ichiro delivers savage Marlins joke during Hall of Fame speech - New York Post",
-      "link": "https://nypost.com/2025/07/28/sports/ichiro-delivers-savage-marlins-joke-during-hall-of-fame-speech/"
-    },
-    {
-      "title": "Aaron Glenn on physical Monday practice: Doing everything I can to win games - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-on-physical-monday-practice-doing-everything-i-can-to-win-games"
-    },
-    {
-      "title": "Browns won\u2019t sign another QB in the wake of Kenny Pickett\u2019s hamstring injury, source says - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/07/browns-wont-sign-another-qb-in-the-wake-of-kenny-picketts-hamstring-injury.html"
-    },
-    {
-      "title": "World Aquatics Championships 2025: Gretchen Walsh wins gold in 100m butterfly, Summer McIntosh wins again - Yahoo Sports",
-      "link": "https://sports.yahoo.com/olympics/breaking-news/article/world-aquatics-championships-2025-gretchen-walsh-wins-gold-in-100m-butterfly-summer-mcintosh-wins-again-123434777.html"
     }
   ],
   "weather": {
