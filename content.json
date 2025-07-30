@@ -1,9 +1,9 @@
 {
-  "quote": "Creativity is intelligence having fun. \u2013 Albert Einstein",
-  "fact": "One quarter of the bones in your body are in your feet.",
-  "crypto": "BTC: $118,384 | ETH: $3,801.53",
+  "quote": "Everyone is a moon, and has a dark side which he never shows to anybody. \u2013 Mark Twain",
+  "fact": "1 in 8 Americans has worked at a McDonalds restaurant.",
+  "crypto": "BTC: $118,065 | ETH: $3,779.81",
   "tip": "Keep your software dependencies updated.",
-  "joke": "A Skeleton walked into a bar he said I need a beer and a mop",
+  "joke": "Why did the man put his money in the freezer? He wanted cold hard cash!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Warner Bros. Games is working on another live-service game, despite Suicide Squad flop - Eurogamer",
+      "link": "https://www.eurogamer.net/warner-bros-games-is-working-on-another-live-service-game-despite-suicide-squad-flop"
+    },
+    {
       "title": "Nintendo Announces New Donkey Kong Maximus Cup Event For Tetris 99 - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/07/nintendo-announces-new-donkey-kong-maximus-cup-event-for-tetris-99"
     },
     {
       "title": "Battlefield 6 Maps Leak: All 11 Multiplayer Maps and 4 Remasters Revealed Via Datamine - The Game Post",
       "link": "https://thegamepost.com/battlefield-6-maps-leak-all-multiplayer-maps-remasters-revealed/"
+    },
+    {
+      "title": "First look at the iPhone 17 Pro? These public images confirm big design and camera upgrades - ZDNet",
+      "link": "https://www.zdnet.com/article/first-look-at-the-iphone-17-pro-these-public-images-confirm-big-design-and-camera-upgrades/"
     },
     {
       "title": "Nintendo Switch 2 and Switch update 20.3.0 out now, patch notes - Nintendo Everything",
@@ -32,16 +40,16 @@
       "link": "https://www.trueachievements.com/n59779/xbox-sale-roundup-july-29-2025"
     },
     {
-      "title": "Does alleged iPhone 17 Pro leak show second Camera Control? - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/28/iphone-17-pro-second-camera-control-leak/"
-    },
-    {
       "title": "Sagat's character select screen animation and Versus screen faces revealed for Street Fighter 6 - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/jul/28/sagat-animations-character-select/"
     },
     {
-      "title": "Google Search rolling out AI Mode to the UK - 9to5Google",
-      "link": "http://9to5google.com/2025/07/28/google-ai-mode-uk/"
+      "title": "Google launches new AI search feature in UK - BBC",
+      "link": "https://www.bbc.com/news/articles/clyj4zky4zwo"
+    },
+    {
+      "title": "Verizon will give you a free Samsung Z Flip 7 phone right now - how the deal works - ZDNet",
+      "link": "https://www.zdnet.com/article/verizon-will-give-you-a-free-samsung-z-flip-7-phone-right-now-how-the-deal-works/"
     },
     {
       "title": "Hands-on with Anker\u2019s latest three products: Impressively thin MagSafe battery, more - 9to5Mac",
@@ -58,10 +66,6 @@
     {
       "title": "More gamers can now upgrade to the latest version of Windows 11 \u2014 Microsoft finally removes update block - Windows Central",
       "link": "https://www.windowscentral.com/gaming/pc-gaming/more-gamers-can-now-upgrade-to-the-latest-version-of-windows-11-microsoft-finally-removes-update-block"
-    },
-    {
-      "title": "Donkey Kong Bananza's Ending Is Phenomenal - Kotaku",
-      "link": "https://kotaku.com/donkey-kong-bananza-switch-2-ending-final-boss-odyssey-1851787178"
     },
     {
       "title": "Major Nintendo Switch 2 Launch Games Are Already on Sale at Woot - IGN",
@@ -84,38 +88,54 @@
       "link": "https://www.theverge.com/news/714633/xbox-pc-app-cloud-gaming-stream-your-own-game-play-history"
     },
     {
-      "title": "Sony\u2019s PlayStation Sues Tencent Over Its \u2018Slavish Clone\u2019 of \u2018Horizon\u2019 Video Game Franchise - Variety",
-      "link": "https://variety.com/2025/gaming/news/horizon-light-of-motiram-lawsuit-playstation-tencent-1236472248/"
-    },
-    {
-      "title": "Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pok\u00e9mon Legends: Z-A - Kotaku",
-      "link": "https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158"
+      "title": "4 Different Ways To Stream Local TV Channels For Free - bgr.com",
+      "link": "https://www.bgr.com/1924159/best-ways-stream-local-tv-channels-free/"
     }
   ],
   "sports_news": [
     {
+      "title": "Ryne Sandberg, longtime Cubs star and Baseball Hall of Famer, dies after cancer battle - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/ryne-sandberg-longtime-cubs-star-and-baseball-hall-of-famer-dies-after-cancer-battle-012806032.html"
+    },
+    {
+      "title": "6 takeaways from Lions OC John Morton\u2019s informative press conference - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/7/29/24476525/6-takeaways-detroit-lions-oc-john-mortons-informative-press-conference"
+    },
+    {
       "title": "Newspaper headlines: 'The lion ladies' and 'You can't fake that starvation' - BBC",
       "link": "https://www.bbc.com/news/articles/cvgvx0202d4o"
+    },
+    {
+      "title": "Tulane basketball player Gregg Glenn III dead at 22 in \u2018tragic accident\u2019 - New York Post",
+      "link": "https://nypost.com/2025/07/28/sports/tulane-basketball-player-gregg-glenn-iii-dead-at-22-in-tragic-accident/"
+    },
+    {
+      "title": "10 Observations from Day 5 of 2025 Rams Training Camp: Poona Ford shines in run-heavy day, but practice still featured healthy dose of Puka Nacua playmaking - Rams",
+      "link": "https://www.therams.com/news/10-observations-day-5-2025-rams-training-camp-poona-ford-shines-run-heavy-day-puka-nacua-playmaking"
     },
     {
       "title": "Guardians\u2019 Emmanuel Clase put on leave as part of MLB gambling probe - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/07/28/emmanuel-clase-mlb-gambling-investigation/"
     },
     {
+      "title": "Deion Sanders says Shedeur told him not to come visit him in Browns training camp \u2014 yet - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/07/deion-sanders-says-shedeur-told-him-not-to-come-visit-him-in-browns-training-camp-yet.html"
+    },
+    {
+      "title": "IMPACT: Cowboys\u2019 options in temporary absence of Guyton - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/impact-cowboys-options-in-temporary-absence-of-guyton"
+    },
+    {
       "title": "Man Sentenced to 2.5 Years in Prison for Stalking, Harassing Caitlin Clark - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25230123-man-sentenced-25-years-prison-stalking-harassing-caitlin-clark"
     },
     {
-      "title": "Report: MRI reveals bone fracture for Tyler Guyton, who will miss 4-6 weeks - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mri-reveals-bone-fracture-for-tyler-guyton-who-will-miss-4-6-weeks"
-    },
-    {
-      "title": "Luka Doncic changed everything about his offseason after NBA trade shocker - New York Post",
-      "link": "https://nypost.com/2025/07/28/sports/luka-doncic-changed-everything-after-nba-trade-shocker/"
-    },
-    {
       "title": "Aaron Glenn includes NFL rarity into Jets\u2019 first padded-practice that lives up to hype - New York Post",
       "link": "https://nypost.com/2025/07/28/sports/aaron-glenn-includes-nfl-rarity-into-jets-first-padded-practice-that-lives-up-to-hype/"
+    },
+    {
+      "title": "Brewers Acquire Danny Jansen - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/rays-trade-danny-jansen-brewers.html"
     },
     {
       "title": "Saints Training Camp Day 5: Our first impressions of the team in pads - NewOrleans.Football",
@@ -150,28 +170,8 @@
       "link": "https://www.chicagobears.com/news/chicago-bears-training-camp-report-monday-july-28-jaquan-brisker"
     },
     {
-      "title": "Who Stood Out in Ravens\u2019 First Padded Practice | Practice Report - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-first-padded-practice-mark-andrews-mike-green-training-camp-standouts"
-    },
-    {
-      "title": "Deion Sanders\u2019 emotions, honesty about cancer a victory to start college football season - Andscape",
-      "link": "https://andscape.com/features/deion-sanders-emotions-honesty-about-cancer-a-victory-to-start-college-football-season/"
-    },
-    {
-      "title": "5 things learned at Packers training camp \u2013 July 28 - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-july-28-2025"
-    },
-    {
-      "title": "Eagles Training Camp Practice Notes: Quinyon Mitchell looks really good entering Year 2 - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/2025/7/28/24476167/eagles-training-camp-practice-notes-quinyon-mitchell-philadelphia-dallas-goedert-jalen-hurts"
-    },
-    {
-      "title": "Power Rankings: Wyndham Championship - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/power-rankings/2025/07/28/fantasy-golf-advice-tips-picks-wyndham-championship-sedgefield-greensboro-fedexcup-playoffs"
-    },
-    {
-      "title": "Titans Sign WR Ramel Keyton, Waive-Injured WR Treylon Burks - Tennessee Titans",
-      "link": "https://www.tennesseetitans.com/news/titans-sign-wr-ramel-keyton-waive-injured-wr-treylon-burks"
+      "title": "Possible Bengals Free Agent Target Officially Cleared After Devastating Injury - Sports Illustrated",
+      "link": "https://www.si.com/nfl/bengals/news/possible-bengals-free-agent-target-will-hernandez-officially-cleared-after-devastating-injury-01k19ekxja62"
     }
   ],
   "weather": {
