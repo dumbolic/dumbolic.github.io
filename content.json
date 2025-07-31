@@ -1,9 +1,9 @@
 {
-  "quote": "Simplicity is a difficult thing to achieve.   \u2013 Charlie Chaplin",
-  "fact": "\"Dreamt\" is the only English word that ends in the letters \"mt.\"",
-  "crypto": "BTC: $118,524 | ETH: $3,860.47",
+  "quote": "Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. \u2013 Earl Nightingale",
+  "fact": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
+  "crypto": "BTC: $118,498 | ETH: $3,846.41",
   "tip": "Commit often with meaningful messages.",
-  "joke": "How do you steal a coat? You jacket.",
+  "joke": "Mountains aren't just funny, they are hill areas",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Flaw in Gemini CLI coding tool could allow hackers to run nasty commands - Ars Technica",
+      "link": "https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/"
+    },
+    {
+      "title": "NIS Accidentally Reveals Upcoming Switch 2 Game, Sparking Even More Direct Speculation - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/07/nis-accidentally-reveals-upcoming-switch-2-game-sparking-even-more-direct-speculation"
+    },
     {
       "title": "Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update"
@@ -24,12 +32,16 @@
       "link": "https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286"
     },
     {
-      "title": "SpaceX moves Starship to launch pad for testing ahead of Flight 10 (photos) - Space",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-to-launch-pad-for-testing-ahead-of-flight-10-photos"
+      "title": "Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/29/sonny-dickson-shares-clearest-look-yet-at-the-entire-iphone-17-lineup/"
     },
     {
-      "title": "Plagiarism claims hit Pok\u00e9mon TCG Pocket as fans say Ho-Oh art was copied - Polygon",
-      "link": "https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism"
+      "title": "Xbox and Obsidian just shared the Grounded 2 Early Access roadmap - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/xbox-and-obsidian-just-shared-the-grounded-2-early-access-roadmap-heres-when-the-game-pass-sequel-is-getting-new-updates-and-content"
+    },
+    {
+      "title": "SpaceX moves Starship to launch pad for testing ahead of Flight 10 (photos) - Space",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-to-launch-pad-for-testing-ahead-of-flight-10-photos"
     },
     {
       "title": "Call of Duty\u2019s bloated HQ launcher \u2014 now officially 'decoupled' by Activision \u2014 here's what you need to know - Windows Central",
@@ -38,6 +50,10 @@
     {
       "title": "\u2018Pixelsnap\u2019 charging puck leak confirms Qi2 magnets on Pixel 10 - 9to5Google",
       "link": "http://9to5google.com/2025/07/29/pixel-10-pixelsnap-charger/"
+    },
+    {
+      "title": "Call Of Duty: Season 5 - See 46 Images From Black Ops 6, Zombies, And Warzone - GameSpot",
+      "link": "https://www.gamespot.com/gallery/call-of-duty-season-5-see-46-images-from-black-ops-6-zombies-and-warzone/2900-6820/"
     },
     {
       "title": "Opera is filing a complaint over Microsoft\u2019s tricks that push you to use Edge - The Verge",
@@ -56,6 +72,10 @@
       "link": "https://apnews.com/article/microsoft-authenticator-passwords-passkey-4cf0d3e4488f10702e15d916dc3604fd"
     },
     {
+      "title": "The chaos and confusion of itch.io and Steam\u2019s abrupt adult game ban - The Verge",
+      "link": "https://www.theverge.com/games/715299/itchio-games-delisting-payment-processor-paypal"
+    },
+    {
       "title": "Apple releases iOS 18.6, macOS 15.6, and other updates as current gen winds down - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/07/apple-releases-ios-18-6-macos-15-6-and-other-updates-as-current-gen-winds-down/"
     },
@@ -64,46 +84,42 @@
       "link": "https://9to5mac.com/2025/07/29/how-to-uninstall-the-ios-26-beta-with-or-without-a-backup/"
     },
     {
-      "title": "Should You Buy a Switch 2 Now or Wait for Black Friday? - IGN",
-      "link": "https://www.ign.com/articles/should-you-buy-a-nintendo-switch-2-now-or-wait-for-black-friday"
-    },
-    {
       "title": "Google Home rolling out fix for issues with light controls via voice commands - 9to5Google",
       "link": "http://9to5google.com/2025/07/29/google-home-light-control-voice-command-fix/"
     },
     {
       "title": "Google\u2019s NotebookLM rolls out Video Overviews - TechCrunch",
       "link": "https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/"
-    },
-    {
-      "title": "What's going on with Steam and itch.io's crackdown on adult content? - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/whats-going-on-with-steam-and-itchios-crackdown-on-adult-content"
-    },
-    {
-      "title": "Mega Dragonite\u2019s silly design has Pok\u00e9mon fans reviving decade-old arguments - Polygon",
-      "link": "https://www.polygon.com/gaming/617123/pokemon-legends-za-mega-dragonite-fan-reactions-design-wings"
-    },
-    {
-      "title": "Lies of P leads a diverse month for free PS Plus games - Polygon",
-      "link": "https://www.polygon.com/news/617149/playstation-plus-august-2025-free-games-ps4-ps5-lies-p"
-    },
-    {
-      "title": "Google\u2019s AI Mode gets new \u2018Canvas\u2019 feature, real-time help with Search Live, and more - TechCrunch",
-      "link": "https://techcrunch.com/2025/07/29/googles-ai-mode-gets-new-canvas-feature-real-time-help-with-search-live-and-more/"
     }
   ],
   "sports_news": [
     {
-      "title": "Blue Jays Remain In Bullpen Market - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/07/blue-jays-remain-in-bullpen-market.html"
+      "title": "Sources: Ravens TE Likely has small foot fracture - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45858211/ravens-isaiah-likely-fractured-foot-play-week-1"
+    },
+    {
+      "title": "'Demi really thinks she's in a gilded cage' - Visma DS Jos van Emden hits back at FDJ's criticism of Tour de France Femmes peloton - Cyclingnews",
+      "link": "https://www.cyclingnews.com/news/demi-really-thinks-shes-in-a-gilded-cage-visma-ds-jos-van-emden-hits-back-at-fdjs-criticism-of-tour-de-france-femmes-peloton/"
+    },
+    {
+      "title": "Stock up, stock down after the first week of 2025 Eagles training camp - PhillyVoice",
+      "link": "https://www.phillyvoice.com/stock-up-down-after-first-week-2025-eagles-training-camp-quinyon-mitchell-jihaad-campbell-moro-ojomo/"
+    },
+    {
+      "title": "Injured Stokes out of fifth Test against India, England rest Archer and Carse - ESPNcricinfo",
+      "link": "https://www.espncricinfo.com/story/eng-vs-ind-the-oval-injured-ben-stokes-out-of-fifth-test-jofra-archer-and-brydon-carse-rested-1497319"
+    },
+    {
+      "title": "Laura Dahlmeier: Climbers attempt rescue of injured Olympian in Pakistan - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/7/30/laura-dahlmeier-climbers-attempt-rescue-of-injured-olympian-in-pakistan"
     },
     {
       "title": "Mets, White Sox Have Reportedly Discussed Luisangel Acuna In Luis Robert Talks - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/07/mets-white-sox-have-reportedly-discussed-luisangel-acuna-in-luis-robert-talks.html"
     },
     {
-      "title": "UPDATE: Ronald Acu\u00f1a Jr. set for stint on 10-Day IL - Battery Power",
-      "link": "https://www.batterypower.com/2025/7/29/24477087/atlanta-braves-ronald-acuna-jr-10-day-il-injury-achilles-tightness"
+      "title": "Braves To Place Ronald Acuna On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/braves-to-place-ronald-acuna-on-injured-list.html"
     },
     {
       "title": "Will Smith, Freddie Freeman have clutch hits as Dodgers defeat Reds - Yahoo Sports",
@@ -116,14 +132,6 @@
     {
       "title": "Christian Wilkins Avoided Surgery On Second Foot Injury - ProFootballRumors.com",
       "link": "https://www.profootballrumors.com/2025/07/christian-wilkins-avoided-surgery-on-second-foot-injury"
-    },
-    {
-      "title": "News & Notes: Isaiah Likely Suffers Ankle Injury at Ravens Practice - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/isaiah-likely-ankle-injury-ravens-training-camp-practice"
-    },
-    {
-      "title": "UFC Perth main event announced featuring fighter who gave Jon Jones his toughest test - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/07/29/ufc-perth-main-event-announced-featuring-fighter-who-gave-jon-jones-his-toughest-test/"
     },
     {
       "title": "Blue Jays Designate Chad Green For Assignment - MLB Trade Rumors",
@@ -154,10 +162,6 @@
       "link": "https://www.chicagobears.com/news/chicago-bears-training-camp-report-tuesday-july-29-ben-johnson"
     },
     {
-      "title": "Vikings training camp recap, Day 6: J.J. McCarthy struggles, other notes - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/news/vikings-training-camp-recap-day-6-jj-mccarthy-struggles-other-notes"
-    },
-    {
       "title": "Ichiro\u2019s Hall of Fame joke gave David Samson \u2018PTSD\u2019 over Marlins ridicule - Awful Announcing",
       "link": "https://awfulannouncing.com/meadowlark/ichiro-marlins-joke-david-samson-ptsd.html"
     },
@@ -168,10 +172,6 @@
     {
       "title": "Broncos Camp Observations: RB RJ Harvey draws attention with big run, Denver's defense poses stiff challenge - Denver Broncos",
       "link": "https://www.denverbroncos.com/news/broncos-camp-observation-rb-rj-harvey-draws-attention-with-big-run-denver-s-defense-poses-stiff-challenge"
-    },
-    {
-      "title": "Practice 6: 2025 Miami Dolphins Training Camp Notebook - Miami Dolphins",
-      "link": "https://www.miamidolphins.com/news/practice-6-2025-miami-dolphins-training-camp-notebook"
     }
   ],
   "weather": {
