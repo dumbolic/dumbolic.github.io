@@ -1,19 +1,19 @@
 {
-  "quote": "No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. \u2013 Josh Waitzkin",
-  "fact": "When possums are playing `possum`, they are not \"playing.\" They actually pass out from sheer terror.",
-  "crypto": "BTC: $118,399 | ETH: $3,861.72",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What was a more important invention than the first telephone? The second one.",
+  "quote": "When you consider things like the stars, our affairs don't seem to matter very much, do they? \u2013 Virginia Woolf",
+  "fact": "Cats urine glows under a black light.",
+  "crypto": "BTC: $118,865 | ETH: $3,871.15",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Don\u2019t interrupt someone working intently on a puzzle. Chances are, you\u2019ll hear some crosswords.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update"
+      "title": "Super Mario 3D World + Bowser\u2019s Fury 1.2.1 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/super-mario-3d-world-bowsers-fury-1-2-1-update-out-now-patch-notes/"
     },
     {
       "title": "Switch Online's SNES Update Has Apparently Upgraded The CRT Filter - Nintendo Life",
@@ -24,8 +24,8 @@
       "link": "https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286"
     },
     {
-      "title": "iPhone 17 Pro Could Come in Surprising Orange Color, Dummy Models Suggest - MacRumors",
-      "link": "https://www.macrumors.com/2025/07/29/iphone-17-color-dummy-models/"
+      "title": "Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/29/sonny-dickson-shares-clearest-look-yet-at-the-entire-iphone-17-lineup/"
     },
     {
       "title": "SpaceX moves Starship to launch pad for testing ahead of Flight 10 (photos) - Space",
@@ -34,10 +34,6 @@
     {
       "title": "Plagiarism claims hit Pok\u00e9mon TCG Pocket as fans say Ho-Oh art was copied - Polygon",
       "link": "https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism"
-    },
-    {
-      "title": "JPMorgan doubles down on iPhone Fold predicted release date, pricing, more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/29/jpmorgan-doubles-down-on-iphone-fold-predicted-release-date-pricing-more/"
     },
     {
       "title": "\u2018Pixelsnap\u2019 charging puck leak confirms Qi2 magnets on Pixel 10 - 9to5Google",
@@ -60,6 +56,10 @@
       "link": "https://apnews.com/article/microsoft-authenticator-passwords-passkey-4cf0d3e4488f10702e15d916dc3604fd"
     },
     {
+      "title": "The chaos and confusion of itch.io and Steam\u2019s abrupt adult game ban - The Verge",
+      "link": "https://www.theverge.com/games/715299/itchio-games-delisting-payment-processor-paypal"
+    },
+    {
       "title": "Apple releases iOS 18.6, macOS 15.6, and other updates as current gen winds down - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/07/apple-releases-ios-18-6-macos-15-6-and-other-updates-as-current-gen-winds-down/"
     },
@@ -72,54 +72,58 @@
       "link": "https://www.ign.com/articles/should-you-buy-a-nintendo-switch-2-now-or-wait-for-black-friday"
     },
     {
-      "title": "More Wuchang PS5 Updates Detailed as Studio Commits to Support - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/07/more-wuchang-ps5-updates-detailed-as-studio-commits-to-support"
-    },
-    {
-      "title": "Google Home rolling out fix for issues with light controls via voice commands - 9to5Google",
-      "link": "http://9to5google.com/2025/07/29/google-home-light-control-voice-command-fix/"
+      "title": "Google\u2019s NotebookLM rolls out Video Overviews - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/"
     },
     {
       "title": "Windows 10 turns 10: Dying OS just worked, lacked compatibility chaos - theregister.com",
       "link": "https://www.theregister.com/2025/07/29/10_years_of_windows_10/"
     },
     {
-      "title": "Google\u2019s NotebookLM can now make narrated slideshows with AI - The Verge",
-      "link": "https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai"
-    },
-    {
       "title": "Mega Dragonite\u2019s silly design has Pok\u00e9mon fans reviving decade-old arguments - Polygon",
       "link": "https://www.polygon.com/gaming/617123/pokemon-legends-za-mega-dragonite-fan-reactions-design-wings"
+    },
+    {
+      "title": "Lies of P leads a diverse month for free PS Plus games - Polygon",
+      "link": "https://www.polygon.com/news/617149/playstation-plus-august-2025-free-games-ps4-ps5-lies-p"
     }
   ],
   "sports_news": [
     {
-      "title": "6 trades that make too much sense not to happen - MLB.com",
-      "link": "https://www.mlb.com/news/mlb-trades-that-should-happen-2025"
+      "title": "Power Analysis: 5 Moments Where the Tour de France Was Won - Outside Magazine",
+      "link": "https://velo.outsideonline.com/road/road-racing/tour-de-france/power-analysis-5-stages-where-tour-de-france-was-won/"
     },
     {
-      "title": "2025 World Championships: Day 4 Prelims Live Recap - SwimSwam",
-      "link": "https://swimswam.com/2025-world-championships-day-4-prelims-live-recap/"
+      "title": "Blue Jays Remain In Bullpen Market - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/blue-jays-remain-in-bullpen-market.html"
     },
     {
-      "title": "UPDATE: Ronald Acu\u00f1a Jr. set for stint on 10-Day IL - Battery Power",
-      "link": "https://www.batterypower.com/2025/7/29/24477087/atlanta-braves-ronald-acuna-jr-10-day-il-injury-achilles-tightness"
+      "title": "Mets, White Sox Have Reportedly Discussed Luisangel Acuna In Luis Robert Talks - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/mets-white-sox-have-reportedly-discussed-luisangel-acuna-in-luis-robert-talks.html"
+    },
+    {
+      "title": "Braves To Place Ronald Acuna On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/braves-to-place-ronald-acuna-on-injured-list.html"
     },
     {
       "title": "Enhanced Box Score: Brewers 9, Cubs 3 \u2013 July 29, 2025 - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2025/07/29/enhanced-box-score-brewers-9-cubs-3-july-29-2025/"
     },
     {
+      "title": "\u2018Run The Damn Ball\u2019 & Other Observations From Day 6 Of Seahawks Training Camp - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/run-the-damn-ball-other-observations-from-day-6-of-seahawks-training-camp"
+    },
+    {
       "title": "Christian Wilkins Avoided Surgery On Second Foot Injury - ProFootballRumors.com",
       "link": "https://www.profootballrumors.com/2025/07/christian-wilkins-avoided-surgery-on-second-foot-injury"
     },
     {
-      "title": "Seahawks\u2019 offense bounces back and more we learned from practice - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-offense-bounces-back-and-more-we-learned-from-practice/"
-    },
-    {
       "title": "News & Notes: Isaiah Likely Suffers Ankle Injury at Ravens Practice - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/isaiah-likely-ankle-injury-ravens-training-camp-practice"
+    },
+    {
+      "title": "UFC Perth main event announced featuring fighter who gave Jon Jones his toughest test - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/07/29/ufc-perth-main-event-announced-featuring-fighter-who-gave-jon-jones-his-toughest-test/"
     },
     {
       "title": "Blue Jays Designate Chad Green For Assignment - MLB Trade Rumors",
@@ -128,6 +132,10 @@
     {
       "title": "Twins Place Byron Buxton On 10-Day IL With Ribcage Inflammation - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/07/twins-place-byron-buxton-on-10-day-il-with-ribcage-inflammation.html"
+    },
+    {
+      "title": "Malik Nabers exits practice with apparent shoulder injury in Giants training camp scare - New York Post",
+      "link": "https://nypost.com/2025/07/29/sports/malik-nabers-exits-with-apparent-injury-in-giants-training-camp-scare/"
     },
     {
       "title": "Dan Patrick blasts Bryce Harper for fiery Rob Manfred blowup: \u2018Embarrassed for him\u2019 - New York Post",
@@ -160,18 +168,6 @@
     {
       "title": "Katie Ledecky continues 15-year unbeaten streak in 1,500 freestyle - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/olympics/2025/07/29/katie-ledecky-1500-meters-world-championships/"
-    },
-    {
-      "title": "Broncos Camp Observations: RB RJ Harvey draws attention with big run, Denver's defense poses stiff challenge - Denver Broncos",
-      "link": "https://www.denverbroncos.com/news/broncos-camp-observation-rb-rj-harvey-draws-attention-with-big-run-denver-s-defense-poses-stiff-challenge"
-    },
-    {
-      "title": "Practice 6: 2025 Miami Dolphins Training Camp Notebook - Miami Dolphins",
-      "link": "https://www.miamidolphins.com/news/practice-6-2025-miami-dolphins-training-camp-notebook"
-    },
-    {
-      "title": "Jrue Holiday is ready to be the Trail Blazers\u2019 new \u2018jerk.\u2019 It\u2019s exactly what Portland needs right now - OregonLive.com",
-      "link": "https://www.oregonlive.com/blazers/2025/07/jrue-holiday-is-ready-to-mentor-and-win-with-portland-trail-blazers.html"
     }
   ],
   "weather": {
