@@ -1,9 +1,9 @@
 {
-  "quote": "It doesn't matter what you do, only how well you do it. \u2013 Dan Millman",
-  "fact": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
-  "crypto": "BTC: $115,666 | ETH: $3,660.34",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "My first time using an elevator was an uplifting experience. The second time let me down.",
+  "quote": "A dead thing can go with the stream, but only a living thing can go against it. \u2013 Gilbert Chesterton",
+  "fact": "Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.",
+  "crypto": "BTC: $115,507 | ETH: $3,646.74",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I am terrified of elevators. I\u2019m going to start taking steps to avoid them.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,118 +12,158 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nintendo Direct Partner Showcase Announced For Today, 31st July 2025 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/07/nintendo-direct-partner-showcase-announced-for-today-31st-july-2025"
+      "title": "Prices leak for every Pixel 10 phone - The Verge",
+      "link": "https://www.theverge.com/news/716733/google-pixel-10-lineup-price-leak"
     },
     {
-      "title": "6 of the 10 Best-Selling Games on PlayStation Last Quarter in the U.S. Were Published by Microsoft - IGN",
-      "link": "https://www.ign.com/articles/6-of-the-10-best-selling-games-on-playstation-last-quarter-in-the-us-were-published-by-microsoft"
+      "title": "Square Enix Announces Octopath Traveler 0 for Nintendo Switch and Switch 2 - IGN",
+      "link": "https://www.ign.com/articles/square-enix-announces-octopath-traveler-0-for-nintendo-switch-and-switch-2"
+    },
+    {
+      "title": "Nintendo Direct: Partner Showcase Spotlights All the Ways You Can Explore, Hit the Dance Floor and More on Nintendo Switch 2 and Nintendo Switch - Business Wire",
+      "link": "https://www.businesswire.com/news/home/20250731606545/en/Nintendo-Direct-Partner-Showcase-Spotlights-All-the-Ways-You-Can-Explore-Hit-the-Dance-Floor-and-More-on-Nintendo-Switch-2-and-Nintendo-Switch"
+    },
+    {
+      "title": "iOS 18 vs iOS 26 compared: Here's all the new app icons coming to your iPhone home screen - 9to5Mac",
+      "link": "https://9to5mac.com/2025/07/31/new-ios-26-iphone-apps-icons-compared/"
+    },
+    {
+      "title": "iPhone 17 Pro Max Rumored to Have 3 Advantages Over iPhone 17 Pro - MacRumors",
+      "link": "https://www.macrumors.com/2025/07/31/iphone-17-pro-vs-pro-max-rumors/"
+    },
+    {
+      "title": "Hitman: Absolution Sneaks Onto Switch 1 Later This Year, Switch 2 In 2026 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/07/hitman-absolution-sneaks-onto-switch-1-later-this-year-switch-2-in-2026"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 7 review: Quantum leap - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/07/samsung-galaxy-z-fold-7-review-the-foldable-we-deserve-but-not-the-one-we-can-afford/"
+    },
+    {
+      "title": "Proton releases a new app for two-factor authentication - TechCrunch",
+      "link": "https://techcrunch.com/2025/07/31/proton-releases-a-new-app-for-two-factor-authentication/"
+    },
+    {
+      "title": "I have nothing negative to say about Ninja Gaiden: Ragebound, other than that it ends too soon - Polygon",
+      "link": "https://www.polygon.com/review/617858/ninja-gaiden-ragebound-review"
+    },
+    {
+      "title": "No, Hideo Kojima won't be playing Metal Gear Solid Delta: Snake Eater - Eurogamer",
+      "link": "https://www.eurogamer.net/no-hideo-kojima-wont-be-playing-metal-gear-solid-delta-snake-eater"
+    },
+    {
+      "title": "Samsung confirms earlier launch for Galaxy S25 FE, teases more big releases for 2025 - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-q2-2025-results-3582736/"
+    },
+    {
+      "title": "Microsoft Reiterates It's the Top Publisher on PS5 in Earnings Call - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/07/microsoft-reiterates-its-the-top-publisher-on-ps5-in-earnings-call"
+    },
+    {
+      "title": "iOS 18.6 and macOS Sequoia 15.6 Address Chrome Zero-Day Attack - MacRumors",
+      "link": "https://www.macrumors.com/2025/07/30/ios-18-6-chrome-zero-day-fix/"
+    },
+    {
+      "title": "Xbox up 13% in content and services revenue for Q4 2025 - XboxEra",
+      "link": "https://xboxera.com/2025/07/30/xbox-up-13-in-content-and-services-revenue-for-q4-2025/"
+    },
+    {
+      "title": "T-Mobile is automatically 'upgrading' Magenta Max customers to its new Go5G plans - Android Police",
+      "link": "https://www.androidpolice.com/t-mobile-automatically-upgrading-magenta-max-to-go5g-plans/"
+    },
+    {
+      "title": "ARRI ALEXA 35 Xtreme: Could It Be Coming Tomorrow? - Y.M.Cinema Magazine",
+      "link": "https://ymcinema.com/2025/07/30/arri-alexa-35-xtreme-could-it-be-coming-tomorrow/"
+    },
+    {
+      "title": "Google Home Is So Bad That a Lawsuit Could Be on Its Way - Gizmodo",
+      "link": "https://gizmodo.com/google-home-is-so-bad-that-a-lawsuit-could-be-on-its-way-2000636858"
     },
     {
       "title": "Marvel Rivals Season 3.5 Adds Blade, Resource Rumble Mode, and More in August - IGN",
       "link": "https://www.ign.com/articles/marvel-rivals-season-35-adds-blade-resource-rumble-mode-and-more-in-august"
     },
     {
-      "title": "Shortcuts in iOS 26: Everything new coming to your iPhone, more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/30/shortcuts-in-ios-26-everything-new-coming-to-your-iphone-more/"
+      "title": "In Disturbing Demo, Video Game Characters Panic When Told They're Just Code - Futurism",
+      "link": "https://futurism.com/demo-video-game-characters-panic-code-matrix"
     },
     {
-      "title": "Reaction: PS Plus Essential Deserves Much More Credit for Its Free PS5, PS4 Games in 2025 - Push Square",
-      "link": "https://www.pushsquare.com/features/reaction-ps-plus-essential-deserves-much-more-credit-for-its-free-ps5-ps4-games-in-2025"
-    },
-    {
-      "title": "Shantae's Long Lost GBA Sequel 'Risky Revolution' Gets Switch Release Date - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/07/shantaes-long-lost-gba-sequel-risky-revolution-gets-switch-release-date"
-    },
-    {
-      "title": "Fast - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d44736967"
-    },
-    {
-      "title": "Intercom's three lessons for creating a sustainable AI advantage - OpenAI",
-      "link": "https://openai.com/index/intercom/"
-    },
-    {
-      "title": "Cozy? Please, Tales of the Shire is a tragedy - Polygon",
-      "link": "https://www.polygon.com/gaming/617504/tales-shire-cozy-game-tragedy-scouring-shire"
-    },
-    {
-      "title": "Valve boss Gabe Newell says passion wasn't enough to create Steam, Half-Life, and Portal: \"Have people around you that you can trust\" - GamesRadar+",
-      "link": "https://www.gamesradar.com/platforms/pc-gaming/valve-boss-gabe-newell-says-passion-wasnt-enough-to-create-steam-half-life-and-portal-have-people-around-you-that-you-can-trust/"
-    },
-    {
-      "title": "Roundup: Ninja Gaiden: Ragebound Is Launching On Xbox To Very Impressive Reviews - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2025/07/roundup-ninja-gaiden-ragebound-is-launching-on-xbox-to-very-impressive-reviews"
-    },
-    {
-      "title": "Clair Obscur patch lets you immediately get your butt kicked again by *that boss* after defeat - Polygon",
-      "link": "https://www.polygon.com/gaming/617649/clair-obscur-patch-battle-retry-lumina-cost"
-    },
-    {
-      "title": "Apex Legends Season 26 early patch notes: New Wildcard mode, Legend reworks and more - Dexerto",
-      "link": "https://www.dexerto.com/apex-legends/apex-legends-season-26-patch-notes-new-wildcard-mode-legend-reworks-and-more-3231792/"
-    },
-    {
-      "title": "Not (just) seeing red: Virtual Boy emulator adds full color support - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/07/not-just-seeing-red-virtual-boy-emulator-adds-full-color-support/"
-    },
-    {
-      "title": "Deals: iPhone 16 Pro $498 off, M4 iPad Pro, Apple Pencil $59, Mac Studio $900 off, MacBooks, more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/07/30/deals-iphone-16-pro-m4-ipad-pro-apple-pencil-mac-studio/"
-    },
-    {
-      "title": "The Biggest Game Releases Of August 2025 - GameSpot",
-      "link": "https://www.gamespot.com/gallery/the-biggest-game-releases-of-august-2025/2900-6805/"
-    },
-    {
-      "title": "Skechers is making kids\u2019 shoes with a hidden AirTag compartment - TechCrunch",
-      "link": "https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/"
-    },
-    {
-      "title": "Leak Reveals Colors for Entire iPhone 17 Lineup, Including a Bold Orange for the 17 Pro - Gizmodo",
-      "link": "https://gizmodo.com/leak-reveals-colors-for-entire-iphone-17-lineup-including-a-bold-orange-for-the-17-pro-2000636502"
-    },
-    {
-      "title": "Don't Sleep On Donkey Kong Bananza's Co-Op Mode - Kotaku",
-      "link": "https://kotaku.com/donkey-kong-bananza-co-op-support-gameshare-pauline-1851787349"
-    },
-    {
-      "title": "This Cool Mod For FF7 Rebirth Shows Us What A Modern Final Fantasy 8 Remake Might Look Like - Kotaku",
-      "link": "https://kotaku.com/ff7-rebirth-remake-ff8-cloud-aerith-tifa-squall-rinoa-1851787335"
+      "title": "This Pixel Watch 4 leak shows the new charger\u2019s potential eyesore - 9to5Google",
+      "link": "http://9to5google.com/2025/07/30/pixel-watch-4-charger-pin-leaks/"
     }
   ],
   "sports_news": [
     {
-      "title": "6 storylines to watch on Trade Deadline day - MLB.com",
-      "link": "https://www.mlb.com/news/2025-trade-deadline-day-storylines"
+      "title": "World Aquatics Championships 2025: Summer McIntosh wins third gold; Leon Marchand falls short of own world record - Yahoo Sports",
+      "link": "https://sports.yahoo.com/olympics/article/world-aquatics-championships-2025-summer-mcintosh-wins-third-gold-leon-marchand-falls-short-of-own-world-record-120334343.html"
     },
     {
-      "title": "Mariners, Eugenio Su\u00e1rez reuniting in trade with Diamondbacks - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-eugenio-suarez-reuniting-in-trade-with-diamondbacks/"
+      "title": "Guardians trade Shane Bieber to Blue Jays for Double-A pitcher - Cleveland.com",
+      "link": "https://www.cleveland.com/guardians/2025/07/guardians-trade-shane-bieber-to-blue-jays.html"
+    },
+    {
+      "title": "Noah Fant is expected to sign with Bengals - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/noah-fant-is-expected-to-sign-with-bengals"
+    },
+    {
+      "title": "Exclusive | Fox Takes Stake in IndyCar Owner Penske Entertainment - The Wall Street Journal",
+      "link": "https://www.wsj.com/business/media/fox-takes-stake-in-indycar-owner-penske-entertainment-c6087402"
+    },
+    {
+      "title": "Pape Matar Sarr scores incredible long-range goal for Tottenham Hotspur vs Arsenal - Video - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/pape-matar-sarr-scores-incredible-long-range-goal-for-tottenham-hotspur-vs-arsenal-video"
+    },
+    {
+      "title": "J.J. McCarthy \"learning from failures\" at Vikings camp - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-learning-from-failures-at-vikings-camp"
+    },
+    {
+      "title": "Hall of Fame Game 2025: How to watch Lions vs. Chargers, TV, time, online streaming - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/2025/7/31/24478068/hall-of-fame-game-2025-how-to-watch-lions-vs-chargers-tv-time-online-streaming"
+    },
+    {
+      "title": "NFL star Shannon Sharpe leaves ESPN after settling sexual assault case - BBC",
+      "link": "https://www.bbc.com/news/articles/clyv77rn5m0o"
+    },
+    {
+      "title": "Steelers training camp battles: Jaylen Warren, Payton Wilson hold on to roles; Yahya Black pushes for time - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/07/31/training-camp-battles-jaylen-warren-payton-wilson-yahya-black/stories/202507300052"
+    },
+    {
+      "title": "Mariners To Acquire Eugenio Suarez - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/mariners-to-acquire-eugenio-suarez.html"
+    },
+    {
+      "title": "Astros To Acquire Ramon Urias - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/07/astros-to-acquire-ramon-urias.html"
+    },
+    {
+      "title": "Lionel Messi & Inter Miami send message in dramatic Leagues Cup opener - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/messi-and-miami-send-message-in-dramatic-leagues-cup-opening-win"
+    },
+    {
+      "title": "Reds Trade For Zack Littell In 3-Team Deal With Rays, Dodgers - Baseball America",
+      "link": "https://www.baseballamerica.com/stories/reds-trade-for-zack-littell-in-3-team-deal-with-rays-dodgers/"
     },
     {
       "title": "Gilbert Arenas charged with operating illegal gambling business - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/07/30/gilbert-arenas-arrested-illegal-gambling/"
     },
     {
+      "title": "Red Sox make first trade before deadline, acquire lefty reliever (with starting experience) - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/07/red-sox-make-first-trade-before-deadline-acquire-veteran-lefty-who-can-start-or-relieve.html"
+    },
+    {
       "title": "Shohei Ohtani leaves the mound with cramping vs. Reds but hopes to make next start - AP News",
       "link": "https://apnews.com/article/dodgers-shohei-ohtani-leaves-mound-wild-pitches-b2dd166b82cd89e7c9584263fb45b6ea"
     },
     {
-      "title": "Tigers acquire veteran reliever from Braves for minor-league infielder - mlive.com",
-      "link": "https://www.mlive.com/tigers/2025/07/tigers-acquire-veteran-reliever-from-braves-for-minor-league-infielder.html"
+      "title": "Cubs acquire Michael Soroka from Nationals in their first 2025 trade deadline move - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/cubs/2025/07/30/cubs-acquire-michael-soroka-from-nationals-in-their-first-2025-trade-deadline-move-reports"
     },
     {
       "title": "Raiders sign T Kolton Miller to contract extension - Raiders.com",
       "link": "https://www.raiders.com/news/raiders-sign-kolton-miller-to-contract-extension-nfl-2025-transactions"
-    },
-    {
-      "title": "Cubs add to pitching depth in trade for veteran right-hander | Cubs News - Marquee Sports Network",
-      "link": "https://www.marqueesportsnetwork.com/chicago-cubs-mike-soroka-mlb-trade-news-rumors-washington-nationals/"
-    },
-    {
-      "title": "ESPN cuts ties with Shannon Sharpe after settlement of sexual assault lawsuit: Report - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/espn-cuts-ties-with-shannon-sharpe-after-settlement-of-sexual-assault-lawsuit-report-185400340.html"
     },
     {
       "title": "Sophie Cunningham calls Caitlin Clark haters \u2018dumb as f\u2013k\u2019 for saying she\u2019s not the face of WNBA - New York Post",
@@ -132,42 +172,6 @@
     {
       "title": "MLB Trade Deadline: Phillies acquire closer Jhoan Dur\u00e1n from Twins; roster impact and fantasy analysis - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/baseball/news/mlb-trade-deadline-phillies-acquire-closer-jhoan-duran-from-twins-roster-impact-and-fantasy-analysis"
-    },
-    {
-      "title": "Eyes on quarterbacks, but defense impresses as BYU opens training camp - KSL.com",
-      "link": "https://www.ksl.com/article/51353792/eyes-on-quarterbacks-but-defense-impresses-as-byu-opens-training-camp"
-    },
-    {
-      "title": "CeeDee on Schotty's sternness: 'We need discipline' - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/ceedee-on-schotty-s-sternness-we-need-discipline"
-    },
-    {
-      "title": "3 Observations: Vikings Defense Stacks INTs, Christian Darrisaw Takes Some Team Reps with 1s - Minnesota Vikings",
-      "link": "https://www.vikings.com/news/2025-training-camp-defense-interceptions-christian-darrisaw"
-    },
-    {
-      "title": "Practice 7: 2025 Miami Dolphins Training Camp Notebook - Miami Dolphins",
-      "link": "https://www.miamidolphins.com/news/practice-7-2025-miami-dolphins-training-camp-notebook"
-    },
-    {
-      "title": "Starting XI and roster notes: Jamal Thiar\u00e9 starts up top; Mihaj and Afonso on the bench - Atlanta United FC",
-      "link": "https://www.atlutd.com/news/starting-xi-and-roster-notes-jamal-thiare-starts-up-top-mihaj-and-afonso-on-the-bench"
-    },
-    {
-      "title": "Reds trade for Ke'Bryan Hayes from Pittsburgh Pirates. What we know - Cincinnati Enquirer",
-      "link": "https://www.cincinnati.com/story/sports/mlb/reds/2025/07/30/kebryan-hayes-trade-cincinnati-reds-pittsburgh-pirates/85444632007/"
-    },
-    {
-      "title": "Training Camp Report: July 30 - Steelers.com",
-      "link": "https://www.steelers.com/news/training-camp-report-july-30-x5390"
-    },
-    {
-      "title": "Jon Jones scheduled for 2 bench trials related to allegedly leaving the scene of an accident - MMA Fighting",
-      "link": "https://www.mmafighting.com/2025/7/30/24477817/jon-jones-scheduled-for-2-bench-trials-related-to-allegedly-leaving-the-scene-of-an-accident"
-    },
-    {
-      "title": "Yankees Trade For Austin Slater From White Sox Ahead of 2025 MLB Deadline - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25230595-yankees-trade-austin-slater-white-sox-ahead-2025-mlb-deadline"
     }
   ],
   "weather": {
