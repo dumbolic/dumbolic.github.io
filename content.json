@@ -1,9 +1,9 @@
 {
-  "quote": "The impossible can always be broken down into possibilities. \u2013 Unknown",
-  "fact": "The average American butt is 14.9 inches long.",
-  "crypto": "BTC: $113,400 | ETH: $3,587.74",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why don't eggs tell jokes? They'd crack each other up",
+  "quote": "Chop your own wood and it will warm you twice.  \u2013 Henry Ford",
+  "fact": "Ten percent of the Russian government`s income comes from the sale of vodka.",
+  "crypto": "BTC: $113,604 | ETH: $3,582.1",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you call a cow on a trampoline? A milk shake!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,94 +12,138 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apex Legends details Nintendo Switch 2 frame rate, resolution - Nintendo Everything",
+      "link": "https://nintendoeverything.com/apex-legends-frame-rate-resolution-switch-2/"
+    },
+    {
+      "title": "A Quarter of a Million People Have Experienced 'Baldur's Gate 3' by Giving Withers Big Naturals - Gizmodo",
+      "link": "https://gizmodo.com/a-quarter-of-a-million-people-have-experienced-baldurs-gate-3-by-giving-withers-big-naturals-2000638548"
+    },
+    {
+      "title": "Google says its AI-based bug hunter found 20 security vulnerabilities - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/"
+    },
+    {
+      "title": "59 Switch Games You Should Pick Up In The 'Play Together' eShop Sale (North America) - Nintendo Life",
+      "link": "https://www.nintendolife.com/guides/59-switch-games-you-should-pick-up-in-the-play-together-eshop-sale-north-america"
+    },
+    {
+      "title": "iPhone 17 Pro: Seven new features are coming next month - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/04/iphone-17-pro-seven-new-features-are-coming-next-year/"
+    },
+    {
+      "title": "Apex Legends Season 26 patch notes: New Wildcard mode, Legend reworks and more - Dexerto",
+      "link": "https://www.dexerto.com/apex-legends/apex-legends-season-26-patch-notes-new-wildcard-mode-legend-reworks-and-more-3231792/"
+    },
+    {
+      "title": "OpenAI updating ChatGPT to encourage healthier use - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/04/healthy-chatgpt-use/"
+    },
+    {
+      "title": "Microsoft Is Trying to Trick You Into Using Copilot - Lifehacker",
+      "link": "https://lifehacker.com/tech/microsoft-is-trying-to-trick-you-into-using-copilot-again"
+    },
+    {
+      "title": "One Of 2025\u2019s Most Special, Emotional Games Is $5 And Will Take You An Hour To Finish - Kotaku",
+      "link": "https://kotaku.com/and-roger-review-tearyhand-studio-pc-steam-switch-2000614568"
+    },
+    {
+      "title": "You should be using AirTags for school bags and more. Here\u2019s why - CNN",
+      "link": "https://www.cnn.com/cnn-underscored/electronics/using-airtags-for-school"
+    },
+    {
       "title": "Google Pixel 10 \u2018Soon\u2019 teaser goes hard on iPhone\u2019s AI Siri delays [Video] - 9to5Google",
       "link": "http://9to5google.com/2025/08/04/pixel-10-soon-teaser/"
+    },
+    {
+      "title": "Video: 13 Exciting New Games Coming To Switch 1 & 2 In August 2025 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/video-13-exciting-new-games-coming-to-switch-1-and-2-in-august-2025"
+    },
+    {
+      "title": "Overwatch 2 Devs Reveal Why the Nerf Collab Is Their Most Unique (And Which Skin Is Free This Time) - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/overwatch-2-dev-interview-nerf-collab-free-skin-2025/"
+    },
+    {
+      "title": "Battlefield 6 Will Hit 60fps in Performance Mode on PS5, and Even Higher on PS5 Pro - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/08/battlefield-6-will-hit-60fps-in-performance-mode-on-ps5-and-even-higher-on-ps5-pro"
+    },
+    {
+      "title": "Google briefs brands on AI Mode ads ahead of Q4 rollout - Search Engine Land",
+      "link": "https://searchengineland.com/google-ai-mode-ads-internal-document-459931"
     },
     {
       "title": "Xbox Game Pass Is Losing Three Games This Month Including One Of The Best Games Of 2024 - GameSpot",
       "link": "https://www.gamespot.com/gallery/xbox-game-pass-is-losing-three-games-this-month-including-one-of-the-best-games-of-2024/2900-6840/"
     },
     {
+      "title": "Alienware\u2019s AW2725Q 4K OLED gaming monitor is down to its lowest price ever at Amazon - The Verge",
+      "link": "https://www.theverge.com/tech/718105/alienware-aw2725q-4k-monitor-google-nest-thermostat-deal-sale"
+    },
+    {
+      "title": "Valve refutes Mastercard's denial it has not pressured game platforms over NSFW content - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/valve-refutes-mastercards-denial-it-has-not-pressured-game-platforms-over-nsfw-content"
+    },
+    {
       "title": "8BitDo\u2019s first wireless Xbox controller is a surprise Rare collaboration - The Verge",
       "link": "https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition"
     },
     {
-      "title": "\"This Is The Coffee Maker PC You Won\u2019t Believe Exists\" Doug MacDowell\u2019s Coffeematic PC Uses Hot Brew To Cool Its CPU In Stunning Tech Mashup - Rude Baguette",
-      "link": "https://www.rudebaguette.com/en/2025/08/this-is-the-coffee-maker-pc-you-wont-believe-exists-doug-macdowells-coffeematic-pc-uses-hot-brew-to-cool-its-cpu-in-stunning-tech-mashup/"
-    },
-    {
-      "title": "Why tech is racing to adopt AI coding, with Cursor\u2019s Michael Truell - The Verge",
-      "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview"
-    },
-    {
-      "title": "Atelier Ryza Secret Trilogy Deluxe Pack launches November 13 - Gematsu",
-      "link": "https://www.gematsu.com/2025/08/atelier-ryza-secret-trilogy-deluxe-pack-launches-november-13"
-    },
-    {
-      "title": "Apple plans to give iPhone an Ultra Retina XDR display: report - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/04/apple-plans-to-give-iphone-an-ultra-retina-xdr-display-report/"
-    },
-    {
-      "title": "Why Android E-Readers Are Superior to the Kindle Colorsoft (Especially If You Read Comics) - Lifehacker",
-      "link": "https://lifehacker.com/tech/android-e-readers-better-than-kindle-colorsoft"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra: 5 exciting upgrades fans can't wait for - SamMobile",
-      "link": "https://www.sammobile.com/news/one-ui-8-5-leak-confirms-60w-fast-charging-for-galaxy-s26-ultra/"
-    },
-    {
-      "title": "Destiny 2\u2019s Power Grind Is Now Just Two 3-Minute Missions - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/08/04/destiny-2s-power-grind-is-now-just-two-3-minute-missions/"
-    },
-    {
-      "title": "[Master Duel] August 4th Update - YGOrganization",
-      "link": "https://ygorganization.com/master-duel-august-4th-update/"
-    },
-    {
-      "title": "GOG offers 13 free NSFW games as it launches anti-censorship campaign, FreedomToBuy.Games - Eurogamer",
-      "link": "https://www.eurogamer.net/gog-offers-13-free-nsfw-games-as-it-launches-anti-censorship-campaign-freedomtobuygames"
-    },
-    {
-      "title": "AMD Readies Two New 3D V-Cache Ryzen 9000 \u201cZen 5\u201d Desktop CPUs, 8 Core With 96 MB & 16 Core With 192 MB \u201cDual X3D\u201d - Wccftech",
-      "link": "https://wccftech.com/amd-readies-new-3d-v-cache-ryzen-9000-zen-5-desktop-cpus-8-core-96-mb-16-core-192-mb-dual-x3d/"
-    },
-    {
-      "title": "Nintendo Switch price increases are now live \u2013 here's how much everything costs - The Shortcut | Matt Swider",
-      "link": "https://www.theshortcut.com/p/nintendo-switch-price-increases-are-now-live-heres-how-much-everything-costs"
-    },
-    {
-      "title": "My Top Deals For Today: Best Places to Buy Pok\u00e9mon Cards and Magic Boosters Right Now - IGN",
-      "link": "https://www.ign.com/articles/deals-for-today-august-4-2025"
-    },
-    {
-      "title": "Nintendo Music Update Adds \"Some Features\" For Those With An Expired NSO Membership - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/nintendo-music-update-adds-some-features-for-those-with-an-expired-nso-membership"
-    },
-    {
-      "title": "If you don't like Nintendo's controversial game key-cards, you can now let the company know directly - Eurogamer",
-      "link": "https://www.eurogamer.net/if-you-dont-like-nintendos-controversial-game-key-cards-you-can-now-let-the-company-know-directly"
-    },
-    {
-      "title": "Battlefield 6 clarifies PC vs. console crossplay, skill-based matchmaking \u2014 potentially solving one of my biggest issues with Battlefield 2042 - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/battlefield-6-clarifies-pc-vs-console-crossplay-skill-based-matchmaking-potentially-solving-one-of-my-biggest-issues-with-battlefield-2042"
-    },
-    {
-      "title": "\"Please Support Us\" Pleads Yuzo Koshiro As Pirated Earthion ROM Appears Online - Time Extension",
-      "link": "https://www.timeextension.com/news/2025/08/please-support-us-pleads-yuzo-koshiro-as-pirated-earthion-rom-appears-online"
-    },
-    {
-      "title": "iPhone 17 Air Battery Allegedly 2.49mm \u2013 Half the Thickness of 17 Pro's - MacRumors",
-      "link": "https://www.macrumors.com/2025/08/04/iphone-17-air-battery-half-thickness-17-pro/"
+      "title": "EA Explains Why Fans Aren\u2019t Getting The Sims 5 - Kotaku",
+      "link": "https://kotaku.com/sims-5-dynasty-warriors-remaster-call-duty-union-switch-2-2000614479"
     }
   ],
   "sports_news": [
     {
-      "title": "Shedeur Sanders says his arm is fine, and he\u2019s \u201cthankful\u201d to be back practicing - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-says-his-arm-is-fine-and-hes-thankful-to-be-back-practicing"
+      "title": "Liam Coen: Travis Hunter winning offensive and defensive rookie of the year is \"possible\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/liam-coen-travis-hunter-winning-offensive-and-defensive-rookie-of-the-year-is-possible"
     },
     {
-      "title": "Texas makes history in college football's 2025 preseason US LBM Coaches Poll Top 25 - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2025/08/04/college-football-preseason-rankings-top-25-poll/85441123007/"
+      "title": "Driver attempting to set a record at Utah\u2019s Bonneville Salt Flats dies after losing control - AP News",
+      "link": "https://apnews.com/article/driver-died-land-speed-racing-bonneville-flats-98cc4c9235e141fb45a12be694ede1b5"
+    },
+    {
+      "title": "Texas takes top spot in USA Today preseason coaches poll, leading nine SEC teams - AP News",
+      "link": "https://apnews.com/article/college-football-coaches-poll-cc6ffe70bf29bc5477f6f22f4d025570"
+    },
+    {
+      "title": "ESPN hires Katie Feeney for new lifestyle role - New York Post",
+      "link": "https://nypost.com/2025/08/04/sports/espn-hires-katie-feeney-for-new-lifestyle-role/"
+    },
+    {
+      "title": "49ers Announce Roster Moves - San Francisco 49ers",
+      "link": "https://www.49ers.com/news/49ers-announce-roster-moves-x1591"
+    },
+    {
+      "title": "Sha\u2019Carri Richardson Was Arrested for Domestic Violence - The Cut",
+      "link": "http://www.thecut.com/article/shacarri-richardson-arrested-domestic-violence.html"
+    },
+    {
+      "title": "Shedeur Sanders explains why he didn\u2019t want Deion to visit Browns training camp - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-explains-why-he-didnt-want-deion-to-visit-browns-training-camp"
+    },
+    {
+      "title": "Where are BYU and Utah ranked in the preseason coaches top-25 poll? - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/08/04/preseason-us-lbm-coaches-top-25-rankings-byu-utah-big-12/"
+    },
+    {
+      "title": "Fantasy baseball pickups: Seven players seizing post-deadline opportunity - ESPN",
+      "link": "https://www.espn.com/fantasy/baseball/story/_/id/45899014/fantasy-baseball-waiver-wire-picks-mlb-free-agents-add-drop-2025-august-4"
+    },
+    {
+      "title": "Warriors Don\u2019t Expect To Trade Jonathan Kuminga - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/08/warriors-dont-expect-to-trade-jonathan-kuminga.html"
+    },
+    {
+      "title": "NFL Takeaways: Bo Nix Is Better Than You Think - Sports Illustrated",
+      "link": "https://www.si.com/nfl/nfl-takeaways-bo-nix-broncos-chip-kelly-micah-parsons"
+    },
+    {
+      "title": "Sean O\u2019Malley offered to face Cory Sandhagen on short notice at UFC 318 after loss to Merab Dvalishvili - MMA Fighting",
+      "link": "https://www.mmafighting.com/2025/8/4/24479797/sean-omalley-offered-to-face-cory-sandhagen-on-short-notice-ufc-318-after-loss-to-merab-dvalishvili"
+    },
+    {
+      "title": "Playoff scenarios for FedEx St. Jude Championship: What players need to do to make top 50, BMW - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/playoff-scenarios-for-fedex-st-jude-championship-what-players-need-to-do-to-make-top-50-bmw"
     },
     {
       "title": "Fifty-Six Hits Is Too Damn Many - Defector",
@@ -110,64 +154,24 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-depth-chart-lists-daniel-jones-or-anthony-richardson-as-qb1"
     },
     {
+      "title": "Giannis Antetokounmpo\u2019s Future In Milwaukee Remains Unsettled - Hoops Rumors",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVW9FczhCWjF5RHpUTWhCQzRtLXBCbEIzNHB0QmtFSkhiSmJ0ZkFWdGs3dWFSTkNYQ0JIcWpOZHo1Tkl5Y2lKamZfTW9pSmluNDB3NDgwSkxpcUl0c1RObTNKa2pLQkVjTmVRNkF4REhTRFk3U3VLUm1ydkpFUmo4VnpWM25rR3lwUm9yVlNBVldRVnVnMURHbS1vVFFYbF94bjl3?oc=5"
+    },
+    {
+      "title": "National Champ NDSU a Decisive Preseason No. 1 in Stats Perform FCS Top 25 Poll - Opta Analyst",
+      "link": "https://theanalyst.com/articles/fcs-top-25-poll-stats-perform-preseason-ndsu-college-football"
+    },
+    {
+      "title": "Cam Young Gets It Done, PGA Tour Pushes Bogus Mr. 1,000 Stat, Rory Skipping Memphis, And Nelly's Reign Is Over - OutKick",
+      "link": "https://www.outkick.com/sports/cameron-young-wins-wyndham-pga-tour-mr-1000-rory-mcilroy-skipping-memphis-nelly-korda-ranking"
+    },
+    {
       "title": "What was the circular sensor Pauline Ferrand-Pr\u00e9vot was wearing on her back at the Tour de France Femmes? - Cyclingnews",
       "link": "https://www.cyclingnews.com/news/what-was-the-circular-sensor-pauline-ferrand-prevot-was-wearing-on-her-back-at-the-tour-de-france-femmes/"
     },
     {
-      "title": "Like the hiring of Lloyd Howell, the selection of David White occurred in extreme secrecy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/like-the-hiring-of-lloyd-howell-the-selection-of-david-white-occurred-in-extreme-secrecy"
-    },
-    {
-      "title": "How & Where To Watch Liverpool Vs Athletic Club? Expected Lineups, Kick-Off Time - Athlon Sports",
-      "link": "https://athlonsports.com/soccer/how-where-to-watch-liverpool-vs-athletic-club-expected-lineups-kick-off-time-live-streaming-online-tv-channels-for-pre-season-friendly"
-    },
-    {
-      "title": "6.9 million watched Chargers-Lions Hall of Fame game - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/6-9-million-watched-chargers-lions-hall-of-fame-game"
-    },
-    {
-      "title": "England-India Test series best since 2005 Ashes - Agnew - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/czerd60jweno"
-    },
-    {
-      "title": "College Sports Transformed in the Past 25 Years to a Nearly Unrecognizable Product - Sports Illustrated",
-      "link": "https://www.si.com/college-football/college-sports-transformed-in-the-past-25-years-to-a-nearly-unrecognizable-product-digital-cover"
-    },
-    {
-      "title": "Kawakami: The Warriors-Kuminga impasse reaches a new stage \u2014 plus my compromise proposal - The San Francisco Standard",
-      "link": "https://sfstandard.com/2025/08/04/jonathan-kuminga-warriors-free-agency-trade/"
-    },
-    {
-      "title": "Sean Payton: This Broncos team is capable of winning the Super Bowl - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-this-broncos-team-is-capable-of-winning-the-super-bowl"
-    },
-    {
-      "title": "The winners and losers from F1's 2025 Hungarian Grand Prix - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/the-winners-and-losers-from-f1s-2025-hungarian-grand-prix-/10748315/"
-    },
-    {
-      "title": "Brandon Beane: \u201cDisappointed\u201d James Cook missed practice, I wish we weren\u2019t here - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-beane-james-cook-not-practicing-disappointing-i-wish-we-werent-here"
-    },
-    {
-      "title": "Winners, losers from Iowa NASCAR Cup race won by William Byron - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/winners-losers-from-iowa-nascar-cup-race-won-by-william-byron"
-    },
-    {
-      "title": "Daegu FC vs Barcelona, Preseason: TV & Streaming, Live Thread - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/2025/8/4/24480345/daegu-fc-barcelona-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-online"
-    },
-    {
-      "title": "Iga Swiatek posts message on social media after her surprise defeat to Clara Tauson in Montreal - The Tennis Gazette",
-      "link": "https://www.thetennisgazette.com/news/iga-swiatek-posts-message-on-social-media-after-her-surprise-defeat-to-clara-tauson-in-montreal/"
-    },
-    {
-      "title": "Ben Shelton reveals what Flavio Cobolli said to him during tense exchange after their match at the Canadian Open - The Tennis Gazette",
-      "link": "https://www.thetennisgazette.com/news/ben-shelton-reveals-what-flavio-cobolli-said-to-him-during-tense-exchange-after-their-match-at-the-canadian-open/"
-    },
-    {
-      "title": "A hard earned three points: Sounders top Santos Laguna - Sounder at Heart",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGsyZTJGal9OdHcxblJsYTgxVEhtTFlkelFMenoyV0htdmliZHAtaXBpOVBXbkh4S0pFdWlGX2JNR1EyMm91MnhPYkhUdVZEdklTb3ZhakttWmNIRVNLdmp0Y0Q2MXJpbF9GRU0tdmdlaW41dFJSRkhVMTNmUjFXamNvaUdYSlAxQTVWVEd1Qy1uYnBuUFo0WA?oc=5"
+      "title": "Taylor Fritz completes impressive career achievement as he reaches the quarterfinal in Canada - The Tennis Gazette",
+      "link": "https://www.thetennisgazette.com/news/taylor-fritz-completes-impressive-career-achievement-as-he-reaches-the-quarterfinal-in-canada/"
     }
   ],
   "weather": {
