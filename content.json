@@ -1,9 +1,9 @@
 {
-  "quote": "Do not take life too seriously. You will never get out of it alive. \u2013 Elbert Hubbard",
-  "fact": "Some lions mate over 50 times a day.",
-  "crypto": "BTC: $115,096 | ETH: $3,646.83",
+  "quote": "Life is like riding a bicycle. To keep your balance you must keep moving. \u2013 Albert Einstein",
+  "fact": "Spain leads the world in cork production",
+  "crypto": "BTC: $115,185 | ETH: $3,647.97",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What's red and bad for your teeth? A Brick.",
+  "joke": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Here are our first Xbox Game Pass games for August - Eurogamer",
-      "link": "https://www.eurogamer.net/here-are-our-first-xbox-game-pass-games-for-august"
+      "title": "Game Pass Jumpstarts August With Assassin\u2019s Creed Mirage - Kotaku",
+      "link": "https://kotaku.com/game-pass-august-2025-assassins-creed-mirage-aliens-2000614695"
     },
     {
-      "title": "Sound the Silksong klaxon! There's another Nintendo indie showcase coming this week - Eurogamer",
-      "link": "https://www.eurogamer.net/sound-the-silksong-klaxon-theres-another-nintendo-indie-showcase-coming-this-week"
+      "title": "TMNT Goes Turn-Based In 'Tactical Takedown', Skating Onto Switch Next Week - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/tmnt-goes-turn-based-in-tactical-takedown-skating-onto-switch-next-week"
     },
     {
-      "title": "Google\u2019s Pixel 10 Pro Fold might not go on sale until October - The Verge",
-      "link": "https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october"
+      "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/"
+    },
+    {
+      "title": "Here's Everything We Know So Far About Phasmophobia's Terrifying New Map, Nell's Diner - IGN",
+      "link": "https://www.ign.com/articles/heres-everything-we-know-so-far-about-phasmophobias-terrifying-new-map-nells-diner"
+    },
+    {
+      "title": "YouTube details new NFL Sunday Ticket perks: Pixel discounts, Premium trial, more - 9to5Google",
+      "link": "http://9to5google.com/2025/08/05/youtube-details-new-nfl-sunday-ticket-perks-pixel-discounts-premium-trial-more/"
+    },
+    {
+      "title": "Nintendo Taunts Silksong Fans With Surprise Indie World Showcase - Kotaku",
+      "link": "https://kotaku.com/nintendo-indie-showcase-silksong-hades-gungeon-2000614688"
+    },
+    {
+      "title": "Exclusive: Anthropic's Claude AI model takes on (and beats) human hackers - Axios",
+      "link": "https://www.axios.com/2025/08/05/anthropic-claude-ai-hacker-competitions-def-con"
+    },
+    {
+      "title": "PS5 Is the Only Console with a Proper Physical Copy of Cronos: The New Dawn - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/08/ps5-is-the-only-console-with-a-proper-physical-copy-of-cronos-the-new-dawn"
     },
     {
       "title": "Lunar Outpost celebrates release of Lego Moon Rover Space Vehicle - Ars Technica",
       "link": "https://arstechnica.com/space/2025/08/lunar-outpost-celebrates-release-of-lego-moon-rover-space-vehicle/"
+    },
+    {
+      "title": "Report: Pixel Watch 4 and Pixel 10 Pro Fold not releasing until October - 9to5Google",
+      "link": "http://9to5google.com/2025/08/05/pixel-watch-4-pixel-10-pro-fold-release-date-delay/"
     },
     {
       "title": "Microsoft\u2019s Windows XP Crocs are no joke - The Verge",
@@ -36,12 +60,12 @@
       "link": "https://news.samsung.com/global/samsung-one-ui-8-beta-will-be-open-for-more-galaxy-devices"
     },
     {
-      "title": "\"This Always Falls On The Same Side\" Could Save Robots And Space Missions From Catastrophic Failures With Its Unique Design - Rude Baguette",
-      "link": "https://www.rudebaguette.com/en/2025/08/this-always-falls-on-the-same-side-could-save-robots-and-space-missions-from-catastrophic-failures-with-its-unique-design/"
-    },
-    {
       "title": "iPhone 17 event scheduled for September 9, according to carrier documents - 9to5Mac",
       "link": "https://9to5mac.com/2025/08/05/iphone-17-event-scheduled-for-september-9-according-to-carrier-documents/"
+    },
+    {
+      "title": "New Apple TV Still Launching This Year - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/05/new-apple-tv-still-launching-this-year/"
     },
     {
       "title": "Leaker claims New Super Mario Bros Collection coming for 40th Anniversary - My Nintendo News",
@@ -52,54 +76,38 @@
       "link": "https://www.bbc.com/culture/article/20250730-how-pac-man-changed-gaming-and-the-world"
     },
     {
-      "title": "\u2018We didn\u2019t want to recreate Silent Hill 2 over and over again\u2019: Silent Hill F focuses on action to appeal to new players - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/we-didnt-want-to-recreate-silent-hill-2-over-and-over-again-silent-hill-f-focuses-on-action-to-appeal-to-new-players/"
-    },
-    {
       "title": "A PvP Analysis on Snom and Frosmoth - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/pvp/a-pvp-analysis-on-snom-and-frosmoth/"
-    },
-    {
-      "title": "August 2025 PS Plus Essential Games Available to Download Now - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/08/august-2025-ps-plus-essential-games-available-to-download-now"
     },
     {
       "title": "Column | Carolyn Hax: Cheating college ex has changed a lot in six years. Or has he? - The Washington Post",
       "link": "https://www.washingtonpost.com/advice/2025/08/05/carolyn-hax-cheating-ex-years/"
     },
     {
-      "title": "Stop Google from following your every move - Kurt the CyberGuy",
-      "link": "https://cyberguy.com/privacy/stop-google-following-move/"
+      "title": "Street Fighter 6 Sagat update patch notes - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/aug/04/street-fighter-sagat-patch-notes/"
     },
     {
-      "title": "Apex Legends Switch 2 Performance And Resolution Upgrade Detailed - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/apex-legends-switch-2-performance-and-resolution-upgrade-detailed"
-    },
-    {
-      "title": "Amazon Offering Flash Sale on AirPods Pro 2, AirPods 4, and AirPods Max - Consequence of Sound",
-      "link": "https://consequence.net/2025/08/amazon-flash-sale-airpods-pro-2-airpods-4/"
-    },
-    {
-      "title": "iOS 26: Everything You Need to Know About the Liquid Glass Redesign - MacRumors",
-      "link": "https://www.macrumors.com/guide/ios-26-liquid-glass/"
-    },
-    {
-      "title": "One million people claim GOG's FreedomToBuy games in protest of ongoing NSFW game censorship row - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/one-million-people-claim-gogs-freedomtobuy-games-in-protest-of-ongoing-nsfw-game-censorship-row"
-    },
-    {
-      "title": "ChatGPT adds mental health guardrails after bot 'fell short in recognizing signs of delusion' - NBC News",
-      "link": "https://www.nbcnews.com/tech/tech-news/chatgpt-adds-mental-health-guardrails-openai-announces-rcna222999"
+      "title": "PS Plus Essential August Monthly Free Games Rolling Out Now - PlayStation LifeStyle",
+      "link": "https://www.playstationlifestyle.net/2025/08/04/ps-plus-august-2025-essential-monthly-free-games-out-now/"
     }
   ],
   "sports_news": [
     {
-      "title": "If/when Deshaun Watson is healthy, Browns will have another mess on their hands - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-when-deshaun-watson-is-healthy-browns-will-have-another-mess-on-their-hands"
+      "title": "PGA Tour veteran \u2018very concerned\u2019 after Rory McIlroy skips first playoff event - New York Post",
+      "link": "https://nypost.com/2025/08/05/sports/pga-tour-veteran-very-concerned-as-rory-mcilroy-skips-first-playoff-event/"
     },
     {
-      "title": "Sources: Packers' Hobbs (knee) out rest of camp - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45906633/sources-packers-cb-hobbs-knee-scoped-rest-camp"
+      "title": "POWER RANKINGS: Who impressed our judges during F1's visit to Hungary? - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-during-f1s-visit-to-hungary.1mUou7T31OGJfbb3qJCXFu"
+    },
+    {
+      "title": "Jason Licht: Teddy Bridgewater was next option if Tom Brady hadn\u2019t signed in 2020 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-teddy-bridgewater-was-next-option-if-tom-brady-hadnt-signed-in-2020"
+    },
+    {
+      "title": "CB Nate Hobbs had knee surgery, hopes to be back for Packers opener - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-nate-hobbs-had-knee-surgery-hopes-to-be-back-for-packers-opener"
     },
     {
       "title": "Initial depth chart released - Steelers.com",
@@ -110,20 +118,28 @@
       "link": "https://www.si.com/college-football/the-25-best-college-football-quarterbacks-of-the-past-25-years"
     },
     {
-      "title": "Sean Payton already had a plan, he just needed Bo Nix to bring the action - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45869555/how-bo-nix-aced-sean-payton-qb-test"
+      "title": "Eagles running back Saquon Barkley declines invitation to join Trump\u2019s sports council - AP News",
+      "link": "https://apnews.com/article/philadelphia-eagles-barkley-trump-554a617140800ba21cde9d17fb0e0063"
     },
     {
       "title": "Benjamin Sesko: Manchester United make \u00a374m offer for RB Leipzig striker - BBC",
       "link": "https://www.bbc.com/sport/football/articles/c79l8g84p59o"
     },
     {
-      "title": "Teddy Bridgewater to visit, take physical with Buccaneers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-to-visit-take-physical-with-buccaneers"
+      "title": "Preseason coaches poll released: Where does Alabama rank? - 247Sports",
+      "link": "https://247sports.com/college/alabama/article/preseason-coaches-poll-released-where-does-alabama-rank-252307521/"
+    },
+    {
+      "title": "Greg Chappell - India's win at The Oval might herald a golden era for them - England vs India 2025 - ESPNcricinfo",
+      "link": "https://www.espncricinfo.com/story/india-s-win-at-the-oval-might-herald-a-golden-era-for-them-1498065"
     },
     {
       "title": "Former Syracuse assistant Mike Hopkins joins NBA\u2019s New Orleans Pelicans - Syracuse.com",
       "link": "https://www.syracuse.com/orangebasketball/2025/08/former-syracuse-assistant-mike-hopkins-joins-nbas-new-orleans-pelicans.html"
+    },
+    {
+      "title": "How Bills fans can watch 'Hard Knocks: Training Camp with the Buffalo Bills' - Buffalo Bills",
+      "link": "https://www.buffalobills.com/news/how-bills-fans-can-watch-hard-knocks-training-camp-with-the-buffalo-bills"
     },
     {
       "title": "Jayden Daniels hopeful he\u2019ll be throwing to Terry McLaurin soon - NBC Sports",
@@ -134,40 +150,24 @@
       "link": "https://www.cbsnews.com/news/driver-chris-raschke-killed-crash-utah-bonneville-salt-flats/"
     },
     {
-      "title": "'Poora khol diye Pasha': Asaduddin Owaisi's explosive comment on Mohammed Siraj - The Times of India",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/asaduddin-owaisis-explosive-comment-on-mohammed-siraj/articleshow/123116438.cms"
+      "title": "Top-25 recruit Arafan Diane, No. 1 ranked center, down to 12 schools - On3",
+      "link": "https://www.on3.com/rivals/news/arafan-diane-no-1-ranked-center-down-to-12-schools-arkansas-houston-indiana-kansas-kentucky-purdue-uconn/"
+    },
+    {
+      "title": "Vince Young Comes in at No. 2 in Rivals\u2019 All-Time Five-Star Rankings - On3",
+      "link": "https://www.on3.com/teams/texas-longhorns/news/vince-young-comes-in-at-no-2-in-rivals-all-time-five-star-rankings/"
+    },
+    {
+      "title": "Raiders Trade CB Jakorian Bennett To Eagles For DT Thomas Booker - ProFootballRumors.com",
+      "link": "https://www.profootballrumors.com/2025/08/raiders-trade-cb-jakorian-bennett-to-eagles-for-dt-thomas-booker"
+    },
+    {
+      "title": "Cameras Caught Goosebump-Worthy Moment As Kyle Schwarber Hit Grand Slam Amid MVP Chants - Sports Illustrated",
+      "link": "https://www.si.com/mlb/cameras-caught-moment-kyle-schwarber-hit-grand-slam-amid-mvp-chants"
     },
     {
       "title": "Ex-Giants running back LeShon Johnson found guilty in largest federal dog-fighting case ever - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVhxOE1Da2N0SW5GMEw4bnIxR2hzczdOcl9aNXFSZkVFZk45Mkt3d1ptWUhGZEN6UGg0NEtsYzBsUDh6NW9vRzlWSUdVUnNZbkJOdkZxcFNvWDdDV0JNYnhMZGdSZ0dselRXc0RnbGI0RUVmTWx4R2NYVEpuSnJ2U2VIRGlPeU9OU3p6OE1hcjNqVUR5Q0FwUng0aXhISGVoSThRM2dQNDlfLXVX?oc=5"
-    },
-    {
-      "title": "NASCAR Power Rankings: Regular season championship battle heats up after Iowa - On3",
-      "link": "https://www.on3.com/pro/news/nascar-power-rankings-regular-season-championship-battle-heats-up-after-iowa/"
-    },
-    {
-      "title": "Browns signing QB Tyler Huntley with Dillon Gabriel and Kenny Pickett both nursing hamstring injuries - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/08/browns-signing-qb-tyler-huntley-with-dillon-gabriel-and-kenny-pickett-both-nursing-hamstring-injuries.html"
-    },
-    {
-      "title": "Cowboys Training Camp 2025: Micah Parsons's Holdout Looms Large - Sports Illustrated",
-      "link": "https://www.si.com/nfl/cowboys-training-camp-2025-micah-parsons-holdout-looms-large"
-    },
-    {
-      "title": "Dodgers Place Tommy Edman On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/dodgers-place-tommy-edman-on-injured-list.html"
-    },
-    {
-      "title": "Browns list Joe Flacco as starter on initial depth chart - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-list-joe-flacco-as-starter-on-initial-depth-chart"
-    },
-    {
-      "title": "Lakers Rumors: Mark Walter Is \u2018Huge\u2019 Luka Doncic Fan - Lakers Nation",
-      "link": "https://lakersnation.com/lakers-rumors-mark-walter-is-huge-luka-doncic-fan/"
-    },
-    {
-      "title": "Bristol Motor Speedway Ran Out Of Food Almost Immediately During Its Record-Setting Inaugural MLB Game - Jalopnik",
-      "link": "https://www.jalopnik.com/1931083/bristol-motor-speedway-inaugural-mlb-game-ran-out-of-food/"
+      "link": "https://nypost.com/2025/08/04/sports/ex-nfler-leshon-johnson-found-guilty-in-federal-dog-fighting-case-ever/"
     }
   ],
   "weather": {
