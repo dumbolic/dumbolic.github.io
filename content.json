@@ -1,9 +1,9 @@
 {
-  "quote": "Definiteness of purpose is the starting point of all achievement.  \u2013 W. Clement Stone",
-  "fact": "Reindeer like to eat bananas.",
-  "crypto": "BTC: $115,126 | ETH: $3,723.0",
+  "quote": "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves. \u2013 Adi Da Samraj",
+  "fact": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.",
+  "crypto": "BTC: $114,955 | ETH: $3,724.5",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did one wall say to the other wall? I'll meet you at the corner!",
+  "joke": "Hear about the new restaurant called Karma? There\u2019s no menu: You get what you deserve.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "AirPods 4 now starting within $10 of Prime Day low at $99 shipped via Amazon, more - 9to5Toys",
+      "link": "http://9to5toys.com/2025/08/06/airpods-4-amazon-deals-summer/"
+    },
     {
       "title": "Google is rolling out a fix for Pixel back button issues - The Verge",
       "link": "https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16"
@@ -21,7 +25,11 @@
     },
     {
       "title": "Apple Sues the New Apple Cinemas at 1000 Van Ness, Claiming Trademark Infringement - SFist",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW1ZNWdWYkN2VUNKWlFPX2pWQVA3ZDNfWXAtOVduX2Y5eDdIWFFJb2ZQWTVZbmN1NHlHLTFNTlNFTERha3lVdDhpdUpIazRVTjhqZEIzUEl1TTMyNmpvVDFxTmhFVW8wakFCZzZBa3RtS2p3V2Zua3hmM3E1VkU3RnozRGxIWTdNbmJ1Tk44eXVab3g2Uy1nU3JScXpvd1ZJeXhRRzJBa0I2dVE?oc=5"
+      "link": "https://sfist.com/2025/08/05/apple-sues-the-new-apple-cinemas-at-1000-van-ness-over-trademark-infringement/"
+    },
+    {
+      "title": "A YouTuber Tested The Galaxy Z Fold 7's Durability - Here's What Happened After 200,000 Folds - bgr.com",
+      "link": "https://www.bgr.com/1932232/galaxy-z-fold-7-durability-test-200000-folds-video/"
     },
     {
       "title": "How Virtua Fighter Looks to Bring Innovation and Realism to the 3D Fighting Genre | Evo 2025 - IGN",
@@ -32,16 +40,8 @@
       "link": "https://arstechnica.com/gadgets/2025/08/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025/"
     },
     {
-      "title": "iOS 26 beta adds a cute new low battery animation - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/05/ios-26-beta-adds-a-cute-new-low-battery-animation/"
-    },
-    {
       "title": "TP-Link\u2019s new travel router delivers Wi-Fi 7 speeds - The Verge",
       "link": "https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn"
-    },
-    {
-      "title": "We Should Reject the Switch 2\u2019s Bogus Game-Key Cards or This Will Be the End of Physical Games - Gizmodo",
-      "link": "https://gizmodo.com/we-should-reject-the-switch-2s-bogus-game-key-cards-or-this-will-be-the-end-of-physical-games-2000639233"
     },
     {
       "title": "Report: ZeniMax\u2019s Cancelled \u201cProject Blackbird\u201d First Look at Creatures & Animations - MP1st",
@@ -52,40 +52,40 @@
       "link": "https://www.gamespot.com/gallery/cod-season-5-battle-pass-adds-sims-and-two-new-guns-in-bo6-and-warzone/2900-6852/"
     },
     {
-      "title": "Aw Shit, My Favorite Genre Just Got Changed Forever - defector.com",
-      "link": "https://defector.com/aw-shit-my-favorite-genre-just-got-changed-forever"
+      "title": "NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies - NASA (.gov)",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/"
     },
     {
-      "title": "Nintendo Forces Speedrunning Group To Apply For Permission To Feature Any Of Its Games - Kotaku",
-      "link": "https://kotaku.com/nintendo-speedrunning-rta-japan-2025-permission-license-explained-2000614737"
+      "title": "Apple\u2019s latest Liquid Glass design shows it won\u2019t back down with iOS 26 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/05/apples-latest-liquid-glass-design-shows-it-wont-back-down-with-ios-26/"
+    },
+    {
+      "title": "Donkey Kong Bananza for the Nintendo Switch 2 Is IGN's Only Masterpiece So Far in 2025 - IGN",
+      "link": "https://www.ign.com/articles/donkey-kong-bananza-for-the-nintendo-switch-2-is-the-only-ign-masterpiece-in-2025"
+    },
+    {
+      "title": "Persona 5 Royal Leads August's Humble Choice Bundle Alongside Tons of Cozy Games - IGN",
+      "link": "https://www.ign.com/articles/august-humble-choice-game-lineup-2025"
+    },
+    {
+      "title": "Millions of Dell PCs with Broadcom chips open to attack - theregister.com",
+      "link": "https://www.theregister.com/2025/08/05/millions_of_dell_pc_with/"
+    },
+    {
+      "title": "iOS 26 Beta Reveals Apple Watch Ultra 3 Display Size - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/05/apple-watch-ultra-3-display-size/"
+    },
+    {
+      "title": "Google Gemini can now create AI-generated bedtime stories - The Verge",
+      "link": "https://www.theverge.com/news/719184/google-gemini-ai-storybook-bedtime-stories"
+    },
+    {
+      "title": "Sony\u2019s noise-canceling WH-1000XM6 are discounted to their Prime Day low - The Verge",
+      "link": "https://www.theverge.com/tech/718907/sony-wh-1000xm6-skylight-smart-calendar-deal-sale"
     },
     {
       "title": "Kirby and the Forgotten Land's Star-Crossed World Nintendo Switch 2 Update Looks Massive, Smooth, and Sparkly in New Trailer - IGN",
       "link": "https://www.ign.com/articles/kirby-and-the-forgotten-lands-star-crossed-world-nintendo-switch-2-update-looks-massive-smooth-and-sparkly-in-new-trailer"
-    },
-    {
-      "title": "FC 26: 74 Changes That Actually Make a Difference - IGN",
-      "link": "https://www.ign.com/articles/fc-26-74-changes-that-actually-make-a-difference"
-    },
-    {
-      "title": "Starfield Update 1.15.222 - August 5, 2025 - Bethesda.net",
-      "link": "https://bethesda.net/en/article/1FLEONINYlSMZPPhd7U5IT/starfield-update-1-15-222-august-5-2025"
-    },
-    {
-      "title": "Samsung promises One UI 8 for more Galaxy Watch models \u2018later this year\u2019 - 9to5Google",
-      "link": "http://9to5google.com/2025/08/05/one-ui-8-coming-soon-more-galaxy-watch-models/"
-    },
-    {
-      "title": "ElevenLabs launches an AI music generator, which it claims is cleared for commercial use - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/05/elevenlabs-launches-an-ai-music-generator-which-it-claims-is-cleared-for-commercial-use/"
-    },
-    {
-      "title": "The First New Live-Action \u2018Power Rangers\u2019 Material In Years Is\u2026 a Fortnite Ad - Gizmodo",
-      "link": "https://gizmodo.com/fortnite-chapter-6-season-4-trailer-power-rangers-release-date-skins-2000638994"
-    },
-    {
-      "title": "\u2018Marvel Cosmic Invasion\u2019 Is an Arcade-Style Beat \u2018Em Up Filled With Deep-Cut Characters - Rolling Stone",
-      "link": "http://www.rollingstone.com/culture/rs-gaming/marvel-cosmic-invasion-preview-1235399618/"
     }
   ],
   "sports_news": [
@@ -98,6 +98,10 @@
       "link": "https://www.washingtonpost.com/sports/olympics/2025/08/05/trump-los-angeles-olympics-military-task-force/"
     },
     {
+      "title": "More sex toys get thrown during Liberty, Fever games as one appears to hit Sophie Cunningham - New York Post",
+      "link": "https://nypost.com/2025/08/06/sports/more-sex-toys-get-thrown-at-liberty-fever-games/"
+    },
+    {
       "title": "Son Heung-min signs with MLS\u2019 Los Angeles FC after a decade at Tottenham - AP News",
       "link": "https://apnews.com/article/son-heung-min-lafc-bcb3108a76c0f584f04fd3922a6c2b9b"
     },
@@ -106,28 +110,32 @@
       "link": "https://www.milehighreport.com/denver-broncos-news/117134/2025-broncos-training-camp-day-10-news-and-notes"
     },
     {
-      "title": "60-55 - Eovaldi masterclass eases dinner with LOBsters in 2-0 Rangers win - Lone Star Ball",
-      "link": "https://www.lonestarball.com/rangers-mlb-game-day-thread/83359/nathan-eovaldi-masterclass-eases-dinner-with-lobsters-in-texas-rangers-win-over-new-york-yankees"
+      "title": "Jakorian Bennett trade: Eagles send Thomas Booker to Raiders for cornerback - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/131784/jakorian-bennett-trade-eagles-send-thomas-booker-to-raiders-for-cornerback"
     },
     {
-      "title": "Athletics C Shea Langeliers posts historic 3-HR game in first career appearance as leadoff hitter - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/athletics-c-shea-langeliers-posts-historic-3-hr-game-in-first-career-appearance-as-leadoff-hitter-023840504.html"
+      "title": "60-55 - Eovaldi masterclass eases dinner with LOBsters in 2-0 Rangers win - Lone Star Ball",
+      "link": "https://www.lonestarball.com/rangers-mlb-game-day-thread/83359/nathan-eovaldi-masterclass-eases-dinner-with-lobsters-in-texas-rangers-win-over-new-york-yankees"
     },
     {
       "title": "10 Observations from Rams' joint practice with Cowboys: Jimmy Garoppolo and Davante Adams lead strong day for offense, defensive line and Quentin Lake set tone for defense - Rams",
       "link": "https://www.therams.com/news/10-observations-from-rams-joint-practice-with-cowboys-jimmy-garoppolo-and-davante-adams-lead-strong-day-for-offense-defensive-line-and-quentin-lake-set-tone-for-defense"
     },
     {
-      "title": "Patrick Mahomes looked in midseason form in Tuesday\u2019s practice look - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-training-camp/150600/patrick-mahomes-looked-in-midseason-form-in-tuesdays-practice-look"
+      "title": "UFC 320: 2 more fights added to Magomed Ankalaev vs. Alex Pereira 2 fight card - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc-news/307857/ufc-320-2-more-fights-added-to-magomed-ankalaev-vs-alex-pereira-2-fight-card"
+    },
+    {
+      "title": "Will Howard injury update: Report reveals severity of Steelers QB's fracture - On3",
+      "link": "https://www.on3.com/pro/news/will-howard-injury-update-report-reveals-severity-of-steelers-qbs-fracture/"
     },
     {
       "title": "The Mariners get some \u2018exciting\u2019 injury updates that bode well for the future - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/victor-robles-way-ahead-of-schedule-set-for-rehab-assignment-mariners-notebook/"
     },
     {
-      "title": "Will Howard injury update: Report reveals severity of Steelers QB's fracture - On3",
-      "link": "https://www.on3.com/pro/news/will-howard-injury-update-report-reveals-severity-of-steelers-qbs-fracture/"
+      "title": "Seahawks training camp impressions: WR battle heats up, Walker returns - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-training-camp-impressions-marquez-valdes-scantling-in-a-battle-at-wr/"
     },
     {
       "title": "Keenan Allen agrees to sign with Chargers - NBC Sports",
@@ -138,32 +146,28 @@
       "link": "https://www.acmepackingcompany.com/green-bay-packers-roster/59075/green-bay-packers-depth-chart-2025-update-training-camp"
     },
     {
-      "title": "Jerry Jones on Micah Parsons negotiations: 'I stay urgent' - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/jerry-jones-on-micah-parsons-negotiations-i-stay-urgent"
-    },
-    {
       "title": "Aaron Boone\u2019s tone shift shows just how dire Yankees\u2019 situation is now - New York Post",
       "link": "https://nypost.com/2025/08/05/sports/aaron-boones-tone-shift-shows-just-how-dire-yankees-situation-is-now/"
     },
     {
-      "title": "Reds Place Nick Lodolo On Injured List With Blister - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/reds-place-nick-lodolo-on-injured-list-with-blister.html"
+      "title": "ESPN, NFL Deal Makes Football League Part Owner of Disney Sports Giant - Variety",
+      "link": "https://variety.com/2025/tv/news/espn-nfl-deal-football-league-partial-owner-disney-sports-1236479307/"
+    },
+    {
+      "title": "Jerry Jones \"absolutely not\" confident Micah Parsons will play Week 1 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-absolutely-not-confident-micah-parsons-will-play-week-1"
     },
     {
       "title": "Bears training camp report: Tuesday, Aug. 5 - Chicago Bears",
       "link": "https://www.chicagobears.com/news/chicago-bears-training-camp-report-tuesday-aug-5-ben-johnson-physical-practice"
     },
     {
+      "title": "49ers' George Kittle says he 'considered retirement' over new NFL rule - SFGATE",
+      "link": "https://www.sfgate.com/49ers/article/49ers-george-kittle-considered-retirement-nfl-rule-20803840.php"
+    },
+    {
       "title": "Travis Hunter practiced on both sides of the ball Tuesday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-practiced-on-both-sides-of-the-ball-tuesday"
-    },
-    {
-      "title": "Justin Fields's Brutal Passing Struggles Continue at Jets Training Camp - Sports Illustrated",
-      "link": "https://www.si.com/nfl/justin-fields-brutal-passing-struggles-continue-at-jets-training-camp"
-    },
-    {
-      "title": "Practice 11: 2025 Miami Dolphins Training Camp Notebook - Miami Dolphins",
-      "link": "https://www.miamidolphins.com/news/practice-11-2025-miami-dolphins-training-camp-notebook"
     }
   ],
   "weather": {
