@@ -1,9 +1,9 @@
 {
-  "quote": "The whole world is a series of miracles, but we're so used to them we call them ordinary things. \u2013 Hans Christian Andersen",
-  "fact": "John Lennon`s first girlfriend was named Thelma Pickles.",
-  "crypto": "BTC: $116,326 | ETH: $3,819.21",
+  "quote": "Life is a gift. Never forget to enjoy and bask in every moment you are in. \u2013 Celestine Chua",
+  "fact": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
+  "crypto": "BTC: $116,543 | ETH: $3,829.37",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
+  "joke": "Why are fish easy to weigh? Because they have their own scales.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Pixel 10 series shown off in clean new images as software features start leaking - 9to5Google",
+      "link": "http://9to5google.com/2025/08/06/pixel-10-leak-images-software/"
+    },
+    {
+      "title": "Call of Duty and Battlefield 6 will both require Secure Boot on Windows - The Verge",
+      "link": "https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7"
+    },
+    {
+      "title": "Fortnite Battle Pass Chapter 6 Season 4: All Skins Revealed - GameSpot",
+      "link": "https://www.gamespot.com/gallery/fortnite-chapter-6-season-4-battle-pass-all-skins-and-rewards/2900-6856/"
+    },
+    {
+      "title": "Google\u2019s AI coding agent Jules is now out of beta - Yahoo Finance",
+      "link": "https://finance.yahoo.com/news/google-ai-coding-agent-jules-160000019.html"
+    },
+    {
+      "title": "Microsoft is bringing its Xbox Copilot to the Windows Game Bar - The Verge",
+      "link": "https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test"
+    },
+    {
+      "title": "Citizen Lab director warns cyber industry about US authoritarian descent - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/"
+    },
+    {
       "title": "Xbox Is An Increasingly Unstable Platform For Anyone To Invest In - GameSpot",
       "link": "https://www.gamespot.com/articles/xbox-is-an-increasingly-unstable-platform-for-anyone-to-invest-in/1100-6533717/"
     },
     {
       "title": "Here's how you can still get a Battlefield 6 multiplayer early access code - Eurogamer",
       "link": "https://www.eurogamer.net/heres-how-you-can-still-get-a-battlefield-6-multiplayer-early-access-code"
+    },
+    {
+      "title": "iOS 26 upgrades the App Store with these three new features - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/06/ios-26-upgrades-the-app-store-with-these-three-new-features/"
     },
     {
       "title": "Ex-BioWare Dev Wanted Dragon Age 4 Out Before Anthem - Kotaku",
@@ -32,16 +60,24 @@
       "link": "https://www.ign.com/articles/powerwash-simulator-2-has-you-dig-and-clean-a-dirty-toilet-out-of-a-town-square"
     },
     {
-      "title": "The Grooms Smashing Wedding Cake in Their Brides\u2019 Faces - The Cut",
-      "link": "http://www.thecut.com/article/grooms-smashing-wedding-cake-brides-faces.html"
+      "title": "Instagram takes on Snapchat with new \u2018Instagram Map\u2019 - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/"
     },
     {
       "title": "Hackers Hijacked Google\u2019s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home - WIRED",
       "link": "https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/"
     },
     {
-      "title": "\u2018Tinder For Games\u2019 Video Game Discovery Tool Ludocene Is Now Live - Kotaku",
-      "link": "https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938"
+      "title": "Minecraft 1.21.100 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/minecraft-1-21-100-update-out-now-patch-notes/"
+    },
+    {
+      "title": "ChatGPT Is Evolving Fast: From Now On, It Will No Longer Answer Certain Questions, and Millions of Users Are Affected - The Daily Galaxy",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzlOa2EtV0pkNWhtZDg2NF94LUFMbk1qOGZGVUJUdVVZaFJRR0tYY1BjcXVteXpnaHpwYVFHOXNvTTdYVDFGd2FaWU5VNTRHVnZ1ZW81TDdfN2dTMW5WZjVycEJZYmhZN1lyT1JEaVBWQV8zbld6S1JrOWNGQlMyR0lGbHlEU0MxYzQ0em8tNUlSVVhXdVVOWlJVdVhMUm9kdVE?oc=5"
+    },
+    {
+      "title": "The iPhone 17 Air Could Hint at Apple's Foldable Future - CNET",
+      "link": "https://www.cnet.com/tech/mobile/the-iphone-17-air-could-hint-at-apples-foldable-future/"
     },
     {
       "title": "Rumour: Xbox Exclusive Starfield Is Getting Some Hefty Gameplay Reworks for Its PS5 Release - Push Square",
@@ -50,128 +86,88 @@
     {
       "title": "ReVault flaws let hackers bypass Windows login on Dell laptops - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/"
-    },
-    {
-      "title": "August 2025 PS Plus Essential Games Available to Download Now - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/08/august-2025-ps-plus-essential-games-available-to-download-now"
-    },
-    {
-      "title": "Nintendo Won't Let Charity Speedrunning Event Use Its Games Without Permission, Because Of Course - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/nintendo-wont-let-charity-speedrunning-event-use-its-games-without-permission-because-of-course"
-    },
-    {
-      "title": "Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools - The Hacker News",
-      "link": "https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html"
-    },
-    {
-      "title": "Microsoft\u2019s plan to fix the web with AI has already hit an embarrassing security flaw - The Verge",
-      "link": "https://www.theverge.com/news/719617/microsoft-nlweb-security-flaw-agentic-web"
-    },
-    {
-      "title": "AirPods 4 now starting within $10 of Prime Day low at $99 shipped via Amazon, more - 9to5Toys",
-      "link": "http://9to5toys.com/2025/08/06/airpods-4-amazon-deals-summer/"
-    },
-    {
-      "title": "Genshin Impact for PS4 to end service on April 8, 2026 - Gematsu",
-      "link": "https://www.gematsu.com/2025/08/genshin-impact-for-ps4-to-end-service-on-april-8-2026"
-    },
-    {
-      "title": "61-53: Chart - Lookout Landing",
-      "link": "https://www.lookoutlanding.com/mariners-charts/90830/61-53-chart"
-    },
-    {
-      "title": "Mastercard Claims NSFW Game Bans Aren\u2019t From Them, Valve Explains How Mastercard Launders Its Control - Techdirt.",
-      "link": "https://www.techdirt.com/2025/08/05/mastercard-claims-nsfw-game-bans-arent-from-them-valve-explains-how-mastercard-launders-its-control/"
-    },
-    {
-      "title": "Google is rolling out a fix for Pixel back button issues - The Verge",
-      "link": "https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16"
-    },
-    {
-      "title": "Apple Sues the New Apple Cinemas at 1000 Van Ness, Claiming Trademark Infringement - SFist",
-      "link": "https://sfist.com/2025/08/05/apple-sues-the-new-apple-cinemas-at-1000-van-ness-over-trademark-infringement/"
     }
   ],
   "sports_news": [
     {
-      "title": "Kevin Stefanski: Only Shedeur Sanders, Tyler Huntley will play at QB on Friday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-only-shedeur-sanders-tyler-huntley-will-play-at-qb-on-friday"
+      "title": "12 Takeaways From Wednesday's Joint Practice vs. the Commanders for Drake Maye, Patriots Offense - New England Patriots",
+      "link": "https://www.patriots.com/news/12-takeaways-from-wednesday-s-joint-practice-vs-the-commanders-for-drake-maye-patriots-offense"
     },
     {
-      "title": "Jaycee Horn won't practice Wednesday after car accident - Carolina Panthers",
-      "link": "https://www.panthers.com/news/jaycee-horn-won-t-practice-wednesday-after-car-accident-joint-practice-browns"
+      "title": "Cleveland Guardians vs. New York Mets Results, Stats, and Recap - August 6, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20250806_CLE@NYM/"
     },
     {
-      "title": "Mohammed Siraj's classy reply to Asaduddin Owaisi's viral 'poora khol' comment - Times of India",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/mohammed-sirajs-classy-reply-to-asaduddin-owaisis-viral-poora-khol-comment/articleshow/123144513.cms"
+      "title": "MLB is calling up its first female umpire, promoting Jen Pawol for Saturday's Marlins-Braves game - AP News",
+      "link": "https://apnews.com/article/mlb-female-umpire-jen-pawol-000cf10d7d458329e89d4fa83f8cefcc"
     },
     {
-      "title": "Source: Matthew Stafford is on track to do on-field work later this week - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/source-matthew-stafford-is-on-track-to-do-on-field-work-later-this-week"
+      "title": "Drake Maye on Mike Vrabel breaking up fight: We\u2019re trying to build that intensity - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-on-mike-vrabel-breaking-up-fight-were-trying-to-build-that-intensity"
     },
     {
-      "title": "The 25 Best College Football Coaches of the Past 25 Years - Sports Illustrated",
-      "link": "https://www.si.com/college-football/the-25-best-college-football-coaches-of-the-past-25-years"
+      "title": "Camp Notes: Lions' defense 'a handful right now' in practice - Detroit Lions",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUZveXZEWlZ3cmkyMU9oLWQ1bHk3WTdEdDZXYjNENFh3WUN2MkxBV0RacGZ0THpIeTNseHpramV2SUUyUkV2NVBqVm9UY0U1V1RLTkFBWHY2MXhsTzdoeGlVSEJoeDJ1dkNDRWVWRWZhR19OazhwRjRTS1l4WkpyeWpnV0hLWjFHX2ZiVC1qNFFZWFlj?oc=5"
     },
     {
-      "title": "One Week In: Intel+Insights into FSU\u2019s first chapter of camp | Scrimmage Scoop - 247Sports",
-      "link": "https://247sports.com/college/florida-state/article/one-week-in-intelinsights-into-fsus-first-chapter-of-camp-scrimmage-scoop-252380717/"
+      "title": "Broncos release initial unofficial 2025 depth chart - Denver Broncos",
+      "link": "https://www.denverbroncos.com/news/broncos-release-initial-unofficial-2025-depth-chart"
     },
     {
-      "title": "Good news, bad news for NASCAR Cup drivers ahead of Watkins Glen weekend - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/good-news-bad-news-for-nascar-cup-drivers-ahead-of-watkins-glen-weekend"
+      "title": "Training Camp Observations: Cooler temps, and cooler heads prevail - Carolina Panthers",
+      "link": "https://www.panthers.com/news/training-camp-observations-cooler-temps-and-cooler-heads-prevail-bryce-young-jaycee-horn"
     },
     {
-      "title": "Svitolina faces abuse after loss, blames bettors - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/45912538/svitolina-faces-hateful-abuse-loss-blames-shameful-bettors"
+      "title": "Red Sox, Roman Anthony Finalizing Extension - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/08/red-sox-roman-anthony-extension.html"
     },
     {
-      "title": "Grizzly bear charges toward Seattle Kraken team's mascot during video shoot in Alaska - CBS News",
-      "link": "https://www.cbsnews.com/news/grizzly-bear-seattle-kraken-mascot-video-shoot-alaska/"
+      "title": "Teddy Bridgewater on high school coaching suspension: I was trying to protect kids - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-on-high-school-coaching-suspension-i-was-trying-to-protect-kids"
     },
     {
-      "title": "Chargers Training Camp 2025: Jim Harbaugh Has Built a Team of Bullies - Sports Illustrated",
-      "link": "https://www.si.com/nfl/chargers-training-camp-2025-jim-harbaugh-built-team-of-bullies"
+      "title": "Mason Miller\u2019s Balls Were Fast, But Lourdes Gurriel\u2019s Dong Was Faster - Defector",
+      "link": "https://defector.com/mason-millers-balls-were-fast-but-lourdes-gurriels-dong-was-faster"
     },
     {
-      "title": "Scott Barrett's 2025 Fantasy Draft Guide - Fantasy Points",
-      "link": "https://www.fantasypoints.com/nfl/articles/2025/scott-barretts-fantasy-draft-guide"
+      "title": "Thomas M\u00fcller! Bayern Munich, Germany legend joins Vancouver Whitecaps - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/thomas-muller-transfer-vancouver-whitecaps-bayern-munich-germany-bundesliga-mls"
     },
     {
-      "title": "Sex toy tossed on court during WNBA game in L.A., latest of several such incidents - CBS News",
-      "link": "https://www.cbsnews.com/news/sex-toy-wnba-sophie-cunningham-fever-sparks/"
+      "title": "Rookie QB Shedeur Sanders to start in Browns preseason opener against the Panthers - AP News",
+      "link": "https://apnews.com/article/browns-shedeur-sanders-panthers-ae9add6cdf30d8b14e304d6e1ce0033e"
     },
     {
-      "title": "Patriots mailbag: Biggest surprises, disappointments of training camp - Boston Herald",
-      "link": "https://www.bostonherald.com/2025/08/06/patriots-mailbag-biggest-surprises-disappointments-of-training-camp/"
+      "title": "Celtics To Trade Georges Niang, Two Picks To Jazz - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2025/08/celtics-to-trade-niang-two-picks-to-jazz.html"
     },
     {
-      "title": "What Georges Niang trade, Chris Boucher signing means for Boston Celtics - MassLive",
-      "link": "https://www.masslive.com/celtics/2025/08/what-georges-niang-trade-chris-boucher-signing-means-for-boston-celtics.html"
+      "title": "Marcus Buchecha breaks silence on debut loss, UFC\u2019s decision to not re-sign Martin Buday - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/307895/marcus-buchecha-breaks-silence-ufc-debut-loss-release-martin-buday"
     },
     {
-      "title": "Robert Kraft: NFL will have more of an international audience with ESPN-NFL Media deal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-kraft-nfl-will-have-more-of-an-international-audience-with-espn-nfl-media-deal"
+      "title": "SEC announces 2026 men's basketball schedule - Southeastern Conference",
+      "link": "https://www.secsports.com/news/2025/08/sec-announces-2026-mens-basketball-schedule"
     },
     {
-      "title": "New York Giants\u2019 Brian Daboll under pressure to produce good start - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-preseason/110210/giants-brian-daboll-under-pressure-to-produce-good-start"
+      "title": "How LSU is navigating the new world of college athletics - Baton Rouge Business Report",
+      "link": "https://www.businessreport.com/article/how-lsu-is-navigating-the-new-world-of-college-athletics"
     },
     {
-      "title": "The Commanders, full of veterans, have teachers at every position - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/08/05/commanders-veterans-young-players-teaching/"
+      "title": "How Keenan Allen Fits Into the Chargers Offense - Los Angeles Chargers",
+      "link": "https://www.chargers.com/news/keenan-allen-ladd-mcconkey-depth-chart-2025"
     },
     {
-      "title": "MLB Speedway Classic a washout in the ratings too - Sports Media Watch",
-      "link": "https://www.sportsmediawatch.com/2025/08/mlb-speedway-bristol-ratings-fox-tigers-phillies-espn/"
+      "title": "NASCAR Craftsman Truck Series qualifying order for Watkins Glen International - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/08/06/nascar-craftsman-truck-series-qualifying-order-for-watkins-glen/"
     },
     {
-      "title": "Trump suggests he could use the military to keep the L.A. Olympics \u2018safe\u2019 - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/olympics/2025/08/05/trump-los-angeles-olympics-military-task-force/"
+      "title": "Sex toy thrown on court during Fever-Sparks game in L.A., third such WNBA incident in a week - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/sex-toy-thrown-court-fever-sparks-game-l-third-wnba-incident-week-rcna223352"
     },
     {
-      "title": "Son Heung-min signs with MLS\u2019 Los Angeles FC after a decade at Tottenham - AP News",
-      "link": "https://apnews.com/article/son-heung-min-lafc-bcb3108a76c0f584f04fd3922a6c2b9b"
+      "title": "ESPN Taking Over NFL Network\u2019s Lease Near SoFi Stadium - Front Office Sports",
+      "link": "http://frontofficesports.com/espn-nfl-network-lease-sofi-stadium/"
     }
   ],
   "weather": {
