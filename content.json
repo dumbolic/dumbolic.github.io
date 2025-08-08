@@ -1,9 +1,9 @@
 {
-  "quote": "Some people don't like change, but you need to embrace change if the alternative is disaster. \u2013 Elon Musk",
-  "fact": "Only 6 people in the whole world have died from moshing.",
-  "crypto": "BTC: $116,485 | ETH: $3,894.88",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
+  "quote": "If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long. \u2013 Elon Musk",
+  "fact": "Women manage the money and pay the bills in\u00a0 75% of all Americans households.",
+  "crypto": "BTC: $116,790 | ETH: $3,907.04",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Which is the fastest growing city in the world? Dublin'",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Metroid Prime 4, Elden Ring, Silksong All Playable At Nintendo's Gamescom Booth - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/metroid-prime-4-elden-ring-silksong-all-playable-at-nintendos-gamescom-booth"
+    },
+    {
+      "title": "Review | I spent months living with smart glasses. People talk to me differently now. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXVHRGJoeG5FbW9yWUd5M3VGMGRuaENOaUZUaW1IU1Q5MWhEX09UU1kyUHY5clByZXptOWd2MGZ5YUJsZUVUdWVfMTg0OC12U3gtUG1oYXpzTXdCYmJ1Wnlwc0dJZkg2d2pYYTRlV0FNRTlHdzNRbDNNRFgtMFprTFFaY180Y0Z5WWpXS1hR?oc=5"
+    },
+    {
+      "title": "Sony CFO says its live service shift is \u2018not entirely going smoothly\u2019 but pledges to carry on and learn from mistakes - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/sony-cfo-says-its-live-service-shift-is-not-entirely-going-smoothly-but-pledges-to-carry-on-and-learn-from-mistakes/"
+    },
+    {
+      "title": "PS5 Console Sales Surpass 80 Million Milestone, Closing in on PS3 - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/08/ps5-console-sales-surpass-80-million-milestone-closing-in-on-ps3"
+    },
+    {
+      "title": "Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Enable Secure Boot \u2014 and Call of Duty: Black Ops 7 Is Next - IGN",
+      "link": "https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next"
+    },
+    {
+      "title": "Sony CFO says Marathon is expected to release before March, and Bungie\u2019s independence is \u2018getting lighter\u2019 - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/sony-cfo-says-marathon-is-expected-to-release-before-march-and-bungies-independence-is-getting-lighter/"
+    },
+    {
+      "title": "Microsoft warns of high-severity flaw in hybrid Exchange deployments - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/"
+    },
+    {
       "title": "Still live: One of the best prices ever on 24GB M4 Mac mini at $699 + 48GB and 64GB models at $200 off - 9to5Toys",
       "link": "http://9to5toys.com/2025/08/06/best-price-ever-24gb-m4-mac-mini/"
+    },
+    {
+      "title": "Galaxy Z Fold 7 folded 200,000 times using hands and survives - SamMobile",
+      "link": "https://www.sammobile.com/opinion/sorry-s-pen-fans-galaxy-z-fold-7-buyers-dont-care-about-your-feelings/"
     },
     {
       "title": "NotebookLM rolls out Video Overviews, Studio redesign, and more - 9to5Google",
       "link": "http://9to5google.com/2025/08/06/notebooklm-studio-redesign/"
     },
     {
+      "title": "PS5 Pro Will Upgrade and Enhance This Week's Mafia: The Old Country - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/08/ps5-pro-will-upgrade-and-enhance-this-weeks-mafia-the-old-country"
+    },
+    {
       "title": "A Single Poisoned Document Could Leak \u2018Secret\u2019 Data Via ChatGPT - WIRED",
       "link": "https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/"
     },
     {
-      "title": "Guilty Gear Strive Producer On Lucy, Upcoming Balance Changes, and Strive 2.00 | Evo 2025 - IGN",
-      "link": "https://www.ign.com/articles/guilty-gear-strive-producer-on-lucy-upcoming-balance-changes-and-strive-200-evo-2025"
+      "title": "Samsung reveals when Galaxy S24 and S23 phones will get One UI 8 (Android 16) update - Sammy Fans",
+      "link": "https://www.sammyfans.com/2025/08/06/samsung-galaxy-s24-s23-one-ui-8-update/"
     },
     {
       "title": "CoD Season 5 Patch Notes: BO6 And Warzone Adds Weapon Balancing And Stadium Event - GameSpot",
@@ -48,66 +84,54 @@
       "link": "https://gizmodo.com/this-4-5-star-mini-pc-ryzen-7-32gb-ram-512gb-ssd-just-hit-black-friday-pricing-low-in-stock-on-amazon-2000639431"
     },
     {
-      "title": "Pixel 10 Pro XL looks large and in charge in major leak weeks before launch - Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/pixel-10-pro-xl-large-and-in-charge-major-leak-weeks-before-launch"
+      "title": "Vivo X200 Ultra becomes second-best flagship in DxOMark's camera test, only one smartphone is better - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Vivo-X200-Ultra-becomes-second-best-flagship-in-DxOMark-s-camera-test-only-one-smartphone-is-better.1081672.0.html"
     },
     {
-      "title": "Google denies AI search features are killing website traffic - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/06/google-denies-ai-search-features-are-killing-website-traffic/"
-    },
-    {
-      "title": "Apple reportedly releasing new Apple TV 4K this fall \u2014 here's all the upgrades - Tom's Guide",
-      "link": "https://www.tomsguide.com/entertainment/streaming-devices/apple-reportedly-releasing-a-new-apple-tv-4k-model-later-this-fall-what-weve-heard"
-    },
-    {
-      "title": "Metal Gear Solid Delta: Snake Eater hands-on - A very faithful remake with lots new to look forward to - Destructoid",
-      "link": "https://www.destructoid.com/metal-gear-solid-delta-snake-eater-hands-on/"
-    },
-    {
-      "title": "Will the iPhone 17 lineup see a price hike? Here\u2019s what the rumors say - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/06/iphone-17-apple-price-hike-rumor-roundup-expectations/"
-    },
-    {
-      "title": "Researchers design \u201cpromptware\u201d attack with Google Calendar to turn Gemini evil - Ars Technica",
-      "link": "https://arstechnica.com/google/2025/08/researchers-use-calendar-events-to-hack-gemini-control-smart-home-gadgets/"
-    },
-    {
-      "title": "Call of Duty and Battlefield 6 will both require Secure Boot on Windows - The Verge",
-      "link": "https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7"
-    },
-    {
-      "title": "Former Dragon Age producer posts tell-all video about the messy birth of EA and BioWare's Anthem - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/former-dragon-age-producer-posts-tell-all-video-about-the-messy-birth-of-ea-and-biowares-anthem"
-    },
-    {
-      "title": "Guitar Hero veterans form rhythm game development studio RedOctane Games - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/guitar-hero-veterans-form-new-rhythm-game-studio-redoctane-games/"
-    },
-    {
-      "title": "Genshin Impact Game to End Service on PS4 - Anime News Network",
-      "link": "https://www.animenewsnetwork.com/news/2025-08-06/genshin-impact-game-to-end-service-on-ps4/.227405"
-    },
-    {
-      "title": "Google\u2019s AI coding agent Jules is now out of beta - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/06/googles-ai-coding-agent-jules-is-now-out-of-beta/"
+      "title": "All the Biggest New Features and Changes in iOS 26 Beta 5 - Lifehacker",
+      "link": "https://lifehacker.com/tech/all-the-new-features-in-ios-26-beta-5"
     }
   ],
   "sports_news": [
     {
+      "title": "Travis Kelce: I threw the Super Bowl loss in the trash and moved on - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-i-threw-the-super-bowl-loss-in-the-trash-and-moved-on"
+    },
+    {
+      "title": "Eagles vs. Bengals preseason watching guide - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/131874/eagles-vs-bengals-preseason-watching-guide-game-information-tv-channel-stream-odds-nfl"
+    },
+    {
+      "title": "NFL players can still use smelling salts as long as not provided by teams - CNN",
+      "link": "https://www.cnn.com/2025/08/07/sport/football-nfl-players-smelling-salts-intl"
+    },
+    {
       "title": "Mariners draw closer to AL West lead with win over White Sox - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/josh-naylor-julio-rodriguez-help-mariners-draw-closer-to-al-west-lead/"
+    },
+    {
+      "title": "Second person arrested for throwing sex toy at WNBA game, allegedly hit man and his 9-year-old niece in stands - Yahoo Sports",
+      "link": "https://sports.yahoo.com/wnba/breaking-news/article/second-person-arrested-for-throwing-sex-toy-at-wnba-game-allegedly-hit-man-and-his-9-year-old-niece-in-stands-041005746.html"
     },
     {
       "title": "MLB's first female umpire to debut. Here's other women who broke officiating barriers - NPR",
       "link": "https://www.npr.org/2025/08/07/nx-s1-5494783/mlb-first-female-umpire-debut"
     },
     {
-      "title": "NFL union clarifies 49ers' George Kittle isn't banned from using smelling salts - SFGATE",
-      "link": "https://www.sfgate.com/49ers/article/nfl-union-49ers-george-kittle-smelling-salts-20806043.php"
+      "title": "Red Sox trade deadline addition \u2018falls apart\u2019 with new pitch mix in disappointing debut - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/08/red-sox-trade-deadline-addition-falls-apart-with-new-pitch-mix-in-disappointing-debut.html"
     },
     {
-      "title": "Red Sox Extend Roman Anthony - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/red-sox-roman-anthony-extension.html"
+      "title": "In Roman Anthony talks, Red Sox went back for seconds with \u2018aggressive offer\u2019 to close deal - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/08/in-roman-anthony-talks-red-sox-went-back-for-seconds-with-aggressive-offer-to-close-deal.html"
+    },
+    {
+      "title": "Gavin Williams \u2018didn\u2019t care\u2019 about pitch count as he fell just short of Guardians no-hitter history - New York Post",
+      "link": "https://nypost.com/2025/08/06/sports/guardians-gavin-williams-on-missed-no-hitter-pitch-count-wasnt-factor/"
+    },
+    {
+      "title": "Micah Parsons contract negotiation: Jerry Jones doubles down that handshake agreement matters - On3",
+      "link": "https://www.on3.com/pro/news/micah-parsons-contract-negotiation-jerry-jones-doubles-down-that-handshake-agreement-matters/"
     },
     {
       "title": "Patriots training camp notebook: Joint practice with the Commanders on Day 12 - 98.5 The Sports Hub",
@@ -116,10 +140,6 @@
     {
       "title": "Vikings training camp recap, Day 11: Rondale Moore among standouts - Sports Illustrated",
       "link": "https://www.si.com/nfl/vikings/news/vikings-training-camp-recap-day-11-rondale-moore-among-standouts"
-    },
-    {
-      "title": "'Don't trust him'\u2026 Khamzat Chimaev's sincerity questioned after revealing plan for shock return to welterweight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/08/06/dont-trust-him-khamzat-chimaevs-sincerity-questioned-after-revealing-plan-for-shock-return-to-welterweight/"
     },
     {
       "title": "LAFC set MLS transfer record with Son Heung-min signing - MLSsoccer.com",
@@ -134,40 +154,20 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-wants-travis-hunter-to-succeed-doubts-anyone-can-play-both-ways-long-term"
     },
     {
-      "title": "The Mets are a team in crisis - New York Post",
-      "link": "https://nypost.com/2025/08/06/sports/the-mets-are-a-team-in-crisis/"
+      "title": "Yankees snap five-game skid on back of David Bednar\u2019s gutsy save - New York Post",
+      "link": "https://nypost.com/2025/08/06/sports/yankees-snap-five-game-skid-on-back-of-david-bednars-gutsy-save/"
     },
     {
-      "title": "Tua Tagovailoa is \"not too sure\" how he landed on the President's Council on Sports, Fitness, and Nutrition - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-is-not-too-sure-how-he-landed-on-the-presidents-council-on-sports-fitness-and-nutrition"
+      "title": "Vikings Training Camp Notes: J.J. McCarthy is solid, UDFA gets first team reps, and day 3 NFL Draft pick makes a bold statement - A to Z Sports",
+      "link": "https://atozsports.com/nfl/vikings-training-camp-notes-jj-mccarthy-dwight-mcglothern-dallas-turner-walter-rouse/"
     },
     {
-      "title": "Five Observations from Wednesday\u2019s Practice | Chiefs Training Camp 8/6 - Kansas City Chiefs",
-      "link": "https://www.chiefs.com/news/five-observations-from-wednesday-s-practice-chiefs-training-camp-8-6"
+      "title": "Justin Fields already giving Dolphins fans a reason to howl with laughter - Phin Phanatic",
+      "link": "https://phinphanatic.com/new-york-jets-justin-fields-giving-miami-dolphins-fans-reason-laughter"
     },
     {
-      "title": "New Orleans Saints announce roster moves - New Orleans Saints",
-      "link": "https://www.neworleanssaints.com/news/hunter-dekkers-quarterback-new-orleans-saints-roster-moves-transactions-august-6-2025"
-    },
-    {
-      "title": "Jerry Jeudy makes one-handed catch on pass from Joe Flacco | Training Camp Observations - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/jerry-jeudy-catches-one-handed-pass-from-joe-flacco-training-camp-observations"
-    },
-    {
-      "title": "Aaron Rodgers \"fully on board\" to play in first preseason game if asked - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-fully-on-board-to-play-in-first-preseason-game-if-asked"
-    },
-    {
-      "title": "Camp Notes: Lions' defense 'a handful right now' in practice - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/camp-notes-lions-defense-a-handful-right-now-in-practice"
-    },
-    {
-      "title": "Micah Parsons contract negotiation: Jerry Jones doubles down that handshake agreement matters - On3",
-      "link": "https://www.on3.com/pro/news/micah-parsons-contract-negotiation-jerry-jones-doubles-down-that-handshake-agreement-matters/"
-    },
-    {
-      "title": "Travis Kelce\u2019s transformation: Chiefs star trims down, gears up for another Super Bowl run - AP News",
-      "link": "https://apnews.com/article/kansas-city-chiefs-travis-kelce-70b39c03c195bf2822da5a7707188af6"
+      "title": "Teddy Bridgewater Explains The Heartbreaking Reason He Paid For High School Players' Uber Rides - OutKick",
+      "link": "https://www.outkick.com/sports/teddy-bridgewater-explains-heartbreaking-reason-he-paid-high-school-players-uber-rides"
     }
   ],
   "weather": {
