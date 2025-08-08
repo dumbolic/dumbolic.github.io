@@ -1,9 +1,9 @@
 {
-  "quote": "Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! \u2013 Sathya Sai Baba",
-  "fact": "There are 336 dimples on a regulation golf ball.",
-  "crypto": "BTC: $116,143 | ETH: $3,963.23",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
+  "quote": "There is no limit to the amount of good you can do if you don't care who gets the credit. \u2013 Ronald Reagan",
+  "fact": "Koala is Aboriginal for \"no drink\".",
+  "crypto": "BTC: $116,446 | ETH: $3,984.66",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the kid cross the playground? To get to the other slide.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,114 +12,150 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Xbox Drops Work on \u2018Contraband\u2019 Video Game After Four Years - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-08-07/xbox-drops-work-on-contraband-video-game-after-four-years"
+    },
+    {
+      "title": "Sony Senior Vice President says they are moving away from a hardware centric business model - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/08/07/sony-senior-vice-president-says-they-are-moving-away-from-a-hardware-centric-business-model/"
+    },
+    {
+      "title": "\u2018MindsEye\u2019 is more than the worst game of the year - The Washington Post",
+      "link": "https://www.washingtonpost.com/entertainment/video-games/2025/08/07/mindseye-worst-game-of-year/"
+    },
+    {
+      "title": "Google TV\u2019s uncertain future - The Verge",
+      "link": "https://www.theverge.com/lowpass-newsletter/724970/google-tv-ads-monetization-problem"
+    },
+    {
+      "title": "Nintendo's Indie World Showcase - here's everything announced - Eurogamer",
+      "link": "https://www.eurogamer.net/nintendos-indie-world-showcase-heres-everything-announced"
+    },
+    {
+      "title": "The Framework Desktop made me fall for small form factor PCs - The Verge",
+      "link": "https://www.theverge.com/reviews/749404/framework-desktop-pc-amd-ryzen-ai-max-385-395-plus-review"
+    },
+    {
+      "title": "Xbox Game Pass is getting another big day-one game in October 2025 - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/ball-x-pit-xbox-game-pass"
+    },
+    {
+      "title": "2025 Subaru WRX tS review: A scalpel-sharp chassis lets this car dance - Ars Technica",
+      "link": "https://arstechnica.com/cars/2025/08/2025-subaru-wrx-ts-review-a-scalpel-sharp-chassis-lets-this-car-dance/"
+    },
+    {
+      "title": "Android 16 beta schedule leaks for some of Samsung\u2019s recent Galaxy devices - 9to5Google",
+      "link": "http://9to5google.com/2025/08/07/one-ui-8-android-16-beta-schedule-leaks-for-some-galaxy-devices/"
+    },
+    {
       "title": "Digital Foundry, the most trusted name in game console analysis, is going independent - The Verge",
       "link": "https://www.theverge.com/games/743535/digital-foundry-game-console-analysis-going-independent"
+    },
+    {
+      "title": "Blaze the Streets in the New Multi-Stripes Livery for the Dewbauchee Rapid GT X - Rockstar Games",
+      "link": "https://www.rockstargames.com/newswire/article/o3215aoo5725a5/blaze-the-streets-in-the-new-multi-stripes-livery-for-the-dewbauchee-r"
     },
     {
       "title": "HBO Max Password Sharing Crackdown Will Get \u201cAggressive\u201d Next Month, WBD Streaming Chief JB Perrette Says - Deadline",
       "link": "http://deadline.com/2025/08/hbo-max-password-sharing-crackdown-warner-bros-discovery-1236481075/"
     },
     {
-      "title": "More Pixel 10 leaks keep showing off the glorious return of that \u2018Really Blue\u2019 colorway - 9to5Google",
+      "title": "UFO 50 Gets A Surprise Shadow Drop On Switch Today - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/ufo-50-gets-a-surprise-shadow-drop-on-switch-today"
+    },
+    {
+      "title": "Fifteen Years In The Making, Caves Of Qud Is Finally Coming To Nintendo Switch Later This Year - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/fifteen-years-in-the-making-caves-of-qud-is-finally-coming-to-nintendo-switch-later-this-year"
+    },
+    {
+      "title": "Nintendo Switch OLED Is Somehow $100 Off at Walmart After Price Increases - IGN",
+      "link": "https://www.ign.com/articles/nintendo-switch-oled-is-somehow-100-off-at-walmart-after-price-increases"
+    },
+    {
+      "title": "'Mina The Hollower', Yacht Club's Retro Zelda-Inspired Adventure, Scores Switch 2 Release Date - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/mina-the-hollower-yacht-clubs-retro-zelda-inspired-adventure-scores-switch-2-release-date"
+    },
+    {
+      "title": "More Pixel 10 leaks keep showing off the glorious return of that \u2018really blue\u2019 colorway - 9to5Google",
       "link": "http://9to5google.com/2025/08/07/pixel-10-really-blue-color-leaks/"
     },
     {
       "title": "Demonschool launches September 3 - Gematsu",
-      "link": "https://www.gematsu.com/2025/08/demonschool-launches-september-3"
-    },
-    {
-      "title": "Nintendo Indie World August 2025 Showcase: All The Biggest Announcements - GameSpot",
-      "link": "https://www.gamespot.com/gallery/nintendo-indie-world-showcase-august-2025-showcase-all-the-biggest-announcements/2900-6861/"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cjJBbWxSMmFGU3dJTWdpekM5R0RlM2JFbldDaGd2Qm9Uc2NfRkJmSFI5M1Qzd2lPTHVlRmVxZGpGMUxBRTAxU2lza3dtTkdnVjZnQW5zOFVuWkloRXRkYi1yN3BKTHh2bVBwNFdnTWlKZw?oc=5"
     },
     {
       "title": "This smart lock lets me see through my door - The Verge",
       "link": "https://www.theverge.com/smart-home-review/679906/eufy-familock-s3-max-smart-video-doorlock-review"
     },
     {
-      "title": "After Concord and a string of delays and cancellations, Sony admits PlayStation's live-service strategy is \"not entirely going smoothly\" - Eurogamer",
-      "link": "https://www.eurogamer.net/after-concord-and-a-string-of-delays-and-cancellations-sony-admits-playstations-live-service-strategy-is-not-entirely-going-smoothly"
-    },
-    {
-      "title": "Apple\u2019s first OLED MacBook may borrow a key iPhone feature - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/07/macbook-pro-oled-no-notch/"
-    },
-    {
-      "title": "I went into Mafia: The Old Country expecting crime fantasy, but it hit me way harder - Polygon",
-      "link": "https://www.polygon.com/mafia-the-old-country-review/"
-    },
-    {
-      "title": "80 Million PS5s Have Sold In Five Years, Dwarfing Xbox - Kotaku",
-      "link": "https://kotaku.com/sony-sold-over-80-million-ps5-in-five-years-2000616264"
-    },
-    {
-      "title": "Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Enable Secure Boot \u2014 and Call of Duty: Black Ops 7 Is Next - IGN",
-      "link": "https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next"
-    },
-    {
-      "title": "Sony CFO says Marathon is expected to release before March, and Bungie\u2019s independence is \u2018getting lighter\u2019 - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/sony-cfo-says-marathon-is-expected-to-release-before-march-and-bungies-independence-is-getting-lighter/"
-    },
-    {
-      "title": "Co-op Roguelike Guntouchables Is Out Today, And Free To Keep For 24 Hours - GameSpot",
-      "link": "https://www.gamespot.com/articles/co-op-roguelike-guntouchables-is-out-today-and-free-to-keep-for-24-hours/1100-6533691/"
-    },
-    {
-      "title": "Microsoft warns of high-severity flaw in hybrid Exchange deployments - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/"
-    },
-    {
-      "title": "Still live: One of the best prices ever on 24GB M4 Mac mini at $699 + 48GB and 64GB models at $200 off - 9to5Toys",
-      "link": "http://9to5toys.com/2025/08/06/best-price-ever-24gb-m4-mac-mini/"
-    },
-    {
-      "title": "Tamron\u2019s Versatile 18-300mm All-In-One Lens Comes to Canon and Nikon Cameras Next Month - PetaPixel",
-      "link": "https://petapixel.com/2025/08/06/tamrons-versatile-18-300mm-all-in-one-lens-comes-to-canon-and-nikon-cameras-next-month/"
-    },
-    {
-      "title": "Poll: So, Will You Be Getting The Switch 2 Upgrade For Kirby And The Forgotten Land? - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/poll-so-will-you-be-getting-the-switch-2-upgrade-for-kirby-and-the-forgotten-land"
-    },
-    {
-      "title": "Galaxy Z Fold 7 folded 200,000 times using hands and survives - SamMobile",
-      "link": "https://www.sammobile.com/opinion/sorry-s-pen-fans-galaxy-z-fold-7-buyers-dont-care-about-your-feelings/"
-    },
-    {
-      "title": "The Pok\u00e9mon Company Releases New Mobile App 'Pok\u00e9mon Events' - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/the-pokemon-company-releases-new-mobile-app-pokemon-events"
-    },
-    {
-      "title": "A Single Poisoned Document Could Leak \u2018Secret\u2019 Data Via ChatGPT - WIRED",
-      "link": "https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/"
+      "title": "Massive Apple deal week event now live: M3 iPad Air all-time low, AirPods, M4 MacBooks $300 off, much more - 9to5Toys",
+      "link": "http://9to5toys.com/2025/08/07/apple-deal-week-sale-ipad-macbook/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Aaron Rodgers, T.J. Watt among Steelers who won\u2019t play first preseason game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-t-j-watt-among-steelers-who-wont-play-first-preseason-game"
+    },
+    {
+      "title": "Aaliyah Edwards Traded to Sun, Mystics Land Jacy Sheldon, More at WNBA Deadline - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25233080-aaliyah-edwards-traded-sun-mystics-land-jacy-sheldon-more-wnba-deadline"
+    },
+    {
+      "title": "Josh Allen on James Cook: \"We desperately want him out there with us\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-on-james-cook-we-desperately-want-him-out-there-with-us"
+    },
+    {
+      "title": "Will ESPN-NFL Media deal impact ESPN\u2019s NFL coverage? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-espn-nfl-media-deal-impact-espns-nfl-coverage"
+    },
+    {
+      "title": "Micah Parsons trade request: ESPN's Jeremy Fowler reveals how many teams are interested in Dallas Cowboys LB - On3",
+      "link": "https://www.on3.com/pro/news/micah-parsons-trade-request-espns-jeremy-fowler-reveals-how-many-teams-are-interested-in-dallas-cowboys-lb/"
+    },
+    {
+      "title": "C.J. Gardner-Johnson carted off at Texans practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-carted-off-at-texans-practice"
+    },
+    {
+      "title": "Taulia Tagovailoa lands in the Indoor Football League - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/taulia-tagovailoa-lands-in-the-indoor-football-league"
+    },
+    {
+      "title": "Charles Oliveira vs. Rafael Fiziev announced for UFC Rio main event - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc-news/308078/charles-oliveira-vs-rafael-fiziev-announced-for-ufc-rio-main-event"
+    },
+    {
+      "title": "Judge tosses 1983 NC State team's suit vs. NCAA - ESPN",
+      "link": "https://www.espn.com.au/mens-college-basketball/story/_/id/45919707/judge-dismisses-1983-nc-state-team-nil-lawsuit-vs-ncaa"
+    },
     {
       "title": "Bills had a blah Hard Knocks debut - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-had-a-blah-hard-knocks-debut"
     },
     {
-      "title": "Archie Manning says Arch Manning won\u2019t leave Texas after the 2025 season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/archie-manning-says-arch-manning-wont-leave-texas-after-the-2025-season"
+      "title": "Late for Work: Kyle Hamilton and Malaki Starks Might Be NFL's Best Safety Duo 'Very, Very Soon' - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/kyle-hamilton-malaki-starks-best-safety-duo-tyler-loop-travis-jones"
     },
     {
-      "title": "Micah Parsons\u2019 agent gives rare look at tense Cowboys negotiations as contract drama simmers - New York Post",
-      "link": "https://nypost.com/2025/08/07/sports/micah-parsons-agent-gives-rare-look-at-tense-cowboys-negotiations-as-contract-drama-simmers/"
+      "title": "Racing Insights: Watkins Glen lends itself to title favorites and playoff hopefuls - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/08/07/racing-insights-watkins-glen-lends-itself-to-title-favorites-and-playoff-hopefuls/"
     },
     {
-      "title": "Eight Questions About ESPN\u2019s Acquisition of NFL Media Properties - The Ringer",
-      "link": "https://www.theringer.com/2025/08/07/nfl/eight-questions-nfl-espn-deal-redzone"
+      "title": "The Top 25 College Football Scandals of the Past 25 Years - Sports Illustrated",
+      "link": "https://www.si.com/college-football/the-top-25-college-football-scandals-of-the-past-25-years"
     },
     {
       "title": "Travis Kelce: I threw the Super Bowl loss in the trash and moved on - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-i-threw-the-super-bowl-loss-in-the-trash-and-moved-on"
     },
     {
-      "title": "Eagles vs. Bengals preseason watching guide - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/131874/eagles-vs-bengals-preseason-watching-guide-game-information-tv-channel-stream-odds-nfl"
+      "title": "The NFL banned smelling salts. Here's why : Shots - Health News - NPR",
+      "link": "https://www.npr.org/sections/shots-health-news/2025/08/07/nx-s1-5494742/nfl-banned-smelling-salts-why-fda-concussion"
     },
     {
-      "title": "NFL players can still use smelling salts as long as not provided by teams - CNN",
-      "link": "https://www.cnn.com/2025/08/07/sport/football-nfl-players-smelling-salts-intl"
+      "title": "Trevor Lawrence on Travis Hunter: \"Selfishly, I definitely want him on offense more\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-on-travis-hunter-selfishly-i-definitely-want-him-on-offense-more"
     },
     {
       "title": "Mariners draw closer to AL West lead with win over White Sox - The Seattle Times",
@@ -132,38 +168,6 @@
     {
       "title": "Kentucky announces full SEC MBB regular season schedule - On3",
       "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-announces-full-sec-mbb-regular-season-schedule/"
-    },
-    {
-      "title": "MLB's first female umpire to debut. Here's other women who broke officiating barriers - NPR",
-      "link": "https://www.npr.org/2025/08/07/nx-s1-5494783/mlb-first-female-umpire-debut"
-    },
-    {
-      "title": "Red Sox trade deadline addition \u2018falls apart\u2019 with new pitch mix in disappointing debut - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/08/red-sox-trade-deadline-addition-falls-apart-with-new-pitch-mix-in-disappointing-debut.html"
-    },
-    {
-      "title": "Gavin Williams \u2018didn\u2019t care\u2019 about pitch count as he fell just short of Guardians no-hitter history - New York Post",
-      "link": "https://nypost.com/2025/08/06/sports/guardians-gavin-williams-on-missed-no-hitter-pitch-count-wasnt-factor/"
-    },
-    {
-      "title": "J.J. McCarthy \u2018fired up\u2019 to play in the Vikings' preseason game Saturday a year after his knee injury - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-vikings-jj-mccarthy-preseason-training-camp/601450854"
-    },
-    {
-      "title": "Inter Miami CF Advances! Secure Your Seat for the 2025 Leagues Cup Quarterfinals - Inter Miami CF",
-      "link": "https://www.intermiamicf.com/news/inter-miami-cf-advances-secure-your-seat-for-the-2025-leagues-cup-quarterfinals"
-    },
-    {
-      "title": "Son Heung-min looks to \"become a legend\" with LAFC - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/son-heung-min-looks-to-become-a-legend-with-lafc-transfer-mls-arrival"
-    },
-    {
-      "title": "Lakers immediately won over Luka Doncic by embracing person the Mavericks wouldn't - Lake Show Life",
-      "link": "https://lakeshowlife.com/lakers-immediately-won-over-luka-doncic-by-embracing-person-mavericks-wouldnt"
-    },
-    {
-      "title": "Patriots training camp notebook: Joint practice with the Commanders on Day 12 - 98.5 The Sports Hub",
-      "link": "https://985thesportshub.com/2025/08/06/patriots-training-camp-notebook-joint-practice-with-the-commanders-on-day-12/"
     }
   ],
   "weather": {
