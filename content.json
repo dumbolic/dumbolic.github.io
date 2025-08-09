@@ -1,9 +1,9 @@
 {
-  "quote": "Everyone you admire was once a beginner. \u2013 Jack Butcher",
-  "fact": "Non-dairy creamer is flammable.",
-  "crypto": "BTC: $116,748 | ETH: $4,212.82",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "The great thing about stationery shops is they're always in the same place...",
+  "quote": "Coming together is a beginning, staying together is progress, and working together is success.  \u2013 Henry Ford",
+  "fact": "The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill. \u00a0",
+  "crypto": "BTC: $116,762 | ETH: $4,215.83",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Remember, the best angle to approach a problem from is the \"try\" angle.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,42 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Google and Valve will kill \u201cSteam for Chromebooks\u201d experiment in January 2026 - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/08/google-and-valve-will-kill-steam-for-chromebooks-experiment-in-january-2026/"
+    },
+    {
+      "title": "iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/"
+    },
+    {
+      "title": "Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requirement - IGN",
+      "link": "https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement"
+    },
+    {
+      "title": "Sony Offers A Questionable \u2018Marathon\u2019 Release Date Update - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/08/08/sony-offers-a-questionable-marathon-release-date-update/"
+    },
+    {
+      "title": "Review: 8BitDo Pro 3 Bluetooth Controller - TMR Sticks And Hall Effect Triggers Elevate This Switch 2-Compatible Pad - Nintendo Life",
+      "link": "https://www.nintendolife.com/reviews/8bitdo-pro-3-bluetooth-controller-tmr-sticks-and-hall-effect-triggers-elevate-this-switch-2-compatible-pad"
+    },
+    {
+      "title": "Google tests revamped Google Finance with AI upgrades, live news feed - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/"
+    },
+    {
+      "title": "EA's \"Madden 26\" plagued with massive launch day errors - Axios",
+      "link": "https://www.axios.com/2025/08/07/ea-madden-26-servers-down-launch-release"
+    },
+    {
+      "title": "Mafia: The Old Country \u2013 First PC Performance & DLSS 4 Impressions - DSOGaming",
+      "link": "https://www.dsogaming.com/pc-performance-analyses/mafia-the-old-country-first-pc-performance-dlss-4-impressions/"
+    },
+    {
+      "title": "Openvibe combines news and social media in one app - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/08/openvibe-combines-news-and-social-media-in-one-app/"
+    },
     {
       "title": "Now It's Being Sued, Blatant Horizon Rip-Off Removes Copycat Artwork - Push Square",
       "link": "https://www.pushsquare.com/news/2025/08/now-its-being-sued-blatant-horizon-rip-off-removes-copycat-artwork"
@@ -22,14 +58,6 @@
     {
       "title": "Helldivers 2 dev acknowledges new Fortnite season feels very \"we have Helldivers at home\" - VideoGamer",
       "link": "https://www.videogamer.com/news/helldivers-2-dev-new-fortnite-season-feels-very-we-have-helldivers-at-home/"
-    },
-    {
-      "title": "How Much Would You Pay for Friendship? - The Cut",
-      "link": "http://www.thecut.com/article/sorority-rush-coach-recruitment-consultants-cost.html"
-    },
-    {
-      "title": "Nintendo Announces Mario Claymation Show, As Part of New Kid-Themed My Mario Product Line Push - IGN",
-      "link": "https://www.ign.com/articles/nintendo-announces-mario-claymation-show-as-part-of-new-kid-themed-my-mario-product-line-push"
     },
     {
       "title": "Apple\u2019s lock on iPhone browser engines gets a December deadline - The Verge",
@@ -44,6 +72,10 @@
       "link": "https://newsroom.porsche.com/en/2025/motorsports/porsche-the-new-911-gt3-r-model-year-2026-customer-race-car-40245.html"
     },
     {
+      "title": "Gallery: Here's A Closer Look At The Super Mario Wood Block Sets, Doubling As amiibo - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/gallery-heres-a-closer-look-at-the-super-mario-wood-block-sets-doubling-as-amiibo"
+    },
+    {
       "title": "Pixel Watch 4 \u2018with Gemini\u2019 has dual-frequency GPS, Quick Charge Dock - 9to5Google",
       "link": "http://9to5google.com/2025/08/07/pixel-watch-4-gemini-leak/"
     },
@@ -52,58 +84,62 @@
       "link": "https://www.gamespot.com/articles/take-two-boss-addresses-rumored-price-hike-for-grand-theft-auto-6/1100-6533788/"
     },
     {
+      "title": "Good For Digital Foundry - aftermath.site",
+      "link": "https://aftermath.site/digital-foundry-ign-ziff-davis-eurogamer-patreon"
+    },
+    {
       "title": "Announcing the Total Victories Against Shiny Wo\u2011Chien in Pok\u00e9mon Scarlet and Pok\u00e9mon Violet - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-wo-chien-in-pokemon-scarlet-and-pokemon-violet"
-    },
-    {
-      "title": "BioShock 4 Won't Be Canceled Despite Development Delays - Kotaku",
-      "link": "https://kotaku.com/bioshock-4-not-canceled-movie-judas-ken-levine-2000616424"
-    },
-    {
-      "title": "How Koei Tecmo and PlatinumGames Brought Ninja Gaiden 4 to Life - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/ninja-gaiden-4-koei-tecmo-platinumgames-team-up"
-    },
-    {
-      "title": "Kojima Reveals The Two Deceased Hollywood Legends He Wanted To Make Games With - GameSpot",
-      "link": "https://www.gamespot.com/articles/kojima-reveals-the-two-deceased-hollywood-legends-he-wanted-to-make-games-with/1100-6533782/"
-    },
-    {
-      "title": "What Happens When You Fold and Unfold the Samsung Galaxy Z Fold 7 200,000 Times? - CNET",
-      "link": "https://www.cnet.com/tech/mobile/what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/"
-    },
-    {
-      "title": "Pixel 10 Pro and Pixel Watch 4 look drop-dead gorgeous in leaked videos - Android Police",
-      "link": "https://www.androidpolice.com/pixel-10-pro-watch-4-leaked-promo-videos/"
-    },
-    {
-      "title": "Heretic + Hexen, free update for DOOM: The Dark Ages, DOOM Eternal PC Mods and more announced at QuakeCon 2025 - Slayers Club",
-      "link": "https://slayersclub.bethesda.net/en-US/article/quakecon-2025-news"
-    },
-    {
-      "title": "Meta\u2019s prototype headsets show off the future of mixed reality - The Verge",
-      "link": "https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025"
     }
   ],
   "sports_news": [
     {
-      "title": "Lamest Members Of Society Claim Responsibility For WNBA Dildo-Throwing Epidemic - Defector",
-      "link": "https://defector.com/lamest-members-of-society-claim-responsibility-for-wnba-dildo-throwing-epidemic"
+      "title": "Sources: Colts' Richardson might return Saturday - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45926079/sources-colts-anthony-richardson-return-soon-saturday"
+    },
+    {
+      "title": "Opportunity knocks for Shedeur Sanders - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/opportunity-knocks-for-shedeur-sanders"
+    },
+    {
+      "title": "Lions mailbag: How Ennis Rakestraw\u2019s injury impacts makeup of secondary - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/137026/lions-mailbag-how-ennis-rakestraws-injury-impacts-makeup-of-secondary"
+    },
+    {
+      "title": "Eagles News: \u201cTanner McKee is a starting-caliber backup quarterback\u201d - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/153730/eagles-news-tanner-mckee-is-a-starting-caliber-backup-quarterback"
+    },
+    {
+      "title": "ESPN assures NFL reporters that \"nothing will change\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-assures-nfl-reporters-that-nothing-will-change"
+    },
+    {
+      "title": "Late for Work: Mike Green Draws Comparison to Ravens' Single-Season Sack Leader - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/mike-green-ravens-elvis-dumervil-lajohntay-wester-keaton-mitchell-preseason"
+    },
+    {
+      "title": "Commanders vs Jets Preseason Schedule, TV, Online Streaming, and Odds - Hogs Haven",
+      "link": "https://www.hogshaven.com/washington-commanders-game-information/24480617/washington-commanders-vs-new-england-patriots-preseason-week-1-schedule-tv-radio-online-streaming-odds-and-more"
+    },
+    {
+      "title": "After simple advice, Pirates catcher Henry Davis hopes homer signals turnaround at plate - TribLIVE.com",
+      "link": "https://triblive.com/sports/after-simple-advice-pirates-catcher-henry-davis-hopes-homer-signals-turnaround-at-plate/"
     },
     {
       "title": "MLB\u2019s first female umpire just received the call of a lifetime - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/08/08/woman-umpire-mlb-jen-pawol/"
     },
     {
-      "title": "The Top 25 College Football Games of the Past 25 Years - Sports Illustrated",
-      "link": "https://www.si.com/college-football/the-top-25-college-football-games-of-the-past-25-years"
+      "title": "MORE QUICK HITS | Bengals' First-Team Run Game Flexes Its Muscles Amid Burrow Barrage - Bengals",
+      "link": "https://www.bengals.com/news/chase-brown-run-game-flexes-its-muscles-amid-joe-burrow-barrage"
     },
     {
       "title": "5 things to watch: Lions at Falcons - Detroit Lions",
       "link": "https://www.detroitlions.com/news/5-things-to-watch-lions-at-falcons-hooker-allen-hassanein"
     },
     {
-      "title": "Joe Burrow says Bengals\u2019 offense must be better despite 2 TDs on 2 drives for starters - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-says-bengals-offense-must-be-better-despite-2-tds-on-2-drives-for-starters"
+      "title": "Sophie Cunningham\u2019s Physical Appearance Draws Attention During Indiana Fever Game - Athlon Sports",
+      "link": "https://athlonsports.com/wnba/indiana-fever/sophie-cunningham-physical-appearance-draws-attention-during-fever-mercury-game"
     },
     {
       "title": "Texas Tech lands 2027 5-star EDGE LaDamion Guyton: 'The people make me feel like family' - On3",
@@ -114,24 +150,16 @@
       "link": "https://www.seattletimes.com/sports/seahawks/seahawks-block-field-goal-to-force-tie-with-pete-carroll-led-raiders/"
     },
     {
-      "title": "LaJohntay Wester Called His Shot Before Epic NFL Debut - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/lajohntay-wester-ravens-rookie-emotional-opening-night-epic-preseason-return-touchdown"
+      "title": "Texans\u2019 Jimmie Ward arrested for testing positive for alcohol in violation of bond, per attorney - Click2Houston",
+      "link": "https://www.click2houston.com/sports/2025/08/08/texans-safety-jimmie-ward-arrested-again-in-montgomery-county-on-warrant-per-jail-records/"
     },
     {
-      "title": "Sha\u2019Carri Richardson shoves boyfriend multiple times before domestic violence arrest, airport footage shows - New York Post",
-      "link": "https://nypost.com/2025/08/07/sports/shacarri-richardson-allegedly-shoved-boyfriend-before-arrest/"
+      "title": "Mariners RHP Bryce Miller\u2019s 2nd rehab start not as smooth as his 1st - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-bryce-miller-2nd-rehab-start/1818709"
     },
     {
-      "title": "USA's Shelton rallies to victory in Toronto final - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/45923509/ben-shelton-defeats-karen-khachanov-toronto-final"
-    },
-    {
-      "title": "Texans' Ward arrested in relation to June case - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45923506/texans-jimmie-ward-arrested-second-june"
-    },
-    {
-      "title": "Stock Report: Ravens vs. Colts Preseason Opener - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-stock-report-preseason-colts-lajohntay-wester-keaton-mitchell-2025"
+      "title": "The Breakdown: LaJohntay Wester, Keaton Mitchell Shine in Preseason Opener - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/lajohntay-wester-keaton-mitchell-tyler-loop-bihal-kone-injury"
     },
     {
       "title": "2025 NFL preseason, Week 1: What We Learned from Thursday's tripleheader - NFL.com",
@@ -142,28 +170,8 @@
       "link": "https://www.lookoutlanding.com/game-recap/118354/mariners-complete-sweep-with-4-3-win-over-chicago-in-11-innings"
     },
     {
-      "title": "Live Game Blog: Raiders at Seahawks | Preseason - Raiders.com",
-      "link": "https://www.raiders.com/news/live-updates-las-vegas-raiders-at-seattle-seahawks-nfl-2025-preseason"
-    },
-    {
-      "title": "Anthony Richardson Sr. knocked out of preseason early with finger injury after huge hit on sack - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/anthony-richardson-sr-day-to-day-with-dislocated-pinkie-finger-suffered-in-preseason-opener-233716190.html"
-    },
-    {
-      "title": "Ravens rookie CB Bilhal Kone carted off with a left knee injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-rookie-cb-bilhal-kone-carted-off-with-a-left-knee-injury"
-    },
-    {
-      "title": "Broncos camp report: Observations, quotes and a big-time Bo Nix throw in joint practice vs. 49ers - The Denver Post",
-      "link": "https://www.denverpost.com/2025/08/07/broncos-joint-practice-observations-49ers/"
-    },
-    {
-      "title": "How to watch, listen and follow: Carolina vs. Cleveland in Preseason Week 1 - Carolina Panthers",
-      "link": "https://www.panthers.com/news/how-to-watch-listen-and-follow-carolina-vs-cleveland-in-preseason-week-1-2025"
-    },
-    {
-      "title": "J.J. McCarthy and 14 other players to watch in Vikings' preseason opener - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/news/j-j-mccarthy-14-other-players-to-watch-vikings-preseason-opener"
+      "title": "49ers\u2019 Christian McCaffrey calls Broncos\u2019 defensive line \u2018really good\u2019 as depth dominates joint practice - The Denver Post",
+      "link": "https://www.denverpost.com/2025/08/07/broncos-defensive-line-49ers-joint-practice/"
     }
   ],
   "weather": {
