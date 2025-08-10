@@ -1,9 +1,9 @@
 {
-  "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  \u2013 Samuel Beckett",
-  "fact": "The only nation whose name begins with an \"A\", but doesn`t end in an \"A\" is Afghanistan.",
-  "crypto": "BTC: $118,941 | ETH: $4,229.45",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What musical instrument is found in the bathroom? A tuba toothpaste.",
+  "quote": "To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. \u2013 Criss Jami",
+  "fact": "Every acre of American crops harvested contains 100 pounds of insects.",
+  "crypto": "BTC: $118,999 | ETH: $4,241.76",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "\"This is Battlefield's biggest Open Beta ever,\" says EA - Eurogamer",
+      "link": "https://www.eurogamer.net/this-is-battlefields-biggest-open-beta-ever-says-ea"
+    },
     {
       "title": "Battlefield 6 Beta Breaks 470K Users on Steam; Its Anti-Cheat Already Stopped Over 330K Cheaters - Wccftech",
       "link": "https://wccftech.com/battlefield-6-beta-breaks-470k-users-steam-anti-cheat-stopped-330k-attempts/"
@@ -24,16 +28,20 @@
       "link": "https://www.eurogamer.net/tencent-quietly-updates-slavish-horizon-clone-light-of-motirams-steam-page"
     },
     {
+      "title": "People Are Sharing Sneaky Health Threats That Are Literally Destroying Your Body - buzzfeed.com",
+      "link": "https://www.buzzfeed.com/aronawriting/silent-killers-harming-health-reddit"
+    },
+    {
+      "title": "I tried the slim Anker Nano Power Bank, and it's crying out for the Pixel 10 - Android Police",
+      "link": "https://www.androidpolice.com/anker-nano-power-bank-with-qi2-tested/"
+    },
+    {
       "title": "Mariners News, 8/9/25: Josh Naylor, Alex Wood, and Kyle Karros - Lookout Landing",
       "link": "https://www.lookoutlanding.com/mariners-moose-tracks/132533/mariners-news-8-9-25-josh-naylor-alex-wood-and-kyle-karros"
     },
     {
       "title": "Massive Apple deal week event now live: M3 iPad Air all-time low, AirPods, M4 MacBooks $300 off, more [Updated] - 9to5Toys",
       "link": "http://9to5toys.com/2025/08/09/apple-deal-week-sale-ipad-macbook/"
-    },
-    {
-      "title": "Aura\u2019s Aspen impressive digital frame is the most affordable it\u2019s been - The Verge",
-      "link": "https://www.theverge.com/tech/756979/aura-aspen-digital-photo-frame-garmin-inreach-mini-2-deal-sale"
     },
     {
       "title": "Gigi Dolin's Fiance Is A Familiar Face For Wrestling Fans - Wrestling Inc.",
@@ -52,12 +60,20 @@
       "link": "https://www.theverge.com/report/756841/itchio-adult-content-creator-backlash-steam-paypal"
     },
     {
-      "title": "Apple iPhone 17, iPhone 17 Pro Release Date: Your Complete Countdown - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/08/09/apple-iphone-17-release-date-your-complete-countdown/"
+      "title": "New Study Finds Smartwatches Aren\u2019t That Good at Measuring Stress - Gizmodo",
+      "link": "https://gizmodo.com/new-study-finds-smartwatches-arent-that-good-at-measuring-stress-2000640868"
+    },
+    {
+      "title": "Gear News of the Week: iPhone 17 May Be a Month Away, and Sonos to Raise Prices - WIRED",
+      "link": "https://www.wired.com/story/gear-news-of-the-week-iphone-17-may-be-a-month-away-and-sonos-to-raise-prices/"
     },
     {
       "title": "Meta mostly delivered on its promise to make Oakley Meta HSTN the best smart glasses to date - Android Central",
       "link": "https://www.androidcentral.com/gaming/virtual-reality/oakley-meta-hstn-smart-glasses-review"
+    },
+    {
+      "title": "64-53: Chart - Lookout Landing",
+      "link": "https://www.lookoutlanding.com/mariners-charts/132519/64-53-chart"
     },
     {
       "title": "Riot Games Accused of Blocking Mastercard Discourse in VCT Chat - Sports Illustrated",
@@ -70,52 +86,44 @@
     {
       "title": "Hotfixes: August 8, 2025 \u2014 World of Warcraft - Blizzard News",
       "link": "https://news.blizzard.com/en-us/article/24223774/hotfixes-august-8-2025"
-    },
-    {
-      "title": "Mini Review: Tiny Bookshop (Switch) - The Epitome Of Cosy, Perfect For Bookworms - Nintendo Life",
-      "link": "https://www.nintendolife.com/reviews/switch-eshop/tiny-bookshop"
-    },
-    {
-      "title": "Apple Watch Series 11 Launching Next Month With These New Features - MacRumors",
-      "link": "https://www.macrumors.com/2025/08/08/apple-watch-series-11-rumor-recap/"
-    },
-    {
-      "title": "GameStop Has Exclusive Metal Gear Solid Delta Merch Collection - GameSpot",
-      "link": "https://www.gamespot.com/gallery/metal-gear-solid-delta-snake-eater-official-merch-collection-at-gamestop/2900-6848/"
-    },
-    {
-      "title": "I Built a Powerful Gaming PC Solely to Run AI Models. Here's Why - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/i-built-a-powerful-gaming-pc-solely-to-run-ai-models-heres-why/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Jen Pawol breaks MLB's gender barrier as the first female umpire to work a regular-season game - AP News",
+      "link": "https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e"
+    },
+    {
+      "title": "Three takeaways from Giants\u2019 preseason opener win against Bills - New York Post",
+      "link": "https://nypost.com/2025/08/09/sports/three-takeaways-from-giants-preseason-opener-win/"
+    },
     {
       "title": "NFL preseason week 1 schedule, live updates, highlights: J.J. McCarthy back in action; Jaxson Dart shines - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-live-updates-highlights-j-j-mccarthy-back-in-action-jaxson-dart-shines/live/"
     },
     {
-      "title": "Russell Wilson leads Giants to a field goal on his only drive in preseason debut - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/russell-wilson-leads-giants-to-a-field-goal-on-his-only-drive-in-preseason-debut"
+      "title": "Shedeur Sanders tells Tony Grossi to \"say something positive about me\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-tells-tony-grossi-to-say-something-positive-about-me"
     },
     {
-      "title": "2025 FedEx St. Jude Championship leaderboard live updates: Golf scores, coverage in Round 3 at TPC Southwind - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/2025-fedex-st-jude-championship-leaderboard-live-updates-golf-scores-coverage-fedex-cup-playoffs-saturday/live/"
-    },
-    {
-      "title": "LSU makes major decision on JT Lindsey after new details emerge on arrest - On3",
-      "link": "https://www.on3.com/college/lsu-tigers/news/jt-lindsey-arrest-lsu-suspends-rb-after-new-details-emerge-case-accessory-charge/"
+      "title": "5 things to watch in the Chiefs\u2019 preseason opener against the Cardinals - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/168009/chiefs-roster-5-things-to-watch-in-preseason-opener-against-cardinals"
     },
     {
       "title": "A timeline of WNBA sex toy incidents \u2014 and who claims to be behind it - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/08/09/wnba-sex-toys-crypto-meme-coin-timeline/"
     },
     {
+      "title": "Detroit Lions stock report: Risers, fallers at every position vs. Falcons - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-preseason/114983/detroit-lions-stock-report-risers-fallers-at-every-position-vs-falcons"
+    },
+    {
       "title": "Jaxson Dart throws absolute dime for first Giants touchdown pass - New York Post",
       "link": "https://nypost.com/2025/08/09/sports/jaxson-dart-throws-absolute-dime-for-first-giants-touchdown-pass/"
     },
     {
-      "title": "Immediate Texas Scrimmage Notes: Vital updates on team health, top performers - On3",
-      "link": "https://www.on3.com/teams/texas-longhorns/news/immediate-texas-scrimmage-notes-vital-updates-on-team-health-top-performers/"
+      "title": "How to Watch, Stream & Listen: Miami Dolphins at Chicago Bears - Miami Dolphins",
+      "link": "https://www.miamidolphins.com/news/how-to-watch-stream-listen-miami-dolphins-at-chicago-bears-2025"
     },
     {
       "title": "Eagles 2025 training camp practice notes, Day 11: QB Dorian Thompson-Robinson has been pretty good - PhillyVoice",
@@ -130,44 +138,36 @@
       "link": "https://www.nascar.com/news-media/2025/08/09/nascar-at-watkins-glen-key-info-links-results-for-race-weekend/"
     },
     {
-      "title": "Wrexham Collapse in EFL Championship Return After 43 Years - Sports Illustrated",
-      "link": "https://www.si.com/soccer/wrexham-collapse-efl-championship-return-43-years"
+      "title": "Packers vs. Jets: What to watch for - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-vs-jets-what-to-watch-for-aug-09-25"
+    },
+    {
+      "title": "Wrexham gets a rude welcome to the Championship as Southampton twice strikes late for 2-1 win - AP News",
+      "link": "https://apnews.com/article/southampton-wrexham-score-a2ed9e804556069a95162a1da14d51a9"
     },
     {
       "title": "Dricus Du Plessis' head coach brutally goes in on Khamzat Chimaev ahead of UFC 319... 'That guy is one-dimensional' - Bloody Elbow",
       "link": "https://bloodyelbow.com/2025/08/09/dricus-du-plessis-head-coach-brutally-goes-in-on-khamzat-chimaev-ahead-of-ufc-319-that-guy-is-one-dimensional/"
     },
     {
-      "title": "How Browns coach Kevin Stefanski views QB competition after Shedeur Sanders dazzles - New York Post",
-      "link": "https://nypost.com/2025/08/09/sports/how-browns-views-qb-competition-after-shedeur-sanders-dazzles/"
+      "title": "LSU running back turns himself into police after allegedly harboring murder suspects - TigerNet",
+      "link": "https://www.tigernet.com/clemson-football/news/lsu-running-back-turns-himself-into-police-after-allegedly-harboring-murder-suspects-46871"
     },
     {
       "title": "Player Status Report | LAFC at Chicago Fire - 2025 MLS Season - August 9 - LAFC",
       "link": "https://www.lafc.com/volunteer-corps/news/player-status-report-lafc-at-chicago-fire-2025-mls-season-august-9"
     },
     {
-      "title": "Tom Brady\u2019s statue is unveiled - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-bradys-statue-is-unveiled"
-    },
-    {
-      "title": "Chiefs fans know Andy Reid\u2019s Patrick Mahomes preseason promise won\u2019t happen - Arrowhead Addict",
-      "link": "https://arrowheadaddict.com/chiefs-fans-know-andy-reid-patrick-mahomes-preseason-promise-wont-happen-01k27dqdvd36"
+      "title": "Shaven-headed Brady unrecognizable on preseason debut as Patriots honor icon - talkSPORT",
+      "link": "http://talksport.com/nfl/3456578/tom-brady-unrecognizable-new-england-patriots-debut-statue-unveiling/"
     },
     {
       "title": "Inside The Numbers: Browns at Panthers in Preseason Week 1 - Carolina Panthers",
       "link": "https://www.panthers.com/news/inside-the-numbers-browns-at-panthers-in-preseason-week-1"
     },
     {
-      "title": "Lions vs. Falcons snap counts: Position battle observations - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/138690/lions-vs-falcons-snap-counts-position-battle-observations"
-    },
-    {
       "title": "Caitlin Clark admits 'responsibility' to return to WNBA court, reveals mother's powerful advice - On3",
       "link": "https://www.on3.com/her/news/caitlin-clark-admits-responsibility-to-return-to-wnba-court-reveals-mothers-powerful-advice/"
-    },
-    {
-      "title": "NFL preseason game ends early after serious injury to Detroit Lions' Morice Norris - NPR",
-      "link": "https://www.npr.org/2025/08/09/nx-s1-5497150/detroit-lions-morice-norris-nfl-injured-falcons"
     }
   ],
   "weather": {
