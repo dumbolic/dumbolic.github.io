@@ -1,9 +1,9 @@
 {
-  "quote": "Closing your eyes and listening to silence is self-care. \u2013 Maxime Lagace",
-  "fact": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
-  "crypto": "BTC: $116,589 | ETH: $4,303.42",
+  "quote": "Wishing to be friends is quick work, but friendship is a slow ripening fruit. \u2013 Aristotle",
+  "fact": "Weatherman Willard Scott was the first original Ronald McDonald.",
+  "crypto": "BTC: $0 | ETH: $0",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Do you know where you can get chicken broth in bulk? The stock market.",
+  "joke": "I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Apple Watch Series 11 Launching Next Month With These New Features - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/08/apple-watch-series-11-rumor-recap/"
+    },
     {
       "title": "Hackers Went Looking for a Backdoor in High-Security Safes\u2014and Now Can Open Them in Seconds - WIRED",
       "link": "https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/"
@@ -24,12 +28,20 @@
       "link": "https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/"
     },
     {
+      "title": "Adult sites use malicious .svg files to rack up likes on Facebook - Ars Technica",
+      "link": "https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/"
+    },
+    {
       "title": "Tron: Catalyst & John Wick Hex Dev 'Bithell Games' Makes \"Majority\" Of Staff Redundant - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/08/tron-catalyst-and-john-wick-hex-dev-bithell-games-makes-majority-of-staff-redundant"
     },
     {
       "title": "See What Happens When You Fold the Samsung Galaxy Fold 7 200,000 Times - CNET",
       "link": "https://www.cnet.com/tech/mobile/see-what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/"
+    },
+    {
+      "title": "Former Googlers\u2019 AI startup OpenArt now creates \u2018brain rot\u2019 videos in just one click - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/"
     },
     {
       "title": "Diablo 4 Boss Leaves Blizzard After 5 Years For Next Gig - Kotaku",
@@ -40,12 +52,12 @@
       "link": "https://arstechnica.com/ai/2025/08/google-gemini-struggles-to-write-code-calls-itself-a-disgrace-to-my-species/"
     },
     {
-      "title": "iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/"
+      "title": "Capcom Announces New Dino Crisis \u2026Merch Sale - Kotaku",
+      "link": "https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659"
     },
     {
-      "title": "Please, I'm Begging, Revive People In Battlefield 6's Open Beta - Kotaku",
-      "link": "https://kotaku.com/battlefield-6-bf6-open-beta-revive-medic-help-me-ea-fps-ps5-2000616628"
+      "title": "iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/"
     },
     {
       "title": "Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requirement - IGN",
@@ -74,28 +86,44 @@
     {
       "title": "EA's \"Madden 26\" plagued with massive launch day errors - Axios",
       "link": "https://www.axios.com/2025/08/07/ea-madden-26-servers-down-launch-release"
-    },
-    {
-      "title": "Mafia: The Old Country \u2013 First PC Performance & DLSS 4 Impressions - DSOGaming",
-      "link": "https://www.dsogaming.com/pc-performance-analyses/mafia-the-old-country-first-pc-performance-dlss-4-impressions/"
-    },
-    {
-      "title": "No, Sony Statement Doesn\u2019t Say PlayStation Is Going Multiplatform - PlayStation LifeStyle",
-      "link": "https://www.playstationlifestyle.net/2025/08/08/playstation-multiplatform-rumor-sony-statement-false/"
-    },
-    {
-      "title": "Doom: The Dark Ages Price Drops $25 on PS5 After Its Official Update 2 Patch - IGN",
-      "link": "https://www.ign.com/articles/doom-the-dark-ages-ps5-discount-deal-new-official-update-2-patch"
     }
   ],
   "sports_news": [
     {
-      "title": "Shedeur Sanders' NFL preseason debut: Live updates, highlights for Cleveland Browns vs. Carolina Panthers - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/shedeur-sanders-nfl-preseason-debut-live-updates-highlights-for-cleveland-browns-vs-carolina-panthers/live/"
+      "title": "Browns rookie Shedeur Sanders throws two touchdown passes - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-rookie-shedeur-sanders-throws-two-touchdown-passes"
     },
     {
-      "title": "Brady 'honored' as statue unveiled outside Gillette - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45928287/pats-unveil-tom-brady-statue-ceremony-gillette-stadium"
+      "title": "Lions' Norris leaves in ambulance; game halted - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45929128/lions-falcons-preseason-game-suspended-morice-norris-taken-field-ambulance-serious-injury"
+    },
+    {
+      "title": "TreVeyon Henderson opens NFL career with 100-yd kickoff return touchdown - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/treveyon-henderson-opens-nfl-career-with-100-yd-kickoff-return-touchdown"
+    },
+    {
+      "title": "Cowboys-Rams: How to Watch, Listen, Stream - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/cowboys-rams-how-to-watch-listen-stream-x6670"
+    },
+    {
+      "title": "Training camp report: Bears-Dolphins joint practice | Friday, Aug. 8 - Chicago Bears",
+      "link": "https://www.chicagobears.com/news/chicago-bears-miami-dolphins-joint-practice-recap-august-8-2025"
+    },
+    {
+      "title": "Xavier Legette, Rayshawn Jenkins ejected after fighting in Friday\u2019s preseason game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-legette-rayshawn-jenkins-ejected-after-fighting-in-fridays-preseason-game"
+    },
+    {
+      "title": "Pocket pancakes? Brewers selling ballpark flapjacks after Pat Murphy\u2019s viral moment - AP News",
+      "link": "https://apnews.com/article/milwaukee-brewers-pocket-pancakes-pat-murphy-139f19eb624e9ce9445f592a7b4ab2f5"
+    },
+    {
+      "title": "Patriots unveil statue of Tom Brady, who takes crack at Jets fans and his 40-yard dash time - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-unveil-statue-of-tom-brady-who-takes-crack-at-jets-fans-and-his-40-yard-dash-time-230032970.html"
+    },
+    {
+      "title": "Detroit Lions vs. Atlanta Falcons: First half live chat - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/game-day-threads/138336/detroit-lions-vs-atlanta-falcons-first-half-live-chat"
     },
     {
       "title": "Inactives: Three starters being held out of preseason opener - Carolina Panthers",
@@ -106,6 +134,14 @@
       "link": "https://www.commanders.com/news/commanders-announce-inactives-patriots-preseason-week-1"
     },
     {
+      "title": "Geno Smith, Maxx Crosby flip off Seahawks fan - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-maxx-crosby-flip-off-seahawks-fan"
+    },
+    {
+      "title": "Green dildos are raining down on WNBA courts. Why? Crypto memecoins, of course. - Ars Technica",
+      "link": "https://arstechnica.com/culture/2025/08/green-dildos-are-raining-down-on-wnba-courts-why-crypto-memecoins-of-course/"
+    },
+    {
       "title": "Indiana Fever announce 2 players will miss the rest of the season; Clark out vs. Sky - WTHR",
       "link": "https://www.wthr.com/article/sports/wnba/indiana-fever/indiana-fever-announce-2-players-will-miss-the-rest-of-the-season-aari-mcdonald-sydney-colson-phoenix-mercury-caitlin-clark-point-guard-injury-acl/531-e8342734-d980-4eec-a9c1-e098ea1ed937"
     },
@@ -114,8 +150,8 @@
       "link": "https://www.nascar.com/news-media/2025/08/08/nascar-at-watkins-glen-key-info-links-results-for-race-weekend/"
     },
     {
-      "title": "Scottie Scheffler loses temper in Memphis heat, but still in the mix at FedEx St. Jude - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-loses-temper-in-memphis-heat-but-still-in-the-mix-at-fedex-st-jude"
+      "title": "Micah Parsons trade request: CeeDee Lamb expresses disappointment in lack of Cowboys action - On3",
+      "link": "https://www.on3.com/pro/news/micah-parsons-trade-request-ceedee-lamb-expresses-disappointment-lack-dallas-cowboys-action/"
     },
     {
       "title": "Quick Hits: Pete Carroll details highs and lows of preseason tie versus Seahawks - Raiders.com",
@@ -126,48 +162,12 @@
       "link": "https://www.mmafighting.com/latest-news/396257/paddy-pimblett-gives-update-on-potential-ilia-topuria-fight-rips-arman-tsarukyan-and-dan-hooker"
     },
     {
-      "title": "Shane van Gisbergen, Trackhouse Racing announce multiyear contract extension - Jayski's NASCAR Silly Season Site",
-      "link": "https://www.jayski.com/2025/08/08/shane-van-gisbergen-trackhouse-racing-announce-multiyear-contract-extension/"
+      "title": "LSU's Garrett Nussmeier Diagnosed with Patellar Tendinitis amid Knee Injury Rumors - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25233343-lsus-garrett-nussmeier-diagnosed-patellar-tendinitis-amid-knee-injury-rumors"
     },
     {
       "title": "Cowboys G Jones (neck) on IR, ending season - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/45927326/cowboys-g-rob-jones-2025-breaking-bone-neck"
-    },
-    {
-      "title": "Seahawks\u2019 effective run game and more from preseason opener | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-effective-run-game-and-more-from-preseason-opener-analysis/"
-    },
-    {
-      "title": "Brian Schottenheimer calls Micah Parsons day-to-day with back tightness - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-calls-micah-parsons-day-to-day-with-back-tightness"
-    },
-    {
-      "title": "9 things to watch from Broncos' preseason opener vs. San Francisco 49ers - KUSA.com",
-      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/9-things-watch-broncos-49ers/73-44a716c5-b0d0-4e50-bc74-fcb62f798995"
-    },
-    {
-      "title": "Cincinnati Bengals Stock Report: Who's Rising, Who's Falling After Preseason Opener vs. Eagles? - Sports Illustrated",
-      "link": "https://www.si.com/nfl/bengals/cincinnati-bengals-stock-report-who-s-rising-who-s-falling-after-preseason-opener-vs-eagles-01k259q3dgzg"
-    },
-    {
-      "title": "NFL begins lobbying Congress on ESPN deal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-begins-lobbying-congress-on-espn-deal"
-    },
-    {
-      "title": "Brian Kelly updates injury status of LSU QB Garrett Nussmeier - TigerNet",
-      "link": "https://www.tigernet.com/clemson-football/news/brian-kelly-updates-injury-status-of-lsu-qb-garrett-nussmeier-46867"
-    },
-    {
-      "title": "Six Things to Watch for the Titans in Saturday's Preseason Opener vs the Buccaneers - Tennessee Titans",
-      "link": "https://www.tennesseetitans.com/news/six-things-to-watch-for-the-titans-in-saturday-s-preseason-opener-vs-the-buccaneers"
-    },
-    {
-      "title": "5 players to watch in the Steelers\u2019 preseason opener against the Jaguars - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/08/08/steelers-vs-jaguars-nfl-preseason-five-players-to-watch/stories/202508050107"
-    },
-    {
-      "title": "Packers star Howton, first NFLPA prez, dies at 95 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45926046/packers-star-billy-howton-first-nflpa-president-dies-95"
     }
   ],
   "weather": {
