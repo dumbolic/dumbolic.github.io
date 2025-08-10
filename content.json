@@ -1,9 +1,9 @@
 {
-  "quote": "It is easier to fight for one's principles than to live up to them.  \u2013 Alfred Adler",
-  "fact": "The word \"samba\" means \"to rub navels together.\"",
-  "crypto": "BTC: $118,639 | ETH: $4,188.8",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What type of music do balloons hate? Pop music!",
+  "quote": "Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. \u2013 Buddha",
+  "fact": "There are more psychoanalysts per capita in Buenos Aires than any other place in the world.",
+  "crypto": "BTC: $118,540 | ETH: $4,195.42",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "What\u2019s a smut peddler to do these days? - The Verge",
+      "link": "https://www.theverge.com/report/756841/itchio-adult-content-creator-backlash-steam-paypal"
+    },
+    {
       "title": "Apple iPhone 17, iPhone 17 Pro Release Date: Your Complete Countdown - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2025/08/09/apple-iphone-17-release-date-your-complete-countdown/"
     },
     {
-      "title": "AI Made A Viral Clip Of An RPG But Can't Make The Game Itself - Kotaku",
-      "link": "https://kotaku.com/ai-generated-rpg-pixel-art-viral-elder-scrolls-daggerfall-2000616694"
+      "title": "Apple Watch Series 11 Launching Next Month With These New Features - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/08/apple-watch-series-11-rumor-recap/"
+    },
+    {
+      "title": "Cartoon: Presidential physical fitness test - Daily Kos",
+      "link": "https://www.dailykos.com/stories/2025/8/8/2337380/-Cartoon-Presidential-physical-fitness-test"
     },
     {
       "title": "Massive Pixel leak spoils everything ahead of Google launch event - Android Authority",
       "link": "https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 Is Great, But Its Popularity Raises Big Questions About How We View Japanese RPGs - GameSpot",
+      "link": "https://www.gamespot.com/articles/clair-obscur-expedition-33-is-great-but-its-popularity-raises-big-questions-about-how-we-view-japanese-rpgs/1100-6533771/"
     },
     {
       "title": "Adult sites use malicious .svg files to rack up likes on Facebook - Ars Technica",
@@ -36,10 +48,6 @@
       "link": "https://www.cnet.com/tech/mobile/see-what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/"
     },
     {
-      "title": "You can apparently buy Google's official Pixel Tablet stylus that never launched - Android Authority",
-      "link": "https://www.androidauthority.com/pixel-tablet-stylus-3585419/"
-    },
-    {
       "title": "New Windows 11 25H2 build moves more Control Panel elements to the Settings app - Neowin",
       "link": "https://www.neowin.net/news/new-windows-11-25h2-build-moves-more-control-panel-elements-to-the-settings-app/"
     },
@@ -52,12 +60,12 @@
       "link": "https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659"
     },
     {
-      "title": "Grab 16 Warner Bros. Games for Just $12 in Humble\u2019s WB Play the Legends Bundle - IGN",
-      "link": "https://www.ign.com/articles/humble-wb-play-the-legends-bundle"
-    },
-    {
       "title": "Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requirement - IGN",
       "link": "https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement"
+    },
+    {
+      "title": "Battlefield 6 Open Beta: All Weekend 1 Start Times and Server Queue Wait Times - Push Square",
+      "link": "https://www.pushsquare.com/guides/battlefield-6-open-beta-all-weekend-1-start-times-and-server-queue-wait-times"
     },
     {
       "title": "Game Accused Of Copying Horizon Gets Radically Updated Steam Page - GameSpot",
@@ -76,30 +84,42 @@
       "link": "https://www.tipranks.com/news/take-two-stock-ttwo-slips-on-gta-6-price-comments"
     },
     {
-      "title": "EA's \"Madden 26\" plagued with massive launch day errors - Axios",
-      "link": "https://www.axios.com/2025/08/07/ea-madden-26-servers-down-launch-release"
-    },
-    {
-      "title": "Apple releases new \u2018Here\u2019s to the Dreamers\u2019 wallpaper for iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/08/apple-releases-new-heres-to-the-dreamers-wallpaper-for-iphone/"
+      "title": "Turn your AirPods Max into a masterpiece with Casetify\u2019s new headphone wrap - The Verge",
+      "link": "https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring"
     }
   ],
   "sports_news": [
+    {
+      "title": "Tom Brady\u2019s statue is unveiled - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-bradys-statue-is-unveiled"
+    },
+    {
+      "title": "Kevin Stefanski isn't \"diving into\" the quarterback competition, after Shedeur Sanders's debut - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-isnt-diving-into-the-quarterback-competition-after-shedeur-sanderss-debut"
+    },
+    {
+      "title": "Dave Canales: We want to see better discipline from Xavier Legette - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dave-canales-we-want-to-see-better-discipline-from-xavier-legette"
+    },
+    {
+      "title": "NFL preseason game ends early after serious injury to Detroit Lions' Morice Norris - NPR",
+      "link": "https://www.npr.org/2025/08/09/nx-s1-5497150/detroit-lions-morice-norris-nfl-injured-falcons"
+    },
+    {
+      "title": "Game ball, three stars, and snap count analysis: Preseason Week 1, Eagles vs. Bengals - PhillyVoice",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-preseason-week-1-eagles-vs-bengals/"
+    },
+    {
+      "title": "Jameis Winston\u2019s Giants debut one of top three storylines to watch in preseason opener - New York Post",
+      "link": "https://nypost.com/2025/08/09/sports/jameis-winstons-giants-debut-a-top-storyline-in-preseason-opener/"
+    },
     {
       "title": "Spencer Rattler will start at quarterback in Saints\u2019 first preseason game - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-will-start-at-quarterback-in-saints-first-preseason-game"
     },
     {
-      "title": "Raheem Morris: Dan Campbell and I agreed to run out the clock after Morice Norris injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-dan-campbell-and-i-agreed-to-run-out-the-clock-after-morice-norris-injury"
-    },
-    {
       "title": "Game Observations: Nine Takeaways From the Patriots Preseason Win Over the Commanders - New England Patriots",
       "link": "https://www.patriots.com/news/game-observations-nine-takeaways-from-the-patriots-preseason-win-over-the-commanders"
-    },
-    {
-      "title": "Xavier Legette apologizes for ejection, Dave Canales wants to see more control - Carolina Panthers",
-      "link": "https://www.panthers.com/news/xavier-legette-apologizes-for-ejection-dave-canales-wants-to-see-more-control"
     },
     {
       "title": "2025 NFL preseason, Week 1: What We Learned from Friday's tripleheader - NFL.com",
@@ -108,6 +128,10 @@
     {
       "title": "Rapid Reactions: Solid start for top draft picks, in opening loss to Browns - Carolina Panthers",
       "link": "https://www.panthers.com/news/rapid-reactions-solid-start-for-top-draft-picks-preseason-opener"
+    },
+    {
+      "title": "Geno, Crosby flash obscene gestures at hecklers - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45929244/raiders-smith-crosby-aim-obscene-gestures-hecklers-seattle"
     },
     {
       "title": "Hezly Rivera leads Xfinity U.S. Gymnastics Championships, year after Olympic gold - NBC Sports",
@@ -122,10 +146,6 @@
       "link": "https://andscape.com/features/wnba-sex-toys-on-court/"
     },
     {
-      "title": "Tom Brady takes shot at Jets fans as Patriots unveil his statue - New York Post",
-      "link": "https://nypost.com/2025/08/08/sports/tom-brady-trolls-jets-fans-as-patriots-unveil-his-statue/"
-    },
-    {
       "title": "Cowboys-Rams: How to Watch, Listen, Stream - Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/cowboys-rams-how-to-watch-listen-stream-x6670"
     },
@@ -138,32 +158,12 @@
       "link": "https://www.49ers.com/news/day-12-of-49ers-training-camp-joint-practice-with-the-denver-broncos"
     },
     {
-      "title": "NBA\u2019s 5 Christmas games for 2025, ranked by watchability - SB Nation",
-      "link": "https://www.sbnation.com/nba/1073672/nbas-5-christmas-games-for-2025-ranked-by-watchability"
-    },
-    {
       "title": "Caitlin Clark admits 'responsibility' to return to WNBA court, reveals mother's powerful advice - On3",
       "link": "https://www.on3.com/her/news/caitlin-clark-admits-responsibility-to-return-to-wnba-court-reveals-mothers-powerful-advice/"
     },
     {
       "title": "Detroit Lions vs. Atlanta Falcons: First half live chat - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/game-day-threads/138336/detroit-lions-vs-atlanta-falcons-first-half-live-chat"
-    },
-    {
-      "title": "Commanders announce 30 players will not dress out vs. Patriots - Washington Commanders",
-      "link": "https://www.commanders.com/news/commanders-announce-inactives-patriots-preseason-week-1"
-    },
-    {
-      "title": "It took 1 game for Seahawks rookie to make 49ers look foolish for passing on him - Niner Noise",
-      "link": "https://ninernoise.com/took-game-seahawks-rookie-49ers-look-foolish-passing-on-him"
-    },
-    {
-      "title": "The Indiana Fever just got devastating news \u2014 and now face a difficult decision - Yahoo Sports",
-      "link": "https://www.sbnation.com/wnba/1073542/indiana-fever-sydney-colson-aari-mcdonald-caitlin-clark"
-    },
-    {
-      "title": "Bears are \"extremely focused\" on building an indoor stadium in suburban Arlington Heights - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-are-extremely-focused-on-building-an-indoor-stadium-in-suburban-arlington-heights"
     }
   ],
   "weather": {
