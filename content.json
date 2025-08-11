@@ -1,9 +1,9 @@
 {
-  "quote": "Sorrow is how we learn to love. \u2013 Rita Mae Brown",
-  "fact": "There are only four words in the English language which end in \"dous\": tremendous, horrendous, stupendous, and\u00a0 hazardous.",
-  "crypto": "BTC: $118,666 | ETH: $4,213.45",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Writing with a broken pencil is pointless.",
+  "quote": "It's not what happens to you, but how you react to it that matters. \u2013 Epictetus",
+  "fact": "In the last 4000 years, no new animals have been domesticated.",
+  "crypto": "BTC: $118,819 | ETH: $4,228.86",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "What Google Material 3 Expressive redesigns are rolling out - 9to5Google",
+      "link": "http://9to5google.com/2025/08/10/google-material-3-expressive-redesign/"
+    },
+    {
+      "title": "Game 119, Thread 2 - Lookout Landing",
+      "link": "https://www.lookoutlanding.com/game-thread/132623/game-119-thread-2"
+    },
     {
       "title": "Snake Eyez releases new Season 3 tier list that even includes Sagat's position - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/aug/10/tiers-snake-eyez-s3-list/"
@@ -28,8 +36,20 @@
       "link": "https://wccftech.com/asus-launches-worlds-first-4k-woled-gaming-monitors-in-the-strix-oled-xg32u-series/"
     },
     {
+      "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP - The Hacker News",
+      "link": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html"
+    },
+    {
       "title": "Battlefield 6 Features New \"Quick Turn\" Mechanic That Looks Like You're Cheating on Consoles - MP1st",
       "link": "https://mp1st.com/news/battlefield-6-features-new-quick-turn-that-looks-like-youre-cheating"
+    },
+    {
+      "title": "Ryzen 9800X3D Emptying Wallets? Here Are Three Affordable CPUs That Still Crush Games - Wccftech",
+      "link": "https://wccftech.com/three-affordable-cpus-that-still-crush-games/"
+    },
+    {
+      "title": "Japan: Nintendo reveals best selling eShop games for July 2025 - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/08/10/japan-nintendo-reveals-best-selling-eshop-games-for-july-2025/"
     },
     {
       "title": "I\u2019ve been a swimmer for over 15 years. Here\u2019s everything you need to start swimming for fitness - CNN",
@@ -70,52 +90,68 @@
     {
       "title": "'Ice cube' clouds discovered at the galaxy's center shouldn't exist \u2014 and they hint at a recent black hole explosion - Space",
       "link": "https://www.space.com/astronomy/ice-cube-clouds-discovered-at-the-galaxys-center-shouldnt-exist-and-they-hint-at-a-recent-black-hole-explosion"
-    },
-    {
-      "title": "Bohm Bops It, But Barely Bats Balls Behind Third Base - The Good Phight",
-      "link": "https://www.thegoodphight.com/general/63504/bohm-bops-it-but-barely-bats-balls-behind-third-base"
-    },
-    {
-      "title": "Here\u2019s how iPhone 17 Air display size will compare to 17 Pro and 17 Pro Max - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/10/iphone-17-air-display-size-comparison/"
-    },
-    {
-      "title": "Steve Wozniak on fighting internet scams - CBS News",
-      "link": "https://www.cbsnews.com/news/steve-wozniak-on-fighting-internet-scams/"
-    },
-    {
-      "title": "This Sim Racing Tool Became A Secret Weapon For F1 (And Car Companies) - Jalopnik",
-      "link": "https://www.jalopnik.com/1932281/sim-racing-tool-helps-racing-oems/"
-    },
-    {
-      "title": "Hard Times Come To An End For 3 Zodiac Signs After August 11, 2025 - YourTango",
-      "link": "https://www.yourtango.com/2025388324/zodiac-signs-hard-times-end-august-11-2025"
     }
   ],
   "sports_news": [
     {
-      "title": "Bears takeaways: What we learned in NFL preseason opener vs. Dolphins - Marquee Sports Network",
-      "link": "https://www.marqueesportsnetwork.com/chicago-bears-nfl-preseason-score-highlights-miami-dolphins-ben-johnson/"
+      "title": "5 Chargers Players to Watch in Preseason Game vs. Saints - Los Angeles Chargers",
+      "link": "https://www.chargers.com/news/players-to-watch-saints-preseason-2025"
     },
     {
-      "title": "Shane van Gisbergen Just Won on Another NASCAR Road Course, First Rookie to Win Four Races - Road & Track",
-      "link": "https://www.roadandtrack.com/news/a65647764/shane-van-gisbergen-just-won-another-nascar-road-course-first-rookie-win-four-races/"
+      "title": "FedEx St. Jude Championship: Justin Rose surges late to win in a playoff as Tommy Fleetwood stumbles again - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/breaking-news/article/fedex-st-jude-championship-justin-rose-surges-late-to-win-in-a-playoff-as-tommy-fleetwood-stumbles-again-230040009.html"
+    },
+    {
+      "title": "What drivers said at Watkins Glen after another victory for Shane van Gisbergen - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/what-drivers-said-at-watkins-glen-after-another-victory-for-shane-van-gisbergen"
+    },
+    {
+      "title": "Game Recap: Bears tie Dolphins in preseason opener - Chicago Bears",
+      "link": "https://www.chicagobears.com/news/game-recap-bears-tie-dolphins-in-preseason-opener-2025-week-1"
+    },
+    {
+      "title": "Report: Norris at Lions' facility after scary injury - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/45940739/report-morice-norris-lions-facility-scary-injury"
+    },
+    {
+      "title": "Hunter Greene Slated To Return To Reds\u2019 Rotation On Wednesday - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/08/hunter-greene-slated-to-return-to-reds-rotation-on-wednesday.html"
+    },
+    {
+      "title": "Mets waste early five-run advantage, walked off by Brewers for seventh straight loss - SNY",
+      "link": "https://sny.tv/articles/mets-brewers-takeaways-8-10-25"
+    },
+    {
+      "title": "2025 NFL preseason, Week 1: What We Learned from Sunday's doubleheader - NFL.com",
+      "link": "https://www.nfl.com/news/2025-nfl-preseason-week-1-what-we-learned-from-sunday-s-doubleheader"
     },
     {
       "title": "PFF grades and snap counts for the Giants\u2019 34-25 victory over the Buffalo Bills - Big Blue View",
       "link": "https://www.bigblueview.com/new-york-giants-preseason/131913/pff-grades-and-snap-counts-for-the-giants-34-25-victory-over-the-buffalo-bills"
     },
     {
+      "title": "Patriots Camp Report 08.10.25: Maye, first-team offense have rough day in red zone - Boston Sports Journal",
+      "link": "https://www.bostonsportsjournal.com/2025/08/10/patriots-camp-report-081025-maye-first-team-offense-have-rough-day-in-red-zone"
+    },
+    {
       "title": "Shedeur Sanders' Mom Grabs Attention With Outfit At Game - Yahoo Sports",
       "link": "https://thespun.com/nfl/shedeur-sanders-mom-grabs-attention-with-outfit-at-game"
     },
     {
-      "title": "How to watch the Saints and Chargers play in the New Orleans preseason opener at Los Angeles - NOLA.com",
-      "link": "https://www.nola.com/sports/saints/saints-chargers-tv-stream/article_a390bfa3-ea1d-480c-a59b-fb5907492eec.html"
-    },
-    {
       "title": "Mason Rudolph, Skylar Thompson shine for Steelers in preseason opener - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-rudolph-skylar-thompson-shine-for-steelers-in-preseason-opener"
+    },
+    {
+      "title": "Phillies Recall David Robertson - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/08/phillies-recall-david-robertson.html"
+    },
+    {
+      "title": "'He doesn\u2019t want it' - Deion Sanders' brutal reaction to son's NFL debut sums up Hall of Fame mentality - talkSPORT",
+      "link": "http://talksport.com/nfl/3460517/shilo-sanders-tampa-bay-bucanneers-deion-sanders-mentality/"
+    },
+    {
+      "title": "Four-star SG Jayden Hodge down to 8 schools - On3",
+      "link": "https://www.on3.com/rivals/news/jayden-hodge-down-to-8-schools-georgetown-mississippi-state-northwestern-old-dominion-penn-state-vanderbilt-vcu-virginia/"
     },
     {
       "title": "NASCAR driver Connor Zilisch breaks collarbone after falling from his vehicle in victory lane - CBS News",
@@ -126,52 +162,16 @@
       "link": "https://nypost.com/2025/08/10/sports/how-nervous-travis-hunter-fared-in-dual-threat-nfl-debut/"
     },
     {
+      "title": "Ted Scott, because of 'family emergency,' not on Scottie Scheffler's bag during final round of FedEx St. Jude - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/ted-scott-because-of-family-emergency-not-on-scottie-schefflers-bag-during-final-round-of-fedex-st-jude"
+    },
+    {
       "title": "Commanders Vs. Patriots (Preseason game one) - Studs and Duds (by @Tiller56) - Hogs Haven",
       "link": "https://www.hogshaven.com/studs-and-duds/368480/commanders-vs-patriots-preseason-game-one-studs-and-duds"
     },
     {
       "title": "Victoria Mboko Is Here To Break Brains - defector.com",
       "link": "https://defector.com/victoria-mboko-is-here-to-break-brains"
-    },
-    {
-      "title": "Jerry Jones says \"I have to pinch myself\" over getting QB Joe Milton III - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-says-i-have-to-pinch-myself-over-getting-qb-joe-milton"
-    },
-    {
-      "title": "Jaxson Dart shares heartwarming moment with mom after dazzling Giants preseason debut - New York Post",
-      "link": "https://nypost.com/2025/08/10/sports/giants-jaxson-dart-shares-hug-with-mom-after-dazzling-nfl-debut/"
-    },
-    {
-      "title": "Why A Bunch Of Real Dicks Keep Throwing Fake Ones - Defector",
-      "link": "https://defector.com/why-a-bunch-of-real-dicks-keep-throwing-fake-ones"
-    },
-    {
-      "title": "Stetson Bennett raves about Matthew Stafford\u2019s influence following strong preseason performance - 247Sports",
-      "link": "https://247sports.com/college/georgia/article/stetson-bennett-matthew-stafford-georgia-bulldogs-football-los-angeles-rams-nfl-preseason-dallas-cowboys-252492209/"
-    },
-    {
-      "title": "IU basketball embraces 'better in numbers' mentality to turn 23-point deficit into blowout victory - Inside the Hall",
-      "link": "https://www.insidethehall.com/2025/08/10/iu-basketball-embraces-better-in-numbers-mentality-to-turn-23-point-deficit-into-blowout-victory/"
-    },
-    {
-      "title": "Salah challenges UEFA over footballer tribute - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/45937826/mohamed-salah-challenges-uefa-response-palestinian-footballer-death-gaza"
-    },
-    {
-      "title": "2 Japanese boxers died from brain injuries after separate bouts at the same event - CBS News",
-      "link": "https://www.cbsnews.com/news/japanese-boxers-brain-injury-shigetoshi-kotari-hiromasa-urakawa/"
-    },
-    {
-      "title": "\u2018I saw the neck and I was just like f*ck you\u2019: Anthony Hernandez reveals why he got angry before choking out Roman Dolidze - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/398392/i-saw-the-neck-and-i-was-just-like-fck-you-anthony-hernandez-reveals-why-he-got-angry-before-choking-out-roman-dolidze"
-    },
-    {
-      "title": "CeeDee Lamb was penalized for sideline interference after collision with official - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-was-penalized-for-sideline-interference-after-collision-with-official"
-    },
-    {
-      "title": "Former Michigan QB makes emotional NFL return from 2024 knee injury - MLive.com",
-      "link": "https://www.mlive.com/wolverines/2025/08/former-michigan-qb-makes-emotional-nfl-return-from-2024-knee-injury.html"
     }
   ],
   "weather": {
