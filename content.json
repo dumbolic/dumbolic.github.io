@@ -1,9 +1,9 @@
 {
-  "quote": "Don't be afraid to give up the good to go for the great. \u2013 John D. Rockefeller",
-  "fact": "Right-handed people live, on average; nine years longer than left handed people.",
-  "crypto": "BTC: $121,714 | ETH: $4,328.63",
+  "quote": "At every moment where language can't go, that's your mind. \u2013 Bodhidharma",
+  "fact": "Kelsey Grammar sings and plays the piano for the theme song of Fraiser.",
+  "crypto": "BTC: $121,973 | ETH: $4,311.34",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
+  "joke": "What's brown and sticky? A stick.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "CarPlay connection issues? This might explain why - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/09/carplay-connection-issues/"
+    },
+    {
       "title": "Katsuhiro Harada says that he would like to show fans what they already have for Tekken X Street Fighter - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/aug/09/harada-sfxt-eagerness-show-fans/"
+    },
+    {
+      "title": "I finally replaced Gboard with SwiftKey and it's been a game-changer - Android Police",
+      "link": "https://www.androidpolice.com/replaced-gboard-with-swiftkey/"
     },
     {
       "title": "Former Nintendo staffers share details about the one time a Nintendo Direct was delayed - Nintendo Everything",
@@ -44,6 +52,10 @@
       "link": "https://www.silverandblackpride.com/las-vegas-raiders-preseason/102712/raiders-preseason-mailbag-training-camp-jackson-powers-johnson"
     },
     {
+      "title": "This Surface SE Delivers Big Value in a Small Package and It's on Sale for $185 - PCMag",
+      "link": "https://www.pcmag.com/deals/this-surface-se-delivers-big-value-in-a-small-package-and-its-on-sale-for"
+    },
+    {
       "title": "Battlefield 6 Beta Breaks 470K Users on Steam; Its Anti-Cheat Already Stopped Over 330K Cheaters - Wccftech",
       "link": "https://wccftech.com/battlefield-6-beta-breaks-470k-users-steam-anti-cheat-stopped-330k-attempts/"
     },
@@ -72,23 +84,31 @@
       "link": "https://9to5mac.com/2025/08/09/new-apple-card-sign-up-offer-earn-75/"
     },
     {
-      "title": "Aura\u2019s Aspen impressive digital frame is the most affordable it\u2019s been - The Verge",
-      "link": "https://www.theverge.com/tech/756979/aura-aspen-digital-photo-frame-garmin-inreach-mini-2-deal-sale"
-    },
-    {
-      "title": "Google rolls out four-color glow for Gemini overlay on Android - 9to5Google",
-      "link": "http://9to5google.com/2025/08/09/new-gemini-overlay-colors/"
-    },
-    {
       "title": "Gigi Dolin's Fiance Is A Familiar Face For Wrestling Fans - Wrestling Inc.",
       "link": "https://www.wrestlinginc.com/1930515/gigi-dolin-aew-fiance-looks-so-familiar/"
-    },
-    {
-      "title": "Is This Seat Taken? makes seating fussy people fun - The Verge",
-      "link": "https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android"
     }
   ],
   "sports_news": [
+    {
+      "title": "NFL preseason week 1 takeaways: Jaxson Dart has strong debut, Travis Hunter plays both ways, plus a 70-yard FG - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-takeaways-jaxson-dart-has-strong-debut-travis-hunter-plays-both-ways-plus-a-70-yard-fg/live/"
+    },
+    {
+      "title": "Chiefs-Cardinals rapid reaction: Josh Simmons looks the part - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-game-information/178253/chiefs-cardinals-rapid-reaction-josh-simmons-looks-the-part"
+    },
+    {
+      "title": "Asher Hong wins U.S. all-around gymnastics title by record margin, leads world team - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/usa-gymnastics-championships-2025-mens-world-championship-team"
+    },
+    {
+      "title": "Five takeaways from Rams' 31-21 Preseason Week 1 win over Cowboys: More confident Stetson Bennett, Blake Corum finds endzone twice, Pooh Paul Jr. commanding the defense and more - Rams",
+      "link": "https://www.therams.com/news/five-takeaways-rams-31-21-preseason-week-1-win-over-cowboys-more-confident-stetson-bennett-blake-corum-finds-the-endzone-twice-pooh-paul-jr-commanding-the-defense-and-more"
+    },
+    {
+      "title": "Steelers defeat Jaguars, 31-25 - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-defeat-jaguars-31-25"
+    },
     {
       "title": "NASCAR at Watkins Glen: Key info, links, results for race weekend - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/08/09/nascar-at-watkins-glen-key-info-links-results-for-race-weekend/"
@@ -98,76 +118,56 @@
       "link": "https://www.ufc.com/news/fight-results-ufc-fight-night-dolidze-vs-hernandez"
     },
     {
-      "title": "Connor Zilisch breaks collarbone in Victory Lane fall at Watkins Glen, will miss Cup Series race - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/08/09/xfinity-series-2025-connor-zilisch-watkins-glen-victory-lane-fall/"
-    },
-    {
       "title": "Cam Ward throws for 67 yards in two possessions, leads Titans to a TD - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-throws-for-67-yards-in-two-possessions-leads-titans-to-a-td"
+    },
+    {
+      "title": "NFL Preseason Blitz: Jaguars rookie Travis Hunter plays both ways in preseason debut - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-preseason-blitz-jaguars-rookie-travis-hunter-plays-both-ways-in-preseason-debut-012649586.html"
     },
     {
       "title": "NFL preseason week 1 schedule, live updates, highlights: Travis Hunter plays both ways, plus a 70-yard FG - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-live-updates-highlights-travis-hunter-plays-both-ways-plus-a-70-yard-fg/live/"
     },
     {
-      "title": "Lamb, in street garb, trucked by ref, then flagged - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/45934617/ceedee-lamb-flagged-getting-hit-ref-wr-street-clothes-sideline"
-    },
-    {
       "title": "Cam Little kicks 70-yard field goal - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-little-kicks-70-yard-field-goal"
+    },
+    {
+      "title": "Watkins Glen Xfinity winner Connor Zilisch released from hospital after fall in victory lane - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/watkins-glen-xfinity-winner-connor-zilisch-taken-to-infield-care-center-after-he-fell-off-car"
+    },
+    {
+      "title": "Four Observations from Nebraska's Red-White Scrimmage - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/volleyball/four-observations-from-nebraska-red-white-scrimmage-volleyball-cornhuskers-big-ten"
     },
     {
       "title": "Jen Pawol becomes first woman to umpire Major League Baseball game - BBC",
       "link": "https://www.bbc.com/news/articles/c62wg6djz35o"
     },
     {
-      "title": "So far, so good for J.J. McCarthy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/so-far-so-good-for-j-j-mccarthy"
-    },
-    {
       "title": "13 Packers not playing vs. Jets - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/13-packers-not-playing-vs-jets-aug-09-25"
-    },
-    {
-      "title": "Kevin O\u2019Connell: Vikings WR Rondale Moore has \u201cpretty significant\u201d left knee injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-vikings-wr-rondale-moore-has-pretty-significant-left-knee-injury"
     },
     {
       "title": "Mariano Rivera tears Achilles in Yankees Old-Timers\u2019 Day game and needs surgery - CNN",
       "link": "https://www.cnn.com/2025/08/09/sport/mariano-rivera-achilles-yankees-old-timers-day-spt"
     },
     {
+      "title": "Minnesota Vikings 20, Houston Texans 10: Plenty of Good in Preseason Opener - Daily Norseman",
+      "link": "https://www.dailynorseman.com/minnesota-vikings-news/89447/houston-texans-minnesota-vikings-preseason-opener-final-score-game-recap"
+    },
+    {
       "title": "After Further Review: Breaking Down QB Drake Maye, LT Will Campbell and 25 More Takeaways From the Patriots Win Over the Commanders - New England Patriots",
       "link": "https://www.patriots.com/news/after-further-review-breaking-down-qb-drake-maye-lt-will-campbell-and-25-more-takeaways-from-the-patriots-win-over-the-commanders"
     },
     {
-      "title": "Elijah Smith powerbombs Toshiomi Kazama to score brutal knockout at UFC Vegas 109 - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/398304/elijah-smith-powerbombs-toshiomi-kazama-to-score-brutal-knockout-at-ufc-vegas-109"
+      "title": "\u2018Rampage in PRIDE vibes\u2019: Dustin Poirier, other pros react to Elijah Smith\u2019s scary slam knockout at UFC Vegas 109 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc-news/398305/rampage-in-pride-vibes-dustin-poirier-other-pros-react-to-elijah-smiths-scary-slam-knockout-at-ufc-vegas-109"
     },
     {
       "title": "James Cook agreed to warmup Saturday but declined to play - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-agreed-to-warmup-saturday-but-declined-to-play"
-    },
-    {
-      "title": "Los Angeles Chargers Sign David Sharpe - Los Angeles Chargers",
-      "link": "https://www.chargers.com/news/sign-david-sharpe-2025"
-    },
-    {
-      "title": "Joey Bosa, Bills rookie defenders flash in preseason opener vs. Giants (stock up/stock down) - Syracuse.com",
-      "link": "https://www.syracuse.com/buffalo-bills/2025/08/joey-bosa-bills-rookie-defenders-flash-in-preseason-opener-vs-giants-stock-upstock-down.html"
-    },
-    {
-      "title": "76ers smell blood as game-changing rumor opens rare opportunity - The Sixer Sense",
-      "link": "https://thesixersense.com/76ers-smell-blood-game-changing-rumor-opens-rare-opportunity"
-    },
-    {
-      "title": "Will Shedeur Sanders get his first snaps with the Browns\u2019 starters this week? Kevin Stefanski weighs in - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/08/will-shedeur-sanders-get-his-first-snaps-with-the-browns-starters-this-week-kevin-stefanski-weighs-in.html"
-    },
-    {
-      "title": "5 things to watch in the Chiefs\u2019 preseason opener against the Cardinals - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/168009/chiefs-roster-5-things-to-watch-in-preseason-opener-against-cardinals"
     }
   ],
   "weather": {
