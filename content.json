@@ -1,9 +1,9 @@
 {
-  "quote": "Be brave enough to suck at something new. \u2013 Unknown",
-  "fact": "Giraffes have no vocal cords.",
-  "crypto": "BTC: $119,136 | ETH: $4,401.15",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.",
+  "quote": "Every day passes whether you participate or not. \u2013 Ming-Dao Deng",
+  "fact": "Dolphins sleep with one eye open!",
+  "crypto": "BTC: $119,544 | ETH: $4,423.37",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What don't watermelons get married? Because they cantaloupe.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,166 +12,90 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Switch 2 Fans Debate The Best Way To Play Its New Exclusive - Kotaku",
+      "link": "https://kotaku.com/switch-2-drag-x-drive-demo-joy-con-jeans-table-mouse-2000616850"
+    },
+    {
+      "title": "Latest Pixel 10 series leak shows off every color option from every possible angle - 9to5Google",
+      "link": "http://9to5google.com/2025/08/11/latest-pixel-10-series-leak-every-color-option-every-possible-angle/"
+    },
+    {
+      "title": "Rumor points to iPhone 17 Pro adopting Apple Watch Ultra-style antennas - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/11/rumor-points-to-iphone-17-pro-adopting-apple-watch-ultra-style-antennas/"
+    },
+    {
+      "title": "Review: Mafia: The Old Country (PS5) - Historical Crime Story Runs Out of Ammo - Push Square",
+      "link": "https://www.pushsquare.com/reviews/ps5/mafia-the-old-country"
+    },
+    {
       "title": "Column | Work Advice: When the boss\u2019s buddy gets a chance you\u2019ve been denied - The Washington Post",
       "link": "https://www.washingtonpost.com/business/2025/08/11/work-advice-boss-plays-favorites/"
     },
     {
-      "title": "EA Refuses to Fund the Dragon Age Remasters You Crave - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/08/ea-refuses-to-fund-the-dragon-age-remasters-you-crave"
+      "title": "Google Docs gets Material 3 Expressive progress indicator, tweaks - 9to5Google",
+      "link": "http://9to5google.com/2025/08/11/google-docs-material-3-expressive/"
     },
     {
-      "title": "This week in PC games: deep-sea roguelite raids, first-person horror cookery, and a spruced-up Dawn of War - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-deep-sea-roguelite-raids-first-person-horror-cookery-and-a-spruced-up-dawn-of-war"
+      "title": "Apple applies for patent on that \u2018single slab of glass\u2019 iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/11/apple-applies-for-patent-on-that-single-slab-of-glass-iphone/"
     },
     {
-      "title": "\"He Played 200 Beats A Minute\": Robot Drummer Stuns Engineers By Mastering Complex Songs With Uncanny Human-Like Precision - Rude Baguette",
-      "link": "https://www.rudebaguette.com/en/2025/08/he-played-200-beats-a-minute-robot-drummer-stuns-engineers-by-mastering-complex-songs-with-uncanny-human-like-precision/"
+      "title": "Surprise Matter update focuses on reliability and stability - The Verge",
+      "link": "https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely"
     },
     {
-      "title": "Behind the Curtain: Your smarter fake friends - Axios",
-      "link": "https://www.axios.com/2025/08/11/ai-friends-chatbots-future"
+      "title": "5 free Windows PC apps I always install first (and how they improve your workflow) - ZDNET",
+      "link": "https://www.zdnet.com/home-and-office/work-life/5-free-windows-pc-apps-i-always-install-first-and-how-they-improve-your-workflow/"
     },
     {
-      "title": "Turtle Beach Announces Officially Licensed Budget Headset For Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/turtle-beach-announces-officially-licensed-budget-headset-for-switch-2"
+      "title": "This iOS 26 update ruined the iPhone camera app for me - then Apple saved the day - ZDNET",
+      "link": "https://www.zdnet.com/article/this-ios-26-update-ruined-the-iphone-camera-app-for-me-then-apple-saved-the-day/"
     },
     {
-      "title": "New 12.9-Inch MacBook to Launch As Soon This Year for As Low As $599 - MacRumors",
-      "link": "https://www.macrumors.com/2025/08/11/new-12-9-inch-macbook-launch-this-year-599-price/"
+      "title": "Hyundai wants Ioniq 5 owners to pay to fix a keyless entry security hole - The Verge",
+      "link": "https://www.theverge.com/news/757205/hyundai-ioniq-5-security-upgrade-fix-game-boy-device-attacks"
     },
     {
-      "title": "The mother of all Google leaks reveals even more Pixel 10, 10 Pro, 10 Pro XL, and 10 Pro Fold info - PhoneArena",
-      "link": "https://www.phonearena.com/news/google-pixel-10-10-pro-10-pro-xl-10-pro-fold-even-more-info-leaked_id173078"
+      "title": "Dragon Age trilogy remaster was pitched to EA, but \"they basically seem to be against free money\" says series veteran - eurogamer.net",
+      "link": "https://www.eurogamer.net/dragon-age-trilogy-remaster-was-pitched-to-ea-but-they-basically-seem-to-be-against-free-money-says-series-veteran"
     },
     {
-      "title": "WinRAR Zero-Day Under Active Exploitation \u2013 Update to Latest Version Immediately - The Hacker News",
-      "link": "https://thehackernews.com/2025/08/winrar-zero-day-under-active.html"
+      "title": "Low-cost MacBook production starting soon, possible $599 or $699 pricing - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/11/low-cost-macbook-production-starting-soon-possible-599-or-699-pricing/"
     },
     {
-      "title": "Mario Nintendo Switch Games Hit All-Time Low Prices At Walmart - GameSpot",
-      "link": "https://www.gamespot.com/articles/mario-nintendo-switch-games-hit-all-time-low-prices-at-walmart/1100-6533821/"
+      "title": "Apple\u2019s new Siri may allow users to operate apps just using voice - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/11/apples-new-siri-may-allow-users-to-operate-apps-just-using-voice/"
     },
     {
-      "title": "Modder Is Determined To Breathe New Life Into A Classic WW2 Game - DualShockers",
-      "link": "https://www.dualshockers.com/modder-is-determined-to-breath-new-life-into-a-classic-ww2-game/"
+      "title": "I tested ChatGPT-5 vs Google Gemini 2.5 with 10 prompts \u2014 and there's a clear winner - Tom's Guide",
+      "link": "https://www.tomsguide.com/ai/i-tested-chatgpt-5-vs-google-gemini-2-5-with-10-prompts-and-theres-a-clear-winner"
     },
     {
-      "title": "66-53: Chart - Lookout Landing",
-      "link": "https://www.lookoutlanding.com/mariners-charts/132626/66-53-chart"
+      "title": "Cyberpunk 2077 gets its most effective horror mod yet: a story-driven rent system featuring landlord selfies - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/cyberpunk-2077-gets-its-most-effective-horror-mod-yet-a-story-driven-rent-system-featuring-landlord-selfies"
     },
     {
-      "title": "What Google Material 3 Expressive redesigns are rolling out - 9to5Google",
-      "link": "http://9to5google.com/2025/08/10/google-material-3-expressive-redesign/"
+      "title": "Higher iPhone 17 prices, but Pro storage will start at 256GB, says leaker - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/11/higher-iphone-17-prices-but-pro-storage-will-start-at-256gb-says-leaker/"
     },
     {
-      "title": "Apple working with these apps to prepare for next-gen Siri - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/10/apple-new-siri-app-prep/"
+      "title": "HONOR Could Put Tablets To Shame As It Is Testing Out a Smartphone With A Massive 10,000mAh Battery, But Rumor Claims That The Device Will Not Use A Flagship Chipset - Wccftech",
+      "link": "https://wccftech.com/honor-testing-smartphone-with-10000mah-battery/"
     },
     {
-      "title": "Snake Eyez releases new Season 3 tier list that even includes Sagat's position - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/aug/10/tiers-snake-eyez-s3-list/"
-    },
-    {
-      "title": "LAST DAY: Massive Apple deal event \u2013 M3 iPad Air all-time low, AirPods, M4 MacBooks $300 off, more [Updated] - 9to5Toys",
-      "link": "http://9to5toys.com/2025/08/10/apple-deal-week-sale-ipad-macbook/"
-    },
-    {
-      "title": "\"Gen Z Dumps Smartphones for Flip Phones\": Retrotech Rebellion Targets Attention Economy, Privacy Fears, and Endless Notification Fatigue - Rude Baguette",
-      "link": "https://www.rudebaguette.com/en/2025/08/gen-z-dumps-smartphones-for-flip-phones-retrotech-rebellion-targets-attention-economy-privacy-fears-and-endless-notification-fatigue/"
-    },
-    {
-      "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP - The Hacker News",
-      "link": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html"
-    },
-    {
-      "title": "Google Is Testing An AI-Powered Finance Page - Search Engine Journal",
-      "link": "https://www.searchenginejournal.com/google-is-testing-an-ai-powered-finance-page/553333/"
-    },
-    {
-      "title": "Battlefield 6's anti-cheat system has already prevented 330,000 attempts to \"cheat or tamper with anti-cheat controls\" - Eurogamer",
-      "link": "https://www.eurogamer.net/battlefield-6s-anti-cheat-system-has-already-prevented-330000-attempts-to-cheat-or-tamper-with-anti-cheat-controls"
+      "title": "Torvalds blasts kernel dev for late 'garbage' RISC-V patches - theregister.com",
+      "link": "https://www.theregister.com/2025/08/11/torvalds_blasts_tardy_kernel_dev/"
     }
   ],
   "sports_news": [
     {
-      "title": "Paramount buys UFC rights in $7.7 billion, 7-year deal in first major move post-Skydance merger - CNBC",
-      "link": "https://www.cnbc.com/2025/08/11/paramount-buys-ufc-rights-skydance-merger.html"
+      "title": "India defeats Australia in last-over thriller",
+      "link": "https://example.com/cricket"
     },
     {
-      "title": "Brian Callahan: Cam Ward\u2019s play encouraging, but he hasn\u2019t arrived yet - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-callahan-cam-wards-play-encouraging-but-he-hasnt-arrived-yet"
-    },
-    {
-      "title": "Crystal Palace lose appeal against demotion from Europa League to Conference League - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c1kzzpp04kgo"
-    },
-    {
-      "title": "Jack Grealish: Everton talks progress over Manchester City winger - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cp8zjrnw6yro"
-    },
-    {
-      "title": "Justin Verlander reveals retirement stance as his Giants struggles mount - New York Post",
-      "link": "https://nypost.com/2025/08/11/sports/justin-verlander-reveals-retirement-stance-as-giants-struggles-mount/"
-    },
-    {
-      "title": "Son Heung-Min's debut, Austin FC's next step & more from Matchday 28 - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/son-heung-min-s-debut-austin-fc-s-next-step-more-from-matchday-28"
-    },
-    {
-      "title": "Hezly Rivera adds U.S. all-around gymnastics title to her Olympic gold medal - NBC Sports",
-      "link": "https://www.nbcsports.com/olympics/news/hezly-rivera-gymnastics-usa-championships-2025"
-    },
-    {
-      "title": "Keeler: Peyton Manning, dance numbers and joy at Coors Field! If only Denver could swap Savannah Bananas for woeful Rockies - The Denver Post",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlU3emlxYmRsR19uNU8zRm1JQS02OEc3cXBMZTBiTDZ1SV9KWXJmd3lxNHgxNWVsNTcxRnlwb0dnSHJ2cEZRaW0yQVk1ZHdTMko4Q1NFOWUxTHVSV1k3S0Z0YWdjWHNJRkg5LWRRaE93Z1VpVHVrVFBaejJ2dHdFTdIBhgFBVV95cUxOeHlQUmNPMC1jX3k1UjZVS2lKaGFhUXozU1o3RmNwVUNaRWpLMGZXaXN6TU83MVlrTTlUQlZ5Nmh1Znd3RU5uNC1QOWtpWmlaRFVBcDlIZXlCS240V1JwQmdyMGZpUEhvWUp5NkYzQnRnXzVWNHpkcmd6UmpIczkzZUVpUHpMUQ?oc=5"
-    },
-    {
-      "title": "Rookie QB Tyler Shough gets the most reps for Saints in preseason opener - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rookie-qb-tyler-shough-gets-the-most-reps-for-saints-in-preseason-opener"
-    },
-    {
-      "title": "Key Takeaways from New Orleans Saints at Chargers | 2025 NFL Preseason Week 1 - New Orleans Saints",
-      "link": "https://www.neworleanssaints.com/news/2025-nfl-preseason-week-1-los-angeles-chargers-vs-new-orleans-saints-key-takeaways"
-    },
-    {
-      "title": "Justin Rose rallies past Tommy Fleetwood, beats J.J. Spaun in FedEx St. Jude playoff - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/justin-rose-rallies-past-tommy-fleetwood-beats-j-j-spaun-in-fedex-st-jude-playoff"
-    },
-    {
-      "title": "NFL Quarterback's 'Ripped' Mom Goes Viral At His Preseason Debut - Yahoo Sports",
-      "link": "https://thespun.com/nfl/nfl-quarterbacks-ripped-mom-goes-viral-at-his-preseason-debut"
-    },
-    {
-      "title": "Spiraling Mets blow five-run lead to Brewers in walk-off crusher for seventh straight loss - New York Post",
-      "link": "https://nypost.com/2025/08/10/sports/mets-blow-five-run-lead-to-brewers-for-seventh-straight-loss/"
-    },
-    {
-      "title": "Andy Pettitte reveals how Mariano Rivera tore Achilles as Yankees Old-Timers\u2019 Day video emerges - New York Post",
-      "link": "https://nypost.com/2025/08/10/sports/andy-pettitte-reveals-how-mariano-rivera-tore-achilles-at-yankees-old-timers-day/"
-    },
-    {
-      "title": "Trackhouse Racing owner Justin Marks addresses what\u2019s next for Connor Zilisch after injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/trackhouse-racing-owner-justin-marks-addresses-whats-next-for-connor-zilisch-after-injury"
-    },
-    {
-      "title": "Playoff Chase: Mariners make a big move with another sweep - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/standings-seattle-mariners-big-move-playoff-chase/1818915"
-    },
-    {
-      "title": "Michael Jordan\u2019s boat wins $400K second prize for 71-pound fish in prestigious White Marlin Open - New York Post",
-      "link": "https://nypost.com/2025/08/10/sports/michael-jordans-boat-wins-400k-prize-for-71-pound-fish-in-white-marlin-open/"
-    },
-    {
-      "title": "Cal Raleigh clubs No. 45 as Mariners earn 2nd straight sweep - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/cal-raleigh-belts-45th-homer-as-mariners-sweep-tampa-bay-rays/"
-    },
-    {
-      "title": "Morice Norris back at Lions facility Sunday - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0tPdmQ0YmpVU0pxZC1zYnZ5TDc5RERjNnRmdE9wYnQ3YWZ1MXVkbnBIMVVOV1hNVnBNNHp2dU9FV1NnV0dlNFlSeFJfcFJaSGpvUk4wRG51VzVpOHNOM0pPNjMtM1BTX3FuNGRtSk50NHM3MHNGY09GNVNxX2VRellwSXVhZ1dvYURnZk9KWk55UE9LTjVWaFpRQW9SeVZUVEFQcko4Q0Y?oc=5"
-    },
-    {
-      "title": "Professional Racing Star Dead In 'Horrible' Crash At 53 - Yahoo Sports",
-      "link": "https://thespun.com/nascar/professional-racing-star-dead-in-horrible-crash-at-53"
+      "title": "Real Madrid advances to UCL final",
+      "link": "https://example.com/football"
     }
   ],
   "weather": {
