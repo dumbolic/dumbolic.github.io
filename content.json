@@ -1,9 +1,9 @@
 {
-  "quote": "If you want to be successful, you have to jump, there's no way around it. \u2013 Steve Harvey",
-  "fact": "Leonardo da Vinci could write with one hand while drawing with the other",
-  "crypto": "BTC: $120,549 | ETH: $4,710.44",
+  "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up. \u2013 Thomas Edison",
+  "fact": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
+  "crypto": "BTC: $120,631 | ETH: $4,718.56",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Which side of the chicken has more feathers? The outside.",
+  "joke": "Did you hear about the Mexican train killer? He had loco motives",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,44 +12,76 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Capcom Releases Patch Notes for Monster Hunter Wilds' Big 1.021 Update, Adds Endgame Expansion, Reveals Fixes for 'Mostly Negative' Steam Version - IGN",
+      "link": "https://www.ign.com/articles/capcom-releases-patch-notes-for-monster-hunter-wilds-big-1021-update-adds-endgame-expansion-reveals-fixes-for-mostly-negative-steam-version"
+    },
+    {
+      "title": "Halo 3: ODST Content Teased for Helldivers 2, Even on PS5 - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/08/halo-3-odst-content-teased-for-helldivers-2-even-on-ps5"
+    },
+    {
+      "title": "PUBG Creator\u2019s New Survival Sim Reveals Surprise Free Open Beta - Kotaku",
+      "link": "https://kotaku.com/pubg-prologue-go-wayback-free-open-beta-playerunknown-2000617143"
+    },
+    {
+      "title": "Sam Altman is right and wrong about the future of photos - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/757709/sam-altman-ai-bunnies-what-is-a-photo"
+    },
+    {
+      "title": "At $9,500 Canadian, Would You Say 'I Would' To This 2000 Toyota WiLL? - Jalopnik",
+      "link": "https://www.jalopnik.com/1937172/2000-toyota-will-for-sale-9500/"
+    },
+    {
+      "title": "New Apple Watch Ultra 3 Rumors Point to an Overdue Upgrade - CNET",
+      "link": "https://www.cnet.com/tech/mobile/new-apple-watch-ultra-3-rumors-point-to-an-overdue-upgrade/"
+    },
+    {
       "title": "Microsoft releases lightweight Office taskbar apps for Windows 11 - The Verge",
       "link": "https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release"
     },
     {
       "title": "Column | Can\u2019t put solar panels on your roof? Plug-in \u2018balcony solar\u2019 may be for you. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RGMDFHblluTzVZSHlMdXFsRlpweXZ4Xzh5X0ZEbWlTaGNVcndjOXJ3Nzh5ZHVBRUFhRjNuRlpvbG44di0tUVA0UmlJNXFicmtXd1lQQ0dpbGhZR1hfUnRsMUNzYksxWUVGcjZSRVFLYnROOEZCMUNqb2MzYUxqXzRrdjN2S0V1RDNnV3dpOW00LXhQdFpN?oc=5"
+      "link": "https://www.washingtonpost.com/climate-environment/2025/08/12/balcony-solar-plug-in-rooftop/"
     },
     {
       "title": "Random: Oh Jeez, Now Palworld Has Its Own Rip-Off On The Switch eShop - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/08/random-oh-jeez-now-palworld-has-its-own-rip-off-on-the-switch-eshop"
     },
     {
-      "title": "Monster Hunter Wilds Endgame Update Certainly Won't Please Everyone as Patch Notes Are Revealed - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/08/monster-hunter-wilds-endgame-update-certainly-wont-please-everyone-as-patch-notes-are-revealed"
-    },
-    {
       "title": "Madden NFL 26 Review in Progress - IGN",
       "link": "https://www.ign.com/articles/madden-nfl-26-review"
+    },
+    {
+      "title": "Remedy \"unsatisfied\" with FBC: Firebreak sales, as subscription console players exceed those on PC - eurogamer.net",
+      "link": "https://www.eurogamer.net/remedy-unsatisfied-with-fbc-firebreak-sales-as-subscription-console-players-exceed-those-on-pc"
+    },
+    {
+      "title": "Mario Fans Are Debating Whether A 40th Anniversary Twitter Account Is The Real Deal - TheGamer",
+      "link": "https://www.thegamer.com/mario-40th-anniversary-placeholder-twitter-account/"
+    },
+    {
+      "title": "There's a New V-12 Supercar\u2014And Yes, It Has a Manual - Motor1.com",
+      "link": "https://www.motor1.com/news/768660/new-supercar-naturally-aspirated-v12/"
+    },
+    {
+      "title": "LLMs' 'Simulated Reasoning' Abilities Are a 'Brittle Mirage,' Researchers Find - Slashdot",
+      "link": "https://slashdot.org/story/25/08/11/2253229/llms-simulated-reasoning-abilities-are-a-brittle-mirage-researchers-find"
+    },
+    {
+      "title": "Samsung Launches World First Micro RGB, Setting New Standard for Premium TV Technology - Samsung Newsroom",
+      "link": "https://news.samsung.com/global/samsung-launches-world-first-micro-rgb-setting-new-standard-for-premium-tv-technology"
     },
     {
       "title": "High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica",
       "link": "https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/"
     },
     {
-      "title": "IGN Boss Leaving After Six Years Following Latest Mass Layoff - Kotaku",
-      "link": "https://kotaku.com/ign-john-davison-ziff-davis-layoffs-union-games-media-2000616972"
-    },
-    {
-      "title": "Viral Battlefield 6 VTuber banned on Twitch amid cheating accusations - Dexerto",
-      "link": "https://www.dexerto.com/battlefield/viral-battlefield-6-vtuber-banned-on-twitch-amid-cheating-accusations-3236553/"
+      "title": "Snapdragon 8 Elite 2 Geekbench debut spells doom for the Exynos 2600 - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Snapdragon-8-Elite-2-Geekbench-debut-spells-doom-for-the-Exynos-2600.1085048.0.html"
     },
     {
       "title": "Waze will end updates for older Android devices soon - 9to5Google",
       "link": "http://9to5google.com/2025/08/11/waze-will-end-updates-for-older-android-devices-soon/"
-    },
-    {
-      "title": "League Of Legends Dev Sends McDonald\u2019s Jobs Link To Player Who Boosts Accounts For A Living - Kotaku",
-      "link": "https://kotaku.com/league-of-legends-mcdonalds-job-application-boosting-smurfing-dev-riot-games-2000616955"
     },
     {
       "title": "Asus releases NUC 15 Performance mini-PCs with Nvidia GeForce RTX 5060 and RTX 5070 GPUs - Notebookcheck",
@@ -58,41 +90,33 @@
     {
       "title": "Anthropic\u2019s Claude chatbot can now remember your past conversations - The Verge",
       "link": "https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats"
-    },
-    {
-      "title": "Still live: Massive Apple deal event \u2013 M3 iPad Air all-time low, AirPods, M4 MacBooks $300 off, more [Updated] - 9to5Toys",
-      "link": "http://9to5toys.com/2025/08/11/apple-deal-week-sale-ipad-macbook/"
-    },
-    {
-      "title": "iOS 26 beta hints at upcoming AirPods live translation gesture - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/11/ios-26-beta-hints-at-upcoming-airpods-live-translation-gesture/"
-    },
-    {
-      "title": "Moto Tag app update to install UWB firmware widely rolling out - 9to5Google",
-      "link": "http://9to5google.com/2025/08/11/moto-tag-uwb-update/"
-    },
-    {
-      "title": "iOS 26 beta 6 adds new ringtones, snappy app launches, and more - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/"
-    },
-    {
-      "title": "Abode\u2019s Ambitious Software Dreams Have Died In a Flurry of Controversy - PetaPixel",
-      "link": "https://petapixel.com/2025/08/11/abodes-ambitious-software-dreams-have-died-in-a-flurry-of-controversy/"
-    },
-    {
-      "title": "Get Samsung's newest phone models on sale, from the Galaxy Z Fold7 to Galaxy A56 - Fox News",
-      "link": "https://www.foxnews.com/deals/samsungs-newest-phone-models"
-    },
-    {
-      "title": "AI Learned to Be Evil Without Anyone Telling It To, Which Bodes Well - yahoo.com",
-      "link": "https://www.popularmechanics.com/science/a65617948/ai-subliminal-messages/"
-    },
-    {
-      "title": "Smartwatches are useless for measuring actual stress levels, study says - TechSpot",
-      "link": "https://www.techspot.com/news/109027-smartwatches-useless-measuring-actual-stress-levels-study.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "James Cook will practice on Tuesday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-will-practice-on-tuesday"
+    },
+    {
+      "title": "2025-26 Opening Night, Christmas Day and MLK Day schedules unveiled - NBA",
+      "link": "https://www.nba.com/news/get-ready-for-2025-26-schedule-release"
+    },
+    {
+      "title": "Shohei Ohtani, agent accused of sabotaging $240 million Hawaii real estate deal in shocking lawsuit - New York Post",
+      "link": "https://nypost.com/2025/08/12/sports/shohei-ohtani-agent-accused-of-sabotaging-240-million-hawaii-real-estate-deal-in-shocking-lawsuit/"
+    },
+    {
+      "title": "Top 10 NFL rookies from preseason Week 1 - PFF",
+      "link": "https://www.pff.com/news/nfl-top-rookies-preseason-week-1-2025"
+    },
+    {
+      "title": "Andy Reid: We don\u2019t listen to the noise, we have winners - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-we-dont-listen-to-the-noise-we-have-winners"
+    },
+    {
+      "title": "What We Learned in NFL Preseason Week 1: Shedeur Sanders Among Rookie QBs to Shine - Sports Illustrated",
+      "link": "https://www.si.com/what-we-learned-preseason-week-1-shedeur-sanders-among-rookie-qbs-to-shine"
+    },
     {
       "title": "Seles: 'Reset' after myasthenia gravis diagnosis - ESPN",
       "link": "https://www.espn.com/tennis/story/_/id/45952984/monica-seles-diagnosed-chronic-neuromuscular-disease"
@@ -102,12 +126,16 @@
       "link": "https://apnews.com/article/cristiano-ronaldo-georgina-rodriguez-engagement-6fa540c9bdfed2083ac9ced10c3ddd7e"
     },
     {
+      "title": "NYC hoops legend Sebastian Telfair pleads for last-ditch Donald Trump pardon before prison stint - New York Post",
+      "link": "https://nypost.com/2025/08/12/sports/sebastian-telfair-pleads-for-donald-trump-pardon-before-prison-stint/"
+    },
+    {
       "title": "U.S. gymnastics dominance will be tested with Simone Biles and others absent - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/olympics/2025/08/11/us-gymnastics-nationals-worlds-hezly-rivera/"
     },
     {
-      "title": "Nevada Supreme Court hands Jon Gruden a win in latest twist of NFL suit - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/08/11/nfl-jon-gruden-nevada-lawsuit/"
+      "title": "Malik Nabers vs. Sauce Gardner will take top billing among Jets-Giants practice matchups - New York Post",
+      "link": "https://nypost.com/2025/08/11/sports/malik-nabers-vs-sauce-gardner-top-intriguing-jets-giants-practice-matchups/"
     },
     {
       "title": "Robbie Brewer dies after medical emergency during race at Bowman Gray Stadium - AP News",
@@ -118,12 +146,8 @@
       "link": "https://www.si.com/nfl/vikings-training-camp-report-jj-mccarthy-earning-high-praise-added-pressure"
     },
     {
-      "title": "Olympic gold medalist ski jumpers charged in 'equipment manipulation' cheating scandal at world championships - New York Post",
-      "link": "https://nypost.com/2025/08/11/sports/olympic-gold-medalist-ski-jumpers-charged-in-equipment-manipulation-cheating-scandal-at-world-championships/"
-    },
-    {
-      "title": "2025 BMW Championship odds, picks: Proven golf model reveals projected leaderboard, surprising predictions - SportsLine",
-      "link": "https://www.sportsline.com/insiders/2025-bmw-championship-odds-picks-proven-golf-model-reveals-projected-leaderboard-surprising-predictions/"
+      "title": "How Does Impressive Debut from Rookie Shedeur Sanders Impact Cleveland Browns Plans? What We've Been Told - 247Sports",
+      "link": "https://247sports.com/nfl/cleveland-browns/longformarticle/how-does-impressive-debut-from-rookie-shedeur-sanders-impact-cleveland-browns-plans-what-weve-been-told-252540460/"
     },
     {
       "title": "Ty Simpson expected to be named Alabama starting quarterback for 2025 season opener - 247Sports",
@@ -134,40 +158,16 @@
       "link": "https://www.marqueesportsnetwork.com/chicago-bears-training-camp-report-ben-johnson-caleb-williams-dj-moore-rome-odunze/"
     },
     {
-      "title": "On Saturday, Myles Garrett was cited for driving 100 in a 60 mph zone - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-saturday-myles-garrett-was-cited-for-driving-100-in-a-60-mph-zone"
-    },
-    {
       "title": "Cincinnati play resumes following power outage - ATP Tour",
       "link": "https://www.atptour.com/en/news/cincinnati-2025-suspension-monday"
     },
     {
+      "title": "Myles Garrett cited for going 100 mph in a 60 mph zone Saturday, 3 years after flipping his Porsche multiple - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/08/myles-garrett-cited-for-going-100-mph-in-a-60-mph-zone-at-2-am-saturday-in-strongsville-after-team-landed-from-panthers-trip.html"
+    },
+    {
       "title": "Dana White On How UFC Landed Its Blockbuster $7.7 Billion Streaming Deal With Paramount - Forbes",
       "link": "https://www.forbes.com/sites/mattcraig/2025/08/11/dana-white-on-how-ufc-landed-its-blockbuster-77-billion-streaming-deal-with-paramount/"
-    },
-    {
-      "title": "Browns announce unofficial depth chart for 2nd preseason game vs. Eagles - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/browns-announce-unofficial-depth-chart-for-2nd-preseason-game-vs-eagles"
-    },
-    {
-      "title": "Malaki Starks Shows His Ball-Hawking Skills With Leaping Interception | Practice Report - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/malaki-starks-lamar-jackson-interception-ravens-training-camp"
-    },
-    {
-      "title": "Anthony Hernandez predicts a win for the champ at UFC 319: 'I think DDP is going to surprise everyone again' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/article/anthony-hernandez-predicts-a-win-for-the-champ-at-ufc-319-i-think-ddp-is-going-to-surprise-everyone-again-214350545.html"
-    },
-    {
-      "title": "Kyle Shanahan: Brandon Aiyuk's return could be Week 5, could be Week 10, won't be Week 1 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-brandon-aiyuks-return-could-be-week-5-could-be-week-10-wont-be-week-1"
-    },
-    {
-      "title": "What We Learned: Seattle Sounders flex depth, Shield race is wide open - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/what-we-learned-seattle-sounders-flex-depth-shield-race-is-wide-open"
-    },
-    {
-      "title": "Savannah Bananas bring in record crowds, business boost to Denver's ballpark district - CBS News",
-      "link": "https://www.cbsnews.com/colorado/news/savannah-bananas-record-crowds-coors-field-denver-ballpark-district/"
     }
   ],
   "weather": {
