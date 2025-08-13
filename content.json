@@ -1,9 +1,9 @@
 {
-  "quote": "Passion is born deaf and dumb. \u2013 Honore de Balzac",
-  "fact": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
-  "crypto": "BTC: $121,617 | ETH: $4,680.35",
+  "quote": "No need to hurry. No need to sparkle. No need to be anybody but oneself. \u2013 Virginia Woolf",
+  "fact": "China has more English speakers than the United States.",
+  "crypto": "BTC: $120,822 | ETH: $4,637.3",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How do robots eat guacamole? With computer chips.",
+  "joke": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Palworld Knockoff Slop Gets On Nintendo Switch Despite Lawsuit - Kotaku",
+      "link": "https://kotaku.com/palworld-nintendo-switch-lawsuit-clone-eshop-palland-2000617188"
+    },
+    {
+      "title": "Microsoft bans spam game bundles from the Xbox store - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/microsoft-store-spam-xbox-games-bundles"
+    },
+    {
+      "title": "Rad Power\u2019s Radster: A very non-radical commuter bike - Ars Technica",
+      "link": "https://arstechnica.com/features/2025/08/rad-powers-radster-a-very-non-radical-commuter-bike/"
+    },
+    {
+      "title": "Apple\u2019s latest MacBook Pro with M4 is down to its lowest price to date - The Verge",
+      "link": "https://www.theverge.com/tech/758044/apple-macbook-pro-powerbeats-pro-2-earbuds-deal-sale"
+    },
+    {
+      "title": "Google will now let you pick your top sources for search results - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/12/google-will-now-allow-you-define-your-top-sources-for-search-results/"
+    },
+    {
       "title": "Capcom Releases Patch Notes for Monster Hunter Wilds' Big 1.021 Update, Adds Endgame Expansion, Reveals Fixes for 'Mostly Negative' Steam Version - IGN",
       "link": "https://www.ign.com/articles/capcom-releases-patch-notes-for-monster-hunter-wilds-big-1021-update-adds-endgame-expansion-reveals-fixes-for-mostly-negative-steam-version"
+    },
+    {
+      "title": "Why AI Shouldn\u2019t Replace Historians Anytime Soon - Gizmodo",
+      "link": "https://gizmodo.com/why-ai-shouldnt-replace-historians-anytime-soon-2000641371"
     },
     {
       "title": "Halo 3: ODST Content Teased for Helldivers 2, Even on PS5 - Push Square",
@@ -28,8 +52,8 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/757709/sam-altman-ai-bunnies-what-is-a-photo"
     },
     {
-      "title": "At $9,500 Canadian, Would You Say 'I Would' To This 2000 Toyota WiLL? - Jalopnik",
-      "link": "https://www.jalopnik.com/1937172/2000-toyota-will-for-sale-9500/"
+      "title": "I spent 10 hours on trains listening to the Sony WH-1000XM6 \u2013 and they'd be the perfect headphones but for two issues - What Hi-Fi?",
+      "link": "https://www.whathifi.com/headphones/wireless-headphones/i-spent-10-hours-on-trains-listening-to-the-sony-wh-1000xm6-and-it-convinced-me-to-upgrade-my-beloved-xm4-headphones"
     },
     {
       "title": "New Apple Watch Ultra 3 Rumors Point to an Overdue Upgrade - CNET",
@@ -44,8 +68,16 @@
       "link": "https://www.washingtonpost.com/climate-environment/2025/08/12/balcony-solar-plug-in-rooftop/"
     },
     {
-      "title": "Random: Oh Jeez, Now Palworld Has Its Own Rip-Off On The Switch eShop - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/random-oh-jeez-now-palworld-has-its-own-rip-off-on-the-switch-eshop"
+      "title": "Xbox store running a new 'Buy One, Get One Free' sale on sim games - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/xbox-store-buy-one-get-one-free-sim-sale"
+    },
+    {
+      "title": "GTA V now has DLSS 4 Multi Frame Generation support - The Verge",
+      "link": "https://www.theverge.com/news/757907/gta-5-dlss-4-multi-frame-generation-official-release-nvidia-game-ready-driver"
+    },
+    {
+      "title": "iPhone 17 Air to Feature A19 Pro Chip With Reduced GPU Performance - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/12/iphone-17-air-a19-pro-chip-reduced-gpu-cores/"
     },
     {
       "title": "Madden NFL 26 Review in Progress - IGN",
@@ -58,48 +90,60 @@
     {
       "title": "Mario Fans Are Debating Whether A 40th Anniversary Twitter Account Is The Real Deal - TheGamer",
       "link": "https://www.thegamer.com/mario-40th-anniversary-placeholder-twitter-account/"
-    },
-    {
-      "title": "There's a New V-12 Supercar\u2014And Yes, It Has a Manual - Motor1.com",
-      "link": "https://www.motor1.com/news/768660/new-supercar-naturally-aspirated-v12/"
-    },
-    {
-      "title": "LLMs' 'Simulated Reasoning' Abilities Are a 'Brittle Mirage,' Researchers Find - Slashdot",
-      "link": "https://slashdot.org/story/25/08/11/2253229/llms-simulated-reasoning-abilities-are-a-brittle-mirage-researchers-find"
-    },
-    {
-      "title": "Samsung Launches World First Micro RGB, Setting New Standard for Premium TV Technology - Samsung Newsroom",
-      "link": "https://news.samsung.com/global/samsung-launches-world-first-micro-rgb-setting-new-standard-for-premium-tv-technology"
-    },
-    {
-      "title": "High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/"
-    },
-    {
-      "title": "Snapdragon 8 Elite 2 Geekbench debut spells doom for the Exynos 2600 - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Snapdragon-8-Elite-2-Geekbench-debut-spells-doom-for-the-Exynos-2600.1085048.0.html"
-    },
-    {
-      "title": "Waze will end updates for older Android devices soon - 9to5Google",
-      "link": "http://9to5google.com/2025/08/11/waze-will-end-updates-for-older-android-devices-soon/"
-    },
-    {
-      "title": "Asus releases NUC 15 Performance mini-PCs with Nvidia GeForce RTX 5060 and RTX 5070 GPUs - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Asus-releases-NUC-15-Performance-mini-PCs-with-Nvidia-GeForce-RTX-5060-and-RTX-5070-GPUs.1084716.0.html"
-    },
-    {
-      "title": "Anthropic\u2019s Claude chatbot can now remember your past conversations - The Verge",
-      "link": "https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats"
     }
   ],
   "sports_news": [
+    {
+      "title": "Travis Kelce: \u201cThese past two years haven\u2019t been to my standard\u201d - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-these-past-two-years-havent-been-to-my-standard"
+    },
+    {
+      "title": "Ray Fittipaldo's Steelers chat transcript: 08.12.25 - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/08/12/ray-fittipaldo-steelers-chat-nfl-training-camp-rumors-buzz-news/stories/202508050146"
+    },
+    {
+      "title": "Jack Grealish transfer: Everton complete loan signing of Manchester City and England winger - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cz93j5vxy55o"
+    },
+    {
+      "title": "Packers QB Jordan Love out this week with left thumb injury - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-qb-jordan-love-out-this-week-with-left-thumb-injury"
+    },
+    {
+      "title": "Tennis icon Monica Seles reveals myasthenia gravis diagnosis. What to know about the disease. - CBS News",
+      "link": "https://www.cbsnews.com/news/monica-seles-myasthenia-gravis-diagnosis-tennis/"
+    },
+    {
+      "title": "Alex Bregman\u2019s Houston return came with this Texas tradition - KHOU",
+      "link": "https://www.khou.com/article/sports/alex-bregman-whataburger-order-houston-texas-astros-red-sox/285-56bd4021-3719-4f32-978c-94c7a6da0cf3"
+    },
     {
       "title": "James Cook will practice on Tuesday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-will-practice-on-tuesday"
     },
     {
+      "title": "A UFC fight at the White House? Dana White says it's happening as part of deal with Paramount - AP News",
+      "link": "https://apnews.com/article/ufc-tko-paramount-ultimate-fighting-49b2c5562755178e327079e99ce44e39"
+    },
+    {
+      "title": "Live Eagles training camp practice updates from Day 13 - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-training-camp/155907/live-eagles-training-camp-practice-updates-from-day-13"
+    },
+    {
+      "title": "Why Dan Campbell thinks he may have set team up for failure in 2024 - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-quotes/139005/why-dan-campbell-thinks-he-may-have-set-team-up-for-failure-in-2024"
+    },
+    {
+      "title": "Fantasy football 2025: 6 late-round sleepers to target - NFL.com",
+      "link": "https://www.nfl.com/news/fantasy-football-2025-6-late-round-sleepers-to-target"
+    },
+    {
       "title": "2025-26 Opening Night, Christmas Day and MLK Day schedules unveiled - NBA",
       "link": "https://www.nba.com/news/get-ready-for-2025-26-schedule-release"
+    },
+    {
+      "title": "Giants rookie set for highly competitive battle with Jets coach father at joint practice - New York Post",
+      "link": "https://nypost.com/2025/08/12/sports/giants-jordan-bly-set-for-battle-with-jets-coach-father-dre/"
     },
     {
       "title": "Shohei Ohtani, agent accused of sabotaging $240 million Hawaii real estate deal in shocking lawsuit - New York Post",
@@ -114,60 +158,16 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-we-dont-listen-to-the-noise-we-have-winners"
     },
     {
-      "title": "What We Learned in NFL Preseason Week 1: Shedeur Sanders Among Rookie QBs to Shine - Sports Illustrated",
-      "link": "https://www.si.com/what-we-learned-preseason-week-1-shedeur-sanders-among-rookie-qbs-to-shine"
+      "title": "Lions News: Lions president Rod Wood calls Morice Norris\u2019 recovery a \u2018miracle\u2019 - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-notes/138910/lions-news-lions-president-rod-wood-calls-morice-norris-recovery-a-miracle"
     },
     {
-      "title": "Seles: 'Reset' after myasthenia gravis diagnosis - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/45952984/monica-seles-diagnosed-chronic-neuromuscular-disease"
+      "title": "Olympic gold medalist ski jumpers on Norway team charged in equipment cheating scandal caught on video - CBS News",
+      "link": "https://www.cbsnews.com/news/ski-jumpers-norway-charged-suit-cheating-scandal-caught-video/"
     },
     {
-      "title": "Happy move for Cristiano Ronaldo as Georgina Rodr\u00edguez announces their engagement - AP News",
-      "link": "https://apnews.com/article/cristiano-ronaldo-georgina-rodriguez-engagement-6fa540c9bdfed2083ac9ced10c3ddd7e"
-    },
-    {
-      "title": "NYC hoops legend Sebastian Telfair pleads for last-ditch Donald Trump pardon before prison stint - New York Post",
-      "link": "https://nypost.com/2025/08/12/sports/sebastian-telfair-pleads-for-donald-trump-pardon-before-prison-stint/"
-    },
-    {
-      "title": "U.S. gymnastics dominance will be tested with Simone Biles and others absent - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/olympics/2025/08/11/us-gymnastics-nationals-worlds-hezly-rivera/"
-    },
-    {
-      "title": "Malik Nabers vs. Sauce Gardner will take top billing among Jets-Giants practice matchups - New York Post",
-      "link": "https://nypost.com/2025/08/11/sports/malik-nabers-vs-sauce-gardner-top-intriguing-jets-giants-practice-matchups/"
-    },
-    {
-      "title": "Robbie Brewer dies after medical emergency during race at Bowman Gray Stadium - AP News",
-      "link": "https://apnews.com/article/north-carolina-racing-driver-dies-robbie-brewer-40036e540cb2bd713ca6a65362c3e051"
-    },
-    {
-      "title": "Vikings Training Camp Report: J.J. McCarthy Earning High Praise, Added Pressure - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings-training-camp-report-jj-mccarthy-earning-high-praise-added-pressure"
-    },
-    {
-      "title": "How Does Impressive Debut from Rookie Shedeur Sanders Impact Cleveland Browns Plans? What We've Been Told - 247Sports",
-      "link": "https://247sports.com/nfl/cleveland-browns/longformarticle/how-does-impressive-debut-from-rookie-shedeur-sanders-impact-cleveland-browns-plans-what-weve-been-told-252540460/"
-    },
-    {
-      "title": "Ty Simpson expected to be named Alabama starting quarterback for 2025 season opener - 247Sports",
-      "link": "https://247sports.com/college/alabama/article/ty-simpson-expected-to-be-named-alabama-starting-quarterback-for-2025-season-opener-252538040/"
-    },
-    {
-      "title": "Camp report: Ben Johnson demands details, Bears offense out of sync - Marquee Sports Network",
-      "link": "https://www.marqueesportsnetwork.com/chicago-bears-training-camp-report-ben-johnson-caleb-williams-dj-moore-rome-odunze/"
-    },
-    {
-      "title": "Cincinnati play resumes following power outage - ATP Tour",
-      "link": "https://www.atptour.com/en/news/cincinnati-2025-suspension-monday"
-    },
-    {
-      "title": "Myles Garrett cited for going 100 mph in a 60 mph zone Saturday, 3 years after flipping his Porsche multiple - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/08/myles-garrett-cited-for-going-100-mph-in-a-60-mph-zone-at-2-am-saturday-in-strongsville-after-team-landed-from-panthers-trip.html"
-    },
-    {
-      "title": "Dana White On How UFC Landed Its Blockbuster $7.7 Billion Streaming Deal With Paramount - Forbes",
-      "link": "https://www.forbes.com/sites/mattcraig/2025/08/11/dana-white-on-how-ufc-landed-its-blockbuster-77-billion-streaming-deal-with-paramount/"
+      "title": "Where Does Shedeur Sanders Stand in the Browns\u2019 QB Battle? - The Ringer",
+      "link": "https://www.theringer.com/2025/08/12/nfl/shedeur-sanders-cleveland-browns-quarterback-battle-joe-flacco-kenny-pickett-dillon-gabriel"
     }
   ],
   "weather": {
