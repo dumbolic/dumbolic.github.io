@@ -1,9 +1,9 @@
 {
-  "quote": "Happiness is when what you think, what you say, and what you do are in harmony. \u2013 Mahatma Gandhi",
-  "fact": "The first song played on Armed Forces Radio during operation Desert Shield was \"Rock the Casba\" by the Clash.",
-  "crypto": "BTC: $118,011 | ETH: $4,526.53",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do you do when your bunny gets wet? You get your hare dryer.",
+  "quote": "Where words fail, music speaks. \u2013 Hans Christian Andersen",
+  "fact": "The word \"dexter\" whose meaning refers to the right hand is typed with only the left hand. \u00a0",
+  "crypto": "BTC: $118,182 | ETH: $4,541.15",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you call a troublesome Canadian high schooler? A poutine.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,44 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Stripe apologizes for customer service agents claiming LGBTQ products were banned - The Verge",
+      "link": "https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content"
+    },
+    {
       "title": "Stuff Your Kindle Day is live until Aug. 16 \u2014 download 100s of free historical fiction and contemporary books - Mashable",
       "link": "https://mashable.com/article/aug-12-stuff-your-kindle-day"
+    },
+    {
+      "title": "Apple Watch Ultra 3 could remedy this current \u2018Ultra\u2019 discrepancy - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/13/apple-watch-ultra-3-could-remedy-this-current-ultra-discrepancy/"
     },
     {
       "title": "Two Of The Worst-Reviewed Games On Switch 2 Come From Nintendo - Kotaku",
       "link": "https://kotaku.com/switch-2-worst-games-nintendo-metacritic-drag-x-drive-welcome-tour-2000617517"
     },
     {
-      "title": "Another Pixel 10 leak points to wireless Qi2 charging - The Verge",
-      "link": "https://www.theverge.com/news/758906/pixel-10-qi2-charging-pixelsnap-case-leak"
+      "title": "Google CEO adds a new calendar feature at Stripe co-founder\u2019s request - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/"
     },
     {
-      "title": "Google Gemini will now learn from your chats\u2014unless you tell it not to - Ars Technica",
-      "link": "https://arstechnica.com/ai/2025/08/google-gemini-will-now-learn-from-your-chats-unless-you-tell-it-not-to/"
+      "title": "Another Pixel 10 leak points to wireless Qi2 charging - The Verge",
+      "link": "https://www.theverge.com/news/758906/pixel-10-qi2-charging-pixelsnap-case-leak"
     },
     {
       "title": "Apple Plots Expansion Into AI Robots, Home Security and Smart Displays - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2025-08-13/apple-s-ai-turnaround-plan-robots-lifelike-siri-and-home-security-cameras"
     },
     {
+      "title": "Google Photos rolling out new \u2018Create\u2019 tab on Android, iOS - 9to5Google",
+      "link": "http://9to5google.com/2025/08/13/google-photos-create-tab/"
+    },
+    {
       "title": "PlayStation Plus Extra/Premium Games For August 2025 Include This Day-One Release - GameSpot",
       "link": "https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-august-2025-include-this-day-one-release/2900-6875/"
     },
     {
-      "title": "MacBook Air With M1 Chip is Just $599 at Walmart - MacRumors",
-      "link": "https://www.macrumors.com/2025/08/13/macbook-air-with-m1-chip-599-at-walmart/"
+      "title": "Mini Review: Heretic + Hexen (PS5) - Dark Fantasy Shooters Righteously Resurrected - Push Square",
+      "link": "https://www.pushsquare.com/reviews/ps5/heretic-plus-hexen"
     },
     {
-      "title": "macOS Tahoe adds 15 beautiful new screensavers, available here - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkNSeGNHMXlnMFdLOFJTZzRZZ0VESnZvQWJORElIakhJcWpBbkFTcFZQSU1UZ0JVeUc3ZUNvTzRpRm11SjBHcUEyUDQ0N043dTZIUlJWTTIzbmxXQ1FoZDB0TmNFQUJxTlpVZnpIWVJCd01YeDlrMENsZXNEWHFnb25EYXJWbTdTZkdwelBfcUZhVENsRXVsNg?oc=5"
+      "title": "PUBG On PS4 And Xbox Shutting Down After Nearly 8 Years - Kotaku",
+      "link": "https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500"
+    },
+    {
+      "title": "Madden NFL 26 Review - Not Ready For Primetime - Game Informer",
+      "link": "https://gameinformer.com/review/madden-nfl-26/not-ready-for-primetime"
+    },
+    {
+      "title": "Football Manager: FM26 first look drops after months of silence - BBC",
+      "link": "https://www.bbc.com/news/articles/cn842d87x28o"
     },
     {
       "title": "Pebble\u2019s smartwatch is back: Pebble Time 2 specs revealed - TechCrunch",
       "link": "https://techcrunch.com/2025/08/13/pebbles-smartwatch-is-back-pebble-time-2-specs-revealed/"
     },
     {
-      "title": "New Apple products are coming soon: iPhone 17 and more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/13/new-apple-products-launching-next-month-heres-whats-coming/"
+      "title": "Google\u2019s Gemini AI will get more personalized by remembering details automatically - The Verge",
+      "link": "https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update"
     },
     {
       "title": "This website is for humans - Hacker News",
@@ -62,104 +82,88 @@
     {
       "title": "Here Are All the Rumors About Apple's New $599 MacBook - MacRumors",
       "link": "https://www.macrumors.com/2025/08/13/lower-cost-macbook-rumor/"
-    },
-    {
-      "title": "Google Photos details how to use \u2018Remix\u2019 feature that can turn pictures into cartoons - 9to5Google",
-      "link": "http://9to5google.com/2025/08/13/google-photos-remix-feature-how-to-use/"
-    },
-    {
-      "title": "45+ PS5, PS4 Games to Buy in PS Store's Gamescom Promotion Sale - Push Square",
-      "link": "https://www.pushsquare.com/guides/45plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-promotion-sale"
-    },
-    {
-      "title": "Tiny Bookshop is making me want to run away to the seaside, and judging by its popularity on Steam and Switch 2, everybody else is coming too - Eurogamer",
-      "link": "https://www.eurogamer.net/tiny-bookshop-is-making-me-want-to-run-away-to-the-seaside-and-judging-by-its-popularity-everybody-else-is-coming-too"
-    },
-    {
-      "title": "The AI Was Fed Sloppy Code. It Turned Into Something Evil. - Quanta Magazine",
-      "link": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/"
-    },
-    {
-      "title": "Samsung now rolling out expanded One UI 8 beta with Android 16 to these Galaxy devices - 9to5Google",
-      "link": "http://9to5google.com/2025/08/13/samsung-one-ui-8-beta-expansion-galaxy-s24-fold-6/"
     }
   ],
   "sports_news": [
+    {
+      "title": "PSG 2-2 Spurs (Aug 13, 2025) Game Analysis - ESPN",
+      "link": "https://www.espn.com/soccer/report/_/gameId/735899"
+    },
+    {
+      "title": "Mets To Promote Nolan McLean - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/08/mets-to-promote-nolan-mclean.html"
+    },
+    {
+      "title": "Micah Parsons to reporters: \"My mouth is closed\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-to-reporters-my-mouth-is-closed"
+    },
     {
       "title": "Live: Pohlad family will not sell Minnesota Twins - Star Tribune",
       "link": "https://www.startribune.com/live-pohlad-family-will-not-sell-minnesota-twins/601454306"
     },
     {
-      "title": "TWENTYMAN: Lions-Dolphins joint practice Day 1 observations - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/detroit-lions-miami-dolphins-joint-practice-day-1-observations-goff-stbrown-williams"
+      "title": "Weather could impact Mariners\u2019 next 2 games in Baltimore - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/weather-could-impact-seattle-mariners-games-in-baltimore/1819141"
+    },
+    {
+      "title": "Lions\u2019 Grant Stuard questions Dolphins\u2019 practice habits, Mike McDaniel calls it \u201cnoise\u201d - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-grant-stuard-questions-dolphins-practice-habits-mike-mcdaniel-calls-it-noise"
+    },
+    {
+      "title": "Chris Russo furious over Pete Alonso Mets record hoopla \u2014 and Gary Cohen\u2019s call - New York Post",
+      "link": "https://nypost.com/2025/08/13/sports/chris-russo-fumes-over-pete-alonso-mets-record-hoopla-and-gary-cohens-call/"
+    },
+    {
+      "title": "Vikings Training Camp Notes: Joint practices with Patriots highlighted by quarterback play - A to Z Sports",
+      "link": "https://atozsports.com/nfl/minnesota-vikings-news/vikings-patriots-joint-practices-jj-mccarthy-stefon-diggs-drake-maye/"
+    },
+    {
+      "title": "Brian Schottenheimer reveals he was diagnosed with thyroid cancer at 28 - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/brian-schottenheimer-reveals-he-was-diagnosed-with-thyroid-cancer-at-28"
     },
     {
       "title": "Sha\u2019Carri Richardson arrest video shows Olympian calling boyfriend a \u2018coward\u2019 after airport altercation - New York Post",
       "link": "https://nypost.com/2025/08/13/sports/shacarri-richardson-arrest-video-shows-her-calling-boyfriend-a-coward/"
     },
     {
+      "title": "Colin Cowherd takes strong stance on John Mateer Venmo scandal - On3",
+      "link": "https://www.on3.com/college/oklahoma-sooners/news/colin-cowherd-believes-john-mateers-defense-of-venmo-scandal-i-even-get-it-and-im-a-dad/"
+    },
+    {
       "title": "Tom Dundon to Buy Trail Blazers From Paul Allen\u2019s Estate for $4.25B - Sportico.com",
       "link": "https://www.sportico.com/business/team-sales/2025/dundon-portland-trail-blazers-sale-paul-allen-1234866910/"
     },
     {
-      "title": "Takeaways\u2019 from Jets\u2019 joint practice with Giants as tensions rise - New York Post",
-      "link": "https://nypost.com/2025/08/13/sports/takeaways-from-jets-joint-practice-with-giants-as-tensions-rise/"
+      "title": "Giants-Jets joint practice, Day 2: What we learned - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-preseason/132207/giants-jets-joint-practice-day-2-what-we-learned"
     },
     {
-      "title": "Michael Penix Jr. shows a different side of himself as intensity flairs during joint practice - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/michael-penix-jr-shows-a-different-side-of-himself-as-intensity-flairs-during-joint-practice"
+      "title": "Michael Penix involved in fight at Falcons-Titans joint practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-involved-in-fight-at-falcons-titans-joint-practice"
     },
     {
-      "title": "Michael Porter Jr. issues scary sports gambling warning as brother faces legal issues - New York Post",
-      "link": "https://nypost.com/2025/08/13/betting/michael-porter-jr-issues-scary-sports-gambling-warning-as-brother-faces-legal-issues/"
+      "title": "Eagles 2025 training camp practice notes, Day 14: Sloppy against the Browns - PhillyVoice",
+      "link": "https://www.phillyvoice.com/eagles-2025-training-camp-practice-notes-day-14-sloppy-against-browns/"
+    },
+    {
+      "title": "Caleb Williams, Bears starters will play this weekend vs. Bills - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-bears-starters-will-play-this-weekend-vs-bills"
+    },
+    {
+      "title": "Projecting Alabama\u2019s offensive depth chart after two weeks of fall camp - A to Z Sports",
+      "link": "https://atozsports.com/college-football/alabama-crimson-tide-news/projecting-alabamaf-football-offensive-depth-chart-after-two-weeks-fall-camp-ty-simpson-jam-miller-ryan-williams-kadyn-proctor/"
     },
     {
       "title": "Nebraska punter Archie Wilson reduced to tears during press conference - New York Post",
       "link": "https://nypost.com/2025/08/13/sports/nebraska-punter-archie-wilson-reduced-to-tears-during-press-conference/"
     },
     {
+      "title": "'An incredible honor': Colorado native is first player in Denver Summit FC history - KUSA.com",
+      "link": "https://www.9news.com/article/sports/soccer/denver-summit-fc-signs-ally-watt-first-player/73-93a924f4-5556-4883-98f9-f700c7eae296"
+    },
+    {
       "title": "Shedeur Sanders suffers oblique injury during joint practice with Eagles - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/shedeur-sanders-suffers-oblique-injury-during-joint-practice-with-eagles"
-    },
-    {
-      "title": "Aaron Donald secured five-year restraining order against stalker - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-secured-five-year-restraining-order-against-stalker"
-    },
-    {
-      "title": "Tampa Bay Lightning home has a new name, Benchmark International Arena - Tampa Bay Times",
-      "link": "https://www.tampabay.com/sports/2025/08/13/tampa-bay-lightning-arena-naming-rights-deal-benchmark-international/"
-    },
-    {
-      "title": "Hauler Talk: NASCAR has no plans to restrict Victory Lane celebrations - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/08/13/hauler-talk-nascar-has-no-plans-to-restrict-victory-lane-celebrations/"
-    },
-    {
-      "title": "Venus Williams gets singles wild card for US Open - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/45965867/venus-williams-45-gets-singles-wild-card-us-open"
-    },
-    {
-      "title": "Shedeur Sanders will start vs. the Eagles Saturday if Dillon Gabriel\u2019s hamstring prevents him from starting, - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/08/shedeur-sanders-will-start-vs-the-eagles-saturday-if-dillon-gabriels-hamstring-prevents-him-from-starting-kevin-stefanski-says.html"
-    },
-    {
-      "title": "Kevin Stefanski calls Myles Garrett\u2019s latest speeding citation \u201cextremely disappointing\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-calls-myles-garretts-latest-speeding-citation-extremely-disappointing"
-    },
-    {
-      "title": "NASCAR Cup Series qualifying order for Richmond Raceway - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/08/13/nascar-cup-series-qualifying-order-for-richmond-raceway/"
-    },
-    {
-      "title": "Lamar Jackson ends trademark battle with Troy Aikman - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-ends-trademark-battle-with-troy-aikman"
-    },
-    {
-      "title": "Cowboys owner Jerry Jones said he survived a stage 4 cancer battle that lasted more than a decade - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/cowboys-owner-jerry-jones-said-he-survived-a-stage-4-cancer-battle-that-lasted-more-than-a-decade-133933237.html"
-    },
-    {
-      "title": "KU Athletics Receives Historic $300 Million Gift From Longtime Donor and Alumnus David Booth - University of Kansas - kuathletics.com",
-      "link": "https://kuathletics.com/news/2025/8/13/football-ku-athletics-receives-historic-300-million-gift-from-longtime-donor-and-alumnus-david-booth"
     }
   ],
   "weather": {
