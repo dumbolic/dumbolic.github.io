@@ -1,9 +1,9 @@
 {
-  "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.  \u2013 Lao Tzu",
-  "fact": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
-  "crypto": "BTC: $112,342 | ETH: $4,245.11",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I used to work for a soft drink can crusher. It was soda pressing.",
+  "quote": "Don't listen to the person who has the answers; listen to the person who has the questions. \u2013 Albert Einstein",
+  "fact": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+  "crypto": "BTC: $112,620 | ETH: $4,264.61",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Pixel Watch 4 hides Google's biggest upgrade behind classic design & same price [Hands-on] - 9to5Google",
-      "link": "http://9to5google.com/2025/08/20/pixel-watch-4-announcement-hands-on/"
+      "title": "Having recovery and/or SSD problems after recent Windows updates? You\u2019re not alone. - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/08/having-recovery-and-or-ssd-problems-after-recent-windows-updates-youre-not-alone/"
     },
     {
-      "title": "Google\u2019s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable battery - The Verge",
-      "link": "https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds"
+      "title": "Pixel 10, 10 Pro, and 10 Pro XL remove support for physical SIM cards in the US - 9to5Google",
+      "link": "http://9to5google.com/2025/08/20/pixel-10-10-pro-and-10-pro-xl-remove-support-for-physical-sim-cards-in-the-us/"
+    },
+    {
+      "title": "Google debuts Pixel Watch 4 with domed display, emergency Satellite Communication - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/20/google-debuts-pixel-watch-4-with-domed-display-emergency-satellite-communication/"
+    },
+    {
+      "title": "Google\u2019s Pixel Buds Pro 2 are getting new AI-powered features in September - The Verge",
+      "link": "https://www.theverge.com/news/762048/googles-pixel-buds-pro-2-new-ai-powered-features"
     },
     {
       "title": "Sony is raising PS5 prices, starting tomorrow - The Verge",
       "link": "https://www.theverge.com/news/762410/sony-ps5-price-hike-raise-digital-pro"
     },
     {
+      "title": "ROG Xbox Ally: Release Date, Specs, Price and How It Compares to Steam Deck - CNET",
+      "link": "https://www.cnet.com/tech/gaming/rog-xbox-ally-release-date-specs-price-compares-steam-deck/"
+    },
+    {
       "title": "Report: Amazon prepares to embrace Android on Fire Tablet as its Appstore dies - 9to5Google",
       "link": "http://9to5google.com/2025/08/20/amazon-fire-tablet-android-report/"
-    },
-    {
-      "title": "Microsoft and Asus\u2019 new Xbox Ally handhelds launch on October 16th - The Verge",
-      "link": "https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility"
-    },
-    {
-      "title": "Bloodlines 2 Locks Core Content Behind Costly Day-One DLC - Kotaku",
-      "link": "https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832"
     },
     {
       "title": "Column | The mastermind of Smash Bros. is set to make \u2018Kirby Air Riders\u2019 a hit - The Washington Post",
@@ -56,20 +60,12 @@
       "link": "https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5506334/brain-computer-implant-speak-inner-speech-mind"
     },
     {
+      "title": "Vampire: The Masquerade - Bloodlines 2 sticks two bloodsucker clans, including the sexy one, behind paid day-one DLC - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2-sticks-two-bloodsucker-clans-including-the-sexy-one-behind-paid-day-one-dlc"
+    },
+    {
       "title": "Six Xbox Game Pass Titles Get New Reveals At Gamescom Opening Night Live 2025 - Pure Xbox",
       "link": "https://www.purexbox.com/news/2025/08/six-xbox-game-pass-titles-get-new-reveals-at-gamescom-opening-night-live-2025"
-    },
-    {
-      "title": "Get 50% Off Beats Headphones -- Include Kim Kardashian Collab! - TMZ",
-      "link": "https://www.tmz.com/2025/08/20/kim-kardashian-beats-headphones-amazon-sale/"
-    },
-    {
-      "title": "Denshattack Was The Coolest Game At Opening Night Live 2025 - Kotaku",
-      "link": "https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578"
-    },
-    {
-      "title": "Black Myth: Zhong Kui Is In Development, And It's Set To Launch Day One On Xbox - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2025/08/black-myth-zhong-kui-is-in-development-and-its-set-to-launch-day-one-on-xbox"
     },
     {
       "title": "WoW: Midnight's gameplay has been shown off at Gamescom 2025 - Windows Central",
@@ -84,11 +80,31 @@
       "link": "https://www.ign.com/articles/call-of-duty-black-ops-7-devs-paying-attention-to-community-feedback-on-goofy-skins"
     },
     {
-      "title": "Tales Of Xillia Remastered Coming This October, Confirmed 30fps For Switch - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/tales-of-xillia-remastered-coming-this-october-confirmed-30fps-for-switch"
+      "title": "Excel + AI: Microsoft brings new \u2018COPILOT\u2019 function directly into spreadsheet cells - GeekWire",
+      "link": "https://www.geekwire.com/2025/excel-formula-meets-ai-prompt-microsoft-brings-new-copilot-function-to-spreadsheet-cells/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Review | A new book celebrates the rivalry of Carlos Alcaraz and Jannik Sinner - The Washington Post",
+      "link": "https://www.washingtonpost.com/books/2025/08/20/changeover-giri-nathan-alcaraz-sinner-review/"
+    },
+    {
+      "title": "Tigers 7-2 Astros (Aug 20, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/mlb/recap?gameId\\\\u003d401696804"
+    },
+    {
+      "title": "Eberechi Eze: Arsenal make move for Crystal Palace star and Tottenham target - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/czerxg66w8lo"
+    },
+    {
+      "title": "Kaleb McGary carted off field during Falcons practice - Atlanta Falcons",
+      "link": "https://www.atlantafalcons.com/news/kaleb-mcgary-carted-off-field-during-falcons-practice"
+    },
+    {
+      "title": "Terry McLaurin won\u2019t practice Wednesday, no \u201cdate circled\u201d for return to field - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-wont-practice-wednesday-no-date-circled-for-return-to-field"
+    },
     {
       "title": "The Eagles are facing some challenges at the end of training camp - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-training-camp/156249/the-eagles-are-facing-some-challenges-at-the-end-of-training-camp"
@@ -98,8 +114,8 @@
       "link": "https://www.syracuse.com/buffalo-bills/2025/08/bills-53-man-roster-projection-buffalo-makes-2-trades-and-has-one-surprise-at-wr.html"
     },
     {
-      "title": "Kaleb McGary carted off at Falcons practice, will have an MRI - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kaleb-mcgary-carted-off-at-falcons-practice-will-have-an-mri"
+      "title": "Coco Gauff shockingly fires coach days before 2025 US Open - New York Post",
+      "link": "https://nypost.com/2025/08/20/sports/coco-gauff-shockingly-fires-coaches-right-before-2025-us-open/"
     },
     {
       "title": "Patrick Kinahan: Truth is, Bachmeier was always going to win the BYU quarterback competition - KSL.com",
@@ -110,8 +126,16 @@
       "link": "https://www.chicagobears.com/news/roster-moves-chicago-bears-sign-qb-tyson-bagent-to-two-year-extension"
     },
     {
+      "title": "Tiger Woods to lead group that could reshape the PGA Tour\u2019s competitive model - AP News",
+      "link": "https://apnews.com/article/pga-tour-tiger-rolapp-liv-a21d848752e8ea7271e4db7972229d86"
+    },
+    {
       "title": "Jake Paul vs. Gervonta 'Tank' Davis reportedly set for big-money Netflix exhibition match - Yahoo Sports",
       "link": "https://sports.yahoo.com/boxing/article/jake-paul-vs-gervonta-tank-davis-reportedly-set-for-big-money-netflix-exhibition-match-163609413.html"
+    },
+    {
+      "title": "NASCAR Cup Series qualifying order for Daytona summer race - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/08/20/nascar-cup-series-qualifying-order-for-daytona-summer-race/"
     },
     {
       "title": "ESPN\u2019s streaming launch brings a TikTok-like feed and AI commentary - The Verge",
@@ -140,34 +164,6 @@
     {
       "title": "Mariners vs Phillies Prediction, Odds: MLB Picks for Wednesday, Aug. 20 - Action Network",
       "link": "https://www.actionnetwork.com/mlb/seattle-mariners-vs-philadelphia-phillies-prediction-pick-odds-wednesday-august-20-qs"
-    },
-    {
-      "title": "Spallina, Penczek Lead 1-2 Clemson Duo in Nike Lacrosse/ILWomen Power 100 Freshman Rankings - Inside Lacrosse",
-      "link": "https://www.insidelacrosse.com/article/spallina-penczek-lead-1-2-clemson-duo-in-nike-lacrosse-ilwomen-power-100-freshman-rankings/65782"
-    },
-    {
-      "title": "Are The Bucs \"Culpable\" In The Jalen McMillan Injury? - JoeBucsFan.com",
-      "link": "https://www.joebucsfan.com/2025/08/are-the-bucs-culpable-in-the-jalen-mcmillan-injury/"
-    },
-    {
-      "title": "The decision that haunted Red Sox in brutal loss as playoff race heats up - New York Post",
-      "link": "https://nypost.com/2025/08/20/sports/the-decision-that-haunted-red-sox-in-brutal-loss-to-orioles/"
-    },
-    {
-      "title": "Khamzat Chimaev hands belt to Ramzan Kadyrov in first trip home to Chechnya as UFC champion - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/400099/khamzat-chimaev-hands-belt-to-ramzan-kadyrov-in-first-trip-home-to-chechnya-as-ufc-champion"
-    },
-    {
-      "title": "The Opener: Messick, Phillies, Royals - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/the-opener-messick-phillies-royals.html"
-    },
-    {
-      "title": "Julio C\u00e9sar Ch\u00e1vez Jr. deported to Mexico for alleged cartel ties and drug trafficking - AP News",
-      "link": "https://apnews.com/article/julio-cesar-chavez-jr-boxing-mexico-deported-7dc1af5a7954f6e1c063d96fc1137734"
-    },
-    {
-      "title": "Report: Vikings exploring trade options at wide receiver - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-exploring-trade-options-at-wide-receiver"
     }
   ],
   "weather": {
