@@ -1,9 +1,9 @@
 {
-  "quote": "There is a big difference between being centered and being self-centered. \u2013 Lolly Daskal",
-  "fact": "The highest per capita Jell-O comsumption in the US is Des Moines.",
-  "crypto": "BTC: $112,708 | ETH: $4,240.6",
+  "quote": "You can easily judge the character of a man by how he treats those who can do nothing for him. \u2013 Johann Wolfgang von Goethe",
+  "fact": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
+  "crypto": "BTC: $113,177 | ETH: $4,284.93",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Archaeology really is a career in ruins.",
+  "joke": "Have you heard of the band 1023MB? They haven't got a gig yet.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Today is your last chance to grab a PS5 before Sony\u2019s price hikes go into effect - The Verge",
+      "link": "https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale"
+    },
     {
       "title": "Google launches its own \u2018MagSafe\u2019 with PixelSnap - TechCrunch",
       "link": "https://techcrunch.com/2025/08/20/google-launches-its-own-magsafe-with-pixelsnap/"
@@ -20,12 +24,8 @@
       "link": "https://arstechnica.com/gadgets/2025/08/having-recovery-and-or-ssd-problems-after-recent-windows-updates-youre-not-alone/"
     },
     {
-      "title": "Google\u2019s Pixel Buds Pro 2 are getting new AI-powered features in September - The Verge",
-      "link": "https://www.theverge.com/news/762048/googles-pixel-buds-pro-2-new-ai-powered-features"
-    },
-    {
-      "title": "Finally, Notion now works without an internet connection - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/20/finally-notion-now-works-without-an-internet-connection/"
+      "title": "Everything That Happened In Gamescom 2025 Opening Night - DualShockers",
+      "link": "https://www.dualshockers.com/everything-that-happened-gamescom-2025-opening-night-summary/"
     },
     {
       "title": "Call of Duty: Black Ops 7 Devs 'Paying Attention' to Community Feedback on Goofy Skins - IGN",
@@ -34,24 +34,44 @@
   ],
   "sports_news": [
     {
+      "title": "Urban Meyer thinks the NFL should suspend Jim Harbaugh - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/urban-meyer-thinks-the-nfl-should-suspend-jim-harbaugh"
+    },
+    {
+      "title": "Vikings trade defensive tackle Harrison Phillips to the Jets as roster cutdown day nears - Star Tribune",
+      "link": "https://www.startribune.com/minnesota-vikings-trade-harrison-phillips-new-york-jets-nfl-training-camp/601458312"
+    },
+    {
+      "title": "49ers receiver who torched Seahawks last season suspended for 3 games - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-news/148538/49ers-receiver-demarcus-robinson-torched-seahawks-suspended-nfl-news"
+    },
+    {
+      "title": "Report: A bullet was fired into Andy Reid\u2019s office in May 2024 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-a-bullet-was-fired-into-andy-reids-office-in-may-2024"
+    },
+    {
       "title": "Chiefs send WR Skyy Moore to the 49ers for a swap of future picks - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-send-wr-skyy-moore-to-the-49ers-for-a-swap-of-future-picks"
+    },
+    {
+      "title": "Why Lionel Messi Isn\u2019t Playing for Inter Miami vs. Tigres - Sports Illustrated",
+      "link": "https://www.si.com/soccer/why-messi-isnt-playing-for-inter-miami-vs-tigres"
     },
     {
       "title": "F\u00e9lix Bautista Undergoes Shoulder Surgery, Expected To Miss 12 Months - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/08/felix-bautista-undergoes-shoulder-surgery-expected-to-miss-12-months.html"
     },
     {
-      "title": "Jets acquire DT Harrison Phillips in a trade with the Vikings - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-acquire-dt-harrison-phillips-in-a-trade-with-the-vikings"
+      "title": "Brian Schottenheimer confident Micah Parsons will play Week 1 vs. Eagles - Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/brian-schottenheimer-confident-micah-parsons-will-play-week-1-vs-eagles"
     },
     {
       "title": "Broncos agree to terms on trade with Saints to acquire fourth-, seventh-round picks in exchange for WR Devaughn Vele - Denver Broncos",
       "link": "https://www.denverbroncos.com/news/broncos-agree-to-terms-on-trade-with-saints-to-acquire-fourth-seventh-round-picks-in-exchange-for-wr-devaughn-vele"
     },
     {
-      "title": "Kyle Shanahan reveals suspension for 49ers WR - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/149263/kyle-shanahan-reveals-suspension-for-49ers-wr"
+      "title": "UFC cuts ex-'TUF' winner Battle after weigh-in fails - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/46033645/bryan-battle-released-ufc-back-back-weight-misses"
     },
     {
       "title": "Jake Paul vs. Gervonta 'Tank' Davis shows where boxing ends and sports entertainment begins - Yahoo Sports",
@@ -78,28 +98,12 @@
       "link": "https://www.atlantafalcons.com/news/training-camp-report-kaleb-mcgary-jalon-walker-injury-updates"
     },
     {
-      "title": "Extra Extra: The Yankees are aware their new draftee drew a swastika on a Jewish student's dorm door - Gothamist",
-      "link": "https://gothamist.com/news/extra-extra-the-yankees-are-aware-their-new-draftee-drew-a-swastika-on-a-jewish-students-dorm-door"
-    },
-    {
-      "title": "Urban Meyer reveals what he thinks a fair punishment for Michigan would have been - On3",
-      "link": "https://www.on3.com/news/urban-meyer-reveals-what-he-thinks-a-fair-punishment-for-michigan-would-have-been/"
-    },
-    {
       "title": "Scottie Scheffler: \u2018No more sandbagging for me\u2019 at East Lake - NBC Sports",
       "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-no-more-sandbagging-for-me-at-east-lake"
     },
     {
-      "title": "Eagles 2025 training camp practice notes, Day 18: Last day of camp! - PhillyVoice",
-      "link": "https://www.phillyvoice.com/eagles-2025-training-camp-practice-notes-day-18-last-day-camp/"
-    },
-    {
-      "title": "USA Today releases updated Big Ten Football rankings ahead 2025 college football season - On3",
-      "link": "https://www.on3.com/news/usa-today-releases-updated-big-ten-football-rankings-ahead-2025-college-football-season/"
-    },
-    {
-      "title": "Khamzat flies to Chechnya, surrenders UFC title to revulsive Ramzan Kadyrov \u2014 \u2018Belt is important for my country\u2019 - Yahoo Sports",
-      "link": "https://www.mmamania.com/ufc-events-ppv/384018/khamzat-flies-chechnya-surrenders-ufc-title-revulsive-ramzan-kadyrov-belt-important-for-country"
+      "title": "Jalen Hurts recaps 2025 Eagles training camp - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/156281/jalen-hurts-recaps-2025-eagles-training-camp-nfl-news"
     },
     {
       "title": "Observations From Wednesday's Titans Practice, When CB L'Jarius Sneed Returned - Tennessee Titans",
@@ -108,10 +112,6 @@
     {
       "title": "5 things to watch in Steelers' preseason finale vs. Panthers - TribLIVE.com",
       "link": "https://triblive.com/sports/5-things-towatch-in-steelers-preseason-finale-vs-panthers/"
-    },
-    {
-      "title": "Terry McLaurin won\u2019t practice Wednesday, no \u201cdate circled\u201d for return to field - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-wont-practice-wednesday-no-date-circled-for-return-to-field"
     }
   ],
   "weather": {
