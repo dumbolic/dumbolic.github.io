@@ -1,9 +1,9 @@
 {
-  "quote": "You'll get more from being a peacemaker than a warrior. \u2013 Arnold Schwarzenegger",
-  "fact": "The name of the girl on the statue of liberty is Mother of Exiles.",
-  "crypto": "BTC: $115,067 | ETH: $4,749.56",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I have kleptomania, but when it gets bad, I take something for it.",
+  "quote": "Discipline is the mark of intelligent living. \u2013 Sathya Sai Baba",
+  "fact": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+  "crypto": "BTC: $115,078 | ETH: $4,757.03",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "You know that cemetery up the road? People are dying to get in there.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google details easy Pixel Watch 4 repair process, teases \u2018more\u2019 third-party chargers - 9to5Google",
+      "link": "http://9to5google.com/2025/08/22/google-details-easy-pixel-watch-4-repair-process-teases-more-third-party-chargers/"
+    },
+    {
       "title": "Silksong Release Date Has Already Prompted Multiple Game Delays - GameSpot",
       "link": "https://www.gamespot.com/articles/silksong-release-date-has-already-prompted-two-game-delays/1100-6534203/"
     },
     {
-      "title": "Accelerating life sciences research - OpenAI",
-      "link": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/"
+      "title": "Google makes it easier to edit Drive videos with a new Vids shortcut button - TechCrunch",
+      "link": "https://techcrunch.com/2025/08/22/google-makes-it-easier-to-edit-drive-videos-with-a-new-vids-shortcut-button/"
     },
     {
       "title": "At This Point, It\u2019s Impossible to Know What the Trump Phone Looks Like - WIRED",
       "link": "https://www.wired.com/story/trump-phone-t1-samsung-spigen/"
     },
     {
+      "title": "Apple Races to Patch Zero-Click Exploit that Put Crypto Users at Risk - TipRanks",
+      "link": "https://www.tipranks.com/news/apple-races-to-patch-zero-click-exploit-that-put-crypto-users-at-risk"
+    },
+    {
+      "title": "Elon Musk to Take on Microsoft With 'Macrohard' - PCMag",
+      "link": "https://www.pcmag.com/news/elon-musk-to-take-on-microsoft-with-macrohard"
+    },
+    {
+      "title": "Apple TV+ raises subscription prices worldwide, including in UK - BBC",
+      "link": "https://www.bbc.com/news/articles/c1le9l6pee5o"
+    },
+    {
+      "title": "Apple planning simplified version of the Camera Control for iPhone 18 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/22/apple-planning-simplified-version-of-the-camera-control-for-iphone-18/"
+    },
+    {
+      "title": "Call Of Duty: Black Ops 7's Campaign Does Not Let You Pick A Difficulty Level, And Here's Why - GameSpot",
+      "link": "https://www.gamespot.com/articles/call-of-duty-black-ops-7s-campaign-does-not-let-you-pick-a-difficulty-level-and-heres-why/1100-6534200/"
+    },
+    {
+      "title": "Samsung Galaxy Tab S11 and Galaxy Tab S11 Ultra's US pricing surfaces - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/samsung_galaxy_tab_s11_tab_s11_ultra_wifi_model_usa_price_surfaces-news-69161.php"
+    },
+    {
       "title": "Belkin\u2019s first 25W Qi2 chargers power up multiple devices - The Verge",
       "link": "https://www.theverge.com/news/763659/belkin-qi2-2-25w-wireless-charging-ultracharge-pro"
-    },
-    {
-      "title": "Google made it easier to edit your Drive videos - The Verge",
-      "link": "https://www.theverge.com/news/764221/google-drive-video-editing-vids-shortcut"
-    },
-    {
-      "title": "Google\u2019s AI-stuffed Pixel 10 event - The Verge",
-      "link": "https://www.theverge.com/the-vergecast/764217/vergecast-google-pixel-10-event"
     },
     {
       "title": "Google\u2019s first Gemini smart home speaker detailed in leak - The Verge",
@@ -44,8 +64,8 @@
       "link": "https://www.ign.com/articles/metal-gear-solid-delta-snake-eater-includes-remake-of-fan-favorite-secret-mode-from-original-ps2-version-and-bayonetta-developer-platinumgames-worked-on-it"
     },
     {
-      "title": "Samsung\u2019s \u201cMicro RGB\u201d TV proves the value of RGB backlights for premium displays - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/08/samsungs-micro-rgb-tv-proves-the-value-of-rgb-backlights-for-premium-displays/"
+      "title": "Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET",
+      "link": "https://www.cnet.com/tech/mobile/what-you-missed-at-made-by-google-2025-pixel-10-watch-4-10-pro-fold-and-everything-announced/"
     },
     {
       "title": "Round Up: The First Impressions Of Kirby Air Riders Are In - Nintendo Life",
@@ -53,53 +73,77 @@
     },
     {
       "title": "New Limited-Time Pok\u00e9mon Scarlet And Violet Distribution Now Available - Nintendo Life",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmlzR3hlTDA0c3I2S3luM0N4OUp4c1RicG1kRHFfRVJ4bXNkaUQ0QmlUZmVLTnllZzhjVFdITTBVTkR3QXVFMFVIbWI2OWZPbjNfbDRlWDlncmpZSVF4ckFWUUxER0F3YnpNUFdHajdhOWhWQ1FOYVlfblVFUy1YeTV4QmdNN3RVYXc0a0RmaXc4d1BocjJXZ1ZqdXN3ZnNCYlNMbGU4WEZEV1pqeUJJVnBR?oc=5"
-    },
-    {
-      "title": "Overwatch 2 locks in Persona 5 collab as Joker appears in new trailer - Dexerto",
-      "link": "https://www.dexerto.com/overwatch/overwatch-2-locks-in-persona-5-collab-as-joker-appears-in-new-trailer-3241028/"
+      "link": "https://www.nintendolife.com/news/2025/08/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available"
     },
     {
       "title": "The New Pixel Camera's '100x Zoom' Is Basically Fancy Generative AI - Lifehacker",
       "link": "https://lifehacker.com/tech/googles-new-100x-zoom-made-by-google-2025"
     },
     {
+      "title": "Accessing Google Password Manager on Android just got a whole lot easier - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VWjQ4bzdNZUEwMXVabHU2OVJUWWgyVnZ0QUpaMDM2WG5ycFloSWRNU0hFTFJOZkY0SXRVS0pCN2w3OTM3YmpkbnJySnpzZkp6WnhydGJDS01YRDY5MHZkcjdwamEyR3pGeVBVUEdEdU05TUNtcE00N2hsdGhKQQ?oc=5"
+    },
+    {
       "title": "Bungie Boss Leaves Halo And Destiny Studio After 23 Years - Kotaku",
       "link": "https://kotaku.com/bungie-pete-parsons-halo-destiny-2-sony-2000619244"
     },
     {
-      "title": "New Apple TV 4K release date: Here\u2019s when to expect the next model - 9to5Mac",
-      "link": "https://9to5mac.com/2025/08/21/new-apple-tv-4k-release-date-heres-when-to-expect-the-next-model/"
-    },
-    {
-      "title": "Apple hikes the cost of a monthly Apple TV+ subscription - CBS News",
-      "link": "https://www.cbsnews.com/news/apple-tv-plus-price-increase-subscription/"
-    },
-    {
-      "title": "\u2018Google Password Manager\u2019 shortcut is now available in the Play Store - 9to5Google",
-      "link": "http://9to5google.com/2025/08/21/google-password-manager-shortcut/"
-    },
-    {
-      "title": "Microsoft AI chief says it\u2019s \u2018dangerous\u2019 to study AI consciousness - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/"
-    },
-    {
-      "title": "Battlefield 6 Devs Will Nerf Jumping, Sliding, And The Shotgun - Kotaku",
-      "link": "https://kotaku.com/battlefield-6-ttk-shotgun-jumping-sliding-nerf-changes-open-beta-ea-patch-notes-2000619184"
-    },
-    {
-      "title": "GameStop Offering $50 Trade-In Bonus to Help Offset New PS5 Price Increases, But Only for a Few Days - IGN",
-      "link": "https://www.ign.com/articles/gamestop-offering-50-trade-in-bonus-to-help-offset-new-ps5-price-increases-but-only-for-a-few-days"
+      "title": "Battlefield 6 devs confirm movement is getting heavy nerfs compared to beta - Dexerto",
+      "link": "https://www.dexerto.com/battlefield/battlefield-6-devs-confirm-movement-is-getting-heavy-nerfs-compared-to-beta-3241441/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Steelers make initial round of roster moves - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-make-initial-round-of-roster-moves"
+    },
+    {
+      "title": "Giants release 8 players ahead of 53-man roster deadline - Giants.com",
+      "link": "https://www.giants.com/news/giants-release-8-players-ahead-of-53-man-roster-deadline"
+    },
+    {
+      "title": "Panthers extend veteran right tackle Taylor Moton - Panthers.com",
+      "link": "https://www.panthers.com/news/panthers-extend-veteran-right-tackle-taylor-moton"
+    },
+    {
+      "title": "Mike Vrabel announces 14 cuts as Patriots begin to trim roster - 98.5 The Sports Hub",
+      "link": "https://985thesportshub.com/2025/08/22/mike-vrabel-announces-14-patriots-roster-cuts/"
+    },
     {
       "title": "2025 Tour Championship leaderboard live updates: Golf scores, Round 2 coverage of FedEx Cup Playoffs finale - CBS Sports",
       "link": "https://www.cbssports.com/golf/news/tour-championship-leaderboard-live-updates-2025-fedex-cup-playoffs-friday/live/"
     },
     {
+      "title": "17 Eagles players to watch in the Jets preseason game - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/156368/17-eagles-players-to-watch-in-the-jets-preseason-game"
+    },
+    {
+      "title": "Five Observations on Nebraska Football's First Depth Chart of the Season - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/five-observations-on-nebraska-football-s-first-depth-chart-of-the-season-01k36ksfzb4v"
+    },
+    {
+      "title": "Jaxson Dart sends late-night message after worrying Giants moment - New York Post",
+      "link": "https://nypost.com/2025/08/22/sports/jaxson-dart-sends-late-night-message-after-worrying-giants-moment/"
+    },
+    {
+      "title": "What to watch for in the Detroit Lions\u2019 final preseason game - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/nfl-open-threads-detroit-lions-community-questions-engagement-message-board-conversations/139735/what-to-watch-for-in-the-detroit-lions-final-preseason-game"
+    },
+    {
+      "title": "Tommy DeVito shows appreciation for New Jersey fans after potential finale with the Giants - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tommy-devito-shows-appreciation-for-new-jersey-fans-after-potential-finale-with-the-giants"
+    },
+    {
       "title": "Orioles To Extend Samuel Basallo - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/08/orioles-to-extend-samuel-basallo.html"
+    },
+    {
+      "title": "Report: Vikings have inquired about trading for Adam Thielen - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-have-inquired-about-trading-for-adam-thielen"
+    },
+    {
+      "title": "What Dillon Gabriel told Shedeur Sanders after \u2018entertainers\u2019 controversy - New York Post",
+      "link": "https://nypost.com/2025/08/22/sports/browns-dillon-gabriel-sheduer-sanders-addressed-entertainers-comment/"
     },
     {
       "title": "Kyle Tucker and Craig Counsell Discuss the Whole Injury Thing - Bleacher Nation",
@@ -110,16 +154,16 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aidan-hutchinson-staying-hands-off-with-contract-extension-process"
     },
     {
-      "title": "Ray Fittipaldo's final Steelers 53-man roster projection - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/08/22/nfl-preseason-steelers-roster-projection/stories/202508220052"
+      "title": "All wins aren\u2019t equal: Beating the Yankees was huge for Red Sox - MassLive.com",
+      "link": "https://www.masslive.com/sports/2025/08/all-wins-arent-equal-beating-the-yankees-friday-was-huge-for-red-sox.html"
     },
     {
       "title": "Indianapolis Colts quarterback Anthony Richardson needs to make the right move - Andscape",
       "link": "https://andscape.com/features/indianapolis-colts-quarterback-anthony-richardson-needs-to-make-the-right-move/"
     },
     {
-      "title": "New York Giants FINAL 53-man roster projection: Who\u2019s in, who\u2019s out - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-roster/133053/new-york-giants-final-53-man-roster-projection-whos-in-whos-out"
+      "title": "Mike Vrabel wants to find the \u2018rats\u2019 after devastating Ja\u2019Lynn Polk injury leaked - New York Post",
+      "link": "https://nypost.com/2025/08/22/sports/mike-vrabel-wants-to-find-the-rats-after-devastating-injury-leaked/"
     },
     {
       "title": "Six Things to Watch for the Titans in Tonight's Preseason Finale vs the Vikings - Tennessee Titans",
@@ -128,46 +172,6 @@
     {
       "title": "Updates To UFC Shanghai - UFC.com",
       "link": "https://www.ufc.com/news/updates-ufc-shanghai"
-    },
-    {
-      "title": "Examining what\u2019s next for Tommy DeVito after likely \u2014 and memorable \u2014 Giants goodbye - New York Post",
-      "link": "https://nypost.com/2025/08/22/sports/examining-whats-next-for-tommy-devito-after-likely-giants-goodbye/"
-    },
-    {
-      "title": "Jimmy Pitaro\u2019s ESPN Enters a New Era - The Ringer",
-      "link": "https://www.theringer.com/2025/08/22/media/espn-jimmy-pitaro-era"
-    },
-    {
-      "title": "Beasley no longer target of gambling investigation - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/46047941/attorneys-malik-beasley-no-longer-target-gambling-probe"
-    },
-    {
-      "title": "Dolphins 2025 Training Camp: Highs and Lows - Sports Illustrated",
-      "link": "https://www.si.com/nfl/dolphins/news/dolphins-2025-training-camp-highs-and-lows-01k37e5jatjb"
-    },
-    {
-      "title": "What Texans writers are saying about Lions joint practice - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-training-camp/139709/what-texans-writers-are-saying-about-lions-joint-practice"
-    },
-    {
-      "title": "Steelers first-rounder Derrick Harmon has a knee sprain, will be evaluated further - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-first-rounder-derrick-harmon-has-a-knee-sprain-will-be-evaluated-further"
-    },
-    {
-      "title": "Matchup in Ireland is among the last for the Farmageddon football rivalry - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46038961/iowa-state-kansas-state-farmageddon"
-    },
-    {
-      "title": "10 players to watch in the Eagles-Jets preseason finale - PhillyVoice",
-      "link": "https://www.phillyvoice.com/10-players-watch-eagles-jets-preseason-finale/"
-    },
-    {
-      "title": "A U.S. Open Guide to the Americans\u2019 Attempt to End a Men\u2019s Grand Slam Drought - The Ringer",
-      "link": "https://www.theringer.com/2025/08/22/tennis/us-open-draw-tennis-2025-american-mens-curse-drought"
-    },
-    {
-      "title": "NASCAR Friday schedule at Daytona International Speedway - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/nascar-friday-schedule-at-daytona-international-speedway-august-2025"
     }
   ],
   "weather": {
