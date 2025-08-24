@@ -1,19 +1,23 @@
 {
-  "quote": "While we may not be able to control all that happens to us, we can control what happens inside us. \u2013 Benjamin Franklin",
-  "fact": "A pig`s orgasm lasts for 30 minutes.",
-  "crypto": "BTC: $114,924 | ETH: $4,764.54",
+  "quote": "When you've got nothing, you've got nothing to lose. \u2013 Bob Dylan",
+  "fact": "It is illegal to eat oranges while bathing in California.",
+  "crypto": "BTC: $114,915 | ETH: $4,766.27",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
+  "joke": "Whats a penguins favorite relative? Aunt Arctica.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
       "title": "iOS 26: Eight New Features in Apple Music - MacRumors",
       "link": "https://www.macrumors.com/guide/ios-26-music/"
+    },
+    {
+      "title": "Apple-Google Talks Heating Up Over Siri-Gemini IPhone Agreement? - Investor's Business Daily",
+      "link": "https://www.investors.com/news/technology/google-stock-apple-stock-gemini-siri-iphone-agreement/"
     },
     {
       "title": "Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025 - IGN",
@@ -36,16 +40,12 @@
       "link": "http://9to5google.com/2025/08/22/google-details-easy-pixel-watch-4-repair-process-teases-more-third-party-chargers/"
     },
     {
+      "title": "Silksong is out soon, and indie games are getting out of the way - The Verge",
+      "link": "https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis"
+    },
+    {
       "title": "Bungie CEO Pete Parsons steps down, following years of criticism, layoffs, and that infamous classic car collection - Eurogamer",
       "link": "https://www.eurogamer.net/bungie-ceo-pete-parsons-steps-down-following-years-of-criticism-layoffs-and-that-infamous-classic-car-collection"
-    },
-    {
-      "title": "Indie Devs Are Delaying Their Games Because Of Silksong [Update] - aftermath.site",
-      "link": "https://aftermath.site/silksong-indie-delays"
-    },
-    {
-      "title": "Android 16\u2019s new Wallet shortcut is missing on some Pixels, and Google won\u2019t say why - Android Authority",
-      "link": "https://www.androidauthority.com/android-16-wallet-shortcut-missing-3588477/"
     },
     {
       "title": "At This Point, It\u2019s Impossible to Know What the Trump Phone Looks Like - WIRED",
@@ -54,14 +54,6 @@
     {
       "title": "Meta might be secretly scanning your phone's camera roll - how to check and turn it off - ZDNET",
       "link": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
-    },
-    {
-      "title": "Apple Races to Patch Zero-Click Exploit that Put Crypto Users at Risk - TipRanks",
-      "link": "https://www.tipranks.com/news/apple-races-to-patch-zero-click-exploit-that-put-crypto-users-at-risk"
-    },
-    {
-      "title": "Yes, MagSafe accessories will work on the Pixel 10 series without a case - 9to5Google",
-      "link": "http://9to5google.com/2025/08/22/magsafe-accessories-work-on-pixel-10-series-without-a-case/"
     },
     {
       "title": "Apple TV+ raises subscription prices worldwide, including in UK - BBC",
@@ -78,13 +70,29 @@
     {
       "title": "Rumor: Pokemon Legends: Z-A leak gives first look at two new Mega Evolutions - Nintendo Everything",
       "link": "https://nintendoeverything.com/pokemon-legends-z-a-leak-first-look-two-new-mega-evolutions/"
+    },
+    {
+      "title": "\u201cLost\u201d Star Daniel Dae Kim Just Called Out The \u201cOvercorrection\u201d In \u201cEthnic-Specific Casting,\u201d And He Did Not Stutter - BuzzFeed",
+      "link": "https://www.buzzfeed.com/stephaniesoteriou/daniel-dae-kim-praised-overcorrection-ethnic-specific"
+    },
+    {
+      "title": "Microsoft: August Windows updates cause severe streaming issues - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/"
+    },
+    {
+      "title": "Apple Patches Zero-Click Exploit Threatening Crypto Users - Cointelegraph",
+      "link": "https://cointelegraph.com/news/update-your-apple-devices-to-prevent-crypto-theft-vulnerability-patch"
+    },
+    {
+      "title": "Kirby Air Riders confirms splitscreen multiplayer - Nintendo Everything",
+      "link": "https://nintendoeverything.com/kirby-air-riders-splitscreen-multiplayer/"
+    },
+    {
+      "title": "Google\u2019s first Gemini smart home speaker detailed in leak - The Verge",
+      "link": "https://www.theverge.com/news/764203/google-gemini-smart-home-speaker-nest"
     }
   ],
   "sports_news": [
-    {
-      "title": "Chiefs-Bears rapid reaction: Suamataia settles in, offense shines - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-preseason/179608/chiefs-bears-rapid-reaction-suamataia-settles-in-offense-shines"
-    },
     {
       "title": "Minnesota Vikings vs. Tennessee Titans Live Score and Stats - August 22, 2025 Gametracker - CBS Sports",
       "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20250822_MIN@TEN/"
@@ -98,8 +106,12 @@
       "link": "https://www.nfl.com/news/2025-nfl-preseason-week-3-what-we-learned-from-friday-s-games"
     },
     {
-      "title": "Jays' Bieber stellar in 1st start since April '24 - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46053149/blue-jays-shane-bieber-dominant-long-awaited-return"
+      "title": "Patrick Mahomes plays three drives in preseason finale for Chiefs - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-plays-three-drives-in-preseason-finale-for-chiefs"
+    },
+    {
+      "title": "No. 1 Nebraska Starts The Season With Win Over No. 3 Pitt - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/volleyball/no-1-nebraska-starts-the-season-with-win-over-no-3-pitt-volleyball-avca-cornhuskers-acc-big-ten"
     },
     {
       "title": "Sources: Steelers' Derrick Harmon has sprained MCL, not expected to go on IR - Pittsburgh Post-Gazette",
@@ -110,8 +122,8 @@
       "link": "https://www.ufc.com/news/updates-ufc-shanghai"
     },
     {
-      "title": "Cup Series qualifying canceled due to lightning; Blaney to lead field to green at Daytona - NASCAR.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTBtQVcwRmROOUVmajh3YkpYVzJpM190R05QLVI1SFRFNXpkUXhlRlhQc0Z6OWQ0WTZaRU5ETGVVbkIwUUtRR3E1YTV6YVI1LUtnNGRIZ2ZMVGdaTkRhOUhVamhQM3AwaHUzMkNPc0c5WlJrU0RXUFNGN2Jva0FNdWlsX1M2VEhIZUh0YUNHckEwUkVNT005WNIBngFBVV95cUxNbE05bVhYVWNxNVBMdWU2ZEpCYWJkdVQ2OG92QmNtVWJmQlR6aWhVY293NmlmZHJnMDFkLWQ4RmdYTG1yYVptSFJqSUF0Sk92ZEZIRHJPUXVqcE5ySU9MOFBGWkFxMTY2Nlp6UDFWSkZ0VllLS01GakdhYklnaXlsNUIwQnVYOGwtMWdoTEdkT2NXQWFHUkJYVzJJeXhnZw?oc=5"
+      "title": "Ryan Fitzpatrick corrects record on misrepresented portrayal of Jaxson Dart analysis - Awful Announcing",
+      "link": "https://awfulannouncing.com/nfl/ryan-fitzpatrick-dov-kleiman-misrepresented-portrayal-jaxson-dart-analysis.html"
     },
     {
       "title": "Dahlin, Bedard, Celebrini among NHL Network's top 25 players born this century - NHL.com",
@@ -120,10 +132,6 @@
     {
       "title": "Eagles vs. Jets preseason game updates - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/game-day-threads/156378/eagles-vs-jets-preseason-game-updates-live-thread-nfl"
-    },
-    {
-      "title": "Shawn Kemp, former Seattle Sonics star, sentenced to home monitoring - The Seattle Times",
-      "link": "https://www.seattletimes.com/seattle-news/law-justice/shawn-kemp-former-seattle-sonics-star-sentenced-to-home-monitoring/"
     },
     {
       "title": "2025 Heisman Trophy watch list: QB Arch Manning, WR Jeremiah Smith among top eight candidates - NFL.com",
@@ -138,8 +146,8 @@
       "link": "https://nesn.com/2025/08/report-red-sox-make-big-decision-with-walker-buehler/"
     },
     {
-      "title": "Five-star Chelsea beat West Ham for first win of the season - Premier League",
-      "link": "https://www.premierleague.com/en/news/4387368/west-ham-v-chelsea-match-report-premier-league-22-august-2025"
+      "title": "NASCAR Cup starting lineup: Ryan Blaney to start on pole at Daytona - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/nascar-cup-starting-lineup-ryan-blaney-to-start-on-pole-at-daytona"
     },
     {
       "title": "Will Serena Williams's weight-loss admission help shed stigma of anti-obesity drugs? - BBC",
