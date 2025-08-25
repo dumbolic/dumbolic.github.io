@@ -1,9 +1,9 @@
 {
-  "quote": "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. \u2013 Steve Maraboli",
-  "fact": "The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.",
-  "crypto": "BTC: $111,450 | ETH: $4,611.74",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I don't trust stairs. They're always up to something.",
+  "quote": "Most people dabble their way through life, never deciding to master anything in particular. \u2013 Tony Robbins",
+  "fact": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
+  "crypto": "BTC: $111,638 | ETH: $4,654.87",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "KB5063878 linked to SSD failures \u2014 what Windows 11 users should know - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/reports-say-windows-11-update-is-bricking-drives-is-yours-on-the-list"
+    },
+    {
+      "title": "The Framework Desktop and Linux have shown me the path to PC gaming in the living room - The Verge",
+      "link": "https://www.theverge.com/games/761025/framework-desktop-bazzite-linux-steam-machine-pc-game-console-impressions"
+    },
+    {
+      "title": "Original Metal Gear Solid Delta: Snake Eater voice actor says playing Snake was \"the definitive role in his life\" - Eurogamer",
+      "link": "https://www.eurogamer.net/original-metal-gear-solid-delta-snake-eater-voice-actor-says-playing-snake-was-the-definitive-role-in-his-life"
+    },
+    {
+      "title": "Apple to Kick Off Three-Year Plan to Reinvent Its Iconic iPhone - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2025-08-24/apple-to-launch-iphone-17-pro-iphone-17-air-in-september-iphone-fold-next-year-mepmzpcj"
+    },
+    {
+      "title": "My Husband Thinks Our Daughter Is Completely Untalented. And He Isn\u2019t Shy About Showing It. - Slate",
+      "link": "https://slate.com/advice/2025/08/parent-advice-husband-daughter-talent.html"
+    },
+    {
+      "title": "The most fun way to look through old photos - The Verge",
+      "link": "https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer"
+    },
+    {
       "title": "\"I Just Saw Impossible\": Scientists Prove Time Reflections Exist, Leaving Experts Stunned and Forcing Physics to Rewrite Its Own Laws - Rude Baguette",
       "link": "https://www.rudebaguette.com/en/2025/08/i-just-saw-impossible-scientists-prove-time-reflections-exist-leaving-experts-stunned-and-forcing-physics-to-rewrite-its-own-laws/"
     },
     {
       "title": "After Mark Zuckerberg Predicted the End of Smartphones, Samsung Now Readies a Daring New Product That Will Change Everything - Indian Defence Review",
       "link": "https://indiandefencereview.com/zuckerberg-end-of-smartphones-samsung-readies-new-product-will-change-everything/"
+    },
+    {
+      "title": "5 Of The Most Difficult Motorcycles To Ride - SlashGear",
+      "link": "https://www.slashgear.com/1943875/most-difficult-motorcycles-to-ride/"
     },
     {
       "title": "This 92-year-old sprinter has the muscle cells of someone in their 20s - The Washington Post",
@@ -32,70 +60,82 @@
       "link": "https://nintendoeverything.com/tales-of-xillia-remastered-reveals-nintendo-switch-frame-rate-resolution/"
     },
     {
+      "title": "Race Rewind: Thrilling Daytona duel under the lights for regular-season finale - NASCAR.com",
+      "link": "https://www.nascar.com/videos/franchise/race-rewind/race-rewind-thrilling-daytona-duel-under-the-lights-for-regular-season-finale/"
+    },
+    {
       "title": "High on Life 2 Has 'More Than Five' Fully-Emulated, Playable Games, Including...Bible Adventures - IGN",
       "link": "https://www.ign.com/articles/high-on-life-2-has-more-than-five-fully-emulated-playable-games-includingbible-adventures"
     },
     {
-      "title": "Yooka-Replayee Appears To Be Getting A Proper Physical Release For Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/yooka-replaylee-appears-to-be-getting-a-proper-physical-release-for-switch-2"
+      "title": "Google TV app rolling out Material 3 Expressive redesign, partially breaks phone remote [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/08/23/google-tv-app-material-3-expressive/"
     },
     {
-      "title": "Denny Hamlin has tire issue, hits outside wall hard at Daytona - NASCAR.com",
-      "link": "https://www.nascar.com/videos/franchise/nascar-cup-series-highlights/denny-hamlin-has-tire-issue-hits-outside-wall-hard-at-daytona/"
+      "title": "Nintendo Switch 2 Report Reveals Huge RPG Coming in 2026 - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/nintendo-switch-2-game-rpg-2026/"
+    },
+    {
+      "title": "AGI is an engineering problem, not a model training problem - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45000176"
     },
     {
       "title": "Mini Review: Discounty (PS5) - Shop 'Til You Drop in This Addictive Life Sim - Push Square",
       "link": "https://www.pushsquare.com/reviews/ps5/discounty"
     },
     {
-      "title": "Lighter, more comfortable and cheaper than Apple Vision Pro: Hands-on comparison with the new Vivo Vision MR headset - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Lighter-more-comfortable-and-cheaper-than-Apple-Vision-Pro-Hands-on-comparison-with-the-new-Vivo-Vision-MR-headset.1094878.0.html"
+      "title": "This Incredible Brain Implant Can Decode Inner Thoughts Into Speech - ScienceAlert",
+      "link": "https://www.sciencealert.com/this-incredible-brain-implant-can-decode-inner-thoughts-into-speech"
     },
     {
-      "title": "Major streaming service announces 30% price increase - Syracuse.com",
-      "link": "https://www.syracuse.com/tv/2025/08/major-streaming-service-announces-30-price-increase.html"
-    },
-    {
-      "title": "Apple iPhone 17 Release Date Latest Schedule: What To Expect When - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/08/23/iphone-17-release-date-latest-schedule-what-to-expect-when/"
-    },
-    {
-      "title": "The Pixel Watch 4 makes a very important change I want to see in more smartwatches - Android Central",
-      "link": "https://www.androidcentral.com/wearables/google-pixel-watch/the-pixel-watch-4-secret-weapon"
-    },
-    {
-      "title": "Rare deal knocks $100 off M4 Mac mini with 32GB of RAM, more from $499 - 9to5Toys",
-      "link": "http://9to5toys.com/2025/08/23/rare-deal-mac-mini/"
-    },
-    {
-      "title": "Scientists Discover a Cheaper, More Powerful Catalyst for Clean Hydrogen Energy - SciTechDaily",
-      "link": "https://scitechdaily.com/scientists-discover-a-cheaper-more-powerful-catalyst-for-clean-hydrogen-energy/"
-    },
-    {
-      "title": "As the PS5's Price Increases in USA, Big Deals Are Revealed for China - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/08/as-the-ps5s-price-increases-in-usa-big-deals-are-revealed-for-china"
-    },
-    {
-      "title": "Apple users urged to check their iPhone settings immediately after concerns of 'extremely sophisticated attack' - UNILAD",
-      "link": "https://www.unilad.com/technology/news/apple-iphone-ios-18-6-2-settings-cyber-attack-067722-20250823"
-    },
-    {
-      "title": "Microsoft Confirms August 2025 Update Causes Severe Lag in Windows 11 24H2, and Windows 10 - CyberSecurityNews",
-      "link": "https://cybersecuritynews.com/windows-update-causes-lag/"
-    },
-    {
-      "title": "An inner-speech decoder reveals some mental privacy issues - Ars Technica",
-      "link": "https://arstechnica.com/science/2025/08/an-inner-speech-decoder-reveals-some-mental-privacy-issues/"
+      "title": "Where Google Wallet state IDs are available on Android [Updated] - 9to5Google",
+      "link": "http://9to5google.com/2025/08/23/google-wallet-state-ids/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Ravens \"absolutely\" expect Lamar Jackson to practice Monday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-absolutely-expect-lamar-jackson-to-practice-monday"
+    },
+    {
+      "title": "Dan Campbell suggests Hendon Hooker may need \"a change of scenery\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-suggests-hendon-hooker-may-need-a-change-of-scenery"
+    },
+    {
+      "title": "Final 2025 Detroit Lions 53-man roster prediction: Jeremy Reisman edition - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-roster/139741/final-2025-detroit-lions-53-man-roster-prediction-jeremy-reisman-edition"
+    },
+    {
+      "title": "Todd Bowles: Shilo Sanders throwing a punch was \"inexcusable\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-shilo-sanders-throwing-a-punch-was-inexcusable"
+    },
     {
       "title": "Aidan O\u2019Connell to have surgery on fractured wrist - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aidan-oconnell-to-have-surgery-on-fractured-wrist"
     },
     {
-      "title": "Shilo Sanders Ejected For Throwing Punch, Roster Spot In Jeopardy - Yahoo Sports",
-      "link": "https://thespun.com/nfl/shilo-sanders-ejected-for-throwing-punch-roster-spot-in-jeopardy"
+      "title": "5 Must-Have Quarterbacks & Tight Ends (Fantasy Football) - FantasyPros",
+      "link": "https://www.fantasypros.com/2025/08/5-must-have-quarterbacks-tight-ends-fantasy-football/"
+    },
+    {
+      "title": "Enhanced Box Score: Cubs 12, Angels 1 \u2013 August 23, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/08/24/enhanced-box-score-cubs-12-angels-1-august-23-2025/"
+    },
+    {
+      "title": "Why a professional tennis player turned to OnlyFans to help fund her career - and she may not be the last - CNN",
+      "link": "https://www.cnn.com/2025/08/24/sport/tennis-onlyfans-sachia-vickery-profile"
+    },
+    {
+      "title": "Five college football predictions, plus how playoffs will play out - New York Post",
+      "link": "https://nypost.com/2025/08/24/sports/five-college-football-predictions-plus-how-playoffs-will-play-out/"
+    },
+    {
+      "title": "Browns rookie QB Shedeur Sanders\u2019 sideline frustration raises questions - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/08/browns-rookie-qb-shedeur-sanders-sideline-frustration-raises-questions.html"
+    },
+    {
+      "title": "Week 0 College Football Game Canceled With 7 Minutes Remaining, Stats Voided - Athlon Sports",
+      "link": "https://athlonsports.com/college/uc-davis-aggies/football/week-0-college-football-game-canceled-stats-voided-uc-davis-mercer"
     },
     {
       "title": "Frank Reich and Andrew Luck start 0-1 at Stanford - NBC Sports",
@@ -110,6 +150,10 @@
       "link": "https://www.hindustantimes.com/sports/us-sports/fans-go-into-meltdown-as-serena-williams-inducts-maria-sharapova-into-international-tennis-hall-of-fame-101756018429698.html"
     },
     {
+      "title": "Raja Jackson, son of MMA legend 'Rampage,' appears to brutally assault pro wrestler in disturbing video - Yahoo Sports",
+      "link": "https://sports.yahoo.com/wrestling/breaking-news/article/raja-jackson-son-of-mma-legend-rampage-appears-to-brutally-assault-pro-wrestler-in-disturbing-video-070243620.html"
+    },
+    {
       "title": "'Holy grail' MJ-Kobe card sells for record $12.9M - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/46061949/holy-grail-jordan-bryant-sports-card-sells-record-129m"
     },
@@ -118,56 +162,16 @@
       "link": "https://www.nascar.com/news-media/2025/08/24/cup-series-2025-daytona-playoffs-bowman-reddick-advance/"
     },
     {
-      "title": "Three Up, Three Down: Drivers in focus leaving Daytona - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/08/24/three-up-three-down-drivers-in-focus-leaving-daytona-2/"
+      "title": "Raiders cool off after hot start, fall to Cardinals in preseason finale - Raiders.com",
+      "link": "https://www.raiders.com/news/raiders-cool-off-after-hot-start-fall-to-cardinals-in-preseason-finale"
     },
     {
-      "title": "OPINION: Capaccio: Arrow Up/Arrow Down: Bills at Buccaneers preseason - Audacy",
-      "link": "https://www.audacy.com/wgr550/sports/bills/capaccio-arrow-up-arrow-down-bills-at-buccaneers-preseason"
+      "title": "Alex Bowman Promises Ryan Blaney 'Seven Million Beers' For Saving His Season - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nascar/alex-bowman-playoffs-ryan-blaney-win-daytona"
     },
     {
-      "title": "49ers' Biggest Risers & Fallers from Preseason Win Over Chargers - Sports Illustrated",
-      "link": "https://www.si.com/nfl/49ers/news/49ers-biggest-risers-fallers-from-preseason-win-over-chargers"
-    },
-    {
-      "title": "BYU soccer just beat a Top 5 team - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/08/23/byu-soccer-just-beat-a-top-5-team/"
-    },
-    {
-      "title": "Padres Place Jackson Merrill On 10-Day Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/padres-place-jackson-merrill-on-10-day-injured-list.html"
-    },
-    {
-      "title": "Ex-Michigan QB scores game-winning touchdown in debut for new school - MLive.com",
-      "link": "https://www.mlive.com/wolverines/2025/08/ex-michigan-qb-scores-game-winning-touchdown-in-debut-for-new-school.html"
-    },
-    {
-      "title": "Shedeur Sanders\u2019 Browns fate revealed as roster cuts loom - New York Post",
-      "link": "https://nypost.com/2025/08/23/sports/shedeur-sanders-browns-fate-revealed-as-roster-cuts-loom/"
-    },
-    {
-      "title": "Padres get Nasty to move ahead of Dodgers in NL West - MLB.com",
-      "link": "https://www.mlb.com/news/nestor-cortes-holds-dodgers-to-one-hit-as-padres-take-over-first-place"
-    },
-    {
-      "title": "NFL preseason Week 3 takeaways: Shedeur Sanders struggles in final showing, Lions have a rookie sensation - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/nfl-preseason-week-3-takeaways-shedeur-sanders-struggles-in-final-showing-lions-have-a-rookie-sensation/live/"
-    },
-    {
-      "title": "Terry McLaurin watches as Commanders close preseason with a thud - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/08/23/commanders-ravens-preseason-terry-mclaurin/"
-    },
-    {
-      "title": "Game notes: Brenton Cox Jr. set tone for Packers\u2019 4-takeaway day - Green Bay Packers",
-      "link": "https://www.packers.com/news/game-notes-brenton-cox-jr-set-tone-for-packers-4-takeaway-day-aug-23-2025"
-    },
-    {
-      "title": "Rocco Becht stars as Iowa State beats Kansas State in Ireland - NBC News",
-      "link": "https://www.nbcnews.com/sports/college-football/rocco-becht-stars-iowa-state-beats-kansas-state-ireland-rcna226810"
-    },
-    {
-      "title": "SF's Oracle Park draws record crowd \u2013 but not for the team you think - SFGATE",
-      "link": "https://www.sfgate.com/sports/article/nwsl-match-at-baseball-s-oracle-park-draws-record-20960431.php"
+      "title": "5 Takeaways: Jim Harbaugh Turns Attention to Week 1 in Brazil After Preseason Finale - Los Angeles Chargers",
+      "link": "https://www.chargers.com/news/53-man-roster-marlowe-wax-harbaugh-2025"
     }
   ],
   "weather": {
