@@ -1,9 +1,9 @@
 {
-  "quote": "Longevity is a fleeting moment that lasts forever. \u2013 Vidal Sassoon",
-  "fact": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
-  "crypto": "BTC: $113,592 | ETH: $4,792.23",
+  "quote": "By failing to prepare, you are preparing to fail. \u2013 Benjamin Franklin",
+  "fact": "The word Pennsylvania is misspelled on the Liberty Bell.",
+  "crypto": "BTC: $112,825 | ETH: $4,726.76",
   "tip": "Commit often with meaningful messages.",
-  "joke": "what happens when you cross a sheep with a kangaroo ? A woolly jumper!",
+  "joke": "Don\u2019t interrupt someone working intently on a puzzle. Chances are, you\u2019ll hear some crosswords.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Big wreck strikes early in Stage 1 at Daytona - NASCAR.com",
+      "link": "https://www.nascar.com/videos/franchise/nascar-cup-series-highlights/big-wreck-strikes-early-in-stage-1-at-daytona/"
+    },
     {
       "title": "Mini Review: Discounty (PS5) - Shop 'Til You Drop in This Addictive Life Sim - Push Square",
       "link": "https://www.pushsquare.com/reviews/ps5/discounty"
@@ -22,10 +26,6 @@
     {
       "title": "iOS 26 Adds 25W Qi2 Wireless Charging Support to iPhone 16 Models - MacRumors",
       "link": "https://www.macrumors.com/2025/08/23/ios-26-adds-qi2-25w-support-to-iphone-16-series/"
-    },
-    {
-      "title": "Bose\u2019s compact TV Speaker is more than $100 off right now - The Verge",
-      "link": "https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale"
     },
     {
       "title": "Yooka-Replaylee confirmed for Nintendo Switch 2, physical release happening with full game on cartridge [update: new teaser trailer] - Nintendo Everything",
@@ -60,20 +60,16 @@
       "link": "https://arstechnica.com/science/2025/08/an-inner-speech-decoder-reveals-some-mental-privacy-issues/"
     },
     {
+      "title": "Google Confirms Most Gmail Users Must Change Passwords - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/08/23/google-warns-most-gmail-users-must-change-passwords/"
+    },
+    {
       "title": "The Google Pixel 10 Pro XL feature that makes the Pixel 10 and Pro feel like consolation prizes - Android Police",
       "link": "https://www.androidpolice.com/pixel-10-pro-xl-feature-makes-10-and-pro-feel-consolation-prizes/"
     },
     {
       "title": "Flagship fight: Google Pixel 10 Pro vs. Samsung Galaxy S25 Ultra - Mashable",
       "link": "https://mashable.com/article/google-pixel-10-pro-vs-samsung-galaxy-s25-ultra"
-    },
-    {
-      "title": "Race results: Badger 200 at Madison International Speedway - arcaracing.com",
-      "link": "https://www.arcaracing.com/2025/08/22/race-results-badger-200-madison-international-speedway/"
-    },
-    {
-      "title": "Apple Claims Ex-Employee, China\u2019s Oppo Stole Trade Secrets - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-08-22/apple-claims-ex-employee-china-s-oppo-stole-trade-secrets"
     },
     {
       "title": "Tesla Cybertruck owner shocked by discovery while trying to wash his vehicle: 'Seems they rely too much on glue' - Yahoo! Autos",
@@ -88,86 +84,90 @@
       "link": "https://bloody-disgusting.com/video-games/3894694/original-shape-actor-nick-castle-is-back-as-michael-myers-in-halloween-the-game/"
     },
     {
-      "title": "Apple Loop: iPhone 17 Pro Release Date, New iPhone 17 Design Cues, IOS Update Warning - Forbes",
-      "link": "https://www.forbes.com/sites/ewanspence/2025/08/22/apple-news-headlines-iphone-17-pro-release-date-ios-18-cheaper-macbook-f1-the-movie-success/"
+      "title": "Battlefield 6 Phantom Edition and Other Skins Unearthed, and There Are No Silly Outfits So Far - MP1st",
+      "link": "https://mp1st.com/news/battlefield-6-phantom-edition-other-skins-unearthed-grounded-look"
+    },
+    {
+      "title": "Apple trained a large language model to efficiently understand long-form video - 9to5Mac",
+      "link": "https://9to5mac.com/2025/08/22/apple-trained-a-large-language-model-to-efficiently-understand-long-form-video/"
     }
   ],
   "sports_news": [
     {
-      "title": "Shedeur Sanders\u2019 disappointing outing ends on bench: You want to be that dog - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-rough-outing-ends-on-bench-you-want-to-be-that-dog"
+      "title": "Seahawks rookie quarterback struggles in preseason finale vs. Packers - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/jalen-milroe-struggles-in-seahawks-preseason-finale-vs-packers/"
     },
     {
-      "title": "MRI on Micah Parsons\u2019 back comes back \u201cpretty clean\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mri-on-micah-parsons-back-comes-back-pretty-clean"
+      "title": "Kevin Stefanski will figure out the No. 2 QB to Joe Flacco in \"next couple days\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-will-figure-out-the-no-2-qb-to-joe-flacco-in-next-couple-days"
+    },
+    {
+      "title": "Shilo Sanders is ejected from preseason finale for throwing a punch - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shilo-sanders-is-ejected-from-preseason-finale-for-throwing-a-punch"
+    },
+    {
+      "title": "Shedeur Sanders\u2019 disappointing outing ends on bench: You want to be that dog - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-rough-outing-ends-on-bench-you-want-to-be-that-dog"
     },
     {
       "title": "2025 Tour Championship leaderboard: Patrick Cantlay makes charge, ties Tommy Fleetwood entering final round - CBS Sports",
       "link": "https://www.cbssports.com/golf/news/tour-championship-leaderboard-2025-fedex-cup-playoffs-patrick-cantlay-tommy-fleetwood-scottie-scheffler/live/"
     },
     {
-      "title": "Trackhouse Racing taps Connor Zilisch for full Cup Series schedule in 2026 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/08/23/trackhouse-racing-taps-connor-zilisch-for-full-cup-series-schedule-in-2026/"
+      "title": "Locks and Long Shots: Packers Roster Lock-O-Meter After Preseason - Sports Illustrated",
+      "link": "https://www.si.com/nfl/packers/locks-and-long-shots-packers-roster-lock-o-meter-after-preseason"
     },
     {
-      "title": "Browns 19-17 Rams (Aug 23, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772999"
+      "title": "Shedeur Sanders on showing emotion after getting yanked from the Rams game: \u2018In the heat of the battle, you w - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/08/shedeur-sanders-on-showing-emotion-after-getting-yanked-from-the-rams-game-in-the-heat-of-the-battle-you-want-to-be-that-alpha.html"
     },
     {
-      "title": "Scotland 38-8 Wales LIVE: Women\u2019s Rugby World Cup result & reaction as McGhie hat-trick sets up record win - BBC",
-      "link": "https://www.bbc.com/sport/rugby-union/live/c87e4jnr4llt"
+      "title": "Nevada wins U.S. LLWS title, gets Taiwan in final - ESPN",
+      "link": "https://www.espn.com/espn/story/_/id/46059449/nevada-play-taiwan-little-league-world-series-final"
     },
     {
-      "title": "Yankees showcasing all the bad things that they\u2019re good at in humiliating Red Sox series - New York Post",
-      "link": "https://nypost.com/2025/08/23/sports/yankees-showcasing-all-the-bad-things-that-theyre-good-at/"
+      "title": "Falcons cut 12, including Morgan Fox, Ben DiNucci - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-cut-12-including-morgan-fox-ben-dinucci"
     },
     {
       "title": "2025 Preseason Week 3 Jaguars at Dolphins: Will Not Participate List - Jacksonville Jaguars",
       "link": "https://www.jaguars.com/news/k000379-2025-preseason-week-3-jaguars-vs-dolphins-will-not-participate-list"
     },
     {
+      "title": "Baltimore Ravens Final 53-man Roster Projection - Baltimore Beatdown",
+      "link": "https://www.baltimorebeatdown.com/baltimore-ravens-news/75425/final-53-man-roster-prediction"
+    },
+    {
+      "title": "Hawaii vs Stanford Pick, Odds, Same-Game Parlay for Aug. 23 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/hawaii-vs-stanford-odds-picks-parlay-college-football-week-0-august-23-qs"
+    },
+    {
       "title": "With Vikings preseason games in the rearview, \u2018a lot of hard decisions\u2019 on cutdown day loom - Star Tribune",
       "link": "https://www.startribune.com/minnesota-vikings-nfl-preseason-roster-cuts-kevin-oconnell-max-brosmer/601450274"
     },
     {
-      "title": "3 winners and 4 losers from Bengals vs. Colts - Cincy Jungle",
-      "link": "https://www.cincyjungle.com/cincinnati-bengals-game-information/172874/3-winners-4-losers-colts"
+      "title": "Key Takeaways from New Orleans Saints vs Broncos | 2025 NFL Preseason Week 3 - New Orleans Saints",
+      "link": "https://www.neworleanssaints.com/news/2025-nfl-preseason-week-3-new-orleans-saints-denver-broncos-key-takeaways"
     },
     {
-      "title": "Jets Waive Six Players - New York Jets",
-      "link": "https://www.newyorkjets.com/news/jets-roster-cuts-08-23-2025"
+      "title": "Fantasy Baseball SP Roundup 8/22: I\u2019ve Got My Bieber Back Bieber Back - Pitcher List",
+      "link": "http://pitcherlist.com/sp-roundup-8-22-25/"
     },
     {
       "title": "RECAP: Lions vs. Texans - Detroit Lions",
       "link": "https://www.detroitlions.com/news/recap-lions-vs-texans-teslaa-allen-hooker"
     },
     {
-      "title": "19 Packers will not play vs. Seahawks - Green Bay Packers",
-      "link": "https://www.packers.com/news/19-packers-will-not-play-vs-seahawks-aug-23-2025"
+      "title": "Zack Wheeler will undergo season-ending surgery: \u2018You\u2019re never going to replace an individual like that\u2019 - Inquirer.com",
+      "link": "https://www.inquirer.com/phillies/zack-wheeler-season-over-undergo-surgery-20250823.html"
     },
     {
-      "title": "Browns GM Andrew Berry says he sees no problem with keeping four QBs on 53-man roster - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-gm-andrew-berry-says-he-sees-no-problem-with-keeping-four-qbs-on-53-man-roster"
-    },
-    {
-      "title": "Stock Report: Ravens vs. Commanders Preseason Finale - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-commanders-stock-report-preseason-finale-trenton-simpson-keyon-martin"
+      "title": "Instant analysis | Commanders prepare for roster cut downs after 30-3 loss to Ravens - Washington Commanders",
+      "link": "https://www.commanders.com/news/instant-analysis-commanders-prepare-for-roster-cut-downs-after-30-3-loss-to-ravens"
     },
     {
       "title": "Tomlin shares the latest on Steelers injuries - Steelers.com",
       "link": "https://www.steelers.com/news/tomlin-share-the-latest-on-steelers-injuries"
-    },
-    {
-      "title": "Mets recall RHP Huascar Brazoban, place Frankie Montas on IL - SNY",
-      "link": "https://sny.tv/articles/mets-recall-husacar-brazoban-frankie-montas-il"
-    },
-    {
-      "title": "LLWS: Chinese Taipei wins pitchers duel with Aruba for 17th international title - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/article/llws-nevada-wins-us-title-will-face-chinese-taipei-for-little-league-world-series-championship-191104052.html"
-    },
-    {
-      "title": "Do the Browns have a quarterback who can take a punch? \u2013 Terry Pluto - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/08/do-the-browns-have-a-quarterback-who-can-take-a-punch-terry-pluto.html"
     }
   ],
   "weather": {
