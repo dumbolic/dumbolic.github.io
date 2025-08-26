@@ -1,9 +1,9 @@
 {
-  "quote": "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. \u2013 Pema Chodron",
-  "fact": "Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.",
-  "crypto": "BTC: $110,026 | ETH: $4,374.4",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Have you heard the story about the magic tractor? It drove down the road and turned into a field.",
+  "quote": "Learn to sit back and observe, not everything needs a reaction. \u2013 Unknown",
+  "fact": "Half of all Americans live within 50 miles of their birthplace.",
+  "crypto": "BTC: $109,618 | ETH: $4,375.65",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "My son is studying to be a surgeon, I just hope he makes the cut.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "David Jones-Garcia throws punch in brawl between the Dominican Republic and Argentina - Pounding The Rock",
+      "link": "https://www.poundingtherock.com/general/87333/david-jones-garcia-throws-punch-in-brawl-between-the-domincan-republic-and-argentina"
+    },
+    {
+      "title": "Blaney on Dale comparisons, learning drafting from Logano, Keselowski - NASCAR.com",
+      "link": "https://www.nascar.com/videos/franchise/press-pass/blaney-on-dale-comparisons-learning-drafting-from-logano-keselowski/"
+    },
+    {
+      "title": "This Week\u2019s Japanese Game Releases: Metal Gear Solid Delta: Snake Eater, Lost Soul Aside, Super Robot Wars Y, more - Gematsu",
+      "link": "https://www.gematsu.com/2025/08/this-weeks-japanese-game-releases-metal-gear-solid-delta-snake-eater-lost-soul-aside-super-robot-wars-y-more"
+    },
+    {
+      "title": "Apple Plans Three Consecutive Years of iPhone Revamps - PYMNTS.com",
+      "link": "http://www.pymnts.com/apple/2025/apple-plans-three-consecutive-years-of-iphone-revamps/"
+    },
+    {
+      "title": "The Story Behind The Subaru Logo's Six Stars - Jalopnik",
+      "link": "https://www.jalopnik.com/1944939/subaru-badge-meaning/"
+    },
+    {
+      "title": "Microsoft Issues Free Update Offer\u2014Windows Users Must Now Decide - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/08/24/microsoft-issues-free-update-offer-windows-users-must-now-decide/"
+    },
+    {
       "title": "Apple Has Reportedly Considered Releasing iPhone 17 Air Bumper Case - MacRumors",
       "link": "https://www.macrumors.com/2025/08/24/iphone-17-air-bumper-case-rumor/"
+    },
+    {
+      "title": "The Best Deals Today: AirPods 4, Elden Ring Nightreign, and More - IGN",
+      "link": "https://www.ign.com/articles/best-deals-for-august-24-2025"
     },
     {
       "title": "Abxylute's $1,700 Handheld PC Resurrects 3DS's Glasses-Free 3D, But Using Mario To Promote It Might Not Be The Best Idea - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/08/abxylutes-usd1700-handheld-pc-resurrects-3dss-glasses-free-3d-but-using-mario-to-promote-it-might-not-be-the-best-idea"
     },
     {
+      "title": "This 1TB Dual-Sided Flash Drive Is a Solid Alternative to Cloud Storage - PCMag",
+      "link": "https://www.pcmag.com/deals/this-1tb-dual-sided-flash-drive-is-a-solid-alternative-to-cloud-storage"
+    },
+    {
+      "title": "Marvel's Deadpool VR Utterly Nails Combat So Far - UploadVR",
+      "link": "https://www.uploadvr.com/marvels-deadpool-vr-gamescom-demo/"
+    },
+    {
       "title": "This Incredibly Simple Question Causes GPT-5 to Melt Into a Puddle of Pure Confusion - Futurism",
       "link": "https://futurism.com/gpt-5-simple-question-confusion"
     },
     {
-      "title": "I understand why Google went eSIM-only for the Pixel 10, but I still hate it - Android Police",
-      "link": "https://www.androidpolice.com/google-pixel-10-esim-only/"
+      "title": "Former PlayStation boss says \"No one is more in touch with their fan base than Nintendo\" - GoNintendo",
+      "link": "https://gonintendo.com/contents/52101-former-playstation-boss-says-no-one-is-more-in-touch-with-their-fan-base-than"
+    },
+    {
+      "title": "Corey Anderson recounts UFC executive telling him why he wasn\u2019t receiving title shot - MMA Fighting",
+      "link": "https://www.mmafighting.com/latest-news/307967/corey-anderson-recounts-ufc-executive-telling-him-why-he-wasnt-receiving-title-shot"
     },
     {
       "title": "Apple eyes Google Gemini for Siri upgrade - Mashable",
@@ -34,14 +74,6 @@
     {
       "title": "Silksong excitement has seen Hollow Knight's concurrent Steam peak record smashed over and over again - Eurogamer",
       "link": "https://www.eurogamer.net/silksong-excitement-has-seen-hollow-knights-concurrent-steam-peak-record-smashed-over-and-over-again"
-    },
-    {
-      "title": "Flagship fight: Google Pixel 10 Pro vs. Samsung Galaxy S25 Ultra - Mashable",
-      "link": "https://mashable.com/article/google-pixel-10-pro-vs-samsung-galaxy-s25-ultra"
-    },
-    {
-      "title": "Apple iPhone 17, iPhone 17 Pro Release Date Latest Schedule: What To Expect When - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/08/24/iphone-17-release-date-latest-schedule-what-to-expect-when/"
     },
     {
       "title": "The Fitbit app redesign looks like equal parts helpful and information overload - 9to5Google",
@@ -54,124 +86,88 @@
     {
       "title": "Unofficial AMD CPU roadmap points to \"Gator Range\" and \"Medusa Point\" Zen6 updates in 2027 - VideoCardz.com",
       "link": "https://videocardz.com/newz/unofficial-amd-cpu-roadmap-points-to-gator-range-and-medusa-point-zen6-updates-in-2027"
-    },
-    {
-      "title": "@nascarcasm: Fake texts to Daytona winner Blaney | NASCAR - NASCAR.com",
-      "link": "https://www.nascar.com/gallery/nascarcasm-fake-texts-to-daytona-winner-ryan-blaney/"
-    },
-    {
-      "title": "AirPods Pro 3 Expected to Launch This Year With Key New Feature - MacRumors",
-      "link": "https://www.macrumors.com/2025/08/24/airpods-pro-3-expected-this-year/"
-    },
-    {
-      "title": "I founded a longevity startup. Here's how to discern real programs from snake oil. - Business Insider",
-      "link": "https://www.businessinsider.com/longevity-startup-lifeforce-ceo-real-sceince-vs-snake-oil-2025-8"
-    },
-    {
-      "title": "Google Chrome vs. Microsoft Edge: Which One Wins the Browser Battle? - PCMag",
-      "link": "https://www.pcmag.com/comparisons/google-chrome-vs-microsoft-edge-which-one-wins-the-browser-battle"
-    },
-    {
-      "title": "Silent Hill f producer insists it is \"an action horror game\" and any comparisons to a soulslike are \"disingenuous\" - Eurogamer",
-      "link": "https://www.eurogamer.net/silent-hill-f-producer-insists-it-is-an-action-horror-game-and-any-comparisons-to-a-soulslike-are-disingenuous"
-    },
-    {
-      "title": "Apple Health+ Reportedly Launching Next Year With Two New Features - MacRumors",
-      "link": "https://www.macrumors.com/2025/08/24/apple-health-plus-rumored-to-launch-next-year/"
-    },
-    {
-      "title": "KB5063878 linked to SSD failures \u2014 what Windows 11 users should know - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/reports-say-windows-11-update-is-bricking-drives-is-yours-on-the-list"
-    },
-    {
-      "title": "SPARKLE officially launches Arc B580 TITAN NOX Edition - VideoCardz.com",
-      "link": "https://videocardz.com/newz/sparkle-officially-launches-arc-b580-titan-nox-edition"
-    },
-    {
-      "title": "From Gears to goblins, here\u2019s what\u2019s new on Xbox this week - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/all-new-xbox-games-august-25-through-august-31-2025"
     }
   ],
   "sports_news": [
     {
-      "title": "Tour Championship: Tommy Fleetwood finally has his moment ... and a $10 million check to boot - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/article/tour-championship-tommy-fleetwood-finally-has-his-moment--and-a-10-million-check-to-boot-214637206.html"
+      "title": "Huskers Dominate No. 6 Stanford in Sweep - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/volleyball/huskers-dominate-no-6-stanford-in-sweep-nebraska-cornhuskers-volleyball-cardinal-big-ten-acc-avca"
     },
     {
-      "title": "Cowboys cutting La\u2019el Collins - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-cutting-lael-collins"
+      "title": "49ers Studs and Duds: Niners end preseason with more questions than answers - The Mercury News",
+      "link": "https://www.mercurynews.com/2025/08/23/49ers-studs-and-duds-niners-end-preseason-with-more-questions-than-answers/"
     },
     {
-      "title": "Eagles Waive Quarterback After Sam Howell Trade - Sports Illustrated",
-      "link": "https://www.si.com/nfl/eagles-waive-quarterback-after-sam-howell-trade"
+      "title": "Source: U-M to name Underwood starting QB - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46067612/michigan-name-bryce-underwood-starting-quarterback"
+    },
+    {
+      "title": "Cal Raleigh ties, then breaks MLB home run record for catchers - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-cal-raleigh-ties-catcher-home-run-record/1819647"
+    },
+    {
+      "title": "Dalton Rushing and Freddie Freeman help revive Dodgers' offense in win over Padres - Yahoo Sports",
+      "link": "https://sports.yahoo.com/article/dalton-rushing-freddie-freeman-help-230840365.html"
+    },
+    {
+      "title": "Forde-Yard Dash: Get Ready for Even More College Football Playoff Politicking - Sports Illustrated",
+      "link": "https://www.si.com/college-football/college-football/forde-yard-dash-get-ready-for-more-cfb-politicking"
+    },
+    {
+      "title": "NFL Cuts Tracker: 2025 releases and waiver candidates - Acme Packing Company",
+      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/69733/nfl-news-cuts-tracker-2025-releases-and-waiver-candidates"
+    },
+    {
+      "title": "Finally, Tommy Fleetwood breaks through on PGA Tour \u2013 and at East Lake, it\u2019s twice as nice - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/finally-tommy-fleetwood-breaks-through-on-pga-tour-and-at-east-lake-its-twice-as-nice"
+    },
+    {
+      "title": "Roster Look: Bengals Prep For Tuesday's Cut To 53 - Cincinnati Bengals",
+      "link": "https://www.bengals.com/news/roster-look-bengals-prep-for-tuesday-s-cut-to-53"
+    },
+    {
+      "title": "Shedeur Sanders Makes Post After Browns Cut QB - Heavy Sports",
+      "link": "https://heavy.com/sports/nfl/cleveland-browns/shedeur-sanders-post-tyler-huntley-cut"
+    },
+    {
+      "title": "Slumping Volpe on bench for finale, Boone says 'we'll see' about next game - MLB.com",
+      "link": "https://www.mlb.com/news/anthony-volpe-out-of-yankees-lineup-in-finale-vs-red-sox"
+    },
+    {
+      "title": "Tour Championship 2025 prize money: Full payout from the $40 million purse - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/tour-championship-2025-prize-money-full-payout-from-the-40-million-purse"
+    },
+    {
+      "title": "Eagles waive Dorian Thompson-Robinson - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/156541/eagles-waive-dorian-thompson-robinson"
+    },
+    {
+      "title": "Gutierrez: Jameis, DTR, Rypien? Raiders' backup QB role is open season after O'Connell injury - Raiders.com",
+      "link": "https://www.raiders.com/news/raiders-backup-qb-role-jameis-winston-dorian-thompson-robinson-tyler-huntley"
+    },
+    {
+      "title": "Bucs haven\u2019t closed the door on Shilo Sanders - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-havent-closed-the-door-on-shilo-sanders"
+    },
+    {
+      "title": "Browns Start Process of Trimming Roster to 53 Players by Releasing 21, Including QB Tyler Huntley - 247Sports",
+      "link": "https://247sports.com/nfl/cleveland-browns/longformarticle/cleveland-browns--252945737/"
+    },
+    {
+      "title": "49ers announce trade for RB Brian Robinson - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-announce-trade-for-rb-brian-robinson"
     },
     {
       "title": "Jets Release LB Jamin Davis; Waive Six Players - New York Jets",
       "link": "https://www.newyorkjets.com/news/jets-roster-cuts-08-24-2025"
     },
     {
-      "title": "Raleigh hits 48th, 49th HRs to set catcher record - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46065669/mariners-cal-raleigh-hits-48th-hr-tie-mlb-record-catchers"
-    },
-    {
-      "title": "2025 NFL Roster Deadlines: Releases, Waivers, and Other Moves for the Vikings - Daily Norseman",
-      "link": "https://www.dailynorseman.com/minnesota-vikings-news/89976/2025-nfl-roster-deadlines-releases-waivers-practice-squad-minnesota-vikings"
-    },
-    {
-      "title": "49ers Trade for RB Brian Robinson Jr., Waive a Wide Receiver - San Francisco 49ers",
-      "link": "https://www.49ers.com/news/49ers-trade-for-rb-brian-robinson-jr-waive-a-wide-receiver"
+      "title": "Minnesota Vikings 2025 Roster Tracker - Daily Norseman",
+      "link": "https://www.dailynorseman.com/minnesota-vikings-news/89979/minnesota-vikings-2025-roster-tracker-releases-waivers-practice-squad"
     },
     {
       "title": "Ryan Blaney\u2019s win at Daytona is a powerful omen for Team Penske - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/08/24/ryan-blaneys-win-at-daytona-is-a-powerful-omen-for-team-penske/"
-    },
-    {
-      "title": "MLB Gameday live updates: Dodgers at Padres game on 08/24/2025 free - MLB.com",
-      "link": "https://www.mlb.com/gameday/dodgers-vs-padres/2025/08/24/776603/live"
-    },
-    {
-      "title": "Pete Carroll: \u201cWe\u2019re looking everywhere\u201d for an experienced backup QB - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-were-looking-everywhere-for-an-experienced-backup-qb"
-    },
-    {
-      "title": "Browns waive 17 players, terminate contracts of 4 players - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/browns-waive-17-players-terminate-contracts-of-4-players"
-    },
-    {
-      "title": "Which Lions rookies did enough vs. Texans to crack the 53-man roster? - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/139979/which-lions-rookies-did-enough-vs-texans-to-crack-the-53-man-roster"
-    },
-    {
-      "title": "Vikings Announce Roster Reductions - Minnesota Vikings",
-      "link": "https://www.vikings.com/news/roster-reductions-waived-released-2025"
-    },
-    {
-      "title": "Vikings sign QB Carson Wentz, trade Sam Howell to the Eagles - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-vikings-sign-carson-wentz-trade-sam-howell/601460424"
-    },
-    {
-      "title": "Brewers pay tribute to longtime broadcaster Bob Uecker in star-studded pregame ceremony - AP News",
-      "link": "https://apnews.com/article/bob-uecker-milwaukee-brewers-mr-baseball-4cbb3ccf166f8eeb1bbf04dc28f6aa90"
-    },
-    {
-      "title": "Ex-UFC champion Rampage Jackson \u2018very upset\u2019 after son appears to beat motionless wrestler in bout gone \u2018wrong\u2019 - CNN",
-      "link": "https://www.cnn.com/2025/08/24/sport/wrestling-rampage-jackson-son-raja-spt"
-    },
-    {
-      "title": "Buffalo Bills release first group of players ahead of Tuesday\u2019s roster deadline - Syracuse.com",
-      "link": "https://www.syracuse.com/buffalo-bills/2025/08/buffalo-bills-release-first-group-of-players-ahead-of-tuesdays-roster-deadline.html"
-    },
-    {
-      "title": "Seven players that stood out to Brian Schottenheimer vs. Falcons - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/seven-players-that-stood-out-to-brian-schottenheimer-vs-falcons"
-    },
-    {
-      "title": "CONFIRMED lineups: Oviedo vs Real Madrid, 2025 La Liga - Managing Madrid",
-      "link": "https://www.managingmadrid.com/97249/oviedo-vs-real-madrid-2025-la-liga-live-online-stream"
-    },
-    {
-      "title": "Shilo Sanders waived by the Buccaneers, AP source says - The Denver Post",
-      "link": "https://www.denverpost.com/2025/08/24/shilo-sanders-waived-tampa-bay-buccaneers/"
     }
   ],
   "weather": {
