@@ -1,9 +1,9 @@
 {
-  "quote": "Talk to someone about themselves and they'll listen for hours. \u2013 Dale Carnegie",
-  "fact": "Reindeer like to eat bananas.",
-  "crypto": "BTC: $111,442 | ETH: $4,475.5",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you get when you cross a bee and a sheep? A bah-humbug.\r\n",
+  "quote": "Keep your friends close, and your enemies closer. \u2013 Sun Tzu",
+  "fact": "All of the clocks in the movie \"Pulp Fiction\" are stuck on 4:20, a national pot-smokers hour.",
+  "crypto": "BTC: $111,610 | ETH: $4,484.03",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nintendo Alarmo Is Getting A Kirby-Themed Update - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/nintendo-alarmo-is-getting-a-kirby-themed-update"
+    },
+    {
       "title": "Samsung is Unpacking again in early September - The Verge",
       "link": "https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september"
     },
     {
+      "title": "Material 3 Expressive redesign rolls out to Google Clock, Pixel Watch app, more - 9to5Google",
+      "link": "http://9to5google.com/2025/08/27/google-clock-material-3-expressive-redesign/"
+    },
+    {
       "title": "Poll: Ahead Of Silksong's Release, Are You 'Finally' Playing Hollow Knight? - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/08/poll-ahead-of-silksongs-release-are-you-finally-playing-hollow-knight"
+    },
+    {
+      "title": "AI Chatbots Are Trapping Users in Bizarre Mental Spirals for a Dark Reason, Experts Say - Futurism",
+      "link": "https://futurism.com/ai-chatbots-mental-health-spirals-reason"
     },
     {
       "title": "Best Buy\u2019s Labor Day Sale Is Live With New Deals on Tech and Games - IGN",
@@ -32,48 +44,28 @@
       "link": "https://www.androidauthority.com/android-developer-registration-3591988/"
     },
     {
-      "title": "Ken Levine's Judas Reemerges With Dev Log Highlighting New System That Lets Your Choices Decide the Story's Villain - IGN",
-      "link": "https://www.ign.com/articles/ken-levines-judas-reemerges-with-dev-log-highlighting-new-system-that-lets-your-choices-decide-the-storys-villain"
-    },
-    {
       "title": "Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations - The Verge",
       "link": "https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review"
-    },
-    {
-      "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model - The Hacker News",
-      "link": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html"
     },
     {
       "title": "Pixel 10 Pro review: Familiar hardware, filled with Google\u2019s AI - TechCrunch",
       "link": "https://techcrunch.com/2025/08/27/pixel-10-pro-early-impressions-of-googles-latest-ai-flagship-phone/"
     },
     {
+      "title": "A Bunch Of Game Pass Subscribers Are About To Get New Perks - Kotaku",
+      "link": "https://kotaku.com/game-pass-cloud-benefits-pc-handheld-streaming-2000620715"
+    },
+    {
       "title": "Duolingo is facing an existential crisis as Google Translate rolls out features to tutor users\u2014and even handle live translation as a bonus - Fortune",
       "link": "https://fortune.com/2025/08/27/duolingo-existential-crisis-ai-google-translate-language-learning-live-translation/"
     },
     {
-      "title": "PlayStation Plus Reveals Banger September Free Game Line-Up - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-september-free-game-095465-20250827"
-    },
-    {
-      "title": "Gears Of War: Reloaded Opens To \"Mixed\" Steam Reviews Over Game-Breaking Bugs, Missing Pre-Order Items, And Lack Of Split Screen Co-Op - TheGamer",
-      "link": "https://www.thegamer.com/gears-of-war-reloaded-pc-steam-mixed-reviews-microsoft-investigating/"
-    },
-    {
-      "title": "Microsoft expands Xbox Cloud Gaming to Game Pass Core and Standard subscribers - The Verge",
-      "link": "https://www.theverge.com/news/766762/microsoft-xbox-cloud-gaming-game-pass-core-standard-pc-games"
-    },
-    {
-      "title": "Nothing passed off professional stock photos as Phone (3) samples on in-store demo units - 9to5Google",
-      "link": "http://9to5google.com/2025/08/27/nothing-passed-off-professional-stock-photos-as-phone-3-samples-on-in-store-demo-units/"
+      "title": "PlayStation Plus Free Games For September 2025 Revealed - GameSpot",
+      "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-september-2025/1100-6534226/"
     },
     {
       "title": "Corsair\u2019s PC-dockable screen helped me monitor my PC components and news feeds - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/08/corsairs-pc-dockable-screen-helped-me-monitor-my-pc-components-and-news-feeds/"
-    },
-    {
-      "title": "Round Up: The Reviews Are In For Kirby And The Forgotten Land + Star-Crossed World On Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/round-up-the-reviews-are-in-for-kirby-and-the-forgotten-land-plus-star-crossed-world-on-switch-2"
     },
     {
       "title": "Google Vids adds AI avatars to its video editor and launches a consumer version - TechCrunch",
@@ -84,15 +76,39 @@
       "link": "https://www.macrumors.com/2025/08/27/apple-event-logo-hints-at-iphone-17-pro-features/"
     },
     {
-      "title": "New Group Claims AI May Be Aware and Suffering - Futurism",
-      "link": "https://futurism.com/new-group-ai-aware-suffering"
-    },
-    {
       "title": "The Outer Worlds 2 wants you to join the space police - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/08/the-outer-worlds-2-wants-you-to-join-the-space-police/"
+    },
+    {
+      "title": "Exclusive | Apple Makes Music Push in Radio After Losing Ground to Spotify - The Wall Street Journal",
+      "link": "https://www.wsj.com/business/media/apple-makes-music-push-in-radio-after-losing-ground-to-spotify-5931c467"
+    },
+    {
+      "title": "No Man's Sky adds fully customisable multi-crew spaceships you can build and fly with your friends - Eurogamer",
+      "link": "https://www.eurogamer.net/no-mans-sky-adds-fully-customisable-multi-crew-spaceships-you-can-build-and-fly-with-your-friends"
+    },
+    {
+      "title": "Windows 11 now has better Bluetooth quality for game chat and voice calls - The Verge",
+      "link": "https://www.theverge.com/news/766569/microsoft-windows-11-bluetooth-super-wideband-stereo-le-audio-voice-feature"
     }
   ],
   "sports_news": [
+    {
+      "title": "Grading Biggest NFL Trades, Claims and Moves After 2025 Roster Cuts - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25242163-grading-biggest-nfl-trades-claims-and-moves-after-2025-roster-cuts"
+    },
+    {
+      "title": "Jelena Ostapenko says \u2018disrespectful\u2019 Taylor Townsend broke \u2018rules of tennis\u2019 before US Open dustup - New York Post",
+      "link": "https://nypost.com/2025/08/27/sports/jelena-ostapenko-calls-out-disrespectful-taylor-townsend-at-us-open/"
+    },
+    {
+      "title": "MLB Gameday: Reds 1, Dodgers 5 Final Score (08/27/2025) - MLB.com",
+      "link": "https://www.mlb.com/gameday/reds-vs-dodgers/2025/08/27/776562/live"
+    },
+    {
+      "title": "YouTube-Fox reach \"short-term extension\" of carriage deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-fox-reach-short-term-extension-of-carriage-deal"
+    },
     {
       "title": "Minnesota Wild Announces 2025-26 National Broadcast Schedule - NHL.com",
       "link": "https://www.nhl.com/wild/news/minnesota-wild-announces-2025-26-national-broadcast-schedule-082725"
@@ -102,16 +118,20 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-micah-parsons-sought-a-second-opinion-on-his-back-tightness"
     },
     {
+      "title": "After a Flurry of Roster Moves, an Updated Position-by-Position Look at the Titans 53-Man Roster - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/after-a-flurry-of-roster-moves-an-updated-position-by-position-look-at-the-titans-53-man-roster"
+    },
+    {
+      "title": "Titans Announce Seven Captains for 2025 Season - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/titans-announce-seven-captains-for-2025-season"
+    },
+    {
       "title": "Broncos sign 16 players to practice squad - Denver Broncos",
       "link": "https://www.denverbroncos.com/news/broncos-sign-16-players-to-practice-squad"
     },
     {
       "title": "Terry McLaurin on concerns about receivers over 30: There are outliers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-on-concerns-about-receivers-over-30-there-are-outliers"
-    },
-    {
-      "title": "US Open foes Taylor Townsend and Jelena Ostapenko get into a tense back-and-forth after match - AP News",
-      "link": "https://apnews.com/article/us-open-taylor-townsend-jelena-ostapenko-argument-451a41f8ca3c766caf9b1f5e9715f425"
     },
     {
       "title": "Panthers get back on the grass to begin life without Adam Thielen - Panthers.com",
@@ -128,10 +148,6 @@
     {
       "title": "Cup Series drivers see 2025 playoffs as a wide-open affair - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/08/27/cup-series-drivers-see-2025-playoffs-as-a-wide-open-affair/"
-    },
-    {
-      "title": "YouTube TV, Fox Corp. Reach Short-Term Deal Extension, Averting Blackout of Fox News, Other Channels for Now - Variety",
-      "link": "https://variety.com/2025/tv/news/youtube-tv-fox-corp-deal-extension-fox-news-blackout-1236498996/"
     },
     {
       "title": "5 Takeaways: Updates on Najee Harris, Junior Colson & New Chargers Long Snapper - Los Angeles Chargers",
@@ -154,20 +170,8 @@
       "link": "https://www.patriots.com/news/patriots-claim-qb-tommy-devito-and-cb-charles-woods-release-wr-javon-baker-and-wr-kendrick-bourne-sign-16-players-to-the-practice-squad"
     },
     {
-      "title": "Chiefs' Rashee Rice Suspended 6 Games for Violating NFL's Personal Conduct Policy - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25242092-chiefs-rashee-rice-suspended-6-games-violating-nfls-personal-conduct-policy"
-    },
-    {
-      "title": "Chiefs Announce Practice Squad and Other Roster Moves Heading Into 2025 NFL Season - Kansas City Chiefs",
-      "link": "https://www.chiefs.com/news/chiefs-announce-practice-squad-and-other-roster-moves-heading-into-2025-nfl-season"
-    },
-    {
-      "title": "Micah, Schotty discuss 'number of issues' ahead of Eagles clash - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/micah-schotty-discuss-number-of-issues-ahead-of-eagles-clash"
-    },
-    {
-      "title": "2025 Cowboys Roster: Holden, Grier fill out practice squad - Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/2025-cowboys-roster-holden-others-head-to-practice-squad"
+      "title": "Chiefs receiver Rashee Rice is suspended 6 games by NFL, beginning with opener next week in Brazil - AP News",
+      "link": "https://apnews.com/article/kansas-city-chiefs-rashee-rice-suspended-db7c2a8f3521f044eae93709290564c8"
     }
   ],
   "weather": {
