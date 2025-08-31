@@ -1,9 +1,9 @@
 {
-  "quote": "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. \u2013 Mark Twain",
-  "fact": "The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.",
-  "crypto": "BTC: $108,923 | ETH: $4,465.83",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a nervous javelin thrower? Shakespeare.",
+  "quote": "The only limits in your life are those that you set yourself. \u2013 Celestine Chua",
+  "fact": "Tigers not only have striped fur, they have striped skin!",
+  "crypto": "BTC: $109,048 | ETH: $4,471.88",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "How do you teach a kid to climb stairs? There is a step by step guide.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices - The Hacker News",
+      "link": "https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html"
+    },
+    {
+      "title": "Labor Day Apple deals now live: MacBook, AirPods, iPhone 16 Pro, Mac mini, iPad, more [Update #2] - 9to5Toys",
+      "link": "http://9to5toys.com/2025/08/29/early-labor-day-apple-deals-live/"
+    },
     {
       "title": "Google tells billions of Gmail users to change passwords - NewsNation",
       "link": "https://www.newsnationnow.com/business/tech/google-billions-gmail-change-passwords/"
@@ -28,40 +36,36 @@
       "link": "https://www.investors.com/news/technology/apple-stock-problem-apple-ai/"
     },
     {
-      "title": "With new in-house models, Microsoft lays the groundwork for independence from OpenAI - Ars Technica",
-      "link": "https://arstechnica.com/ai/2025/08/with-new-in-house-models-microsoft-lays-the-groundwork-for-independence-from-openai/"
+      "title": "Microsoft\u2019s next annual update for Windows 11 is in Release Preview testing - The Verge",
+      "link": "https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test"
     },
     {
       "title": "$200 MGS Delta Collector's Edition Ridiculed Over Temu-Esque Snake Figurine - Push Square",
       "link": "https://www.pushsquare.com/news/2025/08/usd200-mgs-delta-collectors-edition-ridiculed-over-temu-esque-snake-figurine"
     },
     {
-      "title": "Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/"
-    },
-    {
       "title": "NBA 2K26 Review in Progress - IGN",
       "link": "https://www.ign.com/articles/nba-2k26-review"
     },
     {
-      "title": "WhatsApp fixes \u2018zero-click\u2019 bug used to hack Apple users with spyware - TechCrunch",
-      "link": "https://techcrunch.com/2025/08/29/whatsapp-fixes-zero-click-bug-used-to-hack-apple-users-with-spyware/"
+      "title": "Kirby Star-Crossed World Review - Forgotten Land Gets Bigger, Only Slightly Better - GameSpot",
+      "link": "https://www.gamespot.com/reviews/kirby-star-crossed-world-review-forgotten-land-gets-bigger-only-slightly-better/1900-6418401/"
     },
     {
-      "title": "Yooka-Replaylee lands autumn release date - Eurogamer",
-      "link": "https://www.eurogamer.net/yooka-replaylee-lands-autumn-release-date"
+      "title": "Yooka-Replaylee Gets A Launch Date On Switch 2, Full Physical Release Confirmed - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/08/yooka-replaylee-gets-a-launch-date-on-switch-2-full-physical-release-confirmed"
     },
     {
       "title": "Capcom Confirms Pragmata Isn't Secretly A Mega Man Game - Kotaku",
       "link": "https://kotaku.com/capcom-pragmata-mega-man-conspiracy-theory-debunked-2000621414"
     },
     {
-      "title": "Pictures, Not Photos: What\u2019s Going On With the Pixel 10 Pro \u201cPro-Res Zoom\u201d - whatever.scalzi.com",
-      "link": "https://whatever.scalzi.com/2025/08/29/pictures-not-photos-whats-going-on-with-the-pixel-10-pro-pro-res-zoom/"
-    },
-    {
       "title": "John Carmack's arguments against building a custom XR OS at Meta - Hacker News",
       "link": "https://news.ycombinator.com/item?id\\\\u003d45066395"
+    },
+    {
+      "title": "iPhone 17 Pro rumors: Apple's best iPhones are about to get even better - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better"
     },
     {
       "title": "Konami Hopes To Revive \u2018Metal Gear\u2019 Game Franchise - Bloomberg.com",
@@ -72,34 +76,46 @@
       "link": "https://9to5mac.com/2025/08/29/why-airpods-pro-3-will-be-an-instant-upgrade-for-me/"
     },
     {
-      "title": "Bungie is offering $500 reward just to play Marathon - Dexerto",
-      "link": "https://www.dexerto.com/gaming/bungie-is-offering-huge-500-reward-just-to-play-marathon-3243808/"
+      "title": "The future of AI hardware isn\u2019t one device \u2014 it\u2019s an entire ecosystem - The Verge",
+      "link": "https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing"
     },
     {
-      "title": "Some early Pixel 10 buyers report wireless charging issues; start and stop, slow speeds - 9to5Google",
-      "link": "http://9to5google.com/2025/08/29/google-pixel-10-wireless-charging-issues-slow/"
+      "title": "Hisense\u2019s take on the Samsung Frame TV is $300 off - The Verge",
+      "link": "https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale"
     },
     {
-      "title": "Apple Has a Surplus of 2025 MacBook Airs and Is Clearing Out Stock at a Record Low Price - Gizmodo",
-      "link": "https://gizmodo.com/apple-has-a-surplus-of-2025-macbook-airs-and-is-clearing-out-stock-at-a-record-low-price-2000650455"
+      "title": "Get the Latest Information on the 2026 Pok\u00e9mon Championship Series - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/get-the-latest-information-on-the-2026-pokemon-championship-series"
     },
     {
-      "title": "Framework actually did it: I upgraded a laptop\u2019s entire GPU in just three minutes - The Verge",
-      "link": "https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes"
-    },
-    {
-      "title": "Nintendo Stock (NTDOF) Slips Despite Switch 2 Sales Milestone - TipRanks",
-      "link": "https://www.tipranks.com/news/nintendo-stock-ntdof-slips-despite-switch-2-sales-milestone"
+      "title": "The MacRumors Show: iPhone 17's 'Awe Dropping' Accessories - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/29/the-macrumors-show-iphone-17-accessories/"
     }
   ],
   "sports_news": [
+    {
+      "title": "DBX 3 results: Jairzinho Rozenstruik colds Rakim Cleveland with vicious knockout to win Dirty Boxing title - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/401448/dbx-3-results-jairzinho-rozenstruik-colds-rakim-cleveland-knockout-dirty-boxing-title"
+    },
+    {
+      "title": "Best College Football Picks Friday Night (August 29) - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/college-football-picks-predictions-friday-august-29-qs"
+    },
     {
       "title": "Jonah Tong looks like a phenom who belongs in strong debut as Mets crush Marlins - New York Post",
       "link": "https://nypost.com/2025/08/29/sports/jonah-tong-looks-like-he-belongs-in-strong-debut-as-mets-crush-marlins/"
     },
     {
-      "title": "Georgia Tech 27-20 Colorado (Aug 29, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/college-football/recap?gameId=401754375"
+      "title": "Auburn 38-24 Baylor (Aug 29, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/college-football/recap?gameId=401752667"
+    },
+    {
+      "title": "Misfits Boxing 22 Results: Till vs. Rockhold - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/401221/misfits-boxing-22-results-till-vs-rockhold"
+    },
+    {
+      "title": "Georgia Tech Yellow Jackets vs. Colorado Buffaloes Live Score and Stats - August 29, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20250829_GATECH@COLO/"
     },
     {
       "title": "Quick hits: Jacas, Beatty lead No. 12 Illini to breezy 52-3 season-opening win over Western Illinois - 247Sports",
@@ -110,56 +126,36 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-will-be-first-packer-to-wear-no-1-since-curly-lambeau"
     },
     {
-      "title": "Suspended Little Leaguer\u2019s bat sells for nearly $10,000 at auction - AP News",
-      "link": "https://apnews.com/article/rocco-little-league-bat-flip-96f03fe4ba6331897e98b44af890d65f"
-    },
-    {
-      "title": "Colorado puts bathroom on sideline for Deion Sanders after bladder removal - New York Post",
-      "link": "https://nypost.com/2025/08/29/sports/colorado-puts-bathroom-on-sideline-for-deion-sanders/"
-    },
-    {
-      "title": "Micah Parsons trade will go down as one of \u2018biggest mistakes in NFL history\u2019: ESPN reporter - New York Post",
-      "link": "https://nypost.com/2025/08/29/sports/micah-parsons-trade-will-go-down-as-one-of-biggest-mistakes-in-nfl-history-espn-insider/"
+      "title": "Prime spot: Deion Sanders has a sideline bathroom at Colorado, sponsored by Depend undergarment - AP News",
+      "link": "https://apnews.com/article/deion-sanders-colorado-0b431f8246c0bde83a0b9496a8f11199"
     },
     {
       "title": "Ben Shelton out of the US Open after injuring shoulder against Mannarino - AP News",
       "link": "https://apnews.com/article/us-open-ben-shelton-shoulder-injury-27e9d5777bb089e5072b932665939084"
     },
     {
-      "title": "Lee Corso to make final \u2018College GameDay\u2019 headgear pick where tradition began - OregonLive.com",
-      "link": "https://www.oregonlive.com/collegefootball/2025/08/lee-corso-to-make-final-college-gameday-headgear-pick-where-tradition-began.html"
+      "title": "MLB Gameday: Marlins 9, Mets 19 Final Score (08/29/2025) - MLB.com",
+      "link": "https://www.mlb.com/gameday/marlins-vs-mets/2025/08/29/776548/live"
     },
     {
-      "title": "Pregame notes before Auburn at Baylor - 247Sports",
-      "link": "https://247sports.com/college/auburn/article/auburn-baylor-tigers-2025-football-eric-singleton-jr-alex-mcpherson-253138813/"
+      "title": "Lee Corso to make final \u2018College GameDay\u2019 headgear pick where tradition began - OregonLive.com",
+      "link": "https://www.oregonlive.com/collegefootball/2025/08/lee-corso-to-make-final-college-gameday-headgear-pick-where-tradition-began.html"
     },
     {
       "title": "Remembering Ben Arnet: A Mizzou Storyteller Gone Too Soon - University of Missouri Athletics",
       "link": "https://mutigers.com/news/2025/8/29/general-remembering-ben-arnet-a-true-son-storyteller-gone-too-soon.aspx"
     },
     {
-      "title": "Diamondbacks Recall Jordan Lawlar - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/diamondbacks-recall-jordan-lawlar.html"
+      "title": "How to watch Sunday's Southern 500 Cup race at Darlington: Start time, TV info and weather - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/how-to-watch-sunday-southern-500-cup-race-at-darlington-start-time-tv-info-and-weather-august-2025"
     },
     {
       "title": "Miami Hurricanes player arrested in triple-fatal Largo crash - Tampa Bay Times",
       "link": "https://www.tampabay.com/news/crime/2025/08/29/adarius-hayes-arrest-university-miami-football-player-largo-crash/"
     },
     {
-      "title": "What can Cougars get out of Saturday\u2019s opener against overmatched Vikings? - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/08/29/byu-football-portland-state-fcs-cupcake-bachmeier-bear-tiger-start/"
-    },
-    {
-      "title": "Norris sets the pace again as FP2 disrupted by two red flags - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp2-norris-sets-the-pace-again-ahead-of-dutch-grand-prix-as-session.5Wg647zzP3z6Gx7qRleWRJ"
-    },
-    {
       "title": "Panthers GM: Adam Thielen was 'adamant' he wanted to go to Minnesota - Sports Illustrated",
       "link": "https://www.si.com/nfl/vikings/news/panthers-gm-adam-thielen-was-adamant-he-wanted-go-minnesota"
-    },
-    {
-      "title": "Luke Rockhold reveals new nickname that hints at his scary plan for Darren Till fight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/08/29/luke-rockhold-reveals-new-nickname-that-hints-at-his-scary-plan-for-darren-till-fight/"
     },
     {
       "title": "NASCAR agrees to hold charters for 23XI, Front Row if they win suit - Motorsport.com",
