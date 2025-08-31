@@ -1,9 +1,9 @@
 {
-  "quote": "Life moves on and so should we. \u2013 Spencer Johnson",
-  "fact": "In the 1980`s American migraines increased by 60%.",
-  "crypto": "BTC: $108,805 | ETH: $4,472.47",
+  "quote": "Focused, hard work is the real key to success. \u2013 John Carmack",
+  "fact": "Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.",
+  "crypto": "BTC: $108,709 | ETH: $4,456.54",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
+  "joke": "Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Google tells billions of Gmail users to change passwords - NewsNation",
+      "link": "https://www.newsnationnow.com/business/tech/google-billions-gmail-change-passwords/"
+    },
     {
       "title": "Can't Decide Between Shinobi And Ninja Gaiden? This Steam Bundle Should Help - Time Extension",
       "link": "https://www.timeextension.com/news/2025/08/cant-decide-between-shinobi-and-ninja-gaiden-this-steam-bundle-should-help"
@@ -20,24 +24,16 @@
       "link": "https://www.arcaracing.com/2025/08/29/qualifying-results-west-series-portland/"
     },
     {
-      "title": "Gmail users: Change your password now - Mashable",
-      "link": "https://mashable.com/article/gmail-password-data-breach-phishing"
-    },
-    {
-      "title": "Do the simplest thing that could possibly work - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45068091"
-    },
-    {
       "title": "With new in-house models, Microsoft lays the groundwork for independence from OpenAI - Ars Technica",
       "link": "https://arstechnica.com/ai/2025/08/with-new-in-house-models-microsoft-lays-the-groundwork-for-independence-from-openai/"
     },
     {
-      "title": "Microsoft\u2019s next annual update for Windows 11 is in Release Preview testing - The Verge",
-      "link": "https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test"
-    },
-    {
       "title": "$200 MGS Delta Collector's Edition Ridiculed Over Temu-Esque Snake Figurine - Push Square",
       "link": "https://www.pushsquare.com/news/2025/08/usd200-mgs-delta-collectors-edition-ridiculed-over-temu-esque-snake-figurine"
+    },
+    {
+      "title": "Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/"
     },
     {
       "title": "NBA 2K26 Review in Progress - IGN",
@@ -68,10 +64,6 @@
       "link": "https://www.bloomberg.com/news/newsletters/2025-08-29/konami-hopes-to-revive-metal-gear-game-franchise"
     },
     {
-      "title": "Bungie is offering $500 reward just to play Marathon - Dexerto",
-      "link": "https://www.dexerto.com/gaming/bungie-is-offering-huge-500-reward-just-to-play-marathon-3243808/"
-    },
-    {
       "title": "Some early Pixel 10 buyers report wireless charging issues; start and stop, slow speeds - 9to5Google",
       "link": "http://9to5google.com/2025/08/29/google-pixel-10-wireless-charging-issues-slow/"
     },
@@ -80,8 +72,16 @@
       "link": "https://gizmodo.com/apple-has-a-surplus-of-2025-macbook-airs-and-is-clearing-out-stock-at-a-record-low-price-2000650455"
     },
     {
+      "title": "Rematch will finally get crossplay features in next week's update - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/rematch-crossplay-update"
+    },
+    {
       "title": "An Electrician Begs: Never Plug These 7 Devices Into Extension Cords - CNET",
       "link": "https://www.cnet.com/home/kitchen-and-household/an-electrician-beds-never-plug-these-7-devices-into-extension-cords/"
+    },
+    {
+      "title": "Nintendo Stock (NTDOF) Slips Despite Switch 2 Sales Milestone - TipRanks",
+      "link": "https://www.tipranks.com/news/nintendo-stock-ntdof-slips-despite-switch-2-sales-milestone"
     },
     {
       "title": "The future of AI hardware isn\u2019t one device \u2014 it\u2019s an entire ecosystem - The Verge",
@@ -93,6 +93,22 @@
     }
   ],
   "sports_news": [
+    {
+      "title": "Jonah Tong looks like a phenom who belongs in strong debut as Mets crush Marlins - New York Post",
+      "link": "https://nypost.com/2025/08/29/sports/jonah-tong-looks-like-he-belongs-in-strong-debut-as-mets-crush-marlins/"
+    },
+    {
+      "title": "Georgia Tech 27-20 Colorado (Aug 29, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/college-football/recap?gameId=401754375"
+    },
+    {
+      "title": "Micah Parsons will be first Packer to wear No. 1 since Curly Lambeau - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-will-be-first-packer-to-wear-no-1-since-curly-lambeau"
+    },
+    {
+      "title": "Suspended Little Leaguer\u2019s bat sells for nearly $10,000 at auction - AP News",
+      "link": "https://apnews.com/article/rocco-little-league-bat-flip-96f03fe4ba6331897e98b44af890d65f"
+    },
     {
       "title": "Prime spot: Deion Sanders has a sideline bathroom at Colorado, sponsored by Depend undergarment - AP News",
       "link": "https://apnews.com/article/deion-sanders-colorado-0b431f8246c0bde83a0b9496a8f11199"
@@ -106,32 +122,24 @@
       "link": "https://apnews.com/article/us-open-ben-shelton-shoulder-injury-27e9d5777bb089e5072b932665939084"
     },
     {
-      "title": "Packers hope Micah Parsons can help in \"some form or fashion\" in Week 1 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-hope-micah-parsons-can-help-in-some-form-or-fashion-in-week-1"
+      "title": "Pregame notes before Auburn at Baylor - 247Sports",
+      "link": "https://247sports.com/college/auburn/article/auburn-baylor-tigers-2025-football-eric-singleton-jr-alex-mcpherson-253138813/"
+    },
+    {
+      "title": "Diamondbacks Recall Jordan Lawlar - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/08/diamondbacks-recall-jordan-lawlar.html"
+    },
+    {
+      "title": "How to watch Sunday's Southern 500 Cup race at Darlington: Start time, TV info and weather - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/how-to-watch-sunday-southern-500-cup-race-at-darlington-start-time-tv-info-and-weather-august-2025"
     },
     {
       "title": "Miami Hurricanes player arrested in triple-fatal Largo crash - Tampa Bay Times",
       "link": "https://www.tampabay.com/news/crime/2025/08/29/adarius-hayes-arrest-university-miami-football-player-largo-crash/"
     },
     {
-      "title": "Red Sox Release Walker Buehler - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/08/red-sox-reportedly-release-walker-buehler.html"
-    },
-    {
-      "title": "Last Call: Biggest Questions, Players to Watch and Final Predictions for Ohio State\u2019s Season Opener vs. Texas - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/08/157564/last-call-biggest-questions-players-to-watch-and-final-predictions-for-ohio-state-s-season-opener-vs-texas"
-    },
-    {
-      "title": "Diamondbacks give top prospect Jordan Lawlar another shot with recall - Arizona Sports",
-      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/jordan-lawlar-8/3594235/"
-    },
-    {
       "title": "Panthers GM: Adam Thielen was 'adamant' he wanted to go to Minnesota - Sports Illustrated",
       "link": "https://www.si.com/nfl/vikings/news/panthers-gm-adam-thielen-was-adamant-he-wanted-go-minnesota"
-    },
-    {
-      "title": "Craig Breslow, Alex Cora explain decision to release Walker Buehler - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/08/craig-breslow-alex-cora-explain-decision-to-release-walker-buehler.html"
     },
     {
       "title": "NASCAR agrees to hold charters for 23XI, Front Row if they win suit - Motorsport.com",
@@ -142,10 +150,6 @@
       "link": "https://247sports.com/college/north-carolina/article/prospect-committed-elsewhere-expected-at-unc-for-season-opener-on-monday-253134094/"
     },
     {
-      "title": "3 things that stood out from Wisconsin\u2019s 17-0 win over Miami (OH) - Bucky's 5th Quarter",
-      "link": "https://www.buckys5thquarter.com/wisconsin-badgers-football/86214/wisconsin-badgers-football-news-3-things-that-stood-out-week-1-win"
-    },
-    {
       "title": "The Most-Hyped College Quarterback Ever Is Starting Saturday. The Pressure Couldn\u2019t Be Higher. - Slate",
       "link": "https://slate.com/culture/2025/08/football-schedule-college-texas-arch-manning.html"
     },
@@ -154,8 +158,8 @@
       "link": "https://www.on3.com/news/fox-to-televise-lee-corsos-final-headgear-selection/"
     },
     {
-      "title": "Kenny Clark \u201cshocked\u201d by trade but glad to be where he\u2019s wanted in Dallas - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenny-clark-shocked-by-trade-but-glad-to-be-where-hes-wanted-in-dallas"
+      "title": "College Football Week 1 Best Bets, Predictions, Picks: Texas vs Ohio State, Penn State, UNC, MSU & Colorado! - NBC Sports",
+      "link": "https://www.nbcsports.com/betting/college-football/news/college-football-week-1-best-bets-predictions-picks-texas-vs-ohio-state-penn-state-unc-msu-colorado"
     },
     {
       "title": "Leclerc seeks 'miracle' after 'worst Friday of the season' - Formula 1",
@@ -168,10 +172,6 @@
     {
       "title": "The Bookie At the Center of the Ohtani Betting Scandal Is Ready to Talk - Rolling Stone",
       "link": "http://www.rollingstone.com/culture/culture-features/mathew-bowyer-bookie-shohei-ohtani-ippei-mizuhara-1235417429/"
-    },
-    {
-      "title": "From Liability to Lifeline: Special Teams Lift Huskers Over Cincinnati - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/from-liability-to-lifeline-special-teams-lift-huskers-over-cincinnati-nebraska-cornhuskers-arrowhead-big-ten-12"
     }
   ],
   "weather": {
