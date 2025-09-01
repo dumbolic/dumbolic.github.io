@@ -1,9 +1,9 @@
 {
-  "quote": "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. \u2013 Bob Proctor",
-  "fact": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
-  "crypto": "BTC: $108,843 | ETH: $4,356.59",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
+  "quote": "Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. \u2013 Colin Powell",
+  "fact": "Half of all Americans live within 50 miles of their birthplace.",
+  "crypto": "BTC: $108,578 | ETH: $4,330.61",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why did the coffee file a police report? It got mugged.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Overwatch 2 takes action against 23,000 cheats, bringing total of banned accounts to over 1m players - Eurogamer",
+      "link": "https://www.eurogamer.net/overwatch-2-takes-action-against-23000-cheats-bringing-total-of-banned-accounts-to-over-1m-players"
+    },
+    {
+      "title": "Star Wars Outlaws Out On Switch 2 In Days And Footage Is Being Kept Secret - Kotaku",
+      "link": "https://kotaku.com/star-wars-outlaws-switch-2-assassins-creed-shadows-framerate-2000621760"
+    },
+    {
+      "title": "Escape from Tarkov is coming to Steam - Eurogamer",
+      "link": "https://www.eurogamer.net/escape-from-tarkov-is-coming-to-steam"
+    },
+    {
+      "title": "\u2018Alpha of alphas\u2019: Giants\u2019 Tyler Nubin says that is \u2018who I am\u2019 - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-news/134418/alpha-of-alphas-giants-tyler-nubin-says-that-is-who-i-am"
+    },
+    {
+      "title": "Apple Hints at iPhone 17 Models Lacking SIM Card Slot in More Countries - MacRumors",
+      "link": "https://www.macrumors.com/2025/08/31/apple-hints-at-esim-only-iphone-17/"
+    },
+    {
       "title": "MSI Afterburner September update focusing on RTX 50 PWM controllers - VideoCardz.com",
       "link": "https://videocardz.com/newz/msi-afterburner-september-update-focusing-on-rtx-50-pwm-controllers"
     },
     {
       "title": "iPhone 17 Pro Clear Case may feature redesign and possibly tinted options - 9to5Mac",
       "link": "https://9to5mac.com/2025/08/31/iphone-17-pro-clear-case-may-feature-redesign-and-possibly-tinted-options/"
+    },
+    {
+      "title": "Northern lights may be visible in these 18 US states Sept. 1-2 - Space",
+      "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-18-us-states-sept-1-2-2025"
+    },
+    {
+      "title": "The Biggest Game Releases Of September 2025 - GameSpot",
+      "link": "https://www.gamespot.com/gallery/the-biggest-game-releases-of-september-2025/2900-6908/"
     },
     {
       "title": "These Are the Settings I Always Change on a New Google Pixel Phone - WIRED",
@@ -36,12 +64,24 @@
       "link": "https://gizmodo.com/google-data-breach-2000650970"
     },
     {
-      "title": "For Ford, SHO Meant Fast \u2014 But What Did It Really Stand For? - Jalopnik",
-      "link": "https://www.jalopnik.com/1949501/ford-sho-meaning/"
+      "title": "Starfield Overhaul Makes Exploring Planets So Much Better - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/starfield-overhaul-makes-exploring-planets-better-681902-20250831"
     },
     {
-      "title": "A New iPhone Is Coming. Should You Upgrade or Just Fix Your Old One? - The Wall Street Journal",
-      "link": "https://www.wsj.com/tech/personal-tech/iphone-17-upgrade-decision-cb29aed7"
+      "title": "Try to spot a rare Aurigid meteor as the shower peaks overnight on Aug. 31 - Space",
+      "link": "https://www.space.com/stargazing/meteor-showers/aurigid-meteor-shower-peaks-overnight-on-aug-31-2025"
+    },
+    {
+      "title": "Google: 'Your $1000 phone needs our permission to install apps now' [video] - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45082750"
+    },
+    {
+      "title": "512GB SSD, 16GB RAM, i5: This Dell 15\u2033 Laptop Is Almost Free with an Amazon Hack - Gizmodo",
+      "link": "https://gizmodo.com/512gb-ssd-16gb-ram-i5-this-dell-15-laptop-is-almost-free-with-an-amazon-hack-2000651301"
+    },
+    {
+      "title": "For Ford, SHO Meant Fast \u2014 But What Did It Really Stand For? - Jalopnik",
+      "link": "https://www.jalopnik.com/1949501/ford-sho-meaning/"
     },
     {
       "title": "11 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
@@ -50,49 +90,33 @@
     {
       "title": "Helldivers 2 Xbox Sales Estimates Predict a Helluva Start for Sony's Live Service - Push Square",
       "link": "https://www.pushsquare.com/news/2025/08/helldivers-2-xbox-sales-estimates-predict-a-helluva-start-for-sonys-live-service"
-    },
-    {
-      "title": "Here's 22 of the Best Labor Day Deals on Laptops, Tablets, Phones, and More - PCMag",
-      "link": "https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals"
-    },
-    {
-      "title": "US: Mario Kart 8 Deluxe is currently outselling Mario Kart World - My Nintendo News",
-      "link": "https://mynintendonews.com/2025/08/31/us-mario-kart-8-deluxe-is-currently-outselling-mario-kart-world/"
-    },
-    {
-      "title": "People Are Sharing Things That Were Supposed To Be \"The Next Big Thing\" But Totally Flopped, And I Honestly Forgot About Half Of These - Yahoo Lifestyle Canada",
-      "link": "https://www.buzzfeed.com/briangalindo/next-big-things-that-flopped"
-    },
-    {
-      "title": "Daily Hub is one of the worst Pixel features I've ever used - Android Authority",
-      "link": "https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/"
-    },
-    {
-      "title": "This Mitsubishi Packed More Horsepower Per Liter Than A Chiron - Jalopnik",
-      "link": "https://www.jalopnik.com/1946296/mitsubishi-lancer-evo-more-horsepower-liter-chiron/"
-    },
-    {
-      "title": "This refurbished MacBook Air with the M1 chip is basically new\u2026 and it\u2019s now over 50% off - Mashable",
-      "link": "https://mashable.com/article/aug-31-macbook-air-m1-deal"
-    },
-    {
-      "title": "Borderlands 4 Post-Launch Roadmap Outlines The \"First Few Months\" - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/08/borderlands-4-post-launch-roadmap-outlines-the-first-few-months"
-    },
-    {
-      "title": "Metal Gear Solid Delta: Snake Eater PC Users Can Add Lumen RT, Ray Reconstruction, and DLSS 4 FG with Simple Tweaks - Wccftech",
-      "link": "https://wccftech.com/metal-gear-solid-delta-snake-eater-pc-users-add-lumen-rt-dlss-4-frame-gen/"
-    },
-    {
-      "title": "ZOTAC Zone Pro to feature Ryzen HX 370, 7\u2033 OLED screen, 32GB RAM and Manjaro Linux - VideoCardz.com",
-      "link": "https://videocardz.com/newz/zotac-zone-pro-to-feature-ryzen-hx-370-7-oled-screen-32gb-ram-and-manjaro-linux"
-    },
-    {
-      "title": "Google Tensor G5 shows mixed results in new Pixel 10 XL gaming test - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Google-Tensor-G5-shows-mixed-results-in-new-Pixel-10-XL-gaming-test.1101321.0.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "Source: Cowboys, Bland reach $92M extension - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46121475/source-cowboys-daron-bland-reach-4-year-92m-extension"
+    },
+    {
+      "title": "William Saliba injury news \u2014 Latest update as Arsenal lose key center back early vs Liverpool - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/william-saliba-injury-arsenal-loses-french-center-back-early-vs-liverpool"
+    },
+    {
+      "title": "Sounders FC Offer Fans the Chance to Exchange Lionel Messi Jersey for Paul Rothrock Kit Today During the Leagues Cup 2025 Final at Lumen Field - Seattle Sounders FC",
+      "link": "https://www.soundersfc.com/news/sounders-fc-offer-fans-the-chance-to-exchange-lionel-messi-jersey-for-paul-rothrock-kit-today-during-the-leagues-cup-2025-final-at-lumen-field"
+    },
+    {
+      "title": "Cubs To Sign Carlos Santana - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/08/cubs-to-sign-carlos-santana.html"
+    },
+    {
+      "title": "Guardians pitchers on leave 'until further notice' - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46120812/guardians-clase-ortiz-remain-leave-amid-gambling-inquiry"
+    },
+    {
+      "title": "5 takeaways from Oregon State football\u2019s lackluster opener vs. California - OregonLive.com",
+      "link": "https://www.oregonlive.com/beavers/2025/08/5-takeways-from-oregon-state-footballs-lackluster-opener-vs-california.html"
+    },
     {
       "title": "Piastri wins as Norris retires in dramatic Dutch GP - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/piastri-wins-as-norris-faces-late-race-retirement-in-dramatic-dutch-grand.5gVVQeQH0zjZk9hl6k6wvv"
@@ -106,16 +130,28 @@
       "link": "https://www.nbcsports.com/soccer/news/pep-guardiola-reaction-what-did-manchester-city-boss-say-after-shocking-collapse-at-brighton"
     },
     {
-      "title": "Snap Count Tracker: FSU vs. Alabama | A true two-deep on defense - 247Sports",
-      "link": "https://247sports.com/college/florida-state/longformarticle/snap-count-tracker-fsu-vs-alabama-a-true-two-deep-on-defense-253262854/"
+      "title": "Look for next CBA to make it harder for players like Micah Parsons to hold-in - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/look-for-next-cba-to-make-it-harder-for-players-like-micah-parsons-to-hold-in"
     },
     {
-      "title": "Kenny Dillingham says he was out-coached in Arizona State\u2019s win over NAU to open season - Arizona Sports",
-      "link": "https://arizonasports.com/ncaa/arizona-state-football/outcoached/3594475/"
+      "title": "Luke Rockhold releases first statement after vicious knockout loss to Darren Till at Misfits Boxing 22 - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/401766/luke-rockhold-releases-first-statement-after-vicious-knockout-loss-to-darren-till-at-misfits-boxing-22"
+    },
+    {
+      "title": "LOOK: Florida State's Thomas Castellanos releases 'Nick can't save them' T-shirts following Alabama win - On3",
+      "link": "https://www.on3.com/news/florida-states-thomas-castellanos-releases-nick-cant-save-them-t-shirts-following-alabama-win/"
+    },
+    {
+      "title": "Paul Finebaum reacts to 'terrible' Week 1 for Arch Manning, makes prediction on rest of season - On3",
+      "link": "https://www.on3.com/college/texas-longhorns/news/paul-finebaum-reacts-to-terrible-week-1-for-arch-manning-makes-prediction-on-rest-of-season/"
     },
     {
       "title": "Move aside Arch Manning, the breakout star from Ohio State vs. Texas football is a Cleveland product - Cleveland.com",
       "link": "https://www.cleveland.com/osu/2025/08/move-aside-arch-manning-the-breakout-star-from-ohio-state-vs-texas-football-is-a-cleveland-product.html"
+    },
+    {
+      "title": "Nation's No. 1 edge rusher DJ Jacobs takes in Florida State's big win over Alabama - 247Sports",
+      "link": "https://247sports.com/college/florida-state/article/nations-no-1-edge-rusher-dj-jacobs-takes-in-florida-states-big-win-over-alabama-253257683/"
     },
     {
       "title": "A lot has happened since Naomi Osaka and Coco Gauff last played each other at the US Open - AP News",
@@ -126,52 +162,16 @@
       "link": "https://www.cnn.com/2025/08/31/sport/tennis-us-open-williams-fernandez-intl"
     },
     {
-      "title": "Portland State coach says BYU QB Bear Bachmeier looks like a \u2018centaur\u2019 after 69-0 blowout - The Salt Lake Tribune",
-      "link": "https://www.sltrib.com/sports/byu-cougars/2025/08/31/bear-bachmeier-debuts-byu-football/"
+      "title": "Syracuse football\u2019s biggest weakness still needs work: \u2018What do you want me to say?\u2019 - Syracuse.com",
+      "link": "https://www.syracuse.com/orangefootball/2025/08/syracuse-footballs-biggest-weakness-still-needs-work-what-do-you-want-me-to-say.html"
     },
     {
-      "title": "Eagles News: \u201cThe Cowboys have the shakiest defense in the league\u201d - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/157123/eagles-news-the-cowboys-have-the-shakiest-defense-in-the-league"
+      "title": "Position grades for Michigan Football\u2019s win vs New Mexico - Maize n Brew",
+      "link": "https://www.maizenbrew.com/michigan-football-analysis/91302/michigan-wolverines-football-position-grades-bryce-underwood-justice-haynes-marlin-klein-tj-guy"
     },
     {
-      "title": "Dustin Poirier gives fitting one-word reaction to Luke Rockhold's devastating KO loss to Darren Till - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/08/31/dustin-poirier-gives-fitting-one-word-reaction-to-luke-rockholds-devastating-ko-loss-to-darren-till/"
-    },
-    {
-      "title": "Drama followed the NFL's greatest coach to college. Can Bill Belichick produce wins, too? - NBC News",
-      "link": "https://www.nbcnews.com/sports/college-football/bill-belichick-unc-jordon-hudson-rcna227832"
-    },
-    {
-      "title": "Everything Josh Heupel said after Tennessee's 45-26 win over Syracuse to open the season - On3",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-syracuse-josh-heupel-press-conference-post-game-vols-football/"
-    },
-    {
-      "title": "US Open uproar: Polish millionaire Piotr Szczerek vanishes from social media after snatching child's signe - The Economic Times",
-      "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-us-open-uproar-polish-millionaire-piotr-szczerek-vanishes-from-social-media-after-snatching-childs-signed-hat-kamil-majchrzak/articleshow/123613742.cms"
-    },
-    {
-      "title": "F1 Summer Break ends today\u2014Here\u2019s how to watch the Dutch Grand Prix for free - New York Post",
-      "link": "https://nypost.com/2025/08/31/sports/how-to-watch-f1-2025-dutch-grand-prix-for-free-time-us-streaming/"
-    },
-    {
-      "title": "Football Wins Inaugural Game in Front of 12,726 Fans - UTRGV Athletics",
-      "link": "https://goutrgv.com/news/2025/8/30/football-wins-inaugural-game-in-front-of-12-726-fans.aspx"
-    },
-    {
-      "title": "Brian Kelly, LSU can breathe sigh of relief after road win at Clemson snaps Week 1 losing streak - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/article/brian-kelly-lsu-can-breathe-sigh-of-relief-after-road-win-at-clemson-snaps-week-1-losing-streak-053123454.html"
-    },
-    {
-      "title": "What\u2019s being said nationally about Bryce Underwood, Michigan\u2019s win vs. New Mexico - MLive.com",
-      "link": "https://www.mlive.com/wolverines/2025/08/whats-being-said-nationally-about-bryce-underwood-michigans-win-vs-new-mexico.html"
-    },
-    {
-      "title": "Takeaways from Week 1: Arch Manning, Alabama have work to do - NBC Sports",
-      "link": "https://www.nbcsports.com/college-football/news/takeaways-from-week-1-arch-manning-alabama-have-work-to-do"
-    },
-    {
-      "title": "Five takeaways from Florida's 55-0 win over Long Island - 247Sports",
-      "link": "https://247sports.com/college/florida/longformarticle/florida-football-five-takeaways-gators-win-long-island-university-season-opener-dj-lagway-tramell-jones-253246525/"
+      "title": "Six Thoughts on the Patriots\u2019 Rivalries Uniforms - Uni Watch",
+      "link": "https://uni-watch.com/2025/08/31/six-thoughts-on-the-patriots-rivalries-uniforms/"
     }
   ],
   "weather": {
