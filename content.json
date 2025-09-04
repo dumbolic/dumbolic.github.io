@@ -1,9 +1,9 @@
 {
-  "quote": "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. \u2013 Celestine Chua",
-  "fact": "The dot over the letter `i` is called a tittle. \u00a0",
-  "crypto": "BTC: $110,308 | ETH: $4,305.0",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
+  "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. \u2013 Thich Nhat Hanh",
+  "fact": "Mr. Rogers is an ordained minister.",
+  "crypto": "BTC: $110,355 | ETH: $4,306.46",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI - Bloomberg Law News",
-      "link": "https://news.bloomberglaw.com/artificial-intelligence/apple-plans-ai-powered-web-search-tool-for-siri-to-rival-openai"
+      "title": "Leaked Fallout Merch Appears To Use AI-Generated Slop - Kotaku",
+      "link": "https://kotaku.com/leaked-fallout-merch-ai-art-target-hot-sauce-bethesda-2000622731"
+    },
+    {
+      "title": "Hands-on: Chromebooks are in a weird place, and Acer\u2019s latest is a perfect example - 9to5Google",
+      "link": "http://9to5google.com/2025/09/03/hands-on-chromebooks-are-in-a-weird-place-and-acers-latest-is-a-perfect-example/"
+    },
+    {
+      "title": "Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI, Perplexity - Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance"
     },
     {
       "title": "These psychological tricks can get LLMs to respond to \u201cforbidden\u201d prompts - Ars Technica",
       "link": "https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/"
     },
     {
-      "title": "Anker\u2019s power bank with dual USB-C retractable cables is a great deal at $25 off - The Verge",
-      "link": "https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale"
+      "title": "Pixel phones are getting Android\u2019s \u2018Audio Sharing\u2019 with Auracast support - 9to5Google",
+      "link": "http://9to5google.com/2025/09/03/auracast-le-audio-sharing-coming-to-pixel/"
     },
     {
       "title": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features - TechCrunch",
       "link": "https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/"
     },
     {
-      "title": "Pixel phones can now stream music for you and a friend at the same time - The Verge",
-      "link": "https://www.theverge.com/news/770233/google-android-bluetooth-audio-le-multiple-headphones"
-    },
-    {
       "title": "Fake celebrity chatbots sent risqu\u00e9 messages to teens on top AI app - The Washington Post",
       "link": "https://www.washingtonpost.com/technology/2025/09/03/character-ai-celebrity-teen-safety/"
-    },
-    {
-      "title": "Major Amazon leak spoils the Philips Hue party - The Verge",
-      "link": "https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party"
     },
     {
       "title": "Diagnostic dilemma: Woman's severe knee pain reveals 'golden threads' in her joints - Live Science",
@@ -48,10 +48,6 @@
       "link": "https://www.gematsu.com/2025/09/marvel-rivals-coming-to-ps4-on-september-12-alongside-season-4-update"
     },
     {
-      "title": "Hollow Knight: Silksong Supports A PC Feature Missing From The Original - GameSpot",
-      "link": "https://www.gamespot.com/articles/hollow-knight-silksong-supports-a-pc-feature-missing-from-the-original/1100-6534444/"
-    },
-    {
       "title": "First Look at the next Expansion with a Showcase Set for October 15 - Disney Dreamlight Valley",
       "link": "https://disneydreamlightvalley.com/en/news/firstlook-sep-3-2025"
     },
@@ -60,8 +56,12 @@
       "link": "https://www.bloomberg.com/news/articles/2025-09-03/instagram-unveils-ipad-app-for-first-time-focused-on-reels"
     },
     {
-      "title": "How to watch Apple announce the iPhone 17 - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/03/how-to-watch-apple-announce-the-iphone-17/"
+      "title": "Claude Code: Now in Beta in Zed - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45116688"
+    },
+    {
+      "title": "AMD RDNA 5 \u201cRadeon\u201d GPUs Are Codenamed After Transformers: Alpha Trion, Ultra Magnus & Orion Pax - Wccftech",
+      "link": "https://wccftech.com/amd-rdna-5-radeon-gpus-codenamed-after-transformers-alpha-trion-ultra-magnus-orion-pax/"
     },
     {
       "title": "Netflix will let users customize and share clips on mobile - CNBC",
@@ -76,34 +76,66 @@
       "link": "https://www.dsogaming.com/pc-performance-analyses/cronos-the-new-dawn-ray-tracing-dlss-4-benchmarks/"
     },
     {
-      "title": "Beyond technology? How Bentley is reacting to the 21st century. - Ars Technica",
-      "link": "https://arstechnica.com/features/2025/09/beyond-technology-how-bentley-is-reacting-to-the-21st-century/"
+      "title": "Garmin\u2019s Fenix 8 Pro series finally lets you leave your phone at home \u2014 sort of - The Verge",
+      "link": "https://www.theverge.com/news/770034/garmin-fenix-8-pro-satellite-lte-microled-price"
+    },
+    {
+      "title": "No Man's Sky boss \"so happy\" as sim celebrates highest Steam player count since launch and fans go wild with new ship customisation - Eurogamer",
+      "link": "https://www.eurogamer.net/no-mans-sky-boss-so-happy-as-sim-celebrates-highest-steam-player-count-since-launch-and-fans-go-wild-with-new-ship-customisation"
     }
   ],
   "sports_news": [
     {
-      "title": "Giants-Commanders Wednesday injury report: Andrew Thomas \u2018improving\u2019 - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-injuries/134658/giants-commanders-wednesday-injury-report-andrew-thomas-improving"
+      "title": "Week 1 Wednesday Injury Report: Ikem Ekwonu held out - Carolina Panthers",
+      "link": "https://www.panthers.com/news/week-1-wednesday-injury-report"
+    },
+    {
+      "title": "Jakobi Meyers addresses trade request, his future with the Raiders - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jakobi-meyers-addresses-trade-request-his-future-with-the-raiders"
+    },
+    {
+      "title": "Riders call for Israel Premier-Tech to leave the Vuelta a Espa\u00f1a - Escape Collective",
+      "link": "https://escapecollective.com/riders-call-for-israel-premier-tech-to-leave-the-vuelta-a-espana/"
+    },
+    {
+      "title": "Turning Point: A fresh title favorite emerges as desperation sets in at Gateway - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/09/03/turning-point-a-fresh-title-favorite-emerges-as-desperation-sets-in-at-gateway/"
+    },
+    {
+      "title": "Week 1 Injury Report (Jets) - Steelers.com",
+      "link": "https://www.steelers.com/news/week-1-injury-report-jets"
     },
     {
       "title": "Will Power leaves Team Penske after 17 years to join Andretti Global - AP News",
       "link": "https://apnews.com/article/indycar-andretti-power-penske-herta-d54b4aaf3beabae7b00d605e3ce266e8"
     },
     {
-      "title": "Dan Campbell loves Lambeau Field, where the Lions have won the last three years - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-loves-lambeau-field-where-the-lions-have-won-the-last-three-years"
+      "title": "Cristian Roldan Added to USMNT Roster for September Matches against Korea Republic and Japan - US Soccer",
+      "link": "https://ussoccer.com/stories/2025/09/cristian-roldan-added-usmnt-roster-september-world-cup-qualified-korea-japan"
+    },
+    {
+      "title": "NFL crystal ball predictions for the 2025 season: Playoffs, Super Bowl picks - New York Post",
+      "link": "https://nypost.com/2025/09/03/sports/nfl-predictions-for-the-2025-season-playoffs-super-bowl-picks/"
     },
     {
       "title": "Patrick Mahomes can break two NFL touchdown pass records on Friday night - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-can-break-two-nfl-touchdown-pass-records-on-friday-night"
     },
     {
-      "title": "Scott Hanson confirms NFL RedZone will have commercials this season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/scott-hanson-confirms-nfl-redzone-will-have-commercials-this-season"
+      "title": "Seahawks Sign Shemar Jean-Charles, Damien Martinez and Amari Kight To Practice Squad - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-sign-shemar-jean-charles-damien-martinez-and-amari-kight-to-practice-squad"
     },
     {
       "title": "FSU player was shot in back of head, father says - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/46148049/fsu-freshman-ethan-pritchard-stable-being-shot-head"
+    },
+    {
+      "title": "FanDuel partners with SEPTA to restore Broad Street Line service for home opener - Philadelphia Eagles",
+      "link": "https://www.philadelphiaeagles.com/news/fanduel-partners-with-septa-to-restore-broad-street-line-service-for-home-opener"
+    },
+    {
+      "title": "Seahawks Reveal Uniform Combination For Week 1 vs. 49ers - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-reveal-uniform-combination-for-week-1-vs-49ers"
     },
     {
       "title": "Roman Anthony injury: Red Sox star rookie looking at 4-6 week absence, utility man called up - MassLive",
@@ -114,48 +146,12 @@
       "link": "https://www.phillyvoice.com/10-eagles-predictions-heading-2025-nfl-season-jalen-hurts-saquon-barkley-aj-brown-fantasy-football/"
     },
     {
+      "title": "Report: Jets fear Alijah Vera-Tucker suffered season-ending torn triceps muscle - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jets-fear-alijah-vera-tucker-suffered-season-ending-torn-triceps-muscle"
+    },
+    {
       "title": "Kalen DeBoer reacts to report about Alabama boosters' discontent - 247Sports",
       "link": "https://247sports.com/college/alabama/article/kalen-deboer-reacts-to-report-about-alabama-boosters-discontent-253415662/"
-    },
-    {
-      "title": "NFL Fantasy 2025 Start 'Em, Sit 'Em: Wide receivers for Week 1 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-fantasy-2025-start-em-sit-em-wide-receivers-for-week-1"
-    },
-    {
-      "title": "NFL Fantasy 2025 Start 'Em, Sit 'Em: Quarterbacks for Week 1 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-fantasy-2025-start-em-sit-em-quarterbacks-for-week-1"
-    },
-    {
-      "title": "Vuelta a Espa\u00f1a stage 11 neutralised due to Israel protest at finish - Escape Collective",
-      "link": "https://escapecollective.com/vuelta-a-espana-stage-11-neutralised-due-to-israel-protest-at-finish/"
-    },
-    {
-      "title": "Red Sox Announcer Calls Out Astros Pitcher for 'All-Time Scumbag Move By a Teammate' - Sports Illustrated",
-      "link": "https://www.si.com/media/red-sox-announcer-framber-valdez-pitch-scumbag-move"
-    },
-    {
-      "title": "NFL Power Rankings Week 1: Setting the stage for 2025 season - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/nfl-power-rankings-week-1-2025-season"
-    },
-    {
-      "title": "Pavelski, Gomez, Parise among 5 elected to U.S. Hockey Hall of Fame - NHL.com",
-      "link": "https://www.nhl.com/news/u-s-hockey-hall-of-fame-class-of-2025-announced"
-    },
-    {
-      "title": "Power Rankings: Streaking Charlotte FC surge into top five - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/power-rankings-streaking-charlotte-fc-surge-into-top-five"
-    },
-    {
-      "title": "One-hit wonder? Undefeated PFL champ knocks Ilia Topuria from UFC pedestal \u2014 \u2018My resume is better than his\u2019 - MMA Mania",
-      "link": "https://www.mmamania.com/ufc-news/386819/one-hit-wonder-undefeated-pfl-champ-knocks-ilia-topuria-from-ufc-pedestal-my-resume-better-than-his"
-    },
-    {
-      "title": "Jets fear Alijah Vera-Tucker suffered potentially season-ending injury - New York Post",
-      "link": "https://nypost.com/2025/09/03/sports/jets-alijah-vera-tucker-suffers-significant-injury-days-before-season/"
-    },
-    {
-      "title": "Only one Browns player not practicing today; the outlook for both Joes in this Browns-Bengals matchup: Kevin - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/09/only-one-browns-player-not-practicing-today-the-outlook-for-both-joes-in-this-browns-bengals-matchup-kevin-stefanski-quick-hits.html"
     }
   ],
   "weather": {
