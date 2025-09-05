@@ -1,9 +1,9 @@
 {
-  "quote": "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. \u2013 Norman Vincent Peale",
-  "fact": "All polar bears are left-handed.",
-  "crypto": "BTC: $110,825 | ETH: $4,309.6",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I went to the doctor today and he told me I had type A blood but it was a type O.",
+  "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. \u2013 Buddha",
+  "fact": "The HyperMart outside of Garland Texas has 58 check-outs.",
+  "crypto": "BTC: $110,779 | ETH: $4,311.78",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "They laughed when I said I wanted to be a comedian \u2013 they\u2019re not laughing now.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Palantir CEO Alex Karp says top tech talent is about to get 'crazy valuable' - Business Insider",
+      "link": "https://www.businessinsider.com/alex-karp-tech-talent-pay-spiking-ai-competition-heats-up-2025-9"
+    },
+    {
       "title": "iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event - TechCrunch",
       "link": "https://techcrunch.com/2025/09/04/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/"
+    },
+    {
+      "title": "\u2018Hollow Knight: Silksong\u2019 Is Already Causing Online Gaming Stores to Crash - WIRED",
+      "link": "https://www.wired.com/story/hollow-knight-silksong-is-already-causing-online-gaming-stores-to-crash/"
     },
     {
       "title": "Philips introduces budget-friendly Hue bulbs as part of major lineup overhaul - Ars Technica",
@@ -22,10 +30,6 @@
     {
       "title": "IFA 2025: the biggest tech and gadget announcements - The Verge",
       "link": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights"
-    },
-    {
-      "title": "Govee\u2019s new TV backlight uses a triple camera - The Verge",
-      "link": "https://www.theverge.com/news/771242/govee-tv-backlight-3-pro-launch-availability"
     },
     {
       "title": "The atrocities of Hell Is Us make me wonder if 'real-world' Soulslikes have a future - Rock Paper Shotgun",
@@ -38,6 +42,10 @@
     {
       "title": "PayPal and Venmo users get free year of Perplexity Pro and Comet AI browser - ZDNET",
       "link": "https://www.zdnet.com/article/paypal-and-venmo-users-get-free-year-of-perplexity-pro-and-comet-ai-browser/"
+    },
+    {
+      "title": "Microsoft open-sources its 6502 version of BASIC from 1976 - The Verge",
+      "link": "https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release"
     },
     {
       "title": "5 Android phones you should buy instead of the Google Pixel 10 Pro - Android Authority",
@@ -56,20 +64,12 @@
       "link": "http://9to5google.com/2025/09/04/samsung-galaxy-tab-s11-s-pen-changes/"
     },
     {
-      "title": "Belkin\u2019s cheap wired earbuds give you ANC without battery anxieties - The Verge",
-      "link": "https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch"
-    },
-    {
-      "title": "Microsoft open-sources the 6502 BASIC coded by Bill Gates himself - theregister.com",
-      "link": "https://www.theregister.com/2025/09/04/microsoft_open_sources_6502_basic/"
-    },
-    {
       "title": "Meta Launches Instagram for iPad, Says Version for Android Tablets Coming Soon - PYMNTS.com",
       "link": "http://www.pymnts.com/meta/2025/meta-launches-instagram-for-ipad-says-version-for-android-tablets-coming-soon/"
     },
     {
-      "title": "From Battery Health to fingerprint unlock, Google just fixed a lot on your Pixel - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWTJmQTEwakVfaUlUajJYLTNuUG9tb2gtdFg2SG1uQXR1OHJRbm5jajBtZHJUa1J1SmF4bjN5QWNNM3lqVkhiWC1LajJBWWdRYUVzYlFwNnZHS2lITEtMNVhpdzEyS1R2dklSd3BOUHNQLTVQQ0RnQjdPOHF2V2VyWUhqbjg3Nmdfd29hTF9xaGxmRnk0cWc?oc=5"
+      "title": "Mis-issued TLS Certificates for 1.1.1.1 DNS Service Enable Attackers to Decrypt Traffic - CybersecurityNews",
+      "link": "https://cybersecuritynews.com/tls-certificates-1-1-1-1-dns-service/"
     },
     {
       "title": "Patrick Gibson Cast As James Bond In \u2018007 First Light\u2019 Video Game: Photos, Trailer & Release Date Revealed - Deadline",
@@ -77,93 +77,97 @@
     },
     {
       "title": "Nvidia Just Scored a Major Market Share Win. Should You Buy NVDA Stock Here? - Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/nvidia-just-scored-major-market-190250876.html"
+      "link": "https://www.barchart.com/story/news/34577561/nvidia-just-scored-a-major-market-share-win-should-you-buy-nvda-stock-here"
     },
     {
       "title": "Samsung\u2019s New Sound Tower Speaker Is for Party Animals Only - Gizmodo",
       "link": "https://gizmodo.com/samsungs-new-sound-tower-speaker-is-for-party-animals-only-2000652899"
+    },
+    {
+      "title": "Marvel Rivals Season 4 Early Patch Notes Preview: Angela Abilities Overview, New Mode, Map, Major Hero Buffs and Nerfs, New Team-Ups, And More - The Game Post",
+      "link": "https://thegamepost.com/marvel-rivals-season-4-early-patch-notes-preview/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Sproat -- final piece of Mets' big 3 pitching prospects -- being called up (source) - MLB.com",
+      "link": "https://www.mlb.com/news/brandon-sproat-mets-call-up-prospect"
+    },
+    {
+      "title": "NFL season kicks off tonight\u2014How to watch Cowboys vs. Eagles for free - New York Post",
+      "link": "https://nypost.com/2025/09/04/sports/how-to-watch-cowboys-vs-eagles-for-free-in-nfl-season-kickoff/"
+    },
     {
       "title": "Micah Parsons limited again on Thursday, Packers remain hopeful for Sunday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-limited-again-on-thursday-packers-remain-hopeful-for-sunday"
     },
     {
-      "title": "Source: NCAA votes for single transfer portal window - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46158471/ncaa-move-one-football-transfer-portal-january"
+      "title": "Billionaire Julia Koch Set To Buy $1 Billion Stake in New York Giants\u2014Months After Offloading $45 Million Apartment - Realtor.com",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/julia-koch-new-york-giants-stake-fortune/"
+    },
+    {
+      "title": "Amanda Anisimova Gets Revenge For Her Wimbledon Bagels - Defector",
+      "link": "https://defector.com/amanda-anisimova-gets-revenge-for-her-wimbledon-bagels"
+    },
+    {
+      "title": "Week 1 Thursday Injury Report: Two held out of practice - Carolina Panthers",
+      "link": "https://www.panthers.com/news/week-1-thursday-injury-report-two-held-out-of-practice-ikem-ekwonu-damarri-mathis"
     },
     {
       "title": "Umpire earns awful marks after blowing calls against Yankees in loss to Astros - New York Post",
       "link": "https://nypost.com/2025/09/04/sports/umpire-earns-awful-marks-after-blowing-calls-against-yankees-in-loss-to-astros/"
     },
     {
+      "title": "NFL Predictions 2025: Awards, playoffs, Super Bowl picks from Rotoworld staff - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/nfl-predictions-2025-awards-playoffs-super-bowl-picks-from-rotoworld-staff"
+    },
+    {
+      "title": "Raiders WR Amari Cooper To Retire - ProFootballRumors.com",
+      "link": "https://www.profootballrumors.com/2025/09/raiders-wr-amari-cooper-to-retire"
+    },
+    {
       "title": "BYU\u2019s defense will be tested in ways Portland State could only dream of - Deseret News",
       "link": "https://www.deseret.com/sports/2025/09/04/byu-football-defense-to-be-tested-in-new-ways/"
     },
     {
-      "title": "Five-time Pro Bowl WR Amari Cooper to retire from NFL one week after Raiders reunion - NFL.com",
-      "link": "https://www.nfl.com/news/five-time-pro-bowl-amari-cooper-to-retire-from-nfl-after-raiders-reunion"
+      "title": "Cam Heyward Not In Uniform During Thursday\u2019s Practice - Steelers Depot",
+      "link": "https://steelersdepot.com/2025/09/cam-heyward-not-in-uniform-during-thursdays-practice/"
+    },
+    {
+      "title": "Naomi Osaka is on a mission and climbing back. Tennis missed her. - Andscape",
+      "link": "https://andscape.com/features/naomi-osaka-is-on-a-mission-and-climbing-back-tennis-missed-her/"
+    },
+    {
+      "title": "UFC Paris headliner reacts to Dana White's disappointing news about future Khamzat Chimaev fight - Bloody Elbow",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUFjci1wM2ZvVUtOS0FBNVAzVV9FZGpXV2RZNGpKeG52cDlTWTc3V0IwNHVIYWhOUVNmekxlV1VjMWJMTkMya1BtZTZjbHNITEZIcmx2S1N6Ym4xbjFyLW9UekZqMHB3bVhjNUU5UXprQU41cmJFLVp0ZEpIZjhtLUZxYkJzYzJNbm9GT2ZldmxHd01rS09zWnJHTFRidTJ6Y0otYTZEbHhxYzY5VDdHaWd1TzBzZU5abWxKZi1vVnRsWEJYZDIzbE9ZRQ?oc=5"
+    },
+    {
+      "title": "Matt Rhule Says 'No Red Flags' in Week of Prep for Home Opener with Akron - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/matt-rhule-says-no-red-flags-in-week-of-prep-for-home-opener-with-akron-zips-nebraska-cornhuskers-memorial-stadium-big-ten"
     },
     {
       "title": "A clash of the comebacks: Osaka and Anisimova face off in the U.S. Open semifinals - NPR",
       "link": "https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals-mental-health"
     },
     {
-      "title": "NFL Says \u2018RedZone\u2019 Commercials Will Be Split-Screen - Front Office Sports",
-      "link": "http://frontofficesports.com/nfl-says-redzone-will-have-incredibly-small-ad-load-amid-furor/"
+      "title": "Josh Allen to Return to Laramie for Jersey Retirement on November 22 - University of Wyoming Athletics",
+      "link": "https://gowyo.com/news/2025/9/4/football-josh-allen-to-return-to-laramie-for-jersey-retirement-on-november-22.aspx"
     },
     {
-      "title": "Spurs chairman Levy exits club after 25 years - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/46156921/tottenham-hotspur-chairman-daniel-levy-steps-down"
+      "title": "NFL Says \u2018RedZone\u2019 Commercials Will Be Split-Screen - Front Office Sports",
+      "link": "http://frontofficesports.com/nfl-says-redzone-will-have-incredibly-small-ad-load-amid-furor/"
     },
     {
       "title": "Source: Seahawks, Lucas reach $46M extension - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/46156897/source-seahawks-abraham-lucas-reach-3-year-46m-extension"
     },
     {
-      "title": "PFT\u2019s Week 1 2025 NFL picks: Florio vs. Simms - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-1-2025-nfl-picks-florio-vs-simms"
+      "title": "Bill Belichick bans Patriots scouts from North Carolina practices - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-bans-patriots-scouts-from-north-carolina-practices"
     },
     {
-      "title": "Trivia Thursday: 20 questions on Cowboys-Eagles & season openers - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/trivia-thursday-20-questions-on-cowboys-eagles-season-openers"
-    },
-    {
-      "title": "Aaron Glenn: Alijah Vera-Tucker will miss the season, still figuring out replacement - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-alijah-vera-tucker-will-miss-the-season-still-figuring-out-replacement"
-    },
-    {
-      "title": "Column: Stick, Carrot, and Defensive Depth - 247Sports",
-      "link": "https://247sports.com/college/florida-state/article/fsu-football-defense-seminoles-depth-rotation-253444243/"
-    },
-    {
-      "title": "John Lynch on Jauan Jennings: We\u2019ll continue to work on a long-term deal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-on-jauan-jennings-well-continue-to-work-on-a-long-term-deal"
-    },
-    {
-      "title": "2025 Week 1 Fantasy Football Rankings: WR - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-1-fantasy-football-rankings-wr"
-    },
-    {
-      "title": "Week 1 fantasy football sleepers: Bryce Young, Drake Maye poised for hot starts - NFL.com",
-      "link": "https://www.nfl.com/news/fantasy-football-sleepers-2025-week-1"
-    },
-    {
-      "title": "Broncos reach 4-year contract extension with Nik Bonitto - KUSA.com",
-      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-contract-extension-nik-bonitto/73-6e8e6ccc-45df-48b3-ab17-ac106c6e2ee5"
-    },
-    {
-      "title": "Angel Reese apologizes for critical comments of Chicago Sky\u2019s season - CNN",
-      "link": "https://www.cnn.com/2025/09/04/sport/basketball-wnba-angel-reese-chicago-sky-apologizes"
-    },
-    {
-      "title": "Nebraska Coach Matt Rhule Knows Power 4 Games Can Be \u2018Fistfights\u2019 - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/nebraska-coach-matt-rhule-knows-power-4-games-can-be-fistfights"
-    },
-    {
-      "title": "Dan Quinn: Jayden Daniels has a really rare focus, the best of the best have that - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-jayden-daniels-has-a-really-rare-focus-the-best-of-the-best-have-that"
+      "title": "Three takeaways from Panthers coordinators in Week 1 - Carolina Panthers",
+      "link": "https://www.panthers.com/news/three-takeaways-from-panthers-coordinators-in-week-1-chuba-hubbard-derrick-brown-kickoffs"
     }
   ],
   "weather": {
