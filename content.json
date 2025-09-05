@@ -1,9 +1,9 @@
 {
-  "quote": "If you can't imagine it, you can't have it. \u2013 Toni Morrison",
-  "fact": "The average lifespan of an eyelash is five months.",
-  "crypto": "BTC: $111,168 | ETH: $4,303.4",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
+  "quote": "Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything. \u2013 Sydney Smith",
+  "fact": "A giraffe can go without water longer than a camel.",
+  "crypto": "BTC: $111,221 | ETH: $4,316.95",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/04/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/"
+    },
+    {
+      "title": "Philips introduces budget-friendly Hue bulbs as part of major lineup overhaul - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/09/philips-hue-update-includes-a-new-hub-light-strips-and-finally-budget-bulbs/"
+    },
     {
       "title": "IFA 2025: the biggest tech and gadget announcements - The Verge",
       "link": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights"
@@ -20,12 +28,12 @@
       "link": "https://www.theverge.com/news/771242/govee-tv-backlight-3-pro-launch-availability"
     },
     {
-      "title": "Apple Event 2025: 5 new Apple products you likely won\u2019t see next week - Mashable",
-      "link": "https://mashable.com/article/products-you-wont-see-apple-event-2025"
+      "title": "The atrocities of Hell Is Us make me wonder if 'real-world' Soulslikes have a future - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/the-atrocities-of-hell-is-us-make-me-wonder-if-real-world-soulslikes-have-a-future"
     },
     {
-      "title": "iPhone 17 colors leak points to vibrant orange for Pro - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/04/iphone-17-colors/"
+      "title": "\u2018Destiny 2\u2019 Fails To Fix Its Easiest Problem With Its Latest Patch - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/09/04/destiny-2-fails-to-fix-its-easiest-problem-with-its-latest-patch/"
     },
     {
       "title": "PayPal and Venmo users get free year of Perplexity Pro and Comet AI browser - ZDNET",
@@ -40,10 +48,6 @@
       "link": "https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather"
     },
     {
-      "title": "Roborock graduates from vacuuming your house to mowing your lawn - The Verge",
-      "link": "https://www.theverge.com/news/770725/roborock-robot-lawnmowers-launch-rockmow-z1"
-    },
-    {
       "title": "Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Newsroom",
       "link": "https://news.samsung.com/global/meet-samsung-galaxy-s25-fe-the-gateway-to-the-galaxy-ai-and-flagship-essentials"
     },
@@ -52,114 +56,114 @@
       "link": "http://9to5google.com/2025/09/04/samsung-galaxy-tab-s11-s-pen-changes/"
     },
     {
-      "title": "Anker\u2019s new AI voice recorder is the size of a coin - The Verge",
-      "link": "https://www.theverge.com/news/769467/anker-soundcore-work-ai-recorder-gpt-4o"
-    },
-    {
       "title": "Belkin\u2019s cheap wired earbuds give you ANC without battery anxieties - The Verge",
       "link": "https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch"
     },
     {
-      "title": "Inside Philips Hue\u2019s plans to make all your lights motion sensors - The Verge",
-      "link": "https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani"
+      "title": "Microsoft open-sources the 6502 BASIC coded by Bill Gates himself - theregister.com",
+      "link": "https://www.theregister.com/2025/09/04/microsoft_open_sources_6502_basic/"
     },
     {
       "title": "Meta Launches Instagram for iPad, Says Version for Android Tablets Coming Soon - PYMNTS.com",
       "link": "http://www.pymnts.com/meta/2025/meta-launches-instagram-for-ipad-says-version-for-android-tablets-coming-soon/"
     },
     {
+      "title": "From Battery Health to fingerprint unlock, Google just fixed a lot on your Pixel - Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWTJmQTEwakVfaUlUajJYLTNuUG9tb2gtdFg2SG1uQXR1OHJRbm5jajBtZHJUa1J1SmF4bjN5QWNNM3lqVkhiWC1LajJBWWdRYUVzYlFwNnZHS2lITEtMNVhpdzEyS1R2dklSd3BOUHNQLTVQQ0RnQjdPOHF2V2VyWUhqbjg3Nmdfd29hTF9xaGxmRnk0cWc?oc=5"
+    },
+    {
       "title": "Patrick Gibson Cast As James Bond In \u2018007 First Light\u2019 Video Game: Photos, Trailer & Release Date Revealed - Deadline",
       "link": "https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/"
     },
     {
-      "title": "Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Game Post",
-      "link": "https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/"
+      "title": "Nvidia Just Scored a Major Market Share Win. Should You Buy NVDA Stock Here? - Yahoo Finance",
+      "link": "https://finance.yahoo.com/news/nvidia-just-scored-major-market-190250876.html"
     },
     {
-      "title": "Video: Cronos: The New Dawn Nintendo Switch 2 vs. PS5 graphics comparison - Nintendo Everything",
-      "link": "https://nintendoeverything.com/cronos-the-new-dawn-nintendo-switch-2-vs-ps5-graphics-comparison/"
-    },
-    {
-      "title": "Apple\u2019s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/"
+      "title": "Samsung\u2019s New Sound Tower Speaker Is for Party Animals Only - Gizmodo",
+      "link": "https://gizmodo.com/samsungs-new-sound-tower-speaker-is-for-party-animals-only-2000652899"
     }
   ],
   "sports_news": [
+    {
+      "title": "Micah Parsons limited again on Thursday, Packers remain hopeful for Sunday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-limited-again-on-thursday-packers-remain-hopeful-for-sunday"
+    },
+    {
+      "title": "Source: NCAA votes for single transfer portal window - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46158471/ncaa-move-one-football-transfer-portal-january"
+    },
+    {
+      "title": "Umpire earns awful marks after blowing calls against Yankees in loss to Astros - New York Post",
+      "link": "https://nypost.com/2025/09/04/sports/umpire-earns-awful-marks-after-blowing-calls-against-yankees-in-loss-to-astros/"
+    },
+    {
+      "title": "BYU\u2019s defense will be tested in ways Portland State could only dream of - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/09/04/byu-football-defense-to-be-tested-in-new-ways/"
+    },
+    {
+      "title": "Five-time Pro Bowl WR Amari Cooper to retire from NFL one week after Raiders reunion - NFL.com",
+      "link": "https://www.nfl.com/news/five-time-pro-bowl-amari-cooper-to-retire-from-nfl-after-raiders-reunion"
+    },
+    {
+      "title": "A clash of the comebacks: Osaka and Anisimova face off in the U.S. Open semifinals - NPR",
+      "link": "https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals-mental-health"
+    },
+    {
+      "title": "NFL Says \u2018RedZone\u2019 Commercials Will Be Split-Screen - Front Office Sports",
+      "link": "http://frontofficesports.com/nfl-says-redzone-will-have-incredibly-small-ad-load-amid-furor/"
+    },
+    {
+      "title": "Spurs chairman Levy exits club after 25 years - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/46156921/tottenham-hotspur-chairman-daniel-levy-steps-down"
+    },
+    {
+      "title": "Source: Seahawks, Lucas reach $46M extension - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46156897/source-seahawks-abraham-lucas-reach-3-year-46m-extension"
+    },
     {
       "title": "PFT\u2019s Week 1 2025 NFL picks: Florio vs. Simms - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-1-2025-nfl-picks-florio-vs-simms"
     },
     {
-      "title": "2025 Week 1 Fantasy Football Rankings: QB - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-1-fantasy-football-rankings-qb"
+      "title": "Trivia Thursday: 20 questions on Cowboys-Eagles & season openers - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/trivia-thursday-20-questions-on-cowboys-eagles-season-openers"
     },
     {
-      "title": "Bonitto now top-paid non-QB in Broncos history - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46155279/pass-rusher-nik-bonitto-becomes-top-paid-non-qb-broncos-history"
+      "title": "Aaron Glenn: Alijah Vera-Tucker will miss the season, still figuring out replacement - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-alijah-vera-tucker-will-miss-the-season-still-figuring-out-replacement"
     },
     {
-      "title": "Randy Moss\u2019 wife reveals challenges of NFL great\u2019s cancer battle - New York Post",
-      "link": "https://nypost.com/2025/09/04/sports/randy-moss-wife-reveals-challenges-of-nfl-greats-cancer-battle/"
+      "title": "Column: Stick, Carrot, and Defensive Depth - 247Sports",
+      "link": "https://247sports.com/college/florida-state/article/fsu-football-defense-seminoles-depth-rotation-253444243/"
     },
     {
-      "title": "Nearly $80M in NIL deals get commission's OK - ESPN",
-      "link": "https://www.espn.com/college-sports/story/_/id/46154733/more-8300-nil-deals-worth-80m-approved-new-commission"
+      "title": "John Lynch on Jauan Jennings: We\u2019ll continue to work on a long-term deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-on-jauan-jennings-well-continue-to-work-on-a-long-term-deal"
     },
     {
-      "title": "Lions Week 1 preview: Breaking down Packers\u2019 offensive, defensive schemes - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/140599/lions-week-1-preview-breaking-down-packers-offensive-defensive-schemes"
+      "title": "2025 Week 1 Fantasy Football Rankings: WR - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-1-fantasy-football-rankings-wr"
     },
     {
-      "title": "Why Your Team Sucks 2025: Philadelphia Eagles - Defector",
-      "link": "https://defector.com/why-your-team-sucks-2025-philadelphia-eagles"
+      "title": "Week 1 fantasy football sleepers: Bryce Young, Drake Maye poised for hot starts - NFL.com",
+      "link": "https://www.nfl.com/news/fantasy-football-sleepers-2025-week-1"
     },
     {
-      "title": "ESPN\u2019s Desmond Howard poses curious Arch Manning theory \u2014 and even blames his own network - New York Post",
-      "link": "https://nypost.com/2025/09/04/sports/espns-desmond-howard-poses-curious-arch-manning-theory-and-even-blames-his-own-network/"
+      "title": "Broncos reach 4-year contract extension with Nik Bonitto - KUSA.com",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-contract-extension-nik-bonitto/73-6e8e6ccc-45df-48b3-ab17-ac106c6e2ee5"
     },
     {
-      "title": "Eagles, Cowboys traditional looks in season opener top NFL Week 1 threads - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46123761/nfl-2025-week-1-uniforms"
+      "title": "Angel Reese apologizes for critical comments of Chicago Sky\u2019s season - CNN",
+      "link": "https://www.cnn.com/2025/09/04/sport/basketball-wnba-angel-reese-chicago-sky-apologizes"
     },
     {
-      "title": "Here\u2019s where the Broncos vs. Titans game will air on FOX in Week 1 - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-game-information/156584/titans-vs-broncos-tv-map-week-1"
+      "title": "Nebraska Coach Matt Rhule Knows Power 4 Games Can Be \u2018Fistfights\u2019 - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/nebraska-coach-matt-rhule-knows-power-4-games-can-be-fistfights"
     },
     {
-      "title": "Report: Eagles tried to trade for Micah Parsons this summer - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-eagles-tried-to-trade-for-micah-parsons-this-summer"
-    },
-    {
-      "title": "Analytics Preview: Nebraska Cornhuskers vs. the Akron Zips - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/analytics-preview-nebraska-cornhuskers-vs-the-akron-zips-football-big-ten-memorial-stadium"
-    },
-    {
-      "title": "Sources: Nets' Thomas picks $6M qualifying offer - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/46153839/sources-nets-cam-thomas-picks-6m-deal-fa-2026"
-    },
-    {
-      "title": "Lamar Jackson on Josh Allen winning MVP: Voters chose who they wanted, it is what it is - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-on-josh-allen-winning-mvp-voters-chose-who-they-wanted-it-is-what-it-is"
-    },
-    {
-      "title": "Week 2 best bets: Why to take the over for Cyclones-Hawkeyes - ESPN",
-      "link": "https://www.espn.com/espn/betting/story/_/id/46148515/college-football-odds-best-bets-week-2-spreads-lines-2025"
-    },
-    {
-      "title": "Koch family agrees to pay more than $1 billion for 10 percent of Giants - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/koch-family-agrees-to-pay-more-than-1-billion-for-10-percent-of-giants"
-    },
-    {
-      "title": "Ford Racing: A new era for America\u2019s race team - AP News",
-      "link": "https://apnews.com/article/ford-racing-rebrand-motorsports-production-vehicles-dc4bcec8c02c6de7bfb03e87672a6cd7"
-    },
-    {
-      "title": "Patriots Gameplan: Previewing the Regular-Season Opener vs. the Raiders - New England Patriots",
-      "link": "https://www.patriots.com/news/patriots-gameplan-previewing-the-regular-season-opener-vs-the-raiders"
-    },
-    {
-      "title": "She Had One of the Greatest Humiliations in Tennis History. Then I Watched a Miracle Unfold at the U.S. Open. - Slate",
-      "link": "https://slate.com/culture/2025/09/tennis-amanda-anisimova-iga-swiatek-us-open-2025.html"
+      "title": "Dan Quinn: Jayden Daniels has a really rare focus, the best of the best have that - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-jayden-daniels-has-a-really-rare-focus-the-best-of-the-best-have-that"
     }
   ],
   "weather": {
