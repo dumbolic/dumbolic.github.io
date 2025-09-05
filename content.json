@@ -1,9 +1,9 @@
 {
-  "quote": "Everything is in your own heart. \u2013 Thich Nhat Hanh",
-  "fact": "70% of all boats sold are used for fishing.",
-  "crypto": "BTC: $110,844 | ETH: $4,294.67",
+  "quote": "Wherever you are is the entry point. \u2013 Kabir",
+  "fact": "In the average lifetime, a person will walk the equivalent of 5 times around the equator.",
+  "crypto": "BTC: $110,705 | ETH: $4,289.72",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the knife dress up in a suit? Because it wanted to look sharp",
+  "joke": "Did you hear about the runner who was criticized? He just took it in stride",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Hollow Knight: Silksong causes server chaos on Xbox, Steam, and Nintendo as platforms grind to a halt - Eurogamer",
+      "link": "https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt"
+    },
+    {
+      "title": "\u2018Destiny 2\u2019 Fails To Fix Its Easiest Problem With Its Latest Patch - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/09/04/destiny-2-fails-to-fix-its-easiest-problem-with-its-latest-patch/"
+    },
+    {
+      "title": "New Report Lists RAM Amounts in iPhone 17 and iPhone 17 Pro Models - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/04/iphone-17-ram-amounts-trendforce/"
+    },
+    {
+      "title": "Adobe\u2019s Premiere video editor is coming to iPhone for free - The Verge",
+      "link": "https://www.theverge.com/news/771236/adobe-premiere-iphone-ios-video-editor-android"
+    },
+    {
       "title": "5 Android phones you should buy instead of the Google Pixel 10 Pro - Android Authority",
       "link": "https://www.androidauthority.com/google-pixel-10-pro-alternatives-3593549/"
     },
     {
-      "title": "Huawei\u2019s second trifold adds stylus support and purple pleather - The Verge",
-      "link": "https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather"
+      "title": "Roborock graduates from vacuuming your house to mowing your lawn - The Verge",
+      "link": "https://www.theverge.com/news/770725/roborock-robot-lawnmowers-launch-rockmow-z1"
     },
     {
-      "title": "Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Premium Tablet - Samsung Newsroom",
-      "link": "https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet"
+      "title": "Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Newsroom",
+      "link": "https://news.samsung.com/global/meet-samsung-galaxy-s25-fe-the-gateway-to-the-galaxy-ai-and-flagship-essentials"
     },
     {
-      "title": "Inside Philips Hue\u2019s plans to make all your lights motion sensors - The Verge",
-      "link": "https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani"
+      "title": "Galaxy Tab S11 revives 11-inch size as S Pen ditches Bluetooth, copies iPad placement - 9to5Google",
+      "link": "http://9to5google.com/2025/09/04/samsung-galaxy-tab-s11-s-pen-changes/"
+    },
+    {
+      "title": "Apple's long-term plan for foldables and Vision Pro revealed in new report - Mashable",
+      "link": "https://mashable.com/article/apple-foldable-iphone-ipad-vision-pro"
+    },
+    {
+      "title": "Huawei launches second trifold smartphone at $2,500 as it looks to cement comeback - CNBC",
+      "link": "https://www.cnbc.com/2025/09/04/huawei-mate-xts-trifold-launch-specs-price-features.html"
+    },
+    {
+      "title": "Belkin\u2019s cheap wired earbuds give you ANC without battery anxieties - The Verge",
+      "link": "https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch"
+    },
+    {
+      "title": "Meta Launches Instagram for iPad, Says Version for Android Tablets Coming Soon - PYMNTS.com",
+      "link": "http://www.pymnts.com/meta/2025/meta-launches-instagram-for-ipad-says-version-for-android-tablets-coming-soon/"
     },
     {
       "title": "Switch Online's Mature N64 App Expands With Another Title This Week - Nintendo Life",
@@ -36,10 +68,6 @@
       "link": "https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/"
     },
     {
-      "title": "Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Game Post",
-      "link": "https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/"
-    },
-    {
       "title": "New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica",
       "link": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/"
     },
@@ -48,39 +76,35 @@
       "link": "https://nintendoeverything.com/cronos-the-new-dawn-nintendo-switch-2-vs-ps5-graphics-comparison/"
     },
     {
-      "title": "Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn - WIRED",
-      "link": "https://www.wired.com/story/stealerium-infostealer-porn-sextortion/"
-    },
-    {
       "title": "Apple\u2019s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
       "link": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/"
     },
     {
-      "title": "How \u2018Hollow Knight: Silksong\u2019 Fans Turned Waiting for Its Release Into a Game - WIRED",
-      "link": "https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/"
-    },
-    {
-      "title": "Apple Event 2025: 5 new Apple products you likely won\u2019t see next week - Mashable",
-      "link": "https://mashable.com/article/products-you-wont-see-apple-event-2025"
-    },
-    {
-      "title": "More Pixel phones are getting Google\u2019s new look for Android - The Verge",
-      "link": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive"
-    },
-    {
-      "title": "The first iPhone with all-screen display could arrive next year: report - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/03/the-first-iphone-with-all-screen-display-could-arrive-next-year-report/"
-    },
-    {
-      "title": "Diagnostic dilemma: Woman's severe knee pain reveals 'golden threads' in her joints - Live Science",
-      "link": "https://www.livescience.com/health/diagnostic-dilemma-womans-severe-knee-pain-reveals-golden-threads-in-her-joints"
-    },
-    {
-      "title": "Marvel Rivals coming to PS4 on September 12 alongside Season 4 update - Gematsu",
-      "link": "https://www.gematsu.com/2025/09/marvel-rivals-coming-to-ps4-on-september-12-alongside-season-4-update"
+      "title": "Marvel Rivals Season 4 Early Patch Notes Preview: Angela Abilities Overview, New Mode, Map, Major Hero Buffs and Nerfs, New Team-Ups, And More - The Game Post",
+      "link": "https://thegamepost.com/marvel-rivals-season-4-early-patch-notes-preview/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Nearly $80M in NIL deals get commission's OK - ESPN",
+      "link": "https://www.espn.com/college-sports/story/_/id/46154733/more-8300-nil-deals-worth-80m-approved-new-commission"
+    },
+    {
+      "title": "ESPN\u2019s Desmond Howard poses curious Arch Manning theory \u2014 and even blames his own network - New York Post",
+      "link": "https://nypost.com/2025/09/04/sports/espns-desmond-howard-poses-curious-arch-manning-theory-and-even-blames-his-own-network/"
+    },
+    {
+      "title": "NFL Week 1 staff picks: Moneyline, spread, over/under predictions - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/nfl-picks/140714/nfl-week-1-staff-picks-moneyline-spread-over-under-predictions"
+    },
+    {
+      "title": "Report: Eagles tried to trade for Micah Parsons this summer - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-eagles-tried-to-trade-for-micah-parsons-this-summer"
+    },
+    {
+      "title": "Week 1 opponent: What the Packers are saying - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/week-1-opponent-what-the-packers-are-saying-parsons-gary-lafleur"
+    },
     {
       "title": "Sources: Nets' Thomas picks $6M qualifying offer - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/46153839/sources-nets-cam-thomas-picks-6m-deal-fa-2026"
@@ -90,76 +114,52 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-on-josh-allen-winning-mvp-voters-chose-who-they-wanted-it-is-what-it-is"
     },
     {
-      "title": "Alexander Isak \u2018Snubbed Premier League Rivals\u2019 Before Liverpool Transfer - Sports Illustrated",
-      "link": "https://www.si.com/soccer/alexander-isak-snubbed-premier-league-rivals-before-liverpool-transfer"
+      "title": "Week 2 best bets: Why to take the over for Cyclones-Hawkeyes - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/46148515/college-football-odds-best-bets-week-2-spreads-lines-2025"
     },
     {
       "title": "She Had One of the Greatest Humiliations in Tennis History. Then I Watched a Miracle Unfold at the U.S. Open. - Slate",
       "link": "https://slate.com/culture/2025/09/tennis-amanda-anisimova-iga-swiatek-us-open-2025.html"
     },
     {
-      "title": "Streameast: World\u2019s \u2018largest illegal live sports\u2019 piracy network shut down, antipiracy group says - CNN",
-      "link": "https://www.cnn.com/2025/09/04/sport/soccer-streameast-piracy-network-shuts-down-intl"
-    },
-    {
-      "title": "NBA to investigate Kawhi Leonard-LA Clippers endorsement deal - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2025/9/4/nba-to-investigate-kawhi-leonard-la-clippers-endorsement-deal"
-    },
-    {
       "title": "'We can't go on like this' - former Vuelta a Espa\u00f1a winner Sepp Kuss calls for increased safety after pro-Palestine protests lead to stage 11 suspension - Cyclingnews",
       "link": "https://www.cyclingnews.com/news/we-cant-go-on-like-this-former-vuelta-a-espana-winner-sepp-kuss-calls-for-increased-safety-after-pro-palestine-protests-lead-to-stage-11-suspension/"
+    },
+    {
+      "title": "Devin Williams, Yankees unravel in disastrous eighth inning for gut-punch loss to Astros - New York Post",
+      "link": "https://nypost.com/2025/09/03/sports/devin-williams-yankees-unravel-in-wild-loss-to-astros/"
     },
     {
       "title": "Angel Reese's Sky Future Uncertain After Torching Teammates - Front Office Sports",
       "link": "http://frontofficesports.com/angel-reese-faces-uncertain-future-in-chicago-after-publicly-torching-teammates/"
     },
     {
-      "title": "49ers add $3 million in play-time incentives to Jauan Jennings\u2019s 2025 contract - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-add-3-million-in-play-time-incentives-to-jauan-jenningss-2025-contract"
-    },
-    {
-      "title": "Mel Kiper reacts to Arch Manning's performance vs. Ohio State: 'This is much ado about nothing' - On3",
-      "link": "https://www.on3.com/college/texas-longhorns/news/mel-kiper-reacts-arch-manning-performance-vs-ohio-state-this-is-much-ado-about-nothing-texas/"
-    },
-    {
-      "title": "Aaron Boone, Devin Williams ejected in bizarre scene during Yankees\u2019 eighth-inning implosion - New York Post",
-      "link": "https://nypost.com/2025/09/03/sports/yankees-aaron-boone-devin-williams-ejected-in-bizarre-scene/"
-    },
-    {
       "title": "Micah Parsons' Agent Cites Length As Major Difference In Packers/Cowboys Extension Offers - ProFootballRumors.com",
       "link": "https://www.profootballrumors.com/2025/09/more-parsons-cowboys-fallout-negotiations-extension-length-nflpa"
     },
     {
-      "title": "College Football Playoff: ESPN predicts 2025 12-team bracket, full bowl slate after Week 1 - On3",
-      "link": "https://www.on3.com/news/college-football-playoff-espn-predicts-2025-12-team-bracket-full-bowl-slate-after-week-1/"
+      "title": "Eagles can get to .500 all-time in regular season \u2014 for first time since 1933 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-can-get-to-500-all-time-in-regular-season-for-first-time-since-1933"
+    },
+    {
+      "title": "Report: Jauan Jennings turns down a multi-year deal from the 49ers to bet on himself - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/149764/report-jauan-jennings-turns-down-a-multi-year-deal-from-the-49ers-to-bet-on-himself"
+    },
+    {
+      "title": "Fantasy Football Week 1 Rankings: Expert Tiers for QBs, RBs, WRs, TEs, Kickers & Defenses - FantasyLabs",
+      "link": "https://www.fantasylabs.com/articles/fantasy-football-week-1-rankings-expert-tiers-for-qbs-rbs-wrs-tes-kickers-defenses/"
+    },
+    {
+      "title": "US Open: Naomi Osaka defeats Karol\u00edna Muchov\u00e1, Amanda Anisimova gets revenge against Iga \u015awi\u0105tek in quarters - Yahoo Sports",
+      "link": "https://sports.yahoo.com/tennis/breaking-news/article/us-open-naomi-osaka-defeats-karolina-muchova-amanda-anisimova-gets-revenge-against-iga-swiatek-in-quarters-215657436.html"
+    },
+    {
+      "title": "Astros look to move past Framber's cross-up controversy - MLB.com",
+      "link": "https://www.mlb.com/news/joe-espada-discusses-framber-valdez-cross-up-with-cesar-salazar"
     },
     {
       "title": "MLB Issues One-Game Suspension To Matt Chapman - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/09/mlb-issues-one-game-suspension-to-matt-chapman.html"
-    },
-    {
-      "title": "How Seahawks plan to start restoring home-field advantage vs. 49ers - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/how-seahawks-plan-to-start-restoring-home-field-advantage-vs-49ers/"
-    },
-    {
-      "title": "New York Giants Agree to Sell Minority Stake to Koch Family - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-09-03/new-york-giants-agree-to-sell-minority-stake-to-koch-family"
-    },
-    {
-      "title": "Raiders-Patriots Week 1 Injury Report - Raiders.com",
-      "link": "https://www.raiders.com/news/las-vegas-raiders-new-england-patriots-injury-report-nfl-week-1-2025"
-    },
-    {
-      "title": "What Red Sox\u2019 Alex Cora told Roman Anthony after oblique strain diagnosis - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/09/what-red-sox-alex-cora-told-roman-anthony-after-oblique-strain-diagnosis.html"
-    },
-    {
-      "title": "Aaron Rodgers isn\u2019t sweating return to MetLife, handle on Steelers offense - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-isnt-sweating-return-to-metlife-handle-on-steelers-offense"
-    },
-    {
-      "title": "Florida State\u2019s Ethan Pritchard was shot in back of head while driving, father reveals in harrowing update - New York Post",
-      "link": "https://nypost.com/2025/09/03/sports/florida-states-ethan-pritchard-shot-in-back-of-head-while-driving/"
     }
   ],
   "weather": {
