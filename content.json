@@ -1,9 +1,9 @@
 {
-  "quote": "Success is stumbling from failure to failure with no loss of enthusiasm. \u2013 Winston Churchill",
-  "fact": "Chewing gum while peeling onions will keep you from crying.",
-  "crypto": "BTC: $111,209 | ETH: $4,290.45",
+  "quote": "Success is about doing the right thing, not about doing everything right. \u2013 Gary Keller",
+  "fact": "To Ensure Promptness, one is expected to pay beyond the value of service \u2013 hence the later abbreviation: T.I.P.",
+  "crypto": "BTC: $111,137 | ETH: $4,286.37",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
+  "joke": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\"",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Don't expect the new AI Siri to debut at the Sept. 9 Apple event - Mashable",
+      "link": "https://mashable.com/article/ai-siri-apple-event-2025"
+    },
+    {
       "title": "'The Tension Is Hurting a Lot of People': Ex-Bethesda Boss Speaks Out on Subs Like Xbox Game Pass - Push Square",
       "link": "https://www.pushsquare.com/news/2025/09/the-tension-is-hurting-a-lot-of-people-ex-bethesda-boss-speaks-out-on-subs-like-xbox-game-pass"
+    },
+    {
+      "title": "I like the Pixel 10 in spite of Google\u2019s AI, not because of it - 9to5Google",
+      "link": "http://9to5google.com/2025/09/06/i-like-the-pixel-10-in-spite-of-googles-ai-not-because-of-it/"
     },
     {
       "title": "Poll: Are You Buying Borderlands 4 Next Week? - Pure Xbox",
@@ -40,16 +48,12 @@
       "link": "https://mashable.com/article/how-to-stay-on-windows-10-for-free"
     },
     {
-      "title": "Awe Dropping: Everything Coming at the September 9 Apple Event - MacRumors",
-      "link": "https://www.macrumors.com/guide/september-2025-apple-event-what-to-expect/"
-    },
-    {
-      "title": "Personalized AI companion app Dot is shutting down - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/"
-    },
-    {
       "title": "YouTube TV is offering a hidden $66 discount \u2014 here's how to get it - Android Authority",
       "link": "https://www.androidauthority.com/youtube-tv-66-dollar-off-deal-3595388/"
+    },
+    {
+      "title": "Google Gemini dubbed \u2018high risk\u2019 for kids and teens in new safety assessment - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/"
     },
     {
       "title": "Tetsuya Nomura Has Good News About Kingdom Hearts 4 - Kotaku",
@@ -86,48 +90,80 @@
     {
       "title": "The Hearthstone Summer Championship Is Here! - Blizzard News",
       "link": "https://news.blizzard.com/en-us/article/24230693/the-hearthstone-summer-championship-is-here"
-    },
-    {
-      "title": "The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026 - The Verge",
-      "link": "https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026"
     }
   ],
   "sports_news": [
+    {
+      "title": "College football scores, live updates: Week 2 schedule features Texas, Illinois, Iowa State in action early - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-2-ncaa-top-25-games-today/live/"
+    },
     {
       "title": "Cal Ripken Jr. broke baseball\u2019s \u2018unbreakable\u2019 record 30 years ago - The Washington Post",
       "link": "https://www.washingtonpost.com/history/2025/09/06/cal-ripken-baseball-record-straight-games/"
     },
     {
-      "title": "LIVE COVERAGE: Qualifying for the Italian GP - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-italy-2025.4PzC8Ove976mvOOBOtnOJp"
+      "title": "Browns sign RB Quinshon Judkins - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-sign-rb-quinshon-judkins"
     },
     {
-      "title": "Quinshon Judkins agrees to terms with Browns - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinshon-judkins-agrees-to-terms-with-browns"
+      "title": "Five things I want to see from the Broncos during their Week 1 matchup vs. the Titans - Mile High Report",
+      "link": "https://www.milehighreport.com/denver-broncos-news/156682/five-things-i-want-to-see-from-the-broncos-during-their-week-1-matchup-vs-the-titans"
+    },
+    {
+      "title": "Davey Johnson, who won 2 World Series with Orioles, managed Mets to title, dies at 82 - NPR",
+      "link": "https://www.npr.org/2025/09/06/nx-s1-5532607/davey-johnson-baseball-orioles-mets-mlb-obit"
+    },
+    {
+      "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to"
+    },
+    {
+      "title": "Angel Reese suspended by Chicago Sky after making comments \u2018detrimental to the team\u2019 - CNN",
+      "link": "https://www.cnn.com/2025/09/06/sport/basketball-wnba-chicago-sky-angel-reese-suspended-intl"
+    },
+    {
+      "title": "Verstappen beats Norris and Piastri to Italian GP pole - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/verstappen-beats-norris-and-piastri-to-pole-for-italian-gp-in-qualifying.7j6Ls1jDJUp67EqfCoQhiN"
+    },
+    {
+      "title": "Are the Chiefs Cooked? - The Ringer",
+      "link": "https://www.theringer.com/2025/09/06/nfl/kansas-city-chiefs-week-1-loss-chargers-brazil-patrick-mahomes-travis-kelce-justin-herbert"
+    },
+    {
+      "title": "Georgia vs Austin Peay Kickoff Time Moved Up Due to Weather - Sports Illustrated",
+      "link": "https://www.si.com/college/georgia/football/georgia-vs-austin-peay-kickoff-time-moved-up-due-to-weather-01k4fmvrm8qd"
     },
     {
       "title": "NASCAR Saturday schedule at WWTR Gateway - NBC Sports",
       "link": "https://www.nbcsports.com/nascar/news/nascar-saturday-schedule-at-wwtr-gateway-september-2025"
     },
     {
-      "title": "Don\u2019t count on Amari Cooper joining the 49ers. Ever. - Niners Nation",
-      "link": "https://www.ninersnation.com/general/149830/dont-count-on-amari-cooper-joining-the-49ers-ever"
+      "title": "Lions vs Packers: 2 key matchups in season opener at Lambeau - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/141008/lions-vs-packers-2-key-matchups-in-season-opener-at-lambeau"
+    },
+    {
+      "title": "2025 NFL season predictions: Super Bowl 60 winners - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/nfl-opinion/140966/2025-nfl-season-predictions-super-bowl-60-winners"
+    },
+    {
+      "title": "Watch LIVE: Maryland Cycling Classic 2025 - Outside Magazine",
+      "link": "https://velo.outsideonline.com/road/road-gear/watch-live-maryland-cycling-classic-2025/#article"
     },
     {
       "title": "The explanation for not ejecting Teair Tart doesn\u2019t mesh with the rulebook - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-explanation-for-not-ejecting-teair-tart-doesnt-mesh-with-the-rulebook"
     },
     {
-      "title": "NCAA Football Odds, Sharpest Betting Predictions for Saturday, Week 2 - Action Network",
-      "link": "https://www.actionnetwork.com/ncaaf/ncaa-football-odds-spread-over-under-predictions-saturday-week-2-qs"
+      "title": "10 Fantasy Football Waiver Wire Stashes Ahead of Week 2 (2025) - FantasyPros",
+      "link": "https://www.fantasypros.com/2025/09/10-fantasy-football-waiver-wire-stashes-ahead-of-week-2/"
     },
     {
       "title": "3 under the radar players that could be key for Bengals vs. Browns - Cincy Jungle",
       "link": "https://www.cincyjungle.com/cincinnati-bengals-analysis/173793/three-under-the-radar-players-that-could-be-key-to-the-bengals-beating-the-browns"
     },
     {
-      "title": "Andy Reid and Patrick Mahomes say Chiefs came out flat, Chargers had more energy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-and-patrick-mahomes-say-chiefs-came-out-flat-chargers-had-more-energy"
+      "title": "US Open women\u2019s final: Can Amanda Anisimova bounce back from Wimbledon final nightmare against the defending champion? - CNN",
+      "link": "https://www.cnn.com/2025/09/06/sport/tennis-us-open-womens-final-preview-intl"
     },
     {
       "title": "Dodgers Notes: Glasnow, Smith, Rushing - MLB Trade Rumors",
@@ -136,42 +172,6 @@
     {
       "title": "5 things to watch in Patriots\u2019 season opener vs. Raiders - MassLive",
       "link": "https://www.masslive.com/patriots/2025/09/5-things-to-watch-in-patriots-season-opener-vs-raiders.html"
-    },
-    {
-      "title": "Washington Commanders vs New York Giants Week 1: Five Questions with Big Blue View - Hogs Haven",
-      "link": "https://www.hogshaven.com/373887/washington-commanders-vs-new-york-giants-week-1-five-questions-with-big-blue-view"
-    },
-    {
-      "title": "Kentucky vs. Ole Miss: National Media Predictions - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-vs-ole-miss-national-media-predictions-2/"
-    },
-    {
-      "title": "Dryden, who helped Habs to six Cups, dies at 78 - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/46171948/hall-fame-canadiens-goaltender-ken-dryden-dies-age-78"
-    },
-    {
-      "title": "Phillies and Marlins rally around young fan after woman confronts his father to get home run ball - Yahoo Sports",
-      "link": "https://www.cnn.com/2025/09/05/sport/baseball-phillies-marlins-home-run-confrontation"
-    },
-    {
-      "title": "Chiefs draw more fans in Brazil but some supporters disappointed Taylor Swift nowhere to be seen - AP News",
-      "link": "https://apnews.com/article/brazil-taylor-swift-travis-kelce-17cba7924ac7a744bd0f484252fbaa55"
-    },
-    {
-      "title": "Christian McCaffrey Questionable for Week 1; Injury Report Ahead of #SFvsSEA - San Francisco 49ers",
-      "link": "https://www.49ers.com/news/christian-mccaffrey-questionable-for-week-1-injury-report-ahead-of-sfvssea"
-    },
-    {
-      "title": "Ogbechie Thrives in Starting Role as Huskers Sweep Wright State - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/volleyball/ogbechie-thrives-in-starting-role-as-huskers-sweep-wright-state-nebraska-cornhuskers-volleyball-big-ten"
-    },
-    {
-      "title": "Arch Manning Heisman Hype Was Completely 'Unwarranted,' Says ESPN Analyst - OutKick",
-      "link": "https://www.outkick.com/sports/espn-analyst-says-arch-manning-doesnt-deserve-heisman-consideration-after-texas-loss"
-    },
-    {
-      "title": "Commission overstated OK'd NIL deals by $44.4M - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46170291/csc-reveals-overstated-worth-approved-nil-deals-40m-plus"
     }
   ],
   "weather": {
