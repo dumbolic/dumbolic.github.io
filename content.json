@@ -1,9 +1,9 @@
 {
-  "quote": "The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. \u2013 Herodotus",
-  "fact": "There were always 56 curls in Shirley Temple`s hair.",
-  "crypto": "BTC: $112,419 | ETH: $4,344.98",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the belt go to prison? He held up a pair of pants!",
+  "quote": "Real loss is only possible when you love something more than you love yourself. \u2013 Robin Williams",
+  "fact": "Right-handed people live, on average; nine years longer than left handed people.",
+  "crypto": "BTC: $112,342 | ETH: $4,331.5",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Lenovo's new concept laptop has a rotating screen, and we have questions - Mashable",
+      "link": "https://mashable.com/article/lenovo-thinkbook-vertiflex-concept-rotating-display-specs"
+    },
     {
       "title": "Cloud storage isn\u2019t always perfect. You need a local backup, too. - The Washington Post",
       "link": "https://www.washingtonpost.com/technology/2025/09/07/important-data-local-backup-essential/"
@@ -20,12 +24,40 @@
       "link": "https://mashable.com/article/apple-ios-26-release-date-iphone-17"
     },
     {
-      "title": "The superior all-rounder among sports cars: the Porsche 911 Turbo S - Porsche Newsroom",
-      "link": "https://newsroom.porsche.com/en/2025/products/porsche-911-turbo-s-top-of-the-range-model-twin-turbo-performance-hybrid-40446.html"
+      "title": "Image Recognition On 0.35 Watts - Hackaday",
+      "link": "https://hackaday.com/2025/09/07/image-recognition-on-0-35-watts/"
     },
     {
-      "title": "You can stay on Windows 10 for another year for free \u2014 if you act by Oct. 14 - MSN",
-      "link": "https://www.msn.com/en-us/news/technology/you-can-stay-on-windows-10-for-another-year-for-free-if-you-act-by-oct-14/ar-AA1LZa4d"
+      "title": "Is WINUX really like using Windows 11 but on Linux? Surprisingly, yes, and here's why. - Windows Central",
+      "link": "https://www.windowscentral.com/software-apps/i-tried-winux-promising-a-windows-11-experience-on-linux"
+    },
+    {
+      "title": "Billy Joel Never Bought That Cadillac-Ac-Ac-Ac, But His Actual Collection Is Pretty Unusual - Jalopnik",
+      "link": "https://www.jalopnik.com/1956781/billy-joel-car-collection/"
+    },
+    {
+      "title": "Star Wars Outlaws Looks Unbelievably Bad On Switch 2 - TheGamer",
+      "link": "https://www.thegamer.com/star-wars-outlaws-looks-unbelievably-bad-on-switch-2/"
+    },
+    {
+      "title": "Porsche\u2019s insanely clever hybrid engine comes to the 911 Turbo S - Ars Technica",
+      "link": "https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/"
+    },
+    {
+      "title": "Every Hollow Knight Silksong crest and where to find them - PCGamesN",
+      "link": "https://www.pcgamesn.com/hollow-knight-silksong/crest-best"
+    },
+    {
+      "title": "Apple\u2019s new generative AI \u2018answer engine\u2019 might arrive sooner than we initially thought - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/07/apple-new-generative-ai-search-engine-answers-product-soon/"
+    },
+    {
+      "title": "iPhone 17 specifications leaked ahead of event - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/09/07/iphone-17-specifications-leaked-ahead-of-event"
+    },
+    {
+      "title": "12 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-9-7-2025/"
     },
     {
       "title": "A really cheap way to get really smart lights - The Verge",
@@ -36,130 +68,110 @@
       "link": "https://www.sfgate.com/renotahoe/article/woman-behind-tahoe-biggest-real-estate-deals-21027543.php"
     },
     {
+      "title": "The Tiny Tech Purchase That Made My Life 1,000 Times Easier - HuffPost",
+      "link": "https://www.huffpost.com/entry/kasa-smart-plugs-ud_l_68af2e5ce4b0bbcc3f8d7bc5"
+    },
+    {
       "title": "The New Math of Quantum Cryptography - WIRED",
       "link": "https://www.wired.com/story/the-new-math-of-quantum-cryptography/"
     },
     {
-      "title": "Last-minute carrier leak suggests 8x camera zoom, vapor chamber cooling for iPhone 17 Pro - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/07/leak-iphone-17-pro-features-camera-cooling/"
+      "title": "Samsung Galaxy S26 Ultra looks ancient next to the Galaxy S25 Ultra - PhoneArena",
+      "link": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-looks-ancient-next-to-galaxy-s25-ultra_id173829"
     },
     {
-      "title": "An Electrician's Warning: Don't Plug These 7 Dangerous Devices Into Extension Cords - CNET",
-      "link": "https://www.cnet.com/home/kitchen-and-household/an-electricians-warning-dont-plug-these-7-dangerous-devices-into-extension-cords/"
+      "title": "Windows 10 is almost dead\u2014here are all your survival options - MakeUseOf",
+      "link": "https://www.makeuseof.com/windows-10-end-of-life-survival-options/"
     },
     {
-      "title": "Kuo: AirPods Pro 3 set to launch this week - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/07/kuo-airpods-pro-3-set-to-launch-this-week/"
+      "title": "I\u2019m a personal trainer \u2014 here's 3 things I noticed about my body after swapping CrossFit for reformer Pilates - Tom's Guide",
+      "link": "https://www.tomsguide.com/wellness/workouts/im-a-personal-trainer-heres-3-things-i-noticed-about-my-body-after-swapping-crossfit-for-reformer-pilates"
     },
     {
-      "title": "An \u2018iPhone Air,\u2019 price hikes and AI: What to watch at Apple\u2019s biggest event of the year - CNN",
-      "link": "https://www.cnn.com/2025/09/07/tech/iphone-air-price-ai-apple-event"
-    },
-    {
-      "title": "This is how Xenoblade Chronicles X connects to the numbered trilogy - Nintendo Everything",
-      "link": "https://nintendoeverything.com/this-is-how-xenoblade-chronicles-x-connects-to-the-numbered-trilogy/"
-    },
-    {
-      "title": "Person Told They\u2019re Replaceable Gets Fired, Company Realizes They\u2019re Not That Easy To Replace - Bored Panda",
-      "link": "https://www.boredpanda.com/getting-laid-off-poaching-biggest-client/"
-    },
-    {
-      "title": "Denny Hamlin reacts to third Cup Series pole of 2025 at Gateway - NASCAR.com",
-      "link": "https://www.nascar.com/videos/franchise/nascar-cup-qualifying-clips/denny-hamlin-reacts-to-third-cup-series-pole-of-2025-at-gateway/"
-    },
-    {
-      "title": "Is Local AI the Unexpected Fix to the Obsolescence of Robot Vacuums? - Gizmodo",
-      "link": "https://gizmodo.com/is-local-ai-the-unexpected-solution-to-the-obsolescent-of-robot-vacuums-obsolescence-2000654929"
-    },
-    {
-      "title": "Get a lifetime subscription to the \"ChatGPT for investors\" for under $60 - Mashable",
-      "link": "https://mashable.com/article/sept-6-sterling-stock-picker-lifetime-subscription"
-    },
-    {
-      "title": "Hollow Knight Silksong walkthrough: Part 7 (Hunter's March) - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/hollow-knight-silksong-walkthrough-part-7"
-    },
-    {
-      "title": "Withings Updates ScanWatch 2 With 35-Day Battery Life the Apple Watch Could Only Dream Of - Gizmodo",
-      "link": "https://gizmodo.com/withings-updates-scanwatch-2-with-35-day-battery-life-the-apple-watch-could-only-dream-of-2000654923"
-    },
-    {
-      "title": "Hollow Knight: Silksong: Crests Guide - All Crest Locations & Effects - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/hollow-knight-silksong-crests-guide-all-crest-locations-and-effects"
-    },
-    {
-      "title": "How Google Keep\u2019s switch to Tasks will work: No location reminders - 9to5Google",
-      "link": "http://9to5google.com/2025/09/06/google-keep-tasks-switch-locaton/"
+      "title": "These Were The Last Cars You Could Buy With T-Tops - Jalopnik",
+      "link": "https://www.jalopnik.com/1956760/last-cars-with-t-tops/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Fantasy football Week 1 inactives: Who's in and who's out? - ESPN",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-46069950/nfl-fantasy-football-espn-injured-inactives-watchlist-week-1-2025-september-7"
+    },
+    {
+      "title": "In and Out, 2025 Week 1: Maason Smith, Cole Van Lanen and Four Others Are Inactive - Jacksonville Jaguars",
+      "link": "https://www.jaguars.com/news/k000493-in-and-out-2025-week-1-maason-smith-cole-van-lanen-and-four-others-are-inactive"
+    },
+    {
+      "title": "College Football Overtime: Oklahoma's offseason gamble, USF's upset over Florida top Week 2 takeaways - 247Sports",
+      "link": "https://247sports.com/longformarticle/college-football-overtime-oklahomas-offseason-gamble-usfs-upset-over-florida-top-week-2-takeaways-253631177/"
+    },
+    {
+      "title": "Verstappen charges to Italian GP win over Norris and Piastri - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/verstappen-charges-to-italian-gp-win-over-norris-and-piastri.6J7R9E9tzOI9Asy6HBmoVf"
+    },
+    {
+      "title": "[Affecting A Maryland Accent] \u201cWhoa! Go O\u2019s!\u201d - Defector",
+      "link": "https://defector.com/affecting-a-maryland-accent-whoa-go-os"
+    },
     {
       "title": "Follow live Italian GP at Monza: Verstappen stuns McLaren with pole-flag victory - ESPN",
       "link": "https://www.espn.com/f1/story/_/id/46166770/italian-grand-prix-2025-follow-live-updates"
     },
     {
-      "title": "Report: Giants have prepared a package of plays for Jaxson Dart today - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-have-prepared-a-package-of-plays-for-jaxson-dart-today"
+      "title": "The 10 Highest-Graded Players From BYU's Win Over Stanford - Sports Illustrated",
+      "link": "https://www.si.com/college/byu/football/the-10-highest-graded-players-from-byu-win-over-stanford"
     },
     {
-      "title": "Chiefs expect Xavier Worthy to miss time with dislocated shoulder, wear brace when he returns - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-expect-xavier-worthy-to-miss-time-with-dislocated-shoulder-wear-brace-when-he-returns"
+      "title": "Lions sign WR Jameson Williams to contract extension through the 2029 season - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/lions-sign-wr-jameson-williams-to-contract-extension-through-the-2029-season"
     },
     {
-      "title": "Expect a Jalen Carter discipline decision on Monday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/expect-a-jalen-carter-discipline-decision-on-monday"
+      "title": "How to watch Jannik Sinner vs. Carlos Alcaraz in the US Open 2025 finals for free - New York Post",
+      "link": "https://nypost.com/2025/09/07/sports/us-open-2025-finals-how-to-watch-jannik-sinner-vs-carlos-alcaraz-for-free/"
+    },
+    {
+      "title": "Detroit Lions updated depth chart: Week 1 at Packers - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-depth-chart/140617/detroit-lions-updated-depth-chart-week-1-at-packers"
+    },
+    {
+      "title": "Chiefs WR Xavier Worthy to Miss Time With Injury After Collision With Travis Kelce - Sports Illustrated",
+      "link": "https://www.si.com/nfl/chiefs-wr-xavier-worthy-miss-time-injury-collision-travis-kelce"
+    },
+    {
+      "title": "Walt Anderson confirms Dak Prescott\u2019s initial spit violated no rules - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/walt-anderson-confirms-dak-prescotts-initial-spit-violated-no-rules"
+    },
+    {
+      "title": "North Carolina coach Bill Belichick says Patriots\u2019 staff not welcome at UNC facilities - WRAL.com",
+      "link": "https://www.wral.com/sports/north-carolina-bill-belichick-patriots-banned-unc-facilities-fued-september-2025/"
     },
     {
       "title": "Who is Brendan Bett? Florida's defensive lineman ejected for spitting as Gators fall to South Florida | Hindustan Times - Hindustan Times",
       "link": "https://www.hindustantimes.com/sports/us-sports/who-is-brendan-bett-floridas-defensive-lineman-ejected-for-spitting-as-gators-fall-to-south-florida-101757251054850.html"
     },
     {
-      "title": "NFL Week 1 expert picks, score predictions: Lions at Packers - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/nfl-picks/140933/nfl-week-1-2025-score-predictions-detroit-lions-green-bay-packers"
+      "title": "Din Thomas rips Mauricio Ruffy after UFC Paris: \u2018He did not look like he wanted to be out there\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/402839/din-thomas-questions-mauricio-ruffy-after-ufc-paris-he-did-not-look-like-he-wanted-to-be-out-there"
     },
     {
-      "title": "2025 ITALIAN GRAND PRIX OFFICIAL GRID: Who starts where in Monza - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/official-grid-whos-where-in-monza-as-gasly-and-hadjar-start-from-pit-lane.1WRdNe8D10pvtvlVkjGzcp"
+      "title": "Snap Count Tracker vs. East Texas A&M - FSU unloads its bench in blowout win - 247Sports",
+      "link": "https://247sports.com/college/florida-state/longformarticle/fsu-football-snap-count-tracker-vs-east-texas-am-unloads-bench-blowing-win--253637570/"
     },
     {
-      "title": "Trump attending the US Open as Rolex's guest despite Swiss tariffs. Any boos may not be seen on TV - AP News",
-      "link": "https://apnews.com/article/trump-us-open-sporting-events-boos-5a80b02c78403f1f2f87a30852ffb0f5"
+      "title": "Penn State offense still seeks potential; Drew Allar played the kind of game that won't beat Oregon, and more of what they're saying - On3",
+      "link": "https://www.on3.com/teams/penn-state-nittany-lions/news/penn-state-offense-still-seeks-potential-drew-allar-played-the-kind-of-game-that-wont-beat-oregon-and-more-of-what-theyre-saying/"
     },
     {
-      "title": "No, the famed \u2018Phillies Karen\u2019 doesn\u2019t work for us, N.J. school district says - NJ.com",
-      "link": "https://www.nj.com/news/2025/09/no-the-famed-phillies-karen-doesnt-work-for-us-nj-school-district-says.html"
+      "title": "Where to watch Atlanta Falcons vs. Tampa Bay Buccaneers - Atlanta Falcons",
+      "link": "https://www.atlantafalcons.com/news/where-to-watch-atlanta-falcons-vs-tampa-bay-buccaneers"
     },
     {
-      "title": "Giants vs. Commanders: Preview, prediction, what to watch for in Week 1 - New York Post",
-      "link": "https://nypost.com/2025/09/07/sports/giants-vs-commanders-preview-prediction-what-to-watch-for-5/"
+      "title": "Social Reactions: John Cooper Rings The Victory Bell And Ohio State Lights Up Grambling State Via Big Plays From Up And Down The Roster - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/college-football/2025/09/157811/social-reactions-john-cooper-rings-the-victory-bell-and-ohio-state-lights-up-grambling-state-via-big-plays-from-up-and"
     },
     {
-      "title": "Oklahoma Elevates Into Contender Tier Behind QB John Mateer - Sports Illustrated",
-      "link": "https://www.si.com/college-football/oklahoma-elevates-into-contender-tier-behind-qb-john-mateer"
-    },
-    {
-      "title": "Arch Manning rebounds from rough opener - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-rebounds-from-rough-opener"
-    },
-    {
-      "title": "Bitter: Vanderbilt Dud Puts Pry\u2019s Virginia Tech Tenure On The Brink - TechSideline.com",
-      "link": "https://virginiatech.sportswar.com/subscription/2025/09/07/bitter-vanderbilt-dud-puts-prys-virginia-tech-tenure-on-the-brink/"
-    },
-    {
-      "title": "Arizona-Weber State kickoff set following two-hour weather delay - Arizona Daily Star",
-      "link": "https://tucson.com/sports/college/football/wildcats/article_6b279f13-0f03-4cf0-bc03-74aaf6cf77c6.html"
-    },
-    {
-      "title": "Takeaways from Week 2 of College Football: Florida collapses, Arch Manning recovers - NBC Sports",
-      "link": "https://www.nbcsports.com/college-football/news/takeaways-from-week-2-of-college-football-florida-collapses-arch-manning-recovers"
-    },
-    {
-      "title": "Patience shows up in passing game as Arnold comes up big vs. Ball State - 247Sports",
-      "link": "https://247sports.com/college/auburn/article/auburn-quarterback-jackson-arnold-had-a-very-efficient-game-in-the-win-over-ball-state--253629261/"
-    },
-    {
-      "title": "Lions, WR Jameson Williams agree to three-year extension worth up to $83 million - NFL.com",
-      "link": "https://www.nfl.com/news/lions-wr-jameson-williams-agree-to-three-year-extension-worth-up-to-83-million"
+      "title": "Position grades for Michigan Football\u2019s 24-13 loss at Oklahoma - Maize n Brew",
+      "link": "https://www.maizenbrew.com/michigan-football-analysis/91821/michigan-football-oklahoma-bryce-underwood-donaven-mcculley-cole-sullivan-position-grades-2025-season"
     }
   ],
   "weather": {
