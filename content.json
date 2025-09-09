@@ -1,9 +1,9 @@
 {
-  "quote": "Everything has beauty but not everyone sees it. \u2013 Confucius",
-  "fact": "Average life span of a major league baseball: 7 pitches.",
-  "crypto": "BTC: $111,476 | ETH: $4,313.0",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "How do you steal a coat? You jacket.",
+  "quote": "Everybody needs a passion. That's what keeps life interesting. \u2013 Betty White",
+  "fact": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
+  "crypto": "BTC: $111,504 | ETH: $4,313.68",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "A magician was driving down the street and then he turned into a driveway.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit - The Verge",
+      "link": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit"
+    },
+    {
+      "title": "Google rolling out Flashcards, Quizzes, and redesigned Reports to NotebookLM - 9to5Google",
+      "link": "http://9to5google.com/2025/09/08/notebooklm-flashcards-quizzes/"
+    },
+    {
       "title": "Gemini app finally expands to audio files - The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports"
+    },
+    {
+      "title": "AMD latest driver enables FSR4 for most FSR 3.1 games - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-latest-driver-enables-fsr4-for-most-fsr-3-1-games"
     },
     {
       "title": "Woot Has Big Deals on 2025 Gaming Releases, Including Monster Hunter Wilds for Under $30 - IGN",
@@ -24,16 +36,32 @@
       "link": "https://9to5mac.com/2025/09/08/review-ankers-new-magsafe-battery-bank-truly-delivers-in-its-ultra-slim-package/"
     },
     {
+      "title": "Star Wars Outlaws gets first Nintendo Switch 2 update, patch notes - performance improvements and more - Nintendo Everything",
+      "link": "https://nintendoeverything.com/star-wars-outlaws-gets-first-nintendo-switch-2-update-patch-notes-performance-improvements-and-more/"
+    },
+    {
+      "title": "This Is the New 911 Turbo S\u2014Porsche's Most Powerful 911 Ever - Motor1.com",
+      "link": "https://www.motor1.com/news/771380/2026-porsche-911-turbo-s/"
+    },
+    {
       "title": "Apple's Upcoming 'Awe Dropping' Event With iPhone 17 Air Draws Criticism As Commentator Daniel Newman Slams 'Lack Of Innovation' - Yahoo Finance",
       "link": "https://finance.yahoo.com/news/apples-upcoming-awe-dropping-event-183059932.html"
     },
     {
-      "title": "Nova Launcher\u2019s founder and sole developer has left - The Verge",
-      "link": "https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android"
+      "title": "Here\u2019s how iPhone 17 Air battery could stack up against previous iPhones - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/08/heres-how-iphone-17-air-battery-could-stack-up-against-previous-iphones/"
     },
     {
       "title": "Best Buy's Big PS5/Xbox Video Game Clearance Sale Is Live Now - Kotaku",
       "link": "https://kotaku.com/best-buys-video-game-clearance-sale-includes-some-good-deals-on-big-games-2000624096"
+    },
+    {
+      "title": "\u201cWeird Inner Tensions\u201d: Microsoft Stock (NASDAQ:MSFT) Notches Up Despite Growing Xbox Game Pass Concerns - TipRanks",
+      "link": "https://www.tipranks.com/news/weird-inner-tensions-microsoft-stock-nasdaqmsft-notches-up-despite-growing-xbox-game-pass-concerns"
+    },
+    {
+      "title": "Rabbit R1 wants a second chance with the new RabbitOS 2 update - 9to5Google",
+      "link": "http://9to5google.com/2025/09/08/rabbit-r1-gets-do-over-update/"
     },
     {
       "title": "The best stuff announced at IFA - The Verge",
@@ -44,16 +72,8 @@
       "link": "https://www.ign.com/articles/lego-sega-genesis-controller-where-to-buy"
     },
     {
-      "title": "Oblivion Remastered Descends To \u2018Mixed\u2019 Review Status On Steam - Kotaku",
-      "link": "https://kotaku.com/oblivion-remastered-steam-mixed-review-ue5-stuttering-2000624074"
-    },
-    {
       "title": "All 54 lost clickwheel iPod games have now been preserved for posterity - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/"
-    },
-    {
-      "title": "Breathtaking Keanu Reeves would \"love\" to be Johnny Silverhand in Cyberpunk 2 - Eurogamer",
-      "link": "https://www.eurogamer.net/breathtaking-keanu-reeves-would-love-to-be-johnny-silverhand-in-cyberpunk-2"
     },
     {
       "title": "Visit the Pok\u00e9mon Trading Card Game: Mega Evolution Discovery Experience in Los Angeles - Pokemon.com",
@@ -64,54 +84,62 @@
       "link": "https://www.eurogamer.net/developer-io-interactive-on-why-bond-needs-to-earn-hiss-iconic-theme-music-in-007-first-light"
     },
     {
-      "title": "The Downside Of Game Pass, According To A Former Xbox Boss - GameSpot",
-      "link": "https://www.gamespot.com/articles/the-downside-of-game-pass-according-to-a-former-xbox-boss/1100-6534539/"
+      "title": "Here's Your Sign to Stop Using Nova Launcher - Droid Life",
+      "link": "https://www.droid-life.com/2025/09/08/stop-using-nova-launcher/"
     },
     {
-      "title": "Porsche Will Put Lightweight Carbon-Fiber Windshield Wipers On Your New 911 For The Low, Low Price Of Just $1,310 - Jalopnik",
-      "link": "https://www.jalopnik.com/1961828/porsche-lightweight-carbon-fiber-windshield-wipers/"
-    },
-    {
-      "title": "PS6 Will Go Modular With Optional Disc Drive - Report - GameSpot",
-      "link": "https://www.gamespot.com/articles/ps6-will-go-modular-with-optional-disc-drive-report/1100-6534538/"
-    },
-    {
-      "title": "Hollow Knight Silksong map \u2013 area order and where to buy maps - PCGamesN",
-      "link": "https://www.pcgamesn.com/hollow-knight-silksong/map"
-    },
-    {
-      "title": "Hollow Knight: Silksong Has The Most Evil Fakeout: A Fake Bench - Kotaku",
-      "link": "https://kotaku.com/hollow-knight-silksong-fake-bench-trap-hunters-march-2000624049"
-    },
-    {
-      "title": "Spotify\u2019s new \u2018smart filters\u2019 let you screen library content by activity, genre or mood - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/08/spotifys-new-smart-filters-let-you-screen-library-content-by-activity-genre-or-mood/"
+      "title": "Apple's C1 Modem Put Through New Speed Test Ahead of iPhone 17 Air - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/08/ookla-iphone-16e-c1-modem-speed-test/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Who is the 'Phillies Karen'? How the viral drama over a home run ball unfolded \u2014 and what the dad and his son have said about it - yahoo.com",
+      "link": "https://www.yahoo.com/news/us/article/who-is-the-phillies-karen-how-the-viral-drama-over-a-home-run-ball-unfolded--and-what-the-dad-and-his-son-have-said-about-it-161012605.html"
+    },
+    {
+      "title": "NFL bans fan from all stadiums after he shoved Lamar Jackson - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/09/08/lamar-jackson-fan-shove/"
+    },
     {
       "title": "Ravens Grades & Snap Counts vs. Bills - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/ravens-grades-snap-counts-buffalo-bills"
     },
     {
-      "title": "Ex-Fins CB says Colts forced Tua into 'panic mode' - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46199974/xavien-howard-says-colts-forced-tagovailoa-panic-mode"
+      "title": "Dave Portnoy blasts \u2018race-baiter\u2019 Ryan Clark over Peter Schrager squabble - New York Post",
+      "link": "https://nypost.com/2025/09/08/sports/dave-portnoy-blasts-race-baiter-ryan-clark-over-peter-schrager-squabble/"
+    },
+    {
+      "title": "Cover 3: Takeaways from Giants at Commanders - Giants.com",
+      "link": "https://www.giants.com/news/takeaways-from-giants-at-commanders-nfl-week-1-russell-wilson-jayden-daniels-abdul-carter"
+    },
+    {
+      "title": "Trump appears with Rolex CEO at U.S. Open even as 39% tariff set to pummel Swiss watch imports - CNBC",
+      "link": "https://www.cnbc.com/2025/09/08/trump-us-open-invitation-rolex-tariff-switzerland.html"
+    },
+    {
+      "title": "Hot Topics From Titans HC Brian Callahan's Monday Presser - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/hot-topics-from-titans-hc-brian-callahan-s-monday-presser-x6829"
+    },
+    {
+      "title": "NBA player's sister fatally shot at New Jersey apartment complex, her boyfriend charged with murder - AP News",
+      "link": "https://apnews.com/article/nba-naz-reid-sister-shot-new-jersey-8f99c2586d9ac4f6b8d0184974b6ba2a"
     },
     {
       "title": "Andy Reid on Xavier Worthy\u2019s shoulder: He\u2019s rehabbing, it\u2019s day-by-day here - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-on-xavier-worthys-shoulder-hes-rehabbing-its-day-by-day-here"
     },
     {
-      "title": "Kendrick Bourne to sign with 49ers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kendrick-bourne-to-sign-with-49ers"
-    },
-    {
-      "title": "Father and son speak out after viral Phillies-Marlins game confrontation - ABC News",
-      "link": "https://abcnews.go.com/GMA/Living/father-son-speak-after-viral-phillies-marlins-game/story?id\\\\u003d125366422"
-    },
-    {
       "title": "Brian Daboll: Russell Wilson will start Week 2 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-russell-wilson-will-start-week-2"
+    },
+    {
+      "title": "Tua Tagovailoa: It\u2019s wild to say I turn the ball over in bunches - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-its-wild-to-say-i-turn-the-ball-over-in-bunches"
+    },
+    {
+      "title": "Week 1 NFL Grades: Inside Cowboys\u2019 New-Look Run Defense Without Micah Parsons - Sports Illustrated",
+      "link": "https://www.si.com/nfl/week-1-nfl-grades-cowboys-run-defense"
     },
     {
       "title": "Gerry Dulac: It was only Week 1, but don't let that discount Aaron Rodgers' near-perfect Steelers debut - Pittsburgh Post-Gazette",
@@ -126,16 +154,16 @@
       "link": "https://www.on3.com/college/florida-gators/news/billy-napier-confirms-he-will-remain-play-caller-has-not-considered-giving-up-duties/"
     },
     {
-      "title": "Biff Poggi to Serve As Michigan\u2019s Interim Head Coach During Sherrone Moore\u2019s Two-Game Suspension | Eleven - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/college-football/2025/09/157868/biff-poggi-to-serve-as-michigan-s-interim-head-coach-during-sherrone-moore-s-two-game-suspension"
+      "title": "Bill Belichick Will Not Allow The Patriots To Scout His Bad Team - Defector",
+      "link": "https://defector.com/bill-belichick-will-not-allow-the-patriots-to-scout-his-bad-team"
     },
     {
-      "title": "NFL Monday Night Football DFS Picks: Vikings at Bears (Sept. 8) - Stokastic.com",
-      "link": "https://www.stokastic.com/news/nfl-monday-night-football-dfs-picks-vikings-at-bears-sept-8-i11/"
+      "title": "Game Preview: Vikings vs. Bears | 2025 Week 1 - Chicago Bears",
+      "link": "https://www.chicagobears.com/news/game-preview-vikings-vs-bears-2025-week-1-monday-night-football-caleb-williams"
     },
     {
-      "title": "Sister of Wolves' Reid allegedly slain by boyfriend - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/46198198/sister-timberwolves-naz-reid-fatally-shot-boyfriend"
+      "title": "Rex Ryan Has Already Seen Enough of Travis Hunter Playing Both Ways - Sports Illustrated",
+      "link": "https://www.si.com/nfl/rex-ryan-seen-enough-of-travis-hunter-playing-both-ways"
     },
     {
       "title": "Gutierrez: Geno Smith wasn't perfect, but his cool command delivered a statement win over Patriots - Raiders.com",
@@ -144,26 +172,6 @@
     {
       "title": "The Dolphins\u2019 playing time surprise. And what snap counts, grades reveal - Miami Herald",
       "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article311913363.html"
-    },
-    {
-      "title": "Dave Feit: The Huskers Flattened the Zips, and It Was 1982 All Over Again - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/dave-feit-the-huskers-flattened-the-zips-and-it-was-1982-all-over-again-huskers-akron-matt-rhule-big-ten-dylan-raiola"
-    },
-    {
-      "title": "Inside The Numbers: Panthers at Jaguars in Week 1 - Panthers.com",
-      "link": "https://www.panthers.com/news/inside-the-numbers-panthers-at-jaguars-in-week-1"
-    },
-    {
-      "title": "The Bo Nix Growth Meter and Sean Payton\u2019s fourth-down gamble. Parker Gabriel\u2019s 7 thoughts on Broncos\u2019 season-opening win. - The Denver Post",
-      "link": "https://www.denverpost.com/2025/09/08/broncos-titans-7-thoughts-week-1-parker-gabriel/"
-    },
-    {
-      "title": "How The Bengals Made It All Good In The Opener: 'Worship My Defense Right Now.' - Cincinnati Bengals",
-      "link": "https://www.bengals.com/news/how-the-bengals-made-it-all-good-in-the-opener-worship-my-defense-right-now"
-    },
-    {
-      "title": "Detroit Lions slapped by reality in 27-13 egg vs Green Bay Packers in Week 1 - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/nfl/lions/2025/09/07/lions-packers-game-score-nfl-week-1/86027256007/"
     }
   ],
   "weather": {
