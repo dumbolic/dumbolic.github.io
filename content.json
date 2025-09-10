@@ -1,9 +1,9 @@
 {
-  "quote": "You can put lipstick on a pig. It's still a pig. \u2013 Barack Obama",
-  "fact": "Most dust particles in your house are made from dead skin.",
-  "crypto": "BTC: $112,366 | ETH: $4,330.38",
+  "quote": "Life needs to be more than just solving problems every day. You need to wake up and be excited about the future. \u2013 Elon Musk",
+  "fact": "One quarter of the bones in your body are in your feet.",
+  "crypto": "BTC: $112,313 | ETH: $4,330.93",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I once lost a banana at court but then I appealed. ",
+  "joke": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Apple Event 2025 Live Updates: Last Minute iPhone 17 Rumors to Know - CNET",
-      "link": "https://www.cnet.com/news-live/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/"
+      "title": "Star Wars Outlaws 'Switch 2 Title Update 1' Now Available, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/09/star-wars-outlaws-switch-2-title-update-1-now-available-here-are-the-full-patch-notes"
+    },
+    {
+      "title": "Hollow Knight: Silksong's first patch will make the early game easier - Eurogamer",
+      "link": "https://www.eurogamer.net/hollow-knight-silksongs-first-patch-will-make-the-early-game-easier"
     },
     {
       "title": "Smart Launcher has a message for grieving Nova Launcher users - Android Authority",
       "link": "https://www.androidauthority.com/smart-launcher-nova-launcher-migration-update-3596005/"
+    },
+    {
+      "title": "Last-minute Apple event rumors: iPhone 17 specs, AirPods Pro 3, more - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/08/last-minute-apple-event-rumors-iphone-17-specs-airpods-pro-3-more/"
+    },
+    {
+      "title": "Google quietly hits pause on a brand-new Pixel 10 feature, and it's for the best - Android Authority",
+      "link": "https://www.androidauthority.com/pixel-10-daily-hub-pause-3595993/"
     },
     {
       "title": "Plex tells users to reset passwords after new data breach - BleepingComputer",
@@ -32,12 +44,8 @@
       "link": "http://9to5google.com/2025/09/08/september-2025-google-system-updates/"
     },
     {
-      "title": "Ubisoft Releasing Star Wars Outlaws Switch 2 Demo \"Later This Year\" - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/ubisoft-releasing-star-wars-outlaws-switch-2-demo-later-this-year"
-    },
-    {
-      "title": "Google pulls \u2018Daily Hub\u2019 preview on Pixel 10 as it works on improvements - 9to5Google",
-      "link": "http://9to5google.com/2025/09/08/pixel-10-daily-hub-pause/"
+      "title": "The 9 coolest gadgets I saw at IFA Berlin 2025 (including picks you can actually buy) - ZDNET",
+      "link": "https://www.zdnet.com/article/the-9-coolest-gadgets-i-saw-at-ifa-berlin-2025-including-picks-you-can-actually-buy/"
     },
     {
       "title": "AirPods Pro 3 Won't Get 'Major' Audio or Active Noise Cancellation Improvements - MacRumors",
@@ -56,28 +64,20 @@
       "link": "https://www.gamespot.com/articles/metal-gear-solid-delta-update-adds-inverted-camera-konami-exploring-ultrawide-support-and-performance-improvements/1100-6534559/"
     },
     {
-      "title": "The elegance of movement in Silksong - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45174037"
-    },
-    {
       "title": "Nest Doorbell 2K retail box specifies resolution, wider FOV - 9to5Google",
       "link": "http://9to5google.com/2025/09/08/nest-doorbell-2k-resolution/"
-    },
-    {
-      "title": "7 most exciting tech accessories from IFA 2025 (and that you can actually buy) - ZDNET",
-      "link": "https://www.zdnet.com/article/7-most-exciting-tech-accessories-from-ifa-2025-and-that-you-can-actually-buy/"
     },
     {
       "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit - The Verge",
       "link": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit"
     },
     {
-      "title": "AMD 25.9.1 Driver Enables FSR 4 In FSR 3.1 \u201cDX12\u201d Games, Expanding The List To 85+ Titles, Several Fixes & Improvements For Radeon GPUs - Wccftech",
-      "link": "https://wccftech.com/amd-fsr-4-enabled-in-fsr-3-1-titles-over-85-games-new-radeon-gpu-driver/"
+      "title": "If the latest OnePlus 15 leaks are true, you might get yourself real flagship killer once again - PhoneArena",
+      "link": "https://www.phonearena.com/news/if-the-latest-oneplus-15-leaks-are-true-you-might-get-yourself-real-flagship-killer-once-again_id173843"
     },
     {
-      "title": "Get Free Sega Genesis Lego Controller From The Lego Store For A Limited Time - GameSpot",
-      "link": "https://www.gamespot.com/articles/get-free-sega-genesis-lego-controller-from-the-lego-store-for-a-limited-time/1100-6534532/"
+      "title": "AMD 25.9.1 Driver Enables FSR 4 In FSR 3.1 \u201cDX12\u201d Games, Expanding The List To 85+ Titles, Several Fixes & Improvements For Radeon GPUs - Wccftech",
+      "link": "https://wccftech.com/amd-fsr-4-enabled-in-fsr-3-1-titles-over-85-games-new-radeon-gpu-driver/"
     },
     {
       "title": "Google rolling out Flashcards, Quizzes, and redesigned Reports to NotebookLM - 9to5Google",
@@ -90,12 +90,12 @@
   ],
   "sports_news": [
     {
-      "title": "J.J. McCarthy Era makes dramatic fourth-quarter arrival as Vikings beat Bears 27-24 - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-vikings-chicago-bears-monday-night-football/601454613"
+      "title": "Jaguars trade RB Tank Bigsby to the Eagles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-trade-rb-tank-bigsby-to-the-eagles"
     },
     {
-      "title": "NFL bans fan from all stadiums after he shoved Lamar Jackson - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/09/08/lamar-jackson-fan-shove/"
+      "title": "J.J. McCarthy Era makes dramatic fourth-quarter arrival as Vikings beat Bears 27-24 - Star Tribune",
+      "link": "https://www.startribune.com/minnesota-vikings-chicago-bears-monday-night-football/601454613"
     },
     {
       "title": "Dodgers' Glasnow, two relievers one-hit Rockies - ESPN",
@@ -110,12 +110,12 @@
       "link": "https://nypost.com/2025/09/08/sports/mike-vrabel-opens-patriots-door-to-bill-belichick-after-unc-ban/"
     },
     {
-      "title": "Kyle Shanahan provides comical analysis of Brock Purdy's game-winning TD pass - NBC Sports Bay Area & California",
-      "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kyle-shanahan-brock-purdy-game-winning-td/1873183/"
-    },
-    {
       "title": "Shanahan Provides Injury Updates on Brock Purdy, George Kittle, and Others; Recaps Week 1 Win - San Francisco 49ers",
       "link": "https://www.49ers.com/news/shanahan-provides-injury-updates-on-brock-purdy-george-kittle-and-others-recaps-week-1-win"
+    },
+    {
+      "title": "Quick Hits: Bengals Defense Has Groundbreaking Day Led By Newcomers T.J. Slaton Jr., And Demetrius Knight Jr. - Cincinnati Bengals",
+      "link": "https://www.bengals.com/news/bengals-newcomers-t-j-slaton-jr-and-demetrius-knight-jr-lead-groundbreaking-day"
     },
     {
       "title": "Mississippi State fined for violation of access to competition area policy - Southeastern Conference",
@@ -130,16 +130,16 @@
       "link": "https://www.theringer.com/2025/09/08/tennis/carlos-alcaraz-jannik-sinner-us-open-championship-final"
     },
     {
+      "title": "Fan who shoved Ravens QB Lamar Jackson banned indefinitely from attending NFL games - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-ravens-bills-fan-banned-rcna229947"
+    },
+    {
       "title": "He was coaching youth football. Four days later, his kick won an NFL game. - NBC News",
       "link": "https://www.nbcnews.com/sports/nfl/nfl-bills-ravens-matt-prater-comeback-rcna229895"
     },
     {
       "title": "By the Numbers: Lockdown defense in second half leads to Raiders' Week 1 victory - Raiders.com",
       "link": "https://www.raiders.com/news/by-the-numbers-lockdown-defense-in-second-half-leads-to-raiders-week-1-victory"
-    },
-    {
-      "title": "Who is the 'Phillies Karen'? How the viral drama over a home run ball unfolded \u2014 and what the dad and his son have said about it - yahoo.com",
-      "link": "https://www.yahoo.com/news/us/article/who-is-the-phillies-karen-how-the-viral-drama-over-a-home-run-ball-unfolded--and-what-the-dad-and-his-son-have-said-about-it-161012605.html"
     },
     {
       "title": "Cover 3: Takeaways from Giants at Commanders - Giants.com",
@@ -154,6 +154,10 @@
       "link": "https://www.miamidolphins.com/news/three-takeaways-dolphins-fall-to-colts-33-8"
     },
     {
+      "title": "Who is in danger of NASCAR Cup playoff elimination at Bristol? - Motorsport.com",
+      "link": "https://www.motorsport.com/nascar-cup/news/playoff-peril-the-drivers-in-danger-of-elimination-at-bristol/10757965/"
+    },
+    {
       "title": "Hot Topics From Titans HC Brian Callahan's Monday Presser - Tennessee Titans",
       "link": "https://www.tennesseetitans.com/news/hot-topics-from-titans-hc-brian-callahan-s-monday-presser-x6829"
     },
@@ -162,12 +166,8 @@
       "link": "https://apnews.com/article/nba-naz-reid-sister-shot-new-jersey-8f99c2586d9ac4f6b8d0184974b6ba2a"
     },
     {
-      "title": "Andy Reid on Xavier Worthy\u2019s shoulder: He\u2019s rehabbing, it\u2019s day-by-day here - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-on-xavier-worthys-shoulder-hes-rehabbing-its-day-by-day-here"
-    },
-    {
-      "title": "Tua Tagovailoa: It\u2019s wild to say I turn the ball over in bunches - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-its-wild-to-say-i-turn-the-ball-over-in-bunches"
+      "title": "Mike Macdonald opted for fourth-quarter FG despite team model saying to go for it - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-opted-for-fourth-quarter-fg-despite-team-model-saying-to-go-for-it"
     }
   ],
   "weather": {
