@@ -1,9 +1,9 @@
 {
-  "quote": "If your mind is empty, it is always ready for anything, it is open to everything. \u2013 Shunryu Suzuki",
-  "fact": " was Harrison Ford`s idea so that he could take a bathroom break.",
-  "crypto": "BTC: $111,375 | ETH: $4,318.61",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why was ten scared of seven? Because seven ate nine.",
+  "quote": "The ego wants comfort and certainty. The soul wants to live fully. \u2013 Maxime Lagace",
+  "fact": "In England, the Speaker of the House is not allowed to speak.",
+  "crypto": "BTC: $111,535 | ETH: $4,317.58",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Plex tells users to reset passwords after new data breach - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/"
+    },
+    {
       "title": "Xbox sale round-up September 9, 2025 - TrueAchievements",
       "link": "https://www.trueachievements.com/n60177/xbox-sale-roundup-september-9-2025"
+    },
+    {
+      "title": "What\u2019s new in Android\u2019s September 2025 Google System Updates [U] - 9to5Google",
+      "link": "http://9to5google.com/2025/09/08/september-2025-google-system-updates/"
+    },
+    {
+      "title": "Ubisoft Releasing Star Wars Outlaws Switch 2 Demo \"Later This Year\" - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/09/ubisoft-releasing-star-wars-outlaws-switch-2-demo-later-this-year"
     },
     {
       "title": "Google pulls \u2018Daily Hub\u2019 preview on Pixel 10 as it works on improvements - 9to5Google",
       "link": "http://9to5google.com/2025/09/08/pixel-10-daily-hub-pause/"
     },
     {
+      "title": "AirPods Pro 3 Won't Get 'Major' Audio or Active Noise Cancellation Improvements - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/08/airpods-pro-3-no-major-anc-improvement/"
+    },
+    {
+      "title": "\u201cThat it runs at all is a miracle\u201d \u2014 Borderlands 4 pres on PC specs - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/borderlands-4s-randy-pitchford-warns-of-unplayable-performance-if-you-dont-meet-the-pc-system-requirements"
+    },
+    {
+      "title": "AMD\u2019s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games - The Verge",
+      "link": "https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling"
+    },
+    {
       "title": "Nest Doorbell 2K retail box specifies resolution, wider FOV - 9to5Google",
       "link": "http://9to5google.com/2025/09/08/nest-doorbell-2k-resolution/"
     },
     {
-      "title": "Silksong players discover cheat code that makes the game even harder - Dexerto",
-      "link": "https://www.dexerto.com/gaming/silksong-players-discover-cheat-code-that-makes-the-game-even-harder-3247030/"
+      "title": "iPhone 17: Last Minute Rumor Recap Ahead of Tomorrow's Apple Event - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/08/apple-event-rumor-recap/"
     },
     {
       "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit - The Verge",
       "link": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit"
-    },
-    {
-      "title": "AMD 25.9.1 Driver Enables FSR 4 In FSR 3.1 \u201cDX12\u201d Games, Expanding The List To 85+ Titles, Several Fixes & Improvements For Radeon GPUs - Wccftech",
-      "link": "https://wccftech.com/amd-fsr-4-enabled-in-fsr-3-1-titles-over-85-games-new-radeon-gpu-driver/"
     },
     {
       "title": "Google rolling out Flashcards, Quizzes, and redesigned Reports to NotebookLM - 9to5Google",
@@ -48,10 +68,6 @@
       "link": "https://www.motor1.com/news/771380/2026-porsche-911-turbo-s/"
     },
     {
-      "title": "Borderlands 4 Day One Patch Will Help Performance, But Don't Expect It To Run On Low-Spec Hardware - GameSpot",
-      "link": "https://www.gamespot.com/articles/borderlands-4-day-one-patch-will-help-performance-but-dont-expect-it-to-run-on-low-spec-hardware/1100-6534551/"
-    },
-    {
       "title": "Google\u2019s AI Mode adds 5 new languages including Hindi, Japanese, and Korean - TechCrunch",
       "link": "https://techcrunch.com/2025/09/08/googles-ai-mode-adds-5-new-languages-including-hindi-japanese-and-korean/"
     },
@@ -60,118 +76,98 @@
       "link": "https://finance.yahoo.com/news/apples-upcoming-awe-dropping-event-183059932.html"
     },
     {
-      "title": "Here\u2019s how iPhone 17 Air battery could stack up against previous iPhones - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/08/heres-how-iphone-17-air-battery-could-stack-up-against-previous-iphones/"
+      "title": "Where To Find All Mask Shards In Hollow Knight: Silksong - GameSpot",
+      "link": "https://www.gamespot.com/gallery/hollow-knight-silksong-mask-shard-locations-guide/2900-6992/"
+    },
+    {
+      "title": "Nova Launcher\u2019s founder and sole developer has left - The Verge",
+      "link": "https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android"
+    },
+    {
+      "title": "Asus The Prime RTX 50 Series Graphics Cards Are Back Down to MSRP (The RTX 5070 Is Below MSRP) - IGN",
+      "link": "https://www.ign.com/articles/asus-prime-rtx-50-series-graphics-cards-are-back-down-to-msrp"
     },
     {
       "title": "Best Buy's Big PS5/Xbox Video Game Clearance Sale Is Live Now - Kotaku",
       "link": "https://kotaku.com/best-buys-video-game-clearance-sale-includes-some-good-deals-on-big-games-2000624096"
-    },
-    {
-      "title": "\u201cWeird Inner Tensions\u201d: Microsoft Stock (NASDAQ:MSFT) Notches Up Despite Growing Xbox Game Pass Concerns - TipRanks",
-      "link": "https://www.tipranks.com/news/weird-inner-tensions-microsoft-stock-nasdaqmsft-notches-up-despite-growing-xbox-game-pass-concerns"
-    },
-    {
-      "title": "Rabbit R1 wants a second chance with the new RabbitOS 2 update - 9to5Google",
-      "link": "http://9to5google.com/2025/09/08/rabbit-r1-gets-do-over-update/"
-    },
-    {
-      "title": "LEGO SEGA Genesis Controller Is Now Available \u2013 But Only as a Gift With Purchase - IGN",
-      "link": "https://www.ign.com/articles/lego-sega-genesis-controller-where-to-buy"
-    },
-    {
-      "title": "Oblivion Remastered Descends To \u2018Mixed\u2019 Review Status On Steam - Kotaku",
-      "link": "https://kotaku.com/oblivion-remastered-steam-mixed-review-ue5-stuttering-2000624074"
-    },
-    {
-      "title": "All 54 lost clickwheel iPod games have now been preserved for posterity - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/"
-    },
-    {
-      "title": "Visit the Pok\u00e9mon Trading Card Game: Mega Evolution Discovery Experience in Los Angeles - Pokemon.com",
-      "link": "https://www.pokemon.com/us/pokemon-news/visit-the-pokemon-trading-card-game-mega-evolution-discovery-experience-in-los-angeles"
     }
   ],
   "sports_news": [
+    {
+      "title": "J.J. McCarthy, Vikings storm back to beat Bears as QB rallies from ugly start in NFL debut - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/live/jj-mccarthy-vikings-storm-back-to-beat-bears-as-qb-rallies-from-ugly-start-in-nfl-debut-230128689.html"
+    },
+    {
+      "title": "Mike Vrabel opens Patriots\u2019 door to Bill Belichick after UNC ban - New York Post",
+      "link": "https://nypost.com/2025/09/08/sports/mike-vrabel-opens-patriots-door-to-bill-belichick-after-unc-ban/"
+    },
+    {
+      "title": "Jaguars trade RB Tank Bigsby to the Eagles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-trade-rb-tank-bigsby-to-the-eagles"
+    },
+    {
+      "title": "Crushing injury update emerges on UNLV QB Alex Orji - On3",
+      "link": "https://www.on3.com/news/alex-orji-injury-update-unlv-qb-to-miss-remainder-of-season-with-hamstring-issue/"
+    },
+    {
+      "title": "MNF open thread: Vikings at Bears live chat - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/game-day-threads/141348/mnf-open-thread-vikings-at-bears-live-chat"
+    },
     {
       "title": "Mississippi State fined for violation of access to competition area policy - Southeastern Conference",
       "link": "https://www.secsports.com/news/2025/09/mississippi-state-fined-for-violation-of-access-to-competition-area-policy"
     },
     {
-      "title": "No Jalen Carter resolution on Monday points to no suspension - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-jalen-carter-resolution-on-monday-points-to-no-suspension"
+      "title": "49ers TE George Kittle will miss \"a few weeks\" with hamstring injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-te-george-kittle-will-miss-a-few-weeks-with-hamstring-injury"
     },
     {
-      "title": "Brock Purdy has left shoulder and toe injuries - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-has-left-shoulder-and-toe-injuries"
+      "title": "Carlos Alcaraz Set the U.S. Open on Fire - The Ringer",
+      "link": "https://www.theringer.com/2025/09/08/tennis/carlos-alcaraz-jannik-sinner-us-open-championship-final"
     },
     {
-      "title": "Bears vs. Vikings live updates: Score, analysis, highlights for 'Monday Night Football' - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/bears-vs-vikings-live-updates-game-score-monday-night-football/live/"
+      "title": "Giants can\u2019t just abandon their Russell Wilson plan - New York Post",
+      "link": "https://nypost.com/2025/09/08/sports/giants-cant-just-abandon-their-russell-wilson-plan/"
     },
     {
-      "title": "John Harbaugh says Ravens 'need to be really thoughtful' in end-game approach after Bills loss - NFL.com",
-      "link": "https://www.nfl.com/news/john-harbaugh-ravens-loss-bills-end-game-approach"
+      "title": "Forde-Yard Dash: College Football\u2019s Power Shift in Big Ten Wallets vs. SEC Tradition - Sports Illustrated",
+      "link": "https://www.si.com/college-football/forde-yard-dash-college-football-power-shift-big-ten-sec"
     },
     {
-      "title": "Who is the 'Phillies Karen'? How the viral drama over a home run ball unfolded \u2014 and what the dad and his son have said about it - yahoo.com",
-      "link": "https://www.yahoo.com/news/us/article/who-is-the-phillies-karen-how-the-viral-drama-over-a-home-run-ball-unfolded--and-what-the-dad-and-his-son-have-said-about-it-161012605.html"
+      "title": "He was coaching youth football. Four days later, his kick won an NFL game. - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-bills-ravens-matt-prater-comeback-rcna229895"
     },
     {
-      "title": "After Further Review: Patriots Rushing Attack is the Key to Improving the Offense and More Takeaways From Sunday's Loss to the Raiders - New England Patriots",
-      "link": "https://www.patriots.com/news/after-further-review-patriots-rushing-attack-is-the-key-to-improving-the-offense-and-more-takeaways-from-sunday-s-loss-to-the-raiders"
+      "title": "By the Numbers: Lockdown defense in second half leads to Raiders' Week 1 victory - Raiders.com",
+      "link": "https://www.raiders.com/news/by-the-numbers-lockdown-defense-in-second-half-leads-to-raiders-week-1-victory"
+    },
+    {
+      "title": "John Harbaugh Explains Decision to Punt Before Josh Allen Made the Ravens Pay - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/john-harbaugh-decision-lamar-jackson-josh-allen-ravens-bills-41-40-week-1"
     },
     {
       "title": "Fan who shoved Ravens QB Lamar Jackson banned indefinitely from attending NFL games - NBC News",
       "link": "https://www.nbcnews.com/sports/nfl/nfl-ravens-bills-fan-banned-rcna229947"
     },
     {
-      "title": "Cowboys-Eagles opener averages 28.3 million, despite weather delay - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-eagles-opener-averages-28-3-million-despite-weather-delay"
+      "title": "Three Observations on Nebraska Football's Depth Chart Ahead of the Houston Christian Game - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/three-observations-on-nebraska-football-depth-chart-ahead-of-the-houston-christian-game-cornhuskers-big-ten"
     },
     {
-      "title": "Open letter regarding Arlington Heights Stadium from President & CEO Kevin Warren - Chicago Bears",
-      "link": "https://www.chicagobears.com/news/open-letter-regarding-arlington-heights-stadium-from-president-ceo-kevin-warren"
-    },
-    {
-      "title": "Dave Portnoy blasts \u2018race-baiter\u2019 Ryan Clark over Peter Schrager squabble - New York Post",
-      "link": "https://nypost.com/2025/09/08/sports/dave-portnoy-blasts-race-baiter-ryan-clark-over-peter-schrager-squabble/"
+      "title": "After Younghoe Koo\u2019s latest miss, Falcons will bring in kickers to compete - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-younghoe-koos-latest-miss-falcons-will-bring-in-kickers-to-compete"
     },
     {
       "title": "Cover 3: Takeaways from Giants at Commanders - Giants.com",
       "link": "https://www.giants.com/news/takeaways-from-giants-at-commanders-nfl-week-1-russell-wilson-jayden-daniels-abdul-carter"
     },
     {
-      "title": "Trump appears with Rolex CEO at U.S. Open even as 39% tariff set to pummel Swiss watch imports - CNBC",
-      "link": "https://www.cnbc.com/2025/09/08/trump-us-open-invitation-rolex-tariff-switzerland.html"
+      "title": "Three Takeaways: Dolphins fall to Colts 33-8 - Miami Dolphins",
+      "link": "https://www.miamidolphins.com/news/three-takeaways-dolphins-fall-to-colts-33-8"
     },
     {
       "title": "Hot Topics From Titans HC Brian Callahan's Monday Presser - Tennessee Titans",
       "link": "https://www.tennesseetitans.com/news/hot-topics-from-titans-hc-brian-callahan-s-monday-presser-x6829"
-    },
-    {
-      "title": "NFL Week 2 betting: Odds, lines and totals for every game - ESPN",
-      "link": "https://www.espn.com/espn/betting/story/_/id/46198325/2025-nfl-week-2-schedule-odds-betting-point-spreads"
-    },
-    {
-      "title": "NFL Usage and Production Report: Week 1 - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-nfl-usage-production-report-week-1"
-    },
-    {
-      "title": "Mike Macdonald opted for fourth-quarter FG despite team model saying to go for it - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-opted-for-fourth-quarter-fg-despite-team-model-saying-to-go-for-it"
-    },
-    {
-      "title": "Tua Tagovailoa: It\u2019s wild to say I turn the ball over in bunches - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-its-wild-to-say-i-turn-the-ball-over-in-bunches"
-    },
-    {
-      "title": "Chiefs\u2019 Xavier Worthy described as \u2018day-to-day\u2019 as he rehabs shoulder injury - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-injuries/181079/xavier-worthy-day-to-day-while-rehabbing-shoulder"
-    },
-    {
-      "title": "Gerry Dulac: It was only Week 1, but don't let that discount Aaron Rodgers' near-perfect Steelers debut - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/09/08/gerry-dulac-steelers-jets-week-1-breakdown-aaron-rodgers-nfl/stories/202509040150"
     }
   ],
   "weather": {
