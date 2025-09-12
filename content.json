@@ -1,9 +1,9 @@
 {
-  "quote": "The way to love anything is to realize that it may be lost. \u2013 Gilbert Chesterton",
-  "fact": "Donald Duck`s middle name is Fauntleroy. \u00a0",
-  "crypto": "BTC: $116,445 | ETH: $4,621.13",
+  "quote": "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. \u2013 Earl Nightingale",
+  "fact": "The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.",
+  "crypto": "BTC: $116,475 | ETH: $4,625.89",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a careful wolf? Aware wolf.",
+  "joke": "Why don\u2019t skeletons ever go trick or treating? Because they have nobody to go with.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "You can now play Silksong on flagship Android phones \u2014 and pick up where you left off on PC - The Verge",
+      "link": "https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub"
+    },
+    {
       "title": "Is Hollow Knight: Silksong too hard? Well, it depends on what you mean by \u201chard.\u201d - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/09/is-hollow-knight-silksong-too-hard-well-it-depends-on-what-you-mean-by-hard/"
     },
     {
       "title": "Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET",
       "link": "https://www.zdnet.com/article/apple-iphone-17-event-recap-reactions-to-iphone-air-apple-watches-airpods-pro-3-more/"
+    },
+    {
+      "title": "Apple blocks translation AirPods in EU over regulatory concerns - politico.eu",
+      "link": "https://www.politico.eu/article/apple-blocks-airpods-translation-eu-because-regulation/"
     },
     {
       "title": "Gmail makes it easier to track upcoming package deliveries - TechCrunch",
@@ -28,14 +36,6 @@
       "link": "https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/"
     },
     {
-      "title": "Nothing\u2019s Ear 3 earbuds have a microphone and \u2018talk\u2019 button on their charging case - The Verge",
-      "link": "https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum"
-    },
-    {
-      "title": "Apple AirPods Pro 3 Live Translation meme bluntly deciphers snarky subtext - Mashable",
-      "link": "https://mashable.com/article/apple-airpods-pro-3-live-translation-meme"
-    },
-    {
       "title": "Round Up: Borderlands 4 Reviews All on PC, No PS5 Verdicts Anywhere - Push Square",
       "link": "https://www.pushsquare.com/features/round-up-borderlands-4-reviews-all-on-pc-no-ps5-verdicts-anywhere"
     },
@@ -44,12 +44,12 @@
       "link": "https://wccftech.com/iphone-17-mmwave-5g-us-exclusive/"
     },
     {
-      "title": "Battlefield 6 is testing the \"deadliest\" battle royale ever, and I can't wait - PCGamesN",
-      "link": "https://www.pcgamesn.com/battlefield-6/battle-royale-deadly-ring"
+      "title": "The Apple Watch SE 3 May Be the Biggest Underdog of Apple's Entire Fall Lineup - CNET",
+      "link": "https://www.cnet.com/tech/mobile/the-apple-watch-se-3-may-be-the-biggest-underdog-of-apples-entire-fall-lineup/"
     },
     {
-      "title": "Here\u2019s every new case and accessory Apple just launched for iPhone 17 and more - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/10/heres-every-new-accessory-apple-just-launched/"
+      "title": "Battlefield 6 Battle Royale Mode Gets Official Details; Testing Starts This Week on BF Labs - Wccftech",
+      "link": "https://wccftech.com/battlefield-6-battle-royale-mode-details-testing-starts-this-week/"
     },
     {
       "title": "Hands-On With The 4 New watchOS 26 Watch Faces - bgr.com",
@@ -60,38 +60,74 @@
       "link": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/"
     },
     {
-      "title": "Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/10/apple-watch-ultra-3-vs-series-11-ultra-2-battery-life-big-upgrades/"
+      "title": "Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central",
+      "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-pro-design-leaks-hint-at-changes-ahead-for-flagship-lineup"
     },
     {
-      "title": "Google's new Pixelsnap Ring Stand is stumbling out of the gate with early issues - Android Authority",
-      "link": "https://www.androidauthority.com/pixelsnap-ring-stand-loose-screws-3596637/"
-    },
-    {
-      "title": "Elon Musk Says Starship Will Begin Launching 100 Tons to LEO in 2026 - extremetech.com",
-      "link": "https://www.extremetech.com/aerospace/elon-musk-says-starship-will-begin-launching-100-tons-to-leo-in-2026"
-    },
-    {
-      "title": "Windows developers can now publish apps to Microsoft\u2019s store without fees - The Verge",
-      "link": "https://www.theverge.com/news/775877/windows-developers-microsoft-store-publishing-free"
-    },
-    {
-      "title": "Qualcomm\u2019s Quick Charge 5+ brings cooler charging to the phone you already own - 9to5Google",
-      "link": "http://9to5google.com/2025/09/10/qualcomm-quick-charge-5-cooler-charging-backwards-compatible/"
+      "title": "Atari's new retro console is my excuse to avoid real life - Creative Bloq",
+      "link": "https://www.creativebloq.com/entertainment/gaming/why-im-pre-ordering-ataris-new-handheld-the-nintendo-switch-for-retro-gamers"
     },
     {
       "title": "NVIDIA GeForce Game Ready 581.29 driver - VideoCardz.com",
       "link": "https://videocardz.com/driver/nvidia-geforce-game-ready-581-29"
     },
     {
-      "title": "Spotify Premium Users Get Lossless Streaming After Years of Delays - MacRumors",
-      "link": "https://www.macrumors.com/2025/09/10/spotify-premium-users-lossless-streaming/"
+      "title": "Spotify\u2019s HiFi Listening Feature Is Here (Finally) - Billboard",
+      "link": "http://www.billboard.com/pro/spotify-hifi-lossless-audio-release-plan-cost-feature/"
     }
   ],
   "sports_news": [
     {
+      "title": "Expert CFB Betting Locks for Notre Dame vs. Texas A&M and Week 3's Biggest Games - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25247764-expert-cfb-betting-locks-notre-dame-vs-texas-am-and-week-3s-biggest-games"
+    },
+    {
+      "title": "Xavier Worthy set to return to practice field on Thursday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-worthy-set-to-return-to-practice-field-on-thursday"
+    },
+    {
+      "title": "Saturday\u2019s Football Game Moved to Noon Kickoff - University of Missouri Athletics",
+      "link": "https://mutigers.com/news/2025/9/11/saturdays-football-game-moved-to-noon-kickoff"
+    },
+    {
+      "title": "49ers' new hero has down-to-earth reputation in Bay Area hometown - SFGATE",
+      "link": "https://www.sfgate.com/49ers/article/bay-area-town-los-gatos-hometown-hero-49ers-tonges-21043066.php"
+    },
+    {
+      "title": "6 takeaways from Lions coordinators: Offense struggles \u2018an easy fix\u2019 - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-quotes/141615/6-takeaways-from-lions-coordinators-offense-struggles-an-easy-fix"
+    },
+    {
+      "title": "Vikings place Blake Cashman and Ty Chandler on IR, sign veteran linebacker - Sports Illustrated",
+      "link": "https://www.si.com/nfl/vikings/news/vikings-place-blake-cashman-ty-chandler-on-ir-sign-veteran-linebacker"
+    },
+    {
+      "title": "'So Many Things We Have to Improve': Matt Rhule, Nebraska Focusing on Getting Better, Even Against HCU - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/so-many-things-we-have-to-improve-matt-rhule-nebraska-focusing-on-getting-better-even-against-hcu-cornhuskers-big-ten"
+    },
+    {
+      "title": "Ranking the NFL's 11 Super Bowl Rematches Ahead of Eagles-Chiefs - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/ahead-eagles-chiefs-ranking-nfls-all-time-super-bowl-rematches"
+    },
+    {
+      "title": "PFT\u2019s Week 2 2025 NFL picks: Florio vs. Simms - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-2-2025-nfl-picks-florio-vs-simms"
+    },
+    {
       "title": "Cam Ward: I\u2019m never going to get on those guys for dropping a ball - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-im-never-going-to-get-on-those-guys-for-dropping-a-ball"
+    },
+    {
+      "title": "It Sucks To Watch Caleb Williams Suck - Defector",
+      "link": "https://defector.com/it-sucks-to-watch-caleb-williams-suck"
+    },
+    {
+      "title": "Browns reporter says Sheduer Sanders isn\u2019t even running scout team in Cleveland - Awful Announcing",
+      "link": "https://awfulannouncing.com/nfl/tony-rizzo-sheduer-sanders-scout-team-cleveland-browns.html"
+    },
+    {
+      "title": "5 Qs Lions vs. Bears preview: Concerns growing for Caleb Williams in Year 2 - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-five-questions/141594/5-qs-lions-vs-bears-preview-concerns-growing-for-caleb-williams-in-year-2"
     },
     {
       "title": "Ravens have addressed the Lamar Jackson fan interaction internally - NBC Sports",
@@ -102,72 +138,24 @@
       "link": "https://www.espn.com/mens-college-basketball/story/_/id/46225197/ncaa-13-players-6-schools-involved-gambling-schemes"
     },
     {
-      "title": "2025 Week 2 Fantasy Football Rankings: QB - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-2-fantasy-football-rankings-qb"
+      "title": "BH: Analyze this | Reese piece - 247Sports",
+      "link": "https://247sports.com/college/ohio-state/article/ohio-state-ohio-matt-patricia-nfl-draft-253812385/"
     },
     {
-      "title": "2025 Week 2 Fantasy Football Rankings: WR - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-2-fantasy-football-rankings-wr"
+      "title": "John Lynch on Brock Purdy: Our information is he\u2019s week-to-week - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-on-brock-purdy-our-information-is-hes-week-to-week"
     },
     {
-      "title": "49ers looking for new QB after troubling Brock Purdy injury update - New York Post",
-      "link": "https://nypost.com/2025/09/11/sports/49ers-looking-for-new-qb-after-troubling-brock-purdy-injury-update/"
+      "title": "2025 NFL QB rankings, Week 2: Patrick Mahomes dethroned; Jalen Hurts cracks top 10 - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-qb-rankings-index-week-2-2025-nfl-season"
     },
     {
-      "title": "Eagles News: Matchup to watch in Week 2 - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/158204/eagles-news-matchup-to-watch-in-week-2"
+      "title": "Report: Christian Watson contract details - Acme Packing Company",
+      "link": "https://www.acmepackingcompany.com/green-bay-packers-roster/70824/green-bay-packers-christian-watson-contract-details-update-extension-2025"
     },
     {
-      "title": "FLEX Finder Week 2: Jacory Croskey-Merritt, Kayshon Boutte deserve spots in fantasy football lineups - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/flex-finder-week-2-jacory-croskey-merritt-kayshon-boutte-deserve-spots-in-fantasy-football-lineups"
-    },
-    {
-      "title": "Gerry Dulac's NFL predictions: Week 2 - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/nfl/2025/09/11/nfl-week-2-picks-predictions-steelers-seahawks/stories/202509110084"
-    },
-    {
-      "title": "NFL investigating allegations against Fins' Hill - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46223976/nfl-investigating-tyreek-hill-domestic-violence-allegations"
-    },
-    {
-      "title": "Mobile QB Jayden Daniels will test Packers\u2019 pass rush - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/mobile-qb-jayden-daniels-will-test-packers-pass-rush-week-2-2025"
-    },
-    {
-      "title": "Detroit Lions vs. Chicago Bears preview: 3 key matchups - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/141543/detroit-lions-vs-chicago-bears-preview-3-key-matchups"
-    },
-    {
-      "title": "Racing Insights: Can Christopher Bell complete the JGR sweep at Bristol? - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/09/11/racing-insights-can-christopher-bell-complete-the-jgr-sweep-at-bristol/"
-    },
-    {
-      "title": "Don\u2019t expect Aidan Hutchinson to drop into coverage much anymore - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-quotes/141573/dont-expect-aidan-hutchinson-to-drop-into-coverage-much-anymore"
-    },
-    {
-      "title": "This player, not DK Metcalf, will be the Seahawks' biggest problem Sunday - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/steelers-aaron-rodgers-will-be-seahawks-biggest-problem-sunday/"
-    },
-    {
-      "title": "Patriots Gameplan: Keys to Getting Back on Track in Sunday's Matchup vs. the Dolphins - New England Patriots",
-      "link": "https://www.patriots.com/news/patriots-gameplan-keys-to-getting-back-on-track-in-sunday-s-matchup-vs-the-dolphins"
-    },
-    {
-      "title": "Syracuse football likely to be without its \u2018best\u2019 offensive player against Colgate - Syracuse.com",
-      "link": "https://www.syracuse.com/orangefootball/2025/09/syracuse-football-likely-to-be-without-its-best-offensive-player-against-colgate.html"
-    },
-    {
-      "title": "Roger Goodell\u2019s Grip on the NFL Isn\u2019t Loosening Anytime Soon - Sports Illustrated",
-      "link": "https://www.si.com/nfl/roger-goodell-20-years-digital-cover"
-    },
-    {
-      "title": "Broncos vs Colts Week 2: Keys to Victory - Mile High Report",
-      "link": "https://www.milehighreport.com/broncos-film-breakdown/157247/broncos-vs-colts-week-2-keys-to-victory"
-    },
-    {
-      "title": "Lions confident run game, communication will improve - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/141505/lions-confident-run-game-communication-will-improve"
+      "title": "Dak Prescott can win his 14th straight vs. Giants on Sunday, second-longest streak ever - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-can-win-his-14th-straight-vs-giants-on-sunday-second-longest-streak-ever"
     }
   ],
   "weather": {
