@@ -1,9 +1,9 @@
 {
-  "quote": "You will not do incredible things without an incredible dream. \u2013 John Eliot",
-  "fact": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
-  "crypto": "BTC: $115,881 | ETH: $4,745.45",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
+  "quote": "A minute's success pays the failure of years. \u2013 Robert Browning",
+  "fact": "The king of hearts is the only king without a mustache.",
+  "crypto": "BTC: $115,780 | ETH: $4,732.68",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "A Skeleton walked into a bar he said I need a beer and a mop",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple Watch hypertension alerts feature receives FDA clearance - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/11/apple-watch-hypertension-alerts-feature-receives-fda-clearance/"
+    },
+    {
       "title": "\"We Fully Agree\": Bungie Admits Destiny 2 Ash & Iron Power Climb Feels \"Way Off,\" Promises Immediate Fixes and Reward Buffs - The Game Post",
       "link": "https://thegamepost.com/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs/"
+    },
+    {
+      "title": "Borderlands 4 Launches To Mostly Negative Steam Reviews Over Performance Issues And Crashing - TheGamer",
+      "link": "https://www.thegamer.com/borderlands-4-launches-to-mostly-negative-steam-reviews-performance-issues-crashing/"
     },
     {
       "title": "Is Hollow Knight: Silksong too hard? Well, it depends on what you mean by \u201chard.\u201d - Ars Technica",
@@ -24,58 +32,98 @@
       "link": "https://www.gamespot.com/gallery/borderlands-4-tips/2900-7000/"
     },
     {
-      "title": "Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET",
-      "link": "https://www.zdnet.com/article/apple-iphone-17-event-recap-reactions-to-iphone-air-apple-watches-airpods-pro-3-more/"
-    },
-    {
       "title": "Apple blocks translation AirPods in EU over regulatory concerns - politico.eu",
       "link": "https://www.politico.eu/article/apple-blocks-airpods-translation-eu-because-regulation/"
     },
     {
-      "title": "The Apple Watch SE 3 May Be the Biggest Underdog of Apple's Entire Fall Lineup - CNET",
-      "link": "https://www.cnet.com/tech/mobile/the-apple-watch-se-3-may-be-the-biggest-underdog-of-apples-entire-fall-lineup/"
+      "title": "Get ready to discover and shop the next generation of iPhone, Apple Watch, and AirPods - Apple",
+      "link": "https://www.apple.com/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/"
+    },
+    {
+      "title": "Windows 11\u2019s September patch secretly deletes two programs. Here\u2019s why - PCWorld",
+      "link": "https://www.pcworld.com/article/2906615/windows-11s-september-patch-secretly-deletes-two-programs-heres-why.html"
+    },
+    {
+      "title": "Borderlands 4 Shift Codes to Redeem Now (September 2025) - Push Square",
+      "link": "https://www.pushsquare.com/guides/borderlands-4-shift-codes-to-redeem-now-september-2025"
+    },
+    {
+      "title": "Cyberpunk 2077 Patch 2.31 Adds New Wreckless Auto-Driving Mode And More - GameSpot",
+      "link": "https://www.gamespot.com/articles/cyberpunk-2077-patch-2-31-adds-new-wreckless-auto-driving-mode-and-more/1100-6534643/"
+    },
+    {
+      "title": "Football Manager 26 Preorders Are Now Live After Skipping Last Year - IGN",
+      "link": "https://www.ign.com/articles/football-manager-26-where-to-buy"
+    },
+    {
+      "title": "Still Running Windows 10? Make Sure You Take This Step Before Oct. 14 - CNET",
+      "link": "https://www.cnet.com/tech/services-and-software/still-running-windows-10-make-sure-you-take-this-step-before-oct-14/"
     },
     {
       "title": "Fujifilm\u2019s Cinema Camera is Called the GFX Eterna 55, Will Cost $16,500 - PetaPixel",
       "link": "https://petapixel.com/2025/09/10/fujifilms-cinema-camera-is-called-the-gfx-eterna-55-will-cost-16500/"
     },
     {
-      "title": "How to turn off autoplay on your social media feeds - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/"
-    },
-    {
       "title": "Elon Musk Says Starship Will Begin Launching 100 Tons to LEO in 2026 - extremetech.com",
       "link": "https://www.extremetech.com/aerospace/elon-musk-says-starship-will-begin-launching-100-tons-to-leo-in-2026"
     },
     {
+      "title": "Atari's new retro console is my excuse to avoid real life - Creative Bloq",
+      "link": "https://www.creativebloq.com/entertainment/gaming/why-im-pre-ordering-ataris-new-handheld-the-nintendo-switch-for-retro-gamers"
+    },
+    {
+      "title": "FromSoftware unveils Elden Ring Nightreign's new mode ahead of release tomorrow - Eurogamer",
+      "link": "https://www.eurogamer.net/fromsoftware-unveils-elden-ring-nightreigns-new-mode-ahead-of-release-tomorrow"
+    },
+    {
       "title": "Nvidia just started rolling out RTX 5080 for GeForce Now, and you can see exactly when it's available in your region - PC Guide",
       "link": "https://www.pcguide.com/news/nvidia-just-started-rolling-out-rtx-5080-for-geforce-now-and-you-can-see-exactly-when-its-available-in-your-region/"
+    },
+    {
+      "title": "Daily Crossword: The Fishing Puzzle \u2014 September 10 - Vulture",
+      "link": "http://www.vulture.com/article/daily-crossword-puzzle-september-10-2025.html"
     }
   ],
   "sports_news": [
     {
+      "title": "Packers vs. Commanders takeaways: Jordan Love, Micah Parsons, Tucker Kraft shine in Green Bay's statement win - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/packers-vs-commanders-takeaways-jordan-love-micah-parsons-tucker-kraft-shine-in-green-bays-statement-win/live/"
+    },
+    {
+      "title": "Aaron Judge makes more homer history to lead Yankees in lopsided win over Tigers - New York Post",
+      "link": "https://nypost.com/2025/09/11/sports/aaron-judge-makes-more-history-to-lead-yankees-in-win-over-tigers/"
+    },
+    {
       "title": "Raiders-Chargers Week 2 Injury Report - Raiders.com",
       "link": "https://www.raiders.com/news/las-vegas-raiders-los-angeles-chargers-nfl-week-2-injury-report-monday-night-football-espn"
+    },
+    {
+      "title": "From spin to win: Layne Riggs rebounds for Truck Series Playoffs victory at Bristol - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/09/11/spin-and-win-layne-riggs-rebounds-craftsman-truck-series-victory-bristol-race-recap/"
+    },
+    {
+      "title": "Jayden Reed, Deatrich Wise ruled out for second half - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-reed-deatrich-wise-ruled-out-for-second-half"
+    },
+    {
+      "title": "Xavier Worthy set to return to practice field on Thursday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-worthy-set-to-return-to-practice-field-on-thursday"
     },
     {
       "title": "Chris Godwin, Tristan Wirfs set to practice on Thursday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-godwin-tristan-wirfs-set-to-practice-on-thursday"
     },
     {
-      "title": "Costa Rican authorities raid hotel where ex-Yankee Brett Gardner\u2019s son died - New York Post",
-      "link": "https://nypost.com/2025/09/11/sports/costa-rican-authorities-raid-hotel-where-ex-yankee-brett-gardners-son-died/"
-    },
-    {
-      "title": "Trump draws cheers and boos while marking 9/11 by attending a New York Yankees game - AP News",
-      "link": "https://apnews.com/article/trump-yankees-game-september-11-security-lines-318de96096f98c83ed01cba1f6b4bb3b"
-    },
-    {
-      "title": "Jayden Reed is questionable to return with shoulder injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-reed-is-questionable-to-return-with-shoulder-injury"
+      "title": "Aaron Judge homers for Yankees minutes after shaking hands with Trump - New York Post",
+      "link": "https://nypost.com/2025/09/11/sports/aaron-judge-homers-for-yankees-minutes-after-shaking-hands-with-trump/"
     },
     {
       "title": "Anthony Volpe out for Yankees after injury revealed - New York Post",
       "link": "https://nypost.com/2025/09/11/sports/anthony-volpe-benched-again-by-yankees-after-injury-revealed/"
+    },
+    {
+      "title": "Sky reflect on Angel Reese\u2019s \u2018bittersweet\u2019 season that could spell end for Chicago tenure - New York Post",
+      "link": "https://nypost.com/2025/09/11/sports/sky-reflect-on-angel-reeses-bittersweet-season/"
     },
     {
       "title": "NHL makes 5 players acquitted of sexual assault charges eligible to sign contract, play this season - AP News",
@@ -86,28 +134,16 @@
       "link": "https://www.arcaracing.com/2025/09/11/isaac-kitzmiller-east-series-championship/"
     },
     {
-      "title": "Packers vs. Commanders live updates: Game score, analysis, highlights for 'Thursday Night Football' - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/packers-commanders-live-updates-game-score-thursday-night-football/live/"
-    },
-    {
-      "title": "Washington Commanders vs Green Bay Packers Inactives - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-injuries/375834/washington-commanders-vs-green-bay-packers-inactives"
-    },
-    {
       "title": "Wilson, Jets bullish on Fields after sizzling opener - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/46228157/jets-wilson-fields-not-done-showing-do"
     },
     {
-      "title": "Ben Proud Says It Would Take 13 Years of World Titles To Match Enhanced Games Financial Gain - SwimSwam",
-      "link": "https://swimswam.com/ben-proud-says-it-would-take-13-years-of-world-titles-to-match-enhanced-games-financial-gain/"
+      "title": "Scouting the Wildcats: 5 questions, prediction with a Northwestern reporter - OregonLive.com",
+      "link": "https://www.oregonlive.com/ducks/2025/09/scouting-the-wildcats-5-questions-prediction-with-a-northwestern-reporter.html"
     },
     {
       "title": "Bill Belichick\u2019s Grudge Against Patriots Is Undermining North Carolina Job - Sports Illustrated",
       "link": "https://www.si.com/college-football/bill-belichick-grudge-against-patriots-is-undermining-north-carolina-job"
-    },
-    {
-      "title": "Lions OC John Morton: No one\u2019s in panic mode after Week 1 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-oc-john-morton-no-ones-in-panic-mode-after-week-1"
     },
     {
       "title": "Giants claim WR Xavier Gipson off waivers; ILB Micah McFadden placed on injured reserve - Giants.com",
@@ -118,20 +154,16 @@
       "link": "https://www.bleachernation.com/bears/2025/09/11/bears-injury-report-3/"
     },
     {
+      "title": "Former NBA player Jason Collins undergoing treatment for brain tumor - AP News",
+      "link": "https://apnews.com/article/brain-tumor-jason-collins-nba-2b0c79575ba1c475244da35ec944c65b"
+    },
+    {
       "title": "The fate of the 49ers season is now in Mac Jones' hands. They're so f\u2014ked. - SFGATE",
       "link": "https://www.sfgate.com/49ers/article/49ers-have-use-mac-jones-quarterback-doomed-21043386.php"
     },
     {
       "title": "John Lynch on Mac Jones: I\u2019m excited to see him go show what he can do - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-on-mac-jones-im-excited-to-see-him-go-show-what-he-can-do"
-    },
-    {
-      "title": "Dolphins held a players-only meeting after Week 1 loss to Colts - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-held-a-players-only-meeting-after-week-1-loss-to-colts"
-    },
-    {
-      "title": "Expert CFB Betting Locks for Notre Dame vs. Texas A&M and Week 3's Biggest Games - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25247764-expert-cfb-betting-locks-notre-dame-vs-texas-am-and-week-3s-biggest-games"
     }
   ],
   "weather": {
