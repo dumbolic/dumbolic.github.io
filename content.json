@@ -1,9 +1,9 @@
 {
-  "quote": "Friendship is like money, easier made than kept. \u2013 Samuel Butler",
-  "fact": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
-  "crypto": "BTC: $115,500 | ETH: $4,604.96",
+  "quote": "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. \u2013 Spencer Johnson",
+  "fact": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
+  "crypto": "BTC: $115,533 | ETH: $4,604.02",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.\r\nI have no words to describe how angry I am.",
+  "joke": "Dad, can you put my shoes on? I don't think they'll fit me.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Here are three reasons you shouldn\u2019t quite consider Apple Watch Series 11 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/13/apple-watch-series-11-why-you-shouldnt-necessarily-buy/"
+    },
     {
       "title": "Spotify Lossless is an inconvenient improvement - The Verge",
       "link": "https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement"
@@ -20,12 +24,12 @@
       "link": "https://9to5mac.com/2025/09/13/heres-why-you-should-wait-to-buy-apple-airpods-pro-3/"
     },
     {
-      "title": "'More People Will Experience Our World': Final Fantasy 7 Remake Trilogy Sheds PS5 Exclusivity - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/09/more-people-will-experience-our-world-final-fantasy-7-remake-trilogy-sheds-ps5-exclusivity"
+      "title": "Exclusive: Google wants to make Android phones safer by switching to \u2018risk-based\u2019 security updates - Android Authority",
+      "link": "https://www.androidauthority.com/android-risk-based-security-updates-3597466/"
     },
     {
-      "title": "Donkey Kong Bananza Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/donkey-kong-bananza-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes"
+      "title": "Did Apple \u2018downgrade\u2019 the telephoto camera with the iPhone 17 Pro? Here\u2019s what you need to know - Tom's Guide",
+      "link": "https://www.tomsguide.com/phones/iphones/did-apple-downgrade-the-telephoto-camera-with-the-iphone-17-pro-heres-what-you-need-to-know"
     },
     {
       "title": "Tips on stepping back from screens and starting a new hobby - AP News",
@@ -36,59 +40,79 @@
       "link": "https://www.bbc.com/news/articles/cj6x5574enpo"
     },
     {
+      "title": "Strong appetite for new iPhone in China as pre-orders break record - South China Morning Post",
+      "link": "https://www.scmp.com/tech/big-tech/article/3325424/chinese-pre-orders-apples-iphone-17-break-records-amid-strong-demand"
+    },
+    {
       "title": "Metroid Prime 4 Game And Samus Amiibo Preorders Available Now - GameSpot",
       "link": "https://www.gamespot.com/articles/metroid-prime-4-beyond-game-amiibo-preorder-buying-guide-nintendo-switch-2/1100-6530754/"
+    },
+    {
+      "title": "New Kirby amiibo Will Apparently Be Nintendo's \"Most Expensive amiibo Ever\" - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/09/new-kirby-amiibo-will-apparently-be-nintendos-most-expensive-amiibo-ever"
     },
     {
       "title": "I tried Apple's 2 big AI features announced at the iPhone 17 event - and both are game changers - ZDNET",
       "link": "https://www.zdnet.com/article/i-tried-apples-2-big-ai-features-announced-at-the-iphone-17-event-and-both-are-game-changers/"
     },
     {
-      "title": "New Nintendo Direct kicks off the Super Mario Bros. 40th Anniversary and brings slate of new announcements - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/new-nintendo-direct-kicks-off-the-super-mario-bros-40th-anniversary-and-brings-slate-of-new-announcements/"
-    },
-    {
       "title": "Three Days Until iOS 26 Launch: What Are You Most Looking Forward To? - MacRumors",
       "link": "https://www.macrumors.com/2025/09/12/ios-26-launch-monday/"
     },
     {
-      "title": "Borderlands is missing two big features on consoles, and players aren't happy - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/borderlands-4-players-slam-the-rpg-fps-for-leaving-two-huge-features-out-of-the-console-versions-and-i-dont-blame-them"
+      "title": "Galaxy S25 Edge crushes the iPhone Air performance in benchmark tests, but only sometimes - PhoneArena",
+      "link": "https://www.phonearena.com/news/galaxy-s25-edge-crushes-the-iphone-air-performance-in-benchmark-tests-but-only-sometimes_id174002"
     },
     {
       "title": "Apple\u2019s new product roadmap makes October event seem likely - 9to5Mac",
       "link": "https://9to5mac.com/2025/09/12/apples-new-product-roadmap-makes-october-event-seem-likely/"
     },
     {
+      "title": "Every Switch 2 Upgrade From The September 2025 Nintendo Direct, Including A Free Stardew Valley Update And Hades 2 At 120 FPS - Game Informer",
+      "link": "https://gameinformer.com/nintendo-direct/2025/09/12/every-switch-2-upgrade-from-the-september-2025-nintendo-direct-including"
+    },
+    {
       "title": "\u2018Silksong,\u2019 the Long-Awaited Successor to \u2018Hollow Knight,\u2019 Was Worth the Wait - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/newsletters/2025-09-12/-silksong-the-long-awaited-successor-to-hollow-knight-was-worth-the-wait"
     },
     {
-      "title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
-      "link": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/"
+      "title": "Final Fantasy 7 Remake gets Xbox Series X|S release date - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/final-fantasy-7-remake-xbox-release-date"
     },
     {
-      "title": "Ever wanted to play a Pok\u00e9mon Animal Crossing meets Minecraft? Pok\u00e9mon Pokopia might be just that game - Eurogamer",
-      "link": "https://www.eurogamer.net/ever-wanted-to-play-a-pokemon-animal-crossing-meets-minecraft-pokemon-pokopia-might-be-just-that-game"
-    },
-    {
-      "title": "Don\u2019t buy the standard Galaxy Watch 8 when the Classic is just $10 more - The Verge",
-      "link": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale"
+      "title": "New Fire Emblem Announced And It Looks Like A Three Houses Spin-Off - Kotaku",
+      "link": "https://kotaku.com/fire-emblem-fortuntes-weave-three-houses-sequel-trailer-2000625412"
     },
     {
       "title": "Nintendo Drops Surprise Trailer for New \u2018Super Mario Galaxy Movie\u2019 - WIRED",
       "link": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/"
-    },
-    {
-      "title": "Mega Chesnaught, Mega Delphox and Mega Greninja Revealed for Pok\u00e9mon Legends: Z-A, plus Mega Raichu X & Y in Mega Dimension DLC! - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/mega-chesnaught-mega-delphox-and-mega-greninja-revealed-for-pokemon-legends-z-a-plus-mega-raichu-x-y-in-mega-dimension-dlc/"
-    },
-    {
-      "title": "Nintendo's Back in VR With a New Virtual Boy, Coming Next Year for Switch - CNET",
-      "link": "https://www.cnet.com/tech/gaming/nintendos-back-in-vr-with-a-new-virtual-boy-coming-next-year-for-switch/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Patriots trade former second-round draft pick Ja\u2019Lynn Polk to Saints, per report - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-news/109013/patriots-trade-jalynn-polk-saints"
+    },
+    {
+      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 3 - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-odds-betting-lines-week-3-games/"
+    },
+    {
+      "title": "Report: Dolphins have gotten no calls about Tyreek Hill - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dolphins-have-gotten-no-calls-about-tyreek-hill"
+    },
+    {
+      "title": "Tests confirm Austin Ekeler\u2019s torn Achilles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tests-confirm-austin-ekelers-torn-acl"
+    },
+    {
+      "title": "Browns activate Quinshon Judkins for Sunday at Ravens - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-activate-quinshon-judkins-for-sunday-at-ravens"
+    },
+    {
+      "title": "ESPN\u2019s \u2018College GameDay\u2019 Has Message for Fans Before Georgia-Tennessee - Athlon Sports",
+      "link": "https://athlonsports.com/college/tennessee-volunteers/football/espns-college-gameday-sends-warning-to-fans-before-georgia-tennessee"
+    },
     {
       "title": "Jerry Jones saw Jalen Carter ejection as \"the man upstairs evening it up\" - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-saw-jalen-carter-ejection-as-the-man-upstairs-evening-it-up"
@@ -100,6 +124,10 @@
     {
       "title": "Live Updates: Nebraska Cornhuskers vs. Houston Christian Huskies - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/football/live-updates-nebraska-cornhuskers-vs-houston-christian-huskies-memorial-stadium-big-ten-2025-college-football"
+    },
+    {
+      "title": "2025 World Track and Field Championships Results - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/world-track-and-field-championships-2025-results"
     },
     {
       "title": "John Daly suffers epic meltdown for worst hole of his career with embarrassing score - New York Post",
@@ -114,12 +142,16 @@
       "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/141741/lions-vs-bears-two-key-matchups-in-ford-field-home-opener"
     },
     {
-      "title": "Trade interest lingers in Tyreek Hill, with one key caveat - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trade-interest-lingers-in-tyreek-hill-with-one-key-caveat"
-    },
-    {
       "title": "Boxing's biggest fight is streaming on Netflix \u2014 and it could KO pay-per-view - Axios",
       "link": "https://www.axios.com/2025/09/13/alvarez-crawford-netflix-boxing-streaming"
+    },
+    {
+      "title": "Giovanni Manu \u2018totally prepared\u2019 for potential first NFL start - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-quotes/141776/giovanni-manu-totally-prepared-for-potential-first-nfl-start"
+    },
+    {
+      "title": "Week 2 Fantasy Football Player Rankings Tiers | Start/Sit Advice QB RB WR TE - Dynasty Nerds",
+      "link": "https://www.dynastynerds.com/start-sit/week-2-fantasy-football-player-rankings-tiers-start-sit-qb-rb-wr-te/"
     },
     {
       "title": "Overheard after Syracuse football dominates Colgate: \u2018We call him Tim Tebow\u2019 - Syracuse.com",
@@ -130,44 +162,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-on-colorado-loss-i-take-responsibility-for-foolishness-we-called-football"
     },
     {
+      "title": "Phillies news: 9/13/2025 - The Good Phight",
+      "link": "https://www.thegoodphight.com/philadelphia-phillies-news/73241/phillies-news"
+    },
+    {
       "title": "Cooper Lutkenhaus, 16, tries to shock the running world again - NBC News",
       "link": "https://www.nbcnews.com/sports/track-field/cooper-lutkenhaus-16-tries-shock-running-world-rcna229986"
-    },
-    {
-      "title": "Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground - NPR",
-      "link": "https://www.npr.org/2025/09/13/g-s1-88626/anti-israel-protests-spanish-vuelta"
-    },
-    {
-      "title": "Gameday Skull Session: Get Dumped Then, Bobcats | Eleven Warriors - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/skull-sessions/2025/09/157938/gameday-skull-session-get-dumped-then-bobcats"
-    },
-    {
-      "title": "Donald Trump Rewrites History With Yankee Stadium Whitewash - The Daily Beast",
-      "link": "https://www.thedailybeast.com/donald-trump-rewrites-history-with-yankee-stadium-white-wash/"
-    },
-    {
-      "title": "Five takeaways as Kansas State drops to 1-3 with a costly football loss at Arizona - Wichita Eagle",
-      "link": "https://www.kansas.com/sports/college/big-12/kansas-state/article312086124.html"
-    },
-    {
-      "title": "Chiefs PA announcer resigns before Week 2 home opener after team makes him cross \u2018red line\u2019 - New York Post",
-      "link": "https://nypost.com/2025/09/13/sports/chiefs-pa-announcer-resigns-before-week-2-home-opener/"
-    },
-    {
-      "title": "Aaron Judge hits his 362nd career homer, passing Joe DiMaggio for 4th in New York Yankees history - AP News",
-      "link": "https://apnews.com/article/yankees-aaron-judge-homers-joe-dimaggio-347acb1e732405044a0ee354ed53a95c"
-    },
-    {
-      "title": "Yankees flex exactly what can get them to season\u2019s finish line \u2014 and beyond - New York Post",
-      "link": "https://nypost.com/2025/09/13/sports/yankees-flex-exactly-what-can-get-them-to-seasons-finish-line/"
-    },
-    {
-      "title": "\u2018I wanted to throw up\u2019: How Rangers\u2019 Jacob deGrom quelled emotions of playing former team - Dallas News",
-      "link": "https://www.dallasnews.com/sports/rangers/2025/09/12/texas-rangers-jacob-degrom-mlb-new-york-mets-return/"
-    },
-    {
-      "title": "Huskers Drop First Set, Rebound to Down No. 22 Utah - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/volleyball/huskers-drop-first-set-rebound-to-down-no-22-utah-nebraska-cornhuskers-volleyball-big-ten"
     }
   ],
   "weather": {
