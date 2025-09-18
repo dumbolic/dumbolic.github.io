@@ -1,9 +1,9 @@
 {
-  "quote": "The finish line is just the beginning of a whole new race. \u2013 Unknown",
-  "fact": "Rhode Island is the only state which the hammer throw is a legal high school sport.",
-  "crypto": "BTC: $116,658 | ETH: $4,600.8",
+  "quote": "Nothing is hopeless; we must hope for everything. \u2013 Euripides",
+  "fact": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
+  "crypto": "BTC: $116,571 | ETH: $4,604.42",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.",
+  "joke": "Why did the teddy bear say \u201cno\u201d to dessert? Because she was stuffed.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,82 +12,98 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Almost a week in, the iPhone Air doesn\u2019t look like a pre-order hit - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/16/iphone-air-pre-order-availability/"
+    },
+    {
       "title": "Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge",
       "link": "https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft"
+    },
+    {
+      "title": "Here are all the new features in iOS 26, iPadOS 26, macOS Tahoe - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/16/here-are-all-the-new-features-in-ios-26-ipados-26-macos-tahoe/"
     },
     {
       "title": "Google rolls out new Windows desktop app with Spotlight-like search tool - TechCrunch",
       "link": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/"
     },
     {
-      "title": "Xbox App Now Launches Games From Steam And Other Game Stores - GameSpot",
-      "link": "https://www.gamespot.com/articles/xbox-app-now-launches-games-from-steam-and-other-game-stores/1100-6534775/"
-    },
-    {
-      "title": "Bethesda deletes Indiana Jones clip after accusations that it mocks Charlie Kirk - PCGamesN",
-      "link": "https://www.pcgamesn.com/indiana-jones-and-the-great-circle/clip-removed-fascism-row"
-    },
-    {
-      "title": "Motorola Moto G36 surfaces on TENAA with 7,000mAh battery, 6.72\" 1080p+ LCD - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/motorola_moto_g36_surfaces_on_tenaa_with_7000mah_battery_672_1080p_lcd-news-69517.php"
-    },
-    {
-      "title": "Alphabet-Owned (GOOGL) YouTube Says It\u2019s Paid $100 Billion to Creators - TipRanks",
-      "link": "https://www.tipranks.com/news/alphabet-owned-googl-youtube-says-its-paid-100-billion-to-creators"
-    },
-    {
-      "title": "iPhone 17 Pro vs. 17 Pro Max Buyer's Guide: 8 Differences Compared - MacRumors",
-      "link": "https://www.macrumors.com/guide/iphone-17-pro-vs-17-pro-max/"
-    },
-    {
-      "title": "AT&T\u2019s AI call-screening tool uses your call history to filter out spam - The Verge",
-      "link": "https://www.theverge.com/news/778518/att-ai-call-screening-digital-receptionist"
+      "title": "Gemini tops the App Store thanks to new AI image model, Nano Banana - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/16/gemini-tops-the-app-store-thanks-to-new-ai-image-model-nano-banana/"
     },
     {
       "title": "Roku's first TV projector gives you a 150-inch screen - for less than $200 - ZDNET",
       "link": "https://www.zdnet.com/home-and-office/home-entertainment/rokus-first-tv-projector-gives-you-a-150-inch-screen-for-less-than-200/"
     },
     {
-      "title": "Apple M4 Mac Mini Drops Below Prime Day Pricing, A Rare Discount Likely Triggered by New Apple Launches - Kotaku",
-      "link": "https://kotaku.com/apple-m4-mac-mini-drops-below-prime-day-pricing-a-rare-discount-likely-triggered-by-new-apple-launches-2000625796"
+      "title": "AT&T\u2019s AI call-screening tool uses your call history to filter out spam - The Verge",
+      "link": "https://www.theverge.com/news/778518/att-ai-call-screening-digital-receptionist"
     },
     {
       "title": "Gearbox CEO Randy Pitchford tells Borderlands 4 critics to \"code your own engine,\" calls it a game for \"premium gamers\" - TechSpot",
       "link": "https://www.techspot.com/news/109487-gearbox-ceo-randy-pitchford-tells-borderlands-4-critics.html"
     },
     {
-      "title": "Hands-On: The Apple Watch Series 11, Ultra 3, and SE 3 - Hodinkee",
-      "link": "https://www.hodinkee.com/articles/the-apple-watch-series-11-ultra-3-and-se-3"
-    },
-    {
       "title": "Meta\u2019s new smart glasses are coming this week - The Verge",
       "link": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect"
+    },
+    {
+      "title": "Apple's M4 Mac mini is a compact powerhouse, and it's $100 off at Amazon - Mashable",
+      "link": "https://mashable.com/article/sept-15-mac-mini-deal"
     },
     {
       "title": "Xiaomi 's iPhone 17 killer has a secondary display on the back - Mashable",
       "link": "https://mashable.com/article/xiaomi-17-pro-dual-screen"
     },
     {
-      "title": "Hollow Knight: Silksong is reportedly already about a third of the way to the original's total sales, with Steam leading the charge - Eurogamer",
-      "link": "https://www.eurogamer.net/hollow-knight-silksong-is-reportedly-already-about-a-third-of-the-way-to-the-originals-total-sales-with-steam-leading-the-charge"
+      "title": "One AirPods Pro 3 Feature Upgrade Comes With a Catch - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/16/airpods-pro-3-feature-iphone-17/"
     },
     {
       "title": "Super Mario Galaxy 1 + 2 Switch Comparison Video Makes Nintendo's Upgrades Clearer - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-1-plus-2-switch-comparison-video-makes-nintendos-upgrades-clearer"
     },
     {
-      "title": "Free Spotify users can now pick songs, but of course there's a catch - Android Authority",
-      "link": "https://www.androidauthority.com/spotify-pick-and-play-3597878/"
+      "title": "Microsoft\u2019s Xbox PC app adds Steam games and access to other stores - The Verge",
+      "link": "https://www.theverge.com/news/778627/microsoft-xbox-pc-app-stream-integration-stores-update"
     },
     {
-      "title": "Nano Banana Saves Google: Gemini Dethrones ChatGPT as GOOG Hits $3 Trillion - Decrypt",
-      "link": "https://decrypt.co/339563/nano-banana-google-gemini-dethrones-chatgpt"
+      "title": "How to Turn On Apple's New 'Wrist Flick' Gesture in watchOS 26 - Lifehacker",
+      "link": "https://lifehacker.com/tech/how-to-turn-on-apples-new-wrist-flick-feature-in-watchos-26"
+    },
+    {
+      "title": "macOS Tahoe Now Available With Liquid Glass Design, Phone App, Spotlight Actions and More - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/15/apple-releases-macos-tahoe/"
+    },
+    {
+      "title": "Samsung shares One UI 8 stable release timeline, and it's not the best news for older phones - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-one-ui-8-official-rollout-schedule-3597716/"
     }
   ],
   "sports_news": [
     {
+      "title": "Molly Qerim Abruptly Resigns From ESPN\u2019s \u2018First Take\u2019 - deadline.com",
+      "link": "http://deadline.com/2025/09/molly-qerim-first-take-exit-1236546385/"
+    },
+    {
+      "title": "Raleigh passes Mantle, ties Griffey with 55, 56 - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46286502/raleigh-hits-hrs-no-55-56-pass-mantle-tie-mariners-mark"
+    },
+    {
+      "title": "Fox Sports CEO Eric Shanks won\u2019t comment on Tom Brady\u2019s conflict of interest - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fox-sports-ceo-eric-shanks-wont-comment-on-tom-bradys-conflict-of-interest"
+    },
+    {
       "title": "Week 6 Results + Scorecards | Dana White's Contender Series Season 9 - UFC.com",
       "link": "https://www.ufc.com/news/week-6-results-scorecards-fight-recaps-contract-winners-interviews-dana-whites-contender-series-season-9"
+    },
+    {
+      "title": "'Heartbroken isn't the word' - Hatton son's tribute - BBC",
+      "link": "https://www.bbc.com/sport/boxing/articles/cly9rl97p30o"
+    },
+    {
+      "title": "Sean McVay expects Eagles to not get a \"rolling start\" on tush push in Week 3 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-expects-eagles-to-not-get-a-rolling-start-on-tush-push-in-week-3"
     },
     {
       "title": "Vikings will put Aaron Jones on injured reserve - NBC Sports",
@@ -98,72 +114,52 @@
       "link": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-week-3-for-the-2025-season"
     },
     {
-      "title": "Early returns are positive on NFL kickoffs, despite Trump\u2019s gripes - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/09/16/trump-nfl-kickoff/"
+      "title": "Steelers making change after rookie Kaleb Johnson\u2019s massive kick return blunder - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV01TNjBpQ0l6QnJHRVFOX1h3aHdacFVzOGNzZm10ekQxRGo2RVFNZjNxY2w5cW1hX3BTRVZvTllHU1ljVFdGeFRmV2ViMXRHVHB0dkNua09xU1dZekJzS0xQTk1VSWxnSERFT1hMVjZMQWRxWHliVl9OV3NFNV9rYTFaQmg4RExnYTlRbzZ6Q2tCbU1laEpwOGNyLVJpUVNmb3Nn?oc=5"
+    },
+    {
+      "title": "New Pablo Torre Report Questions Adam Silver's Claim About Clippers, Aspiration Deal - Sports Illustrated",
+      "link": "https://www.si.com/nba/new-pablo-torre-report-questions-adam-silver-claim-clippers-aspiration-deal"
     },
     {
       "title": "PGA Tour to move season opener because of drought - BBC",
       "link": "https://www.bbc.com/sport/golf/articles/c5yegnepl54o"
     },
     {
+      "title": "What We Learned: Takeways from Real Madrid\u2019s 2-1 Win Over Marseille - Managing Madrid",
+      "link": "https://www.managingmadrid.com/coach/98160/what-we-learned-takeways-from-real-madrids-2-1-win-over-marseille"
+    },
+    {
       "title": "Pete Carroll: Ashton Jeanty has a ways to go but will get better - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-ashton-jeanty-has-a-ways-to-go-but-will-get-better"
     },
     {
-      "title": "Gabriel Martinelli & Leandro Trossard inspire Arsenal to 2-0 win at Athletic Club - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c8d713zjz61o"
+      "title": "Jonathan Kuminga \u2018absolutely miserable' with Warriors, per ESPN's Tim MacMahon - NBC Sports Bay Area & California",
+      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/jonathan-kuminga-free-agency-miserable/1875005/"
     },
     {
-      "title": "NFL: Saudi Arabian flag-football tournament is not a league initiative - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-saudi-arabian-flag-football-tournament-is-not-a-league-initiative"
+      "title": "Film Review: Against the Eagles, the Chiefs\u2019 offense was a mess - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/181684/chiefs-eagles-week-2-offense-was-a-mess"
     },
     {
-      "title": "Vikings to sign QB Desmond Ridder to 53-man roster - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-to-sign-qb-desmond-ridder-to-53-man-roster"
+      "title": "Ridder joins Vikings QB room with McCarthy out - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46284401/vikings-agree-terms-qb-desmond-ridder"
+    },
+    {
+      "title": "Bills QB Allen likely to wear visor to protect nose - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46284343/bills-josh-allen-likely-wear-visor-thursday-protect-nose"
     },
     {
       "title": "Rams coach Sean McVay tore plantar fascia during Sunday\u2019s win at Tennessee - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-coach-sean-mcvay-tore-plantar-fascia-during-sundays-win-at-tennessee"
     },
     {
-      "title": "Josh Allen plans to wear a visor on Thursday night - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-plans-to-wear-a-visor-on-thursday-night"
+      "title": "Evaluating QB1: Caleb Williams Backs Up Coach's Claim, Takes a Step Forward in Week 2 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/bears/2025/09/16/caleb-williams-film-0916/"
     },
     {
       "title": "Lightning announce roster & schedule for training camp, presented by Florida Blue - NHL.com",
       "link": "https://www.nhl.com/lightning/news/lightning-announce-roster-schedule-for-training-camp-x1555"
-    },
-    {
-      "title": "Bengals place Joe Burrow on IR, sign Brett Rypien to 53-man roster - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-place-joe-burrow-on-ir-sign-brett-rypien-to-53-man-roster"
-    },
-    {
-      "title": "Fantasy Baseball SP Roundup 9/15: Yesavage In The Box Score - Pitcher List",
-      "link": "http://pitcherlist.com/sp-roundup-9-15-25/"
-    },
-    {
-      "title": "Can BYU avenge past heartbreak against East Carolina? - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/09/16/byu-cougars-east-carolina-pirates-interesting-football-series-history/"
-    },
-    {
-      "title": "Dabo Swinney sends direct message to his haters amid Clemson struggles - On3",
-      "link": "https://www.on3.com/college/clemson-tigers/news/dabo-swinney-sends-direct-message-to-his-haters-amid-clemson-struggles-i-have-a-long-way-to-go/"
-    },
-    {
-      "title": "Whit Babcock outlines Virginia Tech\u2019s coaching search, department overhaul in first remarks since Pry\u2019s firing - 247Sports",
-      "link": "https://247sports.com/college/virginia-tech/article/whit-babcock-outlines-virginia-techs-coaching-search-department-overhaul-in-first-remarks-since-prys-firing-254114335/"
-    },
-    {
-      "title": "Bo Nickal returns at UFC 322, 7 total fights confirmed for Jack Della Maddalena vs. Islam Makhachev card - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/404394/bo-nickal-returns-at-ufc-322-7-total-fights-confirmed-for-jack-della-maddalena-vs-islam-makhachev-card"
-    },
-    {
-      "title": "'It's Why We're Here': Dana Holgorsen, John Butler Turn Focus to Michigan, Big Ten Play - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/it-is-why-we-are-here-dana-holgorsen-john-butler-turn-focus-to-michigan-big-ten-play-wolverines-cornhuskers"
-    },
-    {
-      "title": "NFL explains why Tom Brady is allowed in Raiders coaches\u2019 box after \u2018MNF\u2019 sighting - New York Post",
-      "link": "https://nypost.com/2025/09/16/sports/nfl-explains-why-tom-brady-is-allowed-in-raiders-coaches-box/"
     }
   ],
   "weather": {
