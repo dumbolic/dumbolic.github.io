@@ -1,9 +1,9 @@
 {
-  "quote": "Empty yourself of everything - let the mind become still. \u2013 Lao Tzu",
-  "fact": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers. \u00a0",
-  "crypto": "BTC: $116,519 | ETH: $4,531.46",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a magician who has lost their magic? Ian.",
+  "quote": "The chief danger in life is that you may take too many precautions. \u2013 Alfred Adler",
+  "fact": "The \"save\" icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
+  "crypto": "BTC: $116,505 | ETH: $4,524.2",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "No matter how kind you are, German children are kinder.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Switch Online Icons Revealed - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-plus-super-mario-galaxy-2-switch-online-icons-revealed"
+    },
+    {
+      "title": "Samsung\u2019s biggest new phone in years may launch in the US this year - CNN",
+      "link": "https://www.cnn.com/2025/09/18/tech/samsung-trifold-phone-galaxy-s26-edge"
+    },
+    {
       "title": "Galaxy S25 One UI 8 update is now rolling out worldwide - SamMobile",
       "link": "https://www.sammobile.com/news/galaxy-s25-one-ui-8-update-worldwide-rollout/"
+    },
+    {
+      "title": "Meta Connect 2025 live updates: Ray-Ban Display, Oakley Vanguard glasses, more - ZDNET",
+      "link": "https://www.zdnet.com/article/meta-connect-2025-live-updates-reactions-to-ray-ban-display-oakley-vanguard-glasses-more/"
     },
     {
       "title": "Nintendo Expands Switch Online's GBA Library With Two More Titles - Nintendo Life",
@@ -36,59 +48,63 @@
       "link": "https://www.theautopian.com/the-ridiculous-engineering-that-turned-a-regular-ford-mustang-into-an-815-horsepower-track-monster-called-the-gtd/"
     },
     {
-      "title": "Google rolling out Android 16 QPR2 Beta 2 for Pixel - 9to5Google",
-      "link": "http://9to5google.com/2025/09/17/android-16-qpr2-beta-2-pixel/"
+      "title": "Watch the iPhone Air survive 130 pounds of pressure in extreme bend test - Tom's Guide",
+      "link": "https://www.tomsguide.com/phones/iphones/apples-iphone-durability-test-clips-show-how-it-made-sure-the-iphone-air-and-iphone-17-series-are-built-to-last"
     },
     {
-      "title": "Apple explores possible test production of foldable iPhones in Taiwan - Nikkei Asia",
-      "link": "https://asia.nikkei.com/spotlight/supply-chain/apple-explores-possible-test-production-of-foldable-iphones-in-taiwan"
+      "title": "Consumer Reports calls Microsoft 'hypocritical' for stranding millions of Windows 10 PCs - ZDNET",
+      "link": "https://www.zdnet.com/article/consumer-reports-calls-microsoft-hypocritical-for-stranding-millions-of-windows-10-pcs/"
     },
     {
-      "title": "Liquid Glass dark mode is giving iOS users vertigo - Android Authority",
-      "link": "https://www.androidauthority.com/liquid-glass-vertigo-3598657/"
-    },
-    {
-      "title": "Donkey Kong Bananza: DK Island and Emerald Rush Review - IGN",
-      "link": "https://www.ign.com/articles/donkey-kong-bananza-dk-island-and-emerald-rush-review"
-    },
-    {
-      "title": "Skate Tips: 7 Things To Know Before You Drop In To EA's Skate Revival - GameSpot",
-      "link": "https://www.gamespot.com/gallery/skate-tips-7-things-to-know-before-you-drop-in-to-eas-skate-revival/2900-7047/"
-    },
-    {
-      "title": "AirPods Pro 3 vs AirPods Pro 1: What\u2019s new after two generations? - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/17/airpods-pro-3-vs-original-airpods-pro-1-comparison/"
+      "title": "Apple Details iOS 26 Features Like Call Screening, Live Translation, AutoMix, and More - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/17/apple-details-ios-26-features/"
     },
     {
       "title": "Two More Heroes Join Marvel Cosmic Invasion \u2018s Already Large Roster - Kotaku",
       "link": "https://kotaku.com/two-new-heroes-marvel-cosmic-invasion-full-roster-black-panther-ghost-rider-2000626521"
     },
     {
-      "title": "Randy Pitchford calls Borderlands 4 \"pretty damn optimal\" amidst PC performance complaints - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/randy-pitchford-calls-borderlands-4-pretty-damn-optimal-amidst-pc-performance-complaints"
+      "title": "macOS Tahoe Review: A New Beginning For The Mac - bgr.com",
+      "link": "https://www.bgr.com/1971025/macos-tahoe-review/"
     },
     {
-      "title": "Will the iPhone Air Bend? This Extreme Test Reveals the Answer - MacRumors",
-      "link": "https://www.macrumors.com/2025/09/17/iphone-air-bend-test/"
+      "title": "ATSC 3.0 NEXTGEN TV Enhances Fall Sports Viewing with New Advanced Broadcast Technology - | Cord Cutters News",
+      "link": "https://cordcuttersnews.com/atsc-3-0-nextgen-tv-enhances-fall-sports-viewing-with-new-advanced-broadcast-technology/"
+    },
+    {
+      "title": "Skate Goes Viral As Players Find Unusual Ways of Traveling, But It Isn't Enough To Counter a 'Mixed' Steam Review Score - IGN",
+      "link": "https://www.ign.com/articles/skate-goes-viral-as-players-find-unusual-ways-of-traveling-but-it-isnt-enough-to-counter-a-mixed-steam-review-score"
     },
     {
       "title": "No, Nintendo and Pok\u00e9mon did not patent \u2018summoning characters and making them battle\u2019 - The Verge",
       "link": "https://www.theverge.com/games/779062/nintendo-pokemon-summoning-battle-patent"
     },
     {
-      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Gets A Seven-Minute Overview Trailer - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-plus-super-mario-galaxy-2-gets-a-seven-minute-overview-trailer"
+      "title": "Randy Pitchford advises Borderlands 4 players to \"get a refund\" if they're not happy with it, as social media tirade defending PC performance continues - Eurogamer",
+      "link": "https://www.eurogamer.net/randy-pitchford-advises-borderlands-4-players-to-get-a-refund-if-theyre-not-happy-with-it-as-social-media-tirade-defending-pc-performance-continues"
     },
     {
-      "title": "Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge",
-      "link": "https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft"
-    },
-    {
-      "title": "Gemini tops the App Store thanks to new AI image model, Nano Banana - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/16/gemini-tops-the-app-store-thanks-to-new-ai-image-model-nano-banana/"
+      "title": "You can buy Hisense's 136-inch Micro LED TV for $20,000 off right now - how the deal works - ZDNET",
+      "link": "https://www.zdnet.com/home-and-office/home-entertainment/you-can-buy-hisenses-136-inch-micro-led-tv-for-20000-off-right-now-how-the-deal-works/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Carson Wentz will be first player to start for six teams in six consecutive seasons - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-wentz-will-be-first-player-to-start-for-six-teams-in-six-consecutive-seasons"
+    },
+    {
+      "title": "Marvin Harrison Jr.: \u201cSilly\u201d to worry about targets when we\u2019re 2-0 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-silly-to-worry-about-targets-when-were-2-0"
+    },
+    {
+      "title": "Bills favored by 12.5 over Dolphins, biggest point spread in the NFL this season - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-favored-by-12-5-over-dolphins-biggest-point-spread-in-the-nfl-this-season"
+    },
+    {
+      "title": "Match Awards from Bayern Munich\u2019s relieving win over Chelsea - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/champions-league/137901/match-awards-player-ratings-bayern-munich-chelsea-champions-league-win"
+    },
     {
       "title": "Monday night doubleheader averages 13.5 million viewers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-doubleheader-averages-13-5-million-viewers"
@@ -102,10 +118,6 @@
       "link": "https://apnews.com/article/kerley-enhanced-games-1871da27b978f7ff83d022fe5ee62531"
     },
     {
-      "title": "Rece Davis defends \u2018College GameDay\u2019s\u2019 controversial Miami pick - Awful Announcing",
-      "link": "https://awfulannouncing.com/espn/rece-davis-gameday-miami-pick.html"
-    },
-    {
       "title": "Jimmy Butler Reached Out To Warriors On Jonathan Kuminga Negotiations - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2025/09/jimmy-butler-reached-out-to-warriors-on-jonathan-kuminga-negotiations.html"
     },
@@ -114,20 +126,24 @@
       "link": "https://www.bigblueview.com/new-york-giants-roster/136975/giants-swap-cornerbacks-on-practice-squad"
     },
     {
-      "title": "RELEASE: Blackhawks Sign Wyatt Kaiser to Two-Year Contract - NHL.com",
-      "link": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-wyatt-kaiser-to-two-year-contract-extension"
+      "title": "Brewers Place Jose Quintana On IL Due To Calf Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/09/brewers-place-jose-quintana-on-il-due-to-calf-strain.html"
     },
     {
       "title": "Sean Payton on Tom Brady: \u201cIt doesn\u2019t concern me. . . . He covers NFC games.\u201d - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-on-tom-brady-it-doesnt-concern-me-he-covers-nfc-games"
     },
     {
-      "title": "Legendary Dallas Cowboys Star Dead Wednesday At 79 - Yahoo Sports",
-      "link": "https://thespun.com/nfl/legendary-dallas-cowboys-star-dead-wednesday-at-79"
-    },
-    {
       "title": "Fantasy Football Injury Report Week 3: Justin Fields out, Jayden Daniels, Brian Thomas Jr. updates - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-injury-report-week-3-qb-apocalypse-updates-on-aaron-jones-and-brian-thomas-jr"
+    },
+    {
+      "title": "Practice Report: Montgomery Aims To Get Hokies Focused After Their \u2018World Got Shocked\u2019 - TechSideline.com",
+      "link": "https://virginiatech.sportswar.com/subscription/2025/09/17/practice-report-montgomery-aims-to-get-hokies-focused-after-their-world-got-shocked/"
+    },
+    {
+      "title": "DC Council gives final approval to the Washington Commanders' return to the RFK Stadium site - AP News",
+      "link": "https://apnews.com/article/washington-commanders-stadium-07a16a77ea4152f469c0143c055a9d15"
     },
     {
       "title": "Caleb Williams Week 2 QB Grade: Bears @ Lions - Windy City Gridiron",
@@ -138,28 +154,20 @@
       "link": "https://thescore.com/nfl/news/3347955"
     },
     {
-      "title": "New Vikings starter Carson Wentz has been waiting for this moment - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/news/new-vikings-starter-carson-wentz-has-been-waiting-for-this-moment"
-    },
-    {
       "title": "49ers progress report: How Brock Purdy and Brandon Aiyuk are recovering from injuries - The San Francisco Standard",
       "link": "https://sfstandard.com/2025/09/17/brock-purdy-injury-49ers-brandon-aiyuk/"
     },
     {
-      "title": "Shohei Ohtani willing to make position change to help Dodgers\u2019 bullpen - New York Post",
-      "link": "https://nypost.com/2025/09/17/sports/shohei-ohtani-willing-to-play-outfield-to-help-dodgers-in-bullpen/"
+      "title": "Did Swinney Have Conversations with Clemson AD, President? - The Clemson Insider",
+      "link": "https://www.theclemsoninsider.com/2025/09/17/did-swinney-have-conversations-with-clemson-ad-president/"
     },
     {
       "title": "\u2018NEAR PERFECT\u2019 ALCARAZ FLASHING ELEMENTS OF BIG THREE - lavercup.com",
       "link": "https://lavercup.com/news/2025/09/17/near-perfect-alcaraz-flashing-elements-of-big-three"
     },
     {
-      "title": "NCAA eliminates spring transfer portal window - On3",
-      "link": "https://www.on3.com/news/ncaa-eliminates-spring-college-football-transfer-portal-window/"
-    },
-    {
-      "title": "Chargers workout pair of edge rushers in wake of Khalil Mack\u2019s injury - Bolts From The Blue",
-      "link": "https://www.boltsfromtheblue.com/los-angeles-chargers-news/60488/chargers-workout-pair-of-edge-rushers-in-wake-of-khalil-macks-injury"
+      "title": "Despite Strong Similarities to 2023, Bengals QB Jake Browning Leaning into Differences as He Takes Reins Again - Sports Illustrated",
+      "link": "https://www.si.com/nfl/bengals/despite-strong-similarities-to-2023-bengals-qb-jake-browning-leaning-into-differences-as-he-takes-reins-again-01k5cx19xw4d"
     }
   ],
   "weather": {
