@@ -1,9 +1,9 @@
 {
-  "quote": "I will not walk backward in life. \u2013 J.R.R. Tolkien",
-  "fact": "Meteorologists claim they`re right 85% of the time (think about that one!)",
-  "crypto": "BTC: $115,964 | ETH: $4,472.78",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, \u201csorry we don\u2019t serve spirits\u201d",
+  "quote": "The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. \u2013 Voltaire",
+  "fact": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
+  "crypto": "BTC: $116,093 | ETH: $4,498.17",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why was the robot angry? Because someone kept pressing his buttons!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Exclusive: Here's your first look at the redesigned Google Home experience powered by Gemini - Android Authority",
+      "link": "https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/"
+    },
     {
       "title": "Another Sonic Racing: CrossWorlds Collab Appears To Have Been Revealed - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/09/another-sonic-racing-crossworlds-collab-appears-to-have-been-revealed"
@@ -24,20 +28,8 @@
       "link": "https://www.apple.com/newsroom/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/"
     },
     {
-      "title": "New Limited-Time Pok\u00e9mon Scarlet And Violet Distribution Now Available - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available"
-    },
-    {
-      "title": "Dragon Quest 7 Reimagined gets new details - visuals, story, features, characters, battle system - Nintendo Everything",
-      "link": "https://nintendoeverything.com/dragon-quest-7-reimagined-gets-new-details-visuals-story-features-characters-battle-system/"
-    },
-    {
-      "title": "\u2018I don\u2019t know what happened\u2019: AI glasses fail during Zuckerberg\u2019s Meta Connect keynote - KRON4",
-      "link": "https://www.kron4.com/news/technology-ai/i-dont-know-what-happened-ai-glasses-fail-during-zuckerbergs-meta-connect-keynote/"
-    },
-    {
-      "title": "If You've Got the Right Rig, Check Out This Sale on Samsung's 4K Gaming Monitor - WIRED",
-      "link": "https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/"
+      "title": "Announcing the Total Victories Against Shiny Chi-Yu in Pok\u00e9mon Scarlet and Pok\u00e9mon Violet - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-chi-yu-in-pokemon-scarlet-and-pokemon-violet"
     },
     {
       "title": "Google announces massive expansion of AI features in Chrome - Ars Technica",
@@ -50,10 +42,6 @@
     {
       "title": "\u201cDo Not Update Your PC\u201d: Microsoft Stock (NASDAQ:MSFT) Slips as it Issues Bizarre New Warning - TipRanks",
       "link": "https://www.tipranks.com/news/do-not-update-your-pc-microsoft-stock-nasdaqmsft-slips-as-it-issues-bizarre-new-warning"
-    },
-    {
-      "title": "Tencent Attacks Sony Lawsuit Over Game Accused Of Copying Horizon - GameSpot",
-      "link": "https://www.gamespot.com/articles/tencent-attacks-sony-lawsuit-over-game-accused-of-copying-horizon/1100-6534865/"
     },
     {
       "title": "Apple releases new iOS 26.0 build for iPhone 17 models - 9to5Mac",
@@ -88,11 +76,31 @@
       "link": "https://www.rockstargames.com/newswire/article/2588o418a19k72/the-neighborhood-watch-event-continues-get-the-winter-lspd-officer-uni"
     },
     {
-      "title": "Hello Kitty Island Adventure - Wheatflour Wonderland - Nintendo",
-      "link": "https://www.nintendo.com/us/store/products/hello-kitty-island-adventure-wheatflour-wonderland-70050000061002-switch/"
+      "title": "Borderlands 4 Boss Randy Pitchford Keeps Saying Wild Stuff - Kotaku",
+      "link": "https://kotaku.com/borderlands-4-pc-performance-patch-console-crash-pitchford-2000626826"
+    },
+    {
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 gets new 7-minute trailer [update: English trailer] - Nintendo Everything",
+      "link": "https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-gets-new-7-minute-trailer/"
+    },
+    {
+      "title": "Samsung\u2019s biggest new phone in years may launch in the US this year - CNN",
+      "link": "https://www.cnn.com/2025/09/18/tech/samsung-trifold-phone-galaxy-s26-edge"
     }
   ],
   "sports_news": [
+    {
+      "title": "Lyles wins 200 again; Jefferson-Wooden sweeps - ESPN",
+      "link": "https://www.espn.com/olympics/trackandfield/story/_/id/46312399/noah-lyles-tops-200-jefferson-wooden-gets-historic-sweep"
+    },
+    {
+      "title": "MMA fighter Raja Jackson arrested on felony charge after assault of pro wrestler at August show - NBC News",
+      "link": "https://www.nbcnews.com/sports/mixed-martial-arts/mma-fighter-raja-jackson-arrested-felony-charge-assault-wrestler-augus-rcna232369"
+    },
+    {
+      "title": "2025 NFL Week 3 Advanced Matchups - Fantasy Points",
+      "link": "https://www.fantasypoints.com/nfl/articles/2025/nfl-week-3-advanced-matchups"
+    },
     {
       "title": "Reports: Tucker Kraft avoided serious knee injury - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-tucker-kraft-avoided-serious-knee-injury"
@@ -102,36 +110,24 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-id-love-to-play-but-trying-to-be-smart-with-body"
     },
     {
-      "title": "Boston has go-ahead basket with 7.4 seconds left as Fever beat Dream 87-85 to reach WNBA semifinals - AP News",
-      "link": "https://apnews.com/article/fever-dream-score-6f4823e740c39c107689b3487377633a"
+      "title": "Agent: Kuminga prepared to take qualifying offer - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46310583/agent-kuminga-wants-player-option-take-qualifying-offer"
     },
     {
-      "title": "Thursday Night Football: Bills get help from Dolphins in 31-21 win - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bills-get-help-from-dolphins-in-31-21-win"
-    },
-    {
-      "title": "NFL instructs officials to watch for false starts on the tush push - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/09/18/nfl-tush-push-false-start/"
-    },
-    {
-      "title": "Soccer Headers Damage Brains Even Without Concussions, Large Study Finds - ScienceAlert",
-      "link": "https://www.sciencealert.com/soccer-headers-damage-brains-even-without-concussions-large-study-finds"
-    },
-    {
-      "title": "Enhanced Box Score: Reds 1, Cubs 0 \u2013 September 18, 2025 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/09/18/enhanced-box-score-reds-1-cubs-0-september-18-2025/"
-    },
-    {
-      "title": "Lamar Jackson oblivious to his dominance on Monday Night Football - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-oblivious-to-his-dominance-on-monday-night-football"
-    },
-    {
-      "title": "Broncos Coordinator Responds to Colts Coach Over Leverage Claim - Sports Illustrated",
-      "link": "https://www.si.com/nfl/broncos/onsi/news/broncos-coordinator-responds-colts-coach-leverage-claim"
+      "title": "Bills\u2019 Josh Allen breaks Patrick Mahomes\u2019 NFL record in TNF 3 vs. Dolphins - Yahoo Sports",
+      "link": "https://clutchpoints.com/nfl/buffalo-bills/bills-news-josh-allen-breaks-patrick-mahomes-nfl-record-tnf-3-dolphins"
     },
     {
       "title": "Biggest takeaways from Giants coordinators ahead of matchup vs. Chiefs - Big Blue View",
       "link": "https://www.bigblueview.com/new-york-giants-transcripts/137032/biggest-takeaways-from-giants-coordinators-ahead-of-matchup-vs-chiefs"
+    },
+    {
+      "title": "Former Raiders Coach Antonio Pierce Says Tom Brady Shared Info He Got From Other Teams - OutKick",
+      "link": "https://www.outkick.com/sports/former-raiders-coach-antonio-pierce-says-tom-brady-shared-info-he-got-from-other-teams"
+    },
+    {
+      "title": "LaNorris Sellers\u2019 status upgraded on Thursday availability report - On3",
+      "link": "https://www.on3.com/teams/south-carolina-gamecocks/news/south-carolina-gamecocks-football-what-shane-beamer-said-thursday-about-lanorris-sellers-status/"
     },
     {
       "title": "Clayton Kershaw To Retire After 2025 Season - MLB Trade Rumors",
@@ -142,32 +138,32 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/116286/buffalo-bills-week-three-inactives-vs-the-miami-dolphins"
     },
     {
-      "title": "TEAM WORLD\u2019S FONSECA A SLUGGER ON ALL ACCOUNTS - lavercup.com",
-      "link": "https://lavercup.com/news/2025/09/18/team-worlds-fonseca-a-slugger-on-all-accounts"
-    },
-    {
-      "title": "Captains Playing the Right Cards, At The Right Time - lavercup.com",
-      "link": "https://lavercup.com/news/2025/09/18/captains-playing-the-right-cards-at-the-right-time"
-    },
-    {
       "title": "Bengals WR's Ja'Marr Chase, Tee Higgins To Visit Joe Burrow Tonight for Surgery Sendoff - Sports Illustrated",
       "link": "https://www.si.com/nfl/bengals/bengals-wr-s-ja-marr-chase-tee-higgins-to-visit-joe-burrow-tonight-for-surgery-sendoff-01k5fb5db35z"
     },
     {
-      "title": "ODOT grants permit for Cleveland Browns to construct new enclosed stadium near Hopkins Airport in Brook Park - WKYC",
-      "link": "https://www.wkyc.com/article/sports/nfl/browns/cleveland-browns-brook-park-domed-stadium-odot-construction-permit-granted-aviation-hopkins-airport/95-c456c900-f765-45a3-9adc-b011082d8512"
+      "title": "Three talking points from Newcastle 1-2 Barcelona in the Champions League - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/101371/three-talking-points-from-newcastle-1-2-barcelona-in-the-champions-league"
     },
     {
-      "title": "NFL Week 3 staff picks: Moneyline, spread, over/under predictions - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-gambling-odds/142427/nfl-week-3-staff-picks-moneyline-spread-over-under-predictions"
+      "title": "News & Notes: Lamar Jackson Explains Why He's So Good on 'Monday Night Football' - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/lamar-jackson-monday-night-magic-lions-dan-campbell-remembers-38-6"
     },
     {
       "title": "Isaiah Likely, Marlon Humphrey Practicing, But Three Defensive Starters Sidelined - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/injury-report-isaiah-likely-marlon-humphrey-kyle-van-noy-nate-wiggins-ravens-lions-2025"
     },
     {
-      "title": "Oscar De La Hoya goes on scathing attack of Canelo Alvarez and Dana White following historic title fight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/09/18/oscar-de-la-hoya-goes-on-scathing-attack-of-canelo-alvarez-and-dana-white-following-historic-title-fight/"
+      "title": "6 takeaways from Marco Sturm\u2019s first practice as Bruins head coach - Boston.com",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/09/18/marco-sturm-boston-bruins-training-camp-takeaways-nhl-hockey-lines-lineup/"
+    },
+    {
+      "title": "Patriots Gameplan: Previewing Sunday's Matchup vs. the Steelers in Week 3 - New England Patriots",
+      "link": "https://www.patriots.com/news/patriots-gameplan-previewing-sunday-s-matchup-vs-the-steelers-in-week-3"
+    },
+    {
+      "title": "Ballhalla Is A Mindset - Defector",
+      "link": "https://defector.com/ballhalla-is-a-mindset"
     }
   ],
   "weather": {
