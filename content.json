@@ -1,9 +1,9 @@
 {
-  "quote": "Never let your memories be greater than your dreams. \u2013 Doug Ivester",
-  "fact": "The word \"set\" has more definitions than any other word in the English language.",
-  "crypto": "BTC: $115,760 | ETH: $4,471.03",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the knife dress up in a suit? Because it wanted to look sharp",
+  "quote": "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting. \u2013 Zig Ziglar",
+  "fact": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+  "crypto": "BTC: $115,745 | ETH: $4,470.82",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Where\u2019s the bin? Dad: I haven\u2019t been anywhere!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Meta\u2019s Smart Glasses Might Make You Smarter. They\u2019ll Certainly Make You More Awkward - WIRED",
+      "link": "https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/"
+    },
     {
       "title": "2025 New Hampshire Motor Speedway pit stall assignments - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/09/19/2025-new-hampshire-motor-speedway-pit-stall-assignments/"
@@ -38,6 +42,10 @@
     {
       "title": "Exclusive: Android phone makers are playing checkers while Apple is playing chess - Android Central",
       "link": "https://www.androidcentral.com/phones/apple-iphone/exclusive-apples-big-bet-and-its-not-the-iphone-air"
+    },
+    {
+      "title": "Apple releases watchOS 26.0.1, but very few users will get it - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/19/apple-releases-watchos-26-0-1-but-very-few-users-will-get-it/"
     },
     {
       "title": "These 30+ apps feature a new Liquid Glass design for iOS 26 - 9to5Mac",
@@ -72,19 +80,15 @@
       "link": "https://www.zdnet.com/article/get-free-windows-10-security-updates-through-october-2026-2-ways/"
     },
     {
-      "title": "Meta CTO explains why the smart glasses demos failed at Meta Connect \u2014 and it wasn't the Wi-Fi - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/"
-    },
-    {
-      "title": "EA Sports FC 26 Review in Progress - IGN",
-      "link": "https://www.ign.com/articles/ea-sports-fc-26-review"
-    },
-    {
-      "title": "Dragon Quest creator on why we're getting Dragon Quest 7 Reimagined before Dragon Quest 4, 5, and 6 remakes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/dragon-quest-creator-on-why-were-getting-dragon-quest-7-reimagined-before-dragon-quest-4-5-and-6-remakes/"
+      "title": "EA Sports FC 26 Review - DualShockers",
+      "link": "https://www.dualshockers.com/ea-sports-fc-26-review/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Laver Cup 2025: Carlos Alcaraz helps Team Europe make winning start over Team World - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/cp3v7ejyd52o"
+    },
     {
       "title": "Bryan Woo To Undergo MRI For Pectoral Injury - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/09/bryan-woo-to-undergo-mri-for-pectoral-injury.html"
@@ -94,24 +98,44 @@
       "link": "https://sports.yahoo.com/mlb/breaking-news/article/clayton-kershaw-exits-final-regular-season-dodger-stadium-start-to-standing-ovation-as-dodgers-clinch-playoffs-035411853.html"
     },
     {
-      "title": "Former Gamecock, NFL player Jadeveon Clowney arrested in South Carolina - WYFF News 4",
-      "link": "https://www.wyff4.com/article/former-gamecock-nfl-player-jadeveon-clowney-arrested-in-south-carolina/67972161"
-    },
-    {
       "title": "Conor McGregor claims he\u2019s fighting Michael Chandler at UFC White House card - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/404949/conor-mcgregor-claims-hes-fighting-michael-chandler-at-ufc-white-house-card"
     },
     {
-      "title": "Mike Gundy is a man. He's 58. Is it time to come after him? - On3",
-      "link": "https://www.on3.com/news/mike-gundy-is-a-man-hes-58-is-it-time-to-come-after-him/"
+      "title": "Former Gamecock, NFL player Jadeveon Clowney arrested in South Carolina - WYFF News 4",
+      "link": "https://www.wyff4.com/article/former-gamecock-nfl-player-jadeveon-clowney-arrested-in-south-carolina/67972161"
+    },
+    {
+      "title": "How Friday\u2019s comeback win impacts Red Sox postseason picture - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/09/how-fridays-comeback-win-impacts-red-sox-postseason-picture.html"
+    },
+    {
+      "title": "5 keys to beating the Vikings - Cincy Jungle",
+      "link": "https://www.cincyjungle.com/cincinnati-bengals-analysis/175262/5-keys-to-beating-vikings"
     },
     {
       "title": "Jayden Daniels out, Marcus Mariota to start for Commanders on Sunday - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/09/19/commanders-jayden-daniels-injury-update/"
     },
     {
+      "title": "Lynden Lakovic is one of the early Capitals standouts at his first-ever pro training camp: \u2018You can feel he\u2019s got confidence and a little bit of swagger\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/09/19/lynden-lakovic-capitals-training-camp-standouts-spencer-carbery/"
+    },
+    {
+      "title": "Phillies Activate Alec Bohm, Outright Brewer Hicklen - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/09/phillies-activate-alec-bohm-outright-brewer-hicklen.html"
+    },
+    {
       "title": "Lyles wins his fourth 200-meter world title. Jefferson-Wooden completes a sprint sweep - AP News",
       "link": "https://apnews.com/article/lyles-bednarek-tebogo-track-200-b8142b7e9a766bf12915ed2b37fa4848"
+    },
+    {
+      "title": "Falcons release kicker Younghoe Koo after Parker Romo\u2019s huge game - New York Post",
+      "link": "https://nypost.com/2025/09/19/sports/falcons-release-younghoe-koo-after-parker-romos-huge-game/"
+    },
+    {
+      "title": "Rafael Fiziev out of UFC Rio main event fight with Charles Oliveira - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/404929/rafael-fiziev-out-ufc-rio-main-event-fight-with-charles-oliveira"
     },
     {
       "title": "Saints Friday Injury Report: 2025 Week 3 vs. Seattle Seahawks - New Orleans Saints",
@@ -136,30 +160,6 @@
     {
       "title": "Seahawks Release WR Cody White, Sign Him To Practice Squad - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/seahawks-release-wr-cody-white-sign-him-to-practice-squad"
-    },
-    {
-      "title": "Penguins Camp Day 2: Young Players Rising, Hello Avery Hayes - Pittsburgh Hockey Now",
-      "link": "https://pittsburghhockeynow.com/penguins-camp-day-2-young-players-rising-hello-avery-hayes/"
-    },
-    {
-      "title": "Seahawks-Saints injury report: Julian Love, Zach Charbonnet among 4 doubtful to play - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-injury-report/150718/seahawks-vs-saints-injury-report-julian-love-zach-charbonnet-among-4-doubtful-nfl-news"
-    },
-    {
-      "title": "Atlanta Falcons release Younghoe Koo - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/younghoe-koo-released-parker-romo-signed"
-    },
-    {
-      "title": "Injury Report, Week 3 at Eagles: Steve Avila doubtful, Braden Fiske and Colby Parkinson questionable - Rams",
-      "link": "https://www.therams.com/news/injury-report-week-3-at-eagles-steve-avila-doubtful-braden-fiske-and-colby-parkinson-questionable"
-    },
-    {
-      "title": "Packers list two questionable vs. Browns | Week 3 Injury Report - Green Bay Packers",
-      "link": "https://www.packers.com/news/packers-browns-injury-report-week-3-sept-19-2025"
-    },
-    {
-      "title": "Chiefs-Giants final injury report: 2 players out, 2 more questionable - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-injuries/181934/chiefs-giants-week-3-final-injury-report-2-players-out-2-more-questionable"
     }
   ],
   "weather": {
