@@ -1,9 +1,9 @@
 {
-  "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. \u2013 Norman Vincent Peale",
-  "fact": "Dogs and cats consume over $11 billion worth of pet food a year",
-  "crypto": "BTC: $113,682 | ETH: $4,177.26",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
+  "quote": "It's not how much money you make, it's how much money you keep. \u2013 Robert Kiyosaki",
+  "fact": "The only real person to be a PEZ head was Betsy Ross.",
+  "crypto": "BTC: $113,635 | ETH: $4,167.55",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "How do you organize a space party? You planet.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google Photos expands conversational editing to more Android phones - The Verge",
+      "link": "https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android"
+    },
+    {
+      "title": "\u201cScratchgate\u201d: Apple Stock (NASDAQ:AAPL) Slips as iPhone 17 Models Prove Oddly Delicate - TipRanks",
+      "link": "https://www.tipranks.com/news/scratchgate-apple-stock-nasdaqaapl-slips-as-iphone-17-models-prove-oddly-delicate"
+    },
+    {
+      "title": "Baby Steps Review - IGN",
+      "link": "https://www.ign.com/articles/baby-steps-review"
+    },
+    {
       "title": "Costco Seems To No Longer Be Selling Xbox Games Or Consoles - Kotaku",
       "link": "https://kotaku.com/costco-no-longer-selling-xbox-games-consoles-sega-lawsuit-palfarm-2000627914"
     },
     {
       "title": "Minecraft 1.21.9 Pre-Release 4 - Minecraft",
       "link": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4"
+    },
+    {
+      "title": "Google Play is getting a Gemini-powered AI Sidekick to help you in games - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/09/googles-big-play-store-revamp-includes-better-gamer-profiles-gemini-live-in-game-help/"
     },
     {
       "title": "Avatar: Frontiers of Pandora \u2013 From the Ashes DLC Announced; Release Timed With Fire and Ash Movie - IGN",
@@ -32,14 +48,6 @@
       "link": "https://www.gamespot.com/articles/playstations-new-rewards-program-offers-unique-merch-for-unlocking-trophies/1100-6534940/"
     },
     {
-      "title": "Hideo Kojima's Next Announcement Is A Credit Card - GameSpot",
-      "link": "https://www.gamespot.com/articles/hideo-kojimas-next-announcement-is-a-credit-card/1100-6534937/"
-    },
-    {
-      "title": "Google revamps its Play Store with AI features and more - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/23/google-revamps-its-play-store-with-ai-features-and-more/"
-    },
-    {
       "title": "GoPro\u2019s new gimbal works with action cameras, point-and-shoots, and smartphones - The Verge",
       "link": "https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone"
     },
@@ -52,47 +60,59 @@
       "link": "https://kotaku.com/super-smash-bros-n64-piracy-nintendo-2000627887"
     },
     {
-      "title": "Review: EA SPORTS FC 26 (Switch 2) - A Fantastic Football Game, Once You're Used To The Frame Rate - Nintendo Life",
-      "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-26"
-    },
-    {
       "title": "We\u2019re living in a golden age of affordable mechanical keyboards - The Verge",
       "link": "https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs"
     },
     {
-      "title": "DJI\u2019s smallest action camera will start recording when you nod - The Verge",
-      "link": "https://www.theverge.com/news/781827/dji-osmo-nano-4k-action-camera-multifunctional-vision-dock"
+      "title": "52-Gram Osmo Nano Is DJI\u2019s Smallest Action Camera - PetaPixel",
+      "link": "https://petapixel.com/2025/09/23/52-gram-osmo-nano-is-djis-smallest-action-camera/"
     },
     {
-      "title": "Microsoft Store Tells Xbox Fans To 'Check Your Chat' For Free Money - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2025/09/microsoft-store-tells-xbox-fans-to-check-your-chat-for-free-money"
+      "title": "CISA Shares Lessons Learned from an Incident Response Engagement - CISA (.gov)",
+      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a"
     },
     {
       "title": "Tariffs used by Xbox as \"an excuse to continue raising prices\", says former Blizzard president - Eurogamer",
       "link": "https://www.eurogamer.net/tariffs-used-by-xbox-as-an-excuse-to-continue-raising-prices-says-former-blizzard-president"
     },
     {
-      "title": "8 new features coming to your Samsung Galaxy phones with One UI 8.5 - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/"
+      "title": "Galaxy S26 Ultra's display could be a marvel to look at - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s26-ultras-brilliant-display-features-revealed/"
     },
     {
-      "title": "Microsoft\u2019s Windows AI Lab is a new way to test experimental features - The Verge",
-      "link": "https://www.theverge.com/news/783475/microsoft-windows-ai-labs-feature"
-    },
-    {
-      "title": "Daily Crossword: The Desert Puzzle \u2014 September 23 - Vulture",
-      "link": "http://www.vulture.com/article/daily-crossword-puzzle-september-23-2025.html"
-    },
-    {
-      "title": "Oppo Find X9 series revealed in full with design similar to leaked OnePlus 15 - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Oppo-Find-X9-series-revealed-in-full-with-design-similar-to-leaked-OnePlus-15.1121588.0.html"
-    },
-    {
-      "title": "Here\u2019s a first look at Kojima\u2019s OD Xbox game - The Verge",
-      "link": "https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer"
+      "title": "Samsung and Microsoft partnership woes as Galaxy phones move to drop OneDrive as backup service - Windows Central",
+      "link": "https://www.windowscentral.com/hardware/phones/samsung-to-drop-microsoft-onedrive-on-galaxy-phones-photo-cloud-backups-are-moving-to-a-new-service"
     }
   ],
   "sports_news": [
+    {
+      "title": "Titans HC Brian Callahan Hands Off Play-Calling Duties to QBs Coach Bo Hardegree - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/titans-hc-brian-callahan-hands-off-play-calling-duties-to-qbs-coach-bo-hardegree"
+    },
+    {
+      "title": "10 Fantasy Football Takeaways from Week 3: TreVeyon Henderson finds an opening - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/10-fantasy-football-takeaways-from-week-3-treveyon-henderson-finds-an-opening"
+    },
+    {
+      "title": "Derrick Henry needs to solve fumbling issues, quickly - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-needs-to-solve-fumbling-issues-quickly"
+    },
+    {
+      "title": "Oklahoma State reportedly fires Mike Gundy after loss to Tulsa dropped Cowboys to 1-2 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/oklahoma-state-fires-mike-gundy-after-loss-to-tulsa-dropped-cowboys-to-1-2-165354947.html"
+    },
+    {
+      "title": "Liberty fire Sandy Brondello as head coach one season after winning its first WNBA title - NBC News",
+      "link": "https://www.nbcnews.com/sports/wnba/liberty-fire-sandy-brondello-head-coach-rcna233230"
+    },
+    {
+      "title": "Five plays that defined Lions' win over Ravens as Detroit gets revenge for 2023 blowout loss - NFL.com",
+      "link": "https://www.nfl.com/news/five-plays-defined-lions-win-ravens-revenge-2023-blowout-loss"
+    },
+    {
+      "title": "Former Bengals Star Rudi Johnson Dies by Suicide at Age 45 in His Home State of Florida - Realtor.com",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/rudi-johnson-death-suicide-cincinnati-bengals-florida-nfl/"
+    },
     {
       "title": "Kevin O\u2019Connell taps the brakes on a quick return from J.J. McCarthy - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-taps-the-brakes-on-a-quick-return-from-j-j-mccarthy"
@@ -102,76 +122,44 @@
       "link": "https://www.bleedinggreennation.com/news/159339/eagles-news-philadelphias-coaching-staff-should-listen-to-a-j-brown-and-jalen-hurts"
     },
     {
-      "title": "Liberty coach Brondello out after first-round exit - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/46355394/liberty-fire-coach-sandy-brondello-early-playoff-exit"
+      "title": "Matt LaFleur told some truths \u2014 good and bad \u2014 about the Browns on Sunday: 10 Tuesday takes - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/09/matt-lafleur-told-some-truths-good-and-bad-about-the-browns-on-sunday-10-tuesday-takes.html"
     },
     {
-      "title": "Former Bengals running back Rudi Johnson dead at 45 in suicide - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGpfUlVJNjU3UExPMnk1dWQ5MDZHVU8xMUhJN1RRamlnV1M2dEZ4ckdLMXU0QkNja3Q3NlhyZE1hakFYWU1STWF1dlVld2Vncmg5OVQ1YTA4RkV6Qk43S1dzbmFqSHFVbDkzNG9UdWc4RXc1cGhqckpDMUlOT2ZYR2x5cXJkdzVlckc1YlZYZC1mWjZaQ3ZUemZIcnU3aFhwcUJqUkJ3?oc=5"
-    },
-    {
-      "title": "NFL Power Rankings, Week 4: Lions and Chargers vault into top five, while Colts crack top 10 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-power-rankings-week-4-2025-nfl-season"
-    },
-    {
-      "title": "Waiver Wire Analysis: Week 4 - Establish The Run",
-      "link": "https://establishtherun.com/waiver-wire-analysis-week-4-6/"
+      "title": "Dave Portnoy rips \u2018narrow minded\u2019 Michael Wilbon over Bruce Pearl retirement take - New York Post",
+      "link": "https://nypost.com/2025/09/23/sports/dave-portnoy-rips-narrow-minded-michael-wilbon-over-bruce-pearl-take/"
     },
     {
       "title": "Raheem Morris: Michael Penix Jr. was \"off\" on Sunday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-michael-penix-jr-was-off-on-sunday"
     },
     {
+      "title": "Secret Superstars 2025: Tory Horton becomes the NFL receiver few expected - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-nfl-draft/150980/tory-horton-underrated-seattle-seahawks"
+    },
+    {
       "title": "Ryder Cup: Scottie Scheffler to put $500,000 payment 'to good use in community' - BBC",
       "link": "https://www.bbc.com/sport/golf/articles/c3w59yl0dldo"
+    },
+    {
+      "title": "Fantasy Football Week 4 Defense (DST) Rankings and Streamers - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-4-defense-dst-rankings-and-streamers"
     },
     {
       "title": "Falcons fire assistant coach Ike Hilliard after embarrassing loss to Panthers - New York Post",
       "link": "https://nypost.com/2025/09/23/sports/falcons-fire-assistant-coach-ike-hilliard-after-blowout-loss-to-panthers/"
     },
     {
+      "title": "Forde-Yard Dash: Four Big Ten Showdowns Will Separate CFP Contenders From Pretenders - Sports Illustrated",
+      "link": "https://www.si.com/college-football/forde-yard-dash-big-ten-showdowns-separate-cfp-contenders"
+    },
+    {
       "title": "Patriots vs. Steelers snap counts: Wide receiver pecking order taking shape - Pats Pulpit",
       "link": "https://www.patspulpit.com/new-england-patriots-roster/109880/patriots-steelers-snap-counts-analysis-nfl-week-3"
     },
     {
-      "title": "ESPN personality claims Bruce Pearl \u2018had become a divisive person\u2019 - AL.com",
-      "link": "https://www.al.com/auburnbasketball/2025/09/espn-personality-claims-bruce-pearl-had-become-a-divisive-person.html"
-    },
-    {
       "title": "Ranking United States Ryder Cup Captains Since 1999 - Fried Egg Golf",
       "link": "https://www.thefriedegg.com/articles/ranking-usa-ryder-cup-captains"
-    },
-    {
-      "title": "Arrowheadlines: Chiefs graded B minus for win over Giants - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/182231/arrowheadlines-chiefs-graded-b-minus-for-win-over-giants"
-    },
-    {
-      "title": "Bengals News (9/23): Joe Burrow recovery timeline update - Cincy Jungle",
-      "link": "https://www.cincyjungle.com/175560/joe-burrow-recovery-timeline-update"
-    },
-    {
-      "title": "Locker room buzz: Play call 3 years in the making, RB as the Joker, defense's punchout plan, and Bates laments miss - Detroit Football Network",
-      "link": "https://www.detroitfootball.net/p/locker-room-buzz-play-call-3-years"
-    },
-    {
-      "title": "John Harbaugh Addressed Derrick Henry's Fumbling Woes After Loss to Lions - Sports Illustrated",
-      "link": "https://www.si.com/nfl/john-harbaugh-addressed-derrick-henry-fumbling-woes-after-loss-to-lions"
-    },
-    {
-      "title": "Darius Slayton wants Giants to give Jaxson Dart what they took from Daniel Jones in QB decision - New York Post",
-      "link": "https://nypost.com/2025/09/22/sports/darius-slayton-wants-giants-to-give-jaxson-dart-what-they-took-from-daniel-jones/"
-    },
-    {
-      "title": "NFL Week 3 Recap: Immediate fantasy football takeaways from Lions-Ravens Monday Night Football - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-nfl-week-3-recap-immediate-fantasy-football-takeaways-from-lions-ravens-monday-night-football"
-    },
-    {
-      "title": "5 Bears scouting reports from win over Cowboys - Windy City Gridiron",
-      "link": "https://www.windycitygridiron.com/chicago-bears-roster/99027/chicago-bears-film-study-week-3-dallas-cowboys"
-    },
-    {
-      "title": "The Ryder Cup is off to an emotional start for Team USA - AP News",
-      "link": "https://apnews.com/article/ryder-cup-bethpage-black-donald-bradley-9b3804473bb251777eef202335c6e8e0"
     }
   ],
   "weather": {
