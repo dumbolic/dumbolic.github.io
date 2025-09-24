@@ -1,16 +1,28 @@
 {
-  "quote": "A friend to all is a friend to none. \u2013 Aristotle",
-  "fact": "A man named Charles Osborne had the hiccups for 69 years!",
-  "crypto": "BTC: $112,611 | ETH: $4,177.87",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did one nut say as he chased another nut?  I'm a cashew!",
+  "quote": "As soon as you truly commit to making something happen, the 'how' will reveal itself. \u2013 Tony Robbins",
+  "fact": "People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.",
+  "crypto": "BTC: $112,720 | ETH: $4,181.75",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.BearLodge_EN-US9061134971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "A first look at Kojima\u2019s OD Xbox game - The Verge",
+      "link": "https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer"
+    },
+    {
+      "title": "Here's our first look at the cast and concept art for Kojima's \"stealth action\" PlayStation title, Physint - Eurogamer",
+      "link": "https://www.eurogamer.net/heres-our-first-look-at-the-cast-and-concept-art-for-kojimas-stealth-action-playstation-title-physint"
+    },
+    {
+      "title": "Xbox sale round-up September 23, 2025 \u2013 Bundles - TrueAchievements",
+      "link": "https://www.trueachievements.com/n60296/xbox-sale-roundup-september-23-2025-bundles"
+    },
     {
       "title": "WWE 2K25 Online Shutdown Date Revealed Just Months After Switch 2 Release - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/09/wwe-2k25-online-shutdown-date-revealed-just-months-after-switch-2-release"
@@ -20,20 +32,16 @@
       "link": "https://www.prideofdetroit.com/game-day-threads/142867/detroit-lions-vs-baltimore-ravens-second-half-live-chat"
     },
     {
-      "title": "Xbox sale round-up September 23, 2025 - DLC - TrueAchievements",
-      "link": "https://www.trueachievements.com/n60298/xbox-sale-roundup-september-23-2025-dlc"
-    },
-    {
       "title": "No Thank You - aftermath.site",
       "link": "https://aftermath.site/ea-skate-review-impressions"
     },
     {
-      "title": "Call of Duty: Black Ops 7 Multiplayer Reveal Highlights Include Futuristic Tech, 18 Maps, and Travis Scott - IGN",
-      "link": "https://www.ign.com/articles/call-of-duty-black-ops-7-multiplayer-reveal-highlights-include-futuristic-tech-18-maps-and-travis-scott"
+      "title": "Apple stops signing iOS 18.6.2, blocking iOS 26 downgrades - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/22/apple-stops-signing-ios-18-6-2-downgrading-from-ios-26-now-impossible/"
     },
     {
-      "title": "iOS 26 problems: User complaints include lag and clunky app redesigns - Mashable",
-      "link": "https://mashable.com/article/ios-26-update-user-complaints"
+      "title": "Call of Duty: Black Ops 7 Multiplayer Reveal Highlights Include Futuristic Tech, 18 Maps, and Travis Scott - IGN",
+      "link": "https://www.ign.com/articles/call-of-duty-black-ops-7-multiplayer-reveal-highlights-include-futuristic-tech-18-maps-and-travis-scott"
     },
     {
       "title": "iFixit tears down the iPhone Air, finds that it\u2019s mostly battery - Ars Technica",
@@ -44,20 +52,28 @@
       "link": "https://9to5mac.com/2025/09/22/iphone-fold-five-new-features-are-coming-next-year/"
     },
     {
-      "title": "Steam game removed after cryptostealer takes over $150K - The Verge",
-      "link": "https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware"
-    },
-    {
       "title": "Pok\u00e9mon GO Harvest Festival 2025 - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/event/harvest-festival-2025/"
+    },
+    {
+      "title": "Streamer Drained of $31K in Solana Raised for Cancer Treatment After He Downloads Game - Decrypt",
+      "link": "https://decrypt.co/340708/streamer-drained-31k-solana-cancer-treatment-after-downloads-game"
     },
     {
       "title": "15 Tips To Know Before Playing Dying Light: The Beast - Kotaku",
       "link": "https://kotaku.com/13-tips-to-know-before-playing-dying-light-the-beast-throw-weapon-farming-2000627619"
     },
     {
+      "title": "Capcom Nintendo Switch eShop sale live, lowest prices ever for Mega Man Battle Network Legacy Collection and more - Nintendo Everything",
+      "link": "https://nintendoeverything.com/capcom-nintendo-switch-eshop-sale-live-lowest-prices-ever-for-mega-man-battle-network-legacy-collection-and-more/"
+    },
+    {
       "title": "I refused to upgrade to Windows 11 so I patched Windows 10 myself - MakeUseOf",
       "link": "https://www.makeuseof.com/i-refused-to-upgrade-to-windows11-so-i-patched-windows10-myself/"
+    },
+    {
+      "title": "iOS 26.1 Adds New Apple Intelligence Languages and Expands AirPods Live Translation - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/22/ios-26-1-apple-intelligence-languages/"
     },
     {
       "title": "The Steam Deck LCD is 20 percent off through October 6th - The Verge",
@@ -68,34 +84,22 @@
       "link": "https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623"
     },
     {
+      "title": "The PNY GeForce RTX 5090 OC 32GB Graphics Card Is in Stock at Original Launch Pricing - IGN",
+      "link": "https://www.ign.com/articles/pny-geforce-rtx-5090-oc-32gb-graphics-card-is-in-stock-at-original-launch-pricing"
+    },
+    {
       "title": "Costco Quietly Removes The Xbox Section From Its US And UK Websites - TheGamer",
       "link": "https://www.thegamer.com/costco-removes-xbox-consoles-games-series-x-s-from-us-uk-websites/"
-    },
-    {
-      "title": "Google\u2019s Gemini AI is coming to your TV - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/22/googles-gemini-ai-is-coming-to-your-tv/"
-    },
-    {
-      "title": "The PNY Geforce RTX 5080 Graphics Card Drops to Lower Than Its Original Launch Price - IGN",
-      "link": "https://www.ign.com/articles/pny-geforce-rtx-5080-graphics-card-drops-to-lower-than-its-original-launch-price"
-    },
-    {
-      "title": "Apple previews new immersive films for Apple Vision Pro - Apple",
-      "link": "https://www.apple.com/newsroom/2025/09/apple-previews-new-immersive-films-for-apple-vision-pro/"
-    },
-    {
-      "title": "Borderlands 4 'Cricket Jumping' Lets Players Skip Huge Chunks of the Map \u2014 Gearbox Dev Says 'I've Got My Eye on This' - IGN",
-      "link": "https://www.ign.com/articles/borderlands-4-cricket-jumping-lets-players-skip-huge-chunks-of-the-map-gearbox-dev-says-ive-got-my-eye-on-this"
-    },
-    {
-      "title": "Blue Origin wins NASA deal to ferry VIPER rover to lunar south pole - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/22/blue-origin-wins-nasa-deal-to-ferry-viper-rover-to-lunar-south-pole/"
     }
   ],
   "sports_news": [
     {
-      "title": "Ravens Fall to Lions on \u2018Monday Night Football\u2019 | Game Recap - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/lamar-jackson-derrick-henry-ravens-lions-monday-night-football-recap"
+      "title": "Darius Slayton wants Giants to give Jaxson Dart what they took from Daniel Jones in QB decision - New York Post",
+      "link": "https://nypost.com/2025/09/22/sports/darius-slayton-wants-giants-to-give-jaxson-dart-what-they-took-from-daniel-jones/"
+    },
+    {
+      "title": "Monday Night Football: Lions run over Ravens 38-30 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-lions-run-over-ravens-38-30"
     },
     {
       "title": "Jake Paul attacks Gervonta Davis over domestic violence allegations, towers over 'Tank' in first faceoff - Yahoo Sports",
@@ -110,16 +114,12 @@
       "link": "https://www.mlbtraderumors.com/2025/09/snitker-charlie-morton-returning-to-braves.html"
     },
     {
-      "title": "'It's time\u2019: Everything Bruce Pearl said in farewell message to Auburn - 247Sports",
-      "link": "https://247sports.com/college/auburn/longformarticle/bruce-pearl-auburn-basketball-retires-steven-pearl-254437275/"
-    },
-    {
       "title": "49ers\u2019 Nick Bosa out for the season after knee injury in win against Cardinals - San Francisco Chronicle",
       "link": "https://www.sfchronicle.com/sports/49ers/article/49ers-nick-bosa-reportedly-season-knee-injury-21061594.php"
     },
     {
-      "title": "Ballon d'Or results: PSG's Ousmane Dembele, Barcelona's Aitana Bonmati take home awards, make history - CBS Sports",
-      "link": "https://www.cbssports.com/soccer/news/ballon-dor-results-psgs-ousmane-dembele-barcelonas-aitana-bonmati-take-home-awards-make-history/live/"
+      "title": "Fantasy Football Takeaways: Trey Benson Headlines Utilization Report For Week 4 - Fantasy Life",
+      "link": "https://www.fantasylife.com/articles/fantasy/fantasy-football-takeaways-trey-benson-headlines-utilization-rep"
     },
     {
       "title": "Atlanta Falcons part ways with wide receiver coach Ike Hilliard - Atlanta Falcons",
@@ -134,8 +134,16 @@
       "link": "https://www.packers.com/news/packers-protection-got-lifted-on-blocked-field-goal-week-3-2025"
     },
     {
+      "title": "Ballon d'Or results: PSG's Ousmane Dembele, Barcelona's Aitana Bonmatti take home awards, make history - CBS Sports",
+      "link": "https://www.cbssports.com/soccer/news/ballon-dor-results-psgs-ousmane-dembele-barcelonas-aitana-bonmati-take-home-awards-make-history/live/"
+    },
+    {
       "title": "49ers finally get some good injury news - SFGATE",
       "link": "https://www.sfgate.com/49ers/article/49ers-brock-purdy-looks-likely-return-week-4-21061556.php"
+    },
+    {
+      "title": "The Lynx Are Stone-Cold Killers - Defector",
+      "link": "https://defector.com/the-lynx-are-stone-cold-killers"
     },
     {
       "title": "Enemy Reaction 2025: New Orleans Saints (with a bonus Rams meltdown!) - Field Gulls",
@@ -164,14 +172,6 @@
     {
       "title": "Matt Rhule 'Disappointed with the Result', Not Settling for 'Couple Plays Away' Narrative - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/football/matt-rhule-disappointed-with-the-result-not-settling-for-couple-plays-away-narrative-cornhuskers-big-ten"
-    },
-    {
-      "title": "Dawand Jones out for the remainder of 2025 season | In the Trenches - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/dawand-jones-out-for-the-remainder-of-2025-season-in-the-trenches"
-    },
-    {
-      "title": "Hot Topics From Titans HC Brian Callahan's Monday Presser - Tennessee Titans",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdV9WMXNWamFWZHRaRXpXel9hM0FYc2ctX1VRbDNfdHd1d1FLa3gwNS1jUjI5X05EdkRwT0U0d3NjNU0zenhCQ3pETHFmWG9lR3dLcFhWc0RSaGJOdDdTVFp2ekIyNHdIVzV1U0xxSHJjM0VIemFWQ090eXdTaGlFREtEejBvRTRPcnc0Z0lCWDQybXpvOFRuT0tqV2E2TG5LclE?oc=5"
     }
   ],
   "weather": {
