@@ -1,9 +1,9 @@
 {
-  "quote": "If we know how to adapt, we end up being superior. \u2013 Ming-Dao Deng",
-  "fact": "The human feet perspire half a pint of fluid a day",
-  "crypto": "BTC: $109,265 | ETH: $4,020.39",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Want to hear a joke about construction? Nah, I'm still working on it.",
+  "quote": "If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form. \u2013 Paramahansa Yogananda",
+  "fact": "Women manage the money and pay the bills in\u00a0 75% of all Americans households.",
+  "crypto": "BTC: $109,301 | ETH: $4,009.88",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, \u2018No, just leave it in the carton!\u2019",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
+      "link": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal"
+    },
+    {
       "title": "OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch",
       "link": "https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/"
+    },
+    {
+      "title": "Pixel call recording spotted in the wild \u2014 here\u2019s how it actually works - Android Authority",
+      "link": "https://www.androidauthority.com/google-pixel-call-recording-example-3601192/"
+    },
+    {
+      "title": "Does Your New iPhone 17 Have Scratches? Apple Says Do This to Fix It - PCMag",
+      "link": "https://www.pcmag.com/news/does-your-new-iphone-17-have-scratches-apple-says-do-this-to-fix-it"
     },
     {
       "title": "AirPods 4 vs. AirPods Pro 3 Buyer's Guide: 25 Differences Compared - MacRumors",
       "link": "https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/"
     },
     {
-      "title": "Samsung\u2019s One UI 8.5 lock screen refresh has blurred notifications, new clock styles - 9to5Google",
-      "link": "http://9to5google.com/2025/09/25/samsungs-one-ui-8-5-lock-screen-refresh-has-blurred-notifications-new-clock-styles/"
-    },
-    {
-      "title": "Xiaomi 17 series arrives with secondary screens and enormous batteries - The Verge",
-      "link": "https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen"
+      "title": "Amazon accidentally confirms Vega TV OS launch for 2025 - The Verge",
+      "link": "https://www.theverge.com/column/785589/amazon-vega-tv-os-2025"
     },
     {
       "title": "\u2018Ghost of Yotei\u2019 sharpens the samurai revenge formula with raw feeling - The Washington Post",
@@ -40,8 +48,20 @@
       "link": "https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/"
     },
     {
-      "title": "I put the iPhone Air vs Galaxy S25 Edge through a 7-round face-off \u2014 here's the winner - Tom's Guide",
-      "link": "https://www.tomsguide.com/phones/i-put-the-iphone-air-vs-samsung-galaxy-s25-edge-through-a-7-round-face-off-heres-the-winner"
+      "title": "Samsung will copy and improve on Pixel's Quick Settings with next major Galaxy update [Video] - 9to5Google",
+      "link": "http://9to5google.com/2025/09/25/samsung-galaxy-quick-settings-update-one-ui-8-5/"
+    },
+    {
+      "title": "Billionaire Xiaomi Founder Unveils a $630 Answer to iPhone 17 - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-09-25/billionaire-xiaomi-founder-unveils-a-630-answer-to-iphone-17"
+    },
+    {
+      "title": "The Deals to Buy Before October\u2019s Prime Day - The Cut",
+      "link": "http://www.thecut.com/article/best-early-october-prime-day-deals-2025.html"
+    },
+    {
+      "title": "How to get free Windows 10 security updates through October 2026 - ZDNET",
+      "link": "https://www.zdnet.com/article/how-to-get-free-windows-10-security-updates-through-october-2026/"
     },
     {
       "title": "Mega Evolution Brings Mega Might to Pok\u00e9mon TCG Live - Pokemon.com",
@@ -52,16 +72,12 @@
       "link": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/"
     },
     {
-      "title": "Bizarre app that pays you to share your audio calls hits #2 in App Store social apps - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/25/bizarre-app-that-pays-you-to-share-your-audio-calls-hits-2-in-app-store-social-apps/"
+      "title": "Should You Buy a Chromebook or a Windows Laptop? - WIRED",
+      "link": "https://www.wired.com/story/chromebooks-vs-windows-laptops/"
     },
     {
-      "title": "Xbox at Tokyo Game Show: Everything Announced - IGN",
-      "link": "https://www.ign.com/articles/xbox-microsoft-tokyo-game-show-september-2025-everything-announced"
-    },
-    {
-      "title": "Microsoft forced to make Windows 10 extended security updates truly free in Europe - The Verge",
-      "link": "https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes"
+      "title": "As many as 2 million Cisco devices affected by actively exploited 0-day - Ars Technica",
+      "link": "https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/"
     },
     {
       "title": "Fire Emblem Shadows is Among Us with a twist - Polygon",
@@ -70,52 +86,72 @@
     {
       "title": "Hades 2 tops Metacritic's PC game chart for 2025 - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/hades-2-tops-metacritics-pc-game-chart-for-2025"
-    },
-    {
-      "title": "Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software - The Hacker News",
-      "link": "https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html"
-    },
-    {
-      "title": "I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET",
-      "link": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-heres-one-big-reason-for-a-year-over-year-upgrade/"
-    },
-    {
-      "title": "PlayStation State of Play September 2025: all the news and trailers - The Verge",
-      "link": "https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers"
-    },
-    {
-      "title": "Battlefield 6 Boss says she owes it to the community to deliver the \"best Battlefield ever\" after 2042 failure - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Battlefield-6-boss-says-she-owes-it-to-the-community-to-deliver-the-best-Battlefield-ever-after-2042-failure.1123262.0.html"
     }
   ],
   "sports_news": [
     {
+      "title": "Ryder Cup 2025 opening pairings: Rory McIlroy and Tommy Fleetwood reunited at Bethpage - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/cqlz4ry27ywo"
+    },
+    {
+      "title": "Week 4 Thursday Injury Report: Chuba Hubbard added to report - Carolina Panthers",
+      "link": "https://www.panthers.com/news/week-4-thursday-injury-report-chuba-hubbard-added-to-report"
+    },
+    {
+      "title": "2025 NFL QB rankings, Week 4: Justin Herbert approaching throne, Daniel Jones enters top 10 - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-qb-rankings-index-week-4-2025-nfl-season"
+    },
+    {
+      "title": "Travis Jones Returns to Practice, But Ravens Still Missing Key Blockers - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-injury-report-travis-jones-ronnie-stanley-broderick-washington-2025"
+    },
+    {
+      "title": "Jets' Aaron Glenn reacts after sideline celebration dance goes viral with Earth, Wind & Fire mash-ups - New York Post",
+      "link": "https://nypost.com/2025/09/25/sports/jets-aaron-glenn-reacts-after-sideline-celebration-dance-goes-viral-with-earth-wind-amp-fire-mash-ups/"
+    },
+    {
+      "title": "The Opener: Raleigh, Schwarber, Red Sox, AL Central - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/09/the-opener-raleigh-schwarber-red-sox-al-central.html"
+    },
+    {
       "title": "NFL Week 4 fantasy sleepers: 3 favorable matchups in Packers-Cowboys; 3 RBs with upside - NFL.com",
       "link": "https://www.nfl.com/news/nfl-week-4-fantasy-sleepers-3-favorable-matchups-in-packers-cowboys-3-rbs-with-upside"
+    },
+    {
+      "title": "Illini injury update: Clarke, Bailey and Resetich all practice leading into USC game - 247Sports",
+      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-football-injury-report-usc-trojans-254551394/"
+    },
+    {
+      "title": "Science Lab: \u2018Maybe\u2019 can\u2019t be a strategy for Cowboys' wins - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/science-lab-maybe-can-t-be-a-strategy-for-cowboys-wins"
+    },
+    {
+      "title": "Panthers' Barkov helped off ice after injuring leg - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/46377642/panthers-captain-aleksander-barkov-leg-needs-help-leaving-ice"
     },
     {
       "title": "Eagles News: Baker Mayfield says Eagles traveling to Tampa early only hurts them - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/news/159548/eagles-news-baker-mayfield-says-eagles-traveling-to-tampa-early-only-hurts-them"
     },
     {
-      "title": "Panthers captain Aleksander Barkov injured during training camp. What we know - Miami Herald",
-      "link": "https://www.miamiherald.com/sports/nhl/florida-panthers/article312256170.html"
+      "title": "PFT\u2019s Week 4 2025 NFL picks: Florio vs. Simms - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2025-nfl-picks-florio-vs-simms"
     },
     {
-      "title": "Ryder Cup 2025: Friday Morning Foursome Pairings - Ryder Cup",
-      "link": "https://www.rydercup.com/news-media/ryder-cup-2025-friday-morning-foursome-pairings"
+      "title": "Minnesota Wild Unveils 25th Anniversary Jersey and Theme Nights - NHL.com",
+      "link": "https://www.nhl.com/wild/news/minnesota-wild-unveils-25th-anniversary-jersey-and-theme-nights-092525"
+    },
+    {
+      "title": "'Leader' 'Cornerstone' - Rory McIlroy takes centre stage for Europe at Bethpage - Ryder Cup",
+      "link": "https://www.rydercup.com/news-media/rory-mcilroy-takes-centre-stage-for-europe-at-bethpage-black-ryder-cup"
+    },
+    {
+      "title": "2025 Week 4 Fantasy Football Rankings: TE, K, DEF - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-4-fantasy-football-rankings-te-k-def"
     },
     {
       "title": "Roger Goodell: Teams don\u2019t have to tell Tom Brady anything if they think it\u2019s a conflict - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-teams-dont-have-to-tell-tom-brady-anything-if-they-think-its-a-conflict"
-    },
-    {
-      "title": "Paul Skenes Gives Critical Quote on His Incredible 1.97 ERA From 2025 Season - Sports Illustrated",
-      "link": "https://www.si.com/mlb/paul-skenes-era-record-comments"
-    },
-    {
-      "title": "Cal Raleigh reaches 60 home runs in Aaron Judge chase \u2014 with Mariners facing tricky decision - New York Post",
-      "link": "https://nypost.com/2025/09/25/sports/cal-raleigh-reaches-60-home-runs-in-aaron-judge-chase/"
     },
     {
       "title": "Shane Steichen: Matthew Stafford is probably one of the best to ever do it - NBC Sports",
@@ -130,44 +166,8 @@
       "link": "https://www.cbssports.com/college-football/news/the-six-pack-picks-for-penn-state-vs-oregon-alabama-vs-georgia-and-tom-fornellis-lock-for-week-5/"
     },
     {
-      "title": "NFL Week 4 staff picks: Moneyline, spread, over/under predictions - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-gambling-odds/143155/nfl-week-4-staff-picks-moneyline-spread-over-under-predictions"
-    },
-    {
-      "title": "Liberty GM reveals why team fired Sandy Brondello a year after WNBA title - New York Post",
-      "link": "https://nypost.com/2025/09/25/sports/liberty-gm-reveals-why-team-fired-sandy-brondello-a-year-after-wnba-title/"
-    },
-    {
-      "title": "Weather Forecast for 2025 Ryder Cup Matches - Ryder Cup",
-      "link": "https://www.rydercup.com/news-media/weather-forecast-for-2025-ryder-cup-matches"
-    },
-    {
-      "title": "Racing Insights: Hendrick expected to return to winning ways at Kansas - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/09/25/racing-insights-hendrick-expected-to-return-to-winning-ways-at-kansas/"
-    },
-    {
-      "title": "Across The Field: Washington Beat Writer Andy Yamashita Breaks Down Huskies and What Makes Husky Stadium A Top College Football Environment - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/09/158195/across-the-field-washington-beat-writer-andy-yamashita-breaks-down-huskies-and-what-makes-husky-stadium-a-top"
-    },
-    {
-      "title": "Fab's Five Fantasy Football Sleepers For Week 4: Start Cam Skattebo - Sports Illustrated",
-      "link": "https://www.si.com/fantasy/fab-s-five-fantasy-football-sleepers-for-week-4-start-cam-skattebo-01k5xszhrnr8"
-    },
-    {
-      "title": "Keegan Bradley Makes Brutal Gaffe During Ryder Cup Opening Ceremony Speech - OutKick",
-      "link": "https://www.outkick.com/sports/keegan-bradley-ryder-cup-speech-mistake-justin-rose"
-    },
-    {
-      "title": "Fearless Forecasters: Our picks for Auburn at Texas A&M - 247Sports",
-      "link": "https://247sports.com/college/auburn/longformarticle/auburn-texas-am-picks-prediction-preview-2025-football-254538615/"
-    },
-    {
-      "title": "Durkin\u2019s Den: Bears plant seeds of progress in domination of Dallas - Windy City Gridiron",
-      "link": "https://www.windycitygridiron.com/xs-and-os-chicago-bears-playbook-scheme-nfl-offense-defense-game-plan/99265/dan-durkin-den-bears-plant-seeds-of-progress-in-domination-of-dallas-caleb-williams"
-    },
-    {
-      "title": "Lions Week 4 preview: Breaking down Browns\u2019 offensive, defensive schemes - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/142753/lions-week-4-preview-breaking-down-browns-offensive-defensive-schemes"
+      "title": "Thursday Night Football Live Show: Seahawks at Cardinals - Establish The Run",
+      "link": "https://establishtherun.com/thursday-night-football-live-show-seahawks-at-cardinals/"
     }
   ],
   "weather": {
