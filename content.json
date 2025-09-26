@@ -1,9 +1,9 @@
 {
-  "quote": "Absurdity is the ecstasy of intellectualism. \u2013 Criss Jami",
-  "fact": "The most popular first name in the world is Muhammad.",
-  "crypto": "BTC: $109,571 | ETH: $4,033.81",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
+  "quote": "You are the average of the five people you spend the most time with. \u2013 Jim Rohn",
+  "fact": "The cheetah is the only cat that can't retract its claws.",
+  "crypto": "BTC: $109,529 | ETH: $4,019.7",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What kind of bagel can fly? A plain bagel.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nvidia is letting anyone use its AI voice animation tech - The Verge",
+      "link": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source"
+    },
+    {
+      "title": "Viral call-recording app Neon goes dark after exposing users' phone numbers, call recordings, and transcripts - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/"
+    },
+    {
+      "title": "Doug Bowser Bids Farewell to the Mushroom Kingdom - Business Wire",
+      "link": "https://www.businesswire.com/news/home/20250925384737/en/Doug-Bowser-Bids-Farewell-to-the-Mushroom-Kingdom"
+    },
+    {
+      "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers - The Verge",
+      "link": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency"
+    },
+    {
+      "title": "iPhone 17 Pro cameras reviewed by Halide creator Lux - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/25/iphone-17-pro-cameras-reviewed-by-halide-creator-lux/"
+    },
+    {
       "title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
       "link": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal"
+    },
+    {
+      "title": "Fire Emblem Shadows impressions: The hottest of hot messes - Polygon",
+      "link": "https://www.polygon.com/fire-emblem-shadows-impressions/"
+    },
+    {
+      "title": "Final Fantasy Tactics: The Ivalice Chronicles - Nintendo Switch 2 Edition Review (Switch 2) - Nintendo Life",
+      "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition"
+    },
+    {
+      "title": "Pixel Call Recording reappears for some users including in US, UK - 9to5Google",
+      "link": "http://9to5google.com/2025/09/25/pixel-call-recording-appears-on-some-devices/"
     },
     {
       "title": "OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch",
       "link": "https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/"
     },
     {
-      "title": "Pixel call recording spotted in the wild \u2014 here\u2019s how it actually works - Android Authority",
-      "link": "https://www.androidauthority.com/google-pixel-call-recording-example-3601192/"
+      "title": "It's Nearly Here: Where To Look For The ROG Xbox Ally With Launch Day Approaching - empireonline.com",
+      "link": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/"
     },
     {
       "title": "Does Your New iPhone 17 Have Scratches? Apple Says Do This to Fix It - PCMag",
@@ -32,16 +64,8 @@
       "link": "https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/"
     },
     {
-      "title": "Amazon accidentally confirms Vega TV OS launch for 2025 - The Verge",
-      "link": "https://www.theverge.com/column/785589/amazon-vega-tv-os-2025"
-    },
-    {
       "title": "\u2018Ghost of Yotei\u2019 sharpens the samurai revenge formula with raw feeling - The Washington Post",
       "link": "https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/"
-    },
-    {
-      "title": "Pok\u00e9mon TCG Pocket's Next Expansion Guarantees Rare Pulls In Every Pack - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/pokemon-tcg-pockets-next-expansion-guarantees-rare-pulls-in-every-pack"
     },
     {
       "title": "Reviewing iOS 26 for power users: Reminders, Preview, and more - Ars Technica",
@@ -56,58 +80,74 @@
       "link": "https://www.bloomberg.com/news/articles/2025-09-25/billionaire-xiaomi-founder-unveils-a-630-answer-to-iphone-17"
     },
     {
-      "title": "The Deals to Buy Before October\u2019s Prime Day - The Cut",
-      "link": "http://www.thecut.com/article/best-early-october-prime-day-deals-2025.html"
-    },
-    {
       "title": "How to get free Windows 10 security updates through October 2026 - ZDNET",
       "link": "https://www.zdnet.com/article/how-to-get-free-windows-10-security-updates-through-october-2026/"
     },
     {
       "title": "Mega Evolution Brings Mega Might to Pok\u00e9mon TCG Live - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/mega-evolution-brings-mega-might-to-pokemon-tcg-live"
-    },
-    {
-      "title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5 - 9to5Google",
-      "link": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/"
-    },
-    {
-      "title": "Should You Buy a Chromebook or a Windows Laptop? - WIRED",
-      "link": "https://www.wired.com/story/chromebooks-vs-windows-laptops/"
-    },
-    {
-      "title": "As many as 2 million Cisco devices affected by actively exploited 0-day - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/"
-    },
-    {
-      "title": "Fire Emblem Shadows is Among Us with a twist - Polygon",
-      "link": "https://www.polygon.com/fire-emblem-shadows-mobile-game/"
-    },
-    {
-      "title": "Hades 2 tops Metacritic's PC game chart for 2025 - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/hades-2-tops-metacritics-pc-game-chart-for-2025"
     }
   ],
   "sports_news": [
     {
-      "title": "Ryder Cup 2025 opening pairings: Rory McIlroy and Tommy Fleetwood reunited at Bethpage - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cqlz4ry27ywo"
+      "title": "Cardinals vs. Seahawks live updates: Score, analysis, highlights for 'Thursday Night Football' - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/cardinals-vs-seahawks-live-updates-score-highlights-thursday-night-football/live/"
     },
     {
-      "title": "Week 4 Thursday Injury Report: Chuba Hubbard added to report - Carolina Panthers",
-      "link": "https://www.panthers.com/news/week-4-thursday-injury-report-chuba-hubbard-added-to-report"
+      "title": "Tristan Wirfs fully participates in practice, Chris Godwin takes the day off - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-fully-participates-in-practice-chris-godwin-takes-the-day-off"
+    },
+    {
+      "title": "Eagles Injury Report: Good news for the bald Eagles - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/159556/eagles-injury-report-good-news-for-the-bald-eagles"
+    },
+    {
+      "title": "Patriots owner Robert Kraft selling minority stake in franchise - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2025/09/25/sports/patriots-minority-sale-sixth-street/"
+    },
+    {
+      "title": "Ryder Cup pairings: Bryson DeChambeau, Justin Thomas team up for Friday morning foursomes - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/ryder-cup-2025-pairings-starting-times-friday-morning-foursomes"
+    },
+    {
+      "title": "Tony Petitti\u2019s Power Move Failed, but CFP Expansion Drama Is Likely Far From Over - Sports Illustrated",
+      "link": "https://www.si.com/college-football/big-tens-cfp-power-grab-fails-tony-petitti"
+    },
+    {
+      "title": "Three things I think, three things I know about FSU football ahead of their first road test at UVA - 247Sports",
+      "link": "https://247sports.com/college/florida-state/longformarticle/three-things-i-think-three-things-i-know-about-fsu-football-ahead-of-their-first-road-test-at-uva-254552622/"
+    },
+    {
+      "title": "6 takeaways from Detroit Lions coordinators for Browns week - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-news/143337/6-takeaways-from-detroit-lions-coordinators-for-browns-week"
+    },
+    {
+      "title": "$3,000, 12 hours, 3 flights, 1 rental car: What Oregon superfans will endure to see big game at Penn State - OregonLive.com",
+      "link": "https://www.oregonlive.com/ducks/2025/09/were-going-no-matter-what-ducks-football-fans-must-go-to-greatest-lengths-of-season-to-travel-to-big-game-at-penn-state.html"
+    },
+    {
+      "title": "Olivia Dunne Goes Viral For Behavior At Paul Skenes' Game Wednesday - Yahoo Sports",
+      "link": "https://thespun.com/mlb/olivia-dunne-goes-viral-for-behavior-at-paul-skenes-game-wednesday"
     },
     {
       "title": "2025 NFL QB rankings, Week 4: Justin Herbert approaching throne, Daniel Jones enters top 10 - NFL.com",
       "link": "https://www.nfl.com/news/nfl-qb-rankings-index-week-4-2025-nfl-season"
     },
     {
+      "title": "Roger Goodell questions existence of Tom Brady conflict, despite existence of rules to address it - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-questions-existence-of-tom-brady-conflict-despite-existence-of-rules-to-address-it"
+    },
+    {
+      "title": "ESPN Get Up Bracing for Blowout in Vikings vs Steelers Game - Minnesota Sports Fan",
+      "link": "https://www.minnesotasportsfan.com/minnesota-vikings/espn-expecting-blowout-mn-vikings-steelers-dublin/"
+    },
+    {
       "title": "Travis Jones Returns to Practice, But Ravens Still Missing Key Blockers - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/ravens-injury-report-travis-jones-ronnie-stanley-broderick-washington-2025"
     },
     {
-      "title": "Jets' Aaron Glenn reacts after sideline celebration dance goes viral with Earth, Wind & Fire mash-ups - New York Post",
-      "link": "https://nypost.com/2025/09/25/sports/jets-aaron-glenn-reacts-after-sideline-celebration-dance-goes-viral-with-earth-wind-amp-fire-mash-ups/"
+      "title": "European soccer body UEFA moves toward vote to suspend Israel - AP News",
+      "link": "https://apnews.com/article/uefa-israel-soccer-58d19d619e326e8781416cc671ba68a4"
     },
     {
       "title": "The Opener: Raleigh, Schwarber, Red Sox, AL Central - MLB Trade Rumors",
@@ -124,50 +164,6 @@
     {
       "title": "Science Lab: \u2018Maybe\u2019 can\u2019t be a strategy for Cowboys' wins - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/science-lab-maybe-can-t-be-a-strategy-for-cowboys-wins"
-    },
-    {
-      "title": "Panthers' Barkov helped off ice after injuring leg - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/46377642/panthers-captain-aleksander-barkov-leg-needs-help-leaving-ice"
-    },
-    {
-      "title": "Eagles News: Baker Mayfield says Eagles traveling to Tampa early only hurts them - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/159548/eagles-news-baker-mayfield-says-eagles-traveling-to-tampa-early-only-hurts-them"
-    },
-    {
-      "title": "PFT\u2019s Week 4 2025 NFL picks: Florio vs. Simms - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2025-nfl-picks-florio-vs-simms"
-    },
-    {
-      "title": "Minnesota Wild Unveils 25th Anniversary Jersey and Theme Nights - NHL.com",
-      "link": "https://www.nhl.com/wild/news/minnesota-wild-unveils-25th-anniversary-jersey-and-theme-nights-092525"
-    },
-    {
-      "title": "'Leader' 'Cornerstone' - Rory McIlroy takes centre stage for Europe at Bethpage - Ryder Cup",
-      "link": "https://www.rydercup.com/news-media/rory-mcilroy-takes-centre-stage-for-europe-at-bethpage-black-ryder-cup"
-    },
-    {
-      "title": "2025 Week 4 Fantasy Football Rankings: TE, K, DEF - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-4-fantasy-football-rankings-te-k-def"
-    },
-    {
-      "title": "Roger Goodell: Teams don\u2019t have to tell Tom Brady anything if they think it\u2019s a conflict - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-teams-dont-have-to-tell-tom-brady-anything-if-they-think-its-a-conflict"
-    },
-    {
-      "title": "Shane Steichen: Matthew Stafford is probably one of the best to ever do it - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-matthew-stafford-is"
-    },
-    {
-      "title": "Robert Kraft agrees to sell New England Patriots minority stake in deal that values team at $9B - CNBC",
-      "link": "https://www.cnbc.com/2025/09/25/robert-kraft-agrees-to-sell-new-england-patriots-minority-stake-in-deal-that-values-team-at-9b.html"
-    },
-    {
-      "title": "Six Pack of college football picks, predictions: Penn State vs. Oregon, Alabama vs. Georgia in spotlight - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/the-six-pack-picks-for-penn-state-vs-oregon-alabama-vs-georgia-and-tom-fornellis-lock-for-week-5/"
-    },
-    {
-      "title": "Thursday Night Football Live Show: Seahawks at Cardinals - Establish The Run",
-      "link": "https://establishtherun.com/thursday-night-football-live-show-seahawks-at-cardinals/"
     }
   ],
   "weather": {
