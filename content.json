@@ -1,23 +1,19 @@
 {
-  "quote": "It doesn't matter how much you want. What really matters is how much you want it. \u2013 Ralph Marston",
-  "fact": "The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.",
-  "crypto": "BTC: $109,534 | ETH: $3,926.98",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "A cannibal is someone who is fed up with people.",
+  "quote": "Look to the beauty of this day, miracles are all around you. \u2013 Mary Engelbreit",
+  "fact": "The number \"four\" is considered unlucky in Japan because it is pronounced the same as \"death\".",
+  "crypto": "BTC: $109,602 | ETH: $3,937.07",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "When will the little snake arrive? I don't know but he won't be long...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
       "title": "\u2018Halloween: The Game\u2019 Stalks Consoles and PC Next September [Trailer] - Bloody Disgusting",
       "link": "https://bloody-disgusting.com/video-games/3902963/halloween-stalks-consoles-and-pc-next-september-trailer/"
-    },
-    {
-      "title": "Google just asked the Supreme Court to save it from the Epic ruling - The Verge",
-      "link": "https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling"
     },
     {
       "title": "Classic Cyberpunk RPG Deus Ex Is Being Remastered on PS5 in February 2026 - Push Square",
@@ -28,20 +24,24 @@
       "link": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-heres-one-big-reason-for-a-year-over-year-upgrade/"
     },
     {
-      "title": "Fire Emblem Shadows announced for smart devices, out today [update: launch trailer] - Nintendo Everything",
-      "link": "https://nintendoeverything.com/fire-emblem-shadows-announced-for-smart-devices-out-today/"
+      "title": "Nintendo\u2019s new Fire Emblem mobile game has an Among Us-style twist - The Verge",
+      "link": "https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us"
     },
     {
-      "title": "Google reveals its Android for PC is coming next year - The Verge",
-      "link": "https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year"
-    },
-    {
-      "title": "Qualcomm announces the Snapdragon 8 Elite Gen 5 - The Verge",
-      "link": "https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5"
+      "title": "Google's ChromeOS Will Combine With Android Next Year to Supercharge Big-Screen AI - CNET",
+      "link": "https://www.cnet.com/tech/services-and-software/googles-chromeos-will-combine-with-android-next-year-to-supercharge-big-screen-ai/"
     },
     {
       "title": "Console wars death watch: Microsoft Flight Simulator coming to PS5 in December - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a-sony-flight-simulator-on-ps5-this-december/"
+    },
+    {
+      "title": "Sony Adds Official Desktop Speakers to Its Increasingly Enormous Product Family - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/09/sony-adds-official-desktop-speakers-to-its-increasingly-enormous-product-family"
+    },
+    {
+      "title": "PlayStation State of Play September 2025: all the news and trailers - The Verge",
+      "link": "https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers"
     },
     {
       "title": "Here are our PS Plus monthly and catalogue games for October - Eurogamer",
@@ -60,46 +60,70 @@
       "link": "https://www.notebookcheck.net/Battlefield-6-Boss-says-she-owes-it-to-the-community-to-deliver-the-best-Battlefield-ever-after-2042-failure.1123262.0.html"
     },
     {
+      "title": "Qualcomm announces Snapdragon 8 Elite Gen 5 with 3rd-gen Oryon CPU, efficiency gains - 9to5Google",
+      "link": "http://9to5google.com/2025/09/24/snapdragon-8-elite-gen-5/"
+    },
+    {
       "title": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms - TechCrunch",
       "link": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/"
-    },
-    {
-      "title": "YouTube now lets you hide recommendation pop-ups at the end of videos - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/24/youtube-now-lets-you-hide-recommendation-pop-ups-at-the-end-of-videos/"
-    },
-    {
-      "title": "Apple Seeds First Public Betas of iOS 26.1, iPadOS 26.1 and macOS Tahoe 26.1 - MacRumors",
-      "link": "https://www.macrumors.com/2025/09/24/apple-releases-ios-26-1-public-beta-1/"
     },
     {
       "title": "Black Ops 7 will get a new Zombies map with every seasonal update - Dexerto",
       "link": "https://www.dexerto.com/call-of-duty/every-black-ops-7-season-brings-a-new-zombies-map-3256298/"
     },
     {
-      "title": "Video: Hades 2 Casts A Spell Over Us On Switch 1 & 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/video-hades-2-casts-a-spell-over-us-on-switch-1-and-2"
+      "title": "Public betas for iPadOS 26.1, tvOS 26.1, more add these new features - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/24/public-betas-for-ipados-26-1-tvos-26-1-more-add-these-new-features/"
+    },
+    {
+      "title": "Tired of 5G? Qualcomm Says 6G Will Be Here Before the End of the World - Gizmodo",
+      "link": "https://gizmodo.com/qualcomm-6g-estimated-2028-arrival-2000663048"
     }
   ],
   "sports_news": [
     {
-      "title": "Cal Raleigh hits home run No. 60! A monthly breakdown of the slugger's historic 2025 campaign - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46346548/mlb-2025-cal-raleigh-mariners-60-home-runs-record-history"
+      "title": "Colorado Rockies vs. Seattle Mariners Results, Stats, and Recap - September 24, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20250924_COL@SEA/"
+    },
+    {
+      "title": "Inter Miami: Lionel Messi makes more history in NYCFC domination - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/inter-miami-lionel-messi-makes-more-history-in-nycfc-domination"
     },
     {
       "title": "Cubs Hoping To Reinstate Kyle Tucker On Friday; Daniel Palencia Reinstated Today - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/09/cubs-hoping-to-reinstate-kyle-tucker-on-friday-daniel-palencia-reinstated-today.html"
     },
     {
+      "title": "Big Ten Announces Discover Volleyball Challenge - University of Nebraska - Official Athletics Website - huskers.com",
+      "link": "https://huskers.com/news/2025/09/24/big-ten-announces-discover-volleyball-challenge"
+    },
+    {
       "title": "Raheem Morris: Michael Penix is our guy - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-mike-penix-is-our-guy"
+    },
+    {
+      "title": "Lions-Ravens averages 22.8 million viewers for Week 3 Monday night - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-ravens-averages-22-8-million-viewers-for-week-3-monday-night"
     },
     {
       "title": "Eberechi Eze on first goal: \"It's a special day\" | Interview | News - Arsenal.com",
       "link": "https://www.arsenal.com/news/eberechi-eze-first-goal-its-special-day"
     },
     {
+      "title": "Something\u2019s missing in Brian Daboll\u2019s explanation for Giants turning to Jaxson Dart - New York Post",
+      "link": "https://nypost.com/2025/09/24/sports/somethings-missing-in-brian-dabolls-explanation-for-giants-turning-to-jaxson-dart/"
+    },
+    {
       "title": "Florida State and Virginia issue their first availability reports for Friday's game - 247Sports",
       "link": "https://247sports.com/college/florida-state/longformarticle/florida-state-and-virginia-issue-their-first-availability-reports-for-fridays-game-254530853/"
+    },
+    {
+      "title": "Mets Designate Jose Siri for Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/09/mets-designate-jose-siri-for-assignment.html"
+    },
+    {
+      "title": "NOTEBOOK: Lions preparing for tough test in Browns' defense - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/notebook-lions-preparing-for-tough-test-in-browns-defense"
     },
     {
       "title": "Nationals set to name Paul Toboni as head of baseball operations - The Washington Post",
@@ -110,56 +134,32 @@
       "link": "https://sports.yahoo.com/nfl/breaking-news/article/drew-brees-larry-fitzgerald-philip-rivers-among-13-first-time-nominees-for-pro-football-hall-of-fame-who-will-get-in-231215274.html"
     },
     {
-      "title": "Ravens' concern grows after ruling out Madubuike - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46370410/ravens-nnamdi-madubuike-vs-chiefs-neck-injury"
+      "title": "Seahawks-Cardinals: Seattle Times staff\u2019s score predictions for Week 4 - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-cardinals-seattle-times-staffs-score-predictions-for-week-4/"
     },
     {
       "title": "About Last Night: Josh Naylor stakes his claim - Lookout Landing",
       "link": "https://www.lookoutlanding.com/about-last-night/134776/about-last-night-josh-naylor-stakes-his-claim"
     },
     {
+      "title": "Seahawks get back key pieces of secondary for Cardinals game - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-news/151215/seahawks-injury-report-julian-love-devon-witherspoon-play-vs-cardinals"
+    },
+    {
       "title": "Enhanced Ryder Cup Spectator Security Procedures for Presidential Visit on Friday, September 26 - Ryder Cup",
       "link": "https://www.rydercup.com/news-media/enhanced-ryder-cup-spectator-security-procedures-for-presidential-visit"
     },
     {
+      "title": "J.J. McCarthy, Andrew Van Ginkel out of practice for Vikings - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-andrew-van-ginkel-out-of-practice-for-vikings"
+    },
+    {
+      "title": "Nnamdi Madubuike Won\u2019t Play in Kansas City, Ravens Have Long-Term Concerns - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/nnamdi-madubuike-neck-injury-long-term-concerns-kansas-city-ravens-2025"
+    },
+    {
       "title": "WHOA: Zion Williamson Showed Up to Pelicans Camp Looking WAY Different - Bleacher Nation",
       "link": "https://www.bleachernation.com/bulls/2025/09/24/zion-williamson-body/"
-    },
-    {
-      "title": "Micah Parsons: Cowboys might have hard feelings, but I don\u2019t - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-cowboys-might-have-hard-feelings-but-there-are-none-from-me"
-    },
-    {
-      "title": "Tigers\u2019 Tarik Skubal earns praise from Guardians\u2019 Stephen Vogt after visiting injured David Fry in hospital - Cleveland.com",
-      "link": "https://www.cleveland.com/guardians/2025/09/tigers-tarik-skubal-earns-praise-from-guardians-stephen-vogt-after-visiting-injured-david-fry-in-hospital.html"
-    },
-    {
-      "title": "Brian Callahan: Jarvis Brownlee trade not a sign of a Titans fire sale - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-callahan-jarvis-brownlee-trade-not-a-sign-of-a-titans-fire-sale"
-    },
-    {
-      "title": "Week 4 Injury Report: Patriots vs. Panthers - New England Patriots",
-      "link": "https://www.patriots.com/news/week-4-injury-report-patriots-vs-panthers"
-    },
-    {
-      "title": "Eagles will go to Tampa a day early to \"acclimate\" to the heat - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-will-go-to-tampa-a-day-early-to-acclimate-to-the-heat"
-    },
-    {
-      "title": "Week 4 opponent: What the Browns are saying - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/week-4-opponent-what-the-browns-are-saying-stefanski-flacco-jeudy"
-    },
-    {
-      "title": "4 trade options for the 49ers to help supplement the loss of Nick Bosa - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/150663/4-trade-options-for-the-49ers-to-help-supplement-the-loss-of-nick-bosa"
-    },
-    {
-      "title": "Cleveland Guardians, Detroit Tigers starting lineups for Sept. 24, 2025: Game 158 - Cleveland.com",
-      "link": "https://www.cleveland.com/guardians/2025/09/cleveland-guardians-detroit-tigers-starting-lineups-for-sept-24-2025-game-158.html"
-    },
-    {
-      "title": "BYU has plenty to work on entering Big 12 play at Colorado - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/09/24/byu-cougars-big-12-opener-colorado-buffaloes-big-test/"
     }
   ],
   "weather": {
