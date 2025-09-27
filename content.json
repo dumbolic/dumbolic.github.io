@@ -1,9 +1,9 @@
 {
-  "quote": "I cannot make my days longer so I strive to make them better. \u2013 Henry David Thoreau",
-  "fact": "Mr. Rogers is an ordained minister.",
-  "crypto": "BTC: $109,377 | ETH: $4,020.8",
+  "quote": "The more perfect a person is on the outside, the more demons they have on the inside. \u2013 Sigmund Freud",
+  "fact": "Average number of people airborne over the US any given hour: 61,000.",
+  "crypto": "BTC: $109,273 | ETH: $4,004.35",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did the left eye say to the right eye? Between us, something smells!",
+  "joke": "What do you call a pig that knows karate? A pork chop!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "The New Raspberry Pi 500+: Better Gaming With Less Soldering Required - Hackaday",
-      "link": "https://hackaday.com/2025/09/25/the-new-raspberry-pi-500-better-gaming-with-less-soldering-required/"
+      "title": "ROG Xbox Ally Pre-Orders: Live Stock Updates And Latest News - empireonline.com",
+      "link": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/"
+    },
+    {
+      "title": "Apple Responds to U.S. Class Action Lawsuit Over Delayed Siri Features - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/26/apple-responds-to-delayed-siri-features-lawsuit/"
+    },
+    {
+      "title": "Raspberry Pi upgraded its keyboard computer with mechanical switches and SSD storage - The Verge",
+      "link": "https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd"
+    },
+    {
+      "title": "$2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its Backers - Kotaku",
+      "link": "https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155"
+    },
+    {
+      "title": "Rocket Report: Keeping up with Kuiper; New Glenn\u2019s second flight slips - Ars Technica",
+      "link": "https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/"
+    },
+    {
+      "title": "\"Apple's Camera Knows Where You're Looking\": iPhone 17 Tracks Your Face While Video Calls Become Surveillance Tools Without Warning - Rude Baguette",
+      "link": "https://www.rudebaguette.com/en/2025/09/apples-camera-knows-where-youre-looking-iphone-17-tracks-your-face-while-video-calls-become-surveillance-tools-without-warning/"
+    },
+    {
+      "title": "Friday Night Baseball to feature footage shot on iPhone cameras, a first for a live sports broadcast - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/26/iphone-17-pro-mlb-friday-night-baseball/"
+    },
+    {
+      "title": "Microsoft agrees to 11th hour Win 10 end of life concessions - theregister.com",
+      "link": "https://www.theregister.com/2025/09/26/not_in_eu_and_want/"
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 5 is world's first chip to use Samsung's APV codec - SamMobile",
+      "link": "https://www.sammobile.com/news/snapdragon-8-elite-gen-5-world-first-chip-samsung-apv-codec/"
+    },
+    {
+      "title": "Doug Bowser to retire, Devon Pritchard to succeed as Nintendo of America president - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/doug-bowser-to-retire-devon-pritchard-to-succeed-as-nintendo-of-america-president"
     },
     {
       "title": "OpenAI unveils ChatGPT \u2018Pulse\u2019 \u2014 Could it help you trade crypto? - Cointelegraph",
       "link": "https://cointelegraph.com/news/openai-launches-chatgpt-pulse-help-crypto-traders"
     },
     {
-      "title": "Xbox Ally Prices Revealed: Handheld Console Will Cost Up to $1,000 - Variety",
-      "link": "https://variety.com/2025/digital/news/xbox-ally-prices-revealed-handheld-1236529475/"
-    },
-    {
-      "title": "Nintendo of America President Doug Bowser Steps Down - Variety",
-      "link": "https://variety.com/2025/gaming/news/nintendo-doug-bowser-exits-president-1236529655/"
+      "title": "Costco reportedly comments on removing Xbox stock - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/costco-reportedly-comments-on-removing-xbox-stock-we-dont-have-any-plans-going-forward-to-carry-an-xbox-console"
     },
     {
       "title": "Viral call-recording app Neon goes dark after exposing users' phone numbers, call recordings, and transcripts - TechCrunch",
@@ -36,16 +68,8 @@
       "link": "http://9to5google.com/2025/09/25/pixel-buds-2-pro-update-sept-25/"
     },
     {
-      "title": "iPhone 17 Pro cameras reviewed by Halide creator Lux - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/25/iphone-17-pro-cameras-reviewed-by-halide-creator-lux/"
-    },
-    {
-      "title": "'100 times faster than human thought.' Meet the Snapdragon laptop built for agentic AI - pcworld.com",
-      "link": "https://www.pcworld.com/article/2921466/humain-launches-horizon-pro-an-agentic-laptop.html"
-    },
-    {
-      "title": "Gemini app updates 2.5 Flash with better response formatting, image understanding - 9to5Google",
-      "link": "http://9to5google.com/2025/09/25/gemini-2-5-flash-update-sep-2025/"
+      "title": "This Dedicated AI Laptop From Humain and Qualcomm Is Like No PC I've Ever Seen Before - cnet.com",
+      "link": "https://www.cnet.com/tech/computing/this-dedicated-ai-laptop-from-humain-and-qualcomm-is-like-no-pc-ive-ever-seen-before/"
     },
     {
       "title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
@@ -54,14 +78,6 @@
     {
       "title": "Fire Emblem Shadows impressions: The hottest of hot messes - Polygon",
       "link": "https://www.polygon.com/fire-emblem-shadows-impressions/"
-    },
-    {
-      "title": "OnePlus devices have a big SMS vulnerability, but a patch is finally on the way - 9to5Google",
-      "link": "http://9to5google.com/2025/09/25/oneplus-devices-have-a-big-sms-vulnerability-but-a-patch-is-finally-on-the-way/"
-    },
-    {
-      "title": "The Subaru BRZ Is $5,000 More Than The Toyota GR86 For\u2026 Reasons - The Autopian",
-      "link": "https://www.theautopian.com/subaru-brz-is-5000-more-expensive-than-toyota-gr86/"
     },
     {
       "title": "OnePlus 15 unveiled \u2014 confirming key details and US launch - Android Central",
@@ -74,18 +90,6 @@
     {
       "title": "Google DeepMind unveils new robotics AI model that can sort laundry - Financial Times",
       "link": "https://www.ft.com/content/7843dfdb-7c60-46e7-a90a-dd54b7703f4a"
-    },
-    {
-      "title": "AirPods 4 vs. AirPods Pro 3 Buyer's Guide: 25 Differences Compared - MacRumors",
-      "link": "https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/"
-    },
-    {
-      "title": "Apple claims MagSafe stands are responsible for iPhone 17 'Scratchgate' - Mashable",
-      "link": "https://mashable.com/article/apple-iphone-17-scratchgate-response-magsafe-stands"
-    },
-    {
-      "title": "Reviewing iOS 26 for power users: Reminders, Preview, and more - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/"
     }
   ],
   "sports_news": [
@@ -94,8 +98,48 @@
       "link": "https://www.cbssports.com/golf/news/ryder-cup-2025-live-updates-results-scores-standings-day-1/live/"
     },
     {
-      "title": "Seattle Seahawks kick last-second field goal to stave off fourth-quarter comeback from Arizona Cardinals - CNN",
-      "link": "https://www.cnn.com/2025/09/26/sport/football-seahawks-cardinals-week-4-intl"
+      "title": "Wilks jabs Baker back for 'cut me in Carolina' take - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46387838/jets-wilks-jabs-back-mayfield-cut-carolina-claim"
+    },
+    {
+      "title": "Commanders\u2019 Jayden Daniels, Terry McLaurin not on the practice field - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-jayden-daniels-terry-mclaurin-not-on-the-practice-field"
+    },
+    {
+      "title": "Cowboys were the first defense not to sack Caleb Williams in his NFL career - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-were-the-first-defense-not-to-sack-caleb-williams-in-his-nfl-career"
+    },
+    {
+      "title": "Soccer-Trump says he would consider relocating World Cup matches - Yahoo",
+      "link": "https://www.yahoo.com/news/articles/soccer-trump-says-consider-relocating-141341658.html"
+    },
+    {
+      "title": "Kyler Murray falls to 2-9 vs. Seahawks, with eight straight losses - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-falls-to-2-9-vs-seahawks-with-eight-straight-losses"
+    },
+    {
+      "title": "2025 MLB Playoff Picture, Bracket Heading into Final Weekend of the Season - FOX Sports",
+      "link": "https://www.foxsports.com/stories/mlb/2025-mlb-playoff-picture-bracket-heading-final-weekend-season"
+    },
+    {
+      "title": "Fantasy Football Week 4: 49ers vs. Jaguars, Jets vs. Dolphins, and other matchups to exploit - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-4-49ers-vs-jaguars-jets-vs-dolphins-and-other-matchups-to-exploit"
+    },
+    {
+      "title": "Sean Payton wants Bo Nix to \"just keep firing\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-wants-bo-nix-to-just-keep-firing"
+    },
+    {
+      "title": "6 keys to a Detroit Lions\u2019 victory over the Cleveland Browns - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/143218/6-keys-detroit-lions-victory-over-cleveland-browns-week-4-preview"
+    },
+    {
+      "title": "Players should not be put at avoidable risk - PFA - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c20e5ejvd2no"
+    },
+    {
+      "title": "Wetzel: Mike Gundy dug in his heels and got left behind - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46380715/osu-mike-gundy-dug-heels-got-left-behind"
     },
     {
       "title": "Kyler Murray on Marvin Harrison Jr.: Love the way he fought back - NBC Sports",
@@ -106,64 +150,28 @@
       "link": "https://www.nbcnews.com/sports/mlb/cleveland-indians-detroit-tigers-comeback-mlb-playoffs-rcna233759"
     },
     {
+      "title": "Key Matchups, Predictions for Eagles-Bucs, Rest of NFL\u2019s Biggest Week 4 Games - Sports Illustrated",
+      "link": "https://www.si.com/nfl/key-matchups-predictions-eagles-bucs-biggest-week-4-games"
+    },
+    {
+      "title": "Giants news, 9/26: Nabers returns to practice, Jaxson Dart, Mike Kafka, more headlines - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-news/138044/giants-news-9-26-nabers-returns-to-practice-jaxson-dart-mike-kafka-more-headlines"
+    },
+    {
       "title": "Kenny Clark has multiple former teammates asking to swap jerseys after Packers-Cowboys game - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenny-clark-has-multiple-former-teammates-asking-to-swap-jerseys-after-packers-cowboys-game"
     },
     {
-      "title": "Donald Trump\u2019s sports-focused second term makes its most appropriate stop at the Ryder Cup and Bethpage Black - CNN",
-      "link": "https://www.cnn.com/2025/09/26/sport/golf-donald-trump-ryder-cup"
+      "title": "MLB Notebook: Ranking Red Sox potential first-round opponents; a look at possible postseason roster - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/09/mlb-notebook-ranking-red-sox-potential-first-round-opponents-a-look-at-possible-postseason-roster.html"
     },
     {
-      "title": "Donald Trump: US president will move World Cup matches from 'unsafe' host cities - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/czdjqvyvdd1o"
+      "title": "Watch: The Ryder Cup First Tee at Bethpage Is Already a Scene - Ryder Cup",
+      "link": "https://www.rydercup.com/news-media/watch-the-ryder-cup-first-tee-at-bethpage-is-already-a-scene"
     },
     {
       "title": "Mariners fan praised for giving away Cal Raleigh\u2019s historic home run ball to child \u2014 weeks after viral Phillies outrage: \u2018Always be kind\u2019 - New York Post",
       "link": "https://nypost.com/2025/09/26/sports/mariners-fan-praised-for-giving-away-cal-raleighs-historic-home-run-ball-to-child-weeks-after-viral-phillies-moment-always-be-kind/"
-    },
-    {
-      "title": "How Tigers' Win Over Guardians, Red Sox' Loss to Blue Jays Impacts AL Playoff Picture - Sports Illustrated",
-      "link": "https://www.si.com/mlb/how-tigers-win-over-guardians-red-sox-loss-to-blue-jays-impacts-al-playoff-picture"
-    },
-    {
-      "title": "Tua Tagovailoa claps back at Cam Newton\u2019s scathing assessment of Dolphins QB - New York Post",
-      "link": "https://nypost.com/2025/09/25/sports/tua-tagovailoa-fires-back-at-cam-newtons-comments/"
-    },
-    {
-      "title": "Mariners clinch top-2 seed in playoffs, spot in ALDS - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-clinch-top-2-seed-playoffs/1823414"
-    },
-    {
-      "title": "5 takeaways from Celtics press conference with new ownership group - Boston.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2dsNjk5QTV6XzVUZlpGelNZN2NGS2dxTm9KbEI4MWl6TVZiWjdrb1RMTXVDMDkyTVN3MlZHNWN3YlFYaUIyWUUtbzdwSTR6WVIxTDhhd21oeUVGbGo3MUo4eGxiMmRyeTFNOXFZeEZlbmx4djAzQm1JR0stVDA3Y255bGpFbUlpY0wxVE91YTh1SXFrZjZUajI0LW1jdnlHc2N0QV9CNWVkQTZZN0MzZE9PTEbSAbwBQVVfeXFMT19oM09qUlp5bnpNdlZDT3pMSkpQaWhKUUNURm82d2ZRX1JTOHpZMXh4S3RGQjhVZHdYbTkxWmgzYVdjMzhlTjQxVEVaQk5rU2RqUEEtX2d6cGdFWEhlUmFKdUhHeHF4M1l5WXJELUlLNVpuZmNsb19QTHJvVDZVeE1kbVR5ZTdpQkpYU3FjZ0xjWERMSUl4MllQS09OMzdmQmgzM3JMT0NrOHRjVGRObG5ULWtBSllSeUxTLXY?oc=5"
-    },
-    {
-      "title": "Pelinka and Redick Share 2025-26 Excitement - NBA",
-      "link": "https://lakers.com/news/pelinka-and-redick-share-2025-26-excitement"
-    },
-    {
-      "title": "United States Wins 2025 Junior Ryder Cup Over Europe - Ryder Cup",
-      "link": "https://www.rydercup.com/news-media/united-states-wins-junior-ryder-cup-over-europe"
-    },
-    {
-      "title": "Ex-Giants QB says team \u2018did the right thing\u2019 with current QB decision - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-news/138041/ex-giants-qb-says-team-did-the-right-thing-with-current-qb-decision"
-    },
-    {
-      "title": "Tristan Wirfs fully participates in practice, Chris Godwin takes the day off - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-fully-participates-in-practice-chris-godwin-takes-the-day-off"
-    },
-    {
-      "title": "Eagles-Bucs Game Preview: 5 questions and answers with the Week 4 enemy - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/eagles-game-preview/159604/eagles-bucs-game-preview-5-questions-and-answers-with-the-week-4-enemy"
-    },
-    {
-      "title": "Three things I think, three things I know about FSU football ahead of their first road test at UVA - 247Sports",
-      "link": "https://247sports.com/college/florida-state/longformarticle/three-things-i-think-three-things-i-know-about-fsu-football-ahead-of-their-first-road-test-at-uva-254552622/"
-    },
-    {
-      "title": "Inside the new ball security drills coaches implemented for Patriots RBs - MassLive",
-      "link": "https://www.masslive.com/patriots/2025/09/inside-the-new-ball-security-drills-coaches-implemented-for-patriots-rbs.html"
     }
   ],
   "weather": {
