@@ -1,9 +1,9 @@
 {
-  "quote": "Either you choose to stay in the shallow end of the pool or you go out into the ocean. \u2013 Christopher Reeve",
-  "fact": "On average, 100 people choke to death on ball-point pens every year.",
-  "crypto": "BTC: $109,679 | ETH: $4,031.34",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
+  "quote": "The only place success comes before work is in the dictionary. \u2013 Vince Lombardi",
+  "fact": "It is illegal to eat oranges while bathing in California.",
+  "crypto": "BTC: $109,544 | ETH: $4,021.6",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the fish say when it swam into a wall? Damn!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Microsoft and Asus open Xbox Ally preorders \u2014 the X costs $999 - The Verge",
+      "link": "https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder"
+    },
     {
       "title": "Nvidia is letting anyone use its AI voice animation tech - The Verge",
       "link": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source"
@@ -32,10 +36,6 @@
       "link": "https://9to5mac.com/2025/09/25/iphone-17-pro-cameras-reviewed-by-halide-creator-lux/"
     },
     {
-      "title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
-      "link": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal"
-    },
-    {
       "title": "Fire Emblem Shadows impressions: The hottest of hot messes - Polygon",
       "link": "https://www.polygon.com/fire-emblem-shadows-impressions/"
     },
@@ -44,24 +44,24 @@
       "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition"
     },
     {
-      "title": "Pixel Call Recording reappears for some users including in US, UK - 9to5Google",
-      "link": "http://9to5google.com/2025/09/25/pixel-call-recording-appears-on-some-devices/"
+      "title": "TCL is finally bringing NXTPAPER to an 8-inch Android tablet, available today for $199 - 9to5Google",
+      "link": "http://9to5google.com/2025/09/25/tcl-tab-8-nxtpaper-android-tablet-launch-price/"
     },
     {
       "title": "OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch",
       "link": "https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/"
     },
     {
-      "title": "It's Nearly Here: Where To Look For The ROG Xbox Ally With Launch Day Approaching - empireonline.com",
-      "link": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/"
-    },
-    {
-      "title": "Does Your New iPhone 17 Have Scratches? Apple Says Do This to Fix It - PCMag",
-      "link": "https://www.pcmag.com/news/does-your-new-iphone-17-have-scratches-apple-says-do-this-to-fix-it"
+      "title": "Saros Lead Says Role Is \u2018One Of The Best Moments\u2019 Of His Life - Kotaku",
+      "link": "https://kotaku.com/saros-ps5-housemarque-rahul-kohli-arjun-devraj-actor-2000628800"
     },
     {
       "title": "AirPods 4 vs. AirPods Pro 3 Buyer's Guide: 25 Differences Compared - MacRumors",
       "link": "https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/"
+    },
+    {
+      "title": "Apple claims MagSafe stands are responsible for iPhone 17 'Scratchgate' - Mashable",
+      "link": "https://mashable.com/article/apple-iphone-17-scratchgate-response-magsafe-stands"
     },
     {
       "title": "\u2018Ghost of Yotei\u2019 sharpens the samurai revenge formula with raw feeling - The Washington Post",
@@ -70,10 +70,6 @@
     {
       "title": "Reviewing iOS 26 for power users: Reminders, Preview, and more - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/"
-    },
-    {
-      "title": "Samsung will copy and improve on Pixel's Quick Settings with next major Galaxy update [Video] - 9to5Google",
-      "link": "http://9to5google.com/2025/09/25/samsung-galaxy-quick-settings-update-one-ui-8-5/"
     },
     {
       "title": "Billionaire Xiaomi Founder Unveils a $630 Answer to iPhone 17 - Bloomberg.com",
@@ -86,28 +82,40 @@
     {
       "title": "Mega Evolution Brings Mega Might to Pok\u00e9mon TCG Live - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/mega-evolution-brings-mega-might-to-pokemon-tcg-live"
+    },
+    {
+      "title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5 - 9to5Google",
+      "link": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/"
     }
   ],
   "sports_news": [
     {
-      "title": "Cardinals vs. Seahawks live updates: Score, analysis, highlights for 'Thursday Night Football' - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/cardinals-vs-seahawks-live-updates-score-highlights-thursday-night-football/live/"
+      "title": "Tua Tagovailoa claps back at Cam Newton\u2019s scathing assessment of Dolphins QB - New York Post",
+      "link": "https://nypost.com/2025/09/25/sports/tua-tagovailoa-fires-back-at-cam-newtons-comments/"
+    },
+    {
+      "title": "Live: Updates: Emmanwori inactive, Charbonnet active as Seahawks visit Cardinals - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-cardinals-live-updates-score-how-to-watch-thursday-night-football/"
     },
     {
       "title": "Tristan Wirfs fully participates in practice, Chris Godwin takes the day off - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-fully-participates-in-practice-chris-godwin-takes-the-day-off"
     },
     {
-      "title": "Eagles Injury Report: Good news for the bald Eagles - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/159556/eagles-injury-report-good-news-for-the-bald-eagles"
-    },
-    {
-      "title": "Patriots owner Robert Kraft selling minority stake in franchise - The Boston Globe",
-      "link": "https://www.bostonglobe.com/2025/09/25/sports/patriots-minority-sale-sixth-street/"
+      "title": "John Morton, Jim Schwartz disagree on whether Browns have faced run game like Lions - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-morton-jim-schwartz-disagree-on-whether-browns-have-faced-run-game-like-lions"
     },
     {
       "title": "Ryder Cup pairings: Bryson DeChambeau, Justin Thomas team up for Friday morning foursomes - NBC Sports",
       "link": "https://www.nbcsports.com/golf/news/ryder-cup-2025-pairings-starting-times-friday-morning-foursomes"
+    },
+    {
+      "title": "Jaxson Dart\u2019s first start has New York Giants OC Mike Kafka excited - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-transcripts/138030/jaxson-darts-first-start-has-new-york-giants-oc-mike-kafka-excited"
+    },
+    {
+      "title": "Former Arsenal soccer player Billy Vigar dead at 21 after suffering brain injury during game - New York Post",
+      "link": "https://nypost.com/2025/09/25/sports/billy-vigar-dead-at-21-after-suffering-brain-injury-during-game/"
     },
     {
       "title": "Tony Petitti\u2019s Power Move Failed, but CFP Expansion Drama Is Likely Far From Over - Sports Illustrated",
@@ -118,8 +126,12 @@
       "link": "https://247sports.com/college/florida-state/longformarticle/three-things-i-think-three-things-i-know-about-fsu-football-ahead-of-their-first-road-test-at-uva-254552622/"
     },
     {
-      "title": "6 takeaways from Detroit Lions coordinators for Browns week - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/143337/6-takeaways-from-detroit-lions-coordinators-for-browns-week"
+      "title": "John Mateer injury update: Oklahoma QB reveals outcome of surprise surgery - On3",
+      "link": "https://www.on3.com/college/oklahoma-sooners/news/john-mateer-injury-update-oklahoma-qb-reveals-outcome-of-surprise-surgery/"
+    },
+    {
+      "title": "\u2018You\u2019re trying to birdie almost every hole': This won\u2019t be the Bethpage Black we\u2019re used to - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/youre-trying-to-birdie-almost-every-hole-this-wont-be-the-bethpage-black-were-used-to"
     },
     {
       "title": "$3,000, 12 hours, 3 flights, 1 rental car: What Oregon superfans will endure to see big game at Penn State - OregonLive.com",
@@ -146,24 +158,12 @@
       "link": "https://www.baltimoreravens.com/news/ravens-injury-report-travis-jones-ronnie-stanley-broderick-washington-2025"
     },
     {
+      "title": "Boston Bruins Name Zdeno Chara Hockey Operations Advisor and Mentor - NHL.com",
+      "link": "https://www.nhl.com/bruins/news/boston-bruins-name-zdeno-chara-hockey-operations-advisor-and-mentor"
+    },
+    {
       "title": "European soccer body UEFA moves toward vote to suspend Israel - AP News",
       "link": "https://apnews.com/article/uefa-israel-soccer-58d19d619e326e8781416cc671ba68a4"
-    },
-    {
-      "title": "The Opener: Raleigh, Schwarber, Red Sox, AL Central - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/09/the-opener-raleigh-schwarber-red-sox-al-central.html"
-    },
-    {
-      "title": "NFL Week 4 fantasy sleepers: 3 favorable matchups in Packers-Cowboys; 3 RBs with upside - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-week-4-fantasy-sleepers-3-favorable-matchups-in-packers-cowboys-3-rbs-with-upside"
-    },
-    {
-      "title": "Illini injury update: Clarke, Bailey and Resetich all practice leading into USC game - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-football-injury-report-usc-trojans-254551394/"
-    },
-    {
-      "title": "Science Lab: \u2018Maybe\u2019 can\u2019t be a strategy for Cowboys' wins - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/science-lab-maybe-can-t-be-a-strategy-for-cowboys-wins"
     }
   ],
   "weather": {
