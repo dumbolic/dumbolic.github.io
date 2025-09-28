@@ -1,9 +1,9 @@
 {
-  "quote": "I like the dreams of the future better than the history of the past. \u2013 Thomas Jefferson",
-  "fact": "One in ten people live on an island.",
-  "crypto": "BTC: $109,516 | ETH: $4,006.1",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How do the trees get on the internet? They log on.",
+  "quote": "Successful people are not without problems. They're simply people who've learned to solve their problems. \u2013 Earl Nightingale",
+  "fact": "The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.",
+  "crypto": "BTC: $109,531 | ETH: $4,004.75",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why can't eggs have love? They will break up too soon.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
-      "link": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/"
+      "title": "Woman hospitalized with pain and vomiting\u2014diet soda cured her - Ars Technica",
+      "link": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/"
     },
     {
-      "title": "Secret Lair: Secret Scare Superdrop - Magic: The Gathering",
-      "link": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop"
+      "title": "Secret Lair: The PlayStation\u00ae Superdrop - Magic: The Gathering",
+      "link": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop"
+    },
+    {
+      "title": "Game over for pure LLMs. Even Turing Award Winner Rich Sutton has gotten off the bus. - Marcus on AI",
+      "link": "https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing"
+    },
+    {
+      "title": "Microsoft Photos will soon auto-categorize your pictures - The Verge",
+      "link": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test"
     },
     {
       "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
@@ -28,10 +36,6 @@
       "link": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/"
     },
     {
-      "title": "Costco is already selling piles of Lego Game Boys cheaper than the Lego company - The Verge",
-      "link": "https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early"
-    },
-    {
       "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
       "link": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed"
     },
@@ -40,8 +44,12 @@
       "link": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/"
     },
     {
-      "title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri"
+      "title": "Apple Testing LLM Siri With ChatGPT-Like App - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/26/apple-llm-siri-app/"
+    },
+    {
+      "title": "FF7 Remake\u2019s Third Chapter Is \u2018Going Extremely Well\u2019 - Kotaku",
+      "link": "https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254"
     },
     {
       "title": "Xiaomi's Newest Phone Sports a Rear Display and Skips a Number to Take Aim at iPhone 17 - IGN",
@@ -50,6 +58,22 @@
     {
       "title": "Final Fantasy Tactics \u2013 The Ivalice Chronicles Review - A Historic Undertaking - Game Informer",
       "link": "https://gameinformer.com/review/final-fantasy-tactics-the-ivalice-chronicles/a-historic-undertaking"
+    },
+    {
+      "title": "AJ McCarron shares how Bengals saved money with \u201cgarage sale\u201d - Cincy Jungle",
+      "link": "https://www.cincyjungle.com/cincinnati-bengals-news/175829/cincinnati-bengals-cheap-aj-mccaarron-garage-sale"
+    },
+    {
+      "title": "The Video-Game Industry Has a Problem: There Are Too Many Games - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2025-09-26/the-video-game-industry-has-a-problem-there-are-too-many-games"
+    },
+    {
+      "title": "\"This Game Is Finally Dying\": Destiny 2 Steam Player Count Drops Over 80% Since Edge of Fate Launch as Players Say the Game Is \"Punishing\" and \"Ridiculously Hard\" - The Game Post",
+      "link": "https://thegamepost.com/dying-destiny-2-steam-player-count-edge-of-fate/"
+    },
+    {
+      "title": "GeForce RTX 5080 now 10% below MSRP, RTX 5070 and 5060 Ti down 13\u201314% at MicroCenter - VideoCardz.com",
+      "link": "https://videocardz.com/newz/geforce-rtx-5080-now-10-below-msrp-rtx-5070-and-5060-ti-down-13-14-at-microcenter"
     },
     {
       "title": "Silksong patch made a bunch of sneaky changes it didn't tell you about - Polygon",
@@ -62,80 +86,72 @@
     {
       "title": "Head Magic: The Gathering Designer Apologizes For Misogynistic Card From 27 Years Ago - Kotaku",
       "link": "https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-2000629186"
-    },
-    {
-      "title": "Is the Apple Watch SE 3 a good deal? - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/26/is-the-apple-watch-se-3-a-good-deal/"
-    },
-    {
-      "title": "ROG Xbox Ally Pre-Orders: Live Stock Updates And Latest News - empireonline.com",
-      "link": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/"
-    },
-    {
-      "title": "Hades 2 Dev On How It Will Choose Next Game And Major Industry Issues - GameSpot",
-      "link": "https://www.gamespot.com/articles/hades-2-dev-on-how-it-will-choose-next-game-and-major-industry-issues/1100-6535044/"
-    },
-    {
-      "title": "$2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its Backers - Kotaku",
-      "link": "https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155"
-    },
-    {
-      "title": "Rocket Report: Keeping up with Kuiper; New Glenn\u2019s second flight slips - Ars Technica",
-      "link": "https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/"
-    },
-    {
-      "title": "2026 LEXUS LS: A HOMAGE TO THE ORIGINAL - Lexus USA Newsroom",
-      "link": "https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/"
-    },
-    {
-      "title": "Apple TV+ Brings Secret Weapon to Its MLB Broadcasts - Sportico.com",
-      "link": "https://www.sportico.com/business/tech/2025/apple-iphone-camera-mlb-broadcast-quality-video-1234872106/"
     }
   ],
   "sports_news": [
     {
-      "title": "MLB\u2019s six-month roller coaster careens toward an unknowable ending - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/09/26/mlb-playoffs-who-will-make-postseason/"
+      "title": "Pro Golfer Jake Knapp\u2019s Girlfriend, Makena White, Dies at 28 - Taste of Country",
+      "link": "https://tasteofcountry.com/jake-knapp-girlfriend-makena-white-dead/"
+    },
+    {
+      "title": "SNY announcers eviscerate Mets for ugly inning in disastrous loss to Marlins: \u2018Backwards march\u2019 - New York Post",
+      "link": "https://nypost.com/2025/09/26/sports/sny-announcers-eviscerate-mets-for-ugly-inning-in-disastrous-loss/"
+    },
+    {
+      "title": "Fourth quarter, overtime thread: FSU vs. Virginia Cavaliers - Tomahawk Nation",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaDVBMTNPQnNBazRuUlhtQWlPemlQZGIyWjdqVy1xYjVKZUxEeFNZdTU2bzlkNWg0emhTeFV6YXFqLWVTaTVMX3ZtRHZBbzN6Vms5Z0pIRTVGZ2NwLWRHdERhYXphNTNDNUswZzVsbUtIeUdKU1pwXzlCWk1KeTdHa0RBb3YxN3FhbDl2OHNHdzJmQVc1TnZhR05ONTMzdHNMT3NCZFY4ZnA1TF9xT095NDNZMTNueVJVNzExZjQyR2FsN0dsa3ZGRlIyeWRDbzZxLWdBM2xiWVhHblgxNDdrbTUwT25jYmNQRU9zOFBBcFRvMXd0dWRaZURNblA5QTBJNF9ZRnVMRm0?oc=5"
+    },
+    {
+      "title": "As Red Sox clinch playoff spot, how \u2018resilient\u2019 Boston team survived \u2018stressful\u2019 week that changed it all | C - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/09/as-red-sox-clinch-playoff-spot-how-resilient-boston-team-survived-stressful-week-that-changed-it-all-chris-cotillo.html"
+    },
+    {
+      "title": "Saints Friday Injury Report: 2025 Week 4 vs. Buffalo Bills - New Orleans Saints",
+      "link": "https://www.neworleanssaints.com/news/buffalo-bills-vs-new-orleans-saints-friday-injury-report-2025-nfl-week-4"
     },
     {
       "title": "Official Weigh-In Results | UFC Perth - UFC.com",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-perth-fight-night-ulberg-reyes"
     },
     {
-      "title": "Makena White\u2019s heartbreaking last post to PGA winner Jake Knapp before her tragic death at 28 - New York Post",
-      "link": "https://nypost.com/2025/09/26/sports/makena-whites-heartbreaking-last-post-to-jake-knapp-before-her-death/"
+      "title": "Bold predictions: Tennessee at Mississippi State - 247Sports",
+      "link": "https://247sports.com/college/tennessee/longformarticle/tennessee-vols-vs-mississippi-state-bulldogs-bold-predictions-254603679/"
+    },
+    {
+      "title": "Panthers star Barkov has surgery on ACL, MCL - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/46391217/panthers-aleksander-barkov-surgery-repair-acl-mcl-injuries"
     },
     {
       "title": "Jayden Daniels will miss second consecutive start with knee injury - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/09/26/jayden-daniels-injury-commanders-falcons/"
     },
     {
-      "title": "2025 Ryder Cup results, scores: Europe commands standings, mounts first Day 1 lead on U.S. soil in two decades - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/ryder-cup-2025-live-updates-results-scores-standings-day-1/live/"
+      "title": "Brock Purdy Cleared to Start; Injury Report Ahead of #JAXvsSF - San Francisco 49ers",
+      "link": "https://www.49ers.com/news/brock-purdy-cleared-to-start-injury-report-ahead-of-jaxvssf"
     },
     {
-      "title": "Brock Purdy has no injury designation; Mac Jones questionable - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-has-no-injury-designation-mac-jones-questionable"
+      "title": "What the future holds for Browns OT Dawand Jones after LCL and hamstring repair - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/09/browns-ot-dawand-jones-expected-to-make-a-full-recovery-in-2026-after-lcl-and-hamstring-repair.html"
     },
     {
       "title": "Exclusive | Inside Giants\u2019 QB decision: How it all went down with everyone involved - New York Post",
       "link": "https://nypost.com/2025/09/26/sports/inside-giants-qb-decision-how-it-all-went-down/"
     },
     {
-      "title": "Availability Report: FSU and Virginia provide final update on health of players ahead of tonight's game - 247Sports",
-      "link": "https://247sports.com/college/florida-state/longformarticle/availability-report-fsu-and-virginia-provide-final-update-on-health-of-players-ahead-of-tonights-game-254565479/"
-    },
-    {
       "title": "Injury Report, Week 4 vs. Colts: Steve Avila good to go; Rob Havenstein and Davante Adams questionable but expected to play - Rams",
       "link": "https://www.therams.com/news/rams-injury-report-week-4-2025-vs-colts-steve-avila-good-to-go-rob-havenstein-and-davante-adams-questionable-but-expected-to-play"
     },
     {
-      "title": "Keenan Allen set to reach 1,000 career catches faster than anyone in NFL history - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keenan-allen-set-to-reach-1-000-career-catches-faster-than-anyone-in-nfl-history"
+      "title": "Arizona State vs TCU Picks, Odds, Parlay for College Football Week 5 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/arizona-state-sun-devils-vs-tcu-horned-frogs-picks-odds-parlay-college-football-week-5-qs"
     },
     {
       "title": "Packers list S Javon Bullard questionable, rule out two vs. Cowboys | Week 4 Injury Report - Green Bay Packers",
       "link": "https://www.packers.com/news/packers-cowboys-injury-report-week-4-sept-26-2025"
+    },
+    {
+      "title": "Canzano: Boots on the ground in Happy Valley - Bald Faced Truth by John Canzano",
+      "link": "https://www.johncanzano.com/p/canzano-boots-on-the-ground-in-happy"
     },
     {
       "title": "The Spiciest Modern Decks from Pro Tour Edge of Eternities - MAGIC PLAY",
@@ -144,30 +160,6 @@
     {
       "title": "Aaron Rodgers had hoped to go to Ireland sooner - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-had-hoped-to-go-to-ireland-sooner"
-    },
-    {
-      "title": "President Donald Trump greeted by cheers, boos and bows at Ryder Cup - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/article/president-donald-trump-greeted-by-cheers-boos-and-bows-at-ryder-cup-185730219.html"
-    },
-    {
-      "title": "Pats DC Williams diagnosed with prostate cancer - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46389420/patriots-say-dc-terrell-williams-prostate-cancer"
-    },
-    {
-      "title": "3 matchups to watch between the 49ers and the Jaguars: It\u2019s a battle of who can stop the big play - Niners Nation",
-      "link": "https://www.ninersnation.com/general/150762/3-matchups-to-watch-between-the-49ers-and-the-jaguars-its-a-battle-of-who-can-stop-the-big-play"
-    },
-    {
-      "title": "\u2018I will hit you\u2019: Full video, transcription of Alex Pereira, Magomed Ankalaev awkward encounter in Las Vegas - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/405787/i-will-hit-you-full-video-transcription-of-alex-pereira-magomed-ankalaev-awkward-encounter-in-las-vegas"
-    },
-    {
-      "title": "Behind the scenes of Micah Parsons\u2019 final days as a Dallas Cowboy - Dallas News",
-      "link": "https://www.dallasnews.com/sports/cowboys/2025/09/26/micah-parsons-dallas-cowboys-final-days-green-bay-packers-trade-nfl/"
-    },
-    {
-      "title": "Friday afternoon Cardinal news and notes - Card Chronicle",
-      "link": "https://www.cardchronicle.com/cardinal-news-and-notes/97620/friday-afternoon-cardinal-news-and-notes-louisville-cardinals"
     }
   ],
   "weather": {
