@@ -1,9 +1,9 @@
 {
-  "quote": "If you practiced for the day, then you have won. If you were lazy for the day, then you have lost. \u2013 Ming-Dao Deng",
-  "fact": "Napoleon`s penis was sold to an American Urologist for $40,000.",
-  "crypto": "BTC: $111,728 | ETH: $4,112.06",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
+  "quote": "A life without a cause is a life without effect. \u2013 Paulo Coelho",
+  "fact": "Cats have over one hundred vocal sounds; dogs only have about ten.",
+  "crypto": "BTC: $111,740 | ETH: $4,109.96",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Little Nightmares Enhanced Edition upgrade for Nintendo Switch players unavailable because of \"technical constraints\" - Nintendo Everything",
+      "link": "https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-upgrade/"
+    },
+    {
+      "title": "Mets vs. Marlins: Lineups, broadcast info, and open thread, 9/27/25 - Amazin' Avenue",
+      "link": "https://www.amazinavenue.com/new-york-mets-chat-gamethread/86202/mets-vs-marlins-lineups-broadcast-info-how-open-thread-miami-new-york-baseball-mlb"
+    },
     {
       "title": "PlayStation Secret Lair Superdrop Brings The Last of Us, God of War, and More to Magic: The Gathering in October - IGN",
       "link": "https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october"
@@ -26,14 +34,6 @@
     {
       "title": "Destiny 2 Desert Perpetual Epic Raid Loot Table: All Weapons and Armor - The Game Post",
       "link": "https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-loot-table/"
-    },
-    {
-      "title": "Leak Reveals New Details on Halo Combat Evolved Remake: Hybrid Unreal Engine 5 and Blam Engine, Sprint Mechanic, Co-Dev Studio, and More - The Game Post",
-      "link": "https://thegamepost.com/leak-reveals-new-details-on-halo-combat-evolved-remake/"
-    },
-    {
-      "title": "Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week - The Verge",
-      "link": "https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale"
     },
     {
       "title": "\"They're Mining Millions Of Tons On The Moon\": Space Officials Reveal Helium-3 Extraction Making Oil Worthless - Rude Baguette",
@@ -52,24 +52,28 @@
       "link": "https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489"
     },
     {
-      "title": "NASA Couldn\u2019t Get Its Rover to the Moon, So Blue Origin Will Do It Instead - Gizmodo",
-      "link": "https://gizmodo.com/nasa-couldnt-get-its-rover-to-the-moon-so-blue-origin-will-do-it-instead-2000662706"
-    },
-    {
-      "title": "Game 161 Preview: Tigers, Red Sox face off in penultimate regular-season game - Bless You Boys",
-      "link": "https://www.blessyouboys.com/detroit-tigers-previews/82368/detroit-tigers-preview-boston-red-sox-montero-early"
-    },
-    {
       "title": "Top Stories: iOS 26.1 Beta, iPhone Scratches, Apple TV Rumors, and More - MacRumors",
       "link": "https://www.macrumors.com/2025/09/27/top-stories-ios-26-1-beta-iphone-scratches/"
+    },
+    {
+      "title": "\u2018Borderlands 4\u2019 Is Teasing A Very Funny Fifth Vault Hunter Reveal Tonight - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/09/27/borderlands-4-is-teasing-a-very-funny-fifth-vault-hunter-reveal-tonight/"
     },
     {
       "title": "Galaxy S26 Series Could Finally Be Treated To A Storage Upgrade Next Year Thanks To The Snapdragon 8 Elite Gen 5 - Wccftech",
       "link": "https://wccftech.com/galaxy-s26-series-storage-upgrade-thanks-to-snapdragon-8-elite-gen-5/"
     },
     {
+      "title": "Android's answer to Apple's Handoff is coming, and here's how it\u2019ll work - Android Authority",
+      "link": "https://www.androidauthority.com/how-android-handoff-will-work-3601801/"
+    },
+    {
       "title": "Best Buy is having a Prime Day of its own and it starts now \u2014 25 deals I'd add to my cart this weekend - Tom's Guide",
       "link": "https://www.tomsguide.com/sales-events/best-buy-is-having-a-prime-day-of-its-own-and-it-starts-now-25-deals-id-add-to-my-cart-this-weekend"
+    },
+    {
+      "title": "When this EV maker collapsed, its customers became the car company - The Verge",
+      "link": "https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall"
     },
     {
       "title": "Trader Joe\u2019s Is Selling a Michelin-Starred Restaurant\u2019s Dish (Yes, Really!) for Just $5 - Allrecipes",
@@ -78,44 +82,56 @@
     {
       "title": "Your TV's USB port has hidden superpowers: 5 clever ways I use mine - ZDNET",
       "link": "https://www.zdnet.com/home-and-office/home-entertainment/your-tvs-usb-port-has-hidden-superpowers-5-clever-ways-i-use-mine/"
-    },
-    {
-      "title": "Video: Square Enix Showcases 17 Minutes Of Dragon Quest VII: Reimagined Gameplay - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/09/video-square-enix-showcases-17-minutes-of-dragon-quest-vii-reimagined-gameplay"
     }
   ],
   "sports_news": [
     {
-      "title": "Alabama vs. Georgia live updates: Game score, analysis as Crimson Tide, Bulldogs battle in key SEC matchup - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/alabama-georgia-game-score-live-updates/live/"
+      "title": "Ryder Cup 2025: 12 Sunday singles matches include Rory McIlroy vs. Scottie Scheffler - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/ryder-cup-2025-12-sunday-singles-matches-include-rory-mcilroy-vs-scottie-scheffler"
+    },
+    {
+      "title": "Ravens place Nnamdi Madubuike on IR - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-place-nnamdi-madubuike-on-ir"
     },
     {
       "title": "Huskers Sweep Maryland Behind Middles - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/volleyball/huskers-sweep-maryland-behind-middles-nebraska-cornhuskers-terrapins-big-ten"
     },
     {
-      "title": "Bethpage Black comes close to boiling over as frustrated American fans crank up the heckling of Team Europe at Ryder Cup - CNN",
-      "link": "https://www.cnn.com/2025/09/27/sport/golf-ryder-cup-fans-team-europe"
+      "title": "POSTGAME THOUGHTS: Texas A&M holds on to beat Auburn 16-10 - Good Bull Hunting",
+      "link": "https://www.goodbullhunting.com/texas-am-aggie-football/38304/postgame-thoughts-texas-am"
     },
     {
-      "title": "Leistikow's thoughts on Iowa football's loss vs Indiana, a game the Hawkeyes squandered - Hawk Central",
-      "link": "https://www.hawkcentral.com/story/sports/college/iowa/football/2025/09/27/iowa-indiana-football-takeaways-leistikow-hawkeyes-hank-brown-mark-gronowski/86324931007/"
+      "title": "Clay Holmes leads combined one-hitter to ensure Mets keep season alive into final day - nypost.com",
+      "link": "https://nypost.com/2025/09/27/sports/clay-holmes-leads-combined-one-hitter-to-keep-mets-season-alive/"
     },
     {
       "title": "McTavish signs 6-year contract with Ducks - NHL.com",
       "link": "https://www.nhl.com/news/mason-mctavish-signs-6-year-contract-with-anaheim-ducks"
     },
     {
-      "title": "Live: Updates: No. 1 Ohio State builds on lead over Huskies - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/washington-huskies-football/washington-huskies-vs-ohio-state-buckeyes-updates-scores-how-to-watch/"
+      "title": "2025 Ryder Cup results, scores: Europe sweeps team sessions in historic battering of United States in New York - CBS Sports",
+      "link": "https://www.cbssports.com/golf/news/ryder-cup-2025-live-updates-results-scores-standings-day-2/live/"
+    },
+    {
+      "title": "Justin Rose, Bryson DeChambeau and Caddies Engage in Heated Confrontation at Ryder Cup - Sports Illustrated",
+      "link": "https://www.si.com/golf/justin-rose-bryson-dechambeau-caddies-engage-heated-confrontation-ryder-cup"
+    },
+    {
+      "title": "Florida State receiver\u2019s status revealed after he got swarmed by field-storming Virginia fans - nypost.com",
+      "link": "https://nypost.com/2025/09/27/sports/florida-states-squirrel-white-doing-ok-after-getting-swarmed-by-virginia-fans/"
+    },
+    {
+      "title": "Browns vs Lions Week 4 preview: Three key slugfest statistics - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/143511/browns-vs-lions-week-4-preview-three-key-slugfest-statistics"
     },
     {
       "title": "'World Cup win will change these girls' lives' - BBC",
       "link": "https://www.bbc.com/sport/rugby-union/articles/cpq5w24899ro"
     },
     {
-      "title": "Shane Lowry gets Ryder Cup fan kicked out as state police beefs up security - New York Post",
-      "link": "https://nypost.com/2025/09/27/sports/shane-lowry-gets-ryder-cup-fan-kicked-out-as-state-police-beefs-up-security/"
+      "title": "The Cardinals, Who Are Gigantic Baby Losers, Screwed Michael Busch Out of a Shot at the Cycle - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/09/27/the-cardinals-who-are-gigantic-baby-losers-screwed-michael-busch-out-of-a-shot-at-the-cycle/"
     },
     {
       "title": "Giants activate K Jude McAtamney, sign 2 to active roster; Graham Gano to IR - Giants.com",
@@ -130,32 +146,12 @@
       "link": "https://www.wdrb.com/sports/crawford-louisville-rallies-twice-capitalizes-on-pitt-turnovers-to-win-acc-opener-34-27/article_8e519c25-6479-4cb8-89c7-8e4d19ad26cd.html"
     },
     {
+      "title": "Denny Hamlin Admits He 'Went too Far' at Loudon after JGR Drivers' Meeting - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nascar/denny-hamlin-admits-he-went-too-far-loudon-after-jgr-drivers-meeting"
+    },
+    {
       "title": "Syracuse football no-shows for sold-out crowd against Duke (Axe\u2019s quick takes) - Syracuse.com",
       "link": "https://www.syracuse.com/orangefootball/2025/09/syracuse-football-no-shows-for-sold-out-crowd-against-duke-axes-quick-takes.html"
-    },
-    {
-      "title": "3 observations from Real Madrid\u2019s 5-2 loss to Atletico Madrid - Managing Madrid",
-      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/98683/3-observations-from-real-madrids-5-2-loss-to-atletico-madrid"
-    },
-    {
-      "title": "Crystal Palace in Premier League dreamland as Liverpool frailties exposed - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c0q73wjw40do"
-    },
-    {
-      "title": "Israel Premier Tech barred from Italy cycling race - ESPN",
-      "link": "https://www.espn.com/olympics/cycling/story/_/id/46399335/israel-premier-tech-excluded-cycling-race-safety"
-    },
-    {
-      "title": "Utah Jazz Announce 2025-26 Training Camp Roster - NBA",
-      "link": "https://utahjazz.com/news/utah-jazz-announce-2025-26-training-camp-roster"
-    },
-    {
-      "title": "The Awkward Ryder Cup 'Envelope' Could Be Used Again on Sunday - Sports Illustrated",
-      "link": "https://www.si.com/golf/golf/awkward-ryder-cup-envelope-could-reappear-sunday"
-    },
-    {
-      "title": "Cade Horton To Miss At Least One Playoff Series Due To Rib Fracture - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/09/cade-horton-to-miss-at-least-one-playoff-series-due-to-rib-fracture.html"
     }
   ],
   "weather": {
