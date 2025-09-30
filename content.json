@@ -1,9 +1,9 @@
 {
-  "quote": "You never know when a moment and a few sincere words can have an impact on a life.   \u2013 Zig Ziglar",
-  "fact": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.\u00a0 During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
-  "crypto": "BTC: $112,834 | ETH: $4,101.8",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "The rotation of earth really makes my day.",
+  "quote": "Riches don't make a man rich, they only make him busier. \u2013 Christopher Columbus",
+  "fact": "An eighteenth-century German named Matthew Birchinger, known as \"the little man of Nuremberg,\" played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.",
+  "crypto": "BTC: $113,091 | ETH: $4,103.81",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,106 +12,150 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Alexa Plus is smarter \u2014 but it\u2019s not yet smart enough - The Verge",
+      "link": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home"
+    },
+    {
+      "title": "Sony celebrates PlayStation anniversary with a new photography book that costs \u00a395 (or \u00a3245 if you're fancy) - Eurogamer",
+      "link": "https://www.eurogamer.net/sony-celebrates-playstation-anniversary-with-a-new-photography-book-that-costs-95-or-245-if-youre-fancy"
+    },
+    {
+      "title": "Destiny Rising Leak Reveals 4 Upcoming Characters, Including a Gunslinger That Longtime Destiny 2 Fans Might Recognize - The Game Post",
+      "link": "https://thegamepost.com/destiny-rising-leak-reveals-4-upcoming-characters/"
+    },
+    {
+      "title": "Video: After Six Wonderful Years, Zion Is Leaving Nintendo Life - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/09/video-after-six-wonderful-years-zion-is-leaving-nintendo-life"
+    },
+    {
+      "title": "Keychron mechanical keyboards are up to 62 percent off - The Verge",
+      "link": "https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale"
+    },
+    {
+      "title": "Staff Rides: Mike Kazimer's Specialized Chisel FS - Pinkbike",
+      "link": "https://www.pinkbike.com/news/staff-rides-mike-kazimers-specialized-chisel-fs.html"
+    },
+    {
+      "title": "Silent Hill f Has One Of The Best & Creepiest Puzzles Of The Year - Kotaku",
+      "link": "https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866"
+    },
+    {
+      "title": "Brotato post-launch development moved to Evil Empire - Gematsu",
+      "link": "https://www.gematsu.com/2025/09/brotato-post-launch-development-moved-to-evil-empire"
+    },
+    {
+      "title": "Tesla makes it hard to get $50,000 Roadster deposit refunded after 8 years (Updated) - Electrek",
+      "link": "http://electrek.co/2025/09/29/tesla-keeps-5000-deposit-on-canceled-roadster-it-didnt-deliver-in-8-years/"
+    },
+    {
+      "title": "Fans Left Speechless as Capcom Locks Street Fighter 6 Finals Behind Paywall - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/09/fans-left-speechless-as-capcom-locks-street-fighter-6-finals-behind-paywall"
+    },
+    {
       "title": "Ford\u2019s CEO isn\u2019t impressed with Apple CarPlay Ultra - The Verge",
       "link": "https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder"
+    },
+    {
+      "title": "Big AI firms pump money into world models as LLM advances slow - Ars Technica",
+      "link": "https://www.ft.com/content/ae1c6de2-691e-448d-8bf3-8837cc1e6efb"
     },
     {
       "title": "Google\u2019s gradient \u2018G\u2019 logo is rolling out everywhere - The Verge",
       "link": "https://www.theverge.com/news/787176/google-new-logo-gradient-launch"
     },
     {
-      "title": "LG UltraFine 6K (32U990A) TB5 Display: Pre-Orders Open September 30 - MacRumors",
-      "link": "https://www.macrumors.com/2025/09/29/lg-ultrafine-6k-32u990a-preorders-sept-30/"
+      "title": "Microsoft launches \u2018vibe working\u2019 in Excel and Word - The Verge",
+      "link": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models"
+    },
+    {
+      "title": "I\u2019m sticking with Windows 10 even after it dies in October. Here\u2019s how - pcworld.com",
+      "link": "https://www.pcworld.com/article/2919734/im-sticking-with-windows-10-even-after-it-dies-in-october-heres-how.html"
     },
     {
       "title": "Battlefield 6's live action trailer is its biggest jab at Call of Duty yet, makes a point out of blowing up Zac Efron - Eurogamer",
       "link": "https://www.eurogamer.net/battlefield-6s-live-action-trailer-is-its-biggest-jab-at-call-of-duty-yet-makes-a-point-out-of-blowing-up-zac-efron"
     },
     {
-      "title": "Talking Point: So, Did You End Up Pre-Ordering The ROG Xbox Ally? - Pure Xbox",
-      "link": "https://www.purexbox.com/features/talking-point-so-did-you-end-up-pre-ordering-the-rog-xbox-ally"
+      "title": "\"Ferrari Just 3D-Printed Their Suspension\": F80 Supercar Uses Laser-Melted Metal Parts While Traditional Manufacturing Dies In Italian Factory Forever - LeftLaneNews",
+      "link": "https://leftlanenews.com/ferrari-just-3d-printed-their-suspension-f80-supercar-uses-laser-melted-metal-parts-while-traditional-manufacturing-dies-in-italian-factory-forever/1728/"
     },
     {
       "title": "Get a look at the OnePlus 15 from every angle - The Verge",
       "link": "https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass"
     },
     {
+      "title": "At $5,983, Would This 1983 Chevy G20 Conversion Make For A Happy Van Life? - Jalopnik",
+      "link": "https://www.jalopnik.com/1979532/1983-chevy-620-conversion-for-sale-5983/"
+    },
+    {
       "title": "Two New Apple Displays Nearing Mass Production, May Launch This Year - MacRumors",
       "link": "https://www.macrumors.com/2025/09/29/two-new-apple-displays-nearing-mass-production/"
-    },
-    {
-      "title": "Is It Time to Upgrade to the iPhone 17? How Older iPhones Compare - CNET",
-      "link": "https://www.cnet.com/tech/mobile/is-it-time-to-upgrade-to-the-iphone-17-how-older-iphones-compare/"
-    },
-    {
-      "title": "Column | I discovered ChatGPT\u2019s best new feature: Quitting things for you - The Washington Post",
-      "link": "https://www.washingtonpost.com/technology/2025/09/29/chat-gpt-agent-mode-subscriptions/"
-    },
-    {
-      "title": "ZR1, GTD, and America\u2019s new N\u00fcrburgring war - Ars Technica",
-      "link": "https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/"
-    },
-    {
-      "title": "CMF\u2019s first over-ear headphones have an energy slider for boosting bass and treble - The Verge",
-      "link": "https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel"
-    },
-    {
-      "title": "As Chrono Trigger celebrates 30th anniversary, spiritual successor Threads of Time gets fresh gameplay trailer - Eurogamer",
-      "link": "https://www.eurogamer.net/as-chrono-trigger-celebrates-30th-anniversary-spiritual-successor-threads-of-time-gets-fresh-gameplay-trailer"
-    },
-    {
-      "title": "Silent Hill f surpasses one million copies sold, a day after release | News-in-brief - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/silent-hill-f-surpasses-one-million-copies-sold-a-day-after-release-news-in-brief"
-    },
-    {
-      "title": "Dawn of War 4's New Gameplay Trailer Sparks Complaints About Voice Acting, the Inclusion of Primaris Marines, and Even the Colors \u2014 but It Wouldn't Be Warhammer 40,000 Without Some Heresy, Would It? - IGN",
-      "link": "https://www.ign.com/articles/dawn-of-war-4s-new-gameplay-trailer-sparks-complaints-about-voice-acting-the-inclusion-of-primaris-marines-and-even-the-colors-but-it-wouldnt-be-warhammer-40000-without-some-heresy-would-it"
-    },
-    {
-      "title": "How to Use a Password Manager to Share Your Logins After You Die (2025) - WIRED",
-      "link": "https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/"
-    },
-    {
-      "title": "Red Dead Redemption 2 \"was the best thing\" that Rockstar co-founder Dan Houser worked on, not GTA 5: \"The best single realization of open-world storytelling thematic consistency\" - GamesRadar+",
-      "link": "https://www.gamesradar.com/games/red-dead/red-dead-redemption-2-was-the-best-thing-that-rockstar-co-founder-dan-houser-worked-on-not-gta-5-the-best-single-realization-of-open-world-storytelling-thematic-consistency/"
-    },
-    {
-      "title": "Stable One UI 8 update for Galaxy A55 is out now! - SamMobile",
-      "link": "https://www.sammobile.com/news/stable-one-ui-8-update-galaxy-a55-out-now/"
-    },
-    {
-      "title": "Help! My Fianc\u00e9 Wants Me to Cut Back on Working Out. His Reason Might Make Me Call Off the Whole Wedding. - Slate",
-      "link": "https://slate.com/advice/2025/09/marriage-advice-fiance-working-out-gym.html"
-    },
-    {
-      "title": "NVIDIA GeForce RTX 50 SUPER series expected between late Q1 and early Q2 2026 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/nvidia-geforce-rtx-50-super-series-expected-between-late-q1-and-early-q2-2026"
-    },
-    {
-      "title": "'You Just Can't Do All the Projects You Want' \u2014 Rockstar Co-Founder Dan Houser Says Bully 2 Didn't Happen Due to 'Bandwidth Issues' - IGN",
-      "link": "https://www.ign.com/articles/you-just-cant-do-all-the-projects-you-want-rockstar-co-founder-dan-houser-says-bully-2-didnt-happen-due-to-bandwidth-issues"
     }
   ],
   "sports_news": [
+    {
+      "title": "Ashton Jeanty returned to his college backfield stance in Sunday\u2019s breakout game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-returned-to-his-college-backfield-stance-in-sundays-breakout-game"
+    },
+    {
+      "title": "MLB wild-card round odds: The favorites for every series - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/46356209/2025-mlb-playoffs-wild-card-betting-first-round-playoffs-props-futures-odds-spreads"
+    },
+    {
+      "title": "Browns trade for Texans OT Cam Robinson - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/09/browns-trade-for-texans-ot-cam-robinson.html"
+    },
+    {
+      "title": "Dave Portnoy calls out \u2018sick\u2019 Ryder Cup ruling after Viktor Hovland injury fallout - New York Post",
+      "link": "https://nypost.com/2025/09/29/sports/dave-portnoy-calls-out-ryder-cup-ruling-after-viktor-hovland-fallout/"
+    },
+    {
+      "title": "The Opener: Postseason, Leadership Changes, End-Of-Season Pressers - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/09/the-opener-postseason-leadership-changes-end-of-season-pressers.html"
+    },
     {
       "title": "Pundits Size Up Ravens' Playoff Chances After Loss in Kansas City | Late for Work - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/ravens-chiefs-week-4-loss-reaction-lamar-jackson-injury-kyle-hamilton-leadership"
     },
     {
-      "title": "These Mets have only one place to point the finger after stunning collapse - New York Post",
-      "link": "https://nypost.com/2025/09/29/sports/these-mets-have-only-one-place-to-point-finger-after-collapse/"
+      "title": "This Week in Our Dumb, Beautiful Sport: James Franklin Strikes Again, Lane Kiffin Trolls LSU, and the Return of Bobby Petrino - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/college-football/2025/09/158297/this-week-in-our-dumb-beautiful-sport-james-franklin-strikes-again-lane-kiffin-trolls-lsu-and-usc-is-in-hell"
+    },
+    {
+      "title": "Several Arkansas defensive coaches released, including Travis Williams - 247Sports",
+      "link": "https://247sports.com/college/arkansas/article/travis-williams-fired-at-arkansas-sam-pittman-bobby-petrino-254803647/"
+    },
+    {
+      "title": "Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2025/9/29/why-did-india-refuse-to-accept-the-asia-cup-trophy-after-beating-pakistan"
+    },
+    {
+      "title": "Game ball, three stars, and snap count analysis: Week 4, Eagles at Buccaneers - PhillyVoice",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-4-eagles-buccaneers/"
     },
     {
       "title": "Jerry Jones: I\u2019m proud of the way the Cowboys played but sick that we didn\u2019t win - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-im-proud-of-the-way-the-cowboys-played-but-sick-that-we-didnt-win"
     },
     {
-      "title": "Giants-Chargers \u2018Kudos & Wet Willies\u2019: A lot to celebrate \u2026 with one big blemish - Big Blue View",
-      "link": "https://www.bigblueview.com/kudos-wet-willies/138236/giants-chargers-kudos-and-wet-willies-winners-losers-jaxson-dart-malik-nabers"
+      "title": "Adonai Mitchell: Losing focus is unacceptable, I have to be better - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adonai-mitchell-losing-focus-is-unacceptable-i-have-to-be-better"
     },
     {
       "title": "Detroit Lions stock report: 15 risers, 4 fallers in win over the Browns - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-analysis/143774/detroit-lions-stock-report-15-risers-4-fallers-in-win-over-the-browns"
+    },
+    {
+      "title": "49ers\u2019 Saleh, Jaguars\u2019 Coen share postgame screaming after pregame talk of sign stealing - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/49ers/article/49ers-saleh-jaguars-coen-get-heated-talk-21072408.php"
+    },
+    {
+      "title": "Steelers vs. Vikings: What they're saying in Minnesota after the loss - TribLIVE.com",
+      "link": "https://triblive.com/sports/steelers-vs-vikings-what-theyre-saying-in-minnesota-about-the-loss/"
+    },
+    {
+      "title": "NFL Power Rankings, Week 5: Biggest risers and fallers as Week 4 ends - NFL Spin Zone",
+      "link": "https://nflspinzone.com/nfl-power-rankings-week-5-biggest-risers-and-fallers-as-week-4-ends-01k69c88y72a"
     },
     {
       "title": "\u2018Are you watching, Donald Trump?\u2019 Europe trolls president after winning golf\u2019s Ryder Cup - politico.eu",
@@ -124,54 +168,6 @@
     {
       "title": "5 winners and losers from the Patriots\u2019 win over the Panthers - Pats Pulpit",
       "link": "https://www.patspulpit.com/new-england-patriots-opinion/110314/patriots-panthers-winners-losers-nfl-week-4-maye-diggs-jones"
-    },
-    {
-      "title": "Brock Purdy loses a game and more in return to action with 49ers: \u2018I was mad over everything\u2019 - sfchronicle.com",
-      "link": "https://www.sfchronicle.com/sports/49ers/article/brock-purdy-loses-49ers-game-return-action-vs-21071883.php"
-    },
-    {
-      "title": "Fantasy football waiver wire pickups: NFL Week 5 - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-waiver-wire-pickups-nfl-week-5-2025"
-    },
-    {
-      "title": "Red Sox-Yankees schedule: Game times, TV schedule, pitching matchups for \u2018special\u2019 Wild Card Series - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/09/red-sox-yankees-schedule-game-times-tv-schedule-pitching-matchups-for-special-wild-card-series.html"
-    },
-    {
-      "title": "Rory McIlroy calls out 'unacceptable and abusive behavior' from Bethpage fans at Ryder Cup - AP News",
-      "link": "https://apnews.com/article/ryder-cup-rory-mcilroy-fans-behavior-86b5a189f6699a0734a77d27c9ebd8aa"
-    },
-    {
-      "title": "Broncos' Veteran Issues Warning Entering Crucial MNF Tilt vs. Bengals - Sports Illustrated",
-      "link": "https://www.si.com/nfl/broncos/onsi/news/broncos-mike-mcglinchey-issues-warning-crucial-mnf-tilt-bengals"
-    },
-    {
-      "title": "Liam Coen snaps at 49ers DC: \u2018Keep my name out of your mouth\u2019 - SB Nation",
-      "link": "https://www.sbnation.com/nfl/1082463/liam-coen-snaps-49ers-robert-saleh-jacksonville-jaguars"
-    },
-    {
-      "title": "Colts WR Adonai Mitchell's fumble at goal line one of many self-inflicted mistakes in loss to Rams - AP News",
-      "link": "https://apnews.com/article/adonai-mitchell-colts-nfl-5e6a7cd156e3200d5fe6226ff3eca827"
-    },
-    {
-      "title": "Labriola on the win over the Vikings - Steelers.com",
-      "link": "https://www.steelers.com/news/labriola-on-the-win-over-the-vikings"
-    },
-    {
-      "title": "Philadelphia Union extend Shield lead, FC Cincinnati miss out & more from Matchday 37 - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/philadelphia-union-extend-shield-lead-fc-cincinnati-miss-out-more-from-matchday-37"
-    },
-    {
-      "title": "Eagles vs. Buccaneers: The good, the bad, and the ugly - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/159915/eagles-vs-buccaneers-the-good-the-bad-and-the-ugly"
-    },
-    {
-      "title": "Top 3 things we learned from Bills vs. Saints - Buffalo Bills",
-      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-saints"
-    },
-    {
-      "title": "Keegan Bradley deserves blame for Team USA\u2019s Ryder Cup disaster \u2014including key mistake he\u2019d like back - New York Post",
-      "link": "https://nypost.com/2025/09/28/sports/keegan-bradley-deserves-blame-for-uss-ryder-cup-disaster-including-key-mistake/"
     }
   ],
   "weather": {
