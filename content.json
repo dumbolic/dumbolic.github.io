@@ -1,9 +1,9 @@
 {
-  "quote": "A heart is not judged by how much you love, but by how much you are loved by others. \u2013 Judy Garland",
-  "fact": "There are about 2 chickens for every human in the world.",
-  "crypto": "BTC: $117,420 | ETH: $4,329.65",
+  "quote": "We learn to walk by falling down. If we never fell down, we would never walk. \u2013 Robert Kiyosaki",
+  "fact": "Canada makes up 6.67 percent of the Earth`s land area",
+  "crypto": "BTC: $117,603 | ETH: $4,325.53",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why are mummys scared of vacation? They're afraid to unwind.",
+  "joke": "I used to hate facial hair, but then it grew on me.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now - The Verge",
+      "link": "https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale"
+    },
+    {
+      "title": "Nintendo details their latest efforts to prevent modern slavery - GoNintendo",
+      "link": "https://gonintendo.com/contents/53413-nintendo-details-their-latest-efforts-to-prevent-modern-slavery"
+    },
     {
       "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+ - about Amazon",
       "link": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus"
@@ -20,20 +28,24 @@
       "link": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar"
     },
     {
-      "title": "Beats redesigned its new Powerbeats Fit\u2019s wing tip to be more comfortable and secure - The Verge",
-      "link": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort"
+      "title": "Microsoft's next version of Windows 11 has no new features, but it's available now - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-version-25h2-is-now-generally-available-microsoft-confirms-rollout-has-begun"
     },
     {
-      "title": "Microsoft\u2019s Windows 11 2025 update is available now - The Verge",
-      "link": "https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta"
+      "title": "The Trump phone is late - The Verge",
+      "link": "https://www.theverge.com/news/788673/the-trump-phone-is-late"
+    },
+    {
+      "title": "Leaked Galaxy S26 Ultra renders show off Samsung\u2019s massive new camera bump - 9to5Google",
+      "link": "http://9to5google.com/2025/09/30/leaked-samsung-galaxy-s26-ultra-renders-massive-new-camera-bump/"
+    },
+    {
+      "title": "World of Warcraft: Midnight Will Reportedly Launch In February 2026 - Wccftech",
+      "link": "https://wccftech.com/world-of-warcraft-midnight-to-launch-february-2026/"
     },
     {
       "title": "Leaked unboxing video reveals unannounced M5 iPad Pro in full - 9to5Mac",
       "link": "https://9to5mac.com/2025/09/30/leaked-unboxing-video-reveals-unannounced-m5-ipad-pro-in-full/"
-    },
-    {
-      "title": "New Galaxy S26 Ultra renders show Samsung is ditching the boxy look - Android Authority",
-      "link": "https://www.androidauthority.com/galaxy-s26-ultra-cad-renders-3602486/"
     },
     {
       "title": "Halo Studios revealing more on next projects (yes, plural) at next month's World Championship event - Eurogamer",
@@ -44,8 +56,8 @@
       "link": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9"
     },
     {
-      "title": "Tesla Quietly Modifies HW4 (AI4) FSD Computer Hardware - Not a Tesla App",
-      "link": "https://www.notateslaapp.com/news/3188/tesla-quietly-modifies-hw4-ai4-fsd-computer-hardware"
+      "title": "Amazon debuts its latest Fire TVs, including a new Omni QLED model - The Verge",
+      "link": "https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price"
     },
     {
       "title": "Amazon Launches Color Kindle with Stylus, $40 TV Stick With 4K Video - Bloomberg.com",
@@ -56,6 +68,10 @@
       "link": "https://www.aboutamazon.com/news/devices/ring-camera-4k-home-security"
     },
     {
+      "title": "Amazon sticks two cameras together for the 180-degree Blink Arc - The Verge",
+      "link": "https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus"
+    },
+    {
       "title": "My iPhone Air just survived its biggest test yet - 9to5Mac",
       "link": "https://9to5mac.com/2025/09/30/my-iphone-air-just-survived-its-biggest-test-yet/"
     },
@@ -64,34 +80,62 @@
       "link": "https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188"
     },
     {
+      "title": "Apple unveils Powerbeats Fit with more flexible design, new colors - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/30/apple-unveils-powerbeats-fit-with-more-flexible-design/"
+    },
+    {
       "title": "Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming - GameSpot",
       "link": "https://www.gamespot.com/articles/super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming/1100-6535097/"
     },
     {
       "title": "SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection - The Verge",
       "link": "https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review"
-    },
-    {
-      "title": "PFF gives Packers defender horrible grade vs. Cowboys - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/71850/pff-gives-packers-defender-horrible-grade-vs-cowboys"
-    },
-    {
-      "title": "Just Cause developer Avalanche Studios closing UK studio in workforce restructure, following cancellation of Xbox exclusive Contraband - Eurogamer",
-      "link": "https://www.eurogamer.net/just-cause-developer-avalanche-studios-closing-uk-studio-in-workforce-restructure-following-cancellation-of-xbox-exclusive-contraband"
-    },
-    {
-      "title": "Resident Evil 9 Aims To Be More Like RE2 - Kotaku",
-      "link": "https://kotaku.com/resident-evil-requiem-9-2-4-horror-scary-grace-2000630216"
-    },
-    {
-      "title": "Google\u2019s AI Mode image search is getting more conversational - The Verge",
-      "link": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update"
     }
   ],
   "sports_news": [
     {
-      "title": "MLB playoffs live updates: Guardians vs. Tigers score, analysis from Wild Card Series - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/mlb-playoffs-2025-wild-card-game-1-live-updates-scores-results/live/"
+      "title": "Report: Lamar Jackson could miss 2-3 weeks with hamstring injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lamar-jackson-could-miss-2-3-weeks-with-hamstring-injury"
+    },
+    {
+      "title": "Detroit Tigers vs. Cleveland Guardians Results, Stats, and Recap - September 30, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20250930_DET@CLE/"
+    },
+    {
+      "title": "Mike McDaniel: Tyreek Hill is not currently expected to need multiple surgeries on knee - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-tyreek-hill-is-not-currently-expected-to-need-multiple-surgeries-on-knee"
+    },
+    {
+      "title": "Colorado fined over fans' anti-Mormon chants - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46438527/colorado-fined-reprimanded-big-12-fans-anti-mormon-chants"
+    },
+    {
+      "title": "Sean Payton: Tush push might be the safest play in football - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-tush-push-might-be-the-safest-play-in-football"
+    },
+    {
+      "title": "Bloom takes over Cards, says Marmol to return - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46437663/chaim-bloom-takes-cardinals-says-oli-marmol-return"
+    },
+    {
+      "title": "Dodgers roster 3 catchers vs. Reds; Conforto out - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46437737/dodgers-carry-3-catchers-wild-card-series-vs-reds"
+    },
+    {
+      "title": "ICC Women's Cricket World Cup 2025: Deepti Sharma and Amanjot Kaur impress as India beat Sri Lanka in opener - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/c20e8y733zro"
+    },
+    {
+      "title": "Waiver Wire Analysis: Week 5 - Establish The Run",
+      "link": "https://establishtherun.com/waiver-wire-analysis-week-5-6/"
+    },
+    {
+      "title": "Guardians News and Notes: Today\u2019s the Day! - Covering the Corner",
+      "link": "https://www.coveringthecorner.com/cleveland-indians-news/62995/guardians-news-and-notes-todays-the-day"
+    },
+    {
+      "title": "The Bengals have a quarterback problem - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-bengals-have-a-quarterback-problem"
     },
     {
       "title": "Maga-tinged melee casts a shadow over the Ryder Cup - Financial Times",
@@ -106,64 +150,24 @@
       "link": "https://www.dallascowboys.com/news/jerry-jones-on-george-pickens-future-cowboys-defense-more"
     },
     {
-      "title": "Tyreek Hill carted off with knee injury in Miami Dolphins vs. New York Jets game - USA Today",
-      "link": "https://www.usatoday.com/picture-gallery/sports/nfl/2025/09/30/tyreek-hill-injury-football-photos/86434144007/"
-    },
-    {
       "title": "'Bring the storm' | Buffalo Bills announce White Out plan at Highmark Stadium for SNF vs. Patriots - BuffaloBills.com",
       "link": "https://www.buffalobills.com/news/bring-the-storm-buffalo-bills-announce-white-out-plan-at-highmark-stadium-for-snf-vs-patriots"
     },
     {
-      "title": "Judge slugs to another Player of the Month honor for September - MLB.com",
-      "link": "https://www.mlb.com/news/mlb-monthly-award-winners-for-september-2025"
+      "title": "Guardians Promote Chase DeLauter For Wild Card Series - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/09/guardians-promote-chase-delauter-for-wild-card-series.html"
     },
     {
-      "title": "U.S. Department of Education and U.S. Department of Health and Human Services Find that Minnesota Violated Title IX - HHS.gov",
-      "link": "https://www.hhs.gov/press-room/ocr-ed-hhs-find-mn-violates-title-nine.html"
+      "title": "NFL Week 5 betting lines: Chiefs are MNF road favorites in Jacksonville - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/46359271/2025-nfl-week-5-schedule-odds-betting-point-spreads"
+    },
+    {
+      "title": "Chicago Cubs Announce Wild Card Series Roster - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/09/30/chicago-cubs-announce-wild-card-series-roster/"
     },
     {
       "title": "WNBA fines Minnesota coach Cheryl Reeve a record $15,000 for conduct and comments: AP Source - AP News",
       "link": "https://apnews.com/article/cheryl-reeve-fine-lynx-612c4de6198c1cb7702674e344af6db3"
-    },
-    {
-      "title": "NFL Power Rankings, Week 5: Chiefs reclaim spot in top 10; Ravens free-falling - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-power-rankings-week-5-2025-nfl-season"
-    },
-    {
-      "title": "Red Sox 2025 Wild Card roster announced: All 3 young pitchers, both speedsters make it - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/09/red-sox-2025-wild-card-roster-announced-3-rookie-pitchers-both-speedsters-make-it.html"
-    },
-    {
-      "title": "Jaxson Dart nominated for Pepsi Rookie of the Week - Giants.com",
-      "link": "https://www.giants.com/news/jaxson-dart-nominated-for-pepsi-rookie-of-the-week-cam-skattebo-stats"
-    },
-    {
-      "title": "Minnesota Wild Signs Kirill Kaprizov to an Eight-year Contract Extension - NHL.com",
-      "link": "https://www.nhl.com/wild/news/minnesota-wild-signs-kirill-kaprizov-to-an-eight-year-contract-extension-093025"
-    },
-    {
-      "title": "Here\u2019s a crazy stat from Packers-Cowboys in Week 4 - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/here-s-a-crazy-stat-from-packers-cowboys-in-week-4-2025"
-    },
-    {
-      "title": "BCCI demands Asia Cup trophy during heated ACC meet, chair Mohsin Naqvi 'beats around bush' - The Times of India",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/bcci-demands-asia-cup-trophy-during-heated-acc-meet-chair-mohsin-naqvi-beats-around-bush/articleshow/124237160.cms"
-    },
-    {
-      "title": "Rocco Baldelli is out... here are some potential new manager options for the Twins - Star Tribune",
-      "link": "https://www.startribune.com/twins-manager-candidates-rocco-baldelli-fired/601483143"
-    },
-    {
-      "title": "Yankees catch break as Red Sox lose starter Lucas Giolito in wild-card injury blow - New York Post",
-      "link": "https://nypost.com/2025/09/30/sports/yankees-catch-break-as-red-sox-lose-lucas-giolito-to-injury/"
-    },
-    {
-      "title": "Matt Brown issues harsh warning to fighters after Wanderlei Silva suffered brutal knockout in post-fight brawl - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/406328/matt-brown-issues-harsh-warning-to-fighters-after-wanderlei-silva-suffered-brutal-knockout-in-post-fight-brawl"
-    },
-    {
-      "title": "Kawakami: Buster Posey\u2019s ticking clock doomed Bob Melvin - The San Francisco Standard",
-      "link": "https://sfstandard.com/2025/09/30/kawakami-buster-posey-s-ticking-clock-doomed-bob-melvin/"
     }
   ],
   "weather": {
