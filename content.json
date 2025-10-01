@@ -1,9 +1,9 @@
 {
-  "quote": "Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? \u2013 Eckhart Tolle",
-  "fact": "There are about 450 types of cheese in the world. 240 come from France.",
-  "crypto": "BTC: $117,780 | ETH: $4,312.86",
+  "quote": "Note that this journey is uniquely yours, no one elses. So the path has to be your own. \u2013 Jon Kabat-Zinn",
+  "fact": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
+  "crypto": "BTC: $117,982 | ETH: $4,324.77",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Can I watch the TV? Dad: Yes, but don\u2019t turn it on.",
+  "joke": "I don't trust sushi, there's something fishy about it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now - The Verge",
-      "link": "https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale"
+      "title": "Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR",
+      "link": "https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/"
+    },
+    {
+      "title": "FCC Leaks Upcoming MacBook Pro and More - MacRumors",
+      "link": "https://www.macrumors.com/2025/09/30/fcc-leaks-macbook-pro-and-more/"
+    },
+    {
+      "title": "Amazon France shipped someone their ROG Xbox Ally X almost 3 weeks early\u2026 and they\u2019ve already reviewed it - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/amazon-france-ships-the-rog-xbox-ally-x-three-weeks-early-one-lucky-gamer-posts-first-review"
+    },
+    {
+      "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/"
+    },
+    {
+      "title": "iOS 26.1 release date: Here\u2019s when to expect the next iPhone update - 9to5Mac",
+      "link": "https://9to5mac.com/2025/09/30/ios-26-1-release-date-heres-when-to-expect-the-next-iphone-update/"
+    },
+    {
+      "title": "Warzone's Massive Black Ops 7 Update: New Map, Game-Changing Features, and More! - Screen Rant",
+      "link": "https://screenrant.com/warzone-new-resurgence-map-havens-hollow-verdansk-updates/"
+    },
+    {
+      "title": "13 Essential iPad Apps Everyone Should Have Installed - bgr.com",
+      "link": "https://www.bgr.com/1982794/essential-ipad-apps-you-should-use/"
     },
     {
       "title": "Nintendo details their latest efforts to prevent modern slavery - GoNintendo",
       "link": "https://gonintendo.com/contents/53413-nintendo-details-their-latest-efforts-to-prevent-modern-slavery"
     },
     {
-      "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+ - about Amazon",
-      "link": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus"
+      "title": "Battlefield 6's Roadmap Is Packed With New Maps And More - Kotaku",
+      "link": "https://kotaku.com/battlefield-6-two-new-maps-modes-roadmap-free-updates-dlc-2025-ea-2000630301"
     },
     {
-      "title": "Microsoft is giving Copilot AI faces you can chat with - The Verge",
-      "link": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar"
+      "title": "Beats redesigned its new Powerbeats Fit\u2019s wing tip to be more comfortable and secure - The Verge",
+      "link": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort"
     },
     {
-      "title": "Microsoft's next version of Windows 11 has no new features, but it's available now - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-version-25h2-is-now-generally-available-microsoft-confirms-rollout-has-begun"
-    },
-    {
-      "title": "The Trump phone is late - The Verge",
-      "link": "https://www.theverge.com/news/788673/the-trump-phone-is-late"
+      "title": "Anker 160W 14-in-1 Docking Station Drops to Record Low Already, but Stock Might Not Last for Prime Big Deal Days - Kotaku",
+      "link": "https://kotaku.com/anker-160w-14-in-1-docking-station-drops-to-record-low-already-but-stock-might-not-last-for-prime-big-deal-days-2000629994"
     },
     {
       "title": "Leaked Galaxy S26 Ultra renders show off Samsung\u2019s massive new camera bump - 9to5Google",
@@ -44,130 +64,106 @@
       "link": "https://wccftech.com/world-of-warcraft-midnight-to-launch-february-2026/"
     },
     {
-      "title": "Leaked unboxing video reveals unannounced M5 iPad Pro in full - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/30/leaked-unboxing-video-reveals-unannounced-m5-ipad-pro-in-full/"
+      "title": "Amazon unveils new Echo devices, powered by its AI, Alexa+ - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/30/amazon-unveils-new-echo-devices-powered-by-its-al-alexa/"
+    },
+    {
+      "title": "Nothing OS 4.0 launches in beta with Android 16 update, but leaves out two key phones - 9to5Google",
+      "link": "http://9to5google.com/2025/09/30/nothing-os-4-0-launches-in-beta-with-android-16-update-but-leaves-out-two-key-phones/"
+    },
+    {
+      "title": "Amazon unveils new Kindle Scribe and Kindle Scribe Colorsoft - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/30/amazon-unveils-new-kindle-scribe-and-kindle-scribe-colorsoft/"
     },
     {
       "title": "Halo Studios revealing more on next projects (yes, plural) at next month's World Championship event - Eurogamer",
       "link": "https://www.eurogamer.net/halo-studios-revealing-more-on-next-projects-yes-plural-at-next-months-world-championship-event"
     },
     {
+      "title": "Amazon announces new Fire TV lineup with Alexa+ to get you to what you want to watch, fast - about Amazon",
+      "link": "https://www.aboutamazon.com/news/devices/amazon-fire-tv-alexa-plus-fire-tv-stick"
+    },
+    {
       "title": "Minecraft Java Edition 1.21.9 - Minecraft",
       "link": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9"
-    },
-    {
-      "title": "Amazon debuts its latest Fire TVs, including a new Omni QLED model - The Verge",
-      "link": "https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price"
-    },
-    {
-      "title": "Amazon Launches Color Kindle with Stylus, $40 TV Stick With 4K Video - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-09-30/amazon-devices-news-630-color-kindle-scribe-40-4k-fire-tv-stick-ring-blink"
-    },
-    {
-      "title": "Ring introduces its first-ever 4K cameras and AI feature that helps find lost pets - about Amazon",
-      "link": "https://www.aboutamazon.com/news/devices/ring-camera-4k-home-security"
-    },
-    {
-      "title": "Amazon sticks two cameras together for the 180-degree Blink Arc - The Verge",
-      "link": "https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus"
-    },
-    {
-      "title": "My iPhone Air just survived its biggest test yet - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/30/my-iphone-air-just-survived-its-biggest-test-yet/"
-    },
-    {
-      "title": "The Very Finest Cosplay Fits From New York\u2019s Anime NYC 2025 - Kotaku",
-      "link": "https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188"
-    },
-    {
-      "title": "Apple unveils Powerbeats Fit with more flexible design, new colors - 9to5Mac",
-      "link": "https://9to5mac.com/2025/09/30/apple-unveils-powerbeats-fit-with-more-flexible-design/"
-    },
-    {
-      "title": "Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming - GameSpot",
-      "link": "https://www.gamespot.com/articles/super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming/1100-6535097/"
-    },
-    {
-      "title": "SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection - The Verge",
-      "link": "https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review"
     }
   ],
   "sports_news": [
     {
-      "title": "Report: Lamar Jackson could miss 2-3 weeks with hamstring injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lamar-jackson-could-miss-2-3-weeks-with-hamstring-injury"
+      "title": "Nine more years: Wild sign Kirill Kaprizov to richest contract in NHL history - Star Tribune",
+      "link": "https://www.startribune.com/wild-sign-kirill-kaprizov-to-richest-contract-in-nhl-history/601456959"
+    },
+    {
+      "title": "Syracuse basketball great Moten dies at age 53 - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/46441523/syracuse-basketball-great-lawrence-moten-dies-age-53"
+    },
+    {
+      "title": "Packers-Cowboys averaged 26.9 million viewers for Sunday Night Football - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-cowboys-averaged-26-9-million-viewers-for-sunday-night-football"
+    },
+    {
+      "title": "Kuminga, Warriors agree on 2-year, $48M deal - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46441474/warriors-jonathan-kuminga-agree-2-year-485-million-deal"
+    },
+    {
+      "title": "Yankees sit Ben Rice, Jazz Chisholm Jr. in Game 1 gambit against Red Sox\u2019s Garrett Crochet - New York Post",
+      "link": "https://nypost.com/2025/09/30/sports/yankees-sit-ben-rice-jazz-chisholm-jr-in-game-1-gambit/"
+    },
+    {
+      "title": "Fantasy Football Waiver Wire 2025: Top Week 5 Pickups At Each Position - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/fantasy-football-waiver-wire-2025-top-week-5-pickups-at-each-position"
+    },
+    {
+      "title": "Rays' sale finalized; stadium search to restart - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46439054/tampa-bay-rays-sale-finalized-group-led-florida-based-realtor"
+    },
+    {
+      "title": "Enhanced Box Score: Cubs 3, Padres 1 \u2013 September 30, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/09/30/enhanced-box-score-cubs-3-padres-1-september-30-2025/"
+    },
+    {
+      "title": "Dallas Wings fire head coach Chris Koclanes after just 1 season - Yahoo Sports",
+      "link": "https://sports.yahoo.com/wnba/breaking-news/article/dallas-wings-fire-head-coach-chris-koclanes-after-just-1-season-211006057.html"
     },
     {
       "title": "Detroit Tigers vs. Cleveland Guardians Results, Stats, and Recap - September 30, 2025 Gametracker - CBS Sports",
       "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20250930_DET@CLE/"
     },
     {
+      "title": "Jerry Jones responds to Micah Parsons: He told me to lose his number, so I did - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-responds-to-micah-parsons-he-told-me-to-lose-his-number-so-i-did"
+    },
+    {
+      "title": "Colts release unofficial depth chart for Week 5 game vs. Las Vegas Raiders - Colts.com",
+      "link": "https://www.colts.com/news/colts-release-unofficial-depth-chart-for-week-5-game-vs-las-vegas-raiders"
+    },
+    {
+      "title": "Source: Raiders' Miller has fracture, ankle sprain - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46439310/source-raiders-miller-hairline-fracture-high-ankle-sprain"
+    },
+    {
+      "title": "Napheesa Collier on WNBA commissioner Cathy Engelbert: 'We have the worst leadership in the world' - NBC News",
+      "link": "https://www.nbcnews.com/sports/wnba/napheesa-collier-wnba-commissioner-cathy-engelbert-rcna234765"
+    },
+    {
+      "title": "The Cincinnati Reds 26-man playoff roster - Redleg Nation",
+      "link": "https://www.redlegnation.com/2025/09/30/the-cincinnati-reds-26-man-playoff-roster/"
+    },
+    {
       "title": "Mike McDaniel: Tyreek Hill is not currently expected to need multiple surgeries on knee - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-tyreek-hill-is-not-currently-expected-to-need-multiple-surgeries-on-knee"
+    },
+    {
+      "title": "Jaxson Dart celebrated his first Giants win in style at NYC hotspot Emilio\u2019s Ballato - New York Post",
+      "link": "https://nypost.com/2025/09/30/sports/jaxson-dart-celebrated-his-first-giants-win-in-style-at-nyc-hotspot/"
     },
     {
       "title": "Colorado fined over fans' anti-Mormon chants - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/46438527/colorado-fined-reprimanded-big-12-fans-anti-mormon-chants"
     },
     {
-      "title": "Sean Payton: Tush push might be the safest play in football - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-tush-push-might-be-the-safest-play-in-football"
-    },
-    {
-      "title": "Bloom takes over Cards, says Marmol to return - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46437663/chaim-bloom-takes-cardinals-says-oli-marmol-return"
-    },
-    {
-      "title": "Dodgers roster 3 catchers vs. Reds; Conforto out - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46437737/dodgers-carry-3-catchers-wild-card-series-vs-reds"
-    },
-    {
-      "title": "ICC Women's Cricket World Cup 2025: Deepti Sharma and Amanjot Kaur impress as India beat Sri Lanka in opener - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/c20e8y733zro"
-    },
-    {
-      "title": "Waiver Wire Analysis: Week 5 - Establish The Run",
-      "link": "https://establishtherun.com/waiver-wire-analysis-week-5-6/"
-    },
-    {
-      "title": "Guardians News and Notes: Today\u2019s the Day! - Covering the Corner",
-      "link": "https://www.coveringthecorner.com/cleveland-indians-news/62995/guardians-news-and-notes-todays-the-day"
-    },
-    {
-      "title": "The Bengals have a quarterback problem - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-bengals-have-a-quarterback-problem"
-    },
-    {
-      "title": "Maga-tinged melee casts a shadow over the Ryder Cup - Financial Times",
-      "link": "https://www.ft.com/content/7690794b-811e-40ab-803d-d500e586a71f"
-    },
-    {
-      "title": "Chiefs Found the Formula for Travis Kelce to Excel, And It Will Only Get Stronger - Sports Illustrated",
-      "link": "https://www.si.com/nfl/chiefs-found-formula-for-travis-kelce-to-succeed"
-    },
-    {
-      "title": "Jerry Jones on George Pickens' future, Cowboys' defense, more - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/jerry-jones-on-george-pickens-future-cowboys-defense-more"
-    },
-    {
-      "title": "'Bring the storm' | Buffalo Bills announce White Out plan at Highmark Stadium for SNF vs. Patriots - BuffaloBills.com",
-      "link": "https://www.buffalobills.com/news/bring-the-storm-buffalo-bills-announce-white-out-plan-at-highmark-stadium-for-snf-vs-patriots"
-    },
-    {
-      "title": "Guardians Promote Chase DeLauter For Wild Card Series - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/09/guardians-promote-chase-delauter-for-wild-card-series.html"
-    },
-    {
-      "title": "NFL Week 5 betting lines: Chiefs are MNF road favorites in Jacksonville - ESPN",
-      "link": "https://www.espn.com/espn/betting/story/_/id/46359271/2025-nfl-week-5-schedule-odds-betting-point-spreads"
-    },
-    {
-      "title": "Chicago Cubs Announce Wild Card Series Roster - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2025/09/30/chicago-cubs-announce-wild-card-series-roster/"
-    },
-    {
-      "title": "WNBA fines Minnesota coach Cheryl Reeve a record $15,000 for conduct and comments: AP Source - AP News",
-      "link": "https://apnews.com/article/cheryl-reeve-fine-lynx-612c4de6198c1cb7702674e344af6db3"
+      "title": "Browns sign WR Malachi Corley and WR Gage Larvadain to active roster - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-sign-wr-malachi-corley-and-wr-gage-larvadain-to-active-roster"
     }
   ],
   "weather": {
