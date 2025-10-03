@@ -1,9 +1,9 @@
 {
-  "quote": "Every time we liberate a woman, we liberate a man.  \u2013 Margaret Mead",
-  "fact": "Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.",
-  "crypto": "BTC: $120,600 | ETH: $4,473.8",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
+  "quote": "My powers are ordinary. Only my application brings me success. \u2013 Isaac Newton",
+  "fact": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
+  "crypto": "BTC: $120,227 | ETH: $4,472.56",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Apple Shelves Vision Headset Revamp to Prioritize Meta-Like AI Glasses - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0hCQnRySXhzVTV2X2s1eERkeVM4VXpXV0VDSnVqNGZ6MzllQ2IteUtaUVpCOWJoVlc3VnBWZFk1WERPanI5Z3BpbmdnQjZjTUtoamlZQ0dtc3dYeTJwdlN0T2xVT1g0QndCdUV4TUFmUXczTE9PcGtPNVo0RXd6cml6N1BvMmdzZ1pjdGN0SjFQY202b0VOR1RUaEZjR1R5NWJUdnpjdndLSUQxMUdrdnZ6cVdHY01xSUdaQkk2c0FxdDQ3enc?oc=5"
+      "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses - The Verge",
+      "link": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro"
+    },
+    {
+      "title": "Super Mario Bros.: The Lost Levels Minus World levels found four decades later - Nintendo Everything",
+      "link": "https://nintendoeverything.com/super-mario-bros-the-lost-levels-minus-world-levels-found-four-decades-later/"
+    },
+    {
+      "title": "Infographic details 15 years of Samsung camera innovations: from the original Galaxy S to today - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/infographic_details_15_years_of_samsung_camera_innovations_from_the_original_galaxy_s_to_today-news-69750.php"
     },
     {
       "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile",
@@ -28,10 +36,6 @@
       "link": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing"
     },
     {
-      "title": "Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/"
-    },
-    {
       "title": "Sony brings audio sharing to its flagship noise-canceling headphones - The Verge",
       "link": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing"
     },
@@ -40,36 +44,36 @@
       "link": "https://www.forbes.com/sites/paultassi/2025/10/01/here-are-the-ghost-of-yotei-ps5-launch-times-in-your-region/"
     },
     {
-      "title": "Microsoft\u2019s Latest Windows 11 25H2 Update Finally Rolls Out to Users, But Launch Day is Plagued with Troubles - Wccftech",
-      "link": "https://wccftech.com/microsoft-windows-11-25h2-version-has-rolled-out-to-users/"
+      "title": "Don\u2019t install Windows 11 25H2 if these four known bugs affect you - pcworld.com",
+      "link": "https://www.pcworld.com/article/2926952/dont-install-windows-11-25h2-if-these-four-known-bugs-affect-you.html"
     },
     {
-      "title": "Apple\u2019s next-gen Vision Pro revealed in new regulatory filing - The Verge",
-      "link": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak"
+      "title": "Xbox Game Pass Hikes Price Ahead of Handhelds Release - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/business/business-news/xbox-game-pass-price-how-much-does-it-cost-asus-rog-ally-x-1236390793/"
+    },
+    {
+      "title": "Philips 'Ambilight' TVs finally come to US with built-in lightstrip, but without Google TV [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/10/01/philips-ambilight-tv-us-roku/"
     },
     {
       "title": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution - The Verge",
       "link": "https://www.theverge.com/news/789461/xbox-cloud-gaming-launch-1440p-resolution-bitrate-changes"
     },
     {
-      "title": "Google Home expanding Nest, Gemini features to third-party brands starting with $23 Walmart camera - 9to5Google",
-      "link": "http://9to5google.com/2025/10/01/google-home-nest-gemini-features-third-party-walmart-cameras/"
-    },
-    {
       "title": "Google teases its new Gemini-powered Google Home speaker, coming in spring 2026 - TechCrunch",
       "link": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/"
     },
     {
-      "title": "Philips\u2019 new Roku TVs come with their own immersive backlights - The Verge",
-      "link": "https://www.theverge.com/news/788962/philips-roku-ambilight-lcd-tv-backlights-bias-lighting"
+      "title": "Walmart\u2019s Onn cameras were developed with Google and start at just $23 - The Verge",
+      "link": "https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home"
     },
     {
-      "title": "Epic: Apple's Updated App Marketplace Install Process Proves 'Scare Screens' Deterred Users - MacRumors",
-      "link": "https://www.macrumors.com/2025/10/01/epic-proof-apple-scare-screens-deterred-users/"
+      "title": "Epic Games gives backhanded compliment to Apple over removal of scare screens - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/01/epic-games-gives-backhanded-compliment-to-apple-over-removal-of-scare-screens/"
     },
     {
-      "title": "One UI 8 has a new multitasking trick up its sleeve for tablets - SamMobile",
-      "link": "https://www.sammobile.com/news/one-ui-8-new-multitasking-trick-tablets/"
+      "title": "What the M5 iPad Pro leak says about the M5 MacBook Air - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air"
     },
     {
       "title": "Guides - Black Ops 7 Multiplayer Map Guide \u2014 The Forge - Call of Duty",
@@ -80,18 +84,46 @@
       "link": "https://www.cnet.com/home/security/amazon-blinks-curious-new-security-camera-delivers-a-180-degree-view-for-100/"
     },
     {
-      "title": "Alexa+ comes to new Fire TV devices with AI-powered conversations - TechCrunch",
-      "link": "https://techcrunch.com/2025/09/30/alexa-comes-to-new-fire-tv-devices-with-ai-powered-conversations/"
+      "title": "Amazon launches 4K Ring cameras, AI to find lost dogs, new speakers ahead of Google Home revamp - 9to5Google",
+      "link": "http://9to5google.com/2025/09/30/amazon-launches-4k-ring-cameras-ai-to-find-lost-dogs-new-speakers-ahead-of-google-home-revamp/"
     }
   ],
   "sports_news": [
     {
-      "title": "Jazz Chisholm\u2019s awkward locker room scene could forebode a potential Yankees divorce - New York Post",
-      "link": "https://nypost.com/2025/10/01/sports/jazz-chisholms-awkward-locker-room-scene-a-sign-of-potential-yankees-divorce/"
+      "title": "Rice introduces himself to Wild Card Series with HR vs. hometown club - MLB.com",
+      "link": "https://www.mlb.com/news/ben-rice-homers-against-hometown-team-in-game-2"
+    },
+    {
+      "title": "San Diego Padres at Chicago Cubs Game Story, Scores/Highlights - 10/01/2025 - MLB.com",
+      "link": "https://www.mlb.com/stories/game/813064"
+    },
+    {
+      "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad - Colts.com",
+      "link": "https://www.colts.com/news/colts-place-cb-xavien-howard-on-reserve-retired-list-sign-s-trey-washington-to-53-man-roster-from-practice-squad"
+    },
+    {
+      "title": "UFC legend Frankie Edgar pulled from BKFC 82 debut against Jimmie Rivera just days before event - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/article/ufc-legend-frankie-edgar-pulled-from-bkfc-82-debut-against-jimmie-rivera-just-days-before-event-221459140.html"
+    },
+    {
+      "title": "A.J. Brown says post not directed at Eagles, Jalen Hurts - 6abc Philadelphia",
+      "link": "https://www.espn.com/nfl/story/_/id/46452919/eagles-aj-brown-says-post-not-directed-eagles-jalen-hurts?ex_cid=espnapi_affiliate_abcotv"
+    },
+    {
+      "title": "Fantasy Football Week 5 Start 'Em & Sit 'Em Running Backs: Cardinals, Bucs, Panthers injuries change landscape - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-5-start-em-sit-em-running-backs-cardinals-bucs-panthers-injuries-change-landscape/"
+    },
+    {
+      "title": "Rookie Dillon Gabriel selected as Browns starting QB after Joe Flacco is benched - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/cleveland-browns-dillon-gabriel-nfl-joe-flacco-rcna235055"
     },
     {
       "title": "Just when I thought it might be over for the Guardians ... BOOM! \u2013 Terry Pluto - Cleveland.com",
       "link": "https://www.cleveland.com/guardians/2025/10/just-when-i-thought-it-might-be-over-for-the-guardians-boom-terry-pluto.html"
+    },
+    {
+      "title": "Shedeur Sanders mouths silent answers about Joe Flacco being named the backup instead of him - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/10/sheduers-sanders-mouths-silent-answers-about-joe-flacco-being-named-the-backup-instead-of-him.html"
     },
     {
       "title": "Sources: Big Ten mulling $2B private capital deal - ESPN",
@@ -100,10 +132,6 @@
     {
       "title": "Brock Purdy, Jauan Jennings, Ricky Pearsall all ruled out for 49ers-Rams - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-jauan-jennings-ricky-pearsall-all-ruled-out-for-49ers-rams"
-    },
-    {
-      "title": "MLB Wild Card live updates: Guardians vs. Tigers, Cubs vs. Padres scores, analysis as playoffs continue - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/mlb-playoffs-2025-wild-card-game-2-live-updates-scores-results/live/"
     },
     {
       "title": "Lions, Bengals injury report: Terrion Arnold practicing, 3 starters not - Pride Of Detroit",
@@ -118,24 +146,20 @@
       "link": "https://www.cbssports.com/college-football/news/vanderbilt-qb-diego-pavia-sounds-off-on-alabama-matchup-if-we-play-our-game-it-wont-be-close/"
     },
     {
-      "title": "Shedeur Sanders opts to move mouth, not speak, in response to reporters\u2019 questions - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-opts-to-move-mouth-not-speak-in-response-to-reporters-questions"
+      "title": "Brian Callahan doesn\u2019t seem happy with Cam Ward\u2019s postgame comments - Music City Miracles",
+      "link": "https://www.musiccitymiracles.com/tennessee-titans-news/61900/brian-callahan-doesnt-seem-happy-with-cam-wards-postgame-comments"
     },
     {
-      "title": "NFL Fantasy 2025 Start 'Em, Sit 'Em: Quarterbacks for Week 5 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-fantasy-2025-start-em-sit-em-quarterbacks-for-week-5"
-    },
-    {
-      "title": "NFL Fantasy 2025 Start 'Em, Sit 'Em: Running backs for Week 5 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-fantasy-2025-start-em-sit-em-running-backs-for-week-5"
-    },
-    {
-      "title": "NFL Fantasy 2025 Start 'Em, Sit 'Em: Wide receivers for Week 5 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-fantasy-2025-start-em-sit-em-wide-receivers-for-week-5"
+      "title": "KaVontae Turpin's status in question vs. Jets with foot injury - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/kavontae-turpin-status-in-question-vs-jets-with-foot-injury"
     },
     {
       "title": "The Aces\u2019 Superstar Trio Is The Reason To Watch - Defector",
       "link": "https://defector.com/the-aces-superstar-trio-is-the-reason-to-watch"
+    },
+    {
+      "title": "Marks Names Grant, Finances Key Items to Watch in Trail Blazers Training Camp - Blazer's Edge",
+      "link": "https://www.blazersedge.com/trail-blazers-news/103560/portland-trail-blazers-training-camp-2025-jerami-grant-jrue-holiday-contract-scoot-henderson"
     },
     {
       "title": "Seahawks And Buccaneers To Wear Throwbacks In Week 5 - Seattle Seahawks",
@@ -144,26 +168,6 @@
     {
       "title": "NFL reporter and ex-WNBA All-Star Stacey Dales shares embarrassing Cathy Engelbert story - New York Post",
       "link": "https://nypost.com/2025/10/01/sports/ex-wnba-all-star-stacey-dales-shares-embarrassing-cathy-engelbert-story/"
-    },
-    {
-      "title": "Trey Benson Placed On IR As Cardinals' Running Back Room Shuffles Again - Arizona Cardinals",
-      "link": "https://www.azcardinals.com/news/trey-benson-headed-to-ir-as-cardinals-running-back-room-hit-again"
-    },
-    {
-      "title": "Oregon running back Makhi Hughes asks to redshirt - OregonLive.com",
-      "link": "https://www.oregonlive.com/ducks/2025/10/oregon-running-back-makhi-hughes-asks-to-redshirt.html"
-    },
-    {
-      "title": "Full Scope of Kings Roster Moves as Players Head to Ontario, Waivers & Windsor - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2025/10/01/full-scope-of-kings-roster-moves-as-players-head-to-ontario-waivers-windsor/"
-    },
-    {
-      "title": "Brian Snitker, who managed Braves to 2021 World Series title, won't return to dugout next season - AP News",
-      "link": "https://apnews.com/article/braves-brian-snitker-726b447306ad134659b50c32715c9ed0"
-    },
-    {
-      "title": "2025 NFL trade deadline: Biggest need for all 32 teams entering Week 5 - NFL.com",
-      "link": "https://www.nfl.com/news/2025-nfl-trade-deadline-biggest-need-for-all-32-teams"
     }
   ],
   "weather": {
