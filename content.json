@@ -1,9 +1,9 @@
 {
-  "quote": "There is no limit to the amount of good you can do if you don't care who gets the credit. \u2013 Ronald Reagan",
-  "fact": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
-  "crypto": "BTC: $120,113 | ETH: $4,510.56",
+  "quote": "Love doesn't need reason. It speaks from the irrational wisdom of the heart. \u2013 Deepak Chopra",
+  "fact": "Canada is the only country not to win a gold medal in the summer Olympic games while hosting.",
+  "crypto": "BTC: $120,315 | ETH: $4,534.93",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+  "joke": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Black Ops 7 Multiplayer Avoids The CoD Fatigue, But Warzone Falls A Step Back - GameSpot",
+      "link": "https://www.gamespot.com/articles/black-ops-7-multiplayer-avoids-cod-fatigue-but-warzone-falters/1100-6535156/"
+    },
     {
       "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses - The Verge",
       "link": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro"
@@ -20,12 +24,8 @@
       "link": "https://nintendoeverything.com/super-mario-bros-the-lost-levels-minus-world-levels-found-four-decades-later/"
     },
     {
-      "title": "Infographic details 15 years of Samsung camera innovations: from the original Galaxy S to today - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/infographic_details_15_years_of_samsung_camera_innovations_from_the_original_galaxy_s_to_today-news-69750.php"
-    },
-    {
-      "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile",
-      "link": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/"
+      "title": "Microsoft's ultra compact Windows 11 25H2 update is here - get it in a single restart - ZDNET",
+      "link": "https://www.zdnet.com/article/microsofts-ultra-compact-windows-11-25h2-update-is-here-get-it-in-a-single-restart/"
     },
     {
       "title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag",
@@ -36,66 +36,86 @@
       "link": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing"
     },
     {
-      "title": "Sony brings audio sharing to its flagship noise-canceling headphones - The Verge",
-      "link": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing"
-    },
-    {
       "title": "Here Are The \u2018Ghost Of Yotei\u2019 PS5 Launch Times In Your Region - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/10/01/here-are-the-ghost-of-yotei-ps5-launch-times-in-your-region/"
     },
     {
-      "title": "Don\u2019t install Windows 11 25H2 if these four known bugs affect you - pcworld.com",
-      "link": "https://www.pcworld.com/article/2926952/dont-install-windows-11-25h2-if-these-four-known-bugs-affect-you.html"
+      "title": "The AirPods Pro 3 Are Everything I Wanted, And They\u2019re Crucially Flawed - aftermath.site",
+      "link": "https://aftermath.site/airpods-pro-3-review-heartrate-v-shaped-sound"
     },
     {
-      "title": "Xbox Game Pass Hikes Price Ahead of Handhelds Release - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/business/business-news/xbox-game-pass-price-how-much-does-it-cost-asus-rog-ally-x-1236390793/"
+      "title": "Amazon\u2019s New Kindle Scribe Launch Sparks a Price Crash, Last Year\u2019s Pen-Included Model Feels Like a Giveaway - Kotaku",
+      "link": "https://kotaku.com/amazons-new-kindle-scribe-launch-sparks-a-price-crash-last-years-pen-included-model-feels-like-a-giveaway-2000630295"
     },
     {
-      "title": "Philips 'Ambilight' TVs finally come to US with built-in lightstrip, but without Google TV [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2025/10/01/philips-ambilight-tv-us-roku/"
+      "title": "Fallout Season 2 Update Set for Fallout 76 Game: Walton Goggins' Ghoul - Variety",
+      "link": "https://variety.com/2025/gaming/news/fallout-season-2-update-fallout-76-walton-goggins-ghoul-1236535681/"
     },
     {
-      "title": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution - The Verge",
-      "link": "https://www.theverge.com/news/789461/xbox-cloud-gaming-launch-1440p-resolution-bitrate-changes"
+      "title": "Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker - WIRED",
+      "link": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/"
     },
     {
-      "title": "Google teases its new Gemini-powered Google Home speaker, coming in spring 2026 - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/"
+      "title": "Massive Apple leak just tipped MacBook Pro M5, iPad Pro M5 and new Vision Pro - Tom's Guide",
+      "link": "https://www.tomsguide.com/computing/vr-ar/massive-apple-leak-seemingly-confirms-new-pro-devices-heres-everything-to-expect"
     },
     {
-      "title": "Walmart\u2019s Onn cameras were developed with Google and start at just $23 - The Verge",
-      "link": "https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home"
+      "title": "Samsung\u2019s Breakthrough Wearable Technologies Driven by Innovation and Collaboration - Samsung Global Newsroom",
+      "link": "https://news.samsung.com/global/samsungs-breakthrough-wearable-technologies-driven-by-innovation-and-collaboration"
     },
     {
-      "title": "Epic Games gives backhanded compliment to Apple over removal of scare screens - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/01/epic-games-gives-backhanded-compliment-to-apple-over-removal-of-scare-screens/"
+      "title": "Bedrock Edition 1.21.111 Changelog - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/the-copper-age---minecraft--bedrock-edition-1-21-111-changelog"
     },
     {
-      "title": "What the M5 iPad Pro leak says about the M5 MacBook Air - AppleInsider",
-      "link": "https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air"
+      "title": "Amazon announces new Fire TV lineup with Alexa+ to get you to what you want to watch, fast - about Amazon",
+      "link": "https://www.aboutamazon.com/news/devices/amazon-fire-tv-alexa-plus-fire-tv-stick"
     },
     {
-      "title": "Guides - Black Ops 7 Multiplayer Map Guide \u2014 The Forge - Call of Duty",
-      "link": "https://www.callofduty.com/guides/blackops7/multiplayer-maps/the-forge"
+      "title": "Blink unveils its all-new 2K camera lineup - about Amazon",
+      "link": "https://www.aboutamazon.com/news/devices/blink-arc-outdoor-camera-2k-home-security"
     },
     {
-      "title": "Amazon Blink's Curious New Security Camera Delivers a 180-Degree View for $100 - CNET",
-      "link": "https://www.cnet.com/home/security/amazon-blinks-curious-new-security-camera-delivers-a-180-degree-view-for-100/"
+      "title": "Ring launches upgraded cameras with \u2018Retinal Vision\u2019 4K recording - The Verge",
+      "link": "https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs"
     },
     {
-      "title": "Amazon launches 4K Ring cameras, AI to find lost dogs, new speakers ahead of Google Home revamp - 9to5Google",
-      "link": "http://9to5google.com/2025/09/30/amazon-launches-4k-ring-cameras-ai-to-find-lost-dogs-new-speakers-ahead-of-google-home-revamp/"
+      "title": "Adobe\u2019s video editing app Premiere arrives on iPhones - TechCrunch",
+      "link": "https://techcrunch.com/2025/09/30/adobes-video-editing-app-premiere-arrives-on-iphones/"
     }
   ],
   "sports_news": [
     {
-      "title": "Rice introduces himself to Wild Card Series with HR vs. hometown club - MLB.com",
-      "link": "https://www.mlb.com/news/ben-rice-homers-against-hometown-team-in-game-2"
+      "title": "Boston Red Sox vs. New York Yankees Results, Stats, and Recap - October 1, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20251001_BOS@NYY/"
     },
     {
-      "title": "San Diego Padres at Chicago Cubs Game Story, Scores/Highlights - 10/01/2025 - MLB.com",
-      "link": "https://www.mlb.com/stories/game/813064"
+      "title": "Need an extra outfielder to scrimmage? Just call Ichiro! - MLB.com",
+      "link": "https://www.mlb.com/news/ichiro-plays-in-mariners-scrimmage-ahead-of-alds"
+    },
+    {
+      "title": "Fantasy Football Week 5 Start 'Em & Sit 'Em: Justin Fields leads the way, plus sleepers at every position - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-5-start-em-sit-em-justin-fields-leads-the-way-plus-sleepers-at-every-position/"
+    },
+    {
+      "title": "John Harbaugh is mum on Lamar Jackson\u2019s injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-is-mum-on-lamar-jacksons-injury"
+    },
+    {
+      "title": "Tigers-Guardians AL Wild Card Series Game 3 FAQ (1 ET, ESPN) - MLB.com",
+      "link": "https://www.mlb.com/news/tigers-vs-guardians-wild-card-series-game-3-starting-lineups-and-pitching-matchup"
+    },
+    {
+      "title": "A.J. Brown apologizes for Sunday tweet, while also downplaying it - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-apologizes-for-sunday-tweet-while-also-downplaying-it"
+    },
+    {
+      "title": "Josh Allen plays down Stefon Diggs' Bills homecoming with 6 words - Yahoo",
+      "link": "https://www.sportingnews.com/us/nfl/buffalo-bills/news/josh-allen-plays-down-stefon-diggs-bills-homecoming-6-words/73ce01c27e5035b99bbd29d1"
+    },
+    {
+      "title": "Heather McMahan opens up on \u2018toxic\u2019 Rory McIlroy moment that turned her into Ryder Cup scapegoat - New York Post",
+      "link": "https://nypost.com/2025/10/01/sports/heather-mcmahan-opens-up-on-rory-mcilroy-ryder-cup-moment/"
     },
     {
       "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad - Colts.com",
@@ -106,20 +126,28 @@
       "link": "https://sports.yahoo.com/mma/article/ufc-legend-frankie-edgar-pulled-from-bkfc-82-debut-against-jimmie-rivera-just-days-before-event-221459140.html"
     },
     {
-      "title": "A.J. Brown says post not directed at Eagles, Jalen Hurts - 6abc Philadelphia",
-      "link": "https://www.espn.com/nfl/story/_/id/46452919/eagles-aj-brown-says-post-not-directed-eagles-jalen-hurts?ex_cid=espnapi_affiliate_abcotv"
+      "title": "Enhanced Box Score: Padres 3, Cubs 0 \u2013 October 1, 2025 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2025/10/01/enhanced-box-score-padres-3-cubs-0-october-1-2025/"
     },
     {
       "title": "Fantasy Football Week 5 Start 'Em & Sit 'Em Running Backs: Cardinals, Bucs, Panthers injuries change landscape - CBS Sports",
       "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-5-start-em-sit-em-running-backs-cardinals-bucs-panthers-injuries-change-landscape/"
     },
     {
-      "title": "Rookie Dillon Gabriel selected as Browns starting QB after Joe Flacco is benched - NBC News",
-      "link": "https://www.nbcnews.com/sports/nfl/cleveland-browns-dillon-gabriel-nfl-joe-flacco-rcna235055"
+      "title": "Aaron Boone only cares about one thing after Jazz Chisholm\u2019s Yankees displeasure - New York Post",
+      "link": "https://nypost.com/2025/10/01/sports/aaron-boone-only-cares-about-one-thing-after-jazz-chisholms-yankees-displeasure/"
     },
     {
       "title": "Just when I thought it might be over for the Guardians ... BOOM! \u2013 Terry Pluto - Cleveland.com",
       "link": "https://www.cleveland.com/guardians/2025/10/just-when-i-thought-it-might-be-over-for-the-guardians-boom-terry-pluto.html"
+    },
+    {
+      "title": "Is the Husker Spread vs Michigan State Realistic? - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/is-the-husker-spread-vs-michigan-state-realistic"
+    },
+    {
+      "title": "Purdy, Jennings, Pearsall OUT vs. Rams; Injury Report Ahead of #SFvsLAR - San Francisco 49ers",
+      "link": "https://www.49ers.com/news/purdy-jennings-pearsall-out-vs-rams-injury-report-ahead-of-sfvslar"
     },
     {
       "title": "Shedeur Sanders mouths silent answers about Joe Flacco being named the backup instead of him - Cleveland.com",
@@ -130,44 +158,12 @@
       "link": "https://www.espn.com/college-sports/story/_/id/46452188/sources-big-ten-discussing-2-billion-private-capital-deal"
     },
     {
-      "title": "Brock Purdy, Jauan Jennings, Ricky Pearsall all ruled out for 49ers-Rams - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-jauan-jennings-ricky-pearsall-all-ruled-out-for-49ers-rams"
+      "title": "Detroit Lions place D.J. Reed on IR, promote 2 from practice squad - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-news/144062/detroit-lions-place-d-j-reed-on-ir-promote-2-from-practice-squad"
     },
     {
-      "title": "Lions, Bengals injury report: Terrion Arnold practicing, 3 starters not - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-injury-report/143883/lions-bengals-initial-injury-report-terrion-arnold-practicing-3-starters-not"
-    },
-    {
-      "title": "Will history repeat itself for the shorthanded 49ers on Thursday against the Rams? - Niners Nation",
-      "link": "https://www.ninersnation.com/general/150975/will-history-repeat-itself-for-the-shorthanded-49ers-on-thursday-against-the-rams"
-    },
-    {
-      "title": "Vanderbilt QB Diego Pavia sounds off on Alabama matchup: 'If we play our game, it won't be close' - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/vanderbilt-qb-diego-pavia-sounds-off-on-alabama-matchup-if-we-play-our-game-it-wont-be-close/"
-    },
-    {
-      "title": "Brian Callahan doesn\u2019t seem happy with Cam Ward\u2019s postgame comments - Music City Miracles",
-      "link": "https://www.musiccitymiracles.com/tennessee-titans-news/61900/brian-callahan-doesnt-seem-happy-with-cam-wards-postgame-comments"
-    },
-    {
-      "title": "KaVontae Turpin's status in question vs. Jets with foot injury - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/kavontae-turpin-status-in-question-vs-jets-with-foot-injury"
-    },
-    {
-      "title": "The Aces\u2019 Superstar Trio Is The Reason To Watch - Defector",
-      "link": "https://defector.com/the-aces-superstar-trio-is-the-reason-to-watch"
-    },
-    {
-      "title": "Marks Names Grant, Finances Key Items to Watch in Trail Blazers Training Camp - Blazer's Edge",
-      "link": "https://www.blazersedge.com/trail-blazers-news/103560/portland-trail-blazers-training-camp-2025-jerami-grant-jrue-holiday-contract-scoot-henderson"
-    },
-    {
-      "title": "Seahawks And Buccaneers To Wear Throwbacks In Week 5 - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/seahawks-and-buccaneers-to-wear-throwbacks-in-week-5"
-    },
-    {
-      "title": "NFL reporter and ex-WNBA All-Star Stacey Dales shares embarrassing Cathy Engelbert story - New York Post",
-      "link": "https://nypost.com/2025/10/01/sports/ex-wnba-all-star-stacey-dales-shares-embarrassing-cathy-engelbert-story/"
+      "title": "Monica McNutt\u2019s reactions to Chris Russo\u2019s WNBA takes are gold - Awful Announcing",
+      "link": "https://awfulannouncing.com/espn/monica-mcnutt-subjected-chris-russo-takes-wnba.html"
     }
   ],
   "weather": {
