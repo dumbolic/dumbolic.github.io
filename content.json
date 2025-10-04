@@ -1,9 +1,9 @@
 {
-  "quote": "You can have it all. You just can't have it all at once.  \u2013 Oprah Winfrey",
-  "fact": "Dogs and cats consume over $11 billion worth of pet food a year",
-  "crypto": "BTC: $122,041 | ETH: $4,483.17",
+  "quote": "If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. \u2013 Simon Sinek",
+  "fact": "\"Go.\" is the shortest complete sentence in the English language.",
+  "crypto": "BTC: $122,009 | ETH: $4,483.92",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
+  "joke": "I wanted to be a tailor but I didn't suit the job",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Bay Area university issues warning over man using Meta AI glasses on campus - SFGATE",
-      "link": "https://www.sfgate.com/bayarea/article/meta-glasses-university-san-francisco-warning-21082719.php"
+      "title": "One Of Steam's Most-Wishlisted Games Indefinitely Delayed Days Before Launch - Kotaku",
+      "link": "https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559"
     },
     {
-      "title": "Sony shrinks PS5 Slim storage in the US, too - The Verge",
-      "link": "https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series"
+      "title": "Google confirms Android dev verification will have free and paid tiers, no public list of devs - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/"
+    },
+    {
+      "title": "You Can Stay on Windows 10 for Free If You Do This by Oct. 14 - PCMag",
+      "link": "https://www.pcmag.com/news/you-can-stay-on-windows-10-for-free-if-you-do-this-by-oct-14"
+    },
+    {
+      "title": "Get 24 Pack Hourglasses by Celebrating Pok\u00e9mon TCG Pocket in Stores - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/get-24-pack-hourglasses-by-celebrating-pokemon-tcg-pocket-in-stores"
     },
     {
       "title": "Microsoft is about to launch free Xbox Cloud Gaming with ads - The Verge",
@@ -36,12 +44,12 @@
       "link": "https://www.pcgamesn.com/arc-raiders/not-fun"
     },
     {
-      "title": "Helldivers 2 developer explains why it's so big to install on PC, and why that won't be changing anytime soon - Eurogamer",
-      "link": "https://www.eurogamer.net/helldivers-2-developer-explains-why-its-so-big-to-install-on-pc-and-why-that-wont-be-changing-anytime-soon"
-    },
-    {
       "title": "Car Keys are coming to the Wallet app for 13 new vehicle brands soon - 9to5Mac",
       "link": "https://9to5mac.com/2025/10/03/car-keys-are-coming-to-the-wallet-app-for-13-new-vehicle-brands-soon/"
+    },
+    {
+      "title": "How One AI Model Creates a Physical Intuition of Its Environment - Quanta Magazine",
+      "link": "https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/"
     },
     {
       "title": "I tried Amazon and Google\u2019s new smart home gadgets. Ask me anything! - The Verge",
@@ -60,58 +68,70 @@
       "link": "https://www.cnet.com/tech/mobile/heres-what-makes-apples-new-40-watt-power-adapter-unique/"
     },
     {
+      "title": "How developers are using Apple\u2019s local AI models with iOS 26 - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/"
+    },
+    {
       "title": "Malvern start-up firm creates technology to fight cyber attacks - BBC",
       "link": "https://www.bbc.com/news/articles/c1l8yrl8y02o"
     },
     {
-      "title": "AMD Gains CPU Share as Intel Hits Record Low on Steam September Hardware Survey - TechPowerUp",
-      "link": "https://www.techpowerup.com/341589/amd-gains-cpu-share-as-intel-hits-record-low-on-steam-september-hardware-survey"
+      "title": "Apple AirPods Pro 3 vs. Samsung Galaxy Buds 3 Pro: I tested both earbuds, and this one wins - ZDNET",
+      "link": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro-i-tested-both-earbuds-and-this-one-wins/"
     },
     {
-      "title": "The Voice Behind Mortal Kombat's 'Toasty!' Is Leaving NetherRealm - IGN",
-      "link": "https://www.ign.com/articles/the-voice-behind-mortal-kombats-toasty-is-leaving-netherrealm"
+      "title": "Why does Helldivers 2 have such a bloated install size on PC? Old hard drives, says dev - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/why-does-helldivers-2-have-such-a-bloated-install-size-on-pc-old-hard-drives-says-dev"
     },
     {
       "title": "Microsoft says its \"trying to reinforce\" Xbox Game Pass price increases \"by adding more value\" - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value"
     },
     {
-      "title": "Cheaters Have Come for the Call of Duty: Black Ops 7 Beta, as Activision Said They Would - IGN",
-      "link": "https://www.ign.com/articles/cheaters-have-come-for-the-call-of-duty-black-ops-7-beta-as-activision-said-they-would"
-    },
-    {
-      "title": "Strava explains why it's suing Garmin in Reddit post to \"set the record straight\" - BikeRadar",
-      "link": "https://www.bikeradar.com/news/strava-explains-why-it-sued-garmin"
-    },
-    {
-      "title": "The revolutionary politics of Final Fantasy Tactics, and why Ramza Beoulve is a hero for our times - Eurogamer",
-      "link": "https://www.eurogamer.net/the-revolutionary-politics-of-final-fantasy-tactics-and-why-ramza-beoulve-is-a-hero-for-our-times"
-    },
-    {
-      "title": "Ghost of Yotei: A return to form for PlayStation? - BBC",
-      "link": "https://www.bbc.com/news/articles/c2lxy1w121lo"
+      "title": "Retro nerd hacks LEGO's Game Boy into the real deal - theregister.com",
+      "link": "https://www.theregister.com/2025/10/03/lego_game_boy/"
     }
   ],
   "sports_news": [
     {
-      "title": "Tyreek Hill returns to Dolphins' facility, speaks to team - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46477683/tyreek-hill-returns-dolphins-facility-speaks-team"
+      "title": "PFL Dubai live updates: Usman Nurmagomedov vs. Paul Hughes 2 results, round-by-round analysis, highlights - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/breaking-news/live/pfl-dubai-live-updates-usman-nurmagomedov-vs-paul-hughes-2-results-round-by-round-analysis-highlights-061827550.html"
     },
     {
-      "title": "Bruins Announce Training Camp Roster Transactions - NHL.com",
-      "link": "https://www.nhl.com/bruins/news/bruins-announce-training-camp-roster-transactions-x2662"
+      "title": "Ravens rule out QB Jackson due to hamstring - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46478902/ravens-qb-lamar-jackson-hamstring-vs-texans"
+    },
+    {
+      "title": "Tyreek Hill returns to Dolphins\u2019 facility, speaks to team - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-returns-to-dolphins-facility-speaks-to-team"
+    },
+    {
+      "title": "Mets fire almost entire coaching staff under Carlos Mendoza in major overhaul - New York Post",
+      "link": "https://nypost.com/2025/10/03/sports/mets-flipping-almost-entire-coaching-staff-under-carlos-mendoza/"
     },
     {
       "title": "Detroit Lions vs. Cincinnati Bengals betting line is nearly unprecedented - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-news/144292/detroit-lions-vs-cincinnati-bengals-betting-line-is-nearly-unprecedented"
     },
     {
+      "title": "Week 5 Fantasy Football Player Rankings Tiers Start Sit QB RB WR TE - Dynasty Nerds",
+      "link": "https://www.dynastynerds.com/start-sit/week-5-fantasy-football-player-rankings-tiers-start-sit-qb-rb-wr-te/"
+    },
+    {
+      "title": "Inside Warriors\u2019 strenuous Jonathan Kuminga contract negotiations - ClutchPoints",
+      "link": "https://clutchpoints.com/nba/golden-state-warriors/inside-warriors-strenuous-jonathan-kuminga-contract-negotiations"
+    },
+    {
+      "title": "Week 5 Friday Injury Report: Four out including Chuba Hubbard - Panthers.com",
+      "link": "https://www.panthers.com/news/week-5-friday-injury-report-four-out-including-chuba-hubbard"
+    },
+    {
       "title": "Yankees-Blue Jays position-by-position breakdown - MLB.com",
       "link": "https://www.mlb.com/news/yankees-blue-jays-2025-alds-position-by-position-breakdown"
     },
     {
-      "title": "Lions injury update: Alim McNeill \u201850/50\u2019 to play vs. Bengals - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-injury-report/144314/lions-injury-update-alim-mcneill-50-50-to-play-vs-bengals"
+      "title": "Skip Schumaker The Favorite To Be Rangers\u2019 Next Manager - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/skip-schumaker-the-favorite-to-be-rangers-next-manager.html"
     },
     {
       "title": "Red Wings assign three players to Grand Rapids - NHL.com",
@@ -126,20 +146,24 @@
       "link": "https://bleacherreport.com/articles/25255484-cam-schlittler-trolls-red-sox-dirty-water-post-after-yankees-advance-alds"
     },
     {
-      "title": "LIVE! PFL Dubai Results: Nurmagomedov vs. Hughes 2 - MMA Fighting",
-      "link": "https://www.mmafighting.com/pfl/447720/pfl-dubai-nurmagomedov-vs-hughes-2-results"
+      "title": "With Theo Von Returning To College GameDay, Lets Revisit His Legendary 2023 Appearance - OutKick",
+      "link": "https://www.outkick.com/sports/theo-von-returning-college-gameday-lets-revisit-his-legendary-2023-appearance"
     },
     {
       "title": "Tarleton State coach Gillispie under investigation - ESPN",
       "link": "https://www.espn.com/mens-college-basketball/story/_/id/46476462/sources-tarleton-state-billy-gillispie-leave-amid-inquiry"
     },
     {
+      "title": "Week 5 NFL score predictions, expert picks, bets for every remaining game - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-score-predictions-expert-picks-bets-week-5-2025/"
+    },
+    {
       "title": "WNBA Commissioner Cathy Engelbert to speak for 1st time since Napheesa Collier\u2019s blistering comments - AP News",
       "link": "https://apnews.com/article/engelbert-wnba-collier-clark-55d36c32bfbfb7df5672e084b4b52f16"
     },
     {
-      "title": "Padres in ugly dugout confrontation with umpires after brutal call helps end season - New York Post",
-      "link": "https://nypost.com/2025/10/03/sports/padres-in-ugly-dugout-confrontation-with-umpires-after-brutal-call-helps-end-season/"
+      "title": "MLB playoff predictions: Expert picks for every ALDS, NLDS playoff series - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/mlb-playoff-predictions-picks-alcs-nlcs-dodgers-phillies-yankees-blue-jays-cubs-brewers/"
     },
     {
       "title": "Report: Bucky Irving is not expected to play Week 5, may miss Week 6 - NBC Sports",
@@ -148,30 +172,6 @@
     {
       "title": "Uni Watch 2025-26 NHL Season Preview Part II: Metropolitan Division - Uni Watch",
       "link": "https://uni-watch.com/2025/10/03/uni-watch-2025-26-nhl-season-preview-part-ii-metropolitan-division/"
-    },
-    {
-      "title": "The Opener: Division Series, Rangers, Angels - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/the-opener-division-series-rangers-angels.html"
-    },
-    {
-      "title": "Piastri sets pace during disrupted FP2 in Singapore - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp2-piastri-sets-the-pace-in-disrupted-singapore-second-practice-amid-two.2GQOZitaOxeKwIf3rhHfo8"
-    },
-    {
-      "title": "Myles Garrett: Dillon Gabriel runs the offense like it\u2019s his offense - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-dillon-gabriel-runs-the-offense-like-its-his-offense"
-    },
-    {
-      "title": "MLB World Series odds shift ahead of divisional matchups - New York Post",
-      "link": "https://nypost.com/2025/10/03/betting/mlb-world-series-odds-shift-ahead-of-divisional-matchups/"
-    },
-    {
-      "title": "Fantasy Football Week 5: Seahawks vs. Bucs, Texans vs. Ravens, and other matchups to exploit - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-5-seahawks-vs-bucs-texans-vs-ravens-and-other-matchups-to-exploit"
-    },
-    {
-      "title": "From 'Wide Right' to social media spats: Florida State vs. Miami takes on new life as bitter rivalry reignites - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/from-wide-right-to-social-media-spats-florida-state-vs-miami-takes-on-new-life-as-bitter-rivalry-reignites/"
     }
   ],
   "weather": {
