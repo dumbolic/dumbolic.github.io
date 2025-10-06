@@ -1,9 +1,9 @@
 {
-  "quote": "Success comes from knowing that you did your best to become the best that you are capable of becoming. \u2013 John Wooden",
-  "fact": "The catfish has over 27000 taste buds (more than any other animal)",
-  "crypto": "BTC: $125,083 | ETH: $4,692.15",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What is the tallest building in the world? The library \u2013 it\u2019s got the most stories!",
+  "quote": "Everything you've ever wanted is on the other side of fear. \u2013 George Addair",
+  "fact": "14% of all facts and statistics are made up and 27% of people know that fact.",
+  "crypto": "BTC: $124,897 | ETH: $4,691.61",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "A Smarter Way to Disagree - Harvard Business Review",
+      "link": "https://hbr.org/2025/11/a-smarter-way-to-disagree"
+    },
+    {
+      "title": "\u201cThis Lunar Vehicle Changes Everything\u201d: GM Builds 10-Year Battery Rover With Crab Walk To Power NASA\u2019s Artemis Moon Missions (it\u2019s unstoppable) - Energy Reporters",
+      "link": "https://www.energy-reporters.com/news/this-lunar-vehicle-changes-everything-gm-builds-10-year-battery-rover-with-crab-walk-to-power-nasas-artemis-moon-missions-its-unstoppable/"
+    },
+    {
       "title": "Waffles eat Bluesky - TechCrunch",
       "link": "https://techcrunch.com/2025/10/05/waffles-eat-bluesky/"
+    },
+    {
+      "title": "OpenAI is gearing up to release Agent Builder during DevDay - TestingCatalog",
+      "link": "https://www.testingcatalog.com/openai-prepares-to-release-agent-builder-during-devday-on-october-6/"
+    },
+    {
+      "title": "Valorant reveals new Sengalese Agent Veto at VCT 2025 - Dexerto",
+      "link": "https://www.dexerto.com/valorant/valorant-agent-29-veto-abilities-and-everything-we-know-3262371/"
     },
     {
       "title": "If you can get past the terrible logo, Audacity 4 looks pretty great - The Verge",
@@ -44,20 +60,12 @@
       "link": "https://www.forbes.com/sites/zakdoffman/2025/10/05/microsoft-security-disaster-400-million-windows-pcs-now-at-risk/"
     },
     {
-      "title": "Version History is live \u2014 here\u2019s how to find it - The Verge",
-      "link": "https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards"
-    },
-    {
       "title": "Google Discontinued It's Nest Brand - Here's Why - bgr.com",
       "link": "https://www.bgr.com/1984436/why-google-discontinued-nest-brand-2025/"
     },
     {
       "title": "EA Shutting Down AAA Game Permanently in 48 Hours - ComicBook.com",
       "link": "http://comicbook.com/gaming/news/ea-shutting-down-aaa-game-permanently-in-48-hours/"
-    },
-    {
-      "title": "Apple Puts Hardware Chief John Ternus in the Succession Spotlight - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad"
     },
     {
       "title": "12 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
@@ -68,50 +76,74 @@
       "link": "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer"
     },
     {
+      "title": "Lenovo Gaming Laptop (40GB DDR5 RAM, Ryzen 5, 1TB) Is 62% Off, Amazon Is Cleaning House Like Never Before - Kotaku",
+      "link": "https://kotaku.com/lenovo-gaming-laptop-40gb-ddr5-ram-ryzen-5-1tb-is-62-off-amazon-is-cleaning-house-like-never-before-2000631818"
+    },
+    {
       "title": "YouTuber reaches Minecraft\u2019s legendary Far Lands after 14-plus-year journey - Dexerto",
       "link": "https://www.dexerto.com/minecraft/youtuber-reaches-minecrafts-legendary-far-lands-after-14-plus-year-journey-3262361/"
     },
     {
-      "title": "The Pixel feature I forgot about \u2014 and fell back in love with - Android Police",
-      "link": "https://www.androidpolice.com/rules-google-pixel-feature/"
-    },
-    {
-      "title": "After the Xbox Game Pass price hike, is it time to cancel and start buying games again? - Eurogamer",
-      "link": "https://www.eurogamer.net/after-the-xbox-game-pass-price-hike-is-it-time-to-cancel-and-start-buying-games-again"
-    },
-    {
-      "title": "A MacBook pro for $280 is unheard of \u2014 so grab one before this deal disappears - Mashable",
-      "link": "https://mashable.com/article/oct-5-apple-macbook-pro-2017"
-    },
-    {
-      "title": "Red Dead Redemption 2 60FPS Upgrade May Finally Be Coming - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/red-dead-redemption-2-60fps-upgrade-732488-20251005"
+      "title": "3D Printing A New Kind Of Skateboard That Is Ultimately Unsafe - Hackaday",
+      "link": "https://hackaday.com/2025/10/05/3d-printing-a-new-kind-of-skateboard-that-is-ultimately-unsafe/"
     }
   ],
   "sports_news": [
     {
+      "title": "AL East Notes: ALDS, Rodriguez, Weaver, Orioles - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/al-east-notes-alds-rodriguez-weaver-orioles.html"
+    },
+    {
+      "title": "Titans pull off wild comeback for their first win of the season - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-pull-off-wild-comeback-for-their-first-win-of-the-season"
+    },
+    {
+      "title": "Baker Mayfield outduels Sam Darnold to lead Bucs past Seahawks in shootout of former first-round QB castoffs - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/baker-mayfield-outduels-sam-darnold-to-lead-bucs-past-seahawks-in-battle-of-former-1st-round-qb-castoffs-230421515.html"
+    },
+    {
+      "title": "Inactives Analysis: Patriots DT Milton Williams and CB Carlton Davis III Officially Active for Sunday night's Game vs. the Bills - New England Patriots",
+      "link": "https://www.patriots.com/news/inactives-analysis-patriots-dt-milton-williams-and-cb-carlton-davis-iii-officially-active-for-sunday-night-s-game-vs-the-bills"
+    },
+    {
       "title": "MLB playoffs live updates: Yankees vs. Blue Jays score, analysis from ALDS Game 2 - CBS Sports",
       "link": "https://www.cbssports.com/mlb/news/mlb-playoffs-2025-alds-game-2-live-updates-scores-results/live/"
+    },
+    {
+      "title": "It\u2019s Time for the Dolphins to Start Thinking About 2026 and Beyond - Sports Illustrated",
+      "link": "https://www.si.com/nfl/time-for-dolphins-to-start-thinking-about-2026-and-beyond-mike-mcdaniel"
     },
     {
       "title": "Seahawks vs. Buccaneers live updates: Score, analysis, highlights as 3-1 teams square off in Seattle - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/seahawks-vs-buccaneers-live-updates-score-highlights-week-5/live/"
     },
     {
-      "title": "John Harbaugh: It\u2019s just a complete disappointment - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-its-just-a-complete-disappointment"
+      "title": "Jackie Young\u2019s historic outing leads Aces to Game 2 win over Mercury in WNBA Finals - CNN",
+      "link": "https://www.cnn.com/2025/10/05/sport/wnba-finals-aces-mercury-game-2"
     },
     {
-      "title": "New York Giants vs. New Orleans Saints Live Score and Stats - October 5, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251005_NYG@NO/"
+      "title": "What Ravens\u2019 Struggles Mean for Lamar Jackson\u2019s Future Super Bowl Hopes - Sports Illustrated",
+      "link": "https://www.si.com/nfl/what-ravens-struggles-mean-for-lamar-jackson-s-future-super-bowl-hopes"
+    },
+    {
+      "title": "Magomed Ankalaev releases first statement since knockout loss to Alex Pereira - MMA Fighting",
+      "link": "https://www.mmafighting.com/latest-news/448629/magomed-ankalaev-releases-first-statement-since-knockout-loss-to-alex-pereira"
+    },
+    {
+      "title": "NFL Winners and Losers: Ravens might be cooked after embarrassing loss to Texans - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-winners-and-losers-ravens-might-be-cooked-after-embarrassing-loss-to-texans-202250994.html"
     },
     {
       "title": "Stargazing: Cowboys who balled out vs. Jets - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/stargazing-cowboys-who-balled-out-vs-jets"
     },
     {
-      "title": "Houston Texans vs. Baltimore Ravens Live Score and Stats - October 5, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251005_HOU@BAL/"
+      "title": "Rapid Reactions: Panthers beat Dolphins behind Rico Dowdle\u2019s big day - Panthers.com",
+      "link": "https://www.panthers.com/news/rapid-reactions-panthers-beat-dolphins-behind-rico-dowdle-s-big-day"
+    },
+    {
+      "title": "Instant Analysis: Giants fall to Saints, 26-14 - Giants.com",
+      "link": "https://www.giants.com/news/giants-vs-saints-nfl-week-5-highlights-jaxson-dart-theo-johnson-stats"
     },
     {
       "title": "INACTIVES: Lions at Bengals - Detroit Lions",
@@ -130,40 +162,8 @@
       "link": "https://www.nfl.com/news/nfl-week-5-takeaways-what-we-learned-from-sunday-s-12-games"
     },
     {
-      "title": "NFL London results: Minnesota Vikings snatch late 21-17 win over Cleveland Browns - BBC",
-      "link": "https://www.bbc.com/sport/american-football/articles/czjvlx79djpo"
-    },
-    {
-      "title": "Josh Furlong's AP Top 25: A bit of a shakeup after 2 top-10 teams fall in upset losses - KSL.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc29wVUFQc3FJN0hKRnp2ZDZrUDJDVERSVnhRR2ZHN1A3RWUyN3NnX0txWDRlNnlBNnhsSVplNUItTVNPMDVBc3hnb1hCM0hsY2VxbC1jSS1PRFNKR29UWmpReFZEb1Z1ZXc4TXFaZmF1MXF4LWhfNFU3emt4QmRkNHBOZGNEaUZ1UDROLXhjRUZUTU9fMUY2ZG9mSkFua3FQODFFMWlnUldVNFJYeVJ2azhZeWR0UWpORUdzLW9R?oc=5"
-    },
-    {
-      "title": "Russell wins in Singapore as McLaren take Teams\u2019 title - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/russell-storms-to-victory-in-singapore-as-mclaren-seal-teams-championship.7cMITGtnc9fdxEaukmGVvI"
-    },
-    {
-      "title": "Wyoming's Football Field Covered In Hail For UNLV Matchup Is A Sight To Behold - OutKick",
-      "link": "https://www.outkick.com/sports/wyoming-football-field-covered-in-hail-before-unlv-game"
-    },
-    {
-      "title": "Blues assign 5 players to Springfield - NHL.com",
-      "link": "https://www.nhl.com/blues/news/blues-assign-5-players-to-springfield"
-    },
-    {
-      "title": "Deion Sanders Medical Condition Forces Him To Take Action On The Sideline - OutKick",
-      "link": "https://www.outkick.com/sports/deion-sanders-medical-condition-forces-him-take-action-sideline"
-    },
-    {
-      "title": "Panthers-Lightning preseason game sees ejected player score in \u2018stupid\u2019 65-penalty imbroglio - New York Post",
-      "link": "https://nypost.com/2025/10/05/sports/panthers-lightning-preseason-game-a-stupid-65-penalty-imbroglio/"
-    },
-    {
-      "title": "Report: Brock Bowers dealing with PCL injury, bone bruise - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-brock-bowers-dealing-with-pcl-injury-bone-bruise"
-    },
-    {
-      "title": "4 winners, 3 losers from Michigan Football\u2019s win vs Wisconsin - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/94013/michigan-football-winners-losers-wisconsin-rod-moore-justice-haynes-andrew-marsh-donaven-mcculley"
+      "title": "UNC football players aren\u2019t buying into Bill Belichick\u2019s long-term approach: \u2018Not here to rebuild\u2019 - New York Post",
+      "link": "https://nypost.com/2025/10/05/sports/unc-football-players-arent-buying-into-bill-belichicks-long-term-approach/"
     }
   ],
   "weather": {
