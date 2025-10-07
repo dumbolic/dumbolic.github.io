@@ -1,9 +1,9 @@
 {
-  "quote": "Don't let them drag you down by rumors. Just go with what you believe in. \u2013 Michael Jordan",
-  "fact": " was Harrison Ford`s idea so that he could take a bathroom break.",
-  "crypto": "BTC: $122,023 | ETH: $4,500.13",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Who is the coolest Doctor in the hospital? The hip Doctor!",
+  "quote": "When you repeat a mistake, it is not a mistake anymore: it is a decision. \u2013 Paulo Coelho",
+  "fact": "An ant always falls over on its right side when intoxicated.",
+  "crypto": "BTC: $121,843 | ETH: $4,484.98",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Mina the Hollower delayed to unannounced date - Gematsu",
+      "link": "https://www.gematsu.com/2025/10/mina-the-hollower-delayed-to-unannounced-date"
+    },
+    {
+      "title": "iPhone 17 Pro Max Review - IGN",
+      "link": "https://www.ign.com/articles/iphone-17-pro-max-review"
+    },
+    {
+      "title": "Everything new in iOS 26.1 beta 2 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/"
+    },
+    {
       "title": "This is What Future Lamborghinis Could Look Like - Motor1.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVU9nQlF6NjhKRC1YSlZwazR2MFhiTVYwM0Q1THVrUXVpN2k2RU5PbFVSOS1qUE1qREJxR0I3LXZWNjltMWxwNTFLdUdSTDJrbFJxRHdsenI4WDZOY1BqN0tiUUJsMEJickFMb0lLWTZwVHNoZWt1UkRNS1BKNm5fUjFydjBqdw?oc=5"
+      "link": "https://www.motor1.com/news/774818/lamborghini-manifesto-future-design-concept/"
     },
     {
       "title": "Panther Lake Lineup Allegedly Leaks: Intel Stock (NASDAQ:INTC) Slips - TipRanks",
@@ -28,12 +40,20 @@
       "link": "https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/"
     },
     {
-      "title": "Marathon closed technical test set for October 22 to 28 - Gematsu",
-      "link": "https://www.gematsu.com/2025/10/marathon-closed-technical-test-set-for-october-22-to-28"
+      "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/"
     },
     {
       "title": "Codex is now generally available - OpenAI",
       "link": "https://openai.com/index/codex-now-generally-available/"
+    },
+    {
+      "title": "iPadOS 26.1 beta 2 restores Slide Over multitasking back to iPad - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/06/ipados-26-1-beta-2-restores-slide-over-multitasking-back-to-ipad/"
+    },
+    {
+      "title": "Bungie Opens Marathon Closed Technical Test to More Players, Here\u2019s How to Apply - The Game Post",
+      "link": "https://thegamepost.com/bungie-marathon-closed-technical-test-how-to-apply/"
     },
     {
       "title": "We Found 40+ of the Best Amazon Prime Day Headphone Deals: Save Up to $200 on Audio Gear From Apple, Sennheiser and More - CNET",
@@ -48,62 +68,82 @@
       "link": "https://www.ign.com/articles/battlefield-6-day-one-patch-includes-changes-to-movement-weapon-recoil-rush-and-more"
     },
     {
-      "title": "iOS 26.1 beta 2 now available - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/06/ios-26-1-beta-2-now-available/"
-    },
-    {
       "title": "Deals For Today: Pok\u00e9mon TCG, Games and Funko Prime Day Deals Drop Early - IGN",
       "link": "https://www.ign.com/articles/deals-for-today-october-6"
     },
     {
-      "title": "Pok\u00e9mon GO Halloween 2025 Part One Event - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/event/halloween-2025-part-one/"
+      "title": "Save up to 50% on Dyson stick vacuums, fans, heaters and more for October Prime Day - CNN",
+      "link": "https://www.cnn.com/cnn-underscored/deals/dyson-early-prime-day-deals-2025-10-06"
     },
     {
       "title": "Assassin's Creed Mirage Valley of Memory Launches for Free on November 18 - Ubisoft",
       "link": "https://news.ubisoft.com/en-us/article/5TJWHqjuTNHSGd1Q0gPQJu/assassins-creed-mirage-valley-of-memory-launches-for-free-on-november-18"
     },
     {
-      "title": "Future Xbox Consoles Not Canceled, Microsoft Says - GameSpot",
-      "link": "https://www.gamespot.com/articles/future-xbox-consoles-not-canceled-microsoft-says/1100-6535237/"
-    },
-    {
-      "title": "Dune: Awakening developer Funcom is laying off staff and shutting down a studio - The Verge",
-      "link": "https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown"
-    },
-    {
       "title": "Destiny 2 Hits Lowest Player Count on Steam in Franchise History as Community Reaches Breaking Point: \"I Don\u2019t Trust Bungie Anymore\" - The Game Post",
       "link": "https://thegamepost.com/destiny-2-lowest-player-count-steam-franchise-history-bungie-trust/"
     },
     {
-      "title": "Crimson Desert Is This Month\u2019s IGN First, Check Out 11 Minutes of New Quest Gameplay - IGN",
-      "link": "https://www.ign.com/articles/crimson-desert-gameplay-ign-first"
+      "title": "Google Wallet adds support for 10th state ID on Android - 9to5Google",
+      "link": "http://9to5google.com/2025/10/06/google-wallet-id-arkansas/"
     }
   ],
   "sports_news": [
     {
-      "title": "Terrion Arnold will be out \"a long time\" with shoulder injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-will-be-out-a-long-time-with-shoulder-injury"
+      "title": "Monday Night Football prediction, odds, line, spread: Jaguars vs. Chiefs picks from expert on 33-17 run - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/monday-night-football-prediction-odds-line-spread-jaguars-chiefs-picks/"
     },
     {
-      "title": "McDavid signs 2-year, $25 million contract with Oilers - NHL.com",
-      "link": "https://www.nhl.com/news/connor-mcdavid-signs-2-year-deal-with-edmonton"
+      "title": "Ducks Announce 2025-26 Season-Opening Roster - NHL.com",
+      "link": "https://www.nhl.com/ducks/news/ducks-announce-2025-26-season-opening-roster"
     },
     {
-      "title": "Raiders release LB Germaine Pratt - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-release-lb-germaine-pratt"
+      "title": "Mark Sanchez now facing felony charge of battery involving serious bodily injury - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.go.com/US/mark-sanchez-felony-battery-indianapolis/story?id\\\\u003d126246595"
+    },
+    {
+      "title": "Zac Taylor evaluating options at QB, will decide starter by Wednesday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-evaluating-options-at-qb-will-decide-starter-by-wednesday"
+    },
+    {
+      "title": "Mike McDaniel on meeting with Stephen Ross: He was really frustrated, as was I - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-on-meeting-with-stephen-ross-he-was-really-frustrated-as-was-i"
+    },
+    {
+      "title": "Each team's top storyline for today's NLDS matchups - MLB.com",
+      "link": "https://www.mlb.com/news/storylines-for-each-2025-nlds-game-2"
+    },
+    {
+      "title": "KEY QUESTIONS: How will Lions' defense adjust with injuries at cornerback? - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/key-questions-how-will-lions-defense-adjust-with-injuries-at-cornerback"
+    },
+    {
+      "title": "LeBron James: NBA and LA Lakers star's Second Decision teaser spurs retirement talk - BBC",
+      "link": "https://www.bbc.com/sport/basketball/articles/cvg0ydg1lgwo"
+    },
+    {
+      "title": "The Aces Like It When The Game Gets Uncomfortable - Defector",
+      "link": "https://defector.com/the-aces-like-it-when-the-game-gets-uncomfortable"
+    },
+    {
+      "title": "Auburn Football to face Baylor in 2026 Aflac Kickoff Game - Auburn Tigers",
+      "link": "https://auburntigers.com/news/2025/10/6/auburn-football-to-face-baylor-in-2026-aflac-kickoff-game"
+    },
+    {
+      "title": "Antonio Gibson out for season with torn ACL - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/antonio-gibson-out-for-season-with-torn-acl"
+    },
+    {
+      "title": "Colts kicker Spencer Shrader out for remainder of 2025 season - Colts.com",
+      "link": "https://www.colts.com/news/colts-kicker-spencer-shrader-out-for-remainder-of-2025-season"
+    },
+    {
+      "title": "WNBA Finals the calm before the league\u2019s CBA storm - Andscape",
+      "link": "https://andscape.com/features/wnba-finals-the-calm-before-the-leagues-cba-storm/"
     },
     {
       "title": "Forde-Yard Dash: Imagining the Wildest College Football Coaching Carousel Chain Reaction - Sports Illustrated",
       "link": "https://www.si.com/college-football/forde-yard-dash-imagining-the-wildest-college-football-coaching-carousel-chain-reaction"
-    },
-    {
-      "title": "Fox Sports\u2019 Mark Sanchez Now Charged With Felony After Stabbing Incident In Indianapolis - Deadline",
-      "link": "http://deadline.com/2025/10/mark-sanchez-charged-felony-stabbing-1236571216/"
-    },
-    {
-      "title": "The updated ALDS schedule as Mariners go to Detroit for Game 3 - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/updated-seattle-mariners-alds-schedule-now-to-detroit/1824487"
     },
     {
       "title": "Trump: White House UFC event will be June 14 - ESPN",
@@ -118,48 +158,16 @@
       "link": "https://www.cbssports.com/college-football/news/college-football-power-rankings-miami-returns-to-no-1-as-penn-state-texas-plummet-after-brutal-losses/"
     },
     {
-      "title": "Jonathan Gannon downplays Emari Demercado\u2019s gaffe: \u201cIt\u2019s never about one play\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-gannon-downplays-emari-demercados-gaffe-its-never-about-one-play"
+      "title": "How Yankees can come back from 2-0 ALDS deficit: After two Blue Jays blowouts, N.Y. on verge of elimination - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/how-yankees-can-come-back-from-2-0-alds-deficit-after-two-blue-jays-blowouts-n-y-on-verge-of-elimination/"
     },
     {
-      "title": "Geno Smith\u2019s early-season struggles continue as Raiders are blown out by Colts - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/nfl/geno-smiths-early-season-struggles-continue-as-raiders-are-blown-out-by-colts/"
-    },
-    {
-      "title": "5 things to watch as the Chiefs play the Jaguars in \u2018Monday Night Football\u2019 - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/183006/chiefs-jaguars-5-things-to-watch-week-5"
+      "title": "Ex-Patriots QB praises Drake Maye, Stefon Diggs after stunning upset over Bills - MassLive",
+      "link": "https://www.masslive.com/patriots/2025/10/ex-patriots-qb-praises-drake-maye-stefon-diggs-after-stunning-upset-over-bills.html"
     },
     {
       "title": "Lions snap counts: How Lions adjusted CB roles on the fly vs. Bengals - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-analysis/144437/detroit-lions-week-5-snap-counts-cincinnati-bengals"
-    },
-    {
-      "title": "Report: Xavier Worthy is expected to play Monday night vs. Jaguars - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-xavier-worthy-is-expected-to-play-monday-night-vs-jaguars"
-    },
-    {
-      "title": "Was Bill Belichick fired from UNC? Viral social media post dupes fans after Clemson loss - Yahoo Sports",
-      "link": "https://www.sportingnews.com/us/ncaa-football/north-carolina/news/was-bill-belichick-fired-unc-viral-social-media-post-dupes-fans-after-clemson-loss/ad6653f15c97d281d7e0d1bd"
-    },
-    {
-      "title": "After backlash, UNC reverses course on Patriots social-media blackout - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-backlash-unc-reverses-course-on-patriots-social-media-blackout"
-    },
-    {
-      "title": "What we learned from Giants\u2019 Week 5 loss to Saints: Jaxson Dart went full Eli Manning with these late-game decisions - New York Post",
-      "link": "https://nypost.com/2025/10/06/sports/what-we-learned-from-giants-week-5-loss-to-saints/"
-    },
-    {
-      "title": "Commanders Vs. Chargers - Studs and Duds (by @Tiler56) - Hogs Haven",
-      "link": "https://www.hogshaven.com/studs-and-duds/380883/washington-commanders-vs-los-angeles-chargers-studs-and-duds"
-    },
-    {
-      "title": "Antonio Gibson injury: Patriots coach provides update on running back - MassLive",
-      "link": "https://www.masslive.com/patriots/2025/10/antonio-gibson-injury-patriots-coach-provides-update-on-running-back.html"
-    },
-    {
-      "title": "The Top 50 Premier League Players of All Time - Sports Illustrated",
-      "link": "https://www.si.com/soccer/top-50-premier-league-players-of-all-time-digital-cover"
     }
   ],
   "weather": {
