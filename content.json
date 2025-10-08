@@ -1,9 +1,9 @@
 {
-  "quote": "It's your life-but only if you make it so. \u2013 Eleanor Roosevelt",
-  "fact": "A snail can sleep for 3 years.",
-  "crypto": "BTC: $122,714 | ETH: $4,466.56",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Whoever invented the knock-knock joke should get a no bell prize.",
+  "quote": "Care about what other people think and you will always be their prisoner. \u2013 Lao Tzu",
+  "fact": "Americans are responsible for about 1/5 of the world\u2019s garbage annually.",
+  "crypto": "BTC: $123,652 | ETH: $4,514.02",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "\"I'll call you later.\" Don't call me later, call me Dad.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "New Leak Reveals Marathon's Pricing Details, Deluxe Edition, Season Pass, Pre-Order Bonuses and Launch Weapons - The Game Post",
+      "link": "https://thegamepost.com/leak-marathons-base-price-deluxe-edition-season-pass-weapons/"
+    },
+    {
+      "title": "UFS 5.0 storage promises to be twice as fast for AI\u2019s sake, hopefully enticing Google Pixel - 9to5Google",
+      "link": "http://9to5google.com/2025/10/07/ufs-5-0-speed-improvement/"
+    },
+    {
+      "title": "The best October Prime Day deals on TVs, soundbars, and more - The Verge",
+      "link": "https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025"
+    },
+    {
+      "title": "KPop Demon Hunters\u2019 Stars Are Playing Fortnite Now On Stream - Kotaku",
+      "link": "https://kotaku.com/kpop-demon-hunters-fortnite-rei-ami-stream-zoey-rumi-2000632536"
+    },
+    {
+      "title": "Google is \u2018committed to earning back your trust\u2019 with Nest, Home, and Gemini - 9to5Google",
+      "link": "http://9to5google.com/2025/10/07/google-home-nest-earn-trust/"
+    },
+    {
+      "title": "Board Game Deals Are Live in Amazon's October Prime Day 2025 - IGN",
+      "link": "https://www.ign.com/articles/board-game-deals-october-prime-day-2025"
+    },
+    {
+      "title": "Nintendo posts cute and mysterious animated short film, but is it teasing Pikmin? - Eurogamer",
+      "link": "https://www.eurogamer.net/nintendo-posts-cute-and-mysterious-animated-short-film-but-is-it-teasing-pikmin"
+    },
+    {
       "title": "Minecraft Java Edition 1.21.10 - Minecraft",
       "link": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10"
+    },
+    {
+      "title": "Google hints at a new Nest Hub - The Verge",
+      "link": "https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon"
     },
     {
       "title": "One of Borderlands' most hated characters seems to have been cut from Borderlands 4 - Eurogamer",
@@ -24,14 +56,6 @@
       "link": "https://www.whathifi.com/hi-fi/live/amazon-big-deal-days-hi-fi-deals-live-all-the-top-headphone-vinyl-and-speaker-savings-picked-by-our-experts"
     },
     {
-      "title": "Google\u2019s extreme smart home makeover - The Verge",
-      "link": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast"
-    },
-    {
-      "title": "Nintendo has just released a \"Close to You\" animated video - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-has-just-released-a-close-to-you-animated-video/"
-    },
-    {
       "title": "A Sex Writer's Guide to the Best, Hard-to-Find Amazon Prime Day 2025 Sex Deals - Popsugar",
       "link": "https://www.popsugar.com/sex/amazon-prime-day-sex-deals-october-2025-49462019"
     },
@@ -40,12 +64,16 @@
       "link": "https://www.purexbox.com/news/2025/10/strange-xbox-email-suggests-game-pass-price-increase-doesnt-apply-to-certain-members"
     },
     {
-      "title": "Pixel 10 struggles with Genshin Impact, but Google says GPU support remains [U] - 9to5Google",
-      "link": "http://9to5google.com/2025/10/07/pixel-10-can-barely-handle-genshin-impact-as-gpu-support-was-removed-video/"
+      "title": "Jony Ive's secretive AI hardware reportedly hit three problems - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/07/jony-ives-secretive-ai-hardware-reportedly-delayed-by-three-fundamental-problems/"
     },
     {
       "title": "\u2018Destiny 2\u2019 Backtracks On Exhausting Renegades Power Grind - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/10/07/destiny-2-backtracks-on-exhausting-renegades-power-grind/"
+    },
+    {
+      "title": "You Can Buy This Amazing Alienware QD-OLED Monitor for a Third of What I Paid During Prime Day - WIRED",
+      "link": "https://www.wired.com/story/dell-alienware-aw3423dw-prime-day-2025/"
     },
     {
       "title": "The Apple Watch Ultra 3 is a good watch but a small upgrade - The Verge",
@@ -58,72 +86,76 @@
     {
       "title": "Silent Hill 2 remake reportedly coming to PS Plus later this month - Eurogamer",
       "link": "https://www.eurogamer.net/silent-hill-2-reportedly-coming-to-ps-plus-later-this-month"
-    },
-    {
-      "title": "Nintendo seeks $4.5m against reddit moderator accused of pirating Switch games, in latest crackdown against piracy - Eurogamer",
-      "link": "https://www.eurogamer.net/nintendo-seeks-45m-against-reddit-moderator-accused-of-pirating-switch-games-in-latest-crackdown-against-piracy"
-    },
-    {
-      "title": "No account? No Windows 11 for you, says Microsoft - theregister.com",
-      "link": "https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/"
-    },
-    {
-      "title": "Amazon Prime Day Oct 2025 Sports Tech Deals Tracker! - DC Rainmaker",
-      "link": "https://www.dcrainmaker.com/2025/10/amazon-prime-sports-deals-tracker.html"
-    },
-    {
-      "title": "October Prime Day's Best PlayStation Deals Are at Amazon Resale, But You Need to Act Fast - IGN",
-      "link": "https://www.ign.com/articles/prime-day-best-playstation-deals-are-at-amazon-resale-october-2025"
-    },
-    {
-      "title": "9 Fitness Tech Items I Can't Stop Recommending as CNET's Resident Fitness Expert - CNET",
-      "link": "https://www.cnet.com/health/fitness/fitness-tech-items-cant-stop-recommending-cnet-resident-fitness-expert/"
-    },
-    {
-      "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware - The Hacker News",
-      "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Lakers Ticket Prices Surge as LeBron Teases 2nd Decision in Viral Video amid Rumors - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25258064-lakers-ticket-prices-surge-lebron-teases-2nd-decision-viral-video-amid-rumors"
+      "title": "Jordi Alba to Retire from Professional F\u00fatbol at the End of the Season - Inter Miami CF",
+      "link": "https://www.intermiamicf.com/news/jordi-alba-to-retire-from-professional-futbol-at-the-end-of-the-season"
+    },
+    {
+      "title": "New Report Reveals Unhappy Parents and Players During UNC\u2019s Messy Bill Belichick Era - Sports Illustrated",
+      "link": "https://www.si.com/college-football/unc-bill-belichick-unhappy-parents-players-report"
+    },
+    {
+      "title": "Jerry: Gesture to fans at MetLife was 'inadvertent' - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46519932/cowboys-owner-jerry-jones-says-gesture-fans-was-inadvertent"
+    },
+    {
+      "title": "NFL Power Rankings, Week 6: Lions leapfrog Bills and Eagles to claim No. 1 spot; Chargers keep falling - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-power-rankings-week-6-2025-nfl-season"
+    },
+    {
+      "title": "Report: Terrion Arnold likely out for year with shoulder injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-terrion-arnold-likely-out-for-year-with-shoulder-injury"
+    },
+    {
+      "title": "LeBron James teases \u2018the decision of all decisions\u2019 announcement - AP News",
+      "link": "https://apnews.com/article/lebron-james-decision-nba-ecfcfad6c58717aa0cbd4f3cd6b38bb3"
+    },
+    {
+      "title": "Four Questions for the Nebraska Football Team Headed Into Maryland Week - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/four-questions-for-nebraska-football-headed-into-maryland-week"
     },
     {
       "title": "PFT\u2019s Week 6 2025 NFL power rankings - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-6-2025-nfl-power-rankings"
     },
     {
-      "title": "Report: Lions CB Terrion Arnold\u2019s injury \u2018likely season-ending\u2019 - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-injury-report/144827/detroit-lions-terrion-arnolds-injury-likely-season-ending"
+      "title": "Overreactions from Jaguars' stunning win vs. Chiefs: Is Trevor Lawrence back? Should K.C. cut Harrison Butker? - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/jaguars-chiefs-week-5-overreactions-trevor-lawrence-butker-mistake/"
     },
     {
       "title": "United Football League Announces New Vision, New Markets and Team Rebrands for 2026 - The UFL",
       "link": "https://www.theufl.com/news/united-football-league-announces-new-vision-2026"
     },
     {
-      "title": "\u2018I just panicked\u2019: Jaguars QB Trevor Lawrence\u2019s \u2018goofy\u2019 touchdown condemns Chiefs to another painful loss - CNN",
-      "link": "https://www.cnn.com/2025/10/07/sport/football-nfl-trevor-lawrence-jaguars-chiefs-intl"
-    },
-    {
       "title": "Travis Hunter had his best game on offense, played 39 percent of snaps on defense - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-had-his-best-game-on-offense-played-39-percent-of-snaps-on-defense"
+    },
+    {
+      "title": "Waiver Wire Winners for Fantasy Football \u2013 Week 6 - FantraxHQ",
+      "link": "https://fantraxhq.com/waiver-wire-winners-for-fantasy-football-week-6/"
+    },
+    {
+      "title": "Cardinals coach Jonathan Gannon issues apology after hitting his own player over 'unacceptable' mistake - talkSPORT",
+      "link": "http://talksport.com/nfl/3617047/emari-demercado-jonathan-gannon-arizona-cardinals-detroit-lions-apology/"
+    },
+    {
+      "title": "Mavericks' Cooper Flagg showcases legit point-guard chops in sensational NBA preseason debut - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/mavericks-cooper-flagg-showcases-legit-point-guard-chops-in-sensational-nba-preseason-debut/"
     },
     {
       "title": "Scoop: Collier says \"lack of accountability\" led her to cancel on WNBA chief - Axios",
       "link": "https://www.axios.com/2025/10/07/harris-napheesa-collier-wnba-commissioner"
     },
     {
-      "title": "Phillies' Rob Thomson Explains Controversial Decision to Bunt at End of Loss to Dodgers - Sports Illustrated",
-      "link": "https://www.si.com/phillies-rob-thompson-explains-controversial-decision-to-bunt-at-end-of-loss-to-dodgers"
-    },
-    {
       "title": "Dodgers executed \u2018picture-perfect\u2019 wheel play to save Game 2 - True Blue LA",
       "link": "https://www.truebluela.com/los-angeles-dodgers-news-notes/105390/dodgers-bunt-defense-wheel-play-mookie-betts-max-muncy"
     },
     {
-      "title": "Patrick Mahomes Ripped for What He Did After Throwing Brutal Pick-Six vs. Jaguars - Sports Illustrated",
-      "link": "https://www.si.com/nfl/patrick-mahomes-ripped-for-what-he-did-after-throwing-brutal-pick-six-vs-jaguars"
+      "title": "Devin Lloyd Made Patrick Mahomes Look Silly Twice on 99-Yard Pick-Six - Sports Illustrated",
+      "link": "https://www.si.com/nfl/devin-lloyd-made-patrick-mahomes-look-silly-twice-on-99-yard-pick-six"
     },
     {
       "title": "NHL comes down hard on Lightning, not Panthers, with suspensions, fines - Tampa Bay Times",
@@ -132,38 +164,6 @@
     {
       "title": "Cubs-Brewers make history in NLDS Game 2 - Chicago Sun-Times",
       "link": "https://chicago.suntimes.com/cubs/2025/10/06/cubs-brewers-make-history-in-nlds-game-2"
-    },
-    {
-      "title": "Bill Belichick Reportedly Preventing UNC From Celebrating Drake Maye's Big Win - Sports Illustrated",
-      "link": "https://www.si.com/college-football/bill-belichick-reportedly-preventing-unc-from-celebrating-drake-mayes-big-win"
-    },
-    {
-      "title": "Travis Kelce sets Chiefs\u2019 record for most all-purpose yards - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-take-7-0-lead-on-patrick-mahomes-td-throw"
-    },
-    {
-      "title": "Cardinals coach Jonathan Gannon apologized to RB Emari Demercado for sideline interaction - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-coach-jonathan-gannon-apologized-to-rb-emari-demercado-for-sideline-interaction"
-    },
-    {
-      "title": "Fox Sports Analyst Mark Sanchez Charged With Felony Following Stabbing Incident - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/news/general-news/fox-sports-mark-sanchez-charged-felony-stabbing-incident-1236394398/"
-    },
-    {
-      "title": "Aaron Glenn vows to make Jets fixes \u2014 but the problems may run deeper - New York Post",
-      "link": "https://nypost.com/2025/10/06/sports/aaron-glenn-vows-to-make-jets-fixes-but-the-problems-may-run-deeper/"
-    },
-    {
-      "title": "Monday Night Football: How to watch the Kansas City Chiefs vs. Jacksonville Jaguars NFL game tonight, start time, streaming and more - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/monday-night-football-how-to-watch-the-kansas-city-chiefs-vs-jacksonville-jaguars-nfl-game-tonight-start-time-streaming-and-more-174807374.html"
-    },
-    {
-      "title": "Taylor to remain playcaller despite Bengals' skid - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46513648/zac-taylor-remain-playcaller-amid-bengals-three-game-skid"
-    },
-    {
-      "title": "Rain could impact Seattle Mariners\u2019 ALDS Game 3 in Detroit - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/rain-impact-seattle-mariners-alds-detroit/1824538"
     }
   ],
   "weather": {
