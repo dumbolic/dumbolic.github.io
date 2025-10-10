@@ -1,9 +1,9 @@
 {
-  "quote": "Work harder on yourself than you do on your job. \u2013 Jim Rohn",
-  "fact": "Honeybees have a type of hair on their eyes!",
-  "crypto": "BTC: $121,285 | ETH: $4,370.44",
+  "quote": "Our stories may be singular, but our destination is shared. \u2013 Barack Obama",
+  "fact": "Sweden has the least number of murders annually.",
+  "crypto": "BTC: $121,506 | ETH: $4,384.46",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What did the late tomato say to the early tomato? I\u2019ll ketch up",
+  "joke": "Whoever invented the knock-knock joke should get a no bell prize.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Ubisoft reportedly killed an Assassin's Creed game about fighting the Klan for being too \"political\" - AV Club",
+      "link": "https://www.avclub.com/assassins-creed-canceled-reconstruction-clan-political"
+    },
+    {
+      "title": "Leah Kateb's Pasties, Kylie Jenner's Brow Gel, and More A-List Prime Day Deals - Popsugar",
+      "link": "https://www.popsugar.com/shopping/amazon-prime-day-deals-celebrity-recommendations-49461798"
+    },
     {
       "title": "All buffs and nerfs in Black Ops 6 & Warzone Season 6 - Dexerto",
       "link": "https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/"
@@ -28,24 +36,12 @@
       "link": "http://9to5google.com/2025/10/08/android-16-october-update-pixel/"
     },
     {
-      "title": "Google rolling out Wear OS 6 to Pixel Watch 2 and 3 - 9to5Google",
-      "link": "https://9to5google.com/2025/10/08/pixel-watch-wear-os-6-update/"
-    },
-    {
       "title": "Get these Switch 2 accessories while they\u2019re cheaper during October Prime Day - The Verge",
       "link": "https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day"
     },
     {
-      "title": "Here\u2019s how Apple is locking down iPhones to comply with Texas\u2019 age verification law - The Verge",
-      "link": "https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana"
-    },
-    {
       "title": "Logitech will brick its $100 Pop smart home buttons on October 15 - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/"
-    },
-    {
-      "title": "Google Pixel Buds 2a review: The Pixel 10 of headphones - 9to5Google",
-      "link": "http://9to5google.com/2025/10/08/google-pixel-buds-2a-review/"
     },
     {
       "title": "Google Pixel 10 Pro Fold review: The ultimate Google phone - Ars Technica",
@@ -58,6 +54,10 @@
     {
       "title": "Synology caves, walks back some drive restrictions on upcoming NAS models - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/10/synology-caves-walks-back-some-drive-restrictions-on-upcoming-nas-models/"
+    },
+    {
+      "title": "Apple announces new requirements for apps available in Texas - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/08/apple-announces-new-requirements-for-apps-available-in-texas/"
     },
     {
       "title": "Save Hundreds With These Desktop Deals, But You Better Do it Before Prime Day Ends - PCMag",
@@ -88,11 +88,27 @@
       "link": "https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/"
     },
     {
-      "title": "\u2018Expedition 33\u2019 will get a free update as French studio takes victory lap - The Washington Post",
-      "link": "https://www.washingtonpost.com/entertainment/video-games/2025/10/08/clair-obscur-expedition-33-free-update-sandfall-interactive/"
+      "title": "Microsoft Makes First Xbox Game Pass Lineup Announcement Since Raising the Price of Ultimate - IGN",
+      "link": "https://www.ign.com/articles/microsoft-makes-first-xbox-game-pass-lineup-announcement-since-raising-the-price-of-ultimate"
     }
   ],
   "sports_news": [
+    {
+      "title": "Amid storm of reports, UNC and Bill Belichick issue brief statements - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/amid-storm-of-reports-unc-and-bill-belichick-issue-brief-statements"
+    },
+    {
+      "title": "Light moments with a deeper meaning: How a Ben & Jerry\u2019s joke by Hubert Davis showed UNC\u2019s evolving chemistry - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/unc-north-carolina-basketball-hubert-davis-seth-trimble-charlotte-acc-tipoff-255976010/"
+    },
+    {
+      "title": "Blue Jays vs Yankees Prediction, Odds, Pick for ALDS Game 4 - Action Network",
+      "link": "https://www.actionnetwork.com/mlb/toronto-blue-jays-vs-new-york-yankees-prediction-pick-odds-american-league-division-series-game-4-october-8-qs"
+    },
+    {
+      "title": "Soccer match between Argentina, Puerto Rico moved from Chicago to Florida amid immigration crackdown - AP News",
+      "link": "https://apnews.com/article/argentina-puerto-rico-chicago-fort-lauderdale-c0c10e0ee105b7fb1ff090f22c5becb8"
+    },
     {
       "title": "Vegas Golden Knights Sign Forward Jack Eichel to Eight-Year Contract Extension - NHL.com",
       "link": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-sign-forward-jack-eichel-to-eight-year-contract-extension"
@@ -106,28 +122,12 @@
       "link": "https://www.washingtonpost.com/sports/2025/10/08/nationals-front-office-changes/"
     },
     {
-      "title": "Chris Jones deactivates social media after criticism over his effort - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-jones-deactivates-social-media-after-criticism-over-his-effort"
-    },
-    {
       "title": "Baker Mayfield: I\u2019ve stayed myself, narrative changes when you play well - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-ive-stayed-myself-narrative-changes-when-you-play-well"
     },
     {
       "title": "Cardinals-Colts injury report: QB Kyler Murray not practicing Wednesday due to foot injury - Arizona Sports",
       "link": "https://arizonasports.com/arizona-cardinals-injury-report/kyler-murray-foot/3598488/"
-    },
-    {
-      "title": "UNC exploring potential Bill Belichick \u2018exit strategy\u2019 as \u2018weird\u2019 rumors surface - New York Post",
-      "link": "https://nypost.com/2025/10/08/sports/unc-exploring-potential-bill-belichick-exit-strategy-as-weird-rumors-surface/"
-    },
-    {
-      "title": "Road Atlanta Wednesday Notebook - Sportscar365",
-      "link": "https://sportscar365.com/imsa/iwsc/road-atlanta-wednesday-notebook-11/"
-    },
-    {
-      "title": "Jake Browning: Benching sucks, but welcome to pro football - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jake-browning-benching-sucks-but-welcome-to-pro-football"
     },
     {
       "title": "Paul Goldschmidt replaces Ben Rice in Yankees\u2019 Game 4 lineup \u2014 the strategy behind the move - New York Post",
@@ -138,40 +138,40 @@
       "link": "https://nypost.com/2025/10/08/sports/arturo-gatti-jr-son-of-late-boxing-great-arturo-gatti-dead-at-17/"
     },
     {
-      "title": "Mac Jones limited, Brock Purdy out of practice Wednesday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mac-jones-limited-brock-purdy-out-of-practice-wednesday"
+      "title": "Turning Point: Finding a championship favorite from here \u2014 is there one? - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/10/8/turning-point-charlotte-roval-to-las-vegas-2025/"
     },
     {
-      "title": "Sources: ARG friendly moved amid Chicago unrest - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/46533403/argentina-friendly-relocated-miami-chicago-unrest"
+      "title": "'It Sucks' - Bengals QB Jake Browning Discusses His Benching and What's Next for Him - Sports Illustrated",
+      "link": "https://www.si.com/nfl/bengals/it-sucks-bengals-qb-jake-browning-discusses-his-benching-and-what-s-next-for-him-01k72qcrsfge"
     },
     {
-      "title": "The most remarkable thing about Aaron Judge\u2019s narrative-bashing home run - New York Post",
-      "link": "https://nypost.com/2025/10/08/sports/the-most-remarkable-thing-about-aaron-judges-narrative-bashing-home-run/"
+      "title": "Brock Purdy, Ricky Pearsall lead loaded injury report on Wednesday for 49ers - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/151294/san-francisco-49ers-news-brock-purdy-ricky-pearsall-lead-loaded-injury-report"
     },
     {
       "title": "Coaches Get Ahead Of Joe Flacco's First Bengals Start: 'You Don't Have To Change Much' - Bengals.com",
       "link": "https://www.bengals.com/news/zac-taylor--gets-ahead-of-joe-flacco-s-first-bengals-start-you-don-t-have-to-change-much"
     },
     {
-      "title": "History favors Kyle Shanahan against Todd Bowles - Niners Nation",
-      "link": "https://www.ninersnation.com/general/151281/history-favors-kyle-shanahan-against-todd-bowles"
+      "title": "Chiefs\u2019 Chris Jones deactivates social media after costly mistake in loss to Jaguars - AP News",
+      "link": "https://apnews.com/article/kansas-city-chiefs-chris-jones-9b73de169badb8b706c6bc517c2e240c"
+    },
+    {
+      "title": "Mike's Mid-Week Chat: Will the Packers' running game keep improving? - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/mike-s-mid-week-chat-will-the-packers-running-game-keep-improving-oct-8-2025"
     },
     {
       "title": "Brewers vs Cubs Prediction, Odds, NLDS game 3 Picks For Wednesday, October 8 - Action Network",
       "link": "https://www.actionnetwork.com/mlb/milwaukee-brewers-vs-chicago-cubs-prediction-pick-odds-national-league-division-series-game-3-october-8-qs"
     },
     {
-      "title": "Eagles at Giants Final Injury Report: Jalen Carter questionable - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/160686/eagles-at-giants-final-injury-report-jalen-carter-questionable"
+      "title": "The Yankees were dead. Then Aaron Judge finally had his October moment. - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/10/08/aaron-judge-home-run-yankees-blue-jays/"
     },
     {
       "title": "Lamar Jackson Still Out, But Kyle Hamilton Returns to Practice - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/lamar-jackson-kyle-hamilton-ronnnie-stanley-ravens-practice-rams-2025"
-    },
-    {
-      "title": "Eagles-Giants Game Preview: 5 questions and answers with the Week 6 enemy - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/eagles-game-preview/160688/eagles-giants-game-preview-5-questions-and-answers-with-the-week-6-enemy"
     }
   ],
   "weather": {
