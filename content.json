@@ -1,9 +1,9 @@
 {
-  "quote": "Unless you're ashamed of yourself now and then, you're not honest. \u2013 William Faulkner",
-  "fact": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
-  "crypto": "BTC: $111,211 | ETH: $3,751.64",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "How come the stadium got hot after the game? Because all of the fans left.",
+  "quote": "Working hard for something we don't care about is called stress: Working hard for something we love is called passion. \u2013 Simon Sinek",
+  "fact": "There are more psychoanalysts per capita in Buenos Aires than any other place in the world.",
+  "crypto": "BTC: $111,004 | ETH: $3,743.19",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "People regret buying Amazon smart displays after being bombarded with ads - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/"
+    },
+    {
+      "title": "M5 MacBook Pro launch imminent, but some models coming later: report - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/10/m5-macbook-pro-launch-imminent-but-some-models-coming-later-report/"
+    },
+    {
       "title": "MoistCr1TiKaL turns off all monetization so viewers can\u2019t \u201cwaste\u201d their money - Dexerto",
       "link": "https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so-viewers-cant-waste-their-money-3265394/"
+    },
+    {
+      "title": "All Battlefield 6 bugs and known issues \u2014 here's every problem at launch, and all known fixes and workarounds - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/all-battlefield-6-bugs-and-known-issues-heres-every-problem-at-launch-and-all-known-fixes-and-workarounds"
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 5 Price Per Unit Estimate Will Definitely Make You Question Your Upcoming Android Flagship Purchase - Wccftech",
+      "link": "https://wccftech.com/snapdragon-8-elite-gen-5-price-per-unit-significantly-higher-than-snapdragon-8-elite/"
     },
     {
       "title": "You can still snag LG\u2019s C4 OLED TV at half the price - The Verge",
@@ -24,16 +40,8 @@
       "link": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/"
     },
     {
-      "title": "Battlefield 6 players hit by multiplayer not installed bug \u2013 but there\u2019s an easy fix for some \u2013 here\u2019s how - The Escapist",
-      "link": "https://www.escapistmagazine.com/news-battlefield-6-multiplayer-not-installed-bug-fix/"
-    },
-    {
       "title": "iPhone 17 Pro Max review: Orange you glad the battery is bigger - TechCrunch",
       "link": "https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/"
-    },
-    {
-      "title": "Amazon Drops the Price of Xbox Game Pass, So It's Now Even Easier to Avoid the Price Hike - IGN",
-      "link": "https://www.ign.com/articles/xbox-game-pass-ultimate-avoid-price-hike-2025-updated"
     },
     {
       "title": "Nintendo's Mario Galaxy remasters are a return to the tyranny of motion controls - AV Club",
@@ -42,10 +50,6 @@
     {
       "title": "Pixel Watch 4 gets easy teardown & official repair manuals - 9to5Google",
       "link": "http://9to5google.com/2025/10/10/pixel-watch-4-teardown/"
-    },
-    {
-      "title": "Battlefield 6 Launched Just Hours Ago and Players Have Already Recreated Call of Duty Map Shipment in Portal - IGN",
-      "link": "https://www.ign.com/articles/battlefield-6-launched-just-hours-ago-and-players-have-already-recreated-call-of-duty-map-shipment-in-portal"
     },
     {
       "title": "Union members announce legal action against Build A Rocket Boy over layoffs - GamesIndustry.biz",
@@ -64,10 +68,6 @@
       "link": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-amazon-back-in-stock-best-price-etb-boosters-new"
     },
     {
-      "title": "You can still get the latest AirPods Max at their Prime Day price - The Verge",
-      "link": "https://www.theverge.com/tech/798180/apple-airpods-max-usb-c-google-nest-thermostat-deal-sale"
-    },
-    {
       "title": "Assassin's Creed Actor Has Blunt Message About That Reportedly Canceled Game - GameSpot",
       "link": "https://www.gamespot.com/articles/assassins-creed-actor-has-blunt-message-about-that-reportedly-canceled-game/1100-6535358/"
     },
@@ -76,8 +76,8 @@
       "link": "http://electrek.co/2025/10/10/tesla-pushes-tron-ares-ad-inside-cars-upsetting-owners/"
     },
     {
-      "title": "Fractal\u2019s Scape is proof that $200 can get you a luxurious gaming headset - The Verge",
-      "link": "https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset"
+      "title": "The 2026 BMW M2 Turbo Design Edition Proves Objects in Mirror Are Faster Than They Appear - Road & Track",
+      "link": "https://www.roadandtrack.com/news/a68919309/2026-bmw-m2-turbo-design-edition/"
     },
     {
       "title": "You can now buy Microsoft\u2019s Windows XP Crocs for $79.95 - The Verge",
@@ -90,16 +90,20 @@
   ],
   "sports_news": [
     {
-      "title": "John Mara: \"Appearance\" of going to medical tent was \"inappropriate\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-mara-appearance-of-going-to-medical-tent-was-inappropriate"
-    },
-    {
       "title": "Packers list six questionable, rule out three vs. Bengals | Week 6 Injury Report - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/packers-bengals-injury-report-week-6-oct-10-2025"
     },
     {
       "title": "Lions, Chiefs injury designations: 4 ruled OUT, 6 game-time decisions - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-injury-report/145096/lions-chiefs-injury-designations-4-ruled-out-6-game-time-decisions"
+    },
+    {
+      "title": "NFL is reviewing how concussion protocol was followed for Giants rookie QB Jaxson Dart - AP News",
+      "link": "https://apnews.com/article/brian-daboll-injury-tent-jaxson-dart-22185291857fe0a6a82ead38e53707e2"
+    },
+    {
+      "title": "Which Phillies will be back next year? Jimmy Rollins weighs in and a Hall of Famer consoles Orion Kerkering. - Inquirer.com",
+      "link": "https://www.inquirer.com/sports/rob-thomson-kyle-schwarber-free-agency-rumors-jimmy-rollins-20251010.html"
     },
     {
       "title": "Alvin Kamara questionable for Saints, Chase Young set to play - NBC Sports",
@@ -110,64 +114,60 @@
       "link": "https://sports.yahoo.com/nfl/article/why-is-ben-johnson-trusting-a-29-year-old-first-time-colleague-to-coordinate-bears-offense-develop-caleb-williams-meet-declan-doyle-and-youll-understand-190819357.html"
     },
     {
-      "title": "Arrogance, ignorance have marred Bill Belichick\u2019s first college football season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arrogance-ignorance-have-marred-bill-belichicks-first-college-football-season"
-    },
-    {
       "title": "Trey Hendrickson, Alvin Kamara headline 8 notable NFL trade candidates ahead of Nov. 4 deadline - NFL.com",
       "link": "https://www.nfl.com/news/trey-hendrickson-alvin-kamara-headline-8-notable-nfl-trade-candidates-ahead-of-nov-4-deadline"
+    },
+    {
+      "title": "A'ja Wilson, Paige Bueckers, Napheesa Collier Headline 2025 All-WNBA Teams - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25251938-aja-wilson-paige-bueckers-napheesa-collier-headline-2025-all-wnba-teams"
+    },
+    {
+      "title": "PFF grades and snaps counts from an impressive Giants victory over the Eagles - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-analysis/140470/pff-grades-and-snaps-counts-from-an-impressive-giants-victory-over-the-eagles"
+    },
+    {
+      "title": "Jake Paul vs. Tank Davis officially set as exhibition, glove size, rounds and other rules revealed - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/449427/jake-paul-vs-tank-davis-officially-set-as-exhibition-glove-size-rounds-and-other-rules-revealed"
     },
     {
       "title": "NFL 2025 Week 6 Start \u2018Em Sit \u2018Em: Stack Jordan Love and Matthew Golden - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/news/nfl-2025-week-6-start-em-sit-em-stack-jordan-love-and-matthew-golden"
     },
     {
-      "title": "Phillies face an uncertain future following their 4th straight playoff exit - AP News",
-      "link": "https://apnews.com/article/philadelphia-phillies-kerkering-dombrowski-87967c9505c88b516232c4a40a7e079e"
+      "title": "Shedeur Sanders named Browns backup QB - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-named-browns-backup-qb"
+    },
+    {
+      "title": "Eagles Fans Can Go Ahead And Freak Out Now - Defector",
+      "link": "https://defector.com/eagles-fans-can-go-ahead-and-freak-out-now"
     },
     {
       "title": "A.J. Brown explains why he said \u201cI don\u2019t recall\u201d meeting with Jalen Hurts, Saquon Barkley - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-explains-why-he-said-i-dont-recall-meeting-with-jalen-hurts-saquon-barkley"
     },
     {
-      "title": "Savannah Bananas are headed to Oregon. Here\u2019s how to enter the ticket lottery - OregonLive.com",
-      "link": "https://www.oregonlive.com/trending/2025/10/savannah-bananas-are-headed-to-oregon-enter-the-ticket-lottery-now.html"
+      "title": "What you need to know about Saturday's BYU-Arizona game - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/10/10/byu-football-big-12-arizona-wildcats-2025-stream-listen-tv-channel/"
     },
     {
       "title": "Bucs receiver Chris Godwin out for 49ers game with fibula injury - Tampa Bay Times",
       "link": "https://www.tampabay.com/sports/bucs/2025/10/10/chris-godwin-fibula-49ers-zyon-mccollum-jamel-dean-benjamin-morrison/"
     },
     {
+      "title": "UFC Rio Weigh-in Results: Main Event Set; Fighter Misses Weight by 8 Pounds - sherdog.com",
+      "link": "https://www.sherdog.com/news/news/UFC-Rio-Weighin-Results-Main-Event-Set-Fighter-Misses-Weight-by-8-Pounds-198661"
+    },
+    {
       "title": "Ravens Getting Healthier Before Facing Rams - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/injury-report-ravens-rams-lamar-jackson-kyle-hamilton-chidobe-awuzie-roquan-smith-marlon-humphrey"
     },
     {
-      "title": "On critical Jalen Hurts interception, A.J. Brown was open for a TD - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-critical-jalen-hurts-interception-a-j-brown-was-open-for-a-td"
-    },
-    {
-      "title": "The fascinating coaching matchup of Oregon\u2019s Dan Lanning and Indiana\u2019s Curt Cignetti - OregonLive.com",
-      "link": "https://www.oregonlive.com/ducks/2025/10/the-fascinating-coaching-matchup-of-oregons-dan-lanning-and-indianas-curt-cignetti.html"
+      "title": "Dodgers Player Avoided Disastrous Mistake on Game-Winning Run Off of Phillies Error - Sports Illustrated",
+      "link": "https://www.si.com/mlb/dodgers-winning-run-phillies-error-touch-plate"
     },
     {
       "title": "KSL.com Pick'em: Staff picks for Week 7 of college football - KSL.com",
       "link": "https://www.ksl.com/article/51388098/kslcom-pickem-staff-picks-for-week-7-of-college-football"
-    },
-    {
-      "title": "Analytics Preview: Nebraska Cornhuskers vs. Maryland Terrapins - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/analytics-preview-nebraska-cornhuskers-vs-maryland-terrapins-2025-big-ten"
-    },
-    {
-      "title": "The tush push continues to inch toward potential extinction - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-tush-push-continues-to-inch-toward-potential-extinction"
-    },
-    {
-      "title": "Cristopher Sanchez says umpire apologized to him for critical missed strike as Phillies' season ends in heartbreak - New York Post",
-      "link": "https://nypost.com/2025/10/10/sports/cristopher-sanchez-says-umpire-apologized-to-him-for-critical-missed-strike-as-phillies-season-ends-in-heartbreak/"
-    },
-    {
-      "title": "Report: LSU's Lacy hit 88 mph before fatal crash - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46552190/investigative-report-kyren-lacy-case-finds-inconsistencies-louisiana-state-police-report"
     }
   ],
   "weather": {
