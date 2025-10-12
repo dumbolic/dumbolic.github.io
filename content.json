@@ -1,9 +1,9 @@
 {
-  "quote": "My definition of success is control. \u2013 Kenneth Branagh",
-  "fact": "Shakespeare invented the words \u201cassassination\u201d and \u201cbump.\u201d",
-  "crypto": "BTC: $113,811 | ETH: $4,113.56",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
+  "quote": "The more we have the less we own. \u2013 Meister Eckhart",
+  "fact": "`Obsession` is the most popular boat name.",
+  "crypto": "BTC: $0 | ETH: $0",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I've just written a song about a tortilla. Well, it is more of a rap really.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Genshin Impact's new UGC system is almost here \u2013 here's what to expect when Miliastra Wonderland launches later this month - Eurogamer",
+      "link": "https://www.eurogamer.net/genshin-impacts-new-ugc-system-is-almost-here-heres-what-to-expect-when-miliastra-wonderland-launches-later-this-month"
+    },
     {
       "title": "Hackers claim to have breached internal Nintendo data - Eurogamer",
       "link": "https://www.eurogamer.net/hackers-claim-to-have-breached-internal-nintendo-data"
@@ -20,12 +24,24 @@
       "link": "https://nintendoeverything.com/pokemon-legends-z-a-leaks-mega-evolutions/"
     },
     {
+      "title": "Apple's Clips App Discontinued - MacRumors",
+      "link": "https://www.macrumors.com/2025/10/11/apples-clips-app-discontinued/"
+    },
+    {
       "title": "The AirPods 4 and Lego\u2019s brick-ified Grogu are our favorite deals this week - The Verge",
       "link": "https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale"
     },
     {
+      "title": "It\u2019s not too late for Apple to get AI right - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/"
+    },
+    {
       "title": "Battlefield 6 EA App Outage Leads Franchise Head Vince Zampella to Recommend Using Steam Instead - Wccftech",
       "link": "https://wccftech.com/battlefield-6-ea-app-outage-leads-franchise-head-to-recommend-steam/"
+    },
+    {
+      "title": "\u2018Borderlands 4\u2019 Reveals Bounty Pack, Invincible Boss Release Dates, New Loot - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/10/11/borderlands-4-reveals-bounty-pack-invincible-boss-release-dates-new-loot/"
     },
     {
       "title": "42 Hilariously Funny And Wildly Unfortunate Photos I Feel Terrible For Laughing At (But I Didn't Let That Stop Me) - BuzzFeed",
@@ -38,6 +54,10 @@
     {
       "title": "Battlefield 6 has only been out a day and it's already one of Steam's biggest games ever - Eurogamer",
       "link": "https://www.eurogamer.net/battlefield-6-has-only-been-out-a-day-and-its-already-one-of-steams-biggest-games-ever"
+    },
+    {
+      "title": "Hydrapple Quick PvP Analysis: Stats, Moves, and First Impressions - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/pvp/hydrapple-pvp-analysis/"
     },
     {
       "title": "iPhone 17 vs. iPhone Air Battery Test Showdown: I Just Crowned A New Winner - CNET",
@@ -62,29 +82,25 @@
     {
       "title": "Sacred 2: Remaster Launches Soon, Preorders Live At Amazon - GameSpot",
       "link": "https://www.gamespot.com/articles/sacred-2-remaster-launches-soon-preorders-live-at-amazon/1100-6535367/"
-    },
-    {
-      "title": "TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo",
-      "link": "https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309"
-    },
-    {
-      "title": "Apple reportedly acquiring computer vision startup Prompt AI\u2019s team and technology - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/10/apple-reportedly-acquiring-computer-vision-startup-prompt-ais-team-and-technology/"
-    },
-    {
-      "title": "Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate - Kotaku",
-      "link": "https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114"
-    },
-    {
-      "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26 - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45544044"
-    },
-    {
-      "title": "Samsung\u2019s Rumored Ray-Ban Smart Glasses Killer May Arrive Sooner Than You Think - Gizmodo",
-      "link": "https://gizmodo.com/samsungs-rumored-ray-ban-smart-glasses-killer-may-arrive-sooner-than-you-think-2000671078"
     }
   ],
   "sports_news": [
+    {
+      "title": "Live Updates: Nebraska Leads Maryland in the Second Quarter, 17-14 - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/live-updates-nebraska-cornhuskers-at-maryland-terrapins-big-ten-2025-college-football"
+    },
+    {
+      "title": "After Jaxson Dart incident, NFL sends all teams a \"concussion protocol reminder\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-jaxson-dart-incident-nfl-sends-all-teams-a-concussion-protocol-reminder"
+    },
+    {
+      "title": "Mariners tap ALCS Game 1 starting pitcher after heavy rotation use in ALDS - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-bryce-miller-to-start-alcs-game-1-vs-blue-jays-in-toronto/"
+    },
+    {
+      "title": "49ers At Bucs, TV Map - JoeBucsFan.com",
+      "link": "https://www.joebucsfan.com/2025/10/49ers-at-bucs-tv-map/"
+    },
     {
       "title": "Alabama vs. Missouri live updates: Game score, analysis as Ty Simpson leads Tide into SEC clash with Tigers - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/alabama-missouri-game-score-live-updates/live/"
@@ -94,28 +110,44 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-video-shows-mark-sanchez-before-last-weekends-incident"
     },
     {
-      "title": "Cubs-Brewers NLDS Game 5 FAQ (8 p.m. ET, TBS) - MLB.com",
-      "link": "https://www.mlb.com/news/cubs-vs-brewers-nlds-game-5-starting-lineups-pitching-matchup"
+      "title": "Drew Pomeranz will start Game 5 for the Cubs - Bleed Cubbie Blue",
+      "link": "https://www.bleedcubbieblue.com/chicago-cubs-postseason/199177/drew-pomeranz-start-game-5-cubs"
     },
     {
-      "title": "College football scores, live updates: Week 7 schedule features Ohio State vs. Illinois in Big Ten showdown - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-7-ncaa-top-25-games-today/live/"
+      "title": "Derek Meadows injury update: Alabama WR leaves game after targeting, Marvin Burks ejected - On3",
+      "link": "https://www.on3.com/news/derek-meadows-injury-update-alabama-wr-leaves-game-after-targeting-marvin-burks-ejected/"
     },
     {
-      "title": "Mariners expected to get ace starting pitcher back for ALCS - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-ace-bryan-woo-expected-to-be-added-to-alcs-roster/"
+      "title": "College Football Picks: Saturday\u2019s Best Spread, Over/Under & Player Prop Bets - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/college-football-picks-week-7-spreads-over-unders-player-props"
+    },
+    {
+      "title": "Commanders WRs Terry McLaurin and Noah Brown out, Deebo Samuel a game-time decision - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-wrs-terry-mclaurin-and-noah-brown-out-deebo-samuel-a-game-time-decision"
+    },
+    {
+      "title": "Mariners-Blue Jays position-by-position breakdown - MLB.com",
+      "link": "https://www.mlb.com/news/mariners-blue-jays-2025-alcs-position-by-position-breakdown"
+    },
+    {
+      "title": "How No. 24 USF scored 4 TDs in span of 3\u00bd minutes to turn one-score deficit into blowout of North Texas - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/how-no-24-usf-scored-4-tds-in-span-of-3%C2%BD-minutes-to-turn-one-score-deficit-into-blowout-of-north-texas-160628144.html"
+    },
+    {
+      "title": "What Bill Belichick is telling those close to him as North Carolina exit rumors swirl - New York Post",
+      "link": "https://nypost.com/2025/10/11/sports/what-bill-belichick-is-telling-those-close-to-him-as-north-carolina-rumors-swirl/"
     },
     {
       "title": "Buffalo Bills vs. Atlanta Falcons injury report | Week 6 - Buffalo Bills",
       "link": "https://www.buffalobills.com/news/buffalo-bills-vs-atlanta-falcons-injury-report-week-6"
     },
     {
-      "title": "Novak Djokovic stunned by World No. 204 in tennis shocker - New York Post",
-      "link": "https://nypost.com/2025/10/11/sports/novak-djokovic-stunned-by-world-no-204-in-tennis-shocker/"
+      "title": "Il Lombardia: Unparalleled Tadej Poga\u010dar solos to record-breaking fifth consecutive victory and 10th Monument title - Cyclingnews",
+      "link": "https://www.cyclingnews.com/races/il-lombardia-2025/elite-men/results/"
     },
     {
-      "title": "Eagles News: Philadelphia\u2019s embarrassing loss to the Giants \u201cis on [Nick Sirianni] more than anybody\u201d - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/160969/eagles-news-philadelphias-embarrassing-loss-to-the-giants-is-on-nick-sirianni-more-than-anybody"
+      "title": "Novak Djokovic stunned by World No. 204 in tennis shocker - New York Post",
+      "link": "https://nypost.com/2025/10/11/sports/novak-djokovic-stunned-by-world-no-204-in-tennis-shocker/"
     },
     {
       "title": "2025 Week 6 DFS Main Slate Breakdown - Fantasy Points",
@@ -132,38 +164,6 @@
     {
       "title": "Why A.J. Hinch pulled dominant Tarik Skubal as Tigers season ends in ALDS heartbreaker - New York Post",
       "link": "https://nypost.com/2025/10/11/sports/why-a-j-hinch-pulled-dominant-tarik-skubal-as-tigers-season-ends-in-alds-heartbreaker/"
-    },
-    {
-      "title": "Broncos vs. Jets: 3 players to watch in Week 6 matchup - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-roster/159984/broncos-vs-jets-3-players-to-watch-in-week-6-matchup"
-    },
-    {
-      "title": "Lions vs. Chiefs Week 6 preview: 5 key matchup stats - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/145212/lions-vs-chiefs-week-6-preview-5-key-stats-for-the-arrowhead-ambush"
-    },
-    {
-      "title": "Oklahoma QB John Mateer injury update: Latest on status for Texas game - On3",
-      "link": "https://www.on3.com/news/oklahoma-qb-john-mateer-injury-update-latest-on-status-for-texas-game/"
-    },
-    {
-      "title": "Illinois Pregame Picks: Staff Score Predictions, Picks Against the Spread And Eleven Warriors Prop Bets - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/10/158586/illinois-pregame-picks-staff-score-predictions-picks-against-the-spread-and-eleven-warriors-prop-bets"
-    },
-    {
-      "title": "A'ja Wilson scores 31 to lead the Aces to a third WNBA championship in 4 seasons - NPR",
-      "link": "https://www.npr.org/2025/10/11/nx-s1-5571551/aja-wilson-las-vegas-aces-win-wnba-championship"
-    },
-    {
-      "title": "Game Preview: 10.11.25 vs. New York Rangers - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/game-preview-10-11-25-vs-new-york-rangers"
-    },
-    {
-      "title": "Georgia football injury report vs. Auburn - 247Sports",
-      "link": "https://247sports.com/college/georgia/longformarticle/georgia-football-injury-report-vs-auburn-256326655/"
-    },
-    {
-      "title": "Cal Raleigh\u2019s Star Shines Brightest in Mariners\u2019 Epic ALDS Triumph - Sports Illustrated",
-      "link": "https://www.si.com/mlb/cal-raleigh-shines-brightest-mariners-epic-alds-triumph-tigers"
     }
   ],
   "weather": {
