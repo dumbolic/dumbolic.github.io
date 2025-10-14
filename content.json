@@ -1,9 +1,9 @@
 {
-  "quote": "Nothing important is learned; it is simply remembered. \u2013 Carlos Ruiz Zafon",
-  "fact": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
-  "crypto": "BTC: $112,172 | ETH: $4,009.2",
+  "quote": "The most tragic thing in the world is a man of genius who is not a man of honor. \u2013 George Bernard Shaw",
+  "fact": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.\u00a0 He died at 13 minutes from midnight on Friday the 13th.",
+  "crypto": "BTC: $111,808 | ETH: $3,998.32",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I couldn't get a reservation at the library. They were completely booked.",
+  "joke": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Notorious Group 'Crimson Collective' Claims To Have Hacked Nintendo - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/notorious-group-crimson-collective-claims-to-have-hacked-nintendo"
+    },
     {
       "title": "Samsung just released an even better foldable than the Galaxy Z Fold 7 - Android Authority",
       "link": "https://www.androidauthority.com/samsung-w26-3606529/"
@@ -36,6 +40,10 @@
       "link": "https://www.poundingtherock.com/spurs-analysis/88458/the-biggest-risers-from-the-spurs-preseason-so-far"
     },
     {
+      "title": "Free software hasn't won - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45562286"
+    },
+    {
       "title": "Everything we know about Final Sentence - Dexerto",
       "link": "https://www.dexerto.com/gaming/everything-we-know-about-final-sentence-3265822/"
     },
@@ -48,12 +56,16 @@
       "link": "http://9to5google.com/2025/10/12/google-material-3-expressive-redesign/"
     },
     {
+      "title": "adidas Originals x Thug Club Go Global for Fall/Winter 2025 - hypebeast.com",
+      "link": "https://hypebeast.com/2025/10/adidas-originals-x-thug-club-fall-winter-2025-collection-collab-lookbook-release-info"
+    },
+    {
       "title": "Battlefield 6 issues \"fix\" for jump momentum bug and is \"monitoring\" Breakthrough player counts - Eurogamer",
       "link": "https://www.eurogamer.net/battlefield-6-issues-fix-for-jump-momentum-bug-and-is-monitoring-breakthrough-player-counts"
     },
     {
-      "title": "Stephanie Vaquer just gave Becky Lynch a reason to come after her title - Cageside Seats",
-      "link": "https://www.cagesideseats.com/wwe/389375/stephanie-vaquer-just-gave-becky-lynch-a-reason-to-come-after-her-title"
+      "title": "Time is running out for millions of Windows 10 users, but here's the 1 trick for a free one-year extension - Tom's Guide",
+      "link": "https://www.tomsguide.com/computing/windows-operating-systems/time-is-running-out-for-millions-of-windows-10-users-but-heres-the-1-trick-for-a-free-one-year-extension"
     },
     {
       "title": "Report: Screenshots for Rare\u2019s Everwild Unveiled, Featuring UI and More - MP1st",
@@ -68,38 +80,42 @@
       "link": "https://www.pcgamesn.com/clair-obscur-expedition-33/interview-vision"
     },
     {
-      "title": "Microsoft accidentally breaks Windows 10 to Windows 11 upgrade using MCT ahead of EOL - Windows Latest",
-      "link": "https://www.windowslatest.com/2025/10/12/microsoft-accidentially-breaks-windows-10-to-windows-11-upgrade-using-mct-ahead-eol/"
+      "title": "Apple Reportedly Working on New AirPods Pro, AirPods 5, and H3 Chip - MacRumors",
+      "link": "https://www.macrumors.com/2025/10/12/new-airpods-pro-airpods-5-h3-chip-rumors/"
     },
     {
       "title": "No I don't want to turn on Windows Backup with One Drive - Hacker News",
       "link": "https://news.ycombinator.com/item?id\\\\u003d45559023"
     },
     {
-      "title": "Why does Samsung feel the need to ruin Android notifications? - 9to5Google",
-      "link": "http://9to5google.com/2025/10/12/why-does-samsung-feel-the-need-to-ruin-android-notifications/"
-    },
-    {
-      "title": "Security Bite: This old school alias trick will show you who\u2019s selling or leaking your email - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/12/security-bite-this-old-school-alias-trick-will-show-you-whos-selling-or-leaking-your-email/"
-    },
-    {
-      "title": "Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025 - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/"
-    },
-    {
-      "title": "Edifier's New Cyber speaker thinks it's a gaming PC - TechSpot",
-      "link": "https://www.techspot.com/news/109828-edifier-new-cyber-speaker-thinks-gaming-pc.html"
+      "title": "Echo Show users say Amazon's smart displays are starting to feel like billboards - TechSpot",
+      "link": "https://www.techspot.com/news/109829-echo-show-users-amazon-smart-displays-starting-feel.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Chiefs-Lions ends with fight apparently started by Brian Branch - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-lions-ends-with-fight-apparently-started-by-brian-branch"
+      "title": "The Winners and Losers of the NFL Week 6 - The Ringer",
+      "link": "https://www.theringer.com/2025/10/13/nfl/winners-losers-nfl-week-6-patrick-mahomes-brian-branch-fight-drake-maye-justin-fields-baker-mayfield"
+    },
+    {
+      "title": "Lions DB gives Chiefs WR a \u2018pie face\u2019 shove after snubbing Patrick Mahomes - MLive.com",
+      "link": "https://www.mlive.com/lions/2025/10/lions-db-gives-chiefs-wr-a-pie-face-shove-after-snubbing-patrick-mahomes.html"
+    },
+    {
+      "title": "Labriola on the win over the Browns - Steelers.com",
+      "link": "https://www.steelers.com/news/labriola-on-the-win-over-the-browns-x7350"
     },
     {
       "title": "Sunday Night Football: Patrick Mahomes scores four TDs, Chiefs beat Lions 30-17 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-patrick-mahomes-scores-four-tds-chiefs-beat-lions-30-17"
+    },
+    {
+      "title": "Week 6 NFL Takeaways: Drake Maye Has Been a Revelation - Sports Illustrated",
+      "link": "https://www.si.com/nfl/week-6-nfl-takeaways-drake-maye-patriots-revelation"
+    },
+    {
+      "title": "Game notes: Josh Jacobs was in his element while under the weather - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/game-notes-josh-jacobs-was-in-his-element-while-under-the-weather-week-6-2025"
     },
     {
       "title": "Mariners overcome short rest to win Game 1 of ALCS - The Seattle Times",
@@ -114,28 +130,28 @@
       "link": "https://apnews.com/article/nascar-playoffs-las-vegas-25aab1a7d8e5f9e303f2c93ad4cf510e"
     },
     {
-      "title": "MRI will determine extent of Emeka Egbuka\u2019s absence, if any - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mri-will-determine-extent-of-emeka-egbukas-absence-if-any"
-    },
-    {
       "title": "Levitan\u2019s DFS Cash Lineup Review: Week 6 - Establish The Run",
       "link": "https://establishtherun.com/levitans-dfs-cash-lineup-review-week-6-4/"
+    },
+    {
+      "title": "Six Things That Stood Out for the Titans in Sunday's Loss to the Raiders - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/six-things-that-stood-out-for-the-titans-in-sunday-s-loss-to-the-raiders"
     },
     {
       "title": "Inter Miami, Vancouver Whitecaps gain momentum before Decision Day - MLSsoccer.com",
       "link": "https://www.mlssoccer.com/news/inter-miami-vancouver-whitecaps-gain-momentum-before-decision-day"
     },
     {
-      "title": "Rico Dowdle on record-setting day against Cowboys: They wasn\u2019t buckled up - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-on-record-setting-day-against-cowboys-they-wasnt-buckled-up"
-    },
-    {
       "title": "James Franklin is fired after Penn State goes from hopeful to horrid - The Washington Post",
       "link": "https://www.washingtonpost.com/sports/2025/10/12/james-franklin-fired-penn-state/"
     },
     {
-      "title": "Feats of Strength: Supreme pass rush, minimizing Myles Garrett spark Steelers' beatdown of Browns - TribLIVE.com",
-      "link": "https://triblive.com/sports/feats-of-strength-supreme-pass-rush-minimizing-myles-garrett-spark-steelers-beatdown-of-browns/"
+      "title": "12 possible candidates (and one long shot) for the next Oregon State football coach - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYmRfT1BuMmJINU9KdGg5X3cyLTVhSnAwVWZvdlNmZ3VMNmVueUczRXJkS2hxXzdvTW5DdjBZN1FOTVY3dVVOeV9jdHJpLXNsdFFPMUdkQThkVVpEekpKSWVfckNDWF8yNVV4dDktRTFlTzZjLTVqazU0NHpTZXVTT3U4V01yZkJfTzRuYnpld2hKYlhNMlRFcW45X0FFRWZ4NDZxN1VJREUzb3NTSU1pMFMxdEJWS0NEUW1Kbm5jdVdPdk9XcmZzbdIB3AFBVV95cUxQU2RQVE1IX2l0UlpqQ2lNejBTbzVzVmtJVlAxRUFoN2pFaFg1LVMxQk43MjB1LTVZeGVHSDVjQ3hRc2Q3eU5LSkZxMS1QZFQ0bzhObi1WVEFWaHBMYjdqWTRSM0M4ZFRkcFFTTlByenJvNW9KRjczSHlYSnhmSDdITnNqRHRaSTJiaS1KZXFJdnhmQjZBTm52Uy11dmxjNGw2N1Excm1fX0pJTjF2SGdsN2pHcVRfZU5OemJuVGpoRnlKU3lJZl9TSTk0LTA3UXZjRHdVMEl6S2loTXJt?oc=5"
+    },
+    {
+      "title": "Reporter Bob Condotta grades Seahawks\u2019 win vs. Jaguars | Analysis - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/reporter-bob-condotta-grades-seahawks-win-vs-jaguars-analysis/"
     },
     {
       "title": "Emmett Johnson Carries Nebraska to Victory with Career Performance Against Maryland - Sports Illustrated",
@@ -146,28 +162,12 @@
       "link": "https://nypost.com/2025/10/12/sports/tua-tagovailoa-sounds-alarm-as-some-dolphins-show-up-late-to-meetings/"
     },
     {
-      "title": "Game Report, 2025 Week 6: Seahawks 20, Jaguars 12 - Jaguars.com",
-      "link": "https://www.jaguars.com/news/k000495-game-report-2025-week-6-jaguars-seahawks"
-    },
-    {
       "title": "Baker Mayfield again looks like an MVP candidate as Buccaneers beat the 49ers - Yahoo Sports",
       "link": "https://sports.yahoo.com/nfl/article/baker-mayfield-again-looks-like-an-mvp-candidate-as-buccaneers-beat-the-49ers-232220024.html"
     },
     {
-      "title": "2025 College Football Rankings: Ohio State Steady, Indiana Soars, Oregon Falls - FOX Sports",
-      "link": "https://www.foxsports.com/stories/college-football/2025-college-football-rankings-ohio-state-steady-indiana-soars-oregon-falls"
-    },
-    {
-      "title": "7 takeaways as the Patriots extend their winning streak against the Saints - 98.5 The Sports Hub",
-      "link": "https://985thesportshub.com/2025/10/12/7-takeaways-as-the-patriots-extend-their-winning-streak-against-the-saints/#article"
-    },
-    {
-      "title": "Despite Jacoby Brissett Performance, Cardinals Fall Late To Colts - Arizona Cardinals",
-      "link": "https://www.azcardinals.com/news/despite-jacoby-brissett-performance-cardinals-fall-late-to-colts"
-    },
-    {
-      "title": "UAB fires coach Dilfer amid 2-4 start to 3rd season - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46575973/uab-blazers-fire-football-coach-trent-dilfer"
+      "title": "Arizona was holding opponents to fewer than 100 rushing yards per game before the Wildcats ran into BYU's Bear Bachmeier and LJ Martin Saturday night - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/10/12/byu-football-utah-preview-look-ahead-arizona-tucson-result-score-cougars/"
     }
   ],
   "weather": {
