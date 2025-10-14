@@ -1,9 +1,9 @@
 {
-  "quote": "The sun shines upon good and bad alike. \u2013 Hans Christian Andersen",
-  "fact": "Honey is the only natural food that is made without destroying any kind of life.",
-  "crypto": "BTC: $112,804 | ETH: $4,107.66",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.",
+  "quote": "Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death. \u2013 Socrates",
+  "fact": "Mexico City sinks about 10 inches a year",
+  "crypto": "BTC: $112,798 | ETH: $4,100.79",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,162 +12,166 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Hackers can steal 2FA codes and private messages from Android phones - Ars Technica",
+      "link": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/"
+    },
+    {
+      "title": "Microsoft AI announces first image generator created in-house - The Verge",
+      "link": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house"
+    },
+    {
+      "title": "Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 monitor - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/"
+    },
+    {
+      "title": "Google\u2019s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica",
+      "link": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/"
+    },
+    {
+      "title": "Google will let you hide sponsored results in search \u2014 after you\u2019ve seen them - The Verge",
+      "link": "https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them"
+    },
+    {
+      "title": "The Final Mega Randoms - Bespoked Show Dresden 2025 - Pinkbike",
+      "link": "https://www.pinkbike.com/news/the-final-mega-randoms-bespoked-show-dresden-2025.html"
+    },
+    {
+      "title": "10 JRPGs Reviewed Better Than Final Fantasy VII - DualShockers",
+      "link": "https://www.dualshockers.com/jrpgs-reviewed-better-than-final-fantasy-vii/"
+    },
+    {
+      "title": "Microsoft denies U.S. retailers like Target and Walmart have removed Xbox products from stores - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores"
+    },
+    {
+      "title": "iOS 26.1 beta 3 reveals new third-party AI integrations may be coming soon - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/13/ios-26-1-beta-3-reveals-new-third-party-ai-integrations-may-be-coming-soon/"
+    },
+    {
+      "title": "Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/battlefield-6-is-already-the-biggest-game-of-the-franchise-by-steam-concurrent-user-count"
+    },
+    {
+      "title": "Leak reveals plans for Pokemon Legends 3, multi-region Pokemon remake, Gen 11 in 2030 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/pokemon-legends-3-multi-region-remake-gen-11-leak/"
+    },
+    {
+      "title": "Environment variables are a legacy mess: Let's dive deep into them - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45570537"
+    },
+    {
       "title": "Community: 32 Switch Games We Missed, As Recommended By You - Nintendo Life",
       "link": "https://www.nintendolife.com/guides/community-32-switch-games-we-missed-as-recommended-by-you"
     },
     {
-      "title": "Google Search has \u2018hide sponsored results\u2019 button in new ad section design - 9to5Google",
-      "link": "http://9to5google.com/2025/10/13/google-search-updated-hide-sponsored-label/"
+      "title": "NotebookLM Video Overviews add Nano Banana visual styles, Brief or Explainer formats - 9to5Google",
+      "link": "http://9to5google.com/2025/10/13/notebooklm-video-overviews-styles/"
     },
     {
-      "title": "Apple releases iOS 26.1 beta 3 for iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/13/ios-26-1-beta-3/"
+      "title": "You can now buy Nvidia\u2019s personal desktop \u2018AI supercomputers\u2019 - The Verge",
+      "link": "https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer"
     },
     {
-      "title": "Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/"
-    },
-    {
-      "title": "New iOS 26.0.1 release might be coming for iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/13/new-ios-26-0-1-release-might-be-coming-for-iphone/"
-    },
-    {
-      "title": "Nano Banana image editing comes to AI Mode and Google Lens - 9to5Google",
-      "link": "http://9to5google.com/2025/10/13/google-lens-ai-mode-nano-banana/"
+      "title": "[Updated 10/13] Midnight Prologue: \"The Warning\" Content Update and Housing Early Access - Blizzard News",
+      "link": "https://news.blizzard.com/en-us/article/24241096/updated-10-13-midnight-prologue-the-warning-content-update-and-housing-early-access"
     },
     {
       "title": "Details revealed for scrapped Pokemon Legends: Ho-Oh and Lugia - Nintendo Everything",
       "link": "https://nintendoeverything.com/pokemon-legends-2-ho-oh-lugia-leak/"
     },
     {
-      "title": "4th-gen Nest Learning Thermostat gets four new Farsight faces - 9to5Google",
-      "link": "http://9to5google.com/2025/10/13/nest-learning-thermostat-new-faces/"
-    },
-    {
-      "title": "New Pokemon Gen 10 Leak Reveals Game Titles, Theme, Region, Setting, and More - The Game Post",
-      "link": "https://thegamepost.com/pokemon-gen-10-leak-game-titles-theme-region-setting/"
-    },
-    {
       "title": "My Dinner at Travis Kelce\u2019s New Restaurant Cost More Than My Electric Bill - The Cut",
       "link": "http://www.thecut.com/article/1587-prime-travis-kelce-taylor-swift-cocktail-restaurant-review.html"
     },
     {
+      "title": "Apple TV+ Rebrands to Apple TV, Ditching the Plus Sign for \u2018Vibrant New Identity\u2019 - Variety",
+      "link": "https://variety.com/2025/tv/news/apple-tv-plus-rebrands-streaming-service-1236551345/"
+    },
+    {
       "title": "Gemini overlay rolls out Summarize page shortcut in Chrome for Android - 9to5Google",
       "link": "http://9to5google.com/2025/10/13/gemini-summarize-page-chrome-android/"
-    },
-    {
-      "title": "Croc Platinum Edition Adds Trophies and Time Trials, Existing PS5, PS4 Owners Get it for Free - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/10/croc-platinum-edition-adds-trophies-and-time-trials-existing-ps5-ps4-owners-get-it-for-free"
-    },
-    {
-      "title": "Apple TV+ rebranded as just \u2018Apple TV\u2019 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/13/apple-tv-rebranded-as-just-apple-tv/"
-    },
-    {
-      "title": "The Copper Cape Quest is almost over - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/the-copper-cape-quest-is-almost-over"
-    },
-    {
-      "title": "EcoFlow\u2019s Delta Pro Ultra X can power a home for weeks - The Verge",
-      "link": "https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system"
-    },
-    {
-      "title": "Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off - Gizmodo",
-      "link": "https://gizmodo.com/forget-amazon-fire-tv-stick-flixy-tv-stick-gives-you-limitless-streaming-at-75-off-2000671726"
-    },
-    {
-      "title": "I compared 5G network signals of Verizon, T-Mobile, and AT&T at a baseball stadium - here's the verdict - ZDNET",
-      "link": "https://www.zdnet.com/article/i-compared-5g-network-signals-of-verizon-t-mobile-and-at-t-at-a-baseball-stadium-heres-the-verdict/"
-    },
-    {
-      "title": "Apple found a way to save big on key iPhone Fold component - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/13/apple-found-a-way-to-save-big-on-key-iphone-fold-component/"
-    },
-    {
-      "title": "Updated Intel Patches For Cache Aware Scheduling Net A 44% Win For AMD EPYC - Phoronix",
-      "link": "https://www.phoronix.com/news/Cache-Aware-Scheduling-Go"
     }
   ],
   "sports_news": [
     {
-      "title": "Titans fire coach Callahan after 1-5 start in 2025 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46583863/titans-fire-coach-brian-callahan-1-5-start-2025"
+      "title": "Live: Updates: Mariners, Blue Jays tied 3-3 in fifth inning of ALCS Game 2 - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-blue-jays-alcs-game-2-live-updates-score-how-to-watch/"
     },
     {
-      "title": "Tomlin questions Browns' trade of Flacco to Cincy - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46583801/tomlin-browns-trading-flacco-bengals-make-sense"
+      "title": "Brian Branch suspended one game for conduct at the end of Lions-Chiefs - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-branch-suspended-one-game-for-conduct-at-the-end-of-lions-chiefs"
     },
     {
-      "title": "Bill Belichick calls reports that he\u2019s negotiating a buyout \u201ccategorically false\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-calls-reports-that-hes-negotiating-a-buyout-categorically-false"
+      "title": "Colts place Anthony Richardson on injured reserve, claim S Reuben Lowery - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-place-anthony-richardson-on-injured-reserve-claim-s-reuben-lowery"
+    },
+    {
+      "title": "Sports writers declare the 49ers dead after Fred Warner injury - SFGATE",
+      "link": "https://www.sfgate.com/49ers/article/sports-writers-declare-49ers-dead-warner-injury-21098747.php"
+    },
+    {
+      "title": "Vikes' McCarthy practices; status for Week 7 TBD - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46584318/vikings-jj-mccarthy-practices-status-week-7-tbd"
+    },
+    {
+      "title": "Bill Belichick says he never sought an early departure from the North Carolina job - AP News",
+      "link": "https://apnews.com/article/north-carolina-bill-belichick-college-football-d7d21f5a93789a2b8bc46c14894202f4"
+    },
+    {
+      "title": "Dana White Announces UFC 323 Fights, Including Two Title Fights - UFC.com",
+      "link": "https://www.ufc.com/news/dana-white-announces-ufc-323-fights-including-two-title-fights"
+    },
+    {
+      "title": "Mike McDaniel: Tua Tagovailoa picked the wrong forum for his comments - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-postgame-press-conference-was-not-the-right-forum-for-tua-tagovailoas-comments"
+    },
+    {
+      "title": "Stephen Jones on Cowboys' defensive struggles: 'It's a work in progress' - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/stephen-jones-on-cowboys-defensive-struggles-it-s-a-work-in-progress"
+    },
+    {
+      "title": "Bears vs. Commanders preview: game picks, bold predictions, how to watch - Marquee Sports Network",
+      "link": "https://www.marqueesportsnetwork.com/chicago-bears-washington-commanders-nfl-week-6-kyler-gordon-ben-johnson-dan-quinn/"
+    },
+    {
+      "title": "5 Things To Know About the Chargers Ahead of Week 7 - Chargers.com",
+      "link": "https://www.chargers.com/news/justin-herbert-fantasy-playoff-odds-2025"
+    },
+    {
+      "title": "Nebraska head coach Matt Rhule addresses Penn State job opening - 247Sports",
+      "link": "https://247sports.com/college/nebraska/article/nebraska-huskers-football-matt-rhule-penn-state-coaching-search-james-franklin-troy-dannen-256761278/"
+    },
+    {
+      "title": "Steelers coach Mike Tomlin rips Browns GM Andrew Berry for his in-season trade of Joe Flacco - Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/10/13/tomlin-flacco-trade-berry-browns-bengals-press-conference/stories/202510130051"
+    },
+    {
+      "title": "Chris Godwin, Bucky Irving \"not in play\" for Bucs in Week 7 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-godwin-bucky-irving-not-in-play-for-bucs-in-week-7"
+    },
+    {
+      "title": "Sunday Aftermath: Rico Dowdle time, Emeka Egbuka and Puka Nacua\u2019s injuries, and more - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/sunday-aftermath-rico-dowdle-time-emeka-egbuka-and-puka-nacuas-injuries-and-more"
     },
     {
       "title": "Fab's Week 7 Fantasy Football Waiver Wire Targets: Add Chargers RB Kimani Vidal - Sports Illustrated",
       "link": "https://www.si.com/fantasy/fab-s-week-7-fantasy-football-waiver-wire-targets-add-chargers-rb-kimani-vidal-01k7dg2hqx8e"
     },
     {
-      "title": "Za\u2019Darius Smith suddenly retires at 33 in Eagles stunner - New York Post",
-      "link": "https://nypost.com/2025/10/13/sports/zadarius-smith-suddenly-retires-at-33-in-eagles-stunner/"
+      "title": "Eagles' Za'Darius Smith announces retirement after 11 seasons in the NFL - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-zadarius-smith-announces-retirement-after-11-seasons-in-the-nfl-155449757.html"
     },
     {
-      "title": "At practice, the Lions\u2019 pass to Jared Goff also violated the illegal motion rule - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/at-practice-the-lions-pass-to-jared-goff-also-violated-the-illegal-motion-rule"
+      "title": "NFL Week 6: PFF Team of the Week, Player Awards - PFF",
+      "link": "https://www.pff.com/news/nfl-week-6-pff-team-of-the-week-player-awards-2"
+    },
+    {
+      "title": "Mike Shildt Steps Down As Padres Manager - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/mike-shildt-steps-down-as-padres-manager.html"
     },
     {
       "title": "Purdue tops preseason AP Top 25 poll for 1st time, ahead of Houston and reigning NCAA champ Florida - AP News",
       "link": "https://apnews.com/article/ap-top-25-preseason-poll-purdue-d0ecf6a1b386ac7868c20fe6b09f78ea"
-    },
-    {
-      "title": "New Video Shows JuJu Smith-Schuster's Cheap Shot on Brian Branch That Led to Fight - Sports Illustrated",
-      "link": "https://www.si.com/nfl/juju-smith-schuster-brian-branch-cheap-shot"
-    },
-    {
-      "title": "Winners and losers from the Browns\u2019 23-9 loss to the Steelers - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/10/winners-and-losers-from-the-browns-23-9-loss-to-the-steelers.html"
-    },
-    {
-      "title": "Several former All-Pro players rip Tagovailoa after comment. What they\u2019re saying - Miami Herald",
-      "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article312180040.html"
-    },
-    {
-      "title": "Everything Mike Norvell had to say on Monday about loss to Pitt, play of his team, and expectations of program - 247Sports",
-      "link": "https://247sports.com/college/florida-state/longformarticle/florida-state-seminoles-head-coach-mike-norvells-monday-press-conference-256728745/"
-    },
-    {
-      "title": "Penn State\u2019s Pat Kraft, Terry Smith speak for 1st time after James Franklin\u2019s firing - PennLive.com",
-      "link": "https://www.pennlive.com/pennstatefootball/2025/10/penn-states-pat-kraft-terry-smith-speak-for-1st-time-after-james-franklins-firing-live-updates.html"
-    },
-    {
-      "title": "Eight-year contract extension for Lane Hutson - NHL.com",
-      "link": "https://www.nhl.com/canadiens/news/eight-year-contract-extension-for-lane-hutson-oct-13-2025"
-    },
-    {
-      "title": "Report: Puka Nacua likely to miss time with ankle sprain - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-puka-nacua-likely-to-miss-time-with-ankle-sprain"
-    },
-    {
-      "title": "Dak Prescott: If we don\u2019t score, I\u2019m not going to be frustrated with the defense - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-if-we-dont-score-im-not-going-to-be-frustrated-with-the-defense"
-    },
-    {
-      "title": "Georgia football stock report: Key players rising in wake of 20-10 win over Auburn - DawgNation",
-      "link": "https://www.DawgNation.com/football/stock_report/georgia-football-stock-report-key-players-rising-wake-20-10-win-over-auburn/HMAKQLNIYRDUDK7HDP24YX2TOQ/"
-    },
-    {
-      "title": "Mariners\u2019 Bryce Miller had Blue Jays beat before ALCS Game 1 began - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-bryce-miller-had-blue-jays-beat-before-alcs-game-1-began/"
-    },
-    {
-      "title": "Parker Gabriel\u2019s 7 thoughts following Broncos\u2019 win in London, including an offensive line problem and how Sean Payton can fix it - The Denver Post",
-      "link": "https://www.denverpost.com/2025/10/13/broncos-jets-analysis-7-thoughts-offensive-line/"
-    },
-    {
-      "title": "Passan: Why a Dodgers-Brewers NLCS could define MLB's labor battle - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46576425/mlb-playoffs-2025-dodgers-brewers-nlcs-world-series-passan-labor-battle"
-    },
-    {
-      "title": "Mark Sanchez's model ex breaks silence on NFL star's arrest with damning verdict - talkSPORT",
-      "link": "http://talksport.com/nfl/3640099/mark-sanchez-arrest-bobby-t-ex-statement-son-violent/"
     }
   ],
   "weather": {
