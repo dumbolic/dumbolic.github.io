@@ -1,9 +1,9 @@
 {
-  "quote": "Memory is the scribe of the soul. \u2013 Aristotle",
-  "fact": "Thirty-five percent of the people who use personal ads for dating are already married.",
-  "crypto": "BTC: $111,185 | ETH: $3,990.53",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.",
+  "quote": "The consequences of today are determined by the actions of the past. To change your future, alter your decisions today. \u2013 Unknown",
+  "fact": "The sound of E.T. walking was made by someone squishing her hands in jelly.",
+  "crypto": "BTC: $111,242 | ETH: $3,991.26",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the clown have neck pain? - Because he slept funny",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google Pixel 10 Pro Fold explodes during JerryRigEverything\u2019s durability test - Dexerto",
+      "link": "https://www.dexerto.com/youtube/google-pixel-10-pro-fold-explodes-during-jerryrigeverythings-durability-test-3267086/"
+    },
+    {
+      "title": "Apple teases M5 MacBook - The Verge",
+      "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser"
+    },
+    {
+      "title": "Ghost of Yotei devs will create one game at a time: 'It has to be our best idea,' boss says - TweakTown",
+      "link": "https://www.tweaktown.com/news/108243/ghost-of-yotei-devs-will-create-one-game-at-a-time-it-has-to-be-our-best-idea-boss-says/index.html"
+    },
+    {
+      "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/"
+    },
+    {
+      "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
+      "link": "https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-performance-2000635349"
+    },
+    {
+      "title": "Apple releases iPadOS 26.1 public beta 3 and more, here\u2019s what\u2019s new - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/14/apple-releases-ipados-26-1-public-beta-3-and-more-heres-whats-new/"
+    },
+    {
+      "title": "Intel Announces \"Crescent Island\" Inference-Optimized Xe3P Graphics Card With 160GB vRAM - Phoronix",
+      "link": "https://www.phoronix.com/review/intel-crescent-island"
+    },
+    {
+      "title": "Nvidia sells tiny new computer that puts big AI on your desktop - Ars Technica",
+      "link": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/"
+    },
+    {
       "title": "We Finally Know When Pok\u00e9mon Legends: Z-A Takes Place in the Pok\u00e9mon Timeline - IGN",
       "link": "https://www.ign.com/articles/we-finally-know-when-pokmon-legends-z-a-takes-place-in-the-pokmon-timeline"
+    },
+    {
+      "title": "Google\u2019s Gemini can now help you schedule Google Calendar meetings - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/"
     },
     {
       "title": "Minecraft Preview 1.21.130.20 - Minecraft",
       "link": "https://www.minecraft.net/en-us/article/minecraft-preview-1-21-130-20"
     },
     {
-      "title": "\u2018Destiny 2\u2019 Reverts Yet Another Hated \u2018Edge Of Fate\u2019 Addition - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/10/14/destiny-2-reverts-yet-another-hated-edge-of-fate-addition/"
+      "title": "Motorola has a super-thin Air phone too - The Verge",
+      "link": "https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too"
     },
     {
-      "title": "The best Google gadgets, ranked - The Verge",
-      "link": "https://www.theverge.com/podcast/798880/best-google-gadgets-pixel-reviews"
+      "title": "Google updates Search and Discover with collapsible ads, AI features, and more - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/"
+    },
+    {
+      "title": "\u2018Destiny 2\u2019 Reverts Yet Another Hated \u2018Edge Of Fate\u2019 Addition - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/10/14/destiny-2-reverts-yet-another-hated-edge-of-fate-addition/"
     },
     {
       "title": "Pok\u00e9mon TCG Pocket updates will soon make completing your collection easier, as mobile game approaches first anniversary - Eurogamer",
@@ -40,55 +80,47 @@
       "link": "http://9to5google.com/2025/10/14/gemini-3-0-leak-announcement/"
     },
     {
-      "title": "What to Expect From Apple's New Products as Early as This Week - MacRumors",
-      "link": "https://www.macrumors.com/2025/10/14/apple-announcements-to-expect-this-week/"
-    },
-    {
       "title": "Dissidia Duellum Final Fantasy announced for iOS/Android, releasing in 2026 - Nova Crystallis",
       "link": "https://novacrystallis.com/2025/10/dissidia-duellum-final-fantasy-announced-for-ios-android/"
     },
     {
       "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions - The Hacker News",
       "link": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html"
-    },
-    {
-      "title": "Google is rolling out the option to hide sponsored results - Android Central",
-      "link": "https://www.androidcentral.com/apps-software/hide-sponsored-results-in-google-search"
-    },
-    {
-      "title": "How to claim Minecraft's time-limited Copper Cape reward - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/minecraft-copper-cape"
-    },
-    {
-      "title": "Hollow Knight: Silksong Receives Another Update, Here Are The Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/hollow-knight-silksong-receives-another-update-here-are-the-patch-notes"
-    },
-    {
-      "title": "PS6 Manufacturing Scheduled to Get Underway in Early 2027 - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/10/ps6-manufacturing-scheduled-to-get-underway-in-early-2027"
-    },
-    {
-      "title": "Exclusive: The web is still mostly written by humans, study finds - Axios",
-      "link": "https://www.axios.com/2025/10/14/ai-generated-writing-humans"
-    },
-    {
-      "title": "Samsung halts One UI 8 rollout for Galaxy S22 amid possible firmware issue - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-halts-one-ui-8-rollout-for-galaxy-s22-amid-possible-firmware-issue/"
-    },
-    {
-      "title": "Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/"
-    },
-    {
-      "title": "Amazon just undercut its own Prime Day deal on Apple's 512GB 13-inch M3 iPad Air, now $220 off - 9to5Toys",
-      "link": "http://9to5toys.com/2025/10/14/amazon-just-undercut-its-own-prime-day-deal-on-apples-512gb-13-inch-m3-ipad-air-now-220-off/"
-    },
-    {
-      "title": "Borderlands 4 Already Selling For 20% Off On Steam, Suggesting Sales Failed To Meet Internal Expectations - Tech4Gamers",
-      "link": "https://tech4gamers.com/borderlands-20-off-steam-sale/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Penn State eyeing Marcus Freeman as they look to take \u2018big swings\u2019 after $49 million James Franklin split - New York Post",
+      "link": "https://nypost.com/2025/10/14/sports/penn-state-eyeing-marcus-freeman-after-49m-james-franklin-split/"
+    },
+    {
+      "title": "Dan Campbell defends Brian Branch\u2019s character despite suspension - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-news/145673/dan-campbell-defends-brian-branchs-character-despite-suspension"
+    },
+    {
+      "title": "Frankie Edgar breaks silence on being pulled from BKFC 82, issues warning to fighters - MMA Fighting",
+      "link": "https://www.mmafighting.com/bkfc/449998/frankie-edgar-breaks-silence-on-being-pulled-from-bkfc-82-issues-warning-to-fighters"
+    },
+    {
+      "title": "Mariners ALCS ticket prices soar on secondhand sites as World Series draws within reach - KOMO",
+      "link": "https://komonews.com/news/local/mariners-alcs-ticket-prices-soar-on-secondhand-sites-as-world-series-draws-within-reach-high-cost-economy-ms-game-t-mobile-park-event-mlb-baseball-jays-game-3-4"
+    },
+    {
+      "title": "Ravens to release C.J. Gardner-Johnson from practice squad - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-to-release-c-j-gardner-johnson-from-practice-squad"
+    },
+    {
+      "title": "UConn tops women's preseason AP Top 25 ahead of South Carolina, UCLA; SEC has 5 teams in top 10 - AP News",
+      "link": "https://apnews.com/article/ap-top-25-preseason-poll-uconn-6ba54a2aea24bbb3c7d13caf1183a64c"
+    },
+    {
+      "title": "Tuesday Mailbag: Jim Wyatt Answers Questions From Titans Fans Following the Dismissal of Brian Callahan - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/tuesday-mailbag-jim-wyatt-answers-questions-from-titans-fans-following-the-dismissal-of-brian-callahan"
+    },
+    {
+      "title": "Forde-Yard Dash: The Rivalries College Football Can\u2019t Afford to Lose - Sports Illustrated",
+      "link": "https://www.si.com/college-football/forde-yard-dash-endangered-rivalries-usc-notre-dame"
+    },
     {
       "title": "As George Pickens ascends, the Cowboys will face a contract dilemma - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-george-pickens-ascends-the-cowboys-will-face-a-contract-dilemma"
@@ -114,56 +146,24 @@
       "link": "https://www.milehighreport.com/broncos-editorial/160617/broncos-vs-jets-no-bull-london-review"
     },
     {
-      "title": "Intriguing James Franklin contract twist could influence next job after $49 million Penn State split - New York Post",
-      "link": "https://nypost.com/2025/10/14/sports/james-franklin-contract-twist-could-influence-next-job-after-penn-state-firing/"
+      "title": "\u2018This is some bullsh*t\u2019: Matt Brown scoffs at Conor McGregor\u2019s 18-month suspension from UFC - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/449868/this-is-some-bullsht-matt-brown-scoffs-at-conor-mcgregors-18-month-suspension-from-ufc"
+    },
+    {
+      "title": "Dan Quinn, Jayden Daniels, and Bill talk about turnovers and losing to the Bears - Hogs Haven",
+      "link": "https://www.hogshaven.com/pressers/382660/dan-quinn-jayden-daniels-and-bill-talk-about-turnovers-and-losing-to-the-bears"
     },
     {
       "title": "The craziest Bijan Robinson stats from record-setting performance on 'Monday Night Football' - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/the-craziest-bijan-robinson-stats-from-record-setting-performance-on-monday-night-football"
     },
     {
-      "title": "Bills coach uses one alarming word to describe veteran defender\u2019s injury that has Buffalo fans worried - Syracuse.com",
-      "link": "https://www.syracuse.com/buffalo-bills/2025/10/bills-coach-uses-one-alarming-word-to-describe-veteran-defenders-injury-that-has-buffalo-fans-worried.html"
+      "title": "7 NBA teams in tank race for 2026 Draft, ranked by chances of getting No. 1 pick - SB Nation",
+      "link": "https://www.sbnation.com/nba/1085023/nba-tank-race-2026-draft-ranked-number-one-pick"
     },
     {
-      "title": "Detroit Lions\u2019 stock report: 8 risers, 9 fallers vs. Chiefs - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/145612/detroit-lions-stock-report-8-risers-9-fallers-vs-chiefs"
-    },
-    {
-      "title": "Dan Quinn fires blunt warning shot after Commanders' primetime meltdown - Riggo's Rag",
-      "link": "https://riggosrag.com/dan-quinn-fires-blunt-warning-shot-after-commanders-primetime-meltdown"
-    },
-    {
-      "title": "NFL Power Rankings: Chiefs Rise As Top Contenders Suffer Slip-Ups - Sports Illustrated",
-      "link": "https://www.si.com/nfl/nfl-power-rankings-chiefs-rise-as-top-contenders-suffer-slip-ups"
-    },
-    {
-      "title": "First Call: Arthur Smith linked to Titans; reaction from Browns' and Bengals' coaches to Mike Tomlin's Andrew Berry comment - TribLIVE.com",
-      "link": "https://triblive.com/sports/first-call-arthur-smith-linked-to-titans-reaction-from-browns-and-bengals-coaches-to-mike-tomlins-andrew-berry-quote/"
-    },
-    {
-      "title": "Morosi on Seattle Mariners: ALCS may not be same at T-Mobile - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/morosi-seattle-mariners-alcs-different/1825421"
-    },
-    {
-      "title": "Blackhawks get cosmic justice, top Mammoth for first win of season - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/blackhawks/2025/10/13/blackhawks-mammoth-cosmic-justice-jeff-blashill-alex-vlasic"
-    },
-    {
-      "title": "2026 NFL Draft order: Jets hold No. 1 pick entering Week 7; Ravens slide into top five - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-draft-order-biggest-needs-for-every-team"
-    },
-    {
-      "title": "Alex Karaban leads UConn men's basketball over Boston College. What we learned from preseason win - CT Insider",
-      "link": "https://www.ctinsider.com/sports/uconn-mens-basketball/article/exhibition-boston-college-alex-karaban-mohegan-sun-21090894.php"
-    },
-    {
-      "title": "Mike Brown sits Knicks starters to better observe roster in preseason blowout to Wizards - New York Post",
-      "link": "https://nypost.com/2025/10/13/sports/mike-brown-sits-knicks-starters-to-better-observe-roster-in-blowout-to-wizards/"
-    },
-    {
-      "title": "Forde-Yard Dash: Assessing the College Football Playoff Race at Midseason - Sports Illustrated",
-      "link": "https://www.si.com/college-football/forde-yard-dash-assessing-college-football-playoff-race-midseason"
+      "title": "NFL Week 7 score predictions: Expert reveals game picks for the 15 NFL matchups - SportsLine",
+      "link": "https://www.sportsline.com/insiders/nfl-week-7-score-predictions-expert-reveals-game-picks-15-nfl-matchups/"
     }
   ],
   "weather": {
