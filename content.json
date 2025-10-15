@@ -1,9 +1,9 @@
 {
-  "quote": "New beginnings are disguised as painful endings. \u2013 Lao Tzu",
-  "fact": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
-  "crypto": "BTC: $111,177 | ETH: $3,970.07",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How come the stadium got hot after the game? Because all of the fans left.",
+  "quote": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases. \u2013 Carl Jung",
+  "fact": "Sherlock Holmes NEVER said \u201cElementary, my dear Watson\u201d",
+  "crypto": "BTC: $110,827 | ETH: $3,957.54",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Where do fish keep their money? In the riverbank",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "YouTube has a new video player - The Verge",
+      "link": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes"
+    },
     {
       "title": "Google Pixel 10 Pro Fold explodes during JerryRigEverything\u2019s durability test - Dexerto",
       "link": "https://www.dexerto.com/youtube/google-pixel-10-pro-fold-explodes-during-jerryrigeverythings-durability-test-3267086/"
@@ -20,12 +24,16 @@
       "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser"
     },
     {
-      "title": "Ghost of Yotei devs will create one game at a time: 'It has to be our best idea,' boss says - TweakTown",
-      "link": "https://www.tweaktown.com/news/108243/ghost-of-yotei-devs-will-create-one-game-at-a-time-it-has-to-be-our-best-idea-boss-says/index.html"
+      "title": "Call Of Duty Exists Because \"EA Were Dicks,\" Says Vince Zampella - GameSpot",
+      "link": "https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks-says-vince-zampella/1100-6535420/"
     },
     {
       "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/"
+    },
+    {
+      "title": "Motorola launches ultra-thin Edge 70 in China, international release coming soon - 9to5Google",
+      "link": "http://9to5google.com/2025/10/14/motorola-launches-ultra-thin-edge-70-in-china-international-release-coming-soon/"
     },
     {
       "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
@@ -36,12 +44,16 @@
       "link": "https://9to5mac.com/2025/10/14/apple-releases-ipados-26-1-public-beta-3-and-more-heres-whats-new/"
     },
     {
-      "title": "Intel Announces \"Crescent Island\" Inference-Optimized Xe3P Graphics Card With 160GB vRAM - Phoronix",
-      "link": "https://www.phoronix.com/review/intel-crescent-island"
+      "title": "Intel Reveals 160-GB, Energy-Efficient Inference GPU As Part Of New Yearly Cadence - CRN Magazine",
+      "link": "https://www.crn.com/news/components-peripherals/2025/intel-reveals-160-gb-energy-efficient-inference-gpu-as-part-of-new-yearly-cadence"
     },
     {
       "title": "Nvidia sells tiny new computer that puts big AI on your desktop - Ars Technica",
       "link": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/"
+    },
+    {
+      "title": "Your Google Pixel Phone's Camera Gets a Fresh UI in Big Update - Droid Life",
+      "link": "https://www.droid-life.com/2025/10/14/pixel-camera-10-1-update-arrives-with-material-3-expressive/"
     },
     {
       "title": "We Finally Know When Pok\u00e9mon Legends: Z-A Takes Place in the Pok\u00e9mon Timeline - IGN",
@@ -52,16 +64,12 @@
       "link": "https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/"
     },
     {
-      "title": "Minecraft Preview 1.21.130.20 - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/minecraft-preview-1-21-130-20"
+      "title": "Assassin's Creed franchise lead leaves Ubisoft following formation of Tencent subsidiary - Eurogamer",
+      "link": "https://www.eurogamer.net/assassins-creed-franchise-lead-leaves-ubisoft-following-formation-of-tencent-subsidiary"
     },
     {
-      "title": "Motorola has a super-thin Air phone too - The Verge",
-      "link": "https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too"
-    },
-    {
-      "title": "Google updates Search and Discover with collapsible ads, AI features, and more - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/"
+      "title": "Deals: Apple Watch Ultra 3, M3 iPad Air up to $220 off, Beats Kickstand Case low, more - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/14/deals-apple-watch-ultra-3-m3-ipad-air-kickstand-case/"
     },
     {
       "title": "\u2018Destiny 2\u2019 Reverts Yet Another Hated \u2018Edge Of Fate\u2019 Addition - Forbes",
@@ -72,26 +80,30 @@
       "link": "https://www.eurogamer.net/pokemon-tcg-pocket-updates-will-soon-make-completing-your-collection-easier-as-mobile-game-approaches-first-anniversary"
     },
     {
-      "title": "Call of Duty only exists because \"EA were dicks\", claims Battlefield lead Vince Zampella - Eurogamer",
-      "link": "https://www.eurogamer.net/call-of-duty-only-exists-because-ea-were-dicks-claims-battlefield-lead-vince-zampella"
+      "title": "Google breaks another Android Auto feature without telling anyone - Android Authority",
+      "link": "https://www.androidauthority.com/android-auto-update-breaks-quick-controls-3606935/"
     },
     {
-      "title": "Strange and sketchy leak suggests Gemini 3.0 could launch on October 22 - 9to5Google",
-      "link": "http://9to5google.com/2025/10/14/gemini-3-0-leak-announcement/"
-    },
-    {
-      "title": "Dissidia Duellum Final Fantasy announced for iOS/Android, releasing in 2026 - Nova Crystallis",
-      "link": "https://novacrystallis.com/2025/10/dissidia-duellum-final-fantasy-announced-for-ios-android/"
-    },
-    {
-      "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions - The Hacker News",
-      "link": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html"
+      "title": "Square Enix Announces Dissidia Duellum Final Fantasy Mobile Game - Anime News Network",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGhEdWxPM1B6cUhHZkRvQ3AtaDhTREVpMnBSemV6RFhBcUFjS3hJUVhUNjl5MmNUcWpjSzl4T3FZdndmRkFyVTFZWEJsUmZJUnNLMEZsblNMRlBtWFRQeDY2eUtOQTdWeXN1bEJ5VGRna0RmS1REblBUQXQxTm1zNGxBNFEtQ2I1aDBqRlNQYVFnUjgtcHF6TVlmQ1FoYVVxZnc1ak9aMGd6c3lNcmY3azRNSVdGaTJaaG42MUhB?oc=5"
     }
   ],
   "sports_news": [
     {
+      "title": "Ronaldo nets 2 to set WCQ goal-scoring record - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/46596447/cristiano-ronaldo-scores-2-portugal-wait-wc-spot"
+    },
+    {
       "title": "Penn State eyeing Marcus Freeman as they look to take \u2018big swings\u2019 after $49 million James Franklin split - New York Post",
       "link": "https://nypost.com/2025/10/14/sports/penn-state-eyeing-marcus-freeman-after-49m-james-franklin-split/"
+    },
+    {
+      "title": "D.J. Moore got good news on medical evaluation, Bears consider him day-to-day - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/d-j-moore-got-good-news-on-medical-evaluation-bears-consider-him-day-to-day"
+    },
+    {
+      "title": "Big 12 Men\u2019s Basketball Television Schedule Unveiled With Five National Partners - Big 12 Conference",
+      "link": "https://big12sports.com/news/2025/10/14/big-12-mens-basketball-television-schedule-unveiled-with-five-national-partners.aspx"
     },
     {
       "title": "Dan Campbell defends Brian Branch\u2019s character despite suspension - Pride Of Detroit",
@@ -102,20 +114,24 @@
       "link": "https://www.mmafighting.com/bkfc/449998/frankie-edgar-breaks-silence-on-being-pulled-from-bkfc-82-issues-warning-to-fighters"
     },
     {
-      "title": "Mariners ALCS ticket prices soar on secondhand sites as World Series draws within reach - KOMO",
-      "link": "https://komonews.com/news/local/mariners-alcs-ticket-prices-soar-on-secondhand-sites-as-world-series-draws-within-reach-high-cost-economy-ms-game-t-mobile-park-event-mlb-baseball-jays-game-3-4"
+      "title": "10 Fantasy Football Takeaways from Week 6: Jaxon Smith-Njigba eyes the WR1 overall crown - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/10-fantasy-football-takeaways-from-week-6-jaxon-smith-njigba-eyes-the-wr1-overall-crown"
     },
     {
       "title": "Ravens to release C.J. Gardner-Johnson from practice squad - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-to-release-c-j-gardner-johnson-from-practice-squad"
     },
     {
+      "title": "Judge in Mark Sanchez criminal case recuses herself from case - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/judge-in-mark-sanchez-criminal-case-recuses-herself-from-case"
+    },
+    {
       "title": "UConn tops women's preseason AP Top 25 ahead of South Carolina, UCLA; SEC has 5 teams in top 10 - AP News",
       "link": "https://apnews.com/article/ap-top-25-preseason-poll-uconn-6ba54a2aea24bbb3c7d13caf1183a64c"
     },
     {
-      "title": "Tuesday Mailbag: Jim Wyatt Answers Questions From Titans Fans Following the Dismissal of Brian Callahan - Tennessee Titans",
-      "link": "https://www.tennesseetitans.com/news/tuesday-mailbag-jim-wyatt-answers-questions-from-titans-fans-following-the-dismissal-of-brian-callahan"
+      "title": "Cowboys' trade deadline just got very real with surprising Jerry Jones admission - The Landry Hat",
+      "link": "https://thelandryhat.com/cowboys-trade-deadline-just-got-very-real-with-surprising-jerry-jones-admission"
     },
     {
       "title": "Forde-Yard Dash: The Rivalries College Football Can\u2019t Afford to Lose - Sports Illustrated",
@@ -138,32 +154,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-it-hasnt-been-done-often-with-1-5-start-but-we-believe-we-can-make-the-playoffs"
     },
     {
-      "title": "Fantasy Football Week 7 Defense (DST) Rankings and Streamers - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-7-defense-dst-rankings-and-streamers"
-    },
-    {
       "title": "Broncos at Jets: The No Bull London Review - Mile High Report",
       "link": "https://www.milehighreport.com/broncos-editorial/160617/broncos-vs-jets-no-bull-london-review"
     },
     {
-      "title": "\u2018This is some bullsh*t\u2019: Matt Brown scoffs at Conor McGregor\u2019s 18-month suspension from UFC - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/449868/this-is-some-bullsht-matt-brown-scoffs-at-conor-mcgregors-18-month-suspension-from-ufc"
-    },
-    {
       "title": "Dan Quinn, Jayden Daniels, and Bill talk about turnovers and losing to the Bears - Hogs Haven",
       "link": "https://www.hogshaven.com/pressers/382660/dan-quinn-jayden-daniels-and-bill-talk-about-turnovers-and-losing-to-the-bears"
-    },
-    {
-      "title": "The craziest Bijan Robinson stats from record-setting performance on 'Monday Night Football' - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/the-craziest-bijan-robinson-stats-from-record-setting-performance-on-monday-night-football"
-    },
-    {
-      "title": "7 NBA teams in tank race for 2026 Draft, ranked by chances of getting No. 1 pick - SB Nation",
-      "link": "https://www.sbnation.com/nba/1085023/nba-tank-race-2026-draft-ranked-number-one-pick"
-    },
-    {
-      "title": "NFL Week 7 score predictions: Expert reveals game picks for the 15 NFL matchups - SportsLine",
-      "link": "https://www.sportsline.com/insiders/nfl-week-7-score-predictions-expert-reveals-game-picks-15-nfl-matchups/"
     }
   ],
   "weather": {
