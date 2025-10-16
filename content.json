@@ -1,9 +1,9 @@
 {
-  "quote": "Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. \u2013 Maxime Lagace",
-  "fact": "There are 293 ways to make change for a dollar.",
-  "crypto": "BTC: $111,118 | ETH: $4,042.79",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
+  "quote": "You can do two things at once, but you can't focus effectively on two things at once. \u2013 Gary Keller",
+  "fact": "About 500 movies are made in the US and 800 in India annually.",
+  "crypto": "BTC: $110,511 | ETH: $4,007.46",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/15/apple-upgrades-ipad-pro-macbook-pro-and-vision-pro-with-new-m5-chip/"
+    },
+    {
+      "title": "How Sam Altman Played Hollywood With OpenAI's Sora 2 - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/"
+    },
+    {
+      "title": "\u2018Borderlands 4\u2019 Is On Sale After A Month As It Trails \u2018Borderlands 3\u2019 - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/10/15/borderlands-4-is-on-sale-after-a-month-as-it-trails-borderlands-3/"
+    },
+    {
       "title": "Honor reveals a new smartphone with a fold-out robotic camera arm - CNBC",
       "link": "https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html"
     },
     {
-      "title": "Apple unveils new 14\u2011inch MacBook Pro powered by the M5 chip, delivering the next big leap in AI for the Mac - Apple",
-      "link": "https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/"
-    },
-    {
       "title": "ROG Xbox Ally X: The Ars Technica review - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/"
+    },
+    {
+      "title": "Battlefield 6 sells over 7m units across PC and console in five days - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/battlefield-6-sells-over-7m-units-across-pc-and-console-in-five-days"
     },
     {
       "title": "iPhone 18 Pro's Major Camera Upgrade to Be Variable Aperture - MacRumors",
@@ -32,10 +44,6 @@
       "link": "https://www.theverge.com/news/799736/microsoft-office-icons-test-versions"
     },
     {
-      "title": "MANGO beats FAANG in battle for tech supremacy - Axios",
-      "link": "https://www.axios.com/2025/10/15/mango-faang-ai-tech-companies"
-    },
-    {
       "title": "Two New Windows Zero-Days Exploited in the Wild \u2014 One Affects Every Version Ever Shipped - The Hacker News",
       "link": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html"
     },
@@ -44,12 +52,16 @@
       "link": "https://www.eurogamer.net/banjo-kazooie-director-officially-leaves-rare-following-everwild-cancellation"
     },
     {
-      "title": "Apple exec on Apple TV rebranding: \u2018let\u2019s just do it\u2019 - The Verge",
-      "link": "https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue"
-    },
-    {
       "title": "Amazon Has Dropped the Price of Xbox Game Pass Ultimate Again (Yes, Really) - IGN",
       "link": "https://www.ign.com/articles/amazon-best-price-on-xbox-game-pass-ultimate-new-price-hike-2025"
+    },
+    {
+      "title": "Microsoft hints at \"something big\" coming this Thursday, and I have a nasty feeling I know what it is - XDA",
+      "link": "https://www.xda-developers.com/microsoft-something-big-coming-this-thursday/"
+    },
+    {
+      "title": "Apple SVP On Why They Dropped The \"Plus\" From Apple TV & Hints At Subscriber Numbers - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDJyOUVSeVpIY2tlUVJSTUdUcEZiMGpNVml6bjV6MG0wNUQyUkh4bVRHYUFvd0laTmdTTWt5SC1vV0I5Skt4VHFoRGFJX1B4dEw1RHpVSzlQWm9DTFRQelhGU3R2TXRPNUl4YmF4Vzk4NVRpSUJkZldicnFlbENxQzZpVWVnV0QyOHc?oc=5"
     },
     {
       "title": "Amazon has Apple Watch Ultra 3 down at $780, but Best Buy\u2019s open-box listing is $98 off - 9to5Toys",
@@ -68,34 +80,42 @@
       "link": "https://www.androidcentral.com/phones/google-pixel/pixel-10-pro-fold-smokes-up-and-explodes-during-jres-durability-test"
     },
     {
-      "title": "Call Of Duty Exists Because \"EA Were Dicks,\" Says Vince Zampella - GameSpot",
-      "link": "https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks-says-vince-zampella/1100-6535420/"
+      "title": "Kobo just got a very cool new accessory \u2014 a remote for your e-reader - Mashable",
+      "link": "https://mashable.com/article/kobo-e-reader-remote-launch"
     },
     {
-      "title": "Google Keep and Tasks now work hand in hand for your reminders - Android Authority",
-      "link": "https://www.androidauthority.com/google-keep-reminders-saved-to-tasks-3607032/"
-    },
-    {
-      "title": "Battlefield 6 is a smash-hit launch: 6.5m+ sold and counting - Substack",
-      "link": "https://alineaanalytics.substack.com/p/battlefield-6-is-a-smash-hit-launch"
-    },
-    {
-      "title": "Mozilla\u2019s Firefox adds Perplexity\u2019s AI answer engine as a new search option - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/"
+      "title": "Google Photos\u2019 conversational editing is now available for most US-based Android users - 9to5Google",
+      "link": "http://9to5google.com/2025/10/14/google-photos-conversational-editing-is-now-available-for-most-us-based-android-users/"
     }
   ],
   "sports_news": [
     {
-      "title": "Formula 1: Mercedes to continue with George Russell and Kimi Antonelli in 2026 - BBC",
-      "link": "https://www.bbc.com/sport/formula1/articles/cwynvne07wpo"
+      "title": "Eagles News: \u201cOne player told me that this is starting to feel like the 2023 meltdown all over again\u201d - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/161151/eagles-news-one-player-told-me-that-this-is-starting-to-feel-like-the-2023-meltdown-all-over-again"
+    },
+    {
+      "title": "Trump threatens to yank World Cup games from Boston though it's up to FIFA to choose sites - AP News",
+      "link": "https://apnews.com/article/trump-boston-world-cup-revoke-matches-crime-cd448b4564f6d32b3118d9198a7073ef"
+    },
+    {
+      "title": "Tua Tagovailoa\u2019s Wednesday press conference will be interesting, to say the least - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoas-wednesday-press-conference-will-be-interesting-to-say-the-least"
+    },
+    {
+      "title": "Russell and Antonelli confirmed as 2026 Mercedes line-up - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/russell-and-antonelli-confirmed-as-2026-mercedes-line-up.1vrWrdgEflkIwPgaybBEDj"
+    },
+    {
+      "title": "Jerry Jones: Matt Eberflus is who I want in the foxhole with me - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-matt-eberflus-who-i-want-in-the-foxhole-with-me"
     },
     {
       "title": "2026 NFL Mock Draft: Jets grab Ty Simpson with first overall pick, Cowboys select Caleb Downs at No. 12 - PFF",
       "link": "https://www.pff.com/news/draft-2026-nfl-mock-draft-jets-ty-simpson-cowboys-caleb-downs"
     },
     {
-      "title": "Tyler Skaggs drug death case begins with bombshell accusations against Angels: \u2018Buried their heads in the sand\u2019 - New York Post",
-      "link": "https://nypost.com/2025/10/15/sports/tyler-skaggs-drug-death-case-begins-with-bombshell-accusations-against-angels/"
+      "title": "Haji Wright delivers as USMNT beats Australia 2-1, but Christian Pulisic's injury clouds win - Yahoo",
+      "link": "https://sports.yahoo.com/soccer/breaking-news/article/haji-wright-delivers-as-usmnt-beats-australia-2-1-but-christian-pulisics-injury-clouds-win-030458529.html"
     },
     {
       "title": "Running Back Start 'Em, Sit 'Em For Fantasy Football Week 7 - Sports Illustrated",
@@ -103,7 +123,7 @@
     },
     {
       "title": "Quarterback Start 'Em, Sit 'Em For Fantasy Football Week 7 - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWlVWmlIVGRGTUlPRm1LY2ZlS3Q0amI5YUswZmMtVnNaSGJkcWUwVUg1ZERuV1N5WVhKbDFKeEhhOFJhclRGYVBPNklobXYxcVBLUWRhMDZHd3F6Qkg4VXdoRjV6Tjdsa3pNYTg5aWJ2R2Y2RGpIUnZJMkMzclRaOHlYRkhub3dRT3dEX0prejlaNTRJSEhvT0JENA?oc=5"
+      "link": "https://www.si.com/fantasy/quarterback-start-em-sit-em-for-fantasy-football-week-7-01k7hjtqz2ws"
     },
     {
       "title": "From train rides to Reggie Bush: The best games in the USC-Notre Dame rivalry - ESPN",
@@ -114,6 +134,10 @@
       "link": "https://www.si.com/fantasy/defense-kicker-start-em-sit-em-for-fantasy-football-week-7-01k7hmaxayre"
     },
     {
+      "title": "QUIZ: 10 questions on the latest F1 news and US GP history - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/this-week-in-f1-10-quiz-questions-on-grand-prix-history-in-the-usa-and-the.7eUx9T01aDAGqVIpxqLm68"
+    },
+    {
       "title": "Aaron Rodgers: Matchup with Joe Flacco is great for the old guys - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-matchup-with-joe-flacco-is-great-for-the-old-guys"
     },
@@ -122,16 +146,16 @@
       "link": "https://apnews.com/article/dodgers-brewers-yamamoto-nlcs-80e947da3e89fba73e78e19d8b22c5c2"
     },
     {
-      "title": "Alex Bregman Will Opt Out Of Red Sox Contract - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/alex-bregman-will-opt-out-of-red-sox-contract.html"
-    },
-    {
       "title": "Player Grades: Lakers vs. Suns - Silver Screen and Roll",
       "link": "https://www.silverscreenandroll.com/lakers-analysis/97398/player-grades-lakers-suns-box-score-stats-luka-doncic-austin-reaves-preseason"
     },
     {
       "title": "Musings: Ducks 4, Penguins 3 - NHL.com",
       "link": "https://www.nhl.com/penguins/news/musings-ducks-4-penguins-3"
+    },
+    {
+      "title": "Recap: Bussi Backstops Canes To Third Straight Victory - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/recap-bussi-backstops-canes-to-third-straight-victory"
     },
     {
       "title": "Titans HC Rumors: Nagy, Smith, Brady - ProFootballRumors.com",
@@ -144,26 +168,6 @@
     {
       "title": "New York Rangers break NHL record after being shut out three straight times at home to start 2025-26 season: \u2018I don\u2019t know whether to laugh or cry, honestly\u2019 - RMNB",
       "link": "https://russianmachineneverbreaks.com/2025/10/14/new-york-rangers-nhl-record-three-straight-home-shutouts/"
-    },
-    {
-      "title": "Trump threatens World Cup host cities over crime. Some respond with a shrug. - Politico",
-      "link": "https://www.politico.com/news/2025/10/14/trump-threatens-world-cup-host-cities-00608688"
-    },
-    {
-      "title": "Week 10 Results + Scorecards | Dana White's Contender Series Season 9 - UFC.com",
-      "link": "https://www.ufc.com/news/week-10-results-scorecards-fight-recaps-contract-winners-interviews-dana-whites-contender-series-season-9"
-    },
-    {
-      "title": "Three points for Tom Wilson: Caps beat Bolts 3-2 in overtime - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/10/14/three-points-for-tom-wilson-caps-beat-bolts-3-2-in-overtime/"
-    },
-    {
-      "title": "Dodgers\u2019 Teoscar Hernandez avoiding haunted Milwaukee hotel on wife\u2019s request - New York Post",
-      "link": "https://nypost.com/2025/10/14/sports/dodgers-teoscar-hernandez-avoiding-haunted-hotel-on-wifes-request/"
-    },
-    {
-      "title": "What to watch for as Mariners return home with commanding ALCS lead - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-focused-on-taking-stranglehold-on-alcs-vs-blue-jays-we-get-back-to-work/"
     }
   ],
   "weather": {
