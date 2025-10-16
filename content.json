@@ -1,9 +1,9 @@
 {
-  "quote": "Fishing is much more than fish. \u2013 Herbert Hoover",
-  "fact": "Bruce Lee was so fast that they had to slow the film down so you could see his moves.",
-  "crypto": "BTC: $111,467 | ETH: $4,056.56",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+  "quote": "Where there is no struggle, there is no strength.  \u2013 Oprah Winfrey",
+  "fact": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
+  "crypto": "BTC: $111,466 | ETH: $4,048.69",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Today a girl said she recognized me from vegetarian club, but I\u2019m sure I\u2019ve never met herbivore.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "These are the Office icons Microsoft rejected - The Verge",
+      "link": "https://www.theverge.com/news/799736/microsoft-office-icons-test-versions"
+    },
+    {
+      "title": "MANGO beats FAANG in battle for tech supremacy - Axios",
+      "link": "https://www.axios.com/2025/10/15/mango-faang-ai-tech-companies"
+    },
+    {
       "title": "Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/"
-    },
-    {
-      "title": "Pok\u00e9mon Teraleak Reveals Unannounced Games, Seemingly Laying Out Franchise's Major Releases Through 2030 - IGN",
-      "link": "https://www.ign.com/articles/pokmon-teraleak-reveals-unannounced-games-seemingly-laying-out-franchises-major-releases-through-2030"
-    },
-    {
-      "title": "Free-to-play \u2018Horrorverse\u2019 tactical RPG shooter Rules of Engagement: The Grey State announced for PC - Gematsu",
-      "link": "https://www.gematsu.com/2025/10/free-to-play-horrorverse-tactical-rpg-shooter-rules-of-engagement-the-grey-state-announced-for-pc"
     },
     {
       "title": "Apple SVP On Why They Dropped The \"Plus\" From Apple TV & Hints At Subscriber Numbers - Deadline",
@@ -32,28 +32,48 @@
       "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/"
     },
     {
-      "title": "Samsung officially teases Moohan headset launch for next week - The Verge",
-      "link": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open"
+      "title": "Samsung Galaxy Event: Worlds Wide Open \u2014 A New Era of Multimodal AI - Samsung Global Newsroom",
+      "link": "https://news.samsung.com/us/samsung-galaxy-event-worlds-wide-open-a-new-era-of-multimodal-ai"
     },
     {
-      "title": "Pixel 10 Pro Fold bends and breaks in durability test, just like its predecessors - 9to5Google",
-      "link": "http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/"
+      "title": "YouTube\u2019s biggest redesign in years brings sleek look and enhanced features - Android Police",
+      "link": "https://www.androidpolice.com/youtube-visual-update-new-features/"
     },
     {
-      "title": "Exclusive: Inaudible sound might be the next frontier in wildfire defense - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/"
+      "title": "Over 50 Percent of the Internet Is Now AI Slop, New Data Finds - Futurism",
+      "link": "https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop"
     },
     {
-      "title": "New powerful M5 MacBook Pro teased by Greg Joswiak - AppleInsider",
-      "link": "https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak"
+      "title": "Pixel 10 Pro Fold smokes up and explodes during JRE's durability test - Android Central",
+      "link": "https://www.androidcentral.com/phones/google-pixel/pixel-10-pro-fold-smokes-up-and-explodes-during-jres-durability-test"
     },
     {
-      "title": "Just Dance 2026 Edition: Go Hands-Free with the All-New Camera Controller - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/10/14/just-dance-2026-camera-controller/"
+      "title": "Apple teases M5 MacBook - The Verge",
+      "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser"
+    },
+    {
+      "title": "Call Of Duty Exists Because \"EA Were Dicks,\" Says Vince Zampella - GameSpot",
+      "link": "https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks-says-vince-zampella/1100-6535420/"
+    },
+    {
+      "title": "Google Keep and Tasks now work hand in hand for your reminders - Android Authority",
+      "link": "https://www.androidauthority.com/google-keep-reminders-saved-to-tasks-3607032/"
     },
     {
       "title": "Battlefield 6 is a smash-hit launch: 6.5m+ sold and counting - Substack",
       "link": "https://alineaanalytics.substack.com/p/battlefield-6-is-a-smash-hit-launch"
+    },
+    {
+      "title": "Mozilla\u2019s Firefox adds Perplexity\u2019s AI answer engine as a new search option - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/"
+    },
+    {
+      "title": "Motorola launches ultra-thin Edge 70 in China, international release coming soon - 9to5Google",
+      "link": "http://9to5google.com/2025/10/14/motorola-launches-ultra-thin-edge-70-in-china-international-release-coming-soon/"
+    },
+    {
+      "title": "AMD FSR 4 INT8 Xbox Series X Simulation Shows Possible Advantage in Image Quality and Frame Rate - Wccftech",
+      "link": "https://wccftech.com/amd-fsr4-int-8-xbox-series-x-simulation-shows-possible-advantage/"
     },
     {
       "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
@@ -64,42 +84,46 @@
       "link": "https://www.macrumors.com/2025/10/14/apple-seeds-ios-26-1-public-beta-3/"
     },
     {
-      "title": "You can test Microsoft's new in-house AI image generator model now - here's how - ZDNET",
-      "link": "https://www.zdnet.com/article/you-can-test-microsofts-new-in-house-ai-image-generator-model-now-heres-how/"
-    },
-    {
-      "title": "Pok\u00e9mon TCG Pocket updates will soon make completing your collection easier, as mobile game approaches first anniversary - Eurogamer",
-      "link": "https://www.eurogamer.net/pokemon-tcg-pocket-updates-will-soon-make-completing-your-collection-easier-as-mobile-game-approaches-first-anniversary"
-    },
-    {
-      "title": "Call of Duty only exists because \"EA were dicks\", claims Battlefield lead Vince Zampella - Eurogamer",
-      "link": "https://www.eurogamer.net/call-of-duty-only-exists-because-ea-were-dicks-claims-battlefield-lead-vince-zampella"
-    },
-    {
-      "title": "Pok\u00e9mon Legends Z-A Mega Starters Leaked: Stats and New Mega Evolutions Revealed - VICE",
-      "link": "http://www.vice.com/en/article/pokemon-legends-z-a-mega-starters-leaked-stats-and-new-mega-evolutions-revealed/"
-    },
-    {
-      "title": "Dissidia Duellum Final Fantasy announced for iOS/Android, releasing in 2026 - Nova Crystallis",
-      "link": "https://novacrystallis.com/2025/10/dissidia-duellum-final-fantasy-announced-for-ios-android/"
+      "title": "Google has patched 'Pixnapping' attack in Android, further fix with December security update - 9to5Google",
+      "link": "http://9to5google.com/2025/10/14/google-patched-pixnapping-attack-further-fix-december-update/"
     }
   ],
   "sports_news": [
     {
-      "title": "Luka Don\u010di\u0107, Austin Reaves show out in preseason loss to Suns - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/lakers-scores-results/97394/lakers-vs-suns-final-score-recap-stats-box-score-preseason-austin-reaves-luka-doncic"
+      "title": "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 7 - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/defense-kicker-start-em-sit-em-for-fantasy-football-week-7-01k7hmaxayre"
+    },
+    {
+      "title": "Aaron Rodgers: Matchup with Joe Flacco is great for the old guys - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-matchup-with-joe-flacco-is-great-for-the-old-guys"
+    },
+    {
+      "title": "The college coaching world reacts to Penn State firing James Franklin - On3",
+      "link": "https://www.on3.com/teams/penn-state-nittany-lions/news/the-college-coaching-world-reacts-to-penn-state-firing-james-franklin/"
+    },
+    {
+      "title": "Yamamoto throws 3-hitter as Dodgers beat Brewers 5-1 for 2-0 lead in NLCS - AP News",
+      "link": "https://apnews.com/article/dodgers-brewers-yamamoto-nlcs-80e947da3e89fba73e78e19d8b22c5c2"
+    },
+    {
+      "title": "Player Grades: Lakers vs. Suns - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-analysis/97398/player-grades-lakers-suns-box-score-stats-luka-doncic-austin-reaves-preseason"
+    },
+    {
+      "title": "Guardians To Re-Sign Austin Hedges - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/guardians-to-re-sign-austin-hedges.html"
     },
     {
       "title": "Titans HC Rumors: Nagy, Smith, Brady - ProFootballRumors.com",
       "link": "https://www.profootballrumors.com/2025/10/titans-hc-rumors-nagy-smith-brady"
     },
     {
-      "title": "Trump threatens World Cup host cities over crime. Some respond with a shrug. - Politico",
-      "link": "https://www.politico.com/news/2025/10/14/trump-threatens-world-cup-host-cities-00608688"
+      "title": "Chiefs QB Patrick Mahomes Gets Blasted by Lions Player - Heavy Sports",
+      "link": "https://heavy.com/sports/nfl/kansas-city-chiefs/patrick-mahomes-igetting-blasted-lions-player"
     },
     {
-      "title": "Haji Wright delivers as USMNT beats Australia 2-1, but Christian Pulisic injury clouds win - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/breaking-news/article/haji-wright-delivers-as-usmnt-beats-australia-2-1-but-christian-pulisic-injury-clouds-win-030458411.html"
+      "title": "Trump threatens World Cup host cities over crime. Some respond with a shrug. - Politico",
+      "link": "https://www.politico.com/news/2025/10/14/trump-threatens-world-cup-host-cities-00608688"
     },
     {
       "title": "Week 10 Results + Scorecards | Dana White's Contender Series Season 9 - UFC.com",
@@ -110,24 +134,24 @@
       "link": "https://russianmachineneverbreaks.com/2025/10/14/three-points-for-tom-wilson-caps-beat-bolts-3-2-in-overtime/"
     },
     {
+      "title": "Red Sox Third Baseman Alex Bregman Makes Decision on Player Option - Sports Illustrated",
+      "link": "https://www.si.com/mlb/red-sox-third-baseman-alex-bregman-makes-decision-player-option-contract"
+    },
+    {
       "title": "What to watch for as Mariners return home with commanding ALCS lead - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/mariners-focused-on-taking-stranglehold-on-alcs-vs-blue-jays-we-get-back-to-work/"
     },
     {
-      "title": "Alex Bregman Will Opt Out Of Red Sox Contract - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/alex-bregman-will-opt-out-of-red-sox-contract.html"
-    },
-    {
-      "title": "Why Jerry Jones, Cowboys could be ready to gamble again as NFL trade deadline nears - Dallas News",
-      "link": "https://www.dallasnews.com/sports/cowboys/2025/10/14/why-jerry-jones-cowboys-nfl-trade-deadline-rumors/"
-    },
-    {
-      "title": "Rockies Have Interviewed James Click, Scott Sharp, Matt Forman In Front Office Search - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/rockies-have-interviewed-james-click-scott-sharp-matt-forman-in-front-office-search.html"
+      "title": "C.J. Gardner-Johnson Released by Ravens in 'Mutual Decision' After Alohi Gilman Trade - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25260614-cj-gardner-johnson-released-ravens-mutual-decision-after-alohi-gilman-trade"
     },
     {
       "title": "27.3 million watched Lions-Chiefs on Sunday night - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/27-3-million-watched-lions-chiefs-on-sunday-night"
+    },
+    {
+      "title": "Who are the latest teams to qualify for the FIFA World Cup 2026? - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/10/14/who-are-the-latest-teams-to-qualify-for-the-fifa-world-cup-2026"
     },
     {
       "title": "Big 12 releases tip times, TV details for upcoming basketball season. Here\u2019s the details for BYU and Utah games - Deseret News",
@@ -144,22 +168,6 @@
     {
       "title": "Colts work out QBs Jeff Driskel, Jaren Hall, Tanner Mordecai, Kyle Trask - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-work-out-qbs-jeff-driskel-jaren-hall-tanner-mordecai-kyle-trask"
-    },
-    {
-      "title": "CBB With Danny Z: AP, Analytics Disagree On Preseason Hoops Top 25 - OutKick",
-      "link": "https://www.outkick.com/sports/cbb-danny-z-ap-analytics-preseason-hoops-top-25"
-    },
-    {
-      "title": "Penn State Coaching Search Hot Board 2.0 - 247Sports",
-      "link": "https://247sports.com/college/penn-state/longformarticle/penn-state-football-coaching-search-hot-board-terry-smith-matt-rhole-curt-cignetti-urban-meyer-pat-kraft-256620241/"
-    },
-    {
-      "title": "Joe Flacco reacts to Mike Tomlin\u2019s shot at the Browns for trade with Bengals - Cleveland.com",
-      "link": "https://www.cleveland.com/bengals/2025/10/joe-flacco-reacts-to-mike-tomlins-shot-at-the-browns-for-trade-with-bengals.html"
-    },
-    {
-      "title": "Gerry Dulac: Steelers went out and got Jalen Ramsey for matchups like Thursday's with the Bengals - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2025/10/14/ramsey-slay-chase-higgins-tnf/stories/202510140051"
     }
   ],
   "weather": {
