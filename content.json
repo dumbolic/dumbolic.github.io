@@ -1,9 +1,9 @@
 {
-  "quote": "You play the hand you're dealt. I think the game's worthwhile.   \u2013 Christopher Reeve",
-  "fact": "In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.",
-  "crypto": "BTC: $106,807 | ETH: $3,842.96",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
+  "quote": "Muddy water is best cleared by leaving it alone. \u2013 Alan Watts",
+  "fact": "Relative to size, the strongest muscle in the body is the tongue.",
+  "crypto": "BTC: $106,835 | ETH: $3,844.01",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Sanctuary Ignites with Itemization & Systems Changes \u2014 Diablo IV - Blizzard News",
+      "link": "https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes"
+    },
+    {
+      "title": "Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/"
+    },
+    {
       "title": "Review | I\u2019m 44, and \u2018Pok\u00e9mon Legends: Z-A\u2019 makes me feel the walls closing in - The Washington Post",
       "link": "https://www.washingtonpost.com/entertainment/video-games/2025/10/16/pokemon-legends-z-a-review/"
+    },
+    {
+      "title": "Obsidian Entertainment On The Lessons Learned From The Outer Worlds - Game Informer",
+      "link": "https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the-lessons-learned-from-the-outer-worlds"
+    },
+    {
+      "title": "Apple loses another AI exec to Meta - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/"
     },
     {
       "title": "OnePlus's big OxygenOS 16 update brings much more than just Android 16: Here's everything new - Android Authority",
       "link": "https://www.androidauthority.com/oxygenos-16-features-3607625/"
     },
     {
-      "title": "Quantic Dream Is Making Spellcasters Chronicles, A Multiplayer Game \u2013 Here's What We Think So Far - Game Informer",
-      "link": "https://gameinformer.com/2025/10/16/quantic-dream-is-making-spellcasters-chronicles-a-multiplayer-game-heres-what-we-think"
+      "title": "Battlefield 6 Shatters Records Becoming the Biggest Launch in Franchise History - Business Wire",
+      "link": "https://www.businesswire.com/news/home/20251016418634/en/Battlefield-6-Shatters-Records-Becoming-the-Biggest-Launch-in-Franchise-History"
+    },
+    {
+      "title": "Nintendo Download: 16th October (North America) - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/nintendo-download-16th-october-north-america"
     },
     {
       "title": "Pok\u00e9mon Legends: Z-A\u2019s Worst Mega Evolution Is At Least Funny - Kotaku",
@@ -32,8 +52,12 @@
       "link": "https://9to5mac.com/2025/10/16/m5-macbook-pro-vs-m4-macbook-pro-whats-actually-changed/"
     },
     {
-      "title": "Ugreen\u2019s 8-port Thunderbolt 4 hub is $80 off - The Verge",
-      "link": "https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale"
+      "title": "Huh, Quantic Dream Announces A Hero Shooter Called Spellcasters - Kotaku",
+      "link": "https://kotaku.com/quantic-dream-hero-shooter-spellcasters-star-wars-eclipse-2000636086"
+    },
+    {
+      "title": "Panasonic Brings Gorgeous Gold Lumix S9 to the US - PetaPixel",
+      "link": "https://petapixel.com/2025/10/16/panasonic-brings-gorgeous-gold-lumix-s9-to-the-us/"
     },
     {
       "title": "Exclusive: OpenAI hires black hole physicist in broader science push - Axios",
@@ -44,126 +68,106 @@
       "link": "https://news.xbox.com/en-us/2025/10/16/rog-xbox-ally-handheld-accessories/"
     },
     {
-      "title": "First real-life Galaxy S26 Ultra photo leaks, and something looks different - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-case-photo-leak/"
+      "title": "'Milestone': Google AI reveals new method to make cancer treatable - Interesting Engineering",
+      "link": "https://interestingengineering.com/health/google-deepmind-new-ai-cancer-treatment"
     },
     {
       "title": "Dead or Alive and Ninja Gaiden 2004 Creator Tomonobu Itagaki Dies Aged 58, Fans React to Final Message: 'I Am Proud to Say That I Followed My Beliefs and Fought to the End' - IGN",
       "link": "https://www.ign.com/articles/dead-or-alive-and-ninja-gaiden-2004-creator-tomonobu-itagaki-dies-aged-58-fans-react-to-final-message-i-am-proud-to-say-that-i-followed-my-beliefs-and-fought-to-the-end"
     },
     {
-      "title": "Sony Strikes Back at Tencent's Horizon Rip-Off, Says Light of Motiram 'Jeopardises' Future Success - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/10/sony-strikes-back-at-tencents-horizon-rip-off-says-light-of-motiram-jeopardises-future-success"
+      "title": "Qualcomm, MediaTek Are Considering Shifting 2nm Chipset Production To Samsung As TSMC\u2019s Price Hike Is Denting Their Profits - Wccftech",
+      "link": "https://wccftech.com/qualcomm-and-mediatek-reportedly-considering-shifting-2nm-production-to-samsung/"
     },
     {
       "title": "Breaking: Samsung has reportedly cancelled the Galaxy S26 Edge, here's why - Android Authority",
       "link": "https://www.androidauthority.com/samsung-galaxy-s26-edge-cancelled-report-3607637/"
     },
     {
-      "title": "How to Participate in Pok\u00e9mon Legends: Z\u2011A Ranked Battles - Pokemon.com",
-      "link": "https://www.pokemon.com/us/strategy/how-to-participate-in-pokemon-legends-z-a-ranked-battles"
-    },
-    {
-      "title": "Retiring Windows 10 and Microsoft's move towards a surveillance state - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45600338"
-    },
-    {
       "title": "Roku might've just solved the biggest problem with home TV streaming - here's how - ZDNET",
       "link": "https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/"
-    },
-    {
-      "title": "Google\u2019s AI video generator is getting better editing and more audio - The Verge",
-      "link": "https://www.theverge.com/news/800371/google-veo-3-1-flow-audio"
-    },
-    {
-      "title": "Apple Intelligence has 20+ brand new features in iOS 26, here\u2019s the full list - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/15/apple-intelligence-new-features-in-ios-26-full-list/"
-    },
-    {
-      "title": "Pok\u00e9mon GO Level 1\u201380 Requirements and Rewards Guide - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/guide/pokemon-go-level-1-to-80-guide-xp-level-up-tasks-and-rewards/"
     }
   ],
   "sports_news": [
     {
-      "title": "Spencer Rattler: Getting benched for Caleb Williams at Oklahoma was a blessing in disguise - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-getting-benched-for-caleb-williams-at-oklahoma-was-a-blessing-in-disguise"
+      "title": "Joel Bitonio: Acrisure Stadium was \u201cworst field I\u2019ve played on\u201d - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joel-bitonio-acrisure-stadium-was-worst-field-ive-played-on"
+    },
+    {
+      "title": "New York involvement in Jared Goff TD catch potentially opens Pandora\u2019s box - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-york-involvement-in-jared-goff-td-catch-potentially-opens-pandoras-box"
+    },
+    {
+      "title": "Brewers fan fired after threatening to \u2018call ICE\u2019 on Dodgers fan at NLCS game - New York Post",
+      "link": "https://nypost.com/2025/10/16/sports/brewers-fan-fired-after-threatening-to-call-ice-on-dodgers-fan/"
+    },
+    {
+      "title": "Aaron Judge Will Not Require Elbow Surgery; Rod\u00f3n, Volpe Likely Unavailable To Begin 2026 - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/aaron-judge-will-not-require-elbow-surgery-rodon-volpe-likely-unavailable-to-begin-2026.html"
+    },
+    {
+      "title": "Here\u2019s where Utah and BYU are predicted to finish in Big 12 men\u2019s basketball - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/10/16/big-12-mens-basketball-preseason-poll-2025-2026-byu-utah/"
+    },
+    {
+      "title": "FIFA announces over 1 million tickets sold for 2026 World Cup in North America - AP News",
+      "link": "https://apnews.com/article/fifa-world-cup-tickets-aa5ec608f51b398174b1c234d85f8def"
+    },
+    {
+      "title": "Inside the Bengals\u2019 Accelerated Plan to Prep Joe Flacco - Sports Illustrated",
+      "link": "https://www.si.com/nfl/inside-bengals-plan-joe-flacco"
+    },
+    {
+      "title": "Science Lab: Cowboys simply need better-than-worst - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/science-lab-cowboys-simply-need-better-than-worst"
+    },
+    {
+      "title": "FIFA World Cup 2026: What to know about Trump\u2019s threat to move Boston games - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2025/10/16/what-to-know-about-trumps-threat-to-take-world-cup-games-from-boston"
     },
     {
       "title": "Silva-Weidman added to Nov. 14 Paul-Davis card - ESPN",
       "link": "https://www.espn.com/boxing/story/_/id/46615040/silva-weidman-boxing-match-added-nov-14-paul-davis-card"
     },
     {
+      "title": "NFL Week 7 staff picks: Moneyline, spread, over/under predictions - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-gambling-odds/145825/nfl-week-7-staff-picks-moneyline-spread-over-under-predictions"
+    },
+    {
       "title": "Aaron Rodgers, Joe Flacco brings a rare matchup of 40-year-old quarterbacks - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-joe-flacco-brings-a-rare-matchup-of-40-year-old-quarterbacks"
     },
     {
-      "title": "Brewers fan loses job for suggesting to \u2018call ICE\u2019 on Latino Dodgers fan during Game 2 of NLCS, Journal Sentinel reports - WGN-TV",
-      "link": "https://wgntv.com/news/brewers-fan-loses-job-for-suggesting-to-call-ice-on-latino-dodgers-fan-during-game-2-of-nlcs-journal-sentinel-reports/"
+      "title": "Inbox: That gives the Packers a lot to consider - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/inbox-that-gives-the-packers-a-lot-to-consider-oct-16-2025"
     },
     {
-      "title": "NFL\u2019s bizarre involvement in middle of Chiefs\u2019 latest penalty controversy - New York Post",
-      "link": "https://nypost.com/2025/10/16/sports/nfls-bizarre-involvement-in-middle-of-chiefs-latest-penalty-controversy/"
+      "title": "Death of former world champion boxer Ricky Hatton ruled suicide by coroner report - USA Today",
+      "link": "https://www.usatoday.com/story/sports/boxing/2025/10/16/ricky-hatton-former-world-champion-boxer-death-suicide/86721963007/"
     },
     {
-      "title": "Boxing great Ricky Hatton was found hanged, coroner\u2019s court hears - AP News",
-      "link": "https://apnews.com/article/ricky-hatton-death-inquest-2196225cc1697008d53a3a56e416d4a8"
+      "title": "NASCAR at Talladega: Key info, links, results for race weekend - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/10/16/nascar-at-talladega-key-info-links-results-for-race-weekend/"
     },
     {
-      "title": "Week 6 film review: Lions\u2019 correctable defensive mistakes vs. Chiefs - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/145695/week-6-film-review-detroit-lions-defensive-mistakes-kc-chiefs"
+      "title": "The Opener: ALCS, NLCS, Waiver Wire - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/the-opener-alcs-nlcs-waiver-wire.html"
     },
     {
-      "title": "Stunning video twist in Texas Tech-Kansas sideline knife controversy - New York Post",
-      "link": "https://nypost.com/2025/10/16/sports/stunning-video-twist-in-texas-tech-kansas-knife-controversy/"
+      "title": "Veteran coach Bruce Pearl has a new home - NJ.com",
+      "link": "https://www.nj.com/sports/2025/10/legendary-coach-bruce-pearl-has-a-new-home.html"
     },
     {
-      "title": "Kevin Durant and the Rockets Both Had a Plan. Here\u2019s How the NBA\u2019s Perfect Fit Finally Came Together. - Sports Illustrated",
-      "link": "https://www.si.com/nba/kevin-durant-rockets-plan-how-nba-perfect-fit-finally-came-together-digital-cover"
+      "title": "\u2018I\u2019m not your friend\u2019: Brendan Allen reveals why he refused to train with Reinier de Ridder - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/450194/im-not-your-friend-brendan-allen-reveals-why-he-refused-to-train-with-reinier-de-ridder"
     },
     {
-      "title": "NBA power rankings: 2026 championship chances from No. 30 to No. 1 - SB Nation",
-      "link": "https://www.sbnation.com/nba/1085283/nba-rankings-2026-championship-chances-start-season-warriors-knicks"
+      "title": "Ben Johnson Needed Just 5 Games To Break 30-Year Bears Drought - Sports Mockery",
+      "link": "https://www.sportsmockery.com/chicago-bears/ben-johnson-needed-just-5-games-to-break-30-year-bears-drought/"
     },
     {
-      "title": "NFL Week 7 fantasy football start \u2019em, sit \u2019em - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-start-sit-advice-week-7-2025"
-    },
-    {
-      "title": "Here\u2019s where the Broncos vs. Giants game will air on CBS in Week 7 - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-game-information/160754/broncos-vs-giants-tv-map-week-7"
-    },
-    {
-      "title": "FLEX Finder Week 7: The struggles continue at RB - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/flex-finder-week-7-the-struggles-continue-at-rb"
-    },
-    {
-      "title": "Cam Ward on coaching change: My job is to play QB, support any decision we make - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-on-coaching-change-my-job-is-to-play-qb-support-any-decision-we-make"
-    },
-    {
-      "title": "Cowboys' trade fix for sinking defense is staring Jerry Jones right in the face - The Landry Hat",
-      "link": "https://thelandryhat.com/cowboys-trade-fix-for-sinking-defense-staring-jerry-jones-right-in-the-face"
-    },
-    {
-      "title": "Rico Dowdle, Chuba Hubbard downplay importance of being the Panthers\u2019 starting RB - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-chuba-hubbard-downplay-importance-of-being-the-panthers-starting-rb"
-    },
-    {
-      "title": "Fantasy Football: 3 WR/CB matchups to target and avoid for Week 7 - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-3-wr-cb-matchups-to-target-and-avoid-for-week-7"
-    },
-    {
-      "title": "First Call: Steelers, Browns took field complaints to NFLPA; injury questions for Steelers-Bengals Thursday night - TribLIVE.com",
-      "link": "https://triblive.com/sports/first-call-steelers-browns-took-field-complaints-to-nflpa-injury-questions-for-steelers-bengals-thursday-night/"
-    },
-    {
-      "title": "Patriots Gameplan: 3 Keys to Victory for New England in Sunday's Week 7 Matchup vs. the Titans - New England Patriots",
-      "link": "https://www.patriots.com/news/patriots-gameplan-3-keys-to-victory-for-new-england-in-sunday-s-week-7-matchup-vs-the-titans"
-    },
-    {
-      "title": "What James Franklin\u2019s firing and $50M Penn State buyout say about the shifting college football landscape - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/psu/2025/10/16/james-franklin-fired-buyout-nil-transfer-portal/stories/202510150059"
+      "title": "James Franklin firing \u2018borderline nuts,\u2019 per ESPN College GameDay star - PennLive",
+      "link": "https://www.pennlive.com/pennstatefootball/2025/10/james-franklin-firing-borderline-nuts-per-espn-college-gameday-star.html"
     }
   ],
   "weather": {
