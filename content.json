@@ -1,9 +1,9 @@
 {
-  "quote": "There is nothing in the world so irresistibly contagious as laughter and good humor. \u2013 Charles Dickens",
-  "fact": "People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.",
-  "crypto": "BTC: $109,384 | ETH: $4,002.68",
+  "quote": "Freedom lies in being bold. \u2013 Robert Frost",
+  "fact": "There is a town in Newfoundland, Canada called Dildo.",
+  "crypto": "BTC: $109,041 | ETH: $3,986.98",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why do cows wear bells? Because their horns don't work.",
+  "joke": "Have you heard about corduroy pillows?  They're making headlines!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "PSA: If you don\u2019t like the new Preview app on iOS 26, there\u2019s an easy fix for it - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/18/ios-26-preview-app-psa/"
+    },
+    {
+      "title": "TiVo won the court battles, but lost the TV war - The Verge",
+      "link": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war"
+    },
+    {
+      "title": "I Accomplished a Monumental Sexual Feat. Then I Did Something So, So Embarrassing. - Slate",
+      "link": "https://slate.com/advice/2025/10/sex-advice-crying-divorce-date-embarrassing.html"
+    },
+    {
+      "title": "Motorola\u2019s Razr Ultra and the Marshall Emberton II top this week\u2019s best deals - The Verge",
+      "link": "https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale"
+    },
+    {
       "title": "Video: Final Fantasy VII Remake Intergrade Official Side-By-Side Comparison (Switch 2, Xbox, PS5, PC) - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/10/video-final-fantasy-vii-remake-intergrade-official-side-by-side-comparison-switch-2-xbox-ps5-pc"
     },
     {
-      "title": "Talking Point: How Do You Play NES Games These Days? - Nintendo Life",
-      "link": "https://www.nintendolife.com/features/talking-point-how-do-you-play-nes-games-these-days"
+      "title": "8BitDo\u2019s new collection celebrates the NES\u2019s 40th anniversary - The Verge",
+      "link": "https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker"
+    },
+    {
+      "title": "10 Of The Most Useful USB Gadgets You Can Find On Amazon - bgr.com",
+      "link": "https://www.bgr.com/1997208/most-useful-usb-gadget-amazon/"
+    },
+    {
+      "title": "Pok\u00e9mon Legends: Z-A makes a big, welcome change for shiny hunters - The Verge",
+      "link": "https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting"
     },
     {
       "title": "Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter",
@@ -36,12 +60,12 @@
       "link": "https://www.theverge.com/games/800733/easy-delivery-co-review-steam"
     },
     {
-      "title": "Most affordable Galaxy Z Fold 7 now $400 off at Amazon and Best Buy - 9to5Toys",
-      "link": "http://9to5toys.com/2025/10/18/most-affordable-galaxy-z-fold-7-deal/"
-    },
-    {
       "title": "Game over. AGI is not imminent, and LLMs are not the royal road to getting there. - Marcus on AI",
       "link": "https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating"
+    },
+    {
+      "title": "Roberta Williams\u2019 The Colonel\u2019s Bequest was a different type of adventure game - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/"
     },
     {
       "title": "Google is preparing big screen recording upgrades for Android tablets and PCs - Android Authority",
@@ -60,74 +84,46 @@
       "link": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-october-2025-wave-2"
     },
     {
-      "title": "Windows 10 refugees flock to Linux in what devs call their \"biggest launch ever\" - Neowin",
-      "link": "https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/"
-    },
-    {
-      "title": "8BitDo Announces 'NES40 Collection' Of Peripherals, And They're Up For Pre-Order Today - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/8bitdo-announces-nes40-collection-of-peripherals-and-theyre-up-for-pre-order-today"
-    },
-    {
-      "title": "Poll: Which Starter Pok\u00e9mon Did You Choose In Pok\u00e9mon Legends: Z-A? - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/poll-which-starter-pokemon-did-you-choose-in-pokemon-legends-z-a"
-    },
-    {
-      "title": "Two More Switch Games Have Received Compatibility Updates On Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/two-more-switch-games-have-received-compatibility-updates-on-switch-2"
-    },
-    {
-      "title": "The value of advertising on premium media - The Trade Desk",
-      "link": "https://www.thetradedesk.com/insights/premium-media-report"
-    },
-    {
-      "title": "Insider Says Halo Studios Has Generative AI \"Woven into Every Aspect\" of Its Future Game Development, From Core Workflows to World Building and Enemy AI - The Game Post",
-      "link": "https://thegamepost.com/insider-halo-studios-generative-ai-game-development/"
-    },
-    {
-      "title": "Google Play spills the beans on what apps and games are coming to Android XR - Android Authority",
-      "link": "https://www.androidauthority.com/google-play-apps-games-android-xr-early-listings-3608434/"
-    },
-    {
-      "title": "Plants vs. Zombies: Replanted leaks, game appears to have various issues - Nintendo Everything",
-      "link": "https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/"
+      "title": "I was laid off by LinkedIn, so I spent 3 months writing a 112k-word novel. I don't regret it, but now I'm struggling to find work. - Business Insider",
+      "link": "https://www.businessinsider.com/linkedin-laid-off-tech-job-finish-novel-struggling-find-work-2025-10"
     }
   ],
   "sports_news": [
     {
-      "title": "College football scores, live updates: Week 8 schedule features LSU vs. Vanderbilt in pivotal SEC showdown - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-8-ncaa-top-25-games-today/live/"
+      "title": "US Grand Prix: McLaren blame rivals for Oscar Piastri-Lando Norris collision in sprint race - BBC",
+      "link": "https://www.bbc.com/sport/formula1/articles/c1m3r3ydj47o"
     },
     {
-      "title": "US Grand Prix sprint: Lando Norris and Oscar Piastri collide as Max Verstappen wins in Austin - BBC",
-      "link": "https://www.bbc.com/sport/formula1/articles/cn0gxrzk29zo"
+      "title": "Ohio State\u2019s Travel Roster for Third Road Game of 2025 at Wisconsin - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/10/158796/ohio-state-s-travel-roster-for-third-road-game-of-2025-at-wisconsin"
     },
     {
-      "title": "Man City 2-0 Everton (Oct 18, 2025) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/740671"
+      "title": "Panthers activate two from injured reserve, place one on IR - Panthers.com",
+      "link": "https://www.panthers.com/news/panthers-activate-two-from-injured-reserve-place-one-on-ir-jalen-coker-austin-corbett-patrick-jones-ii"
     },
     {
-      "title": "ESPN College GameDay: Picks for Week 8, Ole Miss at Georgia - On3",
-      "link": "https://www.on3.com/news/espn-college-gameday-picks-for-week-8-ole-miss-at-georgia/"
+      "title": "Dan Campbell: If you attack \"their brother\" Brian Branch, Lions players will respond - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-if-you-attack-their-brother-brian-branch-lions-players-will-respond"
+    },
+    {
+      "title": "Defiant James Franklin breaks silence on \u2018quick\u2019 Penn State firing during \u2018College GameDay\u2019 interview - nypost.com",
+      "link": "https://nypost.com/2025/10/18/sports/james-franklin-breaks-silence-on-penn-state-firing/"
     },
     {
       "title": "A Mauling in Minnesota as the Huskers Wilt in Whites - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/football/a-mauling-in-minnesota-as-the-huskers-wilt-in-whites"
     },
     {
-      "title": "Former star kickboxer, legendary MMA coach Duke Roufus dead at 55 - nypost.com",
-      "link": "https://nypost.com/2025/10/18/sports/duke-roufus-ex-star-kickboxer-legendary-mma-coach-dead-at-55/"
+      "title": "Cade Klubnik injury update: Clemson makes decision on starting QB vs. SMU - On3",
+      "link": "https://www.on3.com/college/clemson-tigers/news/cade-klubnik-injury-update-clemson-makes-decision-starting-qb-smu-chris-vizzina/"
     },
     {
       "title": "Forest sack Postecoglou after 39 days in charge - BBC",
       "link": "https://www.bbc.com/sport/football/articles/clyqvv94p0go"
     },
     {
-      "title": "AP Top 25 shuffle on the way with No. 2 Miami going down before SEC showdowns take the spotlight - AP News",
-      "link": "https://apnews.com/article/ap-top-25-preview-0e1b176e76bb411bb948647a8bb32a76"
-    },
-    {
-      "title": "Bill Belichick and North Carolina remain winless vs. power conference opponents - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-north-carolina-remain-winless-vs-power-conference-opponents"
+      "title": "5 things to watch as Panthers return starters and head to New York to face the Jets - Panthers.com",
+      "link": "https://www.panthers.com/news/5-things-to-watch-as-panthers-return-starters-and-head-to-new-york-to-face-the-jets"
     },
     {
       "title": "Aaron Rodgers just issued a warning that feels destined for the Packers - Lombardi Ave",
@@ -146,10 +142,6 @@
       "link": "https://www.cnn.com/2025/10/18/sport/baseball-mlb-mariners-blue-jays-game-5-intl"
     },
     {
-      "title": "Nottingham Forest vs. Chelsea, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/premier-league/162985/nottingham-forest-vs-chelsea-premier-league-confirmed-lineups-how-to-watch"
-    },
-    {
       "title": "Week 8 College Football Picks, Predictions: Stuckey\u2019s 5 NCAAF Afternoon Spots for Oct. 18 - Action Network",
       "link": "https://www.actionnetwork.com/ncaaf/week-8-college-football-picks-predictions-5-ncaaf-afternoon-spots-saturday-october-18"
     },
@@ -158,20 +150,24 @@
       "link": "https://www.nbcsports.com/nascar/news/nascar-saturday-schedule-at-talladega-superspeedway-october-2025"
     },
     {
-      "title": "Wisconsin Skull Session: Get Dumped Then, Badgers - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/skull-sessions/2025/10/158777/wisconsin-skull-session-get-dumped-then-badgers"
+      "title": "Kyle Shanahan: Brock Purdy is making progress, but Mac Jones will start Sunday night - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-brock-purdy-is-making-progress-but-mac-jones-will-start-sunday-night"
     },
     {
       "title": "Ohtani hits 3 HRs as Dodgers sweep Brewers to clinch World Series berth - NBC News",
       "link": "https://www.nbcnews.com/sports/mlb/ohtani-hits-3-hrs-dodgers-sweep-brewers-clinch-world-series-berth-rcna238265"
     },
     {
-      "title": "Instant observations: Joel Embiid returns to action as Sixers stage dress rehearsal in preseason finale - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-vs-timberwolves-box-score-highlights-stats-joel-embiid-injury-update-vj-edgecombe-debut/"
+      "title": "Slow start dooms San Diego State in Viejas Arena loss to No. 12 UCLA - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2025/10/17/slow-start-dooms-san-diego-state-in-viejas-arena-loss-to-no-12-ucla/"
     },
     {
-      "title": "Michigan Basketball falls short to Cincinnati in exhibition - Maize n Brew",
-      "link": "https://www.maizenbrew.com/michigan-mens-basketball/95165/michigan-wolverines-basketball-cincinnati-exhibition-recap-dusty-may-yaxel-lendeborg-elliot-cadeau-roddy-gayle-jr"
+      "title": "Blue Jays manager criticizes Mariners fans: 'Not the right thing to do' - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/blue-jays-manager-criticizes-mariners-fans-for-cheering-after-george-springer-injury/"
+    },
+    {
+      "title": "\u2018Duke\u2019 Roufus, Ex-Kickboxing Champ and Founder of Roufusport, Dies at 55 - Sherdog",
+      "link": "https://www.sherdog.com/news/news/Duke-Roufus-ExKickboxing-Champ-and-Founder-of-Roufusport-Dies-at-55-198749"
     }
   ],
   "weather": {
