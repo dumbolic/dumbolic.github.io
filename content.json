@@ -1,9 +1,9 @@
 {
-  "quote": "The only thing we have to fear is fear itself. \u2013 Franklin D. Roosevelt",
-  "fact": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
-  "crypto": "BTC: $109,330 | ETH: $4,020.4",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.",
+  "quote": "To be alive - is Power. \u2013 Emily Dickinson",
+  "fact": "Rats multiply so quickly that in 18 months, two rats could have over million descendants.",
+  "crypto": "BTC: $108,879 | ETH: $4,003.7",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "How do you know if there\u2019s an elephant under your bed? Your head hits the ceiling!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Gemini removes \u2018@Google Maps\u2019 & \u2018@YouTube\u2019 apps for direct integration - 9to5Google",
+      "link": "http://9to5google.com/2025/10/18/gemini-youtube-google-maps-apps/"
+    },
+    {
+      "title": "Nintendo talks about why Donkey Kong Bananza wouldn\u2019t have been possible on Switch 1 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-talks-about-why-donkey-kong-bananza-wouldnt-have-been-possible-on-switch-1/"
+    },
+    {
       "title": "Bit-banged 100 MBit/s Ethernet Transmission On Raspberry Pi Pico - Hackaday",
       "link": "https://hackaday.com/2025/10/18/bit-banged-100-mbit-s-ethernet-transmission-on-raspberry-pi-pico/"
+    },
+    {
+      "title": "WWE Stock Report: Ready or not, The Brons are now main event level heels in WWE - Cageside Seats",
+      "link": "https://www.cagesideseats.com/wwe/390850/wwe-stock-report-oct-2025-bron-breakker-turns-on-rollins-vision-fatu-injury-dragunov-return"
     },
     {
       "title": "Devs working on Hearthstone and Warcraft Rumble join 1900 other Activision Blizzard staff in unionising - Eurogamer",
@@ -32,8 +44,12 @@
       "link": "https://www.macrumors.com/2025/10/18/new-ipad-pro-six-key-upgrades/"
     },
     {
-      "title": "TiVo won the court battles, but lost the TV war - The Verge",
-      "link": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war"
+      "title": "Microsoft confirms Windows 11 October 2025 Update breaks WinRE (Recovery) input - Windows Latest",
+      "link": "https://www.windowslatest.com/2025/10/18/microsoft-confirms-windows-11-october-2025-update-breaks-winre-recovery-input/"
+    },
+    {
+      "title": "Escape From Tarkov director says \"not everyone will be able\" to reach the extraction shooter's best ending - PCGamesN",
+      "link": "https://www.pcgamesn.com/escape-from-tarkov/endings-scav-life-dlc"
     },
     {
       "title": "I Accomplished a Monumental Sexual Feat. Then I Did Something So, So Embarrassing. - Slate",
@@ -50,10 +66,6 @@
     {
       "title": "Google Maps is testing controversial changes to your navigation experience - Android Police",
       "link": "https://www.androidpolice.com/google-maps-navigation-changes-stops-android/"
-    },
-    {
-      "title": "10 Of The Most Useful USB Gadgets You Can Find On Amazon - bgr.com",
-      "link": "https://www.bgr.com/1997208/most-useful-usb-gadget-amazon/"
     },
     {
       "title": "Pok\u00e9mon Legends: Z-A makes a big, welcome change for shiny hunters - The Verge",
@@ -74,36 +86,48 @@
     {
       "title": "How did the Braves let Kevin Gausman get away? - Battery Power",
       "link": "https://www.batterypower.com/community/121374/kevin-gausman-get-away-atlanta-braves-mlb-question"
-    },
-    {
-      "title": "Easy Delivery Co. is a cozy, Lynchian dream - The Verge",
-      "link": "https://www.theverge.com/games/800733/easy-delivery-co-review-steam"
-    },
-    {
-      "title": "Most affordable Galaxy Z Fold 7 now $400 off at Amazon and Best Buy - 9to5Toys",
-      "link": "http://9to5toys.com/2025/10/18/most-affordable-galaxy-z-fold-7-deal/"
-    },
-    {
-      "title": "Game over. AGI is not imminent, and LLMs are not the royal road to getting there. - Marcus on AI",
-      "link": "https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating"
     }
   ],
   "sports_news": [
     {
+      "title": "Winners and losers from F1's United States GP qualifying - The Race",
+      "link": "https://www.the-race.com/formula-1/winners-losers-f1-united-states-gp-qualifying/"
+    },
+    {
       "title": "Georgia vs. Ole Miss live updates, score, game analysis and highlights - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/georgia-ole-miss-live-updates-score-results-analysis/live/"
+    },
+    {
+      "title": "Ohio State Shuts Out Wisconsin, 34-0, to Improve to 7-0 in 2025 - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/10/158811/ohio-state-shuts-out-wisconsin-34-0-to-improve-to-7-0-in-2025"
+    },
+    {
+      "title": "What Shane Beamer said following loss to Oklahoma - 247Sports",
+      "link": "https://247sports.com/college/south-carolina/longformarticle/south-carolina-gamecocks-football-shane-beamer-postgame-press-conference-oklahoma-257529312/"
+    },
+    {
+      "title": "LIVE BLOG: Kentucky vs. Texas - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-vs-texas-live-updates-score-highlights-ksr/"
+    },
+    {
+      "title": "Live updates: Monitoring inclement weather for Notre Dame football vs. USC - On3",
+      "link": "https://www.on3.com/teams/notre-dame-fighting-irish/news/live-updates-notre-dame-football-weather-delays-lightning-usc-game/"
     },
     {
       "title": "Prelim Results | UFC Vancouver - ufc.com",
       "link": "https://www.ufc.com/news/ufc-fight-night-de-ridder-vs-allen-vancouver-event-tonight-prelim-live-results"
     },
     {
-      "title": "Verstappen wary of \u2018tough\u2019 McLaren challenge in US Sprint - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/verstappen-cautious-of-tough-mclaren-challenge-in-united-states-gp-sprint.14pm5qyy9nNSuItSatnEaA"
+      "title": "What to Watch: Playoff crunch turns to Talladega for Team Penske, other hopefuls - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/10/18/cup-series-playoffs-2025-what-to-watch-talladega-preview/"
     },
     {
       "title": "Why no Kansas City Chiefs were fined vs. the Detroit Lions - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-news/146027/2-detroit-lions-0-kansas-city-chiefs-fined-in-week-7"
+    },
+    {
+      "title": "Baylor at TCU weather delay: When Bears vs. Horned Frogs will resume - On3",
+      "link": "https://www.on3.com/news/baylor-at-tcu-weather-delay-when-bears-vs-horned-frogs-will-resume/"
     },
     {
       "title": "PFF Grades and Snap Counts from Nebraska's 24-6 Loss Against Minnesota : Offense - Sports Illustrated",
@@ -114,60 +138,36 @@
       "link": "https://www.chargers.com/news/activate-khalil-mack-denzel-perryman-elevate-two-others-week-7-2025"
     },
     {
-      "title": "Diego Pavia's 2 rushing TDs lift No. 17 Vanderbilt over No. 10 LSU; Commodores 6-1 for first time since 1950 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/breaking-news/article/diego-pavias-2-rushing-tds-lift-no-17-vanderbilt-over-no-10-lsu-commodores-6-1-for-first-time-since-1950-192202270.html"
+      "title": "Handing out 5 game balls for Michigan Football\u2019s win vs Washington - Maize n Brew",
+      "link": "https://www.maizenbrew.com/football/95226/michigan-football-washington-huskies-game-balls-bryce-underwood-jordan-marshall-cole-sullivan-zack-marshall-deakon-tonielli"
+    },
+    {
+      "title": "Recap: Michigan State no match for Indiana in 38-13 loss - The Detroit News",
+      "link": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2025/10/18/live-updates-michigan-state-spartans-football-at-indiana-hoosiers/86683715007/"
+    },
+    {
+      "title": "Football Falls at No. 17 Vanderbilt, 31-24 - lsusports.net",
+      "link": "https://lsusports.net/news/2025/10/18/football-falls-at-no-17-vanderbilt-31-24/"
     },
     {
       "title": "Three Observations from Bayern Munich\u2019s tough 2-1 win against Borussia Dortmund - Bavarian Football Works",
       "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/143467/observations-match-analysis-bayern-munich-tough-win-against-borussia-dortmund-der-klassiker"
     },
     {
-      "title": "Why the Warriors Waived Seth Curry Just Ahead of the Regular Season - Sports Illustrated",
-      "link": "https://www.si.com/nba/why-the-warriors-waived-seth-curry-just-ahead-of-the-regular-season"
+      "title": "Verstappen seals US GP pole ahead of Norris - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/verstappen-seals-pole-position-ahead-of-norris-and-leclerc-in-austin.5E0rW0OLQC83p47QG6LTd9"
     },
     {
       "title": "5 things to watch in the Chiefs\u2019 Week 7 matchup against the Raiders - Arrowhead Pride",
       "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/184128/5-things-to-watch-against-the-raiders-in-week-7"
     },
     {
-      "title": "Ohio State\u2019s Travel Roster for Third Road Game of 2025 at Wisconsin - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/10/158796/ohio-state-s-travel-roster-for-third-road-game-of-2025-at-wisconsin"
-    },
-    {
       "title": "UNC misery continues for Bill Belichick, Jordon Hudson as couple mocked during heartbreaking loss - nypost.com",
       "link": "https://nypost.com/2025/10/18/sports/unc-misery-continues-for-bill-belichick-jordon-hudson-as-couple-mocked-during-heartbreaking-loss/"
     },
     {
-      "title": "Panthers activate two from injured reserve, place one on IR - Panthers.com",
-      "link": "https://www.panthers.com/news/panthers-activate-two-from-injured-reserve-place-one-on-ir-jalen-coker-austin-corbett-patrick-jones-ii"
-    },
-    {
-      "title": "College football scores, live updates: Week 8 schedule features Texas Tech, Indiana, Florida in action - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-8-ncaa-top-25-games-today/live/"
-    },
-    {
-      "title": "The sights and sounds of \u2018Big Noon Kickoff\u2019 in Provo ahead of BYU-Utah - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/10/18/big-noon-kickoff-byu-utah/"
-    },
-    {
-      "title": "Defiant James Franklin breaks silence on \u2018quick\u2019 Penn State firing during \u2018College GameDay\u2019 interview - nypost.com",
-      "link": "https://nypost.com/2025/10/18/sports/james-franklin-breaks-silence-on-penn-state-firing/"
-    },
-    {
-      "title": "After mini-bye, will Eagles\u2019 offense perform any better? - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-mini-bye-will-eagles-offense-perform-any-better"
-    },
-    {
-      "title": "Forest sack Postecoglou after 39 days in charge - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/clyqvv94p0go"
-    },
-    {
-      "title": "AP Top 25 shuffle on the way with No. 2 Miami going down before SEC showdowns take the spotlight - AP News",
-      "link": "https://apnews.com/article/ap-top-25-preview-0e1b176e76bb411bb948647a8bb32a76"
-    },
-    {
-      "title": "5 things to watch as Panthers return starters and head to New York to face the Jets - Panthers.com",
-      "link": "https://www.panthers.com/news/5-things-to-watch-as-panthers-return-starters-and-head-to-new-york-to-face-the-jets"
+      "title": "Blue Jays Get Incredible News on Status of George Springer - Sports Illustrated",
+      "link": "https://www.si.com/mlb/bluejays/news/blue-jays-get-incredible-news-status-george-springer"
     }
   ],
   "weather": {
