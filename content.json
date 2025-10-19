@@ -1,9 +1,9 @@
 {
-  "quote": "Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. \u2013 Robert Frost",
-  "fact": "Mexico City sinks about 10 inches a year",
-  "crypto": "BTC: $108,363 | ETH: $3,985.58",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A steak pun is a rare medium well done.",
+  "quote": "To a mind that is still, the entire universe surrenders. \u2013 Zhuangzi",
+  "fact": "Men can read smaller print than women; women can hear better.",
+  "crypto": "BTC: $108,523 | ETH: $3,981.73",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you do when your bunny gets wet? You get your hare dryer.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,72 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "ALCS, 3-2: Chart - Lookout Landing",
-      "link": "https://www.lookoutlanding.com/mariners-charts/136277/alcs-3-2-chart"
+      "title": "Talking Point: How Do You Play NES Games These Days? - Nintendo Life",
+      "link": "https://www.nintendolife.com/features/talking-point-how-do-you-play-nes-games-these-days"
+    },
+    {
+      "title": "Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/"
+    },
+    {
+      "title": "Update Microsoft Windows Now \u2014 New 2 Week Security Deadline Confirmed - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/"
+    },
+    {
+      "title": "Game over. AGI is not imminent, and LLMs are not the royal road to getting there. - Marcus on AI",
+      "link": "https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating"
+    },
+    {
+      "title": "4 Unexpected Cars That Came With Toyota's 2JZ Engine - Jalopnik",
+      "link": "https://www.jalopnik.com/1996497/surprising-cars-toyota-2jz-engine/"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33's Amazon-Exclusive Edition Launches Next Month - GameSpot",
+      "link": "https://www.gamespot.com/articles/clair-obscur-expedition-33-amazon-exclusive-mirror-edition-release-date-buying-guide/1100-6528999/"
+    },
+    {
+      "title": "Xbox Game Pass loses three more games in October 2025 - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-october-2025-wave-2"
+    },
+    {
+      "title": "8BitDo Announces 'NES40 Collection' Of Peripherals, And They're Up For Pre-Order Today - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/8bitdo-announces-nes40-collection-of-peripherals-and-theyre-up-for-pre-order-today"
+    },
+    {
+      "title": "Two More Switch Games Have Received Compatibility Updates On Switch 2 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/two-more-switch-games-have-received-compatibility-updates-on-switch-2"
+    },
+    {
+      "title": "The value of advertising on premium media - The Trade Desk",
+      "link": "https://www.thetradedesk.com/insights/premium-media-report"
     },
     {
       "title": "Facebook\u2019s new button lets its AI look at photos you haven\u2019t uploaded yet - The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll"
     },
     {
+      "title": "Insider Says Halo Studios Has Generative AI \"Woven into Every Aspect\" of Its Future Game Development, From Core Workflows to World Building and Enemy AI - The Game Post",
+      "link": "https://thegamepost.com/insider-halo-studios-generative-ai-game-development/"
+    },
+    {
+      "title": "Halo Studios Working on Separate Multiplayer Halo Game, Leaker Says It\u2019s a Long-Term Live-Service Project \"Like Fortnite\" - The Game Post",
+      "link": "https://thegamepost.com/halo-studios-multiplayer-halo-game-leaker-live-service-fortnite/"
+    },
+    {
       "title": "Plants vs. Zombies: Replanted leaks, game appears to have various issues - Nintendo Everything",
       "link": "https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/"
+    },
+    {
+      "title": "Google Messages rolling out account menu redesign - 9to5Google",
+      "link": "http://9to5google.com/2025/10/17/google-messages-account-menu/"
+    },
+    {
+      "title": "Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality - Kotaku",
+      "link": "https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690"
+    },
+    {
+      "title": "Apple Cuts iPhone Air Production As Users Flock To Other Models - bgr.com",
+      "link": "https://www.bgr.com/1999980/apple-cuts-iphone-air-production/"
     },
     {
       "title": "Ferrari Just Built a New F40 Tribute as a One-Off - Road & Track",
@@ -32,102 +88,50 @@
       "link": "https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/"
     },
     {
-      "title": "Apple iPhone 17 Review - IGN",
-      "link": "https://www.ign.com/articles/apple-iphone-17-review"
-    },
-    {
       "title": "Ally Arrives: Xbox President Sarah Bond Explains New Handhelds Steep Price, Prioritizing \u2018Windows Experience\u2019 and Next-Gen Console Plans Heading Into 2026 - Variety",
       "link": "https://variety.com/2025/gaming/news/xbox-ally-handheld-release-president-sarah-bond-interview-1236555575/"
-    },
-    {
-      "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/"
-    },
-    {
-      "title": "How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas, And Yveltal Locations - GameSpot",
-      "link": "https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/"
-    },
-    {
-      "title": "Andrej Karpathy \u2013 It will take a decade to work through the issues with agents - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45619329"
-    },
-    {
-      "title": "Battlefield 6 launch sales bigger than Call of Duty: Black Ops 6 across Europe - The Game Business",
-      "link": "https://www.thegamebusiness.com/p/battlefield-6-launch-sales-bigger"
-    },
-    {
-      "title": "Windows 11 25H2 and 24H2 get even more dark mode improvements in new builds - Neowin",
-      "link": "https://www.neowin.net/news/windows-11-25h2-and-24h2-get-even-more-dark-mode-improvements-in-new-builds/"
-    },
-    {
-      "title": "As Microsoft Forces Users to Ditch Windows 10, It Announces That It\u2019s Also Turning Windows 11 into an AI-Controlled Monstrosity - Futurism",
-      "link": "https://futurism.com/artificial-intelligence/microsoft-windows-11-ai-controlled"
-    },
-    {
-      "title": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts - Eurogamer",
-      "link": "https://www.eurogamer.net/arc-raiders-already-has-servers-slammed-by-almost-100000-players-in-two-hours-as-weekend-playtest-starts"
-    },
-    {
-      "title": "Ghost Of Y\u014dtei's Creators On Atsu: 'I See It As A Chapter Is Done' - Game Informer",
-      "link": "https://gameinformer.com/interview/2025/10/17/ghost-of-yoteis-creators-on-atsu-i-see-it-as-a-chapter-is-done"
-    },
-    {
-      "title": "Hearthstone and Warcraft Rumble developers unionize to combat 'instability and unfair conditions' - Game Developer",
-      "link": "https://www.gamedeveloper.com/business/hearthstone-and-warcraft-rumble-developers-unionize-to-combat-instability-and-unfair-conditions-"
-    },
-    {
-      "title": "After Teraleak returns, The Pok\u00e9mon Company COO requests takedown of leaks from new games - Notebookcheck",
-      "link": "https://www.notebookcheck.net/After-Teraleak-returns-The-Pokemon-Company-COO-requests-takedown-of-leaks-from-new-games.1140975.0.html"
-    },
-    {
-      "title": "Absolum Surpasses 200,000 Sales In First Week; Physical Editions Now Available - Noisy Pixel",
-      "link": "https://noisypixel.net/absolum-sales-milestone-physical-edition/"
-    },
-    {
-      "title": "Pok\u00e9mon TCG Mega Evolution Triple Play: Powerful Mega Evolution Pok\u00e9mon ex - Pokemon.com",
-      "link": "https://www.pokemon.com/us/strategy/pokemon-tcg-mega-evolution-triple-play-powerful-mega-evolution-pokemon-ex"
     }
   ],
   "sports_news": [
     {
-      "title": "Barcelona in Miami: Oviedo and Espanyol players stage 15-second protest against La Liga - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cly2n8lplgno"
+      "title": "Defiant James Franklin breaks silence on \u2018quick\u2019 Penn State firing during \u2018College GameDay\u2019 interview - New York Post",
+      "link": "https://nypost.com/2025/10/18/sports/james-franklin-breaks-silence-on-penn-state-firing/"
+    },
+    {
+      "title": "Nottingham Forest: 'Sacked Ange Postecoglou was not the right fit' - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cz08z92r3g8o"
+    },
+    {
+      "title": "DP World Tour: Tommy Fleetwood two shots behind leader Keita Nakajima in India - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/c24ln9gmnv6o"
+    },
+    {
+      "title": "Bill Belichick and North Carolina remain winless vs. power conference opponents - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-north-carolina-remain-winless-vs-power-conference-opponents"
+    },
+    {
+      "title": "Broncos vs. Giants predictions: Final score picks for NFL Week 7 - Mile High Report",
+      "link": "https://www.milehighreport.com/denver-broncos-scores-results/160861/broncos-vs-giants-predictions-final-score-picks-week-7"
+    },
+    {
+      "title": "MLB Playoffs: Eugenio Su\u00e1rez grand slam powers Seattle Mariners to within one win of first World Series - CNN",
+      "link": "https://www.cnn.com/2025/10/18/sport/baseball-mlb-mariners-blue-jays-game-5-intl"
     },
     {
       "title": "Nottingham Forest vs. Chelsea, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
       "link": "https://weaintgotnohistory.sbnation.com/premier-league/162985/nottingham-forest-vs-chelsea-premier-league-confirmed-lineups-how-to-watch"
     },
     {
-      "title": "Penn State Coaching Search Hot Board 4.0 - 247Sports",
-      "link": "https://247sports.com/college/penn-state/longformarticle/penn-state-football-coaching-search-hot-board-curt-cignetti-pat-kraft-terry-smith-matt-rhole-urban-meyer-eli-drinkwitz-256620241/"
+      "title": "NASCAR Saturday schedule at Talladega Superspeedway - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/nascar-saturday-schedule-at-talladega-superspeedway-october-2025"
     },
     {
-      "title": "Belichick\u2019s North Carolina tenure hit by heartbreaking loss to Cal after late fumble - AP News",
-      "link": "https://apnews.com/article/north-carolina-bill-belichick-1adc91b15293a9d38dabe344f4f7e1e6"
+      "title": "Ohtani hits 3 HRs as Dodgers sweep Brewers to clinch World Series berth - NBC News",
+      "link": "https://www.nbcnews.com/sports/mlb/ohtani-hits-3-hrs-dodgers-sweep-brewers-clinch-world-series-berth-rcna238265"
     },
     {
-      "title": "Mariners fans reeling after monster home runs clinch Game 5 ALCS win - KOMO",
-      "link": "https://komonews.com/news/local/seattle-mariners-american-league-championship-series-alcs-major-league-baseball-eugenio-suarez-game-5-mlb-t-mobile-park-home-game-toronto-blue-jays"
-    },
-    {
-      "title": "Blue Jays manager criticizes Mariners fans: 'Not the right thing to do' - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/blue-jays-manager-criticizes-mariners-fans-for-cheering-after-george-springer-injury/"
-    },
-    {
-      "title": "Cowboys Expected To Explore Splash Trade - ProFootballRumors.com",
-      "link": "https://www.profootballrumors.com/2025/10/cowboys-expected-to-explore-splash-trade-addition"
-    },
-    {
-      "title": "Gophers deliver a complete performance in sixth straight win over Nebraska - Sports Illustrated",
-      "link": "https://www.si.com/college/minnesota/gophers-football/gophers-deliver-a-complete-performance-in-sixth-straight-win-over-nebraska"
-    },
-    {
-      "title": "Mariners\u2019 Bryan Woo makes sure T-Mobile Park return is memorable - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/alcs-mariners-bryan-woo-felt-great-in-return-from-injury/"
-    },
-    {
-      "title": "Louisville football stuns No. 2 Miami, continues win streak at Hard Rock Stadium - The Courier-Journal",
-      "link": "https://www.courier-journal.com/story/sports/college/louisville/2025/10/17/louisville-football-miami-acc-standings-jeff-brohm/86357415007/"
+      "title": "Huskers, Murray Perfect in Sweep at Michigan State - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/volleyball/huskers-murray-perfect-in-sweep-at-michigan-state-cornhuskers-2025-big-ten"
     },
     {
       "title": "Deleted NFL Films video about Brian Branch angers Lions - NBC Sports",
@@ -146,24 +150,28 @@
       "link": "https://www.phillyvoice.com/sixers-news-analysis-vs-timberwolves-box-score-highlights-stats-joel-embiid-injury-update-vj-edgecombe-debut/"
     },
     {
-      "title": "Eagles at Vikings: Final Injury Report - Daily Norseman",
-      "link": "https://www.dailynorseman.com/minnesota-vikings-injuries/91905/eagles-at-vikings-final-injury-report"
+      "title": "Norris's McLaren 'consequences' may have cost him Austin sprint pole - The Race",
+      "link": "https://www.the-race.com/formula-1/mclaren-consequences-may-have-cost-lando-norris-pole/"
     },
     {
-      "title": "Joe Flacco now holds the regular-season edge over Mike Tomlin - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-now-holds-the-regular-season-edge-over-mike-tomlin"
+      "title": "Ole Miss AD says he wants to get a Curt Cignetti-like deal done for Lane Kiffin - FootballScoop",
+      "link": "https://www.footballscoop.com/2025/10/17/ole-miss-ad-lane-kiffin-curt-cignetti-like-contract-keith-carter"
     },
     {
       "title": "George Kittle Active, Brock Purdy OUT vs. Falcons; Injury Report Ahead of #ATLvsSF - San Francisco 49ers",
       "link": "https://www.49ers.com/news/george-kittle-active-brock-purdy-out-vs-falcons-injury-report-ahead-of-atlvssf"
     },
     {
-      "title": "Verstappen beats Norris to Sprint pole in Austin - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/verstappen-beats-norris-and-piastri-to-pole-during-thrilling-sprint.2k4RbPhpuYVB21GcJx7Eb5"
-    },
-    {
       "title": "5 Final Thoughts Ahead of Chargers-Colts in Week 7 - Chargers.com",
       "link": "https://www.chargers.com/news/colts-game-preview-playoff-odds-2025"
+    },
+    {
+      "title": "Kevin O\u2019Connell: Carson Wentz to Start for Vikings Against Eagles - Minnesota Vikings",
+      "link": "https://www.vikings.com/news/carson-wentz-starting-quarterback-kevin-oconnell-eagles-week-7"
+    },
+    {
+      "title": "Where to watch #25 Nebraska vs. Minnesota football tonight on free streams, TV - PennLive.com",
+      "link": "https://www.pennlive.com/tv/2025/10/where-to-watch-25-nebraska-vs-minnesota-football-tonight-on-free-streams-tv.html"
     }
   ],
   "weather": {
