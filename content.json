@@ -1,9 +1,9 @@
 {
-  "quote": "The chief cause of failure and unhappiness is trading what you want most for what you want right now. \u2013 Zig Ziglar",
-  "fact": "The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.",
-  "crypto": "BTC: $107,585 | ETH: $3,858.86",
+  "quote": "The only thing more frustrating than slanderers is those foolish enough to listen to them. \u2013 Criss Jami",
+  "fact": "The town of Calma, Chile in the Atacama Desert has never had rain.",
+  "crypto": "BTC: $107,718 | ETH: $3,862.53",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Have you heard about corduroy pillows?  They're making headlines!",
+  "joke": "I couldn't figure out how the seat belt worked. Then it just clicked.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Marathon's disastrous beta test was \"a very great A/B test\" for Arc Raiders, according to technical director - Eurogamer",
+      "link": "https://www.eurogamer.net/marathons-disastrous-beta-test-was-a-very-great-ab-test-for-arc-raiders-according-to-technical-director"
+    },
+    {
+      "title": "Microsoft triples down on Xbox hardware commitment, while also teasing first-party gaming handhelds \u2014 will it actually happen? - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-triples-down-on-xbox-hardware-commitment-while-also-teasing-first-party-gaming-handhelds-too-what-will-it-look-like-in-practice"
+    },
+    {
+      "title": "UK Charts: Pok\u00e9mon Legends: Z-A Sales Almost 50/50 Across Switch And Switch 2 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/uk-charts-pokemon-legends-z-a-sales-almost-5050-across-switch-and-switch-2"
+    },
+    {
+      "title": "PS Store Quietly Adds Crucial New Feature for PS5, PS4 Deals - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/10/ps-store-quietly-adds-crucial-new-feature-for-ps5-ps4-deals"
+    },
+    {
+      "title": "Apple TV, Apple Music and App Store are down as Apple services suffer major outage - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/19/apple-tv-music-down-apple-services-outage/"
+    },
+    {
+      "title": "Nintendo Today 2.0.10 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-today-2-0-10-update-out-now-patch-notes/"
+    },
+    {
       "title": "Game Of Theseus Gets Graphics Upgrade, Force Feedback 30 Years On - Hackaday",
       "link": "https://hackaday.com/2025/10/19/game-of-theseus-gets-graphics-upgrade-force-feedback-30-years-on/"
+    },
+    {
+      "title": "\"They Are Out of Hardware\": Former Microsoft Exec and Blizzard President Slams Xbox's Current Hardware Strategy, Says \"Only a Moron\" Would Keep Making Consoles When Its Games Are Going Third-Party - The Game Post",
+      "link": "https://thegamepost.com/former-microsoft-blizzard-xbox-hardware-strategy-third-party/"
     },
     {
       "title": "This Week\u2019s Japanese Game Releases: NINJA GAIDEN 4, Double Dragon Revive, Once Upon a KATAMARI, more - Gematsu",
@@ -34,10 +62,6 @@
     {
       "title": "Oversharing with AI: How your ChatGPT conversations could be used against you - The Independent",
       "link": "https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html"
-    },
-    {
-      "title": "Modernize your desktop for just $14.97 with Windows 11 Pro - Mashable",
-      "link": "https://mashable.com/article/oct-19-microsoft-windows-11-pro"
     },
     {
       "title": "Kohler unveils a camera for your toilet - TechCrunch",
@@ -66,30 +90,6 @@
     {
       "title": "What Google Messages features are rolling out [October 2025] - 9to5Google",
       "link": "http://9to5google.com/2025/10/19/google-messages-features/"
-    },
-    {
-      "title": "10 Dependable Computers You Won't Have To Replace For 5+ Years - bgr.com",
-      "link": "https://www.bgr.com/1997458/reliable-long-lasting-computers/"
-    },
-    {
-      "title": "Powerbeats Fit review - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/powerbeats_fit_review-news-69969.php"
-    },
-    {
-      "title": "Stop Using Docker and Try One of These 4 Alternatives Instead - How-To Geek",
-      "link": "https://www.howtogeek.com/stop-using-docker-and-try-one-of-these-alternatives-instead/"
-    },
-    {
-      "title": "How did the Brewers get William Contreras? - Battery Power",
-      "link": "https://www.batterypower.com/community/121420/brewers-william-contreras-atlanta-braves-mlb-question"
-    },
-    {
-      "title": "I've been using the iPhone 17 for a month \u2014 here's my pros and cons - Tom's Guide",
-      "link": "https://www.tomsguide.com/phones/iphones/ive-been-using-the-iphone-17-for-over-a-month-heres-what-i-really-think-about-it"
-    },
-    {
-      "title": "Some ChatGPT Users Are Saving 50% Off Their Plus Subscription - Here's How - bgr.com",
-      "link": "https://www.bgr.com/1996272/how-chatgpt-users-saving-50-percent-plus-subscription/"
     }
   ],
   "sports_news": [
@@ -102,32 +102,28 @@
       "link": "https://www.theringer.com/2025/10/20/nfl/winners-losers-nfl-week-7-daniel-jones-mike-mcdaniel-hot-seat-bo-nix-comeback"
     },
     {
-      "title": "Tiki Barber crushes Giants for \u2018excusable play call\u2019 in gut-wrenching loss to Broncos - New York Post",
-      "link": "https://nypost.com/2025/10/20/sports/tiki-barber-crushes-giants-for-excusable-play-call-in-loss-to-broncos/"
-    },
-    {
-      "title": "Doug Martin, former Buccaneers and Boise State RB, dies at 36 while reportedly in police custody - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/doug-martin-former-buccaneers-and-boise-state-rb-dies-at-36-while-reportedly-in-police-custody-205904588.html"
-    },
-    {
-      "title": "Fantasy football waiver wire pickups: NFL Week 8 - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-waiver-wire-pickups-nfl-week-8-2025"
-    },
-    {
       "title": "Sunday Night Football: Christian McCaffrey\u2019s big night powers 49ers to 20-10 victory - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-christian-mccaffreys-big-night-powers-49ers-to-20-10-victory"
     },
     {
-      "title": "Mariners name starter for biggest game in franchise history - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/alcs-mariners-tap-george-kirby-to-start-elimination-game-7-vs-blue-jays/"
+      "title": "4 Takeaways From the Blue Jays\u2019 ALCS Game 6 Win Over the Mariners - FOX Sports",
+      "link": "https://www.foxsports.com/stories/mlb/4-takeaways-from-the-blue-jays-alcs-game-6-win-over-the-mariners"
     },
     {
-      "title": "Micah Parsons' first three-sack game leads Packers over Cardinals - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46655209/micah-parsons-first-three-sack-game-leads-packers-cardinals"
+      "title": "Key to the game: Micah Parsons slams the door with first sack hat trick - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/key-to-the-game-micah-parsons-slams-the-door-with-first-sack-hat-trick-week-7-2025"
     },
     {
-      "title": "The terrible realization facing Jets with hopes reduced to a flicker - New York Post",
-      "link": "https://nypost.com/2025/10/19/sports/the-terrible-realization-facing-jets-with-hopes-reduced-to-a-flicker/"
+      "title": "Broncos stun Giants 33-32 with last-second field goal in historic comeback - AP News",
+      "link": "https://apnews.com/article/denver-broncos-giants-score-new-york-57d3085060845bed0ea57d1589733266"
+    },
+    {
+      "title": "Former Buc Doug Martin dead at 36; cause \u2018unconfirmed,\u2019 family says - Tampa Bay Times",
+      "link": "https://www.tampabay.com/sports/bucs/2025/10/19/doug-martin-death-buccaneers-boise-state-oakland-raiders/"
+    },
+    {
+      "title": "Jayden Daniels will have an MRI on Monday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-will-have-an-mri-on-monday"
     },
     {
       "title": "Cowboys win big, 44-22, as Commanders lose Jayden Daniels - NBC Sports",
@@ -142,24 +138,24 @@
       "link": "https://www.espn.com/nfl/story/_/id/46653043/chiefs-rashee-rice-snags-2-tds-anticipated-season-debut"
     },
     {
+      "title": "Miami Dolphins vs. Cleveland Browns Live Score and Stats - October 19, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251019_MIA@CLE/"
+    },
+    {
       "title": "Steve Sarkisian is better than 179 yards and eight first downs, so what's really going on with Texas' offense? - 247Sports",
       "link": "https://247sports.com/college/texas/longformarticle/steve-sarkisian-is-better-than-179-yards-and-eight-first-downs-so-whats-really-going-on-with-texas-offense-257746929/"
     },
     {
-      "title": "Winners and losers from F1's 2025 United States Grand Prix - The Race",
-      "link": "https://www.the-race.com/formula-1/winners-losers-f1-2025-united-states-grand-prix/"
+      "title": "Jets remain winless after ugly loss to Panthers with QB controversy brewing - New York Post",
+      "link": "https://nypost.com/2025/10/19/sports/jets-remain-winless-after-ugly-loss-to-panthers-in-week-7/"
     },
     {
       "title": "Verstappen declares \u2018the chance is there\u2019 for a fifth F1 title after dominant US GP victory - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/verstappen-declares-the-chance-is-there-for-a-fifth-f1-title-after-dominant.23RE4LwFGH7Prrlbisijqw"
     },
     {
-      "title": "Browns, Dolphins Winners & Losers: Cleveland dominates scoreboard, winners column - Dawgs By Nature",
-      "link": "https://www.dawgsbynature.com/cleveland-browns-game-information/106946/browns-dolphins-winners-losers-cleveland-dominates-scoreboard-winners-column"
-    },
-    {
-      "title": "Need to Know: Bruins at Mammoth - NHL.com",
-      "link": "https://www.nhl.com/bruins/news/need-to-know-bruins-at-mammoth"
+      "title": "Mike McDaniel Had the Saddest Line About Dolphins\u2019 Ugly Loss to Browns - Sports Illustrated",
+      "link": "https://www.si.com/nfl/mike-mcdaniel-had-the-saddest-line-about-dolphins-ugly-loss-to-browns"
     },
     {
       "title": "WATCH: Dennis Allen Gives a Victory Speech and Gets the Game Ball After the Bears Win - Bleacher Nation",
@@ -172,6 +168,10 @@
     {
       "title": "Drake Maye set a Patriots franchise record in win over Titans but still isn\u2019t satisfied - MassLive.com",
       "link": "https://www.masslive.com/patriots/2025/10/drake-maye-set-a-patriots-franchise-record-in-win-over-titans-but-still-isnt-satisfied.html"
+    },
+    {
+      "title": "Eagles break two-game losing streak with 28-22 win over Vikings - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-break-two-game-losing-streak-with-28-22-win-over-vikings"
     }
   ],
   "weather": {
