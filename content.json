@@ -1,9 +1,9 @@
 {
-  "quote": "No valid plans for the future can be made by those who have no capacity for living now. \u2013 Alan Watts",
-  "fact": "In ancient Greece \"idiot\" meant a private citizen or layman.",
-  "crypto": "BTC: $109,492 | ETH: $3,883.97",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
+  "quote": "Generosity is giving more than you can, and pride is taking less than you need. \u2013 Kahlil Gibran",
+  "fact": "Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.",
+  "crypto": "BTC: $109,416 | ETH: $3,876.12",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "which flower is most fierce? Dandelion",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,36 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025"
+    },
+    {
+      "title": "AI chatbots fail at accurate news, major study reveals - DW",
+      "link": "https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921"
+    },
+    {
+      "title": "Apple slashes iPhone Air production plans, boosts other 17 models: sources - Nikkei Asia",
+      "link": "https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources"
+    },
+    {
+      "title": "OpenAI launches browser to rival Google Chrome - DW",
+      "link": "https://www.dw.com/en/openai-launches-browser-to-rival-google-chrome/a-74452151"
+    },
+    {
+      "title": "GameCube Classic Luigi's Mansion Hits Nintendo Switch 2 Just in Time for Halloween - IGN",
+      "link": "https://www.ign.com/articles/gamecube-classic-luigis-mansion-hits-nintendo-switch-2-just-in-time-for-halloween"
+    },
+    {
+      "title": "The first major OnePlus 15 price leak has encouraging news - Android Authority",
+      "link": "https://www.androidauthority.com/oneplus-15-price-leak-3609107/"
+    },
+    {
       "title": "Samsung\u2019s Galaxy XR Mixed Reality Headset Undercuts Apple\u2019s Vision Pro by $1,700 - WIRED",
       "link": "https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/"
     },
     {
-      "title": "Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic"
+      "title": "Persona 3 Reload update announced, adds eight songs from Persona 3 vocalist Yumi Kawamura - Gematsu",
+      "link": "https://www.gematsu.com/2025/10/persona-3-reload-update-announced-adds-eight-songs-from-persona-3-vocalist-yumi-kawamura"
     },
     {
-      "title": "ChatGPT-maker OpenAI releases web browser to rival Google - BBC",
-      "link": "https://www.bbc.com/news/articles/c07mz10m1k9o"
+      "title": "Google's latest Android Canary is finally available for the entire Pixel family - Android Authority",
+      "link": "https://www.androidauthority.com/android-canary-2510-3609064/"
     },
     {
       "title": "YouTube\u2019s AI \u2018likeness detection\u2019 tool is searching for deepfakes of popular creators - The Verge",
       "link": "https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake"
     },
     {
+      "title": "The Next Xbox Will Be \"High-End\" With A \"Curated Experience,\" Xbox President Says - GameSpot",
+      "link": "https://www.gamespot.com/articles/the-next-xbox-will-be-high-end-with-a-curated-experience-xbox-president-says/1100-6535604/"
+    },
+    {
       "title": "Apple\u2019s M5 lineup continues trend of iPad innovating before Mac - 9to5Mac",
       "link": "https://9to5mac.com/2025/10/21/apples-m5-lineup-continues-trend-of-ipad-innovating-before-mac/"
     },
     {
-      "title": "Next Xbox won\u2019t be cheap \u2014 Sarah Bond teases a \u201cvery premium, high-end next-gen console experience\u201d - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience"
+      "title": "Jon Prosser Provides Update on Apple Lawsuit Over iOS 26 Leaks - MacRumors",
+      "link": "https://www.macrumors.com/2025/10/21/jon-prosser-update-on-apple-lawsuit/"
     },
     {
-      "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/"
+      "title": "Claude Code Creator: We Didn't Mean to Build It, But It's Changed Everything - PCMag",
+      "link": "https://www.pcmag.com/news/claude-code-creator-we-didnt-mean-to-build-it-but-its-changed-everything"
     },
     {
       "title": "Google Fi to add AI-enhanced audio and RCS web messaging - TechCrunch",
       "link": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/"
+    },
+    {
+      "title": "Apple\u2019s Planned Foldable iPad With 18-inch Screen Hits Development Snags - Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-21/apple-s-planned-foldable-ipad-with-18-inch-screen-hits-development-snags"
     },
     {
       "title": "Commander Brackets Beta Update \u2013 October 21, 2025 - Magic: The Gathering",
@@ -56,82 +88,66 @@
       "link": "https://www.gamespot.com/gallery/all-romance-options-in-vampire-the-masquerade-bloodlines-2/2900-7153/"
     },
     {
-      "title": "PlayStation veteran Shuhei Yoshida can\u2019t get enough of his Xbox Ally \u2014 Ninja Gaiden 4 included - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/playstation-veteran-shuhei-yoshida-cant-get-enough-of-xbox-ally"
-    },
-    {
-      "title": "TARmageddon Strikes: High Profile Security Vulnerability In Popular Rust Library - Phoronix",
-      "link": "https://www.phoronix.com/news/Rust-TARmageddon"
-    },
-    {
-      "title": "Aura introduces a $499 e-ink digital photo frame that lets you go cordless - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/"
-    },
-    {
-      "title": "Microsoft\u2019s emergency Windows 11 update fixes a nasty system recovery bug - The Verge",
-      "link": "https://www.theverge.com/news/803373/microsoft-windows-11-emergency-update-usb-mouse-keyboard-recovery-environment-issues"
-    },
-    {
-      "title": "Exclusive: Samsung inks Perplexity deal to bring AI to the TV - Axios",
-      "link": "https://www.axios.com/2025/10/21/samsung-perplexity-ai-deal-tv"
-    },
-    {
-      "title": "Kirby Air Riders gets second dedicated Nintendo Direct later this week - Eurogamer",
-      "link": "https://www.eurogamer.net/kirby-air-riders-gets-second-dedicated-nintendo-direct-later-this-week"
-    },
-    {
-      "title": "PS Plus Users Warned Not to Download New Game Right Away - PlayStation LifeStyle",
-      "link": "https://www.playstationlifestyle.net/2025/10/21/ps-plus-extra-essential-yakuza-like-a-dragon-game-license/"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 CPU To Feature Dual X3D CCDs For Up To 192 MB Cache, Ryzen 7 9850X3D Gets Boosted 5.6 GHz Clocks - Wccftech",
-      "link": "https://wccftech.com/amd-ryzen-9-9950x3d2-cpu-dual-x3d-ccds-192-mb-ryzen-7-9850x3d-5-6-ghz-clocks/"
+      "title": "iOS 26.1\u2019s new Liquid Glass setting is a win for Apple and users alike - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/21/ios-26-1s-new-liquid-glass-setting-is-a-win-for-apple-and-users-alike/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Ravens reportedly removed ping pong tables from locker room - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-reportedly-removed-ping-pong-tables-from-locker-room"
+    },
     {
       "title": "Doncic downplays groin issue after 43-point night - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/46680598/luka-doncic-scores-43-points-lakers-loss-warriors-says-groin-issue-probably-nothing"
     },
     {
-      "title": "Thunder-Rockets: 4 takeaways as OKC rings in new season with thrilling win - NBA",
-      "link": "https://www.nba.com/news/4-takeaways-thunder-rockets"
+      "title": "Izzo blasts NCAA for 'ridiculous' G League ruling - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/46680426/michigan-state-coach-tom-izzo-sounds-ncaa-louisville-signs-former-g-league-player"
+    },
+    {
+      "title": "Scott Stricklin: Billy Napier is leaving Florida in a much better place than he found it - On3",
+      "link": "https://www.on3.com/college/florida-gators/news/scott-stricklin-billy-napier-is-leaving-florida-in-much-better-place-than-he-found-it/"
     },
     {
       "title": "Spanish league cancels plans for Barcelona to play regular-season match in Miami - NPR",
       "link": "https://www.npr.org/2025/10/22/g-s1-94444/spanish-league-cancels-barcelona-match-miami"
     },
     {
-      "title": "Michael Jordan reveals shot that left him \u2018the most nervous I\u2019ve been in years\u2019 during NBC debut - New York Post",
-      "link": "https://nypost.com/2025/10/21/sports/michael-jordan-on-shot-that-left-him-most-nervous-in-years-during-nbc-debut/"
+      "title": "Hendrix Lapierre helps Capitals dominate Kraken at five-on-five: \u2018He had some really good shifts\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/10/22/hendrix-lapierre-dominant-game-kraken-five-on-five/"
+    },
+    {
+      "title": "Boston fans still love \u2018Little Ball of Hate\u2019 Brad Marchand. The feeling is mutual - AP News",
+      "link": "https://apnews.com/article/brad-marchand-bruins-panthers-77dcc717c6da20baa822a640db813404"
+    },
+    {
+      "title": "Michael Jordan Makes Shocking Claim About the Last Time He Picked Up a Basketball - Sports Illustrated",
+      "link": "https://www.si.com/nba/michael-jordan-makes-shocking-claim-about-last-time-picked-up-basketball"
     },
     {
       "title": "Dodgers-Blue Jays World Series storylines: Shohei Ohtani\u2019s showcase, Donnie Baseball\u2019s arrival and a quest for history - New York Post",
       "link": "https://nypost.com/2025/10/21/sports/world-series-the-biggest-dodgers-blue-jays-storylines/"
     },
     {
-      "title": "Completing the homestand with another win: Capitals beat Kraken 4-1 - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/10/21/completing-the-homestand-with-another-win-capitals-beat-kraken-4-1/"
+      "title": "Penguins/Canucks Recap: Pens rock \u2018n roll to another win - PensBurgh",
+      "link": "https://www.pensburgh.com/game-recaps/68214/penguins-canucks-recap-pens-rock-n-roll-to-another-win"
+    },
+    {
+      "title": "The Aaron Rodgers Bowl? While Matt LaFleur downplays that storyline, these Packers defensive players can\u2019t wait to share the same field with \u2018one of the GOATs\u2019 on Sunday night - Channel 3000",
+      "link": "https://www.channel3000.com/news/top-stories/the-aaron-rodgers-bowl-while-matt-lafleur-downplays-that-storyline-these-packers-defensive-players-can/article_98a01336-3225-48b7-8cb8-020e8649a227.html"
     },
     {
       "title": "What Iowa State coach Matt Campbell is saying ahead of his team\u2019s clash with BYU - Deseret News",
       "link": "https://www.deseret.com/sports/2025/10/21/iowa-state-head-coach-matt-campbell-byu-cougars-football-2025/"
     },
     {
-      "title": "Raiders tell Maxx Crosby they aren\u2019t shopping him, won\u2019t trade him - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-tell-maxx-crosby-they-arent-shopping-him-wont-trade-him"
-    },
-    {
-      "title": "Adam Silver pushes back on key WNBA player ask: \u2018Not the right way to look at it\u2019 - New York Post",
-      "link": "https://nypost.com/2025/10/21/sports/nba-commissioner-adam-silver-pushes-back-on-key-wnba-player-ask/"
+      "title": "Woody Johnson has no regrets about releasing Aaron Rodgers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/woody-johnson-has-no-regrets-about-releasing-aaron-rodgers"
     },
     {
       "title": "Giants cut Jude McAtamney after his kicking catastrophe in crushing Broncos loss - New York Post",
       "link": "https://nypost.com/2025/10/21/sports/giants-cut-jude-mcatamney-after-his-kicking-catastrophe/"
-    },
-    {
-      "title": "Angels\u2019 Mike Trout testifies about Eric Kay\u2019s behavior, clubhouse bets and warning from staffer before Tyler Skaggs\u2019 death - Orange County Register",
-      "link": "https://www.ocregister.com/2025/10/21/angels-mike-trout-testifies-about-eric-kays-behavior-clubhouse-bets-and-warning-from-staffer-before-tyler-skaggs-death/"
     },
     {
       "title": "Every word from Arteta's post-Atletico presser | Press conference | News - Arsenal.com",
@@ -142,28 +158,12 @@
       "link": "https://www.deseret.com/sports/2025/10/21/big-12-power-rankings-2025-season-after-week-8-utah-byu/"
     },
     {
-      "title": "Former NFL player who died in police custody battled injuries and mental health challenges - AP News",
-      "link": "https://apnews.com/article/doug-martin-death-police-nfl-a3f842872d22a7c7a2f40ea2103064ab"
-    },
-    {
       "title": "Brian Burns speaks out on viral tunnel video after crushing Giants loss - New York Post",
       "link": "https://nypost.com/2025/10/21/sports/brian-burns-speaks-out-on-viral-tunnel-video-after-crushing-giants-loss/"
     },
     {
-      "title": "Former Broncos QB Russell Wilson blasts Sean Payton as \u2018classless\u2019 - The Denver Post",
-      "link": "https://www.denverpost.com/2025/10/21/russell-wilson-blasts-sean-payton-classless/"
-    },
-    {
-      "title": "Los Angeles Angels hire former catcher Kurt Suzuki as their next manager - AP News",
-      "link": "https://apnews.com/article/angels-manager-kurt-suzuki-794c1e9110e21f5fd41135e3ee058153"
-    },
-    {
       "title": "'It's why you coach': Dennis Allen, Bears share special moment in locker room following win over New Orleans - Chicago Bears Official Website",
       "link": "https://www.chicagobears.com/news/it-s-why-you-coach-dennis-allen-bears-share-special-moment-in-locker-room-following-win-over-new-orleans"
-    },
-    {
-      "title": "2 Bounce back performances for the 49ers: Dominick Puni helps push around the Falcons - Niners Nation",
-      "link": "https://www.ninersnation.com/general/151833/2-bounce-back-performances-for-the-49ers-dominick-puni-helps-push-around-the-falcons"
     }
   ],
   "weather": {
