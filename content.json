@@ -1,9 +1,9 @@
 {
-  "quote": "We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. \u2013 Gabor Mate",
-  "fact": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the \"1\"encased in the \"shield\" and a spider hidden in the front upper right-hand corner.",
-  "crypto": "BTC: $108,974 | ETH: $3,850.36",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I was wondering why the frisbee was getting bigger, then it hit me.",
+  "quote": "Unless you change how you are, you will always have what you got. \u2013 Jim Rohn",
+  "fact": "Sugar was first added to chewing gum in 1869 by a dentist, William Semple.",
+  "crypto": "BTC: $109,139 | ETH: $3,844.92",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "They're making a movie about clocks. It's about time",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,22 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Surprise! Pikmin 4 Is Getting A Free Content Update On Switch Next Month - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/surprise-pikmin-4-is-getting-a-free-content-update-on-switch-next-month"
+    },
+    {
+      "title": "Apple's Plan to Launch Three New iPhone Designs Allegedly Revealed - MacRumors",
+      "link": "https://www.macrumors.com/2025/10/22/three-new-iphone-designs-allegedly-revealed/"
+    },
+    {
+      "title": "Coming to Xbox Game Pass: The Outer Worlds 2, PowerWash Simulator 2, Football Manager 26, and More - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2025/10/22/xbox-game-pass-october-2025-wave-2/"
+    },
+    {
+      "title": "No Man's Sky gets space wreck salvaging and expanded ship building as its busy year continues - Eurogamer",
+      "link": "https://www.eurogamer.net/no-mans-sky-gets-space-wreck-salvaging-and-expanded-ship-building-as-its-busy-year-continues"
+    },
     {
       "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
       "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025"
@@ -36,12 +52,24 @@
       "link": "https://www.androidauthority.com/oneplus-15-price-leak-3609107/"
     },
     {
+      "title": "PS6 Could Be Less Than Half the Price of Microsoft's 'Very Premium' Next-Gen Xbox - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/10/ps6-could-be-less-than-half-the-price-of-microsofts-very-premium-next-gen-xbox"
+    },
+    {
       "title": "Samsung\u2019s Galaxy XR Mixed Reality Headset Undercuts Apple\u2019s Vision Pro by $1,700 - WIRED",
       "link": "https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/"
     },
     {
-      "title": "Persona 3 Reload update announced, adds eight songs from Persona 3 vocalist Yumi Kawamura - Gematsu",
-      "link": "https://www.gematsu.com/2025/10/persona-3-reload-update-announced-adds-eight-songs-from-persona-3-vocalist-yumi-kawamura"
+      "title": "Gboard now lets you hide the period and comma keys - 9to5Google",
+      "link": "http://9to5google.com/2025/10/21/gboard-period-comma-keys/"
+    },
+    {
+      "title": "Anker's 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon - Kotaku",
+      "link": "https://kotaku.com/ankers-25000mah-laptop-power-bank-with-triple-100w-usb-c-is-now-selling-for-pennies-on-amazon-2000637801"
+    },
+    {
+      "title": "Apple returns to court in Fortnite dispute over App Store rules - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/21/apple-returns-to-court-in-fortnite-dispute-over-app-store-rules/"
     },
     {
       "title": "Google's latest Android Canary is finally available for the entire Pixel family - Android Authority",
@@ -52,66 +80,62 @@
       "link": "https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake"
     },
     {
-      "title": "The Next Xbox Will Be \"High-End\" With A \"Curated Experience,\" Xbox President Says - GameSpot",
-      "link": "https://www.gamespot.com/articles/the-next-xbox-will-be-high-end-with-a-curated-experience-xbox-president-says/1100-6535604/"
+      "title": "Pixel phones will get a smarter always-on display that saves battery life - Android Authority",
+      "link": "https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/"
     },
     {
       "title": "Apple\u2019s M5 lineup continues trend of iPad innovating before Mac - 9to5Mac",
       "link": "https://9to5mac.com/2025/10/21/apples-m5-lineup-continues-trend-of-ipad-innovating-before-mac/"
     },
     {
-      "title": "Jon Prosser Provides Update on Apple Lawsuit Over iOS 26 Leaks - MacRumors",
-      "link": "https://www.macrumors.com/2025/10/21/jon-prosser-update-on-apple-lawsuit/"
-    },
-    {
-      "title": "Claude Code Creator: We Didn't Mean to Build It, But It's Changed Everything - PCMag",
-      "link": "https://www.pcmag.com/news/claude-code-creator-we-didnt-mean-to-build-it-but-its-changed-everything"
-    },
-    {
-      "title": "Google Fi to add AI-enhanced audio and RCS web messaging - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/"
-    },
-    {
-      "title": "Apple\u2019s Planned Foldable iPad With 18-inch Screen Hits Development Snags - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2025-10-21/apple-s-planned-foldable-ipad-with-18-inch-screen-hits-development-snags"
-    },
-    {
-      "title": "Commander Brackets Beta Update \u2013 October 21, 2025 - Magic: The Gathering",
-      "link": "https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025"
-    },
-    {
-      "title": "Teamfight Tactics patch 15.7 notes - Teamfight Tactics",
-      "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-7-notes/"
-    },
-    {
-      "title": "All Romance Options In Vampire: The Masquerade Bloodlines 2 - GameSpot",
-      "link": "https://www.gamespot.com/gallery/all-romance-options-in-vampire-the-masquerade-bloodlines-2/2900-7153/"
-    },
-    {
-      "title": "iOS 26.1\u2019s new Liquid Glass setting is a win for Apple and users alike - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/21/ios-26-1s-new-liquid-glass-setting-is-a-win-for-apple-and-users-alike/"
+      "title": "Anker\u2019s latest noise-canceling sleep earbuds are nearly $40 off - The Verge",
+      "link": "https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale"
     }
   ],
   "sports_news": [
+    {
+      "title": "Detroit Lions\u2019 stock report: Risers galore as Lions shipwreck Buccaneers - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/146453/detroit-lions-stock-report-risers-galore-as-lions-shipwreck-buccaneers"
+    },
+    {
+      "title": "Brian Burns: I wasn\u2019t angry at DC Shane Bowen after loss to Broncos - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-burns-i-wasnt-angry-at-dc-shane-bowen-after-loss-to-broncos"
+    },
+    {
+      "title": "New York Giants QB Russell Wilson labels former coach Sean Payton \u2018classless\u2019 after post-game comments - CNN",
+      "link": "https://www.cnn.com/2025/10/22/sport/football-nfl-russell-wilson-sean-payton-criticism"
+    },
+    {
+      "title": "Wide Receiver Start \u2018Em, Sit \u2018Em For Fantasy Football Week 8 - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/wide-receiver-start-em-sit-em-for-fantasy-football-week-8-01k83fbsbe45"
+    },
+    {
+      "title": "Running Back Start 'Em, Sit 'Em For Fantasy Football Week 8 - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/running-back-start-em-sit-em-for-fantasy-football-week-8-01k83egqeddb"
+    },
+    {
+      "title": "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 8 - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/defense-kicker-start-em-sit-em-for-fantasy-football-week-8-01k83k1syrz3"
+    },
+    {
+      "title": "Vic Fangio on Brandon Graham\u2019s role: See what shape he\u2019s in and go from there - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-on-brandon-grahams-role-see-what-shape-hes-in-and-go-from-there"
+    },
     {
       "title": "Ravens reportedly removed ping pong tables from locker room - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-reportedly-removed-ping-pong-tables-from-locker-room"
     },
     {
-      "title": "Doncic downplays groin issue after 43-point night - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/46680598/luka-doncic-scores-43-points-lakers-loss-warriors-says-groin-issue-probably-nothing"
+      "title": "Giants news, 10/22: Giants cut McAtamney, playoffs, Malik Nabers, Tom Coughlin, more - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-news/141523/jude-mcatamney-cut-malik-nabers-tom-coughlin-updates-headlines"
     },
     {
-      "title": "Izzo blasts NCAA for 'ridiculous' G League ruling - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/46680426/michigan-state-coach-tom-izzo-sounds-ncaa-louisville-signs-former-g-league-player"
+      "title": "Three takeaways from Warriors\u2019 opening night win over Lakers despite Doncic\u2019s 43 - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/three-takeaways-from-warriors-opening-night-win-over-lakers-despite-doncics-43"
     },
     {
       "title": "Scott Stricklin: Billy Napier is leaving Florida in a much better place than he found it - On3",
       "link": "https://www.on3.com/college/florida-gators/news/scott-stricklin-billy-napier-is-leaving-florida-in-much-better-place-than-he-found-it/"
-    },
-    {
-      "title": "Spanish league cancels plans for Barcelona to play regular-season match in Miami - NPR",
-      "link": "https://www.npr.org/2025/10/22/g-s1-94444/spanish-league-cancels-barcelona-match-miami"
     },
     {
       "title": "Hendrix Lapierre helps Capitals dominate Kraken at five-on-five: \u2018He had some really good shifts\u2019 - RMNB",
@@ -122,48 +146,24 @@
       "link": "https://apnews.com/article/brad-marchand-bruins-panthers-77dcc717c6da20baa822a640db813404"
     },
     {
-      "title": "Michael Jordan Makes Shocking Claim About the Last Time He Picked Up a Basketball - Sports Illustrated",
-      "link": "https://www.si.com/nba/michael-jordan-makes-shocking-claim-about-last-time-picked-up-basketball"
+      "title": "7 Penguins postgame observations: Sid passes Mario and Silovs gets revenge - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/penguins/2025/10/21/penguins-sidney-crosby-mario-lemieux-tommy-novak-arturs-silovs/stories/202510200071"
+    },
+    {
+      "title": "Vikings at Chargers: Second Injury Report - Daily Norseman",
+      "link": "https://www.dailynorseman.com/minnesota-vikings-injuries/92050/vikings-at-chargers-second-injury-report"
+    },
+    {
+      "title": "MJ debuts on NBC, cites desire to 'pay it forward' - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46678005/michael-jordan-debuts-nbc-sports-special-nba-contributor-cites-desire-pay-forward"
     },
     {
       "title": "Dodgers-Blue Jays World Series storylines: Shohei Ohtani\u2019s showcase, Donnie Baseball\u2019s arrival and a quest for history - New York Post",
       "link": "https://nypost.com/2025/10/21/sports/world-series-the-biggest-dodgers-blue-jays-storylines/"
     },
     {
-      "title": "Penguins/Canucks Recap: Pens rock \u2018n roll to another win - PensBurgh",
-      "link": "https://www.pensburgh.com/game-recaps/68214/penguins-canucks-recap-pens-rock-n-roll-to-another-win"
-    },
-    {
       "title": "The Aaron Rodgers Bowl? While Matt LaFleur downplays that storyline, these Packers defensive players can\u2019t wait to share the same field with \u2018one of the GOATs\u2019 on Sunday night - Channel 3000",
       "link": "https://www.channel3000.com/news/top-stories/the-aaron-rodgers-bowl-while-matt-lafleur-downplays-that-storyline-these-packers-defensive-players-can/article_98a01336-3225-48b7-8cb8-020e8649a227.html"
-    },
-    {
-      "title": "What Iowa State coach Matt Campbell is saying ahead of his team\u2019s clash with BYU - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/10/21/iowa-state-head-coach-matt-campbell-byu-cougars-football-2025/"
-    },
-    {
-      "title": "Woody Johnson has no regrets about releasing Aaron Rodgers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/woody-johnson-has-no-regrets-about-releasing-aaron-rodgers"
-    },
-    {
-      "title": "Giants cut Jude McAtamney after his kicking catastrophe in crushing Broncos loss - New York Post",
-      "link": "https://nypost.com/2025/10/21/sports/giants-cut-jude-mcatamney-after-his-kicking-catastrophe/"
-    },
-    {
-      "title": "Every word from Arteta's post-Atletico presser | Press conference | News - Arsenal.com",
-      "link": "https://www.arsenal.com/news/every-word-artetas-post-atletico-presser"
-    },
-    {
-      "title": "Big 12 football power rankings: BYU is now at the head of the class. How far did Utah fall? - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/10/21/big-12-power-rankings-2025-season-after-week-8-utah-byu/"
-    },
-    {
-      "title": "Brian Burns speaks out on viral tunnel video after crushing Giants loss - New York Post",
-      "link": "https://nypost.com/2025/10/21/sports/brian-burns-speaks-out-on-viral-tunnel-video-after-crushing-giants-loss/"
-    },
-    {
-      "title": "'It's why you coach': Dennis Allen, Bears share special moment in locker room following win over New Orleans - Chicago Bears Official Website",
-      "link": "https://www.chicagobears.com/news/it-s-why-you-coach-dennis-allen-bears-share-special-moment-in-locker-room-following-win-over-new-orleans"
     }
   ],
   "weather": {
