@@ -1,9 +1,9 @@
 {
-  "quote": "Nothing is impossible. The word itself says 'I'm possible!' \u2013 Audrey Hepburn",
-  "fact": "Almonds are members of the peach family.",
-  "crypto": "BTC: $111,396 | ETH: $3,973.29",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "A book just fell on my head. I only have my shelf to blame.",
+  "quote": "The only way to 'find out if it will work out' is to do it. \u2013 Simon Sinek",
+  "fact": "It takes about 142.18 licks to reach the center of a Tootsie pop.",
+  "crypto": "BTC: $111,301 | ETH: $3,969.22",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Q: What did the spaghetti say to the other spaghetti?\r\nA: Pasta la vista, baby!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "CS2 skin update \u2018rug pulls\u2019 collectors as $1 billion wiped from market cap - Dexerto",
-      "link": "https://www.dexerto.com/counter-strike-2/cs2-skin-update-rug-pulls-collectors-as-1-billion-wiped-from-market-cap-3273322/"
+      "title": "Microsoft Pushes Xbox Division to Hit Higher Profit Margins - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-23/microsoft-pushes-xbox-studios-to-hit-higher-profit-margins"
     },
     {
-      "title": "Mysterious OnePlus phone with Qualcomm Snapdragon 8 Gen 5 and 8,000mAh+ battery leaks with release timeline - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Mysterious-OnePlus-phone-with-Qualcomm-Snapdragon-8-Gen-5-and-8-000mAh-battery-leaks-with-release-timeline.1144658.0.html"
+      "title": "OpenAI teases new features and fixes for ChatGPT Atlas - The Verge",
+      "link": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates"
     },
     {
-      "title": "BIND warns of bugs that could bring DNS cache attack back from the dead - Ars Technica",
-      "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/"
+      "title": "Musk doubles down in fight with Trump administration, risking his empire - The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2025/10/23/elon-musk-sean-duffy-washington/"
     },
     {
-      "title": "'Sean Dummy': Elon Musk goes after acting NASA chief after reopening of moon-landing contract - Space",
-      "link": "https://www.space.com/space-exploration/sean-dummy-why-is-elon-musk-attacking-the-acting-nasa-chief"
+      "title": "The Espresso Pro portable monitor is a revolution for remote work - The Verge",
+      "link": "https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work"
     },
     {
-      "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
-      "link": "https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers"
+      "title": "CS2 Trade Update Upends Skin Market With New Knife Crafting - Dataconomy",
+      "link": "https://dataconomy.com/2025/10/23/cs2-trade-update-upends-skin-market-with-new-knife-crafting/"
     },
     {
-      "title": "Apple Removes Women Dating Safety App from the App Store - 404 Media",
-      "link": "https://www.404media.co/women-dating-safety-app-tea-delisted-from-apple-app-store/"
+      "title": "OnePlus confirms a key downgrade for the OnePlus 15 - Android Authority",
+      "link": "https://www.androidauthority.com/oneplus-15-key-downgrade-confirmed-3609479/"
+    },
+    {
+      "title": "Google promises GPU updates for Pixel 10, but what does it really mean? - Android Authority",
+      "link": "https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/"
+    },
+    {
+      "title": "This is fine: Google Photos could soon let you turn yourself into a meme - Android Authority",
+      "link": "https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/"
+    },
+    {
+      "title": "Apple\u2019s reportedly pulling back on iPhone Air production - The Verge",
+      "link": "https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop"
+    },
+    {
+      "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800 - Ars Technica",
+      "link": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/"
+    },
+    {
+      "title": "Apple confirms it pulled controversial dating apps Tea and TeaOnHer from the App Store - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/"
+    },
+    {
+      "title": "Marvel Cosmic Invasion Scores December Release Date And Two New Fighters - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/marvel-cosmic-invasion-scores-december-release-date-and-two-new-fighters"
+    },
+    {
+      "title": "Next year\u2019s A20 chip might push iPhone prices even higher - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/"
+    },
+    {
+      "title": "Foldable iPhone, bezel-less iPhone, and iPhone Flip details leak: Apple fans are in for a treat - PhoneArena",
+      "link": "https://www.phonearena.com/news/foldable-iphone-bezel-less-iphone-iphone-flip-details-leak-apple-fans-in-for-a-treat_id175096"
     },
     {
       "title": "MTG Hybrid Mana Rules in Commander May Be Changing Soon - MTG Rocks",
@@ -44,20 +76,8 @@
       "link": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates"
     },
     {
-      "title": "ChatGPT Atlas is an AI-infused, but Chromium-based browser - 9to5Google",
-      "link": "http://9to5google.com/2025/10/22/chatgpt-atlas-is-yet-another-chromium-based-browser-with-clever-ai-features/"
-    },
-    {
-      "title": "Microsoft Announces Xbox Game Pass Wave 2 October 2025 Lineup - IGN",
-      "link": "https://www.ign.com/articles/microsoft-announces-xbox-game-pass-wave-2-october-2025-lineup"
-    },
-    {
       "title": "New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available - Apple",
       "link": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/"
-    },
-    {
-      "title": "Samsung takes on Apple\u2019s Vision Pro with new Galaxy XR headset - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/22/samsung-takes-on-apples-vision-pro-with-new-galaxy-xr-headset/"
     },
     {
       "title": "'The Game We Are Making Now Is a Nintendo Game' \u2014 Metroid Prime Producer Kensuke Tanabe Reveals Creative Tensions With Retro in New Book - IGN",
@@ -66,40 +86,36 @@
     {
       "title": "AI assistants misrepresent news content 45% of the time - Hacker News",
       "link": "https://news.ycombinator.com/item?id\\\\u003d45668990"
-    },
-    {
-      "title": "Apple is 'drastically' cutting iPhone Air production, report says, after new survey reveals 'virtually no demand' - Fortune",
-      "link": "https://fortune.com/2025/10/22/apple-iphone-air-demand-weak-production-cuts-vs-17-pro/"
-    },
-    {
-      "title": "Introducing No Man\u2019s Sky: Breach, A Spooky Free Update For Existing Players - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/10/22/introducing-no-mans-sky-breach/"
-    },
-    {
-      "title": "PowerWash Simulator 2 review - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/powerwash-simulator-2-review"
-    },
-    {
-      "title": "Google is testing another home for Nano Banana, and we're unsure what took it so long - Android Authority",
-      "link": "https://www.androidauthority.com/google-nano-banana-button-gemini-overlay-3609234/"
     }
   ],
   "sports_news": [
     {
-      "title": "Victor Wembanyama uses Cooper Flagg\u2019s debut as a reminder of why he was so hyped - AP News",
-      "link": "https://apnews.com/article/mavericks-spurs-cooper-flagg-victor-wembanyama-475c8d6a0eea5fb27e633aaae6253825"
+      "title": "Sources: Heat's Rozier arrested in gambling case - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46695228/sources-terry-rozier-arrested-part-gambling-inquiry"
     },
     {
-      "title": "Giants Hire Tony Vitello As Manager - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/giants-to-hire-tony-vitello-as-manager.html"
+      "title": "With a double dollop of Alpe d'Huez, here's the men's 2026 Tour de France route - Escape Collective",
+      "link": "https://escapecollective.com/double-alpe-dhuez-baby-heres-the-mens-2026-tour-de-france-route/"
     },
     {
-      "title": "WNBA players union head issues fiery response to Adam Silver as heated talks drag on - New York Post",
-      "link": "https://nypost.com/2025/10/22/sports/wnba-players-union-head-issues-fiery-response-to-adam-silver/"
+      "title": "3 things you missed from the NBA: Wemby vs. Flagg, historic rookie debut, Antetokounmpo leads Bucks - CNN",
+      "link": "https://www.cnn.com/2025/10/23/sport/basketball-nba-wednesday-review-wembanyama-flagg-edgecombe-intl"
     },
     {
-      "title": "Former world chess champion may face discipline for treatment of Daniel Naroditsky - AP News",
-      "link": "https://apnews.com/article/naroditsky-death-chess-kramnik-cheating-allegations-396c3609a805ffb18da094aa65c9755b"
+      "title": "World chess body probes former champion Kramnik over US grandmaster\u2019s death - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2025/10/23/world-chess-body-probes-former-champion-kramnik-over-us-grandmasters-death"
+    },
+    {
+      "title": "Giants name Tennessee's Vitello manager, gambling on a college coach with no professional experience - AP News",
+      "link": "https://apnews.com/article/giants-manager-vitello-tennessee-baseball-c6dc9add3e3f8ecb551f80946aa06939"
+    },
+    {
+      "title": "Five Observations from Bayern Munich\u2019s Champions League 4-0 win over Club Brugge - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/144211/five-observations-from-bayern-munichs-champions-league-4-0-win-over-club-brugge"
+    },
+    {
+      "title": "Knicks hold on to start Mike Brown era with hard-fought win over Cavaliers - New York Post",
+      "link": "https://nypost.com/2025/10/22/sports/knicks-start-mike-brown-era-with-hard-fought-win-over-cavaliers/"
     },
     {
       "title": "BYU Provides Initial Availability Report for Road Game at Iowa State - Sports Illustrated",
@@ -108,14 +124,6 @@
     {
       "title": "Instant observations: VJ Edgecombe's historic debut, Tyrese Maxey's dominance lead Sixers to thrilling win on opening night - PhillyVoice",
       "link": "https://www.phillyvoice.com/sixers-vs-celtics-highlights-stats-box-score-news-analysis-joel-embiid-tyrese-maxey-vj-edgecombe-debut-nick-nurse/"
-    },
-    {
-      "title": "Knicks 119, Cavs 111: Scenes from an OG party on opening night - Posting and Toasting",
-      "link": "https://www.postingandtoasting.com/knicks-scores-results/74550/knicks-119-cavs-111-scenes-from-an-og-party-on-opening-night"
-    },
-    {
-      "title": "Match Awards from Bayern Munich 4-0 steamrolling of Club Brugge - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-awards/143476/match-awards-playerratings-bayern-munich-club-brugge-champions-league-win-ucl"
     },
     {
       "title": "Lamar Jackson returns to Ravens practice on Wednesday - NBC Sports",
@@ -138,6 +146,14 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-says-his-jaxson-dart-comments-werent-about-russell-wilson"
     },
     {
+      "title": "Aaron Rodgers told Broderick Jones: I\u2019m 41; you can\u2019t be tackling me like that - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-told-broderick-jones-im-41-you-cant-be-tackling-me-like-that"
+    },
+    {
+      "title": "Packers QB Jordan Love reflects on his time as Aaron Rodgers\u2019 backup - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-qb-jordan-love-reflects-on-his-time-as-aaron-rodgers-backup-oct-22-2025"
+    },
+    {
       "title": "Digging Deeper Into Liverpool\u2019s 5-1 Victory Over Eintracht Frankfurt - The Liverpool Offside",
       "link": "https://liverpooloffside.sbnation.com/liverpool-fc-match-coverage/76389/digging-deeper-match-recap-liverpool-5-1-victory-eintracht-frankfurt-ekitike-wirtz"
     },
@@ -152,18 +168,6 @@
     {
       "title": "Raheem Morris explains Ray-Ray McCloud III release - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/ray-ray-mccloud-released-raheem-morris-reason"
-    },
-    {
-      "title": "Column: FSU\u2019s financial reality is the only reason Mike Norvell\u2019s still employed - Tomahawk Nation",
-      "link": "https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/120960/financial-money-contract-buyout-facility-latest-news-numbers"
-    },
-    {
-      "title": "Overshown eyeing specific NFL team for his 2025 return - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/overshown-eyeing-specific-nfl-team-for-his-2025-return"
-    },
-    {
-      "title": "Seven Modern-Era Buffalo Bills advance in voting for NFL Hall of Fame Class of 2026 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/seven-buffalo-bills-advance-in-voting-for-nfl-hall-of-fame-class-of-2026"
     }
   ],
   "weather": {
