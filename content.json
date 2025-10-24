@@ -1,9 +1,9 @@
 {
-  "quote": "What the caterpillar calls the end of the world, the master calls a butterfly. \u2013 Richard Bach",
-  "fact": "Netherlands is the only country with a national dog.",
-  "crypto": "BTC: $110,711 | ETH: $3,935.05",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why does Superman get invited to dinners? Because he is a Supperhero.",
+  "quote": "When a man is penalized for honesty he learns to lie. \u2013 Criss Jami",
+  "fact": "They NEVER said \u201cBeam me up, Scotty\u201d on Star Trek.",
+  "crypto": "BTC: $110,681 | ETH: $3,927.29",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What did one snowman say to the other snow man? Do you smell carrot?",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,154 +12,102 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "OpenAI buys Sky, an AI interface for Mac - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/"
+    },
+    {
+      "title": "What happened to Apple's legendary attention to detail? - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45685551"
+    },
+    {
+      "title": "Microsoft makes Copilot \u201chuman-centered\u201d with a \u201890s-style animated assistant - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/"
+    },
+    {
       "title": "Fallout: New Vegas 15th Anniversary Bundle Announced on Fallout Day \u2014 Here Are the Contents - IGN",
       "link": "https://www.ign.com/articles/fallout-new-vegas-15th-anniversary-bundle-announced-on-fallout-day-here-are-the-contents"
+    },
+    {
+      "title": "Anthropic expands Claude memory to all paid users - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3hUOGFpX25mZnJ0M3pIM3VlOVhzSVJmXzRrei1mX3hYZlBKZDNtd20yN2VZQWUtRkZ6SDdiVF9kb2JYR1EwLWlTVDE2S2VKa1EtenlPZEgzTkR0b3hoX1V5VHlvbVBwQXpSX0FSRE11QXhFMmE2b19ncTA1SFp1MDZPSFI?oc=5"
+    },
+    {
+      "title": "\u2018Borderlands 4\u2019 Patch Notes: The Big Nerfs And Buffs For Halloween - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/10/23/borderlands-4-patch-notes-the-big-nerfs-and-buffs-for-halloween/"
     },
     {
       "title": "Dev Diary: Creating Arena Powered Cube - Magic: The Gathering",
       "link": "https://magic.wizards.com/en/news/mtg-arena/dev-diary-creating-arena-powered-cube"
     },
     {
-      "title": "Fallout 4: Anniversary Edition Announced - Bethesda.net",
-      "link": "https://bethesda.net/en/article/N00XVTawnzBBH7HNwv0hN/fallout-4-anniversary-edition-announced"
+      "title": "The $1,000 Xbox Ally X Drops in Price for the First Time When You Buy Slightly Used - IGN",
+      "link": "https://www.ign.com/articles/the-xbox-ally-x-drops-in-price-for-the-first-time-when-you-buy-slightly-used"
     },
     {
-      "title": "Microsoft\u2019s Mico is a \u2018Clippy\u2019 for the AI era - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/"
-    },
-    {
-      "title": "OpenAI Acquires AI Startup Founded by Former Apple Employees - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-10-23/openai-acquires-ai-startup-founded-by-former-apple-employees"
+      "title": "Catch up on all the news from 2025\u2019s Fallout Day Broadcast - Bethesda.net",
+      "link": "https://bethesda.net/en/article/5S63EJI5hmThAU6I8jaiQj/fallout-day-broadcast-2025-news"
     },
     {
       "title": "Watch - Kirby Air Riders Nintendo Direct #2 - Live! - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/10/watch-kirby-air-riders-nintendo-direct-2-live"
     },
     {
+      "title": "Assassin\u2019s Creed Shadows confirmed for Nintendo Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/assassins-creed-shadows-confirmed-for-nintendo-switch-2/"
+    },
+    {
+      "title": "Stability AI and EA Partner to Empower Artists, Designers, and Developers to Reimagine Game Development - Stability AI",
+      "link": "https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development"
+    },
+    {
+      "title": "GDC lowers ticket prices, streamlines pass types in Festival of Gaming 'reimagination' - Game Developer",
+      "link": "https://www.gamedeveloper.com/business/gdc-lowers-ticket-prices-streamlines-pass-types-in-festival-of-gaming-reimagination-"
+    },
+    {
       "title": "Breathing Through Our Butts Declared Safe After First Human Trial - 404 Media",
       "link": "https://www.404media.co/breathing-through-our-butts-declared-safe-after-first-human-trial/"
+    },
+    {
+      "title": "Google Earth\u2019s expanded AI features make it easier to ask it questions - The Verge",
+      "link": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features"
+    },
+    {
+      "title": "Apple Wallet now offers digital ID for another US state - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/23/apple-wallet-now-supports-digital-id-in-another-us-state/"
     },
     {
       "title": "Reports suggest Apple is already pulling back on the iPhone Air - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/"
     },
     {
-      "title": "The Man Who Makes AI Slop by Hand - WIRED",
-      "link": "https://www.wired.com/story/made-in-china-the-chinese-creator-who-imitates-ai-slop/"
+      "title": "Razer\u2019s new DualSense Edge-style PS5 controller has TMR sticks - The Verge",
+      "link": "https://www.theverge.com/news/804365/razer-raiju-v3-pro-ps5-dualsense-edge-features-price"
     },
     {
       "title": "Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial - The Verge",
       "link": "https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection"
     },
     {
-      "title": "Google says Pixel 10 will get GPU updates soon - 9to5Google",
-      "link": "http://9to5google.com/2025/10/23/google-says-pixel-10-will-get-gpu-updates-soon/"
-    },
-    {
-      "title": "Galaxy S26 Ultra Mass Production Reportedly Starting In December, Earlier Than Remaining Two, With An Industry Source Calling Samsung\u2019s Decision \u2018Efficient\u2019 - Wccftech",
-      "link": "https://wccftech.com/galaxy-s26-ultra-mass-production-happening-in-december/"
-    },
-    {
       "title": "Famitsu sales (10/13/25 \u2013 10/19/25) \u2013 first week sales revealed for Pokemon Legends: Z-A - Nintendo Everything",
       "link": "https://nintendoeverything.com/famitsu-sales-10-13-25-10-19-25-first-week-sales-revealed-for-pokemon-legends-z-a/"
-    },
-    {
-      "title": "I've enjoyed my time with The Outer Worlds 2, and it fixes this key problem from the first game - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/the-outer-worlds-2-review"
-    },
-    {
-      "title": "Valve casually gut Counter-Strike's billion dollar skins market with a \"small update\" - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/valve-casually-gut-counter-strikes-billion-dollar-skins-market-with-a-small-update"
-    },
-    {
-      "title": "Report: Apple to Skip 'iPhone 19' Name for 'iPhone 20' - MacRumors",
-      "link": "https://www.macrumors.com/2025/10/23/apple-to-skip-iphone-19-name/"
-    },
-    {
-      "title": "OpenAI teases new features and fixes for ChatGPT Atlas - The Verge",
-      "link": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates"
     }
   ],
   "sports_news": [
     {
-      "title": "Showdown Breakdown: Vikings at Chargers - Establish The Run",
-      "link": "https://establishtherun.com/showdown-breakdown-vikings-at-chargers/"
+      "title": "Week 8 Fantasy Football Rankings - The Blueprint - Underdog Network",
+      "link": "https://underdognetwork.com/football/fantasy-rankings/week-8-fantasy-football-rankings-the-blueprint-2025"
     },
     {
-      "title": "2025 Week 8 Fantasy Football Rankings: WR - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-8-fantasy-football-rankings-wr"
+      "title": "Aaron Rodgers: My career will end in Green Bay - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-my-career-will-end-in-green-bay"
     },
     {
-      "title": "Award season already beginning for Mariners players and manager - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-cal-raleigh-julio-rodriguez-dan-wilson-earn-sporting-news-awards/"
+      "title": "NFL Expert Picks: Tight Battle Predicted for Vikings at Chargers in Week 8 - Minnesota Vikings",
+      "link": "https://www.vikings.com/news/nfl-expert-picks-tight-battle-predicted-for-vikings-at-chargers-in-week-8"
     },
     {
-      "title": "Jalen Brunson\u2019s role, hit-or-miss bench and more Knicks takeaways from Game 1 - New York Post",
-      "link": "https://nypost.com/2025/10/23/sports/knicks-takeaways-from-nba-opener-jalen-brunsons-role-a-hit-or-miss-bench-other-trends/"
-    },
-    {
-      "title": "Angelina Melnikova edges Leanne Wong for world all-around gymnastics title - NBC Sports",
-      "link": "https://www.nbcsports.com/olympics/news/angelina-melnikova-leanne-wong-gymnastics-world-championships-all-around-2025"
-    },
-    {
-      "title": "Inbox: The NFL knew what it was doing - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/inbox-the-nfl-knew-what-it-was-doing-oct-23-2025"
-    },
-    {
-      "title": "\u2018Pray for Aspinall\u2019\u2026 Ciryl Gane\u2019s body transformation leaves fans shocked ahead of UFC 321 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/10/23/pray-for-aspinall-ciryl-ganes-body-transformation-leaves-fans-shocked-ahead-of-ufc-321/"
-    },
-    {
-      "title": "Finally, Russell Wilson shows he can punch back - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/kudos-to-giants-russell-wilson-for-responding-to-broncos-sean-payton/"
-    },
-    {
-      "title": "Greater Than Ohtani? How Other Top Performances Match Up Against the Dodgers\u2019 Two-Way Star - Sports Illustrated",
-      "link": "https://www.si.com/mlb/how-other-top-sports-performances-match-up-against-shohei-ohtani"
-    },
-    {
-      "title": "21 reasons why the Utah Jazz won by a shocking 21 points on opening night - The Salt Lake Tribune",
-      "link": "https://www.sltrib.com/sports/jazz/2025/10/24/utah-jazz-dominate-clippers-129/"
-    },
-    {
-      "title": "Former world chess champion may face discipline for allegations against Daniel Naroditsky - AP News",
-      "link": "https://apnews.com/article/naroditsky-death-chess-kramnik-cheating-allegations-396c3609a805ffb18da094aa65c9755b"
-    },
-    {
-      "title": "Week 8 NFL straight up, against the spread, and survivor pool picks - PhillyVoice",
-      "link": "https://www.phillyvoice.com/week-8-nfl-straight-against-spread-and-survivor-pool-picks-eagles-giants/"
-    },
-    {
-      "title": "Patriots Gameplan: 3 Keys to Victory for New England in Sunday's Matchup vs. the Browns in Week 8 - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/patriots-gameplan-3-keys-to-victory-for-new-england-in-sunday-s-matchup-vs-the-browns-in-week-8"
-    },
-    {
-      "title": "Biggest Need for 17 Playoff Contenders Ahead of the NFL Trade Deadline - Sports Illustrated",
-      "link": "https://www.si.com/biggest-need-17-playoff-contenders-nfl-trade-deadline"
-    },
-    {
-      "title": "Suns find identity, \u2018wear-down effect\u2019 in opening win vs. Kings - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/suns-win-brooks/3599899/"
-    },
-    {
-      "title": "Tight Ends Start 'Em, Sit 'Em and Fantasy Football Trends for Week 8 (2025) - RotoBaller",
-      "link": "https://www.rotoballer.com/tight-ends-fantasy-football-start-em-sit-em-and-trends-week-8-2025/1732318"
-    },
-    {
-      "title": "Victor Wembanyama Mesmerizes NBA Fans as Spurs Beat Mavs, Spoil Cooper Flagg's Debut - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25263736-victor-wembanyama-mesmerizes-nba-fans-spurs-beat-mavs-spoil-cooper-flaggs-debut"
-    },
-    {
-      "title": "Cooper Flagg Makes History in NBA Debut - Athlon Sports",
-      "link": "https://athlonsports.com/nba/dallas-mavericks/cooper-flagg-makes-history-in-nba-debut"
-    },
-    {
-      "title": "Seven Modern-Era Buffalo Bills advance in voting for NFL Hall of Fame Class of 2026 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/seven-buffalo-bills-advance-in-voting-for-nfl-hall-of-fame-class-of-2026"
-    },
-    {
-      "title": "In unprecedented move, Buster Posey hires Tennessee\u2019s Tony Vitello to manage Giants - The San Francisco Standard",
-      "link": "https://sfstandard.com/2025/10/22/tony-vitello-sf-giants-manager-hire/"
+      "title": "NFL Week 8 picks: Upset and score predictions, matchup analysis for every game - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-picks-week-8-2025-nfl-season"
     }
   ],
   "weather": {
