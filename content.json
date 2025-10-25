@@ -1,9 +1,9 @@
 {
-  "quote": "Don't let the behavior of others destroy your inner peace. \u2013 Dalai Lama",
-  "fact": "The dot over the letter `i` is called a tittle. \u00a0",
-  "crypto": "BTC: $111,275 | ETH: $3,929.87",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
+  "quote": "There is nothing more frightful than ignorance in action. \u2013 Johann Wolfgang von Goethe",
+  "fact": "Pepsi originally contained pepsin, thus the name. ",
+  "crypto": "BTC: $111,442 | ETH: $3,938.49",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "\"What time is it?\" I don't know... it keeps changing.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Indie shooter Escape From Duckov overtakes Battlefield 6 on Steam - Dexerto",
+      "link": "https://www.dexerto.com/gaming/indie-shooter-escape-from-duckov-overtakes-battlefield-6-on-steam-3273511/"
+    },
+    {
+      "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
+      "link": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad"
+    },
+    {
+      "title": "Nobody Seems To Like The New Halloween Event In Borderlands 4 - Kotaku",
+      "link": "https://kotaku.com/new-halloween-event-borderlands-4-sucks-bad-horrors-of-kairos-2000638842"
+    },
+    {
+      "title": "Sora for iOS will add three new features soon, here\u2019s what\u2019s coming - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/24/sora-for-ios-will-add-three-new-features-soon-heres-whats-coming/"
+    },
+    {
       "title": "Major Xbox outage preventing players from unlocking some achievements - TrueAchievements",
       "link": "https://www.trueachievements.com/news/xbox-achievements-not-unlocking-outage"
+    },
+    {
+      "title": "ChatGPT enters the browser wars - The Verge",
+      "link": "https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale"
+    },
+    {
+      "title": "Metroid Prime Producer Seems as Excited as Fans for a Metroid Prime 2 Remake - IGN",
+      "link": "https://www.ign.com/articles/metroid-prime-producer-seems-as-excited-as-fans-for-a-metroid-prime-2-remake"
     },
     {
       "title": "The OnePlus 15 is crushing Samsung's 2026 hopes - Android Authority",
       "link": "https://www.androidauthority.com/oneplus-15-crushing-samsung-galaxy-s26-3609616/"
     },
     {
+      "title": "Phil Spencer says next-gen Xbox is first-party \u2014 the Xbox Ally hints at what\u2019s next - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/phil-spencer-says-next-gen-xbox-is-first-party"
+    },
+    {
       "title": "Galaxy S26 Ultra design and key upgrade confirmed by case maker - Android Authority",
       "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-case-leak-3609873/"
     },
     {
-      "title": "PS6 Launch Price Surfaces, Take Our Money Right Now - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/ps6-launch-price-xbox-compared-526773-20251024"
+      "title": "Hades 2 post-launch patch 1 revamps Melino\u00eb's \"true ending\", and is out now in Steam preview form - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/hades-2-post-launch-patch-1-revamps-melinoes-true-ending-and-is-out-now-in-steam-preview-form"
     },
     {
       "title": "Google Pixel\u2019s most dangerous bug refuses to die - Android Police",
@@ -54,40 +82,28 @@
     {
       "title": "Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable",
       "link": "https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price"
-    },
-    {
-      "title": "Microsoft Edge\u2019s new Copilot Mode turns on more AI features - The Verge",
-      "link": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch"
-    },
-    {
-      "title": "Amazon (AMZN) Sees Another Senior VP Exit from Devices Unit This Month - TipRanks",
-      "link": "https://www.tipranks.com/news/amazon-amzn-sees-another-senior-vp-exit-from-devices-unit-this-month"
-    },
-    {
-      "title": "OpenAI buys Sky, an AI interface for Mac - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/"
-    },
-    {
-      "title": "EA partners with Stability AI for \u2018transformative\u2019 AI game-making tools - The Verge",
-      "link": "https://www.theverge.com/news/805777/ea-stability-ai-transformative-game-development-tools"
-    },
-    {
-      "title": "Google Fi details how HD calling works - 9to5Google",
-      "link": "http://9to5google.com/2025/10/23/google-fi-hd-calling/"
-    },
-    {
-      "title": "Instagram users can now use Meta AI editing tools directly in IG Stories - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/"
-    },
-    {
-      "title": "Powerful NVIDIA chip launching to orbit next month - Space",
-      "link": "https://www.space.com/technology/nvidia-gpu-heads-to-space-starcloud-1"
     }
   ],
   "sports_news": [
     {
+      "title": "Cal Raleigh wins major award. Is MVP next? - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-cal-raleigh-wins-sporting-news-mlb-player-of-the-year-award/"
+    },
+    {
       "title": "The Opener: Blue Jays, Dodgers, World Series - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/10/the-opener-blue-jays-dodgers-world-series.html"
+    },
+    {
+      "title": "Charles Barkley Proved In One Day That He's The Only Person At ESPN With Balls - OutKick",
+      "link": "https://www.outkick.com/sports/charles-barkley-proved-one-day-hes-only-person-espn-balls"
+    },
+    {
+      "title": "Eagles-Giants rematch: Five things to watch - PhillyVoice",
+      "link": "https://www.phillyvoice.com/eagles-giants-rematch-five-things-watch-2025/"
+    },
+    {
+      "title": "2025 NFL Week 8 Advanced Matchups - Fantasy Points",
+      "link": "https://www.fantasypoints.com/nfl/articles/2025/nfl-week-8-advanced-matchups"
     },
     {
       "title": "Kevin O\u2019Connell: If J.J. McCarthy is healthy, he\u2019ll play - NBC Sports",
@@ -110,12 +126,24 @@
       "link": "https://www.bbc.com/sport/basketball/articles/cd67jl19ewwo"
     },
     {
-      "title": "Chargers 37-10 Vikings (Oct 23, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772942"
+      "title": "Blue Jays Notes: Bichette\u2019s Role, Game 1 Starter, Gausman\u2019s Usage - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/blue-jays-notes-bichettes-role-game-1-starter-gausmans-usage.html"
+    },
+    {
+      "title": "Portugal beats US women's team for 1st time, 2-1 in Alex Morgan's farewell - Yahoo Sports",
+      "link": "https://sports.yahoo.com/article/portugal-beats-us-womens-team-011757523.html"
+    },
+    {
+      "title": "Doug Martin Reportedly Leapt From Second Story of Rehab Center Months Before Death - TMZ",
+      "link": "https://www.tmz.com/2025/10/23/doug-martin-reportedly-jumped-from-two-story-of-rehab-center-before-death/"
     },
     {
       "title": "New Giants manager Tony Vitello raised as St. Louis sports royalty, but \u2018he\u2019s for real\u2019 - San Francisco Chronicle",
       "link": "https://www.sfchronicle.com/sports/giants/article/giants-tony-vitello-for-real-know-21115499.php"
+    },
+    {
+      "title": "Vesia not with Dodgers due to personal matter - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46702779/dodgers-reliever-alex-vesia-dealing-personal-matter"
     },
     {
       "title": "How a mafia poker scam allegedly stole millions using X-rays and tech - BBC",
@@ -126,12 +154,12 @@
       "link": "https://www.npr.org/2025/10/23/nx-s1-5584161/chess-fide-investigation-naroditsky-kramnik"
     },
     {
-      "title": "USWNT vs. Portugal: Starting XI & Lineup Notes - US Soccer",
-      "link": "https://ussoccer.com/stories/2025/10/uswnt-portugal-starting-lineup-notes-lindsey-heaps-sam-coffey"
+      "title": "NFL Week 8 picks: Upset and score predictions, matchup analysis for every game - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-picks-week-8-2025-nfl-season"
     },
     {
-      "title": "Week 8 Fantasy Football Start 'Em, Sit 'Em - Fantasy Points",
-      "link": "https://www.fantasypoints.com/nfl/articles/2025/week-8-fantasy-football-start-em-sit-em"
+      "title": "34 Seniors remain in consideration for Hall of Fame's Class of 2026 - Pro Football Hall of Fame",
+      "link": "https://www.profootballhof.com/news/2025/10/34-seniors-remain-in-consideration-for-hall-of-fame-s-class-of-2026/"
     }
   ],
   "weather": {
