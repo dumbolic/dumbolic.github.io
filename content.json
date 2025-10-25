@@ -1,9 +1,9 @@
 {
-  "quote": "The best teacher is experience and not through someone's distorted point of view. \u2013 Jack Kerouac",
-  "fact": "An eighteenth-century German named Matthew Birchinger, known as \"the little man of Nuremberg,\" played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.",
-  "crypto": "BTC: $111,421 | ETH: $3,948.03",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "It's been months since I bought the book \"how to scam people online\". It still hasn't turned up.",
+  "quote": "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.  \u2013 Miguel de Cervantes",
+  "fact": "Porcupines can float in water.",
+  "crypto": "BTC: $111,453 | ETH: $3,948.81",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I won an argument with a weather forecaster once. His logic was cloudy...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026 - The Verge",
+      "link": "https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date"
+    },
+    {
+      "title": "Neato\u2019s cloud is shutting down, leaving its robovacs stuck in manual mode - The Verge",
+      "link": "https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown"
+    },
+    {
       "title": "Microsoft\u2019s Mico heightens the risks of parasocial LLM relationships - Ars Technica",
       "link": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/"
+    },
+    {
+      "title": "Pokemon star WolfeyVGC taking break from competing after being groped at events - Dexerto",
+      "link": "https://www.dexerto.com/pokemon/pokemon-star-wolfeyvgc-taking-break-from-competing-after-being-groped-at-events-3273920/"
+    },
+    {
+      "title": "Kirby Air Riders\u2019 impressive accessibility features are a rarity for Nintendo - The Verge",
+      "link": "https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2"
+    },
+    {
+      "title": "Epomaker\u2019s surprisingly great P75 keyboard is on sale for just $79.99 - The Verge",
+      "link": "https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale"
     },
     {
       "title": "Indie shooter Escape From Duckov overtakes Battlefield 6 on Steam - Dexerto",
       "link": "https://www.dexerto.com/gaming/indie-shooter-escape-from-duckov-overtakes-battlefield-6-on-steam-3273511/"
     },
     {
+      "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation - The Hacker News",
+      "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html"
+    },
+    {
+      "title": "iOS 26.1: Everything new so far - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/24/ios-26-1-new-features/"
+    },
+    {
       "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
       "link": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad"
+    },
+    {
+      "title": "OpenAI wants to power your browser, and that might be a security nightmare - TechCrunch",
+      "link": "https://techcrunch.com/podcast/openai-wants-to-power-your-browser-and-that-might-be-a-security-nightmare/"
+    },
+    {
+      "title": "Galaxy S23 gets a new update just days after One UI 8.0 rollout was paused - SamMobile",
+      "link": "https://www.sammobile.com/news/samsung-galaxy-s23-plus-ultra-october-2025-update/"
     },
     {
       "title": "Nobody Seems To Like The New Halloween Event In Borderlands 4 - Kotaku",
@@ -36,66 +72,46 @@
       "link": "https://gizmodo.com/dji-neo-2-drone-leaked-specs-features-2000676633"
     },
     {
-      "title": "Mario Joins the 99th Macy\u2019s Thanksgiving Day Parade\u00ae for the 40th Anniversary of Super Mario Bros. - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/mario-joins-the-99th-macys-thanksgiving-day-parade-for-the-40th-anniversary-of-super-mario-bros/"
-    },
-    {
       "title": "Why Making 'The Outer Worlds 2' Took Twice as Long as the First Game - Bloomberg",
       "link": "https://www.bloomberg.com/news/newsletters/2025-10-24/obsidian-s-the-outer-worlds-2-took-twice-as-long-to-make-as-the-first-hit-game"
-    },
-    {
-      "title": "Sora for iOS will add three new features soon, here\u2019s what\u2019s coming - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/24/sora-for-ios-will-add-three-new-features-soon-heres-whats-coming/"
     },
     {
       "title": "Smart Candles, Baby. We F*cking Did It. - Gizmodo",
       "link": "https://gizmodo.com/switchbot-smart-candle-warmer-lamp-2000676370"
     },
     {
-      "title": "OpenAI made ChatGPT better at sifting through your work or school information - The Verge",
-      "link": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update"
-    },
-    {
       "title": "Major Xbox outage preventing players from unlocking some achievements - TrueAchievements",
       "link": "https://www.trueachievements.com/news/xbox-achievements-not-unlocking-outage"
     },
     {
-      "title": "ChatGPT enters the browser wars - The Verge",
-      "link": "https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale"
-    },
-    {
       "title": "Metroid Prime Producer Seems as Excited as Fans for a Metroid Prime 2 Remake - IGN",
       "link": "https://www.ign.com/articles/metroid-prime-producer-seems-as-excited-as-fans-for-a-metroid-prime-2-remake"
-    },
-    {
-      "title": "Microsoft issues out-of-band patch for critical WSUS flaw - theregister.com",
-      "link": "https://www.theregister.com/2025/10/24/windows_server_patch/"
-    },
-    {
-      "title": "Phil Spencer says next-gen Xbox is first-party \u2014 the Xbox Ally hints at what\u2019s next - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/phil-spencer-says-next-gen-xbox-is-first-party"
-    },
-    {
-      "title": "Galaxy S26 Ultra design and key upgrade confirmed by case maker - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-case-leak-3609873/"
-    },
-    {
-      "title": "Hades 2 post-launch patch 1 revamps Melino\u00eb's \"true ending\", and is out now in Steam preview form - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/hades-2-post-launch-patch-1-revamps-melinoes-true-ending-and-is-out-now-in-steam-preview-form"
     }
   ],
   "sports_news": [
     {
-      "title": "Jets' Glenn refuses to disclose QB1 vs. Bengals - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46710793/jets-glenn-declines-name-qb1-declares-wilson-gardner-out"
+      "title": "A.J. Brown will not play against the Giants - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-will-not-play-against-the-giants"
     },
     {
-      "title": "Ex-EMU players refused to aid betting probe - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/46710725/ex-eastern-michigan-players-refused-participate-betting-probe"
+      "title": "Lamar Jackson Questionable to Play Bears After Full Practice - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/injury-report-lamar-jackson-practices-ravens-bears"
+    },
+    {
+      "title": "Congress asks NBA for info on gambling scandal - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46711353/congress-asks-nba-silver-briefing-gambling-scandal"
     },
     {
       "title": "Giants, Daboll, Skattebo all fined over Dart exam - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/46710612/315k-fines-handed-giants-protocol-violations"
+    },
+    {
+      "title": "Week 8 Friday Injury Report: Bryce Young doubtful for Bills game - Panthers.com",
+      "link": "https://www.panthers.com/news/week-8-friday-injury-report-bryce-young-doubtful-for-bills-game"
+    },
+    {
+      "title": "NFL 2025 Week 8 Start \u2018Em Sit \u2018Em: Stefon Diggs blowup spot - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/nfl-2025-week-8-start-em-sit-em-stefon-diggs-blowup-spot"
     },
     {
       "title": "NBA unveils all 30 team courts for Emirates NBA Cup 2025 - NBA",
@@ -106,10 +122,6 @@
       "link": "https://www.deseret.com/sports/2025/10/24/byu-cougars-football-iowa-state-big-12-how-to-watch-2025/"
     },
     {
-      "title": "Join Us in Celebrating Leo Messi on Friday with a Special Prematch Presentation of the 2025 MLS Golden Boot presented by Audi - intermiamicf",
-      "link": "https://www.intermiamicf.com/news/join-us-in-celebrating-leo-messi-on-friday-with-a-special-prematch-presentation-of-the-2025-mls-golden-boot-presented-by-audi"
-    },
-    {
       "title": "Cal Raleigh wins major award. Is MVP next? - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/mariners-cal-raleigh-wins-sporting-news-mlb-player-of-the-year-award/"
     },
@@ -118,12 +130,20 @@
       "link": "https://www.si.com/mlb/dodgers-are-not-ruining-baseball-world-series-blue-jays"
     },
     {
+      "title": "Alysa Liu, Chock/Bates lead Cup of China after first day - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/cup-of-china-figure-skating-alysa-liu-madison-chock-evan-bates"
+    },
+    {
+      "title": "Blue Jays Add Bo Bichette To World Series Roster - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/10/blue-jays-add-bo-bichette-to-world-series-roster.html"
+    },
+    {
       "title": "Kevin O'Connell Explains Why Vikings Didn't Pull Injured Carson Wentz Earlier in Loss - Sports Illustrated",
       "link": "https://www.si.com/nfl/kevin-oconnell-explains-why-vikings-didnt-pull-injured-carson-wentz-earlier-loss-chargers"
     },
     {
-      "title": "The Opener: Blue Jays, Dodgers, World Series - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/the-opener-blue-jays-dodgers-world-series.html"
+      "title": "Mark Madden: Eddie Johnston laid foundation for Penguins' success - TribLIVE.com",
+      "link": "https://triblive.com/sports/mark-madden-eddie-johnston-laid-foundation-for-penguins-success/"
     },
     {
       "title": "Stephen Curry hits nuclear button yet again as Warriors win OT thriller vs. Nuggets - CBS Sports",
@@ -134,32 +154,12 @@
       "link": "https://www.phillyvoice.com/eagles-giants-rematch-five-things-watch-2025/"
     },
     {
-      "title": "2025 NFL Week 8 Advanced Matchups - Fantasy Points",
-      "link": "https://www.fantasypoints.com/nfl/articles/2025/nfl-week-8-advanced-matchups"
-    },
-    {
       "title": "Kevin O\u2019Connell: If J.J. McCarthy is healthy, he\u2019ll play - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-if-j-j-mccarthy-is-healthy-hell-play"
     },
     {
       "title": "Aaron Rodgers announces shock retirement decision amid Green Bay Packers return - talkSPORT",
       "link": "http://talksport.com/nfl/3673989/aaron-rodgers-retirement-decision-green-bay-packers-pittsburgh-steelers/"
-    },
-    {
-      "title": "UFC 321 weigh-in results: 2 fighters miss weight for Tom Aspinall vs. Ciryl Gane card - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/article/ufc-321-weigh-in-results-2-fighters-miss-weight-for-tom-aspinall-vs-ciryl-gane-card-080100906.html"
-    },
-    {
-      "title": "Manchester United: Marcus Rashford wants to extend Barcelona stay - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c30vq2pppqno"
-    },
-    {
-      "title": "New Giants manager Tony Vitello raised as St. Louis sports royalty, but \u2018he\u2019s for real\u2019 - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/giants/article/giants-tony-vitello-for-real-know-21115499.php"
-    },
-    {
-      "title": "USWNT vs. Portugal: Starting XI & Lineup Notes - US Soccer",
-      "link": "https://ussoccer.com/stories/2025/10/uswnt-portugal-starting-lineup-notes-lindsey-heaps-sam-coffey"
     }
   ],
   "weather": {
