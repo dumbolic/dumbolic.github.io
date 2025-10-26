@@ -1,9 +1,9 @@
 {
-  "quote": "TEAMWORK: the fuel that allows common people attain uncommon results. \u2013 Andrew Carnegie",
-  "fact": "The first song played on Armed Forces Radio during operation Desert Shield was \"Rock the Casba\" by the Clash.",
-  "crypto": "BTC: $111,763 | ETH: $3,952.79",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I got fired from a florist, apparently I took too many leaves.",
+  "quote": "Don't Let Yesterday Take Up Too Much Of Today. \u2013 Will Rogers",
+  "fact": "The average person will accidentally eat just under a pound of insects every year.",
+  "crypto": "BTC: $111,456 | ETH: $3,927.0",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Did you hear about the runner who was criticized? He just took it in stride",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Microsoft Copilot\u2019s version of Clippy gets a name - Mashable",
-      "link": "https://mashable.com/article/microsoft-copilot-clippy-name-mico"
+      "title": "Apple says Jon Prosser \u2018has not indicated\u2019 when he may respond to lawsuit - The Verge",
+      "link": "https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti"
     },
     {
       "title": "iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors",
       "link": "https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/"
+    },
+    {
+      "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital - Ars Technica",
+      "link": "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/"
+    },
+    {
+      "title": "Wordle has achievements now - The Verge",
+      "link": "https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections"
     },
     {
       "title": "The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again - Wccftech",
@@ -36,12 +44,20 @@
       "link": "https://mashable.com/article/openai-acquires-sky-ai-mac-interface"
     },
     {
+      "title": "Microsoft\u2019s Mico heightens the risks of parasocial LLM relationships - Ars Technica",
+      "link": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/"
+    },
+    {
       "title": "Tech Bro Uses AI To Create The Worst FPS Ever - Kotaku",
       "link": "https://kotaku.com/gen-ai-fps-tom-clancy-shooter-hyperwrite-2000638861"
     },
     {
       "title": "Kirby Air Riders\u2019 impressive accessibility features are a rarity for Nintendo - The Verge",
       "link": "https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2"
+    },
+    {
+      "title": "Instagram\u2019s latest feature lets you go back see your watched Reels - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/"
     },
     {
       "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation - The Hacker News",
@@ -52,8 +68,8 @@
       "link": "https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes"
     },
     {
-      "title": "iOS 26 Leaker Being Sued by Apple is Actually a 'Lifelong Apple Fanboy' - MacRumors",
-      "link": "https://www.macrumors.com/2025/10/24/ios-26-leak-lawsuit-lifelong-apple-fanboy/"
+      "title": "Secret Lair Update: Manufacturing Delay - Magic: The Gathering",
+      "link": "https://magic.wizards.com/en/news/announcements/secret-lair-update-manufacturing-delay"
     },
     {
       "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
@@ -72,62 +88,70 @@
       "link": "http://9to5google.com/2025/10/24/google-pixel-10-qi2-stand-belkin/"
     },
     {
-      "title": "DJI\u2019s Tinniest, Cheapest Drone Is Coming Back to Terrorize Your Neighborhood - Gizmodo",
-      "link": "https://gizmodo.com/dji-neo-2-drone-leaked-specs-features-2000676633"
-    },
-    {
       "title": "Apple's New M5 iPad Pro Gets First Amazon Discounts at Up to $100 Off - MacRumors",
       "link": "https://www.macrumors.com/2025/10/24/m5-ipad-pro-first-discounts/"
-    },
-    {
-      "title": "Sora for iOS will add three new features soon, here\u2019s what\u2019s coming - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/24/sora-for-ios-will-add-three-new-features-soon-heres-whats-coming/"
-    },
-    {
-      "title": "Samsung One UI 8 is back: Galaxy S23 and S24 series get Android 16 update - Sammy Fans",
-      "link": "https://www.sammyfans.com/2025/10/24/samsung-one-ui-8-is-back-for-galaxy-s23-and-s24-series/"
-    },
-    {
-      "title": "OpenAI made ChatGPT better at sifting through your work or school information - The Verge",
-      "link": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update"
     }
   ],
   "sports_news": [
     {
+      "title": "Best heavyweight ever? Tom Aspinall\u2019s UFC highlight reel packs a powerful punch | UFC 321 video - Yahoo Sports",
+      "link": "https://www.mmamania.com/ufc-321-fight-card-aspinall-vs-gane-start-time-preview-live-results-abu-dhabi/398147/best-heavyweight-ever-tom-aspinalls-ufc-highlight-reel-packs-a-powerful-punch-ufc-321-video"
+    },
+    {
+      "title": "Matt Painter after Kentucky-Purdue exhibition: \u201cWe\u2019ve got problems.\u201d - Hammer and Rails",
+      "link": "https://www.hammerandrails.com/mens-basketball/56130/matt-painter-after-kentucky-purdue-exhibition-weve-got-problems"
+    },
+    {
+      "title": "Louisville hosts Kansas in a preseason basketball game at KFC Yum! Center. See photos - The Courier-Journal",
+      "link": "https://www.courier-journal.com/picture-gallery/sports/college/basketball/louisville/2025/10/24/louisville-vs-kansas-basketball-game-photos-pat-kelsey-kfc-yum-center/86879496007/"
+    },
+    {
       "title": "Verstappen leads Leclerc during FP2 in Mexico - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/fp2-verstappen-leads-leclerc-and-antonelli-during-second-practice-in-mexico.6sx6WV9vq3TKYIVHDpBLr1"
+    },
+    {
+      "title": "Report: Josh Simmons is expected to rejoin Chiefs \"in a few weeks\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-josh-simmons-is-expected-to-rejoin-chiefs-in-a-few-weeks"
+    },
+    {
+      "title": "Predictions: BYU\u2019s road trip to Iowa State will prove much about 11th-ranked Cougars - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/10/24/college-football-predictions-utah-colorado-byu-iowa-state/"
+    },
+    {
+      "title": "Dodgers, Blue Jays Reveal 2025 World Series Rosters Ahead of Game 1 - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25265296-dodgers-blue-jays-reveal-2025-world-series-rosters-ahead-game-1"
     },
     {
       "title": "49ers final injury report: Purdy and Pearsall are out; Aiyuk could return to practice as early as next week - Niners Nation",
       "link": "https://www.ninersnation.com/san-francisco-49ers-news/151939/49ers-brock-purdy-ricky-pearsall-brandon-aiyuk-injury-report"
     },
     {
-      "title": "Eagles-Giants Final Injury Report: A.J. Brown and Brandon Graham among 6 players ruled OUT - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/161915/eagles-giants-final-injury-report-a-j-brown-and-brandon-graham-among-6-players-ruled-out"
+      "title": "Eagles Announce Decision on A.J. Brown's Status for Game Against Giants - Sports Illustrated",
+      "link": "https://www.si.com/nfl/eagles-announce-decision-aj-brown-injury-status-giants"
+    },
+    {
+      "title": "Inter Miami vs Nashville SC Lineups, Playoff Results & Live Scores For MLS Cup 2025 - Athlon Sports",
+      "link": "https://athlonsports.com/soccer/inter-miami-vs-nashville-sc-lineups-playoff-results-live-scores-for-mls-cup-2025"
     },
     {
       "title": "Lamar Jackson Questionable to Play Bears After Full Practice - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/injury-report-lamar-jackson-practices-ravens-bears"
     },
     {
-      "title": "World Series Game 1: Dodgers set for matchup against Blue Jays in Toronto - ABC7 Los Angeles",
-      "link": "https://abc7.com/post/world-series-game-1-dodgers-set-matchup-blue-jays-toronto/18065802/"
-    },
-    {
       "title": "Congress asks NBA for info on gambling scandal - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/46711353/congress-asks-nba-silver-briefing-gambling-scandal"
+    },
+    {
+      "title": "Nick Saban: \"I want to stay retired\" - FootballScoop",
+      "link": "https://www.footballscoop.com/2025/10/24/nick-saban-i-want-to-stay-retired"
     },
     {
       "title": "Falcons injury report: Michael Penix Jr.'s game status revealed - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/falcons-injury-report-michael-penix-jr-game-status-miami-dolphins-kirk-cousins"
     },
     {
-      "title": "NFL fines Giants, coach Brian Daboll and rookie Cam Skattebo for violating concussion protocols - AP News",
-      "link": "https://apnews.com/article/jaxson-dart-nfl-concussion-c3ac396bc2e880e0ca769e72801cb3dc"
-    },
-    {
-      "title": "No. 11 BYU faces another difficult road test Saturday against well-rested Iowa State in Ames - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/10/24/byu-iowa-state-cyclones-cougars-big-12-provo-ames-bear-bachmeier/"
+      "title": "Virginia Tech vs. Cal Picks, Odds, Parlay for College Football Week 9 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/virginia-tech-hokies-vs-cal-golden-bears-picks-odds-parlay-college-football-week-9-oct-24"
     },
     {
       "title": "Ex-EMU players refused to aid betting probe - ESPN",
@@ -138,36 +162,12 @@
       "link": "https://www.bleedinggreennation.com/eagles-game-preview/161909/eagles-vs-giants-game-preview-5-questions-and-answers-with-the-week-8-enemy"
     },
     {
-      "title": "Warriors' ageless Steph Curry on cusp of passing Michael Jordan in rare stat - SFGATE",
-      "link": "https://www.sfgate.com/warriors/article/warriors-steph-curry-cusp-passing-michael-jordan-21118182.php"
+      "title": "Giants, Daboll, Skattebo all fined over Dart exam - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46710612/315k-fines-handed-giants-protocol-violations"
     },
     {
       "title": "Week 8 Friday Injury Report: Bryce Young doubtful for Bills game - Panthers.com",
       "link": "https://www.panthers.com/news/week-8-friday-injury-report-bryce-young-doubtful-for-bills-game"
-    },
-    {
-      "title": "NBA unveils all 30 team courts for Emirates NBA Cup 2025 - NBA",
-      "link": "https://www.nba.com/news/emirates-nba-cup-2025-courts-unveiled"
-    },
-    {
-      "title": "Fire and Ice: Top starts, sits and sleepers in fantasy football for Week 8 - PFF",
-      "link": "https://www.pff.com/news/fire-and-ice-top-starts-sits-and-sleepers-in-fantasy-football-for-week-8"
-    },
-    {
-      "title": "The Dodgers Aren\u2019t Ruining Baseball\u2014They\u2019re Just Doing Everything Right - Sports Illustrated",
-      "link": "https://www.si.com/mlb/dodgers-are-not-ruining-baseball-world-series-blue-jays"
-    },
-    {
-      "title": "Alysa Liu, Chock/Bates lead Cup of China after first day - NBC Sports",
-      "link": "https://www.nbcsports.com/olympics/news/cup-of-china-figure-skating-alysa-liu-madison-chock-evan-bates"
-    },
-    {
-      "title": "Blue Jays Add Bo Bichette To World Series Roster - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/10/blue-jays-add-bo-bichette-to-world-series-roster.html"
-    },
-    {
-      "title": "Mark Madden: Eddie Johnston laid foundation for Penguins' success - TribLIVE.com",
-      "link": "https://triblive.com/sports/mark-madden-eddie-johnston-laid-foundation-for-penguins-success/"
     }
   ],
   "weather": {
