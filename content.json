@@ -1,9 +1,9 @@
 {
-  "quote": "The wise learn many things from their enemies. \u2013 Aristophanes",
-  "fact": "The \"Dull Men's Hall of Fame\" is located in Carroll, Wisconsin.",
-  "crypto": "BTC: $113,566 | ETH: $4,050.92",
+  "quote": "To handle yourself, use your head; to handle others, use your heart. \u2013 Eleanor Roosevelt",
+  "fact": "Most collect calls are made on father`s day.",
+  "crypto": "BTC: $113,489 | ETH: $4,072.12",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a fly without wings? A walk.",
+  "joke": "What do you call a monkey in a mine field? A babooooom!\n",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The glaring security risks with AI browser agents - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/"
+    },
+    {
       "title": "Microsoft's Halo series heading to rival PlayStation - BBC",
       "link": "https://www.bbc.com/news/articles/ckg14442r73o"
+    },
+    {
+      "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price - Mashable",
+      "link": "https://mashable.com/article/samsung-galaxy-xr-vs-apple-vision-pro-specs-price"
     },
     {
       "title": "Act Now \u2014 Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
@@ -22,6 +30,10 @@
     {
       "title": "Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2"
+    },
+    {
+      "title": "The Battlefield 6 Season 1 update patch notes bring fixes, balance changes, and Challenge nerfs galore \u2014 everything but the one thing the game needs the most - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/the-battlefield-6-season-1-update-patch-notes-bring-fixes-balance-changes-and-challenge-nerfs-galore-everything-but-the-one-thing-the-game-needs-the-most"
     },
     {
       "title": "iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors",
@@ -38,6 +50,10 @@
     {
       "title": "The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again - Wccftech",
       "link": "https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/"
+    },
+    {
+      "title": "Google claims its latest quantum algorithm can outperform supercomputers on a real-world task - Phys.org",
+      "link": "https://phys.org/news/2025-10-google-latest-quantum-algorithm-outperform.html"
     },
     {
       "title": "Major Photoshop, Lightroom updates could be coming next week (plus free online classes) - Digital Camera World",
@@ -74,52 +90,56 @@
     {
       "title": "After Microsoft invested $13 billion into OpenAI, its AI chief is slamming erotica chatbots: \u2018This is very dangerous\u2019 - Fortune",
       "link": "https://fortune.com/2025/10/24/microsoft-no-erotica-chatbots-openai-chatgpt-xai-grok/"
-    },
-    {
-      "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
-      "link": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad"
-    },
-    {
-      "title": "Ferrari 296 Speciale Review 2025 - Top Gear",
-      "link": "https://www.topgear.com/car-reviews/ferrari/296-speciale"
-    },
-    {
-      "title": "If the Xbox Ally is a public beta test for the next-gen Xbox \u2014 Microsoft needs to start working with the community *today* to address feedback - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/if-the-xbox-ally-is-a-public-beta-test-for-next-gen-xbox-console-we-need-a-far-stronger-feedback-loop"
-    },
-    {
-      "title": "\u2018Ghost Of Yotei\u2019 Outsold PS5 \u2018Assassin\u2019s Creed Shadows\u2019 In Three Weeks, Says Report - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/10/24/ghost-of-yotei-outsold-ps5-assassins-creed-shadows-in-three-weeks-says-report/"
     }
   ],
   "sports_news": [
     {
-      "title": "Luka sets Lakers mark with 92 points to open year - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/46717404/luka-doncic-sets-lakers-record-92-points-1st-2-games"
+      "title": "Stephen A. Smith refuses to back down after Kash Patel scolds ESPN star over NBA gambling probe comments - New York Post",
+      "link": "https://nypost.com/2025/10/25/sports/stephen-a-smith-refuses-to-back-down-after-kash-patel-scolds-his-nba-gambling-probe-comments/"
+    },
+    {
+      "title": "Sources: Falcons highly likely to start Cousins - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46719199/sources-falcons-highly-likely-start-kirk-cousins-vs-dolphins"
+    },
+    {
+      "title": "Sean McDermott is 8-0 after bye weeks, best record in NFL history - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcdermott-is-8-0-after-bye-weeks-best-record-in-nfl-history"
+    },
+    {
+      "title": "UNC at BYU: Deep-Dive Takeways from Salt Lake City - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis-78-76-byu-aj-dybantsa-caleb-wilson-cougars-exhibition-game-258450389/"
+    },
+    {
+      "title": "Leclerc heads Antonelli in FP1 for Mexico City GP - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/fp1-leclerc-heads-antonelli-and-hulkenberg-in-opening-practice-for-mexico.5WvPoit8tNzwBt2Tw6QRhs"
     },
     {
       "title": "Passan: Toronto waited 32 years for another World Series win -- and Game 1 delivered - ESPN",
       "link": "https://www.espn.com/mlb/story/_/id/46715629/toronto-blue-jays-world-series-win-addison-barger-jeff-passan"
     },
     {
+      "title": "Knicks flip switch after slow start to roll past Celtics in second straight win to start season - New York Post",
+      "link": "https://nypost.com/2025/10/24/sports/knicks-roll-past-jayson-tatum-less-celtics-to-cash-in-second-win/"
+    },
+    {
       "title": "Sabres win fourth in five games with Samuelsson leading the way - Audacy",
       "link": "https://www.audacy.com/wgr550/sports/sabres/sabres-win-fourth-in-five-with-samuelsson-leading-the-way"
     },
     {
-      "title": "3 takeaways from BYU\u2019s exhibition win over No. 25 UNC - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/10/24/byu-cougars-basketball-north-carolina-exhibition-3-takeaways/"
+      "title": "UFC 321 Results: Aspinall vs. Gane - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/451635/ufc-321-results-aspinall-vs-gane"
     },
     {
       "title": "Sources: Fodje to make first career start at right tackle - On3",
       "link": "https://www.on3.com/sites/ou-insider/news/sources-fodje-to-make-first-career-start-at-right-tackle/"
     },
     {
-      "title": "Adam Silver: NBA concluded there was \"insufficient evidence\" of wrongdoing by Terry Rozier - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-silver-nba-concluded-there-was-insufficient-evidence-of-wrongdoing-by-terry-rozier"
+      "title": "Inter Miami Player Ratings vs. Nashville SC: A Messi Masterclass Powers Herons to Playoff Victory - Sports Illustrated",
+      "link": "https://www.si.com/soccer/inter-miami-player-ratings-vs-nashville-sc-10-24-25"
     },
     {
-      "title": "Tom Wilson takes issue with Mathieu Olivier\u2019s headshot on Capitals defenseman Declan Chisholm: \u2018I\u2019d be banned for life if I threw that hit\u2019 - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/10/24/tom-wilson-mathieu-olivier-hit-declan-chisholm-capitals-blue-jackets/"
+      "title": "Week 9 College Football Predictions, Picks: Bet Favorites in Ole Miss vs Oklahoma, Minnesota vs Iowa - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/week-9-college-football-predictions-picks-favorites-ole-miss-vs-oklahoma-minnesota-vs-iowa-saturday-oct-25"
     },
     {
       "title": "Louisville falls to Kansas in exhibition opener, 90-82 - Card Chronicle",
@@ -138,20 +158,8 @@
       "link": "https://russianmachineneverbreaks.com/2025/10/24/keeping-the-cannons-at-bay-on-the-road-capitals-beat-blue-jackets-5-1/"
     },
     {
-      "title": "'Big concern for the race' \u2013 Verstappen wary of Mexico City GP chances despite strong FP2 showing - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/big-concern-for-the-race-verstappen-wary-of-mexico-city-gp-chances-despite.2UuUdbSjQE4ilM3C2gR7f0"
-    },
-    {
-      "title": "UFC 321 predictions - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc-events-ppv/451676/ufc-321-predictions"
-    },
-    {
       "title": "Kentucky basketball rocks No. 1-ranked Purdue in first exhibition game - Lexington Herald Leader",
       "link": "https://www.kentucky.com/sports/college/kentucky-sports/uk-basketball-men/article312620945.html"
-    },
-    {
-      "title": "Wisconsin Badgers vs. Oklahoma Sooners: Game Thread - Bucky's 5th Quarter",
-      "link": "https://www.buckys5thquarter.com/wisconsin-badgers-gamethreads/87098/wisconsin-badgers-basketball-news-oklahoma-sooners-exhibition-game-thread"
     },
     {
       "title": "Predictions: BYU\u2019s road trip to Iowa State will prove much about 11th-ranked Cougars - Deseret News",
@@ -160,18 +168,6 @@
     {
       "title": "Dodgers, Blue Jays Reveal 2025 World Series Rosters Ahead of Game 1 - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25265296-dodgers-blue-jays-reveal-2025-world-series-rosters-ahead-game-1"
-    },
-    {
-      "title": "Dodgers' Kik\u00e9 Hernandez Calls Out Shohei Ohtani's 'Lie' About MVP - Sports Illustrated",
-      "link": "https://www.si.com/mlb/dodgers/news/dodgers-kike-hernandez-calls-out-shohei-ohtani-s-lie-about-mvp"
-    },
-    {
-      "title": "A.J. Brown will not play against the Giants - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-will-not-play-against-the-giants"
-    },
-    {
-      "title": "Lamar Jackson Questionable to Play Bears After Full Practice - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/injury-report-lamar-jackson-practices-ravens-bears"
     }
   ],
   "weather": {
