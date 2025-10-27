@@ -1,9 +1,9 @@
 {
-  "quote": "Look to the beauty of this day, miracles are all around you. \u2013 Mary Engelbreit",
-  "fact": "If one spells out numbers, they would have to count to One Thousand before coming across the letter \"A\".",
-  "crypto": "BTC: $115,191 | ETH: $4,174.84",
+  "quote": "Life can only be understood backwards; but it must be lived forwards. \u2013 Soren Kierkegaard",
+  "fact": "The average life of a taste bud is 10 days.",
+  "crypto": "BTC: $115,175 | ETH: $4,165.32",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a group of disorganized cats? A cat-tastrophe.",
+  "joke": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Slashdot",
+      "link": "https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say"
+    },
     {
       "title": "I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC",
       "link": "https://www.bbc.com/news/articles/c20pdy1exxvo"
@@ -24,10 +28,6 @@
       "link": "https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/"
     },
     {
-      "title": "OpenAI reportedly developing new generative music tool - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/"
-    },
-    {
       "title": "These are the best laptops to buy in Fall 2025 - 41 notebooks in a tough clash - Notebookcheck",
       "link": "https://www.notebookcheck.net/These-are-the-best-laptops-to-buy-in-Fall-2025-41-notebooks-in-a-tough-clash.1142072.0.html"
     },
@@ -38,6 +38,18 @@
     {
       "title": "Battlefield 6's battle royale \"Battlefield: RedSec\" could shadowdrop as soon as next week, dataminers claim - Eurogamer",
       "link": "https://www.eurogamer.net/battlefield-6s-battle-royale-battlefield-redsec-could-shadowdrop-as-soon-as-next-week-dataminers-claim"
+    },
+    {
+      "title": "Pok\u00e9mon Legends: Z-A Review - Maintaining Rank - Game Informer",
+      "link": "https://gameinformer.com/review/pokemon-legends-z-a/maintaining-rank"
+    },
+    {
+      "title": "Fire Emblem Shadows Gets A Free Update Adding New Story, Map And More - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/fire-emblem-shadows-gets-a-free-update-adding-new-story-map-and-more"
+    },
+    {
+      "title": "After EA's buyout and creator exodus, The Sims team wants you to know their \"values and commitment remain the same\" - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/after-eas-buyout-and-creator-exodus-the-sims-team-wants-you-to-know-their-values-and-commitment-remain-the-same"
     },
     {
       "title": "Long-time Microsoft-exclusive Halo is coming to PS5 for the very first time: \"This is Halo for everyone\" - Eurogamer",
@@ -78,24 +90,40 @@
     {
       "title": "Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2"
-    },
-    {
-      "title": "Meet the real screen addicts: the elderly - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45701305"
     }
   ],
   "sports_news": [
     {
+      "title": "Line movement on Bears-Ravens game shows the value of Lamar Jackson injury information - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/line-movement-on-bears-ravens-game-shows-the-value-of-lamar-jackson-injury-information"
+    },
+    {
       "title": "Booger McFarland calls out South Carolina for late-game decision to allow game-winning TD - On3",
       "link": "https://www.on3.com/college/south-carolina-gamecocks/news/booger-mcfarland-calls-out-south-carolina-for-late-game-decision-to-allow-game-winning-td/"
+    },
+    {
+      "title": "Dodgers even World Series thanks to Yoshinobu Yamamoto\u2019s complete-game gem in Game 2 - New York Post",
+      "link": "https://nypost.com/2025/10/25/sports/dodgers-even-world-series-thanks-to-yoshinobu-yamamotos-gem/"
+    },
+    {
+      "title": "Suns blitzed early for 3rd straight game, lose to Nuggets - Arizona Sports",
+      "link": "https://arizonasports.com/nba/phoenix-suns/suns-loss-nuggets/3600144/"
     },
     {
       "title": "Dodgers manager Dave Roberts doesn't think slugger Shohei Ohtani heard Toronto fans' taunts - AP News",
       "link": "https://apnews.com/article/shohei-ohtani-boos-world-series-19184343ab27828ccbad9f62f2b47191"
     },
     {
+      "title": "Social media reactions from Michigan Football\u2019s win over Michigan State - Maize n Brew",
+      "link": "https://www.maizenbrew.com/football/95810/michigan-wolverines-football-social-media-reactions-michigan-state-spartans-bryce-underwood"
+    },
+    {
       "title": "POSTGAME THOUGHTS: Texas A&M dominates LSU in second half for 49-25 win - Good Bull Hunting",
       "link": "https://www.goodbullhunting.com/authors/38778/postgame-thoughts-texas-am-dominates-lsu-in-second-half-for-49-25-win"
+    },
+    {
+      "title": "'Fire Brian Kelly' chant breaks out amid Texas A&M blowing out LSU - On3",
+      "link": "https://www.on3.com/news/fire-brian-kelly-chant-breaks-out-amid-texas-am-blowing-out-lsu/"
     },
     {
       "title": "What Dan Lanning said after Oregon beats Wisconsin - OregonLive.com",
@@ -104,10 +132,6 @@
     {
       "title": "Jays\u2019 Bo Bichette held out of starting lineup, pinch-hits in World Series Game 2 - AP News",
       "link": "https://apnews.com/article/bo-bichette-world-series-toronto-blue-jays-los-angeles-dodgers-mlb-postseason-9a4b4bea1c8f8125cd004af1aa4ed117"
-    },
-    {
-      "title": "Aspinall-Gane UFC 321 title fight ruled no contest after eye poke - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2025/10/26/aspinall-gane-ufc-321-title-fight-ruled-no-contest-after-eye-poke"
     },
     {
       "title": "Instant observations: Joel Embiid finds force as Sixers escape with win over Hornets in home opener - PhillyVoice",
@@ -122,12 +146,12 @@
       "link": "https://www.bleachernation.com/bulls/2025/10/25/bulls-110-magic-98-ebs/"
     },
     {
-      "title": "BYU flips switch in remarkable comeback win over Iowa State - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/10/25/byu-cougars-storm-from-behind-to-defeat-iowa-state/"
+      "title": "Indiana reasserts 'will' with 50-point rout of UCLA - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46726202/iu-pulls-rare-power-4-feat-50-point-blowout-win-ucla"
     },
     {
-      "title": "Jon Jones responds to Alex Pereira's plans to 'make heavyweight great again' after UFC 321 disaster - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/10/25/jon-jones-responds-to-alex-pereiras-plans-to-make-heavyweight-great-again-after-ufc-321-disaster/"
+      "title": "NC State head coach Dave Doeren on loss at Pitt: 'I've got a football team that needs to play better' - 247Sports",
+      "link": "https://247sports.com/college/north-carolina-state/longformarticle/nc-state-head-coach-dave-doeren-on-loss-at-pitt-ive-got-a-football-team-that-needs-to-play-better-258602263/"
     },
     {
       "title": "Kenneth Williams Gets Nebraska's First Kickoff Return for Touchdown Since 2017 - Sports Illustrated",
@@ -138,28 +162,16 @@
       "link": "https://www.si.com/college-football/arch-manning-exits-texas-mississippi-state-early-apparent-injury"
     },
     {
-      "title": "The DFS Must Starts: Big Names Litter Week 8's Top Plays - Blitz Sports Media",
-      "link": "https://blitzsportsmedia.com/dfs-must-starts-week-8/"
+      "title": "What Iowa State coach Matt Campbell said after losing to No. 11 BYU - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/10/25/iowa-state-football-coach-matt-campbell-postgame-byu-loss/"
+    },
+    {
+      "title": "NFL Week 8 Predictions, Expert Picks Against the Spread, Props - Action Network",
+      "link": "https://www.actionnetwork.com/nfl/nfl-week-8-predictions-expert-picks-against-the-spread-props"
     },
     {
       "title": "Oscar Piastri rues \u2018frustrating\u2019 Qualifying in Mexico as he admits P8 \u2018not the lap time I\u2019m expecting\u2019 - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/piastri-rues-frustrating-qualifying-in-mexico-as-he-admits-p8-not-the-lap.2ANmJqvXCfm1OSIxD2SPyC"
-    },
-    {
-      "title": "Quick hits: With no defense, Illini make no case for CFP in 42-25 loss at Washington - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-football-washington-huskies-quick-hits-recap-258554272/"
-    },
-    {
-      "title": "GB's Wardley stops Parker in huge heavyweight upset - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/c8jrgwlrxnzo"
-    },
-    {
-      "title": "Gophers embarrassed, move to 1-8 against Iowa under P.J. Fleck - Sports Illustrated",
-      "link": "https://www.si.com/college/minnesota/gophers-football/gophers-embarrassed-move-to-1-8-against-iowa-under-p-j-fleck"
-    },
-    {
-      "title": "Fantasy Football Rankings: Most Accurate Experts (Week 8) - FantasyPros",
-      "link": "https://www.fantasypros.com/2025/10/fantasy-football-rankings-most-accurate-experts-week-8-picks/"
     }
   ],
   "weather": {
