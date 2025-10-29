@@ -1,9 +1,9 @@
 {
-  "quote": "There is no absolute success in the world, only constant progress. \u2013 Jonathan Swift",
-  "fact": "The U.S. Post Office handles 43 percent of the world\u2019s mail.",
-  "crypto": "BTC: $111,158 | ETH: $3,967.6",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the barber win the race? He took a short cut.",
+  "quote": "If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream. \u2013 Arnold Schwarzenegger",
+  "fact": "More than 90% of the Nicaraguan people are Roman Catholic.",
+  "crypto": "BTC: $111,135 | ETH: $3,969.5",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a fish with no eyes? A fsh.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "iOS 26.1 will add four new ways to customize your iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/28/ios-26-1-will-add-four-new-ways-to-customize-your-iphone/"
+      "title": "NASCAR and Night launch NASCAR 25 Creator Series in celebration of NASCAR 25 - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/10/28/nascar-and-night-launch-nascar-25-creator-series-in-celebration-of-nascar-25/"
     },
     {
-      "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/"
+      "title": "Gemini for Home assistant starts rolling out in Early Access - 9to5Google",
+      "link": "http://9to5google.com/2025/10/28/gemini-for-home-voice-assistant-preview/"
+    },
+    {
+      "title": "Valorant 11.09 update finally clamps down on smurfs with long-awaited MFA change - Dexerto",
+      "link": "https://www.dexerto.com/valorant/valorant-11-09-update-finally-clamps-down-on-smurfs-with-long-awaited-mfa-change-3275625/"
+    },
+    {
+      "title": "iOS 26.1 will add four new ways to customize your iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/28/ios-26-1-will-add-four-new-ways-to-customize-your-iphone/"
     },
     {
       "title": "Minecraft Snapshot 25w44a - Minecraft",
@@ -26,10 +34,6 @@
     {
       "title": "More mobs from Mounts of Mayhem - Minecraft",
       "link": "https://www.minecraft.net/en-us/article/more-mobs-from-mounts-of-mayhem"
-    },
-    {
-      "title": "Battlefield REDSEC Launches Alongside Battlefield 6 Season 1 With Battle Royale, Gauntlet, and Portal Modes \u2014 Here's Everything You Need to Know - IGN",
-      "link": "https://www.ign.com/articles/battlefield-redsec-launches-alongside-battlefield-6-season-1-with-battle-royale-gauntlet-and-portal-modes-heres-everything-you-need-to-know"
     },
     {
       "title": "As its original devs post conflicting takes on the controversial remake, I have to ask: who is Halo: Campaign Evolved for? - Eurogamer",
@@ -48,20 +52,20 @@
       "link": "https://www.nintendolife.com/news/2025/10/psa-you-might-need-to-free-up-some-space-for-hyrule-warriors-age-of-imprisonment"
     },
     {
-      "title": "Govee\u2019s new power outlet expander gives you voice control and a night light - The Verge",
-      "link": "https://www.theverge.com/news/807890/govee-smart-plug-outlet-extender-voice-control-alexa-google-assistant"
-    },
-    {
-      "title": "An Apple Shortcuts masterclass - The Verge",
-      "link": "https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast"
-    },
-    {
       "title": "Samsung shows off its trifold phone in person - The Verge",
       "link": "https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit"
     },
     {
-      "title": "Galaxy Z Fold8 display and battery details leaked - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/galaxy_z_fold8_display_and_battery_details_leaked-news-70055.php"
+      "title": "Insta360\u2019s X4 Air is a smaller and cheaper version of its 360-degree X5 action camera - The Verge",
+      "link": "https://www.theverge.com/news/806482/insta360-x4-air-action-camera-8k-replaceable-lenses"
+    },
+    {
+      "title": "See a colossal 'X' and 'V' appear on the moon after sunset tonight - Space",
+      "link": "https://www.space.com/stargazing/see-a-colossal-x-and-v-appear-on-the-moon-after-sunset-tonight"
+    },
+    {
+      "title": "World's Tiniest Pixel Shatters Records\u2026 But There's a Catch - ScienceAlert",
+      "link": "https://www.sciencealert.com/worlds-tiniest-pixel-shatters-records-but-theres-a-catch"
     },
     {
       "title": "Civilization 7 will bring back the ability to play as one civ for the whole game, bypassing the divisive Age system - Rock Paper Shotgun",
@@ -84,34 +88,50 @@
       "link": "https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive"
     },
     {
-      "title": "Google starts rolling out YouTube-style age checks for Play Store - Android Authority",
-      "link": "https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/"
-    },
-    {
-      "title": "Scientists Built a Working Computer Memory Out of Shiitake Mushrooms - ScienceAlert",
-      "link": "https://www.sciencealert.com/scientists-built-a-working-computer-memory-out-of-shiitake-mushrooms"
+      "title": "Next-gen Xbox to feature full Windows, backward compatibility, and free online multiplayer - TechSpot",
+      "link": "https://www.techspot.com/news/110031-next-gen-xbox-feature-full-windows-backward-compatibility.html"
     }
   ],
   "sports_news": [
     {
+      "title": "Report: Isiah Pacheco week-to-week with MCL sprain - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-isiah-pacheco-week-to-week-with-mcl-sprain"
+    },
+    {
+      "title": "Pats agree to extension with top slot CB Jones - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46757801/patriots-marcus-jones-agree-contract-extension"
+    },
+    {
+      "title": "Saints make QB change, Tyler Shough to start vs. Rams on Sunday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-make-qb-change-tyler-shough-to-start-vs-rams-on-sunday"
+    },
+    {
+      "title": "Trump's granddaughter set to play in LPGA event - ESPN",
+      "link": "https://www.espn.com/golf/story/_/id/46756999/president-trump-granddaughter-gets-exemption-lpga-event"
+    },
+    {
       "title": "Shohei Ohtani Hits 2 Homers, Ties 119-Year-Old Record In Dodgers' World Series Game 3 Win - FOX Sports",
       "link": "https://www.foxsports.com/stories/mlb/another-big-sho-ohtani-hits-2-homers-ties-record-with-4-extrabase-hits-in-world-series-game-3"
+    },
+    {
+      "title": "NFL Power Rankings, Week 9: Chargers, Texans and Ravens on the rise; Steelers, Falcons scuffling - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-power-rankings-week-9-2025-nfl-season"
+    },
+    {
+      "title": "Inside LSU football's coaching search from a recruiting lens as the Tigers replace Brian Kelly - 247Sports",
+      "link": "https://247sports.com/article/inside-lsu-footballs-coaching-search-from-a-recruiting-lens-as-the-tigers-replace-brian-kelly-258987923/"
+    },
+    {
+      "title": "Fantasy Football Week 9 Defense (DST) Rankings and Streamers - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-defense-week-9-dst-rankings-and-streamers"
     },
     {
       "title": "Here\u2019s a crazy stat from Packers-Steelers in Week 8 - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/here-s-a-crazy-stat-from-packers-steelers-in-week-8-2025"
     },
     {
-      "title": "Commanders Vs. Chiefs - Studs and Duds (by @Tiller56) - Hogs Haven",
-      "link": "https://www.hogshaven.com/studs-and-duds/385368/commanders-vs-chiefs-studs-and-duds"
-    },
-    {
       "title": "Belichick Who? Hug-Loving Coach and Quarterback Phenom Have Patriots Rolling Again - The Wall Street Journal",
       "link": "https://www.wsj.com/sports/football/new-england-patriots-mike-vrabel-drake-maye-4e6e17af"
-    },
-    {
-      "title": "PFT\u2019s Week 9 2025 NFL power rankings - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-9-2025-nfl-power-rankings"
     },
     {
       "title": "Fan at Penguins game hospitalized after falling from upper concourse - NBC News",
@@ -122,10 +142,6 @@
       "link": "https://www.wsj.com/sports/basketball/nba-gambling-scandal-damon-jones-lebron-james-8a8f4f77"
     },
     {
-      "title": "Lessons learned: The Saints got their longest look at Tyler Shough yet. What did they see? - NOLA.com",
-      "link": "https://www.nola.com/sports/saints/the-saints-will-need-more-than-39-snaps-of-tyler-shough/article_53b4ba1c-3cc5-4c67-a3dc-d3206873b652.html"
-    },
-    {
       "title": "Bengals defense had a players-only meeting on Monday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-defense-had-a-players-only-meeting-on-monday"
     },
@@ -134,44 +150,24 @@
       "link": "https://bloodyelbow.com/2025/10/28/tom-aspinall-challenged-to-take-a-stand-against-ciryl-ganes-ufc-321-foul-with-shock-rematch-stance/"
     },
     {
-      "title": "Ex-wife of Angels employee testifies during Tyler Skaggs trial that players partied with pills on team plane - New York Post",
-      "link": "https://nypost.com/2025/10/28/sports/ex-wife-of-angels-employee-testifies-players-partied-with-pills-on-team-plane/"
+      "title": "Dan Quinn, Andy Reid both cite fourth downs as a key reason Commanders lost to Chiefs - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-andy-reid-both-cite-fourth-downs-as-a-key-reason-commanders-lost-to-chiefs"
     },
     {
-      "title": "Travis Kelce\u2019s 83rd career TD ties team record - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelces-83rd-career-td-ties-team-record"
+      "title": "Fans love Patrick Mahomes' classy gesture for emotional Travis Kelce after Chiefs star makes history - talkSPORT",
+      "link": "http://talksport.com/nfl/3683660/patrick-mahomes-gesture-travis-kelce-history-chief-commanders/"
     },
     {
       "title": "Instant observations: Tyrese Maxey drops 43 points vs. Magic to push Sixers to 3-0 - PHLY Sports",
       "link": "https://allphly.com/instant-observations-sixers-magic-vj-edgecombe-tyrese-maxey/"
     },
     {
-      "title": "Maryland Defeats UMBC 82-81 In Preseason Exhibition - University of Maryland Athletics",
-      "link": "https://umterps.com/news/2025/10/27/mens-basketball-mbb-umbc-recap.aspx"
-    },
-    {
-      "title": "Cam Skattebo got special hospital delivery from Eagles\u2019 Big Dom - New York Post",
-      "link": "https://nypost.com/2025/10/27/sports/cam-skattebo-got-hospital-delivery-from-eagles-big-dom/"
-    },
-    {
-      "title": "Kirby Smart: LSU coaches \u2018borrow\u2019 offices, adds context to Brian Kelly firing - AJC.com",
-      "link": "https://www.ajc.com/sports/2025/10/kirby-smart-lsu-coaches-borrow-offices-adds-context-to-brian-kelly-firing/"
-    },
-    {
       "title": "Schottenheimer: 'Bigger changes' coming after Cowboys bye week - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/schottenheimer-bigger-changes-coming-after-cowboys-bye-week"
     },
     {
-      "title": "Blue Jays, Dodgers enter World Series Game 3 tied 1-1\u2014How to watch for free - New York Post",
-      "link": "https://nypost.com/2025/10/27/sports/how-to-watch-blue-jays-vs-dodgers-world-series-game-3-for-free/"
-    },
-    {
-      "title": "5 things we learned from the Broncos dominant win over Cowboys - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-news/161974/five-things-learned-from-denver-broncos-win-dallas-cowboys"
-    },
-    {
-      "title": "Vikings quarterback Carson Wentz will have season-ending shoulder surgery - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-vikings-quarterback-carson-wentz-injured-jj-mccarthy-nfl/601506414"
+      "title": "3 quarterbacks the Vikings could add with Carson Wentz out for the year - Sports Illustrated",
+      "link": "https://www.si.com/nfl/vikings/news/3-quarterbacks-vikings-could-add-with-carson-wentz-out-for-year"
     }
   ],
   "weather": {
