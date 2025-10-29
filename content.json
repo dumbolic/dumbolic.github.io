@@ -1,9 +1,9 @@
 {
-  "quote": "Nothing can dim the light which shines from within. \u2013 Maya Angelou",
-  "fact": "In medieval France, unfaithful wives were made to chase a chicken through town naked.",
-  "crypto": "BTC: $112,603 | ETH: $3,993.6",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
+  "quote": "You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead? \u2013 Seneca",
+  "fact": "The volume of the earth's moon is the same as the volume of the Pacific Ocean. ",
+  "crypto": "BTC: $112,420 | ETH: $3,981.22",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Where do sheep go to get their hair cut? The baa-baa shop.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,98 +12,126 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Battlefield 6 Update 1.1.1.0 Now Live on All Platforms Ahead of Season 1 and Battle Pass Progression Later Today - IGN",
-      "link": "https://www.ign.com/articles/battlefield-6-update-1110-now-live-on-all-platforms-ahead-of-season-1-and-battle-pass-progression-later-today"
+      "title": "iOS 26.1 will add four new ways to customize your iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/28/ios-26-1-will-add-four-new-ways-to-customize-your-iphone/"
+    },
+    {
+      "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/"
+    },
+    {
+      "title": "Minecraft Snapshot 25w44a - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w44a"
+    },
+    {
+      "title": "More mobs from Mounts of Mayhem - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/more-mobs-from-mounts-of-mayhem"
+    },
+    {
+      "title": "Battlefield REDSEC Launches Alongside Battlefield 6 Season 1 With Battle Royale, Gauntlet, and Portal Modes \u2014 Here's Everything You Need to Know - IGN",
+      "link": "https://www.ign.com/articles/battlefield-redsec-launches-alongside-battlefield-6-season-1-with-battle-royale-gauntlet-and-portal-modes-heres-everything-you-need-to-know"
+    },
+    {
+      "title": "As its original devs post conflicting takes on the controversial remake, I have to ask: who is Halo: Campaign Evolved for? - Eurogamer",
+      "link": "https://www.eurogamer.net/as-its-original-devs-post-conflicting-takes-on-the-controversial-remake-i-have-to-ask-who-is-halo-campaign-evolved-for"
+    },
+    {
+      "title": "Leaker says \u2018iPhone 20\u2019 will drop every physical button, go all-in on haptics - 9to5Mac",
+      "link": "https://9to5mac.com/2025/10/28/leaker-says-iphone-20-will-drop-every-physical-button-go-all-in-on-haptics/"
+    },
+    {
+      "title": "Privacy laws can\u2019t keep up with \u2018luxury surveillance\u2019 - The Verge",
+      "link": "https://www.theverge.com/tech/807834/meta-smart-glasses-privacy-laws-wearables"
+    },
+    {
+      "title": "PSA: You Might Need To Free Up Some Space For Hyrule Warriors: Age Of Imprisonment - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/psa-you-might-need-to-free-up-some-space-for-hyrule-warriors-age-of-imprisonment"
+    },
+    {
+      "title": "Govee\u2019s new power outlet expander gives you voice control and a night light - The Verge",
+      "link": "https://www.theverge.com/news/807890/govee-smart-plug-outlet-extender-voice-control-alexa-google-assistant"
+    },
+    {
+      "title": "An Apple Shortcuts masterclass - The Verge",
+      "link": "https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast"
+    },
+    {
+      "title": "Samsung shows off its trifold phone in person - The Verge",
+      "link": "https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit"
+    },
+    {
+      "title": "Galaxy Z Fold8 display and battery details leaked - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/galaxy_z_fold8_display_and_battery_details_leaked-news-70055.php"
+    },
+    {
+      "title": "Civilization 7 will bring back the ability to play as one civ for the whole game, bypassing the divisive Age system - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/civilization-7-will-bring-back-the-ability-to-play-as-one-civ-for-the-whole-game-bypassing-the-divisive-age-system"
     },
     {
       "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware - The Hacker News",
       "link": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html"
     },
     {
-      "title": "Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting"
+      "title": "First look: DJI\u2019s Romo robot vacuum - The Verge",
+      "link": "https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look"
     },
     {
-      "title": "BREAKING: This is the Galaxy Z TriFold! - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-z-trifold-showcased-officially/"
+      "title": "Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting"
     },
     {
       "title": "Loulan: The Cursed Sand Looks Like Another Must Play PS5 Console Exclusive - Push Square",
       "link": "https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive"
     },
     {
-      "title": "Poll: So, Will You Be Getting Hyrule Warriors: Age Of Imprisonment? - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/poll-so-will-you-be-getting-hyrule-warriors-age-of-imprisonment"
+      "title": "Google starts rolling out YouTube-style age checks for Play Store - Android Authority",
+      "link": "https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/"
     },
     {
       "title": "Scientists Built a Working Computer Memory Out of Shiitake Mushrooms - ScienceAlert",
       "link": "https://www.sciencealert.com/scientists-built-a-working-computer-memory-out-of-shiitake-mushrooms"
-    },
-    {
-      "title": "Google's next Pixel Drop may land early, as leak spills the beans on features and November ETA - Android Authority",
-      "link": "https://www.androidauthority.com/november-pixel-drop-leak-3610662/"
-    },
-    {
-      "title": "Samsung, Google unveil $1,799 device that aims to replace everything - TheStreet",
-      "link": "https://www.thestreet.com/entertainment/samsung-google-unveil-1799-device-that-aims-to-replace-everything"
-    },
-    {
-      "title": "Microsoft WSUS attacks hit 'multiple' orgs, Google warns - theregister.com",
-      "link": "https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/"
-    },
-    {
-      "title": "Black Friday deals we hope to see \u2014 the Fire TV Stick 4K for under $25 - Mashable",
-      "link": "https://mashable.com/article/black-friday-amazon-fire-stick-4k"
-    },
-    {
-      "title": "Porsche\u2019s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster - Ars Technica",
-      "link": "https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/"
-    },
-    {
-      "title": "Still Using Windows 10? These Free Updates Will Help Keep Your PC Secure - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/still-using-windows-10-these-free-updates-will-help-keep-your-pc-secure/"
-    },
-    {
-      "title": "Trump\u2019s DHS is recruiting ICE officers with a Halo meme - The Verge",
-      "link": "https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars"
-    },
-    {
-      "title": "M5 iPad Pro after five days: Was upgrade from M4 worth it? - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/27/m5-ipad-pro-after-five-days-was-upgrade-from-m4-worth-it/"
-    },
-    {
-      "title": "Pok\u00e9mon Card Fan Loses Collection In The Worst Way Possible - Kotaku",
-      "link": "https://kotaku.com/pokemon-card-collection-basement-storage-insurance-2000639383"
-    },
-    {
-      "title": "Should you invest in the Oura Ring Gen 4? After 4 months of testing, we are not so sure - Live Science",
-      "link": "https://www.livescience.com/health/oura-ring-gen-4-review-after-four-months-of-testing"
-    },
-    {
-      "title": "Fitbit\u2019s revamped app, with Gemini-powered health coach, rolls out to Premium users - TechCrunch",
-      "link": "https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/"
-    },
-    {
-      "title": "EA\u2019s Attempt to Use AI for Game Development Backfiring Horribly - Futurism",
-      "link": "http://futurism.com/artificial-intelligence/ea-attempts-use-ai-game-development-backfiring"
-    },
-    {
-      "title": "Google's working on a Trash folder for Messages - Android Authority",
-      "link": "https://www.androidauthority.com/google-messages-trash-folder-3610484/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Shohei Ohtani Hits 2 Homers, Ties 119-Year-Old Record In Dodgers' World Series Game 3 Win - FOX Sports",
+      "link": "https://www.foxsports.com/stories/mlb/another-big-sho-ohtani-hits-2-homers-ties-record-with-4-extrabase-hits-in-world-series-game-3"
+    },
+    {
+      "title": "Here\u2019s a crazy stat from Packers-Steelers in Week 8 - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/here-s-a-crazy-stat-from-packers-steelers-in-week-8-2025"
+    },
+    {
+      "title": "Commanders Vs. Chiefs - Studs and Duds (by @Tiller56) - Hogs Haven",
+      "link": "https://www.hogshaven.com/studs-and-duds/385368/commanders-vs-chiefs-studs-and-duds"
+    },
+    {
+      "title": "Belichick Who? Hug-Loving Coach and Quarterback Phenom Have Patriots Rolling Again - The Wall Street Journal",
+      "link": "https://www.wsj.com/sports/football/new-england-patriots-mike-vrabel-drake-maye-4e6e17af"
+    },
+    {
+      "title": "PFT\u2019s Week 9 2025 NFL power rankings - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-9-2025-nfl-power-rankings"
+    },
+    {
+      "title": "Fan at Penguins game hospitalized after falling from upper concourse - NBC News",
+      "link": "https://www.nbcnews.com/sports/nhl/fan-penguins-game-hospitalized-falling-upper-concourse-rcna240220"
+    },
     {
       "title": "He Was Friends with LeBron James\u2014and Secretly Texting Intel to NBA Gamblers - The Wall Street Journal",
       "link": "https://www.wsj.com/sports/basketball/nba-gambling-scandal-damon-jones-lebron-james-8a8f4f77"
     },
     {
-      "title": "Dan Quinn, Andy Reid both cite fourth downs as a key reason Commanders lost to Chiefs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-andy-reid-both-cite-fourth-downs-as-a-key-reason-commanders-lost-to-chiefs"
+      "title": "Lessons learned: The Saints got their longest look at Tyler Shough yet. What did they see? - NOLA.com",
+      "link": "https://www.nola.com/sports/saints/the-saints-will-need-more-than-39-snaps-of-tyler-shough/article_53b4ba1c-3cc5-4c67-a3dc-d3206873b652.html"
     },
     {
-      "title": "Blazers Turn It On in Second Half to Down LeBroken Lakers - Blazer's Edge",
-      "link": "https://www.blazersedge.com/trail-blazers-analysis/104548/portland-trail-blazers-los-angeles-lakers-final-score-grant-avdija-austin-reeves-stats"
+      "title": "Bengals defense had a players-only meeting on Monday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-defense-had-a-players-only-meeting-on-monday"
+    },
+    {
+      "title": "Tom Aspinall challenged to take a stand against Ciryl Gane's UFC 321 foul with shock rematch stance - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/10/28/tom-aspinall-challenged-to-take-a-stand-against-ciryl-ganes-ufc-321-foul-with-shock-rematch-stance/"
     },
     {
       "title": "Ex-wife of Angels employee testifies during Tyler Skaggs trial that players partied with pills on team plane - New York Post",
@@ -134,44 +162,16 @@
       "link": "https://www.dallascowboys.com/news/schottenheimer-bigger-changes-coming-after-cowboys-bye-week"
     },
     {
-      "title": "Pacers Waiving Wiseman, Signing McClung To Multiyear Deal - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2025/10/pacers-waiving-wiseman-signing-mcclung-to-multiyear-deal.html"
-    },
-    {
       "title": "Blue Jays, Dodgers enter World Series Game 3 tied 1-1\u2014How to watch for free - New York Post",
       "link": "https://nypost.com/2025/10/27/sports/how-to-watch-blue-jays-vs-dodgers-world-series-game-3-for-free/"
-    },
-    {
-      "title": "Bears were preparing to face Lamar Jackson - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-were-preparing-to-face-lamar-jackson"
-    },
-    {
-      "title": "3 quarterbacks the Vikings could add with Carson Wentz out for the year - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/news/3-quarterbacks-vikings-could-add-with-carson-wentz-out-for-year"
     },
     {
       "title": "5 things we learned from the Broncos dominant win over Cowboys - Mile High Report",
       "link": "https://www.milehighreport.com/denver-broncos-news/161974/five-things-learned-from-denver-broncos-win-dallas-cowboys"
     },
     {
-      "title": "Former Super Bowl Winning Coach Rips 'Disgusting' Bengals After Latest Loss - Sports Illustrated",
-      "link": "https://www.si.com/nfl/bengals/allbengals-insiders-plus/allbengals-insiders-plus/former-super-bowl-winning-coach-rips-disgusting-bengals-after-latest-loss-01k8knqr6z80"
-    },
-    {
-      "title": "After Further Review: Breaking Down Patriots QB Drake Maye, LT Will Campbell and the Run Defense in Win Over Browns - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/after-further-review-breaking-down-patriots-qb-drake-maye-lt-will-campbell-and-the-run-defense-in-win-over-browns"
-    },
-    {
-      "title": "Rams trade for CB Roger McCreary - Rams",
-      "link": "https://www.therams.com/news/rams-trade-for-cb-roger-mccreary-titans-2025-nfl-trade-deadline"
-    },
-    {
-      "title": "Raiders sign WR Tyler Lockett - Raiders.com",
-      "link": "https://www.raiders.com/news/raiders-sign-tyler-lockett-wide-receiver-nfl-transactions-2025-waive-wr-justin-shorter"
-    },
-    {
-      "title": "What We Learned: Key Takeaways from Real Madrid\u2019s 2-1 Win Over Barcelona - Managing Madrid",
-      "link": "https://www.managingmadrid.com/el-clasico/99875/what-we-learned-key-takeaways-from-real-madrids-2-1-win-over-barcelona"
+      "title": "Vikings quarterback Carson Wentz will have season-ending shoulder surgery - Star Tribune",
+      "link": "https://www.startribune.com/minnesota-vikings-quarterback-carson-wentz-injured-jj-mccarthy-nfl/601506414"
     }
   ],
   "weather": {
