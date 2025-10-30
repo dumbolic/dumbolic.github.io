@@ -1,23 +1,31 @@
 {
-  "quote": "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand. \u2013 Thich Nhat Hanh",
-  "fact": "Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.",
-  "crypto": "BTC: $110,804 | ETH: $3,920.49",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Two silk worms had a race. They ended up in a tie.",
+  "quote": "It is those who concentrate on but one thing at a time who advance in this world. \u2013 Gary Keller",
+  "fact": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
+  "crypto": "BTC: $111,431 | ETH: $3,933.86",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call two guys hanging out by your window? Kurt & Rod.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.FanalForest_EN-US4405104404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2"
+      "title": "CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/"
     },
     {
-      "title": "Gemini coming to Google TV Streamer, more devices this winter - 9to5Google",
-      "link": "http://9to5google.com/2025/10/28/gemini-google-tv-streamer/"
+      "title": "New World: Aeternum Is Ending New Content After Season 10 - GameSpot",
+      "link": "https://www.gamespot.com/articles/new-world-aeternum-is-ending-new-content-after-season-10/1100-6535786/"
+    },
+    {
+      "title": "Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET",
+      "link": "https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-debuts-at-apec-summit-in-south-korea/"
+    },
+    {
+      "title": "Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switch 2 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2"
     },
     {
       "title": "Blue Origin details lunar exploration progress amid Artemis 3 contract shakeup - Spaceflight Now",
@@ -36,12 +44,16 @@
       "link": "https://www.windowscentral.com/gaming/xbox/microsoft-ceo-satya-nadella-is-looking-forward-to-the-next-xbox-we-want-to-do-innovative-work-on-the-system-side-on-both-console-and-pc"
     },
     {
+      "title": "Gemini for Home voice assistant begins early access rollout - Android Police",
+      "link": "https://www.androidpolice.com/gemini-for-home-voice-assistant-is-finally-here/"
+    },
+    {
       "title": "Apple debuts RCs for watchOS 26.1, tvOS 26.1, and more - 9to5Mac",
       "link": "https://9to5mac.com/2025/10/28/apple-debuts-rcs-for-watchos-26-1-tvos-26-1-and-more/"
     },
     {
-      "title": "New World heads to maintenance mode: \u2018Our intention is to keep servers operating through 2026\u2019 - Massively Overpowered",
-      "link": "https://massivelyop.com/2025/10/28/new-world-heads-to-maintenance-mode-out-intention-is-to-keep-servers-operating-through-2026/"
+      "title": "Nothing\u2019s Ear Open earbuds are back under $100 right now - The Verge",
+      "link": "https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale"
     },
     {
       "title": "Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays - Bloomberg.com",
@@ -78,28 +90,24 @@
     {
       "title": "Bandai Namco Is Looking To Revamp 'Shadow Labyrinth' In An Upcoming Update - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/10/bandai-namco-is-looking-to-revamp-shadow-labyrinth-in-an-upcoming-update"
-    },
-    {
-      "title": "Vibrant Visuals arrives in Minecraft Marketplace - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/vibrant-visuals-in-minecraft-marketplace"
-    },
-    {
-      "title": "NASCAR and Night launch NASCAR 25 Creator Series in celebration of NASCAR 25 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/10/28/nascar-and-night-launch-nascar-25-creator-series-in-celebration-of-nascar-25/"
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 6 Rumored To Get LPDDR6 RAM & UFS 5.0 Support For Faster AI Operations, But Tipster Shares Questionable Lithography Details - Wccftech",
-      "link": "https://wccftech.com/snapdragon-8-elite-gen-6-to-get-lpddr6-and-ufs-5-0-support-but-will-stick-with-tsmc-n2-process/"
     }
   ],
   "sports_news": [
     {
-      "title": "MLB World Series Game 4: Toronto Blue Jays beat LA Dodgers 6-2 to level at 2-2 - BBC",
-      "link": "https://www.bbc.com/sport/baseball/articles/cdeg3rp2712o"
+      "title": "Guerrero homers off Ohtani as Blue Jays even World Series with 6-2 win over Dodgers in Game 4 - AP News",
+      "link": "https://apnews.com/article/world-series-dodgers-blue-jays-shohei-ohtani-40291c13e8e7646f5ced2ea582c927a4"
     },
     {
-      "title": "President Trump's granddaughter gets exemption to LPGA tournament - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://abcnews.go.com/Sports/wireStory/president-trumps-granddaughter-gets-exemption-lpga-tournament-126940565"
+      "title": "UConn men's basketball team earns win over Michigan State in preseason exhibition finale - CT Insider",
+      "link": "https://www.ctinsider.com/sports/uconn-mens-basketball/article/dan-hurly-tom-izzo-michigan-state-21125147.php"
+    },
+    {
+      "title": "Steelers To Acquire S Kyle Dugger From Pats - NFL Rumors - ProFootballRumors.com",
+      "link": "https://www.profootballrumors.com/2025/10/steelers-to-acquire-s-kyle-dugger-from-pats"
+    },
+    {
+      "title": "Absolutely zero luck in a defeat to Dallas: Stars beat Capitals 1-0 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/10/28/absolutely-zero-luck-in-a-defeat-to-dallas-stars-beat-capitals-1-0/"
     },
     {
       "title": "Are Gambling Charges Against Chauncey Billups Overblown? - Blazer's Edge",
@@ -110,20 +118,20 @@
       "link": "https://allphly.com/instant-observations-sixers-wizards-adem-bona-tyrese-maxey/"
     },
     {
-      "title": "Pats deal DE White to 49ers, Dugger to Steelers - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46762320/pats-deal-keion-white-49ers-kyle-dugger-steelers"
+      "title": "49ers make trade with Patriots to help their toothless pass rush - SFGATE",
+      "link": "https://www.sfgate.com/49ers/article/49ers-trade-patriots-help-toothless-pass-rush-21125559.php"
     },
     {
       "title": "Blue Jays Notes: Springer, Bassitt, Yesavage - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/10/blue-jays-notes-springer-bassitt-yesavage.html"
     },
     {
-      "title": "Projected Lineup: Oct. 28 vs. Detroit - NHL.com",
-      "link": "https://www.nhl.com/blues/news/projected-lineup-oct-28-vs-detroit"
+      "title": "Sources: Niners fill DE void, deal for Pats' White - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46762320/pats-deal-keion-white-49ers-kyle-dugger-steelers"
     },
     {
-      "title": "Patriots trade DE Keion White to the 49ers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-trade-de-keion-white-to-the-49ers"
+      "title": "Projected Lineup: Oct. 28 vs. Detroit - NHL.com",
+      "link": "https://www.nhl.com/blues/news/projected-lineup-oct-28-vs-detroit"
     },
     {
       "title": "10 Fantasy Football Takeaways from Week 8: Saquon Barkley bounces back, Jonathan Taylor stays hot - NBC Sports",
@@ -138,40 +146,32 @@
       "link": "https://apnews.com/article/world-series-late-show-37b769aa674e1da1777e8ae06c8584d0"
     },
     {
-      "title": "Bills sign 2 fan-favorites to 53-man roster, send another starter to IR - Buffalo Rumblings",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/120190/bills-make-several-roster-moves-ahead-of-week-9-date-vs-chiefs"
+      "title": "Dan Quinn: Jordan Magee and Tyler Owens earned the opportunity for more playing time - Hogs Haven",
+      "link": "https://www.hogshaven.com/384916/dan-quinn-jordan-magee-and-tyler-owens-earned-the-opportunity-for-more-playing-time"
     },
     {
       "title": "Colts release unofficial depth chart for Week 9 game vs. Pittsburgh Steelers - Colts.com",
       "link": "https://www.colts.com/news/colts-release-unofficial-depth-chart-for-week-9-game-vs-pittsburgh-steelers-daniel-jones-jonathan-taylor"
     },
     {
-      "title": "Mike Tomlin agrees Steelers didn\u2019t handle adversity well on Sunday night - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-agrees-steelers-didnt-handle-adversity-well-on-sunday-night"
-    },
-    {
       "title": "Tom Aspinall unable to see out of right eye 3 days after UFC 321 controversy, says father: 'It's bad' - Yahoo Sports",
       "link": "https://sports.yahoo.com/mma/breaking-news/article/tom-aspinall-unable-to-see-out-of-right-eye-3-days-after-ufc-321-controversy-says-coach-its-bad-202949064.html"
+    },
+    {
+      "title": "The Warriors have gotten their Jonathan Kuminga dream scenario - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/warriors-jonathan-kuminga-dream-scenario-21125111.php"
     },
     {
       "title": "New ESPN Report Details One Sad Reason Why Brian Kelly Was Fired by LSU - Sports Illustrated",
       "link": "https://www.si.com/college-football/brian-kelly-fired-lsu-espn-report-reasons-fit"
     },
     {
+      "title": "4 Patriots trade deadline needs to watch with one week to go - 98.5 The Sports Hub",
+      "link": "https://985thesportshub.com/2025/10/28/4-patriots-trade-deadline-needs-to-watch-with-one-week-to-go/#article"
+    },
+    {
       "title": "9 Tactical Observations, Including Bellingham and Vinicius Murdering Barcelona - Managing Madrid",
       "link": "https://www.managingmadrid.com/kiyans-observations/98103/9-tactical-observations-including-bellingham-and-vinicius-murdering-barcelona"
-    },
-    {
-      "title": "Judge Bell dismisses NASCAR counterclaim - Jayski's NASCAR Silly Season Site",
-      "link": "https://www.jayski.com/?p=269960"
-    },
-    {
-      "title": "10/28 Preview - Foegele out with upper-body injury + Depth Ready To Step Up, Armia's Value, Malott Expected In - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2025/10/28/10-28-preview-foegele-out-with-upper-body-injury-depth-ready-to-step-up-armias-value-malott-expected-in/"
-    },
-    {
-      "title": "Penguins Game 11, Early Start: Lines, Notes, & How to Watch vs. Flyers - Pittsburgh Hockey Now",
-      "link": "https://pittsburghhockeynow.com/pittsburgh-penguins-game-11-early-start-lines-goalies-how-to-watch-vs-flyers/"
     }
   ],
   "weather": {
