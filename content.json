@@ -1,9 +1,9 @@
 {
-  "quote": "Getting lost along your path is a part of finding the path you are meant to be on. \u2013 Robin Sharma",
-  "fact": "WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through \"the whole 9 yards\", hence the term.",
-  "crypto": "BTC: $109,331 | ETH: $3,848.36",
+  "quote": "There is a difference between giving directions and giving direction. \u2013 Simon Sinek",
+  "fact": "The sun is 330,330 times larger than the earth.",
+  "crypto": "BTC: $109,198 | ETH: $3,844.32",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
+  "joke": "Leather is great for sneaking around because it's made of hide.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Inside YouTube\u2019s transformation on your TV - The Verge",
-      "link": "https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv"
+      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
+      "link": "https://www.zdnet.com/article/openai-unveils-aardvark-a-gpt-5-powered-agent-for-autonomous-cybersecurity-research/"
+    },
+    {
+      "title": "Google study finds Android avoids 58% more spam and scam texts compared to iOS - 9to5Google",
+      "link": "http://9to5google.com/2025/10/30/google-study-finds-android-avoids-58-more-spam-and-scam-texts-compared-to-ios/"
+    },
+    {
+      "title": "The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24 - The Verge",
+      "link": "https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale"
+    },
+    {
+      "title": "Disney+ gets HDR10+ via \u201cover 1,000\u201d Hulu titles - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/"
+    },
+    {
+      "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
+      "link": "https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs"
+    },
+    {
+      "title": "Canva launches its own design model, adds new AI features to the platform - TechCrunch",
+      "link": "https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/"
+    },
+    {
+      "title": "DJI\u2019s Neo 2 selfie drone adds obstacle avoidance and gesture controls - The Verge",
+      "link": "https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control"
+    },
+    {
+      "title": "AI browsers are a cybersecurity time bomb - The Verge",
+      "link": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
+    },
+    {
+      "title": "Samsung\u2019s internet browser is headed to PC - The Verge",
+      "link": "https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch"
+    },
+    {
+      "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
+      "link": "https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/"
     },
     {
       "title": "Apex Legends Season 27 early patch notes: Movement updates, Olympus rework, Legend buffs & nerfs - Dexerto",
@@ -24,146 +60,114 @@
       "link": "https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january"
     },
     {
-      "title": "PSA: Struggling With Luigi's Mansion's Inverted Controls? You Can 'Fix' Them On NSO - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/psa-struggling-with-luigis-mansions-inverted-controls-you-can-fix-them-on-nso"
+      "title": "PS5 Extraction Shooter Arc Raiders Is Looking Like a Hit as Servers Immediately Struggle - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/10/ps5-extraction-shooter-arc-raiders-is-looking-like-a-hit-as-servers-immediately-struggle"
+    },
+    {
+      "title": "YouTube will upgrade video and thumbnail file size limits \u2018soon\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2025/10/30/youtube-video-thumbnail-file-size-limits/"
     },
     {
       "title": "OpenAI adds reusable \u2018characters\u2019 and video stitching to Sora - The Verge",
       "link": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
-      "title": "Arc Raiders Online connection errors are causing havoc, as 130,000+ players flood the servers minutes after launch - Eurogamer",
-      "link": "https://www.eurogamer.net/arc-raiders-online-connection-error-launch-server-problem"
-    },
-    {
-      "title": "Amazon have reportedly cancelled their Lord Of The Rings MMO, again - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/amazon-have-reportedly-cancelled-their-lord-of-the-rings-mmo-again"
-    },
-    {
       "title": "Xbox Q1 hardware sales down 29% while third-party content experiences \"better-than-expected performance\" - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/xbox-q1-hardware-sales-down-29-while-third-party-content-experiences-better-than-expected-performance"
     },
     {
-      "title": "Gemini for Home is finally rolling out for early access - here's how to try it first - ZDNET",
-      "link": "https://www.zdnet.com/home-and-office/smart-home/gemini-for-home-is-finally-rolling-out-for-early-access-heres-how-to-try-it-first/"
+      "title": "Samsung's One UI 8.5 update makes quick settings pop with cleaner, glassier design - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-refresh-3611574/"
     },
     {
-      "title": "Resident Evil Requiem Pre-Orders Live, Switch 2 Pro Controller And Amiibo Confirmed - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/resident-evil-requiem-pre-orders-live-switch-2-pro-controller-and-amiibo-confirmed"
+      "title": "Nintendo Suffers A Major Blow In Palworld Lawsuit As Its Monster Capture Patent Gets Rejected - TheGamer",
+      "link": "https://www.thegamer.com/nintendo-palworld-lawsuit-monster-capture-patent-rejected/"
     },
     {
-      "title": "Samsung Internet Expands to PC With New Beta Program - Samsung Global Newsroom",
-      "link": "https://news.samsung.com/global/samsung-internet-expands-to-pc-with-new-beta-program"
-    },
-    {
-      "title": "CEO of GTA 6 publisher Take-Two is surprisingly hesitant about AI usage for entirely unsurprising reasons - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/ceo-of-gta-6-publisher-take-two-is-surprisingly-hesitant-about-ai-usage-for-entirely-unsurprising-reasons"
-    },
-    {
-      "title": "Nintendo Announces New The Legend of Zelda: Breath of the Wild Soundtrack Box Set - Pitchfork",
-      "link": "https://pitchfork.com/news/nintendo-announces-new-the-legend-of-zelda-breath-of-the-wild-soundtrack-box-set/"
-    },
-    {
-      "title": "Uv is the best thing to happen to the Python ecosystem in a decade - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45751400"
-    },
-    {
-      "title": "Round Up: The Reviews Are In For Dragon Quest I & II HD-2D Remake - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/10/round-up-the-reviews-are-in-for-dragon-quest-i-and-ii-hd-2d-remake"
-    },
-    {
-      "title": "Battlefield REDSEC Launches to 'Mostly Negative' Steam Reviews as Battlefield 6 Players Push for Battle Pass Changes and Bigger Maps - IGN",
-      "link": "https://www.ign.com/articles/battlefield-redsec-launches-to-mostly-negative-steam-reviews-as-battlefield-6-players-push-for-battle-pass-changes-and-bigger-maps"
-    },
-    {
-      "title": "Minecraft removing obfuscation in Java Edition - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d45748879"
-    },
-    {
-      "title": "Halo on PlayStation might be what Xbox needs to survive - The Verge",
-      "link": "https://www.theverge.com/entertainment/809053/halo-playstation-xbox-multiplatform-strategy"
-    },
-    {
-      "title": "iPhone Fold\u2019s launch timing sounds like it couldn\u2019t be better - 9to5Mac",
-      "link": "https://9to5mac.com/2025/10/29/iphone-folds-launch-timing-sounds-like-it-couldnt-be-better/"
+      "title": "Resident Evil Requiem Preorders: Deluxe Steelbook, Switch 2 Collection, And More - GameSpot",
+      "link": "https://www.gamespot.com/articles/resident-evil-requiem-preorder-guide-ps5-nintendo-switch-2-xbox-pc/1100-6535813/"
     }
   ],
   "sports_news": [
     {
-      "title": "2025 Week 9 Fantasy Football Rankings: QB - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-9-fantasy-football-rankings-qb"
+      "title": "2025 NFL trade deadline rumors live updates: Latest news, transactions, updates - New York Post",
+      "link": "https://nypost.com/2025/10/30/sports/2025-nfl-trade-deadline-rumors-live-updates-latest-news-transactions-updates/"
     },
     {
-      "title": "Brad Marchand steps away from Panthers to fill in as coach after friend\u2019s daughter dies of cancer - New York Post",
-      "link": "https://nypost.com/2025/10/30/sports/brad-marchand-leaves-panthers-after-friends-daughter-dies-of-cancer/"
+      "title": "Lions OC John Morton: I\u2019ve failed Jameson Williams - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-oc-john-morton-ive-failed-jameson-williams"
     },
     {
-      "title": "Patrick Mahomes: Bills fans do not like the Chiefs, it\u2019s a cool environment - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-bills-fans-do-not-like-the-chiefs-its-a-cool-environment"
+      "title": "Lamar Jackson returns home to face Dolphins for third time - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-returns-home-to-face-dolphins-for-third-time"
+    },
+    {
+      "title": "Blake Butera set to lead Nats as youngest MLB manager in decades - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/10/30/blake-butera-nationals-manager/"
+    },
+    {
+      "title": "One Incredible Viewership Stat From the Blue Jays-Dodgers 18-Inning Game - Sports Illustrated",
+      "link": "https://www.si.com/media/blue-jays-dodgers-18-inning-world-series-game-tv-ratings"
+    },
+    {
+      "title": "Thunder's Topic in treatment for testicular cancer - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46782473/thunder-nikola-topic-being-treated-testicular-cancer"
+    },
+    {
+      "title": "Lawyer: Terry Rozier is \"getting completely screwed\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lawyer-terry-rozier-is-getting-completely-screwed"
+    },
+    {
+      "title": "India beat Australia: Hosts reach Women's World Cup final with record chase - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/c629qv19g0ro"
+    },
+    {
+      "title": "The Dodgers stopped hitting, and the World Series suddenly flipped - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/10/30/dodgers-blue-jays-world-series-game-5/"
+    },
+    {
+      "title": "NFL Week 9 picks: Upset and score predictions, matchup analysis for every game - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-picks-week-9-2025-nfl-season"
+    },
+    {
+      "title": "Avalanche Signs Necas - NHL.com",
+      "link": "https://www.nhl.com/avalanche/news/avalanche-signs-necas"
+    },
+    {
+      "title": "Lakers Sale to Mark Walter from Buss Family Unanimously Approved by NBA Board - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25271740-lakers-sale-mark-walter-buss-family-unanimously-approved-nba-board"
+    },
+    {
+      "title": "Nebraska Announces Contract Extension with Coach Matt Rhule - University of Nebraska - Official Athletics Website - huskers.com",
+      "link": "https://huskers.com/news/2025/10/30/nebraska-announces-contract-extension-with-coach-matt-rhule"
+    },
+    {
+      "title": "Colts RB Jonathan Taylor, Seahawks WR Jaxon Smith-Njigba highlight October Players of the Month - NFL.com",
+      "link": "https://www.nfl.com/news/players-of-the-month-october-2025-jonathan-taylor-jaxon-smith-njigba"
+    },
+    {
+      "title": "How Nebraska Matches Up with USC Based on Trojans\u2019 Midseason Grades - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/how-nebraska-matches-up-with-usc-based-on-trojans-midseason-grades"
+    },
+    {
+      "title": "Utah looks to avoid 'noise' of ESPN 'College GameDay,' Big 12 title game implications - KSL.com",
+      "link": "https://www.ksl.com/article/51397640/utah-looks-to-avoid-noise-of-espn-college-gameday-big-12-title-game-implications"
     },
     {
       "title": "Matt LaFleur isn\u2019t worried about the Packers overlooking the Panthers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-isnt-worried-about-the-packers-overlooking-the-panthers"
     },
     {
-      "title": "Kent St. drops interim tag, names Carney as HC - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46780784/kent-state-removes-interim-tag-names-mark-carney-head-coach"
-    },
-    {
-      "title": "Sources: Nebraska signs Rhule through 2032 - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46780529/sources-nebraska-rhule-agrees-2-year-extension-2032"
-    },
-    {
       "title": "Tracking the massive cap hits of the Detroit Lions\u2019 top-7 core players - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-analysis/146985/tracking-massive-cap-hits-detroit-lions-top-7-core-players"
     },
     {
-      "title": "Late for Work: What Pundits Expect in Ravens-Dolphins Game - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/lamar-jackson-ravens-dolphins-thursday-night-football-expectations-afc-north-matthew-judon-trade"
+      "title": "Steelers acquire Dugger in trade with Patriots - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-acquire-dugger-in-trade-with-patriots"
     },
     {
-      "title": "Sources: Feds eye MLBPA venture over spending - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46770967/feds-probe-profit-venture-mlb-players-association-sent-millions"
-    },
-    {
-      "title": "Patriots players react to Kyle Dugger, Keion White trades - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-media-transcripts-statements-interviews/112978/players-reaction-kyle-dugger-keion-white-trades-drake-maye-christian-gonzalez"
-    },
-    {
-      "title": "Tyler Shough: I\u2019ll make mistakes, but great opportunity to let it rip - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-ill-make-mistakes-but-great-opportunity-to-let-it-rip"
-    },
-    {
-      "title": "Week 9 NFL straight up, against the spread, and survivor pool picks - PhillyVoice",
-      "link": "https://www.phillyvoice.com/week-9-nfl-straight-against-spread-and-survivor-pool-picks-2025/"
-    },
-    {
-      "title": "Jon Jones trolls Tom Aspinall by riding a specially dressed horse to the DBX4 weigh-ins - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/10/30/jon-jones-trolls-tom-aspinall-by-riding-a-specially-dressed-horse-to-the-dbx4-weigh-ins/"
-    },
-    {
-      "title": "5 thoughts on Drake Maye\u2019s meteoric rise - MassLive",
-      "link": "https://www.masslive.com/patriots/2025/10/5-thoughts-on-drake-mayes-meteoric-rise.html"
-    },
-    {
-      "title": "Player Grades: Lakers vs. Wolves - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/lakers-analysis/98970/player-grades-lakers-vs-wolves-austin-reaves-deandre-ayton-jake-laravia-rui-hachimura"
-    },
-    {
-      "title": "Cavs have identified early-season problem. Now they must fix it. - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/10/cavs-have-identified-early-season-problem-now-they-must-fix-it.html"
-    },
-    {
-      "title": "Jrue Holiday Saves Trail Blazers in Narrow Win - Blazer's Edge",
-      "link": "https://www.blazersedge.com/trail-blazers-analysis/104634/jrue-holiday-portland-trail-blazers-utah-jazz-final-score-boxscore-stats-sharpe-duop-reath"
-    },
-    {
-      "title": "Players union calls out NBA for putting Terry Rozier on unpaid leave during gambling scandal - New York Post",
-      "link": "https://nypost.com/2025/10/29/sports/players-union-calls-out-nba-for-putting-terry-rozier-on-unpaid-leave/"
-    },
-    {
-      "title": "Clayton Kershaw Says Goodbye to Dodger Stadium After Final Home Game in World Series - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25270687-clayton-kershaw-says-goodbye-dodger-stadium-after-final-home-game-world-series"
+      "title": "Louisiana Gov. Jeff Landry vows to block LSU athletic director from picking the next football coach - NBC News",
+      "link": "https://www.nbcnews.com/sports/college-football/louisiana-gov-jeff-landry-lsu-football-coach-rcna240734"
     }
   ],
   "weather": {
