@@ -1,9 +1,9 @@
 {
-  "quote": "Integrity is telling myself the truth. And honesty is telling the truth to other people. \u2013 Spencer Johnson",
-  "fact": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
-  "crypto": "BTC: $109,493 | ETH: $3,877.84",
+  "quote": "Do not take life too seriously. You will never get out of it alive. \u2013 Elbert Hubbard",
+  "fact": "Deborah Winger did the voice of E.T.",
+  "crypto": "BTC: $109,399 | ETH: $3,844.6",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
+  "joke": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
-      "link": "https://www.zdnet.com/article/openai-unveils-aardvark-a-gpt-5-powered-agent-for-autonomous-cybersecurity-research/"
+      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
+      "link": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations"
     },
     {
-      "title": "Google study finds Android avoids 58% more spam and scam texts compared to iOS - 9to5Google",
-      "link": "http://9to5google.com/2025/10/30/google-study-finds-android-avoids-58-more-spam-and-scam-texts-compared-to-ios/"
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"
     },
     {
-      "title": "The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24 - The Verge",
-      "link": "https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale"
+      "title": "Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors",
+      "link": "https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/"
     },
     {
-      "title": "Disney+ gets HDR10+ via \u201cover 1,000\u201d Hulu titles - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/"
+      "title": "Windows 11\u2019s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge",
+      "link": "https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr"
     },
     {
-      "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
-      "link": "https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs"
+      "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher - OpenAI",
+      "link": "https://openai.com/index/introducing-aardvark/"
+    },
+    {
+      "title": "Android 17 could bring full-screen apps to your phone\u2019s always-on display - Android Authority",
+      "link": "https://www.androidauthority.com/android-17-aod-min-mode-rumor-3611806/"
+    },
+    {
+      "title": "vivo X300 and X300 Pro make their global debut - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/vivo_x300_and_x300_pro_make_their_global_debut-news-70089.php"
+    },
+    {
+      "title": "Android is dunking on iPhone at scam protection - Android Authority",
+      "link": "https://www.androidauthority.com/android-dunking-iphone-scam-protection-3611668/"
     },
     {
       "title": "Canva launches its own design model, adds new AI features to the platform - TechCrunch",
       "link": "https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/"
-    },
-    {
-      "title": "DJI\u2019s Neo 2 selfie drone adds obstacle avoidance and gesture controls - The Verge",
-      "link": "https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control"
     },
     {
       "title": "AI browsers are a cybersecurity time bomb - The Verge",
@@ -48,16 +56,20 @@
       "link": "https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch"
     },
     {
-      "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
-      "link": "https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/"
-    },
-    {
       "title": "Apex Legends Season 27 early patch notes: Movement updates, Olympus rework, Legend buffs & nerfs - Dexerto",
       "link": "https://www.dexerto.com/apex-legends/apex-legends-season-27-early-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/"
     },
     {
-      "title": "Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January - The Verge",
-      "link": "https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january"
+      "title": "Nintendo's Pok\u00e9mon Catching-Related Patent Has Been Rejected In Japan - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/10/nintendos-pokemon-catching-related-patent-has-been-rejected-in-japan"
+    },
+    {
+      "title": "Former Amazon dev suggests Lord of the Rings MMO cancelled following recent studio \"gutting\" - Eurogamer",
+      "link": "https://www.eurogamer.net/former-amazon-dev-suggests-lord-of-the-rings-mmo-cancelled-following-recent-studio-gutting"
+    },
+    {
+      "title": "Nintendo Announces Animal Crossing: New Horizons Switch 2 Edition and a Free Update to the Base Game - IGN",
+      "link": "https://www.ign.com/articles/nintendo-announces-animal-crossing-new-horizons-switch-2-edition-and-a-free-update-to-the-base-game"
     },
     {
       "title": "PS5 Extraction Shooter Arc Raiders Is Looking Like a Hit as Servers Immediately Struggle - Push Square",
@@ -72,38 +84,26 @@
       "link": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
-      "title": "Xbox Q1 hardware sales down 29% while third-party content experiences \"better-than-expected performance\" - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/xbox-q1-hardware-sales-down-29-while-third-party-content-experiences-better-than-expected-performance"
-    },
-    {
-      "title": "Samsung's One UI 8.5 update makes quick settings pop with cleaner, glassier design - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-refresh-3611574/"
-    },
-    {
-      "title": "Nintendo Suffers A Major Blow In Palworld Lawsuit As Its Monster Capture Patent Gets Rejected - TheGamer",
-      "link": "https://www.thegamer.com/nintendo-palworld-lawsuit-monster-capture-patent-rejected/"
-    },
-    {
-      "title": "Resident Evil Requiem Preorders: Deluxe Steelbook, Switch 2 Collection, And More - GameSpot",
-      "link": "https://www.gamespot.com/articles/resident-evil-requiem-preorder-guide-ps5-nintendo-switch-2-xbox-pc/1100-6535813/"
+      "title": "Capcom Gets Behind Nintendo Switch 2 With Resident Evil Requiem Switch 2 Pro Controller, the First Ever Resident Evil Amiibo, and a RE7, RE8, RE Requiem Generation Pack - IGN",
+      "link": "https://www.ign.com/articles/capcom-gets-behind-nintendo-switch-2-with-resident-evil-requiem-switch-2-pro-controller-the-first-ever-resident-evil-amiibo-and-a-re7-re8-re-requiem-generation-pack"
     }
   ],
   "sports_news": [
     {
-      "title": "2025 NFL trade deadline rumors live updates: Latest news, transactions, updates - New York Post",
-      "link": "https://nypost.com/2025/10/30/sports/2025-nfl-trade-deadline-rumors-live-updates-latest-news-transactions-updates/"
+      "title": "Week 9 Fantasy Football Rankings - The Blueprint - Underdog Network",
+      "link": "https://underdognetwork.com/football/fantasy-rankings/week-9-fantasy-football-rankings-the-blueprint-2025"
+    },
+    {
+      "title": "Cardinals preparing for Kyler Murray to start on Monday night - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-preparing-for-kyler-murray-to-start-on-monday-night"
     },
     {
       "title": "Lions OC John Morton: I\u2019ve failed Jameson Williams - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-oc-john-morton-ive-failed-jameson-williams"
     },
     {
-      "title": "Lamar Jackson returns home to face Dolphins for third time - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-returns-home-to-face-dolphins-for-third-time"
-    },
-    {
-      "title": "Blake Butera set to lead Nats as youngest MLB manager in decades - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/10/30/blake-butera-nationals-manager/"
+      "title": "Storm rookie Malonga to join Unrivaled in '26 - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/46783356/storm-rookie-dominique-malonga-join-unrivaled-2026"
     },
     {
       "title": "One Incredible Viewership Stat From the Blue Jays-Dodgers 18-Inning Game - Sports Illustrated",
@@ -126,6 +126,10 @@
       "link": "https://www.washingtonpost.com/sports/2025/10/30/dodgers-blue-jays-world-series-game-5/"
     },
     {
+      "title": "United States of College Basketball: Ranking the best team in each state for the 2025-26 season - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/united-states-of-college-basketball-ranking-the-best-team-in-each-state-for-the-2025-26-season/"
+    },
+    {
       "title": "NFL Week 9 picks: Upset and score predictions, matchup analysis for every game - NFL.com",
       "link": "https://www.nfl.com/news/nfl-picks-week-9-2025-nfl-season"
     },
@@ -138,8 +142,16 @@
       "link": "https://bleacherreport.com/articles/25271740-lakers-sale-mark-walter-buss-family-unanimously-approved-nba-board"
     },
     {
+      "title": "Souhan: What are the Twins thinking? - Star Tribune",
+      "link": "https://www.startribune.com/jim-souhan-derek-shelton-minnesota-twins-manager/601507346"
+    },
+    {
       "title": "Nebraska Announces Contract Extension with Coach Matt Rhule - University of Nebraska - Official Athletics Website - huskers.com",
       "link": "https://huskers.com/news/2025/10/30/nebraska-announces-contract-extension-with-coach-matt-rhule"
+    },
+    {
+      "title": "NCAA hits Central Michigan, four former staffers for Connor Stalions sideline fiasco - FootballScoop",
+      "link": "https://www.footballscoop.com/2025/10/30/ncaa-hits-central-michigan-four-former-staffers-connor-stalions-sideline"
     },
     {
       "title": "Colts RB Jonathan Taylor, Seahawks WR Jaxon Smith-Njigba highlight October Players of the Month - NFL.com",
@@ -150,24 +162,12 @@
       "link": "https://www.si.com/college/nebraska/football/how-nebraska-matches-up-with-usc-based-on-trojans-midseason-grades"
     },
     {
+      "title": "LSU great Andrew Whitworth says Brian Kelly declined his offers to help the program - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lsu-great-andrew-whitworth-says-brian-kelly-declined-his-offers-to-help-the-program"
+    },
+    {
       "title": "Utah looks to avoid 'noise' of ESPN 'College GameDay,' Big 12 title game implications - KSL.com",
       "link": "https://www.ksl.com/article/51397640/utah-looks-to-avoid-noise-of-espn-college-gameday-big-12-title-game-implications"
-    },
-    {
-      "title": "Matt LaFleur isn\u2019t worried about the Packers overlooking the Panthers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-isnt-worried-about-the-packers-overlooking-the-panthers"
-    },
-    {
-      "title": "Tracking the massive cap hits of the Detroit Lions\u2019 top-7 core players - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/146985/tracking-massive-cap-hits-detroit-lions-top-7-core-players"
-    },
-    {
-      "title": "Steelers acquire Dugger in trade with Patriots - Steelers.com",
-      "link": "https://www.steelers.com/news/steelers-acquire-dugger-in-trade-with-patriots"
-    },
-    {
-      "title": "Louisiana Gov. Jeff Landry vows to block LSU athletic director from picking the next football coach - NBC News",
-      "link": "https://www.nbcnews.com/sports/college-football/louisiana-gov-jeff-landry-lsu-football-coach-rcna240734"
     }
   ],
   "weather": {
