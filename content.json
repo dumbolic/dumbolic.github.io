@@ -1,9 +1,9 @@
 {
-  "quote": "All things come into being by conflict of opposites. \u2013 Heraclitus",
-  "fact": "Most American car horns honk in the key of F.",
-  "crypto": "BTC: $110,075 | ETH: $3,877.34",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
+  "quote": "It doesn't matter where you are, you are nowhere compared to where you can go. \u2013 Bob Proctor",
+  "fact": "The cheetah is the only cat that can't retract its claws.",
+  "crypto": "BTC: $109,944 | ETH: $3,874.17",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you call a pile of cats?  A Meowtain.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "\u201cUnexpectedly, a deer briefly entered the family room\u201d: Living with Gemini Home - Ars Technica",
+      "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/"
+    },
+    {
+      "title": "Exclusive | Google\u2019s First AI Ad Avoids the Uncanny Valley by Casting a Turkey - The Wall Street Journal",
+      "link": "https://www.wsj.com/articles/googles-first-ai-ad-avoids-the-uncanny-valley-by-casting-a-turkey-dafd3662"
+    },
+    {
       "title": "Google drops a surprise late-October 2025 update for Pixels - Android Police",
       "link": "https://www.androidpolice.com/google-drops-surprise-late-october-2025-update-pixels/"
     },
     {
       "title": "WhatsApp now testing an Apple Watch companion app - 9to5Mac",
       "link": "https://9to5mac.com/2025/10/30/whatsapp-now-testing-an-apple-watch-companion-app/"
+    },
+    {
+      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
+      "link": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations"
     },
     {
       "title": "Everything New In The REPO Monster Update - Full Patch Notes - GameSpot",
@@ -64,34 +76,42 @@
       "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/"
     },
     {
+      "title": "AMD confirms focus shifts to RDNA3 and RDNA4, RX 6000 and RX 5000 lose day 1 game optimizations - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-confirms-focus-shifts-to-rdna3-and-rdna4-rx-6000-and-rx-5000-lose-day-1-game-optimizations"
+    },
+    {
       "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
       "link": "https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs"
-    },
-    {
-      "title": "Free Play Days \u2013 Call of Duty Black Ops 6 (MP & Zombies), Dragon Ball Xenoverse 2, Dead by Daylight, CATAN, and More - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/10/30/free-play-days-10-30-2025/"
-    },
-    {
-      "title": "AI browsers are a cybersecurity time bomb - The Verge",
-      "link": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
-    },
-    {
-      "title": "T-Mobile\u2019s emergency payments system is going online-only - 9to5Google",
-      "link": "http://9to5google.com/2025/10/30/t-mobile-payment-arrangement-online-only/"
-    },
-    {
-      "title": "The Numbers Show Xbox\u2019s Current Plan Isn\u2019t Working - Gizmodo",
-      "link": "https://gizmodo.com/numbers-show-xbox-current-plan-not-working-2000679428"
     }
   ],
   "sports_news": [
     {
-      "title": "Jeered at home, Dolphins share fans' frustrations - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46788952/jeered-blowout-dolphins-mcdaniel-shares-fans-frustrations"
+      "title": "Mark Andrews: With Lamar Jackson back, we\u2019re a dangerous team - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-andrews-with-lamar-jackson-back-were-a-dangerous-team"
+    },
+    {
+      "title": "Tua Tagovailoa: Ravens fans\u2019 crowd noise in Miami caused Dolphins\u2019 false start - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-ravens-fans-crowd-noise-in-miami-caused-dolphins-false-start"
+    },
+    {
+      "title": "Albert Breer\u2019s NFL Trade Deadline Notes and Which Players Could Be on the Move - Sports Illustrated",
+      "link": "https://www.si.com/nfl/albert-breer-nfl-trade-deadline-notes-which-players-could-be-on-the-move"
+    },
+    {
+      "title": "Skull Session: Ryan Day Says Penn State Will Have a \u201cNothing-To-Lose Mentality\u201d Against Ohio State, Buckeyes Set a Guinness World Record During Brutus\u2019 60th Birthday Celebration - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/skull-sessions/2025/10/159053/skull-session-ryan-day-says-penn-state-will-have-a-nothing-to-lose-mentality-against-ohio-state-buckeyes-set-a-guinness"
+    },
+    {
+      "title": "Denzel Aberdeen is OUT vs. Georgetown - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/denzel-aberdeen-is-out-vs-georgetown/"
     },
     {
       "title": "Giants Notes: Vitello, Hyde, Coaching Staff - MLB Trade Rumors",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcG5TemV0ZmpsVGVQanlFT2tmc2phOUx1THNMaUhDOFJaR3lZQnN1NWFxRnVLMTB2ZGVRUFlaSW55VVVqVEVZV1B2bV90bjRYdXp3cEliaDh4dmZYQlZCa0N2OHUyeUFIMlU2TGVHS2t2QXRTSUpSTmNsVm1MSmFyTXo4SGlqSHV2UlUtUg?oc=5"
+      "link": "https://www.mlbtraderumors.com/2025/10/giants-notes-vitello-hyde-coaching-staff.html"
+    },
+    {
+      "title": "Sabres blow another chance for a win losing in overtime - Audacy",
+      "link": "https://www.audacy.com/wgr550/sports/sabres/sabres-blow-another-chance-for-a-win-losing-in-overtime"
     },
     {
       "title": "Gable Steveson demolishes Billy Swanson in 15 seconds at Dirty Boxing 4, calls out UFC matchmaker - Yahoo Sports",
@@ -106,12 +126,8 @@
       "link": "https://www.sportico.com/leagues/baseball/2025/mlb-abolish-intentional-walk-1234875344/"
     },
     {
-      "title": "Thursday Night Football: Lamar Jackson leads Ravens to 28-6 win over Miami - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-lamar-jackson-leads-ravens-to-28-6-win"
-    },
-    {
-      "title": "Kentucky Basketball struggles in exhibition loss to Georgetown: 4 things to know and postgame banter - A Sea Of Blue",
-      "link": "https://www.aseaofblue.com/kentucky-wildcats-basketball/151157/uk-georgetown-final-score-recap-4-things-to-know"
+      "title": "UTSA 48-26 Tulane (Oct 30, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/college-football/recap?gameId=401762443"
     },
     {
       "title": "Opportunity for Lane Kiffin is \u2018too big\u2019 to stay at Ole Miss: ESPN insider - New York Post",
@@ -126,12 +142,20 @@
       "link": "https://www.washingtonpost.com/sports/2025/10/30/blake-butera-nationals-manager/"
     },
     {
+      "title": "Trey Yesavage silenced the Dodgers \u2014 and left his Blue Jays teammates speechless: \u2018It\u2019s like damn, wow\u2019 - New York Post",
+      "link": "https://nypost.com/2025/10/30/sports/trey-yesavage-silenced-the-dodgers-left-blue-jays-speechless/"
+    },
+    {
+      "title": "Ten realistic trade candidates for the Dallas Cowboys ahead of deadline - Fort Worth Star-Telegram",
+      "link": "https://www.star-telegram.com/sports/nfl/dallas-cowboys/article312712477.html"
+    },
+    {
       "title": "Week 9 Fantasy Football Rankings - The Blueprint - Underdog Network",
       "link": "https://underdognetwork.com/football/fantasy-rankings/week-9-fantasy-football-rankings-the-blueprint-2025"
     },
     {
-      "title": "Tulane vs UTSA Prediction, Odds, Picks, Time for Thursday \u2014 College Football Week 10 - Action Network",
-      "link": "https://www.actionnetwork.com/ncaaf/tulane-green-wave-vs-utsa-roadrunners-prediction-pick-odds-college-football-thursday-october-30"
+      "title": "Cardinals are apparently trying to keep Kyler Murray\u2019s status a secret - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-are-apparently-trying-to-keep-kyler-murrays-status-a-secret"
     },
     {
       "title": "Lions\u2019 Aidan Hutchinson relieved negotiations are over, ready to focus on football - Pride Of Detroit",
@@ -140,26 +164,6 @@
     {
       "title": "Ind vs Aus, WWC semi - Australia feel India's force as Rodrigues brings down the Death Star - ESPNcricinfo",
       "link": "https://www.espncricinfo.com/story/ind-vs-aus-wwc-semi-australia-feel-india-s-force-as-rodrigues-brings-down-the-death-star-1509383"
-    },
-    {
-      "title": "Tyler Shough reveals wife\u2019s no-nonsense reaction after Saints rookie won starting QB job - New York Post",
-      "link": "https://nypost.com/2025/10/30/sports/tyler-shough-reveals-wifes-reaction-after-saints-rookie-won-qb-job/"
-    },
-    {
-      "title": "10/30 Preview - Foegele Still Out + Kopitar Talks Return, Analyzing Energy Levels, Clarke's Minutes, McLellan Returns - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2025/10/30/10-30-preview-foegele-still-out-kopitar-talks-return-analyzing-energy-levels-clarkes-minutes-mclellan-returns/"
-    },
-    {
-      "title": "Cardinals preparing for Kyler Murray to start on Monday night - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-preparing-for-kyler-murray-to-start-on-monday-night"
-    },
-    {
-      "title": "Jaxson Dart named NFL Offensive Rookie of the Month - Giants.com",
-      "link": "https://www.giants.com/news/jaxson-dart-named-nfl-offensive-rookie-of-the-month"
-    },
-    {
-      "title": "One Incredible Viewership Stat From the Blue Jays-Dodgers 18-Inning Game - Sports Illustrated",
-      "link": "https://www.si.com/media/blue-jays-dodgers-18-inning-world-series-game-tv-ratings"
     }
   ],
   "weather": {
