@@ -1,9 +1,9 @@
 {
-  "quote": "Question everything. Learn something. Answer nothing. \u2013 Euripides",
-  "fact": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
-  "crypto": "BTC: $109,619 | ETH: $3,847.33",
+  "quote": "High thoughts must have high language. \u2013 Aristophanes",
+  "fact": "One-fourth of the world`s population lives on less than $200 a year.\u00a0 Ninety million people survive on less than $75 a year.",
+  "crypto": "BTC: $110,436 | ETH: $3,879.75",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the miner get fired from his job? He took it for granite...",
+  "joke": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Battlefield 6 drops a new \"relaxed\" way to earn XP \"without the intensity of a full PvP lobby\" - Eurogamer",
+      "link": "https://www.eurogamer.net/battlefield-6-drops-a-new-relaxed-way-to-earn-xp-without-the-intensity-of-a-full-pvp-lobby"
+    },
     {
       "title": "Yakuza 3 Remake Backlash Blows Up Again as Actor Guilty of Sexual Harassment Stars in New Trailer - Push Square",
       "link": "https://www.pushsquare.com/news/2025/11/yakuza-3-remake-backlash-blows-up-again-as-actor-guilty-of-sexual-harassment-stars-in-new-trailer"
@@ -28,12 +32,20 @@
       "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2025"
     },
     {
+      "title": "AMD bundles four Steam games with Lenovo Legion Go 2, Costco only - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-bundles-four-steam-games-with-lenovo-legion-go-2-costco-only"
+    },
+    {
       "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding - The Verge",
       "link": "https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding"
     },
     {
       "title": "GTA 6 developer Rockstar accused of union-busting after it fires dozens of developers - Eurogamer",
       "link": "https://www.eurogamer.net/gta-6-developer-rockstar-accused-of-union-busting-after-it-fires-dozens-of-developers"
+    },
+    {
+      "title": "Digital Eclipse announces hotfix to address multiple launch issues with Mortal Kombat: Legacy Kollection - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/nov/01/digital-eclipse-mk-kollection-issues/"
     },
     {
       "title": "New Hades 2 patch notes deliver buffs, faster progression, and an upgraded ending, with a few extra treats - PCGamesN",
@@ -46,6 +58,10 @@
     {
       "title": "AI researchers \u2019embodied\u2019 an LLM into a robot \u2013 and it started channeling Robin Williams - TechCrunch",
       "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/"
+    },
+    {
+      "title": "Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser - Phoronix",
+      "link": "https://www.phoronix.com/news/Linux-Kernel-WebAssembly"
     },
     {
       "title": "The Big Question About Destiny 2\u2019s Missing Roadmap - Forbes",
@@ -74,92 +90,80 @@
     {
       "title": "Peru-Based Gaming Store Might've Just Confirmed Leon Kennedy In Resident Evil Requiem... With A Pair Of Undies - TheGamer",
       "link": "https://www.thegamer.com/resident-evil-9-requiem-leon-kennedy-leak-peru-gaming-store-underwear-merch/"
-    },
-    {
-      "title": "The Best Early Black Friday Apple Deals - MacRumors",
-      "link": "https://www.macrumors.com/2025/11/01/best-early-black-friday-apple-deals-2025/"
-    },
-    {
-      "title": "The Playdate is a great indie puzzle machine - The Verge",
-      "link": "https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it"
-    },
-    {
-      "title": "Android Auto's best feature isn't navigation - Android Police",
-      "link": "https://www.androidpolice.com/android-autos-best-feature-isnt-navigation/"
-    },
-    {
-      "title": "SanDisk\u2019s ultra-tiny USB flash drive is built to stay plugged in - PCWorld",
-      "link": "https://www.pcworld.com/article/2956625/sandisks-ultra-tiny-usb-flash-drive-is-built-to-stay-plugged-in.html"
     }
   ],
   "sports_news": [
     {
+      "title": "NASCAR at Phoenix: Key info, links, results for championship weekend - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/11/01/nascar-at-phoenix-key-info-links-results-for-championship-weekend/"
+    },
+    {
+      "title": "Jays join Dodgers in wearing Vesia's '51' on caps at World Series - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/46808821/jays-join-dodgers-wearing-vesia-51-caps-world-series"
+    },
+    {
+      "title": "Dodgers Notes: Ohtani, Yamamoto, Lineup - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/11/dodgers-notes-ohtani-yamamoto-lineup.html"
+    },
+    {
+      "title": "Manning throws 3 touchdowns and No. 20 Texas holds off No. 9 Vanderbilt late for 34-31 win - AP News",
+      "link": "https://apnews.com/article/texas-vanderbilt-score-88bf46a2da3dfff036fbc0ad81f3580a"
+    },
+    {
+      "title": "CRAWFORD | 'Thunder Over Louisville' running game leads No. 16 Cards past Virginia Tech, 28-16 - WDRB",
+      "link": "https://www.wdrb.com/sports/crawford-thunder-over-louisville-running-game-leads-no-16-cards-past-virginia-tech-28-16/article_a187bad7-4504-4550-a4e1-c436a873e612.html"
+    },
+    {
       "title": "Ravens trade cornerback Alexander to Eagles - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/46807773/ravens-trade-cornerback-jaire-alexander-eagles"
+    },
+    {
+      "title": "Iowa St. TE Brahmer hospitalized, discharged - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46806538/iowa-state-te-benjamin-brahmer-carted-taken-hospital"
     },
     {
       "title": "ASU football upsets Iowa State with record performance from Jeff Sims - azcentral.com and The Arizona Republic",
       "link": "https://www.azcentral.com/story/sports/college/asu/2025/11/01/arizona-state-iowa-state-score-updates-college-football-week-10/85749534007/"
     },
     {
+      "title": "Ja Morant suspended one game after controversial Grizzlies coaching comments - New York Post",
+      "link": "https://nypost.com/2025/11/01/sports/ja-morant-suspended-one-game-after-grizzlies-coaching-comments/"
+    },
+    {
       "title": "Dabo Swinney goes nuts on Clemson sideline in epic meltdown - New York Post",
       "link": "https://nypost.com/2025/11/01/sports/dabo-swinney-goes-nut-on-clemson-sideline-in-epic-meltdown/"
+    },
+    {
+      "title": "Jake Paul\u2019s Most Valuable Promotions issues statement on Tank Davis allegations, current fight status - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/452984/jake-pauls-most-valuable-promotions-issues-statement-on-tank-davis-allegations-current-fight-status"
     },
     {
       "title": "Five takeaways on Miami's offense in overtime loss to SMU - 247Sports",
       "link": "https://247sports.com/college/miami/longformarticle/five-takeaways-miami-hurricanes-football-offense-in-overtime-loss-to-smu-mustangs-more-259618236/"
     },
     {
-      "title": "Dana White fires back at complaints over next 2 UFC events: \u2018Shut the f*ck up\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/452976/dana-white-fires-back-at-complaints-over-next-2-ufc-events-shut-the-fck-up"
-    },
-    {
-      "title": "Vanderbilt Commodores vs. Texas Longhorns Live Score and Stats - November 1, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20251101_VANDY@TEXAS/"
+      "title": "Cardinals list QB Kyler Murray as questionable - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-list-qb-kyler-murray-as-questionable"
     },
     {
       "title": "Seahawks Roster Moves Ahead Of Week 9 Game at Washington - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/seahawks-roster-moves-ahead-of-week-9-game-at-washington"
     },
     {
-      "title": "Quick hits: Illini rout Rutgers 35-13 behind Altmyer\u2019s five touchdowns to clinch bowl eligibility - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-football-rutgers-quick-hits-recap-luke-altmyer-defense-259621724/"
-    },
-    {
       "title": "Tottenham player ratings vs Chelsea - Vicario superb but Xavi & Co woeful as dull Spurs lose - Football London",
       "link": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-player-ratings-vs-chelsea-32795385"
+    },
+    {
+      "title": "Ohio State pulls away from Penn State: Score, analysis as JulIan Sayin tosses 4 TDs in win - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/ohio-state-penn-state-live-updates-score-results-analysis/live/"
     },
     {
       "title": "College football scores, live updates and highlights in Week 10 - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-10-ncaa-top-25-games-today/live/"
     },
     {
-      "title": "Paris Masters: Jannik Sinner dismantles Alexander Zverev to reach Felix Auger-Aliassime final - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cev11n0ndl1o"
-    },
-    {
-      "title": "Sources: Jake Paul Seeking Potential Replacement for Gervonta Davis Fight - Sports Illustrated",
-      "link": "https://www.si.com/boxing/jake-paul-seeking-replacement-gervonta-davis-fight-ryan-garcia"
-    },
-    {
-      "title": "Swiatek dismantles Keys in 61 minutes at WTA Finals - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/c98nn9de563o"
-    },
-    {
       "title": "Report: Joe Flacco set to start Bengals-Bears on Sunday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joe-flacco-set-to-start-bengals-bears-on-sunday"
-    },
-    {
-      "title": "Australia edge England in pulsating Test to clinch Ashes - BBC",
-      "link": "https://www.bbc.com/sport/rugby-league/articles/c1k00ge7v1mo"
-    },
-    {
-      "title": "Jacoby Brissett will start for Cardinals vs. Cowboys on Monday night - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-will-start-for-cardinals-vs-cowboys-on-monday-night"
-    },
-    {
-      "title": "Here\u2019s how to watch Georgia vs. Florida for free: Start time, livestream - New York Post",
-      "link": "https://nypost.com/2025/11/01/sports/how-to-watch-georgia-vs-florida-for-free-time-livestream/"
     },
     {
       "title": "Five Things to Watch on Sunday | Chiefs vs. Bills - Chiefs.com",
@@ -168,10 +172,6 @@
     {
       "title": "Projected Lineup: November 1 at Boston - NHL.com",
       "link": "https://www.nhl.com/hurricanes/news/projected-lineup-november-1-at-boston"
-    },
-    {
-      "title": "2025 Week 9 DFS Main Slate Breakdown - Fantasy Points",
-      "link": "https://www.fantasypoints.com/nfl/articles/2025/week-9-dfs-main-slate-breakdown"
     }
   ],
   "weather": {
