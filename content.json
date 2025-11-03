@@ -1,9 +1,9 @@
 {
-  "quote": "Dreams have only one owner at a time. That's why dreamers are lonely. \u2013 William Faulkner",
-  "fact": "On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.",
-  "crypto": "BTC: $106,820 | ETH: $3,600.84",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Is there a hole in your shoe? No\u2026 Then how\u2019d you get your foot in it?",
+  "quote": "No matter what happens, always be yourself. \u2013 Dale Carnegie",
+  "fact": "The San Francisco Cable cars are the only mobile National Monuments",
+  "crypto": "BTC: $106,534 | ETH: $3,594.13",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What did the drummer name her twin daughters? Anna One, Anna Two...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "The Witcher author Andrzej Sapkowski says it's \"rare\" for CD Projekt Red to ask for additional details now - Eurogamer",
-      "link": "https://www.eurogamer.net/the-witcher-author-andrzej-sapkowski-says-its-rare-for-cd-projekt-red-to-ask-for-additional-details-now"
+      "title": "Report: Avalanche\u2019s Cancelled \u201cContraband\u201d Screenshots Unearthed, Reveals UI and More - MP1st",
+      "link": "https://mp1st.com/news/avalanche-cancelled-contraband-screenshots-unearthed"
+    },
+    {
+      "title": "New Design Trend: People Downgrading 'Smart' Homes to Analog 'Dumb' Homes, Some with Landlines and Offline Appliances - Slashdot",
+      "link": "https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances"
     },
     {
       "title": "STALKER 2 Game Pass Players Left Stranded Ahead Of PS5 Launch - DualShockers",
@@ -30,10 +34,6 @@
     {
       "title": "Why the Zune never killed the iPod - The Verge",
       "link": "https://www.theverge.com/podcast/811595/microsoft-zune-version-history"
-    },
-    {
-      "title": "New Version of Siri to 'Lean' on Google Gemini - MacRumors",
-      "link": "https://www.macrumors.com/2025/11/02/new-version-of-siri-to-lean-on-google-gemini/"
     },
     {
       "title": "Gurman: Apple launching iOS 26.2 beta \u2018as soon as Tuesday,\u2019 following iOS 26.1 debut - 9to5Mac",
@@ -94,76 +94,80 @@
   ],
   "sports_news": [
     {
-      "title": "Steelers vs. Colts live updates: Score, highlights and analysis - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/steelers-colts-live-updates-score-analysis-highlights/live/"
+      "title": "5 takeaways from Lions\u2019 loss against Vikings - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/147324/5-takeaways-detroit-lions-losss-minnesota-vikings"
+    },
+    {
+      "title": "Bengals vs. Bears: 5 winners and 10 losers from a potentially season-killing defeat - Cincy Jungle",
+      "link": "https://www.cincyjungle.com/cincinnati-bengals-analysis/179351/bears-5-winners-10-losers-zac-taylor-joe-flacco-duke-tobins-al-golden"
+    },
+    {
+      "title": "Chicago Bears vs. Cincinnati Bengals Live Score and Stats - November 2, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251102_CHI@CIN/"
+    },
+    {
+      "title": "Indianapolis Colts vs. Pittsburgh Steelers Live Score and Stats - November 2, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251102_IND@PIT/"
+    },
+    {
+      "title": "Los Angeles Chargers vs. Tennessee Titans Live Score and Stats - November 2, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251102_LAC@TEN/"
+    },
+    {
+      "title": "The Good, Bad and Ugly in Week 9: Drake Maye Is Building an MVP R\u00e9sum\u00e9 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObkM5M2l5TkZJRVlEdVpnN2FhU3JxTjdtY0hIeGRlYVk4MjVOUHM3MmM4XzlxdjFEaUVxMmpiamVvMEZVM01tRWQxMllXRzlFLWFNSkpkbHRxZWM2VVhUa1FYbHJEZ3YxbjRnR1RSTDVOc1RGZkZIMGtjaW1mQm1pcU1tZw?oc=5"
+    },
+    {
+      "title": "Rapid Recap: Patriots Escape Falcons With 24-23 Victory - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/rapid-recap-patriots-escape-falcons-with-24-23-victory"
+    },
+    {
+      "title": "NASCAR at Phoenix: Key info, links, results for championship weekend - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/11/02/nascar-at-phoenix-key-info-links-results-for-championship-weekend/"
+    },
+    {
+      "title": "Christian McCaffrey sets record with rushing, receiving TDs in same game for the 16th time - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-sets-record-for-rushing-receiving-tds-in-same-game-for-the-16th-time"
+    },
+    {
+      "title": "What Dylan Raiola's Season-Ending Injury Means for Nebraska Moving Forward - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/what-dylan-raiola-s-season-ending-injury-means-for-nebraska-moving-forward-2025"
+    },
+    {
+      "title": "Currently, one pump is OK \u2014 two are not - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/currently-one-pump-is-ok-two-are-not"
     },
     {
       "title": "Texans' Stroud suffers concussion after hard hit - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/46820544/texans-cj-stroud-suffers-concussion-hard-hit-vs-broncos"
     },
     {
-      "title": "Lady Vols' Whitehorn dismissed after 2nd arrest - ESPN",
-      "link": "https://www.espn.com/womens-college-basketball/story/_/id/46819814/tennessee-coach-kim-caldwell-dismisses-ruby-whitehorn-no-8-lady-vols-another-arrest"
+      "title": "7 arrests made as Dodger fans celebrated World Series win across Los Angeles, police say - ABC7 Los Angeles",
+      "link": "https://abc7.com/post/arrests-dodger-fans-celebrated-world-series-win-los-angeles-police-say/18104019/"
     },
     {
       "title": "BYU, Texas Tech give Big 12 two top 10 teams for 1st time in 2 years ahead of their Top 25 showdown - AP News",
       "link": "https://apnews.com/article/ap-top-25-poll-b22d5ac7c3197e27d91869abb478d1cf"
     },
     {
-      "title": "College Football Overtime: Hugh Freeze's Auburn future, another round of top 10 upsets lead Week 10 takeaways - 247Sports",
-      "link": "https://247sports.com/longformarticle/college-football-overtime-hugh-freezes-auburn-future-another-round-of-top-10-upsets-lead-week-10-takeaways-259733234/"
+      "title": "Hugh Freeze out at Auburn: Top candidates, transfers and recruits - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46553648/hugh-freeze-auburn-tigers-fired-candidates-transfers"
     },
     {
-      "title": "Auburn fires coach Huge Freeze - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/auburn-fires-coach-huge-freeze"
+      "title": "ICC Women's World Cup final: Shafali Verma and Deepti Sharma star as India beat South Africa for historic victory - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/ckgkzn4enqko"
     },
     {
-      "title": "Racing Insights: Non-Championship 4 driver predicted to win Phoenix finale - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2025/11/02/racing-insights-phoenix-championship-race-projected-results/"
+      "title": "Five things I'm watching for in women's college basketball opening day - On3",
+      "link": "https://www.on3.com/her/news/five-things-im-watching-for-in-womens-college-basketball-opening-day/"
+    },
+    {
+      "title": "Dodgers' two historic Game 7 homers caught by father-son duo - Yahoo Sports",
+      "link": "https://www.cllct.com/sports-collectibles/memorabilia/dodgers-two-historic-game-7-homers-caught-by-father-son-duo"
     },
     {
       "title": "South Carolina firing offensive coordinator Mike Shula - FootballScoop",
       "link": "https://www.footballscoop.com/2025/11/02/south-carolina-firing-offensive-coordinator-mike-shula"
-    },
-    {
-      "title": "Bob Trumpy, ex-Bengals TE, broadcaster, dies at 80 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46817999/bob-trumpy-ex-bengals-te-broadcaster-dies-80"
-    },
-    {
-      "title": "NFL 2025 Week 9 early inactives: Joe Flacco will start for the Bengals, Trey Hendrickson out - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-2025-week-9-early-inactives-joe-flacco-will-start-for-the-bengals-trey-hendrickson-out"
-    },
-    {
-      "title": "Dodgers' Yoshinobu Yamamoto Makes Shocking Admission About World Series Game 7 - Sports Illustrated",
-      "link": "https://www.si.com/mlb/dodgers/onsi/news/dodgers-yoshinobu-yamamoto-makes-shocking-admission-about-world-series-game-7"
-    },
-    {
-      "title": "Latest NFL trade deadline rumors on Dolphins, Browns, Cowboys, and more - SB Nation",
-      "link": "https://www.sbnation.com/nfl/1088234/latest-nfl-trade-deadline-rumors-dolphins-browns-cowboys"
-    },
-    {
-      "title": "Ante Delija releases first statement after being \u2018robbed\u2019 by UFC Vegas 110 eye poke ruling - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/453184/ante-delija-fumes-after-being-robbed-by-ufc-vegas-110-eye-poke-ruling"
-    },
-    {
-      "title": "Eagles News: ESPN grades the Jaire Alexander trade - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/162593/eagles-news-espn-grades-the-jaire-alexander-trade"
-    },
-    {
-      "title": "2025 TCS New York City Marathon | Live Race Updates - ABC7 New York",
-      "link": "https://abc7ny.com/live-updates/nyc-marathon-2025-start-time-what-is-route-running-how-watch/18086612/"
-    },
-    {
-      "title": "5 things to watch as the Chiefs play the Bills in a big Week 9 game - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/185341/5-things-to-watch-against-bills-in-week-9"
-    },
-    {
-      "title": "A closer look at the sloppy and undisciplined play that led to the loss at SMU - 247Sports",
-      "link": "https://247sports.com/college/miami/article/a-closer-look-at-the-sloppy-and-undisciplined-play-that-led-to-the-loss-at-smu-259782037/"
-    },
-    {
-      "title": "FSU players rally around Mike Norvell, speak out in support of their coach - 247Sports",
-      "link": "https://247sports.com/college/florida-state/article/fsu-players-rally-around-mike-norvell-speak-out-in-support-of-their-coach-259774358/"
     }
   ],
   "weather": {
