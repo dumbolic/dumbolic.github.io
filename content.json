@@ -1,9 +1,9 @@
 {
-  "quote": "Your heart is full of fertile seeds, waiting to sprout. \u2013 Morihei Ueshiba",
-  "fact": "The average child recognizes over 200 company logos by the time he enters first grade.",
-  "crypto": "BTC: $107,723 | ETH: $3,730.13",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
+  "quote": "Listen to what you know instead of what you fear. \u2013 Richard Bach",
+  "fact": "There are more than 10 million bricks in the Empire State Building.",
+  "crypto": "BTC: $107,840 | ETH: $3,753.92",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "One of Switch 2\u2019s biggest flaws, and why Nintendo might never fix it - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-2-flaw/"
+    },
     {
       "title": "Steam On Linux Gaming Finally Cracks 3% For October 2025 - Phoronix",
       "link": "https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025"
@@ -22,6 +26,14 @@
     {
       "title": "Battlefield 6 drops a new \"relaxed\" way to earn XP \"without the intensity of a full PvP lobby\" - Eurogamer",
       "link": "https://www.eurogamer.net/battlefield-6-drops-a-new-relaxed-way-to-earn-xp-without-the-intensity-of-a-full-pvp-lobby"
+    },
+    {
+      "title": "Debian's APT Will Soon Begin Requiring Rust: Debian Ports Need To Adapt Or Be Sunset - Phoronix",
+      "link": "https://www.phoronix.com/news/Debian-APT-Will-Require-Rust"
+    },
+    {
+      "title": "These work-from-home gadgets and routines doubled my productivity - MakeUseOf",
+      "link": "https://www.makeuseof.com/work-from-home-gadgets-and-routines-for-productivity/"
     },
     {
       "title": "The best Android phones never make it to the US - Android Police",
@@ -72,27 +84,39 @@
       "link": "https://www.eventhubs.com/news/2025/nov/01/chun-li-fatal-fury-footage/"
     },
     {
-      "title": "AI researchers \u2019embodied\u2019 an LLM into a robot \u2013 and it started channeling Robin Williams - TechCrunch",
-      "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/"
-    },
-    {
       "title": "Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser - Phoronix",
       "link": "https://www.phoronix.com/news/Linux-Kernel-WebAssembly"
     },
     {
       "title": "The Big Question About Destiny 2\u2019s Missing Roadmap - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/11/01/the-big-question-about-destiny-2s-missing-roadmap/"
-    },
-    {
-      "title": "The Monthly Update: dozens of Roguelites & Roguelikes are about to take over November - Rogueliker",
-      "link": "https://rogueliker.com/new-roguelike-games-november-25/"
-    },
-    {
-      "title": "LG\u2019s brilliant B5 OLED TV is already down to just $530 for Black Friday - The Verge",
-      "link": "https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale"
     }
   ],
   "sports_news": [
+    {
+      "title": "Yamamoto completes outstanding October with Game 7 heroics, World Series MVP - AP News",
+      "link": "https://apnews.com/article/yoshinobu-yamamoto-dodgers-mvp-5c86d71ebfd8544a75a6bc526df9b8c9"
+    },
+    {
+      "title": "6 Blue Jays who won't be back as Toronto tries to put World Series heartbreak behind - FanSided",
+      "link": "https://fansided.com/mlb/6-blue-jays-who-wont-be-back-as-toronto-tries-to-put-world-series-heartbreak-behind"
+    },
+    {
+      "title": "MLB World Series: LA Dodgers beat Toronto Blue Jays for back-to-back titles - BBC",
+      "link": "https://www.bbc.com/sport/baseball/articles/c4gwwvzxer2o"
+    },
+    {
+      "title": "College football cores, rankings, highlights: Oklahoma downs Tennessee in CFP eliminator - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-10-ncaa-top-25-games-today/live/"
+    },
+    {
+      "title": "No. 23 USC Avoids Nebraska's Upset Bid, 21-17 - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/live-updates-nebraska-cornhuskers-vs-no-23-usc-trojans-2025"
+    },
+    {
+      "title": "UFC Vegas 110 post-fight show: Reaction to Steve Garcia knocking out David Onama, weird night at the APEX - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/453150/ufc-vegas-110-post-fight-show-reaction-to-steve-garcia-knocking-out-david-onama-weird-night-at-the-apex"
+    },
     {
       "title": "Instant Impressions: Kentucky 10, Auburn 3 - 247Sports",
       "link": "https://247sports.com/college/auburn/article/auburn-football-kentucky-game-score-hugh-freeze-259705693/"
@@ -102,16 +126,28 @@
       "link": "https://www.si.com/college-football/college-football-week-10-winners-and-losers-ohio-state-death-star-is-operational"
     },
     {
-      "title": "Benches clear after Jays SS Gimenez hit by pitch - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/46810852/benches-clear-jays-ss-andres-gimenez-hit-pitch"
+      "title": "Takeaways from Michigan Football\u2019s win over Purdue - Maize n Brew",
+      "link": "https://www.maizenbrew.com/football/96420/michigan-football-purdue-game-recap-takeaways-jordan-marshall-bryce-underwood-sherrone-moore"
     },
     {
-      "title": "\u2018Garcia is not f*cking around\u2019: Pros react to Steve Garcia destroying David Onama in UFC Vegas 110 main event - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/453107/garcia-is-not-fcking-around-pros-react-to-steve-garcia-destroying-david-onama-in-ufc-vegas-110-main-event"
+      "title": "Will-to-power-play: Sabres beat Caps 4-3 in the shootout - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/11/01/will-to-power-play-sabres-beat-caps-4-3-in-the-shootout/"
+    },
+    {
+      "title": "Benches clear at Game 7 of World Series after LA's Wrobleski hits Toronto's Gim\u00e9nez with fastball - AP News",
+      "link": "https://apnews.com/article/world-series-game-7-dodgers-blue-jays-0351e83c5d7891ec345781fb257418f8"
+    },
+    {
+      "title": "MLB is giving Dodgers' Shohei Ohtani a warmup clock loophole between innings - Yahoo Sports",
+      "link": "https://www.sportingnews.com/us/mlb/los-angeles-dodgers/news/mlb-dodgers-shohei-ohtani-warmup-clock-loophole-between-innings/961ce4c9659eefbe50f2d995"
     },
     {
       "title": "NASCAR at Phoenix: Key info, links, results for championship weekend - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2025/11/01/nascar-at-phoenix-key-info-links-results-for-championship-weekend/"
+    },
+    {
+      "title": "Fantasy Football Rankings: Most Accurate Experts (Week 9) - FantasyPros",
+      "link": "https://www.fantasypros.com/2025/11/fantasy-football-rankings-most-accurate-experts-week-9-predictions/"
     },
     {
       "title": "Georgia football-Florida instant observations as Bulldogs escape yet again - DawgNation",
@@ -134,44 +170,8 @@
       "link": "https://nypost.com/2025/11/01/betting/nfl-predictions-picks-for-week-9-slate/"
     },
     {
-      "title": "Jaire Alexander Trade Grades: Eagles Add Depth but Fit Questions Linger - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGhhX0U0TmFPVFlpMmVUdUwwQ1ZqMmM5NU1hcFRiU28tUDFXVXgydEJydWxXLXd2WE50Z1NRdm5zRU5uc0Vobk1QWlVVRlpueWVSNGsxWGo0TkZpQ19XcVE2THY4TzRVYnVWTHR1YXFpQ1hJN3ViYWxKWmlHblhVNEdMNTJLazV2SkZ3TmtUanQ4clJ0cUdMdVl5M2U?oc=5"
-    },
-    {
       "title": "Manning throws 3 touchdowns and No. 20 Texas holds off No. 9 Vanderbilt late for 34-31 win - AP News",
       "link": "https://apnews.com/article/texas-vanderbilt-score-88bf46a2da3dfff036fbc0ad81f3580a"
-    },
-    {
-      "title": "Amid World Series, Blue Jays relievers join Dodgers in wearing tribute to absent LA pitcher Vesia - AP News",
-      "link": "https://apnews.com/article/world-series-dodgers-blue-jays-vesia-50d1f221fbf888553f16e035af54f2d0"
-    },
-    {
-      "title": "CRAWFORD | 'Thunder Over Louisville' running game leads No. 16 Cards past Virginia Tech, 28-16 - WDRB",
-      "link": "https://www.wdrb.com/sports/crawford-thunder-over-louisville-running-game-leads-no-16-cards-past-virginia-tech-28-16/article_a187bad7-4504-4550-a4e1-c436a873e612.html"
-    },
-    {
-      "title": "Dabo Swinney goes nuts on Clemson sideline in epic meltdown - New York Post",
-      "link": "https://nypost.com/2025/11/01/sports/dabo-swinney-goes-nut-on-clemson-sideline-in-epic-meltdown/"
-    },
-    {
-      "title": "Injury status for Cole Sullivan, Justice Haynes, others revealed for Michigan Football vs Purdue - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/95807/michigan-football-injury-report-purdue-justice-haynes-cole-sullivan-rod-moore-jimmy-rolder-hogan-hansen"
-    },
-    {
-      "title": "Grizzlies suspend Ja Morant for one game after his postgame comments challenging coaches - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/grizzlies-suspend-ja-morant-for-one-game-after-his-postgame-comments-challenging-coaches"
-    },
-    {
-      "title": "Cardinals list QB Kyler Murray as questionable - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-list-qb-kyler-murray-as-questionable"
-    },
-    {
-      "title": "No. 10 Miami likely knocked from ACC and College Football Playoff contention with OT loss at SMU - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/breaking-news/article/no-10-miami-likely-knocked-from-acc-and-college-football-playoff-contention-with-ot-loss-at-smu-195729486.html"
-    },
-    {
-      "title": "Seahawks Roster Moves Ahead Of Week 9 Game at Washington - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/seahawks-roster-moves-ahead-of-week-9-game-at-washington"
     }
   ],
   "weather": {
