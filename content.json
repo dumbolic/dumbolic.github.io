@@ -1,9 +1,9 @@
 {
-  "quote": "Your heart is the size of an ocean. Go find yourself in its hidden depths. \u2013 Rumi",
-  "fact": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.",
-  "crypto": "BTC: $100,412 | ETH: $3,250.1",
+  "quote": "Just do what must be done. This may not be happiness but it is greatness. \u2013 George Bernard Shaw",
+  "fact": "All polar bears are left-handed.",
+  "crypto": "BTC: $101,019 | ETH: $3,282.58",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What biscuit does a short person like? Shortbread. ",
+  "joke": "I've got a joke about vegetables for you... but it's a bit corny.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Someone Made the Ultimate Portable CD Player, and I Need It Right Now - Gizmodo",
+      "link": "https://gizmodo.com/someone-made-the-ultimate-portable-cd-player-and-i-need-it-right-now-2000681903"
+    },
+    {
+      "title": "BlizzCon 2026 Passes go on sale November 7! - Blizzard News",
+      "link": "https://news.blizzard.com/en-us/article/24245211/blizzcon-2026-passes-go-on-sale-november-7"
+    },
+    {
+      "title": "Nintendo is getting the Switch ready for retirement - The Verge",
+      "link": "https://www.theverge.com/news/814273/nintendo-switch-2-console-primary-focus-pivot"
+    },
+    {
+      "title": "If you want to satiate AI\u2019s hunger for power, Google suggests going to space - Ars Technica",
+      "link": "https://arstechnica.com/space/2025/11/if-you-want-to-satiate-ais-hunger-for-power-google-suggests-going-to-space/"
+    },
+    {
+      "title": "AMD\u2019s New CPUs Might Just Kill Low-End GPUs Soon - Gizmodo",
+      "link": "https://gizmodo.com/amd-ai-max-plus-388-and-ryzen-ai-max-plus-392-cpu-specs-leak-2000681922"
+    },
+    {
       "title": "Black Ops 7 Preload And Release Times Revealed, Along With ROG Xbox Ally Details - Pure Xbox",
       "link": "https://www.purexbox.com/news/2025/11/black-ops-7-preload-and-release-times-revealed-along-with-rog-xbox-ally-details"
     },
     {
+      "title": "Football Manager 26 is getting ripped apart by fans and Game Pass subscribers alike - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/football-manager-26-backlash"
+    },
+    {
+      "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2 - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/"
+    },
+    {
+      "title": "PlayStation 5 Cross-Buy Graphic Spotted, Sparking Hope That Sony Will Finally Introduce Dual PS5 And PC Purchases - IGN",
+      "link": "https://www.ign.com/articles/playstation-5-cross-buy-graphic-spotted-sparking-hope-that-sony-will-finally-introduce-dual-ps5-and-pc-purchases"
+    },
+    {
       "title": "Here Is The 2025 Game Of The Year \u2018Shortlist\u2019 Of 11 Games - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/11/05/here-is-the-2025-game-of-the-year-shortlist-of-11-games/"
+    },
+    {
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "link": "https://www.marvelrivals.com/gameupdate/20251105/41548_1269153.html"
     },
     {
       "title": "Battlefield 6 challenges are being made far easier following intense community feedback - Eurogamer",
@@ -32,10 +68,6 @@
       "link": "https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/"
     },
     {
-      "title": "Cloud streaming finally arrives on the PlayStation Portal - The Verge",
-      "link": "https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming"
-    },
-    {
       "title": "We now have a Nintendo Store app for iOS and Android - The Verge",
       "link": "https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop"
     },
@@ -44,130 +76,90 @@
       "link": "https://www.androidauthority.com/new-smartphone-brand-us-market-3613145/"
     },
     {
-      "title": "Former Meta employees launch Sandbar, a smart ring that takes voice notes and controls music - TechCrunch",
-      "link": "https://techcrunch.com/2025/11/05/former-meta-employees-launch-sandbar-a-smart-ring-that-takes-voice-notes-and-controls-music/"
+      "title": "Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts - WIRED",
+      "link": "https://www.wired.com/story/sandbar-stream-smart-ring/"
     },
     {
-      "title": "Leaked Cross-Buy Icon on PS5 Hints at Mysterious Pro-Consumer Move from Sony - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/11/leaked-cross-buy-icon-on-ps5-hints-at-mysterious-pro-consumer-move-from-sony"
+      "title": "Baldur's Gate 3 custom campaign mod Path to Menzoberranzan's now targeting a first playable alpha release in the first half of 2026 - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-path-to-menzoberranzans-now-targeting-a-first-playable-alpha-release-in-the-first-half-of-2026"
     },
     {
-      "title": "Mortal Kombat: Legacy Kollection patch notes for new update to lower input lag, improve online and more - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/nov/04/mortal-kombat-kollection-patch-notes/"
-    },
-    {
-      "title": "Unreal Pixel 10 Pro discounts are now live ahead of Black Friday - Android Police",
-      "link": "https://www.androidpolice.com/pixel-10-series-sees-best-discounts-before-black-friday/"
-    },
-    {
-      "title": "Google has a \u2018moonshot\u2019 plan for AI data centers in space - The Verge",
-      "link": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
-    },
-    {
-      "title": "Apple Reportedly Planning Cheaper Macs to Compete With Budget Chromebooks, PCs - CNET",
-      "link": "https://www.cnet.com/tech/computing/apple-reportedly-planning-cheaper-macs-to-compete-with-budget-chromebooks-pcs/"
-    },
-    {
-      "title": "Valve will finally turn off the Steam Deck\u2019s screen while it\u2019s downloading games - The Verge",
-      "link": "https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off"
-    },
-    {
-      "title": "New HDR10+ Advanced standard will try to fix the soap opera effect - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/"
-    },
-    {
-      "title": "iOS 26.1 Update Offers Liquid Glass Controls, Bevy of Handy New Features - PCMag",
-      "link": "https://www.pcmag.com/news/ios-26-1-update-offers-liquid-glass-controls-bevy-of-handy-new-features"
-    },
-    {
-      "title": "14 Essential Tips For Getting Started In Arc Raiders - Kotaku",
-      "link": "https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174"
-    },
-    {
-      "title": "Flat2VR Studios Is Releasing Four PlayStation VR2 Games This Month - UploadVR",
-      "link": "https://www.uploadvr.com/flat2vr-playstation-vr2-day-2025/"
+      "title": "Galaxy S26 Ultra to revive the series' original identity with rounder corners - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s26-ultra-to-revive-the-series-original-identity-with-rounder-corners/"
     }
   ],
   "sports_news": [
     {
-      "title": "IMPACT: Cowboys outlook after Quinnen Williams, Logan Wilson trades - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/impact-cowboys-outlook-after-quinnen-williams-logan-wilson-trades"
+      "title": "Cowboys leave NFL world in shock over Quinnen Williams trade: \u2018F\u2013king bonkers\u2019 - New York Post",
+      "link": "https://nypost.com/2025/11/05/sports/cowboys-stun-nfl-world-with-quinnen-williams-trade/"
+    },
+    {
+      "title": "Commanders meeting Wednesday to discuss plan for Jayden Daniels - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-meeting-wednesday-to-discuss-plan-for-jayden-daniels"
+    },
+    {
+      "title": "Bill Belichick, Tom Coughlin among coaching semifinalists for the Pro Football Hall of Fame - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-tom-coughlin-among-coach-semifinalists-for-pro-football-hall-of-fame"
+    },
+    {
+      "title": "College football betting: Will BYU-Texas Tech be a shootout? - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/46848283/college-football-betting-2025-how-bet-byu-cougars-texas-tech-red-raiders"
+    },
+    {
+      "title": "Darren Mougey: Jets made the Sauce Gardner contract \"tradeable\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darren-mougey-jets-made-the-sauce-gardner-contract-tradeable"
+    },
+    {
+      "title": "Big Brain Vincent Kompany foresaw Bayern Munich\u2019s red card against PSG - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-champions-league/146757/vincent-kompany-bayern-munich-red-card-psg-ucl-luis-diaz"
     },
     {
       "title": "Braves To Exercise Club Option On Chris Sale - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/11/braves-to-exercise-club-option-on-chris-sale.html"
     },
     {
-      "title": "Report: Deion Sanders demoted offensive coordinator Pat Shurmur - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-deion-sanders-demoted-offensive-coordinator-pat-shurmur"
+      "title": "Ja Morant Trade Market Reportedly Monitored by T-Wolves, Kings amid NBA Rumors - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25283817-ja-morant-trade-market-reportedly-monitored-t-wolves-kings-amid-nba-rumors"
     },
     {
       "title": "2026 NFL Mock Draft: Post-trade deadline edition - PFF",
       "link": "https://www.pff.com/news/draft-2026-nfl-mock-draft-post-trade-deadline-edition"
     },
     {
-      "title": "The Bilas Index: Jay Bilas picks his top 68 teams this season - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/46849241/jay-bilas-index-mens-college-basketball-rankings-top-teams-2025-26"
+      "title": "Game Preview: Patriots at Buccaneers - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/game-preview-buccaneers-at-patriots-nfl-week10"
+    },
+    {
+      "title": "Nate Diaz announces he\u2019s \u2018accepted\u2019 Jake Paul rematch - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/453559/nate-diaz-announces-hes-accepted-jake-paul-rematch"
     },
     {
       "title": "6 takeaways from Howie Roseman's post trade deadline press conference - PhillyVoice",
       "link": "https://www.phillyvoice.com/6-takeaways-howie-roseman-post-trade-deadline-press-conference-myles-garrett-micah-parsons-aj-brown/"
     },
     {
-      "title": "Lions mailbag: Why didn\u2019t Detroit make moves at the NFL trade deadline? - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-mailbag/147716/detroit-lions-mailbag-why-no-nfl-trade-deadline-moves"
+      "title": "B.J. Penn arrested for 6th time this year - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/453528/b-j-penn-arrested-for-6th-time-in-2025-after-alleged-assault-in-hawaii"
     },
     {
-      "title": "Jets GM Darren Mougey rejects talk of 'teardown' after trade deadline deals - NFL.com",
-      "link": "https://www.nfl.com/news/jets-gm-darren-mougey-rejects-talk-teardown-trade-deadline-deals"
+      "title": "Seahawks waive safety to make room for Rashid Shaheed - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-news/154162/seahawks-waive-safety-jerrick-reed-ii-rashid-shaheed-trade-nfl-news"
     },
     {
-      "title": "The Jets\u2019 jaw-dropping trade deadline leaves behind a brutal truth - New York Post",
-      "link": "https://nypost.com/2025/11/05/sports/the-jets-jaw-dropping-trade-deadline-leaves-behind-a-brutal-truth/"
+      "title": "Deion Sanders makes personnel move that likely signals end of $850,000 Colorado Buffs football coach\u2019s tenure - Yahoo Sports",
+      "link": "https://www.sportingnews.com/us/ncaa-football/colorado/news/deion-sanders-makes-personnel-move-likely-signals-end-850000-colorado-buffs-football-coachs-tenure/ac3906ee5c519d9c3e620fe2"
+    },
+    {
+      "title": "Why the Jets\u2019 stunning trade deadline was a gamble they didn\u2019t have to take - New York Post",
+      "link": "https://nypost.com/2025/11/05/sports/why-jets-stunning-trade-deadline-was-an-unnecessary-gamble/"
     },
     {
       "title": "First Call: Steelers reportedly outbid for Jakobi Meyers; Chargers get offensive line help - TribLIVE.com",
       "link": "https://triblive.com/sports/first-call-steelers-reportedly-outbid-for-jakobi-meyers-chargers-get-offensive-line-help/"
     },
     {
-      "title": "7 winners and losers from the Patriots\u2019 trade deadline inactivity - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-opinion/113511/nfl-trade-deadline-2025-winners-losers"
-    },
-    {
-      "title": "\u2018Fight accepted\u2019\u2026 Jake Paul\u2019s next opponent seemingly confirmed despite recent update - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/11/05/fight-accepted-jake-pauls-next-opponent-seemingly-confirmed-despite-recent-update/"
-    },
-    {
-      "title": "Suns get back to struggle of early deficits in loss to Warriors - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/suns-warriors/3601278/"
-    },
-    {
-      "title": "Tom Brady reveals his dog is a clone of a family pet who died in 2023 - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/11/04/tom-brady-dog-clone/"
-    },
-    {
-      "title": "KSR's top takeaways from Kentucky's season-opening win over Nicholls - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/ksrs-top-takeaways-from-kentuckys-season-opening-win-over-nicholls/"
-    },
-    {
-      "title": "Breaking down the initial College Football Playoff rankings: So, it\u2019s all about vibes? - NBC Sports",
-      "link": "https://www.nbcsports.com/college-football/news/breaking-down-the-initial-college-football-playoff-rankings-so-its-all-about-vibes"
-    },
-    {
-      "title": "Bulls 113-111 76ers (Nov 4, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810022"
-    },
-    {
-      "title": "Commanders' Luvu won't be suspended, NFL says - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46853462/washington-commanders-lb-frankie-luvu-suspended"
-    },
-    {
-      "title": "Referee Manuel Gr\u00e4fe analyzes Luis Diaz red card from Bayern Munich\u2019s 2-1 win at PSG - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-injuries/146785/referee-manuel-grafe-analyzes-luis-diaz-red-card-from-bayern-munichs-2-1-win-at-psg"
-    },
-    {
-      "title": "Former UFC star B.J. Penn arrested, charged with assault in Hilo - KITV",
-      "link": "https://www.kitv.com/news/former-ufc-star-b-j-penn-arrested-charged-with-assault-in-hilo/article_9d56a484-a494-4ed8-82e4-35405c5919a7.html"
+      "title": "College Football Playoff committee makes clear it will use the 'eye test' to sort out contenders - Newsday",
+      "link": "https://www.newsday.com/sports/college/college-football/college-football-playoff-s99755"
     }
   ],
   "weather": {
