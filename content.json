@@ -1,9 +1,9 @@
 {
-  "quote": "From the errors of others, a wise man corrects his own. \u2013 Publilius Syrus",
-  "fact": "The name Wendy was made up for the book \"Peter Pan.\"",
-  "crypto": "BTC: $104,715 | ETH: $3,570.62",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call an Argentinian with a rubber toe? Roberto",
+  "quote": "For things to change, you have to change. \u2013 Jim Rohn",
+  "fact": "Warren Beatty and Shirley McLaine are brother and sister.",
+  "crypto": "BTC: $105,807 | ETH: $3,630.03",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,22 @@
   "bing_background": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Blue Origin will \u2018move heaven and Earth\u2019 to help NASA reach the Moon faster, CEO says - Ars Technica",
+      "link": "https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/"
+    },
+    {
+      "title": "The team behind Blue Prince puts out a call to get one of the puzzle game's devs a life-saving kidney - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/the-team-behind-blue-prince-puts-out-a-call-to-get-one-of-the-puzzle-games-devs-a-life-saving-kidney"
+    },
+    {
+      "title": "Lamborghini Unveils Temerario Super Trofeo - Sportscar365",
+      "link": "https://sportscar365.com/industry/lamborghini-unveils-temerario-super-trofeo/"
+    },
+    {
+      "title": "BioWare\u2019s Cryptic \u2018Mass Effect 5 \u2018 Art is Building the Game\u2019s Story - Gizmodo",
+      "link": "https://gizmodo.com/biowares-cryptic-mass-effect-5-art-is-building-the-games-story-2000683272"
+    },
     {
       "title": "Half-Life fans believe they've worked out a possible announcement date for Half-Life 3 - and it's very, very soon - Eurogamer",
       "link": "https://www.eurogamer.net/half-life-fans-believe-theyve-worked-out-a-possible-announcement-date-for-half-life-3-and-its-very-very-soon"
@@ -28,71 +44,103 @@
       "link": "https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back"
     },
     {
+      "title": "5 Apple CarPlay Widgets You Should Install ASAP - SlashGear",
+      "link": "https://www.slashgear.com/2015612/apple-carplay-widgets-install-now/"
+    },
+    {
+      "title": "Top 7 features in Windows 11\u2019s November 11, 2025, update \u2014 AI, Start menu, and more - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/top-7-features-coming-on-windows-11-with-the-november-2025-update"
+    },
+    {
       "title": "Sims streamers are distancing themselves from EA, but for some the choice is hard - The Verge",
       "link": "https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie"
+    },
+    {
+      "title": "Mortal Kombat: Legacy Kollection Hotfix 110525 patch notes - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/nov/08/mk-legacy-kollection-hotfix-110525/"
     },
     {
       "title": "The Apple Watch SE 3 and Lego\u2019s Star Wars Advent Calendar are our favorite deals this week - The Verge",
       "link": "https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale"
     },
     {
-      "title": "Historic Westchester Waterfront Mansion Hits the Market for $23 Million After Five-Year Transformation - Realtor.com",
-      "link": "https://www.realtor.com/news/unique-homes/historic-westchester-waterfront-mansion-lists-for-23-million/"
+      "title": "Is Polestar Coming to Gran Turismo? - GTPlanet",
+      "link": "https://www.gtplanet.net/polestar-coming-gran-turismo-20251108/"
+    },
+    {
+      "title": "SF tech founders go to finishing school \u2014 and Garry Tan does not approve - The San Francisco Standard",
+      "link": "https://sfstandard.com/2025/11/08/sf-tech-founders-go-finishing-school-garry-tan-does-approve/"
+    },
+    {
+      "title": "Public outrage amid Palworld lawsuit likely influenced new scrutiny of Nintendo's Pokemon patent, IP expert speculates, but it's debatable if giving that power to \"people on the internet\" who \"scream loudly\" is good - GamesRadar+",
+      "link": "https://www.gamesradar.com/games/pokemon/public-outrage-amid-palworld-lawsuit-likely-influenced-new-scrutiny-of-nintendos-pokemon-patent-ip-expert-speculates-but-its-debatable-if-giving-that-power-to-people-on-the-internet-who-scream-loudly-is-good/"
+    },
+    {
+      "title": "This Windows folder on my computer hoarded 80 GB of junk \u2014 you might want to check yours - MakeUseOf",
+      "link": "https://www.makeuseof.com/this-windows-folder-hoarded-80-gb-of-junk/"
+    },
+    {
+      "title": "Samsung Galaxy S26 Is Going To Be Noticeably Slimmer Than The S25 - Wccftech",
+      "link": "https://wccftech.com/samsung-galaxy-s26-is-going-to-be-noticeably-slimmer-than-the-s25/"
     },
     {
       "title": "Microsoft reportedly readies Windows 11 26H1 for Snapdragon X2 and NVIDIA N1X platforms - VideoCardz.com",
       "link": "https://videocardz.com/newz/microsoft-reportedly-readies-windows-11-26h1-for-snapdragon-x2-and-nvidia-n1x-platforms"
     },
     {
-      "title": "Turns out Halo Infinite isn't infinite at all as Halo Studios ends active development after just four years - Eurogamer",
-      "link": "https://www.eurogamer.net/turns-out-halo-infinite-isnt-infinite-at-all-as-halo-studios-ends-active-development-after-just-four-years"
-    },
-    {
-      "title": "My hopes for the planned Warhammer MMO have just been dashed as its developer confirms NetEase has pulled the plug - PCGamesN",
-      "link": "https://www.pcgamesn.com/warhammer-mmo-netease-partnership-ends"
-    },
-    {
-      "title": "roadmap-2026 - Hunt: Showdown",
-      "link": "https://www.huntshowdown.com/detailed"
-    },
-    {
-      "title": "Blended wings: The sci-fi aircraft concept that could appear at an airport near you - BBC",
-      "link": "https://www.bbc.com/future/article/20251107-blended-wings-the-sci-fi-look-that-may-shape-tomorrows-airliners"
-    },
-    {
-      "title": "Google Maps to be Upgraded with Gemini AI, Here\u2019s Why! - Gulte",
-      "link": "https://www.gulte.com/trends/380927/google-maps-to-be-upgraded-with-gemini-ai-heres-why"
-    },
-    {
-      "title": "Dragon Ball: Sparking! ZERO Switch Update For \"Enhanced Version\" On Switch 2 Outlined - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/11/dragon-ball-sparking-zero-switch-update-for-enhanced-version-on-switch-2-outlined"
-    },
-    {
-      "title": "Galaxy S27 Ultra may finally have a key security feature iPhones have had for years - PhoneArena",
-      "link": "https://www.phonearena.com/news/galaxy-s27-ultra-may-finally-have-a-key-security-feature-iphones-have-had-for-years_id175565"
-    },
-    {
-      "title": "Arc Raiders And 3 Great Games We Can\u2019t Wait To Get Back To - Kotaku",
-      "link": "https://kotaku.com/kotaku-games-to-play-arc-raiders-bf6-dispatch-dragon-quest-2000642229"
-    },
-    {
-      "title": "Best Buy Week 2 Black Friday Doorbusters now live! Galaxy S25 Ultra $400 off, Samsung TV $1,100 off, more - 9to5Toys",
-      "link": "http://9to5toys.com/2025/11/07/best-buy-week-2-black-friday-doorbusters-live/"
-    },
-    {
-      "title": "Brain Decoder Translates Visual Thoughts Into Text - Neuroscience News",
-      "link": "https://neurosciencenews.com/brain-decoder-translates-visual-thoughts-into-text/"
-    },
-    {
-      "title": "OpenAI\u2019s new web browser has ChatGPT baked in. That\u2019s raising some privacy questions - NPR",
-      "link": "https://www.npr.org/2025/11/07/nx-s1-5597010/openai-atlas-browser-chatgpt-data-privacy"
-    },
-    {
-      "title": "iOS 26.2: All the new features coming to your iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/07/ios-26-2-new-features-iphone/"
+      "title": "The underrated Pixel setting that fixed my phone's battery anxiety - Android Police",
+      "link": "https://www.androidpolice.com/goodbye-battery-anxiety/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Alabama vs. LSU live updates, score, game analysis and highlights - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/alabama-lsu-live-updates-score-results-analysis/live/"
+    },
+    {
+      "title": "Missouri football suffers blowout loss to Texas A&M in must-win spot - Columbia Daily Tribune",
+      "link": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2025/11/08/missouri-football-vs-texas-am-score-live-updates-highlights/86929626007/"
+    },
+    {
+      "title": "Leistikow's 5 thoughts from Iowa football's crushing, last-second loss vs Oregon - Hawk Central",
+      "link": "https://www.hawkcentral.com/story/sports/college/iowa/football/2025/11/08/iowa-football-oregon-leistikow-thoughts-hawkeyes/87059101007/"
+    },
+    {
+      "title": "Deion Sanders, Colorado won\u2019t be eligible for a bowl game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-colorado-wont-be-eligible-for-a-bowl-game"
+    },
+    {
+      "title": "NFL predictions, picks for Week 10 slate - nypost.com",
+      "link": "https://nypost.com/2025/11/08/betting/nfl-predictions-picks-for-week-10-slate/"
+    },
+    {
+      "title": "Advertising boards & chaos - how Sunderland stopped Arsenal machine - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/clykxq76122o"
+    },
+    {
+      "title": "UFC Fight Night Results: Bonfim vs. Brown - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/454047/ufc-fight-night-results-bonfim-vs-brown"
+    },
+    {
+      "title": "Rico Dowdle fined $14,491 for \"two-pump\" celebration - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-fined-14-491-for-two-pump-celebration"
+    },
+    {
+      "title": "White House says Washington Commanders naming new stadium after Trump would be \"beautiful\" - CBS News",
+      "link": "https://www.cbsnews.com/news/washington-commanders-new-stadium-after-trump/"
+    },
+    {
+      "title": "Fernando Mendoza's Heisman heroics, Omar Cooper Jr.'s toe-tap catch rescue No. 2 Indiana at Penn State - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/fernando-mendozas-heisman-heroics-omar-cooper-jrs-toe-tap-catch-rescue-no-2-indiana-at-penn-state-203919661.html"
+    },
+    {
+      "title": "Novak Djokovic Makes History, Breaks Roger Federer's Hard Court Men's Titles Record - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25286806-novak-djokovic-makes-history-breaks-roger-federers-hard-court-mens-titles-record"
+    },
+    {
+      "title": "Guilty plea is entered in crash that killed Vikings CB Khyree Jackson - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/guilty-plea-is-entered-in-crash-that-killed-vikings-cb-khyree-jackson"
+    },
     {
       "title": "Seahawks Place Jarran Reed On Injured Reserve & Other Roster Moves Ahead Of Week 10 vs. Cardinals - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/seahawks-place-jarran-reed-on-injured-reserve-other-roster-moves-ahead-of-week-10-vs-cardinals"
@@ -102,68 +150,28 @@
       "link": "https://www.packers.com/news/packers-eagles-injury-report-week-10-nov-8-2025"
     },
     {
+      "title": "Seahawks vs. Cardinals: NFL TV Week 10 coverage map and CBS commentators - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-game-information/154406/seahawks-vs-cardinals-nfl-tv-week-10-coverage-map-cbs-commentators"
+    },
+    {
+      "title": "Mast's Triple-Double, Sandfort's Offensive Outburst Lead Nebrasketball Past FIU - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/basketball/mast-s-triple-double-sandfort-s-offensive-outburst-lead-nebrasketball-past-fiu-2025"
+    },
+    {
       "title": "Report: Google, Disney are negotiating today to restore ESPN to YouTube TV - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-google-disney-are-negotiating-today-to-restore-espn-to-youtube-tv"
     },
     {
-      "title": "No. 2 Indiana survives thriller vs Penn State with incredible Omar Cooper Jr. catch - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/bigten/2025/11/08/indiana-win-penn-state-omar-cooper-jr-touchdown-catch-curt-cignetti/87170372007/"
-    },
-    {
-      "title": "3 takeaways from BYU\u2019s loss to Texas Tech - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/11/08/byu-cougars-football-loss-texas-tech-2025-3-takeaways/"
+      "title": "Kirby Smart gives the latest on Lawson Luckie after scary targeting hit - DawgNation",
+      "link": "https://www.DawgNation.com/football/kirby-smart-gives-latest-lawson-luckie-after-scary-targeting-hit/AG5LLMOLKBFUXLRSS6GNGNKH4U/"
     },
     {
       "title": "How Brock Purdy\u2019s role changed this week as the 49ers prepared for the Rams - Niners Nation",
       "link": "https://www.ninersnation.com/san-francisco-49ers-news/152592/san-francisco-49ers-news-brock-purdy-role-changed-this-week-los-angeles-rams-matthew-stafford"
     },
     {
-      "title": "College football scores, live updates and highlights in Week 11 - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-11-ncaa-top-25-games-today/live/"
-    },
-    {
-      "title": "Musetti to compete in Nitto ATP Finals following Djokovic's withdrawal - ATP Tour",
-      "link": "https://www.atptour.com/en/news/musetti-djokovic-nitto-atp-finals-2025-news"
-    },
-    {
       "title": "Norris on pole in Sao Paulo as Verstappen exits in Q1 - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/norris-grabs-pole-position-in-sao-paulo-ahead-of-antonelli-and-leclerc-as.51zXqPIrqvKIKuvCL6CAgp"
-    },
-    {
-      "title": "St. John\u2019s fails first test as rally falls short in upset loss to No. 15 Alabama - New York Post",
-      "link": "https://nypost.com/2025/11/08/sports/st-johns-fails-first-test-in-upset-loss-to-no-15-alabama/"
-    },
-    {
-      "title": "Driver pleads guilty in death of Vikings rookie - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46894146/driver-caused-death-khyree-jackson-pleads-guilty"
-    },
-    {
-      "title": "Chelsea vs. Wolves, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/premier-league/163484/chelsea-vs-wolves-premier-league-confirmed-lineups-how-to-watch"
-    },
-    {
-      "title": "West Ham 'take small step' with win after 10,000 fans protest - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cvgkezg4d3mo"
-    },
-    {
-      "title": "Five Observations from Bayern Munich\u2019s docile 2-2 draw against Union Berlin - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/147477/observations-match-analysis-bayern-munich-docile-draw-against-union-berlin-bundesliga"
-    },
-    {
-      "title": "QB Kyler Murray's future with Cardinals in question with offseason decision looming - NFL.com",
-      "link": "https://www.nfl.com/news/qb-kyler-murray-future-with-cardinals-in-question"
-    },
-    {
-      "title": "Thomas Frank admits one Tottenham star 'struggled a bit' against Man United and gives Romero update - Football London",
-      "link": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-admits-one-tottenham-32838134"
-    },
-    {
-      "title": "Greg Ellis regrets not keeping in closer contact with Marshawn Kneeland - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-ellis-regrets-not-keeping-in-closer-contact-with-marshawn-kneeland"
-    },
-    {
-      "title": "Pre-Snap Reads 11/8: Seahawks, Uchenna Nwosu prepare for the occasion - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-news/154373/pre-snap-reads-11-8-seahawks-uchenna-nwosu-prepare-for-the-occasion"
     }
   ],
   "weather": {
