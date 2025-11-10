@@ -1,9 +1,9 @@
 {
-  "quote": "Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. \u2013 John Lennon",
-  "fact": "Every day, 7% of the US eats at McDonald\u2019s.",
-  "crypto": "BTC: $105,000 | ETH: $3,521.62",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
+  "quote": "Surround yourself with only people who are going to lift you higher.  \u2013 Oprah Winfrey",
+  "fact": "Crocodiles and alligators are surprisingly fast on land.\u00a0 Although they are rapid, they are not agile.\u00a0 So, if being chased by one, run in a zigzag line to lose him or her.",
+  "crypto": "BTC: $105,296 | ETH: $3,525.72",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Mass Effect TV Series Won't Retread Shepard's Story And Will Be Set After The Original Trilogy - IGN",
+      "link": "https://www.ign.com/articles/mass-effect-tv-series-wont-retread-shepards-story-and-will-be-set-after-the-original-trilogy"
+    },
+    {
+      "title": "Mechanic goes to work on 1968 Mustang GT 390 4-Speed before making startling realization about the car - supercarblondie.com",
+      "link": "https://supercarblondie.com/mechanic-1968-mustang-gt-390-4-speed-startling-realization/"
+    },
+    {
+      "title": "The tale of the Fire Phone, Amazon\u2019s very strange smartphone - The Verge",
+      "link": "https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history"
+    },
+    {
+      "title": "Deck out your tree with ornaments of retro consoles, movie moments, and more - The Verge",
+      "link": "https://www.theverge.com/tech/811614/best-christmas-ornaments-2025"
+    },
+    {
+      "title": "Shigeru Miyamoto discusses his current involvement with Mario games and more - Nintendo Everything",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYS1WeXNGTzBjRjc3aWNuS0xCd0Z4Z25JeEh0Uy1jVGNPX05RV2xPUFFTVEFRYUx2ejNOeVpKUjdBQXJxT19TUWpxYV8xRmxyUS1EQ1Baa3BkN2NTTmhURmNCdFJ5QURQT0xYYmxqTVp4U2V0ZTR5SFUtUFplampabXA3MzVrSFFVSlpfeTJkcDJneHBaLThWX2RFYk9QZ2c3c21VclJTS0tSZ3oz?oc=5"
+    },
+    {
       "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions - Phoronix",
       "link": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext"
     },
     {
-      "title": "Players slam Battlefield 6 XP cap: \"EA managed to make progression time-gated in a premium game, and nobody's talking about it\" - Eurogamer",
-      "link": "https://www.eurogamer.net/players-slam-battlefield-6-xp-cap-ea-managed-to-make-progression-time-gated-in-a-premium-game-and-nobodys-talking-about-it"
-    },
-    {
       "title": "Fitbit redesign brings Material 3 Expressive overhaul - 9to5Google",
       "link": "http://9to5google.com/2025/11/09/fitbit-material-3-expressive/"
+    },
+    {
+      "title": "65daysofstatic\u2019s new No Man\u2019s Sky album searches for humanity in an AI-filled world - The Verge",
+      "link": "https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic"
     },
     {
       "title": "Report: OLED MacBook Pro redesign may be exclusive to M6 Pro and M6 Max models - 9to5Mac",
@@ -32,63 +52,75 @@
       "link": "https://www.eurogamer.net/fromsofts-parent-company-reveals-well-get-elden-ring-nightreign-dlc-by-march"
     },
     {
+      "title": "Future of Apple Fitness+ 'Under Review' - MacRumors",
+      "link": "https://www.macrumors.com/2025/11/09/future-of-apple-fitness-under-review/"
+    },
+    {
       "title": "Pok\u00e9mon GO Events This Week: November 10 to November 16, 2025 - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-10-to-november-16-2025/"
     },
     {
-      "title": "18 People Whose Lives Got Completely And Totally Blown Up By The Consequences Of Their Unfortunate Decisions Last Week - buzzfeed.com",
-      "link": "https://www.buzzfeed.com/daves4/tough-week-nov-9-2025"
+      "title": "Apple Plans Major New Satellite-Powered Features for iPhones - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2025-11-09/apple-iphone-satellite-plans-image-texting-third-party-apps-low-cost-macbook-mhrq10p2"
     },
     {
       "title": "Ikea just took over your smart home - The Verge",
       "link": "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home"
     },
     {
+      "title": "Ex-mining and PS5-based AMD BC250 board runs GTA V and Cyberpunk 2077 for around $120 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/ex-mining-and-ps5-based-amd-bc250-board-runs-gta-v-and-cyberpunk-2077-for-around-120"
+    },
+    {
       "title": "12 apps I urge non-techies to install on their Android phones - Android Authority",
       "link": "https://www.androidauthority.com/best-android-apps-for-non-techies-3613550/"
+    },
+    {
+      "title": "This Android 17 could be the best feature of the year - Android Police",
+      "link": "https://www.androidpolice.com/im-more-excited-about-this-android-17-feature/"
     },
     {
       "title": "Hyrule Warriors: Age Of Imprisonment Voice Actors Officially Revealed - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-voice-actors-officially-revealed"
     },
     {
-      "title": "Amazon Is Selling Popular Casio Watches for 40% Off: \u20181/5 The Cost of a G-Shock\u2019 - Athlon Sports",
-      "link": "https://athlonsports.com/deals/casio-illuminator-series-mens-digital-watch-amazon-sale"
-    },
-    {
-      "title": "This Week in Gaming (Week 46) - TechPowerUp",
-      "link": "https://www.techpowerup.com/342747/this-week-in-gaming-week-46"
-    },
-    {
-      "title": "LAST DAY \u2013 Best Buy Week 2 Black Friday Doorbusters: Galaxy S25 Ultra $400 off, Samsung TV $1,100 off, more - 9to5Toys",
-      "link": "http://9to5toys.com/2025/11/09/best-buy-week-2-black-friday-doorbusters-live/"
-    },
-    {
-      "title": "This $14 Firming Cream \"Tightens Up\" Skin So Well, Shoppers Say They Have \u201cNo More Turkey Neck\u201d - instyle.com",
-      "link": "https://www.instyle.com/dermactin-crepe-be-gone-souffle-body-lotion-amazon-11846152"
-    },
-    {
-      "title": "Nintendo talks about the rush to get Metroid Prime 2 finished in just 2 years - Nintendo Everything",
-      "link": "https://nintendoeverything.com/metroid-prime-2-development-interview/"
-    },
-    {
-      "title": "I invested in a portable label printer, and it's already paying off for my office - ZDNET",
-      "link": "https://www.zdnet.com/home-and-office/i-invested-in-a-portable-label-printer-and-its-already-paying-off-for-my-office/"
-    },
-    {
-      "title": "Rumour: New Crash Bandicoot Racing Artwork Has Some Fans Excited - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/11/rumour-new-crash-bandicoot-racing-artwork-has-some-fans-excited"
-    },
-    {
-      "title": "Porsche Is Quietly Designing A Monster W Engine With 18 Cylinders And 3 Turbos - Jalopnik",
-      "link": "https://www.jalopnik.com/2017963/porsche-w-18-cylinder-engine-3-turbos-patent/"
-    },
-    {
-      "title": "4 New Apps Released With iOS 26 & iPadOS 26 That Everyone Should Know About - SlashGear",
-      "link": "https://www.slashgear.com/2017694/new-iphone-and-ipad-apps-ios-and-ipados-26-bought/"
+      "title": "This eerie Netflix thriller made me never want to go to a hospital again - Tom's Guide",
+      "link": "https://www.tomsguide.com/entertainment/netflix/this-eerie-netflix-thriller-made-me-never-want-to-go-to-a-hospital-again"
     }
   ],
   "sports_news": [
+    {
+      "title": "Ex-NFL commissioner Tagliabue dies at age 84 - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46905612/former-nfl-commissioner-paul-tagliabue-dies-age-84"
+    },
+    {
+      "title": "Fit check: USC jersey-swap fake illegal, B1G says - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46905446/big-ten-says-usc-penalized-fake-punt-ploy"
+    },
+    {
+      "title": "At Last, Gus Johnson Meets An Octave He Cannot Defeat - Defector",
+      "link": "https://defector.com/at-last-gus-johnson-meets-an-octave-he-cannot-defeat"
+    },
+    {
+      "title": "Inactives Analysis: Who Fills in for Boutte, Stevenson and Elliss for the Patriots in Sunday's Game vs. the Bucs? - New England Patriots",
+      "link": "https://www.patriots.com/news/inactives-analysis-who-fills-in-for-boutte-stevenson-and-elliss-for-the-patriots-in-sunday-s-game-vs-the-bucs"
+    },
+    {
+      "title": "'That would surely be a beautiful name': White House responds to ESPN report that Trump wants Commanders stadium named after him - Fortune",
+      "link": "https://fortune.com/2025/11/09/trump-commanders-stadium-name-that-would-be-beautiful/"
+    },
+    {
+      "title": "Huskers Hold on in a Hollywood Heyday for EJ and TJ - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/huskers-hold-on-in-a-hollywood-heyday-for-ej-and-tj"
+    },
+    {
+      "title": "Pierre-Luc Dubois to miss next 3 to 4 months after undergoing surgery on abdominal and adductor muscles - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/11/09/pierre-luc-dubois-abdominal-adductor-surgery-miss-3-4-months-capitals/"
+    },
+    {
+      "title": "Julian Sayin Continues Heisman Campaign with Another Laser Show in 34-10 Win for Ohio State Over Purdue - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/college-football/2025/11/159344/social-reactions-julian-sayin-continues-heisman-campaign-with-another-laser-show-34-10-win-for-ohio-state-over-purdue"
+    },
     {
       "title": "NFL asks teams to have moment of silence for Marshawn Kneeland - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-asks-teams-to-have-moment-of-silence-for-marshawn-kneeland"
@@ -98,24 +130,24 @@
       "link": "https://www.bleedinggreennation.com/news/163061/eagles-news-packers-dealing-with-very-concerning-wide-receiver-situation"
     },
     {
-      "title": "Cowboys Included Poison Pill In Micah Parsons Deal To Block Trade To Eagles - NFLTradeRumors.co",
-      "link": "https://nfltraderumors.co/cowboys-included-poison-pill-in-micah-parsons-deal-to-block-trade-to-eagles/"
+      "title": "Cowboys Ensure Micah Parsons Won\u2019t Play for Eagles With Condition in Packers Trade - Sports Illustrated",
+      "link": "https://www.si.com/nfl/cowboys-ensure-micah-parsons-eagles-condition-packers-trade"
     },
     {
-      "title": "Verstappen set to start Sao Paulo GP from pit lane after power unit change - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/verstappen-set-to-start-sao-paulo-gp-from-pit-lane-after-power-unit-change.7KwKhS6w05e3Nz0bXIMAyl"
+      "title": "UFC 322 roundtable: Will Islam Makhachev and Zhang Weili join the champ-champ list? - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc-events-ppv/453614/ufc-322-roundtable-will-islam-makhachev-and-zhang-weili-join-the-champ-champ-list"
+    },
+    {
+      "title": "Max Verstappen to start F1 Brazil GP from pitlane - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-to-start-f1-brazil-gp-from-pitlane/10775295/"
     },
     {
       "title": "CONFIRMED lineups: Rayo Vallecano vs Real Madrid, 2025 La Liga - Managing Madrid",
       "link": "https://www.managingmadrid.com/100437/rayo-vallecano-vs-real-madrid-2025-la-liga-live-online-stream"
     },
     {
-      "title": "Report: Bills tried to trade for Jaylen Waddle, Quinnen Williams - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bills-tried-to-trade-for-jaylen-waddle-quinnen-williams"
-    },
-    {
-      "title": "Florida embarrasses itself in a Kentucky meltdown Gator fans won\u2019t forget - Hail Florida Hail",
-      "link": "https://hailfloridahail.com/florida-embarrasses-itself-in-a-kentucky-meltdown-gator-fans-won-t-forget"
+      "title": "Buffalo Bills made shocking offer for Miami Dolphins star Jaylen Waddle - Syracuse.com",
+      "link": "https://www.syracuse.com/buffalo-bills/2025/11/buffalo-bills-made-shocking-offer-for-miami-dolphins-star-jaylen-waddle.html"
     },
     {
       "title": "Atlanta Falcons inactives vs. Indianapolis Colts - Atlanta Falcons",
@@ -126,40 +158,12 @@
       "link": "https://nypost.com/2025/11/09/sports/heres-how-to-watch-f1-brazilian-grand-prix-2025-live-for-free/"
     },
     {
-      "title": "Lions at Commanders predictions: Expert picks for NFL Week 10 - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/nfl-picks/148026/detroit-lions-washington-commanders-predictions-expert-picks-nfl-week-10"
-    },
-    {
       "title": "What they\u2019re saying nationally, in Iowa City after No. 9 Oregon defeats No. 20 Iowa - OregonLive.com",
       "link": "https://www.oregonlive.com/ducks/2025/11/what-theyre-saying-nationally-in-iowa-city-after-no-9-oregon-defeats-no-20-iowa.html"
     },
     {
-      "title": "Bring on Penn State: Rutgers\u2019 win over Maryland sets up a golden opportunity | Politi - NJ.com",
-      "link": "https://www.nj.com/rutgersfootball/2025/11/bring-on-penn-state-rutgers-win-over-maryland-sets-up-a-golden-opportunity-politi.html"
-    },
-    {
-      "title": "Couch: Coen Carr's performance for MSU basketball against Arkansas began with realizing he could no longer just fit in - Lansing State Journal",
-      "link": "https://www.lansingstatejournal.com/story/sports/columnists/graham-couch/2025/11/09/michigan-state-basketball-coen-carr-realizes-he-can-no-longer-just-fit-in/87178366007/"
-    },
-    {
-      "title": "A \u2018no excuse\u2019 game for Browns? Can Rees make a difference? \u2014 Terry Pluto\u2019s Pregame Scribbles - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/11/a-no-excuse-game-for-browns-can-rees-make-a-difference-terry-plutos-pregame-scribbles.html"
-    },
-    {
-      "title": "#PMARSHONAU: Sunday reflections from Auburn and beyond - 247Sports",
-      "link": "https://247sports.com/college/auburn/longformarticle/auburn-football-dj-durkin-cam-coleman-eric-singleton-ashton-daniels-260800022/"
-    },
-    {
-      "title": "Askarov Makes 38 Saves, Sharks Beat Defending Champs 3-1 - San Jose Hockey Now",
-      "link": "https://sanjosehockeynow.com/san-jose-sharks-florida-panthers-game-notes-16-2/"
-    },
-    {
-      "title": "JJ Redick had a 90-second postgame press conference after blowout loss to Hawks - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/lakers-news/99945/jj-redick-lakers-hawks-postgame-presser-reaction"
-    },
-    {
-      "title": "Trendon Watford continues breakout by posting triple-double in first start as Sixers beat Raptors on debut throwback night - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-vs-raptors-jerseys-court-trendon-watford-stats-tyrese-maxey-joel-embiid-adem-bona-andre-drummond-nick-nurse/"
+      "title": "Jets vs. Browns prediction: NFL Week 10 picks, odds, best bets - New York Post",
+      "link": "https://nypost.com/2025/11/09/betting/jets-vs-browns-prediction-nfl-week-10-picks-odds-best-bets/"
     }
   ],
   "weather": {
