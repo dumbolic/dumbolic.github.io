@@ -1,9 +1,9 @@
 {
-  "quote": "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty. \u2013 Theodore Roosevelt",
-  "fact": "On average people fear spiders more than they do death.",
-  "crypto": "BTC: $106,207 | ETH: $3,576.17",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why are fish easy to weigh? Because they have their own scales.",
+  "quote": "If you do not push the boundaries, you will never know where they are. \u2013 T.S. Eliot",
+  "fact": "The San Francisco Cable cars are the only mobile National Monuments.",
+  "crypto": "BTC: $105,543 | ETH: $3,543.64",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Did you hear about the new restaurant on the moon? The food is great, but there\u2019s just no atmosphere.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Mass Effect TV Series Won't Retread Shepard's Story And Will Be Set After The Original Trilogy - IGN",
-      "link": "https://www.ign.com/articles/mass-effect-tv-series-wont-retread-shepards-story-and-will-be-set-after-the-original-trilogy"
+      "title": "Arc Raiders breaks another concurrent record as player count soars - Eurogamer",
+      "link": "https://www.eurogamer.net/arc-raiders-breaks-another-concurrent-record-as-player-count-soars"
+    },
+    {
+      "title": "Stalker 2 dev strikes down copycat game Misery with DMCA claim - Eurogamer",
+      "link": "https://www.eurogamer.net/stalker-2-dev-strikes-down-copycat-game-misery-with-dmca-claim"
+    },
+    {
+      "title": "Dispatch Lead Developer Says The Team Will \"Think\" About Season 2 - TheGamer",
+      "link": "https://www.thegamer.com/dispatch-adhoc-studios-co-founder-says-team-is-thinking-about-season-2/"
+    },
+    {
+      "title": "Apple reportedly plans ambitious satellite-powered iPhone features - TechCrunch",
+      "link": "https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/"
+    },
+    {
+      "title": "Massive Red Dead Redemption 2 mod \u201cNuevo Para\u00edso\u201d recreates RDR1\u2019s Mexico with expanded world and missions - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Massive-Red-Dead-Redemption-2-mod-Nuevo-Paraiso-recreates-RDR1-s-Mexico-with-expanded-world-and-missions.1159232.0.html"
+    },
+    {
+      "title": "The little known Android keyboard shortcut I use every single day - Android Police",
+      "link": "https://www.androidpolice.com/android-keyboard-shortcut-i-use-every-single-day/"
+    },
+    {
+      "title": "Gemini has made Google Home incredibly smart, except for the dumb mistakes - 9to5Google",
+      "link": "http://9to5google.com/2025/11/09/gemini-google-home-impressions/"
     },
     {
       "title": "Mechanic goes to work on 1968 Mustang GT 390 4-Speed before making startling realization about the car - supercarblondie.com",
       "link": "https://supercarblondie.com/mechanic-1968-mustang-gt-390-4-speed-startling-realization/"
     },
     {
+      "title": "Kingdom Come: Deliverance 2 Veteran Joins The Witcher 4 Team - Game Rant",
+      "link": "https://gamerant.com/witcher-4-kingdom-come-deliverance-sr-quest-designer-dev-karel-kolmann/"
+    },
+    {
       "title": "The tale of the Fire Phone, Amazon\u2019s very strange smartphone - The Verge",
       "link": "https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history"
+    },
+    {
+      "title": "You Can Use Your Old TV As A Smart Mirror - Here's How - bgr.com",
+      "link": "https://www.bgr.com/2014813/how-to-turn-old-tv-into-smart-mirror-raspberry-pi-guide/"
     },
     {
       "title": "Deck out your tree with ornaments of retro consoles, movie moments, and more - The Verge",
@@ -29,141 +61,101 @@
     },
     {
       "title": "Shigeru Miyamoto discusses his current involvement with Mario games and more - Nintendo Everything",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYS1WeXNGTzBjRjc3aWNuS0xCd0Z4Z25JeEh0Uy1jVGNPX05RV2xPUFFTVEFRYUx2ejNOeVpKUjdBQXJxT19TUWpxYV8xRmxyUS1EQ1Baa3BkN2NTTmhURmNCdFJ5QURQT0xYYmxqTVp4U2V0ZTR5SFUtUFplampabXA3MzVrSFFVSlpfeTJkcDJneHBaLThWX2RFYk9QZ2c3c21VclJTS0tSZ3oz?oc=5"
+      "link": "https://nintendoeverything.com/shigeru-miyamoto-discusses-his-current-involvement-with-mario-games-and-more/"
     },
     {
       "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions - Phoronix",
       "link": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext"
     },
     {
-      "title": "Fitbit redesign brings Material 3 Expressive overhaul - 9to5Google",
-      "link": "http://9to5google.com/2025/11/09/fitbit-material-3-expressive/"
+      "title": "Arc Raiders - All Enemies And How To Kill Them - GameSpot",
+      "link": "https://www.gamespot.com/articles/arc-raiders-all-enemies-and-how-to-kill-them/1100-6536073/"
     },
     {
       "title": "65daysofstatic\u2019s new No Man\u2019s Sky album searches for humanity in an AI-filled world - The Verge",
       "link": "https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic"
     },
     {
-      "title": "Report: OLED MacBook Pro redesign may be exclusive to M6 Pro and M6 Max models - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/09/report-oled-macbook-pro-redesign-may-be-exclusive-to-m6-pro-and-m6-max-models/"
+      "title": "I set up a free system monitor that actually tells me why my PC is slow - MakeUseOf",
+      "link": "https://www.makeuseof.com/set-up-free-system-monitor-that-tells-me-why-pc-slow/"
     },
     {
-      "title": "FromSoft's parent company reveals we'll get Elden Ring Nightreign DLC by March - Eurogamer",
-      "link": "https://www.eurogamer.net/fromsofts-parent-company-reveals-well-get-elden-ring-nightreign-dlc-by-march"
-    },
-    {
-      "title": "Future of Apple Fitness+ 'Under Review' - MacRumors",
-      "link": "https://www.macrumors.com/2025/11/09/future-of-apple-fitness-under-review/"
-    },
-    {
-      "title": "Pok\u00e9mon GO Events This Week: November 10 to November 16, 2025 - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-10-to-november-16-2025/"
-    },
-    {
-      "title": "Apple Plans Major New Satellite-Powered Features for iPhones - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2025-11-09/apple-iphone-satellite-plans-image-texting-third-party-apps-low-cost-macbook-mhrq10p2"
-    },
-    {
-      "title": "Ikea just took over your smart home - The Verge",
-      "link": "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home"
-    },
-    {
-      "title": "Ex-mining and PS5-based AMD BC250 board runs GTA V and Cyberpunk 2077 for around $120 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/ex-mining-and-ps5-based-amd-bc250-board-runs-gta-v-and-cyberpunk-2077-for-around-120"
-    },
-    {
-      "title": "12 apps I urge non-techies to install on their Android phones - Android Authority",
-      "link": "https://www.androidauthority.com/best-android-apps-for-non-techies-3613550/"
-    },
-    {
-      "title": "This Android 17 could be the best feature of the year - Android Police",
-      "link": "https://www.androidpolice.com/im-more-excited-about-this-android-17-feature/"
-    },
-    {
-      "title": "Hyrule Warriors: Age Of Imprisonment Voice Actors Officially Revealed - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-voice-actors-officially-revealed"
-    },
-    {
-      "title": "This eerie Netflix thriller made me never want to go to a hospital again - Tom's Guide",
-      "link": "https://www.tomsguide.com/entertainment/netflix/this-eerie-netflix-thriller-made-me-never-want-to-go-to-a-hospital-again"
+      "title": "Adobe Firefly Is the Best-Kept Secret in Generative AI. Here\u2019s How to Use It - WIRED",
+      "link": "https://www.wired.com/story/what-is-adobe-firefly/"
     }
   ],
   "sports_news": [
     {
-      "title": "Ex-NFL commissioner Tagliabue dies at age 84 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46905612/former-nfl-commissioner-paul-tagliabue-dies-age-84"
+      "title": "Live: Updates: Seahawks offense, defense combine for dominant 38-7 lead over Cardinals - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-cardinals-live-updates-score-how-to-watch-nfc-west-battle/"
     },
     {
-      "title": "Fit check: USC jersey-swap fake illegal, B1G says - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/46905446/big-ten-says-usc-penalized-fake-punt-ploy"
+      "title": "MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors - AP News",
+      "link": "https://apnews.com/article/mlb-baseball-gambling-ortiz-clase-a6db1ff46523e2ffa16d84ca427cf7c1"
     },
     {
-      "title": "At Last, Gus Johnson Meets An Octave He Cannot Defeat - Defector",
-      "link": "https://defector.com/at-last-gus-johnson-meets-an-octave-he-cannot-defeat"
+      "title": "Should New York Giants coach Brian Daboll have gone for the touchdown? - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-analysis/144146/should-new-york-giants-coach-brian-daboll-have-gone-for-the-touchdown"
     },
     {
-      "title": "Inactives Analysis: Who Fills in for Boutte, Stevenson and Elliss for the Patriots in Sunday's Game vs. the Bucs? - New England Patriots",
-      "link": "https://www.patriots.com/news/inactives-analysis-who-fills-in-for-boutte-stevenson-and-elliss-for-the-patriots-in-sunday-s-game-vs-the-bucs"
+      "title": "Texans rally from 19-point fourth-quarter deficit for 36-29 win - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-rally-from-19-point-fourth-quarter-deficit-for-36-29-win"
     },
     {
-      "title": "'That would surely be a beautiful name': White House responds to ESPN report that Trump wants Commanders stadium named after him - Fortune",
-      "link": "https://fortune.com/2025/11/09/trump-commanders-stadium-name-that-would-be-beautiful/"
+      "title": "Rapid Recap: Big Plays Power Patriots Victory over Buccaneers, 28-23 - New England Patriots",
+      "link": "https://www.patriots.com/news/rapid-recap-big-plays-power-patriots-victory-over-buccaneers-28-23"
     },
     {
-      "title": "Huskers Hold on in a Hollywood Heyday for EJ and TJ - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/huskers-hold-on-in-a-hollywood-heyday-for-ej-and-tj"
+      "title": "Cleveland Browns vs. New York Jets Live Score and Stats - November 9, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251109_CLE@NYJ/"
     },
     {
-      "title": "Pierre-Luc Dubois to miss next 3 to 4 months after undergoing surgery on abdominal and adductor muscles - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/11/09/pierre-luc-dubois-abdominal-adductor-surgery-miss-3-4-months-capitals/"
+      "title": "Giants completely fall apart after Jaxson Dart concussion in brutal loss to Bears - New York Post",
+      "link": "https://nypost.com/2025/11/09/sports/giants-fall-apart-after-jaxson-dart-concussion-in-loss-to-bears/"
     },
     {
-      "title": "Julian Sayin Continues Heisman Campaign with Another Laser Show in 34-10 Win for Ohio State Over Purdue - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/college-football/2025/11/159344/social-reactions-julian-sayin-continues-heisman-campaign-with-another-laser-show-34-10-win-for-ohio-state-over-purdue"
+      "title": "Caleb Williams leads late comeback in Chicago, Giants lose Jaxson Dart and the game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-leads-late-comeback-in-chicago-giants-lose-jaxson-dart-and-the-game"
     },
     {
-      "title": "NFL asks teams to have moment of silence for Marshawn Kneeland - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-asks-teams-to-have-moment-of-silence-for-marshawn-kneeland"
+      "title": "YouTube TV offers $20 credit to customers (which likely means no Monday Night Football, again) - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-tv-offers-20-credit-to-customers-which-likely-means-no-monday-night-football-again"
     },
     {
-      "title": "Eagles News: Packers dealing with \u201cvery concerning\u201d wide receiver situation - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/163061/eagles-news-packers-dealing-with-very-concerning-wide-receiver-situation"
+      "title": "Amid search for answers in Marshawn Kneeland\u2019s death, his family shares how he lived - Dallas News",
+      "link": "https://www.dallasnews.com/news/investigations/2025/11/09/dallas-cowboys-marshawn-kneeland-family-death-details-girlfriend/"
     },
     {
-      "title": "Cowboys Ensure Micah Parsons Won\u2019t Play for Eagles With Condition in Packers Trade - Sports Illustrated",
-      "link": "https://www.si.com/nfl/cowboys-ensure-micah-parsons-eagles-condition-packers-trade"
+      "title": "NFL Week 10 live updates: Scores, injuries, analysis, highlights - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-week-10-live-updates-scores-injuries-highlights-results/live/"
     },
     {
-      "title": "UFC 322 roundtable: Will Islam Makhachev and Zhang Weili join the champ-champ list? - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc-events-ppv/453614/ufc-322-roundtable-will-islam-makhachev-and-zhang-weili-join-the-champ-champ-list"
+      "title": "At the Buzzer: Indiana 100, Marquette 77 - Inside the Hall",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSG9TenZVUEY3aUdtaUlBS0F4R3oxVlctWWhCS3VENzN4VnhYemlobVRraWg4RS1vU2NLZnoyVEdhODZleVI5dERkUkk3bkRPbjNUUV9RX0l2SEJlV1AyR3RtR25LRldNRzhqcXlDWDBrMWQ1OW1CUTNsWlp4YjlpN0Q5dXlONjQ?oc=5"
     },
     {
-      "title": "Max Verstappen to start F1 Brazil GP from pitlane - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-to-start-f1-brazil-gp-from-pitlane/10775295/"
+      "title": "Saints vs. Panthers live reaction and analysis - NewOrleans.Football",
+      "link": "https://neworleans.football/2025/11/09/live/saints-panthers-week-10"
     },
     {
-      "title": "CONFIRMED lineups: Rayo Vallecano vs Real Madrid, 2025 La Liga - Managing Madrid",
-      "link": "https://www.managingmadrid.com/100437/rayo-vallecano-vs-real-madrid-2025-la-liga-live-online-stream"
+      "title": "INACTIVES: Lions at Commanders - DetroitLions.com",
+      "link": "https://www.detroitlions.com/news/inactives-lions-at-commanders-joseph-oconnor-saylors"
     },
     {
-      "title": "Buffalo Bills made shocking offer for Miami Dolphins star Jaylen Waddle - Syracuse.com",
-      "link": "https://www.syracuse.com/buffalo-bills/2025/11/buffalo-bills-made-shocking-offer-for-miami-dolphins-star-jaylen-waddle.html"
+      "title": "The Good, Bad and Ugly, Week 10: Caleb Williams Works His Magic Again for the Bears - Sports Illustrated",
+      "link": "https://www.si.com/nfl/good-bad-ugly-week-10-jonathan-taylor-states-case-for-major-award"
     },
     {
-      "title": "Atlanta Falcons inactives vs. Indianapolis Colts - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/atlanta-falcons-inactives-indianapolis-colts-berlin-germany"
+      "title": "How far did BYU fall in the AP, Coaches rankings after its first loss of the season? - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/11/09/byu-utah-top-25-rankings-after-week-11-associated-press-us-lbm-coaches/"
     },
     {
-      "title": "How to watch F1 Brazilian Grand Prix 2025 for free: Time, livestream - New York Post",
-      "link": "https://nypost.com/2025/11/09/sports/heres-how-to-watch-f1-brazilian-grand-prix-2025-live-for-free/"
+      "title": "Forde-Yard Dash: Why 12 Teams in the College Football Playoff Are Enough - Sports Illustrated",
+      "link": "https://www.si.com/college-football/forde-yard-dash-cfp-12-teams-are-enough-playoff"
     },
     {
-      "title": "What they\u2019re saying nationally, in Iowa City after No. 9 Oregon defeats No. 20 Iowa - OregonLive.com",
-      "link": "https://www.oregonlive.com/ducks/2025/11/what-theyre-saying-nationally-in-iowa-city-after-no-9-oregon-defeats-no-20-iowa.html"
-    },
-    {
-      "title": "Jets vs. Browns prediction: NFL Week 10 picks, odds, best bets - New York Post",
-      "link": "https://nypost.com/2025/11/09/betting/jets-vs-browns-prediction-nfl-week-10-picks-odds-best-bets/"
+      "title": "Texas returns to top 10, ACC has five teams ranked in the Top 25 and there is Group of Five intrigue - AP News",
+      "link": "https://apnews.com/article/ap-top-25-college-football-2c318717a75606860c7d0dae58150db6"
     }
   ],
   "weather": {
