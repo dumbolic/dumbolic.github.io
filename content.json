@@ -1,9 +1,9 @@
 {
-  "quote": "You are free, and that is why you are lost. \u2013 Franz Kafka",
-  "fact": "15 million blood cells are destroyed in the human body every second.",
-  "crypto": "BTC: $98,799 | ETH: $3,198.38",
+  "quote": "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. \u2013 Kahlil Gibran",
+  "fact": "The dot over the letter `i` is called a tittle. \u00a0",
+  "crypto": "BTC: $98,518 | ETH: $3,187.14",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
+  "joke": "My boss told me to attach two pieces of wood together... I totally nailed it!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Our first look at the Steam Machine, Valve\u2019s ambitious new game console - The Verge",
-      "link": "https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement"
+      "title": "We tried Valve\u2019s new VR headset, PC, and controller \u2014 ask us anything! - The Verge",
+      "link": "https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama"
+    },
+    {
+      "title": "OpenAI releases \u2018warmer, more intelligent\u2019 GPT-5.1 for ChatGPT - 9to5Mac",
+      "link": "https://9to5mac.com/2025/11/12/openai-releases-warmer-more-intelligent-gpt-5-1-for-chatgpt/"
+    },
+    {
+      "title": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online - BBC",
+      "link": "https://www.bbc.com/news/articles/cn97ndgpnq7o"
     },
     {
       "title": "The Best Tech Gifts of 2025 - Gizmodo",
       "link": "https://gizmodo.com/best-tech-gifts-of-2025-2000680379"
+    },
+    {
+      "title": "Here are our PS Plus Extra and Premium games for November - Eurogamer",
+      "link": "https://www.eurogamer.net/here-are-our-ps-plus-extra-and-premium-games-for-november"
     },
     {
       "title": "Hideo Kojima Throws Cartoonist Under The Bus After Controversy - Kotaku",
@@ -36,32 +48,28 @@
       "link": "https://www.pushsquare.com/previews/hands-on-where-winds-meet-ps5-is-vast-visionary-and-on-the-verge-of-collapse"
     },
     {
-      "title": "Arc Raiders has secretly had duo queue for days, will be fully supported going forward - Eurogamer",
-      "link": "https://www.eurogamer.net/arc-raiders-has-secretly-had-duo-queue-for-days-will-be-fully-supported-going-forward"
+      "title": "Hands-on: Smart glasses that finally look & feel normal \u2013 Even Realities G2 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/11/12/hands-on-smart-glasses-that-finally-look-feel-normal-even-realities-g2/"
     },
     {
       "title": "SpongeBob: Patty Pursuit 2 launches December 4 on Apple Arcade - Apple",
       "link": "https://www.apple.com/newsroom/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/"
     },
     {
-      "title": "5 things I love about Amazon\u2019s new Echo Shows \u2014 and 3 things I don\u2019t - The Verge",
-      "link": "https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on"
-    },
-    {
-      "title": "iPhone 18 Pro Max will be thicker and heavier than ever, says leaker - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/12/iphone-18-pro-max-will-be-thicker-and-heavier-than-ever-says-leaker/"
+      "title": "Microsoft rushes out a fix for Windows 10 orphans - theregister.com",
+      "link": "https://www.theregister.com/2025/11/12/microsoft_esu_wizard_fix/"
     },
     {
       "title": "How AI Notification Summaries work on the Pixel 9 and 10 - 9to5Google",
       "link": "http://9to5google.com/2025/11/12/pixel-ai-notification-summaries/"
     },
     {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "link": "https://www.marvelrivals.com/balancepost/20251112/41667_1270634.html"
+      "title": "Arc Raiders' North Line update brings its first global community event, and it's time to start emptying out those stashes - PCGamesN",
+      "link": "https://www.pcgamesn.com/arc-raiders/north-line-update"
     },
     {
-      "title": "Google relaunches Cameyo to entice businesses from Windows to ChromeOS - The Verge",
-      "link": "https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization"
+      "title": "iPhone 18 Pro Max's Thicker Design Could Make It Heaviest iPhone Ever - MacRumors",
+      "link": "https://www.macrumors.com/2025/11/12/iphone-18-pro-max-heaviest-iphone-ever/"
     },
     {
       "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product - TechCrunch",
@@ -72,102 +80,98 @@
       "link": "https://www.gamespot.com/articles/ps6-and-next-xbox-may-not-release-until-2028-due-to-gta-6-delay-expert-says/1100-6536134/"
     },
     {
-      "title": "Nexon CEO says \"it's important to assume every game company is using AI\" following Arc Raiders debate - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/nexon-ceo-says-its-important-to-assume-every-game-company-is-using-ai-following-arc-raiders-debate"
-    },
-    {
       "title": "Samsung\u2019s new 27-inch portable display has a three-hour battery life - The Verge",
       "link": "https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability"
     },
     {
-      "title": "Apple and Issey Miyake create expandable \"extra pocket\" to hold your iPhone - Dezeen",
-      "link": "https://www.dezeen.com/2025/11/12/iphone-pocket-apple-issey-miyake/"
+      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
+      "link": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html"
     },
     {
-      "title": "All of My Employees Are AI Agents, and So Are My Executives - WIRED",
-      "link": "https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/"
+      "title": "Galaxy S26 Ultra\u2019s RAM Upgrade Over The Galaxy S25 Ultra Will Introduce A Wave Of Camera Improvements While Reducing Power Draw And Thermals - Wccftech",
+      "link": "https://wccftech.com/galaxy-s26-ultra-ram-upgrade-brings-several-benefits-to-camera-vs-galaxy-s25-ultra/"
     }
   ],
   "sports_news": [
     {
-      "title": "Column | Josh Harris might have to choose between Trump and an angry fan base - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/11/12/josh-harris-donald-trump-commanders-stadium/"
+      "title": "Week 11 Injury Report (Bengals) - Steelers.com",
+      "link": "https://www.steelers.com/news/week-11-injury-report-bengals-x5156"
     },
     {
-      "title": "Marvin Harrison Jr. out this week after appendicitis surgery - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-out-this-week-after-appendicitis-surgery"
+      "title": "Injury Report Analysis: Patriots Rule Out Four Players for Thursday Night Football vs. the Jets - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/injury-report-analysis-patriots-rule-out-four-players-for-thursday-night-football-vs-the-jets"
     },
     {
-      "title": "Who Faces The Biggest Schedule Conflicts In The New LA 2028 Swimming Lineup? - SwimSwam",
-      "link": "https://swimswam.com/who-faces-the-biggest-schedule-conflicts-in-the-new-la-2028-swimming-lineup/"
+      "title": "Alex Pereira responds to Khamzat Chimaev challenge with surprising offer - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/455444/alex-pereira-responds-to-khamzat-chimaev-challenge-with-surprising-offer"
     },
     {
-      "title": "The NFL and Roger Goodell Are Providing a Blueprint for Tussling With Donald Trump - Sports Illustrated",
-      "link": "https://www.si.com/nfl/nfl-roger-goodell-are-providing-blueprint-for-tussling-with-donald-trump"
+      "title": "Euro 2028: Cardiff to host opening match, Wembley to stage semi-finals and final - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c781g9ey80go"
     },
     {
-      "title": "Antonio Brown will be under house arrest as he faces attempted murder charge - NBC News",
-      "link": "https://www.nbcnews.com/sports/nfl/antonio-brown-will-house-arrest-faces-attempted-murder-charge-rcna243452"
+      "title": "Lions' Amon-Ra St. Brown apologizes if 'Trump dance' offended - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46944669/lions-amon-ra-st-brown-apologizes-trump-dance-offended"
     },
     {
-      "title": "Kodai Senga Garnering Trade Interest - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/11/mets-trade-rumors-kodai-senga.html"
+      "title": "Liam Coen: Too early to say if Travis Hunter remains a two-way player - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/liam-coen-too-early-to-say-if-travis-hunter-remains-a-two-way-player"
     },
     {
-      "title": "Jared Goff takes a shot at Louis Riddick\u2019s criticism of Brian Branch - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-takes-a-shot-at-louis-riddicks-criticism-of-brian-branch"
+      "title": "Marvin Harrison Jr. Sidelined After Appendicitis As Cardinals Forced To Shuffle Wide Receiving Corps - Arizona Cardinals",
+      "link": "https://www.azcardinals.com/news/marvin-harrison-jr-sidelined-after-appendicitis"
     },
     {
-      "title": "Matthew Berry\u2019s Fantasy Football Rankings for Week 11 of 2025 season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/matthew-berry/news/matthew-berrys-fantasy-football-rankings-for-week-11-of-2025-season"
+      "title": "MSU hit with 3-year probation, 14 wins vacated - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/46944587/msu-hit-3-yr-probation-14-wins-3-seasons-vacated"
     },
     {
-      "title": "Titans' Sneed indicted for failing to report felony - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/46941114/titans-ljarius-sneed-indicted-failure-report-felony"
+      "title": "Memorial fund started for Cowboys defensive end Marshawn Kneeland\u2019s pregnant girlfriend - Dallas News",
+      "link": "https://www.dallasnews.com/sports/cowboys/2025/11/12/dallas-cowboys-open-marshawn-kneeland-memorial-fund-for-pregnant-girlfriend/"
     },
     {
-      "title": "Howard activated as Steelers make moves - Steelers.com",
-      "link": "https://www.steelers.com/news/howard-activated-as-steelers-make-moves"
+      "title": "Nick Sirianni is \"close to being done\" answering A.J. Brown questions - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-is-close-to-being-done-answering-a-j-brown-questions"
     },
     {
-      "title": "Inbox: Panic is for the prey - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/inbox-panic-is-for-the-prey-nov-12-2025"
+      "title": "Lamar Jackson absent from Wednesday\u2019s practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-absent-from-wednesdays-practice"
     },
     {
-      "title": "College Football Insiders: Will Lane Kiffin leave Ole Miss for LSU, Auburn or Florida? - 247Sports",
-      "link": "https://247sports.com/article/college-football-insiders-will-lane-kiffin-leave-ole-miss-for-lsu-auburn-or-florida-261058680/"
+      "title": "Kosar liver transplant delayed due to infection - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46943483/kosar-awaiting-liver-transplant-two-aggressive-procedures"
     },
     {
-      "title": "2025 NFL season: 19 players and coaches with the most at stake down the stretch - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-players-coaches-with-most-at-stake-in-second-half-of-2025-season"
+      "title": "Jameis Winston Named Giants QB1 vs. Packers Over Wilson Amid Jaxson Dart's Injury - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25291675-jameis-winston-named-giants-qb1-vs-packers-over-wilson-amid-jaxson-darts-injury"
     },
     {
-      "title": "\u2018I want the title\u2019: Kamaru Usman explains why he should get winner of UFC 322 main event - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/455159/i-want-the-title-kamaru-usman-explains-why-he-should-get-winner-of-jack-della-maddalena-vs-islam-makhachev-at-ufc-322"
+      "title": "DeMarcus Lawrence scoops and scores his way to NFC Defensive Player of the Week - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-news/154745/demarcus-lawrence-wins-seahawks-nfc-defensive-player-of-the-week"
     },
     {
-      "title": "Jameis Winston moves ahead of Russell Wilson, will start if Jaxson Dart can\u2019t - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-moves-ahead-of-russell-wilson-will-start-if-jaxson-dart-cant"
+      "title": "Austin Nola To Become Mariners\u2019 Bullpen Coach - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/11/austin-nola-to-become-mariners-bullpen-coach.html"
     },
     {
-      "title": "Paul Zeise: Asante Samuel Jr. signing a bandage, but not the cure for the real issue - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/paul-zeise/2025/11/12/nfl-steelers-asante-samuel-chargers/stories/202511110082"
+      "title": "Quarterback Start 'Em, Sit 'Em For Fantasy Football Week 11 - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/quarterback-start-em-sit-em-for-fantasy-football-week-11-01k9sp4jjt4t"
     },
     {
-      "title": "Game ball, three stars, and snap count analysis: Week 10, Eagles at Packers - PhillyVoice",
-      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-10-eagles-packers-jaelan-phillips-devonta-smith-nakobe-dean/"
+      "title": "Colts RB Jonathan Taylor, Lions RB Jahmyr Gibbs highlight Players of the Week - NFL.com",
+      "link": "https://www.nfl.com/news/players-of-the-week-2025-week-10-jonathan-taylor-jahmyr-gibbs"
     },
     {
-      "title": "College Football Playoff rankings grades, snubs: Texas Tech gets an A+, BYU an F - Yahoo",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2025/11/12/college-football-playoff-rankings-grades/87221903007/"
+      "title": "Jaire Alexander Placed on Eagles' Reserve/Retired List - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/jaire-alexander-steps-away-football-reserve-retired-list-eagles-ravens"
     },
     {
-      "title": "Patriots Gameplan: 3 Keys to Victory vs. the Jets on Thursday Night Football - New England Patriots",
-      "link": "https://www.patriots.com/news/patriots-gameplan-3-keys-to-victory-vs-the-jets-on-thursday-night-football"
+      "title": "Brett Favre rips Bad Bunny as Super Bowl 2026 halftime choice - New York Post",
+      "link": "https://nypost.com/2025/11/12/sports/brett-favre-rips-bad-bunny-as-super-bowl-2026-halftime-choice/"
     },
     {
-      "title": "Injuries abound as the Denver Broncos face their biggest game of the season - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-news/163427/injuries-abound-as-broncos-face-their-biggest-game-of-season"
+      "title": "Packers Week 11 TV Broadcast Map: Another limited area for Giants game - Acme Packing Company",
+      "link": "https://www.acmepackingcompany.com/green-bay-packers-game-information/74481/packers-week-11-tv-broadcast-map-another-limited-area-for-giants-game"
     }
   ],
   "weather": {
