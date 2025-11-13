@@ -1,9 +1,9 @@
 {
-  "quote": "The more something threatens your identity, the more you will avoid it. \u2013 Mark Manson",
-  "fact": "Every time you lick a stamp, you consume 1/10 of a calorie.",
-  "crypto": "BTC: $102,159 | ETH: $3,469.8",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Man, I really love my furniture... me and my recliner go way back.",
+  "quote": "We've got to live, no matter how many skies have fallen. \u2013 D. H. Lawrence",
+  "fact": "There are no clocks in Las Vegas gambling casinos.",
+  "crypto": "BTC: $101,902 | ETH: $3,471.53",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "BlazBlue is coming to PlayStation 5, Xbox and Nintendo Switch, but... - EventHubs",
+      "link": "https://www.eventhubs.com/news/2025/nov/11/blazblue-console-return/"
+    },
+    {
       "title": "Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New \"Follow-Up\" Trailer - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer"
+    },
+    {
+      "title": "Latest Switch 2 firmware update appears to be killing select third party docks - GoNintendo",
+      "link": "https://www.gonintendo.com/contents/54866-latest-switch-2-firmware-update-appears-to-be-killing-select-third-party-docks"
     },
     {
       "title": "PlayStation State Of Play November 2025: All The Biggest Announcements And Games - GameSpot",
@@ -40,8 +48,8 @@
       "link": "https://www.forbes.com/sites/conormurray/2025/11/11/apple-unveils-iphone-pouch-designed-by-steve-jobs-collaborator-but-some-criticize-high-price/"
     },
     {
-      "title": "Pixel phones are getting notification summaries - The Verge",
-      "link": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages"
+      "title": "Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications - TechCrunch",
+      "link": "https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/"
     },
     {
       "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws - BleepingComputer",
@@ -56,12 +64,12 @@
       "link": "https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/"
     },
     {
-      "title": "Man dances for 144 hours to break video game marathon record - BBC",
-      "link": "https://www.bbc.com/news/articles/cy8vwjp4jxyo"
+      "title": "The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety",
+      "link": "https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/"
     },
     {
-      "title": "New Legend of Zelda: Ocarina of Time LEGO Set For 2026 Looks to Feature Ganon - IGN",
-      "link": "https://www.ign.com/articles/new-legend-of-zelda-ocarina-of-time-lego-set-for-2026-looks-to-feature-ganon"
+      "title": "New Legend Of Zelda Lego Set Releasing 2026 - GameSpot",
+      "link": "https://www.gamespot.com/articles/new-legend-of-zelda-lego-set-releasing-2026/1100-6536126/"
     },
     {
       "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs - The New Stack",
@@ -70,20 +78,12 @@
     {
       "title": "Next year\u2019s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac",
       "link": "https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/"
-    },
-    {
-      "title": "SanDisk\u2019s New \u2018Plug-and-Stay\u2019 1TB SSD Is Absurdly Tiny - PetaPixel",
-      "link": "https://petapixel.com/2025/11/11/sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tiny/"
-    },
-    {
-      "title": "Minecraft Snapshot 25w46a - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a"
     }
   ],
   "sports_news": [
     {
-      "title": "CRAWFORD | Louisville plants its flag; Kentucky can't claw back as Cards prevail, 96-88 - WDRB",
-      "link": "https://www.wdrb.com/sports/crawford-louisville-plants-its-flag-kentucky-cant-claw-back-as-cards-prevail-96-88/article_6ee0332c-01b4-48ec-898e-be967743491a.html"
+      "title": "Quick hits: Stojakovic sparks No. 14 Illini to 81-77 win over No. 11 Texas Tech - 247Sports",
+      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-texas-tech-recap-quick-hits-andrej-stojakovic-261123367/"
     },
     {
       "title": "NBA presents new ASG format, selection process - ESPN",
@@ -94,36 +94,32 @@
       "link": "https://goheels.com/news/2025/11/11/mens-basketball-lucas-radford-rapid-reactions"
     },
     {
-      "title": "6 takeaways from Michigan Basketball\u2019s overtime win vs Wake Forest - Maize n Brew",
-      "link": "https://www.maizenbrew.com/michigan-mens-basketball/97329/michigan-basketball-wake-forest-takeaways-yaxel-lendeborg-aday-mara-elliot-cadeau-dusty-may-steve-forbes"
-    },
-    {
       "title": "Ohio State stays on top of playoff bracket, while Miami makes a big move - AP News",
       "link": "https://apnews.com/article/college-playoff-cfp-rankings-7c67cf5715aa39f76a4d1f62a39264a9"
     },
     {
-      "title": "Pat Murphy, Stephen Vogt Win Manager Of The Year - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/11/pat-murphy-stephen-vogt-win-manager-of-the-year.html"
+      "title": "Bill Belichick on Giants opening: \"Getting ready for Wake Forest\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-on-giants-opening-getting-ready-for-wake-forest"
     },
     {
-      "title": "The only answer Giants can give if Bill Belichick comes calling - New York Post",
-      "link": "https://nypost.com/2025/11/11/sports/the-only-answer-giants-can-give-if-bill-belichick-comes-calling/"
+      "title": "Darryn Peterson misses another game for KU basketball. Here\u2019s what we know - Kansas City Star",
+      "link": "https://www.kansascity.com/sports/college/big-12/university-of-kansas/article312880576.html"
+    },
+    {
+      "title": "Guardians\u2019 Stephen Vogt wins back-to-back AL Manager of the Year awards - BBWAA",
+      "link": "https://bbwaa.com/25-al-mgr/"
     },
     {
       "title": "Dallas Mavericks fire GM Nico Harrison nine months after Luka Doncic trade - Dallas News",
       "link": "https://www.dallasnews.com/sports/mavericks/2025/11/11/nico-harrison-fired-dallas-mavericks-gm/"
     },
     {
-      "title": "Eagles' Jaire Alexander stepping away from football; CB to determine playing future - NFL.com",
-      "link": "https://www.nfl.com/news/eagles-jaire-alexander-stepping-away-from-football-cb-to-determine-playing-future"
-    },
-    {
       "title": "Where Miami Hurricanes landed in second College Football Playoff ranking of the season - Miami Herald",
       "link": "https://www.miamiherald.com/sports/college/acc/university-of-miami/article312856306.html"
     },
     {
-      "title": "Latest On Dodgers, Kyle Tucker - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/11/latest-on-dodgers-kyle-tucker.html"
+      "title": "Kentucky vs Louisville Prediction, Odds, Start Time, Picks - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/kentucky-wildcats-vs-louisville-cardinals-predictions-picks-odds-college-basketball-tuesday-november-11"
     },
     {
       "title": "Washington Commanders Roster Moves: Wide receivers signed from the practice squad; Trey Amos to IR - Hogs Haven",
@@ -134,8 +130,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-tv-dispute-has-disney-reportedly-losing-30-million-per-week"
     },
     {
-      "title": "Steelers sign veteran CB Asante Samuel Jr. to practice squad - TribLIVE.com",
-      "link": "https://triblive.com/sports/steelers-sign-veteran-cb-asante-samuel-jr/"
+      "title": "LSU attempting to sue its way out of paying Brian Kelly's $54 million buyout - FootballScoop.com",
+      "link": "https://www.footballscoop.com/2025/11/11/lsu-attempting-sue-its-way-out-brian-kelly-buyout"
+    },
+    {
+      "title": "Week 11 Fantasy Football Defense Rankings: Houston's DST At The Top - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/week-11-fantasy-football-defense-rankings-houston-s-dst-at-the-top-01k9sv61vcv0"
     },
     {
       "title": "Travis Hunter Undergoes Successful Knee Surgery - Jaguars.com",
@@ -146,12 +146,12 @@
       "link": "https://www.nbcnews.com/news/us-news/dallas-cowboys-marshawn-kneeland-sent-text-messages-prior-death-rcna243293"
     },
     {
-      "title": "Fantasy Football Rankings 2025: Week 11 - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-rankings-2025-week-11"
-    },
-    {
       "title": "Aaron Glenn: \u201cI\u2019m going to pass on\u201d discussing Jets injuries - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-im-going-to-pass-on-discussing-jets-injuries"
+    },
+    {
+      "title": "Cal State Fullerton soccer player Lauren Turner dies weeks after e-scooter crash - ABC7 Los Angeles",
+      "link": "https://abc7.com/post/cal-state-fullerton-soccer-player-lauren-turner-dies-weeks-scooter-crash/18143839/"
     },
     {
       "title": "Vikings' coach 'personally embarrassed' by penalty debacle against Ravens - Sports Illustrated",
