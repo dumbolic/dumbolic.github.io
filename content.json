@@ -1,9 +1,9 @@
 {
-  "quote": "You need a plan to build a house. To build a life, it is even more important to have a plan or goal. \u2013 Zig Ziglar",
-  "fact": "Canadian researchers have found that Einstein's brain was 15% wider than normal.",
-  "crypto": "BTC: $98,385 | ETH: $3,201.82",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
+  "quote": "Life isn't about finding yourself. Life is about creating yourself. \u2013 George Bernard Shaw",
+  "fact": "\"You\" is the second most spoken English word",
+  "crypto": "BTC: $98,645 | ETH: $3,209.6",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do computers and air conditioners have in common? They both become useless when you open windows.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,40 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Our first look at the Steam Machine, Valve\u2019s ambitious new game console - The Verge",
+      "link": "https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement"
+    },
+    {
+      "title": "The Best Tech Gifts of 2025 - Gizmodo",
+      "link": "https://gizmodo.com/best-tech-gifts-of-2025-2000680379"
+    },
+    {
+      "title": "Hideo Kojima Throws Cartoonist Under The Bus After Controversy - Kotaku",
+      "link": "https://kotaku.com/hideo-kojima-deletes-photo-and-distances-himself-from-cartoonist-after-political-backlash-2000643454"
+    },
+    {
+      "title": "Apple introduces Digital ID, a new way to create and present an ID in Apple Wallet - Apple",
+      "link": "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/"
+    },
+    {
+      "title": "Review: New Framework Laptop 16 takes a fresh stab at the upgradeable laptop GPU - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/11/review-new-framework-laptop-16-takes-a-fresh-stab-at-the-upgradeable-laptop-gpu/"
+    },
+    {
       "title": "Hands On: Where Winds Meet PS5 Is Vast, Visionary, and on the Verge of Collapse - Push Square",
       "link": "https://www.pushsquare.com/previews/hands-on-where-winds-meet-ps5-is-vast-visionary-and-on-the-verge-of-collapse"
+    },
+    {
+      "title": "Arc Raiders has secretly had duo queue for days, will be fully supported going forward - Eurogamer",
+      "link": "https://www.eurogamer.net/arc-raiders-has-secretly-had-duo-queue-for-days-will-be-fully-supported-going-forward"
+    },
+    {
+      "title": "SpongeBob: Patty Pursuit 2 launches December 4 on Apple Arcade - Apple",
+      "link": "https://www.apple.com/newsroom/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/"
     },
     {
       "title": "5 things I love about Amazon\u2019s new Echo Shows \u2014 and 3 things I don\u2019t - The Verge",
       "link": "https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on"
     },
     {
-      "title": "The Super Mario Galaxy Movie's Rosalina Will Be Voiced by Brie Larson - IGN",
-      "link": "https://www.ign.com/articles/the-super-mario-galaxy-movies-rosalina-will-be-voiced-by-brie-larson"
+      "title": "iPhone 18 Pro Max will be thicker and heavier than ever, says leaker - 9to5Mac",
+      "link": "https://9to5mac.com/2025/11/12/iphone-18-pro-max-will-be-thicker-and-heavier-than-ever-says-leaker/"
     },
     {
       "title": "How AI Notification Summaries work on the Pixel 9 and 10 - 9to5Google",
       "link": "http://9to5google.com/2025/11/12/pixel-ai-notification-summaries/"
     },
     {
-      "title": "Arc Raiders' First Major Update, North Line, Goes Live Tomorrow \u2014 Here's What To Expect - IGN",
-      "link": "https://www.ign.com/articles/arc-raiders-first-major-update-north-line-goes-live-tomorrow-heres-what-to-expect"
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "link": "https://www.marvelrivals.com/balancepost/20251112/41667_1270634.html"
     },
     {
       "title": "Google relaunches Cameyo to entice businesses from Windows to ChromeOS - The Verge",
       "link": "https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization"
     },
     {
-      "title": "Sony\u2019s new PlayStation gaming monitor has a charging stand for the DualSense controller - The Verge",
-      "link": "https://www.theverge.com/news/818775/sony-playstation-5-ps5-monitor-qhd-dualsense-controller-charging-hook"
-    },
-    {
       "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product - TechCrunch",
       "link": "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/"
     },
     {
-      "title": "Destiny 2 falls short of Sony's expectations after Bungie acquisition - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/destiny-2-falls-short-of-sonys-expectations-after-bungie-acquisition"
+      "title": "PS6 And Next Xbox May Not Release Until 2028 Due To GTA 6 Delay, Expert Says - GameSpot",
+      "link": "https://www.gamespot.com/articles/ps6-and-next-xbox-may-not-release-until-2028-due-to-gta-6-delay-expert-says/1100-6536134/"
     },
     {
       "title": "Nexon CEO says \"it's important to assume every game company is using AI\" following Arc Raiders debate - GamesIndustry.biz",
@@ -56,35 +80,35 @@
       "link": "https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability"
     },
     {
-      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
-      "link": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html"
+      "title": "Apple and Issey Miyake create expandable \"extra pocket\" to hold your iPhone - Dezeen",
+      "link": "https://www.dezeen.com/2025/11/12/iphone-pocket-apple-issey-miyake/"
     },
     {
-      "title": "Happy birthday to the PlayStation 5 - but why no plans for a PS6? - BBC",
-      "link": "https://www.bbc.com/news/articles/cy7e352emrro"
-    },
-    {
-      "title": "Google Launches 'Private AI Compute' \u2014 Secure AI Processing with On-Device-Level Privacy - The Hacker News",
-      "link": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html"
-    },
-    {
-      "title": "These are the best new MacBook deals in November: starting at $599 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/11/best-apple-macbook-deals-right-now-in-november-2025/"
-    },
-    {
-      "title": "OCTOPATH TRAVELER 0 demo now available - Square Enix",
-      "link": "https://www.square-enix-games.com/news/octopath-traveler-0-demo"
-    },
-    {
-      "title": "Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New \"Follow-Up\" Trailer - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer"
-    },
-    {
-      "title": "Windows president says platform is \"evolving into an agentic OS,\" gets cooked in the replies \u2014 \"Straight up, nobody wants this\" - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online"
+      "title": "All of My Employees Are AI Agents, and So Are My Executives - WIRED",
+      "link": "https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Column | Josh Harris might have to choose between Trump and an angry fan base - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2025/11/12/josh-harris-donald-trump-commanders-stadium/"
+    },
+    {
+      "title": "Marvin Harrison Jr. out this week after appendicitis surgery - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-out-this-week-after-appendicitis-surgery"
+    },
+    {
+      "title": "Who Faces The Biggest Schedule Conflicts In The New LA 2028 Swimming Lineup? - SwimSwam",
+      "link": "https://swimswam.com/who-faces-the-biggest-schedule-conflicts-in-the-new-la-2028-swimming-lineup/"
+    },
+    {
+      "title": "The NFL and Roger Goodell Are Providing a Blueprint for Tussling With Donald Trump - Sports Illustrated",
+      "link": "https://www.si.com/nfl/nfl-roger-goodell-are-providing-blueprint-for-tussling-with-donald-trump"
+    },
+    {
+      "title": "Antonio Brown will be under house arrest as he faces attempted murder charge - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/antonio-brown-will-house-arrest-faces-attempted-murder-charge-rcna243452"
+    },
     {
       "title": "Kodai Senga Garnering Trade Interest - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/11/mets-trade-rumors-kodai-senga.html"
@@ -98,32 +122,44 @@
       "link": "https://www.nbcsports.com/nfl/matthew-berry/news/matthew-berrys-fantasy-football-rankings-for-week-11-of-2025-season"
     },
     {
-      "title": "Miami enters bracket after second set of College Football Playoff rankings - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/11/11/college-football-playoff-rankings-bracket/"
+      "title": "Titans' Sneed indicted for failing to report felony - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46941114/titans-ljarius-sneed-indicted-failure-report-felony"
+    },
+    {
+      "title": "Howard activated as Steelers make moves - Steelers.com",
+      "link": "https://www.steelers.com/news/howard-activated-as-steelers-make-moves"
+    },
+    {
+      "title": "Inbox: Panic is for the prey - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/inbox-panic-is-for-the-prey-nov-12-2025"
+    },
+    {
+      "title": "College Football Insiders: Will Lane Kiffin leave Ole Miss for LSU, Auburn or Florida? - 247Sports",
+      "link": "https://247sports.com/article/college-football-insiders-will-lane-kiffin-leave-ole-miss-for-lsu-auburn-or-florida-261058680/"
     },
     {
       "title": "2025 NFL season: 19 players and coaches with the most at stake down the stretch - NFL.com",
       "link": "https://www.nfl.com/news/nfl-players-coaches-with-most-at-stake-in-second-half-of-2025-season"
     },
     {
-      "title": "Nico Harrison\u2019s Firing Cements His Place in NBA Hell - The Ringer",
-      "link": "https://www.theringer.com/2025/11/12/nba/nico-harrison-fired-dallas-mavericks-luka-trade-legacy"
+      "title": "\u2018I want the title\u2019: Kamaru Usman explains why he should get winner of UFC 322 main event - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/455159/i-want-the-title-kamaru-usman-explains-why-he-should-get-winner-of-jack-della-maddalena-vs-islam-makhachev-at-ufc-322"
     },
     {
-      "title": "Jameis Winston set to start for Giants as new coach demotes Russell Wilson - New York Post",
-      "link": "https://nypost.com/2025/11/12/sports/russell-wilson-demoted-for-jameis-winston-as-giants-make-qb-switch-with-new-coach/"
+      "title": "Jameis Winston moves ahead of Russell Wilson, will start if Jaxson Dart can\u2019t - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-moves-ahead-of-russell-wilson-will-start-if-jaxson-dart-cant"
     },
     {
       "title": "Paul Zeise: Asante Samuel Jr. signing a bandage, but not the cure for the real issue - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/paul-zeise/2025/11/12/nfl-steelers-asante-samuel-chargers/stories/202511110082"
     },
     {
-      "title": "Where would MLB be if Emmanuel Clase had been better at covering up his gambling scheme? - New York Post",
-      "link": "https://nypost.com/2025/11/12/sports/where-would-mlb-be-if-emmanuel-clase-was-better-at-covering-his-tracks/"
+      "title": "Game ball, three stars, and snap count analysis: Week 10, Eagles at Packers - PhillyVoice",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-10-eagles-packers-jaelan-phillips-devonta-smith-nakobe-dean/"
     },
     {
-      "title": "Packers Coach Matt LaFleur\u2019s Job Could Be in Jeopardy - Sports Illustrated",
-      "link": "https://www.si.com/nfl/nfl-fact-or-fiction-packers-coach-matt-lafleur-job-security-shaky"
+      "title": "College Football Playoff rankings grades, snubs: Texas Tech gets an A+, BYU an F - Yahoo",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/2025/11/12/college-football-playoff-rankings-grades/87221903007/"
     },
     {
       "title": "Patriots Gameplan: 3 Keys to Victory vs. the Jets on Thursday Night Football - New England Patriots",
@@ -132,38 +168,6 @@
     {
       "title": "Injuries abound as the Denver Broncos face their biggest game of the season - Mile High Report",
       "link": "https://www.milehighreport.com/denver-broncos-news/163427/injuries-abound-as-broncos-face-their-biggest-game-of-season"
-    },
-    {
-      "title": "CRAWFORD | Dislocated finger, relocated pride: Kelsey, Louisville celebrate win over Kentucky - WDRB",
-      "link": "https://www.wdrb.com/sports/crawford-dislocated-finger-relocated-pride-kelsey-louisville-celebrate-win-over-kentucky/article_be234804-2ae6-4f0d-9ce1-f2e32479967f.html"
-    },
-    {
-      "title": "QUOTES: What Louisville coach Pat Kelsey and players said after a win against Kentucky - 247Sports",
-      "link": "https://247sports.com/college/louisville/longformarticle/pat-kelsey-quotes-what-louisville-coach-pat-kelsey-and-players-said-after-a-win-against-kentucky-261138385/"
-    },
-    {
-      "title": "The Aftermath: Landeskog Nets Game Winner \u2014 Avs Beat Anaheim But Lose Nichushkin - Colorado Hockey Now",
-      "link": "https://coloradohockeynow.com/2025/11/11/the-aftermath-landeskog-nets-game-winner-avs-beat-anaheim-but-lose-nichushkin/"
-    },
-    {
-      "title": "What we\u2019ve learned about the No. 7 BYU Cougars through the exhibition season and 3 nonconference games - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/11/11/byu-basketball-learned-update-exhibition-non-conference-uconn-delaware/"
-    },
-    {
-      "title": "Knicks continue 3-point parade with historic barrage against Grizzlies - New York Post",
-      "link": "https://nypost.com/2025/11/12/sports/knicks-continue-3-point-parade-with-historic-barrage-against-grizzlies/"
-    },
-    {
-      "title": "Cal State Fullerton soccer player Lauren Turner dies six weeks after being struck by truck in e-scooter crash - New York Post",
-      "link": "https://nypost.com/2025/11/12/sports/cal-state-fullerton-soccer-player-lauren-turner-dies-six-weeks-after-being-struck-by-truck-in-e-scooter-crash/"
-    },
-    {
-      "title": "Eagles CB Jaire Alexander To Step Away From Football - NFL Rumors - ProFootballRumors.com",
-      "link": "https://www.profootballrumors.com/2025/11/eagles-cb-jaire-alexander-to-step-away-from-football"
-    },
-    {
-      "title": "Quick hits: Stojakovic sparks No. 14 Illini to 81-77 win over No. 11 Texas Tech - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-texas-tech-recap-quick-hits-andrej-stojakovic-261123367/"
     }
   ],
   "weather": {
