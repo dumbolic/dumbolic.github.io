@@ -1,9 +1,9 @@
 {
-  "quote": "You don't have to control your thoughts; you just have to stop letting them control you. \u2013 Dan Millman",
-  "fact": "One in ten people live on an island.",
-  "crypto": "BTC: $95,895 | ETH: $3,208.18",
+  "quote": "The nearer a man comes to a calm mind, the closer he is to strength. \u2013 Marcus Aurelius",
+  "fact": "Butterflies taste with their hind feet.",
+  "crypto": "BTC: $95,800 | ETH: $3,203.75",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I was wondering why the frisbee was getting bigger, then it hit me.",
+  "joke": "What is bread's favorite number?  Leaven.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Activision Responds to Complaints of AI-Generated Assets in Call of Duty: Black Ops 7 - IGN",
-      "link": "https://www.ign.com/articles/activision-responds-to-complaints-of-ai-generated-assets-in-call-of-duty-black-ops-7"
-    },
-    {
       "title": "These Developers Are Bringing Canceled Game Concord Back To Life - aftermath.site",
       "link": "https://aftermath.site/concord-dead-game-firewalk-sony/"
     },
     {
-      "title": "A recent Switch 2 update blocks some third-party docks, but Nintendo isn\u2019t saying why - The Verge",
-      "link": "https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked"
-    },
-    {
       "title": "Apple\u2019s $230 Cloth iPhone Pouch Is Already Sold Out \u2014 Here\u2019s What It\u2019s Like - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2025-11-14/apple-issey-miyake-iphone-pocket-price-colors-review-where-to-buy-sold-out"
+    },
+    {
+      "title": "Watch SavageGeese Put The Corvette ZR1 And Mustang GTD Up Against The Porsche 911 GT3 RS - Jalopnik",
+      "link": "https://www.jalopnik.com/2026705/watch-savagegeese-corvette-zr1-mustang-gtd-porsche-911-gt3-rs/"
     },
     {
       "title": "Best Buy Black Friday Doorbusters live \u2014 31 deals I\u2019d shop from just $3 on Lego, Switch 2/PS5 games, TVs, laptops and more - Tom's Guide",
@@ -34,6 +30,10 @@
     {
       "title": "Apple\u2019s last-gen AirPods Pro 2 are down to their lowest price to date - The Verge",
       "link": "https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale"
+    },
+    {
+      "title": "'Red Dead Redemption' comes to PS5, Xbox, iOS, and Android: How to get it - Mashable",
+      "link": "https://mashable.com/article/red-dead-redemption-ps5-xbox-switch-2-ios-android-netflix"
     },
     {
       "title": "Two tantalizing hours with Metroid Prime 4: Beyond - Game File | Stephen Totilo",
@@ -48,16 +48,16 @@
       "link": "https://www.forbes.com/sites/daveywinder/2025/11/14/new-microsoft-alert---update-windows-10-and-11-now-attacks-underway/"
     },
     {
-      "title": "Google rolls out official call recording across Pixel lineup - Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/pixel-phones-finally-get-native-call-recording-after-a-long-wait"
+      "title": "Google Call Recording launches on more Pixel phones - The Verge",
+      "link": "https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability"
     },
     {
-      "title": "Red Dead Redemption is coming to iOS next month - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/14/red-dead-redemption-is-coming-to-ios-next-month/"
+      "title": "[UPDATED] Nintendo Denies Suggestion It Deliberately Broke Third-Party Switch 2 Dock Compatibility, After Scores of Users Report Issues Following Latest Console Update - IGN",
+      "link": "https://www.ign.com/articles/nintendo-has-quietly-blocked-third-party-switch-2-docks-owners-say"
     },
     {
-      "title": "Valve is making microSD cards the next game cartridges - The Verge",
-      "link": "https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges"
+      "title": "\"It just works\": Valve talk the Steam Frame, Android games on SteamOS, and putting a PC on your face - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/it-just-works-valve-talk-the-steam-frame-android-games-on-steamos-and-putting-a-pc-on-your-face"
     },
     {
       "title": "Call of Duty: Black Ops 7 campaign cannot be paused by solo players, has no checkpoints, and requires an online connection at all times - Eurogamer",
@@ -76,42 +76,58 @@
       "link": "https://nintendoeverything.com/kirby-air-riders-global-test-ride-updated-to-version-1-0-1-patch-notes/"
     },
     {
+      "title": "Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes"
+    },
+    {
       "title": "\u201cExtreme\u201d Bentley Supersports Returns As Most Driver-Focused Continental GT Ever - duPont REGISTRY News",
       "link": "https://news.dupontregistry.com/bentley/2026-bentley-continental-gt-supersports/"
     },
     {
       "title": "Pikachu finally gets a new variant after 25 years \u2013 meet Peakychu - Time Out",
       "link": "https://www.timeout.com/tokyo/news/pikachu-finally-gets-a-new-variant-after-25-years-meet-peakychu-111425"
-    },
-    {
-      "title": "Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here\u2019s Everything Coming in December and Beyond - The Game Post",
-      "link": "https://thegamepost.com/bungie-destiny-2-renegades-roadmap/"
     }
   ],
   "sports_news": [
     {
-      "title": "Lucas: NCCU Rapid Reactions - University of North Carolina Athletics",
-      "link": "https://goheels.com/news/2025/11/14/mens-basketball-lucas-nccu-rapid-reactions"
+      "title": "Curry torches Spurs again, ties MJ with latest 40 - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/46972508/curry-torches-spurs-again-rallies-warriors-49-point-night"
     },
     {
-      "title": "WATCH: Myles McLaughlin breaks two national records, seals Knox playoff win with late interception - MaxPreps.com",
-      "link": "https://www.maxpreps.com/news/mHQFgI_OYkiAvYcDs6by8Q/watch-myles-mclaughlin-breaks-two-national-records%2c-seals-knox-playoff-win-with-late-interception.htm"
+      "title": "Michigan 67-63 TCU (Nov 14, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401812252"
+    },
+    {
+      "title": "Lucas: NCCU Rapid Reactions - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2025/11/14/mens-basketball-lucas-nccu-rapid-reactions"
     },
     {
       "title": "Bill Belichick says he will not pursue any NFL head-coaching vacancies - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-says-he-will-not-pursue-any-nfl-head-coaching-vacancies"
     },
     {
+      "title": "WATCH: Entire West Virginia bench ejected from game vs. Duke after altercation - On3",
+      "link": "https://www.on3.com/news/entire-west-virginia-bench-ejected-from-game-vs-duke-altercation-womens-basketball/"
+    },
+    {
       "title": "Stephen Curry Warms Up in Nike Shoes on Video After Parting Ways with Under Armour - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25294600-stephen-curry-warms-nike-shoes-video-after-parting-ways-under-armour"
     },
     {
-      "title": "College football coach John Beam from \u2018Last Chance U\u2019 has died after being shot - KTLA",
-      "link": "https://ktla.com/news/ap-suspect-arrested-in-shooting-of-last-chance-u-coach-john-beam-oakland-police-say/"
+      "title": "Brandon Duhaime is on the precipice of tying a Capitals franchise record - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/11/14/brandon-duhaime-game-opening-goals-capitals-franchise-record/"
     },
     {
-      "title": "Justin Fields\u2019 latest ugly flop might finally get Aaron Glenn to make Jets QB switch - New York Post",
-      "link": "https://nypost.com/2025/11/14/sports/justin-fields-latest-flop-might-get-aaron-glenn-to-make-jets-qb-switch/"
+      "title": "Oakland Laney College Coach John Beam Dies After Campus Shooting - KQED",
+      "link": "https://www.kqed.org/news/12064112/suspect-arrested-in-shooting-of-oakland-laney-college-coach-john-beam"
+    },
+    {
+      "title": "Kai Trump has better second day but misses cut in first LPGA tournament - New York Post",
+      "link": "https://nypost.com/2025/11/14/sports/kai-trump-misses-cut-in-first-lpga-tournament/"
+    },
+    {
+      "title": "No. 12 BYU vs. TCU: Can Cougars finally solve Horned Frogs on Saturday night? - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/11/14/byu-football-tcu-streak-games-five-straight-bachmeier-hoover-provo-les/"
     },
     {
       "title": "After Further Review: Breaking Down QB Drake Maye, the Patriots Defense and Quick-Hit Notes From the Win Over the Jets in Week 11 - New England Patriots",
@@ -134,20 +150,12 @@
       "link": "https://www.startribune.com/twins-coaching-staff-maki-hallberg-borrego-bench-pitching-bullpen-hawkins/601525711"
     },
     {
-      "title": "What you need to know about Saturday's BYU-TCU game - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/11/14/byu-cougars-football-how-to-watch-tcu-horned-frogs-2025/"
-    },
-    {
       "title": "Five recruiting visitors of note for Alabama's game vs. Oklahoma - 247Sports",
       "link": "https://247sports.com/college/alabama/article/five-recruiting-visitors-of-note-for-alabamas-game-vs-oklahoma-261467053/"
     },
     {
       "title": "Packers list three questionable vs. New York Giants | Week 11 Injury Report - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/packers-giants-injury-report-week-11-nov-14-2025"
-    },
-    {
-      "title": "'She can play at the highest level': Kai Trump caps LPGA debut with 75, near ace and positive impression - golfchannel.com",
-      "link": "https://www.golfchannel.com/lpga/news/she-can-play-at-the-highest-level-kai-trump-caps-lpga-debut-with-75-positive-impression"
     },
     {
       "title": "Texas Getting Obliterated By Georgia Tops The Wishlist Of A Handful Of College Football Contenders - OutKick",
@@ -160,14 +168,6 @@
     {
       "title": "It\u2019s time for all of us to embrace hard conversations Marshawn Kneeland\u2019s death sparked - Dallas News",
       "link": "https://www.dallasnews.com/sports/cowboys/2025/11/14/marshawn-kneeland-death-dallas-cowboys-dak-prescott/"
-    },
-    {
-      "title": "Reports: Other teams eyeing Dallas to see if it tries to trade Anthony Davis, but his market is small - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/reports-other-teams-eyeing-dallas-to-see-if-it-tries-to-trade-anthony-davis-but-his-market-is-small"
-    },
-    {
-      "title": "Top Picks from the CFB Betting Splits for Friday November 14th - VSiN",
-      "link": "http://vsin.com/college-football/top-picks-from-the-cfb-betting-splits-for-friday-november-14th/"
     }
   ],
   "weather": {
