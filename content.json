@@ -1,9 +1,9 @@
 {
-  "quote": "Fear is your worst enemy. Risk is your best friend. \u2013 Gurbaksh Chahal",
-  "fact": "In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion.",
-  "crypto": "BTC: $95,919 | ETH: $3,211.43",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you get when you cross a pig and a pineapple? A porky pine",
+  "quote": "Whatever your mind can conceive and believe, it can achieve. \u2013 Napoleon Hill",
+  "fact": "The giant squid has the largest eyes in the world. ",
+  "crypto": "BTC: $95,985 | ETH: $3,211.25",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "These Developers Are Bringing Canceled Game Concord Back To Life - aftermath.site",
-      "link": "https://aftermath.site/concord-dead-game-firewalk-sony/"
+      "title": "Sony cracks down on Concord custom servers, issues DMCA takedowns on gameplay videos - The Game Post",
+      "link": "https://thegamepost.com/sony-cracks-down-concord-custom-servers-dmca-takedowns/"
+    },
+    {
+      "title": "Nintendo Quietly Reveals A New Suit For Metroid Prime 4: Beyond - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/11/nintendo-quietly-reveals-a-new-suit-for-metroid-prime-4-beyond"
+    },
+    {
+      "title": "Black Ops 7 Ashes of the Damned main quest easter egg guide - PCGamesN",
+      "link": "https://www.pcgamesn.com/call-of-duty-black-ops-7/ashes-of-the-damned-main-quest-easter-egg"
+    },
+    {
+      "title": "A new Google model is nearly perfect on automated handwriting recognition - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45887262"
     },
     {
       "title": "Apple\u2019s $230 Cloth iPhone Pouch Is Already Sold Out \u2014 Here\u2019s What It\u2019s Like - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2025-11-14/apple-issey-miyake-iphone-pocket-price-colors-review-where-to-buy-sold-out"
     },
     {
+      "title": "Garmin Fenix 8 is $250 off, and All The Best Garmin Deals! - DC Rainmaker",
+      "link": "https://www.dcrainmaker.com/2025/11/garmin-best-black-friday-deals-holidays-2025.html"
+    },
+    {
       "title": "Watch SavageGeese Put The Corvette ZR1 And Mustang GTD Up Against The Porsche 911 GT3 RS - Jalopnik",
       "link": "https://www.jalopnik.com/2026705/watch-savagegeese-corvette-zr1-mustang-gtd-porsche-911-gt3-rs/"
+    },
+    {
+      "title": "Custom \"Steam Machine\" PC worth $600 sets an early performance bar for Valve - VideoCardz.com",
+      "link": "https://videocardz.com/newz/custom-steam-machine-worth-600-sets-an-early-performance-bar-for-valve"
     },
     {
       "title": "Best Buy Black Friday Doorbusters live \u2014 31 deals I\u2019d shop from just $3 on Lego, Switch 2/PS5 games, TVs, laptops and more - Tom's Guide",
@@ -36,10 +56,6 @@
       "link": "https://mashable.com/article/red-dead-redemption-ps5-xbox-switch-2-ios-android-netflix"
     },
     {
-      "title": "Two tantalizing hours with Metroid Prime 4: Beyond - Game File | Stephen Totilo",
-      "link": "https://www.gamefile.news/p/metroid-prime-4-beyond-preview"
-    },
-    {
       "title": "Top 100 Nintendo Games, As Chosen By Nintendo Life & IGN - Nintendo Life",
       "link": "https://www.nintendolife.com/guides/top-100-nintendo-games-as-chosen-by-nintendo-life-and-ign"
     },
@@ -52,40 +68,24 @@
       "link": "https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability"
     },
     {
+      "title": "I think nobody wants AI in Firefox, Mozilla - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d45926779"
+    },
+    {
+      "title": "Horizon Steel Frontier developer wants PlayStation release, but it's \"not something we can decide on our own\" - Eurogamer",
+      "link": "https://www.eurogamer.net/horizon-steel-frontier-developer-wants-playstation-release-but-its-not-something-we-can-decide-on-our-own"
+    },
+    {
+      "title": "LG's 34-Inch Curved Monitor (OLED, 240Hz, WQHD) Down to Peanuts, Amazon Reaches an All-Time Low - Gizmodo",
+      "link": "https://gizmodo.com/lgs-34-inch-curved-monitor-oled-240hz-wqhd-down-to-peanuts-amazon-reaches-an-all-time-low-2000685938"
+    },
+    {
       "title": "[UPDATED] Nintendo Denies Suggestion It Deliberately Broke Third-Party Switch 2 Dock Compatibility, After Scores of Users Report Issues Following Latest Console Update - IGN",
       "link": "https://www.ign.com/articles/nintendo-has-quietly-blocked-third-party-switch-2-docks-owners-say"
     },
     {
-      "title": "\"It just works\": Valve talk the Steam Frame, Android games on SteamOS, and putting a PC on your face - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/it-just-works-valve-talk-the-steam-frame-android-games-on-steamos-and-putting-a-pc-on-your-face"
-    },
-    {
       "title": "Call of Duty: Black Ops 7 campaign cannot be paused by solo players, has no checkpoints, and requires an online connection at all times - Eurogamer",
       "link": "https://www.eurogamer.net/call-of-duty-campaign-cannot-be-paused-by-solo-players-has-no-checkpoints-and-requires-an-online-connection-at-all-times"
-    },
-    {
-      "title": "Forget Samsung S25 Ultra: This OnePlus flagship beats the Android giant in meaningful ways - ZDNET",
-      "link": "https://www.zdnet.com/article/forget-samsung-s25-ultra-this-oneplus-flagship-beats-the-android-giant-in-meaningful-ways/"
-    },
-    {
-      "title": "Pokemon TCG Phantasmal Flames Set Restocked At Amazon On Launch Day - GameSpot",
-      "link": "https://www.gamespot.com/articles/pokemon-trading-card-game-mega-evolution-phantasmal-flames-expansion-set-buying-guide/1100-6536074/"
-    },
-    {
-      "title": "Kirby Air Riders: Global Test Ride updated to version 1.0.1, patch notes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/kirby-air-riders-global-test-ride-updated-to-version-1-0-1-patch-notes/"
-    },
-    {
-      "title": "Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes"
-    },
-    {
-      "title": "\u201cExtreme\u201d Bentley Supersports Returns As Most Driver-Focused Continental GT Ever - duPont REGISTRY News",
-      "link": "https://news.dupontregistry.com/bentley/2026-bentley-continental-gt-supersports/"
-    },
-    {
-      "title": "Pikachu finally gets a new variant after 25 years \u2013 meet Peakychu - Time Out",
-      "link": "https://www.timeout.com/tokyo/news/pikachu-finally-gets-a-new-variant-after-25-years-meet-peakychu-111425"
     }
   ],
   "sports_news": [
@@ -94,12 +94,16 @@
       "link": "https://www.espn.com/nba/story/_/id/46972508/curry-torches-spurs-again-rallies-warriors-49-point-night"
     },
     {
-      "title": "Michigan 67-63 TCU (Nov 14, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401812252"
+      "title": "Player Grades: Lakers vs. Pelicans - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-analysis/100449/player-grades-lakers-vs-pelicans-stats-box-score-recap-luka-doncic-deandre-ayton"
     },
     {
       "title": "Lucas: NCCU Rapid Reactions - University of North Carolina Athletics",
       "link": "https://goheels.com/news/2025/11/14/mens-basketball-lucas-nccu-rapid-reactions"
+    },
+    {
+      "title": "KSR's top takeaways from Kentucky's overwhelming win over Eastern Illinois - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/ksrs-top-takeaways-from-kentuckys-overwhelming-win-over-eastern-illinois/"
     },
     {
       "title": "Bill Belichick says he will not pursue any NFL head-coaching vacancies - NBC Sports",
@@ -110,20 +114,16 @@
       "link": "https://www.on3.com/news/entire-west-virginia-bench-ejected-from-game-vs-duke-altercation-womens-basketball/"
     },
     {
-      "title": "Stephen Curry Warms Up in Nike Shoes on Video After Parting Ways with Under Armour - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25294600-stephen-curry-warms-nike-shoes-video-after-parting-ways-under-armour"
-    },
-    {
       "title": "Brandon Duhaime is on the precipice of tying a Capitals franchise record - RMNB",
       "link": "https://russianmachineneverbreaks.com/2025/11/14/brandon-duhaime-game-opening-goals-capitals-franchise-record/"
     },
     {
-      "title": "Oakland Laney College Coach John Beam Dies After Campus Shooting - KQED",
-      "link": "https://www.kqed.org/news/12064112/suspect-arrested-in-shooting-of-oakland-laney-college-coach-john-beam"
+      "title": "\u2018Last Chance U\u2019 football coach John Beam has died after being shot on campus - AP News",
+      "link": "https://apnews.com/article/john-beam-shooting-last-chance-u-oakland-arrest-6c398d3216d3f3a5fbbcc85c68030e26"
     },
     {
-      "title": "Kai Trump has better second day but misses cut in first LPGA tournament - New York Post",
-      "link": "https://nypost.com/2025/11/14/sports/kai-trump-misses-cut-in-first-lpga-tournament/"
+      "title": "Justin Fields\u2019 latest ugly flop might finally get Aaron Glenn to make Jets QB switch - New York Post",
+      "link": "https://nypost.com/2025/11/14/sports/justin-fields-latest-flop-might-get-aaron-glenn-to-make-jets-qb-switch/"
     },
     {
       "title": "No. 12 BYU vs. TCU: Can Cougars finally solve Horned Frogs on Saturday night? - Deseret News",
@@ -158,16 +158,16 @@
       "link": "https://www.packers.com/news/packers-giants-injury-report-week-11-nov-14-2025"
     },
     {
+      "title": "'She can play at the highest level': Kai Trump caps LPGA debut with 75, near ace and positive impression - golfchannel.com",
+      "link": "https://www.golfchannel.com/lpga/news/she-can-play-at-the-highest-level-kai-trump-caps-lpga-debut-with-75-positive-impression"
+    },
+    {
       "title": "Texas Getting Obliterated By Georgia Tops The Wishlist Of A Handful Of College Football Contenders - OutKick",
       "link": "https://www.outkick.com/sports/college-football-programs-want-texas-obliterated-by-georgia"
     },
     {
       "title": "5 Final Thoughts Ahead of Chargers-Jaguars in Week 11 - Los Angeles Chargers",
       "link": "https://www.chargers.com/news/jaguars-game-preview-playoff-odds"
-    },
-    {
-      "title": "It\u2019s time for all of us to embrace hard conversations Marshawn Kneeland\u2019s death sparked - Dallas News",
-      "link": "https://www.dallasnews.com/sports/cowboys/2025/11/14/marshawn-kneeland-death-dallas-cowboys-dak-prescott/"
     }
   ],
   "weather": {
