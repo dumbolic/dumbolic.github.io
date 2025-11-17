@@ -1,9 +1,9 @@
 {
-  "quote": "What the mind can conceive, it can achieve. \u2013 Napoleon Hill",
-  "fact": "The Minneapolis phone book has 21 pages of Andersons.",
-  "crypto": "BTC: $94,979 | ETH: $3,187.59",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
+  "quote": "There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. \u2013 Albert Einstein",
+  "fact": "The average North American will eat 35,000 cookies during their life span.",
+  "crypto": "BTC: $95,353 | ETH: $3,198.27",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I invented a new word! Plagiarism!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDNET",
+      "link": "https://www.zdnet.com/article/oneplus-15-vs-samsung-galaxy-s25-ultra-ive-used-both-android-flagships-and-heres-who-wins/"
+    },
+    {
+      "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kotaku",
+      "link": "https://kotaku.com/dell-dumps-its-vostro-1tb-laptop-for-70-off-now-selling-for-what-generic-budget-laptops-cost-2000644605"
+    },
+    {
       "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/11/corpse-party-tetralogy-pack-switch-western-release-cancelled"
+    },
+    {
+      "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
+      "link": "https://www.bgr.com/2027318/tech-gifts-for-people-have-everything/"
+    },
+    {
+      "title": "New round of Nintendo Switch backwards compatibility fixes live on Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-backwards-compatibility-fixes-november-2025/"
     },
     {
       "title": "Escape From Tarkov players slam Steam launch: \"It is not a game. It is a cosmic punishment\" - Eurogamer",
       "link": "https://www.eurogamer.net/escape-from-tarkov-players-slam-steam-launch-it-is-not-a-game-it-is-a-cosmic-punishment"
     },
     {
-      "title": "This MacBook Air Is Only $195 Until November 16 - PCMag",
-      "link": "https://www.pcmag.com/deals/this-macbook-air-is-only-195-until-november-16"
-    },
-    {
       "title": "Saturday Pre-orders \u2013 Seize a Battleforce in time for Christmas - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/snmg8mvz/saturday-pre-orders-seize-a-battleforce-in-time-for-christmas"
+    },
+    {
+      "title": "Best early Black Friday MacBook Air deals slash up to $600 off - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/11/15/best-early-black-friday-macbook-air-deals-slash-up-to-600-off"
     },
     {
       "title": "Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Disaster Back - Push Square",
       "link": "https://www.pushsquare.com/news/2025/11/sony-trying-to-silence-concord-revival-project-after-fans-brought-ps5-pc-disaster-back"
     },
     {
-      "title": "A mild symptom was bothering a young dad. He had Stage IV lung cancer. - CBS News",
-      "link": "https://www.cbsnews.com/news/ultramarathon-runner-lung-cancer-non-smoker-northwestern-medicine-michigan/"
+      "title": "A stylish new action RPG is making big waves on Steam, but its 'AI chatbot' NPCs have players howling in the wrong ways - PCGamesN",
+      "link": "https://www.pcgamesn.com/where-winds-meet/reception-ai-chatbots"
     },
     {
       "title": "Poll: Have You Had Issues With The Ethernet Port On Switch 2's Dock? - Nintendo Life",
@@ -56,20 +72,16 @@
       "link": "https://www.testingcatalog.com/google-to-release-nano-banana-pro-powered-by-gemini-3-pro-next-week/"
     },
     {
+      "title": "Black Friday AirPods deals \u2014 up to $100 off AirPods Pro 2, Pro 3, AirPods 4 and more - Tom's Guide",
+      "link": "https://www.tomsguide.com/audio/airpods/black-friday-airpods-deals-up-to-usd100-off-airpods-pro-2-pro-3-airpods-4-and-more"
+    },
+    {
       "title": "I think nobody wants AI in Firefox, Mozilla - Hacker News",
       "link": "https://news.ycombinator.com/item?id\\\\u003d45926779"
     },
     {
-      "title": "Gemini for Android gets homepage redesign, black dark theme, & \u2018My Stuff\u2019 - 9to5Google",
-      "link": "http://9to5google.com/2025/11/14/gemini-android-homepage-redesign/"
-    },
-    {
-      "title": "Dell Cuts $3,000 From This 1TB Intel Power Laptop, Now at 75% Off Exclusively on Amazon - Gizmodo",
-      "link": "https://gizmodo.com/dell-cuts-3000-from-this-1tb-intel-power-laptop-now-at-75-off-exclusively-on-amazon-2000686318"
-    },
-    {
-      "title": "Wuxia open world RPG Where Winds Meet is now available on PS5 and PC - RPG Site",
-      "link": "https://www.rpgsite.net/news/18958-where-winds-meet-download-now-ps5-pc-steam"
+      "title": "Galaxy Z TriFold hits a key milestone ahead of US release - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-z-trifold-usa-launch-firmware-testing/"
     },
     {
       "title": "Call of Duty: Black Ops 7 Zombies Review in Progress - IGN",
@@ -78,21 +90,25 @@
     {
       "title": "Most affordable Apple Watch Series 10 models hit all-time lows in early Black Friday sale at $150 off, deals from $249 - 9to5Toys",
       "link": "http://9to5toys.com/2025/11/14/apple-watch-series-10-black-friday-deals-live/"
-    },
-    {
-      "title": "Activision Responds to Complaints of AI-Generated Assets in Call of Duty: Black Ops 7 - IGN",
-      "link": "https://www.ign.com/articles/activision-responds-to-complaints-of-ai-generated-assets-in-call-of-duty-black-ops-7"
-    },
-    {
-      "title": "OnePlus 15: Top-tier variant has a 'hidden' RAM speed boost - Notebookcheck",
-      "link": "https://www.notebookcheck.net/OnePlus-15-Top-tier-variant-has-a-hidden-RAM-speed-boost.1163436.0.html"
-    },
-    {
-      "title": "Lumines Arise & 2 Other Amazing Games To Play This Weekend - Kotaku",
-      "link": "https://kotaku.com/kotaku-games-to-play-goodnight-universe-lumines-arise-2000644454"
     }
   ],
   "sports_news": [
+    {
+      "title": "UFC 322 results: Islam Makhachev easily dominates Jack Della Maddalena to win second UFC title - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/breaking-news/live/ufc-322-live-results-jack-della-maddalena-vs-islam-makhachev-updates-and-round-by-round-analysis-070023724.html"
+    },
+    {
+      "title": "AP Top 25 poll preview: Alabama loss will change the top 5 and USF's loss opens up race for G5 bid - AP News",
+      "link": "https://apnews.com/article/ap-top-25-preview-f6cb71854683a848f6b49ca09e243f8f"
+    },
+    {
+      "title": "Georgia dominates Texas: Bulldogs run away from Longhorns in complete performance - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/georgia-texas-live-updates-score-results-analysis/live/"
+    },
+    {
+      "title": "Ohio State Defensive Back Lorenzo Styles Jr. Breaks Buckeyes' 15-Year Kick Return Touchdown Drought With 100-Yard Return vs. UCLA - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/11/159523/ohio-state-defensive-back-lorenzo-styles-jr-breaks-buckeyes-15-year-kick-return-touchdown-drought-with-100-yard"
+    },
     {
       "title": "UFC 322 video: Dillon Danis, Abubakar Nurmagomedov and others engage in huge brawl - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/456548/ufc-322-video-dillon-danis-abubakar-nurmagomedov-and-others-engage-in-huge-brawl"
@@ -106,6 +122,10 @@
       "link": "https://247sports.com/college/florida-state/longformarticle/florida-state-seminoles-football-virginia-tech-hokies-senior-day-game-updates-261578606/"
     },
     {
+      "title": "3 takeaways from BYU\u2019s close loss to UConn - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/11/15/byu-cougars-basketball-lose-against-uconn-3-takeaways/"
+    },
+    {
       "title": "Nebrasketball Tops Oklahoma in Rivalry Fight at the Sanford Pentagon - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/basketball/nebrasketball-tops-oklahoma-in-rivalry-fight-at-the-sanford-pentagon-2025"
     },
@@ -114,16 +134,20 @@
       "link": "https://russianmachineneverbreaks.com/2025/11/15/devils-beat-caps-3-2-so-after-valiant-comeback/"
     },
     {
-      "title": "Dybantsa goes for 25 in No. 7 BYU's 2-point loss to No. 3 UConn in Boston - KSL.com",
-      "link": "https://www.ksl.com/article/51405975/dybantsa-goes-for-25-in-no-7-byus-2-point-loss-to-no-3-uconn-in-boston"
-    },
-    {
       "title": "Bill Belichick\u2019s UNC team loses sixth game of year, to Wake Forest - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichicks-unc-team-loses-sixth-game-of-year-to-wake-forest"
     },
     {
-      "title": "Texas vs. Georgia live updates: Georgia snatches the lead - AP News",
-      "link": "https://apnews.com/live/texas-georgia-sec-cfp-matchup"
+      "title": "Alabama players describe locker room scene after losing to Oklahoma - 247Sports",
+      "link": "https://247sports.com/college/alabama/article/alabama-players-describe-locker-room-scene-after-losing-to-oklahoma-261704515/"
+    },
+    {
+      "title": "Cutter Boley Lowered His Shoulder and Raised the Energy of the Kentucky Football Team - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/cutter-boley-lowered-his-shoulder-rushing-touchdown-kentucky-football/"
+    },
+    {
+      "title": "Josh Heupel explains Boo Carter\u2019s absence from Tennessee\u2019s win against New Mexico State - 247Sports",
+      "link": "https://247sports.com/college/tennessee/article/boo-carter-tennessee-vols-football-josh-heupel-update-after-new-mexico-state-game-261705941/"
     },
     {
       "title": "The Good, The Bad, and The Ugly: North Carolina State Wolfpack 2025 Edition - State of The U",
@@ -138,10 +162,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-jaguars-meet-for-first-time-since-wild-card-classic"
     },
     {
-      "title": "National Duals Wrestling 2025 Brackets, Results, Team Scores - FloWrestling",
-      "link": "https://www.flowrestling.org/articles/14752373-national-duals-wrestling-2025-brackets-results-team-scores"
-    },
-    {
       "title": "Donovan Mitchell rescues Cavs in 108-100 win over Memphis Grizzlies - Cleveland.com",
       "link": "https://www.cleveland.com/cavs/2025/11/donovan-mitchell-rescues-cavs-in-108-100-win-over-memphis-grizzlies.html"
     },
@@ -150,24 +170,8 @@
       "link": "https://www.bbc.com/sport/boxing/articles/c20pv0zr2kro"
     },
     {
-      "title": "Oklahoma outlasts Alabama: Sooners keep CFP hopes alive with gritty road win - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/alabama-oklahoma-live-updates-score-results-analysis/live/"
-    },
-    {
-      "title": "Quick hits: Illini defense complements offense, slows Terps in 24-6 win - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-football-maryland-terrapins-quick-hits-recap-261669927/"
-    },
-    {
-      "title": "Injury updates for JJ Starling, Tyler Betsey after Syracuse\u2019s win over Drexel - Syracuse.com",
-      "link": "https://www.syracuse.com/orangebasketball/2025/11/injury-updates-for-jj-starling-tyler-betsey-after-syracuses-win-over-drexel.html"
-    },
-    {
-      "title": "What Notre Dame coach Marcus Freeman said after the Pittsburgh game - On3",
-      "link": "https://www.on3.com/teams/notre-dame-fighting-irish/news/what-notre-dame-fighting-irish-football-coach-marcus-freeman-said-after-pittsburgh-game/"
-    },
-    {
-      "title": "LIVE! UFC 322 Results: JDM vs. Islam - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/456034/ufc-322-results-jdm-vs-islam"
+      "title": "SU basketball's \u2018Juicing Station\u2019 directs defensive energy, dooms Drexel - Syracuse.com",
+      "link": "https://www.syracuse.com/orangebasketball/2025/11/syracuses-basketball-juicing-station-jacks-up-energy-in-win-over-drexel.html"
     }
   ],
   "weather": {
