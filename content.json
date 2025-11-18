@@ -1,9 +1,9 @@
 {
-  "quote": "Without the rain there would be no rainbow. \u2013 Gilbert Chesterton",
-  "fact": "There are more than 40,000 characters in the Chinese script.",
-  "crypto": "BTC: $93,435 | ETH: $3,148.58",
+  "quote": "Less is more. \u2013 Robert Browning",
+  "fact": "Half of all bank robberies take place on a Friday.",
+  "crypto": "BTC: $93,349 | ETH: $3,150.91",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Debugging: Being the detective in a crime movie where you are also the murderer.",
+  "joke": "Yesterday, I accidentally swallowed some food coloring. The doctor says I\u2019m okay, but I feel like I\u2019ve dyed a little inside.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,80 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "AI is revolutionizing healthcare",
-      "link": "https://example.com/ai-health"
+      "title": "Xbox Partner Preview: See the Latest Games From Our Amazing Third Party Partners This Week - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/"
     },
     {
-      "title": "Quantum computing breakthroughs announced",
-      "link": "https://example.com/quantum"
+      "title": "Paradox Interactive parts ways with Cities: Skylines studio after over 15 years, as publisher's misfortunes continue - Eurogamer",
+      "link": "https://www.eurogamer.net/paradox-interactive-parts-ways-with-cities-skylines-studio-after-over-15-years-as-publishers-misfortunes-continue"
+    },
+    {
+      "title": "Subnautica 2 Publisher Asked ChatGPT For Help Dumping Founders - Kotaku",
+      "link": "https://kotaku.com/subnautica-2-krafton-lawsuit-chatgpt-2000644792"
+    },
+    {
+      "title": "AMD rumored to raise GPU prices just as Radeon RX 9070 XT finally reaches MSRP - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-rumored-to-raise-gpu-prices-just-as-radeon-rx-9070-xt-finally-reaches-msrp"
+    },
+    {
+      "title": "Fans Bring Concord Back To Life As Sony Tries To Nuke The Evidence - Kotaku",
+      "link": "https://kotaku.com/concord-revive-fan-servers-mod-sony-playstation-dmca-2000644800"
+    },
+    {
+      "title": "RUMOR: EA Is Working on The Sims 4 Remastered - Sims Community",
+      "link": "https://simscommunity.info/2025/11/17/the-sims-4-remastered-rumor/"
+    },
+    {
+      "title": "Exclusive Leak: Sony A7V Ditches HDMI port for Dual USB-C! - SonyAlphaRumors",
+      "link": "https://www.sonyalpharumors.com/exclusive-leak-sony-a7v-ditches-hdmi-port-for-dual-usb-c/"
+    },
+    {
+      "title": "Old World Almanack \u2013 Chaos Marauders designers\u2019 notes - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes"
+    },
+    {
+      "title": "Don't worry, Resident Evil Requiem won't have PC woes like Monster Hunter Wilds, says Capcom - Eurogamer",
+      "link": "https://www.eurogamer.net/dont-worry-resident-evil-requiem-wont-have-pc-woes-like-monster-hunter-wilds-says-capcom"
+    },
+    {
+      "title": "How to clear your Android phone cache (and wipe out lag for good) - ZDNET",
+      "link": "https://www.zdnet.com/article/how-to-clear-your-android-phone-cache-and-wipe-out-lag-for-good/"
+    },
+    {
+      "title": "MSI\u2019s $380 QD-OLED gaming monitor is one of 2025\u2019s best deals so far - The Verge",
+      "link": "https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday"
+    },
+    {
+      "title": "Arc Raiders breaks its PC record yet again as it inches towards half a million concurrent players - Eurogamer",
+      "link": "https://www.eurogamer.net/arc-raiders-breaks-its-pc-record-yet-again-as-it-inches-towards-half-a-million-concurrent-players"
+    },
+    {
+      "title": "X launches Chat, its new encrypted DMs - The Verge",
+      "link": "https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls"
+    },
+    {
+      "title": "Google is collecting troves of data from downgraded Nest thermostats - The Verge",
+      "link": "https://www.theverge.com/news/820600/google-nest-learning-thermostat-downgraded-data-collection"
+    },
+    {
+      "title": "Best Fire TV Cube deal: Save $50 at Amazon - Mashable",
+      "link": "https://mashable.com/article/nov-17-fire-tv-cube-deal"
+    },
+    {
+      "title": "U.S. Congressman Blasts Call of Duty: Black Ops 7's Alleged AI Images: 'We Need Regulations That Prevent Companies from using AI to Eliminate Jobs' - IGN",
+      "link": "https://www.ign.com/articles/us-congressman-blasts-call-of-duty-black-ops-7s-alleged-ai-images-we-need-regulations-that-prevent-companies-from-using-ai-to-eliminate-jobs"
+    },
+    {
+      "title": "Forget Samsung S25 Ultra: This OnePlus just topped the Galaxy in meaningful ways - ZDNET",
+      "link": "https://www.zdnet.com/article/forget-samsung-s25-ultra-this-oneplus-just-topped-the-galaxy-in-meaningful-ways/"
+    },
+    {
+      "title": "PS5 RPG Where Winds Meet Makes a Strong Start with Two Million Players - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/11/ps5-rpg-where-winds-meet-makes-a-strong-start-with-two-million-players"
+    },
+    {
+      "title": "OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful\u2014and Have You Pay For It - WIRED",
+      "link": "https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/"
     }
   ],
   "sports_news": [
