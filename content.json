@@ -1,9 +1,9 @@
 {
-  "quote": "Less is more. \u2013 Robert Browning",
-  "fact": "Half of all bank robberies take place on a Friday.",
-  "crypto": "BTC: $93,349 | ETH: $3,150.91",
+  "quote": "If you can't imagine it, you can't have it. \u2013 Toni Morrison",
+  "fact": "The international telephone dialing code for Antarctica is 672.",
+  "crypto": "BTC: $93,337 | ETH: $3,142.25",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Yesterday, I accidentally swallowed some food coloring. The doctor says I\u2019m okay, but I feel like I\u2019ve dyed a little inside.",
+  "joke": "Why did the half blind man fall in the well? Because he couldn't see that well!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Overwatch 2's new damage hero is melee-focused hard (light) hitter Vendetta - Polygon",
+      "link": "https://www.polygon.com/overwatch-2-new-hero-45-vendetta-la-lupa-trailer/"
+    },
+    {
+      "title": "The Game Awards Nominations 2025: \u2018Clair Obscur: Expedition 33\u2019 Becomes Most-Nominated Game Ever With 12 Nods - Variety",
+      "link": "https://variety.com/2025/gaming/news/game-awards-nominations-2025-list-1236583686/"
+    },
+    {
+      "title": "As Windows Turns 40, It\u2019s \u2018Evolving\u2019 Into a Bloated AI Slop Machine - Gizmodo",
+      "link": "https://gizmodo.com/windows-40-year-anniversary-evolving-into-bloated-ai-slop-copilot-2000686932"
+    },
+    {
+      "title": "Subnautica 2 publisher Krafton allegedly looked to ChatGPT to figure out how to not pay that $250 million bonus - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/subnautica-2-publisher-krafton-allegedly-looked-to-chatgpt-to-figure-out-how-to-not-pay-that-250-million-bonus"
+    },
+    {
+      "title": "Cities: Skylines upheaval: Developer and publisher announce \u201cmutual\u201d breakup - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/11/cities-skylines-upheaval-developer-and-publisher-announce-mutual-breakup/"
+    },
+    {
       "title": "Xbox Partner Preview: See the Latest Games From Our Amazing Third Party Partners This Week - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/"
     },
     {
-      "title": "Paradox Interactive parts ways with Cities: Skylines studio after over 15 years, as publisher's misfortunes continue - Eurogamer",
-      "link": "https://www.eurogamer.net/paradox-interactive-parts-ways-with-cities-skylines-studio-after-over-15-years-as-publishers-misfortunes-continue"
+      "title": "Call of Duty: Black Ops 7 underperforms on Steam during launch weekend, but does that mean the game's sold badly? - Eurogamer",
+      "link": "https://www.eurogamer.net/call-of-duty-black-ops-7-underperforms-on-steam-during-launch-weekend-but-does-that-mean-the-games-sold-badly"
     },
     {
-      "title": "Subnautica 2 Publisher Asked ChatGPT For Help Dumping Founders - Kotaku",
-      "link": "https://kotaku.com/subnautica-2-krafton-lawsuit-chatgpt-2000644792"
+      "title": "Secret no more: Android Canary confirms 'Cinnamon Bun' is Android 17's codename - Android Authority",
+      "link": "https://www.androidauthority.com/android-17-codename-confirmed-3616448/"
     },
     {
-      "title": "AMD rumored to raise GPU prices just as Radeon RX 9070 XT finally reaches MSRP - VideoCardz.com",
-      "link": "https://videocardz.com/newz/amd-rumored-to-raise-gpu-prices-just-as-radeon-rx-9070-xt-finally-reaches-msrp"
+      "title": "Resident Evil Requiem's Leon Kennedy 'Leaks' Are Fake News, Says Capcom - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/11/resident-evil-requiems-leon-kennedy-leaks-are-fake-news-says-capcom"
     },
     {
-      "title": "Fans Bring Concord Back To Life As Sony Tries To Nuke The Evidence - Kotaku",
-      "link": "https://kotaku.com/concord-revive-fan-servers-mod-sony-playstation-dmca-2000644800"
+      "title": "An adventurer\u2019s guide to Warhammer Quest: Darkwater \u2013 The basic rules - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/h2qdou5l/an-adventurers-guide-to-warhammer-quest-darkwater-the-basic-rules"
+    },
+    {
+      "title": "AMD Reportedly Notifies of Imminent GPU Price Hike: All Models To Be Affected Due To Rising Memory Costs - Wccftech",
+      "link": "https://wccftech.com/amd-notifies-imminent-gpu-price-hike-all-models-affected-due-to-rising-memory-costs/"
+    },
+    {
+      "title": "Sony Clamps Down On Concord Revival Fan Project - GameSpot",
+      "link": "https://www.gamespot.com/articles/sony-clamps-down-on-concord-revival-fan-project/1100-6536268/"
     },
     {
       "title": "RUMOR: EA Is Working on The Sims 4 Remastered - Sims Community",
@@ -52,70 +80,74 @@
       "link": "https://www.zdnet.com/article/how-to-clear-your-android-phone-cache-and-wipe-out-lag-for-good/"
     },
     {
+      "title": "Open world action RPG Where Winds Meet tops 2 million players in its first weekend, with a concurrent peak of 190,000 on Steam alone as it rakes in Very Positive reviews - GamesRadar+",
+      "link": "https://www.gamesradar.com/games/action-rpg/open-world-action-rpg-where-winds-meet-tops-2-million-players-in-its-first-weekend-with-a-concurrent-peak-of-190-000-on-steam-alone-as-it-rakes-in-very-positive-reviews/"
+    },
+    {
       "title": "MSI\u2019s $380 QD-OLED gaming monitor is one of 2025\u2019s best deals so far - The Verge",
       "link": "https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday"
-    },
-    {
-      "title": "Arc Raiders breaks its PC record yet again as it inches towards half a million concurrent players - Eurogamer",
-      "link": "https://www.eurogamer.net/arc-raiders-breaks-its-pc-record-yet-again-as-it-inches-towards-half-a-million-concurrent-players"
-    },
-    {
-      "title": "X launches Chat, its new encrypted DMs - The Verge",
-      "link": "https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls"
-    },
-    {
-      "title": "Google is collecting troves of data from downgraded Nest thermostats - The Verge",
-      "link": "https://www.theverge.com/news/820600/google-nest-learning-thermostat-downgraded-data-collection"
-    },
-    {
-      "title": "Best Fire TV Cube deal: Save $50 at Amazon - Mashable",
-      "link": "https://mashable.com/article/nov-17-fire-tv-cube-deal"
-    },
-    {
-      "title": "U.S. Congressman Blasts Call of Duty: Black Ops 7's Alleged AI Images: 'We Need Regulations That Prevent Companies from using AI to Eliminate Jobs' - IGN",
-      "link": "https://www.ign.com/articles/us-congressman-blasts-call-of-duty-black-ops-7s-alleged-ai-images-we-need-regulations-that-prevent-companies-from-using-ai-to-eliminate-jobs"
-    },
-    {
-      "title": "Forget Samsung S25 Ultra: This OnePlus just topped the Galaxy in meaningful ways - ZDNET",
-      "link": "https://www.zdnet.com/article/forget-samsung-s25-ultra-this-oneplus-just-topped-the-galaxy-in-meaningful-ways/"
-    },
-    {
-      "title": "PS5 RPG Where Winds Meet Makes a Strong Start with Two Million Players - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/11/ps5-rpg-where-winds-meet-makes-a-strong-start-with-two-million-players"
-    },
-    {
-      "title": "OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful\u2014and Have You Pay For It - WIRED",
-      "link": "https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/"
     }
   ],
   "sports_news": [
     {
-      "title": "Kevin O\u2019Connell working to balance what\u2019s best for J.J. McCarthy with what\u2019s best for team - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-working-to-balance-whats-best-for-j-j-mccarthy-with-whats-best-for-team"
+      "title": "Report: Michael Penix Jr. will be placed on IR, has damage to ACL - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-michael-penix-jr-will-be-placed-on-ir-has-damage-to-acl"
     },
     {
-      "title": "Aaron Rodgers is \"50-50\" for Sunday at Bears - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-is-50-50-for-sunday-at-bears"
+      "title": "Giants benched Abdul Carter for sleeping during walkthrough as concerning trend emerges - New York Post",
+      "link": "https://nypost.com/2025/11/17/sports/reason-for-giants-benching-abdul-carter-revealed/"
     },
     {
-      "title": "Lack of first-team reps showed in the Shedeur Sanders debut - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lack-of-first-team-reps-showed-in-the-shedeur-sanders-debut"
+      "title": "Reports: Josh Jacobs\u2019 knee is structurally intact, considered week-to-week - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-josh-jacobs-knee-is-structurally-intact-considered-week-to-week"
     },
     {
-      "title": "Commanders Vs. Dolphins (Madrid) - Studs and Duds (by @Tiller56) - Hogs Haven",
-      "link": "https://www.hogshaven.com/studs-and-duds/389378/commanders-vs-dolphins-madrid-studs-and-duds"
+      "title": "Hall of Fame releases ballot for 2026 election - MLB.com",
+      "link": "https://www.mlb.com/news/2026-baseball-hall-of-fame-ballot-released"
+    },
+    {
+      "title": "The Grey Cup Was Decided On A Goal Line Fumble - Defector",
+      "link": "https://defector.com/the-grey-cup-was-decided-on-a-goal-line-fumble"
+    },
+    {
+      "title": "Lane Johnson injury update: Eagles tackle could miss 4 to 6 weeks - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/163989/lane-johnson-injury-news-lisfranc-foot-injured-reserve-eagles-nfl"
+    },
+    {
+      "title": "RandBall: Vikings\u2019 visible frustration boiled over in Sunday\u2019s loss - Star Tribune",
+      "link": "https://www.startribune.com/minnesota-vikings-kevin-oconnell-jj-mccarthy-justin-jefferson/601527463"
+    },
+    {
+      "title": "Dan Campbell\u2019s \u201cbig onions\u201d cost the Lions against the Eagles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbells-big-onions-cost-the-lions-against-the-eagles"
+    },
+    {
+      "title": "Prosecutor: A. Brown could face 30 years if guilty - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/46999335/prosecutor-antonio-brown-face-30-years-prison-guilty"
+    },
+    {
+      "title": "Report: Drake London out at least a week with a PCL sprain - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-drake-london-out-at-least-a-week-with-pcl-sprain"
+    },
+    {
+      "title": "Deion Sanders Reveals He Cried When Shedeur Entered for Browns vs. Ravens in Video - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25296577-deion-sanders-reveals-he-cried-when-shedeur-entered-browns-vs-ravens-video"
     },
     {
       "title": "The Opener: Naylor, Mariners, Nationals - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/11/the-opener-naylor-mariners-nationals.html"
     },
     {
-      "title": "Will NFL suspend Ja\u2019Marr Chase for spitting on Jalen Ramsey? - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-nfl-suspend-jamarr-chase-for-spitting-on-jalen-ramsey"
+      "title": "Week 11 NFL Takeaways: Why the Rams Don\u2019t \u2018Have Any Ceiling\u2019 - Sports Illustrated",
+      "link": "https://www.si.com/nfl/week-11-nfl-takeaways-rams-have-no-ceiling"
     },
     {
-      "title": "Dan Campbell on 4th downs: Conservatism would have given Lions\u2019 best odds - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/149323/dan-campbell-on-4th-downs-conservatism-would-have-given-lions-best-odds"
+      "title": "Minnesota's Team Shuster ousted from Olympic Trials - kare11.com",
+      "link": "https://www.kare11.com/article/sports/olympics/minnesotas-team-shuster-ousted-from-olympic-trials/89-f3447783-94cb-4a79-aef5-b3fe16c2a2ba"
+    },
+    {
+      "title": "NFL Week 12 Power Rankings: Rams, Bills, Eagles Rise as Chiefs, Seahawks, Buccaneers Fall - Sportsnaut",
+      "link": "https://sportsnaut.com/nfl/nfl-week-12-power-rankings-2025-best-nfl-teams-right-now"
     },
     {
       "title": "Parker Gabriel\u2019s 7 thoughts after an AFC West-shaping win over K.C., including Bo Nix \u2018begging\u2019 Sean Payton to get plays called faster - The Denver Post",
@@ -130,40 +162,8 @@
       "link": "https://www.nbcnews.com/sports/nfl/patrick-mahomes-chiefs-broncos-rcna244296"
     },
     {
-      "title": "Steelers vs. Bengals: What they're saying in Cincinnati after the loss - TribLIVE.com",
-      "link": "https://triblive.com/sports/steelers-vs-bengals-what-theyre-saying-in-cincinnati-after-the-loss/"
-    },
-    {
-      "title": "Referee Alex Kemp defends \"absolutely terrible\" pass interference call in Lions-Eagles - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/referee-alex-kemp-defends-absolutely-terrible-pass-interference-call-in-lions-eagles"
-    },
-    {
-      "title": "Grading the 49ers' players and coaches after beating the Cardinals 41-22 - Sports Illustrated",
-      "link": "https://www.si.com/nfl/49ers/onsi/news/grading-49ers-players-coaches-after-beating-cardinals-41-22"
-    },
-    {
-      "title": "Baltimore Ravens vs. Cleveland Browns Live Score and Stats - November 16, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251116_BAL@CLE/"
-    },
-    {
-      "title": "Livid Rangers goalie sparks benches-clearing fight with Red Wings after loss - New York Post",
-      "link": "https://nypost.com/2025/11/16/sports/rangers-goalie-sparks-benches-clearing-fight-with-red-wings-after-loss/"
-    },
-    {
-      "title": "2025 NFL Playoff Picture, Week 11: Who\u2019s In and Who\u2019s Out - Sports Illustrated",
-      "link": "https://www.si.com/nfl/2025-nfl-playoff-picture-week-11"
-    },
-    {
-      "title": "Reporter Bob Condotta grades Seahawks\u2019 loss vs. Rams | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/reporter-bob-condotta-grades-seahawks-loss-vs-rams-analysis/"
-    },
-    {
-      "title": "BYU\u2019s offensive line unloads on TCU\u2019s reputed run defense - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/11/16/byu-offensive-line-dominates-blowout-win-over-tcu/"
-    },
-    {
-      "title": "Ohio State Wrestling Dominates National Duals Invitational With Wins Over No. 2 Nebraska, No. 3 Iowa - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-wrestling/2025/11/159560/ohio-state-wrestling-dominates-national-duals-invitational-with-wins-over-no-2-nebraska-no-3-iowa"
+      "title": "Todd Bowles: You\u2019re supposed to win when you score 32 points - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-youre-supposed-to-win-when-you-score-32-points"
     }
   ],
   "weather": {
