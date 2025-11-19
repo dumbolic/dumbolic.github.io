@@ -1,9 +1,9 @@
 {
-  "quote": "An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind. \u2013 Ayn Rand",
-  "fact": "The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.",
-  "crypto": "BTC: $91,539 | ETH: $3,046.81",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Where do you take someone who\u2019s been injured in a peek-a-boo accident? To the I.C.U.",
+  "quote": "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. \u2013 Confucius",
+  "fact": "An average human scalp has 100,000 hairs.",
+  "crypto": "BTC: $91,960 | ETH: $3,063.26",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\"",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Analogue3D Review - IGN",
+      "link": "https://www.ign.com/articles/analogue3d-review"
+    },
+    {
+      "title": "Microsoft is turning Windows into an \u2018agentic OS,\u2019 starting with the taskbar - The Verge",
+      "link": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
+    },
+    {
+      "title": "The 30 best Christmas gifts for gamers and movie lovers - The Verge",
+      "link": "https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025"
+    },
+    {
+      "title": "Guild Wars Reforged announced for PC - Gematsu",
+      "link": "https://www.gematsu.com/2025/11/guild-wars-reforged-announced-for-pc"
+    },
+    {
+      "title": "Mapping the future with 3D-printed titanium Apple Watch cases - Apple",
+      "link": "https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/"
+    },
+    {
       "title": "Coming to Xbox Game Pass: Fortnite Crew, The Crew Motorfest, Moonlighter 2: The Endless Vault, and More - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2025/11/18/xbox-game-pass-november-2025-wave-2/"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33\u2019s Game Awards nominations show \u2018indie\u2019 is still a meaningless term - Polygon",
+      "link": "https://www.polygon.com/clair-obscur-expedition-33-sandfall-indie-the-game-awards-nominations/"
     },
     {
       "title": "Sony is taking $100 off its PS5 consoles for Black Friday - The Verge",
@@ -24,10 +48,6 @@
       "link": "https://www.eurogamer.net/in-the-wake-of-battlefield-6-and-arc-radiers-call-of-duty-black-ops-7-suffered-a-much-smaller-launch-than-previous-cod-games"
     },
     {
-      "title": "'The World Is Just Not Ready for AI in Video Games' \u2014 Shroud Accuses The Game Awards of Being 'Rigged' Following Arc Raiders GOTY Snub - IGN",
-      "link": "https://www.ign.com/articles/the-world-is-just-not-ready-for-ai-in-video-games-shroud-accuses-the-game-awards-of-being-rigged-following-arc-raiders-goty-snub"
-    },
-    {
       "title": "Steam Machine and Steam Frame: your questions answered - The Verge",
       "link": "https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq"
     },
@@ -36,12 +56,24 @@
       "link": "https://www.eurogamer.net/gta-6-may-not-have-a-pc-release-yet-but-the-games-industry-is-heading-towards-pc-dominance-believes-publishers-ceo"
     },
     {
-      "title": "Interplay Co-Founder and 'Trailblazing' Developer Rebecca Heineman Dies Aged 62 - IGN",
-      "link": "https://www.ign.com/articles/interplay-co-founder-and-trailblazing-developer-rebecca-heineman-dies-aged-62"
-    },
-    {
       "title": "Has Samsung Installed \u2018Unremovable Israeli Spyware\u2019 On Your Phone? - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2025/11/18/has-samsung-installed-unremovable-israeli-spyware-on-your-phone/"
+    },
+    {
+      "title": "The Rumour Engine \u2013 18th of November - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/hzhor33z/the-rumour-engine-18th-of-november"
+    },
+    {
+      "title": "4 changes I made immediately after 1.3 billion passwords were stolen - PCWorld",
+      "link": "https://www.pcworld.com/article/2974267/4-changes-i-made-immediately-after-1-3-billion-passwords-were-stolen.html"
+    },
+    {
+      "title": "Interplay co-founder and LGBTQ+ icon Rebecca Heineman dies from cancer - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/interplay-co-founder-rebecca-heineman-dies-from-cancer"
+    },
+    {
+      "title": "2025 MY GIRL - Scotty Cameron",
+      "link": "https://www.scottycameron.com/putters/limited-release/2025-my-girl/"
     },
     {
       "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
@@ -56,66 +88,58 @@
       "link": "https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/"
     },
     {
-      "title": "Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models - Kotaku",
-      "link": "https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975"
-    },
-    {
-      "title": "Lenovo's 1TB Laptop Is Almost Free (Ryzen 5, 24GB RAM, Windows 11), Amazon Cuts 62% to Clear Stock - Gizmodo",
-      "link": "https://gizmodo.com/lenovos-1tb-laptop-is-almost-free-ryzen-5-24gb-ram-windows-11-amazon-cuts-62-to-clear-stock-2000686895"
-    },
-    {
-      "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company"
-    },
-    {
-      "title": "Apple confirms side-button support for third-party voice assistants other than Siri in Japan - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/17/iphone-replace-siri-side-button-japan-ios-26-2/"
-    },
-    {
-      "title": "Black Friday Apple Watch deals \u2014 take $50 off Apple Watch 11 and SE 3 - Tom's Guide",
-      "link": "https://www.tomsguide.com/wellness/smartwatches/black-friday-apple-watch-deals-up-to-usd50-off-apple-watch-11-and-se-3"
-    },
-    {
-      "title": "Explosive Unknown Worlds lawsuit filing claims Krafton created secret task force to \"execute a takeover\" - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/explosive-unknown-worlds-lawsuit-filing-claims-krafton-created-secret-task-force-to-execute-a-takeover"
-    },
-    {
-      "title": "Timoth\u00e9e Chalamet Breaks Down That Iconic \u2018Dune Part Two\u2019 Speech - Gizmodo",
-      "link": "https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034"
-    },
-    {
-      "title": "Escape From Tarkov Is Finally On Steam And Nobody\u2019s Happy - Kotaku",
-      "link": "https://kotaku.com/escape-from-tarkov-steam-1-0-unheard-edition-2000644941"
+      "title": "Games Leaving PS Plus in December 2025 Confirmed - PlayStation LifeStyle",
+      "link": "https://www.playstationlifestyle.net/2025/11/17/games-leaving-ps-plus-extra-premium-december-2025/"
     }
   ],
   "sports_news": [
+    {
+      "title": "James Franklin offers ex-Penn State commit Roseby Lubintus, who quickly locks in Virginia Tech official visit - 247Sports",
+      "link": "https://247sports.com/article/james-franklin-offers-ex-penn-state-commit-roseby-lubintus-who-quickly-locks-in-virginia-tech-official-visit-262068607/"
+    },
+    {
+      "title": "Ja\u2019Marr Chase has $448,333 riding on today\u2019s appeal hearing - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-has-448-333-riding-on-todays-appeal-hearing"
+    },
+    {
+      "title": "Matt Brown criticizes Jack Della Maddalena\u2019s coaches after loss to Islam Makhachev: \u2018It was just driving me nuts\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/457130/matt-brown-criticizes-jack-della-maddalenas-coaches-after-loss-to-islam-makhachev-it-was-just-driving-me-nuts"
+    },
+    {
+      "title": "Andy Reid: Season\u2019s not lost, but we have to clean things up now - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-seasons-not-lost-but-we-have-to-clean-things-up-now"
+    },
+    {
+      "title": "NBA mock draft 2026: Updated projection as \u2018Big 3\u2019 tank race heats up - SB Nation",
+      "link": "https://www.sbnation.com/nba/1089527/nba-mock-draft-2026-updated-projection-as-big-3-tank-race-heats-up"
+    },
     {
       "title": "Mo\u2019ne Davis Is Finally Ready to Play Baseball Again - Sports Illustrated",
       "link": "https://www.si.com/mlb/mone-davis-finally-ready-to-play-baseball-again-digital-cover"
     },
     {
-      "title": "Chiefs News 11/18: The Chiefs aren\u2019t broken - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/186898/chiefs-news-11-18-the-chiefs-arent-broken"
+      "title": "Cam Skattebo did some pushing and shoving at Monday Night Raw - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-did-some-pushing-and-shoving-at-monday-night-raw"
+    },
+    {
+      "title": "The MLB 2025-26 Free Agency Tier List - The Ringer",
+      "link": "https://www.theringer.com/2025/11/18/mlb/mlb-free-agency-hot-stove-tiers-ranking-kyle-tucker-schwarber"
     },
     {
       "title": "Eagles vs. Lions: 12 winners and 1 giant loser - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/164084/eagles-vs-lions-12-winners-and-1-giant-loser"
     },
     {
-      "title": "First Call: Ja'Marr Chase's odd appeal strategy after spitting suspension; George Pickens shines after benching - TribLIVE.com",
-      "link": "https://triblive.com/sports/first-call-jamarr-chases-odd-appeal-strategy-after-spitting-suspension-george-pickens-shines-after-benching/"
-    },
-    {
-      "title": "NFL Power Rankings for Week 12: No one saw this coming from Chiefs in jumbled hierarchy - New York Post",
-      "link": "https://nypost.com/2025/11/18/sports/nfl-power-rankings-for-week-12-no-one-saw-this-coming/"
+      "title": "Jerry Jones: I\u2019ve never seen a performance like George Pickens had on Monday night - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-ive-never-seen-a-performance-like-george-pickens-had-on-monday-night"
     },
     {
       "title": "Kris Boyd remains hospitalized, with his shooter still at large - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kris-boyd-remains-hospitalized-with-his-shooter-still-at-large"
     },
     {
-      "title": "'Scotland's shackles of past must be shaken in World Cup pursuit' - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c4g3nlgzd5vo"
+      "title": "Waiver Wire Winners for Fantasy Football \u2013 Week 12 - FantraxHQ",
+      "link": "https://fantraxhq.com/waiver-wire-winners-for-fantasy-football-week-12/"
     },
     {
       "title": "Quinnen Williams on explosive debut: 'I wanna stack these' - Dallas Cowboys | Official Site of the Dallas Cowboys",
@@ -126,8 +150,12 @@
       "link": "https://www.dallascowboys.com/news/pic-6-ceedee-lamb-and-george-pickens-respond-more-from-cowboys-33-16-win-vs-raiders"
     },
     {
-      "title": "Hokies coach James Franklin reaches out to Penn State LB Mathieu Lamah, who discusses interest - 247Sports",
-      "link": "https://247sports.com/article/hokies-coach-james-franklin-reaches-out-to-penn-state-lb-mathieu-lamah-who-discusses-interest-262064826/"
+      "title": "Brian Schottenhimer: \"There were some things that were missed\" by CeeDee Lamb and George Pickens - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenhimer-there-were-some-things-that-were-missed-by-ceedee-lamb-and-george-pickens"
+    },
+    {
+      "title": "NFL Week 11 Recap: Immediate fantasy football takeaways from Cowboys-Raiders Monday Night Football - PFF",
+      "link": "https://www.pff.com/news/fantasy-football-takeaways-from-cowboys-raiders-monday-night-football-week-11"
     },
     {
       "title": "Pool Report on why a Foul was not Called on James Harden\u2019s three-point attempt with 6.3 Seconds left in the LA Clippers at Philadelphia Game Tonight. - official NBA",
@@ -138,36 +166,12 @@
       "link": "https://nypost.com/2025/11/17/sports/ole-miss-hands-lane-kiffin-ultimatum-to-make-his-coaching-decision-as-rumors-swirl/"
     },
     {
+      "title": "Trump threatens Seattle\u2019s World Cup, calls Mayor-elect Wilson \u2018communist\u2019 - The Seattle Times",
+      "link": "https://www.seattletimes.com/seattle-news/politics/trump-threatens-seattles-world-cup-calls-mayor-elect-wilson-communist/"
+    },
+    {
       "title": "Uh oh, Ovi\u2019s heating up: Caps beat Kings 2-1 - RMNB",
       "link": "https://russianmachineneverbreaks.com/2025/11/17/uh-oh-ovis-heating-up-caps-beat-kings-2-1/"
-    },
-    {
-      "title": "CeeDee Lamb, George Pickens didn\u2019t play first series - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-george-pickens-didnt-play-first-series"
-    },
-    {
-      "title": "Former Cleveland greats running out of time on Cooperstown Hall of Fame ballot - Cleveland.com",
-      "link": "https://www.cleveland.com/guardians/2025/11/former-cleveland-greats-running-out-of-time-on-cooperstown-hall-of-fame-ballot.html"
-    },
-    {
-      "title": "Josh Naylor reportedly returning to Mariners on 5-year, $92.5M deal as MLB's first major free-agent signing - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/josh-naylor-reportedly-returning-to-mariners-on-5-year-925m-deal-as-mlbs-first-major-free-agent-signing-012825998.html"
-    },
-    {
-      "title": "Man charged with murder in shooting of Beam - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47003523/man-charged-murder-last-chance-u-coach-john-beam-death"
-    },
-    {
-      "title": "Five Observations from Germany\u2019s 6-0 demolition of Slovakia in the World Cup Qualifiers - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/148996/germany-vs-slovakia-observations-match-analysis-world-cup-qualifiers-julian-nagelsmann"
-    },
-    {
-      "title": "Packers RB Josh Jacobs \u2018potentially\u2019 could play this week vs. Vikings - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-rb-josh-jacobs-potentially-could-play-this-week-vs-vikings-nov-17-2025"
-    },
-    {
-      "title": "Minnesota Vikings path to fixing QB J.J. McCarthy could be making one offensive change, and the same was true with Carson Wentz - A to Z Sports",
-      "link": "https://atozsports.com/nfl/minnesota-vikings-news/fixing-jj-mccarthy-simple-change-kevin-oconnell-carson-wentz/"
     }
   ],
   "weather": {
