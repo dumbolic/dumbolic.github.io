@@ -1,9 +1,9 @@
 {
-  "quote": "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. \u2013 Ming-Dao Deng",
-  "fact": "Honeybees have a type of hair on their eyes!",
-  "crypto": "BTC: $92,803 | ETH: $3,118.0",
+  "quote": "There are more people who wish to be loved than there are who are willing to love.  \u2013 Nicolas Chamfort",
+  "fact": "All polar bears are left-handed.",
+  "crypto": "BTC: $92,205 | ETH: $3,100.78",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the kid throw the clock out the window? He wanted to see time fly!",
+  "joke": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Everything new in iOS 26.2 beta 3 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/17/everything-new-in-ios-26-2-beta-3/"
+      "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company"
     },
     {
-      "title": "Google Calendar can finally block off time without faking a meeting - The Verge",
-      "link": "https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block"
+      "title": "Microsoft just revealed how Windows 11 is evolving into an agentic OS \u2014 finally the explanation we've all been waiting for - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-just-revealed-how-windows-11-is-evolving-into-an-agentic-os-finally-the-explanation-weve-all-been-waiting-for"
+    },
+    {
+      "title": "Apple's Early Black Friday Deals Are Here: Save $250 on the M4-Powered MacBook Air, and More - PCMag",
+      "link": "https://www.pcmag.com/news/best-apple-early-black-friday-deals-airpods-ipads-macbooks-more-nov-16"
+    },
+    {
+      "title": "'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second - theregister.com",
+      "link": "https://www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/"
+    },
+    {
+      "title": "Turn Up Early Black Friday With Up to 50% Off Speakers & Soundbars From Beats, Bose, JBL, & More - PCMag",
+      "link": "https://www.pcmag.com/news/save-on-early-black-friday-speaker-and-soundbar-deals-up-to-50-off-beats"
+    },
+    {
+      "title": "Everything new in iOS 26.2 beta 3 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/11/17/everything-new-in-ios-26-2-beta-3/"
     },
     {
       "title": "Timoth\u00e9e Chalamet Breaks Down That Iconic \u2018Dune Part Two\u2019 Speech - Gizmodo",
@@ -32,16 +48,20 @@
       "link": "https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale"
     },
     {
+      "title": "Nier creator Yoko Taro would like you to know he has been working on games, they just keep getting cancelled - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/nier-creator-yoko-taro-would-like-you-to-know-he-has-been-working-on-games-they-just-keep-getting-cancelled"
+    },
+    {
+      "title": "iOS 26.2 Will Let Some iPhone Users Replace Siri With a Third-Party Assistant [Updated] - MacRumors",
+      "link": "https://www.macrumors.com/2025/11/17/ios-26-2-iphone-users-eu-siri-replacement/"
+    },
+    {
       "title": "The Game Awards 2025 \u2013 Play Every Xbox Nominated Game Today - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2025/11/17/game-awards-2025-xbox-nominations/"
     },
     {
       "title": "The Lost Soul Aside Redemption Arc Starts in Tomorrow's Feature-Packed PS5 Update - Push Square",
       "link": "https://www.pushsquare.com/news/2025/11/the-lost-soul-aside-redemption-arc-starts-in-tomorrows-feature-packed-ps5-update"
-    },
-    {
-      "title": "Turn Up Early Black Friday With Up to 50% Off Speakers & Soundbars From Beats, Bose, JBL, & More - PCMag",
-      "link": "https://www.pcmag.com/news/save-on-early-black-friday-speaker-and-soundbar-deals-up-to-50-off-beats"
     },
     {
       "title": "Helldivers 2 Head Says Arc Raiders \u2019 Use Of AI \u2018Makes Gaming Better\u2019 - Kotaku",
@@ -64,70 +84,66 @@
       "link": "https://www.polygon.com/overwatch-2-new-hero-45-vendetta-la-lupa-trailer/"
     },
     {
-      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
-    },
-    {
-      "title": "This SNL Sketch Has a Ton of Pretzel Logic - Vulture",
-      "link": "http://www.vulture.com/article/glen-powell-snl-steely-dan.html"
-    },
-    {
       "title": "Sarah Bond Insists Hardware Is 'Absolutely Core' To Xbox, Teases Powerful Next-Gen Console - Pure Xbox",
       "link": "https://www.purexbox.com/news/2025/11/sarah-bond-insists-hardware-is-absolutely-core-to-xbox-teases-powerful-next-gen-console"
-    },
-    {
-      "title": "AMD Stock Slips on Reports of GPU Price Increases - TipRanks",
-      "link": "https://www.tipranks.com/news/amd-stock-slips-on-reports-of-gpu-price-increases"
-    },
-    {
-      "title": "Subnautica 2 publisher Krafton allegedly looked to ChatGPT to figure out how to not pay that $250 million bonus - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/subnautica-2-publisher-krafton-allegedly-looked-to-chatgpt-to-figure-out-how-to-not-pay-that-250-million-bonus"
-    },
-    {
-      "title": "Stalker 2's Expedition update brings A-Life improvements, harder difficulty options, and worsens bandits' eyesight - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/stalker-2s-expedition-update-brings-a-life-improvements-harder-difficulty-options-and-worsens-bandits-eyesight"
-    },
-    {
-      "title": "30 Years, Part 3 - Magic: The Gathering",
-      "link": "https://magic.wizards.com/en/news/making-magic/30-years-part-3"
     }
   ],
   "sports_news": [
     {
-      "title": "Sean McDermott on Keon Coleman: You don\u2019t grow from it, it\u2019s hard to move forward - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcdermott-on-keon-coleman-you-dont-grow-from-it-its-hard-to-move-forward"
+      "title": "The Mariners\u2019 signing of Josh Naylor is official. Here are the details. - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/the-mariners-signing-of-josh-naylor-is-official-here-are-the-details/"
     },
     {
-      "title": "Ja'Marr Chase Suspended for Spitting on Jalen Ramsey, How Much Money Does He Lose? - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25296060-jamarr-chase-suspended-spitting-jalen-ramsey-how-much-money-does-he-lose"
+      "title": "Report: Ole Miss Giving Lane Kiffin Ultimatum to Decide on Future by Nov. 28 Egg Bowl - Sports Illustrated",
+      "link": "https://www.si.com/college-football/report-ole-miss-lane-kiffin-ultimatum-decide-on-future-egg-bowl-florida-lsu"
     },
     {
-      "title": "Virginia Tech vacancy will be filled by James Franklin - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/virginia-tech-vacancy-will-be-filled-by-james-franklin"
+      "title": "Man charged with murder in shooting of Beam - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47003523/man-charged-murder-last-chance-u-coach-john-beam-death"
     },
     {
-      "title": "Former New Orleans college basketball player acknowledges role in point shaving - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-new-orleans-basketball-player-acknowledges-role-in-point-shaving-scheme"
+      "title": "James Franklin announced as new leader of Virginia Tech Football - Virginia Tech Athletics",
+      "link": "https://hokiesports.com/news/2025/11/17/james-franklin-announced-as-new-leader-of-virginia-tech-football"
+    },
+    {
+      "title": "Five Observations from Germany\u2019s 6-0 demolition of Slovakia in the World Cup Qualifiers - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/148996/germany-vs-slovakia-observations-match-analysis-world-cup-qualifiers-julian-nagelsmann"
+    },
+    {
+      "title": "Syracuse injury updates for JJ Starling, Tyler Betsey for Monmouth game - Syracuse.com",
+      "link": "https://www.syracuse.com/orangebasketball/2025/11/syracuse-injury-updates-for-jj-starling-tyler-betsey-for-monmouth-game.html"
+    },
+    {
+      "title": "Cowboys vs Raiders Predictions, Picks, Odds, How to Watch NFL Monday Night Football - Action Network",
+      "link": "https://www.actionnetwork.com/nfl/dallas-cowboys-vs-las-vegas-raiders-prediction-pick-odds-nfl-monday-night-football-november-17"
+    },
+    {
+      "title": "Packers RB Josh Jacobs \u2018potentially\u2019 could play this week vs. Vikings - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-rb-josh-jacobs-potentially-could-play-this-week-vs-vikings-nov-17-2025"
+    },
+    {
+      "title": "Commanders to sign K Jake Moody off Bears practice squad - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-sign-k-jake-moody-off-bears-practice-squad"
+    },
+    {
+      "title": "LSU flies Lane Kiffin\u2019s family in for tour as coaching pursuit heats up - nypost.com",
+      "link": "https://nypost.com/2025/11/17/sports/lsu-flies-lane-kiffins-family-in-for-tour-as-coaching-pursuit-heats-up/"
+    },
+    {
+      "title": "O.J. Simpson\u2019s estate accepts $58M claim from Goldman family but any payment would be a fraction - CNN",
+      "link": "https://www.cnn.com/2025/11/17/us/oj-simpson-estate-worth-goldman"
+    },
+    {
+      "title": "Player banned by the NCAA for his role in a sports betting scheme acknowledges he point-shaved - AP News",
+      "link": "https://apnews.com/article/college-basketball-sports-betting-scandal-hunter-1ddbc981460b85b0c152e46192ba0ed1"
     },
     {
       "title": "Forde-Yard Dash: What Texas A&M\u2019s Comeback Reveals About Top 10 Teams\u2019 Game Control - Sports Illustrated",
       "link": "https://www.si.com/college-football/forde-yard-dash-what-texas-am-comeback-reveals-about-top-10-teams-game-control"
     },
     {
-      "title": "Bernie Kosar has successful liver transplant, is grateful for support of fans & the Browns, friend says \u2013 Ter - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/11/bernie-kosar-has-successful-liver-transplant-grateful-for-support-of-fans-browns-terry-pluto.html"
-    },
-    {
-      "title": "7 Winners and 3 losers from the 49ers triumphant win over the Cardinals - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/152913/49ers-winners-losers-george-kittle-brock-purdy-christian-mccaffrey"
-    },
-    {
-      "title": "What Mariners\u2019 deal with Josh Naylor means for offseason | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/what-mariners-deal-with-josh-naylor-means-for-offseason-analysis/"
-    },
-    {
-      "title": "Inside the NFL\u2019s Grievance Against the NFLPA\u2019s Player Report Cards - Sports Illustrated",
-      "link": "https://www.si.com/nfl/inside-nfl-grievance-nflpa-report-cards"
+      "title": "Abdul Carter Posts About 'Hate' and 'Lies' Amid Rumors He Slept Through Giants Meeting - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25297233-abdul-carter-posts-about-hate-and-lies-amid-rumors-he-slept-through-giants-meeting"
     },
     {
       "title": "Todd Bowles on punt that set up Bills\u2019 final TD: Thought we\u2019d hold them, didn\u2019t work out - NBC Sports",
@@ -138,40 +154,16 @@
       "link": "https://www.atlantafalcons.com/news/michael-penix-jr-knee-injury-update"
     },
     {
-      "title": "ACC Announces Week 14 TV Networks and Game Times - Atlantic Coast Conference (ACC)",
-      "link": "https://theacc.com/news/2025/11/17/football-acc-announces-week-14-tv-networks-and-game-times.aspx"
-    },
-    {
       "title": "Purdue reclaims No. 1 from Houston in AP Top 25, Louisville and Illinois jump into top 10 - AP News",
       "link": "https://apnews.com/article/ap-top-25-basketball-poll-839db7de9d66f375f3e7e0a27c5d7f6b"
-    },
-    {
-      "title": "Reports: Josh Jacobs\u2019 knee is structurally intact, considered week-to-week - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-josh-jacobs-knee-is-structurally-intact-considered-week-to-week"
     },
     {
       "title": "Hall of Fame releases ballot for 2026 election - MLB.com",
       "link": "https://www.mlb.com/news/2026-baseball-hall-of-fame-ballot-released"
     },
     {
-      "title": "Report: Eagles star RT Lane Johnson likely out 4-6 weeks with Lisfranc injury - PhillyVoice",
-      "link": "https://www.phillyvoice.com/report-eagles-star-rt-lane-johnson-out-4-6-weeks-lisfranc-injury/"
-    },
-    {
       "title": "The Grey Cup Was Decided On A Goal Line Fumble - Defector",
       "link": "https://defector.com/the-grey-cup-was-decided-on-a-goal-line-fumble"
-    },
-    {
-      "title": "Lions Week 11 snap counts: Heavy front deployed vs. Eagles rushing attack - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/149087/lions-week-11-snap-counts-heavy-front-deployed-vs-eagles-rushing-attack"
-    },
-    {
-      "title": "Jack Della Maddalena\u2019s coach releases statement after UFC 322 loss to Islam Makhachev: \u2018It hurts like hell\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/456962/jack-della-maddalenas-coach-releases-statement-after-ufc-322-loss-to-islam-makhachev-it-hurts-like-hell"
-    },
-    {
-      "title": "Bryce Young breaks Cam Newton\u2019s single-game passing record, among others - Panthers.com",
-      "link": "https://www.panthers.com/news/bryce-young-breaks-cam-newton-s-single-game-passing-record-among-others"
     }
   ],
   "weather": {
