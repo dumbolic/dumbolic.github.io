@@ -1,9 +1,9 @@
 {
-  "quote": "Most people fail in life because they major in minor things. \u2013 Tony Robbins",
-  "fact": "A snail can sleep for three years.",
-  "crypto": "BTC: $88,101 | ETH: $2,862.84",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.",
+  "quote": "Wake up and smile! Wake up and be grateful! \u2013 Steve Harvey",
+  "fact": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
+  "crypto": "BTC: $86,872 | ETH: $2,815.68",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Next year\u2019s iPhone 18 decision could be very hard for almost everyone - 9to5Mac",
+      "link": "https://9to5mac.com/2025/11/19/next-years-iphone-18-decision-could-be-very-hard-for-almost-everyone/"
+    },
+    {
+      "title": "This viral AI pen didn\u2019t help me cheat - The Verge",
+      "link": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
+    },
+    {
+      "title": "Dragon Quest VII Reimagined Goes Much Farther Than the HD-2D Remakes - IGN",
+      "link": "https://www.ign.com/articles/dragon-quest-vii-reimagined-goes-much-farther-than-the-hd-2d-remakes"
+    },
+    {
+      "title": "Round Up: The Reviews Are In For Kirby Air Riders - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/11/round-up-the-reviews-are-in-for-kirby-air-riders"
+    },
+    {
+      "title": "Pok\u00e9mon Legends: Z-A Mega Dimension DLC Debuts Mega Zeraora, Though Unlocking It 'Will Be a Little Difficult' - IGN",
+      "link": "https://www.ign.com/articles/pokemon-legends-z-a-mega-dimension-dlc-debuts-mega-zeraora-though-unlocking-it-will-be-a-little-difficult"
+    },
+    {
+      "title": "Huge Ghost of Yotei PS5 Patch Drops Next Week, Adds New Game+, Items, and More - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/11/huge-ghost-of-yotei-ps5-patch-drops-next-week-adds-new-gameplus-items-and-more"
+    },
+    {
+      "title": "Tales of Berseria Remastered announced for Nintendo Switch - Nintendo Everything",
+      "link": "https://nintendoeverything.com/tales-of-berseria-remastered-announced-for-nintendo-switch/"
+    },
+    {
+      "title": "Apple announces finalists for the 2025 App Store Awards - Apple",
+      "link": "https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/"
+    },
+    {
+      "title": "Fatekeeper, a First-Person Sword-and-Sorcery RPG, Drops 8-Minute First Gameplay Trailer - IGN",
+      "link": "https://www.ign.com/articles/fatekeeper-a-first-person-sword-and-sorcery-rpg-drops-8-minute-first-gameplay-trailer"
+    },
+    {
+      "title": "Disney Dreamlight Valley: Wishblossom Ranch Review - IGN",
+      "link": "https://www.ign.com/articles/disney-dreamlight-valley-wishblossom-ranch-review"
+    },
+    {
+      "title": "Baldur's Gate 3 Studio Reacts To The Game Awards Nomination: \"What The F**k\" - GameSpot",
+      "link": "https://www.gamespot.com/articles/baldurs-gate-3-studio-reacts-to-the-game-awards-nomination-what-the-fk/1100-6536343/"
+    },
+    {
+      "title": "Microsoft detail 'agentic AI' plan for Windows 11, immediately admit it might install malware on your PC - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/microsoft-detail-agentic-ai-plan-for-windows-11-immediately-admit-it-might-install-malware-on-your-pc"
+    },
+    {
+      "title": "Review: Call of Duty: Black Ops 7 (PS5) - The Most Absurd Game in Series History - Push Square",
+      "link": "https://www.pushsquare.com/reviews/ps5/call-of-duty-black-ops-7"
+    },
+    {
+      "title": "Hytale Co-Founder Fights to Bring Canceled Game Back to Life and 'Break the Curse Once and for All,' Releases 16 Minutes of New Gameplay Footage - IGN",
+      "link": "https://www.ign.com/articles/hytale-co-founder-fights-to-bring-canceled-game-back-to-life-and-break-the-curse-once-and-for-all-releases-16-minutes-of-new-gameplay-footage"
+    },
+    {
       "title": "OnePlus 15 review: The end of range anxiety - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/"
     },
     {
       "title": "\"Consumers Generally Do Not Care\" About AI In Games, Says Former Square Enix Exec - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/11/consumers-generally-do-not-care-about-ai-in-games-says-former-square-enix-exec"
-    },
-    {
-      "title": "Here are the games leaving PS Plus next month - Eurogamer",
-      "link": "https://www.eurogamer.net/here-are-the-games-leaving-ps-plus-next-month"
     },
     {
       "title": "Epic announces partnership to bring Unity games into Fortnite - GamesIndustry.biz",
@@ -32,98 +84,82 @@
       "link": "https://www.eurogamer.net/mystery-megabonk-developer-withdraws-from-the-game-awards-following-incorrect-nomination"
     },
     {
-      "title": "Review: Kirby Air Riders (Switch 2) - Incredibly Chaotic, But Satisfyingly Deep & Rewarding Racing - Nintendo Life",
-      "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/kirby-air-riders"
-    },
-    {
-      "title": "Video: Tomb Raider: Definitive Edition Nintendo Switch 2 vs. PS4 comparison - Nintendo Everything",
-      "link": "https://nintendoeverything.com/video-tomb-raider-definitive-edition-nintendo-switch-2-vs-ps4-comparison/"
-    },
-    {
       "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
       "link": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025"
     },
     {
-      "title": "Goodbye, \u2018Halo Infinite\u2019 (2021-2025) - Gizmodo",
-      "link": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712"
-    },
-    {
       "title": "Deals for Today: The Best Early Black Friday Discounts and Restocks on Pok\u00e9mon TCG and MTG - IGN",
       "link": "https://www.ign.com/articles/deals-for-today-the-best-early-black-friday-discounts-and-restocks-on-pokmon-tcg-and-mtg"
-    },
-    {
-      "title": "\"Trailblazing\" Interplay co-founder Rebecca Heineman dies aged 62 - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/trailblazing-interplay-co-founder-rebecca-heineman-dies-aged-62"
-    },
-    {
-      "title": "The Alienware Black Friday Sale Starts Early with Some Amazing Deals on Gaming PCs and Laptops - IGN",
-      "link": "https://www.ign.com/articles/dell-alienware-early-black-friday-sale-2025-best-deals-on-gaming-pcs-and-laptops"
-    },
-    {
-      "title": "WhatsApp will finally support multiple accounts on the same iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/18/whatsapp-beta-multiple-accounts-iphone/"
-    },
-    {
-      "title": "Microsoft tries to head off the \u201cnovel security risks\u201d of Windows 11 AI agents - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/"
-    },
-    {
-      "title": "The Analogue 3D is the modern N64 fans have been waiting for - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/"
-    },
-    {
-      "title": "Apple releases iOS 26.2 public beta 2, here\u2019s what\u2019s new - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/18/apple-releases-ios-26-2-public-beta-2-heres-whats-new/"
-    },
-    {
-      "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise - theregister.com",
-      "link": "https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/"
-    },
-    {
-      "title": "The Apple Watch Series 11 has plunged to a record low price - The Verge",
-      "link": "https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale"
-    },
-    {
-      "title": "19 People Who Most Definitely Regret Literally Every Single Decision They Made Last Week - BuzzFeed",
-      "link": "https://www.buzzfeed.com/daves4/tough-week-fs"
-    },
-    {
-      "title": "Hank Green\u2019s Focus Friend is Google Play\u2019s app of the year - TechCrunch",
-      "link": "https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/"
     }
   ],
   "sports_news": [
     {
-      "title": "Josh Allen: I didn\u2019t play well in Week 11, we can still get things going - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-i-didnt-play-well-in-week-11-we-can-still-get-things-going"
+      "title": "\u2018A cornerstone of our franchise\u2019: Padres icon Randy Jones dies at 75 - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2025/11/19/padres-icon-randy-jones-dies-at-75/"
     },
     {
-      "title": "Wetzel: Was Al Davis right about Lane Kiffin? - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47013654/why-find-al-davis-was-right-lane-kiffin"
+      "title": "Florida Panthers, New York Rangers reveal Winter Classic jerseys - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/47022274/2026-nhl-winter-classic-florida-panthers-new-york-rangers-jersey"
     },
     {
-      "title": "F1 QUIZ: 10 questions on the latest news and F1 in Las Vegas - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/this-week-in-f1-10-quiz-questions-on-grand-prix-history-in-las-vegas-and-the.2N8JgGZjAXWbOhfhUGRzu0"
+      "title": "Arman Tsarukyan \u2018shocked\u2019 by Islam Makhachev\u2019s impressive UFC 322 win - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/457189/arman-tsarukyan-shocked-by-islam-makhachevs-impressive-ufc-322-win"
     },
     {
-      "title": "Which teams are in the FIFA World Cup 2026, and who can still qualify? - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2025/11/19/which-teams-are-in-the-fifa-world-cup-2026-and-who-can-still-qualify"
+      "title": "LeBron James makes history as he sparks Lakers win vs. Jazz - NBC News",
+      "link": "https://www.nbcnews.com/sports/basketball/lebron-james-nba-los-angeles-lakers-utah-jazz-history-rcna244761"
     },
     {
-      "title": "The guest list for White House dinner for the Saudi Crown Prince included nearly 50 executives - Business Insider",
-      "link": "https://www.businessinsider.com/white-house-dinner-saudi-prince-business-execs-ceos-musk-su-2025-11"
+      "title": "Falcons must add a QB in 2026 with Michael Penix Jr.\u2019s injury. Who will it be? - The Falcoholic",
+      "link": "https://www.thefalcoholic.com/atlanta-falcons-analysis/89362/falcons-will-need-a-qb-in-2026-who-will-it-be-kirk-cousins-kyler-murray"
     },
     {
-      "title": "Suns increase havoc defensively to rattle Blazers - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/suns-blazers/3602829/"
+      "title": "Nebraska loses commitment from 2026 QB Dayton Raiola - On3",
+      "link": "https://www.on3.com/rivals/news/nebraska-loses-commitment-from-2026-qb-dayton-raiola/"
     },
     {
-      "title": "CRAWFORD | MSU knocks off Kentucky, but Pope\u2019s postgame may be the real red flag - WDRB",
-      "link": "https://www.wdrb.com/sports/crawford-msu-knocks-off-kentucky-but-pope-s-postgame-may-be-the-real-red-flag/article_ce2345b7-c47b-4b08-818d-9c5c634627ac.html"
+      "title": "Nico Harrison, Mark Cuban and a 'palace coup': Inside a bitter feud for control in Dallas - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban"
+    },
+    {
+      "title": "The 2025 Chiefs are trending to be one of the most unclutch NFL teams ever - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0s1NEV6WUZ4T2V2VkNfZnZ2RUk4T0Y5WmtRanliMFBxeG15U0xmeDZUQ2RudE5VelRqWFdyRUVxZHk3YjdkdktnUlZiWmxra2FCUm92VE8yeUVkTHV1MGxJNGlFMGFfQnJNdG8yUTZEXzVUWHo0M0xfSVc3RW5wdlhfaWd3TmtSandhWEdyZVlMRUtpM2hzWA?oc=5"
+    },
+    {
+      "title": "7 Commanders players who definitely won't be back in 2026 at the bye week - Riggo's Rag",
+      "link": "https://riggosrag.com/7-commanders-players-who-definitely-wont-be-back-2026-bye-week"
+    },
+    {
+      "title": "Las Vegas hit with major weather warning ahead of F1 grand prix - racingnews365.com",
+      "link": "https://racingnews365.com/las-vegas-hit-with-major-weather-warning-ahead-of-f1-grand-prix"
+    },
+    {
+      "title": "Scotland qualify for World Cup... so what happens now? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c15pe7yqjk8o"
+    },
+    {
+      "title": "Haiti reach World Cup despite coach having never been to the country - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cwy70v7grl4o"
+    },
+    {
+      "title": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince - BBC",
+      "link": "https://www.bbc.com/news/articles/c993e74pxd7o"
+    },
+    {
+      "title": "Alex Freeman, USMNT open eyes in historic rout of Uruguay - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/alex-freeman-usmnt-open-eyes-in-historic-rout-of-uruguay"
     },
     {
       "title": "Cura\u00e7ao makes history as smallest nation by population to qualify for a World Cup - AP News",
       "link": "https://apnews.com/article/curacao-panama-haiti-world-cup-2026-ad26383b6c7276479d2a309a7970a5cb"
+    },
+    {
+      "title": "Kentucky Men\u2019s Hoops\u2019 $22 Million Roster Crashes Into Early Season Identity Crisis - Sports Illustrated",
+      "link": "https://www.si.com/college-basketball/kentucky-mens-hoops-22-million-roster-crashes-into-early-season-identity-crisis"
+    },
+    {
+      "title": "Everything Bill Self said after KU's loss to Duke in the Champions Classic - 247Sports",
+      "link": "https://247sports.com/college/kansas/longformarticle/bill-self-kansas-vs-duke-postgame-quotes-262327368/"
     },
     {
       "title": "Lucas: The Record Book - University of North Carolina Athletics - University of North Carolina Athletics",
@@ -134,40 +170,8 @@
       "link": "https://www.baseballamerica.com/stories/os-send-grayson-rodriguez-to-angels-for-taylor-ward/"
     },
     {
-      "title": "Ja\u2019Marr Chase\u2019s suspension for spitting is upheld - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chases-suspension-for-spitting-is-upheld"
-    },
-    {
-      "title": "10 Things We Learned from Broncos' Win Over Chiefs - Sports Illustrated",
-      "link": "https://www.si.com/nfl/broncos/onsi/news/10-things-we-learned-broncos-win-chiefs"
-    },
-    {
-      "title": "USMNT routs Uruguay 5-1 as young stars shine and Mauricio Pochettino's World Cup build gains momentum - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/breaking-news/article/usmnt-routs-uruguay-5-1-as-young-stars-shine-and-mauricio-pochettinos-world-cup-build-gains-momentum-021142643.html"
-    },
-    {
-      "title": "Week 13 Anger Index: Alabama behind Notre Dame?! The Tide's case to be higher - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47014059/anger-index-week-13-college-football-playoff-ranking-2025"
-    },
-    {
-      "title": "Ohio State Tops College Football Playoff Rankings for Third Consecutive Week | Eleven Warriors - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/11/159607/ohio-state-tops-college-football-playoff-rankings-for-third-consecutive-week"
-    },
-    {
-      "title": "No. 12 Kentucky Falls to No. 17 Michigan State - UK Athletics",
-      "link": "https://ukathletics.com/news/2025/11/18/no-12-kentucky-falls-to-no-17-michigan-state/"
-    },
-    {
-      "title": "NBA champion emerges as serious contender in Liberty coaching search - New York Post",
-      "link": "https://nypost.com/2025/11/18/sports/warriors-chris-demarco-emerges-as-contender-in-liberty-coaching-search/"
-    },
-    {
-      "title": "As bad season wraps up, Deion Sanders says Colorado has \"got the right man\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-bad-season-wraps-up-deion-sanders-says-colorado-has-got-the-right-man"
-    },
-    {
-      "title": "J.J. McCarthy's QB coach has fiery response to criticism from Cris Carter - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/onsi/reactions/j-j-mccarthy-s-qb-coach-has-fiery-response-to-criticism-from-cris-carter"
+      "title": "4 Takeaways From the Third CFP Rankings Release of 2025 - FOX Sports",
+      "link": "https://www.foxsports.com/stories/college-football/4-takeaways-from-third-cfp-rankings-release-2025"
     }
   ],
   "weather": {
