@@ -1,9 +1,9 @@
 {
-  "quote": "The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. \u2013 James Allen",
-  "fact": "Shakespeare invented the word `assassination` and `bump`.",
-  "crypto": "BTC: $83,980 | ETH: $2,727.58",
+  "quote": "To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. \u2013 Samuel Butler",
+  "fact": "Intelligent people have more zinc and copper in their hair.",
+  "crypto": "BTC: $84,455 | ETH: $2,740.67",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+  "joke": "Why do pumpkins sit on people\u2019s porches?\r\n\r\nThey have no hands to knock on the door.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,72 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Borderlands 4's First DLC Is Now Free And Out For Everyone - Kotaku",
+      "link": "https://kotaku.com/borderlands-4s-first-dlc-free-smaller-fixes-gearbox-christmas-mercenary-day-pack-2000645909"
+    },
+    {
+      "title": "Microsoft makes Zork I II , and III open source under MIT License - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/"
+    },
+    {
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/"
+    },
+    {
+      "title": "Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin - Kotaku",
+      "link": "https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900"
+    },
+    {
+      "title": "Tides of Annihilation continues to look awesome in new dimension shattering gameplay - Eurogamer",
+      "link": "https://www.eurogamer.net/tides-of-annihilation-continues-to-look-awesome-in-new-dimension-shattering-gameplay"
+    },
+    {
+      "title": "Mixup is a new, Mad Libs-style app for creating AI images from photos, text, and doodles - TechCrunch",
+      "link": "https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/"
+    },
+    {
+      "title": "Windows handhelds are getting the new Xbox Full Screen Experience tomorrow - The Verge",
+      "link": "https://www.theverge.com/news/825405/microsoft-xbox-full-screen-experience-available-windows-handhelds"
+    },
+    {
+      "title": "Existential Threat: Microsoft Stock (NASDAQ:MSFT) Slips as Analysts Sound Alarm on Steam Machine - TipRanks",
+      "link": "https://www.tipranks.com/news/existential-threat-microsoft-stock-nasdaqmsft-slips-as-analysts-sound-alarm-on-steam-machine"
+    },
+    {
+      "title": "All the Golden Joystick Awards 2025 winners revealed - GamesRadar+",
+      "link": "https://www.gamesradar.com/games/events-conferences/golden-joystick-awards-2025-all-winners/"
+    },
+    {
+      "title": "Xbox Partner Preview | Eminem Takes Center Stage in Hitman World of Assassination\u2019s Latest Elusive Target Mission - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2025/11/20/hitman-xbox-partner-preview/"
+    },
+    {
+      "title": "Xbox Partner Preview | Vampire Crawlers: Breaking Down the Surprise Vampire Survivors Spin-Off with its Creator - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2025/11/20/vampire-crawlers-xbox-partner-preview/"
+    },
+    {
       "title": "12 Of The Year's Biggest Games Are On Sale For Black Friday 2025 - Kotaku",
       "link": "https://kotaku.com/black-friday-2025-game-sale-kingdom-come-monster-hunter-2000645834"
     },
     {
-      "title": "Pixel 10 phones are now compatible with AirDrop - The Verge",
-      "link": "https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10"
+      "title": "Perplexity Launches AI Browser on Mobile, Extending Google Rivalry - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-11-20/perplexity-brings-ai-browser-comet-to-android-ios-coming-soon"
+    },
+    {
+      "title": "Amazon is using AI to create video recaps of its biggest streaming shows - The Verge",
+      "link": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
+    },
+    {
+      "title": "Overwatch 2 - Official Vendetta: New Hero Gameplay Trailer - IGN",
+      "link": "https://www.ign.com/videos/overwatch-2-official-vendetta-new-hero-gameplay-trailer"
     },
     {
       "title": "As Windows turns 40, Microsoft faces an AI backlash - The Verge",
       "link": "https://www.theverge.com/tech/825022/microsoft-windows-40-year-anniversary-agentic-os-future"
     },
     {
-      "title": "Google\u2019s Gemini is now on Android Auto - The Verge",
-      "link": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
+      "title": "Gemini starts rolling out to Android Auto globally - TechCrunch",
+      "link": "https://techcrunch.com/2025/11/20/gemini-starts-rolling-out-to-android-auto-globally/"
     },
     {
       "title": "All These Games Sold Exactly One Copy In The US In October - GameSpot",
@@ -36,62 +88,78 @@
       "link": "https://www.purexbox.com/news/2025/11/live-watch-the-2025-xbox-partner-preview-showcase-here"
     },
     {
-      "title": "Apple\u2019s AirPods Pro 3 just got their biggest discount ahead of Black Friday - The Verge",
-      "link": "https://www.theverge.com/gadgets/825107/apple-airpods-pro-3-black-friday-deal-sale"
-    },
-    {
-      "title": "How one Unknown Worlds exec sought to take down Krafton - Game Developer",
-      "link": "https://www.gamedeveloper.com/business/-korea-they-are-the-joe-pesci-of-countries-unknown-worlds-co-founder-compiles-plan-to-take-on-krafton-in-newly-surfaced-litigation-help-document"
-    },
-    {
       "title": "Own the Extravagant Residence of Your Dreams in GTA Online: A Safehouse in the Hills - Rockstar Games",
       "link": "https://www.rockstargames.com/newswire/article/179a291k799984/own-the-extravagant-residence-of-your-dreams-in-gta-online-a-safehouse"
-    },
-    {
-      "title": "AirPods\u2019 best features come to Android and Linux with free app - The Verge",
-      "link": "https://www.theverge.com/news/824953/librepods-apple-airpods-wireless-headphones-android-linux"
-    },
-    {
-      "title": "Google releases Nano Banana Pro, its latest image generation model - TechCrunch",
-      "link": "https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/"
-    },
-    {
-      "title": "I\u2019m officially done with YouTube Kids - The Verge",
-      "link": "https://www.theverge.com/tech/824556/youtube-kids-videos-slop"
-    },
-    {
-      "title": "Black Friday with Xbox: Our Biggest Season of Deals Returns, Including 2000+ Games on Sale - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/11/20/xbox-black-friday-2025-sale-deals/"
-    },
-    {
-      "title": "Steam Machine Price Hinted, PS6 Can Breathe Easy - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/pc/steam-machine-price-hinted-237839-20251120"
-    },
-    {
-      "title": "The Oura Ring 4 Is At Its Lowest Price Ever for Black Friday - Men's Health",
-      "link": "https://www.menshealth.com/fitness/a69487575/oura-ring-black-friday-sale-2025/"
-    },
-    {
-      "title": "Jaw-Dropping $1.5 Trillion Lithium Find in an Unlikely U.S. Location - plusnews.org",
-      "link": "https://www.plusnews.org/jaw-dropping-1-5-trillion-lithium-find-in-an-unlikely-u-s-location/"
-    },
-    {
-      "title": "No TikTok, no iPhones and retro landlines. These parents are raising kids like it\u2019s 1995. - USA Today",
-      "link": "https://www.usatoday.com/story/life/health-wellness/2025/11/20/millennial-helicopter-parents-landlines-no-phones-movement/87152287007/"
-    },
-    {
-      "title": "Best Buy's Pre-Black Friday Sales Have Already Begun. Here's What to Buy - WIRED",
-      "link": "https://www.wired.com/story/early-black-friday-best-buy-deals/"
     }
   ],
   "sports_news": [
     {
-      "title": "PFT\u2019s Week 12 2025 NFL picks, Florio vs. Simms - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-12-2025-nfl-picks-florio-vs-simms"
+      "title": "Cowboys' CeeDee Lamb Responds to Rumor He Threw Up At Casino Night Before Raiders Game - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25300880-cowboys-ceedee-lamb-responds-rumor-he-threw-casino-night-raiders-game"
+    },
+    {
+      "title": "On the kickoff rule, Dave Toub has a message for President Trump - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-the-kickoff-rule-dave-toub-has-a-message-for-president-trump"
+    },
+    {
+      "title": "Colby Covington reacts to Islam Makhachev\u2019s lopsided title win at UFC 322 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/457539/colby-covington-reacts-to-islam-makhachevs-lopsided-title-win-at-ufc-322"
+    },
+    {
+      "title": "Inter Miami CF\u2019s 2026 MLS Regular Season Schedule presented by Ticketmaster Unveiled, Miami Freedom Park\u2019s MLS Home Opener Set for April 4 - Inter Miami CF",
+      "link": "https://www.intermiamicf.com/news/inter-miami-cf-s-2026-mls-regular-season-schedule-presented-by-ticketmaster-unveiled-miami-freedom-park-s-mls-home-opener-set-for-april-4"
+    },
+    {
+      "title": "Bills vs. Bengals game is flexed to 1 p.m. slot in Week 14 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/bills-vs-bengals-game-is-flexed-to-1-p-m-slot-in-week-14"
+    },
+    {
+      "title": "Tarik Skubal looms over MLB offseason as teams await clarity on two-time Cy Young winner - New York Post",
+      "link": "https://nypost.com/2025/11/20/sports/tarik-skubal-looms-over-offseason-as-teams-await-clarity-on-ace/"
+    },
+    {
+      "title": "Aaron Rodgers was on the field at Steelers practice Thursday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-was-on-the-field-at-steelers-practice-thursday"
+    },
+    {
+      "title": "A different type of Dallas Week - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164170/a-different-type-of-dallas-week"
+    },
+    {
+      "title": "MLB Mailbag: Grayson Rodriguez-Taylor Ward Trade, Qualifying Offers, Duran, Abreu - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/11/mlb-mailbag-grayson-rodriguez-taylor-ward-trade-qualifying-offers-duran-abreu.html"
+    },
+    {
+      "title": "Lamar Jackson and More Ravens Return to Practice - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/lamar-jackson-injury-practice-report-ravens-kyle-hamilton-roquan-smith"
+    },
+    {
+      "title": "Josh Jacobs back at practice Thursday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-back-at-practice-thursday"
+    },
+    {
+      "title": "Truly The Most Random Men Scored For The Ducks Last Night - Defector",
+      "link": "https://defector.com/truly-the-most-random-men-scored-for-the-ducks-last-night"
+    },
+    {
+      "title": "Week 12 NFL straight up, against the spread, and survivor pool picks - PhillyVoice",
+      "link": "https://www.phillyvoice.com/week-12-nfl-straight-against-spread-and-survivor-pool-picks-eagles-cowboys/"
+    },
+    {
+      "title": "Look at the 'ugly corners' for the best value in Week 13 of the CFB season - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/47024780/college-football-week-13-betting-georgia-tech-pitt"
     },
     {
       "title": "Report: Joe Mixon is not expected to play this season - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joe-mixon-is-not-expected-to-play-this-season"
+    },
+    {
+      "title": "Jack Della Maddalena breaks his silence over loss to Islam Makhachev at UFC 322 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/457556/jack-della-maddalena-breaks-his-silence-over-loss-to-islam-makhachev-at-ufc-322"
+    },
+    {
+      "title": "2025 Week 12 Fantasy Football Rankings: QB - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/2025-week-12-fantasy-football-rankings-qb"
     },
     {
       "title": "2025 Week 12 Fantasy Football Rankings: RB - NBC Sports",
@@ -104,62 +172,6 @@
     {
       "title": "Buffalo Bills vs. Houston Texans: How to watch NFL Thursday Night Football tonight - Yahoo Sports",
       "link": "https://sports.yahoo.com/nfl/article/buffalo-bills-vs-houston-texans-how-to-watch-nfl-thursday-night-football-tonight-121522310.html"
-    },
-    {
-      "title": "Browns, DE Alex Wright agree to three-year extension - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-de-alex-wright-agree-to-three-year-extension"
-    },
-    {
-      "title": "Expert picks, best bets: How Tsarukyan can reenter title contention at UFC Fight Night - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/47024305/ufc-fight-night-expert-picks-best-bets-arman-tsarukyan-vs-dan-hooker"
-    },
-    {
-      "title": "The Opener: Braves, Trade Market, Relief Market - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/11/the-opener-braves-trade-market-relief-market.html"
-    },
-    {
-      "title": "Coaching Carousel Hits Penn State Days Before Nebraska Showdown - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/coaching-carousel-hits-penn-state-days-before-nebraska-showdown-2025"
-    },
-    {
-      "title": "Coffee With Phillip: Thursday morning musings, links of interest - 247Sports",
-      "link": "https://247sports.com/college/auburn/longformarticle/auburn-football-lane-kiffin-john-cohen-jon-sumrall-262490395/"
-    },
-    {
-      "title": "Texas A&M-Sanford game won't be on regular TV platform. Here's how to watch it. - Houston Chronicle",
-      "link": "https://www.houstonchronicle.com/sports/college/article/texas-aggies-samford-streaming-how-to-watch-21195079.php"
-    },
-    {
-      "title": "Self-inflicted mistakes pile up for No. 8 Illini in Alabama loss: 'We need to understand how not to lose' - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/fighting-illini-mens-basketball-loss-to-alabama-united-center-andrej-stojakovic-illinois-head-coach-brad-underwood-kylan-boswell-262497607/"
-    },
-    {
-      "title": "What Bo Nix Reveals About Modern NFL QB Evaluations - Sports Illustrated",
-      "link": "https://www.si.com/nfl/what-bo-nix-reveals-about-modern-nfl-qb-evaluations"
-    },
-    {
-      "title": "Fantasy Football Roster Trends: Waiver Pickups, Drops & Trades - FantasyPros",
-      "link": "https://www.fantasypros.com/2025/11/fantasy-football-roster-trends-waiver-pickups-drops-trades-week-12/"
-    },
-    {
-      "title": "Syracuse football at No. 9 Notre Dame predictions: See our picks - Syracuse.com",
-      "link": "https://www.syracuse.com/orangefootball/2025/11/syracuse-football-at-no-9-notre-dame-predictions-see-our-picks.html"
-    },
-    {
-      "title": "Chiefs News 11/20: Don\u2019t be surprised if the Chiefs finish strong - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/187127/chiefs-news-11-20-dont-be-surprised-if-the-chiefs-finish-strong"
-    },
-    {
-      "title": "'Vooch' delivers Bulls from a mess, but what about Patrick Williams? - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/bulls/2025/11/20/vooch-delivers-bulls-mess-but-about-patrick-williams"
-    },
-    {
-      "title": "Recap: Blake Shines, But Canes Fall In Shootout - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/recap-blake-shines-but-canes-fall-in-shootout"
-    },
-    {
-      "title": "Landry Shamet\u2019s heroics, late whistle save Knicks in wild win over lowly Mavericks - New York Post",
-      "link": "https://nypost.com/2025/11/20/sports/landry-shamets-heroics-late-whistle-save-knicks-in-wild-win-vs-mavericks/"
     }
   ],
   "weather": {
