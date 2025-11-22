@@ -1,9 +1,9 @@
 {
-  "quote": "You become stronger with every problem you face and every obstacle you overcome. \u2013 Celestine Chua",
-  "fact": "Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.",
-  "crypto": "BTC: $84,437 | ETH: $2,742.89",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
+  "quote": "A change is brought about because ordinary people do extraordinary things. \u2013 Barack Obama",
+  "fact": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+  "crypto": "BTC: $84,364 | ETH: $2,740.63",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Minecraft 1.21.11 Pre-Release 2 - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-2"
+    },
+    {
+      "title": "AirDropping stuff from a Pixel phone rules so much - The Verge",
+      "link": "https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on"
+    },
+    {
+      "title": "Stoke Space goes for broke to solve the only launch problem that \u201cmoves the needle\u201d - Ars Technica",
+      "link": "https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/"
+    },
+    {
+      "title": "Apple Launches Second Limited-Edition iPhone Accessory in a Month - MacRumors",
+      "link": "https://www.macrumors.com/2025/11/21/apple-launches-hikawa-iphone-grip-stand/"
+    },
+    {
+      "title": "OnePlus 15 phone has world's fastest mobile processor so it can easily record hypercars with no blur and you can get one for free - supercarblondie.com",
+      "link": "https://supercarblondie.com/oneplus-15-smartphone-competition-supercar-blondie/"
+    },
+    {
+      "title": "Nintendo Debuts Two Metroid Prime 4 Ads As Eight-Year Wait Nears Its End - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/11/nintendo-debuts-two-metroid-prime-4-ads-as-eight-year-wait-nears-its-end"
+    },
+    {
+      "title": "Microsoft exec finds AI cynicism 'mindblowing' - theregister.com",
+      "link": "https://www.theregister.com/2025/11/21/microsoft_ai_boss_comment/"
+    },
+    {
       "title": "Genshin Impact, Honkai: Star Rail Maker Reveals Next-Gen Open World Powered by Unreal Engine 5 - Push Square",
       "link": "https://www.pushsquare.com/news/2025/11/genshin-impact-honkai-star-rail-maker-reveals-next-gen-open-world-powered-by-unreal-engine-5"
     },
     {
-      "title": "Apple\u2019s second limited-edition iPhone accessory in a month is all about accessibility - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/20/apples-second-limited-edition-iphone-accessory-in-a-month-is-all-about-accessibility/"
+      "title": "38 Once-Popular Things That Completely Disappeared, And I Forgot A Lot Of These Existed - buzzfeed.com",
+      "link": "https://www.buzzfeed.com/cmc33/once-popular-things-that-disappeared-completely"
+    },
+    {
+      "title": "Huge PS Store Black Friday Sale Live Now with 1,900+ PS5, PS4 Offers - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/11/huge-ps-store-black-friday-sale-live-now-with-1900plus-ps5-ps4-offers"
     },
     {
       "title": "Hands On With Google's Nano Banana Pro Image Generator - wired.com",
       "link": "https://www.wired.com/story/google-nano-banana-pro-hands-on/"
+    },
+    {
+      "title": "75+ Black Friday deals at Best Buy that aren't cheaper anywhere else - Mashable",
+      "link": "https://mashable.com/article/best-black-friday-best-buy-deals-2025"
     },
     {
       "title": "Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of developer livestream - The Game Post",
@@ -32,98 +68,62 @@
       "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
     },
     {
-      "title": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple\u2019s AirDrop - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-11-20/google-s-latest-pixel-phones-can-now-airdrop-with-iphones"
-    },
-    {
       "title": "T-Mobile will now start charging for a perk that used to be free - Android Police",
       "link": "https://www.androidpolice.com/t-mobile-will-now-start-charging-for-a-perk-that-used-to-be-free/"
     },
     {
-      "title": "Apple shows how much faster the M5 runs local LLMs compared to the M4 - 9to5Mac",
-      "link": "https://9to5mac.com/2025/11/20/apple-shows-how-much-faster-the-m5-runs-local-llms-compared-to-the-m4/"
+      "title": "Microsoft makes Zork I II , and III open source under MIT License - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/"
+    },
+    {
+      "title": "Chrome is finally getting native Vertical Tabs: and you can try them right now - Chrome Unboxed",
+      "link": "https://chromeunboxed.com/chrome-is-finally-getting-native-vertical-tabs-and-you-can-try-them-right-now/"
     },
     {
       "title": "Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin - Kotaku",
       "link": "https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900"
     },
     {
-      "title": "Existential Threat: Microsoft Stock (NASDAQ:MSFT) Slips as Analysts Sound Alarm on Steam Machine - TipRanks",
-      "link": "https://www.tipranks.com/news/existential-threat-microsoft-stock-nasdaqmsft-slips-as-analysts-sound-alarm-on-steam-machine"
+      "title": "Get an Oura Ring 4 for Just $49 With Your Amex Platinum Card [Until December 1] - Upgraded Points",
+      "link": "https://upgradedpoints.com/news/oura-ring-4-black-friday-2025/"
     },
     {
       "title": "Top-Notch Metroidvania F.I.S.T. Gets a PS5 Prequel in Zoopunk - Push Square",
       "link": "https://www.pushsquare.com/news/2025/11/top-notch-metroidvania-f-i-s-t-gets-a-ps5-prequel-in-zoopunk"
-    },
-    {
-      "title": "Xbox Partner Preview | Breaking Down the Background and Boss Fight in the New Tides of Annihilation Gameplay Trailer - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/11/20/tides-of-annihilation-xbox-partner-preview/"
-    },
-    {
-      "title": "All the Golden Joystick Awards 2025 winners revealed - GamesRadar+",
-      "link": "https://www.gamesradar.com/games/events-conferences/golden-joystick-awards-2025-all-winners/"
-    },
-    {
-      "title": "The Oura Ring 4 has dropped to its lowest price yet for Black Friday - The Verge",
-      "link": "https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025"
-    },
-    {
-      "title": "Xbox Partner Preview | Vampire Crawlers: Breaking Down the Surprise Vampire Survivors Spin-Off with its Creator - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/11/20/vampire-crawlers-xbox-partner-preview/"
-    },
-    {
-      "title": "12 Of The Year's Biggest Games Are On Sale For Black Friday 2025 - Kotaku",
-      "link": "https://kotaku.com/black-friday-2025-game-sale-kingdom-come-monster-hunter-2000645834"
-    },
-    {
-      "title": "Here's everything announced in the fantastic Xbox Partner Preview Event - Eurogamer",
-      "link": "https://www.eurogamer.net/heres-everything-announced-in-the-fantastic-xbox-partner-preview-event"
-    },
-    {
-      "title": "What's Changed Since Pre-Ordering Metroid Prime 4 In 2017 - Kotaku",
-      "link": "https://kotaku.com/fans-who-pre-ordered-metroid-prime-4-six-years-ago-have-seen-their-entire-lives-change-2000645936"
-    },
-    {
-      "title": "Major Borderlands 4 Update Adds Smarter Loot Drops, a New Legendary Loot Indicator for the Radar, and a Lot More - IGN",
-      "link": "https://www.ign.com/articles/major-borderlands-4-update-adds-smarter-loot-drops-a-new-legendary-loot-indicator-for-the-radar-and-a-lot-more"
-    },
-    {
-      "title": "Call of Duty: Black Ops 7 Review - Good Luck, Have Fun - Game Informer",
-      "link": "https://gameinformer.com/review/call-of-duty-black-ops-7/good-luck-have-fun"
     }
   ],
   "sports_news": [
     {
-      "title": "Sean McDermott: Josh Allen takes too many hits, we\u2019ve got to figure that out - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcdermott-josh-allen-takes-too-many-hits-weve-got-to-figure-that-out"
+      "title": "Mark Pope defends Brandon Garrison, but admits there were struggles vs. Michigan State - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/mark-pope-defends-brandon-garrison-admits-struggles-vs-michigan-state/"
+    },
+    {
+      "title": "Harvard vs Yale: The nerds will finally go to the college football playoffs - CNN",
+      "link": "https://www.cnn.com/2025/11/21/sport/football-ncaa-harvard-yale-analysis"
     },
     {
       "title": "Ilia Topuria, Paddy Pimblett cross paths, exchange words ahead of UFC Qatar - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/457639/ilia-topuria-paddy-pimblett-cross-paths-exchange-words-ahead-of-ufc-qatar"
     },
     {
-      "title": "Purdue outlasts Memphis to win Baha Mar opener - On3",
-      "link": "https://www.on3.com/teams/purdue-boilermakers/news/purdue-outlasts-memphis-to-win-baha-mar-opener/"
+      "title": "Alex Ovechkin becomes sixth oldest player in NHL history to score a hat trick - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2025/11/21/alex-ovechkin-sixth-oldest-player-hat-trick-nhl-history/"
     },
     {
-      "title": "Cameron Maybin urges Yankees to trade for Tarik Skubal: \u2018Don\u2019t want to hear anything about payroll\u2019 - New York Post",
-      "link": "https://nypost.com/2025/11/21/sports/cameron-maybin-urges-yankees-to-trade-for-tarik-skubal/"
+      "title": "Purdue outlasts Memphis to win Baha Mar opener - On3",
+      "link": "https://www.on3.com/teams/purdue-boilermakers/news/purdue-outlasts-memphis-to-win-baha-mar-opener/"
     },
     {
       "title": "Josh Allen injury: Shoulder goes numb for Buffalo Bills QB during Texans game - Buffalo Rumblings",
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/122831/josh-allen-injury-shoulder-goes-numb-for-buffalo-bills-qb-during-texans-game"
     },
     {
-      "title": "Alex Ovechkin moves into top 10 of NHL\u2019s all-time points list after four-point game against Canadiens - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2025/11/21/alex-ovechkin-joe-sakic-10th-nhl-all-time-points-list/"
+      "title": "User-Friendly guide to Virginia Tech's massive recruiting weekend with coach James Franklin - 247Sports",
+      "link": "https://247sports.com/longformarticle/virginia-tech-james-franklin-recruiting-miami-hurricanes-262618464/"
     },
     {
-      "title": "Why the Bills Don\u2019t Look Like a Team Ready to Achieve Greatness - Sports Illustrated",
-      "link": "https://www.si.com/nfl/why-bills-dont-look-ready-to-achieve-greatness"
-    },
-    {
-      "title": "Ohio State Women\u2019s Soccer Upsets No. 1 Seed Notre Dame to Advance to Sweet 16 of NCAA Tournament | Eleven Wa - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-athletics/2025/11/159659/ohio-state-women-s-soccer-upsets-no-1-seed-notre-dame-to-advance-to-sweet-16-of-ncaa-tournament"
+      "title": "NFL Playoff Picture 2025-26, Standings, Bracket Scenarios After Bills vs. Texans - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25301255-nfl-playoff-picture-2025-26-standings-bracket-scenarios-after-bills-vs-texans"
     },
     {
       "title": "Braves Notes: Dubon, Seager, Holmes - MLB Trade Rumors",
@@ -132,26 +132,6 @@
     {
       "title": "Official Weigh-In Results | UFC Qatar - UFC.com",
       "link": "https://www.ufc.com/news/official-weigh-in-results-ufc-qatar-fight-night-tsarukyan-hooker"
-    },
-    {
-      "title": "Instant observations: As he leads Sixers to overtime road win against Bucks, Tyrese Maxey sure looks like a superstar - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-vs-bucks-highlights-box-score-stats-paul-george-tyrese-maxey-vj-edgecombe-quentin-grimes-nick-nurse/"
-    },
-    {
-      "title": "Islanders demolish Red Wings to close out dominant road trip in style - New York Post",
-      "link": "https://nypost.com/2025/11/20/sports/islanders-demolish-red-wings-to-close-out-dominant-road-trip-in-style/"
-    },
-    {
-      "title": "Thursday Night Football: Texans lead Bills 20-16 at halftime - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-texans-lead-bills-20-16-at-halftime"
-    },
-    {
-      "title": "Seahawks-Titans Thursday injury report: Grey Zabel returns to practice - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-injury-report/155539/seahawks-titans-thursday-week-12-injury-report-grey-zabel-returns-to-practice"
-    },
-    {
-      "title": "Where Virginia Tech sits with the remaining commits in Penn State's class - 247Sports",
-      "link": "https://247sports.com/longformarticle/virginia-tech-hokies-flip-penn-state-football-commits--262606181/"
     },
     {
       "title": "Nebrasketball Fights Off New Mexico to Advance to the Hall of Fame Classic Championship - Sports Illustrated",
@@ -170,8 +150,28 @@
       "link": "https://www.on3.com/teams/kentucky-wildcats/news/availability-report-slight-changes-ahead-of-kentucky-vs-vanderbilt/"
     },
     {
-      "title": "Florida vs. Tennessee Thursday availability report: Three Gators cleared to compete - 247Sports",
-      "link": "https://247sports.com/college/florida/article/florida-gators-football-tennessee-volunteers-thursday-availability-report-262541554/"
+      "title": "The WNBA\u2019s Million-Dollar Offer Isn\u2019t What it Seems - Front Office Sports",
+      "link": "http://frontofficesports.com/wnba-cba-million-dollar-offer/"
+    },
+    {
+      "title": "Commissioner Berman puts NWSL 'on notice' for calendar change - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/47041469/commissioner-berman-puts-nwsl-notice-calendar-change"
+    },
+    {
+      "title": "Buffalo Bills inactives list vs. Texans | Week 12 TNF - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-inactives-list-vs-texans-week-12-tnf"
+    },
+    {
+      "title": "Quick Hits | Joe Burrow Impresses Mates In Second Full Practice: \"An All-Time Football Freak\" - Bengals.com",
+      "link": "https://www.bengals.com/news/joe-burrow-impresses-mates-in-second-full-practice-joe-flacco"
+    },
+    {
+      "title": "Bills WR Coleman a scratch for 2nd week in a row - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47040582/buffalo-bills-keon-coleman-healthy-scratch-again"
+    },
+    {
+      "title": "Fact-Checking Cam Newton\u2019s Criticism Of Drake Maye\u2019s Patriots - NESN",
+      "link": "https://nesn.com/2025/11/fact-checking-cam-newtons-criticism-of-drake-mayes-patriots/"
     }
   ],
   "weather": {
