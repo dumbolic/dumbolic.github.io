@@ -1,9 +1,9 @@
 {
-  "quote": "Great minds discuss ideas. Average minds discuss events. Small minds discuss people. \u2013 Eleanor Roosevelt",
-  "fact": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
-  "crypto": "BTC: $88,821 | ETH: $2,960.5",
+  "quote": "All men who have achieved great things have been great dreamers.  \u2013 Orison Swett Marden",
+  "fact": "Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.",
+  "crypto": "BTC: $88,556 | ETH: $2,964.07",
   "tip": "Commit often with meaningful messages.",
-  "joke": "It doesn't matter how much you push the envelope. It will still be stationary.",
+  "joke": "You know that cemetery up the road? People are dying to get in there.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google denies analyzing your emails for AI training - here's what happened - ZDNET",
+      "link": "https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/"
+    },
+    {
+      "title": "Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us"
+    },
+    {
+      "title": "These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik",
+      "link": "https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/"
+    },
+    {
+      "title": "Elden Ring Is Under $20 Again for Black Friday - IGN",
+      "link": "https://www.ign.com/articles/elden-ring-is-under-20-again-and-nightreign-has-a-big-discount-too-for-black-friday"
+    },
+    {
       "title": "Upgrade your smartwatch game with the Samsung Galaxy Watch 7 for its lowest price yet - Mashable",
       "link": "https://mashable.com/article/early-black-friday-deal-2025-samsung-galaxy-watch-7"
+    },
+    {
+      "title": "6 Affordable Gadgets That Every Audiophile Should Have In Their Home - slashgear.com",
+      "link": "https://www.slashgear.com/2029535/cheap-audiophile-gadgets-accessories/"
     },
     {
       "title": "Sunday Preview \u2013 Prepare to enter the Jade Abbey in Warhammer Quest: Darkwater - Warhammer Community",
@@ -50,72 +70,52 @@
     {
       "title": "I just tested ChatGPT-5.1 vs. Grok 4.1 with 9 prompts \u2014 and there's a clear winner - Tom's Guide",
       "link": "https://www.tomsguide.com/ai/i-just-tested-chatgpt-5-1-vs-grok-4-1-and-one-ai-crushed-the-competition"
-    },
-    {
-      "title": "Nintendo's 2025 Black Friday Sale is Officially Live - IGN",
-      "link": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2025"
-    },
-    {
-      "title": "It\u2019s possible to get addicted to pot. Here\u2019s what to know. - Boston.com",
-      "link": "https://www.boston.com/news/health/2025/11/23/its-possible-to-get-addicted-to-pot-heres-what-to-know/"
-    },
-    {
-      "title": "Google Nest Doorbell Cam (2025) Review: I\u2019m So Tired of Subscriptions - Gizmodo",
-      "link": "https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300"
-    },
-    {
-      "title": "Apple iOS 27 to Be No-Frills \u2018Snow Leopard\u2019 Update, Other Than New AI - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8"
-    },
-    {
-      "title": "Apple TV wants to go big - The Verge",
-      "link": "https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience"
-    },
-    {
-      "title": "The app that will instantly improve your Windows PC - The Verge",
-      "link": "https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer"
     }
   ],
   "sports_news": [
     {
-      "title": "MRI coming for Will Campbell knee injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mri-coming-for-will-campbell-knee-injury"
+      "title": "Sources: California fires Wilcox after 48-55 mark - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47077802/sources-california-fires-football-coach-justin-wilcox"
+    },
+    {
+      "title": "Game Observations: 8 Takeaways From the Patriots Victory Over the Bengals in Week 12 - New England Patriots",
+      "link": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-victory-over-the-bengals-in-week-12"
+    },
+    {
+      "title": "New York Jets vs. Baltimore Ravens Live Score and Stats - November 23, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251123_NYJ@BAL/"
+    },
+    {
+      "title": "Steelers report card: Coaching decisions loom large as another opportunity slips away - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2025/11/23/fittipaldo-reportcard-bears-nfl-tomlin-rudolph-metcalf-ramsey/stories/202511220047"
+    },
+    {
+      "title": "Browns lead Raiders 14-3 at halftime in Shedeur Sanders\u2019 first start - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-lead-raiders-14-3-at-halftime-in-shedeur-sanders-first-start"
+    },
+    {
+      "title": "RECAP: Lions vs. Giants - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/recap-lions-vs-giants-gibbs-hutchinson-bates"
     },
     {
       "title": "Chiefs complete comeback in OT, defeat Colts 23-20 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-complete-comeback-in-ot-defeat-colts-23-20"
     },
     {
-      "title": "NFL Week 12: Instant analysis from Patriots\u2019 26-20 win over Bengals - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-news/114893/nfl-week-12-instant-analysis-patriots-bengals"
-    },
-    {
       "title": "NFL Week 12 takeaways: What We Learned from Sunday's 12 games - NFL.com",
       "link": "https://www.nfl.com/news/nfl-week-12-takeaways-what-we-learned-from-sunday-s-12-games"
     },
     {
-      "title": "Jameis Winston catches wild trick-play touchdown before Jhamyr Gibbs leads Lions comeback over Giants - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/jameis-winston-catches-wild-trick-play-td-before-jahmyr-gibbs-leads-lions-comeback-over-giants-203951961.html"
+      "title": "Live: Recap: Seahawks handle Cam Ward, Titans to move to 8-3 - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-titans-live-updates-score-how-to-watch-week-12-matchup/"
     },
     {
-      "title": "Pittsburgh Steelers vs. Chicago Bears Live Score and Stats - November 23, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251123_PIT@CHI/"
-    },
-    {
-      "title": "3 impressions from Seahawks win vs. Titans | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/3-impressions-from-seahawks-win-vs-titans-analysis/"
+      "title": "MOVING ON: No. 4 Maryland Advances Past North Carolina In Penalty Kicks, 4-3 - University of Maryland Athletics",
+      "link": "https://umterps.com/news/2025/11/23/mens-soccer-soccer-vs-unc.aspx"
     },
     {
       "title": "Forde-Yard Dash: College Football Playoff Scenarios Leave Room for Chaos in Week 14 - Sports Illustrated",
       "link": "https://www.si.com/college-football/forde-yard-dash-cfp-scenarios-leave-room-for-chaos"
-    },
-    {
-      "title": "Tee Higgins carted off after hitting head; Joe Flacco leaves briefly with finger injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tee-higgins-carted-off-after-hitting-head-joe-flacco-leaves-briefly-with-finger-injury"
-    },
-    {
-      "title": "Romanov has shoulder surgery, out 5-6 months for Islanders - NHL.com",
-      "link": "https://www.nhl.com/news/alexander-romanov-injury-status-update-november-23-2025"
     },
     {
       "title": "Micah Parsons, Packers defense dominate Vikings for 23-6 victory - NBC Sports",
@@ -126,8 +126,12 @@
       "link": "https://247sports.com/college/florida-state/longformarticle/recruits-react-to-mike-norvell-remaining-fsus-head-football-coach-263110801/"
     },
     {
-      "title": "NFL: Eagles dominating Dallas, Sanders having mixed first start - week 12 latest - BBC",
-      "link": "https://www.bbc.com/sport/american-football/live/c9d0vw6jv8qt"
+      "title": "Jameis Winston catches 33-yard TD pass as Giants continue beating Lions with trick plays - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-catches-33-yard-td-pass-as-giants-continue-beating-lions-with-trick-plays"
+    },
+    {
+      "title": "\u2018College GameDay\u2019 Announces Destination for Week 14 - Sports Illustrated",
+      "link": "https://www.si.com/college-football/college-gameday-announces-destination-for-week-14"
     },
     {
       "title": "Jaxon Smith-Njigba breaks Seahawks receiving record vs. Titans - The Seattle Times",
@@ -146,16 +150,8 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-saban-calls-for-changes-to-college-football-coaching-carousel"
     },
     {
-      "title": "Oregon is back in the top five of the AP Top 25 poll, Miami leads pack of 5 ranked ACC teams - AP News",
-      "link": "https://apnews.com/article/ap-top-25-college-football-fc23c61177142c895619497c0414a9d2"
-    },
-    {
       "title": "What they\u2019re saying nationally, in Los Angeles after No. 7 Oregon defeats No. 15 USC - OregonLive.com",
       "link": "https://www.oregonlive.com/ducks/2025/11/what-theyre-saying-nationally-in-los-angeles-after-no-7-oregon-defeats-no-15-usc.html"
-    },
-    {
-      "title": "2025 FCS Playoffs: First-Round TV Schedule - HERO Sports",
-      "link": "https://herosports.com/fcs-2025-playoffs-first-round-tv-schedule-bzbz/"
     }
   ],
   "weather": {
