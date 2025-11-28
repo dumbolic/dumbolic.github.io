@@ -1,9 +1,9 @@
 {
-  "quote": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. \u2013 Albus Dumbledore",
-  "fact": "In Iceland, a Big Mac costs $5.50.",
-  "crypto": "BTC: $91,011 | ETH: $3,037.83",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What did the dog say to the two trees? Bark bark.",
+  "quote": "If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. \u2013 Steve Maraboli",
+  "fact": "The average American works 24,000 hours in their lifetime just to pay their taxes",
+  "crypto": "BTC: $91,117 | ETH: $3,041.77",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Who is the coolest Doctor in the hospital? The hip Doctor!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -20,6 +20,14 @@
       "link": "https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025"
     },
     {
+      "title": "MacBook Air, Mac mini, and more hit new lows for Black Friday: from $479 - 9to5Mac",
+      "link": "https://9to5mac.com/2025/11/27/black-friday-new-lows-on-macbook-air-mac-mini-more/"
+    },
+    {
+      "title": "Kirby Air Riders tech analysis, including frame rate and resolution - Nintendo Everything",
+      "link": "https://nintendoeverything.com/kirby-air-riders-tech-analysis-including-frame-rate-and-resolution/"
+    },
+    {
       "title": "57+ Apple Black Friday deals LIVE: iPhone, AirPods, MacBooks and more - Tom's Guide",
       "link": "https://www.tomsguide.com/live/news/apple-black-friday-deals-2025"
     },
@@ -28,24 +36,16 @@
       "link": "https://thegamepost.com/destiny-2-renegades-all-armor-set-bonuses/"
     },
     {
-      "title": "The Best PlayStation Deals for Black Friday 2025: Discounts on PS5 Consoles, Games, and More - IGN",
-      "link": "https://www.ign.com/articles/playstation-black-friday-2025-best-deals"
-    },
-    {
       "title": "How Microsoft\u2019s developers are using AI - The Verge",
       "link": "https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad"
-    },
-    {
-      "title": "Nintendo Download: 27th November (North America) - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/11/nintendo-download-27th-november-north-america"
     },
     {
       "title": "Arc Raiders devs implement the funniest possible solution to combat cheaters - Polygon",
       "link": "https://www.polygon.com/arc-raiders-patch-notes-fire-trap-locked-doors/"
     },
     {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "link": "https://www.marvelrivals.com/announcements/20251127/40955_1273569.html"
+      "title": "Anker Goes Zero-Margin on Solix 2000W Power Station, Game Over for EcoFlow and Jackery - Kotaku",
+      "link": "https://kotaku.com/anker-goes-zero-margin-on-solix-2000w-power-station-game-over-for-ecoflow-and-jackery-2000648103"
     },
     {
       "title": "I've Rounded Up All of the Best Black Friday OLED TV Deals From LG, Samsung, and Sony - IGN",
@@ -60,12 +60,16 @@
       "link": "https://9to5mac.com/2025/11/27/black-friday-savings-hit-official-iphone-17-cases-apple-watch-bands-airtag-and-more/"
     },
     {
-      "title": "Live A Superyacht Life with Lavish Rewards - Rockstar Games",
-      "link": "https://www.rockstargames.com/newswire/article/2583789kaao8aa/live-a-superyacht-life-with-lavish-rewards"
-    },
-    {
       "title": "Battlefield 6 Has Dropped to Just $35 for Black Friday 2025 - IGN",
       "link": "https://www.ign.com/articles/battlefield-6-black-friday-deal-2025"
+    },
+    {
+      "title": "AirDrop-compatible Quick Share is breaking Wi-Fi functionality for some Pixel 10 users - Android Police",
+      "link": "https://www.androidpolice.com/airdrop-quickshare-breaking-wi-fi-for-some/"
+    },
+    {
+      "title": "Cyberpunk 2077 has sold 35 million copies to date - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/cyberpunk-2077-has-sold-35-million-copies-to-date"
     },
     {
       "title": "\"AI will be involved in nearly all future production,\" says Epic Games boss, so having Steam games disclose whether they were built with AI makes \"no sense\" - Eurogamer",
@@ -86,32 +90,48 @@
   ],
   "sports_news": [
     {
-      "title": "Jordan Love throws four TDs, Packers beat Lions 31-24 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-throws-four-tds-packers-beat-lions-31-24"
+      "title": "Lucas: Michigan State Rapid Reactions - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2025/11/27/mens-basketball-lucas-michigan-state-rapid-reactions"
+    },
+    {
+      "title": "UFC 324: Paddy Pimblett to fight Justin Gaethje for interim lightweight title - BBC",
+      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cp84n0gm130o"
+    },
+    {
+      "title": "Game recap: 5 takeaways from Packers\u2019 Thanksgiving win over Lions - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-thanksgiving-win-over-lions-week-13-2025"
+    },
+    {
+      "title": "J.J. McCarthy has another limited practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-has-another-limited-practice"
     },
     {
       "title": "Cowboys vs. Chiefs live updates: Kickoff time, where to watch this Thanksgiving - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/cowboys-chiefs-thanksgiving-live-updates-score-highlights-reaction/live/"
     },
     {
-      "title": "UNC-Michigan State Preview: Spartans Present Thanksgiving Test of Physicality - On3",
-      "link": "https://www.on3.com/teams/north-carolina-tar-heels/news/unc-basketball-michigan-state-preview-fort-myers-physical-test/"
+      "title": "Fuzzy Zoeller, two-time major champion golfer, dies at 74 - USA Today",
+      "link": "https://www.usatoday.com/story/sports/golf/2025/11/27/fuzzy-zoeller-death-dies-74/87497930007/"
+    },
+    {
+      "title": "Daniel Jones Reportedly Has Leg Fracture, What's Colts QB's Injury Status vs. Texans? - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25307761-daniel-jones-reportedly-has-leg-fracture-whats-colts-qbs-injury-status-vs-texans"
+    },
+    {
+      "title": "Sources: Thunder's Williams to make debut Friday - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/47121220/sources-thunder-jalen-williams-make-debut-vs-suns"
+    },
+    {
+      "title": "Ilia Topuria Steps Away from UFC for Personal Matter, Explains Timeline to Return - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25307795-ilia-topuria-steps-away-ufc-personal-matter-explains-timeline-return"
     },
     {
       "title": "Injury Update: Bears secondary bolstered by return of Jaylon Johnson, Kyler Gordon - Chicago Bears",
       "link": "https://www.chicagobears.com/news/injury-update-bears-secondary-bolstered-by-return-of-jaylon-johnson-kyler-gordon-eagles-black-friday"
     },
     {
-      "title": "Bold Predictions for Bears vs. Eagles - Sports Mockery",
-      "link": "https://www.sportsmockery.com/chicago-bears/bold-predictions-for-bears-vs-eagles/"
-    },
-    {
       "title": "Amon-Ra St. Brown injury news: Lions WR OUT with ankle injury - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-injury-report/150757/amon-ra-st-brown-injury-news-lions-wr-heads-to-locker-room"
-    },
-    {
-      "title": "Report: Daniel Jones has a fracture in fibula, plans to keep playing - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-daniel-jones-has-a-fracture-in-fibula-plans-to-keep-playing"
     },
     {
       "title": "Ole Miss Makes Final Decision on Lane Kiffin for CFP Amid LSU Football Pursuit - Sports Illustrated",
@@ -122,12 +142,16 @@
       "link": "https://www.detroitlions.com/news/inactives-lions-vs-packers-glasgow-joseph-wright"
     },
     {
+      "title": "NFL Week 13 staff picks: Moneyline, spread, over/under predictions - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-gambling-odds/150644/nfl-week-13-staff-picks-moneyline-spread-over-under-predictions"
+    },
+    {
       "title": "Mizzou Athletics Announces New Contract for Head Football Coach Eliah Drinkwitz - University of Missouri Athletics",
       "link": "https://mutigers.com/news/2025/11/27/mizzou-athletics-announces-new-contract-for-head-football-coach-eliah-drinkwitz"
     },
     {
-      "title": "CNBC Sport: In Thanksgiving NFL games, prediction platforms could win big - CNBC",
-      "link": "https://www.cnbc.com/2025/11/27/cnbc-sport-in-thanksgiving-nfl-games-prediction-platforms-could-win-big.html"
+      "title": "Pundit Picks: Ravens Predicted to Feast on Thanksgiving - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/ravens-bengals-thanksgiving-pundit-picks-2025"
     },
     {
       "title": "Potential NBA Cup Clincher Turns Into Another Hard Lesson for Blazers - Blazer's Edge",
@@ -140,26 +164,6 @@
     {
       "title": "What Buffalo Bills fans need to know about NFL Pro Bowl voting | 2026 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
       "link": "https://www.buffalobills.com/news/what-buffalo-bills-fans-need-to-know-about-nfl-pro-bowl-voting-2026"
-    },
-    {
-      "title": "The Opener: Cease Signs, Rox Set With Schaeffer, Rendon Retirement - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/11/the-opener-cease-signs-rox-set-with-schaeffer-rendon-retirement.html"
-    },
-    {
-      "title": "Shedeur Sanders deflects reporter\u2019s effort to claim \u201csabotage\u201d by Kevin Stefanski - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-deflects-reporters-effort-to-claim-sabotage-by-kevin-stefanski"
-    },
-    {
-      "title": "Arsenal vs Bayern Munich: When the World\u2019s Two Best Teams Collided, It Wasn't Even Close - Opta Analyst",
-      "link": "https://theanalyst.com/articles/arsenal-vs-bayern-two-best-sides-in-world-wasnt-close-stats"
-    },
-    {
-      "title": "LSU finally fires Brian Kelly, without cause - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lsu-finally-fires-brian-kelly-without-cause"
-    },
-    {
-      "title": "NFL Week 13 fantasy football start \u2019em, sit \u2019em - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-start-sit-advice-week-13-2025"
     }
   ],
   "weather": {
