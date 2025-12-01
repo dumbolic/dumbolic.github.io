@@ -1,9 +1,9 @@
 {
-  "quote": "If you build the guts to do something, anything, then you better save enough to face the consequences. \u2013 Criss Jami",
-  "fact": "Average life span of a major league baseball: 7 pitches.",
-  "crypto": "BTC: $85,289 | ETH: $2,746.68",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.",
+  "quote": "To the mind that is still, the whole universe surrenders. \u2013 Lao Tzu",
+  "fact": "The longest recorded flight  of a chicken is 13 seconds",
+  "crypto": "BTC: $85,664 | ETH: $2,764.73",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "A steak pun is a rare medium well done.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "The Game Awards desert statue explained: Geoff Keighley sparks massive announcement theories - Dexerto",
+      "link": "https://www.dexerto.com/gaming/the-game-awards-desert-statue-explained-geoff-keighley-sparks-massive-announcement-theories-3288327/"
+    },
+    {
+      "title": "This deal on smart glasses was too good for my husband to pass up - The Verge",
+      "link": "https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot"
+    },
+    {
+      "title": "My favorite snore-blocking sleepbuds are down to their lowest price for Cyber Monday - The Verge",
+      "link": "https://www.theverge.com/gadgets/834099/anker-soundcore-sleep-a20-snore-blocking-earbuds-lowest-price-cyber-monday"
+    },
     {
       "title": "Google\u2019s New Gmail Update\u20142 Billion Users Must Now Decide - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2025/11/30/google-confirms-gmail-choice-2-billion-users-must-now-decide/"
@@ -22,6 +34,10 @@
     {
       "title": "You need to read the treatise on spacing out, Bored and Brilliant - The Verge",
       "link": "https://www.theverge.com/report/834063/treatise-on-spacing-out-bored-and-brilliant-manoush-zomorodi"
+    },
+    {
+      "title": "M5 iPad Pro Could Hint at New Studio Display Feature - MacRumors",
+      "link": "https://www.macrumors.com/2025/11/30/ipad-pro-hint-at-studio-display-feature/"
     },
     {
       "title": "Cyber Monday Is Here and We\u2019ve Found Some Amazing PlayStation, Xbox and Switch Deals - CNET",
@@ -74,52 +90,76 @@
     {
       "title": "Google Home trick lets you enable the new Gemini voices immediately - 9to5Google",
       "link": "http://9to5google.com/2025/11/30/gemini-home-assistant-voice-trick/"
-    },
-    {
-      "title": "The 2025 Installer gift guide - The Verge",
-      "link": "https://www.theverge.com/tech/830153/the-2025-installer-gift-guide"
-    },
-    {
-      "title": "Revisiting Jill of the Jungle , the last game Tim Sweeney designed - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/"
-    },
-    {
-      "title": "The Best Gadgets of November 2025 - Gizmodo",
-      "link": "https://gizmodo.com/best-gadgets-november-2025-2000690903"
-    },
-    {
-      "title": "I hated using Gemini until a tiny adjustment changed everything - Android Police",
-      "link": "https://www.androidpolice.com/hated-using-gemini-until-tiny-adjustment-changed-everything/"
     }
   ],
   "sports_news": [
     {
-      "title": "Michigan State fires Jonathan Smith as head football coach - 247Sports",
-      "link": "https://247sports.com/college/michigan-state/article/michigan-state-football-jonathan-smith-head-coaching-replacement-candidates-pat-fitzgerald-jason-eck-matt-campbell-264029909/"
+      "title": "Justin Herbert questionable to return with left hand injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-questionable-to-return-with-left-hand-injury"
     },
     {
-      "title": "Shedeur Sanders solid in bad weather as Browns stay close to 49ers\u2013 Terry Pluto\u2019s halftime scribbles - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/11/shedeur-sanders-solid-in-bad-weather-as-browns-stay-close-to-49rs-terry-plutos-halftime-scribbles.html"
+      "title": "NFL Playoff Bracket Picture 2025-26 and AFC, NFC Standings After Week 13 Early Slate - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25309818-nfl-playoff-bracket-picture-2025-26-and-afc-nfc-standings-after-week-13-early-slate"
+    },
+    {
+      "title": "Houston Texans vs. Indianapolis Colts Live Score and Stats - November 30, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251130_HOU@IND/"
+    },
+    {
+      "title": "Shedeur Sanders will start vs. Titans next week - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-will-start-vs-titans-next-week"
+    },
+    {
+      "title": "Jaguars take over first place in AFC South with win over Titans - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-take-over-first-place-in-afc-south-with-win-over-titans"
+    },
+    {
+      "title": "Presser Bullets: Ohio State's Already Moved on to Indiana After The Game, Curt Cignetti Calls Ryan Day a Future Legend of College Football - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/11/160007/presser-bullets-ohio-states-already-moved-on-to-indiana-after-the-game-curt-cignetti-calls-ryan-day-a-future-legend"
+    },
+    {
+      "title": "Saints\u2019 comeback comes up short as Dolphins survive to win 21-17 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-comeback-comes-up-short-as-dolphins-survive-to-win-21-17"
+    },
+    {
+      "title": "San Francisco 49ers vs. Cleveland Browns Live Score and Stats - November 30, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251130_SF@CLE/"
+    },
+    {
+      "title": "Rapid Reactions: Panthers win a stunner over the Rams - Panthers.com",
+      "link": "https://www.panthers.com/news/rapid-reactions-panthers-win-a-stunner-over-the-rams"
+    },
+    {
+      "title": "What they\u2019re saying nationally, in Seattle after No. 6 Oregon defeats Washington - OregonLive.com",
+      "link": "https://www.oregonlive.com/ducks/2025/11/what-theyre-saying-nationally-in-seattle-after-no-6-oregon-defeats-washington.html"
+    },
+    {
+      "title": "Michigan State fires coach Smith after 2 seasons - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47153724/michigan-state-plans-fire-coach-jonathan-smith-sources-say"
     },
     {
       "title": "Florida announces hiring of Jon Sumrall as Gators' head coach - 247Sports",
       "link": "https://247sports.com/college/florida/article/florida-football-gators-announce-hiring-jon-sumrall-tulane-head-coach-264107641/"
     },
     {
-      "title": "AP Poll Top 25: College Football Rankings see shake up after Week 14 - On3",
-      "link": "https://www.on3.com/news/ap-poll-top-25-college-football-rankings-see-shake-up-after-week-14/"
+      "title": "Georgia up to No. 3 behind Ohio State, Indiana in Top 25 shuffle as Oregon, Texas Tech also climb - AP News",
+      "link": "https://apnews.com/article/ap-top-25-football-poll-c8bf8a91d8168f000d5ddf0e121b3a41"
     },
     {
       "title": "Colts rule out Sauce Gardner, who is in a walking boot - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-rule-out-sauce-gardner-who-is-in-a-walking-boot"
     },
     {
-      "title": "Mikel Arteta on Arsenal\u2019s draw with Chelsea, game full of \u2018intensity, aggression, will\u2019 - NBC Sports",
-      "link": "https://www.nbcsports.com/soccer/news/mikel-arteta-reaction-to-arsenals-scrap-with-chelsea"
+      "title": "Browns vs. 49ers live updates: Score, highlights for Shedeur Sanders' second start - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/browns-vs-49ers-live-updates-score-highlights-shedeur-sanders/live/"
     },
     {
-      "title": "Sources: Coastal Carolina, Tim Beck parting ways - FootballScoop.com",
-      "link": "https://www.footballscoop.com/2025/11/30/sources-coastal-carolina-tim-beck-parting-ways"
+      "title": "Casagrande: Auburn AD quietly nails hiring of Alex Golesh, Alabama tormenter - AL.com",
+      "link": "https://www.al.com/auburnfootball/2025/11/casagrande-auburn-ad-quietly-nails-hiring-of-alex-golesh-alabama-tormenter.html"
+    },
+    {
+      "title": "Coastal Carolina University Announces Head Coaching Change in Football - Coastal Carolina University Athletics",
+      "link": "https://goccusports.com/news/2025/11/30/coastal-carolina-university-announces-head-coaching-change-in-football.aspx"
     },
     {
       "title": "Qatar GP as it happened: F1 title goes to Abu Dhabi as Verstappen wins - ESPN",
@@ -132,46 +172,6 @@
     {
       "title": "Projecting the new College Football Playoff rankings: How close can Texas get? - NBC Sports",
       "link": "https://www.nbcsports.com/college-football/news/projecting-the-new-college-football-playoff-rankings-how-close-can-texas-get"
-    },
-    {
-      "title": "Michigan players tried to wait for Ohio State players in tunnel after game - Scarlet and Game",
-      "link": "https://scarletandgame.com/michigan-players-tried-to-wait-for-ohio-state-players-in-tunnel-after-game"
-    },
-    {
-      "title": "Inactives: Yet another new offensive line, and lots of changes on defense - Panthers.com",
-      "link": "https://www.panthers.com/news/inactives-yet-another-new-offensive-line-and-lots-of-changes-on-defense"
-    },
-    {
-      "title": "Cardinals-Bucs Inactives | Baker Mayfield, Bucky Irving Good to Go - Tampa Bay Buccaneers",
-      "link": "https://www.buccaneers.com/news/cardinals-bucs-inactives-baker-mayfield-bucky-irving-good-go"
-    },
-    {
-      "title": "Alex Golesh named Auburn Football Head Coach - Auburn Tigers",
-      "link": "https://auburntigers.com/news/2025/11/30/alex-golesh-named-auburn-football-head-coach"
-    },
-    {
-      "title": "Arkansas to hire Memphis' Ryan Silverfield as next head coach - On3",
-      "link": "https://www.on3.com/college/arkansas-razorbacks/news/arkansas-to-hire-memphis-ryan-silverfield-as-next-head-coach/"
-    },
-    {
-      "title": "Lane Kiffin decision on LSU, Ole Miss: Live updates, news, announcements and analysis - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/lane-kiffin-live-updates-ole-miss-lsu-decision-analysis/live/"
-    },
-    {
-      "title": "Bill Belichick's 1st season at North Carolina ends in a rivalry loss at NC State \u2014 and just 4 wins - AP News",
-      "link": "https://apnews.com/article/north-carolina-bill-belichick-5723583458fa61ab6a295103169d935a"
-    },
-    {
-      "title": "Boise State to Host UNLV for 2025 Mountain West Football Championship - Mountain West Conference",
-      "link": "https://themw.com/news/2025/11/30/boise-state-to-host-unlv-for-25-mountain-west-football-championship/"
-    },
-    {
-      "title": "Initial Impressions: 5 observations from the Iron Bowl - Roll 'Bama Roll",
-      "link": "https://www.rollbamaroll.com/alabama-crimson-tide-football/77270/alabama-football-initial-impressions-from-the-iron-bowl"
-    },
-    {
-      "title": "Walt Anderson on controversial timeout: When in doubt, the NFL wants it to be granted - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/walt-anderson-on-controversial-timeout-when-in-doubt-the-nfl-wants-it-to-be-granted"
     }
   ],
   "weather": {
