@@ -1,9 +1,9 @@
 {
-  "quote": "At every moment where language can't go, that's your mind. \u2013 Bodhidharma",
-  "fact": "Spain leads the world in cork production",
-  "crypto": "BTC: $85,150 | ETH: $2,744.45",
+  "quote": "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work. \u2013 John Eliot",
+  "fact": "In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.",
+  "crypto": "BTC: $85,010 | ETH: $2,747.04",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Don't trust atoms. They make up everything.",
+  "joke": "What was a more important invention than the first telephone? The second one.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google\u2019s New Gmail Update\u20142 Billion Users Must Now Decide - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/11/30/google-confirms-gmail-choice-2-billion-users-must-now-decide/"
+    },
+    {
+      "title": "Fortnite fans are saying \"no to AI slop\" after spotting what they believe are AI-generated images in-game - Eurogamer",
+      "link": "https://www.eurogamer.net/fortnite-fans-are-saying-no-to-ai-slop-after-spotting-what-they-believe-are-ai-generated-images-in-game"
+    },
+    {
+      "title": "You need to read the treatise on spacing out, Bored and Brilliant - The Verge",
+      "link": "https://www.theverge.com/report/834063/treatise-on-spacing-out-bored-and-brilliant-manoush-zomorodi"
+    },
+    {
       "title": "Cyber Monday Is Here and We\u2019ve Found Some Amazing PlayStation, Xbox and Switch Deals - CNET",
       "link": "https://www.cnet.com/deals/best-cyber-monday-gaming-deals-2025-11-30/"
     },
     {
       "title": "This Early Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off - Lifehacker",
       "link": "https://lifehacker.com/tech/m2-macbook-air-stacksocial-black-friday-early-cyber-monday-deal-2025"
+    },
+    {
+      "title": "Analogue 3D Firmware Update 1.1.9 Is Live, Here Are The Patch Notes - Time Extension",
+      "link": "https://www.timeextension.com/news/2025/11/analogue-3d-firmware-update-1-1-9-is-live-here-are-the-patch-notes"
     },
     {
       "title": "Best Cyber Monday smart glasses deals 2025: I found the biggest sales like Meta Ray-Bans for 20% off - ZDNET",
@@ -42,6 +58,10 @@
     {
       "title": "I Found the Cheapest Gaming Laptop Deal That's Still Worth Buying - WIRED",
       "link": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/"
+    },
+    {
+      "title": "Harbor Freight Vs. Milwaukee: Which Impact Wrench Comes Out On Top? - House Digest",
+      "link": "https://www.housedigest.com/2037089/harbor-freight-bauer-impact-drill-vs-milwaukee/"
     },
     {
       "title": "Best Buy's Early Cyber Monday Sale Is Live and Our Experts Found the Best Deals on Apple iPads, LG TVs, and More - PCMag",
@@ -70,32 +90,52 @@
     {
       "title": "I hated using Gemini until a tiny adjustment changed everything - Android Police",
       "link": "https://www.androidpolice.com/hated-using-gemini-until-tiny-adjustment-changed-everything/"
-    },
-    {
-      "title": "Soaring RAM Prices Have Reportedly Halved Motherboard Sales; Are CPUs Next? - Wccftech",
-      "link": "https://wccftech.com/soaring-ram-prices-have-reportedly-halved-motherboard-sales/"
-    },
-    {
-      "title": "I finally understand the NotebookLM hype and I'm not looking back - Android Police",
-      "link": "https://www.androidpolice.com/notebooklm-deep-research-travel-planning/"
-    },
-    {
-      "title": "Amazon is selling a laptop for just $160 during its Cyber Monday sale - TheStreet",
-      "link": "https://www.thestreet.com/deals/asus-vivobook-go-laptop-amazon-sale-cyber-monday-2025"
-    },
-    {
-      "title": "I'd ditch my Pixel for this upcoming phone, but three things are holding me back - Android Authority",
-      "link": "https://www.androidauthority.com/pixel-9a-vs-oneplus-15r-3620440/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Michigan State fires Jonathan Smith as head football coach - 247Sports",
+      "link": "https://247sports.com/college/michigan-state/article/michigan-state-football-jonathan-smith-head-coaching-replacement-candidates-pat-fitzgerald-jason-eck-matt-campbell-264029909/"
+    },
+    {
+      "title": "Shedeur Sanders solid in bad weather as Browns stay close to 49ers\u2013 Terry Pluto\u2019s halftime scribbles - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2025/11/shedeur-sanders-solid-in-bad-weather-as-browns-stay-close-to-49rs-terry-plutos-halftime-scribbles.html"
+    },
+    {
+      "title": "Florida announces hiring of Jon Sumrall as Gators' head coach - 247Sports",
+      "link": "https://247sports.com/college/florida/article/florida-football-gators-announce-hiring-jon-sumrall-tulane-head-coach-264107641/"
+    },
+    {
+      "title": "AP Poll Top 25: College Football Rankings see shake up after Week 14 - On3",
+      "link": "https://www.on3.com/news/ap-poll-top-25-college-football-rankings-see-shake-up-after-week-14/"
+    },
+    {
+      "title": "Colts rule out Sauce Gardner, who is in a walking boot - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-rule-out-sauce-gardner-who-is-in-a-walking-boot"
+    },
+    {
+      "title": "Mikel Arteta on Arsenal\u2019s draw with Chelsea, game full of \u2018intensity, aggression, will\u2019 - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/mikel-arteta-reaction-to-arsenals-scrap-with-chelsea"
+    },
+    {
+      "title": "Sources: Coastal Carolina, Tim Beck parting ways - FootballScoop.com",
+      "link": "https://www.footballscoop.com/2025/11/30/sources-coastal-carolina-tim-beck-parting-ways"
+    },
     {
       "title": "Qatar GP as it happened: F1 title goes to Abu Dhabi as Verstappen wins - ESPN",
       "link": "https://www.espn.com/f1/story/_/id/47127631/f1-qatar-grand-prix-2025-latest-updates"
     },
     {
-      "title": "Florida coordinator hot board 1.0: Who might join Jon Sumrall's Gators coaching staff? - 247Sports",
-      "link": "https://247sports.com/college/florida/article/florida-gators-football-coordinator-hot-board-jon-sumrall-staff-261476028/"
+      "title": "Who becomes USF\u2019s next football coach? We offer a few candidates - Tampa Bay Times",
+      "link": "https://www.tampabay.com/sports/bulls/2025/11/30/usf-rob-higgins-alex-golesh-jon-gruden-jimbo-fisher/"
+    },
+    {
+      "title": "Projecting the new College Football Playoff rankings: How close can Texas get? - NBC Sports",
+      "link": "https://www.nbcsports.com/college-football/news/projecting-the-new-college-football-playoff-rankings-how-close-can-texas-get"
+    },
+    {
+      "title": "Michigan players tried to wait for Ohio State players in tunnel after game - Scarlet and Game",
+      "link": "https://scarletandgame.com/michigan-players-tried-to-wait-for-ohio-state-players-in-tunnel-after-game"
     },
     {
       "title": "Inactives: Yet another new offensive line, and lots of changes on defense - Panthers.com",
@@ -104,10 +144,6 @@
     {
       "title": "Cardinals-Bucs Inactives | Baker Mayfield, Bucky Irving Good to Go - Tampa Bay Buccaneers",
       "link": "https://www.buccaneers.com/news/cardinals-bucs-inactives-baker-mayfield-bucky-irving-good-go"
-    },
-    {
-      "title": "2025 NFL Week 13 Inactives | Saints vs. Dolphins - New Orleans Saints | NewOrleansSaints.com",
-      "link": "https://www.neworleanssaints.com/news/new-orleans-saints-inactives-miami-dolphins-2025-nfl-week-13-gameday"
     },
     {
       "title": "Alex Golesh named Auburn Football Head Coach - Auburn Tigers",
@@ -122,10 +158,6 @@
       "link": "https://www.cbssports.com/college-football/news/lane-kiffin-live-updates-ole-miss-lsu-decision-analysis/live/"
     },
     {
-      "title": "McLaren's theory of why Oscar Piastri is back to his F1 best in Qatar - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/mclaren-s-theory-of-why-oscar-piastri-is-back-to-his-best-in-qatar-f1-/10781153/"
-    },
-    {
       "title": "Bill Belichick's 1st season at North Carolina ends in a rivalry loss at NC State \u2014 and just 4 wins - AP News",
       "link": "https://apnews.com/article/north-carolina-bill-belichick-5723583458fa61ab6a295103169d935a"
     },
@@ -134,40 +166,12 @@
       "link": "https://themw.com/news/2025/11/30/boise-state-to-host-unlv-for-25-mountain-west-football-championship/"
     },
     {
-      "title": "5 predictions for Seahawks vs. Vikings: Making life miserable for Max Brosmer - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-game-analysis/156229/5-predictions-seahawks-vs-vikings-making-life-miserable-max-brosmer"
+      "title": "Initial Impressions: 5 observations from the Iron Bowl - Roll 'Bama Roll",
+      "link": "https://www.rollbamaroll.com/alabama-crimson-tide-football/77270/alabama-football-initial-impressions-from-the-iron-bowl"
     },
     {
       "title": "Walt Anderson on controversial timeout: When in doubt, the NFL wants it to be granted - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/walt-anderson-on-controversial-timeout-when-in-doubt-the-nfl-wants-it-to-be-granted"
-    },
-    {
-      "title": "Former SJSU volleyball star reveals 'severe' health issue that stemmed from Title IX conflict with school - Fox News",
-      "link": "https://www.foxnews.com/sports/former-sjsu-volleyball-star-reveals-severe-health-issue-she-ties-national-conflict-over-trans-teammate"
-    },
-    {
-      "title": "Report: Aaron Rodgers has \"at least\" three fractures in left wrist - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-rodgers-has-at-least-three-fractures-in-left-wrist"
-    },
-    {
-      "title": "Georgia favored over Alabama in SEC title game, championship games set - DawgNation",
-      "link": "https://www.DawgNation.com/football/georgia-favored-over-alabama-sec-title-game-championship-games-set/7CDZ6H27NVBVRJCGVIK4WCQ36I/"
-    },
-    {
-      "title": "Week 13 NFL straight up, against the spread, and survivor pool picks: Sunday / Monday edition - PhillyVoice",
-      "link": "https://www.phillyvoice.com/week-13-nfl-straight-against-spread-and-survivor-pool-picks-sunday-monday-edition/"
-    },
-    {
-      "title": "Last-Minute Fantasy Football Advice for Week 13 (2025) - FantasyPros",
-      "link": "https://www.fantasypros.com/2025/11/last-minute-fantasy-football-advice-for-week-13/"
-    },
-    {
-      "title": "49ers vs. Browns prediction: NFL Week 13 player props, picks, odds - New York Post",
-      "link": "https://nypost.com/2025/11/30/betting/49ers-vs-browns-prediction-nfl-week-13-player-props-picks-odds/"
-    },
-    {
-      "title": "OSU\u2019s Ryan Day used a surprising word after victory over Michigan \u2014 Terry Pluto - Cleveland.com",
-      "link": "https://www.cleveland.com/sports/college/2025/11/osus-ryan-day-used-a-surprising-word-after-victory-over-michigan-terry-pluto.html"
     }
   ],
   "weather": {
