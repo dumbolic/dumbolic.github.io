@@ -1,9 +1,9 @@
 {
-  "quote": "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. \u2013 Earl Nightingale",
-  "fact": "All polar bears are left-handed.",
-  "crypto": "BTC: $91,709 | ETH: $3,013.28",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I was going to get a brain transplant, but I changed my mind",
+  "quote": "It is never too late to be what you might have been. \u2013 George Eliot",
+  "fact": "Los Angeles\u2019 full name is \u201cEl Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula\u201d.",
+  "crypto": "BTC: $91,900 | ETH: $3,013.78",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "A Sandwich walks into a bar, the bartender says \u201cSorry, we don\u2019t serve food here\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "I'm tracking the best Cyber Monday Apple Watch deals LIVE! Biggest discounts on Apple Watch 11, SE and Ultra 3 right now - Tom's Guide",
+      "link": "https://www.tomsguide.com/live/news/cyber-monday-apple-watch-deals-2025"
+    },
+    {
+      "title": "LET IT DIE offline version announced - Gematsu",
+      "link": "https://www.gematsu.com/2025/12/let-it-die-offline-version-announced"
+    },
+    {
+      "title": "John Giannandrea to retire from Apple - Apple",
+      "link": "https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/"
+    },
+    {
+      "title": "DualSense Wireless Controller \u2013 Genshin Impact Limited Edition announced - Gematsu",
+      "link": "https://www.gematsu.com/2025/12/dualsense-wireless-controller-genshin-impact-limited-edition-announced"
+    },
+    {
+      "title": "Netflix Won\u2019t Let You Cast Shows From Your Phone to Your TV Anymore - WIRED",
+      "link": "https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/"
+    },
+    {
+      "title": "You can double your Switch 2\u2019s storage with Samsung\u2019s $40 microSD Express card - The Verge",
+      "link": "https://www.theverge.com/gadgets/835100/samsung-switch-2-microsd-express-cyber-monday-deal-sale"
+    },
+    {
+      "title": "Cyber Monday laptop deals LIVE: Here are the 58+ sales I\u2019d recommend for friends and family based on 10 years of reviewing laptops - Tom's Guide",
+      "link": "https://www.tomsguide.com/live/news/cyber-monday-laptop-deals-2025-live"
+    },
+    {
+      "title": "MKBHD\u2019s wallpaper app Panels is shutting down - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down/"
+    },
+    {
+      "title": "Arc Games is now an independent publisher - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/arc-games-is-now-an-independent-publisher"
+    },
+    {
+      "title": "Nightreign Reveals Its Deadliest Field Boss And I Don't Believe It - Kotaku",
+      "link": "https://kotaku.com/nightreigns-bell-bearing-carion-draconic-tree-sentinel-2000649218"
+    },
+    {
       "title": "After a Witcher -free decade, CDPR still promises three sequels in six years - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/12/after-a-witcher-free-decade-cdpr-still-promises-three-sequels-in-six-years/"
+    },
+    {
+      "title": "Despite Past Viral AI Fakes, This Grand Theft Auto 6 Leak Looks Real - GameSpot",
+      "link": "https://www.gamespot.com/articles/despite-past-viral-ai-fakes-this-grand-theft-auto-6-leak-looks-real/1100-6536617/"
+    },
+    {
+      "title": "Amazon's Buy 2, Get 1 Free Board Games Sale Is the Best New Cyber Monday Deal - IGN",
+      "link": "https://www.ign.com/articles/board-games-buy-2-get-1-free-cyber-monday-2025"
     },
     {
       "title": "Microsoft\u2019s ugly sweaters return with Clippy, Xbox, and Zune brown options - The Verge",
@@ -24,138 +72,102 @@
       "link": "https://videocardz.com/newz/what-to-expect-from-amd-nvidia-and-intel-at-ces-2026"
     },
     {
+      "title": "The Meta Quest 3 VR Headset Drops to Basically $199 With This Amazon Cyber Monday Deal - IGN",
+      "link": "https://www.ign.com/articles/best-cyber-monday-meta-quest-deal-is-quest-3s-vr-headset-at-amazon"
+    },
+    {
+      "title": "Response to \"Ruby Is Not a Serious Programming Language\" - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46110836"
+    },
+    {
       "title": "Geoff Keighley's Cryptic Game Awards Teaser Reportedly Not Related to Diablo 4 After All - Push Square",
       "link": "https://www.pushsquare.com/news/2025/12/geoff-keighleys-cryptic-game-awards-teaser-reportedly-not-related-to-diablo-4-after-all"
     },
     {
-      "title": "Ghost of Yotei Gets 'Incredible' PS5 Pro Frame Rate Boost Thanks to New Patch - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/12/ghost-of-yotei-gets-incredible-ps5-pro-frame-rate-boost-thanks-to-new-patch"
-    },
-    {
-      "title": "This Unbeatable LG OLED Deal Takes the Cyber Monday Crown - CNET",
-      "link": "https://www.cnet.com/deals/this-unbeatable-lg-oled-deal-takes-the-cyber-monday-crown/"
-    },
-    {
-      "title": "WoW Housing Is Finally Here, But There Is A Crack In The Foundation - GameSpot",
-      "link": "https://www.gamespot.com/articles/wow-housing-is-finally-here-but-there-is-a-crack-in-the-foundation/1100-6536596/"
+      "title": "World Of Warcraft Midnight: How Blizzard Is Planning On Upending Player Housing As We Know It - Screen Rant",
+      "link": "https://screenrant.com/world-of-warcraft-midnight-housing-future-cover-story-preview/"
     },
     {
       "title": "Apple\u2019s smallest iPad just got its biggest price cut for Cyber Monday - The Verge",
       "link": "https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025"
-    },
-    {
-      "title": "MKBHD\u2019s \u2018Panels\u2019 wallpaper app is shutting down at the end of the year - 9to5Google",
-      "link": "http://9to5google.com/2025/12/01/mkbhd-panels-app-shutting-down/"
-    },
-    {
-      "title": "60+ PS5, PS4 Games to Buy in PS Store's End of Year Deals Sale - Push Square",
-      "link": "https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-end-of-year-deals-sale"
-    },
-    {
-      "title": "These Cyber Monday laptop deals are flippin\u2019 great: Save on Apple, HP, Lenovo - New York Post",
-      "link": "https://nypost.com/shopping/best-cyber-monday-laptop-monitor-deals-sales-2025/"
-    },
-    {
-      "title": "/dev: 2026 Season One Gameplay Preview - League of Legends",
-      "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-2026-season-one-gameplay-preview/"
-    },
-    {
-      "title": "Execs pushing AI are \"not the most humane or creative people,\" says Rockstar co-founder, comparing the tech to \"mad cow disease\" - Eurogamer",
-      "link": "https://www.eurogamer.net/execs-pushing-ai-not-humane-creative-rockstar-co-founder-mad-cow-disease"
-    },
-    {
-      "title": "Minecraft 1.21.11 Pre-Release 4 - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4"
-    },
-    {
-      "title": "Best Cyber Monday 2025 deals at Best Buy: AirPods Max, Windows laptops, and more - Mashable",
-      "link": "https://mashable.com/article/best-cyber-monday-best-buy-deals-live-2025"
-    },
-    {
-      "title": "Where Winds Meet's side quests can be skipped by tricking the AI NPCs with infamous \"Solid Snake Method\" - Eurogamer",
-      "link": "https://www.eurogamer.net/where-winds-meets-side-quests-can-be-skipped-by-tricking-the-ai-npcs-with-infamous-solid-snake-method"
-    },
-    {
-      "title": "The Cyber Monday Fitness Deals Worth Your Time \u2014 Up to 51% Off Apple, Hoka, and More - Popsugar",
-      "link": "https://www.popsugar.com/shopping/best-cyber-monday-fitness-wellness-deals-2025-49468314"
-    },
-    {
-      "title": "Miniature of the Year 2025: Vote for your favourites and enter a competition to win the best - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/1geonm0v/miniature-of-the-year-2025-vote-for-your-favourites-and-enter-a-competition-to-win-the-best"
     }
   ],
   "sports_news": [
     {
-      "title": "Guest column | How Nick Saban and ESPN tried to help Lane Kiffin coach two teams at once - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2025/12/01/lane-kiffin-espn-coverage-nick-saban/"
+      "title": "Kentucky set to hire Oregon offensive coordinator Will Stein as next head coach - On3",
+      "link": "https://www.on3.com/news/kentucky-set-to-hire-oregon-offensive-coordinator-will-stein-as-next-head-coach/"
+    },
+    {
+      "title": "Inactives Analysis: Khyiris Tonga Inactive, Harold Landry III and Garrett Bradbury Officially Active for Patriots on Monday Night Football - New England Patriots",
+      "link": "https://www.patriots.com/news/inactives-analysis-khyiris-tonga-inactive-harold-landry-iii-and-garrett-bradbury-officially-active-for-patriots-on-monday-night-football"
+    },
+    {
+      "title": "4 things the Chiefs must do before the season ends - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/188198/4-things-the-chiefs-must-do-before-the-season-ends"
+    },
+    {
+      "title": "Kevin Patullo\u2019s house was vandalized after Black Friday loss - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-patullos-house-was-vandalized-after-black-friday-loss"
+    },
+    {
+      "title": "Steelers had worst home performance against the run in 50 years - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-had-worst-home-performance-against-the-run-in-50-years"
+    },
+    {
+      "title": "Pat Fitzgerald Named Michigan State Head Football Coach - Michigan State University Athletics",
+      "link": "https://msuspartans.com/news/2025/12/1/pat-fitzgerald-named-michigan-state-head-football-coach"
+    },
+    {
+      "title": "Jim Harbaugh Provides Injury Update on Justin Herbert - Chargers.com",
+      "link": "https://www.chargers.com/news/justin-herbert-injury-update-hand-surgery-2025"
+    },
+    {
+      "title": "Adam Carriker's Gut Reaction as Nebraska Fires Defensive Coordinator John Butler - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/football/adam-carriker-gut-reaction-huskers-fire-defensive-coordinator-john-butler"
+    },
+    {
+      "title": "Big 12 commissioner, BYU\u2019s Kalani Sitake hype championship game as Penn State rumors heat up - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/12/01/byu-football-coach-kalani-sitake-penn-state-job-big-12-championship/"
+    },
+    {
+      "title": "Here\u2019s How Much Lane Kiffin Could Reportedly Make At LSU - Forbes",
+      "link": "https://www.forbes.com/sites/zacharyfolk/2025/12/01/lane-kiffin-leaving-ole-miss-for-lsu-heres-what-we-know-about-his-91-million-contract/"
+    },
+    {
+      "title": "Kevin O'Connell explains why Vikings agreed to release Adam Thielen - Sports Illustrated",
+      "link": "https://www.si.com/nfl/vikings/onsi/news/kevin-oconnell-explains-why-vikings-agreed-release-adam-thielen"
+    },
+    {
+      "title": "Packers debut with 15 in top 10 of Pro Bowl fan voting - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-debut-with-15-in-top-10-of-pro-bowl-fan-voting-dec-1-2025"
+    },
+    {
+      "title": "Auburn releases terms on Alex Golesh's massive, $44 million contract - FootballScoop.com",
+      "link": "https://www.footballscoop.com/2025/12/01/auburn-releases-terms-on-alex-goleshs-massive-44-million-contract"
+    },
+    {
+      "title": "What BYU coach Kalani Sitake says about those Penn State coaching rumors - The Salt Lake Tribune",
+      "link": "https://www.sltrib.com/sports/byu-cougars/2025/12/01/what-byu-coach-kalani-sitake-said/"
+    },
+    {
+      "title": "NASCAR antitrust trial opens with huge stakes and Michael Jordan in the courtroom - AP News",
+      "link": "https://apnews.com/article/nacar-lawsuit-michael-jordan-be9ff391ece0891c69255af35c9d2b79"
+    },
+    {
+      "title": "Q&A: Tulane sideline reporter Maddy Hudak discusses Jon Sumrall personality, coaching style - 247Sports",
+      "link": "https://247sports.com/college/florida/article/florida-football-gators-hire-jon-sumrall-interview-tulane-sideline-reporter-264280606/"
+    },
+    {
+      "title": "Two starts in, Shedeur Sanders understands the fragility of NFL life - Andscape",
+      "link": "https://andscape.com/features/cleveland-browns-shedeur-sanders-nfl/"
     },
     {
       "title": "Michigan up to No. 3 in AP Top 25 men's basketball poll, Michigan State and Iowa State into top 10 - AP News",
       "link": "https://apnews.com/article/ap-top-25-basketball-poll-3dec0c936b776b1ae4b2a35481b163c0"
     },
     {
-      "title": "Nebraska football parts ways with defensive coordinator John Butler - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "link": "https://www.1011now.com/2025/12/01/nebraska-football-parts-ways-with-defensive-coordinator-john-butler/"
-    },
-    {
-      "title": "Sunday Aftermath: Justin Herbert\u2019s injury, AD Mitchell\u2019s big day and more - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/sunday-aftermath-justin-herberts-injury-ad-mitchells-big-day-and-more"
-    },
-    {
-      "title": "Vikings waive Adam Thielen - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-waive-adam-thielen"
-    },
-    {
       "title": "Jaguars Junction: Week 13 - Defector",
       "link": "https://defector.com/jaguars-junction-week-13"
-    },
-    {
-      "title": "Bears coach Ben Johnson: Going shirtless was 'a chance to feed a city' - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/bears/2025/12/01/bears-coach-ben-johnson-shirtless-feed-city-the-wieners-circle-eagles-packers-nfl"
-    },
-    {
-      "title": "2026 U.S. National Junior Team Preliminary Roster Released - Team USA Hockey",
-      "link": "https://teamusa.usahockey.com/news_article/show/1350759"
-    },
-    {
-      "title": "Early bets for Week 14: Bears cover at Green Bay, Cowboys have edge on Lions - ESPN",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47153738/2025-nfl-week-14-betting-odds-props-early-pick-predictions-first-bet"
-    },
-    {
-      "title": "NASCAR antitrust trial opens with Michael Jordan on hand and huge stakes - AP News",
-      "link": "https://apnews.com/article/nacar-lawsuit-michael-jordan-be9ff391ece0891c69255af35c9d2b79"
-    },
-    {
-      "title": "NFL results & pick of week 13: Panthers upset Rams as Bears top NFC - BBC",
-      "link": "https://www.bbc.com/sport/american-football/articles/cx2dg21zzmro"
-    },
-    {
-      "title": "Olympic sports weekend recap: Mikaela Shiffrin as peerless as ever in slalom, makes 4th Olympics - NBC Sports",
-      "link": "https://www.nbcsports.com/olympics/news/mikaela-shiffrin-copper-mountain-slalom-alpine-skiing-world-cup"
-    },
-    {
-      "title": "5 Winners and 5 Losers from Qatar \u2013 Who starred around the Lusail International Circuit? - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-qatar-who-starred-around-the-lusail.30tkux5GsTH30TcfLh40P7"
-    },
-    {
-      "title": "6 Patriots to watch against the Giants on Monday Night Football - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-game-previews/115440/players-to-watch-nfl-week-13-giants-monday-night-football"
-    },
-    {
-      "title": "Cowboys finally sign the running back fans spent years begging for - The Landry Hat",
-      "link": "https://thelandryhat.com/cowboys-finally-sign-running-back-fans-spent-years-begging-for-israel-abanikanda"
-    },
-    {
-      "title": "Monday Morning NFL Top 10 Rankings: Rams, Eagles Fall; A New Team Rises to No. 1 - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/week-13-top-10-rankings-broncos-patriots-seahawks-rams-bears"
-    },
-    {
-      "title": "Week 13 NFL Takeaways: Bills Still Searching to Find That Extra Gear Consistently - Sports Illustrated",
-      "link": "https://www.si.com/nfl/week-13-nfl-takeaways-bills-still-searching-to-find-extra-gear"
-    },
-    {
-      "title": "Adonai Mitchell of first NFL TD: Only thing on my mind was to finish the play - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adonai-mitchell-of-first-nfl-td-only-thing-on-my-mind-was-to-finish-the-play"
     }
   ],
   "weather": {
