@@ -1,9 +1,9 @@
 {
-  "quote": "Unhappiness enters through a door that has been left open. \u2013 Zen Proverb",
-  "fact": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
-  "crypto": "BTC: $93,217 | ETH: $3,182.8",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What does a clock do when it's hungry? It goes back four seconds!",
+  "quote": "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.  \u2013 Denis Waitley",
+  "fact": "There are 318,979,564,000 possible combinations of the first four moves in Chess.",
+  "crypto": "BTC: $93,360 | ETH: $3,193.42",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,36 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Netflix Bans Streaming From Your Phone to Your TV - CNET",
+      "link": "https://www.cnet.com/tech/services-and-software/netflix-bans-streaming-from-your-phone-to-your-tv/"
+    },
+    {
       "title": "The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday - The Verge",
       "link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal"
     },
     {
-      "title": "Testing shows why the Steam Machine\u2019s 8GB of graphics RAM could be a problem - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/12/steamos-has-problems-with-8gb-gpus-but-valve-is-working-on-it/"
+      "title": "Steam Machine today, Steam Phones tomorrow - The Verge",
+      "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
     },
     {
       "title": "Epic Games Store decides \"at the last minute\" not to distribute Horses - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses"
     },
     {
-      "title": "Red Dead Redemption Out Now on Netflix, iOS, Android, PS5, Xbox Series, and Nintendo Switch 2 - Rockstar Games",
-      "link": "https://www.rockstargames.com/newswire/article/9k3a83o3247a9k/red-dead-redemption-out-now-on-netflix-ios-android-ps5-xbox-series-and"
+      "title": "Netflix launches a mobile-friendly version of Red Dead Redemption - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/"
+    },
+    {
+      "title": "Leak reveals Apple Health app might soon connect to ChatGPT - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/02/leak-reveals-apple-health-app-might-soon-connect-to-chatgpt/"
     },
     {
       "title": "Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/12/samsungs-galaxy-z-trifold-is-a-10-inch-tablet-that-fits-in-your-pocket/"
-    },
-    {
-      "title": "YouTube releases its first-ever recap of videos you\u2019ve watched - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/"
-    },
-    {
-      "title": "\u2018Destiny 2: Renegades\u2019 Begins The Strangest \u2018Star Wars\u2019 Experiment To Date - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/12/02/destiny-2-renegades-begins-the-strangest-star-wars-experiment-to-date/"
-    },
-    {
-      "title": "Fallout 76: Burning Springs Release Notes - Bethesda.net",
-      "link": "https://bethesda.net/en/article/2tpInvSHR0w7C8GXqEEbrz/fallout-76-burning-springs-release-notes"
     },
     {
       "title": "Elden Ring Nightreign's DLC is \"definitely a little bit harder\" than the main game, \"but it's not ridiculous\", says director - Eurogamer",
@@ -56,12 +52,16 @@
       "link": "https://www.ign.com/articles/pokemon-legends-z-a-mega-dimension-dlc-trailer-reveals-a-surprise-second-mega-evolution-for-a-fan-favorite-pokmon"
     },
     {
-      "title": "Metroid Prime 4: Beyond is a technical marvel and game design nightmare - NPR",
-      "link": "https://www.npr.org/2025/12/02/nx-s1-5627515/metroid-prime-4-beyond-review"
+      "title": "Metroid Prime 4: Beyond Credits Reveal A Plethora Of Assist Devs, Including Next Level Games - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/12/metroid-prime-4-beyond-credits-reveal-a-plethora-of-assist-devs-including-next-level-games"
     },
     {
       "title": "The 25 Best Video Games of 2025 - Rolling Stone",
       "link": "http://www.rollingstone.com/culture/rs-gaming-lists/best-video-games-of-2025-1235469710/"
+    },
+    {
+      "title": "YouTube Launches \u2018Recap\u2019 Personalized Year-End Reels, Unveils 2025 Top-Trending Lists - Variety",
+      "link": "https://variety.com/2025/digital/news/youtube-recap-year-end-videos-2025-trending-lists-1236592922/"
     },
     {
       "title": "Grotmas Calendar Day 2 \u2013 The Helsmiths of Hashut join the battle for Ghyran - Warhammer Community",
@@ -72,6 +72,10 @@
       "link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-20-drag-x-drive-part-1/"
     },
     {
+      "title": "Amazon Music\u2019s 2025 Delivered is now here to compete with Spotify Wrapped - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/02/amazon-musics-2025-delivered-is-now-here-to-compete-with-spotify-wrapped/"
+    },
+    {
       "title": "Delayed Marvel Cosmic Invasion achievements finally arrive on Xbox - TrueAchievements",
       "link": "https://www.trueachievements.com/news/marvel-cosmic-invasion-xbox-achievements"
     },
@@ -80,14 +84,18 @@
       "link": "https://www.carscoops.com/2025/12/lexus-has-a-surprise-or-three-for-sports-car-fans/"
     },
     {
-      "title": "Updated Android Security Bulletin sets stage for a hefty December 2025 security patch - Android Authority",
-      "link": "https://www.androidauthority.com/december-2025-android-security-bulletin-3621152/"
+      "title": "Huge discounts hit iPad, iPad Air, and more for Cyber Monday (from $274) - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/01/ipad-black-friday-deals/"
     }
   ],
   "sports_news": [
     {
-      "title": "Latest On Kyle Schwarber\u2019s Market - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/12/latest-on-kyle-schwarbers-market.html"
+      "title": "Trump will play a starring role heading into a big weekend at the Kennedy Center - AP News",
+      "link": "https://apnews.com/article/kennedy-center-world-cup-draw-ad98ba615810178145b754a38a38cdbe"
+    },
+    {
+      "title": "UNC Leaves Lexington With Clutch Victory Vs. Kentucky - On3",
+      "link": "https://www.on3.com/teams/north-carolina-tar-heels/news/unc-leaves-lexington-with-clutch-victory-vs-kentucky/"
     },
     {
       "title": "Alabama\u2019s Nonsensical College Football Playoff Rankings Rise Has Major Ramifications - Sports Illustrated",
@@ -102,12 +110,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/is-it-time-for-a-change-for-steelers-mike-tomlin"
     },
     {
-      "title": "5-Star QB Jared Curtis Flips Commitment to Vanderbilt from Georgia, 2026 No. 1 Recruit - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25312798-5-star-qb-jared-curtis-flips-commitment-vanderbilt-georgia-2026-no-1-recruit"
-    },
-    {
       "title": "Fitzgerald: 'There will be no more motivated coach' - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/47182682/pat-fitzgerald-officially-hired-michigan-state-says-there-no-more-motivated-coach"
+    },
+    {
+      "title": "Giants\u2019 rookie Abdul Carter: Benchings teaching him about \u2018being a man\u2019 - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-news/147394/ny-giants-rookie-abdul-carter-is-learning-a-lot-about-being-a-man"
     },
     {
       "title": "Ohio State and Indiana to Make History As First Ever No. 1 vs. No. 2 Matchup in Big Ten Championship Game - Eleven Warriors",
@@ -122,16 +130,20 @@
       "link": "https://www.patriots.com/news/after-further-review-breaking-down-patriots-qb-drake-maye-the-run-defense-and-quick-hit-film-notes-from-the-win-over-the-giants"
     },
     {
+      "title": "Jared Curtis: Latest Intel in 5-star\u2019s decision saga hint at one final act - DawgNation",
+      "link": "https://www.DawgNation.com/recruiting/sentells-intel/jared-curtis-latest-intel-5-stars-decision-hint-one-last-final-act/TTMTRV3CYBDW5PB7TMSQQ5FP3E/"
+    },
+    {
       "title": "Bears Fans Turn Out For Wieners Circle Giveaway Sparked By Coach\u2019s Shirtless Celebration - Block Club Chicago",
       "link": "https://blockclubchicago.org/2025/12/02/bears-fans-turn-out-for-wieners-circle-giveaway-sparked-by-coachs-shirtless-celebration/"
     },
     {
-      "title": "Colts make change at kicker but pass on Tucker - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47181223/colts-waive-kicker-michael-badgley-sign-blake-grupe"
+      "title": "Cincinnati Reds Considered Serious Contender for Top Free Agent - Sports Illustrated",
+      "link": "https://www.si.com/mlb/reds/onsi/news/cincinnati-reds-considered-serious-contender-for-top-free-agent-01kbgkb1862d"
     },
     {
-      "title": "College sports bill heads to final vote despite GOP defections - Politico",
-      "link": "https://www.politico.com/live-updates/2025/12/02/congress/college-sports-bill-heads-to-final-vote-despite-gop-defections-00673376"
+      "title": "Colts make change at kicker but pass on Tucker - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47181223/colts-waive-kicker-michael-badgley-sign-blake-grupe"
     },
     {
       "title": "\u2018On another level\u2019 - Hansi Flick thrilled by Barcelona\u2019s win over Atletico Madrid - Barca Blaugranes",
@@ -142,8 +154,8 @@
       "link": "https://247sports.com/college/auburn/longformarticle/auburn-football-coaching-staff-alex-golesh-dj-durkin-264440447/"
     },
     {
-      "title": "Big Ten recruiting rankings: National Signing Day 2026 - Cleveland.com",
-      "link": "https://www.cleveland.com/osu/2025/12/big-ten-recruiting-rankings-national-signing-day-2026.html"
+      "title": "Mark Stoops releases first statement after being fired as Kentucky head coach - On3",
+      "link": "https://www.on3.com/news/mark-stoops-releases-first-statement-after-being-fired-as-kentucky-head-coach/"
     },
     {
       "title": "Colts release unofficial depth chart for Week 14 game vs. Jacksonville Jaguars - Colts.com",
@@ -156,10 +168,6 @@
     {
       "title": "Steelers waive Darius Slay, add Asante Samuel Jr. and waiver claim Adam Thielen to 53-man roster - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/steelers/2025/12/02/slay-asante-samuel-53man-roster-waive/stories/202512020085"
-    },
-    {
-      "title": "USA Hosts Belgium on March 28 in Atlanta; Three Days Later, the USMNT Remain in Atlanta to take on Portugal, Presented by Bank of America; Allstate Continental Cl\u00e1sico to be held May 31 at Bank of America Stadium in Charlotte, N.C. Against an Opponent - US Soccer",
-      "link": "https://ussoccer.com/stories/2025/12/venues-set-for-final-four-matches-for-usmnt-before-fifa-world-cup-belgium-portugal-germany"
     }
   ],
   "weather": {
