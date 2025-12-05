@@ -1,9 +1,9 @@
 {
-  "quote": "Sometimes success isn't about making the right decision, it's more about making some decision. \u2013 Robin Sharma",
-  "fact": "Virginia Woolf wrote all her books standing.",
-  "crypto": "BTC: $91,251 | ETH: $3,131.6",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+  "quote": "Knowing others is wisdom, knowing yourself is enlightenment. \u2013 Lao Tzu",
+  "fact": "The Vatican city registered 0 births in 1983",
+  "crypto": "BTC: $90,829 | ETH: $3,120.92",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "A book just fell on my head. I only have my shelf to blame.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "SIE Partners with Bad Robot Games to Produce and Publish the Studio's First Internally Developed Game - Sony Interactive Entertainment",
+      "link": "https://sonyinteractive.com/en/press-releases/2025/sie-partners-with-bad-robot-games/"
+    },
+    {
+      "title": "PS5 Action RPG The God Slayer Getting Full Support from Sony, First Gameplay Footage Is Jaw-Dropping - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/12/ps5-action-rpg-the-god-slayer-getting-full-support-from-sony-first-gameplay-footage-is-jaw-dropping"
+    },
+    {
+      "title": "Gran Turismo 7 Spec III Update 1.65 & Power Pack DLC Now Available - GTPlanet",
+      "link": "https://www.gtplanet.net/gran-turismo-7-spec-iii-available-now-20251204/"
+    },
+    {
+      "title": "Apple removed a Night mode photo feature from the iPhone 17 Pro - The Verge",
+      "link": "https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed"
+    },
+    {
+      "title": "Someone Made Banjo-Kazooie in Dreams on PS5, PS4, and You've Got to See It - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/12/someone-made-banjo-kazooie-in-dreams-on-ps5-ps4-and-youve-got-to-see-it"
+    },
+    {
       "title": "Random: Samus Is Joined By Doom Slayer's Voice Actor In Metroid Prime 4 - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/12/random-samus-is-joined-by-doom-slayers-voice-actor-in-metroid-prime-4"
     },
     {
-      "title": "PS5 Action RPG The God Slayer No Longer Part of Sony's China Hero Project, First Gameplay Footage Is Jaw-Dropping - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/12/ps5-action-rpg-the-god-slayer-no-longer-part-of-sonys-china-hero-project-first-gameplay-footage-is-jaw-dropping"
+      "title": "This is how Google Fi\u2019s new Web Calls and RCS system works, rolling out now - 9to5Google",
+      "link": "http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/"
+    },
+    {
+      "title": "Apple Removes Former AI Chief John Giannandrea From Executive Leadership Page - MacRumors",
+      "link": "https://www.macrumors.com/2025/12/03/apple-removes-giannandrea-executive-page/"
     },
     {
       "title": "Amazon Liquidates PlayStation's Elite Pro Controllers, DualSense Edge Selling at Record Low - Kotaku",
@@ -28,12 +52,24 @@
       "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/"
     },
     {
+      "title": "Escape From Tarkov Players Are Finally Escaping From Tarkov - GameSpot",
+      "link": "https://www.gamespot.com/articles/escape-from-tarkov-players-are-finally-escaping-from-tarkov/1100-6536684/"
+    },
+    {
+      "title": "Fans say Diablo 4\u2019s Season 11 timing is no accident - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/diablo-4-season-11-launches-right-after-the-game-awards-and-fans-think-its-no-coincidence"
+    },
+    {
       "title": "iOS 26.2 release date: Here\u2019s when new iPhone features are coming - 9to5Mac",
       "link": "https://9to5mac.com/2025/12/03/ios-26-2-release-date-heres-when-new-iphone-features-are-coming/"
     },
     {
       "title": "All weapon buffs & nerfs in Warzone & Black Ops 7 Season 1 - Dexerto",
       "link": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-nerfs-in-warzone-black-ops-7-season-1-3289534/"
+    },
+    {
+      "title": "Finance Bro Thinks It Would Be Cool To Turn Your Entire Life Into The Stock Market - Kotaku",
+      "link": "https://kotaku.com/finance-bro-thinks-it-would-be-cool-to-turn-your-entire-life-into-the-stock-market-2000650201"
     },
     {
       "title": "Marvel Cosmic Invasion - Shitomatic Universe (Review) - The Jimquisition",
@@ -48,58 +84,22 @@
       "link": "https://thegamepost.com/destiny-2-renegades-lowest-day-one-steam-peak-player-count-positive-reception/"
     },
     {
+      "title": "Watch Samsung Build and Stress Test the Galaxy Z TriFold - Droid Life",
+      "link": "https://www.droid-life.com/2025/12/03/watch-samsung-build-and-stress-test-the-galaxy-z-trifold/"
+    },
+    {
       "title": "How to change your Google Pixel 10's lock screen widgets - Android Police",
       "link": "https://www.androidpolice.com/how-to-change-pixel-10-lock-screen-widgets/"
-    },
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "link": "https://www.marvelrivals.com/gameupdate/20251203/41548_1274523.html"
-    },
-    {
-      "title": "New low-cost iPhone 17 model now rumored to get two design changes - 9to5Mac",
-      "link": "https://9to5mac.com/2025/12/03/new-low-cost-iphone-17-model-now-rumored-to-get-two-design-changes/"
-    },
-    {
-      "title": "YouTube Recap not showing up? Here's how to find yours right now - androidauthority.com",
-      "link": "https://www.androidauthority.com/youtube-recap-2025-not-showing-up-how-find-3621750/"
-    },
-    {
-      "title": "Nintendo Offering 12 Months NSO Free With Switch 2 + Mario Kart World Bundle (UK) - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/12/nintendo-offering-12-months-nso-free-with-switch-2-plus-mario-kart-world-bundle-uk"
-    },
-    {
-      "title": "I think the Galaxy Z TriFold is a wonderful laptop \u2013 you can kiss your tablet goodbye, too - PhoneArena",
-      "link": "https://www.phonearena.com/news/who-is-galaxy-trifold-for_id176319"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 is Xbox Game Pass's biggest third-party success in 2025 - Eurogamer",
-      "link": "https://www.eurogamer.net/clair-obscur-expedition-33-xbox-game-passs-biggest-third-party-success-2025"
-    },
-    {
-      "title": "Check out the first droolworthy pictures of the upcoming Motorola Edge 70 Ultra flagship! - PhoneArena",
-      "link": "https://www.phonearena.com/news/motorola-edge-70-ultra-flagship-first-leaked-images_id176311"
-    },
-    {
-      "title": "Valve have been funding FEX to get x86 games on Arm Linux - GamingOnLinux",
-      "link": "https://www.gamingonlinux.com/2025/12/valve-have-been-funding-fex-to-get-x86-games-on-arm-linux/."
-    },
-    {
-      "title": "Helldivers 2 devs slash install size from 154GB to 23GB - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46134178"
     }
   ],
   "sports_news": [
     {
-      "title": "Deshaun Watson's return to practice likely won't mean a return to the 53-man roster, this year - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watsons-return-to-practice-likely-wont-mean-a-return-to-the-53-man-roster-this-year"
+      "title": "The Ashes: Joe Root's first ton in Australia keeps England afloat - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/c3e05wgdp2vo"
     },
     {
       "title": "Every Week 14 window has a high-stakes game - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/every-week-14-window-has-a-high-stakes-game"
-    },
-    {
-      "title": "4-star LB Terry Wiggins decommits from Penn State, flips to Virginia Tech - On3",
-      "link": "https://www.on3.com/rivals/news/4-star-lb-terry-wiggins-decommits-from-penn-state-flips-to-virginia-tech/"
     },
     {
       "title": "Harden 'just as shocked as you guys' by CP3 news - ESPN",
@@ -114,12 +114,20 @@
       "link": "https://nypost.com/2025/12/03/sports/devin-williams-takes-shot-at-yankees-fans-as-he-inks-mets-contract/"
     },
     {
-      "title": "Sean Payton is \"hopeful\" Bill Belichick returns to the NFL - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-is-hopeful-bill-belichick-returns-to-the-nfl"
+      "title": "Report: Giannis Antetokounmpo weighs future with Bucks; fans react - FOX6 News Milwaukee",
+      "link": "https://www.fox6now.com/sports/report-giannis-antetokounmpo-his-team-talk-future-bucks-fans-react"
     },
     {
       "title": "Front Row owner testifies, NASCAR exec grilled in court - Motorsport.com",
       "link": "https://www.motorsport.com/nascar-cup/news/front-row-owner-testifies-nascar-exec-grilled-in-court/10782070/"
+    },
+    {
+      "title": "Despite swirling trade speculation, Karl Anthony Towns guides Knicks to 119-104 win over Hornets - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/despite-swirling-trade-speculation-karl-anthony-towns-guides-knicks-to-119-104-win-over-hornets"
+    },
+    {
+      "title": "Trinity Rodman\u2019s Multimillion-Dollar Deal Rejected by NWSL - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2025-12-04/trinity-rodman-s-multimillion-dollar-contract-rejected-by-nwsl"
     },
     {
       "title": "Eagles made a waivers claim for Darius Slay - NBC Sports",
@@ -130,12 +138,20 @@
       "link": "https://www.wdrb.com/sports/u-of-l-sports/crawford-calipari-cracks-cards-again-as-arkansas-topples-no-6-louisville/article_69c494cf-ab7c-47ee-9917-ebb10d8b697b.html"
     },
     {
+      "title": "Gophers fans storm the court after upset win over No. 22 Indiana - Sports Illustrated",
+      "link": "https://www.si.com/college/minnesota/gophers-basketball/gophers-fans--storm-the-court-after-upset-win-over-no-22-indiana"
+    },
+    {
       "title": "Cavs\u2019 flaws exposed again in 122-110 loss to Portland Trail Blazers - Cleveland.com",
       "link": "https://www.cleveland.com/cavs/2025/12/cavs-flaws-exposed-again-in-122-110-loss-to-portland-trail-blazers.html"
     },
     {
       "title": "Kansas State Wildcats may decline bowl game following Chris Klieman\u2019s retirement - Wichita Eagle",
       "link": "https://www.kansas.com/sports/college/big-12/kansas-state/article313381067.html"
+    },
+    {
+      "title": "Quick Hits: Kenyatta Jackson Jr. Says Ohio State\u2019s \u201cJob\u2019s Still Not Finished,\u201d Jaylen McClain Says the Buckeyes Still Have \u201cA Run to Go On\u201d This Postseason - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/12/160126/quick-hits-kenyatta-jackson-jr-says-ohio-state-s-job-s-still-not-finished-jaylen-mcclain-says-the-buckeyes-still"
     },
     {
       "title": "Player Ratings: Athletic Club 0 - 3 Real Madrid - Managing Madrid",
@@ -156,14 +172,6 @@
     {
       "title": "Enzo Maresca reaction \u2014 Chelsea boss speaks after mistake-riddled loss at Leeds - NBC Sports",
       "link": "https://www.nbcsports.com/soccer/news/enzo-maresca-reaction-chelsea-boss-speaks-after-mistake-riddled-loss-at-leeds"
-    },
-    {
-      "title": "The first Vikings-Commanders injury report has QB updates for both teams - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/onsi/news/first-vikings-commanders-injury-report-has-qb-updates-both-teams"
-    },
-    {
-      "title": "Mississippi AD, players and state official say Kiffin's account about his departure is inaccurate - AP News",
-      "link": "https://apnews.com/article/mississippi-ole-miss-lane-kiffin-33093cbb28f70fb2a0efa4e28dc2dc0e"
     }
   ],
   "weather": {
