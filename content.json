@@ -1,9 +1,9 @@
 {
-  "quote": "Empty your mind, be formless, shapeless, like water. \u2013 Bruce Lee",
-  "fact": "The word \u201clethologica\u201d describes the state of not being able to remember the word you want.",
-  "crypto": "BTC: $89,618 | ETH: $3,036.81",
+  "quote": "Live your life and forget your age. \u2013 Norman Vincent Peale",
+  "fact": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
+  "crypto": "BTC: $89,632 | ETH: $3,033.15",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call two barracuda fish?  A Pairacuda!",
+  "joke": "What did one plate say to the other plate? Dinner is on me!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Nintendo Set to Finally Acknowledge Donkey Kong: Bananza's Secret Character \u2014 And Fans Are Now Convinced The Timing Points to Mario Kart World DLC - IGN",
+      "link": "https://www.ign.com/articles/nintendo-set-to-finally-acknowledge-donkey-kong-bananzas-secret-character-and-fans-are-now-convinced-the-timing-points-to-mario-kart-world-dlc"
+    },
+    {
+      "title": "Microsoft finally has a better looking Run dialog for Windows 11 - The Verge",
+      "link": "https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode"
+    },
     {
       "title": "Sony's All-In on Exciting PS5 Action RPG The God Slayer, Despite an Xbox Version Existing - Push Square",
       "link": "https://www.pushsquare.com/news/2025/12/sonys-all-in-on-exciting-ps5-action-rpg-the-god-slayer-despite-an-xbox-version-existing"
@@ -28,8 +36,8 @@
       "link": "https://www.ign.com/articles/world-of-warcrafts-housing-feature-is-now-live-and-horde-players-are-desperately-trying-to-reinvent-their-spiky-huts"
     },
     {
-      "title": "Thoughts on Go vs. Rust vs. Zig - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46153466"
+      "title": "Nintendo\u2019s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off - The Verge",
+      "link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal"
     },
     {
       "title": "The Blood Ravens are not alone in a new Warhammer 40,000: Dawn of War IV story trailer - Warhammer Community",
@@ -60,12 +68,8 @@
       "link": "https://www.eurogamer.net/path-of-exile-2-performance-boost"
     },
     {
-      "title": "New report tells us when the Samsung Galaxy Watch Ultra 2 is coming - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/new_report_tells_us_when_the_samsung_galaxy_watch_ultra_2_is_coming-news-70570.php"
-    },
-    {
-      "title": "The Windows 11 Run dialog box is getting a major update with a modern UI - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/after-30-years-microsoft-is-redesigning-the-run-dialog-box-on-windows-11-now-with-an-updated-modern-ui-for-the-first-time"
+      "title": "JetBlue Plane That Suddenly Plunged Could Have Been Hit by Cosmic Rays - The Daily Beast",
+      "link": "https://www.thedailybeast.com/jetblue-plane-that-suddenly-plunged-could-have-been-hit-by-cosmic-rays/"
     },
     {
       "title": "A 'Box That Looks Like the OUYA and Kinect Had a Kid' Outsold the PS5 in the US the Week Before Thanksgiving - IGN",
@@ -86,32 +90,36 @@
     {
       "title": "Destiny 2 Renegades Launch Hits Lowest Peak Player Count In Franchise History - DualShockers",
       "link": "https://www.dualshockers.com/destiny-2-renegades-launch-hits-lowest-peak-player-count/"
-    },
-    {
-      "title": "Ray-Ban\u2019s Meta smart glasses are even cheaper than they were on Black Friday - The Verge",
-      "link": "https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale"
     }
   ],
   "sports_news": [
     {
-      "title": "Florida set to name new offensive coordinator under Jon Sumrall - On3",
-      "link": "https://www.on3.com/college/florida-gators/news/florida-to-hire-georgia-tech-buster-faulkner-as-offensive-coordinator-under-jon-sumrall/"
+      "title": "The Ashes: England fight but face battle to beat Australia at the Gabba - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/c773v8ryz5no"
+    },
+    {
+      "title": "Tim Benz: There's a new narrative surrounding Mike Tomlin and it needs to end now - TribLIVE.com",
+      "link": "https://triblive.com/sports/tim-benz-theres-a-new-narrative-surrounding-mike-tomlin-and-it-needs-to-end-now/"
+    },
+    {
+      "title": "The world game\u2019s Washington problem - Politico",
+      "link": "https://www.politico.com/news/2025/12/05/the-world-games-washington-problem-00677204"
+    },
+    {
+      "title": "Rory McIlroy: Masters champion makes Australian Open cut with birdie at 18th - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/c87l317dzqxo"
+    },
+    {
+      "title": "Cowboys 'not deflated' by harder path to playoffs - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47208825/cowboys-not-deflated-loss-creates-harder-path-playoffs"
     },
     {
       "title": "Warriors lose Draymond Green early, then rally late only to fall to 76ers in the final seconds - San Francisco Chronicle",
       "link": "https://www.sfchronicle.com/sports/warriors/article/warriors-draymond-green-leaves-game-vs-76ers-21223374.php"
     },
     {
-      "title": "Micah Parsons Trade, Not the Lions, Cost the Cowboys Their Season - Sports Illustrated",
-      "link": "https://www.si.com/nfl/micah-parsons-trade-not-the-lions-cost-the-cowboys-their-season"
-    },
-    {
-      "title": "Wife of Virginia football coach wanted for possession of child pornography pleads with him to 'face the allegations' - ABC News",
-      "link": "https://abcnews.go.com/US/wife-virginia-football-coach-wanted-possession-child-pornography/story?id\\\\u003d128114283"
-    },
-    {
-      "title": "CeeDee Lamb leaves with concussion as Cowboys cut deficit to 27-16 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-leaves-with-concussion-as-cowboys-cut-deficit-to-27-16"
+      "title": "Penn State Reportedly Focusing on Big 12 Coach in Lingering Search - Sports Illustrated",
+      "link": "https://www.si.com/college-football/penn-state-focusing-matt-campbell-iowa-state-coaching-search"
     },
     {
       "title": "Kansas State hires former quarterback Collin Klein as new head football coach - Wichita Eagle",
@@ -122,8 +130,8 @@
       "link": "https://www.si.com/nba/draymond-green-explains-clippers-chris-paul-players"
     },
     {
-      "title": "Pirates trade Johan Oviedo to Red Sox, receive top-100 prospect Jhostynxon Garcia - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/pirates/2025/12/04/mlb-pirates-red-sox-trade-johan-oviedo-jhostynxon-garcia-prospects-the-password/stories/202512040138"
+      "title": "Pirates send Oviedo to Red Sox in 5-player deal - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/47205963/pirates-send-johan-oviedo-red-sox-five-player-trade"
     },
     {
       "title": "Former Clemson Assistant Has New Head Coaching Job - The Clemson Insider",
@@ -134,36 +142,32 @@
       "link": "https://www.detroitlions.com/news/inactives-lions-vs-cowboys-awosika-joseph-raymond"
     },
     {
-      "title": "What\u2019s Smoke and What\u2019s Fire in the Latest Giannis Antetokounmpo Trade Drama - The Ringer",
-      "link": "https://www.theringer.com/2025/12/04/nba/giannis-antetokounmpo-trade-rumors-injury-milwaukee-bucks"
-    },
-    {
-      "title": "NASCAR chairman Jim France called 'a brick wall' in contentious revenue-sharing negotiations - AP News",
-      "link": "https://apnews.com/article/nascar-antitrust-lawsuit-michael-jordan-aa1b84152e9ade9b23fa369cbcc8758e"
-    },
-    {
       "title": "Chargers vs. Eagles Injury Report: Justin Herbert & Omarion Hampton Limited at Thursday's Practice - Los Angeles Chargers",
       "link": "https://www.chargers.com/news/justin-herbert-hand-injury-report-eagles-omarion-hampton"
     },
     {
-      "title": "Projected Lineup: December 4 vs. Toronto - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-december-4-vs-toronto"
-    },
-    {
-      "title": "If Art Rooney II decides it\u2019s time to move on from Mike Tomlin, who\u2019s the next coach? - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-art-rooney-ii-decides-its-time-to-move-on-from-mike-tomlin-whos-the-next-coach"
-    },
-    {
-      "title": "Jayden Daniels was full practice participant for first time since suffering elbow injury on Thursday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-was-full-practice-participant-for-first-time-since-suffering-elbow-injury-on-thursday"
-    },
-    {
-      "title": "Trump\u2019s immigration message is colliding with his welcome to World Cup fans - AP News",
-      "link": "https://apnews.com/article/trump-world-cup-draw-soccer-travel-bans-9a50f48ae28fd61e5e8339a2dedca907"
+      "title": "Michael Jordan set to testify in NASCAR antitrust trial, sources say - NBC News",
+      "link": "https://www.nbcnews.com/sports/nascar/michael-jordan-set-testify-nascar-antitrust-trial-sources-say-rcna247456"
     },
     {
       "title": "12/4 Preview - Doughty, Foegele, Danault In + 8 On Return, Foegele's Impact, \"Swagger\" Needed, Two-Game Series - LA Kings Insider",
       "link": "https://lakingsinsider.com/2025/12/04/12-4-preview-doughty-foegele-danault-in-8-on-return-foegeles-impact-swagger-needed-two-game-series/"
+    },
+    {
+      "title": "Brad White Bolsters Sumrall\u2019s Staff as Defensive Coordinator - Florida Gators",
+      "link": "https://floridagators.com/news/2025/12/4/football-brad-white-bolsters-sumralls-staff-as-defensive-coordinator"
+    },
+    {
+      "title": "Everything Georgia coach Kirby Smart said ahead of SEC Championship Game vs. Alabama - 247Sports",
+      "link": "https://247sports.com/college/georgia/longformarticle/everything-georgia-coach-kirby-smart-said-ahead-of-sec-championship-game-vs-alabama-264830695/"
+    },
+    {
+      "title": "Week 14 Fantasy Football Rankings - The Blueprint - Underdog Network",
+      "link": "https://underdognetwork.com/football/fantasy-rankings/week-14-fantasy-football-rankings-the-blueprint-2025"
+    },
+    {
+      "title": "Slay won't report to Bills after waiver claim, contemplating retirement - theScore.com",
+      "link": "https://thescore.com/nfl/news/3418647"
     }
   ],
   "weather": {
