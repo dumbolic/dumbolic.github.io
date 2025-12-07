@@ -1,9 +1,9 @@
 {
-  "quote": "Whatever you think the world is withholding from you, you are withholding from the world. \u2013 Eckhart Tolle",
-  "fact": "The scene where Indiana Jones shoots the swordsman in Raider\u2019s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
-  "crypto": "BTC: $91,389 | ETH: $3,139.41",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, \u2018No, just leave it in the carton!\u2019",
+  "quote": "Get mad, then get over it. \u2013 Colin Powell",
+  "fact": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.",
+  "crypto": "BTC: $91,293 | ETH: $3,130.94",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why is the ocean always blue? Because the shore never waves back.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Report: Johny Srouji contemplating leaving Apple, considering career elsewhere - 9to5Mac",
-      "link": "https://9to5mac.com/2025/12/06/apple-chip-lead-johny-srouji-considering-leaving-company-report/"
+      "title": "41 People Who Almost Died Are Sharing How They Barely Survived, And It's Actually Terrifying - BuzzFeed",
+      "link": "https://www.buzzfeed.com/mychalthompson/41-people-who-almost-died"
+    },
+    {
+      "title": "Apple\u2019s chip chief might be the next exec to leave - The Verge",
+      "link": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave"
     },
     {
       "title": "This Android 16 tablet feature is making me consider replacing my iPad - Android Police",
@@ -24,6 +28,18 @@
       "link": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale"
     },
     {
+      "title": "Bungie Has No Plans For More Destiny 2 Expansion Crossovers After Star Wars-themed Renegades - The Game Post",
+      "link": "https://thegamepost.com/bungie-no-plans-destiny-2-expansion-crossovers-star-wars-renegades/"
+    },
+    {
+      "title": "Rare pre-Liquid Glass 'iOS 19' prototype provides tiny hint at iOS 27 plans - AppleInsider",
+      "link": "https://appleinsider.com/articles/25/12/06/rare-pre-liquid-glass-ios-19-prototype-provides-tiny-hint-at-ios-27-plans"
+    },
+    {
+      "title": "Valve explains why Steam Machine doesn\u2019t have HDMI 2.1 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/valve-explains-why-steam-machine-doesnt-have-hdmi-2-1"
+    },
+    {
       "title": "The tech world is sleeping on the most exciting Bluetooth feature in years - The Verge",
       "link": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google"
     },
@@ -32,12 +48,24 @@
       "link": "https://www.warhammer-community.com/articles/kdtvqqh5/grotmas-calendar-day-6-terrify-and-terminate-with-a-new-chaos-space-marines-detachment"
     },
     {
+      "title": "Vizio TVs: Here's Who Makes Them And Where They're Manufactured - bgr.com",
+      "link": "https://www.bgr.com/2039452/vizio-tvs-who-makes-where-assembled/"
+    },
+    {
       "title": "How To Quickly Max A Faction In Destiny 2: Renegades For Tier 5 Loot - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/12/06/how-to-quickly-max-a-faction-in-destiny-2-renegades-for-tier-5-loot/"
     },
     {
+      "title": "DualSense Chroma Teal Controller Goes to Record Low, Now Cheaper Than Third-Party Options and Seriously More Stylish - Kotaku",
+      "link": "https://kotaku.com/dualsense-chroma-teal-controller-goes-to-record-low-now-cheaper-than-third-party-options-and-seriously-more-stylish-2000651134"
+    },
+    {
       "title": "Tested: My Pixel 10 runs faster with the Android 16 QPR2 update - Android Authority",
       "link": "https://www.androidauthority.com/android-16-qpr2-performance-test-3622602/"
+    },
+    {
+      "title": "AI-Powered Browsers Are Failing Badly - Futurism",
+      "link": "http://futurism.com/future-society/ai-powered-browsers-failing"
     },
     {
       "title": "iOS 26.2 Will Add Two New Features To CarPlay In December - bgr.com",
@@ -48,70 +76,66 @@
       "link": "https://www.cnet.com/tech/mobile/stop-charging-your-android-watch-daily-here-are-7-tips-for-longer-battery-life/"
     },
     {
+      "title": "Android may soon auto-adjust device settings to make bus or train rides go smoother - Android Authority",
+      "link": "https://www.androidauthority.com/android-transiting-mode-rumor-3622955/"
+    },
+    {
+      "title": "The Pocket AIR Mini has forever raised my expectations for budget gaming handhelds - Android Authority",
+      "link": "https://www.androidauthority.com/ayaneo-pocket-air-mini-review-3618995/"
+    },
+    {
       "title": "3 Spots to Never Put an Alexa Speaker (and Where You Should) - CNET",
       "link": "https://www.cnet.com/home/smart-home/never-put-your-alexa-devices-in-these-places/"
-    },
-    {
-      "title": "This $400 MacBook Air M1 offer feels too sensible to ignore - Mashable",
-      "link": "https://mashable.com/article/dec-6-macbook-air-m1-2020"
-    },
-    {
-      "title": "What Google Just Did To Nest Is The One Thing No Company Should Ever Do - Inc.com",
-      "link": "https://www.inc.com/jason-aten/what-google-just-did-to-nest-is-the-one-thing-no-company-should-ever-do/91275297"
-    },
-    {
-      "title": "How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup - Business Insider",
-      "link": "https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12"
-    },
-    {
-      "title": "Another Switch Game Has Been Updated For Switch 2, More Compatibility Issues Identified - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/12/another-switch-game-has-been-updated-for-switch-2-more-compatibility-issues-identified"
-    },
-    {
-      "title": "Cryptic Game Awards Statue Teaser Rumbles on with New Riddle - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/12/cryptic-game-awards-statue-teaser-rumbles-on-with-new-riddle"
-    },
-    {
-      "title": "Switch Online Holiday Icons, Super Mario Ornament And 2026 Calendar Now Available (US) - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2025/12/switch-online-holiday-icons-super-mario-ornament-and-2026-calendar-now-available-us"
-    },
-    {
-      "title": "New MacBook Air M4 Is Now Cheaper Than Refurb M2, Amazon Liquidates Stock After Black Friday at Record Low - Gizmodo",
-      "link": "https://gizmodo.com/new-macbook-air-m4-is-now-cheaper-than-refurb-m2-amazon-liquidates-stock-after-black-friday-at-record-low-2000696077"
-    },
-    {
-      "title": "Apple Watch, Samsung Galaxy Watch: Am I addicted to my smartwatch? - BBC",
-      "link": "https://www.bbc.com/news/articles/c8xdgwrrd0vo"
-    },
-    {
-      "title": "I Spent *Hours* Scrolling TikTok To Find These 29 Elite Gifts So You Don\u2019t Have To - BuzzFeed",
-      "link": "https://www.buzzfeed.com/jessicahall2/elite-tiktok-gifts-2025"
     }
   ],
   "sports_news": [
     {
+      "title": "Alabama vs. Georgia live updates: Score, analysis and highlights for SEC Championship Game - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/alabama-georgia-live-updates-sec-championship-game-score-results-analysis/live/"
+    },
+    {
+      "title": "Nationals To Trade Jose Ferrer To Mariners For Harry Ford - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/12/nationals-to-trade-jose-ferrer-to-mariners-for-harry-ford.html"
+    },
+    {
+      "title": "Seahawks Activate Julian Love & Jarran Reed From IR; Elevate Velus Jones Jr. From Practice Squad - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-activate-julian-love-jarran-reed-from-ir-elevate-velus-jones-jr-from-practice-squad"
+    },
+    {
+      "title": "Packers make receiver swap, bring up Jayden Reed to active roster - Acme Packing Company",
+      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/76000/packers-make-receiver-swap-bring-up-jayden-reed-to-active-roster"
+    },
+    {
+      "title": "BYU falls 34-7 to Texas Tech in Big 12 championship game - Deseret News",
+      "link": "https://www.deseret.com/sports/2025/12/06/texas-tech-defeats-byu-cougars-big-12-football-championship-game/"
+    },
+    {
+      "title": "Michael Annett, former NASCAR driver, dies at 39 - NBC News",
+      "link": "https://www.nbcnews.com/sports/nascar/michael-annett-former-nascar-driver-dies-39-rcna247758"
+    },
+    {
+      "title": "Leeds 3-3 Liverpool (Dec 6, 2025) Game Analysis - ESPN",
+      "link": "https://www.espn.com/soccer/report/_/gameId/740742"
+    },
+    {
       "title": "Matchups, kickoff times unveiled for Men\u2019s World Cup matches in Seattle - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/world-cup/2026-fifa-world-cup-schedule-seattle-matches-times-matchups-revealed/"
+    },
+    {
+      "title": "Open Thread: IU basketball battles Louisville at Gainbridge Fieldhouse - Inside the Hall",
+      "link": "https://www.insidethehall.com/2025/12/06/open-thread-iu-basketball-battles-louisville-at-gainbridge-fieldhouse/"
+    },
+    {
+      "title": "'I believe in Cal': Stud frosh QB confirms he'll return to Berkeley - SFGATE",
+      "link": "https://www.sfgate.com/collegesports/article/cal-qb-jaron-sagapolutele-transfer-portal-berkeley-21225774.php"
     },
     {
       "title": "Brian Schottenheimer will talk to George Pickens about his Richard Sherman post - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-will-talk-to-george-pickens-about-his-richard-sherman-post"
     },
     {
-      "title": "What the teams said \u2013 Qualifying in Abu Dhabi - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-abu-dhabi-2025.1B9J8FpsGWcaVPFRGvMwcu"
-    },
-    {
-      "title": "Heavy rain in Jacksonville could affect Colts-Jaguars, with lightning delay possible - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/heavy-rain-in-jacksonville-could-affect-colts-jaguars-with-lightning-delay-possible"
-    },
-    {
-      "title": "Highlights, key plays and photos from BYU\u2019s Big 12 championship game loss to Texas Tech - Deseret News",
-      "link": "https://www.deseret.com/sports/2025/12/06/byu-cougars-football-big-12-championship-live-coverage/"
-    },
-    {
-      "title": "College Football Playoff Bracket Selection Show 2025 Date, Start Time, Live Stream - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25317890-college-football-playoff-bracket-selection-show-2025-date-start-time-live-stream"
+      "title": "Projected Lineup: Dec. 6 at Ottawa - NHL.com",
+      "link": "https://www.nhl.com/blues/news/projected-lineup-dec-6-at-ottawa"
     },
     {
       "title": "AB eyes case dismissal, cites 'Stand Your Ground' - ESPN",
@@ -122,48 +146,20 @@
       "link": "https://www.cnn.com/2025/12/06/sport/football-ncaa-ohio-state-indiana-big-ten-championship"
     },
     {
+      "title": "Week 14 Fantasy Football Start/Sit Tiers | QB, RB, WR, TE Player Rankings - Dynasty Nerds",
+      "link": "https://www.dynastynerds.com/start-sit/week-14-fantasy-football-player-rankings-tiers-start-sit-qb-rb-wr-te/"
+    },
+    {
       "title": "Nick Saban gets fiery on Lane Kiffin debate as \u2018GameDay\u2019 talks CAA, Jimmy Sexton potential conflict - AL.com",
       "link": "https://www.al.com/alabamafootball/2025/12/nick-saban-gets-fiery-on-lane-kiffin-debate-as-gameday-talks-caa-jimmy-sexton-potential-conflict.html"
     },
     {
-      "title": "President Trump wants American football to be named something other than football - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-wants-american-football-to-be-named-something-other-than-football"
+      "title": "Top Picks from the CFB Betting Splits for Saturday December 6th - VSiN",
+      "link": "http://vsin.com/college-football/top-picks-from-the-cfb-betting-splits-for-saturday-december-6th/"
     },
     {
-      "title": "Michael Annett, who made 436 combined starts in NASCAR\u2019s 3 national touring series, dies at 39 - AP News",
-      "link": "https://apnews.com/article/michael-annett-dies-nascar-ab513da59de4d20f8d10980b8bcfb4ff"
-    },
-    {
-      "title": "Toledo football coach Jason Candle leaving for UConn - Toledo Blade",
-      "link": "https://www.toledoblade.com/sports/ut/2025/12/06/toledo-football-coach-jason-candle-finalizing-deal-uconn/stories/20251206086"
-    },
-    {
-      "title": "KSU\u2019s Homegrown Stars Return to Lincoln for the Ultimate Test: No. 1 Nebraska - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/volleyball/ksu-s-homegrown-stars-return-to-lincoln-for-the-ultimate-test-no-1-nebraska-2025"
-    },
-    {
-      "title": "Inbox: That time draws near - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/inbox-that-time-draws-near-dec-6-2025"
-    },
-    {
-      "title": "Red Sox trade for \u2018Bronx kid\u2019 on his birthday \u2014 and he has Tony Pe\u00f1a-like cannon arm - MassLive",
-      "link": "https://www.masslive.com/redsox/2025/12/red-sox-trade-for-bronx-kid-on-his-birthday-and-he-has-tony-pena-like-cannon-arm.html"
-    },
-    {
-      "title": "Mike McDaniel: We\u2019re playing the Jets not the weather - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-were-playing-the-jets-not-the-weather"
-    },
-    {
-      "title": "Broncos vs. Raiders predictions: Final score picks for NFL Week 14 - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-scores-results/165522/broncos-vs-raiders-predictions-final-score-picks-nfl-week-14"
-    },
-    {
-      "title": "11 Iowa State players, recruits Matt Campbell should bring with him to Penn State - PennLive.com",
-      "link": "https://www.pennlive.com/pennstatefootball/2025/12/11-iowa-state-players-recruits-matt-campbell-should-bring-with-him-to-penn-state.html"
-    },
-    {
-      "title": "Georgia vs. Alabama SEC Championship Prediction and Game Preview - Athlon Sports",
-      "link": "https://athlonsports.com/college-football/georgia-vs-alabama-football-sec-championship-prediction-pick-preview"
+      "title": "UConn Announces Jason Candle as New Head Football Coach - UConn Athletics",
+      "link": "https://uconnhuskies.com/news/2025/12/6/uconn-announces-jason-candle-as-new-head-football-coach"
     }
   ],
   "weather": {
