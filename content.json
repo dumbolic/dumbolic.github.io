@@ -1,9 +1,9 @@
 {
-  "quote": "When angry count to ten before you speak. If very angry, count to one hundred. \u2013 Thomas Jefferson",
-  "fact": "Sharon Stone was the first Star Search spokes model.",
-  "crypto": "BTC: $89,861 | ETH: $3,106.71",
+  "quote": "Life has the name of life, but in reality it is death. \u2013 Heraclitus",
+  "fact": "The mask worn by Michael Myers in the original \"Halloween\" was actually a Captain Kirk mask painted white.",
+  "crypto": "BTC: $90,080 | ETH: $3,115.19",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the half blind man fall in the well? Because he couldn't see that well!",
+  "joke": "How many bones are in the human hand? A handful of them.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iam8bit sues Skybound Games for $4m, claiming breach of contract and theft of designs - Eurogamer",
+      "link": "https://www.eurogamer.net/iam8bit-sues-skybound-games-for-4m-claiming-breach-of-contract-and-theft-of-designs"
+    },
+    {
+      "title": "iPadOS 26.2 will fix my biggest gripe with Apple\u2019s current iPad software - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/07/apple-fixed-ipad-software-gripe-ipados-26-2-slide-over/"
+    },
+    {
+      "title": "WebGPU is now supported by all major browsers - VideoCardz.com",
+      "link": "https://videocardz.com/newz/webgpu-is-now-supported-by-all-major-browsers"
+    },
+    {
       "title": "Microsoft\u2019s Xbox bombed so badly that it got beat by a no\u2011name console - Windows Central",
       "link": "https://www.windowscentral.com/gaming/xbox/xbox-did-so-badly-on-us-black-friday-sales-it-was-beaten-by-a-console-youve-never-heard-of"
+    },
+    {
+      "title": "Anatomy Of A Minimalist Home Computer - Hackaday",
+      "link": "https://hackaday.com/2025/12/07/anatomy-of-a-minimalist-home-computer/"
     },
     {
       "title": "Assassin's Creed Shadows On Switch 2 Supposedly \"Unplayable\" For Some Players After Repeated Crashes - Nintendo Life",
@@ -40,8 +56,20 @@
       "link": "https://www.androidauthority.com/plex-restrictions-reasons-to-switch-3622348/"
     },
     {
+      "title": "A 180-Year Assumption About Light Was Just Proven Wrong - ScienceAlert",
+      "link": "https://www.sciencealert.com/a-180-year-assumption-about-light-was-just-proven-wrong"
+    },
+    {
+      "title": "Your Pixel can now get rid of pesky HDR pictures and videos, here's how - Android Authority",
+      "link": "https://www.androidauthority.com/google-pixel-enhanced-hdr-brightness-android-16-qpr2-how-to-3622352/"
+    },
+    {
       "title": "The Pixel 11 is already the best phone of 2026 - Android Authority",
       "link": "https://www.androidauthority.com/pixel-11-best-phone-2026-3621851/"
+    },
+    {
+      "title": "Microsoft Confirms New Upgrade Decision For All Windows Users - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/12/07/microsoft-confirms-new-upgrade-decision-for-all-windows-users/"
     },
     {
       "title": "I tried Apple's app of the year. It's more than a tool for people with ADHD. - Business Insider",
@@ -60,110 +88,86 @@
       "link": "https://www.thestreet.com/deals/mnvoeq-ai-smart-glasses-amazon-sale"
     },
     {
-      "title": "One in three: Here's why Samsung is the king of Android - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-king-of-android-3622011/"
-    },
-    {
-      "title": "Teams, Edge, Copilot, and Outlook are getting some big updates soon - Neowin",
-      "link": "https://www.neowin.net/news/teams-edge-copilot-and-outlook-are-getting-some-big-updates-soon/"
-    },
-    {
-      "title": "Former Nintendo staffers explain why Nintendo ditched the \"Nindies\" name - Nintendo Everything",
-      "link": "https://nintendoeverything.com/former-nintendo-staffers-explain-why-nintendo-ditched-the-nindies-name/"
-    },
-    {
-      "title": "All of Nintendo\u2019s Switch 2 exclusives in 2025, ranked - Nintendo Everything",
-      "link": "https://nintendoeverything.com/ranking-nintendos-2025-switch-2-exclusives-from-best-to-worst/"
-    },
-    {
-      "title": "60 People Who Straight-Up Gave No F*cks - BuzzFeed",
-      "link": "https://www.buzzfeed.com/crystalro/funny-wtf-images"
-    },
-    {
-      "title": "Why do Gen Z have a growing appetite for retro tech? - BBC",
-      "link": "https://www.bbc.com/news/articles/ckgl8nj8nvzo"
-    },
-    {
-      "title": "These 5 free apps make any smart TV way more useful (and none are streaming) - MakeUseOf",
-      "link": "https://www.makeuseof.com/free-apps-make-any-smart-tv-way-more-useful/"
-    },
-    {
-      "title": "Lessons Learned After Trying MeshCore For Off-grid Text Messaging - Hackaday",
-      "link": "https://hackaday.com/2025/12/06/lessons-learned-after-trying-meshcore-for-off-grid-text-messaging/"
+      "title": "Marvel Cosmic Invasion has me convinced: cartoons and comics trumps the blockbuster movie style any day - Eurogamer",
+      "link": "https://www.eurogamer.net/marvel-cosmic-invasion-cartoons-and-comics-trumps-the-movie-style"
     }
   ],
   "sports_news": [
+    {
+      "title": "NFL playoff picture Week 14: Live standings, playoff race updates and draft order - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-playoff-picture-week-14-live-standings-draft-order/live/"
+    },
+    {
+      "title": "Magic leading scorer Wagner leaves with injury - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/47236093/magic-leading-scorer-franz-wagner-ruled-leg-injury"
+    },
+    {
+      "title": "Bama, Miami in, Notre Dame out and Indiana No. 1 in College Football Playoff rankings - AP News",
+      "link": "https://apnews.com/article/college-football-playoff-bracket-7ea3841a2f3309d0f4eb0b5dbc835ee5"
+    },
+    {
+      "title": "Head To Head Matters: Miami is in the 2025 College Football Playoff - 247Sports",
+      "link": "https://247sports.com/college/miami/article/miami-hurricanes-football-college-football-playoff-head-to-head-matters-miami-is-in-the-2025-college-football-playoff-265274137/"
+    },
+    {
+      "title": "'One of them has to go' - Liverpool fans react to Salah interview - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c04vr1edee6o"
+    },
+    {
+      "title": "Iowa State Football To Decline Postseason Invitation - Iowa State Athletics",
+      "link": "https://cyclones.com/news/2025/12/7/iowa-state-football-to-decline-postseason-invitation"
+    },
+    {
+      "title": "Fernando Mendoza And Indiana Are The Flippin\u2019 Big Ten Champs! - Defector",
+      "link": "https://defector.com/fernando-mendoza-and-indiana-are-the-flippin-big-ten-champs"
+    },
+    {
+      "title": "Ravens\u2019 Inactives vs. Steelers - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/ravens-steelers-inactives-devontez-walker-tylan-wallace-2025"
+    },
+    {
+      "title": "Detroit Lions stock report: 22 risers, 7 fallers vs. Cowboys - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/151763/detroit-lions-stock-report-22-risers-7-fallers-vs-cowboys"
+    },
+    {
+      "title": "Tom Hicks, former owner of Stars, Rangers, dies at 79 - WFAA",
+      "link": "https://www.wfaa.com/article/sports/tom-hicks-dies-79-rangers-stars-dallas-texas/287-db3709b0-76d1-423e-aa30-6fc2317a5fe3"
+    },
+    {
+      "title": "The Quad God Performs Another Miracle - Defector",
+      "link": "https://defector.com/the-quad-god-performs-another-miracle"
+    },
+    {
+      "title": "Bengals suspended Jermaine Burton without pay for today\u2019s game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-suspended-jermaine-burton-without-pay-for-todays-game"
+    },
+    {
+      "title": "Virginia Tech hiring Brent Pry as next defensive coordinator - On3",
+      "link": "https://www.on3.com/news/virginia-tech-hiring-brent-pry-as-next-defensive-coordinator/"
+    },
+    {
+      "title": "Where Alabama ranks in Associated Press, coaches polls before College Football Playoff selection - 247Sports",
+      "link": "https://247sports.com/college/alabama/article/where-alabama-ranks-in-associated-press-coaches-polls-before-college-football-playoff-selection-265269408/"
+    },
     {
       "title": "College Football Playoff live updates: CFP bracket, rankings reveal and analysis - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/college-football-playoff-bowl-games-live-updates-rankings-reveal-results-2025/live/"
     },
     {
-      "title": "2025 Abu Dhabi Grand Prix as it happened: Norris wins epic 1st F1 title - ESPN",
-      "link": "https://www.espn.com/f1/story/_/id/47189488/f1-abu-dhabi-gp-yas-marina-2025-live-follow-latest-updates"
+      "title": "Norris secures maiden F1 title in Abu Dhabi with P3 finish - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/norris-secures-maiden-f1-title-in-abu-dhabi-with-podium-finish-behind.EMJtmvRA0uzmzUC4MZgmw"
     },
     {
-      "title": "Merab Dvalishvili releases first statement after losing title to Petr Yan at UFC 323 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/460404/merab-dvalishvili-releases-statement-after-losing-title-to-petr-yan-at-ufc-323"
+      "title": "Who Ravens Fans Should Root for in Week 14 - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/ravens-fans-root-for-afc-north-playoff-race-steelers-bengals-pitcture"
     },
     {
-      "title": "Rasmus Neergaard-Petersen denies Cam Smith first Australian Open title; Rory McIlroy makes plea - Golf Channel",
-      "link": "https://www.golfchannel.com/dp-world-tour/news/rasmus-neergaard-petersen-denies-cam-smith-first-australian-open-title-rory-mcilroy-makes-plea"
-    },
-    {
-      "title": "Tom Hicks, former owner of Stars, Rangers, dies at 79 - Dallas News",
-      "link": "https://www.dallasnews.com/sports/rangers/2025/12/07/tom-hicks-dies-rangers-stars-liverpool/"
+      "title": "Alexandre Pantoja counters Dana White's comments in first statement after shocking UFC 323 loss - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2025/12/07/alexandre-pantoja-counters-dana-whites-comments-in-first-statement-after-shocking-ufc-323-loss/"
     },
     {
       "title": "Last-Minute Fantasy Football Advice for Week 14 (2025) - FantasyPros",
       "link": "https://www.fantasypros.com/2025/12/last-minute-fantasy-football-advice-for-week-14/"
-    },
-    {
-      "title": "'England in battle to avoid worst Ashes tour in modern times' - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/cy0pqjp0jyqo"
-    },
-    {
-      "title": "NFL predictions, picks for Week 14 slate - New York Post",
-      "link": "https://nypost.com/2025/12/07/betting/nfl-predictions-picks-for-week-14-slate/"
-    },
-    {
-      "title": "Alexandre Pantoja injury update that 'doesn't make sense' has Joe Rogan baffled - and doctor agrees - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2025/12/07/alexandre-pantoja-injury-update-that-doesnt-make-sense-has-joe-rogan-baffled-and-doctor-agrees/"
-    },
-    {
-      "title": "NFL Week 14 Seattle Seahawks playoff rooting guide: Go Cardinals! Go Packers! - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-scores-results/156753/nfl-week-14-seattle-seahawks-playoff-rooting-guide"
-    },
-    {
-      "title": "UVA Upset By Duke as CFB Fans Eye CFP Bracket Chaos After ACC Championship Game Result - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25318642-uva-upset-duke-cfb-fans-eye-cfp-bracket-chaos-after-acc-championship-game-result"
-    },
-    {
-      "title": "\u2018FLIPPIN' CHAMPS!\u2019: Fernando Mendoza Interview After Beating Ohio State Is Instantly Iconic - Sports Illustrated",
-      "link": "https://www.si.com/college-football/flippin-champs-fernando-mendoza-interview-ohio-state-instantly-iconic"
-    },
-    {
-      "title": "Cavs booed at home during 99-94 loss to Golden State Warriors - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/12/cavs-booed-at-home-during-99-94-loss-to-golden-state-warriors.html"
-    },
-    {
-      "title": "Nebraska Weathers Dip in Offense, Sweeps Kansas State - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/volleyball/nebraska-weathers-dip-in-offense-sweeps-kansas-state-2025"
-    },
-    {
-      "title": "Steelers face March deadline for Mike Tomlin\u2019s 2027 option - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-face-march-deadline-for-mike-tomlins-2027-option"
-    },
-    {
-      "title": "Drayer: What the Jose Ferrer trade means for Mariners - Seattle Sports 710",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/drayer-what-jose-ferrer-trade-means-for-seattle-mariners/1831519"
-    },
-    {
-      "title": "A dismal performance in the SEC title games puts Alabama\u2019s playoff hopes in jeopardy - AP News",
-      "link": "https://apnews.com/article/sec-alabama-georgia-sec-1f2d63361dac54d6aebf8060ae18c54f"
-    },
-    {
-      "title": "Mo Salah to leave Liverpool? Egyptian has 'no relationship with' Slot, says LFC throwing him under bus - NBC Sports",
-      "link": "https://www.nbcsports.com/soccer/news/mohamed-salah-lashes-out-at-arne-slot-liverpool-it-seems-like-the-club-has-thrown-me-under-the-bus"
     }
   ],
   "weather": {
