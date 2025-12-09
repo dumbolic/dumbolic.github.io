@@ -1,9 +1,9 @@
 {
-  "quote": "To every action there is always opposed an equal reaction. \u2013 Isaac Newton",
-  "fact": "The \"pound\" key on your keyboard (#) is called an octotroph. ",
-  "crypto": "BTC: $90,175 | ETH: $3,111.36",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Shout out to my grandma, that's the only way she can hear.",
+  "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. \u2013 Thich Nhat Hanh",
+  "fact": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
+  "crypto": "BTC: $90,822 | ETH: $3,136.97",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Coffee has a tough time at my house, every morning it gets mugged.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Is Geoff's statue for a new FromSoftware announcement? Lords of the Fallen studio certainly hopes so - Eurogamer",
-      "link": "https://www.eurogamer.net/the-game-awards-statue-fromsoftware-lords-of-the-fallen-studio"
+      "title": "\"Retrobrighting\" Might Actually Cause More Harm Than Good To Your Yellowing Consoles - Time Extension",
+      "link": "https://www.timeextension.com/news/2025/12/retrobrighting-might-actually-cause-more-harm-than-good-to-your-yellowing-consoles"
     },
     {
-      "title": "One UI 8.5 beta program: List of supported Galaxy devices - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-supported-galaxy-devices/"
+      "title": "Rumour: Dead Space Is 'On Ice', Could Be Sold Off to Help Cover EA's Acquisition Debt - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/12/rumour-dead-space-is-on-ice-could-be-sold-off-to-help-cover-eas-acquisition-debt"
+    },
+    {
+      "title": "Exclusive: System Shock Remake Hacks Onto Switch & Switch 2 Later This Month - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/12/exclusive-system-shock-remake-hacks-onto-switch-and-switch-2-later-this-month"
+    },
+    {
+      "title": "iPhone 18 Pro Leak Adds New Evidence for Under-Display Face ID - MacRumors",
+      "link": "https://www.macrumors.com/2025/12/08/iphone-18-pro-under-display-face-id/"
+    },
+    {
+      "title": "Shenmue 4 Video 'Has Absolutely No Connection' to Developer Ys Net, and Now the Studio Is Threatening Legal Action as the Footage 'Misleads Viewers Into Believing Such Content Is Official' - IGN",
+      "link": "https://www.ign.com/articles/shenmue-4-video-has-absolutely-no-connection-to-developer-ys-net-and-now-the-studio-is-threatening-legal-action-as-the-footage-misleads-viewers-into-believing-such-content-is-official"
+    },
+    {
+      "title": "Please send help. I can\u2019t stop playing these roguelikes. - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/12/please-send-help-i-cant-stop-playing-these-roguelikes/"
+    },
+    {
+      "title": "Random: Four Legendary Devs Walk Into A Bar... And We're So Very Jealous - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/12/random-four-legendary-devs-walk-into-a-bar-and-were-so-very-jealous"
+    },
+    {
+      "title": "Intel Arc B770 Will Reportedly Boast A TDP Of 300W As Leaked In NBD Shipping Manifest - Wccftech",
+      "link": "https://wccftech.com/intel-arc-b770-will-reportedly-boast-a-tdp-of-300w-as-leaked-in-nbd-shipping-manifest/"
+    },
+    {
+      "title": "OD is completely different from a standard horror game, and Kojima doesn't even know \"if it will work out\" - Eurogamer",
+      "link": "https://www.eurogamer.net/od-is-completely-different-from-a-standard-horror-game-and-kojima-doesnt-even-know-if-it-will-work-out"
+    },
+    {
+      "title": "Breaking: Samsung kicks off One UI 8.5 beta program for Galaxy S25 series - Android Authority",
+      "link": "https://www.androidauthority.com/one-ui-8-5-beta-program-rollout-features-availability-eligible-devices-3623009/"
+    },
+    {
+      "title": "5 Android phones you should buy instead of the OnePlus 15 - Android Authority",
+      "link": "https://www.androidauthority.com/oneplus-15-alternatives-3621487/"
+    },
+    {
+      "title": "Is Geoff's statue for a new FromSoftware announcement? Lords of the Fallen studio certainly hopes so - Eurogamer",
+      "link": "https://www.eurogamer.net/the-game-awards-statue-fromsoftware-lords-of-the-fallen-studio"
     },
     {
       "title": "\u2018Only so long\u2019 before Trump's tariff costs hit consumers, businesses warn - Politico",
       "link": "https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261"
     },
     {
-      "title": "Tekken Development Chief Katsuhiro Harada Announces Bandai Namco Exit After 30 Years - IGN",
-      "link": "https://www.ign.com/articles/tekken-development-chief-katsuhiro-harada-announces-bandai-namco-exit-after-30-years"
+      "title": "OnlyFans CEO said middle managers have no space in her company - Business Insider",
+      "link": "https://www.businessinsider.com/onlyfans-ceo-keily-blair-middle-managers-hiring-practices-2025-12"
     },
     {
       "title": "The upcoming Motion Cues feature for Pixels just got a new name (APK teardown) - Android Authority",
@@ -50,56 +90,32 @@
     {
       "title": "I tried OpenAI staff's 6 tips to get more out of ChatGPT \u2014 and the model felt far more useful - Business Insider",
       "link": "https://www.businessinsider.com/openai-staff-6-tips-chatgpt-model-smarter-2025-12"
-    },
-    {
-      "title": "Wavebird Controller Soars Once More With Open Source Adapter - Hackaday",
-      "link": "https://hackaday.com/2025/12/07/wavebird-controller-soars-once-more-with-open-source-adapter/"
-    },
-    {
-      "title": "You Can Turn Your Raspberry Pi Into A Local AI Agent - Here's How - bgr.com",
-      "link": "https://www.bgr.com/2042891/raspberry-pi-local-ai-agent-desktoy/"
-    },
-    {
-      "title": "The Most Scientifically Accurate Sci-Fi Movies, According To NASA - bgr.com",
-      "link": "https://www.bgr.com/2044102/most-scientifically-accurate-sci-fi-movies-nasa/"
-    },
-    {
-      "title": "RIP, \u2018Dead Space\u2019\u2026.Again (2008-2023) - Gizmodo",
-      "link": "https://gizmodo.com/rip-dead-space-again-2000696495"
-    },
-    {
-      "title": "USB Video Capture Devices: Wow! They\u2019re All Bad!! - Hackaday",
-      "link": "https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/"
-    },
-    {
-      "title": "Why There's A Black Dot On Your iPhone's Screen (And How To Turn It Off) - bgr.com",
-      "link": "https://www.bgr.com/2042884/what-is-black-dot-iphone-screen-how-to-remove/"
-    },
-    {
-      "title": "More All-Black Vision Pro Prototype Parts Surface Online - MacRumors",
-      "link": "https://www.macrumors.com/2025/12/07/more-black-vision-pro-parts-surface-online/"
-    },
-    {
-      "title": "Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus - Phoronix",
-      "link": "https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19"
-    },
-    {
-      "title": "How Long Do OLED TVs Actually Last? Here's What Experts Say - bgr.com",
-      "link": "https://www.bgr.com/2040806/how-long-oled-tvs-last-according-users/"
-    },
-    {
-      "title": "PS5 reigns supreme over Black Friday, accounting for a staggering 62% of all console sales - Eurogamer",
-      "link": "https://www.eurogamer.net/ps5-reigns-supreme-over-black-friday-accounting-for-a-staggering-62-of-all-console-sales"
     }
   ],
   "sports_news": [
     {
-      "title": "Mike Tomlin: You go into business with Aaron Rodgers for days like Sunday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-you-go-into-business-with-aaron-rodgers-for-days-like-sunday"
+      "title": "The Opener: Winter Meetings, Schwarber, Marte - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/12/the-opener-winter-meetings-schwarber-marte.html"
     },
     {
-      "title": "'I messed that one up' - Chiefs' Reid owns costly 4th-down miss - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47244348/andy-reid-owns-failed-fourth-calls-chiefs-playoff-hopes-fade-loss-texans"
+      "title": "Jonathan Taylor: \"Devastating\" to lose Daniel Jones - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-devastating-to-lose-daniel-jones"
+    },
+    {
+      "title": "What We Saw: Week 14 - Pitcher List",
+      "link": "https://football.pitcherlist.com/what-we-saw-week-14-5/"
+    },
+    {
+      "title": "Goodman: Notre Dame just declared war on college football - AL.com",
+      "link": "https://www.al.com/alabamafootball/2025/12/goodman-notre-dame-just-declared-war-on-college-football.html"
+    },
+    {
+      "title": "Steelers vs. Ravens: What they're saying in Baltimore after loss - TribLIVE.com",
+      "link": "https://triblive.com/sports/steelers-vs-ravens-what-theyre-saying-in-baltimore-after-loss-5/"
+    },
+    {
+      "title": "Browns QB Shedeur Sanders in Hot Water for Actions During Loss to Titans - Heavy Sports",
+      "link": "https://heavy.com/sports/nfl/cleveland-browns/shedeur-sanders-hot-water-taunting-video"
     },
     {
       "title": "LeBron bounces back, nets season-high 29 in win - ESPN",
@@ -110,12 +126,12 @@
       "link": "https://www.si.com/nfl/chiefs-tough-choices-ahead-to-extend-mahomes-reid-dynasty"
     },
     {
-      "title": "MLBTR Chat Transcript - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/12/mlbtr-live-chat-93.html"
+      "title": "Kuminga is DNP as short-handed Dubs win again - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/47243592/jonathan-kuminga-gets-dnp-shorthanded-warriors-win-again"
     },
     {
-      "title": "Game notes: Bo Melton keeps doing it all for Packers - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/game-notes-bo-melton-keeps-doing-it-all-for-packers-week-14-2025"
+      "title": "Lucas: Throwbacks - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2025/12/7/mens-basketball-lucas-throwbacks"
     },
     {
       "title": "Jeff Kent elected to baseball Hall of Fame, which again keeps doors shut for Bonds and Clemens - AP News",
@@ -130,48 +146,32 @@
       "link": "https://www.si.com/nfl/broncos/onsi/news/broncos-beat-raiders-rematch-good-bad-ugly"
     },
     {
-      "title": "Shedeur Sanders bolstered his case to be the Browns\u2019 QB of the future despite loss to the Titans: Mary Kay Ca - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/12/how-shedeur-sanders-bolstered-his-case-to-show-the-browns-hes-their-qb-of-the-future-despite-loss-to-the-titans-mary-kay-cabot.html"
-    },
-    {
-      "title": "Texas' Steve Sarkisian Weighs in on Bowl Game Drama After Notre Dame Opts Out - Sports Illustrated",
-      "link": "https://www.si.com/college-football/texas-steve-sarkisian-weighs-in-on-bowl-game-drama-after-notre-dame-opts-out"
-    },
-    {
       "title": "Cardinals\u2019 latest loss a yawn of a new era post-Kyler Murray - Arizona Sports 98.7",
       "link": "https://arizonasports.com/dan-bickley/rams-loss/3604968/"
     },
     {
-      "title": "Chiefs OL Wanya Morris carted to locker room after suffering injury on first play - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-ol-wanya-morris-carted-to-locker-room-after-suffering-injury-on-first-play"
+      "title": "4 Takeaways From the Packers' Win Over the Bears - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/4-takeaways-from-packers-win-over-bears"
     },
     {
-      "title": "Game Report, 2025 Week 14: Jaguars 36, Colts 19 - Jacksonville Jaguars",
-      "link": "https://www.jaguars.com/news/k000495-game-report-2025-week-14-colts-jaguars"
+      "title": "College football bowl schedule: Games finalized for 2025-26 season - FBSchedules.com",
+      "link": "https://fbschedules.com/college-football-bowl-schedule-games-finalized-for-2025-26-season/"
     },
     {
-      "title": "Lucas: Georgetown Rapid Reactions - University of North Carolina Athletics",
-      "link": "https://goheels.com/news/2025/12/7/mens-basketball-lucas-georgetown-rapid-reactions"
+      "title": "The worst thing about the Dolphins' 34-10 victory over the New York Jets in Week 14 is also quietly one of the best things, too - A to Z Sports",
+      "link": "https://atozsports.com/nfl/miami-dolphins-news/jaylen-wright-devon-achane-injury-breakout-performer-running-back-jets-week-14/"
     },
     {
       "title": "How the Bills went from a 91.6% chance of losing to stunning the Bengals in just minutes - Syracuse.com",
       "link": "https://www.syracuse.com/buffalo-bills/2025/12/how-the-bills-went-from-a-916-chance-of-losing-to-stunning-the-bengals-in-just-minutes.html"
     },
     {
-      "title": "Colts QB Daniel Jones could be out for the season with a right Achilles tendon injury - AP News",
-      "link": "https://apnews.com/article/colts-daniel-jones-achilles-injury-e47090458a50ab8ba38b3b2e1a880f68"
+      "title": "New Orleans Saints vs. Tampa Bay Buccaneers Live Score and Stats - December 7, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251207_NO@TB/"
     },
     {
-      "title": "Miami Dolphins vs. New York Jets Live Score and Stats - December 7, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20251207_MIA@NYJ/"
-    },
-    {
-      "title": "Everything Mario Cristobal said on Sunday after Miami made its first-ever College Football Playoff - 247Sports",
-      "link": "https://247sports.com/college/miami/longformarticle/everything-mario-cristobal-said-after-miami-hurricanes-football-made-first-ever-college-football-playoff-265347566/"
-    },
-    {
-      "title": "Dan Quinn: Jayden Daniels could have returned, coach\u2019s decision to keep him out - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-jayden-daniels-could-have-returned-coachs-decision-to-keep-him-out"
+      "title": "J.J. McCarthy played free and took a huge step forward for the Vikings - Sports Illustrated",
+      "link": "https://www.si.com/nfl/vikings/onsi/news/jj-mccarthy-played-free-and-took-huge-step-forward-for-vikings"
     }
   ],
   "weather": {
