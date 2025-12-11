@@ -1,9 +1,9 @@
 {
-  "quote": "Pleasure can be supported by an illusion; but happiness rests upon truth.  \u2013 Nicolas Chamfort",
-  "fact": "Baby Ruth candy bar was named after Grover Cleveland\u2019s daughter, Ruth, not the baseball player.",
-  "crypto": "BTC: $89,610 | ETH: $3,171.43",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.",
+  "quote": "A flower falls, even though we love it; and a weed grows, even though we do not love it. \u2013 Dogen",
+  "fact": "In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.",
+  "crypto": "BTC: $90,011 | ETH: $3,185.66",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do Alexander the Great and Winnie the Pooh have in common? Same middle name.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "AMD FSR 4 Redstone Review - TechPowerUp",
-      "link": "https://www.techpowerup.com/review/amd-fsr-4-redstone/"
+      "title": "Two classic N64 platformers join Nintendo Switch Online later this month - Eurogamer",
+      "link": "https://www.eurogamer.net/two-classic-n64-platformers-join-nintendo-switch-online-later-this-month"
     },
     {
-      "title": "Instagram gives you more control over your Reels algorithm - The Verge",
-      "link": "https://www.theverge.com/news/841399/instagram-reels-tune-algorithm-feature"
+      "title": "GTA Online: A Safehouse in the Hills Now Available - Rockstar Games",
+      "link": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available"
+    },
+    {
+      "title": "The Best Video Games of 2025 - The Ringer",
+      "link": "https://www.theringer.com/2025/12/10/video-games/best-video-games-2025-top-10-ranking-games-of-the-year-goty"
+    },
+    {
+      "title": "Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/features/2025-12-10/amazon-kindle-scribe-colorsoft-review-630-device-bets-big-on-ai-color-screen"
+    },
+    {
+      "title": "AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers - The Verge",
+      "link": "https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers"
+    },
+    {
+      "title": "Adobe brings Photoshop, Express and Acrobat features to ChatGPT - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/10/adobe-brings-photoshop-express-and-acrobat-features-to-chatgpt/"
+    },
+    {
+      "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/"
+    },
+    {
+      "title": "Two New Free PlayStation Plus Games Leak Online Ahead of December Reveal - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-games-876444-20251210"
+    },
+    {
+      "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups - The Hacker News",
+      "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html"
+    },
+    {
+      "title": "Warner Bros.' game studios are \"relatively minor\" to Netflix, as acquisition reveals harsh reality of the business - Eurogamer",
+      "link": "https://www.eurogamer.net/warner-bros-game-studios-minor-netflix-acquisition"
     },
     {
       "title": "Scientists Thought Parkinson\u2019s Was in Our Genes. It Might Be in the Water - WIRED",
@@ -28,28 +60,16 @@
       "link": "https://www.warhammer-community.com/articles/aptyn7c9/the-warhammer-40000-quarterly-balance-update-december-2025"
     },
     {
-      "title": "Grotmas Calendar Day 10 \u2013 Unleash the Great Wolf in a ferocious new Space Wolves Detachment - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/u1hmzoaa/grotmas-calendar-day-10-unleash-the-great-wolf-in-a-ferocious-new-space-wolves-detachment"
-    },
-    {
-      "title": "3 PS Plus Extra, Premium Games for December 2025 Leaked Early - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/12/3-ps-plus-extra-premium-games-for-december-2025-leaked-early"
-    },
-    {
-      "title": "GTA Online mansions update release time and all new cars - PCGamesN",
-      "link": "https://www.pcgamesn.com/grand-theft-auto-5/mansions-update-release-time-safehouse-hills"
-    },
-    {
       "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days - The Hacker News",
       "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html"
     },
     {
-      "title": "Microsoft Promises Big Windows 11 PC & Handheld Gaming Updates: Power & Scheduling Improvements, Graphics Stack Optimizations, Background Workload Management, Advanced Shader Delivery For Additional Hardware & More - Wccftech",
-      "link": "https://wccftech.com/microsoft-promises-big-windows-11-pc-handheld-gaming-updates/"
+      "title": "Icon elements inspired by the Pok\u00e9mon Legends: Z-A game are here for a limited time - Nintendo",
+      "link": "https://www.nintendo.com/us/whatsnew/icon-elements-inspired-by-the-pokemon-legends-z-a-game-are-here-for-a-limited-time/"
     },
     {
-      "title": "Call of Duty won\u2019t release Modern Warfare or Black Ops back to back anymore - The Verge",
-      "link": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back"
+      "title": "Call of Duty Will No Longer Do Back-to-back Releases of Modern Warfare or Black Ops Games - IGN",
+      "link": "https://www.ign.com/articles/call-of-duty-will-no-longer-do-back-to-back-releases-of-modern-warfare-or-black-ops-games"
     },
     {
       "title": "I Tried the Galaxy Z TriFold at a Dubai Store, and Its Design Made Me a Fan - CNET",
@@ -64,38 +84,46 @@
       "link": "https://www.windowscentral.com/gaming/baldurs-gate-3-dev-larian-says-there-arent-currently-any-plans-for-a-divinity-original-sin-3-but-a-new-definitive-edition-for-2-just-got-leaked"
     },
     {
-      "title": "iPhone Fold called \u2018game-changer\u2019 for next year, big impact predicted - 9to5Mac",
-      "link": "https://9to5mac.com/2025/12/09/iphone-fold-called-game-changer-for-next-year-big-impact-predicted/"
-    },
-    {
-      "title": "The AirPods Pro 3 are back to their lowest price ahead of the holidays - The Verge",
-      "link": "https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale"
-    },
-    {
-      "title": "20 Must-Have Tech Gifts For Anyone Ready To Level Up Their Life - HuffPost",
-      "link": "https://www.huffpost.com/entry/best-tech-gifts-for-gadget-lovers-2025_l_693315f4e4b03cea5ab40a60"
-    },
-    {
-      "title": "Google Photos\u2019 new video editor makes it more like Capcut - The Verge",
-      "link": "https://www.theverge.com/news/840690/google-photos-video-editing-highlight-reel-updates"
-    },
-    {
-      "title": "Indiana Jones and the Great Circle update adds an outfit suitable to eat chilled monkey brains in - Eurogamer",
-      "link": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-update-adds-an-outfit-suitable-to-eat-chilled-monkey-brains-in"
+      "title": "Wear OS 6.1 hits Pixel Watch with new features in tow - Android Authority",
+      "link": "https://www.androidauthority.com/wear-os-6-1-pixel-watch-3623774/"
     }
   ],
   "sports_news": [
     {
+      "title": "2025 On3 College Football All-America Team - On3",
+      "link": "https://www.on3.com/news/2025-on3-college-football-all-america-team/"
+    },
+    {
+      "title": "Why is the University of Utah partnering with a private equity firm for athletics? - KSL.com",
+      "link": "https://www.ksl.com/article/51417040/why-is-the-university-of-utah-partnering-with-a-private-equity-firm-for-athletics"
+    },
+    {
+      "title": "Big 12 commissioner slams Notre Dame AD over CFP, ACC tirades - On3",
+      "link": "https://www.on3.com/news/brett-yormark-calls-out-pete-bevacqua-over-college-football-playoff-jim-phillips-criticisms-his-behavior-has-been-egregious/"
+    },
+    {
       "title": "Egypt and Iran protest being drawn to play in World Cup \u2018Pride Match\u2019 - The Washington Post",
       "link": "https://www.washingtonpost.com/world/2025/12/10/world-cup-pride-match-egypt-iran/"
+    },
+    {
+      "title": "Report: Pirates Willing to Trade Bubba Chandler, Jared Jones - Pittsburgh Baseball Now",
+      "link": "https://pittsburghbaseballnow.com/pittsburgh-pirates-trade-possibilities-bubba-chandler-jared-jones/"
     },
     {
       "title": "College Football TV Ratings: Big Ten Championship draws record viewership, tops SEC - On3",
       "link": "https://www.on3.com/nil/news/college-football-tv-ratings-big-ten-championship-draws-record-viewership-tops-sec/"
     },
     {
-      "title": "Tigers To Re-Sign Kyle Finnegan - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/12/tigers-nearing-deal-with-kyle-finnegan.html"
+      "title": "Army-Navy: Inside the many traditions of America's Game - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47252151/army-navy-college-football-traditions-americas-game"
+    },
+    {
+      "title": "Here\u2019s the reason Yankees\u2019 hunt for Cody Bellinger could last \u2018into January\u2019 | Klapisch - NJ.com",
+      "link": "https://www.nj.com/yankees/2025/12/heres-the-reason-why-yankees-hunt-for-cody-bellinger-could-last-into-january-klapisch.html"
+    },
+    {
+      "title": "Another \"Close, but ...\" for Gators in loss to UConn - Florida Gators",
+      "link": "https://floridagators.com/news/2025/12/10/mens-basketball-another-close-but-for-gators-in-loss-to-uconn-dec-9-2025"
     },
     {
       "title": "Penguins Grades: Players, Coaches Disgusted. Costly Mistakes by Both - Pittsburgh Hockey Now",
@@ -106,52 +134,36 @@
       "link": "https://www.axios.com/2025/12/10/fifa-gianni-infantino-trump-peace-prize-ethics-complaint"
     },
     {
-      "title": "Quick hits: Freshmen help Illini withstand Thornton's big night, lead Illini to road win in Big Ten opener - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-ohio-state-buckeyes-recap-quick-hits-bruce-thornton-keaton-wagler-david-mirkovic-265731506/"
+      "title": "Sounders learn Concacaf Champions Cup path - Sounder at Heart",
+      "link": "https://www.sounderatheart.com/2025/12/sounders-learn-concacaf-champions-cup-path-2/"
+    },
+    {
+      "title": "Shams Charania Names Three Eastern Conference Suitors for Mavericks\u2019 Anthony Davis - Sports Illustrated",
+      "link": "https://www.si.com/nba/anthony-davis-trade-shams-charania-names-three-eastern-conference-suitors-mavericks"
     },
     {
       "title": "How social media reacted to Rob Wright III\u2019s game-winning buzzer beater for BYU - Deseret News",
       "link": "https://www.deseret.com/sports/2025/12/09/robert-wright-iii-byu-basketball-buzzer-beater-clemson-social-media-reactions/"
     },
     {
-      "title": "Orioles Made $150MM Offer To Kyle Schwarber - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/12/orioles-matched-phillies-offer-to-kyle-schwarber.html"
+      "title": "What we\u2019re hearing on Red Sox at Winter Meetings Day 2: Pete Alonso meeting & more - MassLive",
+      "link": "https://www.masslive.com/redsox/2025/12/what-were-hearing-at-winter-meetings-day-2-pete-alonso-meeting-isaac-paredes-talks.html"
     },
     {
-      "title": "Twins fall a spot, land No. 3 pick in the 2026 Major League Baseball amateur draft - Star Tribune",
-      "link": "https://www.startribune.com/mlb-draft-lottery-minnesota-twins-winter-meetings-top-pick-white-sox-rays/601539638"
+      "title": "With their lucky charm, Rays move up via lottery to No. 2 pick in draft - Tampa Bay Times",
+      "link": "https://www.tampabay.com/sports/rays/2025/12/09/with-their-lucky-charm-rays-move-up-via-lottery-no-2-pick-draft/"
     },
     {
-      "title": "Titans, Giants could interview Marcus Freeman now, if they want - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-could-interview-marcus-freeman-now-if-they-want"
+      "title": "MLB Winter Meetings Rumors: Latest on Ketel Marte Trade Talks, Red Sox Plans and More - Sports Illustrated",
+      "link": "https://www.si.com/mlb/winter-meetings-rumors-latest-ketel-marte-trade-talks-red-sox-plans-dodgers"
     },
     {
-      "title": "Nebraska Cornerback Andrew Marshall has Inside Scoop on New Defensive Coordinator - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/nebraska-cornerback-andrew-marshall-has-inside-scoop-on-new-defensive-coordinator"
+      "title": "Notre Dame makes bold guarantee on Marcus Freeman salary - FootballScoop.com",
+      "link": "https://www.footballscoop.com/2025/12/09/notre-dame-makes-bold-guarantee-on-marcus-freeman-salary"
     },
     {
-      "title": "Broyles Award announces 2025 finalists - FootballScoop.com",
-      "link": "https://www.footballscoop.com/2025/12/09/broyles-award-announces-2025-finalists"
-    },
-    {
-      "title": "Chiefs could be mathematically eliminated from playoff contention on Sunday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-could-be-mathematically-eliminated-from-playoff-contention-on-sunday"
-    },
-    {
-      "title": "Colts place QB Daniel Jones, CB Chris Lammons on injured reserve - Colts.com",
-      "link": "https://www.colts.com/news/colts-place-qb-daniel-jones-cb-chris-lammons-on-injured-reserve"
-    },
-    {
-      "title": "Richard Sherman just said what all Seahawks fans believe about the NFC - 12th Man Rising",
-      "link": "https://12thmanrising.com/richard-sherman-just-said-what-seattle-seahawks-fans-believe-about-nfc"
-    },
-    {
-      "title": "Fantasy Football Rankings 2025: Week 15 - PFF",
-      "link": "https://www.pff.com/news/fantasy-football-rankings-2025-week-15"
-    },
-    {
-      "title": "Mets Reportedly Reluctant To Go Beyond Three Years For Pete Alonso - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/12/mets-rumors-pete-alonso-three-years.html"
+      "title": "Broncos' Playoff-Clinching Scenarios Revealed for Week 15 - Sports Illustrated",
+      "link": "https://www.si.com/nfl/broncos/onsi/news/broncos-playoff-clinching-scenarios-week-15"
     }
   ],
   "weather": {
