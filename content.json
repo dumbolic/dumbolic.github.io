@@ -1,9 +1,9 @@
 {
-  "quote": "Let not your mind run on what you lack as much as on what you have already. \u2013 Marcus Aurelius",
-  "fact": "The verb \"cleave\" is the only English word with two synonyms which are antonyms of each other: adhere and separate.",
-  "crypto": "BTC: $90,172 | ETH: $3,112.88",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
+  "quote": "You can do two things at once, but you can't focus effectively on two things at once. \u2013 Gary Keller",
+  "fact": "Butterflies taste with their hind feet.",
+  "crypto": "BTC: $90,232 | ETH: $3,113.93",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do computers and air conditioners have in common? They both become useless when you open windows.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/"
-    },
-    {
       "title": "Pok\u00e9mon Legends: Z-A\u2019s DLC Leaves One Mega Evolution Out - Kotaku",
       "link": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068"
     },
     {
       "title": "Google Translate brings real-time speech translations to any headphones - The Verge",
       "link": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
+    },
+    {
+      "title": "Apple releases iOS 26.2 with Liquid Glass tweaks, CarPlay changes, more [Release notes] - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/12/apple-releases-ios-26-2-with-liquid-glass-tweaks-carplay-changes-much-more/"
     },
     {
       "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC",
@@ -40,16 +40,8 @@
       "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/"
     },
     {
-      "title": "Google quietly makes a major Play Store change Android users will hate - Android Police",
-      "link": "https://www.androidpolice.com/google-quietly-makes-a-major-play-store-change-android-users-will-hate/"
-    },
-    {
       "title": "The OnePlus 15R is about to get a version we didn\u2019t expect - PhoneArena",
       "link": "https://www.phonearena.com/news/oneplus-15r-about-to-get-version-we-didnt-expect_id176573"
-    },
-    {
-      "title": "Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News - NPR",
-      "link": "https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence"
     },
     {
       "title": "First look at One UI 8.5 on Galaxy S23 Ultra: What\u2019s new and what\u2019s missing - Sammy Fans",
@@ -60,10 +52,6 @@
       "link": "https://www.polygon.com/highguard-trailer-tgas-2025-last-reveal/"
     },
     {
-      "title": "Stand Against Mephisto: Pre-Purchase Lord of Hatred \u2014 Diablo IV - Blizzard News",
-      "link": "https://news.blizzard.com/en-us/article/24247511/stand-against-mephisto-pre-purchase-lord-of-hatred"
-    },
-    {
       "title": "The Game Awards 2025 \u2013 Every Winner and Xbox Reveal, Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2025/12/11/the-game-awards-2025-recap-every-winner-and-xbox-reveal/"
     },
@@ -72,34 +60,38 @@
       "link": "https://gameinformer.com/the-game-awards-2025/2025/12/11/david-harbour-announces-total-war-warhammer-40000-at-the-game"
     },
     {
-      "title": "Amazon Game Studios announces two new \u2018Tomb Raider\u2019 games coming in 2026 and 2027 - About Amazon",
-      "link": "https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games"
+      "title": "Get Ready to Ride the Light: Diablo 4's Next Expansion Adds Paladin Class, Revamps the Endgame - CNET",
+      "link": "https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/"
     },
     {
-      "title": "Remedy Reveals Control Resonant, A Melee Action-RPG Sequel To Control Starring Jesse's Brother - Game Informer",
-      "link": "https://gameinformer.com/the-game-awards-2025/2025/12/11/remedy-reveals-control-resonant-a-melee-action-rpg-sequel-to"
+      "title": "Amazon Game Studios announces two new \u2018Tomb Raider\u2019 games coming in 2026 and 2027 - About Amazon",
+      "link": "https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games"
     },
     {
       "title": "Larian reveal a new Divinity RPG that boasts \"greater breadth & depth than ever before\" - Rock Paper Shotgun",
       "link": "https://www.rockpapershotgun.com/larian-reveal-a-new-divinity-rpg-that-boasts-greater-breadth-depth-than-ever-before"
     },
     {
-      "title": "911 GT3 90 F. A. Porsche: collector's car in honour of the visionary designer - Porsche Newsroom",
-      "link": "https://newsroom.porsche.com/en/2025/products/porsche-911-gt3-90-f-a-porsche-sonderwunsch-41321.html"
+      "title": "Google launched its deepest AI research agent yet \u2014 on the same day OpenAI dropped GPT-5.2 - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/"
     },
     {
-      "title": "Upgraded Deep Research coming to Gemini app, agent now available for devs - 9to5Google",
-      "link": "http://9to5google.com/2025/12/11/gemini-deep-research-agent/"
+      "title": "Google's New Browser Promises to End the Tyranny of the Tab - Decrypt",
+      "link": "https://decrypt.co/352068/googles-new-browser-promises-to-end-the-tyranny-of-the-tab"
+    },
+    {
+      "title": "Epic Games' Fortnite is back in US Google Play Store, as court partially reverses restrictions it won on iOS - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/11/epic-gamess-fortnite-is-back-in-us-google-play-store-as-court-partially-reverses-restrictions-it-won-on-ios/"
+    },
+    {
+      "title": "911 GT3 90 F. A. Porsche: collector's car in honour of the visionary designer - Porsche Newsroom",
+      "link": "https://newsroom.porsche.com/en/2025/products/porsche-911-gt3-90-f-a-porsche-sonderwunsch-41321.html"
     }
   ],
   "sports_news": [
     {
       "title": "Utah football coach Kyle Whittingham steps down after 21 seasons in charge of the Utes - The Salt Lake Tribune",
       "link": "https://www.sltrib.com/sports/utah-utes/2025/12/12/utah-football-coach-kyle/"
-    },
-    {
-      "title": "Week 15 Injury Report (Dolphins) - Steelers.com",
-      "link": "https://www.steelers.com/news/week-15-injury-report-dolphins"
     },
     {
       "title": "Fired UM coach Sherrone Moore arraigned, told victim 'my blood is on your hands' - The Detroit News",
@@ -110,8 +102,12 @@
       "link": "https://www.raiders.com/news/kenny-pickett-to-start-sunday-vs-philadelphia-eagles-nfl-week-15"
     },
     {
-      "title": "Tee Higgins won\u2019t play against the Ravens - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tee-higgins-wont-play-against-the-ravens"
+      "title": "Mike Tomlin rules T.J. Watt (lung) out for Monday night - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-rules-t-j-watt-lung-out-for-monday-night"
+    },
+    {
+      "title": "Bengals WR Higgins (concussion) out vs. Ravens - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47287268/bengals-wr-tee-higgins-ruled-vs-ravens-due-concussion"
     },
     {
       "title": "Broncos vs. Packers predictions: Final score picks for NFL Week 15 - Mile High Report",
@@ -120,6 +116,10 @@
     {
       "title": "What's Next: With NASCAR Antitrust Lawsuit Over, Questions Linger - FOX Sports",
       "link": "https://www.foxsports.com/stories/nascar/whats-next-nascar-antitrust-lawsuit-over-questions-linger"
+    },
+    {
+      "title": "Fantasy Football Boom Starts & Bust Sits (Week 15) - FantasyPros",
+      "link": "https://www.fantasypros.com/2025/12/fantasy-football-boom-starts-bust-sits-week-15/"
     },
     {
       "title": "Buffalo Bills Injury Report vs. Patriots | Week 15 - Buffalo Bills",
@@ -138,10 +138,6 @@
       "link": "https://www.nhl.com/penguins/news/penguins-acquire-goaltender-stuart-skinner-defenseman-brett-kulak-and-a-2029-second-round-draft-pick-from-the-edmonton-oilers-in-exchange-for-goaltender-tristan-jarry-and-forward-sam-poulin"
     },
     {
-      "title": "The Honolulu Blueprint: 7 keys to a Lions\u2019 victory over the Rams - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/151007/detroit-lions-los-angeles-rams-keys-victory-preview"
-    },
-    {
       "title": "The Opener: Alonso, Signings, Relief Market - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2025/12/the-opener-alonso-signings-relief-market.html"
     },
@@ -150,12 +146,8 @@
       "link": "https://www.cbsnews.com/news/lindsey-vonn-victory-world-cup-downhill/"
     },
     {
-      "title": "49ers vs. Titans: The Standard\u2019s 5 fast predictions - The San Francisco Standard",
-      "link": "https://sfstandard.com/2025/12/12/49ers-titans-score-prediction-preview/"
-    },
-    {
-      "title": "Week 15 Fantasy Football Rankings - The Blueprint - Underdog Network",
-      "link": "https://underdognetwork.com/football/news/week-15-fantasy-football-rankings-the-blueprint-2025"
+      "title": "Detroit Lions vs. Los Angeles Rams preview, prediction: On Paper - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/152012/detroit-lions-vs-los-angeles-rams-preview-prediction-on-paper"
     },
     {
       "title": "2025 NFL Week 15 Advanced Matchups - Fantasy Points",
@@ -166,12 +158,16 @@
       "link": "https://www.si.com/college-football/forde-yard-dash-vibe-check-for-every-bowl-game-and-cfp-first-round-matchups"
     },
     {
-      "title": "Thursday Night Football: Falcons upset Bucs 29-28 with last-play FG - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-falcons-upset-bucs-29-28-with-last-play-fg"
+      "title": "Pending free-agent TE Kyle Pitts has 3 TDs, career night in Falcons comeback - NFL.com",
+      "link": "https://www.nfl.com/news/pending-free-agent-te-kyle-pitts-has-3-tds-career-night-in-falcons-comeback"
     },
     {
-      "title": "SEC releases 2026 Texas Longhorns football schedule - KXAN Austin",
-      "link": "https://www.kxan.com/sports-general/horns-report/sec-releases-2026-texas-longhorns-football-schedule/"
+      "title": "Takeaways from 2026 SEC schedule reveal: Nine-game schedule, Texas\u2019 odd draw, more - Dallas News",
+      "link": "https://www.dallasnews.com/sports/college-sports/2025/12/11/sec-2026-schedule-reveal-takeaways-texas-longhorns-texas-am-aggies-oklahoma-sooners/"
+    },
+    {
+      "title": "Chicago Bears provide important weather and safety updates for Sunday's matchup vs. Cleveland Browns - Chicago Bears Official Website",
+      "link": "https://www.chicagobears.com/news/chicago-bears-provide-important-weather-and-safety-updates-for-sunday-s-matchup-vs-cleveland-browns"
     }
   ],
   "weather": {
