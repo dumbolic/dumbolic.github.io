@@ -1,9 +1,9 @@
 {
-  "quote": "A clear conscience is the sure sign of a bad memory. \u2013 Mark Twain",
-  "fact": "You can sail all the way around the world at latitude 60 degrees south.",
-  "crypto": "BTC: $89,438 | ETH: $3,099.39",
+  "quote": "Music is like creating an emotional painting. The sounds are the colors. \u2013 Yanni",
+  "fact": "Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.",
+  "crypto": "BTC: $89,209 | ETH: $3,090.41",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What is the difference between ignorance and apathy?\r\n\r\nI don't know and I don't care.",
+  "joke": "Can February march? No, but April may.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely. - Business Insider",
+      "link": "https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12"
+    },
     {
       "title": "Video: Pragmata Hands-On Impressions Shared By Capcom - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/12/video-pragmata-hands-on-impressions-shared-by-capcom"
@@ -40,20 +44,12 @@
       "link": "http://9to5google.com/2025/12/12/samsung-new-camera-sensor-motion-blur-global-shutter/"
     },
     {
-      "title": "Highguard, The Game Awards\u2019 Final Trailer, Has Viewers Titled - Kotaku",
-      "link": "https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088"
-    },
-    {
       "title": "New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot",
       "link": "https://www.gamespot.com/articles/new-tomb-raider-games-recast-lara-croft-with-a-gaming-veteran/1100-6536948/"
     },
     {
       "title": "Pok\u00e9mon Legends: Z-A\u2019s DLC Leaves One Mega Evolution Out - Kotaku",
       "link": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068"
-    },
-    {
-      "title": "Id Software devs form \"wall-to-wall\" union - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46246845"
     },
     {
       "title": "Mounts of Mayhem challenges - Minecraft",
@@ -66,6 +62,10 @@
     {
       "title": "Samsung\u2019s Galaxy Z TriFold already sold out in South Korea ahead of US launch - 9to5Google",
       "link": "http://9to5google.com/2025/12/12/samsungs-galaxy-z-trifold-already-sold-out-in-south-korea-ahead-of-us-launch/"
+    },
+    {
+      "title": "Developers at Microsoft-owned Doom studio id Software form union with CWA \"to take back control of the industry we love\" - Eurogamer",
+      "link": "https://www.eurogamer.net/developers-microsoft-owned-doom-studio-id-software-form-union-with-cwa"
     },
     {
       "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
@@ -94,8 +94,24 @@
   ],
   "sports_news": [
     {
+      "title": "Comparing Julian Sayin\u2019s 2025 Season to Ohio State\u2019s Other Heisman Finalist Quarterbacks, Past Heisman Winners - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2025/12/160441/comparing-julian-sayin-s-2025-season-to-ohio-state-s-other-heisman-finalist-quarterbacks-past-heisman-winners"
+    },
+    {
+      "title": "2025/26 Paddy Power World Darts Championship - Day Three latest - PDC",
+      "link": "https://www.pdc.tv/news/2025/12/13/202526-paddy-power-world-darts-championship-day-three-latest"
+    },
+    {
+      "title": "Messi\u2019s tour of India gets off to chaotic start with fans throwing bottles - AP News",
+      "link": "https://apnews.com/article/messi-india-tour-chaos-statue-934673ac56982657169fa3276e3fd597"
+    },
+    {
       "title": "Sherrone Moore\u2019s firing and its shocking aftermath raises tough questions about the culture of Michigan\u2019s athletic department - CNN",
       "link": "https://www.cnn.com/2025/12/13/sport/ncaa-college-football-sherrone-moore-university-of-michigan"
+    },
+    {
+      "title": "Conor McGregor gets married to longtime partner Dee Devlin in Vatican City - New York Post",
+      "link": "https://nypost.com/2025/12/13/sports/conor-mcgregor-gets-married-to-dee-devlin-in-vatican-city/"
     },
     {
       "title": "Connor Bedard Hurt, Will Not Play Against Detroit - Bleacher Nation",
@@ -108,10 +124,6 @@
     {
       "title": "Hughes traded to Wild by Canucks - NHL.com",
       "link": "https://www.nhl.com/news/quinn-hughes-traded-to-minnesota-wild-by-vancouver-canucks"
-    },
-    {
-      "title": "Donovan Mitchell rescues Cavs from rock bottom, sparks fourth-quarter turnaround in 130-126 win - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2025/12/donovan-mitchell-rescues-cavs-from-embarrassing-loss-sparks-fourth-quarter-turnaround-in-130-126-win.html"
     },
     {
       "title": "Instant observations: Joel Embiid and VJ Edgecombe find their grooves as Sixers win in Tyrese Maxey's first absence - PhillyVoice",
@@ -134,12 +146,16 @@
       "link": "https://bleacherreport.com/articles/25325526-pete-alonso-explains-orioles-jersey-number-choice-video-after-155m-mlb-fa-contract"
     },
     {
+      "title": "The Opposing View: An Insider's Look At The Seahawks' Week 15 Opponent, The Indianapolis Colts - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/the-opposing-view-an-insider-s-look-at-the-seahawks-week-15-opponent-the-indianapolis-colts"
+    },
+    {
       "title": "Myles Garrett reaches out to Steelers rival T.J. Watt in the wake of his collapsed lung - Cleveland.com",
       "link": "https://www.cleveland.com/browns/2025/12/myles-garrett-reaches-out-to-steelers-rival-tj-watt-in-the-wake-of-his-collapsed-lung.html"
     },
     {
-      "title": "Broncos vs. Packers: Injury report for Week 15 - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-injuries/166228/broncos-vs-packers-injury-report-week-15-pat-bryant-josh-jacobs-mike-mcglinchey"
+      "title": "Navy vs. Army Picks, Predictions, Odds: Our Staff\u2019s Best Bets for Army-Navy Game - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/navy-midshipmen-vs-army-black-knights-picks-predictions-odds-best-bets-saturday-december-13"
     },
     {
       "title": "WSU names Mizzou OC Moore new head coach - ESPN",
@@ -152,26 +168,6 @@
     {
       "title": "What college football bowl games are on today? Full schedule for the start of bowl season. - NBC Sports",
       "link": "https://www.nbcsports.com/college-football/news/what-college-football-bowl-games-are-on-today-full-schedule-for-the-start-of-bowl-season"
-    },
-    {
-      "title": "Broncos vs. Packers predictions: Final score picks for NFL Week 15 - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-scores-results/166211/broncos-vs-packers-predictions-score-picks-nfl-week-15"
-    },
-    {
-      "title": "What's Next: With NASCAR Antitrust Lawsuit Over, Questions Linger - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nascar/whats-next-nascar-antitrust-lawsuit-over-questions-linger"
-    },
-    {
-      "title": "Chicago weather: Bears fans, players bracing for what could be one of coldest games ever at Soldier Field - ABC7 Chicago",
-      "link": "https://abc7chicago.com/post/chicago-weather-bears-fans-players-bracing-what-could-coldest-games-soldier-field/18279704/"
-    },
-    {
-      "title": "Trump honors 1980 \u2018Miracle on Ice\u2019 Olympic team with a new gold medal - CNN",
-      "link": "https://www.cnn.com/2025/12/12/politics/1980-olympic-mens-hockey-team-trump"
-    },
-    {
-      "title": "The Jarry Trade, Finally. Full Penguins Analysis & The Return - Pittsburgh Hockey Now",
-      "link": "https://pittsburghhockeynow.com/pittsburgh-penguins-trade-analysis-tristan-jarry-return-stuart-skinner/"
     }
   ],
   "weather": {
