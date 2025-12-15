@@ -1,9 +1,9 @@
 {
-  "quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best.  \u2013 St. Jerome",
-  "fact": "14% of all facts and statistics are made up and 27% of people know that fact.",
-  "crypto": "BTC: $89,711 | ETH: $3,151.33",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Where does Napoleon keep his armies? In his sleevies.",
+  "quote": "Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment. \u2013 Dan Millman",
+  "fact": "Fish that live more than 800 meters below the ocean surface don't have eyes.",
+  "crypto": "BTC: $89,302 | ETH: $3,132.18",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iOS 26.2\u2014Update Now Warning Issued To All iPhone Users - Forbes",
+      "link": "https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/"
+    },
+    {
+      "title": "There\u2019s a New Kind of Social Media App People Are Obsessed With. You\u2019ve Probably Used It Already. - Slate",
+      "link": "https://slate.com/technology/2025/12/apple-find-my-app-location-sharing-gen-z-trend.html"
+    },
+    {
       "title": "Multiple Switch Games Have Received Switch 2 Compatibility Fixes - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/12/multiple-switch-games-have-received-switch-2-compatibility-fixes"
     },
     {
       "title": "Galaxy S26 series' trump card has finally leaked - PhoneArena",
       "link": "https://www.phonearena.com/news/galaxy-s26-gauss-model-ai_id176600"
+    },
+    {
+      "title": "Aspyr explains how it approached the Nintendo Switch 2 version of Tomb Raider: Definitive Edition, patches planned - Nintendo Everything",
+      "link": "https://nintendoeverything.com/aspyr-explains-how-it-approached-the-nintendo-switch-2-version-of-tomb-raider-definitive-edition-patches-planned/"
     },
     {
       "title": "He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind - BBC",
@@ -32,8 +44,16 @@
       "link": "https://www.phonearena.com/news/i-used-the-galaxy-z-trifold-and-it-has-some-catching-up-to-do_id176584"
     },
     {
+      "title": "Microsoft released KB5072537, KB5071416, KB5072543 Windows 11 Setup & Recovery updates - Neowin",
+      "link": "https://www.neowin.net/news/microsoft-released-kb5072537-kb5071416-kb5072543-windows-11-setup--recovery-updates/"
+    },
+    {
       "title": "A Kinect for kids is outselling Xbox to become the hot toy this holiday - The Verge",
       "link": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox"
+    },
+    {
+      "title": "Google Phone beta rolling out \u2018urgent\u2019 Expressive Calling that can break through DND - 9to5Google",
+      "link": "http://9to5google.com/2025/12/13/google-phone-expressive-calling-beta/"
     },
     {
       "title": "This Insanely Long Ribbon Worm Turns Out to Be The Oldest on Record - ScienceAlert",
@@ -46,10 +66,6 @@
     {
       "title": "Saturday Pre-orders: Era of Ruin special edition guaranteed stock - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/wimoozuy/saturday-pre-orders-era-of-ruin-special-edition-guaranteed-stock"
-    },
-    {
-      "title": "Poll: Vote for Your PS5 Game of the Year 2025 - Push Square",
-      "link": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-year-2025"
     },
     {
       "title": "\u2018Cyberpunk 2077\u2019 Proved a Game Can Change Itself, But Not Its History - Gizmodo",
@@ -74,36 +90,28 @@
     {
       "title": "Early Buzz For \u2018Highguard,\u2019 The Game Awards Closer, Is Quite Poor - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2025/12/13/early-buzz-for-highguard-the-game-awards-closer-is-quite-poor/"
-    },
-    {
-      "title": "Say hello to Google\u2019s \u2018Disco\u2019, an AI tool that makes web apps from browser tabs - Mashable",
-      "link": "https://mashable.com/article/google-disco-ai-browser-tabs-app"
-    },
-    {
-      "title": "Ask HN: How can I get better at using AI for programming? - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46255285"
-    },
-    {
-      "title": "French President publicly congratulates Clair Obscur: Expedition 33, calling the Game of The Year win \"a historic first\" - Eurogamer",
-      "link": "https://www.eurogamer.net/french-president-publicly-congratulates-clair-obscur-expedition-33-calling-the-game-of-the-year-win-a-historic-first"
-    },
-    {
-      "title": "iOS 26.2\u2014Apple Confirms Critical Update For 1 Billion iPhones - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/12/13/apple-ios-262-release-date-critical-update-for-1-billion-iphones/"
     }
   ],
   "sports_news": [
     {
-      "title": "Noel Mikaeljan gets revenge on Badou Jack to recapture WBC cruiserweight title; Jack hints at retiring - Yahoo Sports",
-      "link": "https://sports.yahoo.com/boxing/breaking-news/live/badou-jack-vs-noel-mikaeljan-2-live-results-round-by-round-updates-ring-walks-for-wbc-rematch-070041476.html"
+      "title": "A shakeup not seen in a decade is taking over NFL standings - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/shakeup-not-seen-decade-taking-nfl-standings-rcna248679"
+    },
+    {
+      "title": "Sunday Patriots Notes: Upstart Pats in unfamiliar territory vs. Bills - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-opinion/116155/sunday-notes-bills-afc-east-champions-nfl-week-15"
+    },
+    {
+      "title": "Liverpool 'united as one' after Salah return - Van Dijk - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cm21xxgp0rno"
     },
     {
       "title": "Jedd Fisch's future at UW still in question after Huskies bowl win - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/washington-huskies-football/huskies-appear-to-have-a-bright-future-but-it-hinges-on-jedd-fisch-staying-at-uw/"
     },
     {
-      "title": "Brandon Royval vs. Manel Kape full fight video highlights - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/461667/brandon-royval-vs-manel-kape-full-fight-video-highlights-ufc-vegas-112"
+      "title": "UFC Vegas 112 results: Manel Kape annihilates Brandon Royval in minutes, makes case for title shot - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/breaking-news/article/ufc-vegas-112-results-manuel-kape-annihilates-brandon-royval-in-minutes-makes-case-for-title-shot-060619659.html"
     },
     {
       "title": "Fernando Mendoza becomes Indiana\u2019s first Heisman winner - The Washington Post",
@@ -114,24 +122,28 @@
       "link": "https://umhoops.com/2025/12/14/game-10-michigan-at-maryland-recap/"
     },
     {
-      "title": "UFC on ESPN 73 video: Melquizael Costa closes 4-0 year with vicious KO - MMA Junkie",
-      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2025/12/13/ufc-vegas-112-melquizael-costa-head-kick-knockout-morgan-charriere/87756572007/"
+      "title": "3 takeaways from No. 12 Alabama\u2019s loss to No. 1 Arizona in men\u2019s basketball - AL.com",
+      "link": "https://www.al.com/alabamabasketball/2025/12/3-takeaways-from-no-12-alabamas-loss-to-no-1-arizona-in-mens-basketball.html"
     },
     {
-      "title": "Kentucky Basketball surges past Indiana Hoosiers: 5 things to know and postgame cheers - A Sea Of Blue",
-      "link": "https://www.aseaofblue.com/kentucky-wildcats-basketball/156721/indiana-hoosiers-uk-final-score-recap-5-things-to-know"
+      "title": "At the Buzzer: Kentucky 72, Indiana 60 - Inside the Hall",
+      "link": "https://www.insidethehall.com/2025/12/13/at-the-buzzer-kentucky-72-indiana-60/"
     },
     {
       "title": "Fantasy Football Week 15 Rankings, Grades & Start/Sit Advice (2025) - FantasyPros",
       "link": "https://www.fantasypros.com/2025/12/fantasy-football-week-15-rankings-grades-start-sit-advice-2025/"
     },
     {
-      "title": "Trump, 79, Stuns With Inability to Flip a Coin: \u2018Worst in History\u2019 - Yahoo",
-      "link": "https://www.thedailybeast.com/donald-trump79-stuns-with-inability-to-flip-a-coin-worst-in-history/"
+      "title": "Where Ohio State football\u2019s Julian Sayin finished in the 2025 Heisman Trophy voting - Cleveland.com",
+      "link": "https://www.cleveland.com/osu/2025/12/where-ohio-state-footballs-julian-sayin-finished-in-the-2025-heisman-trophy-voting.html"
     },
     {
       "title": "Michigan expands investigation after firing Sherrone Moore, AP source says - AP News",
       "link": "https://apnews.com/article/sherrone-moore-michigan-investigation-813257ac94126ed990c7edbcca2205ca"
+    },
+    {
+      "title": "The Dolphins made an unusual, interesting decision ahead of Monday Night Football in an extra effort to secure a breakthrough win - A to Z Sports",
+      "link": "https://atozsports.com/nfl/miami-dolphins-news/dolphins-travel-pittsburgh-early-cold-weather-steelers-monday-night-football-saturday-practice/"
     },
     {
       "title": "Michigan search includes Arizona State's Kenny Dillingham, Missouri\u2019s Eli Drinkwitz, AP source says - AP News",
@@ -146,32 +158,20 @@
       "link": "https://www.on3.com/teams/penn-state-nittany-lions/news/how-to-watch-follow-penn-state-wrestling-at-wyoming-what-time-is-the-match-streaming-info-and-more/"
     },
     {
-      "title": "49ers place Brandon Aiyuk on \u2018left squad\u2019 list, ending his season and signaling end of tenure - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/49ers/article/49ers-put-brandon-aiyuk-left-squad-list-21241019.php"
+      "title": "Trump\u2019s No-Flip Coin Toss at Army-Navy Game Stuns Internet: \u2018Looked Like a Space Alien Wholly Unfamiliar With the Concept\u2019 - Yahoo",
+      "link": "https://www.mediaite.com/media/news/trumps-no-flip-coin-toss-at-army-navy-game-stuns-internet-looked-like-a-space-alien-wholly-unfamiliar-with-the-concept/"
     },
     {
-      "title": "Digging Deeper Into Liverpool\u2019s 2-nil Victory Over Brighton & Hove Albion - The Liverpool Offside",
-      "link": "https://liverpooloffside.sbnation.com/liverpool-fc-match-coverage/77555/liverpool-fc-brighton-premier-league-slot-salah-tactics-analysis"
+      "title": "Rumored Red Sox target signs with Mets \u2014 but Boston didn\u2019t offer - MassLive.com",
+      "link": "https://www.masslive.com/redsox/2025/12/rumored-red-sox-target-signs-with-mets-but-boston-didnt-offer.html"
+    },
+    {
+      "title": "Tigers To Sign Kenley Jansen - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/12/tigers-deep-in-talks-with-kenley-jansen.html"
     },
     {
       "title": "Projected Lineup: December 13 at Philadelphia | Carolina Hurricanes - NHL.com",
       "link": "https://www.nhl.com/hurricanes/news/projected-lineup-december-13-at-philadelphia"
-    },
-    {
-      "title": "Packers elevate running back to gameday roster vs. Denver Broncos - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/76364/packers-elevate-running-back-to-gameday-roster-vs-denver-broncos-josh-jacobs-injury-update"
-    },
-    {
-      "title": "Yankees To Re-Sign Amed Rosario - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2025/12/yankees-to-re-sign-amed-rosario.html"
-    },
-    {
-      "title": "Seahawks Roster Moves Ahead Of Their Week 15 Game vs. Indianapolis - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/seahawks-roster-moves-ahead-of-their-week-15-game-vs-indianapolis"
-    },
-    {
-      "title": "49ers add Christian McCaffrey to injury report as questionable with back injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-add-christian-mccaffrey-to-injury-report-as-questionable-with-back-injury"
     }
   ],
   "weather": {
