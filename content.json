@@ -1,9 +1,9 @@
 {
-  "quote": "To do great work one must be very idle as well as very industrious. \u2013 Samuel Butler",
-  "fact": "Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.",
-  "crypto": "BTC: $87,264 | ETH: $2,953.62",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did the grape do when he got stepped on? He let out a little wine.",
+  "quote": "When it is dark enough, you can see the stars. \u2013 Ralph Waldo Emerson",
+  "fact": "\"Rhythm\" is the longest English word without a vowel.",
+  "crypto": "BTC: $86,980 | ETH: $2,933.81",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Mirelo raises $41M from Index and a16z to solve AI video\u2019s silent problem - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/"
+    },
+    {
+      "title": "Apple and Google will be asked to block nude photos unless user age is verified - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/15/apple-and-google-will-be-asked-to-block-nude-photos-unless-user-age-is-verified/"
+    },
+    {
+      "title": "Fruity Loops Web! FL Studio arrives in a browser beta, with full compatibility - CDM Create Digital Music",
+      "link": "https://cdm.link/fl-studio-on-the-web/"
+    },
+    {
+      "title": "Kernel Graphics Driver Changes Already Begin Lining Up For Linux 6.20~7.0 - Phoronix",
+      "link": "https://www.phoronix.com/news/Linux-DRM-Misc-Next-Post-6.19"
+    },
+    {
+      "title": "Sapphire asks AMD for more freedom in partner GPU designs: \u201cLet us go nuts\u201d - VideoCardz.com",
+      "link": "https://videocardz.com/newz/sapphire-asks-amd-for-more-freedom-in-partner-gpu-designs-let-us-go-nuts"
+    },
+    {
+      "title": "Apple, Google forced to issue emergency 0-day patches - theregister.com",
+      "link": "https://www.theregister.com/2025/12/15/apple_follows_google_by_emergency/"
+    },
+    {
+      "title": "Lara Croft actress Camilla Luddington bids farewell to Tomb Raider, as Alix Wilton Regan teases \"we're just getting started\" - Eurogamer",
+      "link": "https://www.eurogamer.net/lara-croft-actress-camilla-luddington-bids-farewell-to-tomb-raider-as-alix-wilton-regan-teases-were-just-getting-started"
+    },
+    {
+      "title": "French President Emmanuel Macron Is Back on Instagram Celebrating Clair Obscur: Expedition 33, This Time for Winning Game of the Year - IGN",
+      "link": "https://www.ign.com/articles/french-president-emmanuel-macron-is-back-on-instagram-celebrating-clair-obscur-expedition-33-this-time-for-winning-game-of-the-year"
+    },
+    {
+      "title": "The Next Resident Evil Remakes Are Code Veronica (2027) and Zero (2028), Says Leaker - Wccftech",
+      "link": "https://wccftech.com/the-next-resident-evil-remakes-code-veronica-2027-zero-2028/"
+    },
+    {
+      "title": "Quantum Computing News: Google\u2019s Willow Chip, Microsoft\u2019s New Partner, and Western Digital Backs New Startup - TipRanks",
+      "link": "https://www.tipranks.com/news/quantum-computing-news-googles-willow-chip-microsofts-new-partner-and-western-digital-backs-new-startup"
+    },
+    {
       "title": "Microsoft: December security updates cause Message Queuing failures - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/"
     },
     {
-      "title": "MSI MEG X870E Godlike X Edition Review - TechPowerUp",
-      "link": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/"
+      "title": "Windows Remote Access Connection Manager Vulnerability Enables Arbitrary Code Execution - CybersecurityNews",
+      "link": "https://cybersecuritynews.com/windows-remote-access-connection-manager-vulnerability/"
+    },
+    {
+      "title": "PS5 Will Be the Only Console You Can Play Phantom Blade Zero for at Least 12 Months - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/12/ps5-will-be-the-only-console-you-can-play-phantom-blade-zero-for-at-least-12-months"
     },
     {
       "title": "New Galaxy S23 update makes it more secure - SamMobile",
@@ -32,8 +76,8 @@
       "link": "https://www.nintendolife.com/news/2025/12/mortal-kombat-legacy-kollection-switch-1-and-2-physical-release-does-not-include-mortal-kombat-4-on-the-game-card"
     },
     {
-      "title": "The Opt-In Proactive & Crash Time Data Collection On Valve's Steam Deck - Phoronix",
-      "link": "https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect"
+      "title": "Apple\u2019s iPhone 20 To Feature A \u2018Four-Sided Bending Design\u2019 And Fully Bezel-Less Display; LG Reportedly Investing Nearly $300 Million As Production Line Requires Overhaul - Wccftech",
+      "link": "https://wccftech.com/apple-iphone-20-to-feature-four-sided-bending-display-lg-investing-massive-sum-into-production/"
     },
     {
       "title": "You can get a MacBook Pro for $400 if you act fast - Mashable",
@@ -46,60 +90,12 @@
     {
       "title": "Hacker hijacks Amazon accounts via Kindle ebook - The Times",
       "link": "https://www.thetimes.com/uk/technology-uk/article/kindle-amazon-e-book-hacking-t6wjhq80h"
-    },
-    {
-      "title": "The Blue Bomber makes his long-awaited return to gaming with the announcement of Mega Man: Dual Override - EventHubs",
-      "link": "https://www.eventhubs.com/news/2025/dec/14/mega-man-returns-dual-override/"
-    },
-    {
-      "title": "Why Porsche Switched From Air-Cooled To Water-Cooled Engines - Jalopnik",
-      "link": "https://www.jalopnik.com/2047202/why-porsche-switched-from-air-cooled-to-water-cooled-engines/"
-    },
-    {
-      "title": "Hades 2 lead says the best boons from Early Access weren't killed, just reskinned: \"We think it's important not to be too precious about these things\" - GamesRadar+",
-      "link": "https://www.gamesradar.com/games/hades/hades-2-lead-says-the-best-boons-from-early-access-werent-killed-just-reskinned-we-think-its-important-not-to-be-too-precious-about-these-things/"
-    },
-    {
-      "title": "Ask HN: What Are You Working On? (December 2025) - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46264491"
-    },
-    {
-      "title": "The Galaxy Z TriFold embarks on a new horizon, but it kind of feels like Samsung missed the mark - Android Central",
-      "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-trifold-my-biggest-concerns"
-    },
-    {
-      "title": "The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com",
-      "link": "https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/"
-    },
-    {
-      "title": "ASUS launches GeForce RTX 5060 DUAL Evo series, slimmer design and shorter PCIe interface - VideoCardz.com",
-      "link": "https://videocardz.com/newz/asus-launches-geforce-rtx-5060-dual-evo-series-slimmer-design-and-shorter-pcie-interface"
-    },
-    {
-      "title": "Sunday Preview \u2013 A brief pause ahead of Christmas - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas"
-    },
-    {
-      "title": "Watch Atlas V rocket launch 27 of Amazon's internet satellites to orbit early Dec. 15 - Space",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-4"
-    },
-    {
-      "title": "Can You Use A Roku Without Internet? - bgr.com",
-      "link": "https://www.bgr.com/2046701/can-you-use-roku-without-internet/"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 fans can't get over just how difficult the Update's new bosses and challenges are now - Eurogamer",
-      "link": "https://www.eurogamer.net/clair-obscur-expedition-33-fans-cant-get-over-just-how-difficult-the-updates-new-bosses-and-challenges-are-now"
     }
   ],
   "sports_news": [
     {
-      "title": "Picks And Predictions For Week 15 vs. the Indianapolis Colts - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/picks-and-predictions-for-week-15-vs-the-indianapolis-colts"
-    },
-    {
-      "title": "Packers vs. Broncos | How to watch, stream & listen | Week 15 - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-vs-broncos-how-to-watch-stream-listen-week-15-2025"
+      "title": "2025 NCAA women's volleyball tournament: Bracket, schedule, scores - NCAA.com",
+      "link": "https://www.ncaa.com/news/volleyball-women/article/2025-12-13/2025-ncaa-womens-volleyball-tournament-bracket-schedule-scores"
     },
     {
       "title": "The Winners and Losers of the NFL Week 15 - The Ringer",
@@ -118,10 +114,6 @@
       "link": "https://www.nfl.com/news/nfl-stats-and-records-week-15-bills-josh-allen-joins-elite-company-with-sixth-season-of-35-plus-offensive-tds"
     },
     {
-      "title": "NFL Week 15 winners and losers: Bills, Bears earn key victories; Packers defense in trouble? - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-week-15-winners-and-losers-bills-bears-earn-key-victories-packers-defense-in-trouble"
-    },
-    {
       "title": "Schottenheimer on loss to Vikings: 'I'm better than that' - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/schottenheimer-on-loss-to-vikings-i-m-better-than-that"
     },
@@ -138,40 +130,48 @@
       "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401836802"
     },
     {
+      "title": "'I don't think anybody was stopping No. 10 today': QB Bo Nix tosses 4 touchdowns in stellar performance vs. Packers - Denver Broncos",
+      "link": "https://www.denverbroncos.com/news/i-don-t-think-anybody-was-stopping-no-10-today-qb-bo-nix-tosses-4-touchdowns-in-stellar-performance-vs-packers"
+    },
+    {
       "title": "Hooked on a feeling: Badgers punch ticket to Kansas City - Wisconsin Badgers",
       "link": "https://uwbadgers.com/news/2025/12/14/volleyball-no-3-badgers-wrangle-longhorns-punch-ticket-to-kansas-city"
+    },
+    {
+      "title": "Defense Comes Through Again In The Seahawks\u2019 Week 15 Win Over The Colts - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/defense-comes-through-again-in-the-seahawks-week-15-win-over-the-colts"
     },
     {
       "title": "Rashid Shaheed 'Came In Clutch' On Seahawks' Game-Winning Drive - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/rashid-shaheed-came-in-clutch-on-seahawks-game-winning-drive"
     },
     {
+      "title": "Seahawks Show \u2018We Don\u2019t Really Flinch\u2019 In Dramatic Finish To Beat Colts - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-show-we-don-t-really-flinch-in-dramatic-finish-to-beat-colts"
+    },
+    {
       "title": "Todd Bowles: Baker Mayfield Took Right Postgame Approach - Tampa Bay Buccaneers",
       "link": "https://www.buccaneers.com/news/todd-bowles-baker-mayfield-took-right-postgame-approach"
     },
     {
-      "title": "Rams clinch playoff berth with Week 15 win over Lions - Rams",
-      "link": "https://www.therams.com/news/rams-clinch-playoff-berth-with-week-15-2025-win-over-lions"
+      "title": "Game notes: Josh Jacobs endures on injury-riddled day for Packers - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/game-notes-josh-jacobs-endures-on-injury-riddled-day-for-packers-week-15-2025"
+    },
+    {
+      "title": "Campbell remains confident in his team: 'I know we can do it' - Detroit Lions",
+      "link": "https://www.detroitlions.com/news/campbell-remains-confident-in-his-team-i-know-we-can-do-it"
+    },
+    {
+      "title": "Key to the game: Packers\u2019 defense aims to rally after Micah Parsons\u2019 injury - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/key-to-the-game-packers-defense-aims-to-rally-after-micah-parsons-injury-week-15-2025"
     },
     {
       "title": "Saints 20-17 Panthers (Dec 14, 2025) Game Recap - ESPN",
       "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772908"
     },
     {
-      "title": "Top 3 things we learned from Bills at Patriots | Week 15 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-at-patriots-week-15"
-    },
-    {
-      "title": "O-Zone Late Night, Week 15: Jaguars 48, Jets 20 - Jaguars.com",
-      "link": "https://www.jaguars.com/news/k000488-o-zone-late-night-week-15-jaguars-jets"
-    },
-    {
-      "title": "49ers 37-24 Titans (Dec 14, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772907"
-    },
-    {
-      "title": "Top scorer Crooks misses win; could be back Sun. - ESPN",
-      "link": "https://www.espn.com/womens-college-basketball/story/_/id/47309757/audi-crooks-misses-iowa-state-win-back-sunday"
+      "title": "Chiefs QB Patrick Mahomes Tears His ACL in Loss to Chargers - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/patrick-mahomes-exits-fourth-quarter-apparent-knee-injury-vs-chargers"
     }
   ],
   "weather": {
