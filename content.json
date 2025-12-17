@@ -1,9 +1,9 @@
 {
-  "quote": "Waste no more time arguing about what a good man should be. Be one. \u2013 Marcus Aurelius",
-  "fact": "The state of Florida is bigger than England!",
-  "crypto": "BTC: $87,280 | ETH: $2,896.47",
+  "quote": "Don't let what you cannot do interfere with what you can do. \u2013 John Wooden",
+  "fact": "A pound of houseflies contains more protein than a pound of beef",
+  "crypto": "BTC: $89,943 | ETH: $3,017.08",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a fly without wings? A walk.",
+  "joke": "What do you call a female snake. misssssssss ",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,98 +12,126 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Larian is using generative AI, confirms CEO, but Divinity won't contain anything AI-generated - Eurogamer",
+      "link": "https://www.eurogamer.net/larian-is-using-generative-ai-confirms-ceo-but-divinity-wont-contain-anything-ai-generated"
+    },
+    {
+      "title": "The Steam Winter Sale Starts This Week And Includes Discounts On Hades II, Dispatch, Elden Ring Nightreign, And More - Game Informer",
+      "link": "https://gameinformer.com/psa/2025/12/16/the-steam-winter-sale-starts-this-week-and-includes-discounts-on-hades-ii-dispatch"
+    },
+    {
+      "title": "Amazon\u2019s Kindle Scribe Colorsoft won\u2019t replace your notebook \u2014 or your Kindle - The Verge",
+      "link": "https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet"
+    },
+    {
+      "title": "Ahead of Fallout Season 2, Samsung Exec Understands Where Stranger Things Creator's Hate for 'Garbage' TV Settings Comes From \u2014 Meanwhile Todd Howard Wants to Know 'Backlight 20 or 11?' - IGN",
+      "link": "https://www.ign.com/articles/ahead-of-fallout-season-2-samsung-exec-understands-where-stranger-things-creators-hate-for-garbage-tv-settings-comes-from-meanwhile-todd-howard-wants-to-know-backlight-20-or-11"
+    },
+    {
+      "title": "The God Rolls Of All Destiny 2\u2019s New 2025 Dawning Weapons - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/12/16/the-god-rolls-of-all-destiny-2s-new-2025-dawning-weapons/"
+    },
+    {
+      "title": "\u2018Baldur\u2019s Gate 3\u2019 Maker Promises \u2018Divinity\u2019 Will Be \u2018Next Level\u2019 - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2025-12-16/-baldur-s-gate-3-maker-promises-divinity-will-be-next-level"
+    },
+    {
+      "title": "I\u2019ve been waiting years for Animal Crossing\u2019s best new features - The Verge",
+      "link": "https://www.theverge.com/games/845242/animal-crossing-new-horizons-3-0-update-switch-2-edition-features"
+    },
+    {
+      "title": "Minecraft 26.1 Snapshot 1 - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1"
+    },
+    {
+      "title": "Red Hat Acquires Another AI Company - Phoronix",
+      "link": "https://www.phoronix.com/news/Red-Hat-Another-AI-Company"
+    },
+    {
+      "title": "After Decades, Linux Finally Gains Stable GPIB Support - Hackaday",
+      "link": "https://hackaday.com/2025/12/16/after-decades-linux-finally-gains-stable-gpib-support/"
+    },
+    {
+      "title": "Google May Reveal the Successor to the Chromebook in 2026 - WIRED",
+      "link": "https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/"
+    },
+    {
+      "title": "Colorful launches GeForce RTX 5060 Ti & 5070 iGame Mini GPU series - VideoCardz.com",
+      "link": "https://videocardz.com/newz/colorful-launches-geforce-rtx-5060-ti-5070-igame-mini-gpu-series"
+    },
+    {
       "title": "Critical Amazon Kindle Hack Confirmed \u2014 What You Need To Know - Forbes",
       "link": "https://www.forbes.com/sites/daveywinder/2025/12/16/critical-amazon-kindle-hack-confirmed---what-you-need-to-know/"
     },
     {
-      "title": "Arc Raiders developer finally addresses theories over matchmaking, confirms player behaviour is a factor in who you're playing against - Eurogamer",
-      "link": "https://www.eurogamer.net/arc-raiders-developer-confirms-player-behaviour-is-factor-in-matchmaking"
+      "title": "Bluetooth 6.0: What You Need to Know About the Future of Wireless Headphones - CNET",
+      "link": "https://www.cnet.com/tech/mobile/bluetooth-6-0-the-future-of-wireless-headphones/"
+    },
+    {
+      "title": "3 best Netflix thriller miniseries to binge-watch in one weekend - Tom's Guide",
+      "link": "https://www.tomsguide.com/entertainment/netflix/3-best-netflix-thriller-miniseries-to-binge-watch-in-one-weekend"
+    },
+    {
+      "title": "Why I stopped relying on Google Maps in Android Auto \u2014 and the app I use now - Android Police",
+      "link": "https://www.androidpolice.com/android-auto-navigation-upgrade/"
+    },
+    {
+      "title": "Monster Hunter Wilds' Huge Title Update 4 Out Now \u2014 Check Out the 1.040 Patch Notes - IGN",
+      "link": "https://www.ign.com/articles/monster-hunter-wilds-huge-title-update-4-out-now-check-out-the-1040-patch-notes"
+    },
+    {
+      "title": "Microsoft Updates Windows \u2018To Stop Users Downloading Google Chrome\u2019 - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/12/16/microsoft-updates-windows-to-stop-users-downloading-google-chrome/"
     },
     {
       "title": "Hollow Knight: Silksong sells over 7m copies in three months - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/hollow-knight-silksong-sells-over-7m-copies-in-three-months"
     },
     {
-      "title": "Google rolling out update for original Pixel Buds Pro - 9to5Google",
-      "link": "http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/"
-    },
-    {
-      "title": "Nikon Makes the Z9\u2019s Autofocus and Subject Detection Even Better - PetaPixel",
-      "link": "https://petapixel.com/2025/12/15/nikon-makes-the-z9s-autofocus-and-subject-detection-even-better/"
-    },
-    {
-      "title": "Games Leaving PS Plus in January 2026 Confirmed - PlayStation LifeStyle",
-      "link": "https://www.playstationlifestyle.net/2025/12/15/games-leaving-ps-plus-extra-premium-january-2026/"
-    },
-    {
-      "title": "New Mous Pixel Watch 4 Charger is the first 3rd-party dock with \u2018official\u2019 hardware - 9to5Google",
-      "link": "http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/"
-    },
-    {
-      "title": "iOS 26 leak details multiple unreleased Apple products - AppleInsider",
-      "link": "https://appleinsider.com/articles/25/12/16/ios-26-leak-details-multiple-unreleased-apple-products"
-    },
-    {
-      "title": "Canada man buys a fake iPhone 17 Pro Max and is left stunned at what turns up - supercarblondie.com",
-      "link": "https://supercarblondie.com/fake-iphone-17-pro-max-left-man-stunned-at-what-turns-up/"
-    },
-    {
-      "title": "OnePlus Turbo may have a battery so big that even the OnePlus 15 will seem underpowered - PhoneArena",
-      "link": "https://www.phonearena.com/news/OnePlus-Turbo-may-have-a-battery-so-big-that-even-the-OnePlus-15-will-seem-underpowered_id176637"
-    },
-    {
-      "title": "Meet \u2018Fuzozo,\u2019 the AI emotional companion debuting at CES 2026 - Mashable",
-      "link": "https://mashable.com/article/fuzozo-ai-emotional-companion-ces-2026"
-    },
-    {
-      "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
-      "link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android"
-    },
-    {
-      "title": "What's The Difference Between Ford's Megazilla And Godzilla V8 Engines? - Jalopnik",
-      "link": "https://www.jalopnik.com/2047990/ford-megazilla-vs-godzilla-7-3-v8-crate-engines-differences/"
-    },
-    {
-      "title": "This Is Easily One of the Best-Looking Takes on One of the Most Iconic Chronographs Ever - Gear Patrol",
-      "link": "https://www.gearpatrol.com/watches/porsche-design-chronograph-1-anniversary-edition/"
-    },
-    {
-      "title": "Diablo 4 Paladin First Impressions: Much More Than A Diablo 2 Copycat - GameSpot",
-      "link": "https://www.gamespot.com/articles/diablo-4-paladin-first-impressions-much-more-than-a-diablo-2-copycat/1100-6536972/"
-    },
-    {
-      "title": "This free app lets you mimic Apple CarPlay in any vehicle even if it\u2019s not built in - supercarblondie.com",
-      "link": "https://supercarblondie.com/apple-carplay-alternative-older-cars-free-app/"
-    },
-    {
-      "title": "8 Rare Vintage Tech Products Worth Thousands That Might Be Hiding In Your Attic - bgr.com",
-      "link": "https://www.bgr.com/2050118/rare-vintage-tech-worth-thousands-hiding-attic/"
-    },
-    {
-      "title": "iOS 26.3 beta reveals how Apple plans to handle EU-required notification forwarding - 9to5Mac",
-      "link": "https://9to5mac.com/2025/12/15/ios-26-3-beta-notification-forwarding/"
+      "title": "China\u2019s ultra-hot heat pump breakthrough paves way for melting ore with sunlight - South China Morning Post",
+      "link": "https://www.scmp.com/news/china/science/article/3336593/chinas-ultra-hot-heat-pump-breakthrough-paves-way-melting-ore-sunlight"
     }
   ],
   "sports_news": [
     {
-      "title": "Forsberg scores hat trick for Predators in win against Blues - NHL.com",
-      "link": "https://www.nhl.com/news/nashville-predators-st-louis-blues-game-recap-december-15-2025"
+      "title": "Ravens\u2019 Updated Playoff Scenarios for Week 16 - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/ravens-playoff-scenarios-steelers-week-16-patriots"
     },
     {
-      "title": "Gauthier scores go-ahead goal in 3rd, Ducks edge Rangers - NHL.com",
-      "link": "https://www.nhl.com/news/anaheim-ducks-new-york-rangers-game-recap-december-15-2025"
+      "title": "Fantasy Football Rankings: Week 16 (2025) - FantasyPros",
+      "link": "https://www.fantasypros.com/2025/12/fantasy-football-rankings-week-16/"
     },
     {
-      "title": "Rodgers is Steelers Digest Player of the Week - Steelers.com",
-      "link": "https://www.steelers.com/news/rodgers-is-steelers-digest-player-of-the-week-x1525"
+      "title": "Green becomes most expensive overseas IPL player - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/c997j2y2ey0o"
+    },
+    {
+      "title": "Labriola on the win over the Dolphins - Steelers.com",
+      "link": "https://www.steelers.com/news/labriola-on-the-win-over-the-dolphins-x6252"
+    },
+    {
+      "title": "Arch Manning will return to Texas for the 2026 season - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-will-return-to-texas-for-the-2026-season"
+    },
+    {
+      "title": "Updated NFL Power Rankings: New 1-32 poll, plus who could get extended this offseason - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47315735/nfl-week-16-power-rankings-poll-32-teams-2025-offseason-contract-extensions"
     },
     {
       "title": "Todd Bowles: Baker Mayfield Took Right Postgame Approach - Tampa Bay Buccaneers",
       "link": "https://www.buccaneers.com/news/todd-bowles-baker-mayfield-took-right-postgame-approach"
     },
     {
-      "title": "Week 16 Injury Report: Seahawks vs. Rams - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/week-16-injury-report-seahawks-vs-rams-x0842"
+      "title": "Michigan coach Dusty May weighs in on Sherrone Moore situation, shooting at Will Tschetter's high school - On3",
+      "link": "https://www.on3.com/teams/michigan-wolverines/news/michigan-wolverines-basketball-coach-dusty-may-talks-sherrone-moore-situation/"
+    },
+    {
+      "title": "Washington holds on to win OT thriller 3-2 against NC State in College Cup Final - NCAA.com",
+      "link": "https://www.ncaa.com/live-updates/soccer-men/d1/washington-holds-win-ot-thriller-3-2-against-nc-state-college-cup-final"
+    },
+    {
+      "title": "5 things that stood out to Bears coach Ben Johnson in Week 15 win - Chicago Bears Official Website",
+      "link": "https://www.chicagobears.com/news/5-things-that-stood-out-to-bears-coach-ben-johnson-in-week-15-win"
     },
     {
       "title": "2025 playoffs: Eagles' magic number to clinch second straight NFC East title - 6abc Philadelphia",
@@ -114,20 +142,16 @@
       "link": "https://www.nba.com/news/knicks-spurs-emirates-nba-cup-2025-championship-features-two-teams-seeking-signature-win"
     },
     {
-      "title": "Jarry ready for 'very weird' homecoming in Pittsburgh with Oilers - NHL.com",
-      "link": "https://www.nhl.com/news/tristan-jarry-ready-for-weird-homecoming-in-pittsburgh-with-oilers"
-    },
-    {
-      "title": "Philip Rivers Lost His Start at 44, But the Sweet Story Was His High School Team Cheering Him On - OutKick",
-      "link": "https://www.outkick.com/sports/philip-rivers-may-have-lost-his-start-44-his-hs-team-cheering-him-pretty-sweet"
-    },
-    {
       "title": "Steelers inactives for Week 15 vs Dolphins - Steelers.com",
       "link": "https://www.steelers.com/news/steelers-inactives-for-week-15-vs-dolphins"
     },
     {
       "title": "Ex-Cal, Illini, Raiders coach White dies at age 89 - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/47318094/mike-white-former-cal-illinois-raiders-coach-dies-89"
+    },
+    {
+      "title": "Kevin O'Connell Recaps J.J. McCarthy's Night at Cowboys & Harrison Smith's 'Game Within the Game' - Vikings.com",
+      "link": "https://www.vikings.com/news/kevin-oconnell-jj-mccarthy-dallas-cowboys-harrison-smith-2025"
     },
     {
       "title": "Reilly Named AVCA Player of the Year Finalist - University of Nebraska - Official Athletics Website - huskers.com",
@@ -146,24 +170,8 @@
       "link": "https://www.espn.com/nfl/story/_/id/47317156/bears-weigh-shutting-wr-rome-odunze-help-recovery"
     },
     {
-      "title": "Jayden Daniels' season is over | Eagles at Commanders Daily Updates - Philadelphia Eagles",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-daily-updates-nfl-week16-2025-season"
-    },
-    {
-      "title": "NHL On Tap: Jets' Hellebuyck, Connor resume Olympic auditions against Senators - NHL.com",
-      "link": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-december-15-2025"
-    },
-    {
-      "title": "#NextGenATP stars enjoy beach retreat before Jeddah battle begins - ATP Tour",
-      "link": "https://www.atptour.com/en/news/next-gen-atp-finals-2025-silver-sands-beach-group-photo"
-    },
-    {
-      "title": "Kekalainen named Sabres general manager, replaces Adams - NHL.com",
-      "link": "https://www.nhl.com/news/jarmo-kekalainen-hired-as-buffalo-sabres-gm-kevyn-adams-fired"
-    },
-    {
-      "title": "New Heat Rule effective from 2026 - ATP Tour",
-      "link": "https://www.atptour.com/en/news/new-heat-rule-effective-from-2026"
+      "title": "After Further Review: Breaking Down QB Drake Maye, the Patriots Defense and Quick-Hit Film Notes From Sunday's Loss to the Bills - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/after-further-review-breaking-down-qb-drake-maye-the-patriots-defense-and-quick-hit-film-notes-from-sunday-s-loss-to-the-bills"
     }
   ],
   "weather": {
