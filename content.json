@@ -1,9 +1,9 @@
 {
-  "quote": "Make your life a mission - not an intermission. \u2013 Unknown",
-  "fact": "A lion's roar can be heard from five miles away.",
-  "crypto": "BTC: $87,638 | ETH: $2,955.92",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Parallel lines have so much in common. It\u2019s a shame they\u2019ll never meet.",
+  "quote": "Be yourself; everyone else is already taken. \u2013 Oscar Wilde",
+  "fact": "What is called a \"French kiss\" in the English speaking world is known as an \"English kiss\" in France.",
+  "crypto": "BTC: $87,417 | ETH: $2,955.42",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the octopus beat the shark in a fight? Because it was well armed.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Mario Kart World 1.4.1 update out now, patch notes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/mario-kart-world-1-4-1-update-out-now-patch-notes/"
-    },
-    {
       "title": "Holow Knight: Silksong \u2013 Sea of Sorrow DLC revealed - Nintendo Everything",
       "link": "https://nintendoeverything.com/holow-knight-silksong-sea-of-sorrow-dlc-revealed/"
+    },
+    {
+      "title": "New Mous Pixel Watch 4 Charger is the first 3rd-party dock with \u2018official\u2019 hardware - 9to5Google",
+      "link": "http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/"
     },
     {
       "title": "OpenAI\u2019s Chief Communications Officer Is Leaving the Company - WIRED",
@@ -32,6 +32,18 @@
       "link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android"
     },
     {
+      "title": "What's The Difference Between Ford's Megazilla And Godzilla V8 Engines? - Jalopnik",
+      "link": "https://www.jalopnik.com/2047990/ford-megazilla-vs-godzilla-7-3-v8-crate-engines-differences/"
+    },
+    {
+      "title": "This Is Easily One of the Best-Looking Takes on One of the Most Iconic Chronographs Ever - Gear Patrol",
+      "link": "https://www.gearpatrol.com/watches/porsche-design-chronograph-1-anniversary-edition/"
+    },
+    {
+      "title": "Diablo 4 Paladin First Impressions: Much More Than A Diablo 2 Copycat - GameSpot",
+      "link": "https://www.gamespot.com/articles/diablo-4-paladin-first-impressions-much-more-than-a-diablo-2-copycat/1100-6536972/"
+    },
+    {
       "title": "8 Rare Vintage Tech Products Worth Thousands That Might Be Hiding In Your Attic - bgr.com",
       "link": "https://www.bgr.com/2050118/rare-vintage-tech-worth-thousands-hiding-attic/"
     },
@@ -40,12 +52,20 @@
       "link": "https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/"
     },
     {
+      "title": "You Can Buy A 355-Horsepower Mercedes-Benz GLA 45 AMG For The Price Of A Used Versa - The Autopian",
+      "link": "https://www.theautopian.com/you-can-buy-a-355-horsepower-mercedes-benz-gla-45-amg-for-the-price-of-a-used-versa/"
+    },
+    {
       "title": "All The Game Awards Game Of The Year Winners To Date - GameSpot",
       "link": "https://www.gamespot.com/gallery/all-the-game-awards-game-of-the-year-winners-to-date/2900-7352/"
     },
     {
-      "title": "Apple Seeds First Betas of iOS 26.3 and iPadOS 26.3 to Developers - MacRumors",
-      "link": "https://www.macrumors.com/2025/12/15/apple-seeds-ios-26-3-beta-1/"
+      "title": "Google\u2019s \u2018dark web report\u2019 feature will no longer be available starting in February - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/"
+    },
+    {
+      "title": "Apple releases first iOS 26.3 beta for iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/15/apple-releases-first-ios-26-3-beta-for-iphone/"
     },
     {
       "title": "Bungie\u2019s delayed shooter Marathon launches in March - The Verge",
@@ -70,29 +90,25 @@
     {
       "title": "The Best Pokemon Gift Ideas for 2025 - IGN",
       "link": "https://www.ign.com/articles/best-pokemon-gift-ideas-2025"
-    },
-    {
-      "title": "Notion Kicks Off Employee Share Sale At $11 Billion Valuation As AI Accelerates Its Growth - Forbes",
-      "link": "https://www.forbes.com/sites/annatong/2025/12/15/notion-kicks-off-employee-share-sale-at-11-billion-valuation-as-ai-accelerates-its-growth/"
-    },
-    {
-      "title": "Google\u2019s turning off its dark web monitoring service that scoured data breaches for your info - The Verge",
-      "link": "https://www.theverge.com/news/844700/google-dark-web-reports-shut-down"
-    },
-    {
-      "title": "Linux 6.19 Features: LUO, PCIe Link Encryption, ASUS Armoury, DRM Color Pipeline API & More - Phoronix",
-      "link": "https://www.phoronix.com/review/linux-619-features-changes"
-    },
-    {
-      "title": "Leak Reveals Foldable iPhone Details - MacRumors",
-      "link": "https://www.macrumors.com/2025/12/15/leak-reveals-foldable-iphone-details/"
-    },
-    {
-      "title": "Ubisoft Acquires March of Giants From Amazon - Ubisoft",
-      "link": "https://news.ubisoft.com/en-us/article/6TYgLsRkVYP97hVH0Rhzn7/ubisoft-acquires-march-of-giants-from-amazon"
     }
   ],
   "sports_news": [
+    {
+      "title": "San Antonio Spurs vs New York Knicks Dec 16, 2025 Game Summary - NBA",
+      "link": "https://www.nba.com/game/sas-vs-nyk-0062500001"
+    },
+    {
+      "title": "Jurors hear closing arguments in Skaggs civil trial - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/47319545/lawyers-clash-closing-arguments-angels-alleged-role-tyler-skaggs-overdose-death"
+    },
+    {
+      "title": "2025 playoffs: Eagles' magic number to clinch second straight NFC East title - 6abc Philadelphia",
+      "link": "https://6abc.com/post/2025-playoffs-eagles-are-win-away-second-straight-nfc-east-title/18290429/"
+    },
+    {
+      "title": "Steelers vs. Dolphins: Kickoff time, odds, playoff picture, where to watch MNF - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/steelers-vs-dolphins-live-updates-score-nfl-playoff-race/live/"
+    },
     {
       "title": "Jarry ready for 'very weird' homecoming in Pittsburgh with Oilers - NHL.com",
       "link": "https://www.nhl.com/news/tristan-jarry-ready-for-weird-homecoming-in-pittsburgh-with-oilers"
@@ -108,6 +124,18 @@
     {
       "title": "Man United 4-4 Bournemouth (Dec 15, 2025) Game Analysis - ESPN",
       "link": "https://www.espn.com/soccer/report/_/gameId/740751"
+    },
+    {
+      "title": "Browns sign WR Jamari Thrash and waive G Garrett Dellinger - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-sign-wr-jamari-thrash"
+    },
+    {
+      "title": "Lawsuit: Spurs icon David Robinson accuses business partner of diverting more than $34 million - KSAT",
+      "link": "https://www.ksat.com/news/local/2025/12/15/lawsuit-spurs-icon-david-robinson-accuses-business-partner-of-diverting-more-than-34-million/"
+    },
+    {
+      "title": "After Further Review: Breaking Down QB Drake Maye, the Patriots Defense and Quick-Hit Film Notes From Sunday's Loss to the Bills - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/after-further-review-breaking-down-qb-drake-maye-the-patriots-defense-and-quick-hit-film-notes-from-sunday-s-loss-to-the-bills"
     },
     {
       "title": "Bills kicker Matt Prater ruled out for matchup at Browns, more team injury updates going into Week 16 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
@@ -138,40 +166,12 @@
       "link": "https://www.nhl.com/news/jarmo-kekalainen-hired-as-buffalo-sabres-gm-kevyn-adams-fired"
     },
     {
-      "title": "New Heat Rule effective from 2026 - ATP Tour",
-      "link": "https://www.atptour.com/en/news/new-heat-rule-effective-from-2026"
-    },
-    {
       "title": "Dak Prescott forthright about approach after loss to Vikings - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/dak-prescott-forthright-about-approach-after-loss-to-vikings"
     },
     {
       "title": "Time with Rangers \u2018will always be special\u2019 for Kreider, Trouba - NHL.com",
       "link": "https://www.nhl.com/news/time-with-new-york-rangers-will-always-be-special-for-chris-kreider-jacob-trouba"
-    },
-    {
-      "title": "Bucs Put Zyon McCollum on Injured Reserve Among Flurry of Week 16 Moves - Tampa Bay Buccaneers",
-      "link": "https://www.buccaneers.com/news/bucs-zyon-mccollum-injured-reserve-among-flurry-week-16-moves"
-    },
-    {
-      "title": "2025 GHSA Division 1 Flag Football Championship: Washington County vs. Harris County - Georgia Public Broadcasting",
-      "link": "https://www.gpb.org/events/sports/2025/12/15/2025-ghsa-division-1-flag-football-championship-washington-county-vs-0"
-    },
-    {
-      "title": "Brawl: Our Plans - Magic: The Gathering",
-      "link": "https://magic.wizards.com/en/news/mtg-arena/brawl-our-plans"
-    },
-    {
-      "title": "Panthers postseason scenario breakdown - Panthers.com",
-      "link": "https://www.panthers.com/news/panthers-postseason-scenario-breakdown-playoff-possibilities-tiebreakers"
-    },
-    {
-      "title": "Projected Lineup: Dec. 15 vs. Nashville - NHL.com",
-      "link": "https://www.nhl.com/blues/news/projected-lineup-dec-15-vs-nashville"
-    },
-    {
-      "title": "Best fits for transfer quarterback DJ Lagway: Five schools that make the most sense - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47313988/dj-lagway-transfer-portal-best-fits-former-florida-qb"
     }
   ],
   "weather": {
