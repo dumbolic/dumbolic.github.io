@@ -1,9 +1,9 @@
 {
-  "quote": "Don't live the same year 75 times and call it a life. \u2013 Robin Sharma",
-  "fact": "Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates",
-  "crypto": "BTC: $86,039 | ETH: $2,825.1",
+  "quote": "Our attitude toward life determines life's attitude towards us. \u2013 Earl Nightingale",
+  "fact": "In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.",
+  "crypto": "BTC: $85,900 | ETH: $2,821.59",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
+  "joke": "I couldn't get a reservation at the library. They were completely booked.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Goblins and Gifts Galore in Goblin Greedings \u2014 Diablo IV - Blizzard News",
-      "link": "https://news.blizzard.com/en-us/article/24243642/goblins-and-gifts-galore-in-goblin-greedings"
+      "title": "Space Force Uses Magic: The Gathering-Style Cards To Announce The War Names For Its Satellites - Yahoo",
+      "link": "https://www.jalopnik.com/2053881/space-force-magic-the-gathering-cards/"
+    },
+    {
+      "title": "Leaked debug kit suggests Apple is testing a new \u201ciMac Pro,\u201d among many other Macs - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/"
+    },
+    {
+      "title": "Google Labs testing \u2018CC\u2019 productivity AI agent that connects to Gmail & Drive, waitlist open - 9to5Google",
+      "link": "http://9to5google.com/2025/12/16/google-labs-cc/"
+    },
+    {
+      "title": "Meta\u2019s AI glasses can now help you hear conversations better - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/"
+    },
+    {
+      "title": "Enter the Mob Maze - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/mob-maze"
+    },
+    {
+      "title": "Sony\u2019s XM5 over-ear headphones are cheaper than ever \u2014 and they come with free wireless earbuds - The Verge",
+      "link": "https://www.theverge.com/gadgets/845527/sony-wh-1000xm5-wf-c700n-dualsense-deal-sale"
     },
     {
       "title": "Larian CEO Responds to Divinity Gen AI Backlash: 'We Are Neither Releasing a Game With Any AI Components, Nor Are We Looking at Trimming Down Teams to Replace Them With AI' - IGN",
       "link": "https://www.ign.com/articles/larian-ceo-responds-to-divinity-gen-ai-backlash-we-are-neither-releasing-a-game-with-any-ai-components-nor-are-we-looking-at-trimming-down-teams-to-replace-them-with-ai"
     },
     {
-      "title": "Warning: Apple\u2019s iOS 26.2 Update Is Quietly Altering A Key iPhone Feature - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2025/12/16/warning-apples-ios-262-update-is-quietly-changing-a-key-iphone-feature-for-some-users/"
+      "title": "Google updates AI Mode homepage with new model switcher, greeting - 9to5Google",
+      "link": "http://9to5google.com/2025/12/16/google-ai-mode-greeting/"
     },
     {
       "title": "Reporter suggests Half-Life 3 will be a Steam Machine launch title - Ars Technica",
       "link": "https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/"
     },
     {
+      "title": "The Best Nintendo Game of 2025 - IGN",
+      "link": "https://www.ign.com/articles/the-best-nintendo-game-of-2025"
+    },
+    {
       "title": "Bethesda Gives Us An Update On The Elder Scrolls VI Development - Game Informer",
       "link": "https://gameinformer.com/interview/2025/12/16/bethesda-gives-us-an-update-on-the-elder-scrolls-vi-development"
+    },
+    {
+      "title": "Game Informer Readers Top 50 Games Of 2025 - Game Informer",
+      "link": "https://gameinformer.com/best-of-2025/2025/12/16/game-informer-readers-top-50-games-of-2025"
+    },
+    {
+      "title": "Cover Reveal \u2013 World of Warcraft: Midnight - Game Informer",
+      "link": "https://gameinformer.com/cover/2025/12/16/cover-reveal-world-of-warcraft-midnight"
+    },
+    {
+      "title": "The Best Xbox-Exclusive Games Of 2025 - GameSpot",
+      "link": "https://www.gamespot.com/gallery/the-best-xbox-exclusive-games-of-2025/2900-7325/"
+    },
+    {
+      "title": "Preorder the Upcoming Book, Pok\u00e9cology: An Illustrated Guide to Pok\u00e9mon Ecology - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/preorder-the-upcoming-book-pokecology-an-illustrated-guide-to-pokemon-ecology"
     },
     {
       "title": "Inside Apple\u2019s iPhone Road Map, From Foldable Screens to Curved Glass Cases - The Information",
@@ -40,70 +80,58 @@
       "link": "https://www.bikeradar.com/news/shimano-new-grx-rx717"
     },
     {
-      "title": "Audi\u2019s Inline-Five Engine Is 50 Years Old And Still Weird - The Autopian",
-      "link": "https://www.theautopian.com/audis-inline-five-engine-is-50-years-old-and-still-weird/"
-    },
-    {
-      "title": "Apple Developing iMac Pro With M5 Max Chip - MacRumors",
-      "link": "https://www.macrumors.com/2025/12/16/apple-developing-imac-with-m5-max/"
+      "title": "Divinity will be a turn-based RPG and see Larian \"unleashed\", declares CEO Swen Vincke, replacing the D&D system with one \"made for a video game\" - Eurogamer",
+      "link": "https://www.eurogamer.net/divinity-will-be-a-turn-based-rpg-and-see-larian-unleashed-declares-ceo-swen-vincke-replacing-the-dd-system-with-one-made-for-a-video-game"
     },
     {
       "title": "12 Common Windows Apps You Should Uninstall Immediately, According To Experts - bgr.com",
       "link": "https://www.bgr.com/2050297/common-windows-apps-should-uninstall-according-experts/"
     },
     {
-      "title": "Amazon\u2019s Kindle Scribe Colorsoft won\u2019t replace your notebook \u2014 or your Kindle - The Verge",
-      "link": "https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet"
-    },
-    {
-      "title": "Ahead of Fallout Season 2, Samsung Exec Understands Where Stranger Things Creator's Hate for 'Garbage' TV Settings Comes From \u2014 Meanwhile Todd Howard Wants to Know 'Backlight 20 or 11?' - IGN",
-      "link": "https://www.ign.com/articles/ahead-of-fallout-season-2-samsung-exec-understands-where-stranger-things-creators-hate-for-garbage-tv-settings-comes-from-meanwhile-todd-howard-wants-to-know-backlight-20-or-11"
-    },
-    {
-      "title": "The hidden Android Auto feature that transformed my driving experience - Android Police",
-      "link": "https://www.androidpolice.com/the-android-auto-move-that-cut-through-my-usual-driving-chaos/"
-    },
-    {
-      "title": "The God Rolls Of All Destiny 2\u2019s New 2025 Dawning Weapons - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/12/16/the-god-rolls-of-all-destiny-2s-new-2025-dawning-weapons/"
-    },
-    {
-      "title": "\u2018Baldur\u2019s Gate 3\u2019 Maker Promises \u2018Divinity\u2019 Will Be \u2018Next Level\u2019 - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2025-12-16/-baldur-s-gate-3-maker-promises-divinity-will-be-next-level"
-    },
-    {
-      "title": "Adobe Firefly now supports prompt-based video editing, adds more third-party models - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/"
-    },
-    {
-      "title": "I\u2019ve been waiting years for Animal Crossing\u2019s best new features - The Verge",
-      "link": "https://www.theverge.com/games/845242/animal-crossing-new-horizons-3-0-update-switch-2-edition-features"
-    },
-    {
-      "title": "17 Firefox extensions promise free VPN, weather, translation tools, but hide malware in their icons - cybernews.com",
-      "link": "https://cybernews.com/security/firefox-extensions-hide-malware-in-icons-infect-thousands/"
-    },
-    {
-      "title": "After Decades, Linux Finally Gains Stable GPIB Support - Hackaday",
-      "link": "https://hackaday.com/2025/12/16/after-decades-linux-finally-gains-stable-gpib-support/"
-    },
-    {
-      "title": "Google May Reveal the Successor to the Chromebook in 2026 - WIRED",
-      "link": "https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/"
+      "title": "The smartphone market is expected to shrink in 2026 due to rising chip, memory costs - 9to5Google",
+      "link": "http://9to5google.com/2025/12/16/smartphone-market-expectations-decline-2026/"
     }
   ],
   "sports_news": [
     {
-      "title": "Nuggets 128-125 Rockets (Dec 15, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401836806"
+      "title": "NHL Status Report: Woll to return for Maple Leafs against Blackhawks - NHL.com",
+      "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-december-16-2025"
+    },
+    {
+      "title": "Skinner happy he can start Penguins career against Oilers, former teammates - NHL.com",
+      "link": "https://www.nhl.com/news/stuart-skinner-happy-he-can-start-pittsburgh-penguins-career-against-edmonton-oilers"
     },
     {
       "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
       "link": "https://www.ncaa.com/news/football/article/2025-12-16/2025-26-college-football-bowl-game-schedule-scores-tv-channels-times"
     },
     {
+      "title": "Alcaraz's daring comeback vs. Fils in Monte-Carlo voted ATP Tour's Match of the Year - ATP Tour",
+      "link": "https://www.atptour.com/en/news/alcaraz-fils-atp-tour-match-of-the-year-2025"
+    },
+    {
       "title": "Who will be the No. 1 prospect in each system one year from now? - MLB.com",
       "link": "https://www.mlb.com/news/predicting-each-team-s-no-1-prospect-at-end-of-2026"
+    },
+    {
+      "title": "Jerry Jones is \"sad\" for Micah Parsons - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-is-sad-for-micah-parsons"
+    },
+    {
+      "title": "Nine teams can clinch playoff spots in Week 16 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nine-teams-can-clinch-playoff-spots-in-week-16"
+    },
+    {
+      "title": "Introducing War Eagle Mobile, the Only Phone Plan Built for the Auburn Family - Auburn Tigers",
+      "link": "https://auburntigers.com/news/2025/12/16/introducing-war-eagle-mobile-the-only-phone-plan-built-for-the-auburn-family"
+    },
+    {
+      "title": "Wyatt Hendrickson welcomes matches against Brock Lesnar, UFC fighters but warns them \u2018someone is going to get hurt\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/461193/wyatt-hendrickson-welcomes-matches-against-brock-lesnar-ufc-fighters-but-warns-them-someone-is-going-to-get-hurt"
+    },
+    {
+      "title": "Wrexham FC academy player hopes to be 'Pakistani Haaland' - BBC",
+      "link": "https://www.bbc.com/news/articles/cn7k15np323o"
     },
     {
       "title": "Path to the Playoffs: Packers have a clinching scenario in Week 16 - Green Bay Packers \u2013 packers.com",
@@ -114,6 +142,10 @@
       "link": "https://www.baltimoreravens.com/news/ravens-playoff-scenarios-steelers-week-16-patriots"
     },
     {
+      "title": "Recruiting Roundup: Sherrone Moore saga massively affecting Michigan Football recruiting - Maize n Brew",
+      "link": "https://www.maizenbrew.com/michigan-football-recruiting/101190/sherrone-moore-michigan-football-recruiting-bear-mcwhorter-matt-ludwig-rashad-streets-ndi-etta"
+    },
+    {
       "title": "NHL On Tap: Crosby can pass Lemieux for Penguins' points record against McDavid, Oilers - NHL.com",
       "link": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-december-16-2025"
     },
@@ -122,56 +154,24 @@
       "link": "https://www.si.com/nfl/bengals/onsi/news/bengals-insider-drops-bombshell-that-changes-zac-taylor-future-in-cincinnati-01kckrqxg6xs"
     },
     {
-      "title": "Inbox: Micah Parsons is here for the long haul, and he will rise again - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/inbox-micah-parsons-is-here-for-the-long-haul-and-he-will-rise-again-dec-16-2025"
+      "title": "NFL Power Rankings, Week 16: Broncos, Jaguars climb; Packers head in wrong direction - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-power-rankings-week-16-2025-nfl-season"
     },
     {
-      "title": "PFT\u2019s Week 16 2025 NFL power rankings: Broncos on top - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-16-2025-nfl-power-rankings-broncos-on-top"
+      "title": "O-Zone: So not down - Jaguars.com",
+      "link": "https://www.jaguars.com/news/o-zone-so-not-down"
     },
     {
-      "title": "Starting 5: Emirates NBA Cup Championship night is here - NBA",
-      "link": "https://www.nba.com/news/starting-5-dec-16-2025"
+      "title": "NFL mock draft 2026: 3 QBs go in updated first-round projection, including No. 1 overall - SB Nation",
+      "link": "https://www.sbnation.com/nfl/1095391/nfl-mock-draft-2026-jets-trade-fernando-mendoza-first-player-taken"
+    },
+    {
+      "title": "A Journey of Constant Change - Kansas State University Athletics",
+      "link": "https://www.kstatesports.com/news/2025/12/16/sports-extra-a-journey-of-constant-change"
     },
     {
       "title": "Green becomes most expensive overseas IPL player - BBC",
       "link": "https://www.bbc.com/sport/cricket/articles/c997j2y2ey0o"
-    },
-    {
-      "title": "Labriola on the win over the Dolphins - Steelers.com",
-      "link": "https://www.steelers.com/news/labriola-on-the-win-over-the-dolphins-x6252"
-    },
-    {
-      "title": "Arch Manning will return to Texas for the 2026 season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-will-return-to-texas-for-the-2026-season"
-    },
-    {
-      "title": "Todd Bowles: Baker Mayfield Took Right Postgame Approach - Tampa Bay Buccaneers",
-      "link": "https://www.buccaneers.com/news/todd-bowles-baker-mayfield-took-right-postgame-approach"
-    },
-    {
-      "title": "Report: Patrick Mahomes tore LCL, too - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patrick-mahomes-tore-lcl-too"
-    },
-    {
-      "title": "Washington holds on to win OT thriller 3-2 against NC State in College Cup Final - NCAA.com",
-      "link": "https://www.ncaa.com/live-updates/soccer-men/d1/washington-holds-win-ot-thriller-3-2-against-nc-state-college-cup-final"
-    },
-    {
-      "title": "5 things that stood out to Bears coach Ben Johnson in Week 15 win - Chicago Bears Official Website",
-      "link": "https://www.chicagobears.com/news/5-things-that-stood-out-to-bears-coach-ben-johnson-in-week-15-win"
-    },
-    {
-      "title": "2025 playoffs: Eagles' magic number to clinch second straight NFC East title - 6abc Philadelphia",
-      "link": "https://6abc.com/post/2025-playoffs-eagles-are-win-away-second-straight-nfc-east-title/18290429/"
-    },
-    {
-      "title": "Pearsall Injury Update, Purdy Highlights; Shanahan Shares Key Takeaways Following Win vs. Titans - 49ers.com",
-      "link": "https://www.49ers.com/news/pearsall-injury-update-purdy-highlights-shanahan-shares-key-takeaways-following-win-vs-titans"
-    },
-    {
-      "title": "Why Brian Eayrs Got A Game Ball, Injury Updates, & Other Takeaways From Mike Macdonald's Monday Press Conference - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/why-brian-eayrs-got-a-game-ball-injury-updates-other-takeaways-from-mike-macdonald-s-monday-press-conference"
     }
   ],
   "weather": {
