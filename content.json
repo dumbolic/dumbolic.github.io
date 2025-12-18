@@ -1,9 +1,9 @@
 {
-  "quote": "Don't worry about being successful, but work toward being significant and the success will naturally follow. \u2013 Oprah Winfrey",
-  "fact": "Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.",
-  "crypto": "BTC: $87,305 | ETH: $2,858.37",
+  "quote": "Life is a succession of lessons, which must be lived to be understood. \u2013 Ralph Waldo Emerson",
+  "fact": "The toothbrush was invented in China in 1498.",
+  "crypto": "BTC: $87,089 | ETH: $2,850.92",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why are skeletons so calm? Because nothing gets under their skin.",
+  "joke": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Product of the Year Nominees - Pinkbike",
+      "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-product-of-the-year-nominees.html"
+    },
+    {
       "title": "Steam Replay 2025 shows that only 14% of all user playtime was spent playing new PC games - TweakTown",
       "link": "https://www.tweaktown.com/news/109388/steam-replay-2025-shows-that-only-14-percent-of-all-user-playtime-was-spent-playing-new-pc-games/index.html"
     },
     {
+      "title": "Google swaps Pixel Launcher search for something worse - Android Police",
+      "link": "https://www.androidpolice.com/google-swaps-pixel-launcher-search-for-something-worse/"
+    },
+    {
       "title": "Arcade1Up isn\u2019t dead, maybe - The Verge",
       "link": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade"
+    },
+    {
+      "title": "Apple's 2026 and 2027 Product Roadmap: Foldable iPhone, iPhone 18 Pro, M5 Macs, and More - MacRumors",
+      "link": "https://www.macrumors.com/2025/12/16/apple-product-roadmap-2026/"
+    },
+    {
+      "title": "Where To Find Candleberries In \u2018Arc Raiders\u2019 During The Cold Snap Event And What They\u2019re Used For - Forbes",
+      "link": "https://www.forbes.com/sites/erikkain/2025/12/16/arc-raiders-cold-snap-candleberries-guide/"
     },
     {
       "title": "Alexa Plus\u2019 website is live for some users - The Verge",
@@ -74,22 +90,6 @@
     {
       "title": "Space Force Uses Magic: The Gathering-Style Cards To Announce The War Names For Its Satellites - Jalopnik",
       "link": "https://www.jalopnik.com/2053881/space-force-magic-the-gathering-cards/"
-    },
-    {
-      "title": "10 Best 3D Printing Projects For Beginners - bgr.com",
-      "link": "https://www.bgr.com/2047074/best-3d-printing-projects-beginners/"
-    },
-    {
-      "title": "Google Labs testing \u2018CC\u2019 productivity AI agent that connects to Gmail & Drive, waitlist open - 9to5Google",
-      "link": "http://9to5google.com/2025/12/16/google-labs-cc/"
-    },
-    {
-      "title": "Meta\u2019s AI glasses can now help you hear conversations better - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/"
-    },
-    {
-      "title": "Enter the Mob Maze - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/mob-maze"
     }
   ],
   "sports_news": [
@@ -106,6 +106,10 @@
       "link": "https://www.nba.com/news/adam-silver-expansion-cup"
     },
     {
+      "title": "British prime minister pressures FIFA to cut World Cup ticket prices - Politico",
+      "link": "https://www.politico.com/news/2025/12/16/british-prime-minister-pressures-fifa-to-cut-world-cup-ticket-prices-00694582"
+    },
+    {
       "title": "Draisaitl becomes first German player to reach 1,000 NHL points - NHL.com",
       "link": "https://www.nhl.com/news/edmonton-oilers-leon-draisaitl-1000-points-milestone"
     },
@@ -114,36 +118,48 @@
       "link": "https://goheels.com/news/2025/12/16/mens-basketball-lucas-etsu-rapid-reactions"
     },
     {
+      "title": "Louisville Cardinals vs. Tennessee Volunteers Live Score and Stats - December 16, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20251216_LVILLE@TENN/"
+    },
+    {
       "title": "Jim Harbaugh discusses texts to Sherrone Moore after firing, Michigan coaching search - On3",
       "link": "https://www.on3.com/teams/michigan-wolverines/news/michigan-wolverines-football-jim-harbaugh-on-texts-with-sherrone-moore/"
     },
     {
-      "title": "Louisville without star Brown (lower back) vs. Vols - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/47329022/louisville-men-basketball-mikel-brown-jr-vs-tennessee-lower-back-injury"
+      "title": "Saquon Barkley, Lane Johnson sidelined on Tuesday | Eagles at Commanders Injury Report - Philadelphia Eagles",
+      "link": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-nfl-week-16-2025-lane-johnson-jayden-daniels"
+    },
+    {
+      "title": "Florida State's 2026 ACC football opponents officially announced on Tuesday, as ACC announces format changes - 247Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUTREYkdaMzMxNzdDZU5uNUN2ckdMNDA4bmUtNWxtZHFmYnJOcTVDUkYyb2FjYUVXWFVKN3JmT241LUxTVHFFdTZETTBFMFZ2MGM1RE13Z2FkWFFiTUF0M2czaWIzZk40Qk8xelJtbTZFT1ZRRjdVZDFtNTNaSGhmUEtSZG9qQlR4b0czbDdSZmJCR2p5b1ludEdoWG1oMmprZ1dyQXRzOWItcm83T1BKcjJ0bklIV0xuQkZieV9XS2VOMU9uNDlXa09TWllOS1JvOENj?oc=5"
     },
     {
       "title": "Guadalajara 0-2 Barcelona (Dec 16, 2025) Game Analysis - ESPN",
       "link": "https://www.espn.com/soccer/report/_/gameId/762534"
     },
     {
+      "title": "The 49ers don't seem thrilled to face Philip Rivers - Sports Illustrated",
+      "link": "https://www.si.com/nfl/49ers/onsi/news/the-49ers-dont-seem-thrilled-face-philip-rivers"
+    },
+    {
       "title": "Bills sign kicker Michael Badgley to the practice squad - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
       "link": "https://www.buffalobills.com/news/bills-sign-kicker-michael-badgley-to-the-practice-squad"
     },
     {
-      "title": "After outcry over prices, FIFA to sell $60 tickets for the World Cup \u2014 with a catch - NPR",
-      "link": "https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices"
+      "title": "Shakur Stevenson admits sparring Jake Paul was eye-opening: He's 'better than people would even understand' - Yahoo Sports",
+      "link": "https://sports.yahoo.com/boxing/article/shakur-stevenson-admits-sparring-jake-paul-was-eye-opening-hes-better-than-people-would-even-understand-anthony-joshua-221751447.html"
     },
     {
       "title": "Chicago Bears up-to-date playoff scenarios - Chicago Bears Official Website",
       "link": "https://www.chicagobears.com/news/chicago-bears-playoff-scenarios-2025-packers-wild-card-nfc-north-division-lions"
     },
     {
-      "title": "No. 5 Oregon vs. No. 12 James Madison: Time, TV channel, preview for the College Football Playoff - NCAA.com",
-      "link": "https://www.ncaa.com/live-updates/football/fbs/oregon-vs-james-madison-time-tv-channel-preview-college-football-playoff"
-    },
-    {
       "title": "Kekalainen wants \u2018to build a championship team\u2019 as Sabres GM - NHL.com",
       "link": "https://www.nhl.com/news/jarmo-kekalainen-wants-to-build-a-championship-team-as-buffalo-sabres-gm"
+    },
+    {
+      "title": "Cardiff 1-3 Chelsea (Dec 16, 2025) Game Analysis - ESPN",
+      "link": "https://www.espn.com/soccer/report/_/gameId/760342"
     },
     {
       "title": "How the Buffalo Bills can clinch a playoff berth in Week 16 | 2025 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
@@ -156,22 +172,6 @@
     {
       "title": "Tien returns, Jodar debuts as Day 1 in Jeddah begins - ATP Tour",
       "link": "https://www.atptour.com/en/news/jeddah-2025-day-1-preview"
-    },
-    {
-      "title": "Big Picture: 10 Cowboys-Chargers Storylines - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/big-picture-10-cowboys-chargers-storylines"
-    },
-    {
-      "title": "Packers not ruling out Christian Watson, Zach Tom, Evan Williams for Bears game - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-not-ruling-out-christian-watson-zach-tom-evan-williams-for-bears-game-dec-16-2025"
-    },
-    {
-      "title": "ACC Announces 2026 League Opponents as Move to Nine-Game Conference Schedule Begins - Atlantic Coast Conference",
-      "link": "https://theacc.com/news/2025/12/16/football-acc-announces-2026-league-opponents-as-move-to-nine-game-conference-schedule-begins.aspx"
-    },
-    {
-      "title": "No. 6 Ole Miss vs. No. 11 Tulane: Time, TV channel, preview for the College Football Playoff - NCAA.com",
-      "link": "https://www.ncaa.com/live-updates/football/fbs/ole-miss-vs-tulane-time-tv-channel-preview-college-football-playoff"
     }
   ],
   "weather": {
