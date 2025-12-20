@@ -1,9 +1,9 @@
 {
-  "quote": "When we strive to become better than we are, everything around us becomes better, too. \u2013 Paulo Coelho",
-  "fact": "Russians generally answer the phone by saying, \"I'm listening\".",
-  "crypto": "BTC: $88,223 | ETH: $2,980.75",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "How does a French skeleton say hello? Bone-jour.",
+  "quote": "No duty is more urgent than that of returning thanks. \u2013 James Allen",
+  "fact": "The airplane Buddy Holly died in was the \"American Pie.\" (Thus the name of the Don McLean song.)",
+  "crypto": "BTC: $88,273 | ETH: $2,982.39",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "A Sandwich walks into a bar, the bartender says \u201cSorry, we don\u2019t serve food here\u201d",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Gemini will replace Google Assistant on Android in 2026 - 9to5Google",
+      "link": "http://9to5google.com/2025/12/19/google-assistant-gemini-2026/"
+    },
+    {
+      "title": "Strava puts popular \u201cYear in Sport\u201d recap behind an $80 paywall - Ars Technica",
+      "link": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/"
+    },
+    {
+      "title": "We asked four AI coding agents to rebuild Minesweeper \u2014the results were explosive - Ars Technica",
+      "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/"
+    },
+    {
+      "title": "ChatGPT launches Apps beta: 8 big apps you can try right away - Mashable",
+      "link": "https://mashable.com/article/chatgpt-apps-beta-apps-to-try"
+    },
+    {
+      "title": "Free goodies for the 12 Days of Mercenary Day! - Borderlands | Official Website",
+      "link": "https://borderlands.2k.com/borderlands-4/news/12-days-of-mercenary-day/"
+    },
+    {
       "title": "Mountain Bike of the Year Nominees - Pinkbike",
       "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-nominees.html"
     },
     {
-      "title": "Netflix acquires gaming avatar maker Ready Player Me - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/"
-    },
-    {
       "title": "Blizzard President Talks Culture, Bonuses and Releasing More Games - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/newsletters/2025-12-19/blizzard-president-johanna-faries-on-culture-bonuses-and-releasing-more-games"
+    },
+    {
+      "title": "YouTube Shorts is testing a new location and fresh phrasing for its Dislike button - 9to5Google",
+      "link": "http://9to5google.com/2025/12/19/youtube-shorts-testing-new-location-fresh-phrasing-dislike-button/"
     },
     {
       "title": "Who owns Trump Mobile? - The Verge",
@@ -32,12 +52,16 @@
       "link": "https://magic.wizards.com/en/news/announcements/where-to-find-lorwyn-eclipsed-previews"
     },
     {
+      "title": "Please stop using Cat5 cables (do this instead) - How-To Geek",
+      "link": "https://www.howtogeek.com/are-you-using-the-wrong-ethernet-cable-heres-how-to-tell/"
+    },
+    {
       "title": "UGreen\u2019s Qi2 25W wireless charger is a perfectly portable Pixel 10 travel dock [Gallery] - 9to5Google",
       "link": "http://9to5google.com/2025/12/19/ugreen-qi2-25w-charger-google-pixel-10-review/"
     },
     {
-      "title": "\u2018Cyberpunk 2077\u2019 Walked A Long Road To Redemption - Defector",
-      "link": "https://defector.com/cyberpunk-2077-walked-a-long-road-to-redemption"
+      "title": "How to Get Lean - GQ",
+      "link": "https://www.gq.com/story/how-to-get-lean"
     },
     {
       "title": "Apple might be requiring iPhone users to install iOS 26 for security fixes - 9to5Mac",
@@ -48,54 +72,42 @@
       "link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion"
     },
     {
-      "title": "New on Java Realms: Celebrate Java Realms Day, C\u2019mon! - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/new-on-java-realms-december-20250"
+      "title": "Intriguing Free PS5, PS4 Games Stealth Dropped on PS Store - PlayStation LifeStyle",
+      "link": "https://www.playstationlifestyle.net/2025/12/19/free-ps5-ps4-games-lokko-cup-heroes-ps-store/"
     },
     {
-      "title": "Disney Inches Closer to 3D-Printed Attractions With a Jungle Cruise Polymer Prop Canoe - CNET",
-      "link": "https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/"
+      "title": "New on Java Realms: Celebrate Java Realms Day, C\u2019mon! - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/new-on-java-realms-december-20250"
     },
     {
       "title": "Semi-solid state MagSafe power banks arrive from the founder of Hyper - The Verge",
       "link": "https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks"
     },
     {
-      "title": "How to Quickly Find Out What's Streaming on Multiple Services at Once - WIRED",
-      "link": "https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/"
-    },
-    {
-      "title": "Sony and Honda's new vehicle will let passengers play PS5 games, but there's a catch - Eurogamer",
-      "link": "https://www.eurogamer.net/sony-and-hondas-new-vehicle-will-let-passengers-play-ps5-games-but-theres-a-catch"
-    },
-    {
-      "title": "Ubuntu 26.04 LTS Plans Confirmed For Linux 6.20 / Linux 7.0 - Phoronix",
-      "link": "https://www.phoronix.com/news/Ubuntu-26.04-Kernel-Plans"
-    },
-    {
-      "title": "Riot Games announces new roadmap for League of Legends - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/riot-games-announces-new-roadmap-for-league-of-legends"
-    },
-    {
-      "title": "\"A lot of things have become lost in translation,\" Larian boss Swen Vincke says following generative AI backlash - promises a Divinity AMA in the new year \"to give you more insight\" - Eurogamer",
-      "link": "https://www.eurogamer.net/lost-in-translation-larian-boss-swen-vincke-generative-ai-backlash-divinity-ama"
-    },
-    {
-      "title": "This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson - WIRED",
-      "link": "https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/"
-    },
-    {
-      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards - The Hacker News",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html"
-    },
-    {
-      "title": "Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/"
+      "title": "Don't waste your RAM in Windows 11! - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/ram-is-getting-expensive-heres-how-to-make-windows-11-use-less-of-it"
     }
   ],
   "sports_news": [
     {
-      "title": "Tkachuk 'on track' to return to Panthers lineups, Maurice said - NHL.com",
-      "link": "https://www.nhl.com/news/matthew-tkachuk-on-track-to-join-florida-paul-maurice-says"
+      "title": "Final Vikings vs. Giants Injury Report for Week 15 - Vikings.com",
+      "link": "https://www.vikings.com/news/new-york-giants-injury-report-week-16"
+    },
+    {
+      "title": "Seahawks Show \u2018We're A Very Resilient, Relentless Group\u2019 In Comeback Win Over Rams - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-show-we-re-a-very-resilient-relentless-group-in-comeback-win-over-rams"
+    },
+    {
+      "title": "Angels, Skaggs family settle while case with jury - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/47359175/angels-skaggs-family-reach-last-minute-settlement"
+    },
+    {
+      "title": "11 times Formula 1 drivers took another driver\u2019s car number - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/11-times-formula-1-drivers-took-another-drivers-car-number.379iPISGJTlWExVciRPnnW"
+    },
+    {
+      "title": "Chidobe Awuzie Returns to Ravens Practice - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/injury-report-ravens-patriots-chidobe-awuzie-whos-playing-whos-not-2025"
     },
     {
       "title": "Ex-NBA ref Lewis reinstated as G League official - ESPN",
@@ -110,24 +122,36 @@
       "link": "https://www.mlb.com/news/shohei-ohtani-topps-gold-logoman-card-sets-record-at-auction"
     },
     {
-      "title": "5 Winners and 5 Losers from the 2025 season - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-2025-who-basked-in-glory-and-who-had-a-season-to.5g8JMKSC3jaThkZCf6ikCl"
+      "title": "Seguin has ACL surgery, status for Stars to be determined after Olympic break - NHL.com",
+      "link": "https://www.nhl.com/news/dallas-stars-tyler-seguin-injury-status-update-acl-surgery"
     },
     {
       "title": "Canes' Allen out for season after cancer diagnosis - ESPN",
       "link": "https://www.espn.com/mens-college-basketball/story/_/id/47357859/miami-f-marcus-allen-non-hodgkin-lymphoma-season"
     },
     {
+      "title": "Pundit Picks: Patriots Favored to Beat Ravens on 'Sunday Night Football' - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/pundit-picks-patriots-favored-to-beat-ravens-on-sunday-night-football"
+    },
+    {
+      "title": "A View from Mayobridge: New Orleans Saints kicker Charlie Smyth through his country's eyes - New Orleans Saints | NewOrleansSaints.com",
+      "link": "https://www.neworleanssaints.com/news/charlie-smyth-kicker-new-orleans-saints-mayobridge-northern-ireland-nfl-international-pathway"
+    },
+    {
+      "title": "NHL On Tap: Calder candidates collide when Buium, Canucks, face Schaefer, Islanders - NHL.com",
+      "link": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-december-19-2025"
+    },
+    {
       "title": "Starting 5: Recapping a busy Thursday night - NBA",
       "link": "https://www.nba.com/news/starting-5-dec-19-2025"
     },
     {
-      "title": "Expert Predictions: Week 16 Picks for Patriots at Ravens - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/expert-predictions-week-16-picks-for-patriots-at-ravens"
-    },
-    {
       "title": "2025 NCAA women's volleyball tournament: Bracket, schedule, scores - NCAA.com",
       "link": "https://www.ncaa.com/news/volleyball-women/article/2025-12-18/2025-ncaa-womens-volleyball-tournament-bracket-schedule-scores"
+    },
+    {
+      "title": "Greg Biffle's wife texted mom 'We're in trouble' moments before plane crash - 13wham.com",
+      "link": "https://foxbaltimore.com/news/nation-world/greg-biffles-wife-texted-mom-were-in-trouble-moments-before-plane-crash-statesville-north-carolina-faa-ntsb-investigation"
     },
     {
       "title": "Kia MVP Ladder: Jalen Brunson's run in Emirates NBA Cup gives him a boost - NBA",
@@ -138,40 +162,12 @@
       "link": "https://www.jaguars.com/news/o-zone-local-irritation"
     },
     {
-      "title": "What to watch for in this weekend's College Football Playoff first round - NPR",
-      "link": "https://www.npr.org/2025/12/19/nx-s1-5644999/college-football-playoff-cfp-alabama-oklahoma"
+      "title": "Puka Nacua Goes From Lovable Overachiever To Online Villian Bent On Destroying NFL Officials - OutKick",
+      "link": "https://www.outkick.com/sports/puka-nacua-goes-from-lovable-overachiever-online-villian-bent-destroying-nfl-officials"
     },
     {
-      "title": "Rashid Shaheed \u2018Gave Us Some Life\u2019 In Seahawks 38-37 Overtime Comeback Win - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/rashid-shaheed-gave-us-some-life-in-seahawks-38-37-overtime-comeback-win"
-    },
-    {
-      "title": "Doncic carries Lakers with 45-point triple-double - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/47354767/doncic-carries-lakers-pokes-holes-45-point-triple-double"
-    },
-    {
-      "title": "Sam Darnold exorcises Rams demons, leads Seahawks to improbable 38-37 overtime win - NFL.com",
-      "link": "https://www.nfl.com/news/sam-darnold-exorcises-rams-demons-leads-seahawks-to-improbable-38-37-overtime-win"
-    },
-    {
-      "title": "Injury Updates From The Seahawks\u2019 Week 16 Win Over The Rams - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/injury-updates-from-the-seahawks-week-16-win-over-the-rams"
-    },
-    {
-      "title": "Sean McVay addresses Puka Nacua\u2019s apology for antisemitic gesture - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-addresses-puka-nacuas-apology-for-antisemitic-gesture"
-    },
-    {
-      "title": "Hudson\u2019s 29 Kills Sends Kentucky into Sunday\u2019s National Title Game - UK Athletics",
-      "link": "https://ukathletics.com/news/2025/12/19/hudsons-29-kills-sends-kentucky-into-sundays-national-title-game/"
-    },
-    {
-      "title": "Pool Report on the Ejection of Ausar Thompson and Technical Foul Assessed to J.B. Bickerstaff in the Second Quarter in Tonight\u2019s Detroit at Dallas Game - official NBA",
-      "link": "https://official.nba.com/pool-report-on-the-ejection-of-ausar-thompson-and-technical-foul-assessed-to-j-b-bickerstaff-in-the-second-quarter-in-tonights-detroit-at-dallas-game/"
-    },
-    {
-      "title": "2025 NFL Playoff Picture, Bracket, Schedule Heading into Week 16 - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/2025-nfl-playoff-picture-bracket-schedule-ahead-week-16"
+      "title": "Formula 1\u2019s record-breaking 2025 season in numbers - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/formula-1s-record-breaking-2025-season-in-numbers.irq7aR8PcyAw7ysO72vJn"
     }
   ],
   "weather": {
