@@ -1,9 +1,9 @@
 {
-  "quote": "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. \u2013 John Tukey",
-  "fact": "Most household dust is made of dead skin cells.",
-  "crypto": "BTC: $87,448 | ETH: $2,957.49",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "This morning I was wondering where the sun was, but then it dawned on me.",
+  "quote": "Nothing like a health problem to turn up the contrast dial for the rest of life. \u2013 Naval Ravikant",
+  "fact": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
+  "crypto": "BTC: $87,210 | ETH: $2,955.71",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How do you make a hankie dance? Put a little boogie in it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot - The Verge",
+      "link": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
+    },
+    {
       "title": "Proposed Magnetic Cloak Could Make Sensitive Tech Practically Invisible - Gizmodo",
       "link": "https://gizmodo.com/proposed-magnetic-cloak-could-make-sensitive-tech-practically-invisible-2000702571"
+    },
+    {
+      "title": "Steam user asks devs to fix game, gets blasted for pirating it - Polygon",
+      "link": "https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/"
     },
     {
       "title": "Find Hub app rolling out map layers support on Android - 9to5Google",
       "link": "http://9to5google.com/2025/12/22/find-hub-map-layers/"
     },
     {
-      "title": "ChatGPT launches a year-end review like Spotify Wrapped - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/"
-    },
-    {
-      "title": "Indie Game Awards retracts Expedition 33 prizes due to generative AI - The Verge",
-      "link": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
+      "title": "Persona 3 Reload for Nintendo Switch 2 Performance Update Released - Persona Central",
+      "link": "https://personacentral.com/p3r-switch-update/"
     },
     {
       "title": "Gemini for Home camera updates improve Familiar Face, animal detection, more - 9to5Google",
       "link": "http://9to5google.com/2025/12/22/gemini-home-familiar-face-updates/"
+    },
+    {
+      "title": "Anything-goes 'anyons' may be at the root of surprising quantum experiments - Phys.org",
+      "link": "https://phys.org/news/2025-12-anyons-root-quantum.html"
     },
     {
       "title": "Apple will launch 20+ new products next year, here\u2019s what\u2019s coming - 9to5Mac",
@@ -38,10 +46,6 @@
     {
       "title": "Lua 5.5 Released With Declarations For Global Variables, Garbage Collection Improvements - Phoronix",
       "link": "https://www.phoronix.com/news/Lua-5.5-Released"
-    },
-    {
-      "title": "Android Attacks\u2014Google Confirms No Fix For 30% Of All Phones - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2025/12/22/android-attacks-google-confirms-no-fix-for-30-of-all-phones/"
     },
     {
       "title": "Nintendo News: Spread Nintendo Cheer with the Hits for the Holidays Sale! - Business Wire",
@@ -58,6 +62,10 @@
     {
       "title": "Splat\u2019s app uses AI to turn your photos into coloring pages for kids - TechCrunch",
       "link": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/"
+    },
+    {
+      "title": "Deals: Pixel 10 from $449 all-time low, Pixel 10 Pro/XL $400 off, Pixel Watch 4 $150 off, more - 9to5Google",
+      "link": "http://9to5google.com/2025/12/22/deals-pixel-10-10-pro-xl-watch-4/"
     },
     {
       "title": "Cronos: The New Dawn Is Getting An Easy Difficulty Setting In Early 2026 - Nintendo Life",
@@ -78,44 +86,40 @@
     {
       "title": "Linux 6.19's Significant ~30% Performance Boost For Old AMD Radeon GPUs - Phoronix",
       "link": "https://www.phoronix.com/review/linux-619-amdgpu-radeon"
-    },
-    {
-      "title": "Google Pixel 10 series starts at $450 in crazy last-minute Amazon deal - 9to5Google",
-      "link": "http://9to5google.com/2025/12/22/pixel-10-amazon-last-minute-deal/"
     }
   ],
   "sports_news": [
     {
+      "title": "Chiefs moving to Kansas with $3.3 billion plan for domed stadium, training facility - Kansas Reflector",
+      "link": "https://kansasreflector.com/2025/12/22/chiefs-moving-to-kansas-with-3-3-billion-plan-for-domed-stadium-training-facility-1/"
+    },
+    {
+      "title": "Initial Vikings vs. Lions Injury Report for Week 17 - Vikings.com",
+      "link": "https://www.vikings.com/news/lions-injury-report-week-17-christmas-day-netflix"
+    },
+    {
+      "title": "LIV's Pereira, who fumbled '22 PGA lead, retires - ESPN",
+      "link": "https://www.espn.com/golf/story/_/id/47392668/mito-pereira-retiring-pro-golf-3-seasons-liv"
+    },
+    {
+      "title": "News & Notes: John Harbaugh's Regret on Derrick Henry's Fourth-Quarter Absence - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/derrick-henry-john-harbaugh-ravens-patriots-regret-fourth-quarter-news-notes"
+    },
+    {
       "title": "Packers place TE John FitzPatrick on injured reserve - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/packers-place-te-john-fitzpatrick-on-injured-reserve-dec-22-2025"
+    },
+    {
+      "title": "Athletics Acquire Jeff McNeil - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2025/12/athletics-to-acquire-jeff-mcneil.html"
     },
     {
       "title": "NHL Status Report: Montour out 4 weeks for Kraken after hand surgery - NHL.com",
       "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-december-22-2025"
     },
     {
-      "title": "Kansas lawmakers approve major tax incentive package for the Kansas City Chiefs - KCUR",
-      "link": "https://www.kcur.org/politics-elections-and-government/2025-12-22/kansas-city-chiefs-star-bonds-approval"
-    },
-    {
-      "title": "Lamar Jackson day-to-day with significant contusion in back - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-day-to-day-with-significant-contusion-in-back"
-    },
-    {
-      "title": "Reports: Gardner Minshew did not tear ACL, Chiefs signing Shane Buechele - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-gardner-minshew-did-not-tear-acl-chiefs-signing-shane-buechele"
-    },
-    {
-      "title": "Seahawks linebacker Derick Hall has 1-game suspension upheld - KOMO",
-      "link": "https://komonews.com/news/local/seattle-seahawks-linebacker-derick-hall-has-1-game-suspension-upheld-unnecessary-roughness-and-unsportsmanlike-conduct-rams-game"
-    },
-    {
       "title": "Report: Steelers receiver DK Metcalf has history with fan involved in confrontation - TribLIVE.com",
       "link": "https://triblive.com/sports/report-steelers-receiver-dk-metcalf-has-history-with-fan-involved-in-confrontation/"
-    },
-    {
-      "title": "Sources: Michigan search fractured as Biff Poggi calls program \"a malfunctioning organization\" - FootballScoop.com",
-      "link": "https://www.footballscoop.com/2025/12/22/sources-michigan-search-fractured-biff-poggi-warde-manuel"
     },
     {
       "title": "Dak Prescott's message to himself, Cowboys for 2026 - Dallas Cowboys | Official Site of the Dallas Cowboys",
@@ -128,6 +132,10 @@
     {
       "title": "Tyler Roehl Returning As Offensive Coordinator - Iowa State Athletics",
       "link": "https://cyclones.com/news/2025/12/22/football-tyler-roehl-returning-as-offensive-coordinator"
+    },
+    {
+      "title": "Colorado Rapids launch \u2018One Club, One Legacy\u2019 - Colorado Rapids",
+      "link": "https://www.coloradorapids.com/news/colorado-rapids-launch-one-club-one-legacy"
     },
     {
       "title": "5 Things To Know About the Chargers Ahead of Week 17 - Chargers.com",
@@ -154,16 +162,12 @@
       "link": "https://www.nba.com/news/power-rankings-2025-26-week-10"
     },
     {
+      "title": "Five Huskers Earn Annual Senior Awards - University of Nebraska - Official Athletics Website - huskers.com",
+      "link": "https://huskers.com/news/2025/12/22/five-huskers-earn-annual-senior-awards"
+    },
+    {
       "title": "Kentucky and Gonzaga continue to rise in latest men's basketball Power 37 rankings - NCAA.com",
       "link": "https://www.ncaa.com/news/basketball-men/article/2025-12-22/kentucky-and-gonzaga-continue-rise-latest-mens-basketball-power-37-rankings"
-    },
-    {
-      "title": "All The Upsets From Week 8 Of The 2025-26 NCAA Season - FloWrestling",
-      "link": "https://www.flowrestling.org/articles/15042766-all-the-upsets-from-week-8-of-the-2025-26-ncaa-season"
-    },
-    {
-      "title": "NHL On Tap: Canucks look to complete sweep of 5-game road trip at Flyers - NHL.com",
-      "link": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-december-22-2025"
     }
   ],
   "weather": {
