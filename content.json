@@ -1,9 +1,9 @@
 {
-  "quote": "A little impatience will spoil great plans. \u2013 Chinese Proverb",
-  "fact": "There are 1,575 steps from the ground floor to the top of the Empire State building.",
-  "crypto": "BTC: $87,532 | ETH: $2,966.04",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What's brown and sticky? A stick.",
+  "quote": "You are not stuck where you are unless you decide to be.   \u2013 Wayne Dyer",
+  "fact": "Maine is the only state whose name is just one syllable.",
+  "crypto": "BTC: $87,638 | ETH: $2,968.12",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I boiled a funny bone last night and had a laughing stock",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Game of the Year: Aaron's Top 5 PS5 Games of 2025 - Push Square",
+      "link": "https://www.pushsquare.com/features/game-of-the-year-aarons-top-5-ps5-games-of-2025"
+    },
+    {
+      "title": "The Beloved Octopath Traveler series surpasses 6m lifetime sales, shortly after Octopath Traveler 0's launch - Eurogamer",
+      "link": "https://www.eurogamer.net/octopath-traveler-series-surpasses-6-million-sales"
+    },
+    {
+      "title": "CORSAIR finally ships 0x12F BIOS update for Vengeance i8200 Z790 systems - VideoCardz.com",
+      "link": "https://videocardz.com/newz/corsair-finally-ships-0x12f-bios-update-for-vengeance-i8200-z790-systems"
+    },
+    {
+      "title": "A key component in Windows 11 is getting a huge performance boost soon - Neowin",
+      "link": "https://www.neowin.net/news/a-key-component-in-windows-11-is-getting-a-huge-performance-boost-soon/"
+    },
+    {
+      "title": "Origami On Another Level With 3D Printing - Hackaday",
+      "link": "https://hackaday.com/2025/12/21/origami-on-another-level-with-3d-printing/"
+    },
+    {
+      "title": "Samsung's wide foldable leak hints at a pre-emptive strike on Apple - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-wide-foldable-design-specs-leak-3627018/"
+    },
+    {
       "title": "I wore 10 fitness watches for 10,000 steps. This brand was the most accurate. - Android Central",
       "link": "https://www.androidcentral.com/wearables/i-wore-10-fitness-watches-for-10000-steps-these-are-the-brands-you-can-trust"
     },
     {
-      "title": "Donkey Kong Bananza 3.0.0 update out now, patch notes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/donkey-kong-bananza-3-0-0-update-out-now-patch-notes/"
+      "title": "RAM is going up \u2014 but this 32GB/1TB Surface Laptop 7 (15\") deal is a steal - Windows Central",
+      "link": "https://www.windowscentral.com/hardware/laptops/surface-laptop-7-super-saturday-2025"
+    },
+    {
+      "title": "Linux 6.19-rc2 Released Following A Quiet Week - Phoronix",
+      "link": "https://www.phoronix.com/news/Linux-6.19-rc2-Released"
     },
     {
       "title": "Spotify Music Library Scraped by Pirate Activist Group - billboard.com",
@@ -26,14 +54,6 @@
     {
       "title": "Apple\u2019s AI Advantage On Its Mac Cluster Now Under Threat - Wccftech",
       "link": "https://wccftech.com/apples-ai-advantage-on-its-mac-cluster-now-under-threat/"
-    },
-    {
-      "title": "The real Big Tech crisis isn\u2019t AI \u2014 it\u2019s that people stopped caring - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/heading-into-2026-microsoft-is-losing-the-fans-who-once-championed-them"
-    },
-    {
-      "title": "MacBook Pro \u2018overhaul\u2019 launching as soon as next year: Here are five upgrades to expect - 9to5Mac",
-      "link": "https://9to5mac.com/2025/12/21/apple-redesigned-macbook-pro-oled-touch-screen-2026-rumors/"
     },
     {
       "title": "Mazda's Suitcase Car Could've Had Us Playing Real-Life Mario Kart At The Airport - Jalopnik",
@@ -48,12 +68,12 @@
       "link": "https://www.phoronix.com/news/MPV-0.41-Released"
     },
     {
-      "title": "I can't upgrade to Windows 11, now leave me alone - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46347108"
-    },
-    {
       "title": "Hasselblad in 2025: Legendary Company Launches its Best Digital Camera Ever - PetaPixel",
       "link": "https://petapixel.com/2025/12/21/hasselblad-in-2025-legendary-company-launches-its-best-digital-camera-ever/"
+    },
+    {
+      "title": "ASUS GPU Tweak III stable released, fixes NVIDIA driver issues and adds 1% low and 0.1% low metrics - VideoCardz.com",
+      "link": "https://videocardz.com/pixel/asus-gpu-tweak-iii-stable-released-fixes-nvidia-driver-issues-and-adds-1-low-and-0-1-low-metrics"
     },
     {
       "title": "Sunday Preview \u2013 Lay Siege with Cataphractii Terminators - Warhammer Community",
@@ -70,40 +90,36 @@
     {
       "title": "These 14 Facebook Moms Take Toxicity, Ignorance, And Inappropriateness To The Next Level - BuzzFeed",
       "link": "https://www.buzzfeed.com/daniellaemanuel/facebook-moms-toxicity-fs"
-    },
-    {
-      "title": "Hideo Kojima credits Super Mario Bros. for getting him to the industry, felt games \"would one day surpass movies\" because of it - Nintendo Everything",
-      "link": "https://nintendoeverything.com/super-mario-bros-hideo-kojima/"
-    },
-    {
-      "title": "PlayStation Releases Ghost Of Yotei Free Downloads, All Yours - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/playstation/ghost-of-yotei-free-avatars-835626-20251221"
-    },
-    {
-      "title": "This Stylized Survival Horror Shooter is The Latest Epic Games Holiday Freebie (December 21) - Beebom",
-      "link": "https://beebom.com/this-stylized-survival-horror-shooter-is-the-latest-epic-games-holiday-freebie-december-21/"
-    },
-    {
-      "title": "Bazzite explodes in usage \u2014 here\u2019s why gamers are switching from Windows - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/pc-gaming/gamers-are-installing-bazzite-instead-of-sticking-with-windows"
-    },
-    {
-      "title": "This Privacy Tool Helps You Delete Files in a Way That Can\u2019t Be Recovered - PCMag",
-      "link": "https://www.pcmag.com/deals/this-privacy-tool-helps-you-delete-files-in-a-way-that-cant-be-recovered"
     }
   ],
   "sports_news": [
     {
-      "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
-      "link": "https://www.ncaa.com/news/football/article/2025-12-20/2025-26-college-football-bowl-game-schedule-scores-tv-channels-times"
+      "title": "The Ashes 2025-26: Brendon McCullum wants to stay as England coach - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/c1j91pj256jo"
     },
     {
-      "title": "How to watch, listen to and livestream Raiders at Texans - Raiders.com",
-      "link": "https://www.raiders.com/news/how-to-watch-listen-to-and-livestream-las-vegas-raiders-at-houston-texans-nfl-week-16-122125"
+      "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles - ESPN",
+      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios"
     },
     {
-      "title": "Rapid Recap: Maye Powers Patriots Past Ravens, Secure Playoff Spot with 28-24 Week 16 Win on Sunday Night Football - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/rapid-recap-maye-powers-patriots-past-ravens-secure-playoff-spot-with-28-24-week-16-win-on-sunday-night-football"
+      "title": "A high school football coach wanted for child pornography offenses has been missing for over a month. Here\u2019s what we know - CNN",
+      "link": "https://www.cnn.com/2025/12/22/us/travis-turner-update-missing-coach"
+    },
+    {
+      "title": "Maye rallies Pats after last week's 'wake-up call' - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47387313/patriots-qb-drake-maye-leads-fourth-quarter-comeback-vs-ravens-clinch-playoff-spot"
+    },
+    {
+      "title": "The Winners and Losers of the NFL Week 16 - The Ringer",
+      "link": "https://www.theringer.com/2025/12/22/nfl/winners-losers-nfl-week-16-lions-steelers-jaguars-caleb-williams-buccaneers"
+    },
+    {
+      "title": "Derrick Henry, John Harbaugh Explain His Absence on Key Fourth-Quarter Drive - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/derrick-henry-john-harbaugh-absence-ravens-patriots-fourth-quarter-drive"
+    },
+    {
+      "title": "Kings 125-124 Rockets (Dec 21, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810256"
     },
     {
       "title": "New angle emerges of DK Metcalf fan interaction - NBC Sports",
@@ -114,12 +130,20 @@
       "link": "https://www.philadelphiaeagles.com/news/eagles-nfl-playoff-scenarios-road-to-victory-2025"
     },
     {
+      "title": "Here is the 'All-Awardless' team for 2025 - MLB.com",
+      "link": "https://www.mlb.com/news/2025-mlb-all-awardless-team"
+    },
+    {
       "title": "2025-26 College Football Playoff schedule, dates, TV channel, sites - NCAA.com",
       "link": "https://www.ncaa.com/news/football/article/2025-12-19/2025-26-college-football-playoff-schedule-dates-tv-channel-sites"
     },
     {
-      "title": "Knicks 132-125 Heat (Dec 21, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810253"
+      "title": "Steelers outlast Lions 29-24 in wild finish when penalty on St. Brown negates Goff's winning TD - AP News",
+      "link": "https://apnews.com/article/steelers-lions-score-6668875ff75496f29c851ba61cf307e7"
+    },
+    {
+      "title": "Texans 23-21 Raiders (Dec 21, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772805"
     },
     {
       "title": "Playoff bound! Bears clinch 2025 postseason berth - Chicago Bears",
@@ -128,6 +152,10 @@
     {
       "title": "Quinshon Judkins suffered a dislocated ankle and fractured fibula in loss to Bills | 3 Big Takeaways - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/quinshon-judkins-suffered-a-dislocated-ankle-and-fractured-fibula-in-loss-to-bills-3-big-takeaways"
+    },
+    {
+      "title": "Crosby passes Lemieux for most points in Penguins history - NHL.com",
+      "link": "https://www.nhl.com/news/sidney-crosby-passes-mario-lemieux-to-become-penguins-all-time-leading-scorer"
     },
     {
       "title": "Falcons 26-19 Cardinals (Dec 21, 2025) Game Recap - ESPN",
@@ -144,34 +172,6 @@
     {
       "title": "All the numbers behind Cooper Flagg's historic start - NBA",
       "link": "https://www.nba.com/news/numbers-cooper-flagg-historic-start"
-    },
-    {
-      "title": "Panthers outlast Bucs to take lead in NFC South - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47384633/win-buccaneers-panthers-verge-playoff-berth"
-    },
-    {
-      "title": "Saints 29-6 Jets (Dec 21, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772801"
-    },
-    {
-      "title": "Jordan Peterson Hired as K-State\u2019s Defensive Coordinator - Kansas State University Athletics",
-      "link": "https://www.kstatesports.com/news/2025/12/21/football-jordan-peterson-hired-as-k-states-defensive-coordinator"
-    },
-    {
-      "title": "No. 2 Ohio State Down No. 3 Iowa State, Little Rock Sunday - Ohio State | Official Athletics Website",
-      "link": "https://ohiostatebuckeyes.com/news/2025/12/21/wrestling-no-2-ohio-state-down-no-3-iowa-state-little-rock-sunday"
-    },
-    {
-      "title": "\u2018Remember that sequence when they take the QB next April\u2019: What social media said after Browns lose to Bills - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2025/12/remember-that-sequence-when-they-take-the-qb-next-april-what-social-media-said-after-browns-lose-to-bills.html"
-    },
-    {
-      "title": "Eatman: Can\u2019t be a bend-AND-break defense - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/eatman-can-t-be-a-bend-and-break-defense"
-    },
-    {
-      "title": "Bengals Dismantle Dolphins 45-21 | POSTGAME RECAP, NOTES & QUOTES - Bengals.com",
-      "link": "https://www.bengals.com/news/bengals-dolphins-recap-postgame-week-16-notes-quotes-stats"
     }
   ],
   "weather": {
