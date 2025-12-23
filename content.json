@@ -1,9 +1,9 @@
 {
-  "quote": "Life is a succession of lessons, which must be lived to be understood. \u2013 Ralph Waldo Emerson",
-  "fact": "Giraffes have no vocal cords.",
-  "crypto": "BTC: $87,996 | ETH: $2,957.02",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Did you hear about the submarine industry? It really took a dive...",
+  "quote": "Many a man has failed because he had his wishbone where his backbone should have been. \u2013 Ronald Reagan",
+  "fact": "Americans are responsible for about 1/5 of the world\u2019s garbage annually.",
+  "crypto": "BTC: $87,914 | ETH: $2,950.8",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "The invention of the wheel was what got things rolling",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Android Attacks\u2014Google Confirms No Fix For 30% Of All Phones - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2025/12/22/android-attacks-google-confirms-no-fix-for-30-of-all-phones/"
+    },
+    {
+      "title": "Nintendo News: Spread Nintendo Cheer with the Hits for the Holidays Sale! - Business Wire",
+      "link": "https://www.businesswire.com/news/home/20251222542446/en/Nintendo-News-Spread-Nintendo-Cheer-with-the-Hits-for-the-Holidays-Sale"
+    },
+    {
+      "title": "The Best PS5 Games Of 2025 According To Metacritic - GameSpot",
+      "link": "https://www.gamespot.com/gallery/the-best-ps5-games-of-2025-according-to-metacritic/2900-7358/"
+    },
+    {
+      "title": "Cronos: The New Dawn Is Getting An Easy Difficulty Setting In Early 2026 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/12/cronos-the-new-dawn-is-getting-an-easy-difficulty-setting-in-early-2026"
+    },
+    {
+      "title": "Android Auto update hints at Cast support, Material music player redesign [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2025/12/22/android-auto-update-hints-at-cast-support-material-music-player-redesign-gallery/"
+    },
+    {
+      "title": "Why Meta\u2019s Threads Is Betting on Podcasters to Attract Users - TipRanks",
+      "link": "https://www.tipranks.com/news/why-metas-threads-is-betting-on-podcasters-to-attract-users"
+    },
+    {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
       "link": "https://www.marvelrivals.com/announcements/20251222/40955_1277966.html"
     },
     {
-      "title": "Apple TV has three fan-favorite shows returning soon, here\u2019s what\u2019s coming - 9to5Mac",
-      "link": "https://9to5mac.com/2025/12/22/apple-tv-has-three-fan-favorite-shows-returning-soon-heres-whats-coming/"
+      "title": "What the Linux desktop really needs to challenge Windows - theregister.com",
+      "link": "https://www.theregister.com/2025/12/22/what_linux_desktop_really_needs/"
+    },
+    {
+      "title": "Apple Wallet\u2019s iOS 26 boarding passes now offered by three major airlines - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/22/apple-wallets-ios-26-boarding-passes-now-offered-by-three-major-airlines/"
+    },
+    {
+      "title": "Linux 6.19's Significant ~30% Performance Boost For Old AMD Radeon GPUs - Phoronix",
+      "link": "https://www.phoronix.com/review/linux-619-amdgpu-radeon"
+    },
+    {
+      "title": "Google Pixel 10 series starts at $450 in crazy last-minute Amazon deal - 9to5Google",
+      "link": "http://9to5google.com/2025/12/22/pixel-10-amazon-last-minute-deal/"
     },
     {
       "title": "2025 Pinkbike Awards: Value Product of the Year Winner - Pinkbike",
       "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-value-product-of-the-year-winner.html"
     },
     {
+      "title": "\"Is it okay for video games to be this good?\" - developers tell us their favourite games of the year - Eurogamer",
+      "link": "https://www.eurogamer.net/is-it-okay-for-video-games-to-be-this-good-developers-tell-us-their-favourite-games-of-the-year"
+    },
+    {
       "title": "Your chatbot keeps a file on you. Here\u2019s how to delete it. - The Washington Post",
       "link": "https://www.washingtonpost.com/technology/2025/12/22/ai-privacy-settings-chatgpt-gemini-claude-copilot-meta/"
+    },
+    {
+      "title": "Destiny 2\u2019s Trials Of Osiris Is Giving Out Tons Of Loot To Losers - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/12/22/destiny-2s-trials-of-osiris-is-giving-out-tons-of-loot-to-losers/"
     },
     {
       "title": "I Grew Up on Atari. Now I'm Reliving My Childhood on the Gamestation Go - CNET",
@@ -36,66 +80,38 @@
       "link": "https://www.theverge.com/news/848934/samsung-wide-fold-apple-iphone-foldable-4-3"
     },
     {
+      "title": "Linux 7.0 To Remove Support For AMD's Never-Released Ryzen AI NPU2 - Phoronix",
+      "link": "https://www.phoronix.com/news/Linux-Dropping-AMD-NPU2"
+    },
+    {
+      "title": "Netflix Just Made Another Big Gaming Move - GameSpot",
+      "link": "https://www.gamespot.com/articles/netflix-just-made-another-big-gaming-move/1100-6537128/"
+    },
+    {
       "title": "Galaxy S25 One UI 8.5 beta now available in more countries - SamMobile",
       "link": "https://www.sammobile.com/news/galaxy-s25-plus-ultra-one-ui-8-5-beta-additional-markets/"
-    },
-    {
-      "title": "It\u2019s finally time to retire the word \u2018podcast\u2019 - The Verge",
-      "link": "https://www.theverge.com/entertainment/842457/podcast-show-name-change"
-    },
-    {
-      "title": "Your Roku Is Probably Plugged Into The Wrong HDMI Port - Here's Why - bgr.com",
-      "link": "https://www.bgr.com/2054077/what-hdmi-port-should-roku-use/"
-    },
-    {
-      "title": "Readers\u2019 Choice Awards 2025: Your Favorite Phones, Laptops, Gaming Gear, and More - Gizmodo",
-      "link": "https://gizmodo.com/gizmodo-best-tech-of-2025-readers-choice-awards-winners-2000701264"
-    },
-    {
-      "title": "Jake Paul treated himself to a wild one-off Ferrari as a \u2018pre-fight gift\u2019 before Anthony Joshua bout - supercarblondie.com",
-      "link": "https://supercarblondie.com/jake-paul-one-off-ferrari-anthony-joshua-gift/"
-    },
-    {
-      "title": "The best Christmas games to play over the holidays on Xbox - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/best-christmas-games"
-    },
-    {
-      "title": "I started using Gemini to create notes in Google Keep, and it's been a game-changer - Android Police",
-      "link": "https://www.androidpolice.com/started-using-gemini-to-create-notes-in-google-keep/"
-    },
-    {
-      "title": "Self-Made Billionaires Under 30 Hit Record High\u201311 Minted In Just 3 Months - Forbes",
-      "link": "https://www.forbes.com/sites/mattdurot/2025/12/22/why-there-are-suddenly-so-many-self-made-billionaires-under-30/"
-    },
-    {
-      "title": "Backing up Spotify - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46338339"
-    },
-    {
-      "title": "Game of the Year: Aaron's Top 5 PS5 Games of 2025 - Push Square",
-      "link": "https://www.pushsquare.com/features/game-of-the-year-aarons-top-5-ps5-games-of-2025"
-    },
-    {
-      "title": "The Beloved Octopath Traveler series surpasses 6m lifetime sales, shortly after Octopath Traveler 0's launch - Eurogamer",
-      "link": "https://www.eurogamer.net/octopath-traveler-series-surpasses-6-million-sales"
-    },
-    {
-      "title": "Lego's 9,023-Piece Star Wars UCS Death Star Is Up For Preorder At Amazon - GameSpot",
-      "link": "https://www.gamespot.com/gallery/lego-star-wars-ucs-death-star-75419-retail-release-largest-building-model/2900-6985/"
-    },
-    {
-      "title": "CORSAIR finally ships 0x12F BIOS update for Vengeance i8200 Z790 systems - VideoCardz.com",
-      "link": "https://videocardz.com/newz/corsair-finally-ships-0x12f-bios-update-for-vengeance-i8200-z790-systems"
-    },
-    {
-      "title": "LG and Samsung unveil 2026 TVs, a surprising first from a 100-year-old speaker brand, and a thrilling turntable head-to-head - What Hi-Fi?",
-      "link": "https://www.whathifi.com/av/lg-and-samsung-unveil-2026-tvs-a-surprising-first-from-a-100-year-old-speaker-brand-and-a-thrilling-turntable-head-to-head"
     }
   ],
   "sports_news": [
     {
+      "title": "UConn, Texas, SC, UCLA still top AP women's poll - ESPN",
+      "link": "https://www.espn.com/womens-college-basketball/story/_/id/47390102/uconn-no-1-top-seven-unchanged-women-hoops-poll"
+    },
+    {
+      "title": "Notre Dame Football Announces Series with BYU - Notre Dame Athletics",
+      "link": "https://fightingirish.com/notre-dame-football-announces-series-with-byu/"
+    },
+    {
+      "title": "Power Rankings, Week 10: Where things stand as Christmas games loom - NBA",
+      "link": "https://www.nba.com/news/power-rankings-2025-26-week-10"
+    },
+    {
       "title": "The NBA is pursuing ownership groups for a potential basketball league in Europe - CNBC",
       "link": "https://www.cnbc.com/2025/12/22/nba-basketball-league-in-europe.html"
+    },
+    {
+      "title": "10 Bears Takes: An Improbable Win, Coaching Matters, Navigating Injuries - Windy City Gridiron",
+      "link": "https://www.windycitygridiron.com/chicago-bears-news/107167/10-bears-takes-an-improbable-win-coaching-matters-navigating-injuries-caleb-williams-ben-johnson"
     },
     {
       "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
@@ -106,20 +122,36 @@
       "link": "https://www.panthers.com/news/panthers-postseason-scenario-breakdown-entering-week-17-tiebreakers-nfc-south"
     },
     {
+      "title": "Inbox: Deep breath, need one more, go get it - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/inbox-deep-breath-need-one-more-go-get-it-dec-22-2025"
+    },
+    {
       "title": "Steelers playoff scenarios - Steelers.com",
       "link": "https://www.steelers.com/news/steelers-playoff-scenarios-x3977"
     },
     {
-      "title": "First Call: Lions star unhappy with OPI flags; ex-Steeler now at QB for Chiefs - TribLIVE.com",
-      "link": "https://triblive.com/sports/first-call-lions-star-unhappy-with-opi-flags-ex-steeler-now-at-qb-for-chiefs/"
+      "title": "What they\u2019re saying nationally about Patriots\u2019 playoff-clinching win vs. Ravens - MassLive.com",
+      "link": "https://www.masslive.com/patriots/2025/12/what-theyre-saying-nationally-about-patriots-playoff-clinching-win-vs-ravens.html"
     },
     {
-      "title": "TWENTYMAN: Week 16 observations - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/detroit-lions-week-16-observations-hutchinson-stbrown-teslaa"
+      "title": "Steelers vs. Lions: What they\u2019re saying in Detroit after loss - TribLIVE.com",
+      "link": "https://triblive.com/sports/steelers-vs-lions-what-theyre-saying-in-detroit-after-loss/"
+    },
+    {
+      "title": "BBC Travel's favourite stories of 2025 - BBC",
+      "link": "https://www.bbc.com/travel/article/20251218-bbc-travels-favourite-stories-of-2025"
+    },
+    {
+      "title": "What Lions Fan Really Said to Steelers' DK Metcalf Before Fight - Sports Illustrated",
+      "link": "https://www.si.com/nfl/steelers/onsi/news/what-lions-fan-really-said-pittsburgh-steelers-dk-metcalf-fight"
     },
     {
       "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles - ESPN",
       "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios"
+    },
+    {
+      "title": "Verstappen reflects on Mercedes talks and F1 future - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/its-not-only-about-f1-verstappen-reflects-on-mercedes-talks-and-the-factors.285cHXwBrxPqs7bB7ChmQt"
     },
     {
       "title": "Noah Hiles: The 2025 Christmas wish list for Pittsburgh sports fans - Pittsburgh Post-Gazette",
@@ -128,10 +160,6 @@
     {
       "title": "Figure skating: Seventeen-year-old starlet Nakai Ami's fairytale season continues with Olympic team selection for Japan - Olympics.com",
       "link": "https://www.olympics.com/en/milano-cortina-2026/news/figure-skating-japan-team-announcement-milano-cortina-2026/"
-    },
-    {
-      "title": "The Winners and Losers of the NFL Week 16 - The Ringer",
-      "link": "https://www.theringer.com/2025/12/22/nfl/winners-losers-nfl-week-16-lions-steelers-jaguars-caleb-williams-buccaneers"
     },
     {
       "title": "Derrick Henry, John Harbaugh Explain His Absence on Key Fourth-Quarter Drive - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
@@ -144,34 +172,6 @@
     {
       "title": "Mailbag: Fans\u2019 Reactions to Vikings Win at Giants, Latest Round of Injuries - Vikings.com",
       "link": "https://www.vikings.com/news/fan-reactions-jj-mccarthy-giants-win-injuries-2025"
-    },
-    {
-      "title": "Rapid Recap: Maye Powers Patriots Past Ravens, Secure Playoff Spot with 28-24 Week 16 Win on Sunday Night Football - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/rapid-recap-maye-powers-patriots-past-ravens-secure-playoff-spot-with-28-24-week-16-win-on-sunday-night-football"
-    },
-    {
-      "title": "New angle emerges of DK Metcalf fan interaction - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-angle-emerges-of-dk-metcalf-fan-interaction"
-    },
-    {
-      "title": "Road to Victory: The Eagles are back-to-back NFC East Champions! - Philadelphia Eagles",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-nfl-playoff-scenarios-road-to-victory-2025"
-    },
-    {
-      "title": "2025-26 College Football Playoff schedule, dates, TV channel, sites - NCAA.com",
-      "link": "https://www.ncaa.com/news/football/article/2025-12-19/2025-26-college-football-playoff-schedule-dates-tv-channel-sites"
-    },
-    {
-      "title": "Warren is Digest Player of the Week - Steelers.com",
-      "link": "https://www.steelers.com/news/warren-is-digest-player-of-the-week-x9131"
-    },
-    {
-      "title": "Texans 23-21 Raiders (Dec 21, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772805"
-    },
-    {
-      "title": "Playoff bound! Bears clinch 2025 postseason berth - Chicago Bears",
-      "link": "https://www.chicagobears.com/news/playoff-bound-bears-clinch-2025-postseason-berth"
     }
   ],
   "weather": {
