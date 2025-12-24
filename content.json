@@ -1,9 +1,9 @@
 {
-  "quote": "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. \u2013 Mark Twain",
-  "fact": "The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill. \u00a0",
-  "crypto": "BTC: $87,922 | ETH: $2,958.01",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What's red and bad for your teeth? A Brick.",
+  "quote": "It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. \u2013 Nicolas Chamfort",
+  "fact": "Beethoven dipped his head in cold water before he composed.",
+  "crypto": "BTC: $87,730 | ETH: $2,951.9",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I started a new business making yachts in my attic this year...the sails are going through the roof",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Samsung\u2019s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz - The Verge",
-      "link": "https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026"
+      "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
+      "link": "http://9to5google.com/2025/12/23/google-one-2026-offer/"
+    },
+    {
+      "title": "The Pixel 10, our favorite Android phone, is nearly 50 percent off right now - The Verge",
+      "link": "https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025"
+    },
+    {
+      "title": "Merry Christmas, James Bond game 007 First Light has been delayed - Eurogamer",
+      "link": "https://www.eurogamer.net/merry-christmas-james-bond-game-007-first-light-has-been-delayed"
+    },
+    {
+      "title": "Deals for Today: MTG Deals Delivered Before Christmas at Amazon - IGN",
+      "link": "https://www.ign.com/articles/deals-for-today-december-23"
+    },
+    {
+      "title": "We\u2019ve been lied to \u2013 electric bike motors CAN do regen, at least with this genius trick - Electrek",
+      "link": "http://electrek.co/2025/12/23/weve-been-lied-to-electric-bike-motors-can-do-regen-at-least-with-this-genius-trick/"
     },
     {
       "title": "GM is inviting EV owners to test this feature that should be standard for all vehicles - Electrek",
       "link": "http://electrek.co/2025/12/23/gm-inviting-ev-owners-test-long-awaited-feature/"
-    },
-    {
-      "title": "007 First Light\u2019s release date gets shaken up - The Verge",
-      "link": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay"
-    },
-    {
-      "title": "Recap: The Best Chronograph Watches of 2025 - Monochrome Watches",
-      "link": "https://monochrome-watches.com/recap-best-chronograph-watches-of-2025-monochrome-team-audemars-rd5-angelus-minerva-breguet-monaco-carbon/"
     },
     {
       "title": "The Best PC Games Of 2025 According To Metacritic - GameSpot",
@@ -44,58 +52,78 @@
       "link": "https://www.npr.org/2025/12/23/nx-s1-5653307/call-of-duty-vince-zampella-creator-dies"
     },
     {
+      "title": "Amazon\u2019s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/"
+    },
+    {
       "title": "Review: The Yeti LTe Feels Like Magic - Pinkbike",
       "link": "https://www.pinkbike.com/news/emtb-field-test-yeti-lte-feels-like-magic.html"
+    },
+    {
+      "title": "Microsoft is using AI to purge C and C++ from its codebase by 2030 - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/my-goal-is-to-eliminate-every-line-of-c-and-c-from-microsoft-by-2030-microsoft-bets-on-ai-to-finally-modernize-windows"
     },
     {
       "title": "This Modern \u2018Game Boy\u2019 Can Play Dreamcast, GameCube, and PS2 Games - Gizmodo",
       "link": "https://gizmodo.com/ayaneo-pocket-vert-can-play-dreamcast-gamecube-and-ps2-games-2000702884"
     },
     {
-      "title": "Google Photos brings person and pet \u2018face shortcuts\u2019 back to search - 9to5Google",
-      "link": "http://9to5google.com/2025/12/23/google-photos-brings-person-and-pet-face-shortcuts-back-to-search/"
+      "title": "Samsung Unveils New Odyssey Gaming Monitor Lineup, Featuring World-First 6K 3D and Ultra-High-Resolution Displays - samsung.com",
+      "link": "https://news.samsung.com/global/samsung-unveils-new-odyssey-gaming-monitor-lineup-featuring-world-first-6k-3d-and-ultra-high-resolution-displays"
     },
     {
       "title": "Boost Your Windows SSD Performance by up to 85% With This Server Driver Trick - extremetech.com",
       "link": "https://www.extremetech.com/computing/boost-your-windows-ssd-performance-by-up-to-85-with-this-server-driver"
     },
     {
-      "title": "The Rumour Engine \u2013 23rd of December - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/tvveavmu/the-rumour-engine-23rd-of-december"
-    },
-    {
-      "title": "The Splay is a subpar monitor but an exciting portable projector - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/"
-    },
-    {
-      "title": "UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again - theregister.com",
-      "link": "https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/"
-    },
-    {
-      "title": "Libxml2 Narrowly Avoids Becoming Unmaintained - Hackaday",
-      "link": "https://hackaday.com/2025/12/23/libxml2-narrowly-avoids-becoming-unmaintained/"
-    },
-    {
-      "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis - WIRED",
-      "link": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/"
-    },
-    {
-      "title": "Survey reveals most people are holding onto their phones for a long time, and it makes sense - Android Authority",
-      "link": "https://www.androidauthority.com/smartphone-upgrade-cycle-duration-poll-result-3627249/"
+      "title": "I Tried Samsung's Galaxy Z TriFold and Z Fold 7. Here's How the Foldable Phones Differ - CNET",
+      "link": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-vs-galaxy-z-fold-7/"
     }
   ],
   "sports_news": [
     {
+      "title": "Statements on Talor Gooch taking over as Smash GC captain - LIV Golf",
+      "link": "https://www.livgolf.com/news/talor-gooch-taking-over-as-smash-gc-captain-2026"
+    },
+    {
+      "title": "Berube safe as Maple Leafs coach, GM says - NHL.com",
+      "link": "https://www.nhl.com/news/craig-berube-safe-as-toronto-maple-leafs-coach-says-gm-brad-treliving"
+    },
+    {
       "title": "Venus Williams, Andrea Preti tie the knot in Palm Beach - ESPN",
       "link": "https://www.espn.com/tennis/story/_/id/47400306/venus-williams-wedding-andrea-preti-social-media"
+    },
+    {
+      "title": "Los Angeles Chargers Sign Jaret Patterson to Active Roster - Chargers.com",
+      "link": "https://www.chargers.com/news/sign-jaret-patterson-to-active-roster-2025"
+    },
+    {
+      "title": "12 Winners and 5 losers from the 49ers road win over the Colts - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/154337/12-winners-and-5-losers-from-the-49ers-road-win-over-the-colts"
     },
     {
       "title": "New suit challenges transfer portal damages - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/47399978/georgia-sued-opening-door-challenge-transfer-portal-damages"
     },
     {
+      "title": "Mike Tomlin on DK Metcalf: \u201cI certainly don\u2019t condone the behavior\u201d - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-on-dk-metcalf-i-certainly-dont-condone-the-behavior"
+    },
+    {
+      "title": "Bears\u2019 belief in rookie Jahdae Walker strong since training camp - Chicago Bears",
+      "link": "https://www.chicagobears.com/news/bears-belief-in-rookie-jahdae-walker-strong-since-training-camp"
+    },
+    {
       "title": "NHL Status Report: Leonard, Wilson game-time decisions for Capitals - NHL.com",
       "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-december-23-2025"
+    },
+    {
+      "title": "Royals face tough stadium decision of their own as Chiefs move to Kansas - AP News",
+      "link": "https://apnews.com/article/kansas-city-royals-stadium-f1f9c00c9d005f38d21584c8a9ba8bb8"
+    },
+    {
+      "title": "The best moments from Formula 1 Secret Santa over the years - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/the-best-moments-from-f1-secret-santa-over-the-years.1NzBiL6Ga9LyUq4ciEwcj0"
     },
     {
       "title": "Redbird Athletics Announces $2.5 Million Gift To Football Program - Illinois State University Athletics",
@@ -106,12 +134,20 @@
       "link": "https://www.packers.com/news/path-to-the-playoffs-one-win-gets-packers-in-dec-23-2025"
     },
     {
+      "title": "NFL Power Rankings, Week 17: Seahawks reclaim No. 1 spot, while Jaguars hit top 5; Rams plummet - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-power-rankings-week-17-2025-nfl-season"
+    },
+    {
       "title": "Jerry Jones on free agency approach, Cowboys defense & offensive line, more - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/jerry-jones-on-free-agency-approach-cowboys-defense-offensive-line-more"
     },
     {
       "title": "Official Announcement: Endrick - realmadrid.com",
       "link": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-endrick-23-12-2025"
+    },
+    {
+      "title": "Hettinger Racing to field O\u2019Reilly Auto Parts Series entry in 2026 - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2025/12/23/hettinger-racing-to-field-oreilly-auto-parts-series-entry-in-2026/"
     },
     {
       "title": "NWSL Introduces High Impact Player Rule to Strengthen Talent Attraction and Retention | News | NWSLsoccer.com - NWSL",
@@ -122,48 +158,8 @@
       "link": "https://www.nba.com/news/sam-presti-crafts-a-work-of-art-on-court-in-oklahoma-city"
     },
     {
-      "title": "NHL On Tap: Crosby, Matthews go head-to-head before holiday break - NHL.com",
-      "link": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-december-23-2025"
-    },
-    {
-      "title": "Defamation lawsuit could be coming against DK Metcalf and others - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/defamation-lawsuit-could-be-coming-against-dk-metcalf-and-others"
-    },
-    {
-      "title": "Week 16 QB Notebook: Matthew Stafford Is Still Rolling Toward MVP - The Ringer",
-      "link": "https://www.theringer.com/2025/12/23/nfl/quarterback-notebook-week-16-mvp-race-matthew-stafford-drake-maye-justin-herbert"
-    },
-    {
-      "title": "2026 Pro Bowl Games: Complete NFC roster revealed - NFL.com",
-      "link": "https://www.nfl.com/news/2026-pro-bowl-games-complete-nfc-roster-revealed"
-    },
-    {
-      "title": "Four Chiefs Named to the 2026 Pro Bowl Games - Chiefs.com",
-      "link": "https://www.chiefs.com/news/four-chiefs-named-to-the-2026-pro-bowl-games"
-    },
-    {
-      "title": "Three Bears players earn Pro Bowl honors - Chicago Bears",
-      "link": "https://www.chicagobears.com/news/three-bears-players-earn-pro-bowl-honors-2026"
-    },
-    {
-      "title": "Four Texans Named To 2026 Pro Bowl - Houston Texans",
-      "link": "https://www.houstontexans.com/news/houston-texans-lb-azeez-al-shaair-de-will-anderson-jr-wr-nico-collins-and-cb-derek-stingley-jr-named-to-2026-pro-bowl"
-    },
-    {
-      "title": "5 Eagles named to 2026 Pro Bowl Games - Philadelphia Eagles",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-pro-bowl-cooper-dejean-quinyon-mitchell-zack-baun-jalen-carter-cam-jurgens"
-    },
-    {
-      "title": "Bills QB Josh Allen, RB James Cook and LT Dion Dawkins named to 2026 NFL Pro Bowl Roster - Buffalo Bills",
-      "link": "https://www.buffalobills.com/news/bills-qb-josh-allen-rb-james-cook-and-lt-dion-dawkins-named-to-2026-nfl-pro-bowl-roster"
-    },
-    {
-      "title": "Christian Gonzalez and Drake Maye Selected to 2026 Pro Bowl - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/christian-gonzalez-and-drake-maye-selected-to-2026-pro-bowl"
-    },
-    {
-      "title": "Five Quick Facts Following the Chiefs Week 16 Loss to Tennessee | Upon Further Review - Chiefs.com",
-      "link": "https://www.chiefs.com/news/five-quick-facts-following-the-chiefs-week-16-loss-to-tennessee-upon-further-review"
+      "title": "Ex-Michigan OC still faces aggravated ID theft - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47398842/judge-rules-matt-weiss-face-aggravated-id-theft-charges"
     }
   ],
   "weather": {
