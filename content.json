@@ -1,9 +1,9 @@
 {
-  "quote": "The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. \u2013 Marcus Aurelius",
-  "fact": "Every US president has worn glasses (just not always in public).",
-  "crypto": "BTC: $87,575 | ETH: $2,928.88",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What is the hardest part about sky diving? The ground.",
+  "quote": "You talk when you cease to be at peace with your thoughts. \u2013 Kahlil Gibran",
+  "fact": "The catfish has the most taste buds of all animals, having over 27,000 of them.",
+  "crypto": "BTC: $87,584 | ETH: $2,932.28",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "People are shocked to discover I have a police record but I love their greatest hits!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,102 +12,154 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "My Most Anticipated Video Game Of 2026 Might Be This Simple Vibes-Based Lanesplitting Indie - Jalopnik",
+      "link": "https://www.jalopnik.com/2058433/simple-vibes-based-lanesplitting-indie-game/"
+    },
+    {
+      "title": "The Original Space Invaders Blasts onto PS5, PS4 on Xmas Day - Push Square",
+      "link": "https://www.pushsquare.com/news/2025/12/the-original-space-invaders-blasts-onto-ps5-ps4-on-xmas-day"
+    },
+    {
+      "title": "How a Spanish virus brought Google to M\u00e1laga - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/"
+    },
+    {
+      "title": "MQTT Pager Build Is Bringing Beepers Back - Hackaday",
+      "link": "https://hackaday.com/2025/12/25/mqtt-pager-build-is-bringing-beepers-back/"
+    },
+    {
       "title": "Grotmas Calendar Day 25 \u2013 Huron Blackheart strides forth from the Maelstrom - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom"
+    },
+    {
+      "title": "Stardew Valley \u2013 Nintendo Switch 2 Edition has just released - Nintendo Everything",
+      "link": "https://nintendoeverything.com/stardew-valley-nintendo-switch-2-edition-has-just-released/"
+    },
+    {
+      "title": "Nine brands responded on whether it\u2019s better to use a native 12V-2\u00d76 cable or the bundled GPU adapter - VideoCardz.com",
+      "link": "https://videocardz.com/newz/nine-brands-responded-on-whether-its-better-to-use-a-native-12v-2x6-cable-or-the-bundled-gpu-adapter"
+    },
+    {
+      "title": "Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers - Phoronix",
+      "link": "https://www.phoronix.com/review/radeon-radv-amdvlk-final"
     },
     {
       "title": "Intel Core Ultra 200K Plus series reportedly aiming at \"more for the same price\" approach - VideoCardz.com",
       "link": "https://videocardz.com/newz/intel-core-ultra-200k-plus-series-reportedly-aiming-at-more-for-the-same-price-approach"
     },
     {
-      "title": "Phoenix: A New X Server Written From Scratch With Zig - Phoronix",
-      "link": "https://www.phoronix.com/news/Phoenix-X-Server"
-    },
-    {
       "title": "Google's Qi2 implementation is a disaster for anyone who owns an old charger - Android Police",
       "link": "https://www.androidpolice.com/googles-qi2-charging-problem/"
+    },
+    {
+      "title": "Donald Knuth\u2019s 2025 Christmas Lecture: The Knight\u2019s Tours - The New Stack",
+      "link": "https://thenewstack.io/donald-knuths-2025-christmas-lecture-the-knights-tours/"
+    },
+    {
+      "title": "WA students try out new tech at 'Hour of AI' - The Seattle Times",
+      "link": "https://www.seattletimes.com/education-lab/wa-students-try-out-new-tech-at-hour-of-ai/"
+    },
+    {
+      "title": "Pure Xbox's Game Of The Year 2025 - Pure Xbox",
+      "link": "https://www.purexbox.com/features/pure-xboxs-game-of-the-year-2025"
     },
     {
       "title": "Got a new Google Pixel? Here are the first settings you should change - 9to5Google",
       "link": "http://9to5google.com/first-settings-to-change-on-a-new-google-pixel/"
     },
     {
+      "title": "When The Real Thing Costs Over Half A Million, You Settle For This - Carscoops",
+      "link": "https://www.carscoops.com/2025/12/when-the-real-thing-costs-over-half-a-million-you-settle-for-this/"
+    },
+    {
       "title": "AI Boom Sparks RAM Crisis: PC and Phone Makers Slash Memory Specs - TipRanks",
       "link": "https://www.tipranks.com/news/ai-boom-sparks-ram-crisis-pc-and-phone-makers-slash-memory-specs"
     },
     {
-      "title": "Samsung\u2019s Exynos 2800 Reportedly Features The Company\u2019s In-House GPU And Is Scheduled To Launch In 2027; SoC Can Be Found In Applications Beyond Smartphones - Wccftech",
-      "link": "https://wccftech.com/exynos-2800-to-feature-samsung-in-house-gpu-to-be-used-in-more-than-just-smartphones/"
+      "title": "'If She Knows, Run': Woman Doesn\u2019t Know How to Open Door to McLaren. Her Date Calls It a \u2018Green Flag\u2019 - Motor1.com",
+      "link": "https://www.motor1.com/news/782690/how-to-open-mclaren-door/"
+    },
+    {
+      "title": "I refuse to use a new Android phone without installing this free app first - Android Police",
+      "link": "https://www.androidpolice.com/i-refuse-to-use-new-android-phone-without-installing-this-free-app-first/"
+    },
+    {
+      "title": "3 Samsung Galaxy Watch features you're probably not using, but should be - TechRadar",
+      "link": "https://www.techradar.com/health-fitness/smartwatches/just-got-a-new-samsung-galaxy-watch-check-out-these-3-hidden-features-you-wont-want-to-miss"
     },
     {
       "title": "This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex - CNET",
       "link": "https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/"
-    },
-    {
-      "title": "The Death Of Clear Linux, Other Intel Linux Engineering Setbacks In 2025 - Phoronix",
-      "link": "https://www.phoronix.com/news/Intel-Linux-News-2025"
-    },
-    {
-      "title": "AI \u2018world models\u2019 promise to reshape $190bn video games industry - Financial Times",
-      "link": "https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112"
-    },
-    {
-      "title": "Got Yourself A New Nintendo Switch 2? Here's What To Do First - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/got-yourself-a-new-nintendo-switch-2-heres-what-to-do-first"
-    },
-    {
-      "title": "All LinkedIn Games Solutions for Today (December 25, 2025) - FandomWire",
-      "link": "https://fandomwire.com/all-linkedin-games-solutions-for-today-december-25-2025/"
-    },
-    {
-      "title": "Printing With Metal On The Ender 3 Using Only A Friction Wheel - Hackaday",
-      "link": "https://hackaday.com/2025/12/24/printing-with-metal-on-the-ender-3-using-only-a-friction-wheel/"
-    },
-    {
-      "title": "Amazon\u2019s After-Christmas Sale Is Stocked With Outdoor Gear Deals Up to 70% Off\u2014Shop Cotopaxi, Osprey, and More - Travel + Leisure",
-      "link": "https://www.travelandleisure.com/best-amazon-after-christmas-sale-hiking-camping-deals-2025-11868099"
-    },
-    {
-      "title": "AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full list of games affected | Hindustan Times - Hindustan Times",
-      "link": "https://www.hindustantimes.com/world-news/us-news/aws-servers-down-arc-raiders-fortnite-rocket-league-epic-games-playstation-steam-embark-amazon-web-services-101766633418025.html"
-    },
-    {
-      "title": "Mesh \u201cLens\u201d Lets Your Camera Make Weird Pixel Art - Hackaday",
-      "link": "https://hackaday.com/2025/12/24/mesh-lens-lets-your-camera-make-weird-pixel-art/"
-    },
-    {
-      "title": "Nintendo bringing back various icons for 2025 releases - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-bringing-back-various-icons-for-2025-releases/"
-    },
-    {
-      "title": "Libreboot 26.01-rc1 Released To Support A Few More Systems - Phoronix",
-      "link": "https://www.phoronix.com/news/Libreboot-26.01-rc1"
-    },
-    {
-      "title": "Abusing X86 SIMD Instructions To Optimize PlayStation 3 Emulation - Hackaday",
-      "link": "https://hackaday.com/2025/12/24/abusing-x86-simd-instructions-to-optimize-playstation-3-emulation/"
     }
   ],
   "sports_news": [
     {
+      "title": "Stargazing: Cowboys who shined vs. Commanders - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/stargazing-cowboys-who-shined-vs-commanders"
+    },
+    {
+      "title": "Chargers vs. Texans Injury Report: Kimani Vidal & Mekhi Becton Questionable for Saturday - Chargers.com",
+      "link": "https://www.chargers.com/news/texans-injury-report-kimani-vidal-fantasy"
+    },
+    {
+      "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles - ESPN",
+      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios"
+    },
+    {
+      "title": "Vikings vs. Lions Inactives for Week 17 of 2025 - Vikings.com",
+      "link": "https://www.vikings.com/news/inactives-detroit-lions-week-17-2025"
+    },
+    {
+      "title": "Flowers signed to 53-man roster - Steelers.com",
+      "link": "https://www.steelers.com/news/flowers-signed-to-53-man-roster"
+    },
+    {
+      "title": "Basketball player gets four years of college eligibility, despite being drafted by NBA in 2023 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/basketball-player-gets-four-years-of-college-eligibility-despite-being-drafted-by-nba-in-2023"
+    },
+    {
+      "title": "Chris Rodriguez inactive for Commanders-Cowboys on Christmas Day - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-rodriguez-inactive-for-commanders-cowboys-on-christmas-day"
+    },
+    {
+      "title": "Aaron Rodgers: Fans think they can say \"whatever the hell [they] want\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-fans-think-they-can-say-whatever-the-hell-they-want"
+    },
+    {
       "title": "Denver Broncos vs. Kansas City Chiefs: How to watch, listen and live stream 'Thursday Night Football' in Week 17 - Denver Broncos",
       "link": "https://www.denverbroncos.com/news/denver-broncos-vs-kansas-city-chiefs-how-to-watch-listen-and-live-stream-thursday-night-football-in-week-17"
+    },
+    {
+      "title": "European Cup winner, Nottingham Forest's 'greatest' John Robertson dies at 72 - ESPN",
+      "link": "https://www.espn.co.uk/football/story/_/id/47411055/european-cup-winner-nottingham-forest-greatest-john-robertson-dies-72"
     },
     {
       "title": "50 Words or Less: The Ravens Hope Another Road Game Brings Out Their Best - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/lamar-jackson-tyler-huntley-micah-parsons-mark-andrews-ravens-packers-week-17"
     },
     {
+      "title": "Week 17 NFL straight up, against the spread, and survivor pool picks: Christmas and Saturday edition - PhillyVoice",
+      "link": "https://www.phillyvoice.com/week-17-nfl-straight-against-spread-and-survivor-pool-picks-christmas-saturday/"
+    },
+    {
+      "title": "Three to Watch: Key Matchups in Patriots vs. Jets on Sunday - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/three-to-watch-key-matchups-in-patriots-vs-jets-on-sunday"
+    },
+    {
       "title": "Vikings' 'Winter Warrior' look leads NFL Week 17 uniforms - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/47401989/nfl-2025-week-17-uniforms"
+    },
+    {
+      "title": "NFL Week 17 fantasy football start \u2019em, sit \u2019em - PFF",
+      "link": "https://www.pff.com/news/fantasy-football-start-sit-advice-week-17-2025"
     },
     {
       "title": "Goodman: The new face of America\u2019s collective hate for Lane Kiffin ... and pickleball - AL.com",
       "link": "https://www.al.com/alabamafootball/2025/12/goodman-the-new-face-of-americas-collective-hate-for-lane-kiffin-and-pickleball.html"
     },
     {
-      "title": "5 things to watch: Lions at Vikings - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/5-things-to-watch-lions-at-vikings-goff-brosmer-gibbs"
+      "title": "Key Matchups, Predictions for Texans-Chargers and More NFL Week 17 Games - Sports Illustrated",
+      "link": "https://www.si.com/nfl/key-matchups-predictions-texans-chargers-more-nfl-week-17-games"
     },
     {
       "title": "Hawaii stuns Cal in 35-31 in Hawaii Bowl on backup QB Luke Weaver\u2019s last-minute TD pass - AP News",
@@ -118,56 +170,8 @@
       "link": "https://www.nba.com/news/nuggets-cameron-johnson-knee-injury"
     },
     {
-      "title": "2025 NFL Playoff Picture, Bracket, Schedule: 8 Teams Clinch Spots in Week 16 - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/2025-nfl-playoff-picture-bracket-schedule-ahead-week-16"
-    },
-    {
       "title": "4 key storylines ahead of Christmas Day - NBA",
       "link": "https://www.nba.com/news/4-key-storylines-christmas-day-2025"
-    },
-    {
-      "title": "Jordan Morgan\u2019s first career start at RT was \u2018encouraging\u2019 - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/jordan-morgan-s-first-career-start-at-rt-was-encouraging-dec-24-2025"
-    },
-    {
-      "title": "On Tap: Day 1 of 2026 World Junior Championship - NHL.com",
-      "link": "https://www.nhl.com/news/on-tap-world-junior-championship-news-and-notes-december-25-2025"
-    },
-    {
-      "title": "The 2025 Christmas games have lost their luster - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-2025-christmas-games-have-lost-their-luster"
-    },
-    {
-      "title": "Christmas Day NHL hockey memories as evergreen as mistletoe - NHL.com",
-      "link": "https://www.nhl.com/news/nhl-memories-of-games-on-christmas-day"
-    },
-    {
-      "title": "Winter Classic in MLB park brings things \u2018full circle\u2019 for Panthers GM - NHL.com",
-      "link": "https://www.nhl.com/news/florida-panthers-general-manager-bill-zito-feels-at-home-in-mlb-park-for-winter-classic"
-    },
-    {
-      "title": "Week 17 Fantasy Football Rankings - The Blueprint - Underdog Network",
-      "link": "https://underdognetwork.com/football/fantasy-rankings/week-17-fantasy-football-rankings-the-blueprint-2025"
-    },
-    {
-      "title": "Fan involved in DK Metcalf incident announces press conference - Awful Announcing",
-      "link": "https://awfulannouncing.com/nfl/dk-metcalf-incident-press-conference-friday-ryan-kennedy.html"
-    },
-    {
-      "title": "Injury Report: ILB Justin Strnad not assigned game status, 5 Broncos ruled out for 'Thursday Night Football' vs. Chiefs - Denver Broncos",
-      "link": "https://www.denverbroncos.com/news/injuryreport/injury-report-ilb-justin-strnad-not-assigned-game-status-5-broncos-ruled-out-for-thursday-night-football-vs-chiefs"
-    },
-    {
-      "title": "Saquon Barkley calls Nick Sirianni the best coach in the NFL | Eagles at Bills Daily Updates - Philadelphia Eagles",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-bills-daily-updates-jalen-hurts-josh-allen-jalen-carter-lane-johnson-nfl-week-17-2025"
-    },
-    {
-      "title": "News & Notes: John Harbaugh Details the Extent of Lamar Jackson's Contusion - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/lamar-jackson-back-injury-contusion-john-harbaugh-tyler-huntley-zay-flowers-pro-bowl-packers-tempo"
-    },
-    {
-      "title": "Week 17 Injury Report: Patriots at Jets - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/week-17-injury-report-patriots-at-jets"
     }
   ],
   "weather": {
