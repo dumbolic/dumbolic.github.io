@@ -1,9 +1,9 @@
 {
-  "quote": "Failure will never overtake me if my determination to succeed is strong enough. \u2013 Og Mandino",
-  "fact": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
-  "crypto": "BTC: $87,423 | ETH: $2,927.26",
+  "quote": "Surround yourself only with people who are going to take you higher. \u2013 Oprah Winfrey",
+  "fact": "Your tongue is the only muscle in your body that is attached at only one end.",
+  "crypto": "BTC: $87,491 | ETH: $2,927.28",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why do bees hum? Because they don't know the words.",
+  "joke": "To the person who stole my anti-depressant pills: I hope you're happy now.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Leaked documents show Instagram\u2019s plan to win back teens - The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2025/12/26/meta-instagram-teen-strategy/"
+    },
+    {
+      "title": "Google is letting some people change their @gmail address - The Verge",
+      "link": "https://www.theverge.com/news/850237/google-change-your-gmail-address"
+    },
+    {
+      "title": "These are the first accessories you should get for your new Google Pixel phone - 9to5Google",
+      "link": "http://9to5google.com/2025/12/26/google-pixel-accessories-new-phone/"
+    },
+    {
+      "title": "Suspension Product of the Year Winner - Pinkbike",
+      "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-suspension-product-of-the-year-winner.html"
+    },
+    {
+      "title": "NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux - Hackaday",
+      "link": "https://hackaday.com/2025/12/26/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/"
+    },
+    {
+      "title": "Got a New iPhone 17? How to Use All the New Features - MacRumors",
+      "link": "https://www.macrumors.com/guide/got-new-iphone-17-how-to-use-new-features/"
+    },
+    {
+      "title": "Former B&B That Hosted Jeremy Renner and Tom Cruise in New York\u2019s Hudson Valley Lists for $5.9 Million - Mansion Global",
+      "link": "https://www.mansionglobal.com/articles/former-b-b-that-hosted-jeremy-renner-and-tom-cruise-in-new-yorks-hudson-valley-lists-for-5-9-million-7b0c0be5"
+    },
+    {
+      "title": "New Runtime Standby ABI Proposed For Linux Akin To Microsoft Windows' \"Modern Standby\" - Phoronix",
+      "link": "https://www.phoronix.com/news/Linux-Runtime-ABI-Standby"
+    },
+    {
+      "title": "I changed one registry value and my Windows PC feels instantly faster - MakeUseOf",
+      "link": "https://www.makeuseof.com/windows-11-registry-tweak-instantly-reduced-lag/"
+    },
+    {
+      "title": "AMD Ryzen 9 9950X3D2 16-core CPU with 192MB L3 cache finally leaks out - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-ryzen-9-9950x3d2-16-core-cpu-with-192mb-l3-cache-finally-leaks-out"
+    },
+    {
       "title": "Tech Companies Love Using This Tiny Symbol. It\u2019s More Insidious Than You Think. - Slate",
       "link": "https://slate.com/technology/2025/12/artificial-intelligence-tools-icon-google-gemini-chatgpt-design.html"
     },
     {
-      "title": "Google is rolling out a new feature allowing users to change their Gmail address - CNBC",
-      "link": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html"
+      "title": "Unreleased Radeon RX 7700 XT MBA prototype shows up with AMD-style reference cooler - VideoCardz.com",
+      "link": "https://videocardz.com/newz/unreleased-radeon-rx-7700-xt-mba-prototype-shows-up-with-amd-style-reference-cooler"
+    },
+    {
+      "title": "Did you know you can share the Brick? A hot tip for using the social media blocker. - Mashable",
+      "link": "https://mashable.com/article/brick-screen-time-multi-user-hack"
+    },
+    {
+      "title": "No Ryzen Killer: Intel Core Ultra 5 225F Review - TechSpot",
+      "link": "https://www.techspot.com/review/3070-intel-core-ultra-5-225f/"
+    },
+    {
+      "title": "PlayStation Plus Free Games Lineup For January 2026 Is Bleak - Screen Rant",
+      "link": "https://screenrant.com/playstation-plus-free-games-january-2026/"
     },
     {
       "title": "Dear Mirror Flower for Switch launches April 30, 2026 in Japan - Gematsu",
       "link": "https://www.gematsu.com/2025/12/dear-mirror-flower-for-switch-launches-april-30-2026-in-japan"
-    },
-    {
-      "title": "PlayStation Plus Free Game Is an Underrated 25-Hour Open-World RPG - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-game-underrated-open-world-rpg-370800-20251219"
     },
     {
       "title": "10 Best Editor-Picked Designs From 2025 Show How Nostalgia Beat Every Tech Trend - Yanko Design",
@@ -36,63 +84,39 @@
       "link": "https://www.slashgear.com/2057701/how-does-androids-new-airdrop-style-feature-actually-work/"
     },
     {
-      "title": "This $40 Microsoft bundle makes an old PC feel brand new - Mashable",
-      "link": "https://mashable.com/article/dec-25-the-ultimate-microsoft-office-professional-2021-for-windows"
-    },
-    {
-      "title": "Nintendo discusses its approach to Metroid Prime 4, talks why it isn\u2019t open-world - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-discusses-its-approach-to-metroid-prime-4-and-why-it-isnt-open-world/"
-    },
-    {
-      "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
-      "link": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html"
-    },
-    {
-      "title": "The most common PC performance issue takes just five seconds to fix - How-To Geek",
-      "link": "https://www.howtogeek.com/the-most-common-pc-performance-issue-takes-seconds-fix/"
-    },
-    {
-      "title": "Top Games of 2025 for Three Atlus Staff Members - Persona Central",
-      "link": "https://personacentral.com/famitsu-popular-games-2025/"
-    },
-    {
-      "title": "Fujifilm in 2025: High Highs and Low Lows - PetaPixel",
-      "link": "https://petapixel.com/2025/12/25/fujifilm-in-2025-high-highs-and-low-lows/"
-    },
-    {
-      "title": "Galaxy Z TriFold suffers horrific defeat in durability test; there\u2019s just more to break - 9to5Google",
-      "link": "http://9to5google.com/2025/12/25/galaxy-z-trifold-durability-test/"
-    },
-    {
-      "title": "The Original Space Invaders Blasts onto PS5, PS4 on Xmas Day - Push Square",
-      "link": "https://www.pushsquare.com/news/2025/12/the-original-space-invaders-blasts-onto-ps5-ps4-on-xmas-day"
-    },
-    {
-      "title": "How a Spanish virus brought Google to M\u00e1laga - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/"
-    },
-    {
-      "title": "MQTT Pager Build Is Bringing Beepers Back - Hackaday",
-      "link": "https://hackaday.com/2025/12/25/mqtt-pager-build-is-bringing-beepers-back/"
-    },
-    {
-      "title": "5 Things To Never Plug Into Your Chromebook's USB Ports - SlashGear",
-      "link": "https://www.slashgear.com/2056845/things-to-never-plug-into-chromebook-usb-ports/"
-    },
-    {
-      "title": "Intel\u2019s 18-Core Xeon 654 \u201cGranite Rapids-WS\u201d Matches 28-Core Xeon 3465X But Falls Behind 16-Core Threadripper 9955WX - Wccftech",
-      "link": "https://wccftech.com/intel-18-core-xeon-654-granite-rapids-ws-matches-28-core-xeon-3465x-falls-behind-16-core-threadripper/"
-    },
-    {
-      "title": "Why You Should Play: Metal Eden - Game Informer",
-      "link": "https://gameinformer.com/feature/2025/12/25/why-you-should-play-metal-eden"
-    },
-    {
-      "title": "Google Co-Founder Explains One of the Company\u2019s Most Infamous Failures - Inc.com",
-      "link": "https://www.inc.com/ava-levinson/google-cofounder-explains-glass-failure/91280777"
+      "title": "Asus could produce DDR5 RAM to ease memory shortage and keep laptop prices reasonable - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Asus-could-produce-DDR5-RAM-to-ease-memory-shortage-and-keep-laptop-prices-reasonable.1192377.0.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "Bills announce seating availability update for new Highmark Stadium - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/bills-announce-seating-availability-update-for-new-highmark-stadium"
+    },
+    {
+      "title": "Inbox: Now is not the time to look back and dwell - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/inbox-now-is-not-the-time-to-look-back-and-dwell-dec-26-2025"
+    },
+    {
+      "title": "49ers vs. Bears: The Standard\u2019s 5 fast predictions - The San Francisco Standard",
+      "link": "https://sfstandard.com/2025/12/26/49ers-bears-prediction-score-preview/"
+    },
+    {
+      "title": "Report: Michigan focuses search on Utah coach Kyle Whittingham - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-michigan-focuses-search-on-utah-coach-kyle-whittingham"
+    },
+    {
+      "title": "Can Jalen Hurts or Josh Allen break the career rushing TD record? - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47398832/jalen-hurts-josh-allen-break-career-rushing-td-record"
+    },
+    {
+      "title": "END OF YEAR REPORT: Racing Bulls\u2019 best and worst moments from 2025 and driver head-to-heads - F1",
+      "link": "https://www.formula1.com/en/latest/article/end-of-year-report-racing-bulls-best-and-worst-moments-from-2025-and-driver.zNgk59YEKPR3Ji9RmPbzQ"
+    },
+    {
+      "title": "Broncos use fourth-down bluff, clutch TD to down Chiefs in yet another one-possession win - NFL.com",
+      "link": "https://www.nfl.com/news/broncos-use-fourth-down-bluff-clutch-td-to-down-chiefs-in-yet-another-one-possession-win"
+    },
     {
       "title": "Nuggets 142-138 Timberwolves (Dec 25, 2025) Game Recap - ESPN",
       "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401809242"
@@ -102,16 +126,12 @@
       "link": "https://apnews.com/article/kansas-city-chiefs-travis-kelce-c1f3237de662ca9f5448b541091ece1b"
     },
     {
-      "title": "Nix\u2019s late TD pass and stand by Broncos defense finishes off 20-13 win over Chiefs - AP News",
-      "link": "https://apnews.com/article/denver-broncos-kansas-city-chiefs-1498896bbd2ed3df73f6f7485bc9185c"
+      "title": "3 Takeaways From the NFL's Christmas Tripleheader - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/3-takeaways-from-nfls-christmas-tripleheader"
     },
     {
       "title": "Justin Jefferson Breaks Randy Moss\u2019 NFL Record for Yards Through 6 Seasons - Minnesota Vikings",
       "link": "https://www.vikings.com/news/justin-jefferson-randy-moss-record-2025-yardage-nfl-seasons"
-    },
-    {
-      "title": "RECAP: Lions at Vikings - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/recap-lions-at-vikings-goff-gibbs-hutchinson-teslaa"
     },
     {
       "title": "Warriors 126-116 Mavericks (Dec 25, 2025) Game Recap - ESPN",
@@ -122,52 +142,32 @@
       "link": "https://www.nba.com/news/mavericks-center-anthony-davis-leaves-with-groin-injury-vs-warriors"
     },
     {
-      "title": "SGA Says Thunder Need to 'Look in the Mirror' After 3rd Straight Loss to Wemby, Spurs - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25339245-sga-says-thunder-need-look-mirror-after-3rd-straight-loss-wemby-spurs"
+      "title": "A year of mashed taters: Each team's longest HR of 2025 - MLB.com",
+      "link": "https://www.mlb.com/news/every-team-s-longest-home-run-of-2025"
+    },
+    {
+      "title": "Broncos announce inactives for Week 17 game vs. Chiefs - Denver Broncos",
+      "link": "https://www.denverbroncos.com/news/broncos-announce-inactives-for-week-17-game-vs-chiefs"
     },
     {
       "title": "Despite taking hits, 'no question' Dak Prescott wants to play in Week 18 vs. Giants - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/despite-taking-hits-no-question-dak-prescott-wants-to-play-in-week-18-vs-giants"
     },
     {
-      "title": "Winter Classic in Miami, milestones among 10 things to watch in NHL before Olympic break - NHL.com",
-      "link": "https://www.nhl.com/news/10-things-to-watch-in-nhl-before-olympic-break"
+      "title": "Lamar Jackson Trade Rumors: 3 Trade Fits if Ravens Move on From Star QB - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/3-best-preliminary-trade-fits-lamar-jackson-amid-recent-rumors-ravens-future"
     },
     {
       "title": "Top games to watch when NHL resumes Saturday - NHL.com",
       "link": "https://www.nhl.com/news/top-games-to-watch-when-nhl-resumes-after-2025-christmas-break"
     },
     {
+      "title": "Winter Classic in Miami, milestones among 10 things to watch in NHL before Olympic break - NHL.com",
+      "link": "https://www.nhl.com/news/10-things-to-watch-in-nhl-before-olympic-break"
+    },
+    {
       "title": "O-Zone: Happy Krimma - Jaguars.com",
       "link": "https://www.jaguars.com/news/o-zone-happy-krimma"
-    },
-    {
-      "title": "Lamar Jackson Doubtful to Play Against Packers - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/lamar-jackson-back-injury-report-doubtful-ravens-packers-jordan-love"
-    },
-    {
-      "title": "Jadeveon Clowney on future with Cowboys; free agency - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/jadeveon-clowney-on-future-with-cowboys-free-agency"
-    },
-    {
-      "title": "Packers list seven questionable, rule out two vs. Ravens | Week 17 Injury Report - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-ravens-week-17-injury-report-dec-25-2025"
-    },
-    {
-      "title": "Don\u2019t forget these 5: Luepke sets up big 4th down - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/don-t-forget-these-5-luepke-sets-up-big-4th-down"
-    },
-    {
-      "title": "Broncos promote G Calvin Throckmorton and TE Marcedes Lewis to active roster, elevate ILB Levelle Bailey and WR Michael Bandy for 'Thursday Night Football' vs. Chiefs - Denver Broncos",
-      "link": "https://www.denverbroncos.com/news/broncos-promote-g-calvin-throckmorton-and-te-marcedes-lewis-to-active-roster-elevate-ilb-levelle-bailey-and-wr-michael-bandy-for-thursday-night-football-vs-chiefs"
-    },
-    {
-      "title": "5 Final Thoughts Ahead of Chargers-Texans in Week 17 - Chargers.com",
-      "link": "https://www.chargers.com/news/texans-playoff-chances-game-preview-week-17"
-    },
-    {
-      "title": "Chargers vs. Texans Injury Report: Kimani Vidal & Mekhi Becton Questionable for Saturday - Chargers.com",
-      "link": "https://www.chargers.com/news/texans-injury-report-kimani-vidal-fantasy"
     }
   ],
   "weather": {
