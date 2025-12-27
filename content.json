@@ -1,9 +1,9 @@
 {
-  "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals. \u2013 Henry David Thoreau",
-  "fact": "A pig`s orgasm lasts for 30 minutes.",
-  "crypto": "BTC: $87,497 | ETH: $2,921.37",
+  "quote": "You cannot control the behavior of others, but you can always choose how you respond to it. \u2013 Roy T. Bennett",
+  "fact": "The plastic things on the end of shoelaces are called aglets.",
+  "crypto": "BTC: $87,467 | ETH: $2,921.92",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I fear for the calendar, its days are numbered.\n",
+  "joke": "What\u2019s the longest word in the dictionary? Smiles. Because there\u2019s a mile between the two S\u2019s.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Mountain Bike of the Year Winner - Pinkbike",
+      "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-winner.html"
+    },
+    {
+      "title": "Embark on a visual voyage of art inspired by black holes - Ars Technica",
+      "link": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/"
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off - The Verge",
+      "link": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off"
+    },
+    {
+      "title": "Google May Finally Let Users Change Embarrassing Old Gmail Addresses - Gizmodo",
+      "link": "https://gizmodo.com/google-may-finally-let-users-change-embarrassing-old-gmail-addresses-2000703487"
+    },
+    {
       "title": "Leaked documents show Instagram\u2019s plan to win back teens - The Washington Post",
       "link": "https://www.washingtonpost.com/technology/2025/12/26/meta-instagram-teen-strategy/"
     },
     {
-      "title": "Google is letting some people change their @gmail address - The Verge",
-      "link": "https://www.theverge.com/news/850237/google-change-your-gmail-address"
+      "title": "Treat yourself: The best smart glasses to buy with your holiday gift money - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/"
+    },
+    {
+      "title": "Samsung Exynos 2600 Xclipse 960 GPU said to use AMD RDNA4-derived architecture - VideoCardz.com",
+      "link": "https://videocardz.com/newz/samsung-exynos-2600-xclipse-960-gpu-said-to-use-amd-rdna4-derived-architecture"
+    },
+    {
+      "title": "Stardew Valley Nintendo Switch 2 Edition Out Now With Mouse Controls, Local Split-Screen, And More - Game Informer",
+      "link": "https://gameinformer.com/2025/12/26/stardew-valley-nintendo-switch-2-edition-out-now-with-mouse-controls-local-split-screen"
+    },
+    {
+      "title": "Destiny 2\u2019s Renegades Is Great But Not Changing Its Playercount Trend - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2025/12/26/destiny-2s-renegades-is-great-but-not-changing-its-playercount-trend/"
+    },
+    {
+      "title": "Leaker Who Apple Is Suing Says \u2018Screw It,\u2019 Here\u2019s the Foldable iPhone Early - Gizmodo",
+      "link": "https://gizmodo.com/leaker-who-apple-is-suing-says-screw-it-heres-the-foldable-iphone-early-2000703449"
     },
     {
       "title": "These are the first accessories you should get for your new Google Pixel phone - 9to5Google",
       "link": "http://9to5google.com/2025/12/26/google-pixel-accessories-new-phone/"
     },
     {
-      "title": "Suspension Product of the Year Winner - Pinkbike",
-      "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-suspension-product-of-the-year-winner.html"
+      "title": "The Outer Worlds 2 Takes Away A Key Choice For You To Make Role-Playing More Rewarding - GameSpot",
+      "link": "https://www.gamespot.com/articles/the-outer-worlds-2-takes-away-a-key-choice-for-you-to-make-role-playing-more-rewarding/1100-6537037/"
+    },
+    {
+      "title": "In the \u201990s, Wing Commander: Privateer made me realize what kind of games I love - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/"
+    },
+    {
+      "title": "AMD Ryzen 9 9950X3D2 and Ryzen 7 9850X3D are Real, Coming this CES? - TechPowerUp",
+      "link": "https://www.techpowerup.com/344435/amd-ryzen-9-9950x3d2-and-ryzen-7-9850x3d-are-real-coming-this-ces"
     },
     {
       "title": "NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux - Hackaday",
       "link": "https://hackaday.com/2025/12/26/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/"
+    },
+    {
+      "title": "Suspension Product of the Year Winner - Pinkbike",
+      "link": "https://www.pinkbike.com/news/2025-pinkbike-awards-suspension-product-of-the-year-winner.html"
     },
     {
       "title": "Got a New iPhone 17? How to Use All the New Features - MacRumors",
@@ -44,54 +88,26 @@
       "link": "https://www.phoronix.com/news/Linux-Runtime-ABI-Standby"
     },
     {
-      "title": "I changed one registry value and my Windows PC feels instantly faster - MakeUseOf",
-      "link": "https://www.makeuseof.com/windows-11-registry-tweak-instantly-reduced-lag/"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 16-core CPU with 192MB L3 cache finally leaks out - VideoCardz.com",
-      "link": "https://videocardz.com/newz/amd-ryzen-9-9950x3d2-16-core-cpu-with-192mb-l3-cache-finally-leaks-out"
-    },
-    {
-      "title": "Tech Companies Love Using This Tiny Symbol. It\u2019s More Insidious Than You Think. - Slate",
-      "link": "https://slate.com/technology/2025/12/artificial-intelligence-tools-icon-google-gemini-chatgpt-design.html"
-    },
-    {
-      "title": "Unreleased Radeon RX 7700 XT MBA prototype shows up with AMD-style reference cooler - VideoCardz.com",
-      "link": "https://videocardz.com/newz/unreleased-radeon-rx-7700-xt-mba-prototype-shows-up-with-amd-style-reference-cooler"
-    },
-    {
-      "title": "Did you know you can share the Brick? A hot tip for using the social media blocker. - Mashable",
-      "link": "https://mashable.com/article/brick-screen-time-multi-user-hack"
-    },
-    {
-      "title": "No Ryzen Killer: Intel Core Ultra 5 225F Review - TechSpot",
-      "link": "https://www.techspot.com/review/3070-intel-core-ultra-5-225f/"
-    },
-    {
-      "title": "PlayStation Plus Free Games Lineup For January 2026 Is Bleak - Screen Rant",
-      "link": "https://screenrant.com/playstation-plus-free-games-january-2026/"
-    },
-    {
-      "title": "Dear Mirror Flower for Switch launches April 30, 2026 in Japan - Gematsu",
-      "link": "https://www.gematsu.com/2025/12/dear-mirror-flower-for-switch-launches-april-30-2026-in-japan"
-    },
-    {
-      "title": "10 Best Editor-Picked Designs From 2025 Show How Nostalgia Beat Every Tech Trend - Yanko Design",
-      "link": "https://www.yankodesign.com/2025/12/25/10-best-editor-picked-designs-from-2025-show-how-nostalgia-beat-every-tech-trend/"
-    },
-    {
-      "title": "How Does Android's New AirDrop-Style Feature Actually Work? - SlashGear",
-      "link": "https://www.slashgear.com/2057701/how-does-androids-new-airdrop-style-feature-actually-work/"
-    },
-    {
-      "title": "Asus could produce DDR5 RAM to ease memory shortage and keep laptop prices reasonable - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Asus-could-produce-DDR5-RAM-to-ease-memory-shortage-and-keep-laptop-prices-reasonable.1192377.0.html"
+      "title": "The 7 Best Gravel Bikes of 2025 - Outside Magazine",
+      "link": "https://velo.outsideonline.com/gravel/gravel-gear/best-gravel-bikes-nominees-2025/#article"
     }
   ],
   "sports_news": [
     {
+      "title": "Ohio promotes DC Hauser to replace fired Smith - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47419461/ohio-tabs-john-hauser-coach-brian-smith-fired-cause"
+    },
+    {
       "title": "Bills announce seating availability update for new Highmark Stadium - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
       "link": "https://www.buffalobills.com/news/bills-announce-seating-availability-update-for-new-highmark-stadium"
+    },
+    {
+      "title": "Crunch time has cut both ways for Packers this season - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/crunch-time-has-cut-both-ways-for-packers-this-season-dec-26-2025"
+    },
+    {
+      "title": "A Classic Christmas: Joki\u0107 & Ant duel in OT, Knicks come back, Spurs drop OKC (again) - NBA",
+      "link": "https://www.nba.com/news/a-classic-christmas-jokic-ant-duel-in-ot-knicks-come-back-spurs-drop-okc-again"
     },
     {
       "title": "Inbox: Now is not the time to look back and dwell - Green Bay Packers \u2013 packers.com",
@@ -102,36 +118,40 @@
       "link": "https://sfstandard.com/2025/12/26/49ers-bears-prediction-score-preview/"
     },
     {
-      "title": "Report: Michigan focuses search on Utah coach Kyle Whittingham - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-michigan-focuses-search-on-utah-coach-kyle-whittingham"
+      "title": "Taylor Swift Cheers on Travis Kelce in Monochromatic Outfit With a Perfectly Bold Pop of Color on Christmas Day - instyle.com",
+      "link": "https://www.instyle.com/taylor-swift-travis-kelce-christmas-celebrations-11866989"
     },
     {
-      "title": "Can Jalen Hurts or Josh Allen break the career rushing TD record? - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47398832/jalen-hurts-josh-allen-break-career-rushing-td-record"
+      "title": "Patriots Gameplan: 3 Keys to Victory in Final Regular-Season Road Game vs. the Jets in Week 17 - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/patriots-gameplan-3-keys-to-victory-in-final-regular-season-road-game-vs-the-jets-in-week-17"
+    },
+    {
+      "title": "House of the Week: Historic Elbridge Wayside Irish Pub needs new owner to carry on its legacy - Syracuse.com",
+      "link": "https://www.syracuse.com/realestate-news/2025/12/house-of-the-week-historic-elbridge-wayside-irish-pub-needs-new-owner-to-carry-on-its-legacy.html"
     },
     {
       "title": "END OF YEAR REPORT: Racing Bulls\u2019 best and worst moments from 2025 and driver head-to-heads - F1",
       "link": "https://www.formula1.com/en/latest/article/end-of-year-report-racing-bulls-best-and-worst-moments-from-2025-and-driver.zNgk59YEKPR3Ji9RmPbzQ"
     },
     {
-      "title": "Broncos use fourth-down bluff, clutch TD to down Chiefs in yet another one-possession win - NFL.com",
-      "link": "https://www.nfl.com/news/broncos-use-fourth-down-bluff-clutch-td-to-down-chiefs-in-yet-another-one-possession-win"
-    },
-    {
-      "title": "Nuggets 142-138 Timberwolves (Dec 25, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401809242"
-    },
-    {
-      "title": "Travis Kelce's emotional night at Arrowhead Stadium may be his last with retirement decision looming - AP News",
-      "link": "https://apnews.com/article/kansas-city-chiefs-travis-kelce-c1f3237de662ca9f5448b541091ece1b"
+      "title": "Sean Payton: Broncos were going to take delay of game, kick late field goal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-broncos-were-going-to-take-delay-of-game-kick-late-field-goal"
     },
     {
       "title": "3 Takeaways From the NFL's Christmas Tripleheader - FOX Sports",
       "link": "https://www.foxsports.com/stories/nfl/3-takeaways-from-nfls-christmas-tripleheader"
     },
     {
+      "title": "Jordan Addison Takes Flight to Finish 65-Yard Jet Sweep in End Zone - Vikings.com",
+      "link": "https://www.vikings.com/news/jordan-addison-touchdown-lions-65-yard-jet-sweep-end-zone"
+    },
+    {
       "title": "Justin Jefferson Breaks Randy Moss\u2019 NFL Record for Yards Through 6 Seasons - Minnesota Vikings",
       "link": "https://www.vikings.com/news/justin-jefferson-randy-moss-record-2025-yardage-nfl-seasons"
+    },
+    {
+      "title": "Vikings vs. Lions Game Observations: A Night of Taking and Scoring Off Turnovers - Vikings.com",
+      "link": "https://www.vikings.com/news/lions-game-observations-turnovers-defense-christmas-winter-whiteout"
     },
     {
       "title": "Warriors 126-116 Mavericks (Dec 25, 2025) Game Recap - ESPN",
@@ -148,26 +168,6 @@
     {
       "title": "Broncos announce inactives for Week 17 game vs. Chiefs - Denver Broncos",
       "link": "https://www.denverbroncos.com/news/broncos-announce-inactives-for-week-17-game-vs-chiefs"
-    },
-    {
-      "title": "Despite taking hits, 'no question' Dak Prescott wants to play in Week 18 vs. Giants - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/despite-taking-hits-no-question-dak-prescott-wants-to-play-in-week-18-vs-giants"
-    },
-    {
-      "title": "Lamar Jackson Trade Rumors: 3 Trade Fits if Ravens Move on From Star QB - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/3-best-preliminary-trade-fits-lamar-jackson-amid-recent-rumors-ravens-future"
-    },
-    {
-      "title": "Top games to watch when NHL resumes Saturday - NHL.com",
-      "link": "https://www.nhl.com/news/top-games-to-watch-when-nhl-resumes-after-2025-christmas-break"
-    },
-    {
-      "title": "Winter Classic in Miami, milestones among 10 things to watch in NHL before Olympic break - NHL.com",
-      "link": "https://www.nhl.com/news/10-things-to-watch-in-nhl-before-olympic-break"
-    },
-    {
-      "title": "O-Zone: Happy Krimma - Jaguars.com",
-      "link": "https://www.jaguars.com/news/o-zone-happy-krimma"
     }
   ],
   "weather": {
