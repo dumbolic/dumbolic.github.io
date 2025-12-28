@@ -1,9 +1,9 @@
 {
-  "quote": "Don't be afraid to go slowly. Be afraid of stopping. \u2013 Zen Proverb",
-  "fact": "Blondes have more hair than dark-haired people do.",
-  "crypto": "BTC: $87,595 | ETH: $2,941.64",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do you call a group of disorganized cats? A cat-tastrophe.",
+  "quote": "Cleverness is not wisdom. \u2013 Euripides",
+  "fact": "Sex burns 360 calories per hour.",
+  "crypto": "BTC: $87,734 | ETH: $2,944.81",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What does a clock do when it's hungry? It goes back four seconds!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Rainbow Six Siege hacked as attackers give players billions of in-game currency \u2013 Ubisoft responds - Dexerto",
-      "link": "https://www.dexerto.com/rainbow-six/rainbow-six-siege-hacked-as-attackers-give-players-billions-of-in-game-currency-ubisoft-responds-3298216/"
+      "title": "\"A Knife Can Be Used For Cooking Or As A Weapon\" - Level-5 Boss Defends GenAI In Game Development - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/12/a-knife-can-be-used-for-cooking-or-as-a-weapon-level-5-boss-defends-genai-in-game-development"
+    },
+    {
+      "title": "The Analogue 3D Is The Best Retro Hardware Of 2025 - Time Extension",
+      "link": "https://www.timeextension.com/features/the-analogue-3d-is-the-best-retro-hardware-of-2025"
+    },
+    {
+      "title": "Report: BioShock 4 Brief Glimpse Into the Characters and Setting - MP1st",
+      "link": "https://mp1st.com/news/bioshock-4-glimpse-into-characters-setting"
+    },
+    {
+      "title": "AI is getting better and better at generating faces \u2014 but you can train to spot the fakes - Live Science",
+      "link": "https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes"
     },
     {
       "title": "Saturday Pre-orders \u2013 Suit up for spectacular sieges in the Age of Darkness - Warhammer Community",
@@ -28,6 +40,10 @@
       "link": "http://9to5google.com/2025/12/27/recap-material-3-expressive/"
     },
     {
+      "title": "Asus Unveil the ROG Swift PG32UCDM3 with a 4th Gen QD-OLED Panel and New BlackShield Film - TFTCentral",
+      "link": "https://tftcentral.co.uk/news/asus-unveil-the-rog-swift-pg32ucdm3-with-a-4th-gen-qd-oled-panel-and-new-blackshield-film"
+    },
+    {
       "title": "Philadelphia lacked bus-tracking signs. \u2018Bus Stop Banksy\u2019 stepped in. - The Washington Post",
       "link": "https://www.washingtonpost.com/nation/interactive/2025/philadelphia-street-artist-bus-signs/"
     },
@@ -36,8 +52,20 @@
       "link": "https://www.minecraft.net/en-us/article/shaping-2025-in-minecraft"
     },
     {
-      "title": "\u2018Focus, M\u2019: What Is The New Meme Everyone Is Misusing? - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2025/12/27/focus-m-what-is-the-new-meme-everyone-is-misusing/"
+      "title": "After Outcry, Firefox Promises \"Kill Switch\" That Turns Off All AI Features - Futurism",
+      "link": "http://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features"
+    },
+    {
+      "title": "Rainbow Six Siege Hacked as Players Get Billions of Credits and Random Bans - shanethegamer.com",
+      "link": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/"
+    },
+    {
+      "title": "Evidence of a quantum spin liquid ground state in a kagome material - Phys.org",
+      "link": "https://phys.org/news/2025-12-evidence-quantum-liquid-ground-state.html"
+    },
+    {
+      "title": "The 7 top space and defense tech startups from Disrupt Startup Battlefield - TechCrunch",
+      "link": "https://techcrunch.com/2025/12/27/the-7-top-space-and-defense-tech-startups-from-disrupt-startup-battlefield/"
     },
     {
       "title": "Just unwrap a new iPhone? Here are my favorite MagSafe accessories - 9to5Mac",
@@ -48,74 +76,90 @@
       "link": "https://www.gamespot.com/articles/in-the-switch-2s-first-year-every-third-party-port-tells-a-story-about-the-system/1100-6536987/"
     },
     {
+      "title": "Snapdragon 8 Elite Gen 5 vs. Exynos 2600: The chips powering 2026 flagships - Android Police",
+      "link": "https://www.androidpolice.com/snapdragon-8-elite-gen-5-vs-exynos-2600/"
+    },
+    {
+      "title": "8 great games for your Steam Deck from 2025 - The Verge",
+      "link": "https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve"
+    },
+    {
       "title": "Legion Go systems joins MSI and ASUS with Xbox Full Screen Experience - VideoCardz.com",
       "link": "https://videocardz.com/newz/legion-go-systems-joins-msi-and-asus-with-xbox-full-screen-experience"
     },
     {
       "title": "Xbox is Dead. Long Live Xbox - XboxEra",
       "link": "https://xboxera.com/2025/12/27/xbox-is-dead-long-live-xbox/"
-    },
-    {
-      "title": "The single best Google Keep feature that turned me into a power user - Android Police",
-      "link": "https://www.androidpolice.com/best-google-keep-feature-that-turned-into-power-user/"
-    },
-    {
-      "title": "Linux Kernel Highlights For 2025: Schedulers, Rust & Torvalds' Commentary - Phoronix",
-      "link": "https://www.phoronix.com/news/Linux-Kernel-Highlights-2025"
-    },
-    {
-      "title": "This Take on the Iconic Royal Oak Is So Impressive, It Seems Impossible - Gear Patrol",
-      "link": "https://www.gearpatrol.com/watches/audemars-piguet-royal-oak-rd5-gp100/"
-    },
-    {
-      "title": "Board Channels: AMD and NVIDIA GPU price hikes may reach AIB cards in Jan-Feb 2026 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/board-channels-amd-and-nvidia-gpu-price-hikes-may-reach-aib-cards-in-jan-feb-2026"
-    },
-    {
-      "title": "The best Samsung accessories for your new Galaxy S25 - Android Authority",
-      "link": "https://www.androidauthority.com/best-samsung-accessories-galaxy-s25-3627739/"
-    },
-    {
-      "title": "I tried out an induction stove that works even when the power goes out - Tom's Guide",
-      "link": "https://www.tomsguide.com/home/home-appliances/i-tried-out-an-induction-stove-that-works-even-when-the-power-goes-out"
-    },
-    {
-      "title": "CES 2026 could change TVs forever \u2014 here's what to expect - Tom's Guide",
-      "link": "https://www.tomsguide.com/tvs/ces-2026-could-change-tvs-forever-heres-what-to-expect"
-    },
-    {
-      "title": "Bang for your buck: the best affordable watches of 2025 - Time+Tide Watches",
-      "link": "https://timeandtidewatches.com/best-affordable-watches-of-2025/"
-    },
-    {
-      "title": "2025 EDGE awards, top 10 games of the year - Nintendo Everything",
-      "link": "https://nintendoeverything.com/2025-edge-awards-top-10-games-of-the-year/"
     }
   ],
   "sports_news": [
+    {
+      "title": "NFL Week 17 highlights: Chargers cut into Texans' lead late in 4Q - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47426988/nfl-week-17-highlights-touchdowns-plays-moments-saturday-sunday"
+    },
+    {
+      "title": "The Ashes: MCG curator Matthew Fox in 'state of shock' over two-day Test - BBC",
+      "link": "https://www.bbc.com/sport/cricket/articles/ckgkd2gzq4xo"
+    },
+    {
+      "title": "With Lamar Jackson Inactive, It\u2019s Backup Battle in Lambeau - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/lamar-jackson-inactive-ravens-packers-tyler-huntley-malik-willis-2025"
+    },
+    {
+      "title": "Raiders place Maxx Crosby on injured reserve with knee injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-place-maxx-crosby-on-injured-reserve-with-knee-injury"
+    },
+    {
+      "title": "Ravens vs Packers Predictions, Picks & Best Bets for NFL Week 17 Tonight - Covers.com",
+      "link": "https://www.covers.com/nfl/ravens-vs-packers-predictions-picks-today-december-27-2025"
+    },
+    {
+      "title": "Porter Martone (CAN) issued formal warning by IIHF - IIHF",
+      "link": "https://www.iihf.com/en/events/2026/wm20/news/71428/porter_martone_(can)_issued_formal_warning_by_iihf"
+    },
+    {
+      "title": "Seahawks Elevate RB Cam Akers & T Amari Kight From Practice Squad For Week 17 Game at Carolina - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-elevate-rb-cam-akers-t-amari-kight-from-practice-squad-for-week-17-game-at-carolina"
+    },
+    {
+      "title": "Roster Analysis: Patriots Place WR Mack Hollins on Injured Reserve, Sign DT Jeremiah Pharms Jr. and Elevate Two Players from the Practice Squad for Sunday's Game vs. Jets - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/roster-analysis-patriots-place-wr-mack-hollins-on-injured-reserve-sign-dt-jeremiah-pharms-jr-and-elevate-two-players-from-the-practice-squad-for-sunday-s-game-vs-jets"
+    },
+    {
+      "title": "Buffalo Bills sign TE Keleki Latu to active roster, WR Mecole Hardman Jr. released - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-sign-te-keleki-latu-to-active-roster-wr-mecole-hardman-jr-released"
+    },
+    {
+      "title": "Ravens Activate Jay Higgins IV From Injured Reserve to 53-Man Roster - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/jay-higgins-ravens-transaction-injured-reserve-53-man-roster-knee"
+    },
+    {
+      "title": "ECU overcomes inadvertent whistle to upset Pitt - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47428127/ecu-td-negated-whistle-pirates-military-bowl-win"
+    },
+    {
+      "title": "Michigan QB Bryce Underwood to weigh future after Whittingham hire - MLive.com",
+      "link": "https://www.mlive.com/wolverines/2025/12/michigan-qb-bryce-underwood-to-weigh-future-after-whittingham-hire.html"
+    },
+    {
+      "title": "Chargers vs. Texans live updates: Score, highlights, key moments for Saturday game - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/chargers-vs-texans-live-updates-score-highlights-key-moments/live/"
+    },
     {
       "title": "Chargers-Texans Inactives for Week 17: Kimani Vidal Out Against Houston - Chargers.com",
       "link": "https://www.chargers.com/news/texans-inactives-week-17-kimani-vidal"
     },
     {
-      "title": "5 Final Thoughts Ahead of Chargers-Texans in Week 17 - Chargers.com",
-      "link": "https://www.chargers.com/news/texans-playoff-chances-game-preview-week-17"
+      "title": "Chelsea 1-2 Aston Villa (Dec 27, 2025) Game Analysis - ESPN",
+      "link": "https://www.espn.com/soccer/report/_/gameId/740766"
     },
     {
-      "title": "Eagles News: Maxx Crosby to Philly in 2026? - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/167094/eagles-news-maxx-crosby-to-philly-in-2026"
+      "title": "'He just needed more time' - Wirtz finally breaks Liverpool duck - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cwyg5v09rwvo"
     },
     {
       "title": "Projected Lineup: Dec. 27 vs. Nashville - NHL.com",
       "link": "https://www.nhl.com/blues/news/projected-lineup-dec-27-vs-nashville"
-    },
-    {
-      "title": "Arsenal 2-1 Brighton (Dec 27, 2025) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/740772"
-    },
-    {
-      "title": "Liverpool 2-1 Wolves (Dec 27, 2025) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/740775"
     },
     {
       "title": "Buffalo Bills vs. Philadelphia Eagles Game Predictions | Week 17 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
@@ -128,50 +172,6 @@
     {
       "title": "NHL Status Report: Horvat to return for Islanders against Rangers - NHL.com",
       "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-december-27-2025"
-    },
-    {
-      "title": "Nottm Forest 1-2 Man City (Dec 27, 2025) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/740770"
-    },
-    {
-      "title": "3 DC candidates that make sense for Kyle Whittingham at Michigan - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/102039/michigan-football-kyle-whittingham-defensive-coordinator-jay-hill-lewis-powell-gary-andersen"
-    },
-    {
-      "title": "Inoue, Nakatani win to set up 2026 megafight - ESPN",
-      "link": "https://www.espn.com/boxing/story/_/id/47426170/naoya-inoue-junto-nakatani-win-set-2026-megafight"
-    },
-    {
-      "title": "Dr. Pat McKenzie on retiring from Packers: \u2018You can\u2019t find any place better than this\u2019 - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/dr-pat-mckenzie-on-retiring-from-packers-you-can-t-find-any-place-better-than-this"
-    },
-    {
-      "title": "'Crazy': Scheib grabs her third GS win of the season - FIS",
-      "link": "https://www.fis-ski.com/alpine-skiing/news/2025-26/crazy-scheib-grabs-her-third-gs-win-of-the-season"
-    },
-    {
-      "title": "How to watch BYU vs. Georgia Tech in the Pop-Tarts Bowl - The Salt Lake Tribune",
-      "link": "https://www.sltrib.com/sports/byu-cougars/2025/12/27/byu-football-how-watch-cougars-pop/"
-    },
-    {
-      "title": "END OF YEAR REPORT: Williams\u2019 best and worst moments from 2025 and driver head-to-heads - F1",
-      "link": "https://www.formula1.com/en/latest/article/end-of-year-report-williams-best-and-worst-moments-from-2025-and-driver-head.3oK3pmo1Avmt87xuZkvtCd"
-    },
-    {
-      "title": "Premier League as-it-happened: Chelsea fell to Villa in Champions League race - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/47327288/premier-league-live-updates-nottingham-forest-manchester-city-arsenal-brighton-liverpool-wolves-chelsea-aston-villa"
-    },
-    {
-      "title": "UTSA 57-20 Florida International (Dec 26, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/college-football/recap?gameId\\\\u003d401778315"
-    },
-    {
-      "title": "Clippers 119-103 Trail Blazers (Dec 26, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810286"
-    },
-    {
-      "title": "Jaylen Brown extends streak of 30-plus-points to 8 games - NBA",
-      "link": "https://www.nba.com/news/jaylen-brown-extends-30-point-plus-scoring-streak-to-8-straight-games"
     }
   ],
   "weather": {
