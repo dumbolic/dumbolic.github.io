@@ -1,9 +1,9 @@
 {
-  "quote": "Chase your passion, not your pension.  \u2013 Denis Waitley",
-  "fact": "Your stomach produces a new layer of mucus every two weeks so that it doesn\u2019t digest itself.",
-  "crypto": "BTC: $87,670 | ETH: $2,937.02",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
+  "quote": "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. \u2013 Zen Proverb",
+  "fact": "The Declaration of Independence was written on hemp (marijuana) paper.",
+  "crypto": "BTC: $87,634 | ETH: $2,937.9",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Where does Napoleon keep his armies? In his sleevies.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Switch Online's 'Missions And Rewards' Brings Back Previous 2025 Icons - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2025/12/switch-onlines-missions-and-rewards-brings-back-previous-2025-icons"
+    },
+    {
+      "title": "It's time to stock up on chargers - Android Police",
+      "link": "https://www.androidpolice.com/it-might-be-time-to-stock-up-on-chargers/"
+    },
     {
       "title": "Scientists Make Material That Can Morph Into Anything With the Pull of a String - Gizmodo",
       "link": "https://gizmodo.com/scientists-make-material-that-can-morph-into-anything-with-the-pull-of-a-string-2000703588"
@@ -36,16 +44,24 @@
       "link": "https://kotaku.com/every-time-todd-howard-has-talked-about-fallout-5-2000655749"
     },
     {
+      "title": "Detecting the hidden magnetism of altermagnets - Phys.org",
+      "link": "https://phys.org/news/2025-12-hidden-magnetism-altermagnets.html"
+    },
+    {
+      "title": "DRAM Shortage Predicted To Cause Launch Delays For Major Brands - TechPowerUp",
+      "link": "https://www.techpowerup.com/344445/dram-shortage-predicted-to-cause-launch-delays-for-major-brands"
+    },
+    {
       "title": "Guilty Gear Strive Producer offers details on big Version 2.0 update including new characters, rebalancing, new moves and more - EventHubs",
       "link": "https://www.eventhubs.com/news/2025/dec/26/guilty-gear-version-2/"
     },
     {
-      "title": "Rob Pike got spammed with an AI slop \"act of kindness\" - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46394867"
+      "title": "How uv got so fast - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46393992"
     },
     {
-      "title": "Stop the slop by disabling AI features in Chrome - theregister.com",
-      "link": "https://www.theregister.com/2025/12/26/disable_ai_features_chrome/"
+      "title": "Rob Pike got spammed with an AI slop \"act of kindness\" - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46394867"
     },
     {
       "title": "Billionaire Bill Koch Slashes Price of Aspen Mansion to $99 Million - Mansion Global",
@@ -56,10 +72,6 @@
       "link": "https://insideevs.com/news/782848/2025-hyundai-ioniq-5-p1aa700/"
     },
     {
-      "title": "Atlus 2026 Aspirations Tease Upcoming Persona 30th Anniversary Announcements - Persona Central",
-      "link": "https://personacentral.com/atlus-2026-aspirations-tease/"
-    },
-    {
       "title": "Arc Raiders Battle Pass 2 - All Goalie Raider Deck Rewards - GameSpot",
       "link": "https://www.gamespot.com/gallery/arc-raiders-battle-pass-2-all-goalie-raider-deck-rewards/2900-7345/"
     },
@@ -68,27 +80,35 @@
       "link": "https://www.bgr.com/2057391/essential-steam-deck-apps-you-should-use-2025/"
     },
     {
-      "title": "Apple, Google, Amazon or Roku: Which is the best streaming device? - Space",
-      "link": "https://www.space.com/technology/amazon-fire-tv-stick-versus-roku-ultra-versus-apple-tv-versus-google-tv-streamer-the-best-streaming-device-out-there"
-    },
-    {
       "title": "The World's Smallest Programmable Robot Can Barely Be Seen - ScienceAlert",
       "link": "https://www.sciencealert.com/the-worlds-smallest-programmable-robot-can-barely-be-seen"
     },
     {
       "title": "Level-5 CEO Wants People To Stop Demonizing Generative AI - Kotaku",
       "link": "https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721"
-    },
-    {
-      "title": "Join Me While I Pour One Out for the Cadillac XT6 - The Drive",
-      "link": "http://www.thedrive.com/news/join-me-while-i-pour-one-out-for-the-cadillac-xt6"
-    },
-    {
-      "title": "Musical expertise is associated with specific cognitive and personality traits beyond memory performance - PsyPost",
-      "link": "https://www.psypost.org/musical-expertise-is-associated-with-specific-cognitive-and-personality-traits-beyond-memory-performance/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles - ESPN",
+      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios"
+    },
+    {
+      "title": "Clippers 119-103 Trail Blazers (Dec 26, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810286"
+    },
+    {
+      "title": "U.S. motors past Germany - IIHF",
+      "link": "https://www.iihf.com/en/events/2026/wm20/news/71407/ger-usa"
+    },
+    {
+      "title": "Bulls 109-102 76ers (Dec 26, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810282"
+    },
+    {
+      "title": "Austin Reaves will miss at least a month with calf injury - NBA",
+      "link": "https://www.nba.com/news/austin-reaves-will-miss-at-least-a-month-with-calf-injury"
+    },
     {
       "title": "Kyle Whittingham Named Michigan's J. Ira and Nicki Harris Family Head Football Coach - University of Michigan Athletics",
       "link": "https://mgoblue.com/news/2025/12/26/kyle-whittingham-named-michigans-j-ira-and-nicki-harris-family-head-football-coach"
@@ -98,24 +118,8 @@
       "link": "https://www.espn.com/college-football/recap?gameId\\\\u003d401778314"
     },
     {
-      "title": "Boston Celtics vs. Indiana Pacers Live Score and Stats - December 26, 2025 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20251226_BOS@IND/"
-    },
-    {
-      "title": "Lakers' Reaves (calf strain) out at least 1 month - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/47422711/lakers-austin-reaves-sidelined-least-4-weeks-due-left-calf-strain"
-    },
-    {
-      "title": "Zellers leads U.S. past Germany at world juniors - ESPN",
-      "link": "https://www.espn.com/olympics/hockey/story/_/id/47422660/will-zellers-scores-twice-us-win-vs-germany-open-world-junior-championships"
-    },
-    {
-      "title": "Pavia lawyer cites Nnaji's return to college in suit - ESPN",
-      "link": "https://www.espn.com.au/college-football/story/_/id/47422562/pavia-lawyer-cites-nba-draft-pick-return-college-suit"
-    },
-    {
-      "title": "The Ashes 2025-26: Gus Atkinson adds to England injury concerns - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/cd9z31jdqzeo"
+      "title": "Kon Knueppel suffers right ankle injury and exits early vs. Magic - NBA",
+      "link": "https://www.nba.com/news/kon-knueppel-suffers-right-ankle-injury-and-exits-early-vs-magic"
     },
     {
       "title": "Each team's prospect to watch for 2026 - MLB.com",
@@ -132,10 +136,6 @@
     {
       "title": "Raiders-Giants Week 17 Injury Report: 2 Raiders ruled out, 2 questionable to play - Raiders.com",
       "link": "https://www.raiders.com/news/las-vegas-raiders-new-york-giants-nfl-week-17-injury-report"
-    },
-    {
-      "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles - ESPN",
-      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios"
     },
     {
       "title": "Week 17 Friday Injury Report: Two out for Seahawks game - Panthers.com",
