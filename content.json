@@ -1,9 +1,9 @@
 {
-  "quote": "Do what you can, with what you have, where you are. \u2013 Theodore Roosevelt",
-  "fact": "Maine is the only state whose name is just one syllable.",
-  "crypto": "BTC: $87,712 | ETH: $2,945.76",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Two muffins were sitting in an oven, and the first looks over to the second, and says, \u201cman, it\u2019s really hot in here\u201d. The second looks over at the first with a surprised look, and answers, \u201cWHOA, a talking muffin!\u201d",
+  "quote": "A little impatience will spoil great plans. \u2013 Chinese Proverb",
+  "fact": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
+  "crypto": "BTC: $88,323 | ETH: $2,978.51",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Samsung will debut two new wireless speakers at CES 2026 - The Verge",
+      "link": "https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics"
+    },
+    {
       "title": "\"A Knife Can Be Used For Cooking Or As A Weapon\" - Level-5 Boss Defends GenAI In Game Development - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2025/12/a-knife-can-be-used-for-cooking-or-as-a-weapon-level-5-boss-defends-genai-in-game-development"
     },
     {
       "title": "The Analogue 3D Is The Best Retro Hardware Of 2025 - Time Extension",
       "link": "https://www.timeextension.com/features/the-analogue-3d-is-the-best-retro-hardware-of-2025"
-    },
-    {
-      "title": "Report: BioShock 4 Brief Glimpse Into the Characters and Setting - MP1st",
-      "link": "https://mp1st.com/news/bioshock-4-glimpse-into-characters-setting"
     },
     {
       "title": "AI is getting better and better at generating faces \u2014 but you can train to spot the fakes - Live Science",
@@ -34,6 +34,10 @@
     {
       "title": "I Never Pay for Cloud Storage: Here's My DIY Method for Storing Photos and Videos - CNET",
       "link": "https://www.cnet.com/tech/services-and-software/stop-paying-for-photo-video-cloud-storage/"
+    },
+    {
+      "title": "12 Tech Gifts Ideas That Older People Will Find Useful - SlashGear",
+      "link": "https://www.slashgear.com/2059015/actually-useful-tech-gifts-for-older-people/"
     },
     {
       "title": "Recap: Expressive Android, but Material \u20183.5\u2019 apps - 9to5Google",
@@ -52,20 +56,12 @@
       "link": "https://www.minecraft.net/en-us/article/shaping-2025-in-minecraft"
     },
     {
-      "title": "After Outcry, Firefox Promises \"Kill Switch\" That Turns Off All AI Features - Futurism",
-      "link": "http://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features"
-    },
-    {
       "title": "Rainbow Six Siege Hacked as Players Get Billions of Credits and Random Bans - shanethegamer.com",
       "link": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/"
     },
     {
       "title": "Evidence of a quantum spin liquid ground state in a kagome material - Phys.org",
       "link": "https://phys.org/news/2025-12-evidence-quantum-liquid-ground-state.html"
-    },
-    {
-      "title": "The 7 top space and defense tech startups from Disrupt Startup Battlefield - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/27/the-7-top-space-and-defense-tech-startups-from-disrupt-startup-battlefield/"
     },
     {
       "title": "Just unwrap a new iPhone? Here are my favorite MagSafe accessories - 9to5Mac",
@@ -76,12 +72,16 @@
       "link": "https://www.gamespot.com/articles/in-the-switch-2s-first-year-every-third-party-port-tells-a-story-about-the-system/1100-6536987/"
     },
     {
+      "title": "TAG Heuer\u2019s Buzziest 2025 Watch Is a Clever Reimagining of an \u201980s Legend - Gear Patrol",
+      "link": "https://www.gearpatrol.com/watches/tag-heuer-formula-one-solargraph-gp100/"
+    },
+    {
       "title": "Snapdragon 8 Elite Gen 5 vs. Exynos 2600: The chips powering 2026 flagships - Android Police",
       "link": "https://www.androidpolice.com/snapdragon-8-elite-gen-5-vs-exynos-2600/"
     },
     {
-      "title": "8 great games for your Steam Deck from 2025 - The Verge",
-      "link": "https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve"
+      "title": "Japan: Mario Kart World reaches 2.5 million physical copies sold and is fastest selling game in series - My Nintendo News",
+      "link": "https://mynintendonews.com/2025/12/27/japan-mario-kart-world-reaches-2-5-million-physical-copies-sold-and-is-fastest-selling-game-in-series/"
     },
     {
       "title": "Legion Go systems joins MSI and ASUS with Xbox Full Screen Experience - VideoCardz.com",
@@ -94,24 +94,60 @@
   ],
   "sports_news": [
     {
-      "title": "NFL Week 17 highlights: Chargers cut into Texans' lead late in 4Q - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47426988/nfl-week-17-highlights-touchdowns-plays-moments-saturday-sunday"
+      "title": "RB Henry passes Dorsett on all-time rushing list - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47430326/ravens-derrick-henry-passes-tony-dorsett-all-rushing-list"
+    },
+    {
+      "title": "Broncos clinch 2025 AFC West division title - Denver Broncos",
+      "link": "https://www.denverbroncos.com/news/broncos-clinch-2025-afc-west-division-title"
+    },
+    {
+      "title": "Dallas Mavericks vs. Sacramento Kings Live Score and Stats - December 27, 2025 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20251227_DAL@SAC/"
+    },
+    {
+      "title": "Each team's bounce-back candidate for 2026 - MLB.com",
+      "link": "https://www.mlb.com/news/2026-mlb-bounce-back-candidates-for-every-team"
+    },
+    {
+      "title": "Canada nips Latvia in OT - IIHF",
+      "link": "https://www.iihf.com/en/events/2026/wm20/news/71429/lat-can"
+    },
+    {
+      "title": "Looking back on milestones we celebrated in 2025 - MLB.com",
+      "link": "https://www.mlb.com/news/milestones-reached-in-2025"
     },
     {
       "title": "The Ashes: MCG curator Matthew Fox in 'state of shock' over two-day Test - BBC",
       "link": "https://www.bbc.com/sport/cricket/articles/ckgkd2gzq4xo"
     },
     {
+      "title": "Moser signs 8-year, $54 million contract with Lightning - NHL.com",
+      "link": "https://www.nhl.com/news/tampa-bay-lightning-sign-jj-moser-to-eight-year-contract"
+    },
+    {
       "title": "With Lamar Jackson Inactive, It\u2019s Backup Battle in Lambeau - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/lamar-jackson-inactive-ravens-packers-tyler-huntley-malik-willis-2025"
+    },
+    {
+      "title": "2025 MLS Cup Champions Announce First Preseason Matches of 2026 Champions Tour - intermiamicf",
+      "link": "https://www.intermiamicf.com/news/2025-mls-cup-champions-announce-first-preseason-matches-of-2026-champions-tour"
     },
     {
       "title": "Raiders place Maxx Crosby on injured reserve with knee injury - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-place-maxx-crosby-on-injured-reserve-with-knee-injury"
     },
     {
+      "title": "Penn State 22-10 Clemson (Dec 27, 2025) Game Recap - ESPN",
+      "link": "https://www.espn.com/college-football/recap?gameId\\\\u003d401778317"
+    },
+    {
       "title": "Ravens vs Packers Predictions, Picks & Best Bets for NFL Week 17 Tonight - Covers.com",
       "link": "https://www.covers.com/nfl/ravens-vs-packers-predictions-picks-today-december-27-2025"
+    },
+    {
+      "title": "Slovaks get into the win column - IIHF",
+      "link": "https://www.iihf.com/en/events/2026/wm20/news/71427/slovaks_get_in_the_win_column"
     },
     {
       "title": "Porter Martone (CAN) issued formal warning by IIHF - IIHF",
@@ -134,44 +170,8 @@
       "link": "https://www.baltimoreravens.com/news/jay-higgins-ravens-transaction-injured-reserve-53-man-roster-knee"
     },
     {
-      "title": "ECU overcomes inadvertent whistle to upset Pitt - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47428127/ecu-td-negated-whistle-pirates-military-bowl-win"
-    },
-    {
-      "title": "Michigan QB Bryce Underwood to weigh future after Whittingham hire - MLive.com",
-      "link": "https://www.mlive.com/wolverines/2025/12/michigan-qb-bryce-underwood-to-weigh-future-after-whittingham-hire.html"
-    },
-    {
-      "title": "Chargers vs. Texans live updates: Score, highlights, key moments for Saturday game - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/chargers-vs-texans-live-updates-score-highlights-key-moments/live/"
-    },
-    {
-      "title": "Chargers-Texans Inactives for Week 17: Kimani Vidal Out Against Houston - Chargers.com",
-      "link": "https://www.chargers.com/news/texans-inactives-week-17-kimani-vidal"
-    },
-    {
-      "title": "Chelsea 1-2 Aston Villa (Dec 27, 2025) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/740766"
-    },
-    {
-      "title": "'He just needed more time' - Wirtz finally breaks Liverpool duck - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cwyg5v09rwvo"
-    },
-    {
-      "title": "Projected Lineup: Dec. 27 vs. Nashville - NHL.com",
-      "link": "https://www.nhl.com/blues/news/projected-lineup-dec-27-vs-nashville"
-    },
-    {
-      "title": "Buffalo Bills vs. Philadelphia Eagles Game Predictions | Week 17 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-philadelphia-eagles-game-predictions-week-17"
-    },
-    {
-      "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
-      "link": "https://www.ncaa.com/news/football/article/2025-12-27/2025-26-college-football-bowl-game-schedule-scores-tv-channels-times"
-    },
-    {
-      "title": "NHL Status Report: Horvat to return for Islanders against Rangers - NHL.com",
-      "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-december-27-2025"
+      "title": "Bryce Underwood 'pretty excited' about Michigan hiring Kyle Whittingham - The Detroit News",
+      "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2025/12/27/bryce-underwood-pretty-excited-about-michigan-hiring-kyle-whittingham/87928852007/"
     }
   ],
   "weather": {
