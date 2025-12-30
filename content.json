@@ -1,9 +1,9 @@
 {
-  "quote": "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. \u2013 Anne Wilson Schaef",
-  "fact": "There is a seven letter word in the English language that contains ten words without rearranging any of its letters, \"therein\": the, there, he, in, rein, her, here, ere, therein, herein. \u00a0",
-  "crypto": "BTC: $88,538 | ETH: $2,974.95",
+  "quote": "If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results. \u2013 Tony Robbins",
+  "fact": "Men can read smaller print than women; women can hear better.",
+  "crypto": "BTC: $88,511 | ETH: $2,974.17",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a careful wolf? Aware wolf.",
+  "joke": "How do you get a baby alien to sleep?  You rocket.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,106 +12,134 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Turn your PC into a Super Nintendo with Epilogue\u2019s new USB dock - The Verge",
+      "link": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator"
+    },
+    {
+      "title": "Want to live longer? Try fartleks. - The Washington Post",
+      "link": "https://www.washingtonpost.com/podcasts/post-reports/want-to-live-longer-try-fartleks-/"
+    },
+    {
+      "title": "Next year, the Mac could finally get two features I\u2019ve long wished for - 9to5Mac",
+      "link": "https://9to5mac.com/2025/12/29/next-year-the-mac-could-finally-get-two-features-ive-long-wished-for/"
+    },
+    {
+      "title": "CD PROJEKT co-founder Micha\u0142 Kici\u0144ski acquires GOG from CD PROJEKT - cdprojekt.com",
+      "link": "https://www.cdprojekt.com/en/media/news/cd-projekt-co-founder-michal-kicinski-acquires-gog-from-cd-projekt/"
+    },
+    {
+      "title": "HyperX OMEN OLED gaming monitor leaked ahead of CES 2026 reveal - VideoCardz.com",
+      "link": "https://videocardz.com/newz/hyperx-omen-oled-gaming-monitor-leaked-ahead-of-ces-2026-reveal"
+    },
+    {
+      "title": "Warhammer Miniature of the Year 2025 \u2013 The winners revealed - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/j9nqbfym/warhammer-miniature-of-the-year-2025-the-winners-revealed"
+    },
+    {
+      "title": "Report: Xbox & PlayStation Could Delay Next-Gen Consoles Due To RAM Price Increases - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2025/12/report-xbox-and-playstation-could-delay-next-gen-consoles-due-to-ram-price-increases"
+    },
+    {
+      "title": "The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers - Phoronix",
+      "link": "https://www.phoronix.com/review/epyc-cachyos-server-preview"
+    },
+    {
+      "title": "Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026 - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/zuyx9b9b/introduce-new-people-to-warhammer-and-help-us-reach-a-target-of-one-million-miniatures-painted-in-2026"
+    },
+    {
+      "title": "Cinebench 2026 released with support for AMD RDNA4 and NVIDIA Blackwell GPUs - VideoCardz.com",
+      "link": "https://videocardz.com/newz/cinebench-2026-released-with-support-for-amd-rdna4-and-nvidia-blackwell-gpus"
+    },
+    {
+      "title": "Shader Beam brings CRT-style motion clarity to high-refresh monitors - VideoCardz.com",
+      "link": "https://videocardz.com/newz/shaderbeam-brings-crt-style-motion-clarity-to-high-refresh-monitors"
+    },
+    {
+      "title": "How \u2018Clair Obscur: Expedition 33\u2019 Revitalized the RPG and Won Game of the Year - The Ringer",
+      "link": "https://www.theringer.com/2025/12/29/video-games/clair-obscur-expedition-33-reviews-game-of-the-year-impact"
+    },
+    {
+      "title": "Former PlayStation Exec Says Sony, Microsoft, and Nintendo Must Learn From VHS's Victory Over Betamax if They Want to Truly Expand the Console Audience - IGN",
+      "link": "https://www.ign.com/articles/former-playstation-exec-says-sony-microsoft-and-nintendo-must-learn-from-vhss-victory-over-betamax-if-they-want-to-truly-expand-the-console-audience"
+    },
+    {
+      "title": "Submit to the will of the Omnissiah for a free miniature this month, and covertly acquire a Deathwatch coin - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/hlvn37ct/submit-to-the-will-of-the-omnissiah-for-a-free-miniature-this-month-and-covertly-acquire-a-deathwatch-coin"
+    },
+    {
+      "title": "HKC reveals 1Hz to 60Hz adaptive ultra-low power laptop display - VideoCardz.com",
+      "link": "https://videocardz.com/newz/hkc-reveals-1hz-to-60hz-adaptive-ultra-low-power-laptop-display"
+    },
+    {
+      "title": "7 Of The Weirdest Cars Owned By Celebrities - Jalopnik",
+      "link": "https://www.jalopnik.com/2058098/weirdest-cars-owned-by-celebrities/"
+    },
+    {
+      "title": "Linux will be unstoppable in 2026 - but one open-source legend may not survive - ZDNET",
+      "link": "https://www.zdnet.com/article/linux-and-open-source-2026-predictions/"
+    },
+    {
       "title": "Windows on Arm had another good year - The Verge",
       "link": "https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia"
-    },
-    {
-      "title": "Penises set Dispatch apart, and I mean that quite sincerely - Eurogamer",
-      "link": "https://www.eurogamer.net/games-of-2025-dispatch"
-    },
-    {
-      "title": "We've Got Our First Clair Obscur-like, And It's A Chinese Game Called Sword And Fairy 4: Remake - TheGamer",
-      "link": "https://www.thegamer.com/clair-obscur-expedition-33-clone-sword-and-fairy-4-remake/"
-    },
-    {
-      "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade - WIRED",
-      "link": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/"
-    },
-    {
-      "title": "James Bond game 007 First Light delayed to May 2026 - BBC",
-      "link": "https://www.bbc.com/news/articles/c1lrlm9ydgno"
-    },
-    {
-      "title": "Dell confirms Ryzen 7 9850X3D update for Alienware Area-51 PC set to launch in February 2026 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/dell-confirms-ryzen-7-9850x3d-update-for-alienware-area-51-pc-set-to-launch-in-february-2026"
-    },
-    {
-      "title": "Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China - supercarblondie.com",
-      "link": "https://supercarblondie.com/man-builds-diy-apple-watch-from-scratch/"
-    },
-    {
-      "title": "Japan\u2019s Viral Horse-Racing Video Game Has Players Flocking to Real-Life Stables - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2025-12-29/-umamusume-pretty-derby-horse-racing-video-game-sends-players-to-stables"
-    },
-    {
-      "title": "Streaming Music To Cassette - Hackaday",
-      "link": "https://hackaday.com/2025/12/28/streaming-music-to-cassette/"
-    },
-    {
-      "title": "KDE Plasma's Wayland Transition \"Nears Completion\" In Ending Out 2025 - Phoronix",
-      "link": "https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success"
-    },
-    {
-      "title": "Retro Semiconductors: The Silicon Controlled Rectifier - Hackaday",
-      "link": "https://hackaday.com/2025/12/28/retro-semiconductors-the-silicon-controlled-rectifier/"
-    },
-    {
-      "title": "What an unprocessed photo looks like - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46415225"
-    },
-    {
-      "title": "Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable",
-      "link": "https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows"
-    },
-    {
-      "title": "Samsung Plans To Bring Google Photos to Samsung AI TV Lineup, Helping Users Relive Their Favorite Memories on the Big Screen - samsung.com",
-      "link": "https://news.samsung.com/global/samsung-plans-to-bring-google-photos-to-samsung-ai-tv-lineup-helping-users-relive-their-favorite-memories-on-the-big-screen"
-    },
-    {
-      "title": "Gpg.fail - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46403200"
-    },
-    {
-      "title": "You may soon be able to change your Gmail address - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/"
-    },
-    {
-      "title": "Photographing Cosmic Rays With A Consumer Camera - Hackaday",
-      "link": "https://hackaday.com/2025/12/28/photographing-cosmic-rays-with-a-consumer-camera/"
-    },
-    {
-      "title": "Intel Jaguar Shores reportedly set to use HBM4E memory - VideoCardz.com",
-      "link": "https://videocardz.com/newz/intel-jaguar-shores-reportedly-set-to-use-hbm4e-memory"
-    },
-    {
-      "title": "A guide to choosing the right Apple Watch - TechCrunch",
-      "link": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/"
-    },
-    {
-      "title": "Don\u2019t Forget, Apple TV Costs $3 For T-Mobile Customers Soon - The Mobile Report",
-      "link": "https://tmo.report/2025/12/dont-forget-apple-tv-costs-3-for-t-mobile-customers-soon/"
     }
   ],
   "sports_news": [
     {
-      "title": "Anthony Joshua involved in car crash in Nigeria, two killed - ESPN",
-      "link": "https://www.espn.com/boxing/story/_/id/47442977/anthony-joshua-injured-car-crash-nigeria-two-killed"
+      "title": "Freeman returning to ND in '26 amid NFL interest - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47445456/sources-marcus-freeman-gets-enhanced-deal-stay-notre-dame"
     },
     {
-      "title": "Kyle Shanahan: 49ers love the opportunity never to leave home, through the Super Bowl - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-49ers-love-the-opportunity-never-to-leave-home-through-the-super-bowl"
+      "title": "Mark Madden: Steelers\u2019 loss at Cleveland littered with ineptitude - TribLIVE.com",
+      "link": "https://triblive.com/sports/mark-madden-steelers-loss-at-cleveland-littered-with-ineptitude/"
+    },
+    {
+      "title": "Power Rankings, Week 11: Spurs power past Thunder for No. 1 - NBA",
+      "link": "https://www.nba.com/news/power-rankings-2025-26-week-11"
+    },
+    {
+      "title": "Manchester United sign Germany international Lea Schuller - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c4g9ge18931o"
+    },
+    {
+      "title": "NHL On Tap: McDavid can join elite company when Oilers visit Jets - NHL.com",
+      "link": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-december-29-2025"
+    },
+    {
+      "title": "With playoff seed locked, Packers discussing how to handle Week 18 - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/with-playoff-seed-locked-packers-discussing-how-to-handle-week-18-2025"
+    },
+    {
+      "title": "5 Things To Know About the Chargers Ahead of Week 18 - Chargers.com",
+      "link": "https://www.chargers.com/news/seed-scenario-playoff-wild-card"
+    },
+    {
+      "title": "As an \u2018assassin\u2019 at QB, Brock Purdy has pried open the 49ers\u2019 Super Bowl chances - The San Francisco Standard",
+      "link": "https://sfstandard.com/2025/12/29/brock-purdy-49ers-kyle-shanahan-assasin/"
+    },
+    {
+      "title": "Kawakami: Well, who\u2019s going to stop the implausible dream 49ers now? - The San Francisco Standard",
+      "link": "https://sfstandard.com/2025/12/29/49ers-super-bowl-dreams-levis-stadium/"
+    },
+    {
+      "title": "Game ball, three stars, and snap count analysis: Week 17, Eagles at Bills - PhillyVoice",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-17-eagles-bills/"
+    },
+    {
+      "title": "British boxer Anthony Joshua injured in car crash that killed two in Nigeria - CNN",
+      "link": "https://www.cnn.com/2025/12/29/africa/anthony-joshua-boxer-car-crash-nigeria-intl"
+    },
+    {
+      "title": "Starting 5: What's trending as final days of 2025 near - NBA",
+      "link": "https://www.nba.com/news/starting-5-dec-29-2025"
+    },
+    {
+      "title": "The best of Indiana sports history: stars, teams, and moments - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47420695/best-indiana-sports-history-bird-clark-mendoza-miller-hoosiers"
     },
     {
       "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
       "link": "https://www.ncaa.com/news/football/article/2025-12-28/2025-26-college-football-bowl-game-schedule-scores-tv-channels-times"
-    },
-    {
-      "title": "What's at stake in the NFL playoff race in Week 18? Both No. 1 seeds, 4 division titles and more - NFL.com",
-      "link": "https://www.nfl.com/news/what-s-at-stake-in-the-nfl-playoff-race-in-week-18-both-no-1-seeds-4-division-titles-and-more"
-    },
-    {
-      "title": "Purdy 'playing as good as it gets'; 49ers eye 1-seed - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47441508/brock-purdy-big-night-snf-win-vs-bears-sets-49ers-seahawks-showdown-nfc-top-seed"
     },
     {
       "title": "The Winners and Losers of the NFL Week 17 - The Ringer",
@@ -120,10 +148,6 @@
     {
       "title": "NFL sets kickoff time for Bears-Lions season finale - Chicago Bears",
       "link": "https://www.chicagobears.com/news/nfl-sets-kickoff-time-for-bears-lions-season-finale-2025-week-18"
-    },
-    {
-      "title": "How to watch, listen to and livestream Raiders vs. Giants - Raiders.com",
-      "link": "https://www.raiders.com/news/how-to-watch-listen-to-livestream-las-vegas-raiders-vs-new-york-giants-nfl-week-17-122825"
     },
     {
       "title": "Seahawks To Face 49ers With NFC\u2019s Top Seed On The Line On Saturday Night - Seattle Seahawks",
@@ -140,38 +164,6 @@
     {
       "title": "Steelers-Ravens Week 18 game time announced - Steelers.com",
       "link": "https://www.steelers.com/news/steelers-ravens-week-18-game-time-announced"
-    },
-    {
-      "title": "Date, Time and TV Network announced for Bills vs. Jets Week 18 game - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/date-time-and-tv-network-announced-for-bills-vs-jets-week-18-game"
-    },
-    {
-      "title": "Cowboys' Week 18 date, kickoff time vs. Giants announced - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/cowboys-week-18-date-kickoff-time-vs-giants-announced"
-    },
-    {
-      "title": "Broncos' Week 18 matchup vs. Chargers set for Sunday, Jan. 4 - Denver Broncos",
-      "link": "https://www.denverbroncos.com/news/broncos-week-18-matchup-vs-chargers-set-for-sunday-jan-4"
-    },
-    {
-      "title": "Zizing 'Em Up: Olympic roster reveals coming for Milano Cortina - NHL.com",
-      "link": "https://www.nhl.com/news/olympic-roster-reveals-coming-for-milano-cortina"
-    },
-    {
-      "title": "O-Zone Late Night, Week 17: Jaguars 23, Colts 17 - Jaguars.com",
-      "link": "https://www.jaguars.com/news/k000488-o-zone-late-night-week-17-jaguars-colts"
-    },
-    {
-      "title": "Red Wings 3-2 Maple Leafs (Dec 28, 2025) Game Recap - ESPN",
-      "link": "https://www.espn.com/nhl/recap?gameId\\\\u003d401802952"
-    },
-    {
-      "title": "Eagles hang on to beat Bills 13-12 when Josh Allen misses an open Khalil Shakir on 2-point try - AP News",
-      "link": "https://apnews.com/article/eagles-bills-score-9e8daa6ef26fad38c71bebd268d2b697"
-    },
-    {
-      "title": "NBA announces suspensions from Suns-Pelicans game - NBA",
-      "link": "https://www.nba.com/news/nba-announces-suspensions-from-suns-pelicans-game"
     }
   ],
   "weather": {
