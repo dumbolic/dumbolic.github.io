@@ -1,9 +1,9 @@
 {
-  "quote": "Life is a long lesson in humility.  \u2013 James Matthew Barrie",
-  "fact": "Your stomach produces a new layer of mucus every two weeks so that it doesn\u2019t digest itself.",
-  "crypto": "BTC: $88,630 | ETH: $2,978.99",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why can't eggs have love? They will break up too soon.",
+  "quote": "The world is a puzzle; no need to make sense out of it. \u2013 Socrates",
+  "fact": "Lithuania has the highest suicide rate in the world.",
+  "crypto": "BTC: $88,472 | ETH: $2,972.52",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I've got a joke about vegetables for you... but it's a bit corny.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "LG officially enters the art TV category with the Gallery TV - The Verge",
+      "link": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026"
+    },
+    {
+      "title": "Deals for Today: Pok\u00e9mon TCG Price Check and Holiday Gaming PC Sale - IGN",
+      "link": "https://www.ign.com/articles/deals-for-today-december-29"
+    },
+    {
+      "title": "Samsung\u2019s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo",
+      "link": "https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920"
+    },
     {
       "title": "Samsung\u2019s Bixby reboot shows up early with Perplexity in tow - 9to5Google",
       "link": "http://9to5google.com/2025/12/29/samsungs-bixby-reboot-shows-up-early-with-perplexity-in-tow/"
@@ -20,8 +32,16 @@
       "link": "https://9to5mac.com/2025/12/29/ios-26-has-three-new-iphone-features-ive-been-really-loving/"
     },
     {
+      "title": "Google is dead. Where do we go now? - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46425198"
+    },
+    {
       "title": "You Can Turn On Your iPhone's Flashlight Without Touching It - Here's How - bgr.com",
       "link": "https://www.bgr.com/2062542/how-to-turn-on-iphone-flashlight-voice-command-guide/"
+    },
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com! - Krebs on Security",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/"
     },
     {
       "title": "Leonardo\u2019s wood charring method predates Japanese practice - Ars Technica",
@@ -52,6 +72,10 @@
       "link": "https://phys.org/news/2025-12-ice-home-food-scientist-easy.html"
     },
     {
+      "title": "Samsung Selling Galaxy Z TriFold at Loss, But That's Cool - Droid Life",
+      "link": "https://www.droid-life.com/2025/12/29/galaxy-z-trifold-sold-as-loss/"
+    },
+    {
       "title": "Want to live longer? Try fartleks. - The Washington Post",
       "link": "https://www.washingtonpost.com/podcasts/post-reports/want-to-live-longer-try-fartleks-/"
     },
@@ -60,70 +84,66 @@
       "link": "https://gameinformer.com/2025/12/29/why-you-should-play-trails-in-the-sky-1st-chapter"
     },
     {
-      "title": "Google seems ready to kill the last of Stadia; go convert your controller now - 9to5Google",
-      "link": "http://9to5google.com/2025/12/29/google-stadia-controller-website-near-death/"
-    },
-    {
-      "title": "39C3: Hacking Washing Machines - Hackaday",
-      "link": "https://hackaday.com/2025/12/29/39c3-hacking-washing-machines/"
-    },
-    {
-      "title": "CD PROJEKT co-founder Micha\u0142 Kici\u0144ski acquires GOG from CD PROJEKT - cdprojekt.com",
-      "link": "https://www.cdprojekt.com/en/media/news/cd-projekt-co-founder-michal-kicinski-acquires-gog-from-cd-projekt/"
-    },
-    {
-      "title": "HyperX OMEN OLED gaming monitor leaked ahead of CES 2026 reveal - VideoCardz.com",
-      "link": "https://videocardz.com/newz/hyperx-omen-oled-gaming-monitor-leaked-ahead-of-ces-2026-reveal"
-    },
-    {
-      "title": "Samsung doesn\u2019t know what the Galaxy S26 will cost, losing money on Galaxy Z TriFold - 9to5Google",
-      "link": "http://9to5google.com/2025/12/29/samsung-galaxy-s26-price-trifold-report/"
-    },
-    {
-      "title": "Warhammer Miniature of the Year 2025 \u2013 The winners revealed - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/j9nqbfym/warhammer-miniature-of-the-year-2025-the-winners-revealed"
-    },
-    {
-      "title": "Beats\u2019 new Powerbeats Fit earbuds are down to $180 - The Verge",
-      "link": "https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal"
-    },
-    {
-      "title": "Brightin Star\u2019s 35mm f/1.4 Full-Frame Prime Is Beautiful and Affordable - PetaPixel",
-      "link": "https://petapixel.com/2025/12/29/brightin-stars-35mm-f-1-4-full-frame-prime-is-beautiful-and-affordable/"
+      "title": "Sony Stock Slips Ahead of PlayStation Plus January 2026 Changes - TipRanks",
+      "link": "https://www.tipranks.com/news/sony-stock-slips-ahead-of-playstation-plus-january-2026-changes"
     }
   ],
   "sports_news": [
     {
+      "title": "Nuggets' Jokic limps off court after injuring knee - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/47449666/nuggets-nikola-jokic-injures-left-knee-limps-court-miami"
+    },
+    {
+      "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
+      "link": "https://www.ncaa.com/news/football/article/2025-12-28/2025-26-college-football-bowl-game-schedule-scores-tv-channels-times"
+    },
+    {
+      "title": "Father of NASCAR's Hamlin dies after house fire - ESPN",
+      "link": "https://www.espn.com/racing/nascar/cup/story/_/id/47449265/denny-hamlin-father-dies-house-fire-mother-hospitalized"
+    },
+    {
       "title": "News & Notes: Lamar Jackson's Status Undetermined, But There's Optimism - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/lamar-jackson-back-contusion-undetermined-optimism-john-harbaugh-mike-tomlin-ravens-defense-derrick-henry"
+    },
+    {
+      "title": "Justin Herbert will not play on Sunday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-will-not-play-on-sunday"
+    },
+    {
+      "title": "Ranking the 10 Dumbest College Sports Ideas in 2025 - Sports Illustrated",
+      "link": "https://www.si.com/college-football/ranking-the-10-dumbest-college-sports-ideas-in-2025"
     },
     {
       "title": "Kochetkov 'Probably Out For The Year' - NHL.com",
       "link": "https://www.nhl.com/hurricanes/news/kochetkov-probably-out-for-the-year"
     },
     {
-      "title": "Why Chargers QB Justin Herbert Won't Play vs. Broncos in Week 18 - Chargers.com",
-      "link": "https://www.chargers.com/news/justin-herbert-broncos-out-jim-harbaugh-week-18"
+      "title": "Sounders FC Re-Signs Midfielder Paul Rothrock - Seattle Sounders FC",
+      "link": "https://www.soundersfc.com/news/sounders-fc-re-signs-midfielder-paul-rothrock"
     },
     {
       "title": "Nick Sirianni on if the Eagles will rest starters in Week 18 | Commanders vs. Eagles Daily Updates - Philadelphia Eagles",
       "link": "https://www.philadelphiaeagles.com/news/eagles-commanders-daily-updates-nick-sirianni-jalen-hurts-starters-rest"
     },
     {
-      "title": "Penguins Acquire Forward Yegor Chinakhov from the Columbus Blue Jackets in Exchange for Danton Heinen, a 2026 2nd-Round Draft Pick and a 2027 3rd-Round Draft Pick - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/penguins-acquire-forward-yegor-chinakhov-from-the-columbus-blue-jackets-in-exchange-for-danton-heinen-a-2026-2nd-round-draft-pick-and-a-2027-3rd-round-draft-pick"
+      "title": "Anthony Joshua, boxer who defeated Jake Paul, injured in car crash that killed 2 in Nigeria - NBC News",
+      "link": "https://www.nbcnews.com/sports/boxing/anthony-joshua-boxer-defeated-jake-paul-injured-car-crash-killed-2-peo-rcna251345"
+    },
+    {
+      "title": "Blue Jackets receive draft picks, Danton Heinen from Pittsburgh for Yegor Chinakhov - NHL.com",
+      "link": "https://www.nhl.com/bluejackets/news/cbj-trade-chinakhov-for-two-draft-picks-and-danton-heinen"
     },
     {
       "title": "Early Week 18 bets: Ravens-Steelers to be a slugfest, Drake Maye for MVP - ESPN",
       "link": "https://www.espn.com/espn/betting/story/_/id/47445480/2025-nfl-week-18-betting-odds-props-early-pick-predictions-first-bet"
     },
     {
-      "title": "Winter Classic will have 'all of the thematics you would think' in Miami - NHL.com",
-      "link": "https://www.nhl.com/news/2026-winter-classic-to-have-all-of-the-thematics-in-florida"
-    },
-    {
       "title": "Patriots Release Two Players - Official website of the New England Patriots",
       "link": "https://www.patriots.com/news/patriots-release-two-players-x0555"
+    },
+    {
+      "title": "10 under-the-radar Eagles this season | Spadaro - Philadelphia Eagles",
+      "link": "https://www.philadelphiaeagles.com/news/spadaro-10-under-the-radar-eagles-this-season"
     },
     {
       "title": "FIFA president defends World Cup ticket prices, saying demand is hitting records - NPR",
@@ -134,44 +154,20 @@
       "link": "https://www.nhl.com/oilers/news/projected-lineup-roslovic-to-centre-third-line-against-jets-on-monday-12-01-25"
     },
     {
-      "title": "Andy Reid says he plans to return to the Chiefs in 2026 - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/191026/andy-reid-plans-to-return-to-team-in-2026"
-    },
-    {
-      "title": "10 Winners and 8 losers from the 49ers wild win over the Bears: We\u2019re watching Kyle Shanahan operate with a top-5 QB - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-analysis/154522/10-winners-and-8-losers-from-the-49ers-wild-win-over-the-bears-were-watching-kyle-shanahan-operate-with-a-top-5-qb"
-    },
-    {
-      "title": "Ex-boxing champ Joshua hurt in crash, two killed - ESPN",
-      "link": "https://www.espn.com/boxing/story/_/id/47442977/anthony-joshua-injured-car-crash-nigeria-two-killed"
+      "title": "NHL reveals rendering of loanDepot park design for Winter Classic - NHL.com",
+      "link": "https://www.nhl.com/news/nhl-rendering-of-loandepot-park-design-for-winter-classic"
     },
     {
       "title": "2025 Midlands Championships Wrestling Results - FloWrestling",
       "link": "https://www.flowrestling.org/articles/15060167-2025-midlands-championships-wrestling-results"
     },
     {
+      "title": "Andy Reid: I plan on coming back if Chiefs will have me - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-i-plan-on-coming-back-if-chiefs-will-have-me"
+    },
+    {
       "title": "Week 17 Quick Reads: Drake Maye, aka Drake Maye - FTN (For The Numbers)",
       "link": "https://ftnfantasy.com/nfl/week-17-quick-reads-drake-maye-aka-drake-maye"
-    },
-    {
-      "title": "2025 Powerade Brackets and Results - FloWrestling",
-      "link": "https://www.flowrestling.org/articles/15058883-2025-powerade-brackets-and-results"
-    },
-    {
-      "title": "Projected Lineup: Dec. 29 vs. Buffalo - NHL.com",
-      "link": "https://www.nhl.com/blues/news/projected-lineup-dec-29-vs-buffalo-x1327"
-    },
-    {
-      "title": "The University of Colorado Boulder Names Fernando Lovo New Director of Athletics - University of Colorado Athletics",
-      "link": "https://cubuffs.com/news/2025/12/29/general-the-university-of-colorado-boulder-names-fernando-lovo-new-director-of-athletics"
-    },
-    {
-      "title": "Bengals Offer A 2026 Blueprint In Brisk Dismissal Of Cardinals - Bengals.com",
-      "link": "https://www.bengals.com/news/bengals-offer-a-2026-blueprint-ijoe-burrow-ja-marr-chase-zac-taylor"
-    },
-    {
-      "title": "Mark Madden: Steelers\u2019 loss at Cleveland littered with ineptitude - TribLIVE.com",
-      "link": "https://triblive.com/sports/mark-madden-steelers-loss-at-cleveland-littered-with-ineptitude/"
     }
   ],
   "weather": {
