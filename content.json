@@ -1,9 +1,9 @@
 {
-  "quote": "Everything flows, nothing stands still. \u2013 Heraclitus",
-  "fact": "A word or sentence that is the same front and back (racecar, kayak) is called a \u201cpalindrome\u201d.",
-  "crypto": "BTC: $90,140 | ETH: $3,126.97",
+  "quote": "There is no path to Love. Love is the path. \u2013 Dan Millman",
+  "fact": "Most lipstick contains fish scales!",
+  "crypto": "BTC: $90,212 | ETH: $3,122.85",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What's brown and sticky? A stick.",
+  "joke": "New atoms frequently lose electrons when they fail to keep an ion them.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Tipster reveals 10 spectacular upgrades for the Galaxy S26 Ultra - PhoneArena",
+      "link": "https://www.phonearena.com/news/tipster-lists-10-upgrades-for-the-galaxy-s26-ultra_id176988"
+    },
+    {
+      "title": "A website to destroy all websites - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46457784"
+    },
     {
       "title": "Linux is good now - Hacker News",
       "link": "https://news.ycombinator.com/item?id\\\\u003d46457770"
@@ -48,10 +56,6 @@
       "link": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026"
     },
     {
-      "title": "Valve's Linux Efforts, Kernel Improvements & KDE Plasma Wayland Advancements Topped 2025 - Phoronix",
-      "link": "https://www.phoronix.com/news/Top-Linux-News-2025"
-    },
-    {
       "title": "The 4 Cheapest Ways To Turn Your House Into A Smart Home - bgr.com",
       "link": "https://www.bgr.com/2061563/cheapest-ways-make-a-smart-home/"
     },
@@ -64,10 +68,6 @@
       "link": "https://www.pokemon.com/us/pokemon-news/turn-over-a-new-leaf-with-budew-in-pokemon-trading-card-game-live"
     },
     {
-      "title": "Five Reasons Why 2026 Is One Of The Most Important Years In Xbox History - Pure Xbox",
-      "link": "https://www.purexbox.com/features/five-reasons-why-2026-is-one-of-the-most-important-years-in-xbox-history"
-    },
-    {
       "title": "No iPhone 18 Launch This Year, Reports Suggest - MacRumors",
       "link": "https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/"
     },
@@ -76,26 +76,58 @@
       "link": "https://www.phoronix.com/news/ReactOS-Starts-2026"
     },
     {
-      "title": "Prices Of Second-Hand Nintendo 3DS Consoles Spike Online - Time Extension",
-      "link": "https://www.timeextension.com/news/2026/01/prices-of-second-hand-nintendo-3ds-consoles-spike-online"
-    },
-    {
       "title": "HP to launch EliteBook X G2 laptop with AMD, Intel and Qualcomm CPU options - VideoCardz.com",
       "link": "https://videocardz.com/newz/hp-to-launch-elitebook-x-g2-laptop-with-amd-intel-and-qualcomm-cpu-options"
     },
     {
-      "title": "Copilot Money brings clarity to your finances, now on the web - 9to5Mac",
-      "link": "https://9to5mac.com/2026/01/01/copilot-money-brings-clarity-to-your-finances-now-on-the-web/"
+      "title": "Announcing the New Year Warhammer Preview Live! 2026 \u2013 your first reveal show of the year - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year"
+    },
+    {
+      "title": "GeForce NOW is gaining support for 14 games in January just as 100-hour play limits kick in - Neowin",
+      "link": "https://www.neowin.net/news/geforce-now-is-gaining-support-for-14-games-in-january-just-as-100-hour-play-limits-kick-in/"
     }
   ],
   "sports_news": [
     {
-      "title": "Victor Wembanyama MRI shows no ligament damage in left knee - NBA",
-      "link": "https://www.nba.com/news/victor-wembanyamas-mri-shows-no-ligament-damage-in-hyperextended-knee-will-miss-spurs-pacers-game"
+      "title": "5 Things to Know: 49ers Week 18 Saturday Night Showdown vs. the Seattle Seahawks - 49ers.com",
+      "link": "https://www.49ers.com/news/5-things-to-know-49ers-week-18-saturday-vs-seattle-seahawks-nfl"
     },
     {
-      "title": "Hoosiers handle Tide, book rematch with Ducks - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47476286/indiana-strolls-cfp-semifinals-cruises-alabama"
+      "title": "Heat 118-112 Pistons (Jan 1, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810327"
+    },
+    {
+      "title": "Indiana throttles Alabama: Hoosiers leave no doubt en route to CFP semifinal berth vs. Oregon - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/alabama-indiana-live-updates-rose-bowl-score-result-analysis-college-football-playoff/live/"
+    },
+    {
+      "title": "Trent Williams, George Kittle Questionable vs. Seahawks; Injury Report Ahead of #SEAvsSF - 49ers.com",
+      "link": "https://www.49ers.com/news/trent-williams-george-kittle-questionable-vs-seahawks-injury-report-ahead-of-seavssf"
+    },
+    {
+      "title": "McGuire: TTU not using layoff as excuse for loss - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47476762/mcguire-texas-tech-cfp-woes-vs-oregon-not-rooted-bye"
+    },
+    {
+      "title": "Venus gets wild-card invite to play Australian Open - ESPN",
+      "link": "https://www.espn.com/tennis/story/_/id/47476570/venus-williams-wild-card-invite-australian-open"
+    },
+    {
+      "title": "Playoff Quarterfinal at the Goodyear Cotton Bowl Classic Recap - College Football Playoff",
+      "link": "https://collegefootballplayoff.com/sports/2026/1/1/QF-Cotton-recap.aspx"
+    },
+    {
+      "title": "Winter Classic in Miami 'huge game' for Rangers, Panthers - NHL.com",
+      "link": "https://www.nhl.com/news/winter-classic-a-huge-game-for-rangers-and-panthers"
+    },
+    {
+      "title": "Georgia vs. Ole Miss live updates: Latest score, highlights, analysis for Sugar Bowl - On3",
+      "link": "https://www.on3.com/news/georgia-vs-ole-miss-live-updates-latest-score-highlights-analysis-sugar-bowl-college-football-playoff/"
+    },
+    {
+      "title": "Victor Wembanyama MRI shows no ligament damage in left knee - NBA",
+      "link": "https://www.nba.com/news/victor-wembanyamas-mri-shows-no-ligament-damage-in-hyperextended-knee-will-miss-spurs-pacers-game"
     },
     {
       "title": "Prospects who are primed to breakout in '26 -- one for each team - MLB.com",
@@ -118,12 +150,12 @@
       "link": "https://www.espn.com/nfl/story/_/id/47475240/saints-lb-demario-davis-36-plans-return-15th-season"
     },
     {
-      "title": "No. 5 Oregon Moves On To Playoff Semifinals, Topping No. 4 Texas Tech, 23-0 - College Football Playoff",
-      "link": "https://collegefootballplayoff.com/news/2026/1/1/QF-Orange-recap.aspx"
-    },
-    {
       "title": "Sunderland 0-0 Man City (Jan 1, 2026) Game Analysis - ESPN",
       "link": "https://www.espn.com/soccer/report/_/gameId/740784"
+    },
+    {
+      "title": "Lamar Jackson Says He Will 100% Play vs. Steelers - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/lamar-jackson-injury-report-back-contusion-rashod-bateman-kyle-van-noy-ravens-steelers"
     },
     {
       "title": "A Look at Chargers 6 Possible Wild Card Round Opponents - Los Angeles Chargers website",
@@ -136,38 +168,6 @@
     {
       "title": "Free-agent dominos likely to begin falling with Imai heading to Houston - MLB.com",
       "link": "https://www.mlb.com/news/tatsuya-imai-signing-aftermath"
-    },
-    {
-      "title": "Packers claim CB Trevon Diggs off waivers from Cowboys - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-claim-cb-trevon-diggs-off-waivers-from-cowboys-jan-1-2026"
-    },
-    {
-      "title": "Patriots Make a Series of Roster Moves - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/patriots-make-a-series-of-roster-moves-1-1"
-    },
-    {
-      "title": "Rams sign Quentin Lake to three-year extension - Rams",
-      "link": "https://www.therams.com/news/rams-sign-quentin-lake-to-three-year-extension"
-    },
-    {
-      "title": "Bedard should have been named to Team Canada roster, Blackhawks coach says - NHL.com",
-      "link": "https://www.nhl.com/news/chicago-blackhawks-coach-connor-bedard-should-have-made-team-canada"
-    },
-    {
-      "title": "10 takeaways from Morton, Sheppard & Fipp - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/10-takeaways-from-morton-sheppard-fipp-joseph-teslaa-vaki"
-    },
-    {
-      "title": "DeAndre Hopkins Plans to Play at Least One More Year - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/deandre-hopkins-not-retiring-ravens-wide-receiver-hall-of-fame-2025"
-    },
-    {
-      "title": "Gameday Threads: What Ravens are Wearing for AFC North Title Game vs. Steelers - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/ravens-steelers-afc-north-title-uniforms-threads-playoff"
-    },
-    {
-      "title": "Rogers Announces Offensive Staff - Iowa State Athletics",
-      "link": "https://cyclones.com/news/2026/1/1/football-rogers-announces-offensive-staff"
     }
   ],
   "weather": {
