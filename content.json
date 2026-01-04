@@ -1,9 +1,9 @@
 {
-  "quote": "Keep away from people who try to belittle your ambitions. \u2013 Mark Twain",
-  "fact": "\u201dJudge Judy\u201d has a $25,000,000 salary, while Supreme Court Justice Ginsberg has a $190,100 salary.",
-  "crypto": "BTC: $91,145 | ETH: $3,133.42",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
+  "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe. \u2013 Abraham Lincoln",
+  "fact": "On average, 100 people choke to death on ball-point pens every year.",
+  "crypto": "BTC: $91,254 | ETH: $3,136.39",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I started a new business making yachts in my attic this year...the sails are going through the roof",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "MSI RTX 5090 Lightning Z GPU has been leaked: dual 12V-2\u00d76 power, massive 40 power phase design - VideoCardz.com",
+      "link": "https://videocardz.com/newz/msi-rtx-5090-lightning-gpu-has-been-leaked-dual-12v-2x6-power-massive-40-power-phase-design"
+    },
+    {
       "title": "Stop Using Your Keyboard and Start Using This Simple, Free Speech-to-Text App - wired.com",
       "link": "https://www.wired.com/story/handy-free-speech-to-text-app/"
     },
     {
-      "title": "Pok\u00e9mon Legends: Z-A Ranked Battle Season 5 \"Coming Soon\", Includes Another Mega Stone Reward - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/01/pokemon-legends-z-a-ranked-battle-season-5-coming-soon-includes-another-mega-stone-reward"
+      "title": "My most anticipated CES 2026 announcement is about bricks, not phones - Android Police",
+      "link": "https://www.androidpolice.com/my-most-anticipated-ces-2026-announcement-is-about-bricks-not-phones/"
+    },
+    {
+      "title": "ASUS introduces workstation B850M ACE motherboard with rotated AM5 socket - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-introduecs-workstation-b850m-ace-motherboard-with-rotated-am5-socket"
+    },
+    {
+      "title": "Galaxy S26 Ultra color leak signals Samsung is done with Titanium - Sammy Fans",
+      "link": "https://www.sammyfans.com/2026/01/03/samsung-galaxy-s26-ultra-color-leak-titanium/"
+    },
+    {
+      "title": "Zork Running On 4-Bit Intel Computer - Hackaday",
+      "link": "https://hackaday.com/2026/01/03/zork-running-on-4-bit-intel-computer/"
     },
     {
       "title": "Benchmarking Windows Against Itself, From Windows XP To Windows 11 - Hackaday",
       "link": "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/"
     },
     {
-      "title": "39 Gifts To Get Yourself Post-Holidays That Probably Just Weren\u2019t On Santa\u2019s Radar - BuzzFeed",
-      "link": "https://www.buzzfeed.com/bekoconnell/post-holiday-gifts"
-    },
-    {
-      "title": "2026 will be my year of the Linux desktop - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46471199"
-    },
-    {
       "title": "Apple's 2026 Low-Cost A18 Pro MacBook: What We Know So Far - MacRumors",
       "link": "https://www.macrumors.com/2026/01/02/low-cost-macbook-pro-rumors/"
-    },
-    {
-      "title": "Microsoft kills official way to activate Windows 11/10 without internet - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d46471081"
     },
     {
       "title": "MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCardz.com",
@@ -46,10 +50,6 @@
     {
       "title": "Seller of Caribbean Mansion From \u2018Too Hot to Handle\u2019 Accepting $35 Million in Crypto - Mansion Global",
       "link": "https://www.mansionglobal.com/articles/seller-of-caribbean-mansion-from-too-hot-to-handle-accepting-35-million-in-crypto-121feaf8"
-    },
-    {
-      "title": "Duolingo Used iPhone's Dynamic Island to Display Ads, Violating Apple Design Guidelines - MacRumors",
-      "link": "https://www.macrumors.com/2026/01/02/duolingo-dynamic-island-ad/"
     },
     {
       "title": "Can You Use An Amazon Fire TV Stick Without Internet? - bgr.com",
@@ -82,16 +82,36 @@
   ],
   "sports_news": [
     {
-      "title": "Raiders will play everybody, in game that earns them first overall pick if they lose - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-will-play-everybody-in-game-that-earns-them-first-overall-pick-if-they-lose"
+      "title": "Aston Villa 3-1 Nottm Forest (Jan 3, 2026) Game Analysis - ESPN",
+      "link": "https://www.espn.com/soccer/report/_/gameId/740789"
+    },
+    {
+      "title": "Testing grit and will power with 7 marathons, 7 continents in 7 days - ESPN",
+      "link": "https://www.espn.com/sports/endurance/story/_/id/47398802/marathons-antarctica-endurance"
+    },
+    {
+      "title": "Red Rocks beat 2 Big Ten opponents in season debut, but see missed opportunities - KSL.com",
+      "link": "https://www.ksl.com/article/51427010/red-rocks-beat-2-big-ten-opponents-in-season-debut-but-see-missed-opportunities"
     },
     {
       "title": "MSU's Taylor carted off with injury; Lebby hopeful - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/47488801/mississippi-state-taylor-carted-injury-lebby-hopeful"
     },
     {
-      "title": "Jones leaves 2026 NHL Winter Classic with upper-body injury for Panthers - NHL.com",
-      "link": "https://www.nhl.com/news/florida-panthers-seth-jones-winter-classic-injury-status-update"
+      "title": "Panthers injuries continue to mount, lose Jones in Winter Classic defeat - NHL.com",
+      "link": "https://www.nhl.com/news/injury-bug-bites-florida-panthers-again-in-winter-classic-loss"
+    },
+    {
+      "title": "California 72-71 Notre Dame (Jan 2, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401820642"
+    },
+    {
+      "title": "Lakers 128-121 Grizzlies (Jan 2, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810340"
+    },
+    {
+      "title": "Thunder 131-94 Warriors (Jan 2, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810339"
     },
     {
       "title": "Rangers beat Panthers 5-1 in first outdoor hockey game in Miami. Mika Zibanejad has hat trick - AP News",
@@ -102,32 +122,20 @@
       "link": "https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20260102_WVU@IOWAST/"
     },
     {
-      "title": "Unbeaten Huskers to fans: Quit storming court - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/47487815/no-13-nebraska-downs-no-9-michigan-st-18th-straight-win"
+      "title": "Nebrasketball Stuns Sparty, Moves to 14-0 - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/basketball/nebrasketball-stuns-sparty-moves-to-14-0-2026"
     },
     {
-      "title": "Bucks 122-121 Hornets (Jan 2, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810336"
-    },
-    {
-      "title": "Trail Blazers 122-109 Pelicans (Jan 2, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810337"
-    },
-    {
-      "title": "Transfer Portal Diary: Big-Name Visits Define Opening Day - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/transfer-portal-diary-kentucky-football-visitors-opening-day-will-stein-sam-leavitt/"
-    },
-    {
-      "title": "Hawks 111-99 Knicks (Jan 2, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810334"
+      "title": "Finland ends U.S. reign in OT - IIHF",
+      "link": "https://www.iihf.com/en/events/2026/wm20/news/71518/usa-fin"
     },
     {
       "title": "What weather forecast for 49ers-Seahawks on Saturday has in store for Brock Purdy - San Francisco Chronicle",
       "link": "https://www.sfchronicle.com/sports/49ers/article/weather-forecast-49ers-vs-seahawks-brock-purdy-21273692.php"
     },
     {
-      "title": "Availability Report: Kentucky will have a full roster vs. Alabama - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/availability-report-kentucky-full-roster-vs-alabama/"
+      "title": "Brisbane draw preview: Sabalenka, Keys could meet in quarters - WTA Tennis",
+      "link": "https://www.wtatennis.com/news/4427097/brisbane-draw-preview-sabalenka-keys-could-meet-in-quarters"
     },
     {
       "title": "Dykstra faces charges after drugs found in vehicle - ESPN",
@@ -142,24 +150,16 @@
       "link": "https://www.nhl.com/news/mattias-ekholm-olympic-roster-omission-from-tough-decision-for-sweden"
     },
     {
-      "title": "Gut Feeling: Cowboys-Giants staff predictions - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/gut-feeling-cowboys-giants-staff-predictions"
-    },
-    {
       "title": "Playoff Quarterfinal at the Allstate Sugar Bowl Recap - College Football Playoff",
       "link": "https://collegefootballplayoff.com/sports/2026/1/2/QF-Sugar-recap.aspx"
     },
     {
+      "title": "Buffalo Bills vs. New York Jets | Where to watch, stream and listen | Week 18 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-new-york-jets-where-to-watch-stream-and-listen-week-18"
+    },
+    {
       "title": "Eight Minnesota Wild Players Named to Rosters for 2026 Winter Olympic Games - NHL.com",
       "link": "https://www.nhl.com/wild/news/eight-minnesota-wild-players-named-to-rosters-for-2026-winter-olympic-games-010226"
-    },
-    {
-      "title": "Wake Forest vs Mississippi State Prediction, Picks & Odds for Tonight \u2014 Duke's Mayo Bowl - Covers.com",
-      "link": "https://www.covers.com/ncaaf/wake-forest-vs-mississippi-state-prediction-picks-odds-best-bets-today-january-2-2026"
-    },
-    {
-      "title": "Saints announce roster moves - New Orleans Saints | NewOrleansSaints.com",
-      "link": "https://www.neworleanssaints.com/news/ronnie-bell-fadil-diggs-samori-toure-new-orleans-saints-roster-moves-transactions-2025-nfl-season-week-18-atlanta-falcons"
     }
   ],
   "weather": {
