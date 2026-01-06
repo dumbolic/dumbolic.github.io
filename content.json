@@ -1,9 +1,9 @@
 {
-  "quote": "It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! \u2013 Robert Kiyosaki",
-  "fact": "Warren Beatty and Shirley McLaine are brother and sister.",
-  "crypto": "BTC: $93,846 | ETH: $3,278.53",
+  "quote": "Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. \u2013 Simon Sinek",
+  "fact": "25% of a human\u2019s bones are in its feet.",
+  "crypto": "BTC: $94,191 | ETH: $3,297.11",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a magician who has lost their magic? Ian.",
+  "joke": "I was in an 80's band called the prevention. We were better than the cure.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,63 +12,99 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Review: EXT Arma V4 - One of the Best Shocks Gets Even Better - Pinkbike",
+      "link": "https://www.pinkbike.com/news/review-ext-arma-v4-one-of-the-best-mtb-shocks-gets-even-better.html"
+    },
+    {
+      "title": "Beloved Final Fantasy artist Toshiyuki Itahana leaves Square Enix - Eurogamer",
+      "link": "https://www.eurogamer.net/beloved-final-fantasy-artist-toshiyuki-itahana-leaves-square-enix"
+    },
+    {
+      "title": "The State of Anti-Surveillance Design - 404 Media",
+      "link": "https://www.404media.co/the-state-of-anti-surveillance-design/"
+    },
+    {
+      "title": "Amazon revamps Fire TV, launches its own \u2018Artline\u2019 televisions with frames at CES - TechCrunch",
+      "link": "https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/"
+    },
+    {
+      "title": "Amazon\u2019s AI assistant comes to the web with Alexa.com - TechCrunch",
+      "link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/"
+    },
+    {
+      "title": "Six new Apple products will launch early this year, here\u2019s what\u2019s coming - 9to5Mac",
+      "link": "https://9to5mac.com/2026/01/05/six-apple-products-will-launch-early-this-year-heres-whats-coming/"
+    },
+    {
+      "title": "Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord"
+    },
+    {
+      "title": "You can get Apple Fitness+ for free, here\u2019s how - 9to5Mac",
+      "link": "https://9to5mac.com/2026/01/05/you-can-get-apple-fitness-plus-for-free-heres-how/"
+    },
+    {
+      "title": "Twelve South\u2019s Valet is a handsome place to put your stuff - The Verge",
+      "link": "https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026"
+    },
+    {
+      "title": "Microsoft Edge is getting a Copilot-inspired redesign - The Verge",
+      "link": "https://www.theverge.com/news/854832/microsoft-edge-copilot-redesign-ui-features"
+    },
+    {
+      "title": "Hands off! An on-the-road demo of Mercedes\u2019 advanced new driver assist - Ars Technica",
+      "link": "https://arstechnica.com/cars/2026/01/mercedes-teaches-its-driver-assist-how-to-handle-surface-streets/"
+    },
+    {
+      "title": "Google previews new Gemini features for TV at CES 2026 - TechCrunch",
+      "link": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/"
+    },
+    {
+      "title": "Reunite the Shattered Wilds \u2014 Diablo Immortal - Blizzard News",
+      "link": "https://news.blizzard.com/en-us/article/24247151/reunite-the-shattered-wilds"
+    },
+    {
+      "title": "\u2018Max Ink Mode\u2019 is back on TCL\u2019s NXTPaper 70 Pro - The Verge",
+      "link": "https://www.theverge.com/tech/854132/tcl-nxtpaper-70-pro-max-ink-mode-note-a1-tablet"
+    },
+    {
+      "title": "Audeze Reveals Its New Maxwell 2 Gaming Headset For PCs And Consoles - Forbes",
+      "link": "https://www.forbes.com/sites/marksparrow/2026/01/05/audeze-reveals-its-new-maxwell-2-gaming-headset-for-pcs-and-consoles/"
+    },
+    {
+      "title": "Making sense of quantum gravity in five dimensions - Phys.org",
+      "link": "https://phys.org/news/2026-01-quantum-gravity-dimensions.html"
+    },
+    {
+      "title": "JBL expands Endurance workout line with four new earbuds - The Verge",
+      "link": "https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026"
+    },
+    {
+      "title": "LG\u2019s new OLED TV is just 9mm thick - TechCrunch",
+      "link": "https://techcrunch.com/2026/01/05/lgs-new-oled-tv-is-just-9mm-thick/"
+    },
+    {
       "title": "Oops, League of Legends was briefly unplayable as Riot Games forgot to renew the digital licence - Eurogamer",
       "link": "https://www.eurogamer.net/oops-league-of-legends-was-briefly-unplayable-as-riot-games-forgot-to-renew-the-digital-licence"
-    },
-    {
-      "title": "CES 2026 Showcases the Future of TVs. Learn Which Display Tech Will Make the Biggest Splash - CNET",
-      "link": "https://www.cnet.com/tech/home-entertainment/forget-invisible-tvs-heres-the-display-tech-that-will-matter-at-ces-2026/"
-    },
-    {
-      "title": "Microsoft shares official ways to save GBs of disk on Windows 11/10 using free native tools - Neowin",
-      "link": "https://www.neowin.net/news/microsoft-shares-official-ways-to-save-gbs-of-disk-on-windows-1110-using-free-native-tools/"
-    },
-    {
-      "title": "MSI Stealth 16 AI+ features Core Ultra 300 CPU and RTX 50 GPU - VideoCardz.com",
-      "link": "https://videocardz.com/newz/msi-stealth-16-ai-features-core-ultra-300-cpu-and-rtx-50-gpu"
-    },
-    {
-      "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
-      "link": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles"
-    },
-    {
-      "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code - The Hacker News",
-      "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html"
-    },
-    {
-      "title": "Finally, a computing accessory that both PC enthusiasts and professionals can be excited for - ZDNET",
-      "link": "https://www.zdnet.com/article/hyper-trackpad-pro-ces-news/"
-    },
-    {
-      "title": "NVIDIA To Bring Back The GeForce RTX 3060 In Q1 2026 To Tackle Current-Gen GPU & Memory Shortages - Wccftech",
-      "link": "https://wccftech.com/nvidia-to-bring-back-geforce-rtx-3060-q1-2026-tackle-memory-shortages/"
-    },
-    {
-      "title": "The best sounding gaming headset just got an upgrade - Creative Bloq",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/so-the-best-audiophile-gaming-headset-just-got-even-better"
-    },
-    {
-      "title": "AI start-ups take on Google in fight to reshape web browser market - Financial Times",
-      "link": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e"
-    },
-    {
-      "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
-      "link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
-    },
-    {
-      "title": "LG\u2019s Wallpaper OLED TV returns to CES, and it\u2019s wafer thin - The Verge",
-      "link": "https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin"
-    },
-    {
-      "title": "Voice control comes to Samsung\u2019s smart fridges - The Verge",
-      "link": "https://www.theverge.com/tech/853758/shut-the-fridge-door"
-    },
-    {
-      "title": "CES 2026: Video shows startup's color-changing sunglasses in action - Mashable",
-      "link": "https://mashable.com/article/ces-2026-povec-color-changing-sunglasses"
     }
   ],
   "sports_news": [
+    {
+      "title": "Raiders relieve Pete Carroll of duties as head coach - Raiders.com",
+      "link": "https://www.raiders.com/news/raiders-relieve-pete-carroll-of-duties-as-head-coach"
+    },
+    {
+      "title": "Greg Beadles named President and CEO of Atlanta Falcons - Atlanta Falcons",
+      "link": "https://www.atlantafalcons.com/news/greg-beadles-named-president-ceo-falcons-rich-mckay"
+    },
+    {
+      "title": "New England Patriots Finalize 2026 Opponents - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/new-england-patriots-finalize-2026-opponents"
+    },
+    {
+      "title": "Inbox: It\u2019s truly remarkable - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/inbox-it-s-truly-remarkable-jan-5-2026"
+    },
     {
       "title": "Browns relieve Kevin Stefanski of duties as head coach - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/browns-relieve-kevin-stefanski-of-duties-as-head-coach"
@@ -78,28 +114,20 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-this-was-the-vision-when-we-signed-aaron-rodgers"
     },
     {
-      "title": "Everything You Need to Know: Ravens vs. Steelers - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/lamar-jackson-return-derrick-henry-dominant-dk-metcalf-suspended-classic-movie-ravens-steelers-week-18"
+      "title": "Mock Draft 1.0: Let the Great QB Debate Begin - The McShay Report",
+      "link": "https://mcshay-report.beehiiv.com/p/mock-draft-1-0-let-the-great-qb-debate-begin"
+    },
+    {
+      "title": "NFL Playoffs: Biggest storylines to watch, Super Bowl predictions and more - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-playoffs-biggest-storylines-watch-super-bowl-predictions-rcna252248"
     },
     {
       "title": "Ravens' 2026 Opponents Finalized - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/ravens-2026-opponents-schedule-finalized"
     },
     {
-      "title": "Who's most likely to win Super Bowl LX: Ranking all 14 playoff contenders - NFL.com",
-      "link": "https://www.nfl.com/news/who-s-most-likely-to-win-super-bowl-lx-ranking-all-14-playoff-contenders"
-    },
-    {
-      "title": "Lakers 120-114 Grizzlies (Jan 4, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810356"
-    },
-    {
       "title": "World Junior Championship roundup: Czechia tops Canada, reaches final - NHL.com",
       "link": "https://www.nhl.com/news/on-tap-world-junior-championship-news-and-notes-january-4-2026"
-    },
-    {
-      "title": "2026 NFL Draft order locked in for non-playoff teams - theScore.com",
-      "link": "https://thescore.com/nfl/news/3445820"
     },
     {
       "title": "Broncos\u2019 opponents finalized for 2026 season - Denver Broncos",
@@ -110,24 +138,20 @@
       "link": "https://www.houstontexans.com/news/who-will-the-texans-face-on-monday-night-football-in-the-wild-card-round"
     },
     {
-      "title": "Buffalo Bills 2026 opponents finalized - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-2026-opponents-finalized"
-    },
-    {
       "title": "Bills RB James Cook III wins 2025 NFL rushing title - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
       "link": "https://www.buffalobills.com/news/bills-rb-james-cook-iii-wins-2025-nfl-rushing-title"
     },
     {
+      "title": "Buffalo Bills 2026 opponents finalized - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-2026-opponents-finalized"
+    },
+    {
+      "title": "UWRF beats North Central for first D-III title - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/47509540/wisconsin-river-falls-beats-north-central-first-d-iii-title"
+    },
+    {
       "title": "Caleb Williams makes history against Lions, offense remains 'confident as ever' heading into playoffs - Chicago Bears",
       "link": "https://www.chicagobears.com/news/caleb-williams-makes-history-against-lions-offense-remains-confident-as-ever-heading-into-playoffs"
-    },
-    {
-      "title": "Suns 108-105 Thunder (Jan 4, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810354"
-    },
-    {
-      "title": "Gutierrez: Raiders finish a hard season with the ending they needed most - Raiders.com",
-      "link": "https://www.raiders.com/news/gutierrez-raiders-finish-a-hard-season-with-the-ending-they-needed-most"
     },
     {
       "title": "Puka Nacua surpasses Randy Moss for second-most receiving yards by a player in their first three seasons in NFL history, trailing only Justin Jefferson - Rams",
@@ -144,10 +168,6 @@
     {
       "title": "Rubber match: Packers to play at Chicago in NFC Wild Card playoff - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/rubber-match-packers-play-at-chicago-nfc-wild-card-playoff-2025-season"
-    },
-    {
-      "title": "O-Zone Late Night, Week 18: Jaguars 41, Titans 7 - Jaguars.com",
-      "link": "https://www.jaguars.com/news/o-zone-late-night-week-18-jaguars-41-titans-7"
     }
   ],
   "weather": {
