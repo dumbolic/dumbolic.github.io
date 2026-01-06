@@ -1,9 +1,9 @@
 {
-  "quote": "The world doesn't always give you want, but it often gives you what you need. \u2013 Naval Ravikant",
-  "fact": "Samuel Clemens (Mark Twain) was born on and died on days when Halley\u2019s Comet can be seen.",
-  "crypto": "BTC: $93,927 | ETH: $3,230.16",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.",
+  "quote": "Be patient and calm; no one can catch fish in anger. \u2013 Herbert Hoover",
+  "fact": "The plastic things on the end of shoelaces are called aglets.",
+  "crypto": "BTC: $93,873 | ETH: $3,227.85",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,30 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s - The Verge",
+      "link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
+    },
+    {
+      "title": "Withings thinks of its latest smart scale as a \u2018longevity station\u2019 - The Verge",
+      "link": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health"
+    },
+    {
+      "title": "Lockin\u2019s New Smart Locks Never Need Recharging Thanks to Infrared Light - Gizmodo",
+      "link": "https://gizmodo.com/lockins-new-smart-locks-never-need-recharging-thanks-to-laser-beams-2000704701"
+    },
+    {
+      "title": "The Mui Board will support mmWave sleep tracking and gesture control - The Verge",
+      "link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control"
+    },
+    {
+      "title": "5 Classic Cars From The 1970s With Sky High Resale Values - SlashGear",
+      "link": "https://www.slashgear.com/2063904/high-resale-value-classic-cars-from-1970s/"
+    },
+    {
+      "title": "This $49.97 Microsoft Office deal skips the monthly bill entirely - Mashable",
+      "link": "https://mashable.com/article/jan-4-microsoft-office-home-business-for-mac-2021"
+    },
     {
       "title": "35 Cute, Happy Products With One Goal: Bringing Joy - BuzzFeed",
       "link": "https://www.buzzfeed.com/bekoconnell/cute-happy-products-joy"
@@ -34,10 +58,6 @@
     {
       "title": "Modifying A QingPing Air Quality Monitor For Local MQTT Access - Hackaday",
       "link": "https://hackaday.com/2026/01/04/modifying-a-qingping-air-quality-monitor-for-local-mqtt-access/"
-    },
-    {
-      "title": "You Can Switch HDMI Inputs Using Your Apple TV Remote - Here's How - bgr.com",
-      "link": "https://www.bgr.com/2065084/how-to-switch-hdmi-input-apple-tv-remote-guide/"
     },
     {
       "title": "Aliro arrives \u2013 the smart lock standard is set to launch this year - The Verge",
@@ -66,28 +86,20 @@
     {
       "title": "SwitchBot\u2019s AI-powered desk light looks like a pixel-art snow globe - The Verge",
       "link": "https://www.theverge.com/tech/853234/switchbot-obboto-ai-globe-desk-light-ces-2026"
-    },
-    {
-      "title": "Motorola\u2019s first book-style foldable leaks - The Verge",
-      "link": "https://www.theverge.com/news/854016/motorola-razr-fold-leak"
-    },
-    {
-      "title": "Plaud launches a new AI pin and a desktop meeting notetaker - TechCrunch",
-      "link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/"
-    },
-    {
-      "title": "On the likelihood of a Fitbit Ring and another Pixel Tablet - 9to5Google",
-      "link": "http://9to5google.com/2026/01/04/pixel-ring-tablet-likelihood/"
-    },
-    {
-      "title": "I'm Sorry, But If You Can Recognize These 35 Images You're Old As Dirt - BuzzFeed",
-      "link": "https://www.buzzfeed.com/mjs538/im-this-old-collection"
     }
   ],
   "sports_news": [
     {
-      "title": "How to Watch, Listen, Live Stream Ravens vs. Steelers \u2018Sunday Night Football\u2019 - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/ravens-steelers-watch-listen-live-stream-nbc-sunday-night-football-afc-north-title-peacock-channel-next-game-schedule-week-18"
+      "title": "Schedule set for Panthers playoff game vs. Rams - Panthers.com",
+      "link": "https://www.panthers.com/news/schedule-set-for-panthers-playoff-game-vs-rams-saturday-afternoon-january-10-430"
+    },
+    {
+      "title": "Rubber match: Packers to play at Chicago in NFC Wild Card playoff - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/rubber-match-packers-play-at-chicago-nfc-wild-card-playoff-2025-season"
+    },
+    {
+      "title": "Steelers vs. Ravens live updates: Score, highlights for AFC North showdown on 'SNF' - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/steelers-vs-ravens-live-updates-highlights-score-sunday-night-football/live/"
     },
     {
       "title": "Atlanta Falcons part ways with Raheem Morris and Terry Fontenot - Atlanta Falcons",
@@ -106,64 +118,56 @@
       "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772956"
     },
     {
-      "title": "49ers Set to Face the Philadelphia Eagles in Wild Card Round - 49ers.com",
-      "link": "https://www.49ers.com/news/49ers-set-to-face-the-philadelphia-eagles-in-wild-card-round"
+      "title": "NFL Playoff Bracket Picture 2025-26 and AFC, NFC Standings Ahead of Week 18 SNF - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25348051-nfl-playoff-bracket-picture-2025-26-and-afc-nfc-standings-after-week-18-snf"
     },
     {
-      "title": "Chargers to Face Patriots in Wild Card Round of 2025 NFL Playoffs - Los Angeles Chargers website",
-      "link": "https://www.chargers.com/news/patriots-wild-card-round-2025-nfl-playoffs"
+      "title": "49ers Set to Face the Philadelphia Eagles in Wild Card Round - 49ers.com",
+      "link": "https://www.49ers.com/news/49ers-set-to-face-the-philadelphia-eagles-in-wild-card-round"
     },
     {
       "title": "Rapid Recap: Patriots Cap Off 14-3 Regular Season with 38-10 Win Over Dolphins - Official website of the New England Patriots",
       "link": "https://www.patriots.com/news/rapid-recap-patriots-cap-off-14-3-regular-season-with-38-10-win-over-dolphins"
     },
     {
-      "title": "Bills clinch No. 6 seed in AFC Playoffs, will face Jaguars in Wild Card Round - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/bills-clinch-no-6-seed-in-afc-playoffs-will-face-jaguars-in-wild-card-round"
+      "title": "Raiders beat Chiefs 14-12 in the ugliest game of the season - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-beat-chiefs-14-12-in-the-ugliest-game-of-the-season"
     },
     {
-      "title": "Raiders 14-12 Chiefs (Jan 4, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772957"
+      "title": "Caroline Stanton Joins Softball For 2026 Season - Florida Gators",
+      "link": "https://floridagators.com/news/2026/1/4/caroline-stanton-joins-softball-for-2026-season"
     },
     {
       "title": "Tkachuk could return from injury to Panthers on upcoming road trip - NHL.com",
       "link": "https://www.nhl.com/news/matthew-tkachuk-nearing-return-from-injury-to-florida-panthers"
     },
     {
-      "title": "Panthers will face the Rams in next weekend\u2019s wild card game - Panthers.com",
-      "link": "https://www.panthers.com/news/panthers-will-face-the-rams-in-next-weekend-s-wild-card-game-rematch-derrick-brown"
+      "title": "Lions finish season in last place with 9-8 record after beating first-place Bears - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-finish-season-in-last-place-with-9-8-record-after-beating-first-place-bears"
+    },
+    {
+      "title": "Game Recap: Rams clinch NFC's No. 5 seed with 37-20 win over Cardinals in Week 18 - Rams",
+      "link": "https://www.therams.com/news/game-recap-rams-clinch-nfc-s-no-5-seed-with-37-20-win-over-cardinals-in-week-18"
     },
     {
       "title": "LSU Falls to Vanderbilt, 65-61 - lsusports.net",
       "link": "https://lsusports.net/news/2026/01/04/lsu-falls-to-vanderbilt-65-61/"
     },
     {
-      "title": "Brian Schottenheimer, Dak Prescott reflect on 'frustrating' 2025 season - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/brian-schottenheimer-dak-prescott-reflect-on-frustrating-2025-season"
+      "title": "Bills issue injury update on CB Maxwell Hairston - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/bills-issue-injury-update-on-cb-maxwell-hairston"
     },
     {
-      "title": "Landeskog injured in Avalanche loss to Panthers - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/47506816/colorado-avalanche-captain-gabriel-landeskog-exits-injury"
+      "title": "Brian Schottenheimer, Dak Prescott reflect on 'frustrating' 2025 season - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/brian-schottenheimer-dak-prescott-reflect-on-frustrating-2025-season"
     },
     {
       "title": "Seahawks 2026 Opponents Set - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/seahawks-2026-opponents-set"
     },
     {
-      "title": "Ravens Inactives in Steelers AFC North Title Game - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/ravens-inactives-steelers-afc-north-title-game-marlon-humphrey"
-    },
-    {
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18 - Rams",
-      "link": "https://www.therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025"
-    },
-    {
       "title": "Dave Canales: Panthers have another \"championship opportunity\" now in the playoffs - Panthers.com",
       "link": "https://www.panthers.com/news/dave-canales-panthers-have-another-championship-opportunity-now-in-the-playoffs"
-    },
-    {
-      "title": "Game notes: Trevon Diggs feels at home in Packers\u2019 secondary - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/game-notes-trevon-diggs-feels-at-home-in-packers-secondary-week-18-2025-season"
     }
   ],
   "weather": {
