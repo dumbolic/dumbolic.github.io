@@ -1,9 +1,9 @@
 {
-  "quote": "Our joy does not have to be based on our circumstances. \u2013 Joyce Meyer",
-  "fact": "Coconuts kill about 150 people each year. That\u2019s more than sharks.",
-  "crypto": "BTC: $93,826 | ETH: $3,229.13",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Where do sheep go to get their hair cut? The baa-baa shop.",
+  "quote": "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable. \u2013 Elon Musk",
+  "fact": "Hannibal had only one eye after getting a disease while attacking Rome.",
+  "crypto": "BTC: $93,348 | ETH: $3,223.83",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What is the leading cause of dry skin? Towels",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "AI start-ups take on Google in fight to reshape web browser market - Financial Times",
+      "link": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e"
+    },
     {
       "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
       "link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
@@ -32,6 +36,18 @@
       "link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
     },
     {
+      "title": "RGB is the next big thing in OLED gaming monitors - The Verge",
+      "link": "https://www.theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026"
+    },
+    {
+      "title": "The Shure MV88 USB-C stereo mic mounts directly to your phone - The Verge",
+      "link": "https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026"
+    },
+    {
+      "title": "Mammotion\u2019s flagship robot lawnmower now uses lidar to map your yard - The Verge",
+      "link": "https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026"
+    },
+    {
       "title": "The Mui Board will support mmWave sleep tracking and gesture control - The Verge",
       "link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control"
     },
@@ -48,35 +64,19 @@
       "link": "https://www.buzzfeed.com/bekoconnell/cute-happy-products-joy"
     },
     {
-      "title": "10 Famous Celebrities And Their Forgotten First Cars - Jalopnik",
-      "link": "https://www.jalopnik.com/2064485/famous-celebrities-forgotten-first-cars/"
-    },
-    {
       "title": "There\u2019s finally another new Android phone with Qi2 coming, but will there be more in 2026? - 9to5Google",
       "link": "http://9to5google.com/2026/01/04/qi2-android-phones-in-2026/"
     },
     {
       "title": "Govee\u2019s New Smart Ceiling Light Gives You AI Art to Look Up To - Gizmodo",
       "link": "https://gizmodo.com/govees-new-smart-ceiling-light-gives-you-ai-art-to-look-up-to-2000704713"
-    },
-    {
-      "title": "Modifying A QingPing Air Quality Monitor For Local MQTT Access - Hackaday",
-      "link": "https://hackaday.com/2026/01/04/modifying-a-qingping-air-quality-monitor-for-local-mqtt-access/"
-    },
-    {
-      "title": "You Can Switch HDMI Inputs Using Your Apple TV Remote - Here's How - bgr.com",
-      "link": "https://www.bgr.com/2065084/how-to-switch-hdmi-input-apple-tv-remote-guide/"
-    },
-    {
-      "title": "Aliro arrives \u2013 the smart lock standard is set to launch this year - The Verge",
-      "link": "https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc"
-    },
-    {
-      "title": "Sunday Preview \u2013 Captain Titus prepares to unify the 500 Worlds - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds"
     }
   ],
   "sports_news": [
+    {
+      "title": "How to watch, listen to and livestream Raiders vs. Chiefs - Raiders.com",
+      "link": "https://www.raiders.com/news/how-to-watch-listen-to-and-livestream-las-vegas-raiders-vs-kansas-city-chiefs-nfl-week-18-010426"
+    },
     {
       "title": "Lakers 120-114 Grizzlies (Jan 4, 2026) Game Recap - ESPN",
       "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810356"
@@ -84,6 +84,10 @@
     {
       "title": "Game Recap: Ravens Finish Season With Gut-Wrenching Loss to Steelers - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
       "link": "https://www.baltimoreravens.com/news/tyler-loop-lamar-jackson-ravens-steelers-field-goal-miss-afc-north-title-recap"
+    },
+    {
+      "title": "World Junior Championship roundup: Czechia tops Canada, reaches final - NHL.com",
+      "link": "https://www.nhl.com/news/on-tap-world-junior-championship-news-and-notes-january-4-2026"
     },
     {
       "title": "Who will the Texans face on Monday Night Football in the Wild Card Round? - Houston Texans",
@@ -94,8 +98,16 @@
       "link": "https://www.buffalobills.com/news/bills-rb-james-cook-iii-wins-2025-nfl-rushing-title"
     },
     {
-      "title": "Game Observations: 8 Takeaways From the Patriots Blowout Victory Over the Dolphins in Week 18 - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-blowout-victory-over-the-dolphins-in-week-18"
+      "title": "Steelers win the AFC North - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-win-the-afc-north"
+    },
+    {
+      "title": "Zizing 'Em Up: United States, Canada would boast strong 2nd Olympic teams - NHL.com",
+      "link": "https://www.nhl.com/news/zizing-em-up-united-states-canada-would-boast-strong-2nd-olympic-teams"
+    },
+    {
+      "title": "Suns 108-105 Thunder (Jan 4, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810354"
     },
     {
       "title": "Schedule set for Panthers playoff game vs. Rams - Panthers.com",
@@ -114,48 +126,32 @@
       "link": "https://www.iihf.com/en/events/2026/wm20/news/71530/swe-fin"
     },
     {
+      "title": "Top 3 things we learned from Bills vs. Jets | Week 18 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-jets-week-18-x2872"
+    },
+    {
+      "title": "NFL Mock Draft 2026: NFL Playoffs Have Arrived! - The Draft Network",
+      "link": "https://www.thedraftnetwork.com/2026/01/04/nfl-mock-draft-2026-january-5"
+    },
+    {
       "title": "Atlanta Falcons part ways with Raheem Morris and Terry Fontenot - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/atlanta-falcons-part-ways-with-raheem-morris-terry-fontenot"
     },
     {
-      "title": "Winners and losers from the Broncos 19-3 victory over the Chargers - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-news/168893/winners-and-losers-from-the-broncos-19-3-victory-over-the-chargers"
-    },
-    {
-      "title": "4 takeaways from Lions\u2019 19-16 win against the Bears - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/154605/4-takeaways-detroit-lions-19-16-season-ending-win-against-chicago-bears"
+      "title": "Playoff bracket set for Seahawks and rest of NFC - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/playoff-bracket-set-for-seahawks-and-rest-of-nfc/1834423"
     },
     {
       "title": "Green Bay Packers\u2019 2026 opponents determined - Green Bay Packers \u2013 packers.com",
       "link": "https://www.packers.com/news/green-bay-packers-2026-schedule-opponents-determined"
     },
     {
-      "title": "NFL Playoff Bracket Picture 2025-26 and AFC, NFC Standings Ahead of Week 18 SNF - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25348051-nfl-playoff-bracket-picture-2025-26-and-afc-nfc-standings-after-week-18-snf"
-    },
-    {
-      "title": "NFL playoff schedule 2026: Matchups, times, TV for wild-card round (UPDATED) - NJ.com",
-      "link": "https://www.nj.com/eagles/2026/01/nfl-playoff-schedule-2026-heres-latest-on-matchups-times-tv-for-wild-card-round.html"
+      "title": "Broncos 19-3 Chargers (Jan 4, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772956"
     },
     {
       "title": "49ers Set to Face the Philadelphia Eagles in Wild Card Round - 49ers.com",
       "link": "https://www.49ers.com/news/49ers-set-to-face-the-philadelphia-eagles-in-wild-card-round"
-    },
-    {
-      "title": "Chargers to Face Patriots in Wild Card Round of 2025 NFL Playoffs - Los Angeles Chargers website",
-      "link": "https://www.chargers.com/news/patriots-wild-card-round-2025-nfl-playoffs"
-    },
-    {
-      "title": "Bills 35, Jets 8 | Final Score, recap + highlights - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/bills-35-jets-8-final-score-recap-highlights"
-    },
-    {
-      "title": "Raiders 14-12 Chiefs (Jan 4, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772957"
-    },
-    {
-      "title": "Caroline Stanton Joins Softball For 2026 Season - Florida Gators",
-      "link": "https://floridagators.com/news/2026/1/4/caroline-stanton-joins-softball-for-2026-season"
     }
   ],
   "weather": {
