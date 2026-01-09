@@ -1,9 +1,9 @@
 {
-  "quote": "If you've made a mistake, it's better just to laugh at it. \u2013 Zen Proverb",
-  "fact": "It was discovered on a space mission that a frog can throw up.\u00a0The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
-  "crypto": "BTC: $90,863 | ETH: $3,110.03",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "They laughed when I said I wanted to be a comedian \u2013 they\u2019re not laughing now.",
+  "quote": "Fear is stupid. So are regrets. \u2013 Marilyn Monroe",
+  "fact": "Cats urine glows under a black light.",
+  "crypto": "BTC: $90,877 | ETH: $3,112.64",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "New atoms frequently lose electrons when they fail to keep an ion them.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,8 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "These Are the Coolest Laptops We've Seen at CES 2026 - CNET",
-      "link": "https://www.cnet.com/tech/computing/these-are-the-coolest-laptops-weve-seen-at-ces-2026/"
+      "title": "All the Head-Turning Security Tech I Saw at CES 2026 - CNET",
+      "link": "https://www.cnet.com/home/security/all-the-head-turning-security-tech-i-saw-at-ces-2026/"
     },
     {
       "title": "Tame your wayward cables with $60 off the Anker Prime Docking Station - Mashable",
@@ -28,12 +28,12 @@
       "link": "https://mashable.com/article/lenovo-ceo-yang-yuanqing-interview-ai-nobody-can-avoid-it"
     },
     {
-      "title": "What It's Like to Slice Food With an Ultrasonic Knife That Vibrates 30,000 Times Per Second - CNET",
-      "link": "https://www.cnet.com/home/kitchen-and-household/what-its-like-to-slice-food-with-an-ultrasonic-knife/"
-    },
-    {
       "title": "Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 - Wccftech",
       "link": "https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/"
+    },
+    {
+      "title": "AI Models Are Starting to Learn by Asking Themselves Questions - WIRED",
+      "link": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/"
     },
     {
       "title": "Dell admits consumers don\u2019t care about AI PCs - The Verge",
@@ -44,8 +44,20 @@
       "link": "https://news.blizzard.com/en-us/article/24245105/fight-for-all-futures-with-the-echoes-of-the-infinite-mini-set"
     },
     {
+      "title": "Anker Unveils Expansive Accessories, Smart Home and Audio Lineup at CES 2026 - hypebeast.com",
+      "link": "https://hypebeast.com/2026/1/anker-unveils-huge-smart-home-audio-accessories-lineup-ces-2026"
+    },
+    {
+      "title": "Former Assassin's Creed director Alexandre Amancio explains how to fix AAA development - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/former-assassins-creed-director-alexandre-amancio-explains-how-to-fix-aaa-development"
+    },
+    {
       "title": "Fujikura Updates Ventus TR Blue With VeloCore+ Technology - MyGolfSpy",
       "link": "https://mygolfspy.com/news-opinion/fujikura-updates-ventus-tr-blue-with-velocore-technology/"
+    },
+    {
+      "title": "World\u2019s first 240Hz AR glasses aim to replace big gaming monitors - Interesting Engineering",
+      "link": "https://interestingengineering.com/ces-2026/worlds-first-240hz-smart-glasses"
     },
     {
       "title": "NVIDIA Answers TechPowerUp Questions on DLSS 4.5, 6x Multi FrameGen, and 240 Hz Mode - TechPowerUp",
@@ -54,18 +66,6 @@
     {
       "title": "Warhammer 40,000: Dawn of War 4 Shows Off Ork Faction in New CGI Trailer \u2013 IGN First - IGN",
       "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-shows-off-ork-faction-in-new-cgi-trailer-ign-first"
-    },
-    {
-      "title": "WhatsApp Enhances Group Chats With Three New Features - MacRumors",
-      "link": "https://www.macrumors.com/2026/01/07/whatsapp-group-chats-three-new-features/"
-    },
-    {
-      "title": "Onkyo's 80th birthday is here \u2013 and so is its newest AV receiver - What Hi-Fi?",
-      "link": "https://www.whathifi.com/tv-home-cinema/av-receivers/finally-onkyo-has-teased-a-new-av-receiver-but-its-rivals-shouldnt-be-worried-yet"
-    },
-    {
-      "title": "The best phone chargers and portable power solutions at CES 2026 - The Verge",
-      "link": "https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi"
     },
     {
       "title": "Why Elon Musk now says it would be a 'distraction' for SpaceX to go to Mars this year - Morningstar",
@@ -80,38 +80,74 @@
       "link": "https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards"
     },
     {
-      "title": "Gigabyte Announce New OLED Monitors at CES 2026 Including a Glossy Tandem WOLED - TFTCentral",
-      "link": "https://tftcentral.co.uk/news/gigabyte-announce-new-oled-monitors-at-ces-2026-including-a-glossy-tandem-woled"
+      "title": "ASUS ROG Strix B860-F Gaming Wi-Fi Review - TechPowerUp",
+      "link": "https://www.techpowerup.com/review/asus-rog-strix-b860-f-gaming-wi-fi/"
     },
     {
-      "title": "Steve Jobs' childhood belongings, early Apple products up for auction to mark company's 50th anniversary - CBS News",
-      "link": "https://www.cbsnews.com/news/steve-jobs-childhood-belongings-apple-auction/"
+      "title": "Gigabyte Announce New OLED Monitors at CES 2026 Including a Glossy Tandem WOLED - TFTCentral",
+      "link": "https://tftcentral.co.uk/news/gigabyte-announce-new-oled-monitors-at-ces-2026-including-a-glossy-tandem-woled"
     }
   ],
   "sports_news": [
     {
-      "title": "Sources: Hawks end Young era, send G to Wiz - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/47545290/sources-hawks-trading-trae-young-wizards-mccollum-kispert"
+      "title": "Warriors 120-113 Bucks (Jan 7, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810381"
+    },
+    {
+      "title": "Lipsey touted as best PG in nation after ISU win - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/47547281/iowa-st-moves-15-0-tamin-lipsey-stars-second-half"
+    },
+    {
+      "title": "BYU 104-76 Arizona State (Jan 7, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401827606"
+    },
+    {
+      "title": "Breaking down Cabrera deal's effect on the starting pitcher trade market - MLB.com",
+      "link": "https://www.mlb.com/news/edward-cabrera-trade-analysis-for-cubs-marlins-offseason-market"
+    },
+    {
+      "title": "Magic 104-103 Nets (Jan 7, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810376"
+    },
+    {
+      "title": "Knicks 123-111 Clippers (Jan 7, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810377"
+    },
+    {
+      "title": "Nuggets 114-110 Celtics (Jan 7, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810375"
+    },
+    {
+      "title": "Mammoth to host 2027 Winter Classic vs. Avalanche in Salt Lake City - NHL.com",
+      "link": "https://www.nhl.com/news/utah-mammoth-to-host-2027-winter-classic-against-colorado-avalanche-in-salt-lake-city"
+    },
+    {
+      "title": "Baseball execs reveal which prospects have the top tools - MLB.com",
+      "link": "https://www.mlb.com/news/front-office-executives-poll-for-best-prospect-tools-2026"
+    },
+    {
+      "title": "Victor Wembanyama in action, while LeBron James rests - NBA",
+      "link": "https://www.nba.com/news/spurs-victor-wembanyama-set-to-play-while-lakers-lebron-james-rests"
+    },
+    {
+      "title": "49ers vs. Eagles Injury Report | Wild Card Round - Philadelphia Eagles",
+      "link": "https://www.philadelphiaeagles.com/news/49ers-vs-eagles-injury-report-wild-card-round-2025-nfl-season"
     },
     {
       "title": "Hall, ironman goaltender with record 502 consecutive starts, dies at 94 - NHL.com",
       "link": "https://www.nhl.com/news/hall-of-fame-goaltender-glenn-hall-dead-at-94"
     },
     {
+      "title": "As UW QB Demond Williams Jr. leaves, what does Jedd Fisch do now? - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/washington-huskies-football/after-demond-williams-jr-exit-can-jedd-fisch-keep-washington-huskies-afloat/"
+    },
+    {
       "title": "Chargers vs. Patriots Injury Report: Omarion Hampton Among 8 Players Who Don't Practice Wednesday - Los Angeles Chargers website",
       "link": "https://www.chargers.com/news/patriots-injury-report-omarion-hampton-wild-card-playoffs"
     },
     {
-      "title": "Mammoth to host 2027 Discover NHL Winter Classic at University of Utah - NHL.com",
-      "link": "https://www.nhl.com/news/mammoth-to-host-2027-winter-classic-at-rice-eccles-stadium-against-avalanche"
-    },
-    {
       "title": "John Harbaugh Gives This NFL Hiring Cycle the Juice It Was Missing - The Ringer",
       "link": "https://www.theringer.com/2026/01/07/nfl/nfl-head-coach-carousel-hiring-cycle-john-harbaugh-fired-ravens-new-york-giants-atlanta-falcons-miami-dolphins"
-    },
-    {
-      "title": "Sabres \u2018definitely hungry\u2019 to make Stanley Cup Playoffs, Benson says - NHL.com",
-      "link": "https://www.nhl.com/news/zach-benson-discusses-buffalo-sabres-playoff-hopes-on-nhl-at-the-rink-podcast"
     },
     {
       "title": "Broncos sign three players to practice squad - Denver Broncos",
@@ -130,44 +166,8 @@
       "link": "https://www.espn.com/nfl/story/_/id/47542209/3-arrested-nov-break-shedeur-sanders-residence"
     },
     {
-      "title": "Denmark roster for 2026 Winter Olympics includes Eller, Ehlers - NHL.com",
-      "link": "https://www.nhl.com/news/denmark-roster-for-2026-winter-olympics"
-    },
-    {
-      "title": "Fox, Shesterkin out indefinitely, Miller likely back Thursday for Rangers - NHL.com",
-      "link": "https://www.nhl.com/news/adam-fox-igor-shesterkin-jt-miller-ny-rangers-injury-update"
-    },
-    {
-      "title": "NHL Status Report: Marchment week to week for Blue Jackets - NHL.com",
-      "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-january-7-2026"
-    },
-    {
-      "title": "How the Head Coach Interview Process Works - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/head-coach-interview-process-rules-ravens-candidates-timeline-john-harbaugh"
-    },
-    {
-      "title": "TE Elijah Arroyo Designated For Return To Practice - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/te-elijah-arroyo-designated-for-return-to-practice"
-    },
-    {
-      "title": "Transfer Portal Intel: Latest updates on top players as Demond Williams Jr. joins Sam Leavitt in QB market - 247Sports",
-      "link": "https://247sports.com/article/transfer-portal-intel-latest-updates-top-players-demond-williams-jr-sam-leavitt-269821218/"
-    },
-    {
-      "title": "Bills sign CB Dane Jackson to active roster, placed DT Jordan Phillips on IR - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://www.buffalobills.com/news/bills-sign-cb-dane-jackson-to-active-roster-placed-dt-jordan-phillips-on-ir"
-    },
-    {
-      "title": "Bay FC Signs Forward Alex Pfeiffer to Three-Year Contract Through 2028 - Bay FC",
-      "link": "https://bayfc.com/press-releases/alex-pfeiffer-signing-20260107/"
-    },
-    {
-      "title": "Fleury rejoins Jets after being taken from ice on stretcher - NHL.com",
-      "link": "https://www.nhl.com/news/winnipeg-jets-haydn-fleury-injury-status-update-january-6-2026"
-    },
-    {
-      "title": "Irish Football Legend Nick Eddy Passes Away - Notre Dame Athletics",
-      "link": "https://fightingirish.com/irish-football-legend-nick-eddy-passes-away/"
+      "title": "Two Reported Potential Interviews With Head Coaching Experience - Arizona Cardinals",
+      "link": "https://www.azcardinals.com/news/two-reported-potential-interviews-with-head-coaching-experience"
     }
   ],
   "weather": {
