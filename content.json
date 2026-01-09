@@ -1,9 +1,9 @@
 {
-  "quote": "To the mind that is still, the whole universe surrenders. \u2013 Lao Tzu",
-  "fact": "The average human eats 8 spiders in their lifetime at night.",
-  "crypto": "BTC: $90,918 | ETH: $3,116.85",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Did you hear the one about the guy with the broken hearing aid? Neither did he.",
+  "quote": "Why compare yourself with others? No one in the entire world can do a better job of being you than you. \u2013 Unknown",
+  "fact": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.\u00a0 It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
+  "crypto": "BTC: $90,925 | ETH: $3,114.57",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "How do robots eat guacamole? With computer chips.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Asus gave us a first look at its Wi-Fi 8 router at CES, and it's nothing we could've expected - ZDNET",
+      "link": "https://www.zdnet.com/home-and-office/asus-rog-neocore-wi-fi-8-router-ces-concept/"
+    },
     {
       "title": "All the Head-Turning Security Tech I Saw at CES 2026 - CNET",
       "link": "https://www.cnet.com/home/security/all-the-head-turning-security-tech-i-saw-at-ces-2026/"
@@ -28,8 +32,12 @@
       "link": "https://mashable.com/article/lenovo-ceo-yang-yuanqing-interview-ai-nobody-can-avoid-it"
     },
     {
-      "title": "Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 - Wccftech",
-      "link": "https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/"
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment - Venturebeat",
+      "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+    },
+    {
+      "title": "Meike Found a Loophole for Canon\u2019s Closed RF Mount - PetaPixel",
+      "link": "https://petapixel.com/2026/01/07/meike-found-a-loophole-for-canons-closed-rf-mount/"
     },
     {
       "title": "AI Models Are Starting to Learn by Asking Themselves Questions - WIRED",
@@ -68,6 +76,10 @@
       "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-shows-off-ork-faction-in-new-cgi-trailer-ign-first"
     },
     {
+      "title": "Google\u2019s Mueller Weighs In On SEO vs GEO Debate - Search Engine Journal",
+      "link": "https://www.searchenginejournal.com/googles-mueller-weighs-in-on-seo-vs-geo-debate/564583/"
+    },
+    {
       "title": "Why Elon Musk now says it would be a 'distraction' for SpaceX to go to Mars this year - Morningstar",
       "link": "https://www.morningstar.com/news/marketwatch/20260107182/why-elon-musk-now-says-it-would-be-a-distraction-for-spacex-to-go-to-mars-this-year"
     },
@@ -78,14 +90,6 @@
     {
       "title": "Kick off the year with new rewards - Minecraft",
       "link": "https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards"
-    },
-    {
-      "title": "ASUS ROG Strix B860-F Gaming Wi-Fi Review - TechPowerUp",
-      "link": "https://www.techpowerup.com/review/asus-rog-strix-b860-f-gaming-wi-fi/"
-    },
-    {
-      "title": "Gigabyte Announce New OLED Monitors at CES 2026 Including a Glossy Tandem WOLED - TFTCentral",
-      "link": "https://tftcentral.co.uk/news/gigabyte-announce-new-oled-monitors-at-ces-2026-including-a-glossy-tandem-woled"
     }
   ],
   "sports_news": [
@@ -94,28 +98,24 @@
       "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810381"
     },
     {
-      "title": "Lipsey touted as best PG in nation after ISU win - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/47547281/iowa-st-moves-15-0-tamin-lipsey-stars-second-half"
-    },
-    {
       "title": "BYU 104-76 Arizona State (Jan 7, 2026) Game Recap - ESPN",
       "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401827606"
-    },
-    {
-      "title": "Breaking down Cabrera deal's effect on the starting pitcher trade market - MLB.com",
-      "link": "https://www.mlb.com/news/edward-cabrera-trade-analysis-for-cubs-marlins-offseason-market"
     },
     {
       "title": "Magic 104-103 Nets (Jan 7, 2026) Game Recap - ESPN",
       "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810376"
     },
     {
-      "title": "Knicks 123-111 Clippers (Jan 7, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810377"
+      "title": "Hall earned his well-deserved legacy as 'Mr. Goalie' - NHL.com",
+      "link": "https://www.nhl.com/news/glenn-hall-earned-his-well-deserved-legacy-as-mr-goalie"
     },
     {
       "title": "Nuggets 114-110 Celtics (Jan 7, 2026) Game Recap - ESPN",
       "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810375"
+    },
+    {
+      "title": "Jimbo Fisher attacks Lane Kiffin for not letting Ole Miss coaches finish the job - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jimbo-fisher-attacks-lane-kiffin-for-not-letting-ole-miss-coaches-finish-the-job"
     },
     {
       "title": "Mammoth to host 2027 Winter Classic vs. Avalanche in Salt Lake City - NHL.com",
@@ -134,12 +134,8 @@
       "link": "https://www.philadelphiaeagles.com/news/49ers-vs-eagles-injury-report-wild-card-round-2025-nfl-season"
     },
     {
-      "title": "Hall, ironman goaltender with record 502 consecutive starts, dies at 94 - NHL.com",
-      "link": "https://www.nhl.com/news/hall-of-fame-goaltender-glenn-hall-dead-at-94"
-    },
-    {
-      "title": "As UW QB Demond Williams Jr. leaves, what does Jedd Fisch do now? - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/washington-huskies-football/after-demond-williams-jr-exit-can-jedd-fisch-keep-washington-huskies-afloat/"
+      "title": "Packers CB Keisean Nixon is \u2018super locked in\u2019 - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-cb-keisean-nixon-is-super-locked-in-jan-7-2026"
     },
     {
       "title": "Chargers vs. Patriots Injury Report: Omarion Hampton Among 8 Players Who Don't Practice Wednesday - Los Angeles Chargers website",
@@ -154,10 +150,6 @@
       "link": "https://www.denverbroncos.com/news/broncos-sign-three-players-to-practice-squad-x2511"
     },
     {
-      "title": "Barcelona 5-0 Athletic (Jan 7, 2026) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/748115"
-    },
-    {
       "title": "What are the Cowboys looking for in their next defensive coordinator? - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "link": "https://www.dallascowboys.com/news/what-are-the-cowboys-looking-for-in-their-next-defensive-coordinator"
     },
@@ -168,6 +160,18 @@
     {
       "title": "Two Reported Potential Interviews With Head Coaching Experience - Arizona Cardinals",
       "link": "https://www.azcardinals.com/news/two-reported-potential-interviews-with-head-coaching-experience"
+    },
+    {
+      "title": "Denmark roster for 2026 Winter Olympics includes Eller, Ehlers - NHL.com",
+      "link": "https://www.nhl.com/news/denmark-roster-for-2026-winter-olympics"
+    },
+    {
+      "title": "Fox, Shesterkin out indefinitely, Miller likely back Thursday for Rangers - NHL.com",
+      "link": "https://www.nhl.com/news/adam-fox-igor-shesterkin-jt-miller-ny-rangers-injury-update"
+    },
+    {
+      "title": "How the Head Coach Interview Process Works - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+      "link": "https://www.baltimoreravens.com/news/head-coach-interview-process-rules-ravens-candidates-timeline-john-harbaugh"
     }
   ],
   "weather": {
