@@ -1,9 +1,9 @@
 {
-  "quote": "Intelligent men are cruel. Stupid men are monstrously cruel. \u2013 Jack London",
-  "fact": "Some worms will eat themselves if they can't find any food!",
-  "crypto": "BTC: $90,581 | ETH: $3,092.64",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I went to a Foo Fighters Concert once... It was Everlong...",
+  "quote": "Success is nothing more than a few simple disciplines practiced every day. \u2013 Jim Rohn",
+  "fact": "Children grow faster in the springtime.",
+  "crypto": "BTC: $90,598 | ETH: $3,094.17",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a fish wearing a bowtie? Sofishticated.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "500 Worlds: Titus \u2013 Will you brave a deadly campaign on the war-torn Vespator Front? - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/oq2wdapz/500-worlds-titus-will-you-brave-a-deadly-campaign-on-the-war-torn-vespator-front"
+      "title": "Titus and the Wardens of Ultramar are on parade thanks to our talented community painters - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/xcucjrwf/titus-and-the-wardens-of-ultramar-are-on-parade-thanks-to-our-talented-community-painters"
     },
     {
       "title": "Crimson Desert's Open World Is at Least Twice as Big as Skyrim's, and Larger Than the Red Dead Redemption 2 Map - IGN",
       "link": "https://www.ign.com/articles/crimson-deserts-open-world-is-at-least-twice-as-big-as-skyrims-and-larger-than-the-red-dead-redemption-2-map"
+    },
+    {
+      "title": "Google: Don't Turn Your Content Into Bite-Sized Chunks - Search Engine Roundtable",
+      "link": "https://www.seroundtable.com/google-content-bite-sized-chunks-40728.html"
+    },
+    {
+      "title": "Microsoft 365 Copilot app rebrand was bad, others were worse - theregister.com",
+      "link": "https://www.theregister.com/2026/01/09/microsoft_365_copilot_app/"
     },
     {
       "title": "Microsoft is making it much easier to add hyperlinks in Word docs - The Verge",
@@ -32,20 +40,16 @@
       "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis"
     },
     {
-      "title": "Subaru Reveals New Engine for GT300 Challenger - Sportscar365",
-      "link": "https://sportscar365.com/super-gt/subaru-reveals-new-engine-for-2026-gt300-challenger/"
-    },
-    {
-      "title": "AI Faces Fool Most of Us, But 5 Minutes of Training May Help You Spot Fakes - ScienceAlert",
-      "link": "https://www.sciencealert.com/ai-faces-fool-most-of-us-but-5-minutes-of-training-may-help-you-spot-fakes"
+      "title": "Industry Insider Teases 'Secret' Fourth Game For The Xbox Developer Direct Showcase - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/01/industry-insider-teases-secret-fourth-game-for-the-xbox-developer-direct-showcase"
     },
     {
       "title": "CES 2026: Would you spend $9K on this OLED smart purse? - Mashable",
       "link": "https://mashable.com/article/ces-2026-infinity-by-peuty-smart-oled-handbag"
     },
     {
-      "title": "Don\u2019t mind if I do. - The Verge",
-      "link": "https://www.theverge.com/tech/859202/dont-mind-if-i-do"
+      "title": "Meta's Reality Labs chief is calling the 'most important' meeting of the year, urging employees to show up in person - Business Insider",
+      "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-reality-labs-all-hands-meeting-2026-1"
     },
     {
       "title": "Fire Emblem: Path of Radiance comes to Nintendo Classics! \u2013 News \u2013 Nintendo Official Site - Nintendo",
@@ -56,6 +60,10 @@
       "link": "https://www.leagueoflegends.com/en-us/news/game-updates/season-start-for-demacia-emote-twitch-drops/"
     },
     {
+      "title": "Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one - The Verge",
+      "link": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline"
+    },
+    {
       "title": "Excel: Workers cling to the software despite shift to AI - BBC",
       "link": "https://www.bbc.com/news/articles/cwyxkzjpp87o"
     },
@@ -64,23 +72,35 @@
       "link": "http://9to5google.com/2026/01/08/android-find-hub-trackers-paper-batteries-nimble/"
     },
     {
-      "title": "Avowed Is the Latest Xbox Game Studios Title Headed to PlayStation - IGN",
-      "link": "https://www.ign.com/articles/avowed-is-the-latest-xbox-game-studios-title-headed-to-playstation"
+      "title": "Google Fi starts selling its first 5G tablet - 9to5Google",
+      "link": "http://9to5google.com/2026/01/08/google-fi-store-tablet/"
+    },
+    {
+      "title": "Embark Thinks It 'Should Do a Lot More' With Trading in Arc Raiders, But Players Aren't Sold - IGN",
+      "link": "https://www.ign.com/articles/embark-thinks-it-should-do-a-lot-more-with-trading-in-arc-raiders-but-players-arent-sold"
+    },
+    {
+      "title": "The Winter Floating Festival Event Guide - Disney Dreamlight Valley Guide - IGN",
+      "link": "https://www.ign.com/wikis/disney-dreamlight-valley/The_Winter_Floating_Festival_Event_Guide"
     },
     {
       "title": "Samsung Silently Changes Android On Hundreds Of Millions Of Phones - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2026/01/08/samsung-silently-changes-android-on-hundreds-of-millions-of-phones/"
-    },
-    {
-      "title": "Towerborne Launches February 26 with Massive Full Game Update - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/01/08/towerborne-launches-february-26-with-massive-full-game-update/"
-    },
-    {
-      "title": "How to photograph bikes and bicycling - Escape Collective",
-      "link": "https://escapecollective.com/how-to-photograph-bikes-and-bicycling/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Browns interview Seahawks defensive coordinator Aden Durde for head coach - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-interview-seahawks-defensive-coordinator-aden-durde-for-head-coach"
+    },
+    {
+      "title": "Hewitt no regrets about De Minaur sitting out decisive United Cup mixed doubles - ATP Tour",
+      "link": "https://www.atptour.com/en/news/no-regrets-with-de-minaur-sitting-out-united-cup-mixed-doubles"
+    },
+    {
+      "title": "Kia MVP Ladder: Jaylen Brown's surge bolsters his MVP case - NBA",
+      "link": "https://www.nba.com/news/kia-mvp-ladder-jan-9-2026"
+    },
     {
       "title": "Execs poll: Top system? Best at drafting? Best at trading for prospects? - MLB.com",
       "link": "https://www.mlb.com/news/front-office-executives-poll-for-farm-systems-2026"
@@ -94,8 +114,20 @@
       "link": "https://www.nba.com/news/pacers-coach-rick-carlisle-wins-his-1000th-game-after-monthlong-wait-as-team-ends-13-game-skid"
     },
     {
+      "title": "F1 Arcade announces opening date for new Atlanta venue - F1 - The Official Home of Formula 1\u00ae Racing",
+      "link": "https://www.formula1.com/en/latest/article/f1-arcade-announces-opening-date-for-new-atlanta-venue.1etaBNQZZgaPIux4mvxxu1"
+    },
+    {
+      "title": "United Cup schedule update: Saturday start brought forward - ATP Tour",
+      "link": "https://www.atptour.com/en/news/united-cup-2026-saturday-schedule-update"
+    },
+    {
       "title": "2025-26 College Football Playoff schedule, dates, TV channel, sites - NCAA.com",
       "link": "https://www.ncaa.com/news/football/article/2025-01-08/2025-26-college-football-playoff-schedule-dates-tv-channel-sites"
+    },
+    {
+      "title": "Avalanche 8-2 Senators (Jan 8, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nhl/recap?gameId\\\\u003d401803042"
     },
     {
       "title": "Miami outlasts Ole Miss 31-27 to advance to College Football Playoff national championship - NBC News",
@@ -114,6 +146,10 @@
       "link": "https://official.nba.com/pool-report-on-postponement-of-tonights-heat-at-bulls-game/"
     },
     {
+      "title": "No. 25 Huskers Hold Off Hoosiers - University of Nebraska - Official Athletics Website - huskers.com",
+      "link": "https://huskers.com/news/2026/01/9/no-25-huskers-hold-off-hoosiers"
+    },
+    {
       "title": "Sabres 5-2 Rangers (Jan 8, 2026) Game Recap - ESPN",
       "link": "https://www.espn.com/nhl/recap?gameId\\\\u003d401803036"
     },
@@ -122,44 +158,16 @@
       "link": "https://www.atlantafalcons.com/news/complete-interview-brandt-tilis-president-of-football"
     },
     {
+      "title": "Ohio State LB Arvell Reese announces intention to enter 2026 NFL Draft - NFL.com",
+      "link": "https://www.nfl.com/news/ohio-state-lb-arvell-reese-announces-intention-to-enter-2026-nfl-draft"
+    },
+    {
+      "title": "NHL Status Report: Marchand day to day, out for Panthers against Canadiens - NHL.com",
+      "link": "https://www.nhl.com/news/nhl-status-report-news-and-notes-january-8-2026"
+    },
+    {
       "title": "PGA TOUR announces expansion to Player Equity Program - PGA Tour",
       "link": "https://www.pgatour.com/article/news/latest/2026/01/08/pga-tour-announces-expansion-to-player-equity-program"
-    },
-    {
-      "title": "Season previews: 2026 NASCAR Cup Series teams - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/01/08/season-previews-2026-nascar-cup-series-teams/"
-    },
-    {
-      "title": "These prospects have the best tools in the Mets' farm system - MLB.com",
-      "link": "https://www.mlb.com/news/mets-prospects-with-best-tools-entering-2026"
-    },
-    {
-      "title": "Sources: 9 MLB teams end deals with Main Street Sports Group - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/47552639/sources-9-mlb-teams-end-deals-main-street-sports-group"
-    },
-    {
-      "title": "Stewart Friesen to return to No. 52 truck for 2026 Truck Series campaign - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/01/08/stewart-friesen-returns-no-52-truck-2026-craftsman-truck-series-season/"
-    },
-    {
-      "title": "Wild Card Thursday Injury Report: Two questionable for Rams game - Panthers.com",
-      "link": "https://www.panthers.com/news/wild-card-thursday-injury-report-two-questionable-for-rams-game"
-    },
-    {
-      "title": "Sharks acquire goaltender Laurent Brossoit, defenseman Nolan Allan and a 2028 draft selection - NHL.com",
-      "link": "https://www.nhl.com/sharks/news/sharks-acquire-goaltender-laurent-brossoit-defenseman-nolan-allan-and-a-2028-draft-selection"
-    },
-    {
-      "title": "Browns interview defensive coordinator Jim Schwartz for head coach - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/browns-interview-defensive-coordinator-jim-schwartz-for-head-coach"
-    },
-    {
-      "title": "Three to Watch: Patriots vs. Chargers Wild Card Playoff Preview - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/three-to-watch-patriots-vs-chargers-wild-card-playoff-preview"
-    },
-    {
-      "title": "Kansas City Chiefs, NFL acknowledge Rashee Rice domestic abuse allegations - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/kansas-city-chiefs-nfl-acknowledge-rashee-rice-domestic-abuse-allegati-rcna253071"
     }
   ],
   "weather": {
