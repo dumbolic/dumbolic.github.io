@@ -1,9 +1,9 @@
 {
-  "quote": "You must learn to let go. Release the stress. You were never in control anyway. \u2013 Steve Maraboli",
-  "fact": "The youngest pope ever was 11 years old.",
-  "crypto": "BTC: $92,076 | ETH: $3,129.88",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What is the tallest building in the world? The library \u2013 it\u2019s got the most stories!",
+  "quote": "Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. \u2013 Roy T. Bennett",
+  "fact": "Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.",
+  "crypto": "BTC: $91,803 | ETH: $3,120.76",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "I went looking for weird phones and CES 2026 did not disappoint - The Verge",
+      "link": "https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold"
+    },
+    {
+      "title": "DuckDuckGo vs. Google: The Search Engine Choice That Says Everything About You - PCMag",
+      "link": "https://www.pcmag.com/comparisons/duckduckgo-vs-google-the-search-engine-choice-that-says-everything-about"
+    },
+    {
       "title": "CES 2026: LG's Latest Washer-Dryer Combo Solves the Biggest Issues With All-In-One Machines - CNET",
       "link": "https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/"
+    },
+    {
+      "title": "I can't believe I used my Google Pixel without this productivity tool for this long - Android Police",
+      "link": "https://www.androidpolice.com/cant-believe-used-google-pixel-without-this-productivity-tool/"
+    },
+    {
+      "title": "I dumped Windows 11 for Linux, and you should too - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46574707"
+    },
+    {
+      "title": "GYESME: A New Design-Led Downstream Of GNOME Being Explored - Phoronix",
+      "link": "https://www.phoronix.com/news/GYESME-GNOME-Downstream"
     },
     {
       "title": "Linus Torvalds' Latest Open-Source Project Is AudioNoise - Made With The Help Of Vibe Coding - Phoronix",
@@ -28,28 +48,28 @@
       "link": "https://videocardz.com/newz/unofficial-intel-arc-driver-includes-big-battlemage-bmg-g31-firmware-so-why-hasnt-intel-announced-the-gpu-yet"
     },
     {
-      "title": "What Vortec Means On Chevy Engines - Jalopnik",
-      "link": "https://www.jalopnik.com/2069240/what-vortec-means-chevy-engines/"
-    },
-    {
       "title": "Xbox gets 25 new games next week - TrueAchievements",
       "link": "https://www.trueachievements.com/news/new-xbox-games-january-12-2026"
+    },
+    {
+      "title": "Google\u2019s Free Offer For 2 Billion Gmail Users\u2014Should You Upgrade? - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2026/01/11/googles-free-offer-for-2-billion-gmail-users-should-you-upgrade/"
+    },
+    {
+      "title": "One Million ARC Raiders Players Wiped Their Accounts, Embark Reveals - Insider Gaming",
+      "link": "https://insider-gaming.com/one-million-arc-raiders-players-wiped-accounts/"
     },
     {
       "title": "Huh, looks like the foldable iPhone might have a crease-free display after all - PhoneArena",
       "link": "https://www.phonearena.com/news/foldable-iphone-might-have-crease-free-display-after-all_id177221"
     },
     {
-      "title": "Make 2026 the year you cancel subscriptions for good \u2014 MS Office is a flat $35 - Mashable",
-      "link": "https://mashable.com/article/jan-10-microsoft-office-professional-2021-for-windows"
+      "title": "Cutting down on telemarketing calls: how to avoid spam calls - KSLTV.com",
+      "link": "https://ksltv.com/local-news/cutting-down-telemarketing-calls-spam/865509/"
     },
     {
       "title": "Alfa Romeo Giulia Quadrifoglio Gets Yet Another Special Edition, But This Time It Has A Weird Wing - Jalopnik",
       "link": "https://www.jalopnik.com/2071765/alfa-romeo-giulia-quadrifoglio-special-edition/"
-    },
-    {
-      "title": "I Came to CES to Check Out Energy and Solar Power Innovations and Found That China Is Running Laps Around Us - PCMag UK",
-      "link": "https://uk.pcmag.com/power-supplies/162522/i-came-to-ces-to-check-out-energy-and-solar-power-innovations-and-found-that-china-is-running-laps-a"
     },
     {
       "title": "Samsung Galaxy S26 camera debate ends at hardware - Sammy Fans",
@@ -70,44 +90,32 @@
     {
       "title": "The 5 Biggest No-Shows of CES 2026 - TechPowerUp",
       "link": "https://www.techpowerup.com/345051/the-5-biggest-no-shows-of-ces-2026"
-    },
-    {
-      "title": "Intel Core Ultra X9 388H \"Panther Lake\" iGPU Doubles AMD \"Strix Point\" Performance in Cyberpunk 2077 - TechPowerUp",
-      "link": "https://www.techpowerup.com/345053/intel-core-ultra-x9-388h-panther-lake-igpu-doubles-amd-strix-point-performance-in-cyberpunk-2077"
-    },
-    {
-      "title": "The Sims wants you to know its values \"are unchanged\" despite EA sale - Eurogamer",
-      "link": "https://www.eurogamer.net/the-sims-wants-you-to-know-its-values-are-unchanged-despite-ea-sale"
-    },
-    {
-      "title": "A semicrystalline catalyst balances activity and stability for electrolytic hydrogen production - Phys.org",
-      "link": "https://phys.org/news/2026-01-semicrystalline-catalyst-stability-electrolytic-hydrogen.html"
-    },
-    {
-      "title": "Saturday Pre-orders \u2013 Reclaim the 500 Worlds of Ultramar with Captain Titus - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/v0ohrzf9/saturday-pre-orders-reclaim-the-500-worlds-of-ultramar-with-captain-titus"
-    },
-    {
-      "title": "What\u2019s Better: Heavy Weights or High Reps? - GQ",
-      "link": "https://www.gq.com/story/heavy-weights-vs-high-reps-4"
     }
   ],
   "sports_news": [
     {
-      "title": "Game Recap: Bears mount incredible comeback to knock off Packers, advance to Divisional Round - Chicago Bears",
-      "link": "https://www.chicagobears.com/news/game-recap-bears-mount-incredible-comeback-to-knock-off-packers-advance-to-divisional-round"
+      "title": "What are the Yankees' options if Belli signs elsewhere? - MLB.com",
+      "link": "https://www.mlb.com/news/exploring-yankees-options-without-cody-bellinger"
     },
     {
-      "title": "NFL Playoff Bracket 2026 Updated Picture, Schedule After Saturday's Wild Card - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25355569-nfl-playoff-bracket-2026-updated-picture-schedule-after-saturdays-wild-card"
+      "title": "Matt LaFleur, Packers face uncertain future after blowing big lead in wild-card loss to Bears - NFL.com",
+      "link": "https://www.nfl.com/news/matt-lafleur-packers-face-uncertain-future-blowing-big-lead-wild-card-loss-bears"
+    },
+    {
+      "title": "Ben Johnson says \"F\u2014- the Packers,\" Bears heard the \"noise\" coming out of Green Bay - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-says-f-the-packers-bears-heard-the-noise-coming-out-of-green-bay"
+    },
+    {
+      "title": "Where do Red Sox go from here after Bregman's Cubs deal? - MLB.com",
+      "link": "https://www.mlb.com/news/red-sox-options-with-alex-bregman-signing-with-cubs"
+    },
+    {
+      "title": "Hornets 150-95 Jazz (Jan 10, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810402"
     },
     {
       "title": "Smith seizes Matias' WBC belt with stunning KO - ESPN",
       "link": "https://www.espn.com/boxing/story/_/id/47577703/dalton-smith-stuns-subriel-matias-5th-round-ko-win-title"
-    },
-    {
-      "title": "Matt LaFleur declines to address his future with the Packers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-declines-to-address-his-future-with-the-packers"
     },
     {
       "title": "Nylander's return helps Maple Leafs continue rising in playoff race - NHL.com",
@@ -118,8 +126,8 @@
       "link": "https://official.nba.com/pool-report-from-tonights-mavericks-at-bulls-game/"
     },
     {
-      "title": "Sources: Bregman to Cubs on 5-year, $175M deal - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/47576883/sources-alex-bregman-agrees-5-year-175m-deal-cubs"
+      "title": "Feature: Matthew Stafford snatches Panthers' hearts to send Rams to divisional round - TheRams.com",
+      "link": "https://www.therams.com/news/feature-matthew-stafford-snatches-panthers-hearts-to-send-rams-to-divisional-round-2025-playoffs"
     },
     {
       "title": "Kentucky 92-68 Mississippi State (Jan 10, 2026) Game Recap - ESPN",
@@ -146,10 +154,6 @@
       "link": "https://goheels.com/news/2026/1/10/mens-basketball-lucas-wake-forest-rapid-reactions"
     },
     {
-      "title": "Game Recap: Rams hang on for 34-31 wild card playoff road win over Panthers, advance to divisional round - TheRams.com",
-      "link": "https://www.therams.com/news/game-recap-rams-hang-on-for-34-31-wild-card-playoff-road-win-over-panthers-advance-to-divisional-round"
-    },
-    {
       "title": "Complete list of Panthers 2026 free agents - Panthers.com",
       "link": "https://www.panthers.com/news/complete-list-of-panthers-2026-free-agents-unrestricted-restricted-exclusive-rights"
     },
@@ -168,10 +172,6 @@
     {
       "title": "Here are 5 Yankees pitching prospects we could see in the Bronx in '26 - MLB.com",
       "link": "https://www.mlb.com/news/yankees-pitching-prospects-expected-to-reach-the-bronx-in-2026"
-    },
-    {
-      "title": "Badgers take down No. 2 Michigan in thriller - Wisconsin Badgers",
-      "link": "https://uwbadgers.com/news/2026/1/10/mens-basketball-badgers-take-down-no-2-michigan-in-thriller"
     }
   ],
   "weather": {
