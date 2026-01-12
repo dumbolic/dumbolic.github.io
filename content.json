@@ -1,9 +1,9 @@
 {
-  "quote": "If you want something new, you have to stop doing something old. \u2013 Peter Drucker",
-  "fact": "Butterflies taste with their feet.",
-  "crypto": "BTC: $90,626 | ETH: $3,107.94",
+  "quote": "When your intuition is strong, follow it. \u2013 Lolly Daskal",
+  "fact": "The country code for Russia is \"007\".",
+  "crypto": "BTC: $91,343 | ETH: $3,124.58",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
+  "joke": "Don't trust atoms. They make up everything.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Samsung Galaxy S26 Ultra Release Dates, Pre-Order Offers And Reviews - Forbes",
+      "link": "https://www.forbes.com/sites/ewanspence/2026/01/10/samsung-galaxy-s26-ultra-release-date-galaxy-unpacked-pre-orders-reviews/"
+    },
+    {
+      "title": "Budgie 10.10 Released: Officially Migrated From X11 To Wayland - Phoronix",
+      "link": "https://www.phoronix.com/news/Budgie-10.10-Released"
+    },
+    {
+      "title": "A \u2018Baldur\u2019s Gate 3\u2019 Writer Explains Wyll\u2019s Disappointing Arc - Gizmodo",
+      "link": "https://gizmodo.com/a-baldurs-gate-3-writer-explains-wylls-disappointing-arc-2000708297"
+    },
+    {
+      "title": "Former Google, Apple Researchers Raising $50 Million for New Visual AI Startup - The Information",
+      "link": "https://www.theinformation.com/articles/former-google-apple-researchers-raising-50-million-new-visual-ai-startup"
+    },
+    {
+      "title": "Poppy Playtime: Chapter 5 - Broken Things gets a subtitle and a PC release date, but console players will have to wait a little longer - Eurogamer",
+      "link": "https://www.eurogamer.net/poppy-playtime-chapter-5-broken-things-gets-a-subtitle-and-a-pc-release-date-but-console-players-will-have-a-wait-a-little-longer"
+    },
+    {
+      "title": "The 5 Biggest No-Shows of CES 2026 - TechPowerUp",
+      "link": "https://www.techpowerup.com/345051/the-5-biggest-no-shows-of-ces-2026"
+    },
+    {
       "title": "What new Google Messages features are rolling out [January 2026] - 9to5Google",
       "link": "http://9to5google.com/2026/01/10/new-google-messages-features/"
     },
     {
-      "title": "Nintendo has denied using AI in My Mario images - My Nintendo News",
-      "link": "https://mynintendonews.com/2026/01/10/nintendo-has-denied-using-ai-in-my-mario-images/"
+      "title": "Intel Core Ultra X9 388H \"Panther Lake\" iGPU Doubles AMD \"Strix Point\" Performance in Cyberpunk 2077 - TechPowerUp",
+      "link": "https://www.techpowerup.com/345053/intel-core-ultra-x9-388h-panther-lake-igpu-doubles-amd-strix-point-performance-in-cyberpunk-2077"
     },
     {
-      "title": "I\u2019ve never used a trackball, but Keychron\u2019s Nape Pro looks like the perfect one - The Verge",
-      "link": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one"
+      "title": "Larian CEO says Baldur\u2019s Gate 3 won\u2019t be coming to Nintendo Switch 2 - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/01/10/larian-ceo-says-baldurs-gate-3-wont-be-coming-to-nintendo-switch-2/"
     },
     {
-      "title": "I replaced Windows with Linux and everything\u2019s going great - The Verge",
-      "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop"
+      "title": "I replaced Windows with Linux and everything's going great - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d46566465"
     },
     {
-      "title": "Intel Panther Lake: Mobile Graphics, Entry-Level Desktop Performance - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/01/intel-panther-lake-mobile-graphics-entry-level-desktop-performance"
+      "title": "5 TV Settings That Can Completely Change Your Audio - bgr.com",
+      "link": "https://www.bgr.com/2067554/settings-improve-tv-audio/"
+    },
+    {
+      "title": "Debian 13.3 Released With Many Security & Bug Fixes - Phoronix",
+      "link": "https://www.phoronix.com/news/Debian-13.3-Released"
     },
     {
       "title": "Samsung Confirms New Options For Android Users After Gmail Issues - Forbes",
@@ -40,12 +68,8 @@
       "link": "https://www.cnet.com/home/smart-home/ikea-smart-home-devices-2026-ces/"
     },
     {
-      "title": "I (finally) ditched Google Photos for self-hosted; here's how it went - Android Authority",
-      "link": "https://www.androidauthority.com/google-photos-vs-immich-3628122/"
-    },
-    {
-      "title": "Linux 7.0 Readying Improvement For Rust + LTO Kernel Builds - Phoronix",
-      "link": "https://www.phoronix.com/news/Linux-Rust-LTO-Inline-Coming"
+      "title": "3 free open-source apps power users swear by that mainstream lists ignore - How-To Geek",
+      "link": "https://www.howtogeek.com/criminally-underrated-free-open-source-apps-only-power-users-know-about/"
     },
     {
       "title": "Samsung Warns All Galaxy Users\u2014Do Not Use These Networks - Forbes",
@@ -56,54 +80,86 @@
       "link": "https://www.androidauthority.com/android-migration-ios-copy-3616436/"
     },
     {
-      "title": "Samsung's Galaxy S26 series release date may have just been etched in stone - PhoneArena",
-      "link": "https://www.phonearena.com/news/samsung-galaxy-s26-series-release-date-rumored-almost-guaranteed_id177214"
+      "title": "AMD shows first renders of Ryzen AI 400 for AM5 socket - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-shows-first-renders-of-ryzen-ai-400-for-am5-socket"
+    },
+    {
+      "title": "KDE Plasma 6.6 Adds oo7 Secret Service Provider Support, Save As New Global Theme - Phoronix",
+      "link": "https://www.phoronix.com/news/KDE-Plasma-6.6-oo7"
     },
     {
       "title": "5 ground-breaking (and strange) products you could soon buy from the 2026 Consumer Electronics Show - Business Insider",
       "link": "https://www.businessinsider.com/ground-breaking-and-quirky-products-from-the-2026-ces-2026-1"
-    },
-    {
-      "title": "Bricking your phone is the new Dry January - Business Insider",
-      "link": "https://www.businessinsider.com/bricking-your-phone-analog-movement-the-new-dry-january-2026-1"
-    },
-    {
-      "title": "Roborock introduces world\u2019s first automated vacuum that actually cleans as it climbs - WTOP",
-      "link": "https://wtop.com/tech/2026/01/roborock-introduces-worlds-first-automated-vacuum-that-actually-cleans-as-it-climbs/"
-    },
-    {
-      "title": "The best smart glasses of CES 2026 \u2014 Xreal, TCL, Even Realities - Mashable",
-      "link": "https://mashable.com/article/best-smart-glasses-ces-2026"
-    },
-    {
-      "title": "Eversolo just launched stunning bookshelf speakers with one specific bookshelf in mind: Ikea\u2019s Kallax - TechRadar",
-      "link": "https://www.techradar.com/audio/just-days-after-ikea-launched-its-cute-cube-speakers-this-bookshelf-option-fits-your-flatpack-furniture-even-better"
-    },
-    {
-      "title": "Google Maps finally redesigns settings on Android - 9to5Google",
-      "link": "http://9to5google.com/2026/01/09/google-maps-settings-redesign/"
-    },
-    {
-      "title": "TrueNAS WebShare: ZFS-Backed, Enterprise-Grade File Sharing From The Web Browser - Phoronix",
-      "link": "https://www.phoronix.com/news/TrueNAS-WebShare"
     }
   ],
   "sports_news": [
     {
-      "title": "Thomas Frank: How long can Spurs head coach survive after FA Cup loss to Aston Villa? - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cvg1p1vgvg3o"
+      "title": "Rams 34-31 Panthers (Jan 10, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772979"
     },
     {
-      "title": "Cavaliers 146-134 Timberwolves (Jan 10, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810397"
+      "title": "IceCats Weekend - Night 2 - Worcester Railers",
+      "link": "https://railershc.com/games/2026/01/10/icecats-weekend-night-2"
+    },
+    {
+      "title": "Lucas: Wake Forest Rapid Reactions - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2026/1/10/mens-basketball-lucas-wake-forest-rapid-reactions"
+    },
+    {
+      "title": "Broberg signs 6-year, $48 million contract with Blues - NHL.com",
+      "link": "https://www.nhl.com/news/philip-broberg-signs-six-year-contract-with-st-louis-blues"
+    },
+    {
+      "title": "Here are 5 Yankees pitching prospects we could see in the Bronx in '26 - MLB.com",
+      "link": "https://www.mlb.com/news/yankees-pitching-prospects-expected-to-reach-the-bronx-in-2026"
+    },
+    {
+      "title": "With meeting on deck, Bichette could make Phils' lineup a monster - MLB.com",
+      "link": "https://www.mlb.com/news/bo-bichette-fit-with-phillies"
+    },
+    {
+      "title": "8 free agents to watch for Lions in Packers vs. Bears - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-free-agency/155182/packers-vs-bears-playoff-preview-8-free-agents-to-watch-for-detroit-lions"
+    },
+    {
+      "title": "SMU Mustangs vs. Duke Blue Devils Live Score and Stats - January 10, 2026 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20260110_SMU@DUKE/"
+    },
+    {
+      "title": "Jaxon Smith-Njigba Named First-Team All-Pro; Four Seahawks Earn Second-Team Honors - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/jaxon-smith-njigba-named-first-team-all-pro-four-seahawks-earn-second-team-honors"
+    },
+    {
+      "title": "Bolts Activate Tucker Fisk; Elevate Dalevon Campbell and Isas Waxter - Los Angeles Chargers website",
+      "link": "https://www.chargers.com/news/activate-tucker-fisk-elevate-dalevon-campbell-isas-waxter"
     },
     {
       "title": "Houston wins school-record 16th straight on road - ESPN",
       "link": "https://www.espn.com/mens-college-basketball/story/_/id/47572962/houston-tops-baylor-school-record-16th-straight-road-win"
     },
     {
+      "title": "John Harbaugh plans 3 or 4 interviews with teams looking for head coaches - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-plans-3-or-4-interviews-with-teams-looking-for-head-coaches"
+    },
+    {
+      "title": "Playoff Semifinal at the Chick-fil-A Peach Bowl Recap - College Football Playoff",
+      "link": "https://collegefootballplayoff.com/sports/2026/1/10/SF-Peach-recap.aspx"
+    },
+    {
       "title": "Inactives: With no injuries, Panthers had choices to make for playoffs - Panthers.com",
       "link": "https://www.panthers.com/news/inactives-with-no-injuries-panthers-had-choices-to-make-for-playoffs"
+    },
+    {
+      "title": "Huskers Rally to Top Hoosiers - University of Nebraska - Official Athletics Website - huskers.com",
+      "link": "https://huskers.com/news/2026/01/10/huskers-rally-to-top-hoosiers"
+    },
+    {
+      "title": "FINAL: Florida 91, No. 21 Tennessee 67 - Florida Gators",
+      "link": "https://floridagators.com/news/2026/1/10/mens-basketball-florida-vs-tennessee-buzzer-jan-10-2026"
+    },
+    {
+      "title": "49ers vs. Eagles: Wild Card Clash Preview - 49ers.com",
+      "link": "https://www.49ers.com/news/49ers-vs-eagles-wild-card-clash-preview"
     },
     {
       "title": "Falcons complete interview with Klint Kubiak for head coach position - Atlanta Falcons",
@@ -116,58 +172,6 @@
     {
       "title": "History repeats as Kiplimo wins senior men's gold from Aregawi in Tallahassee - worldathletics.org",
       "link": "https://worldathletics.org/competitions/world-athletics-cross-country-championships/tallahassee26/news/report/world-cross-tallahassee-26-senior-men"
-    },
-    {
-      "title": "Packers vs. Bears | How to watch, stream & listen | 2025 NFC Wild Card playoff - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/packers-vs-bears-how-to-watch-stream-listen-nfc-wild-card-2025-playoff"
-    },
-    {
-      "title": "Stunned Macclesfield fans cheer biggest FA Cup shock in history - BBC",
-      "link": "https://www.bbc.com/news/articles/cx2x5pvg2kwo"
-    },
-    {
-      "title": "Buffalo Bills at Jacksonville Jaguars Game Predictions | AFC Wild Card - BuffaloBills.com",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-at-jacksonville-jaguars-game-predictions-afc-wild-card"
-    },
-    {
-      "title": "Browns insider reveals John Harbaugh's staggering $30m demands to accept Cleveland job - talkSPORT",
-      "link": "http://talksport.com/nfl/3891443/john-harbaugh-demands-cleveland-browns-head-coach-miami-dolphins/"
-    },
-    {
-      "title": "7 Braves musings with Spring Training on the horizon - MLB.com",
-      "link": "https://www.mlb.com/news/braves-discussion-before-spring-training-2026"
-    },
-    {
-      "title": "Rams-Panthers game includes threat of thunderstorms - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-panthers-game-includes-threat-of-thunderstorms"
-    },
-    {
-      "title": "Bengals' Duke Tobin after third straight season missing playoffs: 'All I can do is work us out of it' - NFL.com",
-      "link": "https://www.nfl.com/news/bengals-duke-tobin-after-third-straight-season-missing-playoffs-all-i-can-do-is-work-us-out-of-it"
-    },
-    {
-      "title": "Hull anchors Australia to mixed relay gold in Tallahassee, ending Kenya\u2019s reign - worldathletics.org",
-      "link": "https://worldathletics.org/competitions/world-athletics-cross-country-championships/tallahassee26/news/report/world-cross-tallahassee-26-mixed-relay"
-    },
-    {
-      "title": "IU grows as title-game fave after semi blowout - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47570206/indiana-75-point-favorite-miami-cfp-title-game"
-    },
-    {
-      "title": "Starting 5: KD Passes Wilt, Ant & Spida Meet On Prime - NBA",
-      "link": "https://www.nba.com/news/starting-5-kd-passes-wilt-ant-spida-meet-on-prime"
-    },
-    {
-      "title": "Three Ravens Named to All-Pro Teams - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-2025-all-pros-teams-kyle-hamilton-jordan-stout-patrick-ricard"
-    },
-    {
-      "title": "Commanders name David Blough offensive coordinator - Washington Commanders",
-      "link": "https://www.commanders.com/news/commanders-name-david-blough-offensive-coordinator"
-    },
-    {
-      "title": "Sources: KSU to hire Missouri's Gleeson as OC - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47569845/sources-kansas-state-hire-missouri-qb-coach-gleeson-oc"
     }
   ],
   "weather": {
