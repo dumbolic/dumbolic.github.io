@@ -1,9 +1,9 @@
 {
-  "quote": "Don't gain the world and lose your soul. Wisdom is better than silver and gold. \u2013 Bob Marley",
-  "fact": "A skunk's smell can be detected by a human a mile away.",
-  "crypto": "BTC: $95,012 | ETH: $3,292.6",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "A man walks into a bar and orders helicopter flavor chips. The barman replies \u201csorry mate we only do plain\u201d",
+  "quote": "If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. \u2013 Simon Sinek",
+  "fact": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.",
+  "crypto": "BTC: $95,045 | ETH: $3,299.92",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why can't a bicycle stand on its own? It's two-tired.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Pok\u00e9mon GO High Zaptitude Event (January 2026) - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/event/high-zaptitude/"
+    },
+    {
+      "title": "January Update 1.11.0 - arcraiders.com",
+      "link": "https://arcraiders.com/news/patch-notes-1-11-0"
+    },
     {
       "title": "'What makes this lamp unique is that switching between colors is not a sudden change, but a very smooth journey' \u2014 IKEA just released a smart version of one of its most iconic products - Tom's Guide",
       "link": "https://www.tomsguide.com/home/smart-home/ikea-just-released-a-smart-version-of-one-of-its-most-iconic-products"
@@ -28,24 +36,16 @@
       "link": "https://www.eurogamer.net/palworld-is-getting-an-official-card-game-this-summer"
     },
     {
+      "title": "AMD Zen 6 Medusa 1 \u201cA0\u201d Silicon Stepping Spotted In NBD Shipping Manifest With 28W TDP, Pointing At \u201cLow-TDP\u201d CPU Lineup - Wccftech",
+      "link": "https://wccftech.com/amd-zen-6-medusa-1-a0-silicon-stepping-spotted-in-nbd-shipping-manifest-with-28w-tdp/"
+    },
+    {
       "title": "Innosilicon is now shipping LPDDR6 memory to first customers, targets 14.4Gbps - VideoCardz.com",
       "link": "https://videocardz.com/newz/innosilicon-reportedly-shipping-lpddr6-memory-to-first-customers-targets-14-4gbps"
     },
     {
-      "title": "As roughly one-in-ten Arc Raiders players reset their characters, Embark Studios is looking for new ways to incentivise expeditions - Eurogamer",
-      "link": "https://www.eurogamer.net/arc-raiders-expeditions-one-in-ten"
-    },
-    {
-      "title": "PC Game Pass adds Quarantine Zone: The Last Check in surprise drop - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/quarantine-zone-the-last-check-pc-game-pass"
-    },
-    {
       "title": "The most fascinating monitors at CES 2026 - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/"
-    },
-    {
-      "title": "\"A sad end to a sad story\" - fond Anthem farewells begin as BioWare's Destiny-like game reaches last day of operation - Eurogamer",
-      "link": "https://www.eurogamer.net/fond-anthem-farewells-begin-as-biowares-destiny-like-game-reaches-last-day-of-operation"
     },
     {
       "title": "Galaxy S26 with Exynos 2600 makes first Geekbench appearance \u2013 Global entry confirmed? - Sammy Fans",
@@ -54,6 +54,14 @@
     {
       "title": "Why the best way to understand the self is to build a robot one - Aeon",
       "link": "https://aeon.co/essays/why-the-best-way-to-understand-the-self-is-to-build-a-robot-one"
+    },
+    {
+      "title": "'Everything Is Real' \u2014 Nintendo Forced to Deny Using AI-Generated Mother and Baby in Super Mario Marketing Campaign, as Photoshoot Model Speaks Out - IGN",
+      "link": "https://www.ign.com/articles/everything-is-real-nintendo-forced-to-deny-using-ai-generated-mother-and-baby-in-super-mario-marketing-campaign-as-photoshoot-model-speaks-out"
+    },
+    {
+      "title": "Dell tested NVIDIA N1X laptop just two months ago - VideoCardz.com",
+      "link": "https://videocardz.com/newz/dell-tested-nvidia-n1x-laptop-just-two-months-ago"
     },
     {
       "title": "It Looks Like The Division Definitive Edition Is On the Way, 10 Years After Its Initial Release - IGN",
@@ -68,110 +76,102 @@
       "link": "https://www.gamesindustry.biz/maxis-stresses-values-have-not-changed-following-55bn-ea-acquisition"
     },
     {
-      "title": "All LinkedIn Games Solutions for Today (January 12, 2026) - FandomWire",
-      "link": "https://fandomwire.com/all-linkedin-games-solutions-for-today-january-12-2026/"
-    },
-    {
       "title": "Google Photos may finally add a long-awaited video playback feature - Android Authority",
       "link": "https://www.androidauthority.com/google-photos-video-playback-speed-apk-teardown-3631639/"
     },
     {
-      "title": "Asus ExpertBook PM3 Review: Office laptop with AMD, long battery life, and Copilot+ - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Asus-ExpertBook-PM3-Review-Office-laptop-with-AMD-long-battery-life-and-Copilot.1200511.0.html"
+      "title": "AMD Ryzen 9 PRO 9965X3D CPU with 16 cores and 170W TDP spotted in shipping manifest - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-ryzen-9-pro-9965x3d-cpu-with-16-cores-and-170w-tdp-spotted-in-shipping-manifest"
+    },
+    {
+      "title": "Xbox's Avowed Will Be $20 Cheaper When It Launches on PS5 - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/01/xboxs-avowed-will-be-usd20-cheaper-when-it-launches-on-ps5"
     },
     {
       "title": "Replace dozens of AI subscriptions with one $75 lifetime purchase - Mashable",
       "link": "https://mashable.com/article/jan-11-1minai-advanced-business-plan-lifetime-subscription"
-    },
-    {
-      "title": "Linux 6.19-rc5 Brings Fix For Newer NVIDIA GPUs, Logitech HID++ For Anywhere 3S & Fixes - Phoronix",
-      "link": "https://www.phoronix.com/news/Linux-6.19-rc5-Released"
-    },
-    {
-      "title": "Samsung Galaxy S27 Ultra camera details surface for the first time - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s27-ultra-camera-details-surface-for-the-first-time/"
     }
   ],
   "sports_news": [
     {
-      "title": "2026 Chevron Houston Marathon and Aramco Houston Half Marathon: American man wins for 1st time since 2002 - ABC13 Houston",
-      "link": "https://abc13.com/post/2026-chevron-houston-marathon-aramco-half-live-coverage-air-streaming-abc13/18279715/"
+      "title": "Khalil Mack to take \"step back\" before making any decisions about playing in 2026 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/khalil-mack-to-take-step-back-before-making-any-decisions-about-playing-in-2026"
     },
     {
-      "title": "Chili Bowl 2026: Schedule, entry list, results and more for this year\u2019s Nationals in Tulsa - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/01/12/2026-chili-bowl-schedule-entry-list-results-nationals-tulsa/"
+      "title": "Steelers haven\u2019t even been competitive during their seven-game playoff losing streak - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-havent-even-been-competitive-during-their-seven-game-playoff-losing-streak"
     },
     {
-      "title": "Atlanta Falcons Head Coach Tracker 2026 - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/head-coach-tracker-2026"
+      "title": "NFL Playoff Bracket, Schedule: Divisional Round Set With 49ers-Seahawks on FOX - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-playoff-bracket-schedule-picture"
     },
     {
-      "title": "Eagles fans voice frustration, disappointment after season-ending loss against 49ers - 6abc Philadelphia",
-      "link": "https://6abc.com/post/eagles-fans-voice-frustration-disappointment-season-ending-loss-49ers/18389140/"
+      "title": "New Mike McDaniel Rumors on Browns, Ravens and More NFL HC Interviews After Dolphins Firing - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25355336-new-mike-mcdaniel-rumors-browns-ravens-and-more-nfl-hc-interviews-after-dolphins-firing"
+    },
+    {
+      "title": "Notre Dame HC Marcus Freeman won't face charges after HS wrestling coach accuses him of battery - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/notre-dame-hc-marcus-freeman-wont-face-charges-after-hs-wrestling-coach-accuses-him-of-battery-190325230.html"
+    },
+    {
+      "title": "NFL referees overturn game-changing Eagles TD call due to 'exception' in rules - The Mirror US",
+      "link": "https://www.themirror.com/sport/american-football/eagles-nfl-goedert-49ers-playoffs-1612363"
+    },
+    {
+      "title": "Packers Rumors on Matt LaFleur's Future amid Firing, Contract Buzz - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25355669-packers-rumors-matt-lafleurs-future-amid-firing-contract-buzz"
+    },
+    {
+      "title": "Ohio State Transfer Needs: Buckeyes Still Have Big Holes to Fill 10 Days After Portal Opening - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2026/01/161110/transfer-needs-buckeyes-still-have-big-holes-to-fill-10-days-after-portal-opening-kicker-cornerback-defensive-end"
+    },
+    {
+      "title": "Albert Breer\u2019s NFL Takeaways: Mike Vrabel\u2019s Patriots Vision Takes Center Stage - Sports Illustrated",
+      "link": "https://www.si.com/nfl/albert-breer-nfl-takeaways-mike-vrabel-patriots-vision-takes-center-stage"
+    },
+    {
+      "title": "Rodrigo Bentancur out three months with hamstring injury - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/68303/tottenham-hotspur-injury-news-transfer-rodrigo-bentancur-hamstring-injury-three-month-absence"
     },
     {
       "title": "Jim Harbaugh on whether Greg Roman is right play-caller for Chargers: 'I don't have that answer right now' - NFL.com",
       "link": "https://www.nfl.com/news/jim-harbaugh-on-whether-greg-roman-is-right-play-caller-for-chargers-i-don-t-have-that-answer-right-now"
     },
     {
+      "title": "Nick Sirianni on Kevin Patullo: There will be time to evaluate everything - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-on-kevin-patullo-there-will-be-time-to-evaluate-everything"
+    },
+    {
+      "title": "Trevor Lawrence: Nothing\u2019s guaranteed, but I feel like our success is sustainable - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-nothings-guaranteed-but-i-feel-like-our-success-is-sustainable"
+    },
+    {
       "title": "Who are the figure skaters representing Team USA? Key names and backstories to know - NPR",
       "link": "https://www.npr.org/2026/01/12/nx-s1-5669474/olympics-figure-skating-team-usa-malinin-glenn-liu"
     },
     {
-      "title": "Cheating scandal hits Winter Olympics skeleton qualifier - DW.com",
-      "link": "https://www.dw.com/en/cheating-scandal-hits-winter-olympics-skeleton-qualifier/a-75472837"
+      "title": "Trinidad Chambliss plans to file suit for sixth year of eligibility - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trinidad-chambliss-plans-to-file-suit-for-sixth-year-of-eligibility"
     },
     {
-      "title": "Eagles' season-long issues apparent in playoff loss to 49ers, sideline spat between Nick Sirianni, A.J. Brown - 6abc Philadelphia",
-      "link": "https://6abc.com/post/eagles-season-long-issues-apparent-playoff-loss-49ers-sideline-spat-between-nick-sirianni-aj-brown/18390339/"
+      "title": "It\u2019s time for Eagles to move on from A.J. Brown following his quick and quiet playoff departure - NJ.com",
+      "link": "https://www.nj.com/eagles/2026/01/its-time-for-eagles-to-move-on-from-aj-brown-following-his-quick-and-quiet-playoff-departure.html"
+    },
+    {
+      "title": "Everything Georgia head coach Katie Abrahamson-Henderson said after loss to South Carolina - On3",
+      "link": "https://www.on3.com/teams/south-carolina-gamecocks/news/everything-georgia-head-coach-katie-abrahamson-henderson-said-after-loss-to-south-carolina/"
+    },
+    {
+      "title": "Buffalo Bills vs Jacksonville Jaguars Wild Card Injury Review - Banged Up Bills",
+      "link": "https://bangedupbills.com/2026/01/11/buffalo-bills-vs-jacksonville-jaguars-wild-card-injury-review/"
+    },
+    {
+      "title": "2026 NFL Mock Draft: Fernando Mendoza goes No. 1 overall, Jeremiyah Love to the Kansas City Chiefs - PFF",
+      "link": "https://www.pff.com/news/draft-2026-nfl-mock-draft-fernando-mendoza-goes-no-1-overall-jeremiyah-love-to-the-kansas-city-chiefs"
     },
     {
       "title": "7 winners and losers from Patriots\u2019 playoff win over Chargers - Pats Pulpit",
       "link": "https://www.patspulpit.com/new-england-patriots-opinion/118929/winners-losers-chargers-nfl-playoffs-wild-card-game"
-    },
-    {
-      "title": "NFL Divisional Round: Biggest immediate question for advancing/eliminated playoff teams - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-divisional-round-biggest-immediate-question-for-advancing-eliminated-playoff-teams-x3405"
-    },
-    {
-      "title": "How 49ers QB Brock Purdy used his superpower to beat the Eagles: \u2018The guy\u2019s not scared to fail\u2019 - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/annkillion/article/49ers-qb-brock-purdy-uses-superpower-the-guy-s-21289103.php"
-    },
-    {
-      "title": "Chicago Bears NFC Divisional Round date set - Chicago Bears",
-      "link": "https://www.chicagobears.com/news/chicago-bears-los-angeles-rams-nfc-playoffs-divisional-round-matchup-date-time-tickets-tv"
-    },
-    {
-      "title": "Broncos to host Divisional Round matchup vs. Bills on Saturday, Jan. 17 - Denver Broncos",
-      "link": "https://www.denverbroncos.com/news/broncos-to-host-divisional-round-matchup-vs-bills-on-saturday-jan-17"
-    },
-    {
-      "title": "NFL announces schedule for upcoming 2025 Divisional Round - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-announces-schedule-for-upcoming-2025-divisional-round"
-    },
-    {
-      "title": "O-Zone Late Night, Wild Card Round: Bills 27, Jaguars 24 - Jacksonville Jaguars",
-      "link": "https://www.jaguars.com/news/k000488-o-zone-late-night-wild-card-round-jaguars-bills"
-    },
-    {
-      "title": "Thunder 124-112 Heat (Jan 11, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401810408"
-    },
-    {
-      "title": "Steelers Next Opponent: Red-hot Texans belong in playoffs - DK Pittsburgh Sports",
-      "link": "https://www.dkpittsburghsports.com/team/steelers/feed/topic/steelers-next-opponent-red-hot-texans-belong-playoffs-analysis-preview-nfl-cah"
-    },
-    {
-      "title": "As Alex Bregman leaves Red Sox, Craig Breslow says \u2018It\u2019s disappointing to lose out\u2019 (Q&A) - MassLive",
-      "link": "https://www.masslive.com/redsox/2026/01/as-alex-bregman-leaves-red-sox-craig-breslow-says-its-disappointing-to-lose-out-qa.html"
-    },
-    {
-      "title": "US figure skater whose parents were killed in plane crash heads to Olympics - BBC",
-      "link": "https://www.bbc.com/news/articles/cly9nzvn71vo"
-    },
-    {
-      "title": "Lawrence After Game That Was Jaguars' Wild Card Loss to Bills: \"I Do Feel Like It's Sustainable\" - Jacksonville Jaguars",
-      "link": "https://www.jaguars.com/news/k000469-game-that-was-jaguars-wild-card-game-vs-bills"
     }
   ],
   "weather": {
