@@ -1,9 +1,9 @@
 {
-  "quote": "It isn't what you do, but how you do it. \u2013 John Wooden",
-  "fact": "1,800 cigarettes are smoked per person each year in China.",
-  "crypto": "BTC: $95,239 | ETH: $3,283.0",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.",
+  "quote": "A Rolling Stone Gathers No Moss. \u2013 Publilius Syrus",
+  "fact": "Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.",
+  "crypto": "BTC: $95,330 | ETH: $3,294.13",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a duck that gets all A's? A wise quacker.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Gmail widget updated with Material 3 Expressive tweaks - 9to5Google",
-      "link": "http://9to5google.com/2026/01/14/gmail-widget-material-3-expressive/"
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "link": "https://www.marvelrivals.com/gameupdate/20260114/41548_1281774.html"
+    },
+    {
+      "title": "Last chance to get a Kindle for up to 31% off - Mashable",
+      "link": "https://mashable.com/article/jan-14-kindle-last-chance-deal"
+    },
+    {
+      "title": "PlayStation Plus Extra/Premium Games For January 2026 Revealed - GameSpot",
+      "link": "https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-january-2026-revealed/2900-7400/"
     },
     {
       "title": "An Update to Our Shared Commitment to Safer Gaming - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/"
     },
     {
-      "title": "Ubisoft confirms 29 jobs lost at Abu Dhabi mobile studio - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/ubisoft-confirms-29-jobs-lost-at-abu-dhabi-mobile-studio"
+      "title": "Umamusume developer apologises after AI studio backlash, says it will not use generative AI \"without prior notice\" - Eurogamer",
+      "link": "https://www.eurogamer.net/umamusume-developer-apologises-after-ai-studio-backlash-says-it-will-not-use-generative-ai-without-prior-notice"
+    },
+    {
+      "title": "Gemini's new beta feature provides proactive responses based on your photos, emails, and more - TechCrunch",
+      "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/"
     },
     {
       "title": "Animal Crossing: New Horizons Update 3.0 Is Live Now, A Day Early - Game Informer",
@@ -32,142 +44,122 @@
       "link": "https://www.apple.com/newsroom/2026/01/popular-pc-franchise-civilization-comes-to-apple-arcade-on-february-5/"
     },
     {
-      "title": "Someone\u2019s Galaxy Z TriFold display already spontaneously broke - 9to5Google",
-      "link": "http://9to5google.com/2026/01/14/galaxy-z-trifold-display-spontaneously-broke/"
+      "title": "Leaker details iPhone 18 lineup screen sizes, Dynamic Island plans - 9to5Mac",
+      "link": "https://9to5mac.com/2026/01/14/leaker-details-iphone-18-lineup-screen-sizes-dynamic-island-plans/"
     },
     {
       "title": "Red Bull F1 Just Revealed a Never-Before-Seen Variant of the Ford Mustang on YouTube - Road & Track",
       "link": "https://www.roadandtrack.com/news/a69998144/red-bull-f1-reveal-2026-ford-mustang-dark-horse-sc-max-verstappen/"
     },
     {
-      "title": "Nvidia\u2019s new app update includes DLSS 4.5 and more Control Panel features - The Verge",
-      "link": "https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download"
-    },
-    {
       "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/"
+    },
+    {
+      "title": "A little bubbly brings out the best in a bloom - The Seattle Times",
+      "link": "https://www.seattletimes.com/pacific-nw-magazine/bokeh-brings-out-the-best-in-cosmos/"
     },
     {
       "title": "Everything new in Livewire 4 - Laravel News",
       "link": "https://laravel-news.com/everything-new-in-livewire-4"
     },
     {
-      "title": "\"What happened to my Start menu?\" \u2014 why Windows 11 users are waking up to a desktop they don't recognize - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/what-happened-to-my-start-menu-why-windows-11-users-are-waking-up-to-a-desktop-they-dont-recognize"
-    },
-    {
       "title": "Four contestants test their creativity to make Rogue Traders and retinues on Scrap Demon - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/sgsr7vwj/four-contestants-test-their-creativity-to-make-rogue-traders-and-retinues-on-scrap-demon"
+    },
+    {
+      "title": "Apple may have hinted at a high-end MacBook Pro launch on January 28 - 9to5Mac",
+      "link": "https://9to5mac.com/2026/01/14/apple-may-have-hinted-at-a-high-end-macbook-pro-launch-on-january-28/"
     },
     {
       "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution - The Hacker News",
       "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html"
     },
     {
-      "title": "PlayStation Plus January 2026 Game Line-up Leaked, Includes Resident Evil Village - IGN",
-      "link": "https://www.ign.com/articles/playstation-plus-january-2026-game-line-up-leaked-includes-resident-evil-village"
+      "title": "This Mechanical Keyboard for Coders Is Like No Other - WIRED",
+      "link": "https://www.wired.com/review/hhkb-professional-classic-type-s/"
     },
     {
-      "title": "Arc Raiders and Detroit: Become Human top sellers over the holiday period, say analysts - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/arc-raiders-and-detroit-become-human-top-sellers-over-the-holiday-period-say-analysts"
-    },
-    {
-      "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited - The Hacker News",
-      "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html"
-    },
-    {
-      "title": "Bring death swift and true with Jaghatai Khan\u2019s new JOYTOY figure - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/nhrvhvkv/bring-death-swift-and-true-with-jaghatai-khans-new-joytoy-figure"
-    },
-    {
-      "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow - The Hacker News",
-      "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html"
-    },
-    {
-      "title": "A working mom summons her ChatGPT superpowers - The Boston Globe",
-      "link": "https://www.bostonglobe.com/2026/01/14/magazine/ai-tools-modern-parenthood/"
+      "title": "Battlefield 6 Season 2 delayed until February, but more content for Season 1 and events are on the way - Eurogamer",
+      "link": "https://www.eurogamer.net/battlefield-6-season-2-delayed-until-february-but-more-content-for-season-1-and-events-are-on-the-way"
     }
   ],
   "sports_news": [
     {
-      "title": "India vs New Zealand: Daryl Mitchell leads tourists to victory in second ODI - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/ce8r3eme40no"
+      "title": "Quarterback Dante Moore returning to Oregon in 2026 - OregonLive.com",
+      "link": "https://www.oregonlive.com/ducks/2026/01/quarterback-dante-moore-returning-to-oregon-in-2026.html"
     },
     {
-      "title": "EXCLUSIVE: From trendsetters to title winners \u2013 Ross Brawn reveals his favourite car designs - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/exclusive-from-trendsetters-to-title-winners-ross-brawn-reveals-his.6FIAnV6e71kvi8PVInIuPo"
+      "title": "Red Sox To Sign Ranger Su\u00e1rez - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/01/red-sox-to-sign-ranger-suarez.html"
+    },
+    {
+      "title": "Report: Harrison-Nunes UFC 324 title clash ppd. - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/47610921/report-harrison-neck-surgery-title-bout-vs-nunes-postponed"
+    },
+    {
+      "title": "Art Rooney II: Mike Tomlin indicated he doesn\u2019t plan to coach in the near future - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/art-rooney-ii-mike-tomlin-indicated-he-doesnt-plan-to-coach-in-the-near-future"
+    },
+    {
+      "title": "As extension talks linger, could the Packers trade Matt LaFleur? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-extension-talks-linger-could-the-packers-trade-matt-lafleur"
+    },
+    {
+      "title": "FIFA has received 350M ticket requests for the World Cup - Politico",
+      "link": "https://www.politico.com/news/2026/01/14/fifa-ticket-requests-world-cup-00728583"
+    },
+    {
+      "title": "MLB Mailbag: Hoerner, Red Sox, Giolito, Gallen - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/01/mlb-mailbag-hoerner-red-sox-giolito-gallen.html"
+    },
+    {
+      "title": "Coaching Carousel: Giants Willing to Offer John Harbaugh 'Almost Anything He Wants' - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/coaching-carousel-giants-willing-offer-john-harbaugh-almost-anything-he-wants"
+    },
+    {
+      "title": "Adam Thielen announces his retirement - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-thielen-announces-his-retirement"
+    },
+    {
+      "title": "6 offensive coordinator candidates the Eagles should consider - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/168954/6-offensive-coordinator-candidates-the-eagles-should-consider"
+    },
+    {
+      "title": "Blue Jays Reportedly Have Sizable Long-Term Offer On Table for Kyle Tucker - Sports Illustrated",
+      "link": "https://www.si.com/mlb/bluejays/onsi/news/blue-jays-sizable-long-term-offer-kyle-tucker"
+    },
+    {
+      "title": "Giannis Antetokounmpo Is Curdling - Defector",
+      "link": "https://defector.com/giannis-antetokounmpo-is-curdling"
+    },
+    {
+      "title": "Miami bidding to be 3rd largest underdog to win title in BCS or College Football Playoff era - On3",
+      "link": "https://www.on3.com/news/miami-bidding-to-be-3rd-largest-underdog-to-win-title-in-bcs-or-college-football-playoff-era/"
+    },
+    {
+      "title": "Virginia Tech, JMU cancel 2026 football game - Virginia Tech Athletics",
+      "link": "https://hokiesports.com/news/2026/1/14/virginia-tech-jmu-cancel-2026-football-game"
+    },
+    {
+      "title": "Five takeaways from IU basketball\u2019s loss at Michigan State - Inside the Hall",
+      "link": "https://www.insidethehall.com/2026/01/14/five-takeaways-from-iu-basketballs-loss-at-michigan-state/"
     },
     {
       "title": "LIV signs Dustin Johnson to multiyear extension - ESPN",
       "link": "https://www.espn.com/golf/story/_/id/47609253/liv-golf-signs-dustin-johnson-multi-year-extension"
     },
     {
-      "title": "NFL news roundup: John Harbaugh interviewing with Giants; Patriots add ex-Texans DE to practice squad - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-jan-14"
+      "title": "Matt Ryan: I think this is the right opportunity - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-ryan-i-think-this-is-the-right-opportunity"
     },
     {
-      "title": "PGA Tour\u2019s Returning Member Program takes aim at LIV\u2019s top golfers: \u2018It\u2019s meant to hurt\u2019 - Awful Announcing",
-      "link": "https://awfulannouncing.com/golf/brooks-koepka-pga-tour-returning-member-program-liv.html"
+      "title": "Rich Paul Wants Anthony Davis Traded By Deadline, Mavericks Source Says He Wont Bully Us - RealGM",
+      "link": "https://basketball.realgm.com/wiretap/283447/Rich-Paul-Wants-Anthony-Davis-Traded-By-Deadline-Mavericks-Source-Says-He-Wont-Bully-Us"
     },
     {
-      "title": "The Opener: Tucker, Cardinals, Yankees, Marlins - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/01/the-opener-tucker-cardinals-yankees-marlins.html"
-    },
-    {
-      "title": "Dana White announces new name for UFC APEX - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/466046/dana-white-announces-new-name-for-ufc-apex"
-    },
-    {
-      "title": "How to Watch/Listen: Patriots vs. Texans - New England Patriots",
-      "link": "https://www.patriots.com/news/how-to-watch-listen-patriots-vs-texans"
-    },
-    {
-      "title": "DeMeco Ryans, Mike Tomlin's last opponent, 'shocked' by Steelers coach's departure - NFL.com",
-      "link": "https://www.nfl.com/news/demeco-ryans-mike-tomlin-last-opponent-shocked-steelers-coach-departure"
-    },
-    {
-      "title": "Top 5 storylines for Bills at Broncos | AFC Divisional Round - BuffaloBills.com",
-      "link": "https://www.buffalobills.com/news/top-5-storylines-for-bills-at-broncos-afc-divisional-round"
-    },
-    {
-      "title": "The PGA season is here! Best bets, DFS plays for Sony Open - ESPN",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47602071/2026-golf-pga-tour-sony-open-best-bets-daily-fantasy"
-    },
-    {
-      "title": "Eagles offensive coordinator search rumor and report tracker - PhillyVoice",
-      "link": "https://www.phillyvoice.com/eagles-coaching-search-rumor-and-report-tracker-nick-sirianni-kevin-patullo-offensive-coordinator/"
-    },
-    {
-      "title": "LA 2028 Olympics to open ticket raffle - with seats starting at $28 - BBC",
-      "link": "https://www.bbc.com/news/articles/c5y47pyp906o"
-    },
-    {
-      "title": "2026 Australian Open seeds - ATP Tour",
-      "link": "https://www.atptour.com/en/news/2026-australian-open-seeds"
-    },
-    {
-      "title": "Gators Roll Over Sooners on the Road - Florida Gators",
-      "link": "https://floridagators.com/news/2026/1/14/mens-basketball-gators-roll-sooners-on-the-road-jan-13-2026"
-    },
-    {
-      "title": "Alpine retain Gademan for second F1 ACADEMY campaign in 2026 - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/alpine-retain-nina-gademan-for-second-f1-academy-campaign-in-2026.43J1C6yMrPwKXigYjglXUz"
-    },
-    {
-      "title": "No. 8 Huskers Remain Unbeaten With 90-55 Win Over Oregon - University of Nebraska - Official Athletics Website - huskers.com",
-      "link": "https://huskers.com/news/2026/01/14/no-8-huskers-remain-unbeaten-with-90-55-win-over-oregon"
-    },
-    {
-      "title": "Steve Bisciotti Wants Lamar Jackson to Be Involved in Coach Hiring - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
-      "link": "https://www.baltimoreravens.com/news/steve-bisciotti-lamar-jackson-coach-hiring-decision-ravens"
-    },
-    {
-      "title": "Kansas 84-63 Iowa State (Jan 13, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401827617"
-    },
-    {
-      "title": "Anthony Davis is not expected to need surgery on his hand - NBA",
-      "link": "https://www.nba.com/news/anthony-davis-hand-injury"
+      "title": "Ranking every NFL head coach by job security after a wild 2026 coaching carousel - SB Nation",
+      "link": "https://www.sbnation.com/nfl/1100015/nfl-head-coach-ranked-job-security-2026-coaching-carousel"
     }
   ],
   "weather": {
