@@ -1,9 +1,9 @@
 {
-  "quote": "Successful people ask better questions, and as a result, they get better answers. \u2013 Tony Robbins",
-  "fact": "You were born with 300 bones, but by the time you are an adult you will only have 206.",
-  "crypto": "BTC: $95,149 | ETH: $3,284.02",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
+  "quote": "Not engaging in ignorance is wisdom.  \u2013 Bodhidharma",
+  "fact": "Cats urine glows under a black light.",
+  "crypto": "BTC: $95,366 | ETH: $3,289.09",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Me and my mates are in a band called Duvet. We're a cover band.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Android 16 QPR3 adds \u2018Screen automation\u2019 on Pixel 10 for \u2018computer use\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2026/01/15/android-16-qpr3-screen-automation/"
+    },
+    {
+      "title": "Are people avoiding iOS 26 because of Liquid Glass? It\u2019s complicated. - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/01/are-people-avoiding-ios-26-because-of-liquid-glass-its-complicated/"
+    },
+    {
+      "title": "Many Bluetooth devices with Google Fast Pair vulnerable to \u201cWhisperPair\u201d hack - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/"
+    },
+    {
+      "title": "Georgia man buys $15,950 pallet of Apple returns and is left surprised with what he finds - supercarblondie.com",
+      "link": "https://supercarblondie.com/pallet-apple-returns-surprise/"
+    },
+    {
+      "title": "Warhammer 40K: Dawn of War 4 \u2013 How its Combat Director Will Make Animations More Brutal Than Ever | IGN First - IGN",
+      "link": "https://www.ign.com/articles/warhammer-40k-dawn-of-war-4-how-its-combat-director-will-make-animations-more-brutal-than-ever-ign-first"
+    },
+    {
+      "title": "Microsoft is closing its employee library and cutting back on subscriptions - The Verge",
+      "link": "https://www.theverge.com/tech/862531/microsoft-library-closure-transition-changes-notepad"
+    },
+    {
       "title": "Redefine Breaking and Entering in GTA Online\u2019s New Mansion Raid - Rockstar Games",
       "link": "https://www.rockstargames.com/newswire/article/258158o2328145/redefine-breaking-and-entering-in-gta-online-s-new-mansion-raid"
+    },
+    {
+      "title": "How To Add Jalopnik As A Preferred Source On Google - Jalopnik",
+      "link": "https://www.jalopnik.com/2076831/how-add-jalopnik-google-preferred-sources/"
+    },
+    {
+      "title": "Samsung reportedly \u2018rushing\u2019 Galaxy S26+ that\u2019s virtually unchanged - 9to5Google",
+      "link": "http://9to5google.com/2026/01/15/samsung-rushing-galaxy-s26-plus/"
     },
     {
       "title": "Free Play Days \u2013 EA Sports Takeover 2026 - Xbox Wire",
@@ -36,10 +68,6 @@
       "link": "https://www.warhammer-community.com/en-gb/articles/dgunipgk/pages-from-the-black-books-the-night-lords/"
     },
     {
-      "title": "Japanese Charts: Nintendo's Dominance Continues As Switch 2 Flies Past 4 Million Units Sold - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/01/japanese-charts-nintendos-dominance-continues-as-switch-2-flies-past-4-million-units-sold"
-    },
-    {
       "title": "Gemini Personal Intelligence previews what we can expect from the new Siri - 9to5Mac",
       "link": "https://9to5mac.com/2026/01/15/gemini-personal-intelligence-previews-what-we-can-expect-from-the-new-siri/"
     },
@@ -58,33 +86,21 @@
     {
       "title": "How to Watch Xbox Developer_Direct 2026 Next Thursday - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2026/01/15/xbox-developer-direct-2026-how-to-watch/"
-    },
-    {
-      "title": "Startup\u2019s Next-Gen \u2018Space Armor\u2019 Set for First In-Orbit Test on SpaceX Mission This Year - Gizmodo",
-      "link": "https://gizmodo.com/startups-next-gen-space-armor-set-for-first-in-orbit-test-on-spacex-mission-this-year-2000710415"
-    },
-    {
-      "title": "Sony wiped over 1,000 shovelware games off the PlayStation store without warning, all from a single developer - Eurogamer",
-      "link": "https://www.eurogamer.net/sony-wiped-over-1000-shovelware-games-off-the-playstation-store-without-warning-all-from-a-single-developer"
-    },
-    {
-      "title": "33 Extremely Rare, Mind-Blowing Photos That Show What Everyday Technology Looked Like In Past Centuries - buzzfeed.com",
-      "link": "https://www.buzzfeed.com/ajanibazile/technology-evolution"
-    },
-    {
-      "title": "The Ultimate Guide to Lorwyn Eclipsed Sealed - Draftsim",
-      "link": "https://draftsim.com/mtg-ecl-sealed-guide/"
-    },
-    {
-      "title": "The Warhammer Community team paints a pair of spectacular Nightbringer C\u2019tan Shards - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/uzs2caoc/the-warhammer-community-team-paints-a-pair-of-spectacular-nightbringer-ctan-shards"
-    },
-    {
-      "title": "NVIDIA RTX 50 GPU Shortages: Green Team Realigns Production of Entire Gaming Stack, While ASUS Says RTX 5070 Ti Production Has Halted - Wccftech",
-      "link": "https://wccftech.com/nvidia-ends-geforce-rtx-5070-ti-production-rtx-50-gaming-gpu-lineup-realigned/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Feds indict 25 in college point-shaving scandal; former SLU basketball player listed among suspects - KSDK",
+      "link": "https://www.ksdk.com/article/sports/feds-indict-25-college-point-shaving-scandal-former-slu-basketball-player-among-suspects/63-abfc1c87-561e-4577-9055-5caea7faef90"
+    },
+    {
+      "title": "Even Warriors owner Joe Lacob has seemingly turned on Jonathan Kuminga - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/warriors-joe-lacob-turned-on-jonathan-kuminga-21297249.php"
+    },
+    {
+      "title": "Steelers coaching search: Two NFL defensive coordinators added to interview list - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2026/01/15/nfl-coaching-news-pittsburgh-jeff-hafley-ejiro-evero/stories/202601150084"
+    },
     {
       "title": "Report: Aaron Rodgers sobbed, apologized during Mike Tomlin\u2019s final team meeting - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-rodgers-sobbed-apologized-during-mike-tomlins-final-team-meeting"
@@ -106,14 +122,6 @@
       "link": "https://www.nfl.com/news/nfl-playoff-picks-divisional-round-2025-nfl-season"
     },
     {
-      "title": "17 college basketball players charged in point-shaving scheme: Indictment - ABC News",
-      "link": "https://abcnews.go.com/US/17-college-basketball-players-charged-point-shaving-scheme/story?id\\\\u003d129240506"
-    },
-    {
-      "title": "LIVE: Alex Bregman Introductory Press Conference (UPDATES) - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/01/15/live-alex-bregman-introductory-press-conference/"
-    },
-    {
       "title": "Latest On Mets\u2019, Blue Jays\u2019 Pursuit Of Kyle Tucker - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/01/mets-make-four-year-offer-to-kyle-tucker.html"
     },
@@ -122,48 +130,40 @@
       "link": "https://www.nwslsoccer.com/news/the-2026-nwsl-schedule-is-here"
     },
     {
+      "title": "2026 NFL Draft: Team needs for all 32 NFL teams - PFF",
+      "link": "https://www.pff.com/news/draft-2026-nfl-draft-team-needs-for-all-32-nfl-teams"
+    },
+    {
       "title": "NHL PreGame fan festival lineup unveiled for 2026 Stadium Series in Tampa - NHL.com",
       "link": "https://www.nhl.com/news/nhl-pregame-fan-festival-lineup-unveiled-for-2026-stadium-series-in-tampa"
+    },
+    {
+      "title": "Rapoport: Giants finalizing 5-year contract with John Harbaugh to be next HC | 'GMFB' - NFL.com",
+      "link": "https://www.nfl.com/videos/rapoport-giants-finalizing-5-year-contract-with-john-harbaugh-to-be-next-hc-gmfb"
     },
     {
       "title": "NCAA President Baker issues statement regarding sports betting indictments in college athletics, calls on remaining states to ban risky bets - NCAA.org",
       "link": "https://www.ncaa.org/news/2026/1/15/media-center-ncaa-president-baker-issues-statement-regarding-sports-betting-indictments-in-college-athletics-calls-on-remaining-states-to-ban-risky-bets.aspx"
     },
     {
-      "title": "Warriors\u2019 Jonathan Kuminga Demands Trade - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/01/warriors-jonathan-kuminga-demands-trade.html"
+      "title": "DVOA Preview: 49ers vs. Seahawks - FTN (For The Numbers)",
+      "link": "https://ftnfantasy.com/nfl/dvoa-preview-49ers-vs-seahawks"
     },
     {
-      "title": "Steelers request interview with Panthers DC Ejiro Evero - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-request-interview-with-panthers-dc-ejiro-evero"
+      "title": "College Football: 4 winners, 4 losers this transfer portal season - Maize n Brew",
+      "link": "https://www.maizenbrew.com/college_football/103977/college-football-transfer-portal-winners-losers-indiana-curt-cignetti-virginia-tech-james-franklin-texas-tech"
     },
     {
-      "title": "Skeleton athlete Katie Uhlaender\u2019s Olympic hopes take another hit as complaint dismissed - AP News",
-      "link": "https://apnews.com/article/katie-uhlaender-usa-skeleton-5728f4119ecc2d574e3ace98010a81b2"
-    },
-    {
-      "title": "Mets Officially Sign Wandy Asigen - Metsmerized Online",
-      "link": "https://metsmerizedonline.com/mets-officially-sign-wandy-asigen/"
+      "title": "Got their man: Giants making John Harbaugh next head coach - New York Daily News",
+      "link": "https://www.nydailynews.com/2026/01/15/got-their-man-giants-making-john-harbaugh-next-head-coach/"
     },
     {
       "title": "DVOA Preview: Bills vs. Broncos - FTN (For The Numbers)",
       "link": "https://ftnfantasy.com/nfl/dvoa-preview-bills-vs-broncos"
     },
     {
-      "title": "Recent Major Champion Says Quiet Part Out Loud About Brooks Koepka's PGA Tour Return - OutKick",
-      "link": "https://www.outkick.com/sports/brooks-koepka-pga-tour-return-wyndham-clark-reaction-comments"
-    },
-    {
       "title": "Business of Football: Inside the NFL Interview Process - Sports Illustrated",
       "link": "https://www.si.com/nfl/business-of-football-inside-nfl-interview-process"
-    },
-    {
-      "title": "Paddy Pimblett says Dan Hooker will get 'jumped' by 'about 60 scousers' if he shows up at UFC 324 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/01/15/paddy-pimblett-says-dan-hooker-will-get-jumped-by-about-60-scousers-if-he-shows-up-at-ufc-324/"
-    },
-    {
-      "title": "Will Alex Pereira step in to save the UFC again? - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/466060/morning-report-renato-moicano-calls-upon-alex-pereira-to-save-ufc-324"
     }
   ],
   "weather": {
