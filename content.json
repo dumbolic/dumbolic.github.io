@@ -1,9 +1,9 @@
 {
-  "quote": "When you have to make a choice and don't make it, that is in itself a choice. \u2013 William James",
-  "fact": "A giraffe can clean its ears with its 21-inch tongue!",
-  "crypto": "BTC: $92,774 | ETH: $3,210.67",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
+  "quote": "All religions, arts and sciences are branches of the same tree.  \u2013 Albert Einstein",
+  "fact": "Dolphins can look in different directions with each eye. They can sleep with one eye open.",
+  "crypto": "BTC: $92,947 | ETH: $3,214.09",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "You will never guess what Elsa did to the balloon. She let it go.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Rockstar gives terminally ill fan early access to GTA 6 - Eurogamer",
+      "link": "https://www.eurogamer.net/rockstar-gives-terminally-ill-fan-early-access-to-gta-6"
+    },
+    {
+      "title": "Here are the 10 deals worth grabbing from Best Buy\u2019s winter sales event - The Verge",
+      "link": "https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale"
+    },
+    {
+      "title": "ASUS goes \"all in AI\" and stops new smartphones, Chairman Jonney Shih confirms - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-goes-all-in-ai-and-stops-new-smartphones-chairman-jonney-shih-confirms"
+    },
+    {
+      "title": "I can't believe I used my Samsung phone without this productivity tool for this long - Android Police",
+      "link": "https://www.androidpolice.com/cant-believe-used-samsung-phone-without-productivity-tool-for-this-long/"
+    },
+    {
+      "title": "Chinese modders end console wars with a PS5, Xbox Series S, and Switch 2 combo console - VideoCardz.com",
+      "link": "https://videocardz.com/newz/chinese-modders-end-console-wars-with-a-ps5-xbox-series-s-and-switch-2-combo-console"
+    },
+    {
       "title": "Xbox Game Pass loses another seven games in January 2026 - TrueAchievements",
       "link": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-january-2026-wave-2"
     },
     {
-      "title": "Xbox gets over 20 new games next week - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/new-xbox-games-january-19-2026"
+      "title": "Samsung Galaxy S26 Ultra colors basically confirmed after promising new leak - PhoneArena",
+      "link": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-colors-basically-confirmed-after-new-leak_id177427"
+    },
+    {
+      "title": "Arc Raiders' huge success gives Embark the \"opportunity to do bigger things\" and cook up a more \"ambitious\" roadmap - PCGamesN",
+      "link": "https://www.pcgamesn.com/arc-raiders/2026-plans-embark-interview"
+    },
+    {
+      "title": "Google just announced a huge change to Gmail. Here\u2019s what you need to know - PennLive.com",
+      "link": "https://www.pennlive.com/life/2026/01/google-just-announced-a-huge-change-to-gmail-heres-what-you-need-to-know.html"
+    },
+    {
+      "title": "Revive your old computer for just $10 with this Windows 11 Pro license - Mashable",
+      "link": "https://mashable.com/article/jan-18-microsoft-windows-11-pro-pc"
+    },
+    {
+      "title": "ASUS shows first look at new AMD 800-series Neo UEFI BIOS with HD redesign and 64MB ROM - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-shows-first-look-at-new-amd-800-series-neo-uefi-bios-with-hd-redesign-and-64mb-rom"
+    },
+    {
+      "title": "Beating The World Record For Fastest Flying Drone Once Again - Hackaday",
+      "link": "https://hackaday.com/2026/01/18/beating-the-world-record-for-fastest-flying-drone-once-again/"
     },
     {
       "title": "Microsoft Confirms Emergency Updates For Most Windows PCs - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2026/01/18/microsoft-confirms-emergency-updates-for-most-windows-pcs/"
     },
     {
-      "title": "Random: Nintendo Apparently Wasn't Happy About Sonic's Foot Being In Front Of Mario's Foot - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/01/random-nintendo-apparently-wasnt-happy-about-sonics-foot-being-in-front-of-marios-foot"
-    },
-    {
       "title": "Your smart plug is seriously underutilized: 7 ways I've programmed mine to automate my home - ZDNET",
       "link": "https://www.zdnet.com/home-and-office/smart-home/best-smart-plug-features/"
     },
     {
-      "title": "Windows 11 Home vs. Windows 11 Pro: I compared both versions, and here's my upgrade advice - ZDNET",
-      "link": "https://www.zdnet.com/article/windows-11-home-vs-windows-11-pro/"
+      "title": "Eye Tracking Is The Missing Piece In Mark Zuckerberg's VR Strategy - UploadVR",
+      "link": "https://www.uploadvr.com/eye-tracking-missing-piece-mark-zuckerberg-vr-strategy/"
+    },
+    {
+      "title": "The 10 Most Perfect Games Released Since 2010, Ranked - Game Rant",
+      "link": "https://gamerant.com/most-perfect-games-released-since-2010-ranked/"
     },
     {
       "title": "Wyze Scale Ultra BodyScan Review: Matching The Competition At A Fraction Of The Cost - bgr.com",
@@ -44,58 +84,38 @@
       "link": "http://comicbook.com/gaming/deals/70-xbox-series-x-game-discounted-to-just-7-for-very-limited-time/"
     },
     {
-      "title": "Playing Video Games Has an Unexpected Effect on Kids' IQ, Study Says - ScienceAlert",
-      "link": "https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-study-says"
+      "title": "Block ads on your devices for life for under $40 - Mashable",
+      "link": "https://mashable.com/article/jan-17-adguard-family-plan-lifetime-subscription"
     },
     {
       "title": "Subject: Oculus Strategy (LONG) - UploadVR",
       "link": "https://www.uploadvr.com/subject-oculus-strategy-long-2026/"
-    },
-    {
-      "title": "Terrifying Photo from the Minneapolis ICE Protests Will Have You Shopping for Leicas - Gizmodo",
-      "link": "https://gizmodo.com/terrifying-photo-from-the-minneapolis-ice-protests-will-have-you-shopping-for-leicas-2000711428"
-    },
-    {
-      "title": "HomeKit Weekly: Why water leak sensors are still the most critical smart home upgrade for 2026 - 9to5Mac",
-      "link": "https://9to5mac.com/2026/01/17/homekit-weekly-why-water-leak-sensors-are-still-the-most-critical-smart-home-upgrade-for-2026/"
-    },
-    {
-      "title": "AMD reportedly now prioritizes RX 9070 XT over non-XT variant - VideoCardz.com",
-      "link": "https://videocardz.com/newz/amd-reportedly-now-prioritizes-rx-9070-xt-over-non-xt-variant"
-    },
-    {
-      "title": "Exploring the Eclipse! Early Lorwyn Standouts - MTG Arena Zone",
-      "link": "https://mtgazone.com/exploring-the-eclipse-early-lorwyn-standouts/"
-    },
-    {
-      "title": "Bank of America revamps Alphabet stock after Google enters two key partnerships - thestreet.com",
-      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships"
-    },
-    {
-      "title": "PC hardware? Never felt better. Windows? Never felt worse. What gives? - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows/pc-hardware-golden-age-windows-never-worse"
-    },
-    {
-      "title": "Grookey Community Day: Your Go-To PvE Guide - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/meta/grookey-community-day-your-go-to-pve-guide/"
-    },
-    {
-      "title": "5 Hidden Features Every Steam Deck User Needs To Know - bgr.com",
-      "link": "https://www.bgr.com/2073800/steam-deck-hidden-features-need-to-know-guide/"
-    },
-    {
-      "title": "What Should Tesla Launch This Year? Here's What We'd Love to See - Not a Tesla App",
-      "link": "https://www.notateslaapp.com/news/3502/what-should-tesla-launch-this-year-heres-what-wed-love-to-see"
-    },
-    {
-      "title": "Google equates Gemini\u2019s gradient design to 1984\u2019s smiling Macintosh - 9to5Google",
-      "link": "http://9to5google.com/2026/01/17/gemini-gradient-design/"
     }
   ],
   "sports_news": [
     {
-      "title": "Seahawks showcase full arsenal in blowout victory over 49ers - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/47648598/seahawks-showcase-full-arsenal-blowout-victory-49ers"
+      "title": "Bo Nix breaks his right ankle late in Broncos\u2019 playoff win, will have season-ending surgery - AP News",
+      "link": "https://apnews.com/article/broncos-bo-nix-broken-ankle-nfl-playoffs-b61840b6221f3ece7efb33814b00c6b4"
+    },
+    {
+      "title": "Gene Steratore chimes in on controversial Broncos-Bills officiating - Yahoo Sports",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/01/18/nfl-ex-ref-gene-steratore-on-broncos-bills-officiating/88242790007/"
+    },
+    {
+      "title": "New snow map shows updated chance of snowstorm - Boston 25 News",
+      "link": "https://www.boston25news.com/news/local/new-snow-map-shows-updated-chance-snowstorm/X6DUWTLH5ZAP3GL3JHPZAEBRYQ/"
+    },
+    {
+      "title": "Ken Walker: You could see our run game demoralizing the 49ers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ken-walker-you-could-see-our-run-game-demoralizing-the-49ers"
+    },
+    {
+      "title": "Giants Coaching Update: John Harbaugh\u2019s Staff, Assistant Coaches, and More - Sports Illustrated",
+      "link": "https://www.si.com/nfl/giants/onsi/big-blue-plus/giants-coaching-update-john-harbaugh-s-staff-assistant-coaches-and-more"
+    },
+    {
+      "title": "After breaking up a fight, Mark Pope got doused in water after Kentucky's win at Tennessee - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-tennessee-mark-pope-postgame-fight-locker-room-celebration/"
     },
     {
       "title": "Anthony Edwards-Victor Wembanyama Duel Excites NBA Fans as Spurs Win Thriller vs. T-Wolves - Bleacher Report",
@@ -106,36 +126,28 @@
       "link": "https://www.nfl.com/news/biggest-winners-and-losers-from-saturday-s-divisional-round-nfl-playoff-games"
     },
     {
-      "title": "Officials seemingly shifted the DPI standard in Bills-Broncos overtime - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/officials-seemingly-shifted-the-dpi-standard-in-bills-broncos-overtime"
-    },
-    {
       "title": "Market begins to de-clutter for Steelers as they aim to zero in on top coaching candidates - TribLIVE.com",
       "link": "https://triblive.com/sports/market-begins-to-de-clutter-for-steelers-as-they-aim-to-zero-in-on-top-coaching-candidates/"
     },
     {
-      "title": "Renck: Super Bo or bust? Nix breaks ankle. Jarrett Stidham, you got next - The Denver Post",
-      "link": "https://www.denverpost.com/2026/01/17/bo-nix-broken-ankle-jarrett-stidham-renck/"
+      "title": "Aztecs hang on to beat Lobos team with local ties, stand alone in first place - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2026/01/17/aztecs-hang-on-to-beat-new-mexico-team-with-local-ties-stand-alone-in-first-place/"
     },
     {
-      "title": "Former Browns coach Kevin Stefanski hired by the Falcons as their 20th full-time head coach - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2026/01/former-browns-kevin-stefanski-announced-as-falcons-new-head-coach.html"
+      "title": "3 takeaways from No. 11 BYU\u2019s loss to No. 15 Texas Tech - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/01/17/byu-basketball-road-loss-texas-tech-3-takeaways/"
+    },
+    {
+      "title": "Kevin Stefanski to Falcons: Grading the hire, impact on Penix - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47646496/atlanta-falcons-coach-hire-kevin-stefanski-michael-penix-jr"
     },
     {
       "title": "Bills and Broncos head to overtime in NFL divisional round - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-and-broncos-head-to-overtime-in-nfl-divisional-round"
     },
     {
-      "title": "Mo Dioubate's toughness helped Kentucky come back to beat Tennessee - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/mo-dioubate-toughness-kentucky-tennessee-comeback/"
-    },
-    {
-      "title": "Seahawks QB Sam Darnold is active - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-qb-sam-darnold-is-active"
-    },
-    {
-      "title": "Coaching Timeline: John Harbaugh's path to the Giants - Giants.com",
-      "link": "https://www.giants.com/news/coaching-timeline-john-harbaugh-s-path-to-the-giants"
+      "title": "Seahawks QB Sam Darnold active for playoff game vs. 49ers - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47644395/seahawks-qb-sam-darnold-active-playoff-game-vs-49ers"
     },
     {
       "title": "Five takeaways from IU basketball\u2019s loss to Iowa - Inside the Hall",
@@ -146,16 +158,16 @@
       "link": "https://goheels.com/news/2026/1/17/mens-basketball-lucas-cal-rapid-reactions"
     },
     {
-      "title": "Projected Lineup: January 17 at New Jersey - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-january-17-at-new-jersey"
+      "title": "Manchester United vs Manchester City player ratings: Who starred as United shock City? - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/manchester-united-vs-manchester-city-player-ratings-who-starred-as-united-shock-city"
+    },
+    {
+      "title": "Florida Gators Equipment Manager Inadvertently Gives Team Best Win Of The Season - OutKick",
+      "link": "https://www.outkick.com/sports/florida-gators-equipment-manager-inadvertently-gives-team-best-win-season"
     },
     {
       "title": "The biggest winners and losers from college football\u2019s wildest transfer portal window ever - Cleveland.com",
       "link": "https://www.cleveland.com/sports/college/2026/01/the-biggest-winners-and-losers-from-college-footballs-wildest-transfer-portal-window-ever.html"
-    },
-    {
-      "title": "Patriots rooting guide for divisional round: Saturday edition - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-opinion/119465/rooting-guide-nfl-divisional-round"
     },
     {
       "title": "Report: Tucker rejected Jays' 10-year, $350M offer to join Dodgers - theScore.com",
