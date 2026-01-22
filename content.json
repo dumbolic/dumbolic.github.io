@@ -1,9 +1,9 @@
 {
-  "quote": "The world would go on even without you. Don't take yourself so seriously. \u2013 Norman Vincent Peale",
-  "fact": "The average American looks at eight houses before buying one.",
-  "crypto": "BTC: $88,791 | ETH: $2,932.19",
+  "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.   \u2013 Bruce Lee",
+  "fact": "In 1386, a pig in France was executed by public hanging for the murder of a child",
+  "crypto": "BTC: $89,093 | ETH: $2,937.1",
   "tip": "Keep your software dependencies updated.",
-  "joke": "If you want a job in the moisturizer industry, the best advice I can give is to apply daily.",
+  "joke": "What did the green grape say to the purple grape?\r\nBREATH!!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Sony Unveils $230 Clip-On Earbuds, Joining a Growing Wave - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-01-21/sony-announces-230-linkbuds-clip-earbuds-joining-a-growing-style-trend"
+    },
+    {
+      "title": "This midrange Android phone also runs Windows and Linux - The Verge",
+      "link": "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11"
+    },
+    {
+      "title": "1348 Ex Voto launches March 12 for PS5 and PC; Xbox Series version canceled - Gematsu",
+      "link": "https://www.gematsu.com/2026/01/1348-ex-voto-launches-march-12-for-ps5-and-pc-xbox-series-version-canceled"
+    },
+    {
+      "title": "Cyberpunk 2077 VR creator says he's being \"punished\" by pirates after mod take down - Eurogamer",
+      "link": "https://www.eurogamer.net/cyberpunk-2077-vr-creator-says-hes-being-punished-by-pirates-after-mod-take-down"
+    },
+    {
+      "title": "Instagram\u2019s top boss is missing the point about AI on the platform - The Verge",
+      "link": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm"
+    },
+    {
+      "title": "Arc Raiders players who spawn late into matches profit more, senior lead confirms - Eurogamer",
+      "link": "https://www.eurogamer.net/arc-raiders-players-late-spawn-profit-more"
+    },
+    {
       "title": "iPhone 18 Pro Dynamic Island confusion now appears to be resolved - 9to5Mac",
       "link": "https://9to5mac.com/2026/01/21/iphone-18-pro-dynamic-island-confusion-now-appears-to-be-resolved/"
     },
     {
-      "title": "Random: YouTuber Combines Switch 2, PS5, And Xbox Series X Into One Huge Machine - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/01/random-youtuber-combines-switch-2-ps5-and-xbox-series-x-into-one-huge-machine"
+      "title": "Random: YouTuber Combines Switch 2, PS5, And Xbox Series S Into One Huge Machine - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/01/random-youtuber-combines-switch-2-ps5-and-xbox-series-s-into-one-huge-machine"
     },
     {
       "title": "Surprise Xbox Developer Direct Sale 2026 goes live on Microsoft Store - TrueAchievements",
       "link": "https://www.trueachievements.com/news/xbox-developer-direct-sale-2026"
     },
     {
-      "title": "Creator of DMCA'd Cyberpunk 2077 VR Mod Says People Are Now Pirating It to 'Punish' Him for Breaking CD Projekt's Terms of Service - IGN",
-      "link": "https://www.ign.com/articles/creator-of-dmcad-cyberpunk-2077-vr-mod-says-people-are-now-pirating-it-to-punish-him-for-breaking-cd-projekts-terms-of-service"
-    },
-    {
       "title": "Why \u2018aspirational clutter\u2019 is some of the hardest to part with - The Washington Post",
       "link": "https://www.washingtonpost.com/home/2026/01/21/what-is-aspirational-clutter/"
     },
     {
+      "title": "GameStop Says It's Shut Down a Nintendo Switch 2 Trade-in Exploit That Worked as an 'Infinite Money Glitch' - IGN",
+      "link": "https://www.ign.com/articles/gamestop-says-its-shut-down-a-nintendo-switch-2-trade-in-exploit-that-worked-as-an-infinite-money-glitch"
+    },
+    {
+      "title": "Marathon pre-orders somehow caused Destiny 2 to begin installation on Steam - Eurogamer",
+      "link": "https://www.eurogamer.net/marathon-pre-orders-somehow-caused-destiny-2-to-begin-installation-on-steam"
+    },
+    {
       "title": "The Game Awards' weirdest \"and finally\" game, Highguard, is showing signs of life, less than one week out from launch - Eurogamer",
       "link": "https://www.eurogamer.net/highguard-shows-signs-of-life-less-than-one-week-away-from-launch"
+    },
+    {
+      "title": "Donkey Kong Country Returns keeps on returning, as Nintendo adds Switch 2 upgrades, a new playable character and more - Eurogamer",
+      "link": "https://www.eurogamer.net/donkey-kong-country-returns-keeps-on-returning-as-nintendo-adds-switch-2-upgrades-a-new-playable-character-and-more"
     },
     {
       "title": "Three Games Are Available Today With Xbox Game Pass (January 21) - Pure Xbox",
@@ -44,134 +76,94 @@
       "link": "https://www.digitalfoundry.net/features/final-fantasy-7-remake-switch-2-a-ps5ps4-hybrid-boosted-with-dlss"
     },
     {
-      "title": "Arc Raiders Dev Says Players Who Spawn Late Don't Realize They 'Economically Profit Way More' Than Players Who Don't - IGN",
-      "link": "https://www.ign.com/articles/arc-raiders-dev-says-players-who-spawn-late-dont-realize-they-economically-profit-way-more-than-players-who-dont"
-    },
-    {
       "title": "\u2018Nightmare\u2019\u2014Microsoft Update Breaks Windows For Millions - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2026/01/21/nightmare-microsoft-update-breaks-windows-for-millions/"
     },
     {
-      "title": "Dixie Kong Joins Donkey Kong Country Returns HD in Surprise Free Switch and Switch 2 Update - IGN",
-      "link": "https://www.ign.com/articles/dixie-kong-joins-donkey-kong-country-returns-hd-in-surprise-free-switch-and-switch-2-update"
-    },
-    {
       "title": "MY HERO ULTRA RUMBLE - Season 15 - Bandai Namco Europe",
       "link": "https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-season-15"
-    },
-    {
-      "title": "Apple Just Straight-Up Robbed Google - inc.com",
-      "link": "https://www.inc.com/fast-company-2/apple-just-straight-up-robbed-google/91290436"
-    },
-    {
-      "title": "Nova Launcher may live on after all - Android Police",
-      "link": "https://www.androidpolice.com/nova-launcher-may-live-on-after-all/"
-    },
-    {
-      "title": "Yakuza Kiwami 3 & Dark Ties Scores A Switch 2 eShop Demo This Week - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/01/yakuza-kiwami-3-and-dark-ties-scores-a-switch-2-eshop-demo-this-week"
-    },
-    {
-      "title": "Galaxy S26 Ultra color lineup looks pretty boring, and didn\u2019t even copy iPhone orange - 9to5Google",
-      "link": "http://9to5google.com/2026/01/20/galaxy-s26-ultra-color-lineup-looks-pretty-boring-and-didnt-even-copy-iphone-orange/"
-    },
-    {
-      "title": "\u2018Infinite Money Glitch\u2019 Finally Gave People Good Deals On Trade-Ins So GameStop Killed It - Kotaku",
-      "link": "https://kotaku.com/infinite-money-glitch-switch-2-gamestop-fixed-patched-used-games-2000661415"
-    },
-    {
-      "title": "OnePlus phones are reportedly no more as Oppo pulls the plug on the company - XDA",
-      "link": "https://www.xda-developers.com/oneplus-phones-are-reportedly-no-more-as-oppo-pulls-the-plug-on-the-company/"
-    },
-    {
-      "title": "Are Fallout remakes dropping soon? The answer is no, sorry. - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/no-bethesda-isnt-shadow-dropping-fallout-3-and-new-vegas-remasters-any-time-soon-heres-what-we-know"
-    },
-    {
-      "title": "Arc Raiders Update Targets Infamous Stella Montis Glitch \u2013 But Some Say \u2018Rats\u2019 Are Still in the Walls - IGN",
-      "link": "https://www.ign.com/articles/arc-raiders-update-targets-infamous-stella-montis-glitch-but-some-say-rats-are-still-in-the-walls"
     }
   ],
   "sports_news": [
     {
-      "title": "Joe Brady, Brian Daboll, Anthony Lynn on Bills\u2019 head coaching interview list - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-brady-brian-daboll-anthony-lynn-on-bills-head-coaching-interview-list"
+      "title": "Terry Pegula: Loss to Broncos sparked decision to fire Sean McDermott - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-pegula-broncos-loss-sparked-decision-to-fire-sean-mcdermott"
+    },
+    {
+      "title": "Charles Bediako granted temporary restraining order to return to Alabama men\u2019s basketball - al.com",
+      "link": "https://www.al.com/alabamabasketball/2026/01/charles-bediako-granted-temporary-restraining-order-to-return-to-alabama-mens-basketball.html"
+    },
+    {
+      "title": "Here are the Top 10 shortstop prospects for 2026 - MLB.com",
+      "link": "https://www.mlb.com/news/top-10-shortstop-prospects-for-2026"
+    },
+    {
+      "title": "Manchester City: Squad to refund ticket costs for fans after Champions League loss - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c4gwp79rdz7o"
+    },
+    {
+      "title": "DP World Tour: Rory McIlroy challenges Tyrrell Hatton and Jon Rahm to pay fines - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/c1je91638g6o"
     },
     {
       "title": "Did Audi slip out its real 2026 F1 car during launch? - The Race",
       "link": "https://www.the-race.com/formula-1/did-audi-slip-out-its-real-2026-f1-car-during-launch/"
     },
     {
+      "title": "NBA power rankings: Every team slotted 1-30 at the midway point of the season - SB Nation",
+      "link": "https://www.sbnation.com/nba/1100840/nba-power-rankings-tier-listing-every-team-by"
+    },
+    {
+      "title": "Patriots opponent preview: Get to know the Denver Broncos - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-game-previews/119933/broncos-record-injuries-players-to-watch-afc-championship-game"
+    },
+    {
       "title": "Mets solve CF puzzle by acquiring Robert Jr. in trade with White Sox - MLB.com",
       "link": "https://www.mlb.com/news/luis-robert-jr-mets-white-sox-trade"
+    },
+    {
+      "title": "Indiana quarterback Alberto Mendoza commits to transfer to Georgia Tech - On3",
+      "link": "https://www.on3.com/news/indiana-quarterback-alberto-mendoza-commits-to-transfer-to-georgia-tech/"
+    },
+    {
+      "title": "The Rays have a stadium site. What will it take to build a ballpark? - tampabay.com",
+      "link": "https://www.tampabay.com/sports/rays/2026/01/21/rays-stadium-hillsborough-college-dale-mabry-buccaneers-lightning/"
     },
     {
       "title": "Mike McDaniel expected to take AFC offensive coordinator job - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/nfl-news/155899/mike-mcdaniel-expected-to-take-afc-offensive-coordinator-job"
     },
     {
-      "title": "The Packers are in a better spot to replace Malik Willis than when they traded for him - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-analysis/78542/the-packers-are-in-a-better-spot-to-replace-malik-willis-than-when-they-traded-for-him"
+      "title": "Miami Hurricanes\u2019 QB Future Could Hinge on Duke Lawsuit Involving Transfer Target Darian Mensah ... With Judge Requiring He Go In Portal - On3",
+      "link": "https://www.on3.com/teams/miami-hurricanes/news/miami-hurricanes-qb-future-could-hinge-on-duke-lawsuit-involving-transfer-target-darian-mensah-with-judge-requiring-he-go-in-portal/"
     },
     {
-      "title": "Jackets add big portal piece in former Indiana QB Alberto Mendoza - On3",
-      "link": "https://www.on3.com/sites/jackets-online/news/jackets-add-big-portal-piece-former-indiana-qb-mendoza/"
+      "title": "Former Patriots teammate offers Jarrett Stidham scouting report - masslive.com",
+      "link": "https://www.masslive.com/patriots/2026/01/former-patriots-teammate-offers-jarrett-stidham-scouting-report.html"
     },
     {
-      "title": "Duke University sues QB Darian Mensah to keep him with football program - On3",
-      "link": "https://www.on3.com/news/duke-university-sues-qb-darian-mensah-to-keep-him-with-football-program/"
+      "title": "Golden Nuggets: It wouldn\u2019t be a 49er offseason without a new defensive coordinator - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/155584/49ers-news-robert-saleh-titans-offseason-gus-bradley-daniel-bullocks-coaching-candidates-defensive-coordinator-search-kyle-shanahan-john-lynch-super-bowl-levis"
+    },
+    {
+      "title": "Hoosiers receive hero's welcome in return to Bloomington as football national champions - ABC News",
+      "link": "https://abcnews.go.com/Sports/wireStory/hoosiers-receive-heros-return-bloomington-football-national-champions-129403770"
+    },
+    {
+      "title": "Inside the wild 30 minutes when the Broncos found out about, and then revealed, Bo Nix\u2019s ankle injury - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2026/01/21/sports/broncos-bo-nix-ankle-sean-payton/"
+    },
+    {
+      "title": "Player Grades: Lakers vs. Nuggets - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-analysis/105773/player-grades-lakers-nuggets-stats-box-score-recap-lebron-james-luka-doncic"
     },
     {
       "title": "Chinyelu, Gators Smash Glass, Tigers for Fifth Straight Win - Florida Gators",
       "link": "https://floridagators.com/news/2026/1/20/mens-basketball-chinyelu-gators-smash-glass-tigers-for-fifth-straight-win-jan-20-2026"
     },
     {
-      "title": "Carlos Beltr\u00e1n and Andruw Jones elected to baseball\u2019s Hall of Fame - AP News",
-      "link": "https://apnews.com/article/beltran-jones-hall-of-fame-3f92e2209b80f655bffedfe4d3173e8e"
-    },
-    {
-      "title": "Suns find sloppy path to victory in Jalen Green\u2019s return vs. 76ers - Arizona Sports",
-      "link": "https://arizonasports.com/nba/phoenix-suns/jalen-green-return-2/3609217/"
-    },
-    {
-      "title": "Ex-Porn Star Abella Danger Apologizes for Viral Moment During Miami Hurricanes\u2019 NCAA Final Loss - Yahoo News Canada",
-      "link": "https://ca.news.yahoo.com/ex-porn-star-abella-danger-015336326.html"
-    },
-    {
-      "title": "John Harbaugh embracing his gargantuan Giants challenge - New York Post",
-      "link": "https://nypost.com/2026/01/20/sports/john-harbaugh-embracing-his-gargantuan-giants-challenge/"
-    },
-    {
-      "title": "Baker Mayfield calls out his foe Kevin Stefanski: \u2018Can\u2019t wait to see you twice a year, Coach\u2019 - cleveland.com",
-      "link": "https://www.cleveland.com/browns/2026/01/baker-mayfield-calls-out-his-foe-kevin-stefanski-cant-wait-to-see-you-twice-a-year-coach.html"
-    },
-    {
-      "title": "Ben Roethlisberger Officially Endorses A Certain Candidate To Be The Steelers' Next Head Coach - Steeler Nation",
-      "link": "https://www.steelernation.com/2026/01/20/steelers-ben-roethlisberger-endorses-certain"
-    },
-    {
-      "title": "Hillsborough College board approves plan to pursue Rays stadium deal - tampabay.com",
-      "link": "https://www.tampabay.com/sports/rays/2026/01/20/hillsborough-college-board-approves-initial-rays-stadium-deal/"
-    },
-    {
-      "title": "Blue Jays Star Free Agent Target Reportedly Expected to Make Decision Soon - Sports Illustrated",
-      "link": "https://www.si.com/mlb/bluejays/onsi/news/blue-jays-target-expected-decision-soon"
-    },
-    {
-      "title": "Man City stunned by tiny Bod\u00f8/Glimt in huge Champions League upset and Arsenal into round of 16 - AP News",
-      "link": "https://apnews.com/article/champions-league-madrid-psg-arsenal-man-city-scores-92e27633e5d3026b422fbca3df384b22"
-    },
-    {
-      "title": "Rams sound off on third round vs. Seahawks: \u2018We\u2019re the better team\u2019 - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/rams-sound-off-on-third-round-vs-seahawks-were-the-better-team/"
-    },
-    {
-      "title": "Mike McDaniel pulls out of Browns head coach search to take the Chargers OC job, leaving 5 finalists - cleveland.com",
-      "link": "https://www.cleveland.com/browns/2026/01/mike-mcdaniel-pulls-out-of-browns-head-coach-search-leaving-5-finalists-theyll-need-to-add-a-minority-too.html"
-    },
-    {
-      "title": "Steelers Head Coach interview updates - Steelers.com",
-      "link": "https://www.steelers.com/news/steelers-head-coach-interview-updates"
+      "title": "Carlos Beltran, Andruw Jones Elected To Hall Of Fame - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/01/carlos-beltran-andruw-jones-elected-to-hall-of-fame.html"
     }
   ],
   "weather": {
