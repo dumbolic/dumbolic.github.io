@@ -1,9 +1,9 @@
 {
-  "quote": "Sometimes you have to lose all you have to find out who you truly are. \u2013 Roy T. Bennett",
-  "fact": "A cat uses its whiskers to determine if a space is too small to squeeze through.",
-  "crypto": "BTC: $89,412 | ETH: $2,947.37",
+  "quote": "Every experience is a lesson. Every loss is a gain. \u2013 Sathya Sai Baba",
+  "fact": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.\u00a0 It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
+  "crypto": "BTC: $89,695 | ETH: $2,959.88",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
+  "joke": "My wife told me to rub the herbs on the meat for better flavor. That's sage advice.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Millions of people imperiled through sign-in links sent by SMS - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/"
+    },
+    {
+      "title": "Apple is reportedly working on an AirTag-sized AI wearable - The Verge",
+      "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
+    },
+    {
       "title": "Loot Capsules Are The Worst Part Of Borderlands 4 - Kotaku",
       "link": "https://kotaku.com/loot-capsules-pods-borderlands-4-worst-part-help-why-bad-gearbox-2000661916"
     },
     {
-      "title": "Milk Is Not $20 - aftermath.site",
-      "link": "https://aftermath.site/razer-ceo-min-liang-tan-ai/"
+      "title": "Nintendo Producer Kensuke Tanabe Has Seemingly Confirmed His Retirement - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/01/nintendo-producer-kensuke-tanabe-has-seemingly-confirmed-his-retirement"
     },
     {
-      "title": "Apple is working on an AI-powered wearable pin: report - 9to5Mac",
-      "link": "https://9to5mac.com/2026/01/21/apple-is-working-on-an-ai-powered-wearable-pin-report/"
+      "title": "Milk Is Not $20 - aftermath.site",
+      "link": "https://aftermath.site/razer-ceo-min-liang-tan-ai/"
     },
     {
       "title": "Apple to Revamp Siri as a Built-In iPhone, Mac Chatbot to Fend Off OpenAI - Bloomberg.com",
@@ -34,10 +42,6 @@
     {
       "title": "TFT patch 16.3 - Teamfight Tactics",
       "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-3/"
-    },
-    {
-      "title": "Apple Expected to Unveil Five All-New Products This Year - MacRumors",
-      "link": "https://www.macrumors.com/2026/01/21/five-all-new-apple-products-this-year/"
     },
     {
       "title": "2XKO Competitive Series Calendar - 2XKO",
@@ -54,10 +58,6 @@
     {
       "title": "Ubisoft cancels Prince of Persia remake as part of major reorganization - The Verge",
       "link": "https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization"
-    },
-    {
-      "title": "Metroid Prime 4 is the last Nintendo game from producer Kensuke Tanabe, game imagined as first part of Sylux saga - Nintendo Everything",
-      "link": "https://nintendoeverything.com/metroid-prime-4-kensuke-tanabe-retirement-sylux/"
     },
     {
       "title": "\u2018Remote controlled\u2019 proteins illuminate living cells - Nature",
@@ -84,15 +84,39 @@
       "link": "https://www.nintendolife.com/news/2026/01/digital-foundry-delivers-its-tech-review-of-final-fantasy-vii-remake-on-switch-2"
     },
     {
-      "title": "Samsung\u2019s Qi2 battery bank leaks, designed around the Galaxy S26 camera bump [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/01/21/samsungs-qi2-battery-bank-leaks-designed-around-the-galaxy-s26-camera-bump-gallery/"
-    },
-    {
       "title": "AMD Releases Adrenalin Edition 26.1.1 WHQL Drivers - TechPowerUp",
       "link": "https://www.techpowerup.com/345462/amd-releases-adrenalin-edition-26-1-1-whql-drivers"
+    },
+    {
+      "title": "January Xbox Update: Xbox Expands to Arm-based PCs, Game Save Sync Indicator, and More - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2026/01/21/xbox-january-update-arm-based-pc-game-save-sync-indicator/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Chiefs finalize deal with Eric Bieniemy to return as their OC - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-finalize-deal-with-eric-bieniemy-to-return-as-their-oc"
+    },
+    {
+      "title": "Champions League: Which clubs can still make the top eight and qualify for the knockouts? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c3ve1gnk26eo"
+    },
+    {
+      "title": "Kyle Tucker says Dodgers' pursuit of 3-peat made decision 'easier' - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/47685706/kyle-tucker-says-dodgers-pursuit-3-peat-made-decision-easier"
+    },
+    {
+      "title": "Sabres sign Doan to 7-year contract extension - NHL.com",
+      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-josh-doan-contract-extension"
+    },
+    {
+      "title": "Breaking down Duke's lawsuit against quarterback Darian Mensah - The Duke Chronicle",
+      "link": "https://dukechronicle.com/article/duke-football-darian-mensah-lawsuit-explainer-diaz-lucas-heitner-contract-arbitration-20260121"
+    },
+    {
+      "title": "Falcons expected to hire former Browns offensive coordinator Tommy Rees as new OC - NFL.com",
+      "link": "https://www.nfl.com/news/falcons-expected-to-hire-former-browns-offensive-coordinator-tommy-rees-as-new-oc"
+    },
     {
       "title": "John Lynch: It\u2019s safe to say Brandon Aiyuk has played his last snap with 49ers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-its-safe-to-say-brandon-aiyuk-has-played-his-last-snap-with-49ers"
@@ -100,6 +124,10 @@
     {
       "title": "Albert Breer\u2019s NFL Mailbag: Favorites to Land the Dolphins\u2019 OC Job - Sports Illustrated",
       "link": "https://www.si.com/nfl/albert-breer-nfl-mailbag-favorites-land-dolphins-oc-job"
+    },
+    {
+      "title": "The NBA Trade Season Latest - The Stein Line",
+      "link": "https://marcstein.substack.com/p/the-nba-trade-season-latest"
     },
     {
       "title": "Ex-UFC fighter arrested on felony false imprisonment charge - MMA Fighting",
@@ -114,64 +142,36 @@
       "link": "https://fever.wnba.com/news/2026-indiana-fever-regular-season-schedule-announced"
     },
     {
-      "title": "Watch LIVE: Dodgers welcome prized acquisition Kyle Tucker - MLB.com",
-      "link": "https://www.mlb.com/news/kyle-tucker-introduced-by-dodgers"
+      "title": "Titans hire Robert Saleh approval poll - Music City Miracles",
+      "link": "https://www.musiccitymiracles.com/tennessee-titans-coaching-staff/63835/titans-hire-robert-saleh-approval-poll"
     },
     {
-      "title": "Ex-Patriots QB Outlines Struggles Broncos\u2019 Jarrett Stidham Awaits In First Playoff Start - NESN",
-      "link": "https://nesn.com/2026/01/ex-patriots-quarterback-outlines-struggles-broncos-jarrett-stidham-awaits-in-first-playoff-start/"
+      "title": "Seahawks Unveil Uniform Combo For NFC Championship vs. Rams - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/2025-nfc-championship-seahawks-vs-rams-uniform-combinations"
     },
     {
-      "title": "Marseille vs. Liverpool live updates \u2013 latest score, teams and more - This Is Anfield",
-      "link": "https://www.thisisanfield.com/2026/01/marseille-vs-liverpool-live-updates-latest-score/"
+      "title": "Get to Baltimore: Tom Coughlin made sure Giants landed John Harbaugh - Giants.com",
+      "link": "https://www.giants.com/news/john-harbaugh-tom-coughlin-chris-mara-head-coach-baltimore-ravens"
+    },
+    {
+      "title": "Mike Vrabel shares injury updates on pair of Patriots starters - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-injuries/119960/carlton-davis-injury-update-concussion-protocol"
     },
     {
       "title": "Brandon Beane made clear in 2024 that he wanted to draft Keon Coleman - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-beane-made-clear-in-2024-that-he-wanted-to-draft-keon-coleman"
     },
     {
+      "title": "Ryan Poles Isn\u2019t Done Raising the Standard in Chicago - Bleacher Nation",
+      "link": "https://www.bleachernation.com/bears/2026/01/21/ryan-poles-isnt-done/"
+    },
+    {
       "title": "Did Bills GM use power play to get Sean McDermott fired? \u2018That is BS\u2019 - syracuse.com",
       "link": "https://www.syracuse.com/buffalo-bills/2026/01/did-bills-gm-use-power-play-to-get-sean-mcdermott-fired-that-is-bs.html"
     },
     {
-      "title": "Report: Yankees re-sign Bellinger to 5-year, $162.5M deal - theScore.com",
-      "link": "https://thescore.com/mlb/news/3460047"
-    },
-    {
-      "title": "The Grim Fallout of the Jimmy Butler Injury - The Ringer",
-      "link": "https://www.theringer.com/2026/01/21/nba/jimmy-butler-injury-golden-state-warriors-trade-rumors"
-    },
-    {
-      "title": "Daniel Naroditsky: Chess grandmaster's cause of death revealed as accidental drug overdose - abc7.com",
-      "link": "https://abc7.com/post/daniel-naroditsky-chess-grandmasters-cause-death-revealed-accidental-drug-overdose/18443901/"
-    },
-    {
-      "title": "Getz: White Sox Expect To Be \u201cVery Active\u201d Following Robert Trade - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/01/white-sox-rumors-very-active-free-agency-after-luis-robert-trade.html"
-    },
-    {
-      "title": "Seahawks RB George Holani Designated For Return To Practice - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/seahawks-rb-george-holani-designated-for-return-to-practice"
-    },
-    {
-      "title": "Nick Caserio: Joe Mixon didn\u2019t do anything irresponsible to cause his injury - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-caserio-joe-mixon-didnt-do-anything-irresponsible-to-cause-his-injury"
-    },
-    {
-      "title": "Major League Baseball Is Determined To Rain On Its Own Parade - Defector",
-      "link": "https://defector.com/major-league-baseball-is-determined-to-rain-on-its-own-parade"
-    },
-    {
-      "title": "Paddy Pimblett draws mixed reaction from fans after he was caught smoking ahead of UFC 324 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/01/21/paddy-pimblett-draws-mixed-reaction-from-fans-after-he-was-caught-smoking-ahead-of-ufc-324/"
-    },
-    {
-      "title": "Buss Family 'Infighting' Before Historic $10B Sale of Lakers Detailed in Latest NBA Rumors - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25365189-buss-family-infighting-historic-10b-sale-lakers-detailed-latest-nba-rumors"
-    },
-    {
-      "title": "Mel Kiper 2026 NFL mock draft 1.0 - Music City Miracles",
-      "link": "https://www.musiccitymiracles.com/tennessee-titans-draft/63855/mel-kiper-2026-nfl-mock-draft"
+      "title": "Cause of death determined for Bay Area chess prodigy - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/bayarea/article/daniel-naroditsky-cause-of-death-21307159.php"
     }
   ],
   "weather": {
