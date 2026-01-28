@@ -1,9 +1,9 @@
 {
-  "quote": "Your business is not to 'get somewhere' - it is to be here. \u2013 Dan Millman",
-  "fact": "The San Francisco Cable cars are the only mobile National Monuments",
-  "crypto": "BTC: $89,299 | ETH: $3,028.19",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Sometimes I tuck my knees into my chest and lean forward.  That\u2019s just how I roll.",
+  "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. \u2013 Henry Ford",
+  "fact": "The shortest British monarch was Charles I, who was 4 feet 9 inches.",
+  "crypto": "BTC: $89,215 | ETH: $3,009.79",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Did you know crocodiles could grow up to 15 feet? But most just have 4.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Code Vein II Review - Bloodsucking The Fun Away - Game Informer",
+      "link": "https://gameinformer.com/review/code-vein-ii/bloodsucking-the-fun-away"
+    },
+    {
+      "title": "This is Android 17\u2019s blur, new screen recorder, & more in leaked screenshots [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/01/26/android-17-leak/"
+    },
     {
       "title": "Why has Microsoft been routing example.com traffic to a company in Japan? - Ars Technica",
       "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/"
@@ -22,14 +30,6 @@
     {
       "title": "MTG Arena Announcements \u2013 January 26, 2026 - Magic: The Gathering",
       "link": "https://magic.wizards.com/en/news/mtg-arena/announcements-january-26-2026"
-    },
-    {
-      "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations - BBC",
-      "link": "https://www.bbc.com/news/articles/c4g38jv8zzwo"
-    },
-    {
-      "title": "How to encrypt your PC\u2019s disk without giving the keys to Microsoft - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/"
     },
     {
       "title": "Microsoft patches actively exploited Office zero-day vulnerability - BleepingComputer",
@@ -44,6 +44,10 @@
       "link": "https://variety.com/2026/gaming/news/highguard-release-details-wildlight-overwatch-concord-1236641015/"
     },
     {
+      "title": "Google to pay $68 million over allegations its voice assistant eavesdropped on users - CBS News",
+      "link": "https://www.cbsnews.com/news/google-voice-assistant-lawsuit-settlement-68-million/"
+    },
+    {
       "title": "Apple iPhone 18 Pro\u2019s Biggest Visual Redesign In Years Revealed In New Leak - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2026/01/26/apple-iphone-18-pro-display-set-for-biggest-design-change-in-years-new-leak-claims/"
     },
@@ -52,16 +56,8 @@
       "link": "https://www.eurogamer.net/fable-studio-playground-games-wanted-to-step-out-of-forza-horizon-as-far-back-as-2017-to-learn-and-grow-as-developers"
     },
     {
-      "title": "GTA 6 Will Not Have a Physical Edition at Launch, It\u2019s Claimed - Insider Gaming",
-      "link": "https://insider-gaming.com/gta-6-will-not-have-a-physical-edition-at-launch-its-claimed/"
-    },
-    {
       "title": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/ubisoft-launches-voluntary-redundancy-process-to-cut-200-jobs-from-paris-head-office"
-    },
-    {
-      "title": "How to get Doom running on a pair of earbuds - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/"
     },
     {
       "title": "An Update to End-of-Round Procedures at Pok\u00e9mon TCG Championship Events - Pokemon.com",
@@ -76,30 +72,86 @@
       "link": "https://www.allrecipes.com/mccafe-keurig-coffee-pod-recall-january-2026-11892304"
     },
     {
-      "title": "\"They Did Not Seem Like A Very Happy Bunch\" - Lost Beavis And Butt-Head Title Resurfaces On PS1 - Time Extension",
-      "link": "https://www.timeextension.com/news/2026/01/they-did-not-seem-like-a-very-happy-bunch-lost-beavis-and-butt-head-title-resurfaces-on-ps1"
-    },
-    {
-      "title": "Apple\u2019s new M6 chip could launch surprisingly soon, per report - 9to5Mac",
-      "link": "https://9to5mac.com/2026/01/26/apples-new-m6-chip-could-launch-surprisingly-soon-per-report/"
-    },
-    {
-      "title": "Say Goodbye To Lugging Around A Laptop With This Handy $9 USB Gadget - bgr.com",
-      "link": "https://www.bgr.com/2080501/handy-usb-gadget-otg-jsaux-amazon-sale/"
-    },
-    {
       "title": "Stop Killing Games EU petition hits 1.3m verified signatures - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/stop-killing-games-eu-petition-signed-by-13m-verified-people"
+    },
+    {
+      "title": "\u2018Resident Evil Requiem\u2019 Developers Talk \u201cVital\u201d Return to Raccoon City, Tease \u201cUmbrella Curse\u201d, Claire And Ada & Pairing Leon Kennedy With A New Leading Lady - Deadline",
+      "link": "http://deadline.com/2026/01/resident-evil-9-interview-1236696589/"
+    },
+    {
+      "title": "After 5 Years, Apple Finally Upgrades the AirTag - WIRED",
+      "link": "https://www.wired.com/story/apple-second-generation-airtag-2026/"
+    },
+    {
+      "title": "Latest Intel chips beat Apple\u2019s M5 in multi-core scores \u2013 for maybe two days - 9to5Mac",
+      "link": "https://9to5mac.com/2026/01/26/latest-intel-chips-beat-apples-m5-in-multi-core-scores-for-maybe-two-days/"
+    },
+    {
+      "title": "Sony Set to Delay PS6 Release Date, Claims Financial Report - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/01/sony-set-to-delay-ps6-release-date-claims-financial-report"
     }
   ],
   "sports_news": [
+    {
+      "title": "Jonathan Gannon will bring the quarters revolution back to Green Bay - Acme Packing Company",
+      "link": "https://www.acmepackingcompany.com/green-bay-packers-coaching-staff/78782/jonathan-gannon-will-bring-the-quarters-revolution-back-to-green-bay"
+    },
+    {
+      "title": "Browns complete 2nd head coach interview with Rams pass game coordinator Nate Scheelhaase - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-complete-2nd-head-coach-interview-with-rams-pass-game-coordinator-nate-scheelhaase"
+    },
+    {
+      "title": "Judge makes key ruling on Charles Bediako amid NCAA lawsuit - On3",
+      "link": "https://www.on3.com/college/alabama-crimson-tide/news/tuscaloosa-judge-extends-charles-bediako-temporary-restraining-order-for-10-days/"
+    },
+    {
+      "title": "Clemson Announces 2026 Football Schedule - Clemson Tigers",
+      "link": "https://clemsontigers.com/clemson-announces-2026-football-schedule/"
+    },
+    {
+      "title": "Broncos sign 6 players to future contracts - Denver Broncos",
+      "link": "https://www.denverbroncos.com/news/broncos-sign-6-players-to-future-contracts"
+    },
+    {
+      "title": "Stanford, family of Katie Meyer settle wrongful death lawsuit - ESPN",
+      "link": "https://www.espn.com/college-sports/story/_/id/47736689/stanford-family-katie-meyer-settle-wrongful-death-lawsuit"
+    },
+    {
+      "title": "'It cost me the fight'... Diego Lopes knows why he lost to Alexander Volkanovski ahead of UFC 325 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/01/26/it-cost-me-the-fight-diego-lopes-knows-why-he-lost-to-alexander-volkanovski-ahead-of-ufc-325/"
+    },
+    {
+      "title": "Big Picture: How One Unlucky Play vs. Seattle Altered Rams QB Matthew Stafford\u2019s Legacy - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/rams-qb-matthew-stafford-nfc-championship-game-altered-legacy"
+    },
+    {
+      "title": "\u2018On borrowed time\u2019: This ex-Buffalo Bills player says firing Sean McDermott was right move - syracuse.com",
+      "link": "https://www.syracuse.com/buffalo-bills/2026/01/on-borrowed-time-this-ex-buffalo-bills-player-says-firing-sean-mcdermott-was-right-move.html"
+    },
+    {
+      "title": "1-on-1 with Steelers' Art Rooney II: On Mike McCarthy hire, Will Howard hype and social media backlash - post-gazette.com",
+      "link": "https://www.post-gazette.com/sports/steelers/2026/01/26/nfl-steelers-art-rooney-mike-mccarthy-will-howard-aaron-rodgers/stories/202601260069"
+    },
+    {
+      "title": "Micah Parsons Makes Patriots-Seahawks Super Bowl Prediction - NESN",
+      "link": "https://nesn.com/2026/01/micah-parsons-makes-patriots-seahawks-super-bowl-prediction/"
+    },
+    {
+      "title": "Sam Darnold is one win away from a Super Bowl victory that's eluded fellow QBs in the 2018 draft - AP News",
+      "link": "https://apnews.com/article/sam-darnold-super-bowl-seahawks-d57cd6e24fabd71aecd7d56243dd91db"
+    },
+    {
+      "title": "UFC Makes Paramount+ Debut Averaging 4.96M Live Streaming Views - Deadline",
+      "link": "http://deadline.com/2026/01/ufc-324-ratings-paramount-1236697252/"
+    },
     {
       "title": "Complicated but \"doable\" - Drivers issue early verdict on the F1 2026 cars - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/complicated-but-doable-drivers-issue-early-verdict-on-the-f1-2026-cars/10793057/"
     },
     {
-      "title": "Lindsey Vonn, Mikaela Shiffrin, Chloe Kim Headline Historic USA Olympic Roster with 232 Athletes - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25369824-lindsey-vonn-mikaela-shiffrin-chloe-kim-headline-historic-usa-olympic-roster-232-athletes"
+      "title": "Joe Starkey\u2019s Cup of Joe: Patriots went from great to bad to great again while Steelers stayed the same - triblive.com",
+      "link": "https://triblive.com/sports/joe-starkeys-cup-of-joe-patriots-went-from-great-to-bad-to-great-again-while-steelers-stayed-the-same/"
     },
     {
       "title": "Shedeur Sanders added to the AFC Pro Bowl roster - NBC Sports",
@@ -110,68 +162,16 @@
       "link": "https://www.mlbtraderumors.com/2026/01/giants-sign-harrison-bader.html"
     },
     {
+      "title": "Where BYU ranks in the AP Top 25 after beating Utah - deseret.com",
+      "link": "https://www.deseret.com/sports/2026/01/26/byu-cougars-basketball-ap-top-25-poll-update-jan-26-2026/"
+    },
+    {
       "title": "Arizona still unanimous No. 1 in AP Top 25 poll ahead of showdown with No. 13 BYU - AP News",
       "link": "https://apnews.com/article/ap-top-25-mens-college-basketball-poll-758ca762436516744d4f3c41d4addf0c"
     },
     {
-      "title": "Latest Super Bowl 60 odds: Patriots in rare company as a significant \u2018dog vs. Seattle - masslive.com",
-      "link": "https://www.masslive.com/patriots/2026/01/latest-super-bowl-60-odds-patriots-in-rare-company-as-a-significant-dog-vs-seattle.html"
-    },
-    {
-      "title": "SEC sets record with 10 ranked teams, a 1st in 50-year history of women's AP Top 25; UConn, UCLA 1-2 - AP News",
-      "link": "https://apnews.com/article/ap-top-25-sec-7788e54399ded9afe4a6de118e6dd538"
-    },
-    {
-      "title": "Justin Gaethje believes legends are 3-1 up after UFC 324 and says he'll 'avenge' former foe's loss - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/01/26/justin-gaethje-believes-legends-are-3-1-up-after-ufc-324-and-says-hell-avenge-former-foes-loss/"
-    },
-    {
-      "title": "Rams Reportedly 'Urged' Cooper Kupp to Retire, Warned Teams to Lowball Contract Offers - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25369759-rams-reportedly-urged-cooper-kupp-retire-warned-teams-lowball-contract-offers"
-    },
-    {
-      "title": "Four Lessons From NFL Conference Championships: Sam Darnold\u2019s Wicked Good Now - Sports Illustrated",
-      "link": "https://www.si.com/nfl/four-lessons-nfl-conference-championships-sam-darnold"
-    },
-    {
-      "title": "Scottie Scheffler Is Officially Scary, Blades Brown's Marathon Week & What Would You Pay To Play The Masters? - OutKick",
-      "link": "https://www.outkick.com/sports/scottie-scheffler-wins-amex-scary-20-pga-tour-wins-blades-brown-week-patrick-reed-free-agent-liv-golf-par-talk"
-    },
-    {
-      "title": "Rams\u2019 McVay, Stafford lament missed opportunities in loss to Seahawks - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/rams-mcvay-stafford-lament-missed-opportunities-in-loss-to-seahawks/1837108"
-    },
-    {
-      "title": "Tom Brady reacts to ex-teammate Mike Vrabel leading former Patriots team to Super Bowl - masslive.com",
-      "link": "https://www.masslive.com/patriots/2026/01/tom-brady-reacts-to-ex-teammate-mike-vrabel-leading-former-patriots-team-to-super-bowl.html"
-    },
-    {
-      "title": "Grand Udinski withdraws from Browns head coaching search - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/grant-udinski-withdraws-from-browns-head-coaching-search"
-    },
-    {
-      "title": "Jaxon Smith-Njigba\u2019s legend continues to grow - Andscape",
-      "link": "https://andscape.com/features/jaxon-smith-njigbas-legend-continues-to-grow/"
-    },
-    {
-      "title": "Monday Cheese Curds: Getting to know Jonathan Gannon; Super Bowl matchup set - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/78767/green-bay-packers-news-getting-to-know-jonathan-gannon-super-bowl-matchup-set"
-    },
-    {
-      "title": "Refs admit they made second critical mistake on Broncos\u2019 backward pass call in AFC Championship - New York Post",
-      "link": "https://nypost.com/2026/01/26/sports/refs-admit-second-critical-mistake-on-broncos-backward-pass-call/"
-    },
-    {
-      "title": "NFL conspiracy theorists think the league tipped off Seahawks-Patriots for Super Bowl 60 - SB Nation",
-      "link": "https://www.sbnation.com/nfl/1101287/super-bowl-60-conspiracy-patriots-seahawks"
-    },
-    {
-      "title": "NFL winners and losers: The Super Bowl hurtles towards an inevitable stomp - SB Nation",
-      "link": "https://www.sbnation.com/nfl/1101210/nfl-winners-and-losers-seahawks-patriots"
-    },
-    {
-      "title": "Daniel Jeremiah 2026 NFL mock draft 1.0: Raiders pick QB at No. 1; Jets among 3 teams to go WR - NFL.com",
-      "link": "https://www.nfl.com/news/daniel-jeremiah-2026-nfl-mock-draft-1-0"
+      "title": "Los Angeles Chargers Name Mike McDaniel Offensive Coordinator - Los Angeles Chargers",
+      "link": "https://www.chargers.com/news/chargers-name-mike-mcdaniel-offensive-coordinator"
     }
   ],
   "weather": {
