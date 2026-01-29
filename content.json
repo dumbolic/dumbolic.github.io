@@ -1,9 +1,9 @@
 {
-  "quote": "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   \u2013 Wayne Dyer",
-  "fact": "In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.",
-  "crypto": "BTC: $87,913 | ETH: $2,930.38",
+  "quote": "Until we can manage time, we can manage nothing else. \u2013 Peter Drucker",
+  "fact": "The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. ",
+  "crypto": "BTC: $86,555 | ETH: $2,855.65",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\"",
+  "joke": "What do you call a fat psychic? A four-chin teller.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,90 +12,146 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Google just leaked a first look at Android for PC in action - The Verge",
-      "link": "https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video"
+      "title": "Arc Raiders and The Finals hit by \"coordinated\" DDoS attacks - Eurogamer",
+      "link": "https://www.eurogamer.net/arc-raiders-and-the-finals-hit-by-coordinated-ddos-attacks"
+    },
+    {
+      "title": "Gemini details AI Plus limits, rolls out NotebookLM integration on iOS - 9to5Google",
+      "link": "http://9to5google.com/2026/01/28/gemini-app-google-ai-plus/"
+    },
+    {
+      "title": "AMD Ryzen 7 9850X3D Linux Performance Review - Phoronix",
+      "link": "https://www.phoronix.com/review/amd-ryzen-7-9850x3d-linux"
+    },
+    {
+      "title": "Users flock to open source Moltbot for always-on AI, despite major risks - Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/"
+    },
+    {
+      "title": "Glimmora in Pok\u00e9mon GO Meta: Worth the Grind? - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/meta/glimmora-in-pokemon-go-meta-worth-the-grind/"
+    },
+    {
+      "title": "Baldur's Gate 3 studio boss calls out \"hurtful\", \"personal\" videogame reviewers - \"sometimes I think it'd be a good idea for critics to be scored, Metacritic-style\" - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/baldurs-gate-3-studio-boss-calls-out-hurtful-personal-videogame-reviewers-sometimes-i-think-itd-be-a-good-idea-for-critics-to-be-scored-metacritic-style"
+    },
+    {
+      "title": "Exclusive: First look at Samsung\u2019s 25W wireless charger, possibly for Galaxy S26 - SamMobile",
+      "link": "https://www.sammobile.com/news/exclusive-samsung-25w-wireless-charger-galaxy-s26-photos/"
+    },
+    {
+      "title": "Windows 11\u2019s ability to resume Android apps on your PC is getting closer - The Verge",
+      "link": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview"
+    },
+    {
+      "title": "'When Did It Become Trendy to Hate on a New Game?' \u2014 as Highguard Struggles to Win Over the Internet, Video Game Developers Come to Its Defense - IGN",
+      "link": "https://www.ign.com/articles/when-did-it-become-trendy-to-hate-on-a-new-game-as-highguard-struggles-to-win-over-the-internet-video-game-developers-come-to-its-defense"
+    },
+    {
+      "title": "iPhone 18 Pro Could Feature Teleconverter Alongside Variable Aperture - MacRumors",
+      "link": "https://www.macrumors.com/2026/01/28/iphone-18-pro-teleconverter-variable-aperture/"
+    },
+    {
+      "title": "Kasrkin regain their elite status in the January Kill Team Balance Update - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/o22qkepp/kasrkin-regain-their-elite-status-in-the-january-kill-team-balance-update"
+    },
+    {
+      "title": "New PS5 Firmware Update Is Available Now, Here Are All the Patch Notes - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/01/new-ps5-firmware-update-is-available-now-here-are-all-the-patch-notes"
+    },
+    {
+      "title": "iOS 26.3: Here\u2019s what\u2019s new for your iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2026/01/27/ios-26-3-new-features-for-iphone/"
     },
     {
       "title": "Fatal Frame 2: Crimson Butterfly Remake Switch 2 Demo And Silent Hill f DLC Collab Announced - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/01/fatal-frame-2-crimson-butterfly-remake-switch-2-demo-and-silent-hill-f-dlc-collab-announced"
     },
     {
+      "title": "Mercedes-Benz Just Unveiled Its New Ultra-Exclusive Mythos - Robb Report",
+      "link": "http://robbreport.com/motors/cars/mercedes-benz-mythos-model-revealed-1237536036/"
+    },
+    {
       "title": "Samsung\u2019s first Galaxy S26 teaser is for the \u2018Privacy Display\u2019 [Gallery] - 9to5Google",
       "link": "http://9to5google.com/2026/01/27/samsung-galaxy-s26-privacy-display-teaser/"
-    },
-    {
-      "title": "Microsoft promises behind the scenes platform changes on Windows 11 in 2026 - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-vows-to-make-behind-the-scenes-platform-changes-as-it-begins-testing-next-phase-of-windows-11"
-    },
-    {
-      "title": "WhatsApp adds one-toggle privacy lockdown mode - theregister.com",
-      "link": "https://www.theregister.com/2026/01/27/whatsapp_strict_account_settings_meta_rust/"
     },
     {
       "title": "Ubisoft Increases 'Just Dance' Subscription Prices In The Wake Of Restructuring & Cuts - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/01/ubisoft-increases-just-dance-subscription-prices-in-the-wake-of-restructuring-and-cuts"
     },
     {
-      "title": "Apple Watch hypertension notifications now supported in seven additional countries - 9to5Mac",
-      "link": "https://9to5mac.com/2026/01/27/apple-watch-hypertension-notifications-now-supported-in-seven-additional-countries/"
-    },
-    {
-      "title": "A New King of Handhelds? Intel Stock (NASDAQ:INTC) Jumps With New Panther Lake Details - TipRanks",
-      "link": "https://www.tipranks.com/news/a-new-king-of-handhelds-intel-stock-nasdaqintc-jumps-with-new-panther-lake-details"
-    },
-    {
-      "title": "Gemini 3 Flash\u2019s new \u2018Agentic Vision\u2019 improves image responses - 9to5Google",
-      "link": "http://9to5google.com/2026/01/27/gemini-3-flash-agentic-vision/"
-    },
-    {
-      "title": "WinRAR path traversal flaw still exploited by numerous hackers - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/"
-    },
-    {
-      "title": "Clawdbot sheds skin to become Moltbot, can't slough off security issues - theregister.com",
-      "link": "https://www.theregister.com/2026/01/27/clawdbot_moltbot_security_concerns/"
-    },
-    {
-      "title": "Grounded 2 Update: The Toxic Tangle \u2013 Available Now - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/01/27/grounded-2-update-the-toxic-tangle-available-now/"
-    },
-    {
-      "title": "Resident Evil Requiem Not An Open-World Game - Kotaku",
-      "link": "https://kotaku.com/resident-evil-requiem-not-open-world-capcom-2000663537"
-    },
-    {
-      "title": "34.4.2 Patch Notes - Blizzard Entertainment",
-      "link": "https://playhearthstone.com/en-gb/blog/24244400/"
-    },
-    {
-      "title": "Why There's Simply No Need For An iPad Anymore - bgr.com",
-      "link": "https://www.bgr.com/2081519/why-no-one-needs-ipads-anymore/"
-    },
-    {
-      "title": "Google now lets users jump from AI Overviews into AI Mode conversations - techcrunch.com",
-      "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/"
-    },
-    {
-      "title": "iOS 26.2.1\u2014Update Now Warning Issued To Millions Of iPhone Users - Forbes",
-      "link": "https://www.forbes.com/sites/kateoflahertyuk/2026/01/27/ios-2621-update-now-warning-issued-to-millions-of-iphone-users/"
-    },
-    {
-      "title": "The cuteness continues\u2026 forever! - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/the-cuteness-continues-forever"
+      "title": "Nudify apps get past Google, Apple app moderation - theregister.com",
+      "link": "https://www.theregister.com/2026/01/27/nudify_app_proliferation_shows_naked/"
     }
   ],
   "sports_news": [
     {
+      "title": "Browns hire Todd Monken as head coach - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-hire-todd-monken-as-head-coach"
+    },
+    {
+      "title": "Bill Belichick\u2019s snub from the Pro Football Hall of Fame is criticized by voters and NFL fans - AP News",
+      "link": "https://apnews.com/article/belichick-hall-of-fame-af46e26dc1a5e55d27464a97d4c517c5"
+    },
+    {
+      "title": "Five takeaways from IU basketball\u2019s win against Purdue - Inside the Hall",
+      "link": "https://www.insidethehall.com/2026/01/28/five-takeaways-from-iu-basketballs-win-against-purdue/"
+    },
+    {
+      "title": "Tyson Fury to face Arslanbek Makhmudov in comeback fight - ESPN",
+      "link": "https://www.espn.com/boxing/story/_/id/47753624/tyson-fury-arslanbek-makhmudov-comeback-fight-boxing-netflix"
+    },
+    {
+      "title": "Heat May Have Best Chance For Giannis Antetokounmpo Deal By Deadline - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2026/01/heat-may-have-best-chance-for-giannis-antetokounmpo-deal-by-deadline.html"
+    },
+    {
+      "title": "Russell sets fastest lap of Barcelona F1 test so far - The Race",
+      "link": "https://www.the-race.com/formula-1/george-russell-sets-fastest-lap-of-barcelona-f1-test/"
+    },
+    {
+      "title": "Bucky Brooks 2026 NFL mock draft 1.0: Cowboys double up on defense; Rams snag QB prospect - NFL.com",
+      "link": "https://www.nfl.com/news/bucky-brooks-2026-nfl-mock-draft-1-0-cowboys-double-up-on-defense-rams-snag-qb-prospect"
+    },
+    {
+      "title": "Alexander Volkanovski can take huge step towards GOAT status by matching Jose Aldo record at UFC 325 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/01/28/alexander-volkanovski-can-take-huge-step-towards-goat-status-by-matching-jose-aldo-record-at-ufc-325/"
+    },
+    {
+      "title": "A Defensive Reset in Washington: How Daronte Jones Signals a New Era - Hogs Haven",
+      "link": "https://www.hogshaven.com/a-closer-look/399718/a-defensive-reset-in-washington-how-daronte-jones-signals-a-new-era"
+    },
+    {
+      "title": "Browns head coach search: Team eliminates candidate, continues process - Dawgs By Nature",
+      "link": "https://www.dawgsbynature.com/cleveland-browns-coaching-staff/116411/browns-head-coach-search-nate-scheelhaase-jim-schwartz-todd-monken"
+    },
+    {
+      "title": "No. 5 Nebraska\u2019s run of 24 wins in a row is over after narrow loss to No. 3 Michigan - AP News",
+      "link": "https://apnews.com/article/nebraska-cornhuskers-winning-streak-michigan-4e87d179b92f89efc4144a773aefe39a"
+    },
+    {
       "title": "Column | Clamor is growing in Europe to boycott Trump\u2019s World Cup - The Washington Post",
       "link": "https://www.washingtonpost.com/world/2026/01/28/trump-world-cup-boycott-europe/"
+    },
+    {
+      "title": "Sean Payton regrets his fourth-and-1 play call more than his decision to go for it - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-regrets-his-fourth-and-1-play-call-more-than-his-decision-to-go-for-it"
+    },
+    {
+      "title": "Iga Swiatek calls for player privacy at Australian Open after Coco Gauff smashes racket: \u2018Are we animals in the zoo?\u2019 - New York Post",
+      "link": "https://nypost.com/2026/01/28/sports/iga-swiatek-calls-for-player-privacy-at-australian-open-after-coco-gauff-smashes-racket/"
+    },
+    {
+      "title": "What shocked Novak Djokovic said on court after Lorenzo Musetti retires hurt while two sets up against him - The Tennis Gazette",
+      "link": "https://www.thetennisgazette.com/news/what-shocked-novak-djokovic-said-on-court-after-lorenzo-musetti-retires-hurt-while-two-sets-up-against-him/"
     },
     {
       "title": "2026 NFL Draft: 8 prospects who stood out in East-West Shrine Bowl - NFL.com",
       "link": "https://www.nfl.com/news/2026-nfl-draft-8-prospects-who-stood-out-in-east-west-shrine-bowl"
     },
     {
-      "title": "Tennis world in disbelief after eight-time grand slam winners wiped out of Aus Open in hours - Yahoo News Australia",
-      "link": "https://au.news.yahoo.com/tennis-world-in-disbelief-after-eight-time-grand-slam-winners-wiped-out-of-aus-open-in-hours-025620574.html"
+      "title": "Instant observations: Paul George and Jared McCain finally erupt, Sixers bounce back with outstanding offensive showing - phillyvoice.com",
+      "link": "https://www.phillyvoice.com/sixers-vs-bucks-box-score-highlights-stats-joel-embiid-tyrese-maxey-vj-edgecombe-doc-rivers-paul-george-nick-nurse-jared-mccain/"
     },
     {
       "title": "Couch: 3 quick takes (from afar) on Michigan State basketball's 88-79 escape in overtime at Rutgers - lansingstatejournal.com",
@@ -108,62 +164,6 @@
     {
       "title": "Duke QB Darian Mensah will transfer to Miami - 247Sports",
       "link": "https://247sports.com/college/miami/article/darian-mensah-transfers-to-miami-hurricanes-football-transfer-portal-quarterback-duke-blue-devils-college-football-more-271688105/"
-    },
-    {
-      "title": "2026 Shrine Bowl standouts that make sense for the Cowboys - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/2026-shrine-bowl-standouts-that-make-sense-for-the-cowboys"
-    },
-    {
-      "title": "Titans announce hiring of Brian Daboll as OC - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-announce-hiring-of-brian-daboll-as-oc"
-    },
-    {
-      "title": "How should Chelsea line up against Napoli with Champions League bye on the line? - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/european-tournaments/165559/how-should-chelsea-line-up-against-napoli-with-champions-league-bye-on-the-line"
-    },
-    {
-      "title": "4 takeaways from No. 3 Michigan Basketball\u2019s win vs No. 5 Nebraska - Maize n Brew",
-      "link": "https://www.maizenbrew.com/michigan-mens-basketball/104862/michigan-basketball-takeaways-nebraska-dusty-may-trey-mckenney-morez-johnson-aday-mara"
-    },
-    {
-      "title": "Commanders Reacts Survey: Washington\u2019s new defensive coordinator, Daronte Jones - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-reacts/399763/commanders-reacts-survey-washingtons-new-defensive-coordinator-daronte-jones"
-    },
-    {
-      "title": "Julian Edelman Has An Interesting Reaction After Bill Belichick Misses Hall Of Fame - NESN",
-      "link": "https://nesn.com/2026/01/julian-edelman-has-an-interesting-reaction-after-bill-belichick-misses-hall-of-fame/"
-    },
-    {
-      "title": "After Further Review: How the Patriots Defense Won the AFC Title Game, Maye Breakdown, and Quick-Hit Film Notes From Sunday's Win in Denver - New England Patriots",
-      "link": "https://www.patriots.com/news/after-further-review-how-the-patriots-defense-won-the-afc-title-game-maye-breakdown-and-quick-hit-film-notes-from-sunday-s-win-in-denver"
-    },
-    {
-      "title": "New coach Mike McCarthy reveals plans for Steelers\u2019 offensive, defensive schemes - triblive.com",
-      "link": "https://triblive.com/sports/new-coach-mike-mccarthy-reveals-plans-for-steelers-offensive-defensive-schemes/"
-    },
-    {
-      "title": "Mariners add another catcher in trade with Twins - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-trade-for-catcher-jhonny-pereda-from-twins/"
-    },
-    {
-      "title": "NBA Rising Stars 2026 Draft Results, Rosters for Carmelo Anthony, Vince Carter, Tracy McGrady - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25372871-nba-rising-stars-2026-draft-results-rosters-carmelo-anthony-vince-carter-tracy-mcgrady"
-    },
-    {
-      "title": "KSR's pregame notes to help get you to the late-night tip at Vanderbilt - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/ksrs-pregame-notes-to-help-get-you-to-the-late-night-tip-at-vanderbilt/"
-    },
-    {
-      "title": "Big Ten schedule release for 2026 college football season - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/47746859/2026-big-ten-college-football-schedule-release"
-    },
-    {
-      "title": "Overpaid Devils forward benched for \u2018roster related reasons\u2019 - nj.com",
-      "link": "https://www.nj.com/devils/2026/01/overpaid-devils-forward-benched-for-roster-related-reasons.html"
-    },
-    {
-      "title": "Brooks Koepka reveals Tiger Woods\u2019 role in getting him back on PGA Tour after one phone call - New York Post",
-      "link": "https://nypost.com/2026/01/27/sports/brooks-koepka-reveals-tiger-woods-role-in-pga-tour-return/"
     }
   ],
   "weather": {
