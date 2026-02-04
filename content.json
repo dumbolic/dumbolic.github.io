@@ -1,9 +1,9 @@
 {
-  "quote": "Happiness is only real when shared. \u2013 Christopher McCandless",
-  "fact": "14% of all facts and statistics are made up and 27% of people know that fact.",
-  "crypto": "BTC: $76,554 | ETH: $2,279.75",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
+  "quote": "Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to. \u2013 Carlos Ruiz Zafon",
+  "fact": "Camels chew in a figure 8 pattern.",
+  "crypto": "BTC: $76,345 | ETH: $2,270.17",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "How do you fix a broken pizza? With tomato paste.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Pok\u00e9mon 30th Anniversary Nintendo Store Event Announced (US) - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/02/pokemon-30th-anniversary-nintendo-store-event-announced-us"
+    },
+    {
+      "title": "Azure Striker Gunvolt Trilogy Enhanced \u2018CONNECT iX\u2019 Copen mode update now available - Gematsu",
+      "link": "https://www.gematsu.com/2026/02/azure-striker-gunvolt-trilogy-enhanced-connect-ix-copen-mode-update-now-available"
+    },
     {
       "title": "Nitro Deck 2 for Nintendo Switch 2 Is Up for Preorder at Amazon With a May 1 Release Date - IGN",
       "link": "https://www.ign.com/articles/where-to-preorder-the-nitro-deck-2-for-nintendo-switch-2"
@@ -20,8 +28,20 @@
       "link": "http://9to5google.com/2026/02/02/pixel-adaptive-connectivity-settings/"
     },
     {
+      "title": "Google Home gets the upgrade we've all been waiting for - Android Police",
+      "link": "https://www.androidpolice.com/google-home-gets-the-upgrade-weve-all-been-waiting-for/"
+    },
+    {
+      "title": "Where\u2019s the February Pixel Update? - Droid Life",
+      "link": "https://www.droid-life.com/2026/02/02/wheres-the-february-pixel-update/"
+    },
+    {
       "title": "'People Have a Right to Be Pissed' \u2014 Dispatch Developer Apologizes to Fans Over Nintendo Switch Censorship, Says Disclaimer Wasn't Visible Enough - IGN",
       "link": "https://www.ign.com/articles/people-have-a-right-to-be-pissed-dispatch-developer-apologizes-to-fans-over-nintendo-switch-censorship-says-disclaimer-wasnt-visible-enough"
+    },
+    {
+      "title": "12 Useful Mini Tools That Every Homeowner Should Have Around The Home - SlashGear",
+      "link": "https://www.slashgear.com/2086367/useful-home-mini-tool-every-homeowner-should-own/"
     },
     {
       "title": "Jez Corden argues next Xbox could inherit Windows\u2019 strengths and its flaws - Windows Central",
@@ -36,16 +56,16 @@
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/"
     },
     {
-      "title": "Google Home update finally adds support for smart buttons in automations - 9to5Google",
-      "link": "http://9to5google.com/2026/02/02/google-home-smart-button-automations-update/"
-    },
-    {
       "title": "Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2026/02/02/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/"
     },
     {
       "title": "Russia Is Building a Plasma Engine to Get Humans to Mars in 30 Days - AOL.com",
       "link": "https://www.popularmechanics.com/space/rockets/a70162796/russian-plasma-engine-30-days/"
+    },
+    {
+      "title": "Get Ready for New Pixel Theme Packs - Droid Life",
+      "link": "https://www.droid-life.com/2026/02/02/get-ready-for-new-pixel-theme-packs/"
     },
     {
       "title": "Firefox is adding a switch to turn AI features off - The Verge",
@@ -70,32 +90,32 @@
     {
       "title": "Report: Ashes Of Creation Developer Intrepid Studios Shuts Down Weeks After The MMO's Early Access Launch - Game Informer",
       "link": "https://gameinformer.com/2026/02/02/report-ashes-of-creation-developer-intrepid-studios-shuts-down-weeks-after-the-mmos"
-    },
-    {
-      "title": "Microsoft Stock (NASDAQ:MSFT) Falters on Hibernation Fix Flop, Unexpected Xbox Permaban - TipRanks",
-      "link": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-falters-on-hibernation-fix-flop-unexpected-xbox-permaban"
-    },
-    {
-      "title": "Casio\u2019s Affordable Racing-Inspired Chronograph Gets a Sporty Reissue - Gear Patrol",
-      "link": "https://www.gearpatrol.com/watches/casio-standard-chronograph-efb730d-1av/"
-    },
-    {
-      "title": "Ubisoft Assassin's Creed Dev Fired Less Than Two Weeks After Criticizing Company's Plans To End Work From Home - Kotaku",
-      "link": "https://kotaku.com/ubisoft-montreal-lead-fired-david-michaud-cromp-work-from-home-linkedin-2000665081"
-    },
-    {
-      "title": "Xbox adds a ton of \"Stream Your Own Game\" titles to cloud - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-adds-a-ton-of-new-xbox-stream-your-own-game-titles-to-cloud-gaming-rimworld-blasphemous-divinity-original-sin-2-and-more"
-    },
-    {
-      "title": "Google Pixel expected to see \u2018strongest growth\u2019 in 2026, report says - 9to5Google",
-      "link": "http://9to5google.com/2026/02/02/google-pixel-expected-to-see-strongest-growth-in-2026-report-says/"
     }
   ],
   "sports_news": [
     {
-      "title": "Latest On Giannis Antetokounmpo - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/02/latest-on-giannis-antetokounmpo-3.html"
+      "title": "Clippers Were Reportedly \"Stunned\" By Harden Seeking New Team - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2026/02/clippers-were-reportedly-stunned-by-harden-seeking-new-team.html"
+    },
+    {
+      "title": "Niners legend Patrick Willis has blunt take on Bill Belichick\u2019s Hall of Fame snub - New York Post",
+      "link": "https://nypost.com/2026/02/02/sports/patrick-willis-shares-blunt-take-on-bill-belichicks-hall-of-fame-snub/"
+    },
+    {
+      "title": "Couples at the Westminster show bond over dogs, and each other - AP News",
+      "link": "https://apnews.com/article/westminster-dog-show-150th-couples-12bb9efd3292859879d7ebae4bc1ffaf"
+    },
+    {
+      "title": "It's all on the line for these 6 teams in 2026, 1 from each division - MLB.com",
+      "link": "https://www.mlb.com/news/mlb-teams-with-the-most-at-stake-in-2026"
+    },
+    {
+      "title": "Klint Kubiak says he\u2019s just focused on the Super Bowl, won\u2019t discuss coaching Raiders - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-says-hes-just-focused-on-the-super-bowl-wont-discuss-coaching-raiders"
+    },
+    {
+      "title": "Joey Aguilar has Tennessee football roster spot in 2026, lawsuit states - On3",
+      "link": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-vols-football-joey-aguilar-lawsuit-ncaa-roster-spot-nil-money/"
     },
     {
       "title": "Live: Super Bowl Opening Night live updates, news: Can Seahawks liven up event? - The Seattle Times",
@@ -106,8 +126,8 @@
       "link": "https://russianmachineneverbreaks.com/2026/02/02/another-huge-intra-division-victory-on-home-ice-capitals-beat-islanders-4-1/"
     },
     {
-      "title": "Report: Tennessee QB Joey Aguilar files eligibility lawsuit against NCAA - On3",
-      "link": "https://www.on3.com/college/tennessee-volunteers/news/report-tennessee-qb-joey-aguilar-files-eligibility-lawsuit-against-ncaa/"
+      "title": "Patriots' Drake Maye says he's 'turned a corner' with shoulder issue; no concern for Super Bowl LX - NFL.com",
+      "link": "https://www.nfl.com/news/patriots-drake-maye-says-he-turned-a-corner-with-shoulder-issue-no-concern-for-super-bowl-lx"
     },
     {
       "title": "NFL's Roger Goodell Addresses Bad Bunny's Political Statements At Grammys & Concerns Over ICE Presence At Super Bowl LX - Deadline",
@@ -118,12 +138,12 @@
       "link": "https://andscape.com/features/roger-goodells-best-efforts-cant-overcome-nfl-owners-disinterest-in-black-head-coaches/"
     },
     {
-      "title": "Mike Vrabel Clarifies Drake Maye\u2019s Injury Status Before Super Bowl - NESN",
-      "link": "https://nesn.com/2026/02/mike-vrabel-clarifies-drake-mayes-injury-status-before-super-bowl/"
+      "title": "2026 WM Phoenix Open odds, picks: Proven golf model reveals projected leaderboard, surprising predictions - SportsLine",
+      "link": "https://www.sportsline.com/insiders/2026-wm-phoenix-open-odds-picks-proven-golf-model-reveals-projected-leaderboard-surprising-predictions/"
     },
     {
-      "title": "Transfer deadline day: Record low deals completed on quiet day - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c30154v3r0zo"
+      "title": "Kansas vs Texas Tech: Predictions, Odds, Picks & How to Watch - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/kansas-jayhawks-vs-texas-tech-red-raiders-predictions-picks-odds-college-basketball-monday-february-2"
     },
     {
       "title": "Avisail Garcia Announces Retirement - MLB Trade Rumors",
@@ -146,32 +166,12 @@
       "link": "https://www.actionnetwork.com/ncaab/syracuse-orange-vs-unc-tar-heels-predictions-picks-odds-college-basketball-monday-february-2"
     },
     {
-      "title": "Brandon Beane on reaction to Bills\u2019 coaching change: \u201cF\u2014- the outside\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-beane-on-reaction-to-bills-coaching-change-f-the-outside"
-    },
-    {
-      "title": "Six teams leave regional sports network Main Street to join MLB - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/47809528/sources-least-5-teams-leave-main-street-sports-join-mlb"
+      "title": "Timberwolves Looking for Outside Help to Land Giannis in Blockbuster Trade - Sports Illustrated",
+      "link": "https://www.si.com/nba/trade-deadline/timberwolves-outside-help-giannis-blockbuster-trade-01kgg451dkhs"
     },
     {
       "title": "Head Coach Sean Payton names Davis Webb as Offensive Coordinator and Logan Kilgore as Quarterbacks Coach - Denver Broncos",
       "link": "https://www.denverbroncos.com/news/head-coach-sean-payton-names-davis-webb-as-offensive-coordinator-and-logan-kilgore-as-quarterbacks-coach"
-    },
-    {
-      "title": "UIL realignment winners and losers: 11-6A remains the \u2018District of Doom\u2019 - Dallas News",
-      "link": "https://www.dallasnews.com/high-school-sports/football/2026/02/02/uil-realignment-winners-and-losers-11-6a-remains-the-district-of-doom/"
-    },
-    {
-      "title": "USC's Hall headlines girls' McDonald's All American rosters - ESPN",
-      "link": "https://www.espn.com/espn/story/_/id/47809036/usc-hall-headlines-girls-mcdonald-all-american-rosters"
-    },
-    {
-      "title": "Sounders FC Completes Transfer of Obed Vargas to La Liga Powerhouse Atl\u00e9tico Madrid - Seattle Sounders FC",
-      "link": "https://www.soundersfc.com/news/sounders-fc-completes-transfer-of-obed-vargas-to-la-liga-powerhouse-atletico-madrid"
-    },
-    {
-      "title": "Kyle Shanahan once arrested defending 49ers' new defensive coordinator - SFGATE",
-      "link": "https://www.sfgate.com/49ers/article/kyle-shanahan-raheem-morris-21329389.php"
     }
   ],
   "weather": {
