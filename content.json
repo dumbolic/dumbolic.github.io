@@ -1,9 +1,9 @@
 {
-  "quote": "Empty your mind, be formless, shapeless, like water. \u2013 Bruce Lee",
-  "fact": "400-quarter pounders can be made from 1 cow.",
-  "crypto": "BTC: $70,226 | ETH: $2,109.27",
+  "quote": "What most people need to learn in life is how to love people and use things instead of using people and loving things. \u2013 Unknown",
+  "fact": "Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.",
+  "crypto": "BTC: $69,745 | ETH: $2,069.06",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What\u2019s the difference between an African elephant and an Indian elephant? About 5000 miles.",
+  "joke": "What is a vampire's favorite fruit? A blood orange.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "I tried a Claude Code rival that's local, open source, and completely free - how it went - ZDNET",
+      "link": "https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose/"
+    },
+    {
+      "title": "4 Best Uses For Your Old Audio System - SlashGear",
+      "link": "https://www.slashgear.com/2094714/best-uses-for-old-audio-systems/"
+    },
+    {
+      "title": "New Final Fantasy Game Revealed (And It\u2019s Releasing Later This Year) - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/new-final-fantasy-game-revealed-and-its-releasing-later-this-year/"
+    },
     {
       "title": "These 11+ PS5, PS4 Games Are Coming Out This Week (9th-15th February) - Push Square",
       "link": "https://www.pushsquare.com/guides/these-11plus-ps5-ps4-games-are-coming-out-this-week-9th-15th-february"
@@ -20,8 +32,20 @@
       "link": "https://www.forbes.com/sites/ewanspence/2026/02/08/samsung-galaxy-s26-ultra-launch-date-release-date-galaxy-unpacked-new-galaxy-s26/"
     },
     {
+      "title": "YouTube Music starts putting lyrics behind a paywall - theverge.com",
+      "link": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall"
+    },
+    {
+      "title": "There's a simple way to watch Super Bowl 2026 FREE in *USA* - Tom's Guide",
+      "link": "https://www.tomsguide.com/entertainment/sports/theres-a-simple-way-to-watch-super-bowl-2026-for-free-in-usa"
+    },
+    {
       "title": "Linus Torvalds Confirms The Next Kernel Is Linux 7.0 - Phoronix",
       "link": "https://www.phoronix.com/news/Linux-7.0-Is-Next"
+    },
+    {
+      "title": "5 Essential Costco Gadgets Every Remote Worker Should Try - bgr.com",
+      "link": "https://www.bgr.com/2093003/essential-remote-work-gadgets/"
     },
     {
       "title": "Intel preparing Z990 and Z970 chipsets for Nova Lake-S desktop CPUs - VideoCardz.com",
@@ -36,8 +60,16 @@
       "link": "https://videocardz.com/newz/playstation-handheld-reportedly-with-24gb-memory-ps6-console-with-30gb"
     },
     {
+      "title": "Amazon Discounts Anker's Newest Prime Chargers - MacRumors",
+      "link": "https://www.macrumors.com/2026/02/08/amazon-ankers-prime-chargers/"
+    },
+    {
       "title": "14 Cool Tech Products That Solve Everyday Problems - SlashGear",
       "link": "https://www.slashgear.com/2090861/cool-tech-products-solve-everyday-problems/"
+    },
+    {
+      "title": "Horses dev disputes Epic Games Store exec's claim it \"loves\" their studio, saying: \"They have effectively ghosted us\" - Eurogamer",
+      "link": "https://www.eurogamer.net/horses-dev-disputes-epic-games-store-execs-claim-it-loves-their-studio-saying-they-have-effectively-ghosted-us"
     },
     {
       "title": "Xbox Game Pass Could See More Changes, New Report Claims - Insider Gaming",
@@ -56,98 +88,54 @@
       "link": "https://wccftech.com/intels-bspdn-on-18a-is-a-major-technical-win-that-may-also-be-holding-back-external-adoption/"
     },
     {
-      "title": "Fujifilm X-T6 Announcement Details, The GFX180 Monster, New Film Simulation Recipes and More - Top 10 January Articles - Fuji Rumors",
-      "link": "https://www.fujirumors.com/fujifilm-x-t6-announcement-details-the-gfx180-monster-new-film-simulation-recipes-and-more-top-10-january-articles/"
-    },
-    {
-      "title": "Shin Megami Tensei IV Gets Stunning Fan-Made HD Texture Pack with Redrawn UI, Portaits, and More - Noisy Pixel",
-      "link": "https://noisypixel.net/shin-megami-tensei-iv-hd-texture-pack-release/"
-    },
-    {
-      "title": "New Cyberpunk Game Is Available for Free for All Steam Users - ComicBook.com",
-      "link": "http://comicbook.com/gaming/news/new-cyberpunk-game-is-available-for-free-for-all-steam-users/"
-    },
-    {
-      "title": "New iPad and iPad Air models should be launching soon, but don\u2019t get too excited - 9to5Mac",
-      "link": "https://9to5mac.com/2026/02/08/apple-ipad-and-ipad-air-refresh-coming-soon-new-chips/"
-    },
-    {
-      "title": "'Overwatch' just hit its highest player base on Steam PC since launch \u2014 passing Battlefield 6 and Call of Duty - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/pc-gaming/overwatch-just-hit-its-highest-player-base-on-steam-pc-since-launch-passing-battlefield-6-and-call-of-duty"
-    },
-    {
-      "title": "GuliKit\u2019s tiny USB dongle lets you connect your PS5 controller to your Switch 2 - theverge.com",
-      "link": "https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on"
-    },
-    {
-      "title": "How I Built the Star Trek control panel of my dreams - theverge.com",
-      "link": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek"
-    },
-    {
-      "title": "AYANEO NEXT 2 with Ryzen AI Max+ \u201cStrix Halo\u201d costs up to $4,299, weighs 1.4kg, and may require airline approval forms - VideoCardz.com",
-      "link": "https://videocardz.com/newz/ayaneo-next-2-with-ryzen-ai-max-strix-halo-costs-up-to-4299-weighs-1-4kg-and-may-require-airline-approval-forms"
-    },
-    {
-      "title": "Retro Recap: All The Classic Gaming News From The Past Week (February 8th 2026) - Time Extension",
-      "link": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-february-8th-2026"
+      "title": "4 Handy Amazon Gadgets To Upgrade Your Garage - SlashGear",
+      "link": "https://www.slashgear.com/2094517/handy-amazon-gadgets-to-upgrade-garage/"
     }
   ],
   "sports_news": [
     {
-      "title": "Super Bowl score, live updates: Seahawks defense overwhelming Patriots' Drake Maye - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/super-bowl-2026-live-updates-seahawks-patriots-score-results/live/"
+      "title": "Here\u2019s when Seahawks will host Super Bowl LX parade - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-super-bowl-parade-how-seattle-celebrated-the-2014-victory/"
     },
     {
-      "title": "Hall of Fame voter Tony Dungy declines to disclose whether he voted for Bill Belichick - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-voter-tony-dungy-declines-to-disclose-whether-he-voted-for-bill-belichick"
+      "title": "Sam Darnold's Contract Incentives Revealed After Seahawks Win NFL Super Bowl 60 - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25393177-sam-darnolds-contract-incentives-revealed-after-seahawks-win-nfl-super-bowl-60"
     },
     {
-      "title": "Trump Calls U.S. Skier a \u2018Loser\u2019 as Politics Ripples Through Olympic Games - The Wall Street Journal",
-      "link": "https://www.wsj.com/sports/olympics/trump-attacks-u-s-olympic-skier-as-politics-ripples-through-winter-games-984cd91c"
+      "title": "Cadillac reveals two-sided 2026 F1 livery - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/"
     },
     {
-      "title": "A day of highs and lows for Team USA - Axios",
-      "link": "https://www.axios.com/2026/02/09/milan-olympics-lindsey-vonn-ilia-malinin"
+      "title": "Football fans are betting on the Gatorade shower color. What color was it? - Mashable",
+      "link": "https://mashable.com/article/super-bowl-gatorade-shower-color"
     },
     {
-      "title": "Gold and disaster as Breezy Johnson triumphs and Lindsey Vonn crashes - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/olympics/2026/02/08/breezy-johnson-gold-lindsey-vonn-crash/"
-    },
-    {
-      "title": "See the outrageous Super Bowl 2026 concession prices and crazy offerings - New York Post",
-      "link": "https://nypost.com/2026/02/08/sports/super-bowl-2026-outrageous-concession-prices-and-crazy-offerings/"
-    },
-    {
-      "title": "U.S. medal hopes in figure skating came down to one skater. Ilia Malinin was golden. - NBC News",
-      "link": "https://www.nbcnews.com/sports/olympics/ilia-malinin-team-usa-figure-skating-gold-rcna258045"
-    },
-    {
-      "title": "Report: James Pearce, who is facing five felonies, has posted bail - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-james-pearce-who-is-facing-five-felonies-has-posted-bail"
-    },
-    {
-      "title": "Patriots\u2019 Mack Hollins arrives at Super Bowl 2026 in prison jumpsuit and shackles in wild look - New York Post",
-      "link": "https://nypost.com/2026/02/08/sports/patriots-mack-hollins-arrives-at-super-bowl-2026-in-prison-jumpsuit/"
+      "title": "Seahawks RB Kenneth Walker III named Super Bowl LX MVP - NFL.com",
+      "link": "https://www.nfl.com/news/seahawks-rb-kenneth-walker-iii-named-super-bowl-lx-mvp"
     },
     {
       "title": "UNC Fined for Violation of ACC Event Security Policy - 247Sports",
       "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis-duke-blue-devils-71-68-court-storming-fans-acc-fine-273657702/"
     },
     {
-      "title": "Inactives Analysis: Patriots LBs Robert Spillane and Harold Landry III Both Active for Super Bowl LX vs. the Seahawks at Levi's Stadium - New England Patriots",
-      "link": "https://www.patriots.com/news/inactives-analysis-patriots-lbs-robert-spillane-and-harold-landry-iii-both-active-for-super-bowl-lx-vs-the-seahawks-at-levi-s-stadium"
+      "title": "Gold and disaster as Breezy Johnson triumphs and Lindsey Vonn crashes - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/olympics/2026/02/08/breezy-johnson-gold-lindsey-vonn-crash/"
     },
     {
-      "title": "Trump\u2019s Super Bowl Pre-Game Interview: POTUS Declines To Predict Winner, Tells NBC\u2019s Tom Llamas He Owns Economy And Is \u201cVery Proud Of It\u201d - Deadline",
-      "link": "http://deadline.com/2026/02/trump-super-bowl-interview-nbc-news-1236712457/"
+      "title": "A day of highs and lows for Team USA - Axios",
+      "link": "https://www.axios.com/2026/02/09/milan-olympics-lindsey-vonn-ilia-malinin"
     },
     {
-      "title": "'Killjoy' - did VAR get late drama in Liverpool v Man City right? - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c5yjkgyxk2mo"
+      "title": "Super Bowl 2026: Seahawks beat Patriots to claim second franchise title - AP News",
+      "link": "https://apnews.com/live/super-bowl-60-2026-updates"
     },
     {
-      "title": "Iowa State Cancels Remainder Of Gymnastics Season - Iowa State Athletics",
-      "link": "https://cyclones.com/news/2026/2/8/iowa-state-cancels-remainder-of-gymnastics-season"
+      "title": "Trump calls Olympic skier \u2018real loser\u2019 after athlete expresses \u2018mixed emotions\u2019 representing the US - cnn.com",
+      "link": "https://www.cnn.com/2026/02/08/politics/hunter-hess-trump-olympics-skier"
+    },
+    {
+      "title": "Patriots' Mack Hollins shows up in shackles, honors Mike Vrabel with separate Super Bowl outfit - Boston.com",
+      "link": "https://boston.com/sports/new-england-patriots/2026/02/08/patriots-super-bowl-lx-mack-hollins-prison-jumpsuit-mike-vrabel-pregame-outfit-nfl-football/"
     }
   ],
   "weather": {
