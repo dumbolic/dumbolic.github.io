@@ -1,9 +1,9 @@
 {
-  "quote": "Associate with people who are likely to improve you.   \u2013 Seneca",
-  "fact": "Tasmania, Australia has the cleanest air in the inhabited world.",
-  "crypto": "BTC: $67,487 | ETH: $1,959.09",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I asked a frenchman if he played video games. He said \"Wii\"",
+  "quote": "The quality of your life is the quality of your relationships. \u2013 Tony Robbins",
+  "fact": "Lawn darts are illegal in Canada.",
+  "crypto": "BTC: $67,094 | ETH: $1,962.25",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Have you heard of the band 1023MB? They haven't got a gig yet.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Samsung confirms Galaxy S26 launch on February 25, up to $900 off with reservation - 9to5Google",
+      "link": "http://9to5google.com/2026/02/10/samsung-galaxy-s26-launch-date-confirmed/"
+    },
+    {
+      "title": "Google rolling out Android 16 QPR3 Beta 2.1 patch - 9to5Google",
+      "link": "http://9to5google.com/2026/02/10/android-16-qpr3-beta-2-1-pixel/"
+    },
+    {
       "title": "The Trump Phone Looks as Bad as It Sounds - Gizmodo",
       "link": "https://gizmodo.com/the-trump-phone-looks-as-bad-as-it-sounds-2000720184"
     },
     {
-      "title": "Yakuza Kiwami 3 Will Be The Last Kiwami Game, Says RGG Studio Head - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/02/yakuza-kiwami-3-will-be-the-last-kiwami-game-says-rgg-studio-head"
+      "title": "Windows 11 KB5077181, KB5075941 February 2026 Patch Tuesday updates out - Neowin",
+      "link": "https://www.neowin.net/news/windows-11-kb5077181-kb5075941-february-2026-patch-tuesday-updates-out/"
     },
     {
-      "title": "Ayaneo\u2019s new Windows handheld will cost up to $4,299 with maxed out specs - theverge.com",
-      "link": "https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder"
+      "title": "Helldivers 2's Invasion Of A Super-Tough, Socialist-Loving World Isn't Going Well - GameSpot",
+      "link": "https://www.gamespot.com/articles/helldivers-2s-invasion-of-a-super-tough-socialist-loving-world-isnt-going-well/1100-6538079/"
     },
     {
       "title": "iPhone 18 Pro: Three new design updates are coming this year - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVJoYUxmMGtfLURCZVZ0VEtFanpTN2ZwbTFvOWg5UDR4Zkh5ejYySVhPd0xQMmZ4Y0pMa0l1MVotZkhxeVdpaWJaNGQ3dEpldFdQN0JPX1ZYY2ZvTTlRblpMeTdiRWJLTVdScDdiVmpDdnM3blFlek1kYXgxd0lPaFZYbFFiWkxWdVhYQzZRa25vNnBjeEE?oc=5"
+      "link": "https://9to5mac.com/2026/02/10/iphone-18-pro-three-new-design-updates-are-coming-this-year/"
     },
     {
       "title": "Mewgenics From Binding Of Isaac's Creator Is Terrifyingly Massive - Kotaku",
       "link": "https://kotaku.com/mewgenics-completionist-secrets-hours-binding-isaac-roguelike-2000667343"
+    },
+    {
+      "title": "No More Yakuza Kiwami Games After Kiwami 3 Story Changes, New Series Could Happen - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/02/no-more-yakuza-kiwami-games-after-kiwami-3-story-changes-new-series-could-happen"
     },
     {
       "title": "Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws - BleepingComputer",
@@ -40,16 +52,20 @@
       "link": "https://www.minecraft.net/en-us/article/minecraft-26-0-bedrock-changelog"
     },
     {
+      "title": "Blizzard Confirms Overwatch Just Had Its Best Weekend Player Count in a Year Across All Platforms, as Season 1 Officially Goes Live - IGN",
+      "link": "https://www.ign.com/articles/blizzard-confirms-overwatch-just-had-its-best-weekend-player-count-in-a-year-across-all-platforms-as-season-1-officially-goes-live"
+    },
+    {
       "title": "Fitbit Coach preview expanding internationally, coming to iOS - 9to5Google",
       "link": "http://9to5google.com/2026/02/10/fitbit-coach-international-preview-ios/"
     },
     {
-      "title": "Microsoft is keeping Secure Boot alive with Windows updates - The Verge",
-      "link": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal"
-    },
-    {
       "title": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks - GameSpot",
       "link": "https://www.gamespot.com/articles/hearthstone-cataclysm-card-reveal-ultraxion-looks-like-a-must-have-for-deathwing-decks/1100-6538040/"
+    },
+    {
+      "title": "Microsoft is keeping Secure Boot alive with Windows updates - The Verge",
+      "link": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal"
     },
     {
       "title": "Final Fantasy 7 Rebirth on Switch 2: Ambitious Port, Smart Cuts - Digital Foundry",
@@ -68,46 +84,62 @@
       "link": "https://www.gematsu.com/2026/02/oceanhorn-3-legend-of-the-shadow-sea-announced-for-apple-arcade"
     },
     {
-      "title": "\u2018Motorola MA2\u2019 wireless Android Auto adapter leaks with two big updates [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/02/10/motorola-ma2-wireless-android-auto-adapter-leak/"
-    },
-    {
-      "title": "Galaxy S26 fully leaked specs temper big expectations for battery, display - 9to5Google",
-      "link": "http://9to5google.com/2026/02/10/galaxy-s26-full-specs-leak/"
+      "title": "\u2018If It Isn\u2019t Fun, It Goes\u2019: Shigeru Miyamoto\u2019s Focus on Play - Vulture",
+      "link": "http://www.vulture.com/article/shigeru-miyamoto-game-design-super-nintendo-book-excerpt.html"
     },
     {
       "title": "Apple Expected to Launch These 10+ Products Over the Coming Months - MacRumors",
       "link": "https://www.macrumors.com/2026/02/10/new-apple-products-in-coming-months/"
-    },
-    {
-      "title": "\u2018ARC Raiders\u2019 Finally Goes Full PvE In New 1.15.0 Patch - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/02/10/arc-raiders-finally-goes-full-pve-in-new-1150-patch/"
-    },
-    {
-      "title": "Mario Tennis Fever reviews roundup - Nintendo Everything",
-      "link": "https://nintendoeverything.com/mario-tennis-fever-reviews-roundup/"
-    },
-    {
-      "title": "Everything In Helldivers 2\u2019s New Cyberstan Cyborg \u2018Machinery Of Oppression\u2019 Event - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/02/10/everything-in-helldivers-2s-new-cyberstan-cyborg-machinery-of-oppression-event/"
     }
   ],
   "sports_news": [
     {
-      "title": "What\u2019s up with Mikaela Shiffrin? A startlingly poor slalom costs her team a medal. - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/olympics/2026/02/10/mikaela-shiffrin-olympics-struggles/"
+      "title": "Seattle Public Schools to remain open during parade, with no excused absences - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seattle-public-schools-to-remain-open-during-parade-with-no-excused-absences"
     },
     {
-      "title": "US skating star Ilia Malinin leads after near-perfect short program at the Milan Cortina Olympics - AP News",
-      "link": "https://apnews.com/article/milan-cortina-olympics-figure-skating-5bf0c9e7b372b8226e0be625a7904f12"
+      "title": "TV Ratings: Super Bowl LX Falls Just Shy of All-Time Record - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/tv/tv-news/super-bowl-lx-tv-ratings-nbc-bad-bunny-1236500505/"
     },
     {
-      "title": "Bilka nets two, U.S. women's hockey routs Canada at Olympics - ESPN",
-      "link": "https://www.espn.com/olympics/story/_/id/47890381/bilka-nets-two-us-women-hockey-crushes-canada-olympics"
+      "title": "Kiner-Falefa: Followed Jays' policy with short lead in Game 7 - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/47891776/kiner-falefa-followed-jays-policy-short-lead-game-7"
     },
     {
-      "title": "Tiger Woods\u2019 son Charlie makes his college golf decision - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTlzNEFpRVFBTk5nY3NqQk5Yc2hSLWRxOGdKdEFDVlNBYUhmMFJIemhUYXRwOTRGTTduNFZhSnVkc19vV0VLQVZtYUs4VTNuVVY1RGRpY2gyT2ZrMDNLRTBJS25QenlmTE0weUk5U2k1VkRZLTByMkRZeWx6WkFaM1FLTGY5bGQ2ZWM4ejlFRGNTWFlCM19uTA?oc=5"
+      "title": "France\u2019s extremely talented and extremely controversial ice dancers, explained - vox.com",
+      "link": "https://www.vox.com/culture/478779/fournier-beaudry-cizeron-olympics-2026-ice-dance-controversy-rape-abuse"
+    },
+    {
+      "title": "Winter Olympics recap: Shiffrin out of the medals again, Klaebo wins another gold - AP News",
+      "link": "https://apnews.com/article/winter-olympics-shiffrin-klaebo-fontana-botn-d284237c724fdfba2ebc0d7f34058fff"
+    },
+    {
+      "title": "Charlie Woods verbally commits to ACC powerhouse - Golf Channel",
+      "link": "https://www.golfchannel.com/ncaa/news/charlie-woods-verbally-commits-to-acc-powerhouse"
+    },
+    {
+      "title": "The other AL West third baseman Brewers should be targeting after Caleb Durbin trade - Reviewing the Brew",
+      "link": "https://reviewingthebrew.com/the-other-al-west-third-baseman-brewers-should-be-targeting-after-caleb-durbin-trade-01kh4q53hpts"
+    },
+    {
+      "title": "2026 Winter Olympics: Ilia Malinin, Minion and Milan's most emotional moment in men's figure skating - BBC",
+      "link": "https://www.bbc.com/sport/articles/c5yk9k1x715o"
+    },
+    {
+      "title": "Tottenham 1-2 Newcastle: Spurs sink to new depths in home loss to Toon - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-match-reports/68970/tottenham-1-2-newcastle-spurs-sink-to-new-depths-in-home-loss-to-toon"
+    },
+    {
+      "title": "Tatum Takes Next Step in Rehab, Practices with Maine Celtics - NBA",
+      "link": "https://celtics.com/news/sidebar-prac-20260210-tatum-takes-next-step-in-rehab-practices-with-maine-celtics"
+    },
+    {
+      "title": "Spring Training Miscellany: Cabrera, Amaya, Bregman, Counsell, More - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/02/10/spring-training-miscellany-cabrera-amaya-bregman-counsell-more/"
+    },
+    {
+      "title": "Team USA women's hockey hands Canada first Olympic shutout ever - NBC Olympics",
+      "link": "https://www.nbcolympics.com/news/team-usa-womens-hockey-hands-canada-first-olympic-shutout-ever"
     },
     {
       "title": "Olympic photo highlights from Day 4 of the Milan Cortina Winter Games - AP News",
@@ -118,60 +150,20 @@
       "link": "https://www.npr.org/2026/02/10/nx-s1-5709001/chloe-kim-olympics-halfpipe-snowboard"
     },
     {
-      "title": "Check out these somewhat uncomfortable pics of UFC champ Tom Aspinall getting double eye surgery - MMA Mania",
-      "link": "https://www.mmamania.com/ufc-news/421518/uncomfortable-pics-ufc-champ-tom-aspinall-double-eye-surgery"
+      "title": "Tom Aspinall undergoes surgery on both eyes, doctors working to get his \u2018vision back to fighting fitness\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/471317/tom-aspinall-undergoes-surgery-on-both-eyes-doctors-working-to-get-his-vision-back-to-fighting-fitness"
     },
     {
       "title": "How Sam Darnold Built an Unwavering Team Identity in Seattle - Sports Illustrated",
       "link": "https://www.si.com/nfl/how-sam-darnold-built-unwavering-team-identity-seattle-super-bowl"
     },
     {
-      "title": "Juan Soto changing positions in Mets surprise - New York Post",
-      "link": "https://nypost.com/2026/02/10/sports/juan-soto-changing-positions-in-mets-surprise/"
+      "title": "Making Sense of the Trail Blazers\u2019 Moda Center Mess - Blazer's Edge",
+      "link": "https://www.blazersedge.com/trail-blazers-analysis/109032/portland-trail-blazers-moda-center-arena-fight-tom-dundon-oregon-legislature-bill-funding-taxes"
     },
     {
-      "title": "What to know about travel, transit changes for the Seahawks Super Bowl parade - king5.com",
-      "link": "https://www.king5.com/article/traffic/traffic-news/travel-transit-changes-seattle-seahawks-super-bowl-ceremony-parade/281-95fa185f-69e1-4c34-84c8-debf479cb4b1"
-    },
-    {
-      "title": "Naumov makes Olympic debut after losing parents in tragic crash - ESPN",
-      "link": "https://www.espn.com/olympics/story/_/id/47889038/naumov-makes-olympic-debut-losing-parents-tragic-crash"
-    },
-    {
-      "title": "Norwegian biathlete admits to cheating on his girlfriend in post-win interview - NBC News",
-      "link": "https://www.nbcnews.com/sports/olympics/winter-olympics-2026-norwegian-athlete-admits-cheating-girlfriend-rcna258389"
-    },
-    {
-      "title": "Winter Olympics 2026: Team USA's Cory Thiesse, Korey Dropkin take silver in dramatic curling final - Yahoo Sports",
-      "link": "https://sports.yahoo.com/olympics/article/winter-olympics-2026-team-usas-cory-thiesse-korey-dropkin-take-silver-in-dramatic-curling-final-184947931.html"
-    },
-    {
-      "title": "Officials launch investigation after Bay Area Olympian breaks medal - SFGATE",
-      "link": "https://www.sfgate.com/sports/article/alysa-liu-olympic-medals-21345378.php"
-    },
-    {
-      "title": "A complete guide to watching MLB.TV in 2026 - mlb.com",
-      "link": "https://www.mlb.com/news/how-to-watch-mlb-games"
-    },
-    {
-      "title": "Tigers Sign Justin Verlander - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/02/tigers-sign-justin-verlander.html"
-    },
-    {
-      "title": "Reporter's notebook: A Dutch speedskater and a U.S. influencer walk into a bar \u2026 - NPR",
-      "link": "https://www.npr.org/2026/02/10/nx-s1-5708694/2026-winter-olympics-skating-jake-paul"
-    },
-    {
-      "title": "Kim Caldwell Is Running Out Of Hard Truths To Deliver - Defector",
-      "link": "https://defector.com/kim-caldwell-is-running-out-of-hard-truths-to-deliver"
-    },
-    {
-      "title": "Patrick Kinahan: For some reason, Jazz method of tanking drawing widespread ire - KSL.com",
-      "link": "https://www.ksl.com/article/51446226/patrick-kinahan-for-some-reason-jazz-method-of-tanking-drawing-widespread-ire"
-    },
-    {
-      "title": "How to watch Klint Kubiak's introductory press conference - Raiders.com",
-      "link": "https://www.raiders.com/news/klint-kubiak-how-to-watch-introductory-press-conference-youtube"
+      "title": "Klint Kubiak: Maxx Crosby was first in the building this morning, that fired me up - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-maxx-crosby-was-first-in-the-building-this-morning-that-fired-me-up"
     }
   ],
   "weather": {
