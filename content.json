@@ -1,9 +1,9 @@
 {
-  "quote": "Your worth consists in what you are and not in what you have. \u2013 Thomas Edison",
-  "fact": "The king of hearts is the only king without a mustache.",
-  "crypto": "BTC: $65,478 | ETH: $1,919.53",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Waking up this morning was an eye-opening experience.",
+  "quote": "Success is like reaching an important birthday and finding you're exactly the same. \u2013 Audrey Hepburn",
+  "fact": "13% of Americans actually believe that some parts of the moon are made of cheese.",
+  "crypto": "BTC: $65,589 | ETH: $1,919.37",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple releases iOS 26.3 for iPhone, here\u2019s what\u2019s new - 9to5Mac",
+      "link": "https://9to5mac.com/2026/02/11/apple-releases-ios-26-3-for-iphone-heres-whats-new/"
+    },
+    {
+      "title": "[Update: Delayed] Google launches Android 17 Beta for Pixel - 9to5Google",
+      "link": "http://9to5google.com/2026/02/11/android-17-beta-1-pixel/"
+    },
+    {
+      "title": "Celebrating the 2025 Xbox Excellence Awards - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2026/02/11/xbox-excellence-awards-2025/"
+    },
+    {
       "title": "Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Boldest Vision Yet - Nintendo Life",
       "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal"
     },
     {
-      "title": "Preview: Despite Low Expectations, Pok\u00e9mon Pokopia Had Me Grinning From Ear To Ear - Nintendo Life",
-      "link": "https://www.nintendolife.com/previews/despite-low-expectations-pokemon-pokopia-had-me-grinning-from-ear-to-ear"
-    },
-    {
-      "title": "Notepad's new Markdown powers served with a side of remote code execution - theregister.com",
-      "link": "https://www.theregister.com/2026/02/11/notepad_rce_flaw/"
+      "title": "No Man's Sky kicks off its tenth anniversary year with customisable trucks, hauling, and... gravity guns! - Eurogamer",
+      "link": "https://www.eurogamer.net/no-mans-sky-customisable-trucks-hauling-and-gravity-guns"
     },
     {
       "title": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs - Eurogamer",
@@ -32,8 +40,16 @@
       "link": "https://www.trueachievements.com/news/directive-8020-release-date"
     },
     {
+      "title": "PlayStation Plus Quietly Drops Free New-Gen Upgrade For GOTY Winner - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-new-gen-upgrade-goty-winner-253985-20260211"
+    },
+    {
       "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
       "link": "https://www.eurogamer.net/overwatch-expansion-brings-players-surging-back"
+    },
+    {
+      "title": "Qualcomm\u2019s Most Powerful Snapdragon 8 Elite Gen 6 Pro May Get Skipped By Xiaomi Due To Its Expensive Price, A Pitfall Of Switching To TSMC\u2019s 2nm Process - Wccftech",
+      "link": "https://wccftech.com/xiaomi-will-not-use-snapdragon-8-elite-gen-6-pro-in-its-flagships-due-to-high-price/"
     },
     {
       "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days - The Hacker News",
@@ -60,39 +76,51 @@
       "link": "https://www.washingtonpost.com/advice/2026/02/11/asking-eric-alexa-listening-nervous/"
     },
     {
-      "title": "First Android 17 Beta arrives soon for Pixel phones - Android Police",
-      "link": "https://www.androidpolice.com/first-android-17-beta-arrives-soon-for-pixel-phones/"
+      "title": "Microsoft releases Windows 11 26H1, but it's not for existing PCs. Windows 11 26H2 is coming for all PCs - Windows Latest",
+      "link": "https://www.windowslatest.com/2026/02/11/microsoft-releases-windows-11-26h1-but-its-not-for-existing-pcs-windows-11-26h2-is-coming-for-all-pcs/"
     },
     {
       "title": "2XKO charts high on PlayStation's top download list for the game's launch - EventHubs",
       "link": "https://www.eventhubs.com/news/2026/feb/10/2xko-playstation-chart-ranks/"
     },
     {
-      "title": "Tim Cook promises Apple will celebrate its upcoming 50th anniversary - 9to5Mac",
-      "link": "https://9to5mac.com/2026/02/10/tim-cook-promises-apple-will-celebrate-its-upcoming-50th-anniversary/"
-    },
-    {
       "title": "Google Chrome 145 Released With JPEG-XL Image Support - Phoronix",
       "link": "https://www.phoronix.com/news/Chrome-145-Released"
-    },
-    {
-      "title": "ChatGPT\u2019s deep research tool adds a built-in document viewer so you can read its reports - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer"
-    },
-    {
-      "title": "Android 16 gets a fresh new update that's now rolling out to Pixel devices - Android Police",
-      "link": "https://www.androidpolice.com/android-16-qpr3-beta-21-rolls-out-to-pixel-devices/"
-    },
-    {
-      "title": "Fitbit\u2019s AI health coach is now available on your iPhone - The Verge",
-      "link": "https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios"
-    },
-    {
-      "title": "A forgotten battery design from Thomas Edison\u2014how scientists helped reimagine it - Tech Xplore",
-      "link": "https://techxplore.com/news/2026-02-forgotten-battery-thomas-edison-scientists.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "Johannes Kl\u00e6bo Ran Everybody Off The Course - Defector",
+      "link": "https://defector.com/johannes-klaebo-ran-everybody-off-the-course"
+    },
+    {
+      "title": "Lindsey Vonn shares gruesome photo, injury update after third surgery - Yahoo Sports",
+      "link": "https://www.usatoday.com/story/sports/olympics/2026/02/11/lindsey-vonn-injury-update-today/88612882007/"
+    },
+    {
+      "title": "NBA levies suspensions from Pistons-Hornets game - NBA",
+      "link": "https://www.nba.com/news/nba-suspensions-pistons-hornets-game-altercation"
+    },
+    {
+      "title": "Klint Kubiak\u2019s intent to call Tom Brady \u201ca lot\u201d highlights his conflict of interest - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiaks-intent-to-call-tom-brady-a-lot-highlights-his-conflict-of-interest"
+    },
+    {
+      "title": "The Tigers Need More Than Nostalgia From Justin Verlander - Defector",
+      "link": "https://defector.com/the-tigers-need-more-than-nostalgia-from-justin-verlander"
+    },
+    {
+      "title": "F1 2026 Bahrain pre-season test: Lando Norris edges Max Verstappen on day one - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/f1-bahrain-2026-pre-season-test-norris-edges-verstappen-on-day-one/10796786/"
+    },
+    {
+      "title": "Rickea Jackson files paperwork indicating willingness to testify against James Pearce Jr. - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rickea-jackson-files-paperwork-indicating-willingness-to-testify-against-james-pearce-jr"
+    },
+    {
+      "title": "IOC threatens to ban Ukrainian Olympian over helmet he refuses to take off - New York Post",
+      "link": "https://nypost.com/2026/02/11/sports/ioc-threatens-to-ban-olympian-over-helmet-he-refuses-to-take-off/"
+    },
     {
       "title": "INTRODUCING THE EVERGREEN STATE KIT - Seattle Sounders FC",
       "link": "https://www.soundersfc.com/evergreen-state-kit/"
@@ -106,12 +134,12 @@
       "link": "https://www.mlbtraderumors.com/2026/02/orioles-jackson-holliday-hamate-surgery-injured-list.html"
     },
     {
-      "title": "Olympic officials figured out why medals keep breaking after investigation - New York Post",
-      "link": "https://nypost.com/2026/02/11/sports/olympic-officials-figured-out-why-medals-keep-breaking-after-investigation/"
+      "title": "Bad Bunny Halftime Saw 7% Dip From Super Bowl Peak - Front Office Sports",
+      "link": "http://frontofficesports.com/bad-bunny-halftime-viewership-fell-7-from-super-bowl-peak/"
     },
     {
-      "title": "Daniel Cormier argues Jon Jones \u2018doesn\u2019t have anything left\u2019 after revealing severe injuries: \u2018It\u2019s a sad thing\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/471354/daniel-cormier-argues-jon-jones-doesnt-have-anything-left-after-revealing-severe-injuries-its-a-sad-thing"
+      "title": "An abuse investigation. A new French ice dance team. And a gold medal up for grabs - USA Today",
+      "link": "https://www.usatoday.com/story/sports/olympics/2026/02/11/french-ice-dance-team-laurence-fournier-beaudry-guillaume-cizeron-ex-partners-sexual-abuse-olympics/88593894007/"
     },
     {
       "title": "Public Statement: UEFA, European Football Clubs and Real Madrid CF reach agreement for the good of European club football - realmadrid.com",
@@ -122,6 +150,10 @@
       "link": "https://www.nbcsports.com/mlb/news/mlb-offseason-winners-and-losers-dodgers-keep-loading-up-as-blue-jays-stay-aggressive"
     },
     {
+      "title": "Norwegian Winter Olympics Star Fails To Earn Forgiveness After Admitting To Cheating On His Ex-Girlfriend In Tearful TV Interview - Deadline",
+      "link": "http://deadline.com/2026/02/winter-olympics-sturla-holm-laegreid-ex-rejects-apology-1236715590/"
+    },
+    {
       "title": "Help us answer NFL fans\u2019 Michigan questions ahead of the NFL Draft - Maize n Brew",
       "link": "https://www.maizenbrew.com/nfl-draft-michigan-prospects/105910/michigan-2026-nfl-draft-prospects-wolverines-fans-experts-answer-questions-derrick-moore-jaishawn-barham"
     },
@@ -130,44 +162,12 @@
       "link": "https://www.cnn.com/2026/02/11/sport/nhl-returns-winter-olympics"
     },
     {
+      "title": "Eight Lessons We Learned During the 2025 NFL Season: Defense Reigns Supreme - Sports Illustrated",
+      "link": "https://www.si.com/nfl/eight-lessons-we-learned-during-2025-nfl-season-defense-reigns-supreme"
+    },
+    {
       "title": "Christian Gonzalez on possible contract extension: I don\u2019t want to be anywhere else - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-on-possible-contract-extension-i-dont-want-to-be-anywhere-else"
-    },
-    {
-      "title": "Official: Club confirm sacking of Thomas Frank - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/68995/official-club-confirm-sacking-of-thomas-frank"
-    },
-    {
-      "title": "Mike Macdonald: Seahawks fans made Super Bowl like a home game, Patriots used silent count - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-seahawks-fans-made-super-bowl-like-a-home-game-patriots-used-silent-count"
-    },
-    {
-      "title": "America's Gen Z curlers bring new ways to traditional sport - NPR",
-      "link": "https://www.npr.org/2026/02/11/nx-s1-5646507/americas-gen-z-curlers-bring-new-ways-to-traditional-sport"
-    },
-    {
-      "title": "Norris heads Verstappen and Leclerc on first day in Bahrain - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/norris-heads-verstappen-and-leclerc-on-first-day-of-bahrain-pre-season.5FnDOknJvBUZGbvrK8Znlq"
-    },
-    {
-      "title": "U.S. Olympians Rally After Trump Jab Fuels Free Speech Spat: 'Pretty Childish' - HuffPost",
-      "link": "https://www.huffpost.com/entry/donald-trump-winter-olympians-rally_n_698c2b59e4b04325c3fbcaf4"
-    },
-    {
-      "title": "Purdue sees huge lead escape, then escapes with key win at Nebraska - On3",
-      "link": "https://www.on3.com/teams/purdue-boilermakers/news/after-road-meltdown-purdue-survives-nebraska-in-overtime/"
-    },
-    {
-      "title": "Former UTEP Miner Tyrice Knight lifts Super Bowl trophy with Seahawks - KFOX",
-      "link": "https://kfoxtv.com/news/local/former-utep-miner-tyrice-knight-lifts-super-bowl-trophy-with-seahawks"
-    },
-    {
-      "title": "What Baylor coach Scott Drew said after losing to No. 22 BYU - Deseret News",
-      "link": "https://www.deseret.com/sports/2026/02/10/byu-basketball-defeats-baylor-scott-drew-postgame-comments/"
-    },
-    {
-      "title": "Video highlights: Team USA starts to rack up medals at 2026 Winter Olympics - KSBW",
-      "link": "https://www.ksbw.com/article/video-highlights-winter-olympics-tuesday/70299573"
     }
   ],
   "weather": {
