@@ -1,9 +1,9 @@
 {
-  "quote": "Do not think you will necessarily be aware of your own enlightenment. \u2013 Dogen",
-  "fact": "American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.",
-  "crypto": "BTC: $67,847 | ETH: $1,957.58",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What did one plate say to the other plate? Dinner is on me!",
+  "quote": "Either get busy living or get busy dying. \u2013 Stephen King",
+  "fact": "The strongest muscle in the human body is the tongue. (the heart is not a muscle)",
+  "crypto": "BTC: $67,851 | ETH: $1,964.39",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What's orange and sounds like a parrot? A Carrot.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,8 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "The Elder Scrolls 6 Will Return to Bethesda's 'Classic Style' After Detours With Starfield, Fallout 76, Says Todd Howard - IGN",
-      "link": "https://www.ign.com/articles/the-elder-scrolls-6-will-return-to-bethesdas-classic-style-after-detours-with-skyrim-fallout-76-says-todd-howard"
+      "title": "Highguard Dev Assures Fans a New Patch Is on the Way After Website Troubles Spark Fears of Game Shut Down - IGN",
+      "link": "https://www.ign.com/articles/highguard-dev-assures-fans-a-new-patch-is-on-the-way-after-website-troubles-spark-fears-of-game-shut-down"
     },
     {
       "title": "Missed Potential Or A Campy Classic? Switch 2 Exclusive 'Tokyo Scramble' Hasn't Been A Hit - Nintendo Life",
@@ -36,16 +36,16 @@
       "link": "https://www.gamesindustry.biz/uks-advertising-standard-authority-bans-call-of-duty-black-ops-7-commercial-for-trivializing-sexual-violence"
     },
     {
-      "title": "This is when Samsung is restocking the Galaxy Z TriFold in the US - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/this_is_when_samsung_is_restocking_the_galaxy_z_trifold_in_the_us-news-71619.php"
-    },
-    {
       "title": "Todd Howard Shuts Down \u2018Starfield 2.0\u2019 Claims and Promises More News \u2018Soonish\u2019 - Insider Gaming",
       "link": "https://insider-gaming.com/todd-howard-starfield-2-shut-down-and-promises-more-news/"
     },
     {
-      "title": "5 changes to know about in Apple\u2019s latest iOS, macOS, and iPadOS betas - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/"
+      "title": "Elder Scrolls 6 Is Powered By New Version Of Creation Engine - Kotaku",
+      "link": "https://kotaku.com/elder-scrolls-6-is-powered-by-new-version-of-creation-engine-starfield-classic-rpg-2000670744"
+    },
+    {
+      "title": "TFT patch 16.5 - Teamfight Tactics",
+      "link": "https://teamfighttactics.leagueoflegends.com/en-ph/news/game-updates/teamfight-tactics-patch-16-5/"
     },
     {
       "title": "Minecraft 26.1 Snapshot 9 - Minecraft",
@@ -54,6 +54,10 @@
     {
       "title": "Microsoft is bringing a built-in network speed test to Windows 11 - The Verge",
       "link": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview"
+    },
+    {
+      "title": "Pok\u00e9mon card store in NYC that was robbed forced to change its name by Nintendo - Nintendo Wire",
+      "link": "https://nintendowire.com/news/2026/02/18/pokemon-card-store-in-nyc-that-was-robbed-forced-to-change-its-name-by-nintendo/"
     },
     {
       "title": "Available for Xbox Insiders on PC: Postgame Recaps - Xbox Wire",
@@ -84,18 +88,26 @@
       "link": "https://nintendoeverything.com/dragon-ball-sparking-zero-nintendo-switch-2-and-switch-update-out-tomorrow-patch-notes/"
     },
     {
-      "title": "Minecraft Java is switching from OpenGL to Vulkan for the Vibrant Visuals update - GamingOnLinux",
-      "link": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/."
-    },
-    {
-      "title": "Google Debuts $499 Pixel 10a Just Ahead of the iPhone 17e Reveal - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-18/google-announces-499-pixel-10a-just-before-expected-iphone-17e-reveal"
+      "title": "Apple Music in iOS 26.4: Five new features coming to iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2026/02/18/apple-music-in-ios-26-4-five-new-features-coming-to-iphone/"
     }
   ],
   "sports_news": [
     {
+      "title": "UNC Awaiting Henri Veesaar's Return to Practice and Games - On3",
+      "link": "https://www.on3.com/teams/north-carolina-tar-heels/news/henri-veesaar-update-return-practice-games-unc/"
+    },
+    {
       "title": "Estate of Paul G. Allen Begins Sale Process for Seattle Seahawks - Seattle Seahawks",
       "link": "https://www.seahawks.com/news/estate-of-paul-g-allen-begins-sale-process-for-seattle-seahawks"
+    },
+    {
+      "title": "3 takeaways from BYU\u2019s loss at No. 4 Arizona - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/02/18/byu-basketball-loses-against-arizona-mckale-center-3-takeaways/"
+    },
+    {
+      "title": "Mikaela Shiffrin Didn\u2019t Just Win Gold. She Changed Her Entire Story. - Outside Magazine",
+      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/mikaela-shiffrin-2026-olympic-gold-legacy/#article"
     },
     {
       "title": "Bruce Meyer Elected MLBPA Executive Director - MLB Trade Rumors",
@@ -114,10 +126,6 @@
       "link": "https://www.bbc.com/sport/football/articles/czj1nm9jdy3o"
     },
     {
-      "title": "Son of Pawtucket rink shooting suspect tried to burn down a Black Pentecostal church in 2024 - The Boston Globe",
-      "link": "https://www.bostonglobe.com/2026/02/18/metro/pawtucket-shooting-suspect-son-church-fire/"
-    },
-    {
       "title": "With a win over Sweden, the U.S. men's hockey team will play for an Olympic medal - NPR",
       "link": "https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden"
     },
@@ -126,12 +134,12 @@
       "link": "https://www.dallascowboys.com/news/christian-parker-outlines-vision-for-cowboys-defense-in-2026-and-beyond"
     },
     {
-      "title": "Schedule set for semifinals of Olympic men\u2019s ice hockey tournament - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/02/18/olympic-mens-ice-hockey-tournament-semifinals-schedule/"
+      "title": "Simone Biles crashes interview with Olympics favorite Ilia Malinin to console him after shocking skating loss - Entertainment Weekly",
+      "link": "https://ew.com/simone-biles-crashes-interview-consoles-olympic-skater-ilia-malinin-after-loss-11909288"
     },
     {
-      "title": "Winter Olympics recap: Shiffrin takes slalom gold, Canada and US advance with OT wins in hockey - Associated Press News",
-      "link": "https://apnews.com/article/milan-cortina-winter-olympics-da916c274b64073a1c4320eb31647619"
+      "title": "Schedule set for semifinals of Olympic men\u2019s ice hockey tournament - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/02/18/olympic-mens-ice-hockey-tournament-semifinals-schedule/"
     },
     {
       "title": "Texas Tech star JT Toppin receives heartbreaking injury diagnosis - On3",
@@ -162,16 +170,8 @@
       "link": "https://www.nbcolympics.com/news/alysa-liu-competition-just-pure-enjoyment"
     },
     {
-      "title": "MLS, Fox schedule doubleheader between World Cup semifinals and Final - Awful Announcing",
-      "link": "https://awfulannouncing.com/mls/fox-schedule-doubleheader-between-world-cup-semifinals-final.html"
-    },
-    {
-      "title": "Amber Glenn\u2019s dreams were \u2018smashed to pieces\u2019 with just one mistake - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/olympics/2026/02/18/amber-glenn-olympics-figure-skating/"
-    },
-    {
-      "title": "Brian Daboll: Cam Ward can do a lot of things, \"big factor\" in taking Titans OC job - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-cam-ward-can-do-a-lot-of-things-big-factor-in-taking-titans-oc-job"
+      "title": "Lindsey Vonn Announces Devastating Personal News After Leaving Olympics - Yahoo Sports",
+      "link": "https://www.mensjournal.com/sports/lindsey-vonn-announces-devastating-personal-news-after-leaving-olympics"
     }
   ],
   "weather": {
