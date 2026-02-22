@@ -1,9 +1,9 @@
 {
-  "quote": "I never said it would be easy, I only said it would be worth it. \u2013 Mae West",
-  "fact": "Each of us generates about 3.5 pounds of rubbish a day, most of it paper.",
-  "crypto": "BTC: $67,978 | ETH: $1,971.05",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a fake noodle? An impasta.",
+  "quote": "When you judge others, you do not define them, you define yourself. \u2013 Earl Nightingale",
+  "fact": "In the last 4000 years no new animals have been domesticated.",
+  "crypto": "BTC: $67,904 | ETH: $1,972.3",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why do bears have hairy coats? Fur protection.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "New Microsoft Gaming, Xbox CEO: Asha Sharma on Great Games, AI Use - Variety",
-      "link": "https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/"
+      "title": "Google Weather for Android is finally saying goodbye - Android Police",
+      "link": "https://www.androidpolice.com/google-weather-app-for-android-on-its-way-out/"
     },
     {
-      "title": "The Google Weather Android \u2018app\u2019 is going away - 9to5Google",
-      "link": "http://9to5google.com/2026/02/20/google-weather-app-android-deprecation/"
+      "title": "Why There's Simply No Need For A Password Manager Anymore - bgr.com",
+      "link": "https://www.bgr.com/2102887/why-no-one-needs-password-managers-anymore/"
+    },
+    {
+      "title": "New Microsoft Gaming, Xbox CEO: Asha Sharma on Great Games, AI Use - Variety",
+      "link": "https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/"
     },
     {
       "title": "Fury over Discord\u2019s age checks explodes after shady Persona test in UK - Ars Technica",
       "link": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/"
     },
     {
-      "title": "The chart on this generator stock signals more gains ahead, says Carter Worth - CNBC",
-      "link": "https://www.cnbc.com/2026/02/20/the-chart-on-this-generator-stock-signals-more-gains-ahead-says-carter-worth.html"
+      "title": "Apple's Low-Cost Colorful MacBook: All the Rumors - MacRumors",
+      "link": "https://www.macrumors.com/2026/02/20/low-cost-macbook-latest-rumors/"
+    },
+    {
+      "title": "Xbox Drops 5 Limited-Time Free Games, Includes 2025 AAA Hit - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/xbox/xbox-5-limited-time-free-games-2025-aaa-675151-20260220"
     },
     {
       "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) - Gear Patrol",
       "link": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-february-week-3/"
+    },
+    {
+      "title": "GOTY-Winning PS4 RPG Finally Getting PS5 Sequel - PlayStation LifeStyle",
+      "link": "https://www.playstationlifestyle.net/2026/02/20/goty-winning-ps4-rpg-finally-getting-ps5-sequel/"
+    },
+    {
+      "title": "Keep Android Open - Hacker News",
+      "link": "https://news.ycombinator.com/item?id\\\\u003d47091419"
     },
     {
       "title": "Rayman: 30th Anniversary Edition is the \u201cfirst step\u201d in series\u2019 comeback, more news soon - Nintendo Everything",
@@ -40,16 +56,16 @@
       "link": "https://borderlands.2k.com/borderlands-4/news/bounty-pack-2/"
     },
     {
-      "title": "Ubisoft confirms a lot of new Far Cry and Assassin's Creed games are in development - Eurogamer",
-      "link": "https://www.eurogamer.net/ubisoft-confirms-a-lot-of-new-far-cry-and-assassins-creed-games-are-in-development"
-    },
-    {
-      "title": "Three Upcoming Apple Products Seemingly Spotted in macOS 26.3 Code - MacRumors",
-      "link": "https://www.macrumors.com/2026/02/20/macos-26-3-code-three-new-apple-products/"
+      "title": "Can a chatbot be a co-author? AI helps crack a long-stalled gluon amplitude proof - Phys.org",
+      "link": "https://phys.org/news/2026-02-chatbot-author-ai-stalled-gluon.html"
     },
     {
       "title": "CarPlay just got a big upgrade, and iOS 26.4 delivers even more - 9to5Mac",
       "link": "https://9to5mac.com/2026/02/20/carplay-just-got-a-big-upgrade-and-ios-26-4-delivers-even-more/"
+    },
+    {
+      "title": "Ubisoft Confirms Two Far Cry Games are in Development and 'Multiple' Assassin's Creed Titles - Insider Gaming",
+      "link": "https://insider-gaming.com/ubisoft-confirms-far-cry-and-assassins-creed/"
     },
     {
       "title": "Climate Physicists Face the Ghosts in Their Machines: Clouds - Quanta Magazine",
@@ -60,66 +76,78 @@
       "link": "https://gameinformer.com/2026/02/20/pokemon-firered-and-leafgreen-are-coming-to-switch-switch-2-digitally-next-week"
     },
     {
-      "title": "OpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape - The Information",
-      "link": "https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices"
-    },
-    {
-      "title": "Top 20 Best-Selling Games Of 2026 So Far In The US - GameSpot",
-      "link": "https://www.gamespot.com/gallery/top-20-best-selling-games-of-2026-so-far-in-the-us/2900-7514/"
+      "title": "What is this \"Windows 11 pure OS\" that ASUS is offering for some laptops? - Windows Central",
+      "link": "https://www.windowscentral.com/hardware/asus/asus-windows-11-pure-os-explanation"
     },
     {
       "title": "God Of War Creator Suggests Xbox Should Get Involved In Bluepoint Games Situation - Pure Xbox",
       "link": "https://www.purexbox.com/news/2026/02/god-of-war-creator-suggests-xbox-should-get-involved-in-bluepoint-games-situation"
     },
     {
-      "title": "Xbox staff reportedly test NPU-based \u201cHighlight Reels\u201d feature on ROG Xbox Ally X - VideoCardz.com",
-      "link": "https://videocardz.com/newz/xbox-staff-reportedly-test-npu-based-highlight-reels-feature-on-rog-xbox-ally-x"
-    },
-    {
-      "title": "Pahk ya Boston accent right here. These stories on the city\u2019s unique dialect will melt your heart. - The Boston Globe",
-      "link": "https://www.bostonglobe.com/2026/02/20/newsletters/starting-point/"
-    },
-    {
-      "title": "Koei Tecmo's rock hard samurai action game, Nioh 3, has set a new series record as it passes impressive sales milestone - Eurogamer",
-      "link": "https://www.eurogamer.net/nioh-3-million-sales-fastest-selling"
-    },
-    {
-      "title": "Acer and ASUS take their Germany websites offline, customers locked out of official downloads - VideoCardz.com",
-      "link": "https://videocardz.com/newz/acer-and-asus-take-their-germany-websites-offline-customers-locked-out-of-official-downloads"
-    },
-    {
-      "title": "Rivian Adds A Sport Mode To All R1 EVs On The Road - InsideEVs",
-      "link": "https://insideevs.com/news/787692/rivian-sport-mode-all-r1-evs-apple-watch-app/"
+      "title": "Netflix Will Soon Stop Working on Some Streaming Players & Smart TVs - | Cord Cutters News",
+      "link": "https://cordcuttersnews.com/netflix-will-soon-stop-working-on-some-streaming-players-smart-tvs/"
     }
   ],
   "sports_news": [
     {
-      "title": "Mayweather to unretire, resume boxing after Tyson exhibition - ESPN",
-      "link": "https://www.espn.com/boxing/story/_/id/47989767/mayweather-jr-unretire-resume-boxing-tyson-exhibition"
+      "title": "Unbeaten Floyd Mayweather says he will return to pro boxing 9 years after his retirement - Associated Press News",
+      "link": "https://apnews.com/article/floyd-mayweather-returns-316fa64416b69a4d446b124efd0d25c6"
+    },
+    {
+      "title": "US-Canada gold medal thriller set record of most-watched women\u2019s hockey game ever - New York Post",
+      "link": "https://nypost.com/2026/02/20/sports/us-canada-gold-medal-thriller-becomes-most-watched-womens-hockey-game/"
+    },
+    {
+      "title": "F1 predicted running order for 2026: Who is on top of the new cars? - ESPN",
+      "link": "https://www.espn.com/racing/f1/story/_/id/47988020/f1-predicted-running-order-2026-top-new-cars"
+    },
+    {
+      "title": "Nebraska coach Fred Hoiberg explains why pacemaker was reason behind smacking fan\u2019s phone - New York Post",
+      "link": "https://nypost.com/2026/02/20/sports/nebraska-coach-fred-hoiberg-pacemaker-was-reason-for-smacking-fans-phone/"
+    },
+    {
+      "title": "Olympic freeskier Hunter Hess flashes 'L' sign, says he stands by his statement and loves the USA - PBS",
+      "link": "https://www.pbs.org/newshour/world/olympic-freeskier-hunter-hess-flashes-l-sign-says-he-stands-by-his-statement-and-loves-the-usa"
+    },
+    {
+      "title": "A letter from Commissioner Don Garber - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/a-letter-from-commissioner-don-garber"
+    },
+    {
+      "title": "'Absolutely embarrassing penalty': Finland raises referee controversy after losing Olympic men's hockey semifinal to Canada - Yahoo News Canada",
+      "link": "https://ca.news.yahoo.com/absolutely-embarrassing-penalty-finland-raises-referee-controversy-after-losing-olympic-mens-hockey-semifinal-to-canada-215821769.html"
     },
     {
       "title": "Gold medal greats Alysa Liu and Eileen Gu face uncomfortable comparisons at Olympics - NBC News",
       "link": "https://www.nbcnews.com/sports/olympics/gold-medal-greats-alysa-liu-eileen-gu-face-uncomfortable-comparisons-o-rcna259959"
     },
     {
+      "title": "U.S. men's hockey throttles Slovakia, locks in gold medal match with Canada - NBC Olympics",
+      "link": "https://www.nbcolympics.com/news/us-mens-hockey-throttles-slovakia-usa-locks-gold-medal-match-canada"
+    },
+    {
       "title": "Sweden is refusing to let go of Canada\u2019s alleged Olympic curling cheating - New York Post",
       "link": "https://nypost.com/2026/02/20/sports/sweden-wont-let-go-of-canadas-alleged-curling-cheating-scandal/"
     },
     {
-      "title": "Olympic freeskier Hunter Hess flashes an 'L' sign, says he stands by his statement and loves the USA - AP News",
-      "link": "https://apnews.com/article/olympics-hunter-hess-trump-b2fb244d2169ca742859a5120eb95831"
+      "title": "Cardinals Announce Coaching Staff Under Mike LaFleur - Arizona Cardinals",
+      "link": "https://www.azcardinals.com/news/cardinals-announce-coaching-staff-under-mike-lafleur-2025"
     },
     {
       "title": "2026 draft: Ten debate-worthy prospects to track at the NFL combine - NFL.com",
       "link": "https://www.nfl.com/news/2026-draft-ten-debate-worthy-prospects-to-track-at-the-nfl-combine"
     },
     {
+      "title": "NCAA Defeats Joey Aguilar In Eligibility Lawsuit, Tennessee QB Loses Bid For 2026 Return - OutKick",
+      "link": "https://www.outkick.com/sports/joey-aguilar-loses-ncaa-lawsuit-sixth-year-eligibility-tennessee"
+    },
+    {
       "title": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics - NPR",
       "link": "https://www.npr.org/2026/02/20/nx-s1-5721177/alex-ferreira-wins-10th-gold-medal-for-team-usa-matching-most-ever-in-winter-olympics"
     },
     {
-      "title": "Winter Olympics 2026: Polish speedskater Kamila Sellier hospitalized after suffering blade cut to her face - Yahoo Sports",
-      "link": "https://sports.yahoo.com/olympics/article/winter-olympics-2026-polish-speedskater-kamila-sellier-hospitalized-after-suffering-blade-cut-to-her-face-205816200.html"
+      "title": "Nuggets play Trail Blazers on back-to-back - NBA",
+      "link": "https://nuggets.com/news/nuggets-play-trail-blazers-on-back-to-back"
     },
     {
       "title": "Top-ranked Canada heartbroken after upset loss to Sweden in women's curling at the Olympics - AP News",
@@ -128,42 +156,6 @@
     {
       "title": "Coco Gauff: American beaten in epic as Elina Svitolina reaches Dubai final - BBC",
       "link": "https://www.bbc.com/sport/tennis/articles/cp85dj5v67lo"
-    },
-    {
-      "title": "What we learned from Day 3 of the second Bahrain test - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/what-we-learned-from-day-3-of-the-second-2026-pre-season-test-in-bahrain.1Yj0sE1VV0cN416M5Vs1OD"
-    },
-    {
-      "title": "The latest on KU hoops and the Darryn Peterson situation: Kansas Jayhawks Q&A - Kansas City Star",
-      "link": "https://www.kansascity.com/sports/college/big-12/university-of-kansas/article314773458.html"
-    },
-    {
-      "title": "Veteran almost fails to make weight again for UFC Houston - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/472458/ufc-houston-weigh-in-results-phil-rowe-misses-weight-for-third-time"
-    },
-    {
-      "title": "Lindsey Vonn Posts Health Update After Latest Surgery, Including Gnarly X-Ray - Sports Illustrated",
-      "link": "https://www.si.com/winter-olympics/lindsey-vonn-posts-health-update-surgery-photo"
-    },
-    {
-      "title": "Mick Cronin claims he\u2019s a good fit at UCLA: \u2018I\u2019m not the story\u2019 - New York Post",
-      "link": "https://nypost.com/2026/02/20/sports/ucla-mick-cronin-gives-first-statement-since-ejection/"
-    },
-    {
-      "title": "Browns name coordinators for the 2026 coaching staff - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/browns-name-coordinators-for-the-2026-coaching-staff"
-    },
-    {
-      "title": "Women's Curling Semifinals: USA to play for bronze after loss to Switzerland; Swiss to face Sweden in gold medal game - NBC Olympics",
-      "link": "https://www.nbcolympics.com/news/womens-curling-semifinals-usa-play-bronze-after-loss-switzerland-swiss-face-sweden-gold-medal"
-    },
-    {
-      "title": "Gennaro Filice 2026 NFL mock draft 1.0: Jeremiyah Love cracks top five; Chiefs take WR Jordyn Tyson - NFL.com",
-      "link": "https://www.nfl.com/news/gennaro-filice-2026-nfl-mock-draft-1-0-jeremiyah-love-cracks-top-five-chiefs-take-wr-jordyn-tyson"
-    },
-    {
-      "title": "Norway wins its 17th gold medal, breaking record for most golds won in a single Winter Olympics - AP News",
-      "link": "https://apnews.com/article/winter-olympics-norway-gold-record-biathlon-8d64eaeceeaf2d94e36df59d8d204639"
     }
   ],
   "weather": {
