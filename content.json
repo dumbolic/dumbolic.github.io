@@ -1,9 +1,9 @@
 {
-  "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. \u2013 Dr. Seuss",
-  "fact": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis.. \u00a0",
-  "crypto": "BTC: $67,367 | ETH: $1,972.55",
+  "quote": "Riches don't make a man rich, they only make him busier. \u2013 Christopher Columbus",
+  "fact": "Only one in two billion people will live to be 116 or older.",
+  "crypto": "BTC: $67,034 | ETH: $1,964.47",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Animal Fact #25: Most bobcats are not named bob.",
+  "joke": "Why was the strawberry sad? Its parents were in a jam.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Datamine Hints More Pok\u00e9mon Games Could Come To Switch - Kotaku",
+      "link": "https://kotaku.com/pokemon-saphire-ruby-emerald-switch-2-datamine-2000674544"
+    },
+    {
+      "title": "Sony\u2019s Bluepoint Pitched \u2018Bloodborne\u2019 Remake Before Closure - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure"
+    },
+    {
+      "title": "The Trump phone sure looks a lot like this HTC handset - The Verge",
+      "link": "https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro"
+    },
+    {
       "title": "BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com",
       "link": "https://www.motor1.com/news/788464/bmw-leaks-names-2027-cars/"
     },
     {
-      "title": "Pok\u00e9mon's 30th Anniversary Celebrations Kick Off a Whole Bunch of New Deals on Games, Cards, and More - IGN",
-      "link": "https://www.ign.com/articles/best-pokemon-day-deals-2026"
+      "title": "Samsung confirms satellite connectivity for Galaxy S26 and older Galaxy devices - 9to5Google",
+      "link": "http://9to5google.com/2026/02/27/samsung-confirms-satellite-connectivity-for-galaxy-s26-and-older-galaxy-devices/"
+    },
+    {
+      "title": "Mutants and Mutagen in Magic: The Gathering\u00ae | Teenage Mutant Ninja Turtles - Magic: The Gathering",
+      "link": "https://magic.wizards.com/en/news/feature/mutants-and-mutagen-in-teenage-mutant-ninja-turtles"
+    },
+    {
+      "title": "The Steam Deck Will Receive a Price Increase in Asia Starting March 6th - Steam Deck HQ",
+      "link": "https://steamdeckhq.com/news/steam-deck-price-ncrease-asia-march/"
+    },
+    {
+      "title": "Pok\u00e9mon Day: Nintendo Switch Pok\u00e9mon Games Are on Sale for the 30th Anniversary Celebrations - IGN",
+      "link": "https://www.ign.com/articles/nintendo-switch-pokmon-games-are-on-sale-for-pokemon-day"
+    },
+    {
+      "title": "Google is winding down the Pixel Studio app - 9to5Google",
+      "link": "http://9to5google.com/2026/02/27/google-pixel-studio-app/"
     },
     {
       "title": "The Pok\u00e9mon Center\u2019s Game Boy Jukebox Hits All the Right Notes - Pokemon.com",
@@ -28,6 +56,18 @@
       "link": "https://press.pokemon.com/en/Pokemon-Continues-30th-Celebrations-with-the-Unveiling-of-Pokemon-Wind"
     },
     {
+      "title": "Nintendo GameCube \u2013 Nintendo Classics adds Pokemon XD: Gale of Darkness in March - Gematsu",
+      "link": "https://www.gematsu.com/2026/02/nintendo-gamecube-nintendo-classics-adds-pokemon-xd-gale-of-darkness-in-march"
+    },
+    {
+      "title": "The 2026 Chevrolet Corvette ZR1X Is Peak Corvette - Road & Track",
+      "link": "https://www.roadandtrack.com/reviews/a70495234/the-zr1x-is-peak-corvette/"
+    },
+    {
+      "title": "It's Official: Resident Evil Requiem Uses Sony's Brand-New PSSR Upscaler - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/news/2026/02/its-official-resident-evil-requiem-uses-sonys-brand-new-pssr-upscaler"
+    },
+    {
       "title": "Your Go To PvE Guide for Pok\u00e9mon GO Tour: Kalos-Global - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/meta/your-go-to-pve-guide-for-pokemon-go-tour-kalos-global/"
     },
@@ -36,12 +76,12 @@
       "link": "https://www.ign.com/articles/it-was-just-straight-up-false-advertising-warhammer-40000-space-marine-2s-5-voice-pack-dlc-sparks-the-games-first-really-big-backlash-since-launch"
     },
     {
-      "title": "Would any of the reported MacBook compromises be a deal-breaker for you? [Poll] - 9to5Mac",
-      "link": "https://9to5mac.com/2026/02/27/would-any-of-the-reported-macbook-compromises-be-a-deal-breaker-for-you-poll/"
-    },
-    {
       "title": "Everything announced at Samsung Unpacked 2026: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro - ZDNET",
       "link": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/"
+    },
+    {
+      "title": "A cheaper MacBook might finally break Windows and Chromebooks' biggest advantage - ZDNET",
+      "link": "https://www.zdnet.com/article/apple-cheap-macbook-vs-windows-laptops-chromebooks/"
     },
     {
       "title": "Marathon Server Slam stirs Steam with 150,000 concurrent players day one, and that's not counting console participation - Eurogamer",
@@ -50,60 +90,60 @@
     {
       "title": "How AI can read our scrambled inner thoughts - BBC",
       "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts"
-    },
-    {
-      "title": "Astell & Kern's premium portable player is the first of its kind to personalise its sound to your ears - What Hi-Fi?",
-      "link": "https://www.whathifi.com/hi-fi/portable-music-players/astell-and-kerns-premium-portable-player-is-the-first-of-its-kind-to-personalise-its-sound-to-your-ears"
-    },
-    {
-      "title": "Samsung Brings Satellite Communication Support to Galaxy Smartphones Across the Globe - samsung.com",
-      "link": "https://news.samsung.com/global/samsung-brings-satellite-communication-support-to-galaxy-smartphones-across-the-globe"
-    },
-    {
-      "title": "Samsung confirms an improved S Pen is in the works - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-confirms-improved-s-pen-future/"
-    },
-    {
-      "title": "PSA: Pok\u00e9mon Pokopia Switch 2 Preloads Are Now Officially Live - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/02/psa-pokemon-pokopia-switch-2-preloads-are-now-officially-live"
-    },
-    {
-      "title": "Digital Foundry Delivers Its Tech Analysis Of Resident Evil Requiem On Switch 2 - \"Capcom Deserves Kudos For This Port\" - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/02/digital-foundry-delivers-its-tech-analysis-of-resident-evil-requiem-on-switch-2-capcom-deserves-kudos-for-this-port"
-    },
-    {
-      "title": "Samsung Uncommited to Another iPhone Air Rival or Trifold, COO Says - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-27/samsung-uncommited-to-another-iphone-air-rival-or-trifold-coo-says"
-    },
-    {
-      "title": "New God of War Sons of Sparta Feature Addresses Fan Criticism - GameRant",
-      "link": "https://gamerant.com/god-of-war-sons-of-sparta-co-op-mode-cheat-code/"
-    },
-    {
-      "title": "Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED",
-      "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/"
-    },
-    {
-      "title": "2026 MCC Exchange Update and Log-In Unlocks - Halo Waypoint",
-      "link": "https://www.halowaypoint.com/news/2026-mcc-exchange-update"
-    },
-    {
-      "title": "Apple-Supported Aliro 1.0 Smart Lock Standard Officially Released - MacRumors",
-      "link": "https://www.macrumors.com/2026/02/26/aliro-specification-released/"
     }
   ],
   "sports_news": [
     {
-      "title": "Falcons fire assistant DL coach LaTroy Lewis - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-fire-assistant-dl-coach-latroy-lewis"
+      "title": "NFL Combine 2026 live updates, results tracker: DB, TE workouts and 40-yard dash times - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-combine-2026-live-updates-db-te-workouts-40-times/live/"
+    },
+    {
+      "title": "Chicago lawmakers pump brakes on stadium incentive plan to keep Bears in Illinois - Axios",
+      "link": "https://www.axios.com/local/chicago/2026/02/26/lawmakers-stadium-property-taxes-bears-indiana-illinois-house"
+    },
+    {
+      "title": "Packers name Cam Achord special teams coordinator - Green Bay Packers",
+      "link": "https://www.packers.com/news/packers-name-cam-achord-special-teams-coordinator-feb-27-2026"
+    },
+    {
+      "title": "College football QB rankings: Danny Kanell ranks Top 10 returners in 2026 - On3",
+      "link": "https://www.on3.com/news/college-football-qb-rankings-danny-kanell-ranks-top-10-returners-in-2026/"
+    },
+    {
+      "title": "Oleksandr Usyk to face former kickboxing champion Rico Verhoeven on May 23 - Bad Left Hook",
+      "link": "https://www.badlefthook.com/boxing-news/113370/oleksandr-usyk-to-face-former-kickboxing-champion-rico-verhoeven-may-23-boxing-news-2026"
+    },
+    {
+      "title": "Where Seahawks sit with 2026 NFL salary cap increase now set - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/where-seattle-seahawks-stand-2026-salary-cap-set/1840557"
+    },
+    {
+      "title": "Falcons assistant LaTroy Lewis fired amid sexual assault allegations - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48055596/falcons-assistant-latroy-lewis-fired-amid-sexual-assault-allegations"
+    },
+    {
+      "title": "NFL Mock Draft 2.0 \u2014 Risers, fallers from the NFL Scouting Combine - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/bears/2026/02/27/bears-nfl-scouting-combine-mock-draft-20-kayden-mcdonald-defensive-tackle-ryan-poles-carnell-tate-ben-johnson"
+    },
+    {
+      "title": "Hawthorne Files For Chapter 11 Bankruptcy - Paulick Report",
+      "link": "https://paulickreport.com/news/the-biz/hawthorne-files-for-chapter-11-bankruptcy"
+    },
+    {
+      "title": "Wolves Insider: Anthony Edwards, Chris Finch and the \u2018funniest tug-of-war\u2019 that defines their relationship - Star Tribune",
+      "link": "https://www.startribune.com/anthony-edwards-chris-finch-minnesota-timberwolves-controversy-chris-hine-ant/601557308"
     },
     {
       "title": "Packers Free Agency: The case for signing Tyler Biadasz - Acme Packing Company",
       "link": "https://www.acmepackingcompany.com/green-bay-packers-free-agency/79836/packers-free-agency-the-case-for-signing-tyler-biadasz"
     },
     {
-      "title": "2026 NFL combine: What We Learned during Friday's activities in Indianapolis - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-combine-what-we-learned-during-friday-s-activities-in-indianapolis"
+      "title": "Men\u2019s College Basketball\u2019s Coaching Carousel: Names to Know As Jobs Open - Sports Illustrated",
+      "link": "https://www.si.com/college-basketball/2026-mens-college-basketball-coaching-carousel-names-to-know-as-jobs-open"
+    },
+    {
+      "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix - TechCrunch",
+      "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/"
     },
     {
       "title": "T20 World Cup results: Will Jacks and Rehan Ahmed power England to win over New Zealand - BBC",
@@ -122,52 +162,16 @@
       "link": "https://www.huffpost.com/entry/alexis-wilkins-kash-patel-beer-hockey_n_69a1995ee4b022e3a5582692"
     },
     {
-      "title": "Cowboys officially place franchise tag on George Pickens - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/cowboys-officially-place-franchise-tag-on-george-pickens"
+      "title": "Lionel Messi knocked down as fans storm the pitch during Inter Miami friendly in Puerto Rico - AP News",
+      "link": "https://apnews.com/article/lionel-messi-inter-miami-puerto-rico-59a8656c1930dc78109c5d53b40749af"
     },
     {
-      "title": "Fernando Mendoza explains what he wants to learn most from Tom Brady if he's drafted No. 1 by the Raiders - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/fernando-mendoza-nfl-draft-raiders-tom-brady/"
+      "title": "Diego Pavia Had Blunt Answer for NFL Teams That Might Be Concerned About His Size - Sports Illustrated",
+      "link": "https://www.si.com/nfl/diego-pavia-size-comments-watch-the-tape"
     },
     {
-      "title": "Beyond the Bylines: Bad Steelers NFLPA grades, Malik Willis\u2019 price tag, Jack Hughes wins the crowd at PPG Paints Arena - TribLIVE.com",
-      "link": "https://triblive.com/sports/beyond-the-bylines-bad-steelers-nflpa-grades-malik-willis-price-tag-jack-hughes-wins-the-crowd-at-ppg-paints-arena/"
-    },
-    {
-      "title": "7 things we learned from first MotoGP Friday of 2026 - The Race",
-      "link": "https://www.the-race.com/motogp/7-things-we-learned-from-first-motogp-friday-of-2026/"
-    },
-    {
-      "title": "Champions League round of 16 predictions: Real Madrid over Man City - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/48045987/uefa-champions-league-predictions-picks-bracket-round-16-mark-ogden"
-    },
-    {
-      "title": "NCAA subcommittee proposes one-year trial rule change to college football targeting penalty - On3",
-      "link": "https://www.on3.com/news/ncaa-subcommittee-proposes-one-year-trial-rule-change-to-college-football-targeting-penalty/"
-    },
-    {
-      "title": "Most Likely Landing Spots For Kyler Murray & Tua Tagovailoa - NFLTradeRumors.co",
-      "link": "https://nfltraderumors.co/most-likely-landing-spots-for-kyler-murray-tua-tagovailoa/"
-    },
-    {
-      "title": "Figure Skater Alysa Liu Is Given a Hero's Welcome by Her California Hometown as She Returns From Winter Olympics - Realtor.com",
-      "link": "https://www.realtor.com/news/sports/alysa-liu-winter-olympics-figure-skating-gold-medal-home/"
-    },
-    {
-      "title": "Sonny Styles, David Bailey impress in Combine workouts - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sonny-styles-david-bailey-impress-in-combine-workouts"
-    },
-    {
-      "title": "2026 NFL Draft: The ideal haul for every team in the first three rounds - PFF",
-      "link": "https://www.pff.com/news/2026-nfl-draft-the-ideal-haul-for-every-team-in-the-first-three-rounds"
-    },
-    {
-      "title": "What we\u2019re hearing about New England Patriots at 2026 NFL Combine - MassLive.com",
-      "link": "https://www.masslive.com/patriots/2026/02/what-were-hearing-about-new-england-patriots-at-2026-nfl-combine.html"
-    },
-    {
-      "title": "A team of midlife cheerleaders in Ukraine refuses to let war defeat them - NPR",
-      "link": "https://www.npr.org/2026/02/27/nx-s1-5712284/russia-ukraine-war-midlife-women-cheerleading"
+      "title": "Kyle Hamilton Hilariously Posts About Getting \u2018Frame Mogged\u2019 By Sonny Styles - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/kyle-hamilton-sonny-styles-combine-comparison-framemogged-40-dash-results"
     }
   ],
   "weather": {
