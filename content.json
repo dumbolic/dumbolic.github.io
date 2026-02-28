@@ -1,9 +1,9 @@
 {
-  "quote": "Fishing is much more than fish. \u2013 Herbert Hoover",
-  "fact": "Los Angeles\u2019 full name is \u201cEl Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula\u201d.",
-  "crypto": "BTC: $65,838 | ETH: $1,928.28",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I'll tell you what often gets over looked... garden fences.",
+  "quote": "Everybody needs a passion. That's what keeps life interesting. \u2013 Betty White",
+  "fact": "Over 60% of all those who marry get divorced.",
+  "crypto": "BTC: $65,811 | ETH: $1,927.16",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Lenovo leak reveals a foldable gaming handheld that\u2019s also a Windows laptop - The Verge",
+      "link": "https://www.theverge.com/tech/885656/lenovo-legion-go-fold-concept-leak"
+    },
+    {
+      "title": "Samsung Galaxy S26 launch live: The Galaxy S26 series is here, plus Galaxy Buds 4 and tons of exciting new One UI features - Android Central",
+      "link": "https://www.androidcentral.com/phones/live/samsung-galaxy-s26-launch-live-s26-s26-plus-and-s26-ultra-specs-galaxy-buds-4-price-release-date-and-what-is-expected"
+    },
+    {
+      "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
+      "link": "https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong"
+    },
+    {
       "title": "NVIDIA \u201cunlaunches\u201d its GeForce 595.59 driver after reports of fan and clock issues - VideoCardz.com",
       "link": "https://videocardz.com/newz/nvidia-unlaunches-its-geforce-595-59-driver-after-reports-of-fan-and-clock-issues"
     },
     {
-      "title": "Tune in to The Division\u2019s 10th Anniversary Celebration March 3 - Ubisoft",
-      "link": "https://news.ubisoft.com/en-us/article/3AzMZuAFY2oju7yrOKCurV/tune-in-to-the-divisions-10th-anniversary-celebration-march-3"
-    },
-    {
       "title": "Stardew Valley is celebrating being one third the age of Pok\u00e9mon with a video looking at its highly anticipated next update - Eurogamer",
       "link": "https://www.eurogamer.net/stardew-valley-is-celebrating-birthday-with-a-look-at-its-next-update"
-    },
-    {
-      "title": "Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games",
-      "link": "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu"
-    },
-    {
-      "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today - Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/"
     },
     {
       "title": "Resident Evil Requiem Nintendo Switch 2 tech analysis, including frame rate and resolution - Nintendo Everything",
@@ -40,86 +40,106 @@
       "link": "https://www.iracing.com/iracing-development-update-february-2026/"
     },
     {
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf] - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d47167763"
+      "title": "Google launches Nano Banana 2 model with faster image generation - TechCrunch",
+      "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/"
     },
     {
-      "title": "Lenovo Legion Go Fold concept leaks with 7.7-inch to 11.6-inch folding POLED display, Lunar Lake SoC - VideoCardz.com",
-      "link": "https://videocardz.com/newz/lenovo-legion-go-fold-concept-leaks-with-7-7-inch-to-11-6-inch-folding-poled-display-lunar-lake-soc"
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
     },
     {
       "title": "Huawei GT Runner 2 Accuracy Review: The Next Best GPS Design? - DC Rainmaker",
       "link": "https://www.dcrainmaker.com/2026/02/huawei-gt-runner-2-in-depth-review-accuracy.html"
     },
     {
+      "title": "How to get Galaxy Buds 4 Pro for FREE during Galaxy S26 pre-order week - 9to5Toys",
+      "link": "http://9to5toys.com/2026/02/26/how-to-galaxy-buds-4-pro-free/"
+    },
+    {
       "title": "New Galaxy S25 update expands worldwide following S26 debut - SamMobile",
       "link": "https://www.sammobile.com/news/galaxy-s25-plus-ultra-february-2026-update-global-rollout/"
-    },
-    {
-      "title": "Fallout 4 On Switch 2 Is Getting DLSS Support And Stability Improvements - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/02/fallout-4-on-switch-2-is-getting-dlss-support-and-stability-improvements"
-    },
-    {
-      "title": "Samsung announces the start of One UI 8.5 update rollout - Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/02/25/samsung-announces-one-ui-8-5-update-rollout/"
     },
     {
       "title": "Google details MCP-like \u2018AppFunctions\u2019 that let Gemini use Android apps - 9to5Google",
       "link": "http://9to5google.com/2026/02/25/android-appfunctions-gemini/"
     },
     {
-      "title": "Arc Pulse Brings Its Crazy Case to the Galaxy S26 Ultra - Droid Life",
-      "link": "https://www.droid-life.com/2026/02/25/arc-pulse-brings-its-crazy-case-to-the-galaxy-s26-ultra/"
+      "title": "M5 Pro and M5 Max MacBook Pro: What to Expect - MacRumors",
+      "link": "https://www.macrumors.com/2026/02/25/m5-pro-max-macbook-pro-rumors/"
     },
     {
-      "title": "Preorders for Samsung\u2019s S26 phones come with up to $200 in gift cards - The Verge",
-      "link": "https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date"
+      "title": "Ex-Microsoft games leader not worried new Xbox CEO has no games experience | Ed Fries exclusive interview - GamesBeat",
+      "link": "https://gamesbeat.com/ex-microsoft-games-leader-not-worried-new-xbox-ceo-has-no-games-experience-ed-fries-interview/"
     },
     {
-      "title": "Samsung\u2019s announces new AirPods clones: the Galaxy Buds 4 and Buds 4 Pro - The Verge",
-      "link": "https://www.theverge.com/tech/884434/samsung-galaxy-buds-4-pro-unpacked-2026-announcement"
+      "title": "\u2018ARC Raiders\u2019 Leans Even Harder Into PvE With New Shrouded Sky Change - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/02/25/arc-raiders-leans-even-harder-into-pve-with-new-shrouded-sky-change/"
     },
     {
-      "title": "Xbox Won't Back Away From First-Party And Become 'Just A Publisher', Insists EVP Matt Booty - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/02/xbox-wont-back-away-from-first-party-and-become-just-a-publisher-insists-evp-matt-booty"
+      "title": "Mac hardware is great, but macOS 26 is a disaster, say pundits - 9to5Mac",
+      "link": "https://9to5mac.com/2026/02/25/mac-hardware-is-great-but-macos-26-is-a-disaster-say-pundits/"
+    },
+    {
+      "title": "Apple\u2019s MacBook Pro redesign reportedly includes OLED, touch gestures, and Dynamic Island - VideoCardz.com",
+      "link": "https://videocardz.com/newz/apples-macbook-pro-redesign-reportedly-includes-oled-touch-gestures-and-dynamic-island"
     }
   ],
   "sports_news": [
     {
+      "title": "Michigan State vs Purdue Odds, Prediction, Pick for Thursday\u2019s College Basketball Game - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-purdue-boilermakers-predictions-picks-odds-college-basketball-thursday-february-26"
+    },
+    {
       "title": "NFL combine 2026 live updates, results tracker: DL, EDGE, LB workouts take center stage - CBS Sports",
       "link": "https://www.cbssports.com/nfl/news/nfl-combine-2026-live-updates-results-dl-edge-lb/live/"
+    },
+    {
+      "title": "NFLPA 2026 report cards: See the results for all 32 teams - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/47987931/nfl-2026-report-cards-nflpa-32-teams"
+    },
+    {
+      "title": "World Cup host cities still in the dark on $625M in promised security funding - Politico",
+      "link": "https://www.politico.com/news/2026/02/26/world-cup-cities-security-funding-00801959"
     },
     {
       "title": "Diamondbacks Notes: Kelly, Pfaadt, Mena - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/02/diamondbacks-notes-kelly-pfaadt-mena.html"
     },
     {
-      "title": "Report: Dolphins finish first, Steelers land last in new NFLPA report cards - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dolphins-finish-first-steelers-land-last-in-new-nflpa-report-cards"
+      "title": "Oregon State firing men\u2019s basketball coach Wayne Tinkle - OregonLive.com",
+      "link": "https://www.oregonlive.com/beavers/2026/02/oregon-state-firing-mens-basketball-coach-wayne-tinkle.html"
     },
     {
-      "title": "Report: Vikings, Anthony Richardson have mutual interest - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-anthony-richardson-have-mutual-interest"
+      "title": "Max Scherzer's daughter wrote Blue Jays letter wishing for father's return - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/48045014/max-scherzer-daughter-letter-blue-jays-wish"
+    },
+    {
+      "title": "Chicago Bears property tax incentives advance in Illinois House over city opposition - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/bears-stadium/2026/02/26/chicago-bears-property-tax-incentives-illinois-house-city-opposition-arlington-heights-proposed-stadium"
     },
     {
       "title": "Athletics Have Made Extension Offer To Nick Kurtz - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/02/athletics-have-made-extension-offer-to-nick-kurtz.html"
     },
     {
-      "title": "Bryan: Steelers Should Consider Trading For Jaguars WR Brian Thomas Jr. If Price Is Right - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/02/bryan-steelers-should-consider-trading-for-jaguars-wr-brian-thomas-jr-if-price-is-right/"
-    },
-    {
       "title": "Both Bruins on US men\u2019s hockey team addressed players laughing at women\u2019s team during Trump call. Here\u2019s what they said. - The Boston Globe",
       "link": "https://www.bostonglobe.com/2026/02/26/sports/charlie-mcavoy-olympics-bruins/"
+    },
+    {
+      "title": "Apple Strikes F1 Deal With Netflix: Will Share Canadian Grand Prix, New \u2018Drive to Survive\u2019 Season - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/tv/tv-news/apple-strikes-f1-deal-netflix-grand-prix-new-drive-survive-1236516195/"
+    },
+    {
+      "title": "Kyler Murray will likely get what he wants in expected Cardinals split - Arizona Sports",
+      "link": "https://arizonasports.com/nfl/arizona-cardinals/kyler-murray-will-get-what-he-wants-split/3612907/"
     },
     {
       "title": "Six NFL Storylines to Monitor With Free Agency and the Draft Ahead - Sports Illustrated",
       "link": "https://www.si.com/nfl/six-nfl-storylines-monitor-with-free-agency-draft-ahead"
     },
     {
-      "title": "UFC expected to lose at least $30 million on White House card: \u2018We will not profit\u2019 from this event - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/473550/ufc-white-house-event-costs-could-skyrocket-past-60-million-but-ufc-will-not-profit-from-the-card"
+      "title": "Colts give Anthony Richardson permission to seek a trade - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-give-anthony-richardson-permission-to-seek-a-trade"
     },
     {
       "title": "Changes proposed to penalty structure for targeting in DI football - NCAA.org",
@@ -130,28 +150,16 @@
       "link": "https://www.bbc.com/sport/cricket/articles/ce3gyx49z52o"
     },
     {
+      "title": "Mexican UFC Fighter Tussles With Reporter Over Question About White House Event: \u2018Why Would I Want to Be There?\u2019 - Mediaite",
+      "link": "https://www.mediaite.com/media/sports/mexican-ufc-fighter-tussles-with-reporter-over-question-about-white-house-event-why-would-i-want-to-be-there/"
+    },
+    {
+      "title": "Hawks to Celebrate Atlanta's Iconic Cultural Institution \u2018Magic City\u2019 During the Team's \u201cMagic City Monday\u201d Game Against the Orlando Magic on Monday, March 16 - NBA",
+      "link": "https://hawks.com/news/hawksto-celebrate-atlantas-iconic-cultural-institution-magic-city-during-the-teams-magic-city-monday-game-against-the-orlando-magic-on-monday-march-16"
+    },
+    {
       "title": "2026 NFL Mock Draft: Who Lands Micah Parsons 2.0? Giants, Chiefs Grab Top WRs - FOX Sports",
       "link": "https://www.foxsports.com/stories/nfl/2026-nfl-mock-draft-fernando-mendoza-giants-chiefs-select-wrs"
-    },
-    {
-      "title": "Auston Matthews\u2019 Patriotism After Team USA Wins Gold Sparks Deranged Reaction From Sad Canadian Columnist - OutKick",
-      "link": "https://www.outkick.com/sports/auston-matthews-team-usa-gold-deranged-canadian-columnist-reaction-toronto-star"
-    },
-    {
-      "title": "The Perfect 2026 Free-Agent Signing for Every NFL Team - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25399951-perfect-2026-free-agent-signing-every-nfl-team"
-    },
-    {
-      "title": "St. John\u2019s Delivered A Truly Unholy Second Half Of Basketball - Defector",
-      "link": "https://defector.com/st-johns-delivered-a-truly-unholy-second-half-of-basketball"
-    },
-    {
-      "title": "Mark Madden: A blueprint for how the Penguins survive during Sidney Crosby\u2019s absence - TribLIVE.com",
-      "link": "https://triblive.com/sports/mark-madden-a-blueprint-for-how-the-penguins-survive-during-sidney-crosbys-absence/"
-    },
-    {
-      "title": "Eagles News: Mike Vrabel does nothing to quell the A.J. Brown trade rumors - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/171071/eagles-news-mike-vrabel-does-nothing-to-quell-the-a-j-brown-trade-rumors"
     }
   ],
   "weather": {
