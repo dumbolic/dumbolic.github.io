@@ -1,9 +1,9 @@
 {
-  "quote": "The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! \u2013 Tony Robbins",
-  "fact": "The highest per capita Jell-O comsumption in the US is Des Moines.",
-  "crypto": "BTC: $67,301 | ETH: $2,012.53",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do you get when you cross a snowman with a vampire? Frostbite.",
+  "quote": "The first step is to establish that something is possible; then probability will occur. \u2013 Elon Musk",
+  "fact": "The average cough comes out of your mouth at 60 miles (96.5 km) per hour.",
+  "crypto": "BTC: $67,412 | ETH: $2,013.87",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
+    },
+    {
+      "title": "What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads, and More - MacRumors",
+      "link": "https://www.macrumors.com/guide/apple-products-march-2026/"
+    },
+    {
       "title": "Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto",
       "link": "https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/"
+    },
+    {
+      "title": "A Dish of Neurons Playing DOOM Is the Wildest Thing I\u2019ve Seen in Ages - Gizmodo",
+      "link": "https://gizmodo.com/a-dish-of-neurons-playing-doom-is-the-wildest-thing-ive-seen-in-ages-2000727674"
     },
     {
       "title": "BMW\u2019s new 2027 EVs leak online before the site is taken down - Electrek",
       "link": "http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/"
     },
     {
+      "title": "It's time for Nintendo to free the RPG geniuses at Camelot from Mario sports games - AV Club",
+      "link": "https://www.avclub.com/mario-tennis-fever-camelot-rpgs"
+    },
+    {
       "title": "Sony\u2019s Bluepoint Pitched \u2018Bloodborne\u2019 Remake Before Closure - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure"
+    },
+    {
+      "title": "There\u2019s A Game-Long Resident Evil Requiem Puzzle No One\u2019s Been Able To Solve - Kotaku",
+      "link": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-severed-hand-2000674538"
+    },
+    {
+      "title": "Galaxy Buds 4 ultra-high quality audio only supports these devices - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-buds-4-ultra-high-quality-audio-only-supports-these-devices/"
+    },
+    {
+      "title": "Xbox Drops 6 Free Games, Includes AAA That Doesn't Require Game Pass - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-6-free-games-aaa-pass-036680-20260227"
+    },
+    {
+      "title": "Pokemon FireRed And LeafGreen On Switch Won\u2019t Let You Name Your Rival \u2018Dickbutt\u2019 - Kotaku",
+      "link": "https://kotaku.com/pokemon-firered-leafgreen-nickname-rival-censorship-2000674512"
     },
     {
       "title": "Samsung confirms satellite connectivity for Galaxy S26 and older Galaxy devices - 9to5Google",
@@ -32,24 +64,12 @@
       "link": "https://magic.wizards.com/en/news/feature/mutants-and-mutagen-in-teenage-mutant-ninja-turtles"
     },
     {
-      "title": "The Steam Deck Will Receive a Price Increase in Asia Starting March 6th - Steam Deck HQ",
-      "link": "https://steamdeckhq.com/news/steam-deck-price-ncrease-asia-march/"
+      "title": "Everything You Can Do With Google's Nano Banana 2 Image Generator - Lifehacker",
+      "link": "https://lifehacker.com/tech/testing-google-gemini-nano-banana-2"
     },
     {
-      "title": "Pok\u00e9mon Day: Nintendo Switch Pok\u00e9mon Games Are on Sale for the 30th Anniversary Celebrations - IGN",
-      "link": "https://www.ign.com/articles/nintendo-switch-pokmon-games-are-on-sale-for-pokemon-day"
-    },
-    {
-      "title": "Yes, Pok\u00e9mon FireRed & LeafGreen Are Getting Home Support - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/02/yes-pokemon-firered-and-leafgreen-are-getting-home-support"
-    },
-    {
-      "title": "A new California law says all operating systems need to have age verification - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d47181208"
-    },
-    {
-      "title": "Google is winding down the Pixel Studio app - 9to5Google",
-      "link": "http://9to5google.com/2026/02/27/google-pixel-studio-app/"
+      "title": "Two More Studio Display 2 Upgrades Leaked in New Report - MacRumors",
+      "link": "https://www.macrumors.com/2026/02/27/two-more-studio-display-2-rumors/"
     },
     {
       "title": "The Pok\u00e9mon Center\u2019s Game Boy Jukebox Hits All the Right Notes - Pokemon.com",
@@ -70,108 +90,88 @@
     {
       "title": "It's Official: Resident Evil Requiem Uses Sony's Brand-New PSSR Upscaler - Digital Foundry",
       "link": "https://www.digitalfoundry.net/news/2026/02/its-official-resident-evil-requiem-uses-sonys-brand-new-pssr-upscaler"
-    },
-    {
-      "title": "Everything announced at Samsung Unpacked 2026: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro - ZDNET",
-      "link": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/"
-    },
-    {
-      "title": "A cheaper MacBook might finally break Windows and Chromebooks' biggest advantage - ZDNET",
-      "link": "https://www.zdnet.com/article/apple-cheap-macbook-vs-windows-laptops-chromebooks/"
-    },
-    {
-      "title": "Ultrahuman bets on redesigned smart ring to win back US market after Oura dispute - TechCrunch",
-      "link": "https://techcrunch.com/2026/02/27/ultrahuman-unveils-new-smart-ring-as-it-awaits-u-s-clearance-after-oura-dispute/"
-    },
-    {
-      "title": "Marathon Server Slam stirs Steam with 150,000 concurrent players day one, and that's not counting console participation - Eurogamer",
-      "link": "https://www.eurogamer.net/marathon-server-slam-steam-players-concurrent"
-    },
-    {
-      "title": "PSA: Pok\u00e9mon Pokopia Switch 2 Preloads Are Now Officially Live - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/02/psa-pokemon-pokopia-switch-2-preloads-are-now-officially-live"
     }
   ],
   "sports_news": [
+    {
+      "title": "Prochazka-Ulberg title bout set for UFC 327; Pereira vacates belt - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/48059111/prochazka-ulberg-title-bout-set-ufc-327-pereira-vacates-belt"
+    },
+    {
+      "title": "Donald Trump Finally Reacts to Kash Patel\u2019s Boozy Olympics Antics - The Daily Beast",
+      "link": "https://www.thedailybeast.com/donald-trump-finally-reacts-to-kash-patels-boozy-olympics-antics/"
+    },
+    {
+      "title": "What Kalani Sitake said after BYU\u2019s first spring practice - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/02/27/byu-football-opens-2026-spring-ball-kalani-sitake/"
+    },
+    {
+      "title": "Notre Dame RB Jeremiyah Love will work out at combine - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-rb-jeremiyah-love-will-work-out-at-combine"
+    },
+    {
+      "title": "2026 NFL Combine results: 5 winners from the tight ends group - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-draft/158212/2026-nfl-combine-results-5-winners-from-the-tight-ends-group"
+    },
+    {
+      "title": "12.5-minute buzzer derailed Donovan Mitchell interview, ESPN\u2019s Pistons-Cavs broadcast - Awful Announcing",
+      "link": "https://awfulannouncing.com/nba/donovan-mitchell-interview-interrupted-incessant-buzzer-pistons-cavs-game.html"
+    },
+    {
+      "title": "Caps survive a third-period push and extend win streak: Capitals beat Golden Knights 3-2 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/02/27/caps-survive-a-third-period-push-and-extend-win-streak-capitals-beat-golden-knights-3-2/"
+    },
+    {
+      "title": "2026 NFL combine stock up/stock down, Day 2: 10 prospects on the move - NFL.com",
+      "link": "https://www.nfl.com/news/2026-nfl-combine-stock-up-stock-down-day-2-10-prospects-on-the-move"
+    },
+    {
+      "title": "Miami (OH) 69-67 Western Michigan (Feb 27, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401814590"
+    },
+    {
+      "title": "Former MLB pitcher sentenced to life in prison without parole for shooting his in-laws - Yahoo",
+      "link": "https://www.yahoo.com/news/articles/former-mlb-pitcher-sentenced-life-020029283.html"
+    },
     {
       "title": "2026 NFL combine: Oregon's Kenyon Sadiq runs fastest 40 by tight end since at least 2003 - NFL.com",
       "link": "https://www.nfl.com/news/2026-nfl-combine-oregon-s-kenyon-sadiq-runs-fastest-40-by-tight-end-since-at-least-2003"
     },
     {
-      "title": "2026 NFL combine: Ohio State's Lorenzo Styles Jr. runs fastest 40 by a safety since at least 2003 - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-combine-ohio-state-s-lorenzo-styles-jr-runs-fastest-40-by-a-safety-since-at-least-2003"
+      "title": "2026 Circuit of The Americas, St. Petersburg pit stall assignments - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/02/27/2026-circuit-of-the-americas-st-petersburg-pit-stall-assignments/"
     },
     {
-      "title": "Chicago lawmakers pump brakes on stadium incentive plan to keep Bears in Illinois - Axios",
-      "link": "https://www.axios.com/local/chicago/2026/02/26/lawmakers-stadium-property-taxes-bears-indiana-illinois-house"
+      "title": "Joe Gibbs Racing, Chirs Gabehart and Spire have their first day in court - Motorsport.com",
+      "link": "https://www.motorsport.com/nascar-cup/news/joe-gibbs-racing-chirs-gabehart-and-spire-have-their-first-day-in-court/10800951/"
+    },
+    {
+      "title": "Ohio State DB Lorenzo Styles Jr. posts a 4.27 40-yard dash - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ohio-state-s-lorenzo-styles-jr-posts-a-4-27-40-yard-dash"
+    },
+    {
+      "title": "Unified boxing champ Oleksandr Usyk to face Rico Verhoeven at Pyramids of Giza - Sherdog",
+      "link": "https://www.sherdog.com/news/news/Unified-boxing-champ-Oleksandr-Usyk-to-face-Rico-Verhoeven-at-Pyramids-of-Giza-200283"
     },
     {
       "title": "Packers name Cam Achord special teams coordinator - Green Bay Packers",
       "link": "https://www.packers.com/news/packers-name-cam-achord-special-teams-coordinator-feb-27-2026"
     },
     {
-      "title": "Miami (OH) vs Western Michigan Odds, Picks, Prediction--2/27 - Action Network",
-      "link": "https://www.actionnetwork.com/ncaab/miami-oh-redhawks-vs-western-michigan-broncos-predictions-picks-odds-college-basketball-friday-february-27"
+      "title": "Yankees bring fireworks to Fort Myers in drubbing of the Twins - Pinstripe Alley",
+      "link": "https://www.pinstripealley.com/yankees-scores-game-recaps/177508/yankees-mlb-spring-training-game-score-recap-twins-spencer-jones-homer-carlos-lagrange-top-prospects"
     },
     {
-      "title": "Oleksandr Usyk to face former kickboxing champion Rico Verhoeven on May 23 - Bad Left Hook",
-      "link": "https://www.badlefthook.com/boxing-news/113370/oleksandr-usyk-to-face-former-kickboxing-champion-rico-verhoeven-may-23-boxing-news-2026"
+      "title": "Open Market: CB options for Cowboys in free agency - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/open-market-cb-options-for-cowboys-in-free-agency"
     },
     {
-      "title": "Where Seahawks sit with 2026 NFL salary cap increase now set - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/where-seattle-seahawks-stand-2026-salary-cap-set/1840557"
+      "title": "Charles Bediako\u2019s latest attempt to play again for Alabama basketball denied - AL.com",
+      "link": "https://www.al.com/alabamabasketball/2026/02/alabama-supreme-court-denies-charles-bediako-chance-to-play-against-tennessee-rest-of-season.html"
     },
     {
-      "title": "NFL Mock Draft 2.0 \u2014 Risers, fallers from the NFL Scouting Combine - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/bears/2026/02/27/bears-nfl-scouting-combine-mock-draft-20-kayden-mcdonald-defensive-tackle-ryan-poles-carnell-tate-ben-johnson"
-    },
-    {
-      "title": "Hawthorne Files For Chapter 11 Bankruptcy - Paulick Report",
-      "link": "https://paulickreport.com/news/the-biz/hawthorne-files-for-chapter-11-bankruptcy"
-    },
-    {
-      "title": "NBA Best Bets Today: Expert Picks, Predictions & Odds for February 27, 2026 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-best-bets-february-27-2026"
-    },
-    {
-      "title": "Wolves Insider: Anthony Edwards, Chris Finch and the \u2018funniest tug-of-war\u2019 that defines their relationship - Star Tribune",
-      "link": "https://www.startribune.com/anthony-edwards-chris-finch-minnesota-timberwolves-controversy-chris-hine-ant/601557308"
-    },
-    {
-      "title": "Men\u2019s College Basketball\u2019s Coaching Carousel: Names to Know As Jobs Open - Sports Illustrated",
-      "link": "https://www.si.com/college-basketball/2026-mens-college-basketball-coaching-carousel-names-to-know-as-jobs-open"
-    },
-    {
-      "title": "IndyCar 2026: Power's reclamation, Schumacher's rehabilitation, Palou's quest for history - ESPN",
-      "link": "https://www.espn.com/racing/indycar/story/_/id/48046159/indycar-2026-power-reclamation-mick-schumacher-rehabilitation-alex-palou-quest-history"
-    },
-    {
-      "title": "2026 NFL combine: What We Learned during Friday's activities in Indianapolis - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-combine-what-we-learned-during-friday-s-activities-in-indianapolis"
-    },
-    {
-      "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix - TechCrunch",
-      "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/"
-    },
-    {
-      "title": "T20 World Cup results: Will Jacks and Rehan Ahmed power England to win over New Zealand - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/c39w7dzm49xo"
-    },
-    {
-      "title": "The Men\u2019s Hockey Players Are Facing the Consequences of Their Dalliance With Trump - Slate",
-      "link": "https://slate.com/news-and-politics/2026/02/hockey-team-donald-trump-drama-tkachuk-canada.html"
-    },
-    {
-      "title": "President Donald Trump invites Nick Saban, Cody Campbell, Tim Tebow, others to White House roundtable - On3",
-      "link": "https://www.on3.com/news/president-donald-trump-invites-nick-saban-cody-campbell-tim-tebow-others-white-house-roundtable-college-sports/"
-    },
-    {
-      "title": "QB prospect Ty Simpson met with Arizona, \u2018would love to be a Cardinal\u2019 - Arizona Sports",
-      "link": "https://arizonasports.com/nfl/arizona-cardinals/ty-simpson-combine/3613009/"
-    },
-    {
-      "title": "Girlfriend's Defense Of Kash Patel's Winter Olympics Trip Goes Off The Rails - HuffPost",
-      "link": "https://www.huffpost.com/entry/alexis-wilkins-kash-patel-beer-hockey_n_69a1995ee4b022e3a5582692"
+      "title": "Blues' Latest Asking Price for Robert Thomas Revealed: And It Is Massive - NHL Trade Rumors",
+      "link": "https://www.nhltraderumors.me/2026/02/blues-latest-asking-price-for-robert.html"
     }
   ],
   "weather": {
