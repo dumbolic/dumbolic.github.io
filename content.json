@@ -1,9 +1,9 @@
 {
-  "quote": "Tragedy is a tool for the living to gain wisdom, not a guide by which to live. \u2013 Robert F. Kennedy",
-  "fact": "An average human loses about 200 head hairs per day.",
-  "crypto": "BTC: $69,059 | ETH: $2,046.25",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I'll tell you what often gets over looked... garden fences.",
+  "quote": "Life can only be understood backwards; but it must be lived forwards. \u2013 Soren Kierkegaard",
+  "fact": "Children grow faster in the springtime.",
+  "crypto": "BTC: $69,358 | ETH: $2,055.01",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,83 +12,115 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "This DJI Mini 5 Pro is on sale this weekend for 30% off - Mashable",
-      "link": "https://mashable.com/article/feb-28-dji-mini-5-pro-drone-deal"
+      "title": "Here's How Much The Toyota GR Supra Has Depreciated In 5 Years - Jalopnik",
+      "link": "https://www.jalopnik.com/2110548/2021-toyota-supra-gr-5-year-depreciation/"
+    },
+    {
+      "title": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot - CNBC",
+      "link": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html"
+    },
+    {
+      "title": "Upcoming Nintendo Switch 2 Games & Accessories For March & April 2026 - Nintendo Life",
+      "link": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-march-and-april-2026"
+    },
+    {
+      "title": "Apple believes low-cost MacBook will be an \u2018incredible value,\u2019 tempting switchers: report - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/01/low-cost-macbook-incredible-value-convince-many-to-switch-report/"
+    },
+    {
+      "title": "New Gmail Account Attack Warning\u2014Hackers Abuse Critical Security Check - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2026/03/01/check-your-gmail-account-security-now-ongoing-attacks-reported/"
+    },
+    {
+      "title": "Apple\u2019s Touch MacBook Will Stop Well Short of a Mac-iPad Hybrid - Bloomberg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-03-01/apple-touch-screen-macbook-pro-fall-2026-details-cheap-macbook-launch-core-ai-mm7rcg48"
+    },
+    {
+      "title": "VHS tapes are now worth big bucks. These N.J. shops are cashing in on the retro rewind. - NJ.com",
+      "link": "https://www.nj.com/entertainment/2026/02/vhs-tapes-are-now-worth-big-bucks-these-nj-shops-are-cashing-in-on-the-retro-rewind.html"
+    },
+    {
+      "title": "This Cheap Gadget Turns Any Car's Infotainment Center Into A Smart TV - SlashGear",
+      "link": "https://www.slashgear.com/2109723/car-infotainment-center-smart-tv-gadget-adapter/"
+    },
+    {
+      "title": "This Google TV projector is the nighstand accessory I didn't know I needed - Android Authority",
+      "link": "https://www.androidauthority.com/benq-gv32-review-3644032/"
+    },
+    {
+      "title": "The Boston Pub That Was Only Paid $1 To Become TV's Most Iconic Hangout - The Takeout",
+      "link": "https://www.thetakeout.com/2109329/boston-pub-tv-popular-hangout-cheers-paid-dollar/"
     },
     {
       "title": "Myrient announces March 31 shutdown for 390 TB video game preservation library - VideoCardz.com",
       "link": "https://videocardz.com/newz/myrient-announces-march-31-shutdown-for-390-tb-video-game-preservation-library"
     },
     {
+      "title": "Maserati Once Built A Six-Valve-Per-Cylinder Engine (And Quickly Learned Why Nobody Else Did) - Jalopnik",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11bnliRmptUnIzaG9tSE1DUlowV3gtdEFyMlhobnJPQ2NlSzdJWldSZ0lBWHJ5cFlfTmtJb2ptbjdTNVBOeFc2S05RRlB3c3loOGZlLW5kRURjWmN1ZGlGbWl1a3lCc2tnMzhJ?oc=5"
+    },
+    {
+      "title": "Xbox gets over 35 new games next week - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/new-xbox-games-march-2-2026"
+    },
+    {
+      "title": "God of War Universe to Expand with New Franchise (Cory Barlog\u2019s New Game) - Wccftech",
+      "link": "https://wccftech.com/god-of-war-universe-expand-new-franchise-cory-barlog-ip/"
+    },
+    {
       "title": "Column | Asking Eric: Grandson has no motivation; daughter enables him - The Washington Post",
       "link": "https://www.washingtonpost.com/advice/2026/03/01/asking-eric-grandson-lacking-motivation/"
+    },
+    {
+      "title": "\"It Still Gives Me Chills\": People Are Sharing Their Eeriest, Unexplained Experiences, And I Will Be Sleeping With The Lights On Tonight - BuzzFeed",
+      "link": "https://www.buzzfeed.com/meganeliscomb/eerie-unexplained-experiences"
+    },
+    {
+      "title": "Super Meat Boy Brings Brutal 3D Platforming To Switch 2 This Year - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/03/super-meat-boy-brings-brutal-3d-platforming-to-switch-2-this-year"
+    },
+    {
+      "title": "4 laptops that offer incredible value - Creative Bloq",
+      "link": "https://www.creativebloq.com/tech/laptops/get-more-bang-for-your-buck-these-are-the-best-value-laptops-on-sale-today"
     },
     {
       "title": "Nintendo\u2019s new approach to amiibo: expensive premium figurines - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-new-approach-to-amiibo-figures/"
     },
     {
-      "title": "Here's How Much Your Super Nintendo Is Worth In 2026 - bgr.com",
-      "link": "https://www.bgr.com/2109781/how-much-snes-worth-2026/"
-    },
-    {
-      "title": "Gallery: Here's A Look At Pok\u00e9mon Winds & Waves On Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/03/gallery-heres-a-look-at-pokemon-winds-and-waves-on-switch-2"
-    },
-    {
-      "title": "Xbox console executive says she left team after refusing to wear bathrobe at GDC hotel - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Xbox-console-executive-says-she-left-team-after-refusing-to-wear-bathrobe-at-GDC-hotel.1238175.0.html"
-    },
-    {
-      "title": "Totally wired! 8 of the best wired earphones - starting from $24 - Creative Bloq",
-      "link": "https://www.creativebloq.com/entertainment/totally-wired-8-of-the-best-wired-earphones-starting-from-usd24"
-    },
-    {
-      "title": "5 55-Inch TVs That Punch Way Above Their Price Tags - bgr.com",
-      "link": "https://www.bgr.com/2109427/best-55-inch-tv-deals/"
-    },
-    {
-      "title": "Which Starter Is The Best To Pick In Pok\u00e9mon FireRed/LeafGreen - Kotaku",
-      "link": "https://kotaku.com/pokemon-firered-leafgreen-starter-pick-best-bulbasaur-charmander-squirtle-2000674795"
-    },
-    {
-      "title": "Here Are The Cars That The Consumer Reports Testers Disliked Most In 2025 - Jalopnik",
-      "link": "https://www.jalopnik.com/2109814/consumer-reports-testers-hated-these-cars-in-2025/"
-    },
-    {
-      "title": "8 Cheaper Alternatives To Audible Every Audiobook Listener Should Try - bgr.com",
-      "link": "https://www.bgr.com/2107546/audible-cheaper-alternatives-audio-book-worth-trying/"
-    },
-    {
-      "title": "My Gmail storage was almost full, so I cleaned it up instead of upgrading to Google One - Android Police",
-      "link": "https://www.androidpolice.com/gmail-storage-almost-full-cleaned-it-instead-of-upgrading-google-one/"
-    },
-    {
-      "title": "I stopped using this Google app years ago until a surprise update changed everything - Android Police",
-      "link": "https://www.androidpolice.com/stopped-using-google-app-years-ago-surprise-update-changed-everything/"
-    },
-    {
-      "title": "Samsung Galaxy S26 vs. Apple iPhone 17: Battle of the Premium Phones - PCMag",
-      "link": "https://www.pcmag.com/comparisons/samsung-galaxy-s26-vs-apple-iphone-17-battle-of-the-premium-phones"
-    },
-    {
-      "title": "4 Costco Tablet Accessories That Will Level Up Your iPad - bgr.com",
-      "link": "https://www.bgr.com/2109285/best-costco-ipad-accessories/"
-    },
-    {
-      "title": "Poll: Are You Happy with Your PS Plus Essential Games for March 2026? - Push Square",
-      "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-march-2026"
-    },
-    {
-      "title": "The Legend Of Zelda didn\u2019t create a genre, but it did help define it - AV Club",
-      "link": "https://www.avclub.com/legend-of-zelda-40th-rpg"
-    },
-    {
-      "title": "Why BMW Went To Single Turbos Instead Of Dual Turbos - Jalopnik",
-      "link": "https://www.jalopnik.com/2109449/why-bmw-uses-single-turbo-instead-of-dual-turbo/"
+      "title": "Game Freak explains where the Pokemon Pokopia name comes from - Nintendo Everything",
+      "link": "https://nintendoeverything.com/pokemon-pokopia-name-explained/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Manchester United 2-1 Crystal Palace: Red Devils top 10-man Eagles, go third - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/manchester-united-vs-crystal-palace-recap-final-score-analysis-video-highlights"
+    },
+    {
+      "title": "Arsenal vs. Chelsea, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
+      "link": "https://weaintgotnohistory.sbnation.com/premier-league/166530/arsenal-vs-chelsea-premier-league-confirmed-lineups-how-to-watch"
+    },
+    {
+      "title": "Eagles News: Philadelphia\u2019s asking price for A.J. Brown trade described as \u201cunserious\u201d - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/171205/eagles-news-philadelphias-asking-price-in-a-j-brown-trade-described-as-unserious"
+    },
+    {
+      "title": "Cardinals Extend Oli Marmol - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/cardinals-extend-oli-marmol.html"
+    },
+    {
+      "title": "Player Ratings: Cremonese 0-2 AC Milan \u2013 Fofana shines; Leao and Pulisic struggle - SempreMilan",
+      "link": "https://sempremilan.com/player-ratings-cremonese-0-2-ac-milan-fofana"
+    },
+    {
+      "title": "Indiana fans boo Carson Beck during Scouting Combine workouts - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/indiana-fans-boo-carson-beck-during-scouting-combine-workouts"
+    },
+    {
+      "title": "2026 NFL Combine results: 3 winners from quarterbacks group - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-draft/158273/2026-nfl-combine-results-3-winners-from-quarterbacks-group"
+    },
     {
       "title": "T20 World Cup 2026 results: South Africa beat Zimbabwe to set up New Zealand semi-final - BBC",
       "link": "https://www.bbc.com/sport/cricket/articles/cj0d11qrz9eo"
@@ -106,8 +138,12 @@
       "link": "https://goheels.com/news/2026/3/1/mens-basketball-lucas-ninety-five"
     },
     {
-      "title": "\u2018SNL\u2019: Women\u2019s Hockey Gold Medalists Stick It to Trump - Rolling Stone",
-      "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/snl-womens-hockey-gold-medalists-stick-it-to-donald-trump-1235523382/"
+      "title": "Kosgei wins Tokyo Marathon in record time - BBC",
+      "link": "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no"
+    },
+    {
+      "title": "Arman Tsarukyan ignites massive brawl after punching Georgio Poullas at RAF 6 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/breaking-news/article/arman-tsarukyan-ignites-massive-brawl-after-punching-georgio-poullas-at-raf-6-video-060127623.html"
     },
     {
       "title": "UFC Mexico \u2018Moreno vs. Kavanagh\u2019 play-by-play, results & round scoring - Sherdog",
@@ -122,8 +158,8 @@
       "link": "https://www.batterypower.com/atlanta-braves-news/126695/atlanta-braves-news-spencer-strider-has-an-interesting-start-john-gil-shines-more"
     },
     {
-      "title": "2026 NFL Combine: Day 3 Winners and Losers among QBs, RBs, and WRs including Allar, Love, and Boston - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/news/2026-nfl-combine-day-3-winners-and-losers-among-qbs-rbs-and-wrs-including-allar-love-and-boston"
+      "title": "St. John\u2019s answers wake-up call they needed in largest win over Villanova - New York Post",
+      "link": "https://nypost.com/2026/02/28/sports/st-johns-answer-wake-up-call-they-needed-in-largest-win-over-villanova/"
     },
     {
       "title": "CRAWFORD | Louisville\u2019s 80-75 loss at Clemson feels familiar \u2014 and uncomfortable - WDRB",
@@ -132,42 +168,6 @@
     {
       "title": "\u2018F*ck is Herb doing\u2019: Pros rip late stoppage after King Green UFC Mexico knockout win - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/474130/fck-is-herb-doing-pros-rip-late-stoppage-after-king-green-ufc-mexico-knockout-win"
-    },
-    {
-      "title": "Is J.J.McCarthy\u2019s Status with the Vikings in Doubt? - Daily Norseman",
-      "link": "https://www.dailynorseman.com/minnesota-vikings-2026-offseason/95139/is-j-j-mccarthys-status-with-vikings-in-doubt"
-    },
-    {
-      "title": "Brenen Thompson runs a blazing 4.26-second 40 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brenen-thompson-runs-a-blazing-4-26-second-40"
-    },
-    {
-      "title": "Shane van Gisbergen passes five cars in one corner to win NASCAR O'Reilly at COTA - Motorsport.com",
-      "link": "https://www.motorsport.com/nascar-os/news/shane-van-gisbergen-wins-nascar-oreilly-COTA/10801213/"
-    },
-    {
-      "title": "NDSU earns top seed in 2026 #SummitMBB Championship Bracket - The Summit League",
-      "link": "https://thesummitleague.org/news/2026/3/1/mens-basketball-ndsu-earns-top-seed-in-2026-summitmbb-championship-bracket.aspx"
-    },
-    {
-      "title": "What Rick Barnes said about Nate Ament's injury in Tennessee basketball loss vs Alabama - On3",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/nate-ament-injury-update-tennessee-basketball-alabama-rick-barnes/"
-    },
-    {
-      "title": "Philadelphia Union Announce New Additions and Upgrades at Subaru Park for 2026 Season - Philadelphia Union",
-      "link": "https://www.philadelphiaunion.com/news/philadelphia-union-announce-new-additions-and-upgrades-at-subaru-park-for-2026-season"
-    },
-    {
-      "title": "NSAA releases brackets for 2026 Girls State Basketball Championships - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "link": "https://www.1011now.com/2026/03/01/nsaa-releases-brackets-2026-girls-state-basketball-championships/"
-    },
-    {
-      "title": "2026 NFL Combine results: 5 winners from the wide receivers group - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-draft/158271/2026-nfl-combine-results-5-winners-from-the-wide-receivers-group"
-    },
-    {
-      "title": "Some expect Malik Willis to land in range of $20 million to $25 million per year - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/some-expect-malik-willis-to-land-in-range-of-20-million-to-25-million-per-year"
     }
   ],
   "weather": {
