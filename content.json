@@ -1,9 +1,9 @@
 {
-  "quote": "The most important things are the hardest to say. \u2013 Stephen King",
-  "fact": "Average number of people airborne over the US any given hour: 61,000.",
-  "crypto": "BTC: $69,313 | ETH: $2,052.65",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a boy who stopped digging holes? Douglas.",
+  "quote": "It is often safer to be in chains than to be free.  \u2013 Franz Kafka",
+  "fact": "The ant always falls over on its right side when intoxicated.",
+  "crypto": "BTC: $69,096 | ETH: $2,041.76",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Never take advice from electrons. They are always negative.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Was Marathon\u2019s Server Slam A Success Or A Failure? - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/01/was-marathons-server-slam-a-success-or-a-failure/"
+      "title": "Portable Sonos Play speaker leaks on Canadian Best Buy - The Verge",
+      "link": "https://www.theverge.com/tech/887220/sonos-play-leak"
+    },
+    {
+      "title": "How to Get Money Fast (Nugget Bridge Glitch) - Pokemon Fire Red and Leaf Green Guide - IGN",
+      "link": "https://www.ign.com/wikis/pokemon-firered-leafgreen-version/How_to_Get_Money_Fast_(Nugget_Bridge_Glitch)"
+    },
+    {
+      "title": "\u201cEntry-Level PC Segment Will Disappear by 2028,\u201d Says Gartner, as Soaring Memory Costs Start to Cripple Manufacturers - Wccftech",
+      "link": "https://wccftech.com/entry-level-pc-segment-will-disappear-by-2028/"
+    },
+    {
+      "title": "God of War developer is working on \"a new franchise within the God of War universe\" - Eurogamer",
+      "link": "https://www.eurogamer.net/god-of-war-developer-is-working-on-a-new-franchise-within-the-god-of-war-universe"
     },
     {
       "title": "Sunday Preview \u2013 Ahoy me hearties, space pirates inbound - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/ewwcqh21/sunday-preview-ahoy-me-hearties-space-pirates-inbound"
     },
     {
+      "title": "Microsoft\u2019s DirectX SER Delivers a 90% Performance Boost on Intel\u2019s Battlemage GPUs, Optimizing Intense Rendering Workloads - Wccftech",
+      "link": "https://wccftech.com/microsoft-directx-ser-delivers-a-90-percent-performance-boost-on-intel-gpu/"
+    },
+    {
       "title": "Investors spill what they aren\u2019t looking for anymore in AI SaaS companies - TechCrunch",
       "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/"
     },
     {
-      "title": "I finally found 6 Android settings toggles that actually save my battery life - Android Police",
-      "link": "https://www.androidpolice.com/i-finally-found-android-settings-toggles-that-saves-my-battery-life/"
+      "title": "Apple replacing Core ML with modernized Core AI framework for iOS 27 at WWDC - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/01/apple-replacing-core-ml-with-modernized-core-ai-framework-for-ios-27-at-wwdc/"
+    },
+    {
+      "title": "Marathon dev Bungie responds to Server Slam feedback, particularly around UI, PC performance, and more - Eurogamer",
+      "link": "https://www.eurogamer.net/marathon-dev-bungie-responds-to-server-slam-feedback-particularly-around-ui-pc-performance-and-more"
+    },
+    {
+      "title": "PlayStation Retro Anime Spoof Will Be Available Outside Japan For The First Time In 27 Years - Kotaku",
+      "link": "https://kotaku.com/playstation-retro-anime-geppyx-shmu-2000674842"
+    },
+    {
+      "title": "Soundcore\u2019s New Headphones Have an Absurd Battery Life for the Price - Gizmodo",
+      "link": "https://gizmodo.com/soundcores-new-made-for-travel-headphones-are-built-to-block-out-airplane-noise-2000727271"
     },
     {
       "title": "Here's How Much The Toyota GR Supra Has Depreciated In 5 Years - Jalopnik",
@@ -36,16 +64,16 @@
       "link": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html"
     },
     {
+      "title": "Bluetooth Is Getting an Upgrade. Here's What It Means for Your Devices - PCMag",
+      "link": "https://www.pcmag.com/news/bluetooth-is-getting-an-upgrade-heres-what-it-means-for-your-devices"
+    },
+    {
       "title": "Upcoming Nintendo Switch 2 Games & Accessories For March & April 2026 - Nintendo Life",
       "link": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-march-and-april-2026"
     },
     {
-      "title": "Apple believes low-cost MacBook will be an \u2018incredible value,\u2019 tempting switchers: report - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/01/low-cost-macbook-incredible-value-convince-many-to-switch-report/"
-    },
-    {
-      "title": "New Gmail Account Attack Warning\u2014Hackers Abuse Critical Security Check - Forbes",
-      "link": "https://www.forbes.com/sites/daveywinder/2026/03/01/check-your-gmail-account-security-now-ongoing-attacks-reported/"
+      "title": "PlayStation Plus Users Have 48 Hours to Claim 4 Games for Free - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/playstation-plus-free-games-ps4-ps5-february-2026/"
     },
     {
       "title": "The Best New Photo Gear Announced at CP+ 2026 - PetaPixel",
@@ -56,42 +84,82 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-03-01/apple-touch-screen-macbook-pro-fall-2026-details-cheap-macbook-launch-core-ai-mm7rcg48"
     },
     {
-      "title": "Resident Evil Requiem leans too much on the series\u2019 past - The Verge",
-      "link": "https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending"
-    },
-    {
       "title": "Honor\u2019s Magic V6 is the first foldable with an IP69 rating - The Verge",
       "link": "https://www.theverge.com/tech/887104/honor-magic-v6-thinnest-battery-launch-mwc"
     },
     {
       "title": "VHS tapes are now worth big bucks. These N.J. shops are cashing in on the retro rewind. - NJ.com",
       "link": "https://www.nj.com/entertainment/2026/02/vhs-tapes-are-now-worth-big-bucks-these-nj-shops-are-cashing-in-on-the-retro-rewind.html"
-    },
-    {
-      "title": "This Cheap Gadget Turns Any Car's Infotainment Center Into A Smart TV - SlashGear",
-      "link": "https://www.slashgear.com/2109723/car-infotainment-center-smart-tv-gadget-adapter/"
-    },
-    {
-      "title": "This Google TV projector is the nighstand accessory I didn't know I needed - Android Authority",
-      "link": "https://www.androidauthority.com/benq-gv32-review-3644032/"
-    },
-    {
-      "title": "I stopped losing web pages forever with this one free tool - Android Police",
-      "link": "https://www.androidpolice.com/i-stopped-losing-web-pages-forever-with-this-one-simple-tool/"
-    },
-    {
-      "title": "The Boston Pub That Was Only Paid $1 To Become TV's Most Iconic Hangout - The Takeout",
-      "link": "https://www.thetakeout.com/2109329/boston-pub-tv-popular-hangout-cheers-paid-dollar/"
-    },
-    {
-      "title": "Make the Most of Chrome's Toolbar by Customizing It to Your Liking - WIRED",
-      "link": "https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/"
     }
   ],
   "sports_news": [
     {
+      "title": "Raiders announce 2026 coaching staff - Raiders.com",
+      "link": "https://www.raiders.com/news/raiders-announce-2026-coaching-staff"
+    },
+    {
+      "title": "Video shows Mick Schumacher taken out in messy crash on IndyCar debut - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/mick-schumachers-indycar-debut-ends-in-lap-1-crash/10801429/"
+    },
+    {
+      "title": "Ohio State 82-74 Purdue (Mar 1, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401825552"
+    },
+    {
+      "title": "NBA Best Bets: Jaylen Brown Prop, Lakers-Kings Spread Top Sunday Night\u2019s Picks - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nba-best-bets-today-march-1-2026"
+    },
+    {
+      "title": "'It's cultural' - red cards and set-pieces wrecking Chelsea's season - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/crm8dx74jneo"
+    },
+    {
+      "title": "Michigan State vs Indiana Odds, Picks, Prediction for Sunday (3/1) - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-indiana-hoosiers-predictions-picks-odds-college-basketball-sunday-march-1"
+    },
+    {
+      "title": "Iran's soccer federation says World Cup participation in doubt - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/48074546/iran-soccer-federation-world-cup-participation-doubt"
+    },
+    {
+      "title": "Alex Palou dominates IndyCar field to win Grand Prix of St. Petersburg - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/alex-palou-wins-season-opener-with-largest-ever-margin-of-victory-in-indycar-grand-prix-of-st-peter/10801443/"
+    },
+    {
+      "title": "Report: Vikings will move on from RB Aaron Jones, other veterans - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-will-move-on-from-rb-aaron-jones-other-veterans"
+    },
+    {
+      "title": "Schedule Update: Series Finale at Miami Canceled - Florida Gators",
+      "link": "https://floridagators.com/news/2026/3/1/baseball-schedule-update-series-finale-at-miami-canceled"
+    },
+    {
+      "title": "Timberwolves vs Nuggets Prediction, Odds, NBA Picks for Sunday, March 1 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/timberwolves-vs-nuggets-prediction-pick-odds-for-sunday-march-1"
+    },
+    {
       "title": "Footballers covering their mouths should be sent off - Gianni Infantino - BBC",
       "link": "https://www.bbc.com/sport/football/articles/cvg3q3p3jd7o"
+    },
+    {
+      "title": "NFL Combine: 7 high-character offensive linemen for Detroit Lions - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-draft/158358/nfl-combine-7-high-character-offensive-linemen-for-detroit-lions"
+    },
+    {
+      "title": "Sanju Samson emotional after beating Virat Kohli\u2019s MCG epic, taking India to T20 World Cup semis: \u2018Kept doubting myself\u2019 | Cricket - Hindustan Times",
+      "link": "https://www.hindustantimes.com/cricket/sanju-samson-emotional-after-beating-virat-kohli-s-mcg-epic-taking-india-to-t20-world-cup-semis-kept-doubting-myself-101772384013001.html"
+    },
+    {
+      "title": "LA Kings Announce Coaching Update - NHL.com",
+      "link": "https://www.nhl.com/kings/news/la-kings-announce-coaching-update"
+    },
+    {
+      "title": "College Football Players Are Getting Faster... Kind Of - OutKick",
+      "link": "https://www.outkick.com/sports/college-football-players-getting-faster-yes-no"
+    },
+    {
+      "title": "Thomas White Suffers Oblique Strain - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/thomas-white-suffers-oblique-strain.html"
     },
     {
       "title": "Manchester United 2-1 Crystal Palace: Red Devils top 10-man Eagles, go third - NBC Sports",
@@ -100,66 +168,6 @@
     {
       "title": "Fulham 2-1 Tottenham: Spurs now winless in ten matches - Cartilage Free Captain",
       "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-match-reports/69267/fulham-2-1-tottenham-spurs-now-winless-in-ten-matches"
-    },
-    {
-      "title": "Arsenal vs. Chelsea, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/premier-league/166530/arsenal-vs-chelsea-premier-league-confirmed-lineups-how-to-watch"
-    },
-    {
-      "title": "Bills GM Brandon Beane excited to hit 'full reset' with WR Keon Coleman under new coaching staff - NFL.com",
-      "link": "https://www.nfl.com/news/bills-gm-brandon-beane-exited-to-hit-full-reset-with-wr-keon-coleman-under-new-coaching-staff"
-    },
-    {
-      "title": "Eagles News: Philadelphia\u2019s asking price for A.J. Brown trade described as \u201cunserious\u201d - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/171205/eagles-news-philadelphias-asking-price-in-a-j-brown-trade-described-as-unserious"
-    },
-    {
-      "title": "Cardinals Extend Oli Marmol - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/cardinals-extend-oli-marmol.html"
-    },
-    {
-      "title": "Indiana fans boo Carson Beck during Scouting Combine workouts - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/indiana-fans-boo-carson-beck-during-scouting-combine-workouts"
-    },
-    {
-      "title": "2026 NFL Combine results: 3 winners from quarterbacks group - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-draft/158273/2026-nfl-combine-results-3-winners-from-quarterbacks-group"
-    },
-    {
-      "title": "T20 World Cup 2026 results: South Africa beat Zimbabwe to set up New Zealand semi-final - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/cj0d11qrz9eo"
-    },
-    {
-      "title": "The Sabres turned Saturday in Tampa Bay into a laugher - Audacy",
-      "link": "https://www.audacy.com/wgr550/sports/sabres/hamilton-sabres-turned-saturdays-matchup-with-lightning-into-a-laugher"
-    },
-    {
-      "title": "Patriots prioritize draft, developing their own players - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48046883/new-england-patriots-not-expected-big-splashes-2026-nfl-offseason"
-    },
-    {
-      "title": "Lucas: Ninety-Five - University of North Carolina Athletics",
-      "link": "https://goheels.com/news/2026/3/1/mens-basketball-lucas-ninety-five"
-    },
-    {
-      "title": "Kosgei wins Tokyo Marathon in record time - BBC",
-      "link": "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no"
-    },
-    {
-      "title": "Arman Tsarukyan ignites massive brawl after punching Georgio Poullas at RAF 6 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/breaking-news/article/arman-tsarukyan-ignites-massive-brawl-after-punching-georgio-poullas-at-raf-6-video-060127623.html"
-    },
-    {
-      "title": "UFC Mexico \u2018Moreno vs. Kavanagh\u2019 play-by-play, results & round scoring - Sherdog",
-      "link": "https://www.sherdog.com/news/news/UFC-Mexico-Moreno-vs-Kavanagh-playbyplay-results-round-scoring-200281"
-    },
-    {
-      "title": "Warriors Notes: Porzingis, Curry, Santos, Richard - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/02/warriors-notes-porzingis-curry-santos-richard.html"
-    },
-    {
-      "title": "Braves News: Spencer Strider has an interesting start, John Gil shines, more - Battery Power",
-      "link": "https://www.batterypower.com/atlanta-braves-news/126695/atlanta-braves-news-spencer-strider-has-an-interesting-start-john-gil-shines-more"
     }
   ],
   "weather": {
