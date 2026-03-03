@@ -1,9 +1,9 @@
 {
-  "quote": "Constantly think about how you could be doing things better. \u2013 Elon Musk",
-  "fact": "Grapes explode when you put them in the microwave. Go on, try it then",
-  "crypto": "BTC: $68,332 | ETH: $1,982.9",
+  "quote": "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  \u2013 Charles Swindoll",
+  "fact": "Arizona was the last of the 48 adjoining continental states to enter the Union.",
+  "crypto": "BTC: $68,748 | ETH: $1,990.63",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why do ducks make great detectives? They always quack the case.",
+  "joke": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Here\u2019s the upgrade to my favorite phone camera of last year - The Verge",
+      "link": "https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage"
+    },
+    {
+      "title": "Resident Evil Requiem Concept Art Reignites The Leon Ship War - Kotaku",
+      "link": "https://kotaku.com/resident-evil-requiem-leon-wedding-ring-married-art-2000675045"
+    },
+    {
+      "title": "Pok\u00e9mon FireRed And LeafGreen Players Are Accidentally Losing Hours Of Progress - Kotaku",
+      "link": "https://kotaku.com/pokemon-firered-leafgreen-soft-reset-disable-switch-2-2000675029"
+    },
+    {
+      "title": "Apple debuts its 2026 spring accessory collection for iPhone and Apple Watch - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/02/apple-debuts-its-2026-spring-accessory-collection-for-iphone-and-apple-watch/"
+    },
+    {
       "title": "Apple introduces iPhone 17e - Apple",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"
+    },
+    {
+      "title": "New Gran Turismo In Development - Insider Gaming",
+      "link": "https://insider-gaming.com/new-gran-turismo-in-development/"
     },
     {
       "title": "Apple launches a new iPad Air with an upgraded M4 processor - The Verge",
       "link": "https://www.theverge.com/tech/886433/apple-ipad-air-2026-launch-price-specs-availability"
     },
     {
+      "title": "Apple Discusses Google Hosting New Siri as Need for Cloud Help Grows - The Information",
+      "link": "https://www.theinformation.com/articles/apple-discusses-google-hosting-new-siri-need-cloud-help-grows"
+    },
+    {
+      "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding - Ars Technica",
+      "link": "https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/"
+    },
+    {
       "title": "Eye of Terror \u2013 The Reign of Iron Begins - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/jgwkothg/eye-of-terror-the-reign-of-iron-begins"
+    },
+    {
+      "title": "PSA: Most Wi-Fi routers vulnerable to AirSnitch attack \u2013 here\u2019s what to do - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/02/psa-most-wi-fi-routers-vulnerable-to-airsnitch-attack-heres-what-to-do/"
+    },
+    {
+      "title": "Nintendo Indie World Showcase Announced For Tomorrow, 3rd March 2026 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/03/nintendo-indie-world-showcase-announced-for-tomorrow-3rd-march-2026"
+    },
+    {
+      "title": "BMW Made The M2 Faster Without Touching The Engine - Motor1.com",
+      "link": "https://www.motor1.com/news/788648/bmw-m2-track-kit-revealed/"
     },
     {
       "title": "Starfield PS5 Release Date Confirmed, Prices & Editions Revealed - Insider Gaming",
@@ -32,63 +72,31 @@
       "link": "https://www.warhammer-community.com/articles/vfcfswyc/embrace-chaos-with-marchs-miniature-of-the-month-and-score-two-commemorative-coins"
     },
     {
-      "title": "Upcoming Budget MacBook Seen Within Apple as 'Incredible Value' - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/02/low-cost-macbook-incredible-value-apple/"
-    },
-    {
       "title": "Pok\u00e9mon Winds & Waves: Pok\u00e9dex - Every Confirmed Pok\u00e9mon So Far - Nintendo Life",
       "link": "https://www.nintendolife.com/guides/pokemon-winds-and-waves-pokedex-every-confirmed-pokemon-so-far"
     },
     {
+      "title": "Pok\u00e9mon Fan Claims World First Completion of Resident Evil Requiem Final Puzzle \u2014 But Insists They're Unsure Exactly How They Did It - IGN",
+      "link": "https://www.ign.com/articles/pokemon-fan-claims-world-first-completion-of-resident-evil-requiem-final-puzzle-but-claim-theyre-unsure-exactly-how-they-did-it"
+    },
+    {
+      "title": "Read what Xbox's new CEO said to their team about Phil Spencer, Sarah Bond, and the future - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/at-microsofts-big-xbox-all-hands-meeting-leaders-paid-tribute-to-the-team"
+    },
+    {
       "title": "New Xbox roles focus on lifecycle and an existing RPG - Windows Central",
       "link": "https://www.windowscentral.com/gaming/xbox/new-ceo-moves-fast-major-marketing-hires-could-signal-strategy-shift"
-    },
-    {
-      "title": "Former Xbox Exec Reveals She Was Kicked Out After Refusing to Put on a Bathrobe at GDC - Wccftech",
-      "link": "https://wccftech.com/former-xbox-exec-kicked-out-bathrobe-gdc/"
-    },
-    {
-      "title": "Backlash hits Warhammer 40K: Space Marine 2 over voice pack DLC's missing (and changing) lines - Eurogamer",
-      "link": "https://www.eurogamer.net/warhammer-40k-space-marine-2-voice-pack-dlc-sparks-backlash"
-    },
-    {
-      "title": "8 Gemini tricks on Android most people still aren\u2019t using - Android Authority",
-      "link": "https://www.androidauthority.com/gemini-tips-and-tricks-android-3644941/"
-    },
-    {
-      "title": "UK Charts: Resident Evil Requiem Switch 2 Sales Comparable To Cyberpunk 2077 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/03/uk-charts-resident-evil-requiem-switch-2-sales-comparable-to-cyberpunk-2077"
-    },
-    {
-      "title": "Xbox Game Pass loses six games in March 2026 - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-march-2026"
-    },
-    {
-      "title": "BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com",
-      "link": "https://www.motor1.com/news/788464/bmw-leaks-names-2027-cars/"
-    },
-    {
-      "title": "God of War Universe to Expand with New Franchise (Cory Barlog\u2019s New Game) [UPDATED] - Wccftech",
-      "link": "https://wccftech.com/god-of-war-universe-expand-new-franchise-cory-barlog-ip/"
-    },
-    {
-      "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/"
-    },
-    {
-      "title": "How Qualcomm's new wearables chipset could spell the end of smartphone dominance - ZDNET",
-      "link": "https://www.zdnet.com/article/qualcomm-snapdragon-wear-elite-chip-samsung-google-ai-mwc-2026/"
-    },
-    {
-      "title": "ChatGPT vs Claude: I put both default models through 7 real-world tests \u2014 one is the clear winner - Tom's Guide",
-      "link": "https://www.tomsguide.com/ai/chatgpt-vs-claude-i-put-both-default-models-through-7-real-world-tests-one-is-the-clear-winner"
-    },
-    {
-      "title": "Motorola News | Motorola's new partnership with GrapheneOS - Motorola News",
-      "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Preseason Top 30 Prospects list reveals begin in the East - MLB.com",
+      "link": "https://www.mlb.com/news/mlb-preseason-top-30-prospects-lists-2026"
+    },
+    {
+      "title": "BREAKING: USC makes stunning announcement on Chad Baker-Mazara - On3",
+      "link": "https://www.on3.com/college/usc-trojans/news/usc-announces-chad-baker-mazara-no-longer-member-of-basketball-program/"
+    },
     {
       "title": "President of Iran\u2019s soccer federation says World Cup participation in US is in doubt - AP News",
       "link": "https://apnews.com/article/iran-world-cup-participation-united-states-d21fd7543f416458984e82bdf9a70415"
@@ -98,8 +106,8 @@
       "link": "https://d1baseball.com/stories/d1baseball-top-25/"
     },
     {
-      "title": "Browns agree to acquire Tytus Howard from Texans in trade, sign OT to three-year, $63M extension - NFL.com",
-      "link": "https://www.nfl.com/news/tytus-howard-browns-texans-trade-three-year-63m-extension"
+      "title": "Texans agree to trade Tytus Howard to Browns - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-agree-to-trade-tytus-howard-to-browns"
     },
     {
       "title": "Morning Report | Dan Hardy questions UFC 326 quality: \u2018Definitely doesn\u2019t look like a PPV card\u2019 - MMA Fighting",
@@ -110,12 +118,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-plan-to-release-jawaan-taylor"
     },
     {
-      "title": "Arne Slot on set-pieces: Premier League games not a joy to watch - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c4gjwm99we8o"
+      "title": "How many future Hall of Famers are playing in the 2026 WBC? - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/48045010/mlb-2026-wbc-world-baseball-classic-future-hall-famers"
     },
     {
-      "title": "Will Buccaneers make a move for Maxx Crosby? - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-buccaneers-make-a-move-for-maxx-crosby"
+      "title": "Arne Slot on set-pieces: Premier League games not a joy to watch - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c4gjwm99we8o"
     },
     {
       "title": "Albert Breer\u2019s Takeaways: Heeding the Lessons of the Lions\u2019 2023 Draft Class - Sports Illustrated",
@@ -134,8 +142,16 @@
       "link": "https://www.pff.com/news/draft-post-combine-2026-nfl-mock-draft-sonny-styles-steelers-ty-simpson"
     },
     {
+      "title": "Skull Session: Jake Diebler Owns Purdue, Kennedy Cambridge is a Legitimate Defensive Player of the Year Candidate and the Styles Brothers Dominate the NFL Combine - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/skull-sessions/2026/03/161735/skull-session-jake-diebler-owns-purdue-kennedy-cambridge-is-a-legitimate-defensive-player-of-the-year-candidate-the"
+    },
+    {
       "title": "NFL Scouting Combine 40-yard dash times are faster than ever in 2026 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-scouting-combine-40-yard-dash-times-are-faster-than-ever-in-2026"
+    },
+    {
+      "title": "2026 NCAA Tournament Predictions: Bracketology changes after chaotic, upset-filled weekend - On3",
+      "link": "https://www.on3.com/news/2026-ncaa-tournament-predictions-bracketology-changes-after-chaotic-upset-filled-weekend/"
     },
     {
       "title": "Player Grades: Lakers vs. Kings - Silver Screen and Roll",
@@ -152,18 +168,6 @@
     {
       "title": "Lionel Messi stuns Orlando, Timo Werner delivers & more from Matchday 2 - MLSsoccer.com",
       "link": "https://www.mlssoccer.com/news/lionel-messi-stuns-orlando-timo-werner-delivers-more-from-matchday-2"
-    },
-    {
-      "title": "Sharks Locker Room: Misa\u2019s Alright in NHL - San Jose Hockey Now",
-      "link": "https://sanjosehockeynow.com/san-jose-sharks-misa-desharnais-smith-locker-room/"
-    },
-    {
-      "title": "Hokies Women\u2019s Basketball Earns No. 6 Seed In 2026 ACC Tournament - TechSideline.com",
-      "link": "https://virginiatech.sportswar.com/article/2026/03/01/hokies-wbb-no-6-seed-2026-acc-tournament/"
-    },
-    {
-      "title": "Lions RB David Montgomery \u2018Wants Out\u2019 - NFL Rumors - ProFootballRumors.com",
-      "link": "https://www.profootballrumors.com/2026/03/lions-rb-david-montgomery-wants-out"
     }
   ],
   "weather": {
