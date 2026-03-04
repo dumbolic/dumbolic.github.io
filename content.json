@@ -1,9 +1,9 @@
 {
-  "quote": "Perfectionism is simply putting a limit on your future. \u2013 John Eliot",
-  "fact": "For every 'normal' webpage, there are five porn pages.",
-  "crypto": "BTC: $68,309 | ETH: $1,979.08",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Sore throats are a pain in the neck!",
+  "quote": "Laziness may appear attractive, but work gives satisfaction. \u2013 Anne Frank",
+  "fact": "You share your birthday with at least 9 million other people in the world.",
+  "crypto": "BTC: $67,757 | ETH: $1,958.55",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How do you find Will Smith in the snow?  Look for fresh prints.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using? - WIRED",
+      "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/"
+    },
+    {
+      "title": "The Making of the Music of Kirby Air Riders \u2014 Part 1 - Nintendo",
+      "link": "https://www.nintendo.com/us/whatsnew/the-making-of-the-music-of-kirby-air-riders-part-1/"
+    },
+    {
+      "title": "A new app alerts you if someone nearby is wearing smart glasses - TechCrunch",
+      "link": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"
+    },
+    {
       "title": "Ubisoft Is Having A Pretty Enormous Sale Right Now - Kotaku",
       "link": "https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127"
     },
     {
+      "title": "Honor's humanoid robot shows off impressive dancing skills at MWC - Mashable",
+      "link": "https://mashable.com/article/honor-humanoid-robot-dance-mwc-2026"
+    },
+    {
       "title": "Apple\u2019s new products add C1X chip for three unique advantages - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2ZNZFk3aW5rUXpvek9UUWJFTVg0dWVfZFdtaUNrZV96NzdKNUc1NXJaN0pER2xmdnkwTVJYQUNtSUVITlptdl81Zi1zcnNYbEVQTl8tdTRFVDFrYWc4dWd4NmQwaUU1STF0aTBwRHJuWU1WN3FZTmRXN09mQVdMZ0hhTDNxRTljQTlaNXJmeTlpdFliRThN?oc=5"
+      "link": "https://9to5mac.com/2026/03/02/apples-new-products-add-c1x-chip-for-three-unique-advantages/"
     },
     {
       "title": "Leon Kennedy's voice actor has seen your thirst traps, and he approves - GoNintendo",
       "link": "https://gonintendo.com/contents/58306-leon-kennedy-s-voice-actor-has-seen-your-thirst-traps-and-he-approves"
+    },
+    {
+      "title": "Google Pixel Now Playing redesign with M3 Expressive rolling out - 9to5Google",
+      "link": "http://9to5google.com/2026/03/02/pixel-now-playing-redesign-2/"
+    },
+    {
+      "title": "The Fallout 3 and New Vegas remasters may have their development studio - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/the-fallout-3-and-new-vegas-remasters-may-have-their-developer"
+    },
+    {
+      "title": "Resident Evil Requiem Japanese players fight \"immersion-breaking\" censorship - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/resident-evil-requiem-japanese-players-fight-immersion-breaking-censorship"
+    },
+    {
+      "title": "Call Of Duty Announces Black Ops Royale, A New Warzone Battle-Royale Mode Inspired By Blackout - Game Informer",
+      "link": "https://gameinformer.com/2026/03/02/call-of-duty-announces-black-ops-royale-a-new-warzone-battle-royale-mode-inspired-by"
     },
     {
       "title": "Apple iPhone 18 Pro: New Leak Signals Unprecedented Design Change - Forbes",
@@ -32,8 +64,16 @@
       "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-mmr-to-rank-distribution/"
     },
     {
+      "title": "Resident Evil Requiem Final Puzzle Solution Finally Laid Bare, Hours After Pok\u00e9mon YouTuber Completed It by Accident - IGN",
+      "link": "https://www.ign.com/articles/resident-evil-requiem-final-puzzle-solution-finally-laid-bare-hours-after-pokmon-youtuber-completed-it-by-accident"
+    },
+    {
       "title": "Triceratops skeleton \u2018Trey\u2019 to hit the auction block as dinosaur market soars - AP News",
       "link": "https://apnews.com/article/dinosaur-fossil-auction-trey-triceratops-joopiter-437d0090e76287fd1409d5d8e9c01d5b"
+    },
+    {
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel - The Hacker News",
+      "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html"
     },
     {
       "title": "Return to New York - Magic: The Gathering",
@@ -50,56 +90,72 @@
     {
       "title": "Apple introduces iPhone 17e - Apple",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"
-    },
-    {
-      "title": "Eye of Terror \u2013 The Reign of Iron Begins - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/jgwkothg/eye-of-terror-the-reign-of-iron-begins"
-    },
-    {
-      "title": "PSA: Most Wi-Fi routers vulnerable to AirSnitch attack \u2013 here\u2019s what to do - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/02/psa-most-wi-fi-routers-vulnerable-to-airsnitch-attack-heres-what-to-do/"
-    },
-    {
-      "title": "BMW Made The M2 Faster Without Touching The Engine - Motor1.com",
-      "link": "https://www.motor1.com/news/788648/bmw-m2-track-kit-revealed/"
-    },
-    {
-      "title": "Pok\u00e9mon Pokopia is an expansive adventure disguised as a cozy life sim - The Verge",
-      "link": "https://www.theverge.com/games/885431/pokemon-pokopia-review"
-    },
-    {
-      "title": "Embrace Chaos with March\u2019s Miniature of the Month and score two commemorative coins - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/vfcfswyc/embrace-chaos-with-marchs-miniature-of-the-month-and-score-two-commemorative-coins"
-    },
-    {
-      "title": "Pok\u00e9mon Winds & Waves: Pok\u00e9dex - Every Confirmed Pok\u00e9mon So Far - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/pokemon-winds-and-waves-pokedex-every-confirmed-pokemon-so-far"
-    },
-    {
-      "title": "Pok\u00e9mon Fan Claims World First Completion of Resident Evil Requiem Final Puzzle \u2014 But Insists They're Unsure Exactly How They Did It - IGN",
-      "link": "https://www.ign.com/articles/pokemon-fan-claims-world-first-completion-of-resident-evil-requiem-final-puzzle-but-claim-theyre-unsure-exactly-how-they-did-it"
-    },
-    {
-      "title": "Touchscreen MacBook Pro to Be 'Touch-Friendly, Not Touch-First' - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/02/touchscreen-macbook-pro-touch-friendly/"
-    },
-    {
-      "title": "Nothing just revealed Phone (4a)\u2019s colors, but Phone (4a) Pro remains a mystery [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/03/02/nothing-phone-4a-color-reveal/"
     }
   ],
   "sports_news": [
     {
+      "title": "BREAKING: Mark Stoops joins surprising SEC team's staff - On3",
+      "link": "https://www.on3.com/news/report-steve-sarkisian-texas-hire-former-kentucky-head-coach-mark-stoops-to-staff-as-special-assistant/"
+    },
+    {
+      "title": "NBA Player Not Onboard With Hawks' Promo Stripper Night - OutKick",
+      "link": "https://www.outkick.com/sports/luke-kornet-not-onboard-hawks-promo-stripper-night"
+    },
+    {
+      "title": "US track star led astray during $20K half marathon pleads for officials to \u2018make it right\u2019 - New York Post",
+      "link": "https://nypost.com/2026/03/02/sports/us-track-star-led-astray-during-half-marathon-pleads-for-officials-to-make-it-right/"
+    },
+    {
+      "title": "Blackhawks trade Connor Murphy to Oilers, ending his nine-year run in Chicago - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/blackhawks/2026/03/02/blackhawks-trade-connor-murphy-oilers-stan-bowman-nhl-deadline"
+    },
+    {
+      "title": "Arman Tsarukyan breaks his silence after RAF 6 brawl with Georgio Poullas: \u2018This is not my fault\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/474602/arman-tsarukyan-breaks-silence-after-raf-6-brawl-with-georgio-poullas-this-is-not-my-fault"
+    },
+    {
+      "title": "Iowa State vs Arizona Prediction, Time, Pick, Odds \u2014 3/2 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-arizona-wildcats-predictions-picks-odds-college-basketball-monday-march-2"
+    },
+    {
+      "title": "Duke extends No. 1 record in AP Top 25 as Michigan State, Nebraska and Texas Tech crash top 10 - AP News",
+      "link": "https://apnews.com/article/ap-top-25-poll-duke-5c7ec81f1303ace9a8b1e18f3e9db3f6"
+    },
+    {
       "title": "Duke vs NC State Prediction, Time, Pick, Odds for Tonight\u2019s College Basketball Game - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXBPT3Nhd3JMWkJGYlItVkRhYUxhbWcwRWV5c2ZaYkpudFozdl9nS1Y4LTlxRHFvZFlnMWRLWHd6R0NuMEdwa2o2WGcxMGVtaVhJbnhJUlp6WDhlR1J6MmdfTHZFQ1RCTFdWXzdWLUdQZzJobXZaYnk3NGgtTDVQQzF5TW91NGFHTVc2QUIwcEhWSk1ySnJCU3g5X2RpMHlmaUZFZEhEMVVXbFBVQ01nT0I0aXVqWm5JdmpyY1hhaFN4THNjTHpsY2Fn?oc=5"
+      "link": "https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-nc-state-wolfpack-predictions-picks-odds-college-basketball-monday-march-2"
+    },
+    {
+      "title": "Immediate Reaction: Real Madrid 0 \u2013 1 Getafe - Managing Madrid",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/104684/immediate-reaction-real-madrid-0-1-getafe"
+    },
+    {
+      "title": "2026 Arnold Palmer Invitational odds, picks: Proven golf model reveals projected leaderboard, surprising predictions - SportsLine",
+      "link": "https://www.sportsline.com/insiders/2026-arnold-palmer-invitational-odds-picks-proven-golf-model-reveals-projected-leaderboard-surprising-predictions/"
     },
     {
       "title": "Tigers Announce Launch Of Detroit SportsNet - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/03/tigers-announce-launch-of-detroit-sportsnet.html"
     },
     {
+      "title": "Bill Simmons: All signs pointing to this date for Jayson Tatum return - Boston.com",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/02/jayson-tatum-return-celtics-mavericks-bill-simmons-comments/"
+    },
+    {
+      "title": "Lance Zierlein 2026 NFL mock draft 2.0: Two CBs in top five; combine star Sonny Styles cracks top 10 - NFL.com",
+      "link": "https://www.nfl.com/news/lance-zierlein-2026-nfl-mock-draft-2-0-two-cbs-in-top-five-combine-star-sonny-styles-cracks-top-10"
+    },
+    {
+      "title": "Nuggets play Jazz on back-to-back - NBA",
+      "link": "https://nuggets.com/news/nuggets-play-jazz-on-back-to-back"
+    },
+    {
       "title": "Statue removed from Dallas Love Field installed at Texas Rangers\u2019 ballpark - Dallas News",
       "link": "https://www.dallasnews.com/sports/rangers/2026/03/02/statue-removed-from-dallas-love-field-installed-at-texas-rangers-ballpark/"
+    },
+    {
+      "title": "Report: Khalil Mack will not retire, plans to explore all options in free agency - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-khalil-mack-will-not-retire-plans-to-explore-all-options-in-free-agency"
     },
     {
       "title": "Lions agree to trade David Montgomery to Texans - NBC Sports",
@@ -112,62 +168,6 @@
     {
       "title": "Colts are trying to sign QB Daniel Jones before Tuesday tag deadline - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-are-trying-to-sign-qb-daniel-jones-before-tuesday-tag-deadline"
-    },
-    {
-      "title": "Browns begin mass excavation for new Huntington Bank Field in Brook Park - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/browns-begin-mass-excavation-for-new-huntington-bank-field-in-brook-park"
-    },
-    {
-      "title": "Commanders to release Marshon Lattimore - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-release-marshon-lattimore"
-    },
-    {
-      "title": "Forde Minutes: Big East Bubble Burst and Small-Conference Tournament Previews - Sports Illustrated",
-      "link": "https://www.si.com/college-basketball/forde-minutes-big-east-bubble-burst-and-small-conference-tournament-previews"
-    },
-    {
-      "title": "12 Patriots-related winners and losers from the NFL Scouting Combine - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-opinion/122775/12-patriots-related-winners-and-losers-from-the-nfl-scouting-combine"
-    },
-    {
-      "title": "2026 NFL Combine risers and fallers: Biggest winners and losers who changed their NFL Draft stock - 247Sports",
-      "link": "https://247sports.com/longformarticle/2026-nfl-combine-risers-and-fallers-biggest-winners-and-losers-who-changed-their-nfl-draft-stock--276120896/"
-    },
-    {
-      "title": "Big Ten Releases Pre-Seeds For 2026 Conference Tournament - Iowa Hawkeyes Athletics",
-      "link": "https://hawkeyesports.com/news/2026/3/2/big-ten-releases-pre-seeds-for-2026-conference-tournament"
-    },
-    {
-      "title": "Portland Trail Blazers Sign Chris Youngblood to 2-Way Contract - Blazer's Edge",
-      "link": "https://www.blazersedge.com/trail-blazers-news/109745/portland-trail-blazers-sign-chris-youngblood-nba-two-way-contract-news-oklahoma-city-thunder"
-    },
-    {
-      "title": "Iran\u2019s World Cup place in US put in doubt by Middle East war. FIFA has Iraq next in line - AP News",
-      "link": "https://apnews.com/article/world-cup-fifa-iran-8882f12c6e9cb3f3dc1306fd2dd9a208"
-    },
-    {
-      "title": "2026 NFL free agency tracker: Latest signings, trades, contract info for all 32 teams - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-free-agency-tracker-latest-signings-trades-contract-info-for-all-32-teams"
-    },
-    {
-      "title": "NBA Best Bets Today: Expert Picks, Predictions & Odds for March 2, 2026 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-best-bets-today-march-2-2026"
-    },
-    {
-      "title": "Spurs' Luke Kornet Calls On Hawks To Cancel 'Magic City Night' - TMZ",
-      "link": "https://www.tmz.com/2026/03/02/spurs-luke-kornet-hawks-cancel-magic-city-night/"
-    },
-    {
-      "title": "Rams, not 49ers, are among 7 teams listed in the Maxx Crosby sweepstakes - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-rumors/156602/rams-not-49ers-are-among-7-teams-listed-in-the-maxx-crosby-sweepstakes"
-    },
-    {
-      "title": "Fantasy Basketball Waiver Wire: Micah Potter coming on strong for Indiana - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/basketball/news/fantasy-basketball-waiver-wire-micah-potter-coming-on-strong-for-indiana"
-    },
-    {
-      "title": "Nico Echavarria to make good on major promise to wife after $1.7 million Cognizant Classic win - New York Post",
-      "link": "https://nypost.com/2026/03/02/sports/nico-echavarria-to-keep-promise-to-wife-after-cognizant-classic-win/"
     }
   ],
   "weather": {
