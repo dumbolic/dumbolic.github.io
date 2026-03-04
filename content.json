@@ -1,9 +1,9 @@
 {
-  "quote": "Each day provides it's own gifts. \u2013 Marcus Aurelius",
-  "fact": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers. \u00a0",
-  "crypto": "BTC: $73,291 | ETH: $2,154.15",
+  "quote": "The two most powerful warriors are patience and time. \u2013 Leo Tolstoy",
+  "fact": "Chocolate can kill dogs; it directly affects their heart and nervous system.",
+  "crypto": "BTC: $72,609 | ETH: $2,127.86",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
+  "joke": "Why do pirates not know the alphabet? They always get stuck at \"C\".",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Highguard is shutting down this month - The Verge",
-      "link": "https://www.theverge.com/games/880206/highguard-shut-down"
+      "title": "Apple debuts M5 Pro and M5 Max to supercharge the most demanding pro workflows - Apple",
+      "link": "https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/"
     },
     {
-      "title": "Pixel March 2026 update fixes 16 issues: Pixel 10 GPU, battery, more - 9to5Google",
-      "link": "http://9to5google.com/2026/03/03/pixel-march-2026-update/"
+      "title": "Highguard to Permanently Shut Down on March 12, Wildlight to Release One Final Update With a New Warden, a New Weapon, Skill Trees, and More - IGN",
+      "link": "https://www.ign.com/articles/highguard-to-permanently-shut-down-on-march-12-wildlight-to-release-one-final-update-with-a-new-warden-a-new-weapon-skill-trees-and-more"
+    },
+    {
+      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
+      "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/"
+    },
+    {
+      "title": "The Pixel Watch now lets you tap to pay without opening the Wallet app - The Verge",
+      "link": "https://www.theverge.com/tech/888509/google-pixel-watch-update-express-pay"
     },
     {
       "title": "New Apple Studio Display and Studio Display XDR Don't Work With Intel Macs - MacRumors",
@@ -32,20 +40,16 @@
       "link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/"
     },
     {
-      "title": "Trials season 3: what you need to know - ARC Raiders",
-      "link": "https://arcraiders.com/news/quick-guide-to-trials-season-3"
-    },
-    {
-      "title": "Leaked Apple Documents Detail MacBook Neo Features Ahead of Launch - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/03/apple-documents-macbook-neo-features/"
-    },
-    {
       "title": "Apple May Add AirPlay-Like Feature to CarPlay, Making Tesla Integration More Compelling - Not a Tesla App",
       "link": "https://www.notateslaapp.com/news/3614/apple-may-add-airplay-like-feature-to-carplay-making-tesla-integration-more-compelling"
     },
     {
-      "title": "Apple Raises Computer Prices With New MacBook Pro and Air Lines - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-03/apple-launches-upgraded-macbook-pro-air-and-new-studio-monitors"
+      "title": "Apple\u2019s website leaks MacBook \u2018Neo,\u2019 which could be its new cheaper laptop - The Verge",
+      "link": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak"
+    },
+    {
+      "title": "MacBook Neo leaks as name for low-cost model powered by iPhone chip - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/03/macbook-neo-could-be-name-for-low-cost-model-powered-by-iphone-chip/"
     },
     {
       "title": "Wrangle Double Rewards Selling Moonshine in Red Dead Online - Rockstar Games",
@@ -60,14 +64,6 @@
       "link": "http://9to5google.com/2026/03/03/samsungs-galaxy-s26-series-has-8-bit-display/"
     },
     {
-      "title": "Everything Announced During The March Nintendo Indie World Showcase - gameinformer.com",
-      "link": "https://gameinformer.com/indie-world/2026/03/03/everything-announced-during-the-march-nintendo-indie-world-showcase"
-    },
-    {
-      "title": "\u2018Marathon\u2019 Hits No. 2 On Steam Revenue List After Server Slam - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/03/marathon-hits-no-2-on-steam-revenue-list-after-server-slam/"
-    },
-    {
       "title": "Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2026/03/03/xbox-game-pass-march-2026-wave-1/"
     },
@@ -76,90 +72,102 @@
       "link": "https://fallout.bethesda.net/en/article/0sXOoFYwO5TxarqDKVzts/fallout-76-the-backwoods-release-notes"
     },
     {
-      "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets - The Hacker News",
-      "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html"
-    },
-    {
-      "title": "PSA: Pok\u00e9mon FireRed & LeafGreen Switch Version Apparently Fixes Legendary Dog Glitch - Nintendo Life",
+      "title": "PSA: Pok\u00e9mon FireRed & LeafGreen Switch Version Apparently Fixes Legendary Beast Glitch - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/03/psa-pokemon-firered-and-leafgreen-switch-version-apparently-fixes-legendary-beast-glitch"
     },
     {
       "title": "Google fixes Gemini\u2019s biggest Google Home frustrations - Android Police",
       "link": "https://www.androidpolice.com/google-fixes-geminis-biggest-google-home-frustrations/"
+    },
+    {
+      "title": "Phish of the day: Microsoft OAuth scams abuse redirects for malware delivery - theregister.com",
+      "link": "https://www.theregister.com/2026/03/03/microsoft_oauth_scams/"
+    },
+    {
+      "title": "Apple\u2019s new products add C1X chip for three unique advantages - 9to5mac.com",
+      "link": "https://9to5mac.com/2026/03/02/apples-new-products-add-c1x-chip-for-three-unique-advantages/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Braves' Jurickson Profar faces 162-game suspension for second positive drug test, AP source says - AP News",
+      "link": "https://apnews.com/article/profar-drug-suspension-braves-b60b2da421060606e45623b379db1aec"
+    },
+    {
+      "title": "World Baseball Classic exhibition game 2026 live updates: Team USA beats San Francisco Giants - Times Union",
+      "link": "https://www.timesunion.com/sports/article/world-baseball-classic-2026-team-usa-aaron-judge-21953035.php"
+    },
     {
       "title": "Mock Draft Roundup: Post-Combine Picks for Ravens - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/post-combine-mock-draft-ravens-picks-vega-ioane-caleb-banks-makai-lemon"
     },
     {
-      "title": "Kyler Murray to be released by Cardinals, posts goodbye - Arizona Sports",
-      "link": "https://arizonasports.com/nfl/arizona-cardinals/kyler-murray-release-goodbye/3599781/"
+      "title": "Only three players receive the franchise tag - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/only-three-players-receive-the-franchise-tag"
     },
     {
-      "title": "Here are the new 2026 team Top 30 Prospects lists - MLB.com",
-      "link": "https://www.mlb.com/news/mlb-preseason-top-30-prospects-lists-2026"
+      "title": "Barcelona 3-0 Atl\u00e9tico Madrid (3-4 agg), Copa del Rey: Recap - Barca Blaugranes",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQajNJSE52OEQ5cFB0eTRnSm0yTHA3R25iZEIwaklWMmpGS2lQT1doeTFVTndnU0p4bXlfRnhEQlJGTEFWZEg4VWhOOEpnYnltQmZKcEIyNDg4Uy1td2VIMFUxUzluUlNmTTVkWW1JSng3a1JMbmVMRWMzR2N1X3BxVzZBUnF0cFNYVFNmZjBMaUQxSkdUS2NxMmJFVV90M3NIeS1XSERmMWdmd1JGLVVRZC1PMFJySEVIM2x1Q0pvZFRpOEpicTBlYzVZRzZaa3RB?oc=5"
+    },
+    {
+      "title": "Cardinals inform QB Kyler Murray they will release him at start of new league year - NFL.com",
+      "link": "https://www.nfl.com/news/cardinals-inform-qb-kyler-murray-they-will-release-him-at-start-of-new-league-year"
+    },
+    {
+      "title": "Bruce Branch III latest 5-star recruit to choose BYU - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48091999/bruce-branch-iii-latest-5-star-recruit-choose-byu"
     },
     {
       "title": "Colts place transition tag on Daniel Jones - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-place-transition-tag-on-daniel-jones"
     },
     {
-      "title": "UK confirms Mitch Barnhart will retire as AD in June, take on new role - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-confirms-mitch-barnhart-will-retire-in-june-take-on-new-role/"
+      "title": "Bears C Drew Dalman expected to retire - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/bears/2026/03/03/bears-drew-dalman-expected-to-retire-center-ryan-poles-falcons-stanford-nfl"
     },
     {
       "title": "Kenneth Walker III Reportedly Won't Get Seahawks' Franchise Tag, Top NFL Free Agency Landing Spots - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25402529-kenneth-walker-iii-reportedly-wont-get-seahawks-franchise-tag-top-nfl-free-agency-landing-spots"
     },
     {
-      "title": "Report: Bears center Drew Dalman is retiring from the NFL at age 27 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bears-center-drew-dalman-is-retiring-from-the-nfl-at-age-27"
+      "title": "World Cup: Ranking all 64 teams in contention with kickoff 100 days away - theScore.com",
+      "link": "https://thescore.com/worldcup/news/3486667"
+    },
+    {
+      "title": "Bengals do not franchise tag Trey Hendrickson; four-time Pro Bowl DE to become free agent - NFL.com",
+      "link": "https://www.nfl.com/news/trey-hendrickson-bengals-not-franchise-tagging-de-free-agent-landing-spots"
     },
     {
       "title": "Trump to POLITICO: \u2018I really don\u2019t care\u2019 if Iran plays in World Cup - Politico",
       "link": "https://www.politico.com/news/2026/03/03/iran-trump-world-cup-00808608"
     },
     {
-      "title": "Charles Davis 2026 NFL mock draft 2.0: Cardinals, Seahawks select Notre Dame RBs in Round 1 - NFL.com",
-      "link": "https://www.nfl.com/news/charles-davis-2026-nfl-mock-draft-2-0-cardinals-seahawks-select-notre-dame-rbs-in-round-1"
+      "title": "49ers double down on offense in post-NFL Combine 2-round mock draft - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-draft/156636/49ers-double-down-on-offense-in-post-nfl-combine-2-round-mock-draft"
     },
     {
-      "title": "Jurickson Profar reportedly set to receive 162-game suspension for PED usage - Battery Power",
-      "link": "https://www.batterypower.com/atlanta-braves-news/126842/jurickson-profar-reportedly-set-to-receive-162-game-suspension-for-ped-usage"
+      "title": "Kentucky Athletics Director Hot Board: Top candidates to replace Mitch Barnhart - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-athletics-director-hot-board-mitch-barnhart-candidates/"
+    },
+    {
+      "title": "Maxx Crosby Betting Odds Reveal New Favorite to Land Star in Trade with Raiders - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25402540-maxx-crosby-betting-odds-reveal-new-favorite-land-star-trade-raiders"
     },
     {
       "title": "The salary cap continues to explode, and that could become a problem for the players - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-salary-cap-continues-to-explode-and-that-could-become-a-problem-for-the-players"
     },
     {
-      "title": "Trae Young Got Ejected From A Wizards Game Before He Ever Played In One - Defector",
-      "link": "https://defector.com/trae-young-got-ejected-from-a-wizards-game-before-he-ever-played-in-one"
+      "title": "2026 NFL Mock Draft: Edge Rushers Dominate Top 5; Mahomes, Jackson, Allen Get New WRs - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-mock-draft-edge-rushers-dominate-top-5-mahomes-jackson-allen-get-new-wr"
     },
     {
-      "title": "Notes: National NFL analysts weigh in on David Montgomery trade - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/158570/notes-national-nfl-analysts-weigh-in-on-david-montgomery-trade"
+      "title": "Chase Pistone, former NASCAR driver, dies at 42 - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/chase-pistone-former-nascar-driver-dies-42-rcna261538"
     },
     {
-      "title": "Team USA Has Assembled, Cubs Aplenty, Schedule, and Other World Baseball Classic Bits - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/03/03/team-usa-has-assembled-cubs-aplenty-schedule-and-other-world-baseball-classic-bits/"
-    },
-    {
-      "title": "Gavin Stone Dealing With Shoulder Inflammation - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/gavin-stone-dealing-with-shoulder-discomfort.html"
-    },
-    {
-      "title": "Latest 2026 Men's NCAA Tournament Bracket Projections - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25401867-latest-2026-mens-ncaa-tournament-bracket-projections"
-    },
-    {
-      "title": "Iowa State To Reimagine Women's Sports Lineup - Iowa State Athletics",
-      "link": "https://cyclones.com/news/2026/3/3/gymnastics-iowa-state-to-reimagine-womens-sports-lineup"
-    },
-    {
-      "title": "Titans are the betting favorites to draft Jeremiyah Love - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-are-the-betting-favorites-to-draft-jeremiyah-love"
+      "title": "Illini hire Mike Linehan as defensive ends coach - 247Sports",
+      "link": "https://247sports.com/college/illinois/article/mike-linehan-hired-illinois-fighting-illini-defensive-line-coach-274327655/"
     }
   ],
   "weather": {
