@@ -1,9 +1,9 @@
 {
-  "quote": "Make improvements, not excuses. Seek respect, not attention. \u2013 Roy T. Bennett",
-  "fact": "Peanuts are one of the ingredients of dynamite.",
-  "crypto": "BTC: $67,310 | ETH: $1,968.18",
+  "quote": "One day, in retrospect, the years of struggle will strike you as the most beautiful. \u2013 Sigmund Freud",
+  "fact": "A cow gives nearly 200,000 glasses of milk in her lifetime.",
+  "crypto": "BTC: $67,357 | ETH: $1,970.88",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
+  "joke": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn\u2019t make any cents.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Apple iPhone 17 vs. iPhone 17e: Read This Before Spending the Extra $200 - PCMag",
-      "link": "https://www.pcmag.com/comparisons/apple-iphone-17e-vs-iphone-17-read-this-before-spending-extra-200-dollars"
+      "title": "Valve\u2019s Steam Machine may not launch this year - The Verge",
+      "link": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory"
+    },
+    {
+      "title": "Something Cool Just Happened In Marathon - Kotaku",
+      "link": "https://kotaku.com/marathon-bungie-terminals-durandal-secret-lore-arg-cryo-update-2000676774"
+    },
+    {
+      "title": "Apple on MacBook Neo Design: 'We're Certainly Not Making Any Compromises' - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/06/apple-macbook-neo-design-interview/"
+    },
+    {
+      "title": "Android 16 QPR3: Pixel Launcher search bar loses M3 Expressive redesign - 9to5Google",
+      "link": "http://9to5google.com/2026/03/06/android-16-qpr3-pixel-launcher-search/"
+    },
+    {
+      "title": "M6 MacBook Pro could have four innovations new to the Mac - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/06/m6-macbook-pro-could-have-four-innovations-new-to-the-mac/"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
       "link": "https://www.marvelrivals.com/announcements/20260305/40955_1289546.html"
     },
     {
+      "title": "Here's How Much Faster MacBook Air Gets With M5 Chip vs. M4 Chip - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/06/macbook-air-m5-chip-benchmarks/"
+    },
+    {
+      "title": "Apple goes down market in its 'big week' of product rollouts with iPhone model that's $200 cheaper than the base - Fortune",
+      "link": "https://fortune.com/2026/03/06/apple-big-week-new-products-iphone-17e-cheaper-budget/"
+    },
+    {
+      "title": "US state laws push age checks into the operating system - theregister.com",
+      "link": "https://www.theregister.com/2026/03/06/os_age_verification/"
+    },
+    {
+      "title": "Resident Evil Requiem's \"fan service\" is entirely earned - and it's much more than that too - Eurogamer.net",
+      "link": "https://www.eurogamer.net/resident-evil-requiems-fan-service-is-entirely-earned-and-its-much-more-than-that-too"
+    },
+    {
       "title": "Nothing Phone (4a) Pro is coming to the US for the first time and, at $499, I can\u2019t wait - 9to5Google",
       "link": "http://9to5google.com/2026/03/06/nothing-phone-4a-pro-us-release-price/"
+    },
+    {
+      "title": "If You're Loving Resident Evil Requiem on PS5, There's a Good Chance You're Old - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/if-youre-loving-resident-evil-requiem-on-ps5-theres-a-good-chance-youre-old"
     },
     {
       "title": "Review: Tales Of Berseria Remastered (Switch) - QoL Tweaks Make A Brilliant Game Even Better - Nintendo Life",
       "link": "https://www.nintendolife.com/reviews/nintendo-switch/tales-of-berseria-remastered"
     },
     {
-      "title": "MacBook Neo benchmark results are predictably close to iPhone 16 Pro, M1 comparable - AppleInsider",
-      "link": "https://appleinsider.com/articles/26/03/06/macbook-neo-benchmark-results-are-predictably-close-to-iphone-16-pro-m1-comparable"
+      "title": "Slay the Spire 2 Dev Never Thought It Would Actually Pass Marathon in Steam Concurrents, Says Congratulations Post \u2018Seems a Bit Meaner Than Intended\u2019 - IGN",
+      "link": "https://www.ign.com/articles/slay-the-spire-2-dev-never-thought-it-would-actually-pass-marathon-in-steam-concurrents-says-congratulations-post-seems-a-bit-meaner-than-intended"
+    },
+    {
+      "title": "PlayStation 6 Reportedly Won\u2019t Be Delayed Due to RAM Costs: \u201cIt Would Cost More to Delay Than to Pay Extra\u201d - Wccftech",
+      "link": "https://wccftech.com/playstation-6-not-delayed-ram-would-cost-more/"
     },
     {
       "title": "Google says these AI models are best for coding Android apps - 9to5Google",
@@ -48,126 +88,90 @@
       "link": "https://www.eurogamer.net/capcoms-astronaut-and-small-girl-starring-pragmata-gets-yet-another-new-release-date"
     },
     {
-      "title": "System76 on Age Verification Laws - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d47270784"
-    },
-    {
-      "title": "adidas Reveal the Hyperboost Edge, Beginning A New Era of Road Running - adidas News",
-      "link": "https://news.adidas.com/running/adidas-reveal-the-hyperboost-edge--beginning-a-new-era-of-road-running/s/74c11526-ce60-405c-8c47-c1edae16c9e3"
-    },
-    {
-      "title": "Sakurai reveals that he wrote the lyrics for Kirby Air Riders' main theme song, explains why he kept it under wraps - Nintendo Everything",
-      "link": "https://nintendoeverything.com/kirby-air-riders-main-theme-song-lyrics-masahiro-sakurai/"
-    },
-    {
-      "title": "Samsung Galaxy Book6 Ultra Review - Impressive multimedia laptop with gorgeous OLED & RTX 5070 - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Ultra-Review-Impressive-multimedia-laptop-with-gorgeous-OLED-RTX-5070.1242686.0.html"
-    },
-    {
-      "title": "Apple's M5 Max Chip Achieves a New Record in First Benchmark Result - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/05/m5-max-geekbench-benchmarks/"
-    },
-    {
-      "title": "Google releases Pixel 10a \u2018stallion\u2019 factory images - 9to5Google",
-      "link": "http://9to5google.com/2026/03/05/pixel-10a-factory-images/"
-    },
-    {
-      "title": "NBA 2K26 Coming To GTA+ Soon As Rockstar's Subscription Service Expands - Kotaku",
-      "link": "https://kotaku.com/rockstar-games-gta-nba-2k-26-subscritpion-game-pass-2000676453"
-    },
-    {
-      "title": "Arc Raiders Gets Emergency Hotfix For Discord Privacy Issue - Kotaku",
-      "link": "https://kotaku.com/arc-raiders-hotfix-discord-integration-2000676444"
-    },
-    {
-      "title": "50 Job Tweets That Are So Funny, I Literally Choked On My Coffee During A Team Meeting - BuzzFeed",
-      "link": "https://www.buzzfeed.com/chelseastewart/funny-job-tweets-february-2026"
-    },
-    {
-      "title": "This Ultra phone is the first to use Sony's brand-new 200MP camera sensor - Android Authority",
-      "link": "https://www.androidauthority.com/vivo-x300-ultra-camera-details-3647073/"
-    },
-    {
-      "title": "Robin Williams Had A Rare Computer Monitor That Even Modern Enthusiasts Would Love - bgr.com",
-      "link": "https://www.bgr.com/2109466/robin-williams-24-inch-sony-trinitron-rare-monitor/"
+      "title": "The Galaxy S26 is already a massive hit for Samsung - Android Police",
+      "link": "https://www.androidpolice.com/galaxy-s26-already-massive-hit-for-samsung/"
     }
   ],
   "sports_news": [
     {
-      "title": "Rashan Gary posts, then deletes, that he\u2019s leaving Green Bay - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashan-gary-posts-then-deletes-that-hes-leaving-green-bay"
+      "title": "Patriots trade center Garrett Bradbury to Bears - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-trade-center-garrett-bradbury-to-bears"
     },
     {
-      "title": "Taylor Decker requests release after discussions with Detroit Lions - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/158773/taylor-decker-requests-release-after-discussions-with-detroit-lions"
+      "title": "World Baseball Classic Predictions: Sean Zerillo\u2019s Projections for Friday, March 6 - Action Network",
+      "link": "https://www.actionnetwork.com/mlb/world-baseball-classic-predictions-projections-friday-march-6"
+    },
+    {
+      "title": "Best NFL free agency fits for Malik Willis; plus, 5 sleeper free agents to watch - NFL.com",
+      "link": "https://www.nfl.com/news/best-nfl-free-agency-fits-for-malik-willis-plus-5-sleeper-free-agents-to-watch"
+    },
+    {
+      "title": "The Tampa Bay Lightning Just Sealed Their Stanley Cup Fate - OutKick",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHJaQl9GVHBZdzBtYjgxNE9rc2tXci1OX3UwdDZCZmRPdllFUG50NkswM2ZzYk5GdmFvQTNDcFNCWGxkbjIzSnhaOUFZYXBaY3lCNVpIUG5VdnhXU1dQVm5fOHEtVl9TOG9yTldENnBVUXdPSWpUc1YtVWhWOGNHdVhVb1BTZw?oc=5"
+    },
+    {
+      "title": "Center Ryan Kelly, 32, announces retirement from NFL - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48125179/center-ryan-kelly-32-announces-retirement-nfl"
+    },
+    {
+      "title": "Buffalo Bills release longtime CB Taron Johnson, three others ahead of free agency - Buffalo Bills",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-release-longtime-cb-taron-johnson-three-others-ahead-of-free-agency"
+    },
+    {
+      "title": "Schenn traded to Islanders for 2 picks, 2 players - NHL.com",
+      "link": "https://www.nhl.com/blues/news/blues-trade-schenn-to-islanders"
+    },
+    {
+      "title": "Avalanche bring back Nazem Kadri in trade from Flames - The Denver Post",
+      "link": "https://www.denverpost.com/2026/03/06/avalanche-kadri-trade-flames/"
+    },
+    {
+      "title": "Fired Michigan football coach Sherrone Moore reaches plea deal to resolve home invasion case - AP News",
+      "link": "https://apnews.com/article/sherrone-moore-michigan-football-stalking-charges-a06f4a64bb8743b53e20622fa92df6f9"
+    },
+    {
+      "title": "Texans officially release RB Joe Mixon - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYS1iRVlpS1lpV214VVpyM29SMlVNY3pZRDR1bHNJWFhUV2haMEpHYWRXZDF3VGpUWXE4blpkZGxieTZkNUNkT19xLTROcDVBeFp0ZmliMjZrWks3XzBmTEZ1dWpNQk5xb2QxZEZwNjJkT0JXMTRKVTA0R1k4SVpONGZNb1FmTW5RMGRGcVhXN3RrUFpQaU14elRIcDYwMXRtbXc?oc=5"
+    },
+    {
+      "title": "Faulk traded to Detroit for 2 picks, 2 players - NHL.com",
+      "link": "https://www.nhl.com/blues/news/faulk-traded-to-detroit-for-2-picks-2-players"
+    },
+    {
+      "title": "Hendrick Motorsports says Bowman\u2019s ride waiting when he\u2019s ready - Jayski's NASCAR Silly Season Site",
+      "link": "https://www.jayski.com/2026/03/06/hendrick-motorsports-says-bowmans-ride-waiting-when-hes-ready/"
+    },
+    {
+      "title": "Long-run shock in Australia: George Russell and Mercedes tear the competition apart - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/long-run-shock-in-australia-george-russell-and-mercedes-tear-the-competition-apart/10802656/"
+    },
+    {
+      "title": "Caleb Wilson Breaks RIGHT Thumb In Practice, Will Miss Rest Of The Season - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2026/3/6/mens-basketball-caleb-wilson-breaks-right-thumb-in-practice-will-miss-rest-of-the-season"
+    },
+    {
+      "title": "Quinshon Judkins became an immediate Todd Monken fan - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinshon-judkins-became-an-immediate-todd-monken-fan"
+    },
+    {
+      "title": "Eddie Hearn teases more UFC signings, accepts Dana White\u2019s boxing challenge: \u2018I\u2019ll probably spark him out\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/475163/eddie-hearn-teases-more-ufc-signings-accepts-dana-whites-boxing-challenge-ill-probably-spark-him-out"
+    },
+    {
+      "title": "Taylor Decker asks for, receives release from Lions - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/taylor-decker-asks-for-receives-release-from-lions"
     },
     {
       "title": "Raiders spent third-round pick, $58.5 million for 15 games with Geno Smith - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-spent-third-round-pick-58-5-million-for-15-games-with-geno-smith"
     },
     {
-      "title": "Tommy DeVito agrees to two-year deal with Patriots - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tommy-devito-agrees-to-two-year-deal-with-patriots"
+      "title": "Arike Ogunbowale arrested on battery charge after Unrivaled win - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/48123063/arike-ogunbowale-arrested-battery-unrivaled-win"
     },
     {
-      "title": "Malkin to have Player Safety hearing for actions in Penguins game - NHL.com",
-      "link": "https://www.nhl.com/news/evgeni-malkin-to-have-player-safety-hearing-for-actions-in-penguins-game"
-    },
-    {
-      "title": "Flyers Acquire Defenseman David Jiricek from Minnesota in Exchange for Bobby Brink - NHL.com",
-      "link": "https://www.nhl.com/flyers/news/flyers-acquire-defenseman-david-jiricek-from-minnesota-in-exchange-for-bobby-brink"
-    },
-    {
-      "title": "Suns forward Dillon Brooks arrested on suspicion of DUI - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48122500/suns-dillon-brooks-arrested-suspicion-dui-report-says"
-    },
-    {
-      "title": "Ducks Acquire Carlson from Washington - NHL.com",
-      "link": "https://www.nhl.com/ducks/news/ducks-acquire-carlson-from-washington"
-    },
-    {
-      "title": "Rumor Mill: Ravens a Team to Watch in Maxx Crosby Sweepstakes - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/free-agency-rumor-mill-ravens-2026"
-    },
-    {
-      "title": "NHL Trade Deadline day (live updates) - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/03/06/nhl-trade-deadline-2026-live-updates/"
-    },
-    {
-      "title": "With Frank Reich as offensive coordinator, Jets may turn to Carson Wentz at quarterback - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnNmYk1NT2NseDhvSG52TmQxTnYtWDdYeHdGM1BNeU1vc0RNMXBhd29JbGFDd2VHbWg3c2h0R2tENXpuZGJsZWxqZUFyN3lsWUhSMW45TlFDS0RkMVhGckdxZUdXQktibVRtSmpKX0lSTXdXTG9QX291Nm41MHQ2NHZ1cUZOX3JIVUtEanM5ZHR3UV9YcXR4THlLbVdDNUwyLVlRZ1JLQW1rSWh2RWI0X3JBU1RqZDdHa3ktOTZBeWJMMjRYVUR6U0ZiTWF5bnZQRjdiX3c1UjdKM19uS3RtcGpB?oc=5"
-    },
-    {
-      "title": "Combat star Francis Ngannou released by PFL, now a free agent - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/48121763/mma-star-francis-ngannou-released-pfl-now-free-agent"
-    },
-    {
-      "title": "Steve Kerr offers his solution to the NBA\u2019s tanking problem - New York Post",
-      "link": "https://nypost.com/2026/03/06/sports/warriors-steve-kerr-weighs-in-on-nba-tanking-problem/"
-    },
-    {
-      "title": "Browns restructuring Deshaun Watson\u2019s contract for cap space - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-restructuring-deshaun-watsons-contract-for-cap-space"
-    },
-    {
-      "title": "NFL free agency bold predictions for 11 of the biggest names available - SB Nation",
-      "link": "https://www.sbnation.com/nfl/1105313/nfl-free-agency-bold-predictions-ravens-chiefs-49ers-jets"
-    },
-    {
-      "title": "Chad Young\u2019s 2026 Bold Predictions - FanGraphs",
-      "link": "https://fantasy.fangraphs.com/chad-youngs-2026-bold-predictions/"
-    },
-    {
-      "title": "Free agency preview: Top guards, centers available, best fits - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/158747/detroit-lions-free-agency-preview-top-guards-centers-available-best-fits"
-    },
-    {
-      "title": "NHL trade deadline: Who the Flyers could end up moving; Carlson to the Ducks in 'jaw-dropping' move - Inquirer.com",
-      "link": "https://www.inquirer.com/flyers/live/flyers-nhl-trade-deadline-rumors-trades-players-moves-updates-20260306.html"
-    },
-    {
-      "title": "Sabres acquire forward Sam Carrick from Rangers - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-rangers-trade-sam-carrick"
+      "title": "Los Angeles Chargers Sign Pro Bowl Center Tyler Biadasz - Los Angeles Chargers",
+      "link": "https://www.chargers.com/news/sign-pro-bowl-center-tyler-biadasz-2026"
     }
   ],
   "weather": {
