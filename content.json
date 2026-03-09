@@ -1,9 +1,9 @@
 {
-  "quote": "I am thankful to all who said no to me. It is because of them that I'm doing it myself. \u2013 Albert Einstein",
-  "fact": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
-  "crypto": "BTC: $66,135 | ETH: $1,938.96",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do I look like? A JOKE MACHINE!?",
+  "quote": "The more perfect a person is on the outside, the more demons they have on the inside. \u2013 Sigmund Freud",
+  "fact": "Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.",
+  "crypto": "BTC: $66,233 | ETH: $1,948.92",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a magician who has lost their magic? Ian.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple\u2019s upcoming Mac desktops may cost more, but not for the reason you might think - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlpCcDducGQ5X0pCNzBEVmktdTFhU0JEV2JrTmg5ZTctZ0xEV1NoOXJsVHMwcElvMmhqYVE4S0lSVlRNdXBDbzY4WmFXeTMweDlQYTlKeUVPdURsX0dpRVg0cC1ySnFEdlF3UjcxSGlGQkVFUGk2X1Zrem5JT1dfZ2FVcGZVTHRFUFFmTzlYazdYWjJh?oc=5"
+    },
+    {
+      "title": "Review: Resident Evil 7 Shines On Switch 2, But Village Falls Short - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/reviews/resident-evil-7-shines-on-switch-2-but-village-falls-short"
+    },
+    {
+      "title": "You Uncool Performative Dorks Drove Up The Price Of Porsches And It's Ruining The Vibe - Jalopnik",
+      "link": "https://www.jalopnik.com/2117254/dorks-porsche-prices-ruining-vibe/"
+    },
+    {
+      "title": "Dev says Nintendo is \"still pretty cagey about letting games launch on Switch 2\", doesn't want it to be \"a giant slop fest\" - Nintendo Everything",
+      "link": "https://nintendoeverything.com/dev-says-nintendo-is-still-pretty-cagey-about-letting-games-launch-on-switch-2-dont-want-it-to-be-a-giant-slop-fest/"
+    },
+    {
+      "title": "The Tragic Demise Of The Technirama Prism-Based Anamorphic Lens - Hackaday",
+      "link": "https://hackaday.com/2026/03/07/the-tragic-demise-of-the-technirama-prism-based-anamorphic-lens/"
+    },
+    {
+      "title": "Despite New CEO's Teasing, Xbox Insider Says Exclusives Are \"Absolutely Not Happening\" - TheGamer",
+      "link": "https://www.thegamer.com/xbox-microsoft-exclusive-status-new-ceo-not-happening/"
+    },
+    {
+      "title": "Apple still has over a dozen products in the pipeline for 2026, here\u2019s what\u2019s coming - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/07/apple-products-in-the-pipeline-for-2026-after-macbook-neo-launch/"
+    },
+    {
+      "title": "The Division 2 Comes Roaring Back On Steam After Plummeting To $3 Bargain Bin Territory - Kotaku",
+      "link": "https://kotaku.com/division-2-steam-sale-cheap-roadmap-update-2000676999"
+    },
+    {
+      "title": "I Tried the $599 MacBook Neo. Apple Just Flipped the Budget-Laptop Script - PCMag",
+      "link": "https://www.pcmag.com/news/i-tried-the-599-macbook-neo-apple-just-flipped-the-budget-laptop-script"
+    },
+    {
       "title": "Sony appears to be testing dynamic pricing on PlayStation games - The Verge",
       "link": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games"
     },
     {
+      "title": "NetEase pulls funding of Yakuza creator's Nagoshi Studio, putting development of Gang of Dragon at risk - Eurogamer",
+      "link": "https://www.eurogamer.net/netease-pulls-funding-of-yakuza-creators-nagoshi-studio-putting-development-of-gang-of-dragon-at-risk"
+    },
+    {
+      "title": "10 Of The Best Phones For Minimalists In 2026 - bgr.com",
+      "link": "https://www.bgr.com/2113115/best-minimalist-phones-2026/"
+    },
+    {
       "title": "How many more Highguards will it take for the game industry to change? - AV Club",
       "link": "https://www.avclub.com/highguard-shut-down-live-service-games"
+    },
+    {
+      "title": "4 Clever Uses For Your Old Amazon Echos - bgr.com",
+      "link": "https://www.bgr.com/2114530/uses-for-your-old-amazon-echo/"
     },
     {
       "title": "Suunto vs Garmin Lawsuit Gets Really Frisky: Garmin\u2019s Countersuit - DC Rainmaker",
@@ -28,10 +76,6 @@
       "link": "https://dailygalaxy.com/2026/03/craftsman-revives-ancient-battery-it-works/"
     },
     {
-      "title": "The Sims 4 Packs Collection Bundle Is Out On Steam - Sims Community",
-      "link": "https://simscommunity.info/2026/03/07/sims-4-packs-collection-bundle/"
-    },
-    {
       "title": "Google Messages starts rolling out \u2018Tap to Draft\u2019 for Smart Replies - 9to5Google",
       "link": "http://9to5google.com/2026/03/07/google-messages-tap-to-draft/"
     },
@@ -40,130 +84,94 @@
       "link": "https://www.pushsquare.com/news/2026/03/sony-finally-understands-over-70percent-of-ps5-fans-agree-with-decision-to-scrap-pc-ports"
     },
     {
-      "title": "A bite-sized adventure that puts a wrench into the classic Zelda formula - The Verge",
-      "link": "https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch"
+      "title": "Roku Adds a New Feature Everyone Wanted, YouTube TV Makes Changes to Two Popular Channels, & More \u2013 The Top Cord Cutting Stories From The Past Week - | Cord Cutters News",
+      "link": "https://cordcuttersnews.com/roku-adds-a-new-feature-everyone-wanted-youtube-tv-makes-changes-to-two-popular-channels-more-the-top-cord-cutting-stories-from-the-past-week/"
     },
     {
-      "title": "Gran Turismo 7\u2019s Fourth Anniversary Update is Coming Next Week - GTPlanet",
-      "link": "https://www.gtplanet.net/gt7-next-anniversary-update-coming-20260307/"
-    },
-    {
-      "title": "The $85 USB Gadget From Costco You Should Always Keep In Your Car For Emergencies - bgr.com",
-      "link": "https://www.bgr.com/2111070/costco-usb-gadget-keep-in-car-for-emergencies/"
-    },
-    {
-      "title": "It Took Me Just 2 Hours to Vibe Code a Mass Surveillance Site With OpenAI's Codex - PCMag",
-      "link": "https://www.pcmag.com/articles/vibe-code-mass-surveillance-site-with-openais-codex"
-    },
-    {
-      "title": "The new Google Maps logo is a gaping monstrosity - Creative Bloq",
-      "link": "https://www.creativebloq.com/design/logos-icons/the-new-google-maps-logo-is-a-gaping-monstrosity"
-    },
-    {
-      "title": "It costs less to get a Microsoft Office 2024 lifetime license than to pay one year of Microsoft 365 - Mashable",
-      "link": "https://mashable.com/article/march-7-microsoft-office-2024-home-business"
-    },
-    {
-      "title": "How to Avoid Getting Locked Out of Your Google Account - WIRED",
-      "link": "https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/"
-    },
-    {
-      "title": "One platform gives you lifetime access to Gemini, ChatGPT, Anthropic, and more for $70 - Mashable",
-      "link": "https://mashable.com/article/march-7-1minai-advanced-business-plan-lifetime-subscription"
-    },
-    {
-      "title": "I tested the AirPods 4 ANC vs Samsung Galaxy Buds 4 \u2014 and there's a clear winner - Tom's Guide",
-      "link": "https://www.tomsguide.com/audio/earbuds/i-tested-the-airpods-4-anc-vs-samsung-galaxy-buds-4-and-theres-a-clear-winner"
-    },
-    {
-      "title": "4 Travel Gadgets You Should Think Twice Before Buying - SlashGear",
-      "link": "https://www.slashgear.com/2114811/travel-gadgets-think-twice-before-buying/"
-    },
-    {
-      "title": "Bungie Responds Quickly to Marathon Microtransactions Backlash, First Patch Will Make the Game Slightly Easier - IGN",
-      "link": "https://www.ign.com/articles/bungie-responds-quickly-to-marathon-microtransactions-backlash-first-patch-will-make-the-game-slightly-easier"
-    },
-    {
-      "title": "Palmer Luckey\u2019s $1bn pitch to reboot 1990s video game consoles - Financial Times",
-      "link": "https://www.ft.com/content/77e330a5-8e59-4a36-b08b-c18010a2383b"
+      "title": "This annoying Android Auto display issue grinds my gears \u2014 here's how I fixed it - Android Authority",
+      "link": "https://www.androidauthority.com/android-auto-extra-dim-issue-fix-3646107/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Updates: Team USA baseball takes lead vs. Great Britain in WBC 2026 - Times Union",
+      "link": "https://www.timesunion.com/sports/article/team-usa-baseball-vs-great-britain-wbc-updates-21959364.php"
+    },
+    {
+      "title": "Lucas: Duke Rapid Reactions - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2026/3/7/mens-basketball-lucas-duke-rapid-reactions"
+    },
+    {
+      "title": "Khalil Mack stays with Chargers on a one-year deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/khalil-mack-stays-with-chargers-on-a-one-year-deal"
+    },
+    {
+      "title": "'A tough lesson' - Newcastle get sobering reminder of gap to top - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cd9gp0xpqd4o"
+    },
+    {
+      "title": "Kentucky Basketball loses to Florida on Senior Day: 3 things to know and postgame boos - A Sea Of Blue",
+      "link": "https://www.aseaofblue.com/kentucky-wildcats-basketball/165232/florida-gators-uk-senior-day-final-score-3-things-to-know"
+    },
+    {
+      "title": "John Carlson practices for first time in an Anaheim Ducks uniform: \u2018Yesterday was a little crazy. This part of it feels a lot more normal.\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/03/07/john-carlson-first-anaheim-ducks-practice-capitals-trade/"
+    },
+    {
+      "title": "San Francisco 49ers, kicker Eddy Pi\u00f1eiro agree on extension - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48136485/san-francisco-49ers-kicker-eddy-pineiro-agree-extension"
+    },
+    {
+      "title": "Ohio State Women's Hockey Beats No. 1 Wisconsin, 2-1, to Secure WCHA Final Faceoff Championship - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-athletics/2026/03/161801/ohio-state-womens-hockey-beats-wisconsin-2-1-to-secure-wcha-championship"
+    },
+    {
+      "title": "Dan Hurley Loses His Mind, Gets Ejected With One Second Left Against Marquette - OutKick",
+      "link": "https://www.outkick.com/sports/dan-hurley-loses-his-mind-gets-ejected-one-second-left-against-marquette"
+    },
+    {
+      "title": "Steve Borthwick: Is Italy defeat the beginning of the end for England coach? - BBC",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/crl4pdjwl99o"
+    },
+    {
+      "title": "Maxx Crosby posts video message to the Raiders \u2014 and to the Ravens - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-posts-video-message-to-the-raiders-and-to-the-ravens"
+    },
+    {
+      "title": "As he contends in PGA Tour debut, John Daly II has come a long way - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-tour/news/as-he-contends-in-pga-tour-debut-john-daly-ii-has-come-a-long-way"
+    },
     {
       "title": "Rory McIlroy withdraws before Saturday tee time at Arnold Palmer Invitational - Golf Channel",
       "link": "https://www.golfchannel.com/pga-tour/news/rory-mcilroy-withdraws-before-saturday-tee-times-at-arnold-palmer-invitational"
     },
     {
-      "title": "World Baseball Classic news, live updates: Shohei Ohtani homers again as Japan beats Korea; Team USA cruises vs. Brazil - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/live/world-baseball-classic-news-live-updates-shohei-ohtani-homers-again-as-japan-beats-korea-team-usa-cruises-vs-brazil-145506208.html"
+      "title": "Live results and analysis for UFC 326: Holloway vs. Oliveira 2 - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/48091127/ufc-326-live-results-analysis-bmf-title-max-holloway-vs-charles-oliveira-2"
     },
     {
-      "title": "Colts agree to trade Zaire Franklin to Packers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-agree-to-trade-zaire-franklin-to-packers"
+      "title": "Packers trade DT Colby Wooden to Colts for LB Zaire Franklin - NFL.com",
+      "link": "https://www.nfl.com/news/packers-trade-dt-colby-wooden-to-colts-for-lb-zaire-franklin"
     },
     {
-      "title": "Sources: Eagles, DT Jordan Davis reach 3-year, $78M extension - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48134138/sources-eagles-dt-jordan-davis-reach-3-year-extension"
+      "title": "Dallas Cowboys star Dak Prescott, fianc\u00e9e break up before wedding - Yahoo",
+      "link": "https://www.thebiglead.com/dallas-cowboys-star-dak-prescott-fiancee-break-up-before-wedding/"
+    },
+    {
+      "title": "Bruins beat Caps 3-1 in post-deadline disappointment - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/03/07/bruins-beat-caps-3-1-in-post-deadline-disappointment/"
+    },
+    {
+      "title": "Report: Eagles sign NT Jordan Davis to contract extension - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMG8yWUJKc1JLVUhydXpBM1hFTlFWcFY0NlBLUGM2dkQ5UmlPRFRQdFR0RXVhSmZDOWRRVUlPQUFnYm9sRUliajAyaFNYSHVqVVVURVpSUFpacDNnUWU3ZlVEQnBzSFVlSHJ5ZEg3RkNOZ2xvRi1fdklPbndyWFBvUnhMRlZHNlRYZXc?oc=5"
+    },
+    {
+      "title": "Aston Martin warned of \u201cmassive penalties\u201d as Fernando Alonso and Lance Stroll futures questioned - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/aston-martin-warned-of-massive-penalties-as-fernando-alonso-and-lance-stroll-futures-questioned/10803173/"
     },
     {
       "title": "Murray, longtime analyst, former Blackhawks forward, dies at 63 - NHL.com",
       "link": "https://www.nhl.com/news/chicago-blackhawks-troy-murray-dies-at-63"
-    },
-    {
-      "title": "On brink of free agency, C Connor McGovern re-signs with Bills - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-brink-of-free-agency-c-connor-mcgovern-re-signs-with-bills"
-    },
-    {
-      "title": "NFL news, live updates: Raiders reportedly trade Maxx Crosby to Ravens, release Geno Smith; Eagles extend Jordan Davis - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-raiders-reportedly-trade-maxx-crosby-to-ravens-release-geno-smith-eagles-extend-jordan-davis-173809299.html"
-    },
-    {
-      "title": "Tigers Didn\u2019t Make Long-Term Offer To Tarik Skubal This Offseason - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/tigers-didnt-make-long-term-offer-to-tarik-skubal-this-offseason.html"
-    },
-    {
-      "title": "Cowboys put 2nd-round tender on Brandon Aubrey, sources say - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48133309/cowboys-put-2nd-round-tender-brandon-aubrey-sources-say"
-    },
-    {
-      "title": "March Madness bracket predictions: No. 1 seeds to First Four of NCAA tournament - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaab/2026/03/07/march-madness-bracket-predictions-bubble-seeds-ncaa-tournament/88997232007/"
-    },
-    {
-      "title": "As it happened: 2026 Strade Bianche won by long-distance attack on dry day in Tuscany - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/live/strade-bianche-men-live-tadej-pogacar-seeking-record-breaking-fourth-win-on-long-awaited-return-to-racing/"
-    },
-    {
-      "title": "F1 drivers eviscerate new cars at Australian GP - what's going wrong, and is there a quick fix? - ESPN",
-      "link": "https://www.espn.com/f1/story/_/id/48131610/f1-drivers-eviscerate-new-cars-australian-grand-prix-going-wrong-lando-norris-george-russell-max-verstappen"
-    },
-    {
-      "title": "2-Round 2026 NFL Mock Draft: Raiders reap rewards of the Maxx Crosby trade while Bears, Chiefs replace veterans dealt this week - A to Z Sports",
-      "link": "https://atozsports.com/nfl-draft/2-round-2026-nfl-mock-draft-raiders-reap-rewards-of-the-maxx-crosby-trade-while-bears-chiefs-replace-veterans-dealt-this-week/"
-    },
-    {
-      "title": "Daniel Cormier told Max Holloway to \u2018please stop\u2019 doing the \u2018point down\u2019 move in his fights, Holloway responds - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/474709/daniel-cormier-told-max-holloway-to-please-stop-doing-the-point-down-move-in-his-fights-holloway-responds"
-    },
-    {
-      "title": "UFC 326 predictions - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EbGxGMFVFZzh6OHBueFdiZFlQbnh2TXpueXRWUDRqc2ZkZEQ3OUJoRXpKQ0RfVE1tOHRna2Z1eE5xWWtLVUREYnNFaFhkb0RBM3ZjSVZ1LXFxMTFEcFYtWnYyTUFFdHN3Smc?oc=5"
-    },
-    {
-      "title": "Max Verstappen Australian GP qualifying crash cause revealed - racingnews365.com",
-      "link": "https://racingnews365.com/max-verstappen-australian-gp-qualifying-crash-cause-revealed"
-    },
-    {
-      "title": "Commanders fans have strong feelings about the replacement for Tyler Biadasz; Adam Peters is still (pretty much) The Man in Washington - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-reacts/404361/commanders-fans-have-strong-feelings-about-the-replacement-for-tyler-biadasz-adam-peters-is-still-pretty-much-the-man-in-washington"
-    },
-    {
-      "title": "Patchy Mix knocked out by 19-year-old in disastrous first fight since UFC firing - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/03/07/patchy-mix-knocked-out-by-19-year-old-in-disastrous-first-fight-since-ufc-firing/"
-    },
-    {
-      "title": "Mascherano fumes over Trump's Iran war remarks during Inter Miami visit - GhanaWeb",
-      "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Mascherano-fumes-over-Trump-s-Iran-war-remarks-during-Inter-Miami-visit-2024724"
     }
   ],
   "weather": {
