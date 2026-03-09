@@ -1,9 +1,9 @@
 {
-  "quote": "If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. \u2013 Deepak Chopra",
-  "fact": "The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.",
-  "crypto": "BTC: $67,245 | ETH: $1,984.44",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do you call a boy who stopped digging holes? Douglas.",
+  "quote": "Numbing the pain for a while will make it worse when you finally feel it. \u2013 Albus Dumbledore",
+  "fact": "The average human will shed 40 pounds of skin in a lifetime.",
+  "crypto": "BTC: $67,549 | ETH: $1,983.55",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Samsung seeks AI deals to challenge Apple\u2019s smartphone lead - Financial Times",
+      "link": "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c"
+    },
+    {
       "title": "This pimped out 1000-hp Mercedes-Benz limo has absolutely massive turbos that are bigger than your face - supercarblondie.com",
       "link": "https://supercarblondie.com/mercedes-benz-limo-1000hp-massive-turbos/"
     },
     {
-      "title": "Apple\u2019s upcoming Mac desktops may cost more, but not for the reason you might think - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/07/apple-m5-mac-mini-mac-studio-imac-might-get-more-expensive/"
+      "title": "Apple Adds Three Executives to Leadership Page - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/07/apple-adds-three-executives-to-leadership-page/"
+    },
+    {
+      "title": "Apple's entry-level M5 SoC in the MacBook Air 13 only consumes 7-8 Watts in games like Cyberpunk 2077 or Baldur's Gate 3 - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Apple-s-entry-level-M5-SoC-in-the-MacBook-Air-13-only-consumes-7-8-Watts-in-games-like-Cyberpunk-2077-or-Baldur-s-Gate-3.1244916.0.html"
     },
     {
       "title": "Review: Resident Evil 7 Shines On Switch 2, But Village Falls Short - Digital Foundry",
@@ -28,12 +36,24 @@
       "link": "https://www.jalopnik.com/2117254/dorks-porsche-prices-ruining-vibe/"
     },
     {
+      "title": "A Crusade To Erase Obscure Japanese Game Cookie Finally Ends - Kotaku",
+      "link": "https://kotaku.com/one-persons-unhinged-crusade-to-erase-an-obscure-pc-game-from-existence-has-finally-been-stopped-2000677017"
+    },
+    {
+      "title": "5 Things You Never Knew Your Nintendo Switch 2 Could Actually Do - bgr.com",
+      "link": "https://www.bgr.com/2114606/things-never-knew-nintendo-switch-2-could-do/"
+    },
+    {
       "title": "Some buyers return Samsung Galaxy S26 Ultra over screen issue - Sammy Fans",
       "link": "https://www.sammyfans.com/2026/03/07/some-buyers-return-samsung-galaxy-s26-ultra-over-screen-issue/"
     },
     {
       "title": "Dev says Nintendo is \"still pretty cagey about letting games launch on Switch 2\", doesn't want it to be \"a giant slop fest\" - Nintendo Everything",
       "link": "https://nintendoeverything.com/dev-says-nintendo-is-still-pretty-cagey-about-letting-games-launch-on-switch-2-dont-want-it-to-be-a-giant-slop-fest/"
+    },
+    {
+      "title": "Your Android phone has a built-in tracker \u2014 here's how to control it - MakeUseOf",
+      "link": "https://www.makeuseof.com/your-android-phone-has-built-in-tracker-heres-how-to-control/"
     },
     {
       "title": "The Tragic Demise Of The Technirama Prism-Based Anamorphic Lens - Hackaday",
@@ -44,6 +64,10 @@
       "link": "https://www.thegamer.com/xbox-microsoft-exclusive-status-new-ceo-not-happening/"
     },
     {
+      "title": "Indie App Spotlight: \u2018Weather mini\u2019 packs trip forecasts and more in a beautiful design - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/07/indie-app-spotlight-weather-mini-packs-trip-forecasts-and-more-in-a-beautiful-design/"
+    },
+    {
       "title": "Apple still has over a dozen products in the pipeline for 2026, here\u2019s what\u2019s coming - 9to5Mac",
       "link": "https://9to5mac.com/2026/03/07/apple-products-in-the-pipeline-for-2026-after-macbook-neo-launch/"
     },
@@ -52,8 +76,8 @@
       "link": "https://kotaku.com/division-2-steam-sale-cheap-roadmap-update-2000676999"
     },
     {
-      "title": "I Tried the $599 MacBook Neo. Apple Just Flipped the Budget-Laptop Script - PCMag",
-      "link": "https://www.pcmag.com/news/i-tried-the-599-macbook-neo-apple-just-flipped-the-budget-laptop-script"
+      "title": "Entirely Vibe-Coded Operating System Is a Bug-Filled Disaster - Futurism",
+      "link": "http://futurism.com/artificial-intelligence/entirely-vibe-coded-operating-system-bug-filled-disaster"
     },
     {
       "title": "Experts Say VO2 Max Is the Most Important Health Metric\u2014But Just How Do You Improve It? - GQ",
@@ -64,86 +88,66 @@
       "link": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games"
     },
     {
-      "title": "NetEase pulls funding of Yakuza creator's Nagoshi Studio, putting development of Gang of Dragon at risk - Eurogamer",
-      "link": "https://www.eurogamer.net/netease-pulls-funding-of-yakuza-creators-nagoshi-studio-putting-development-of-gang-of-dragon-at-risk"
-    },
-    {
-      "title": "10 Of The Best Phones For Minimalists In 2026 - bgr.com",
-      "link": "https://www.bgr.com/2113115/best-minimalist-phones-2026/"
-    },
-    {
-      "title": "How many more Highguards will it take for the game industry to change? - AV Club",
-      "link": "https://www.avclub.com/highguard-shut-down-live-service-games"
-    },
-    {
-      "title": "4 Clever Uses For Your Old Amazon Echos - bgr.com",
-      "link": "https://www.bgr.com/2114530/uses-for-your-old-amazon-echo/"
-    },
-    {
-      "title": "Suunto vs Garmin Lawsuit Gets Really Frisky: Garmin\u2019s Countersuit - DC Rainmaker",
-      "link": "https://www.dcrainmaker.com/2026/03/garmin-suunto-lawsuit-countersues.html"
-    },
-    {
-      "title": "This Craftsperson Just Revived a 2,000-Year-Old Battery, And It Actually Works! - The Daily Galaxy",
-      "link": "https://dailygalaxy.com/2026/03/craftsman-revives-ancient-battery-it-works/"
-    },
-    {
-      "title": "Google Messages starts rolling out \u2018Tap to Draft\u2019 for Smart Replies - 9to5Google",
-      "link": "http://9to5google.com/2026/03/07/google-messages-tap-to-draft/"
+      "title": "Samsung copies the Apple MacBook Pro 16 and the result is a very good multimedia laptop - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Samsung-copies-the-Apple-MacBook-Pro-16-and-the-result-is-a-very-good-multimedia-laptop.1244904.0.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Report: T.J. Hockenson\u2019s contract restructure will delete final year on his deal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-t-j-hockensons-contract-restructure-will-delete-final-year-on-his-deal"
+      "title": "UFC White House: Alex Pereira to fight Ciryl Gane for interim heavyweight title - BBC",
+      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c743r0kl4wjo"
     },
     {
-      "title": "Jon Jones and Conor McGregor miss out as Dana White confirms UFC White House fight card - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/03/07/jon-jones-misses-out-as-dana-white-confirms-ufc-white-house-fight-card-after-late-pullout/"
+      "title": "3 takeaways from BYU\u2019s upset win over No. 10 Texas Tech - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/03/07/byu-basketball-upsets-texas-tech-3-takeaways/"
     },
     {
-      "title": "F1 Australian Grand Prix 2026 LIVE: UK start time, grid, commentary & latest race updates - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Gam5VNW1UZmdjM1NIbE96cFB3Y3pyY0dUa2JBS2pEa2pidlBnOFBVMW5XVnBvSzlaajNqTGdtRjh0amFmR0NlcFZzSDZ4Q2tseU94ZTZ2aXBuVUJDTDdBWWVB?oc=5"
+      "title": "UFC 326 live results: Holloway vs. Oliveira 2 updates, round-by-round scoring for tonight's card - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/breaking-news/live/ufc-326-live-results-holloway-vs-oliveira-2-updates-round-by-round-scoring-for-tonights-card-060036850.html"
     },
     {
-      "title": "Updates: Team USA baseball takes lead vs. Great Britain in WBC 2026 - Times Union",
-      "link": "https://www.timesunion.com/sports/article/team-usa-baseball-vs-great-britain-wbc-updates-21959364.php"
+      "title": "Jules Kounde gives epic one-word verdict on Barcelona\u2019s win over Athletic Club - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/barcelona-la-liga/114612/jules-kounde-gives-epic-one-word-verdict-on-barcelonas-win-over-athletic-club"
     },
     {
-      "title": "No. 1 Duke gets revenge on North Carolina with victory in regular-season finale - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/duke-north-carolina-unc-game-score-live-updates/live/"
+      "title": "Team USA Bats Come Alive in Victory Over Great Britain - USA Baseball",
+      "link": "https://www.usabaseball.com/news/live-recap-of-team-usa-vs-great-britain"
     },
     {
-      "title": "Tennessee basketball is No. 5 seed in SEC Tournament, plays Thursday in Nashville - On3",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-basketball-sec-tournament-seed-opponent-bracket/"
+      "title": "Oscar Piastri out of Australian GP after dramatic crash on way to grid - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/oscar-piastri-out-of-australian-gp-after-dramatic-crash-on-way-to-grid/10803251/"
     },
     {
-      "title": "Khalil Mack stays with Chargers on a one-year deal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/khalil-mack-stays-with-chargers-on-a-one-year-deal"
+      "title": "2026 Big Ten wrestling tournament: Live updates, brackets, schedule - NCAA.com",
+      "link": "https://www.ncaa.com/live-updates/wrestling-men/d1/2026-big-ten-wrestling-tournament-live-updates-brackets-schedule"
     },
     {
-      "title": "Tyler Huntley stays with Ravens on a two-year deal - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-huntley-stays-with-ravens-on-a-two-year-deal"
+      "title": "Lucas: Duke Rapid Reactions - University of North Carolina Athletics - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2026/3/7/mens-basketball-lucas-duke-rapid-reactions"
+    },
+    {
+      "title": "South Carolina advances to seventh straight SEC title game - ESPN",
+      "link": "https://www.espn.com/womens-college-basketball/story/_/id/48138024/south-carolina-advances-seventh-straight-sec-title-game"
+    },
+    {
+      "title": "Chargers, Khalil Mack agree on one-year, $18 million fully guaranteed contract - NFL.com",
+      "link": "https://www.nfl.com/news/chargers-khalil-mack-agree-on-one-year-18-million-contract"
+    },
+    {
+      "title": "Ohio State Likely Clinches NCAA Tournament Berth With 91-78 Win Over Indiana - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-football/2026/03/161803/ohio-state-all-but-clinches-ncaa-tournament-berth-with-win-over-indiana"
     },
     {
       "title": "Kentucky Basketball loses to Florida on Senior Day: 3 things to know and postgame boos - A Sea Of Blue",
       "link": "https://www.aseaofblue.com/kentucky-wildcats-basketball/165232/florida-gators-uk-senior-day-final-score-3-things-to-know"
     },
     {
-      "title": "John Carlson practices for first time in an Anaheim Ducks uniform: \u2018Yesterday was a little crazy. This part of it feels a lot more normal.\u2019 - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/03/07/john-carlson-first-anaheim-ducks-practice-capitals-trade/"
-    },
-    {
-      "title": "San Francisco 49ers, kicker Eddy Pi\u00f1eiro agree on extension - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48136485/san-francisco-49ers-kicker-eddy-pineiro-agree-extension"
+      "title": "Rangers sunk by Jack Hughes hat trick in loss to Devils - New York Post",
+      "link": "https://nypost.com/2026/03/07/sports/rangers-vincent-trocheck-sunk-by-jack-hughes-hat-trick-in-loss-to-devils/"
     },
     {
       "title": "Ohio State Women's Hockey Beats No. 1 Wisconsin, 2-1, to Secure WCHA Final Faceoff Championship - Eleven Warriors",
       "link": "https://www.elevenwarriors.com/ohio-state-athletics/2026/03/161801/ohio-state-womens-hockey-beats-wisconsin-2-1-to-secure-wcha-championship"
-    },
-    {
-      "title": "Conor McGregor describes UFC cancelling his White House plans as \u2018heart-breaking\u2019 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/03/07/conor-mcgregor-describes-ufc-cancelling-his-white-house-plans-as-heart-breaking/"
     },
     {
       "title": "Josef Newgarden earns thrilling IndyCar win at Phoenix - Motorsport.com",
@@ -164,14 +168,6 @@
     {
       "title": "As he contends in PGA Tour debut, John Daly II has come a long way - Golf Channel",
       "link": "https://www.golfchannel.com/pga-tour/news/as-he-contends-in-pga-tour-debut-john-daly-ii-has-come-a-long-way"
-    },
-    {
-      "title": "Rory McIlroy withdraws before Saturday tee time at Arnold Palmer Invitational - Golf Channel",
-      "link": "https://www.golfchannel.com/pga-tour/news/rory-mcilroy-withdraws-before-saturday-tee-times-at-arnold-palmer-invitational"
-    },
-    {
-      "title": "Live results and analysis for UFC 326: Holloway vs. Oliveira 2 - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/48091127/ufc-326-live-results-analysis-bmf-title-max-holloway-vs-charles-oliveira-2"
     }
   ],
   "weather": {
