@@ -1,9 +1,9 @@
 {
-  "quote": "What gets measured gets improved. \u2013 Robin Sharma",
-  "fact": "The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.",
-  "crypto": "BTC: $69,712 | ETH: $2,027.15",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "New atoms frequently lose electrons when they fail to keep an ion them.",
+  "quote": "Success is nothing more than a few simple disciplines practiced every day. \u2013 Jim Rohn",
+  "fact": "Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.",
+  "crypto": "BTC: $69,771 | ETH: $2,032.28",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I was going to get a brain transplant, but I changed my mind",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,130 +12,158 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Testing Apple\u2019s 2026 16-inch MacBook Pro, M5 Max, and its new \u201cperformance\u201d cores - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/"
+    },
+    {
+      "title": "iPadOS 26.4 adds convenient new feature for iPad power users - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/09/ipados-26-4-adds-convenient-new-feature-for-ipad-power-users/"
+    },
+    {
+      "title": "MacBook Neo Wallpapers Now Available for All Macs in macOS Tahoe 26.4 Beta - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/"
+    },
+    {
       "title": "Ghost Of Yotei Legends Will Add Online Coin-Flicking Action On March 10 - Kotaku",
       "link": "https://kotaku.com/ghost-of-yoteis-free-online-spin-off-will-let-you-play-that-awesome-coin-flicking-game-with-friends-2000677253"
     },
     {
-      "title": "EA lays off staff across Battlefield Studios, following last year's record-breaking Battlefield 6 debut - Eurogamer.net",
-      "link": "https://www.eurogamer.net/ea-lays-off-staff-across-battlefield-studios-following-last-years-record-breaking-battlefield-6-debut"
+      "title": "Official: Ford Mustang Dark Horse SC Costs $103,490 - Motor1.com",
+      "link": "https://www.motor1.com/news/789394/ford-mustang-dark-horse-sc-price/"
+    },
+    {
+      "title": "Sigma Star Saga DX launches April 7 - Gematsu",
+      "link": "https://www.gematsu.com/2026/03/sigma-star-saga-dx-launches-april-7"
     },
     {
       "title": "Pixel 11 Pro Fold looks barely different and just barely thinner in first leak [Gallery] - 9to5Google",
       "link": "http://9to5google.com/2026/03/09/google-pixel-11-pro-fold-cad-render-leak/"
     },
     {
+      "title": "Pixel's 80 percent charging limit is turning into a battery bottleneck - Android Police",
+      "link": "https://www.androidpolice.com/march-update-has-broken-pixels-80-charge-limit-for-many/"
+    },
+    {
       "title": "Video game publisher is a Portland true believer amid tech exodus - OregonLive.com",
       "link": "https://www.oregonlive.com/business/2026/03/video-game-publisher-is-a-portland-true-believer-amid-tech-exodus.html"
+    },
+    {
+      "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever - The Verge",
+      "link": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale"
     },
     {
       "title": "Latest Pixel Watch update breaks SpO2, skin temperature readings in Fitbit for some - 9to5Google",
       "link": "http://9to5google.com/2026/03/09/latest-pixel-watch-update-breaks-spo2-skin-temperature-readings-in-fitbit-for-some/"
     },
     {
+      "title": "Battlefield 6 teams hit with layoffs despite \u2018biggest launch in franchise history\u2019 - The Verge",
+      "link": "https://www.theverge.com/entertainment/891378/battlefield-6-layoffs-ea"
+    },
+    {
       "title": "Alpine's Alpenglow is a fully running hydrogen V6 prototype with blue brake lights and the only thing coming out of its exhaust is water - supercarblondie.com",
       "link": "https://supercarblondie.com/alpine-alpenglow-prototype-hydrogen-v6-engine/"
+    },
+    {
+      "title": "Marathon Players Are Quickly Solving The Cryo Archive ARG Puzzle - Kotaku",
+      "link": "https://kotaku.com/marathon-players-solve-next-step-cyro-archive-arg-bungie-puzzle-discord-terminals-2000677222"
     },
     {
       "title": "Sony's Injecting More Story Than Ever Before into Your PS5 Roguelikes - Push Square",
       "link": "https://www.pushsquare.com/news/2026/03/sonys-injecting-more-story-than-ever-before-into-your-ps5-roguelikes"
     },
     {
+      "title": "Pokemon and Palworld-inspired Pickmon announced for Nintendo Switch - Nintendo Everything",
+      "link": "https://nintendoeverything.com/pokemon-and-palworld-inspired-pickmon-announced-for-nintendo-switch/"
+    },
+    {
+      "title": "X says you can block Grok from editing your photos - The Verge",
+      "link": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
+    },
+    {
+      "title": "Which is the best version of Monster Hunter Stories 3? Switch 2, PS5, Steam Deck, PC, & Xbox Series X covered - RPG Site",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX1dPTnpFZHloUEhFTHZ4WHJIX2l0N2pYM1hiMzUwdEgxRXFNVklndE54c3IxSTQ5QVlKcXR2U0lUZkxsTWR3dkJLQXJyU05OMERaXzlqRGx4Rm9LWENDOERLZXZYckRDdWZkcW14M3Bnb2hwbC1SRXozQTdYMkg3RzcyVlY3M1BZOXZRMnlHN0VIbWpTMWh2dWpZZmxpWkxkenYtdFV4NDJxcWh0bXpWUlFROUcxSVE3SjBNMm93?oc=5"
+    },
+    {
+      "title": "XBox Project Helix suggests the 'console war' is over - Creative Bloq",
+      "link": "https://www.creativebloq.com/entertainment/gaming/xbox-project-helix-suggests-the-consoles-war-is-over"
+    },
+    {
       "title": "Developer Insight: Increased Lobby Survey Results - huntshowdown.com",
       "link": "https://www.huntshowdown.com/detailed"
-    },
-    {
-      "title": "Revealed: Give them both barrels with the new Titan-hunting Falchion tank - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/f7bd1ghe/revealed-give-them-both-barrels-with-the-new-titan-hunting-falchion-tank"
-    },
-    {
-      "title": "Every iPhone now has a useful hardware feature that zero Samsung phones offer - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/09/every-iphone-now-has-a-useful-hardware-feature-that-zero-samsung-phones-offer/"
-    },
-    {
-      "title": "Another Pok\u00e9mon Knock-Off Has Entered The Chat - Kotaku",
-      "link": "https://kotaku.com/pokemon-palworld-lawsuit-pickmon-trailer-summer-game-fest-2000677227"
-    },
-    {
-      "title": "\u2018Destiny 2\u2019 May Not Survive The Abyss It\u2019s Fallen Into - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/09/destiny-2-may-not-survive-the-abyss-its-fallen-into/"
-    },
-    {
-      "title": "'This Should Be Illegal': PS5's Dynamic Pricing Roundly Criticised by Disgusted Sony Fans - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/03/this-should-be-illegal-ps5s-dynamic-pricing-roundly-criticised-by-disgusted-sony-fans"
-    },
-    {
-      "title": "Aniplex, tri-Ace, and Lasengle announce PvP social deduction game OCTOPinbs for PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/03/aniplex-tri-ace-and-lasengle-announce-pvp-social-deduction-game-octopinbs-for-pc"
-    },
-    {
-      "title": "The future of Xbox \"starts now\", according to its new GDC message - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/move-over-this-is-an-xbox-build-for-whats-next-tells-fans-the-future-of-xbox-starts-now-at-gdc"
-    },
-    {
-      "title": "\u2018Marathon\u2019 Is Brutally Difficult: Will That Save Or Destroy It? - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/09/marathon-is-brutally-difficult-will-that-save-or-destroy-it/"
-    },
-    {
-      "title": "What was the strange black arm sensor worn by Tadej Poga\u010dar at Strade Bianche? - Cyclingnews",
-      "link": "https://www.cyclingnews.com/cycling-tech-components/what-was-the-strange-black-arm-sensor-worn-by-tadej-pogacar-at-strade-bianche/"
-    },
-    {
-      "title": "Marathon\u2019s Absurd Pickpocketing Drone Shows How Bungie Is Doing Extraction Shooters Differently - IGN",
-      "link": "https://www.ign.com/articles/marathons-absurd-pickpocketing-drone-shows-how-bungie-is-doing-extraction-shooters-differently"
-    },
-    {
-      "title": "Hoa 2 announced for PS5, Xbox Series, Switch 2, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/03/hoa-2-announced-for-ps5-xbox-series-switch-2-and-pc"
-    },
-    {
-      "title": "Goro Abe has retired from Nintendo - My Nintendo News",
-      "link": "https://mynintendonews.com/2026/03/09/goro-abe-has-retired-from-nintendo/"
     }
   ],
   "sports_news": [
     {
+      "title": "Live: NFL free agency: Seahawks lose three players, bring back one so far - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/nfl-free-agency-seahawks-news-as-legal-tampering-period-begins/"
+    },
+    {
+      "title": "Jets 2026 free agency tracker: Offseason moves, signings - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48044871/new-york-jets-2026-free-agency-tracker-offseason-moves-signings-trades"
+    },
+    {
+      "title": "Ranking the Top 50 NFL Free Agents of 2026 - The Ringer",
+      "link": "https://www.theringer.com/2026/03/09/nfl/ranking-top-50-nfl-free-agents-2026-kyler-murray-malik-willis-trey-hendrickson-kenneth-walker-aaron-rodgers"
+    },
+    {
+      "title": "Commanders land Odafe Oweh on 4-year, $100M deal, agents say - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48155924/commanders-land-odafe-oweh-4-year-100m-deal-agents-say"
+    },
+    {
+      "title": "Inside the Malik Willis deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-malik-willis-deal"
+    },
+    {
+      "title": "Falcons to sign QB Tua Tagovailoa to one-year minimum contract - NFL.com",
+      "link": "https://www.nfl.com/news/falcons-to-sign-qb-tua-tagovailoa-to-one-year-minimum-contract"
+    },
+    {
       "title": "2026 Free Agency Tracker: The latest Falcons signings, extensions and reports - Atlanta Falcons",
       "link": "https://www.atlantafalcons.com/news/2026-free-agency-tracker-falcons-signings-extensions-reports"
+    },
+    {
+      "title": "NFL announces 33 compensatory picks for the 2026 draft - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-33-compensatory-picks-for-the-2026-draft"
+    },
+    {
+      "title": "2026 NFL Free Agency: Jalen Thompson, Cowboys agree to terms - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/2026-nfl-free-agency-jalen-thompson-cowboys-agree-to-terms"
     },
     {
       "title": "Raiders 2026 free agency tracker: Offseason moves, signings - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/48022810/las-vegas-raiders-2026-free-agency-tracker-offseason-moves-signings"
     },
     {
-      "title": "49ers reportedly agree to sign receiver Mike Evans - SFGATE",
-      "link": "https://www.sfgate.com/49ers/article/49ers-mike-evans-21983778.php"
+      "title": "Travis Etienne\u2019s arrival could close the door on Alvin Kamara in New Orleans - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-etiennes-arrival-could-close-the-door-on-alvin-kamara-in-new-orleans"
     },
     {
-      "title": "Titans agree to four-year deal with Wan\u2019Dale Robinson - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-four-year-deal-with-wandale-robinson"
+      "title": "Washington Commanders 2026 Free Agency Rumors Tracker: Legal Tampering continues - Hogs Haven",
+      "link": "https://www.hogshaven.com/washington-commanders-free-agency/404814/washington-commanders-2026-free-agency-rumors-tracker-legal-tampering-continues"
     },
     {
-      "title": "Vikings 2026 free agency tracker: Offseason moves, signings - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48089146/minnestoa-vikings-2026-free-agency-tracker-offseason-moves-signings-contract"
+      "title": "5 things to know about Jaelan Phillips - Panthers.com",
+      "link": "https://www.panthers.com/news/5-things-to-know-about-panthers-newest-pass-rusher-jaelan-phillips"
     },
     {
-      "title": "Source: Isaiah Likely joining Giants, Harbaugh on 3-year deal - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48154003/source-isaiah-likely-joining-giants-harbaugh-3-year-deal"
+      "title": "Jets overhaul defense, add LB Davis, DEs Ossai, Enagbare - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48154354/jets-overhaul-defense-add-lb-davis-des-ossai-enagbare"
+    },
+    {
+      "title": "Reports: Tyler Linderbaum Gets Mega Deal From Raiders - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/tyler-linderbaum-raiders-free-agency-deal-center-ravens"
     },
     {
       "title": "2026 Patriots Free Agent Tracker - New England Patriots",
       "link": "https://www.patriots.com/news/2026-patriots-free-agent-tracker"
     },
     {
-      "title": "IndyCar reveals track layout for Freedom 250 - RACER - Racing News",
-      "link": "https://racer.com/2026/03/09/indycar-reveals-track-layout-for-freedom-250"
+      "title": "NFL free agency: Lions lose CB Amik Robertson to Commanders - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-free-agency/158977/nfl-free-agency-lions-lose-cb-amik-robertson-to-commanders"
     },
     {
-      "title": "Malik Willis follows Jeff Hafley to the Dolphins - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-willis-follows-jeff-hafley-to-the-dolphins"
-    },
-    {
-      "title": "Packers\u2019 Kingsley Enagbare signs big deal with New York Jets - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-free-agency/80319/packers-kingsley-enagbare-signs-big-deal-with-new-york-jets"
-    },
-    {
-      "title": "Reports: Panthers agree to terms with Jaelan Phillips - Panthers.com",
-      "link": "https://www.panthers.com/news/reports-panthers-agree-to-terms-with-jaelan-phillips-free-agency-negotiating-period"
+      "title": "Eagles 2026 free agency tracker - PhillyVoice",
+      "link": "https://www.phillyvoice.com/eagles-2026-free-agency-tracker-signings-retirements-departing-players-gains-losses-howie-roseman/"
     },
     {
       "title": "Colts agree to trade Michael Pittman Jr. to Steelers - NBC Sports",
@@ -144,34 +172,6 @@
     {
       "title": "Trent McDuffie, Rams Reportedly Agree to Historic Contract After Chiefs Trade, Updated Salary Cap - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25402903-trent-mcduffie-rams-reportedly-agree-historic-contract-after-chiefs-trade-updated-salary-cap"
-    },
-    {
-      "title": "NFL free agency 2026 live updates: Tracking all rumors, signings and trades on Day 1 - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/nfl-free-agency-live-updates-march-9-2026/live/"
-    },
-    {
-      "title": "Five Iranian footballers 'in Australian safe house' after Asian Cup protest - BBC",
-      "link": "https://www.bbc.com/news/articles/cwy8e978xl8o"
-    },
-    {
-      "title": "Buffalo Bills 2026 free-agency tracker: Rumors, signings, trades, news, and more - Buffalo Rumblings",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-free-agency/130589/buffalo-bills-2026-free-agency-tracker-rumors-signings-trades-news-and-more"
-    },
-    {
-      "title": "Instant grades for Patriots free agency signing Dre\u2019Mont Jones - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-free-agency-rumors-signings-updates-transactions/123427/instant-grade-dremont-jones"
-    },
-    {
-      "title": "Alec Pierce agrees to four-year deal with Colts - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-agrees-to-four-year-deal-with-colts"
-    },
-    {
-      "title": "Washington Commanders 2026 Free Agency Rumors Tracker: Let the Legal Tampering Begin! - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-free-agency/404776/washington-commanders-2026-free-agency-rumors-tracker-let-the-legal-tampering-begin"
-    },
-    {
-      "title": "Packers 2026 Free Agency Tracker: Signings, news, rumors, & more - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-free-agency/80277/packers-2026-free-agency-tracker-signings-news-rumors-more"
     }
   ],
   "weather": {
