@@ -1,9 +1,9 @@
 {
-  "quote": "None but ourselves can free our minds. \u2013 Bob Marley",
-  "fact": "The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.",
-  "crypto": "BTC: $70,164 | ETH: $2,071.7",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
+  "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.   \u2013 David Brinkley",
+  "fact": "You burn more calories sleeping than you do watching TV.",
+  "crypto": "BTC: $70,275 | ETH: $2,065.03",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Samsung Galaxy S26 and S26 Plus review: This again - The Verge",
-      "link": "https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software"
+      "title": "Valve details Steam Frame and Steam Machine verification at GDC 2026 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/valve-details-steam-frame-and-steam-machine-verification-at-gdc-2026"
+    },
+    {
+      "title": "Intel announces Core Ultra 270K Plus and 250K Plus, its \u2018fastest gaming desktop processors ever\u2019 - The Verge",
+      "link": "https://www.theverge.com/tech/892838/intel-core-ultra-270k-plus-250k-plus-fastest-gaming-cpu-ever"
+    },
+    {
+      "title": "Kuo shares MacBook Neo shipment and touchscreen updates, OLED MacBook Air timing - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/11/kuo-shares-macbook-neo-shipment-and-touchscreen-updates-oled-macbook-air-timing/"
+    },
+    {
+      "title": "iPhone 18 Pro Max Thickness and Weight Allegedly Revealed - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/11/iphone-18-pro-max-thickness-weight-revealed/"
     },
     {
       "title": "Xbox hardware teased at GDC, just one week after PC/console hybrid Project Helix was first confirmed - Eurogamer.net",
       "link": "https://www.eurogamer.net/xbox-hardware-teased-at-gdc-just-one-week-after-pcconsole-hybrid-project-helix-was-first-confirmed"
     },
     {
-      "title": "Oppo\u2019s new foldable isn\u2019t quite creaseless, but it\u2019s pretty damn close - The Verge",
-      "link": "https://www.theverge.com/tech/892547/oppo-find-n6-zero-feel-crease-impressions"
+      "title": "Google is optimizing Android's core to make your phone feel faster - Android Authority",
+      "link": "https://www.androidauthority.com/google-android-autofdo-kernel-3648273/"
     },
     {
-      "title": "Falcom to announce final Trails game during 50th anniversary - Gematsu",
-      "link": "https://www.gematsu.com/2026/03/falcom-to-announce-final-trails-game-during-50th-anniversary"
+      "title": "One of Marathon's best tricks? It dodges the \"Blorko\" problem that doomed Concord and Highguard - Eurogamer.net",
+      "link": "https://www.eurogamer.net/marathon-bungie-shells-avoid-blorko-problem-that-doomed-concord-highguard"
+    },
+    {
+      "title": "Return of the wire: In a wireless world, headphone cables are back - BBC",
+      "link": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth"
+    },
+    {
+      "title": "PlayStation Plus Extra February games for March leak - Eurogamer.net",
+      "link": "https://www.eurogamer.net/playstation-plus-extra-february-games-for-march-leak"
+    },
+    {
+      "title": "ASUS \"Panther Lake\" NUC 16 Pro launch price enters former ROG NUC territory - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-panther-lake-nuc-16-pro-launch-price-enters-former-rog-nuc-territory"
     },
     {
       "title": "Nintendo Shares Rally 10% as New Pok\u00e9mon Game Lifts Sentiment - Bloomberg",
       "link": "https://www.bloomberg.com/news/articles/2026-03-11/nintendo-shares-rally-10-as-new-pokemon-game-lifts-sentiment"
-    },
-    {
-      "title": "Photographer Tyler Stalman tests the MacBook Neo with pro photo and video workflows - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/10/photographer-tyler-stalman-tests-the-macbook-neo-with-pro-photo-and-video-workflows/"
-    },
-    {
-      "title": "Gemini in Chrome gets first international expansion - 9to5Google",
-      "link": "http://9to5google.com/2026/03/10/gemini-chrome-international/"
     },
     {
       "title": "Apple's Low-Cost iPhone 17e is Faster Than the Low-Cost MacBook Neo - MacRumors",
@@ -46,10 +62,6 @@
     {
       "title": "Mario Day 2026 hub: New LEGO reveal, Super Mario minifigs, Switch game deals, new Yoshi game, more [Updated] - 9to5Toys",
       "link": "http://9to5toys.com/2026/03/10/mario-day-2026-hub-new-switch-games-bundle-reveal/"
-    },
-    {
-      "title": "Google Pixel phones adding \u2018Transit mode\u2019: How to set up - 9to5Google",
-      "link": "http://9to5google.com/2026/03/10/google-pixel-transit-mode/"
     },
     {
       "title": "Crimson Desert Specs For PC, Console, And Other Platforms Revealed - Game Informer",
@@ -64,114 +76,94 @@
       "link": "https://9to5mac.com/2026/03/10/airtags-best-feature-is-now-on-apple-watch-heres-how-to-set-it-up/"
     },
     {
-      "title": "Ben Diskin not returning for Mega Man: Dual Override, statement shared - Nintendo Everything",
-      "link": "https://nintendoeverything.com/mega-man-dual-override-ben-diskin/"
+      "title": "Apple Stays Competitive On New iPhone Fold Price - Forbes",
+      "link": "https://www.forbes.com/sites/jaymcgregor/2026/03/10/apple-iphone-fold-iphone-18-price-leak-release-date/"
     },
     {
-      "title": "Critical Microsoft Excel bug weaponizes Copilot Agent for zero-click information disclosure attack - theregister.com",
-      "link": "https://www.theregister.com/2026/03/10/zeroclick_microsoft_info_disclosure_bug/"
+      "title": "The Creator of Wordle Just Came Out With a New Game, and It\u2019s Hard - Gizmodo",
+      "link": "https://gizmodo.com/the-creator-of-wordle-just-came-out-with-a-new-game-and-its-hard-2000732082"
     },
     {
-      "title": "Review in Progress: Marathon (PS5) - Bungie's Extraction Shooter Is Brilliant, and It Only Gets Better - Push Square",
-      "link": "https://www.pushsquare.com/reviews/ps5/marathon"
+      "title": "Here\u2019s how to build a crease-less foldable, according to Oppo - 9to5Google",
+      "link": "http://9to5google.com/2026/03/10/oppo-find-n6-crease-less-foldable-teaser/"
     },
     {
-      "title": "Lego and Nintendo are (finally) giving us Super Mario minifigs - polygon.com",
-      "link": "https://www.polygon.com/lego-super-mario-minifigures-first-look-release-date/"
-    },
-    {
-      "title": "Agents that run while I sleep - Hacker News",
-      "link": "https://news.ycombinator.com/item?id\\\\u003d47327559"
-    },
-    {
-      "title": "PS5 Players Could Get Compensation as Sony Slammed for Monopolistic Practices in UK Court - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/03/ps5-players-could-get-compensation-as-sony-slammed-for-monopolistic-practices-in-uk-court"
-    },
-    {
-      "title": "\u201cNVIDIA Wouldn\u2019t Exist Without Gaming,\u201d Says Microsoft CEO, But the Industry That Made It Possible Now Feels Left Behind - Wccftech",
-      "link": "https://wccftech.com/nvidia-wouldnt-exist-without-gaming-says-microsoft-ceo/"
+      "title": "3D-printed photonic lanterns combine up to 37 multimode lasers into one fiber - Phys.org",
+      "link": "https://phys.org/news/2026-03-3d-photonic-lanterns-combine-multimode.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Report: Colts, Daniel Jones optimistic about getting a deal done today - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-daniel-jones-optimistic-about-getting-a-deal-done-today"
+      "title": "Tracking 31 NCAA men's basketball conference tournaments, auto bids for 2026 March Madness - NCAA.com",
+      "link": "https://www.ncaa.com/news/basketball-men/article/2026-03-11/tracking-31-ncaa-mens-basketball-conference-tournaments-auto-bids-2026-march"
+    },
+    {
+      "title": "NFL free agency 2026 live updates: Tracking all rumors, signings and trades as new league year begins - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-free-agency-live-updates-tracker-march-11-2026/live/"
+    },
+    {
+      "title": "Bills restructure Josh Allen\u2019s contract for cap space - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-restructure-josh-allens-contract-for-cap-space"
+    },
+    {
+      "title": "Trey Hendrickson plans to sign with Ravens - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-hendrickson-plans-to-sign-with-ravens"
+    },
+    {
+      "title": "Roundtable: Is UFC White House lineup a dud? - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/475987/roundtable-is-ufc-white-house-lineup-a-dud"
+    },
+    {
+      "title": "Report: The Eagles have made an offer to former Bengals edge rusher Trey Hendrickson - PhillyVoice",
+      "link": "https://www.phillyvoice.com/report-eagles-made-offer-former-bengals-edge-rusher-trey-hendrickson/"
+    },
+    {
+      "title": "Van de Ven: Spurs\u2019 current form a \u201cdoomsday scenario\u201d - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/69452/tottenham-hotspur-news-micky-van-de-ven-quotes-disaster-scenario"
+    },
+    {
+      "title": "Syracuse fires Adrian Autry after 3 seasons, 0 NCAA Tournament appearances - The Daily Orange",
+      "link": "https://dailyorange.com/2026/03/syracuse-mens-basketball-adrian-autry-fired/"
+    },
+    {
+      "title": "Reports: Eagles iOL Brett Toth signing with the 49ers, QB Sam Howell with the Cowboys - PhillyVoice",
+      "link": "https://www.phillyvoice.com/reports-eagles-iol-brett-toth-signing-49ers-qb-sam-howell-cowboys/"
+    },
+    {
+      "title": "Colts, Daniel Jones have made significant progress on two-year contract - NFL.com",
+      "link": "https://www.nfl.com/news/colts-daniel-jones-have-made-significant-progress-on-2-year-contract"
+    },
+    {
+      "title": "Chiefs News 3/11: One player remains from Chiefs\u2019 2022 draft class - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/192633/chiefs-news-3-11-one-player-remains-from-2022-draft-class"
+    },
+    {
+      "title": "First Call: GM calls out Baltimore \u2018bull\u2019 in Maxx Crosby mess; Browns snag potential Steelers OL target - TribLIVE.com",
+      "link": "https://triblive.com/sports/first-call-gm-calls-out-baltimore-bull-in-maxx-crosby-mess-browns-snag-potential-steelers-ol-target/"
     },
     {
       "title": "4 winners and losers from Patriots signing Romeo Doubs in free agency - Pats Pulpit",
       "link": "https://www.patspulpit.com/new-england-patriots-free-agency-rumors-signings-updates-transactions/123708/winners-losers-romeo-doubs-wide-receiver"
     },
     {
+      "title": "4 Takeaways from Italy's Stunning World Baseball Classic Upset Over Team USA - FOX Sports",
+      "link": "https://www.foxsports.com/stories/world-baseball-classic/4-takeaways-from-italys-stunning-world-baseball-classic-upset-over-team-usa"
+    },
+    {
       "title": "Member of Iranian soccer team granted asylum in Australia changes her mind - CNN",
       "link": "https://www.cnn.com/2026/03/11/sport/australia-iran-soccer-team-asylum-intl-hnk"
     },
     {
-      "title": "Avs upset by Nathan MacKinnon ejection for goalie interference - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/48170969/avalanche-upset-nathan-mackinnon-ejection-goalie-interference-loss-oilers"
-    },
-    {
-      "title": "Bam! Heat's Adebayo scores 83 points, 2nd only to Wilt Chamberlain in NBA history - NPR",
-      "link": "https://www.npr.org/2026/03/11/g-s1-113255/bam-heats-adebayo-scores-83-points-2nd-only-to-wilt-chamberlain-in-nba-history"
+      "title": "Player Grades: Lakers vs. Timberwolves - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-analysis/110480/player-grades-lakers-timberwolves-stats-box-score-recap-austin-reaves-luka-doncic"
     },
     {
       "title": "WNBA, Players Meet for Marathon Labor Talks - Front Office Sports",
       "link": "http://frontofficesports.com/wnba-cba-deadline-negotiation/"
     },
     {
-      "title": "Explaining All The World Baseball Classic Tiebreaker Scenarios For Team USA, Italy And Mexico - Baseball America",
-      "link": "https://www.baseballamerica.com/stories/explaining-all-the-world-baseball-classic-tiebreaker-scenarios-for-team-usa-italy-and-mexico/"
-    },
-    {
-      "title": "Jaylen Brown blasts refs on social media after being ejected from Spurs game - Boston.com",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/03/10/jaylen-brown-refs-ejected-spurs-boston-celtics-x-twitter-social-media/"
-    },
-    {
-      "title": "How social media reacted to AJ Dybanta\u2019s historic Big 12 tournament debut - Deseret News",
-      "link": "https://www.deseret.com/sports/2026/03/10/aj-dybantsa-byu-big-12-tournament-social-media-reactions/"
-    },
-    {
-      "title": "Former Mavs star Luka Doncic says he ended his engagement, will \u2018fight\u2019 for his daughters - Dallas News",
-      "link": "https://www.dallasnews.com/sports/mavericks/2026/03/10/luka-doncic-engagement-daughters-custody-battle-anamaria-goltes/"
-    },
-    {
-      "title": "NCAA Wrestling Championships 2026: At-large bids announced for tournament - On3",
-      "link": "https://www.on3.com/news/ncaa-wrestling-championships-2026-at-large-bids-announced-for-tournament/"
-    },
-    {
-      "title": "Callahan: Patriots must sustain their momentum in free agency - Boston Herald",
-      "link": "https://www.bostonherald.com/2026/03/10/callahan-the-patriots-must-sustain-their-momentum-in-free-agency/"
-    },
-    {
-      "title": "76ers' Tyrese Maxey out at least 3 weeks with finger tendon injury - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48167237/philadelphia-76ers-tyrese-maxey-diagnosed-tendon-injury-finger-reevaluated-3-weeks"
-    },
-    {
-      "title": "NFL free agency winners and losers: Jets land help; Trey Hendrickson still waiting - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-free-agency-winners-and-losers-day-2"
-    },
-    {
-      "title": "Syracuse season ends with loss to SMU as wait begins to learn Adrian Autry\u2019s fate - Syracuse.com",
-      "link": "https://www.syracuse.com/orangebasketball/2026/03/syracuse-season-ends-with-loss-to-smu-as-wait-begins-to-learn-adrian-autrys-fate.html"
-    },
-    {
-      "title": "Hansi Flick gives his verdict on Barcelona\u2019s Champions League draw with Newcastle - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/114915/hansi-flick-gives-his-verdict-on-barcelonas-champions-league-draw-with-newcastle"
-    },
-    {
-      "title": "Atletico Madrid 5-2 Tottenham: Champions League humiliation at the Wanda - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/champions-league-2025-26/69441/atletico-madrid-5-2-tottenham-champions-league-humiliation-at-the-wanda"
-    },
-    {
-      "title": "Packers Free Agency: Moving forward, signings will also cost a draft pick - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/80534/packers-free-agency-moving-forward-signings-will-also-cost-a-draft-pick"
-    },
-    {
-      "title": "A Magic City Night to Remember - The Ringer",
-      "link": "https://www.theringer.com/2026/03/10/nba/magic-city-night-canceled-luke-kornet-atlanta-hawks-adam-silver"
-    },
-    {
-      "title": "Netflix is taking over McCovey Cove for the Giants\u2019 season opener - The San Francisco Standard",
-      "link": "https://sfstandard.com/2026/03/10/netflix-mccovey-cove-sf-giants/"
+      "title": "Since Geno Smith\u2019s time as Jets\u2019 QB1 ended, they\u2019ve had 13 starting quarterbacks - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/since-geno-smiths-time-as-jets-qb1-ended-theyve-had-13-starting-quarterbacks"
     }
   ],
   "weather": {
