@@ -1,51 +1,55 @@
 {
-  "quote": "We ordinary people must forge our own beauty. \u2013 Kenji Miyazawa",
-  "fact": "An average human loses about 200 head hairs per day.",
-  "crypto": "BTC: $71,300 | ETH: $2,095.16",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Toasters were the first form of pop-up notifications.",
+  "quote": "Be true to yourself, help others, make each day your masterpiece \u2013 John Wooden",
+  "fact": "About 200,000,000 M&Ms are sold each day in the United States.",
+  "crypto": "BTC: $71,571 | ETH: $2,100.8",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What's red and bad for your teeth? A Brick.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Former Overwatch Director Breaks Silence About Sudden Departure From Blizzard - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/03/former-overwatch-director-breaks-silence-about-sudden-departure-from-blizzard"
+    },
+    {
+      "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/"
+    },
     {
       "title": "Pok\u00e9mon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-sales-surpass-2-2-million-units-globally-in-first-four-days"
     },
     {
-      "title": "Google rolling out Play Games Sidekick and Game Trials - 9to5Google",
-      "link": "http://9to5google.com/2026/03/11/google-play-games-sidekick/"
+      "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/"
     },
     {
       "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
       "link": "https://www.nature.com/articles/s41586-025-10038-6"
     },
     {
-      "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
-      "link": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor"
+      "title": "Apple\u2019s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened"
     },
     {
-      "title": "Xbox unveils first tech details of its next generation console, codenamed Project Helix - GamesIndustry.biz",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkR1c1ZWRS1SVWhJV25GTU1OYkJlcHE2Ym5mUlJ2YVdJX0VBN0xtYlc1S0V6Z0VjSEVWV19UemkxazEyVWxDWjhRXzZDaVNMZDdVUFRoTkwybUpNY1QzWGFEdjJ0MkI3ckxFeDlCb25IdmZDdTFyMTFLaFN5ZWkyZGlmR0R3bHlrT3BFRldtZHVpWGRzRlVGTTFVaEZtVzBiX2tncmhOV21xS1NMNnNhRWNZZ2lrR0E?oc=5"
-    },
-    {
-      "title": "Windows 11\u2019s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/"
-    },
-    {
-      "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/"
+      "title": "Perplexity\u2019s Personal Computer is a cloud-based AI agent running on Mac mini - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/11/perplexitys-personal-computer-is-a-cloud-based-ai-agent-running-on-mac-mini/"
     },
     {
       "title": "The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted - 9to5Google",
       "link": "http://9to5google.com/2026/03/11/the-galaxy-s26-series-is-now-officially-on-sale-and-the-trade-in-values-have-plummeted/"
     },
     {
-      "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/"
+      "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
+      "link": "https://shopping.yahoo.com/deals/article/cvs-is-packed-with-beauty-markdowns-in-march-but-only-10-made-my-cart-184809637.html"
+    },
+    {
+      "title": "Microsoft says you should build next-gen Xbox games by building them for PC. - The Verge",
+      "link": "https://www.theverge.com/news/893196/microsoft-says-you-should-build-next-gen-xbox-games-by-building-them-for-pc"
     },
     {
       "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
@@ -54,6 +58,10 @@
     {
       "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
       "link": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/"
+    },
+    {
+      "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/"
     },
     {
       "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pok\u00e9mon Stores - Pokemon.com",
@@ -68,50 +76,54 @@
       "link": "https://www.roadtovr.com/steam-frame-game-certification-specs/"
     },
     {
-      "title": "MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available - Apple",
-      "link": "https://www.apple.com/newsroom/2026/03/macbook-neo-iphone-17e-ipad-air-with-m4-and-more-are-now-available/"
-    },
-    {
       "title": "That Doom-running, human brain cell-powered computer is headed for data centers - TechSpot",
       "link": "https://www.techspot.com/news/111642-doom-running-human-brain-cell-powered-computer-headed.html"
     },
     {
-      "title": "iPhone 18 Pro Max Thickness and Weight Allegedly Revealed - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/11/iphone-18-pro-max-thickness-weight-revealed/"
-    },
-    {
-      "title": "Mario is Finally Getting a LEGO Minifigure, Launching in Sets From 2027 - IGN",
-      "link": "https://www.ign.com/articles/mario-is-finally-getting-a-lego-minifigure-launching-in-sets-from-2027"
-    },
-    {
-      "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days - The Hacker News",
-      "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html"
+      "title": "M5 MacBook Air Review (13-Inch, 2026): Go Big or Go Neo - CNET",
+      "link": "https://www.cnet.com/tech/computing/m5-macbook-air-review-13-inch-2026/"
     }
   ],
   "sports_news": [
     {
+      "title": "Everything you need to know about the World Baseball Classic quarterfinals - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHoxamoyM0w4Y01ITGdVLW1pNnBYd0xLdVRvd21HWFhZLVBrWHBOTW5oSUhSVFJCTTlkNG1zUV9JakU1QUM2TnBINVRESVFpdTM4aDA1WlRyT1ZuX2Q0bmFZNURNVkQ0SWxGdjBrUUF4N3B6d3B0SXgzQ0ZPMlVBQ0Ruejc?oc=5"
+    },
+    {
+      "title": "Grazie mille! Italy helps USA advance to the World Baseball Classic quarterfinals - CNN",
+      "link": "https://www.cnn.com/2026/03/11/sport/usa-italy-advance-world-baseball-classic"
+    },
+    {
       "title": "Hype Brazil results: Arman Tsarukyan chokes out Muhammad Mokaev in bizarre, chaotic night - Yahoo Sports",
       "link": "https://sports.yahoo.com/mma/breaking-news/live/hype-brazil-live-results-arman-tsarukyan-vs-muhammad-mokaev-updates-highlights-for-tonights-ppv-200025946.html"
+    },
+    {
+      "title": "Kennard Davis' season-high 20 points powers BYU past WVU - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/03/11/byu-basketball-kennard-davis-jr-cougars-big-12-hoops-shooting-confidence/"
     },
     {
       "title": "Maxx Crosby: \u201cI\u2019m a Raider. I\u2019m back.\u201d - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-im-a-raider-im-back"
     },
     {
-      "title": "Team USA advances at 2026 World Baseball Classic despite shocking loss to Italy - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/team-usa-advances-2026-world-baseball-classic-despite-shocking-loss-italy/"
+      "title": "Caitlin Clark shines as Team USA routs Senegal in FIBA qualifier - ESPN",
+      "link": "https://www.espn.com/olympics/story/_/id/48179166/caitlin-clark-shines-team-usa-routs-sengal-fiba-qualifier"
     },
     {
-      "title": "Everything you need to know about the World Baseball Classic quarterfinals - MLB.com",
-      "link": "https://www.mlb.com/news/mlb-2026-world-baseball-classic-quarterfinal-matchups"
+      "title": "NFL free agency 2026 Day 3 recap: Maxx Crosby drama, Daniel Jones cashes in - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWc0UmFFTlVNUzFXTWNTY1lFQXFjb3Jxc2YzcFI2aTRRSjEzUU4ydFo1cmJuT3p2eHNVZjJGMXE3RzhHQk5CY2FYZ3R2YWpoT0E0RG1UUy04OEI0c2xvYlhvcWNHZDJuQWJERkdSMFVONHoyY1Nyb1N4UjdUMVBybTJmQkYyLUY2R3Rmd043dnNzcGNaOXc?oc=5"
     },
     {
-      "title": "What West Virginia coach Ross Hodge said after losing to BYU in the Big 12 tournament - Deseret News",
-      "link": "https://www.deseret.com/sports/2026/03/11/russ-hodge-west-virginia-coach-postgame-comments-byu-big-12-tournament/"
+      "title": "No big moves on 1st day of league year for Steelers, but expect plenty of activity to follow - TribLIVE.com",
+      "link": "https://triblive.com/sports/no-big-moves-on-1st-day-of-league-year-for-steelers-but-expect-plenty-of-activity-to-follow/"
     },
     {
-      "title": "Takeaways from Team's USA win, Caitlin Clark's debut - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/48179119/team-usa-women-basketball-caitlin-clark-fiba-qualifiers"
+      "title": "What are the Bears Needs After the First Wave of Free Agency - Windy City Gridiron",
+      "link": "https://www.windycitygridiron.com/chicago-bears-depth-chart/112524/what-are-the-bears-needs-after-the-first-wave-of-free-agency"
+    },
+    {
+      "title": "At the Buzzer: Northwestern 74, Indiana 61 - Inside the Hall",
+      "link": "https://www.insidethehall.com/2026/03/11/at-the-buzzer-northwestern-74-indiana-61/"
     },
     {
       "title": "Kyler Murray weighing Vikings starting job, backup options elsewhere after Cardinals release - Arizona Sports",
@@ -146,20 +158,8 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-ran-out-of-time-on-extending-lamar-jackson-before-wednesday"
     },
     {
-      "title": "2026 NFL free agency: 8 perfect player-team pairings after first wave of signings - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-free-agency-8-perfect-player-team-pairings"
-    },
-    {
       "title": "Iran 'cannot participate' in the World Cup, sports minister says - NBC News",
       "link": "https://www.nbcnews.com/sports/soccer/iran-back-world-cup-sports-minister-says-rcna262981"
-    },
-    {
-      "title": "Washington Commanders Free Agency Rumors Tracker: Welcome to the 2026 NFL Season! - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-free-agency/405264/washington-commanders-free-agency-rumors-tracker-welcome-to-the-2026-nfl-season"
-    },
-    {
-      "title": "2026 NCAA Qualifiers By State & Hometown - FloWrestling",
-      "link": "https://www.flowrestling.org/articles/15617387-2026-ncaa-qualifiers-by-state-hometown"
     }
   ],
   "weather": {
