@@ -1,9 +1,9 @@
 {
-  "quote": "Everything is possible. The impossible just takes longer. \u2013 Dan Brown",
-  "fact": "Honey is the only food that does not spoil.",
-  "crypto": "BTC: $72,432 | ETH: $2,173.37",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
+  "quote": "You can't climb the ladder of success with your hands in your pockets. \u2013 Arnold Schwarzenegger",
+  "fact": "Right handed people live, on average, nine years longer than left-handed people",
+  "crypto": "BTC: $74,021 | ETH: $2,266.17",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What is a vampire's favorite fruit? A blood orange.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iPhone Fold Rumors Are Heating Up, But I'm Not Buying One. Here's Why - PCMag",
+      "link": "https://www.pcmag.com/news/iphone-fold-rumors-are-heating-up-but-im-not-buying-one-heres-why"
+    },
+    {
+      "title": "Resident Evil Requiem Has Idle Reload Animations That Most Players Won't Ever See - TheGamer",
+      "link": "https://www.thegamer.com/resident-evil-requiem-idle-reload-animation/"
+    },
+    {
+      "title": "Deals: Galaxy S26 series now available, S25 and Pixel 10 models on sale - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/deals_galaxy_s26_series_now_available_s25_and_pixel_10_models_on_sale-news-71941.php"
+    },
+    {
+      "title": "The MacBook Neo is \u2018the most repairable MacBook\u2019 in years, according to iFixit - TechCrunch",
+      "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"
+    },
+    {
+      "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI - Kotaku",
+      "link": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933"
+    },
+    {
+      "title": "PS5 Exclusive Intergalactic's Alleged New Webpage Is No Big Deal At All - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/ps5-exclusive-intergalactics-alleged-new-webpage-is-no-big-deal-at-all"
+    },
+    {
       "title": "Switch 2 getting Nintendo-licensed Mario Kart World racing wheel, pre-orders open - Nintendo Everything",
       "link": "https://nintendoeverything.com/switch-2-getting-nintendo-licensed-mario-kart-world-racing-wheel-pre-orders-open/"
     },
     {
-      "title": "Poll: Are You Happy With Your PS Plus Extra, Premium Games for March 2026? - Push Square",
-      "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-march-2026"
+      "title": "Some ideas from Donkey Kong Bananza could be in Nintendo\u2019s next big project - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/03/14/some-ideas-from-donkey-kong-bananza-could-be-in-nintendos-next-big-project/"
     },
     {
       "title": "Unremarkable Medieval Action Sim 1348 Ex Voto Gets Hit With Absurd Conspiracy Over Italian Tax Relief Funds - Kotaku",
       "link": "https://kotaku.com/1348-ex-voto-lgbtq-propaganda-tax-credits-steam-reviews-2000678922"
+    },
+    {
+      "title": "Crimson Desert PC: Nvidia And AMD ML Tech Delivers Vastly Improved Lighting - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/news/2026/03/crimson-desert-pc-nvidia-and-amd-ml-tech-delivers-vastly-improved-lighting"
+    },
+    {
+      "title": "Why you should avoid Audible's new Standard subscription at all costs - Android Police",
+      "link": "https://www.androidpolice.com/audibles-new-subscription-is-terrible-value-and-you-should-not-buy-it/"
     },
     {
       "title": "Meta pulling end-to-end encryption on Instagram DMs - Mashable",
@@ -32,8 +64,16 @@
       "link": "https://www.pcmag.com/news/hands-on-razer-boomslang-20th-anniversary-edition-mouse"
     },
     {
+      "title": "Changing These 3 Settings Will Immediately Make Your AirPods Pro Sound Better - SlashGear",
+      "link": "https://www.slashgear.com/2119964/make-airpods-pro-sound-better-settings/"
+    },
+    {
       "title": "New Website 'Channel Surfer' Reinvents the Cable TV Couch Vegetation Experience for 2026 - Gizmodo",
       "link": "https://gizmodo.com/new-website-channel-surfer-reinvents-the-cable-tv-couch-vegetation-experience-for-2026-2000733419"
+    },
+    {
+      "title": "Meet The Guy Who\u2019s Saving The Super Nintendo\u2019s Infamously Inferior Version Of Doom - Kotaku",
+      "link": "https://kotaku.com/doom-snes-id-shooter-original-limited-run-2000678756"
     },
     {
       "title": "\u2018Destiny 2\u2019 Has Lost 91% Of Players Since Edge Of Fate, 97% From Final Shape - Forbes",
@@ -50,124 +90,84 @@
     {
       "title": "Slay The Spire 2 Promises To Patch Out 1 Billion HP Exploit As It Sells A Whopping 3 Million Copies In Just One Week - Kotaku",
       "link": "https://kotaku.com/slay-spire-2-patch-notes-sales-damage-build-2000678909"
-    },
-    {
-      "title": "Canon EOS R7 Mark II Info: 39MP Stacked Sensor and 2026 Release Date - Canon Rumors",
-      "link": "https://www.canonrumors.com/canon-eos-r7-mark-ii-sensor-info-and-it-sounds-great/"
-    },
-    {
-      "title": "Here's How To Delete Your Personal Data From ChatGPT (And Why You Should) - bgr.com",
-      "link": "https://www.bgr.com/2119911/how-to-delete-personal-information-from-chatgpt/"
-    },
-    {
-      "title": "15 Incredible Indie Games Made Computer Worlds A Must-Watch - Kotaku",
-      "link": "https://kotaku.com/indie-game-computer-world-showcase-steam-demo-2000678906"
-    },
-    {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others - TechCrunch",
-      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
-    },
-    {
-      "title": "\u2018ARC Raiders\u2019 Head Praises \u2018Unusual\u2019 Marathon Turnaround - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/14/arc-raiders-head-praises-unusual-marathon-turnaround/"
-    },
-    {
-      "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
-      "link": "https://www.forbes.com/sites/daveywinder/2026/03/14/google-zero-day-alert-for-35-billion-chrome-users-attacks-underway/"
-    },
-    {
-      "title": "Linux Finally Catches Up to Windows with a Game-Changing Performance Feature - Iowa Park Leader",
-      "link": "https://www.iowaparkleader.com/linux-finally-catches-up-to-windows-with-a-game-changing-performance-feature/"
-    },
-    {
-      "title": "The 7430U CPU scandal could spread: Another manufacturer under suspicion, ODM comes into the spotlight - Notebookcheck",
-      "link": "https://www.notebookcheck.net/The-7430U-CPU-scandal-could-spread-Another-manufacturer-under-suspicion-ODM-comes-into-the-spotlight.1249671.0.html"
-    },
-    {
-      "title": "5 great indie games from GDC 2026 - The Verge",
-      "link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games"
-    },
-    {
-      "title": "User Snags 32 GB DDR5 Memory, Ryzen 7600X, AIO, And B850M Motherboard For Just $87 On Newegg - Wccftech",
-      "link": "https://wccftech.com/user-snags-32-gb-ddr5-memory-ryzen-7600x-aio-and-b850m-motherboard-for-just-87-on-newegg/"
     }
   ],
   "sports_news": [
     {
-      "title": "Live updates: 2026 DI men's and women's indoor track and field championships - NCAA.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb0Y4TXZXdVhObTlNZldMLTZLMFROclJFNlFHNm1zM3U5bndMeV9DRXVWcUN3QUhWOEtCekU5eHdKVkZJcXlKRVpXVTBRZkljZXBYRDhQVFF5Y25iazl1bWFtQTd4b0Q0aTh3NU5iWkNtaTN2R0w0N3lWVFBwY2pIV1BuYmtGZTl2WFB0UXZVTjBmNEpvdjdSNjRFY0tJbHVfbVZRYXJaN0FMUkk1dEtZeDBBdVVWUDhCZmpPZTZFZUZHSDF4cXJZZ2VLeVJmQVE?oc=5"
+      "title": "Match Awards from Bayern Munich\u2019s nightmare 1-1 draw against Bayer Leverkusen - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-awards/177589/match-awards-from-bayern-munichs-nightmare-1-1-draw-against-bayer-leverkusen"
     },
     {
-      "title": "2026 NC women's ice hockey championship: Bracket, schedule, scores - NCAA.com",
-      "link": "https://www.ncaa.com/news/icehockey-women/article/2026-03-14/2026-nc-womens-ice-hockey-championship-bracket-schedule-scores"
+      "title": "Adjusted 2026 F1 Chinese Grand Prix starting grid after unusual occurrence - racingnews365.com",
+      "link": "https://racingnews365.com/adjusted-2026-f1-chinese-grand-prix-starting-grid-after-unusual-occurrence"
+    },
+    {
+      "title": "St. John\u2019s repeats as Big East Tournament champs for first time after destroying UConn in second half - New York Post",
+      "link": "https://nypost.com/2026/03/14/sports/st-johns-repeats-as-big-east-tournament-champs-after-defeating-uconn/"
+    },
+    {
+      "title": "Duke holds off Virginia for 2nd straight ACC tournament title - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48210833/duke-holds-virginia-2nd-straight-acc-tournament-title"
+    },
+    {
+      "title": "Sin City sizzler! Kyle Larson wins O\u2019Reilly Series race at Las Vegas - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/03/14/oreilly-auto-parts-series-las-vegas-2026-race-recap-results/"
+    },
+    {
+      "title": "College basketball world reacts to Arizona winning Big 12 Tournament - Arizona Desert Swarm",
+      "link": "https://www.azdesertswarm.com/basketball/77121/arizona-wildcats-big12-tournament-championship-reactions-social-media-twitter-2026"
+    },
+    {
+      "title": "Uh, Oh: Seiya Suzuki Limps Off the Field After Caught Stealing - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/03/14/seiya-suzuki-wbc-limp/"
+    },
+    {
+      "title": "Inter Miami secure valuable MLS point with 0-0 draw vs Charlotte FC as Lionel Messi rests - bolavip.com",
+      "link": "https://bolavip.com/en/soccer/charlotte-fc-vs-inter-miami-live-lionel-messi-in-pursuit-of-reaching-900-career-goals"
+    },
+    {
+      "title": "Hawaii Warriors vs. UC Irvine Anteaters Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Saturday 03/14 19:00 PM - SportsLine",
+      "link": "https://www.sportsline.com/college-basketball/game-forecast/NCAAB_20260314_HAWAII@UCIRV/"
+    },
+    {
+      "title": "Player ratings: Real Madrid 4 - 1 Elche - Managing Madrid",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/105254/player-ratings-real-madrid-4-1-elche"
+    },
+    {
+      "title": "Sunday Setup: How Las Vegas heat factors into race-day strategy - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/03/14/cup-series-sunday-setup-las-vegas-spring-strategy/"
+    },
+    {
+      "title": "Prelim Results | UFC Fight Night: Emmett vs Vallejos - UFC.com",
+      "link": "https://www.ufc.com/news/ufc-fight-night-emmett-vs-vallejos-results-prelims-highlights-winners-interviews"
+    },
+    {
+      "title": "Toledo Rockets vs. Akron Zips Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Saturday 03/14 17:00 PM - SportsLine",
+      "link": "https://www.sportsline.com/college-basketball/game-forecast/NCAAB_20260314_TOLEDO@AKRON/"
+    },
+    {
+      "title": "2026 NCAA Tournament Predictions: Bracketology updates from Saturday's conference championships, more - On3",
+      "link": "https://www.on3.com/news/2026-ncaa-tournament-predictions-bracketology-updates-from-saturdays-conference-championships-more/"
+    },
+    {
+      "title": "Reds Slow Chase Burns After Range Of Motion Issue - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/reds-slow-chase-burns-after-range-of-motion-issue.html"
+    },
+    {
+      "title": "Ludvig Aberg leads Players Championship before final round at Sawgrass - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/c1jk35ren24o"
     },
     {
       "title": "Wheeler faces hitters for first time since September surgery - MLB.com",
       "link": "https://www.mlb.com/news/zack-wheeler-faces-hitters-for-first-time-in-2026"
     },
     {
-      "title": "Full starting lineup for 2026 NASCAR Cup Series spring race at Las Vegas Motor Speedway - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/03/14/full-starting-lineup-for-2026-nascar-cup-series-spring-race-at-las-vegas-motor-speedway/"
+      "title": "Why the Chicago Bears could be moving to Indiana - NPR",
+      "link": "https://www.npr.org/2026/03/14/g-s1-113826/why-the-chicago-bears-could-be-moving-to-indiana"
     },
     {
-      "title": "Three questions and three answers from Real Madrid 4-1 Elche - Managing Madrid",
-      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/105226/three-questions-and-three-answers-from-real-madrid-4-1-elche"
-    },
-    {
-      "title": "2026 Players Championship leaderboard: Live updates, scores, analysis and highlights from Round 3 - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/players-championship-2026-leaderboard-live-updates-scores-coverage-round-3/live/"
-    },
-    {
-      "title": "Bayern Munich\u2019s Vincent Kompany speaks out following controversial 1-1 draw with Leverkusen - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-coaches/177705/bayern-munichs-vincent-kompany-speaks-out-following-controversial-1-1-draw-with-leverkusen"
-    },
-    {
-      "title": "How history-maker Dowman stole show for Arsenal - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cz6e5gg2egyo"
-    },
-    {
-      "title": "PGA Tour\u2019s dubious \u2018fifth major\u2019 is really just another con job - New York Post",
-      "link": "https://nypost.com/2026/03/14/sports/pga-tours-dubious-fifth-major-is-really-just-another-con-job/"
-    },
-    {
-      "title": "World Baseball Classic live updates: Quarterfinals continue with Italy vs. Puerto Rico, Japan vs. Venezuela on Saturday - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/live/world-baseball-classic-live-updates-quarterfinals-continue-with-italy-beating-puerto-rico-japan-vs-venezuela-on-saturday-180527280.html"
-    },
-    {
-      "title": "Bahrain and Saudi Arabian F1 races officially cancelled amid Middle East conflict - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/bahrain-and-saudi-arabia-f1-races-officially-cancelled-amid-middle-east-conflict/10805321/"
-    },
-    {
-      "title": "Race Start Moved Up Sunday at Arlington due to Afternoon Winds - INDYCAR.com",
-      "link": "http://www.indycar.com/news/2026/03/03-14-arlington-sked-change"
-    },
-    {
-      "title": "Leafs call for harsher punishment of Gudas for hit on Matthews - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/48207266/leafs-call-harsher-punishment-gudas-hit-matthews"
-    },
-    {
-      "title": "Purdue Boilermakers vs. UCLA Bruins Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Saturday 03/14 12:30 PM - SportsLine",
-      "link": "https://www.sportsline.com/college-basketball/game-forecast/NCAAB_20260314_PURDUE@UCLA/"
-    },
-    {
-      "title": "Three members of Iranian women\u2019s football team pull Australia asylum bids - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media"
-    },
-    {
-      "title": "Joe Ryan will not pitch in World Baseball Classic, likely to start Opening Day - Star Tribune",
-      "link": "https://www.startribune.com/joe-ryan-not-expected-to-pitch-in-world-baseball-classic-could-start-opening-day/601598133"
-    },
-    {
-      "title": "Tulsa Golden Hurricane vs. Wichita State Shockers Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Saturday 03/14 14:30 PM - SportsLine",
-      "link": "https://www.sportsline.com/college-basketball/game-forecast/NCAAB_20260314_TULSA@WICHST/"
-    },
-    {
-      "title": "Ohio State Women\u2019s Basketball Will Host First- and Second-Round Games for Fourth Straight Year - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-womens-basketball/2026/03/161883/ohio-state-women-s-basketball-will-host-first-and-second-round-games-for-fourth-straight-year"
-    },
-    {
-      "title": "Houston vs Arizona Prediction, Time, Pick, Odds for Saturday \u2014 2026 Big 12 Championship - Action Network",
-      "link": "https://www.actionnetwork.com/ncaab/houston-cougars-vs-arizona-wildcats-predictions-picks-odds-big-12-championship-saturday-march-14"
+      "title": "Caitlin Clark, Team USA Roll Over Italy in FIBA World Cup Qualifier - Sports Illustrated",
+      "link": "https://www.si.com/wnba/team-usa-vs-italy-live-updates-caitlin-clark-could-get-first-starting-nod-fiba-world-cup-qualifiers"
     }
   ],
   "weather": {
