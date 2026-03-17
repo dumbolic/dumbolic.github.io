@@ -1,9 +1,9 @@
 {
-  "quote": "Whatever you decide to do, make sure it makes you happy. \u2013 Paulo Coelho",
-  "fact": "A cat's jaw cannot move sideways.",
-  "crypto": "BTC: $74,695 | ETH: $2,333.09",
+  "quote": "Only when one allows themself the right to die, do they then give yourself the permission to live. \u2013 C. Sean McGee",
+  "fact": "It takes about 142.18 licks to reach the center of a Tootsie pop.",
+  "crypto": "BTC: $74,494 | ETH: $2,321.83",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the clown have neck pain? - Because he slept funny",
+  "joke": "It\u2019s hard to explain puns to kleptomaniacs, because they take everything literally.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Judge Orders Subnautica 2 Studio CEO Reinstated Amid Lawsuit - Kotaku",
+      "link": "https://kotaku.com/subnautica-2-ted-gill-unknown-worlds-lawsuit-krafton-2000679131"
+    },
+    {
+      "title": "Pok\u00e9mon Go Maker Used Billions Of Images To Train An AI Map Of The World - Kotaku",
+      "link": "https://kotaku.com/pokemon-go-ai-map-data-niantic-spatial-delivery-robot-2000679110"
+    },
+    {
+      "title": "Mid\u2011Year Celebrations Return to Play! Pok\u00e9mon Stores on June 15 - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/mid-year-celebrations-return-to-play-pokemon-stores-on-june-15"
+    },
+    {
       "title": "New Animation: The Saviour of Armageddon Returns - Warhammer Community",
-      "link": "https://www.warhammer-community.com/en-gb/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns/"
+      "link": "https://www.warhammer-community.com/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns"
+    },
+    {
+      "title": "Tested: PS5 Pro's Upgraded PSSR Put Through Its Paces On Four Top-Tier Games - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/features/tested-ps5-pros-upgraded-pssr-put-through-its-paces-on-four-top-tier-games"
+    },
+    {
+      "title": "Crimson Desert PS5 Trophies Leak, and They're Basically Nonsensical - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/crimson-desert-ps5-trophies-leak-and-theyre-basically-nonsensical"
     },
     {
       "title": "Fans Are Furious After A Tomb Raider Remastered Patch Gives Lara Slop Outfits - Kotaku",
       "link": "https://kotaku.com/fans-are-furious-after-a-tomb-raider-remastered-patch-gives-lara-slop-outfits-2000679054"
     },
     {
-      "title": "Apple Announces AirPods Max 2 - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/16/apple-announces-airpods-max-2/"
+      "title": "Apple quietly launches AirPods Max 2 - TechCrunch",
+      "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/"
+    },
+    {
+      "title": "Check out the 2026 Warhammer Open swag boxes! - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/jbt1j3ky/check-out-the-2026-warhammer-open-swag-boxes"
+    },
+    {
+      "title": "Palworld version 1.0 is so big it will shock you, says publishing lead, \"It's all going to change\" - PC Guide",
+      "link": "https://www.pcguide.com/news/palworld-version-1-0-is-so-big-it-will-shock-you-says-publishing-lead-its-all-going-to-change/"
+    },
+    {
+      "title": "You Probably Don\u2019t Meet The \u2018Marathon\u2019 Cryo Archive Access Requirements - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/03/16/you-probably-dont-meet-the--marathon-cryo-archive-access-requirements/"
     },
     {
       "title": "Marathon Dev 'Truth Nukes' Claim Bungie Lost All Its Halo Talent - Kotaku",
       "link": "https://kotaku.com/marathon-bungie-halo-developers-who-worked-on-2000679056"
     },
     {
+      "title": "In an industry beset by layoffs and crunch, Japanese publisher Atlus is raising salaries and working to reduce fixed overtime - Eurogamer",
+      "link": "https://www.eurogamer.net/atlus-raising-employee-salaries-and-reducing-overtime-hours-april-2026"
+    },
+    {
       "title": "\"We Can All Exist At The Same Time\" - Zelda Voice Actor Rejects The Need To Pass The Torch - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/03/we-can-all-exist-at-the-same-time-zelda-voice-actor-rejects-the-need-to-pass-the-torch"
+    },
+    {
+      "title": "GDC Festival of Gaming 2026 attendance drops 30% to 20,000 visitors - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gdc-festival-of-gaming-2026-attendance-drops-30-to-20000-visitors"
     },
     {
       "title": "Linux 7.1 To Retire UDP-Lite - Allows For Better Performance With Cleansed Code - Phoronix",
@@ -46,64 +86,52 @@
     {
       "title": "Misusing my fitness tracker to do less, not more - The Verge",
       "link": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop"
-    },
-    {
-      "title": "This popular Chrome extension just got flagged for malware - Android Authority",
-      "link": "https://www.androidauthority.com/favorite-chrome-image-extension-malware-3649252/"
-    },
-    {
-      "title": "AMD Zen6 \"Medusa Point\" 10-core CPU leak confirms 32MB L3 Cache - VideoCardz.com",
-      "link": "https://videocardz.com/newz/amd-zen6-medusa-point-10-core-cpu-leak-confirms-32mb-l3-cache"
-    },
-    {
-      "title": "Samsung reportedly in crisis mode despite encouraging Galaxy S26 sales - Android Central",
-      "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-reportedly-in-crisis-mode-despite-growing-galaxy-s26-sales"
-    },
-    {
-      "title": "Warner Bros Montr\u00e9al reportedly hit with staff cuts - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/warner-bros-montreal-reportedly-hit-with-staff-cuts"
-    },
-    {
-      "title": "Spotify's mobile app may soon get a feature fans have wanted for 15 years - Android Authority",
-      "link": "https://www.androidauthority.com/spotify-playlists-folder-coming-to-mobile-app-3649237/"
-    },
-    {
-      "title": "Looks like Samsung doesn't want to sell the Galaxy Z TriFold anymore - SamMobile",
-      "link": "https://www.sammobile.com/news/looks-like-samsung-doesnt-want-to-sell-the-galaxy-z-trifold-anymore/"
-    },
-    {
-      "title": "Breaking: First One UI 9 build appears for the Galaxy S26 Ultra - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s26-first-one-ui-9-build-appears/"
-    },
-    {
-      "title": "Lovable exec says 'big boys and girls' like OpenAI and Anthropic worry her more than other vibe coding startups - Business Insider",
-      "link": "https://www.businessinsider.com/lovable-growth-exec-openai-anthropic-competition-cursor-replit-vibe-coding-2026-3"
-    },
-    {
-      "title": "OnePlus' US Community has turned into a 'ghost town,' users say - Android Authority",
-      "link": "https://www.androidauthority.com/oneplus-us-community-broken-3649210/"
-    },
-    {
-      "title": "A First Look at the Universe of Futuristic MMORPG Prism 2033 - IGN",
-      "link": "https://www.ign.com/articles/a-first-look-at-the-universe-of-futuristic-mmorpg-prism-2033"
     }
   ],
   "sports_news": [
+    {
+      "title": "2026 March Madness Predictions - Silver Bulletin",
+      "link": "https://www.natesilver.net/p/2026-march-madness-ncaa-tournament-predictions"
+    },
+    {
+      "title": "Alabama's Aden Holloway arrested on felony marijuana charge - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48223799/alabama-aden-holloway-arrested-felony-marijuana-charge"
+    },
+    {
+      "title": "Ex-UFC star Nate Diaz to return to octagon for MVP's MMA debut - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/48223349/ex-ufc-star-nate-diaz-return-octagon-mvp-mma-debut"
+    },
     {
       "title": "Chiefs finalizing trade for Justin Fields - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-finalizing-trade-for-justin-fields"
     },
     {
+      "title": "NBA explores expanding by two teams; when will the NFL follow suit? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nba-explores-expanding-by-two-teams-when-will-the-nfl-follow-suit"
+    },
+    {
+      "title": "Albert Breer\u2019s Takeaways: Inside Kyler Murray\u2019s Decision to Join the Vikings - Sports Illustrated",
+      "link": "https://www.si.com/nfl/albert-breer-takeaways-inside-kyler-murray-vikings-decision"
+    },
+    {
+      "title": "Ludvig Aberg completely melts down in Players Championship back nine debacle - New York Post",
+      "link": "https://nypost.com/2026/03/16/sports/ludvig-aberg-completely-melts-down-at-players-championship/"
+    },
+    {
+      "title": "Three Perfect Swings From Cam Young Highlight The Players Championship Finish - OutKick",
+      "link": "https://www.outkick.com/sports/cam-young-golf-dad-breakthrough-three-swings-the-players-championship-takeaways"
+    },
+    {
+      "title": "Las Vegas Raiders\u2019 Maxx Crosby trade rumors are not over - Silver And Black Pride",
+      "link": "https://www.silverandblackpride.com/las-vegas-raiders-draft/124810/las-vegas-raiders-maxx-crosby-trade-rumors-are-not-finished"
+    },
+    {
+      "title": "D1Baseball Top 25: UCLA holds steady at No. 1, three teams enter ranks - D1Baseball",
+      "link": "https://d1baseball.com/top-25/d1baseball-top-25-ucla-holds-steady-at-no-1-three-teams-enter-ranks/"
+    },
+    {
       "title": "Michael \u2018Venom\u2019 Page reveals \u2018most frustrating\u2019 problems he\u2019s faced since joining UFC roster - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/477121/michael-venom-page-reveals-most-frustrating-problems-hes-faced-since-joining-ufc-roster"
-    },
-    {
-      "title": "UPDATED: Commanders 72-man offseason depth chart - updated at the end of the 1st week of 2026 free agency - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-depth-chart/406087/commanders-71-man-offseason-depth-chart-updated-at-the-end-of-the-1st-week-of-2026-free-agency"
-    },
-    {
-      "title": "NCAA Tournament Odds: Ranking betting favorites for National Championship after March Madness field of 68 brackets revealed - On3",
-      "link": "https://www.on3.com/pro/news/ncaa-tournament-odds-ranking-betting-favorites-for-national-championship-after-march-madness-field-of-68-brackets-revealed/"
     },
     {
       "title": "Ex-Falcons OT Elijah Wilkinson blasts former team: 'Good luck with that clown show over there' - NFL.com",
@@ -130,40 +158,12 @@
       "link": "https://www.cbsnews.com/news/iran-womens-soccer-team-asylum-australia-5th-member-changes-mind/"
     },
     {
+      "title": "Darius Slay: No team can call me but the Eagles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darius-slay-no-team-can-call-me-but-the-eagles"
+    },
+    {
       "title": "Henderson starts at third for US over Bregman, then homers in WBC - AP News",
       "link": "https://apnews.com/article/world-baseball-classic-usa-gunnar-henderson-768ba67e809badb866c1d820b94dce80"
-    },
-    {
-      "title": "Dominican WBC loss ends on called strike that appeared low, a week before robot umps arrive in MLB - AP News",
-      "link": "https://apnews.com/article/us-dominican-wbc-abs-robot-094f1894dc59d09af8e7918ca3332956"
-    },
-    {
-      "title": "March Madness Brackets: Expert Predictions for the 2026 Men\u2019s NCAA Tournament - Sports Illustrated",
-      "link": "https://www.si.com/college-basketball/march-madness-brackets-expert-predictions-2026-mens-ncaa-tournament"
-    },
-    {
-      "title": "2026 printable March Madness women's bracket - ESPN",
-      "link": "https://www.espn.com/womens-college-basketball/ncaatourney00/story/_/id/48216486/2026-ncaa-women-tournament-march-madness-printable-brackets-college-basketball"
-    },
-    {
-      "title": "Earthquakes vs. Sounders, recap: Andrew Thomas stands tall - Sounder at Heart",
-      "link": "https://www.sounderatheart.com/2026/03/the-wall-holds-sounders-withstand-intense-pressure/"
-    },
-    {
-      "title": "Let's Dance: Ohio State tapped as eight seed in NCAA Tournament, ends 3-year drought - 247Sports",
-      "link": "https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-mens-basketball-headed-to-2026-ncaa-tournament-march-madness-277812867/"
-    },
-    {
-      "title": "NIT bracket 2026: The full field revealed - SB Nation",
-      "link": "https://www.sbnation.com/college-basketball/1106544/nit-bracket-2026-the-full-field-revealed"
-    },
-    {
-      "title": "Postseason WNIT announces 48-team field for 2026 event - Women's NIT",
-      "link": "https://www.womensnit.com/wnit-news-stories/postseason-wnit-announces-48-team-field-for-2026-event"
-    },
-    {
-      "title": "Kyler Murray\u2019s arrival is the ultimate challenge for J.J. McCarthy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murrays-arrival-is-the-ultimate-challenge-for-j-j-mccarthy"
     }
   ],
   "weather": {
