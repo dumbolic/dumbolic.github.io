@@ -1,9 +1,9 @@
 {
-  "quote": "Smell the cheese often so you know when it is getting old. \u2013 Spencer Johnson",
-  "fact": "A polar bears skin is black. Its fur is actually clear, but like snow it appears white.",
-  "crypto": "BTC: $71,364 | ETH: $2,184.79",
+  "quote": "Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. \u2013 Nicolas Chamfort",
+  "fact": "During the chariot scene in \"Ben Hur,\" a small red car can be seen in the distance.",
+  "crypto": "BTC: $71,414 | ETH: $2,194.76",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What don't watermelons get married? Because they cantaloupe.",
+  "joke": "Why do crabs never give to charity? Because they\u2019re shellfish.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "PS Portal Gets Even Better with New Firmware Update, Improved Visuals and Enhanced Cloud Streaming - Push Square",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMy1RVzNTMkl1VGFVRjh1cXdGNTlhS2RXd0ZEUEdMS28tQzBRdHY2d2NLdFpuSkFnMWg0YV8ydFhlUm0zNE5INC1QeVBlUXlnMUNPT2txdjJCUUh6dmhKcnV6TGRJZmNsZEt6RkpRM1dqR1lwekw1Q2RxU090TzEyNk9jdW4zVU50YmVNNzBYZGdNQjRfM09sa1BfTnFkQU1hb2NPd0JEUUwzWGhxUXEzcXNEejM3WXRuNDNBLTZRMEljTGZyN0FYNXJYVnBlNDIxcThF?oc=5"
+      "title": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More - Xbox",
+      "link": "https://news.xbox.com/en-us/2026/03/17/xbox-game-pass-march-2026-wave-2/"
+    },
+    {
+      "title": "Fallout 76 Update Notes \u2013 March 17, 2026 - Bethesda.net",
+      "link": "https://bethesda.net/en/article/3ruetJXPdvHKgW0kZraAOI/fallout-76-update-notes-march-17-2026"
     },
     {
       "title": "Column | This app is quietly reformulating America\u2019s food supply - The Washington Post",
       "link": "https://www.washingtonpost.com/climate-environment/2026/03/17/yuka-app-processed-food-health/"
+    },
+    {
+      "title": "Bethesda promises Nvidia's controversial DLSS 5 AI filters will be \"totally optional\" for players - Eurogamer",
+      "link": "https://www.eurogamer.net/bethesda-promises-nvidias-controversial-dlss-5-ai-filters-will-be-totally-optional-for-players"
     },
     {
       "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
@@ -25,19 +33,39 @@
     },
     {
       "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG1TNU5yQnA0U01Pako4cjY3Z01pa3d4bHBEU2RNSzFLa3FyUUdDTUhSUGJCSHpRbnhtbWxaRTN4S3Fob2N4SUhocDF4YWV0QThvU1drUnltNUVIWXdKeTBDR09TendoSHJNTDdhYU9Zd1MzcUhVdWJrWWpyVEpxaXltaGtKWEZGNXhyeVByZEN2cFh2Qnd4Vm9zRHd5M0hvMU9BVHlrOA?oc=5"
-    },
-    {
-      "title": "Samsung discontinues its Galaxy Z TriFold after just three months - The Verge",
-      "link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out"
+      "link": "https://9to5mac.com/2026/03/17/how-a-macbook-neo-bought-for-a-high-school-student-is-worth-50k-to-apple/"
     },
     {
       "title": "Nintendo Switch App Update Introduces Support For Switch 2's New Friend List Features - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/03/nintendo-switch-app-update-introduces-support-for-switch-2s-new-friend-list-features"
     },
     {
+      "title": "Base PS5 footage of Crimson Desert finally emerges, and it looks OK? - Eurogamer",
+      "link": "https://www.eurogamer.net/base-ps5-footage-of-crimson-desert"
+    },
+    {
       "title": "Patch Notes 1.20.0 - ARC Raiders",
       "link": "https://arcraiders.com/news/patch-notes-1-20-0"
+    },
+    {
+      "title": "NVIDIA launches RTX PRO 4500 Blackwell Server Edition, single-slot GPU with 32GB memory and 165W TDP - VideoCardz.com",
+      "link": "https://videocardz.com/newz/nvidia-launches-rtx-pro-4500-blackwell-server-edition-single-slot-gpu-with-32gb-memory-and-165w-tdp"
+    },
+    {
+      "title": "Intel launches Core Ultra 200HX Plus Arrow Lake Refresh mobile CPUs: 290HX Plus is 8% faster than 285HX - VideoCardz.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHkxeENQT3pEaUM1STRzTkVmNWlmdmRIc3E1RDlTUXZvcTMxZGlvanNzUl90YnpoQ1J2Qk8xUkNDbFJZWVVRS2xhZjYtYkp0bTBxelhnbGVKUE5SM1AtSC1LVVpRUDhBX1dNdE80SXZXenRsTzVDQ19qaXo3OTFiUjhNRm9oeTJjbVVtTTg4MFRCNWxzRlpFZ19mYTRHUHZlbWdaRG80blBaT3lBZXJSeHBVQjl6V04ydjh6d2hJNFgxS280cURsRQ?oc=5"
+    },
+    {
+      "title": "Hands on with Aqara\u2019s new Matter-compatible camera - The Verge",
+      "link": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review"
+    },
+    {
+      "title": "Samsung to Stop Selling $2,899 TriFold Phone After Three Months - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months"
+    },
+    {
+      "title": "Death Stranding 2 Upcoming Major Update Adds New Difficulty Mode, Live-Action Cutscenes, Features and Will Be Rolled Out Alongside PC Release - MP1st",
+      "link": "https://mp1st.com/news/death-stranding-2-upcoming-update-new-difficulty-mode-live-action-cutscenes"
     },
     {
       "title": "Clean your feed: Refresh your Instagram diet - Axios",
@@ -56,62 +84,38 @@
       "link": "https://9to5mac.com/2026/03/16/apple-has-announced-8-new-products-this-month/"
     },
     {
-      "title": "10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/16/airpods-max-2-audio-improvements/"
-    },
-    {
-      "title": "Nvidia's DLSS 5 promises to bring you out the other side of the uncanny valley - theregister.com",
-      "link": "https://www.theregister.com/2026/03/16/nvidia_dlss5_uncanny_valley/"
-    },
-    {
-      "title": "Lenovo launches new 14-inch ThinkPad with AMD Gorgon Point and up to 96 GB RAM - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Lenovo-launches-new-14-inch-ThinkPad-with-AMD-Gorgon-Point-and-up-to-96-GB-RAM.1251719.0.html"
-    },
-    {
-      "title": "Super powerful Dell Pro Precision 7 14 and Pro Precision 7 16 workstation laptops are now official - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Super-powerful-Dell-Pro-Precision-7-14-and-Pro-Precision-7-16-workstation-laptops-are-now-official.1251730.0.html"
-    },
-    {
-      "title": "Hasbro CEO thinks the video game industry needs to \"think about things differently\" - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/hasbro-ceo-thinks-the-video-game-industry-needs-to-think-about-things-differently"
-    },
-    {
-      "title": "iPhone Fold looks like two of my all-time favorite products in one - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/16/iphone-fold-looks-like-two-of-my-all-time-favorite-products-in-one/"
-    },
-    {
-      "title": "Riftbound: Unleashed Card Preview \u2013 Vex\u2019s Gloomist Rewards Battlefield Control - Inven Global",
-      "link": "https://www.invenglobal.com/articles/riftbound-unleashed-card-preview-vexs-gloomist-rewards-battlefield-control"
-    },
-    {
-      "title": "Google rolling out modem update for original Pixel Watch - 9to5Google",
-      "link": "http://9to5google.com/2026/03/16/pixel-watch-modem-update/"
+      "title": "Chrome on Android finally gets a bookmarks bar - Android Police",
+      "link": "https://www.androidpolice.com/chrome-on-android-bookmark-bar-update/"
     }
   ],
   "sports_news": [
+    {
+      "title": "New Mel Kiper NFL Mock Draft Drops, What Changed After 2026 Free Agency? - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25407838-new-mel-kiper-nfl-mock-draft-drops-what-changed-after-2026-free-agency"
+    },
+    {
+      "title": "The Denver Broncos are trading for wide receiver Jaylen Waddle - Mile High Report",
+      "link": "https://www.milehighreport.com/denver-broncos-free-agency/173805/the-denver-broncos-are-trading-for-wide-receiver-jaylen-waddle"
+    },
+    {
+      "title": "Bills restructure DJ Moore\u2019s contract - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-restructure-dj-moores-contract"
+    },
     {
       "title": "How Clint Hurdle\u2019s advice helped Francisco Cervelli lead Italy on WBC Cinderella run - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/pirates/2026/03/17/pirates-team-italy-francisco-cervelli-world-baseball-classic/stories/202603170032"
     },
     {
-      "title": "2026 NFL Draft: Joel Klatt releases mock 2.0 with significant changes after start of free agency - On3",
-      "link": "https://www.on3.com/pro/news/2026-nfl-draft-joel-klatt-releases-mock-2-0-with-significant-changes-after-start-of-free-agency/"
+      "title": "More details revealed on arrest of Alabama basketball star Aden Holloway - AL.com",
+      "link": "https://www.al.com/alabamabasketball/2026/03/more-details-revealed-on-arrest-of-alabama-basketball-star-aden-holloway.html"
     },
     {
       "title": "2026 NCAA Tournament Picks, Predictions: Our Expert\u2019s Full March Madness Bracket - Action Network",
       "link": "https://www.actionnetwork.com/ncaab/2026-ncaa-tournament-picks-predictions-march-madness-bracket"
     },
     {
-      "title": "March Madness: Five Teams to Avoid in Your Men\u2019s NCAA Tournament Bracket - Sports Illustrated",
-      "link": "https://www.si.com/college-basketball/march-madness-five-teams-to-avoid-in-mens-ncaa-tournament-bracket"
-    },
-    {
       "title": "Skull Session: 39 Ohioans Are in the Big Dance, CBS Sports Ranks Ohio State 29th in the NCAA Tournament Field and Thad Matta Retires After 21 Seasons As a Head Coach - Eleven Warriors",
       "link": "https://www.elevenwarriors.com/skull-sessions/2026/03/161915/skull-session-39-ohioans-are-in-the-big-dance-cbs-sports-ranks-ohio-state-29th-in-the-ncaa-tournament-field-and-thad"
-    },
-    {
-      "title": "University of Alabama releases statement following Aden Holloway arrest - On3",
-      "link": "https://www.on3.com/teams/alabama-crimson-tide/news/alabama-releases-statement-following-aden-holloway-arrest/"
     },
     {
       "title": "Player Grades: Lakers vs. Rockets - Silver Screen and Roll",
@@ -122,8 +126,8 @@
       "link": "https://www.aljazeera.com/sports/2026/3/17/iran-negotiating-with-fifa-to-move-world-cup-2026-matches-from-us-to-mexico"
     },
     {
-      "title": "Jets To Trade QB Justin Fields To Chiefs - NFL Rumors - ProFootballRumors.com",
-      "link": "https://www.profootballrumors.com/2026/03/jets-to-trade-qb-justin-fields-to-chiefs"
+      "title": "Nets, Blazers make \u2018special\u2019 history with three Israelis playing in same game - New York Post",
+      "link": "https://nypost.com/2026/03/17/sports/nets-blazers-make-special-history-with-three-israelis-in-same-game/"
     },
     {
       "title": "2026 Women's March Madness Predictions - Silver Bulletin",
@@ -134,16 +138,12 @@
       "link": "https://apnews.com/article/iranian-womens-soccer-asylum-australia-4dcc9bcc835e5520288f1a9ab7b49a24"
     },
     {
-      "title": "Venezuela ends Italy's run, will face USA in WBC final - theScore.com",
-      "link": "https://thescore.com/wbc/news/3501655"
-    },
-    {
       "title": "Bulls beat Grizzlies, shedding more light on front-office malpractice - Chicago Sun-Times",
       "link": "https://chicago.suntimes.com/bulls/2026/03/16/bulls-beat-grizzlies-shedding-light-front-office-malpractice"
     },
     {
-      "title": "3 big lineup decisions facing Team USA in Classic final - MLB.com",
-      "link": "https://www.mlb.com/news/key-lineup-decisions-for-team-usa-in-world-baseball-classic-final"
+      "title": "Team USA vs. Venezuela: Full Preview of the World Baseball Classic Final - Sports Illustrated",
+      "link": "https://www.si.com/mlb/world-baseball-classic-final-team-usa-vs-venezuela-preview"
     },
     {
       "title": "Can freshman star AJ Dybantsa lead surging BYU on a lengthy NCAA Tournament run? - deseret.com",
@@ -162,12 +162,8 @@
       "link": "https://www.nfl.com/news/steelers-legend-hall-of-famer-rod-woodson-tired-of-aaron-rodgers-waiting-game-they-need-to-move-forward"
     },
     {
-      "title": "Three Up, Three Down: Drivers in focus leaving Las Vegas - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/03/16/cup-series-2026-three-up-three-down-drivers-focus-las-vegas/"
-    },
-    {
-      "title": "Maxx Crosby Leak May Make Bears Glad They Didn\u2019t Trade for Him - heavy.com",
-      "link": "https://heavy.com/sports/nfl/chicago-bears/maxx-crosby-leak-trade/"
+      "title": "Former Plant, Syracuse QB Rex Culpepper dies in dirt bike accident - Tampa Bay Times",
+      "link": "https://www.tampabay.com/sports/bucs/2026/03/16/former-plant-syracuse-qb-rex-culpepper-killed-dirt-bike-accident/"
     }
   ],
   "weather": {
