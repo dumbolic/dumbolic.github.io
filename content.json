@@ -1,9 +1,9 @@
 {
-  "quote": "We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. \u2013 Mark Manson",
-  "fact": "One in every 4 Americans has appeared on television.",
-  "crypto": "BTC: $71,080 | ETH: $2,192.9",
+  "quote": "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given. \u2013 Steve Harvey",
+  "fact": "Poland is the \"stolen car capital of the world\".",
+  "crypto": "BTC: $71,201 | ETH: $2,194.39",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I don't trust sushi, there's something fishy about it.",
+  "joke": "I just got fired from a florist, apparently I took too many leaves.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Cyberpunk TCG\u2019s Kickstarter Campaign Is Officially Now Live, Here\u2019s What\u2019s Included in Every Tier - IGN",
-      "link": "https://www.ign.com/articles/cyberpunk-tcg-kickstarter-campaign-is-now-live-what-is-included-in-every-tier"
+      "title": "Subnautica 2 Will Finally Enter Early Access in May Following Year of Delays and Legal Drama - IGN",
+      "link": "https://www.ign.com/articles/subnautica-2-will-finally-enter-early-access-in-may-following-year-of-delays-and-legal-drama"
+    },
+    {
+      "title": "Teamfight Tactics patch 16.7 - Teamfight Tactics",
+      "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-7/"
+    },
+    {
+      "title": "Garmin Launches WhatsApp Integration for Watches - DC Rainmaker",
+      "link": "https://www.dcrainmaker.com/2026/03/garmin-launches-whatsapp-integration-for-watches.html"
+    },
+    {
+      "title": "CD Projekt Red's Cyberpunk Trading Card Game is making so much money on Kickstarter the total never stops moving - Eurogamer",
+      "link": "https://www.eurogamer.net/cd-projekt-red-cyberpunk-trading-card-game"
     },
     {
       "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups - Ars Technica",
@@ -28,24 +40,24 @@
       "link": "https://9to5mac.com/2026/03/17/tim-cook-names-apples-greatest-contributions-talks-tariff-refunds-and-retirement-rumors/"
     },
     {
-      "title": "Minecraft 26.1 Pre-Release 3 - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3"
+      "title": "Todd Howard Talks Elder Scrolls 6 Progress, Starfield's PS5 Port, and Bethesda's Future \u2013 IGN Interview - IGN",
+      "link": "https://www.ign.com/articles/todd-howard-talks-elder-scrolls-6-progress-starfields-ps5-port-and-bethesdas-future-ign-interview"
+    },
+    {
+      "title": "Marathon Is A Satire - aftermath.site",
+      "link": "https://aftermath.site/marathon-satire-readergrev/"
     },
     {
       "title": "Nintendo Switch 2 update adds \u2018Handheld Boost Mode\u2019 for original Switch games - The Verge",
       "link": "https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update"
     },
     {
-      "title": "The PlayStation Portal just got even better: a new High Quality Mode and 'refined streaming experience' headline the latest update - Eurogamer",
-      "link": "https://www.eurogamer.net/playstation-portal-even-better-high-quality-mode-refined-streaming-experience"
-    },
-    {
       "title": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More - Xbox",
       "link": "https://news.xbox.com/en-us/2026/03/17/xbox-game-pass-march-2026-wave-2/"
     },
     {
-      "title": "Starfield Launches on PlayStation 5 on April 7 - Bethesda.net",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGlsQVc0bDIzVjBPaklHbFNYNk56UHV4VFIxWTY2c3ZzdnhZWVF5UWVaS29uaEVzbmZzaThSVXhrdmxqQ2prVjdqUHozQU1mWWJNY1NiVlU2R2Z4b1VrQzVfMmd4QmFmdGwtXy1VVEJYallEcWoxSkVHRnZTRUJFNmk2NXdqclgtSXNZd3lob0p6eVh2RUhZbGhrR0RMMUtRQWJj?oc=5"
+      "title": "Everything Coming in Starfield\u2019s Free Lanes Update & Terran Armada DLC - Bethesda.net",
+      "link": "https://bethesda.net/en/article/7IxZSKYwYm1oDr57rXDx4C/starfield-free-lanes-terran-armada"
     },
     {
       "title": "Fallout 76 Update Notes \u2013 March 17, 2026 - Bethesda.net",
@@ -68,8 +80,8 @@
       "link": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-actually-does-a-lot-for-once/1100-6538822/"
     },
     {
-      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/"
+      "title": "Base PS5 footage of Crimson Desert finally emerges, and it looks OK? - Eurogamer",
+      "link": "https://www.eurogamer.net/base-ps5-footage-of-crimson-desert"
     },
     {
       "title": "Patch Notes 1.20.0 - ARC Raiders",
@@ -78,48 +90,56 @@
     {
       "title": "NVIDIA launches RTX PRO 4500 Blackwell Server Edition, single-slot GPU with 32GB memory and 165W TDP - VideoCardz.com",
       "link": "https://videocardz.com/newz/nvidia-launches-rtx-pro-4500-blackwell-server-edition-single-slot-gpu-with-32gb-memory-and-165w-tdp"
-    },
-    {
-      "title": "Samsung finally responds to complaints about the Galaxy S26 Ultra's headline feature, but the explanation feels... questionable - PhoneArena",
-      "link": "https://www.phonearena.com/news/samsung-responds-privacy-display-complaints_id178970"
-    },
-    {
-      "title": "Intel launches Core Ultra 200HX Plus Arrow Lake Refresh mobile CPUs: 290HX Plus is 8% faster than 285HX - VideoCardz.com",
-      "link": "https://videocardz.com/newz/intel-launches-core-ultra-200hx-plus-arrow-lake-refresh-mobile-cpus-290hx-plus-is-8-faster-than-285hx"
-    },
-    {
-      "title": "Hands on with Aqara\u2019s new Matter-compatible camera - The Verge",
-      "link": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review"
     }
   ],
   "sports_news": [
     {
-      "title": "Jack Hughes wants his golden goal puck back from Hockey HOF - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/48232450/jack-hughes-wants-golden-goal-puck-back-hockey-hof"
-    },
-    {
-      "title": "NCAA Tournament 2026 bracket picks, upsets, Cinderella teams: Model simulates March Madness 10,000 times - CBS Sports",
-      "link": "https://www.cbssports.com/general/news/ncaa-tournament-2026-bracket-picks-upsets-cinderella-teams-model-simulates-march-madness-10000-times/"
+      "title": "Champions League live updates: Arsenal-Leverkusen, Man City-Real Madrid - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/48185295/champions-league-live-updates-arsenal-leverkusen-man-city-real-madrid-chelsea-psg"
     },
     {
       "title": "2026 NFL Power Rankings: Rams, Vikings Surge; Cowboys, Steelers Fall After Free Agency - FOX Sports",
       "link": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-rams-vikings-surge-cowboys-steelers-fall-after-free-agency"
     },
     {
+      "title": "Draisaitl expected to be out rest of regular season for Oilers - NHL.com",
+      "link": "https://www.nhl.com/news/leon-draisaitl-edmonton-oilers-injury-status-update-march-17-2026"
+    },
+    {
+      "title": "Iran wants to move its World Cup matches from US to Mexico. FIFA is sticking to its schedule - AP News",
+      "link": "https://apnews.com/article/fifa-world-cup-iran-us-mexico-43f56d6047fb340672dbe64583214228"
+    },
+    {
+      "title": "Chelsea vs. PSG, Champions League: Confirmed lineups; how to watch - We Ain't Got No History",
+      "link": "https://weaintgotnohistory.sbnation.com/european-tournaments/167024/chelsea-vs-psg-champions-league-confirmed-lineups-how-to-watch"
+    },
+    {
       "title": "Justin Fields will get an opportunity to prove Woody Johnson wrong - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-fields-will-get-an-opportunity-to-prove-woody-johnson-wrong"
     },
     {
-      "title": "Jaylen Waddle trade details: Dolphins deal star WR to Broncos in blockbuster move - USA Today",
-      "link": "https://www.usatoday.com/story/sports/nfl/2026/03/17/jaylen-waddle-trade-broncos-dolphins-details/89193719007/"
+      "title": "CONFIRMED lineups: Manchester City vs Real Madrid, 2026 Champions League - Managing Madrid",
+      "link": "https://www.managingmadrid.com/105386/manchester-city-vs-real-madrid-2026-champions-league-live-online-stream"
     },
     {
-      "title": "Duke's Cameron Boozer among freshmen on All-America 1st team - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48231555/duke-cameron-boozer-freshmen-all-america-1st-team"
+      "title": "Texas vs NC State Prediction, Start Time, NCAA Tournament Odds: First Four Picks for Tuesday, March 17 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/texas-longhorns-vs-nc-state-wolfpack-prediction-pick-odds-ncaa-tournament-first-four-tuesday-march-17"
     },
     {
-      "title": "2026 NFL mock draft: Mel Kiper's pick predictions for Round 1 - ESPN",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1"
+      "title": "Daniel Cormier nearly quit Russian reality TV show after crazy brawl involving a knife - MMA Fighting",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWJMWWlVNllIZzRLQkZSUnM4eXl4QzdNS2N5RUVaVzhDYkFyb29wNW5PWmhFeXlqbFFEbm5iLXBpMFQxWVZzb0MyTWljMHFZek9QTFVYalpRNE1OWjBGUi01V0JEbGk5bUNVajVPRnZlM0JMZmtxUlpqZjE5c2w0dmxPTVA3RXQ2WFVVdURuNVcxQUt6UUVMWHlJZHo2cXQwVl82OWh2N1d2dFRBNzVxTi10NEVxMVYtekR1YVZITzVNUUVvMGs0Z1VOaVU3Zw?oc=5"
+    },
+    {
+      "title": "AJ Dybantsa named First Team All-American - deseret.com",
+      "link": "https://www.deseret.com/sports/2026/03/17/aj-dybantsa-byu-cougars-all-american-first-team/"
+    },
+    {
+      "title": "White Sox\u2019 Mike Vasil To Undergo Tommy John Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/white-sox-mike-vasil-tommy-john-surgery.html"
+    },
+    {
+      "title": "With Jaylen Waddle trade, Dolphins have seven picks in first three rounds of 2026 draft - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-jaylen-waddle-trade-dolphins-have-seven-picks-in-first-three-rounds-of-2026-draft"
     },
     {
       "title": "Report: Eagles to sign WR Marquise 'Hollywood' Brown - PhillyVoice",
@@ -130,36 +150,24 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/131008/buffalo-bills-restructure-dj-moore-contract-slash-2026-cap-hit"
     },
     {
+      "title": "Daniel Jeremiah 2026 NFL mock draft 3.0: RB Jeremiyah Love, LB Sonny Styles crack top five - NFL.com",
+      "link": "https://www.nfl.com/news/daniel-jeremiah-2026-nfl-mock-draft-3-0-rb-jeremiyah-love-lb-sonny-styles-crack-top-five"
+    },
+    {
+      "title": "USMNT Head Coach Mauricio Pochettino Calls 27 Players For March Training Camp Ahead Of Matches In Atlanta Against Top-10 Ranked Opponents Belgium And Portugal - US Soccer",
+      "link": "https://ussoccer.com/stories/2026/03/usmnt/mauricio-pochettino-27-players-march-roster-atlanta-matches-vs-belgium-portugal"
+    },
+    {
       "title": "NHL Player Safety head Parros explains department\u2019s decision to suspend Gudas 5 games - NHL.com",
       "link": "https://www.nhl.com/news/george-parros-explains-radko-gudas-5-game-suspension"
     },
     {
+      "title": "Men's basketball tournament: Odds, spreads and totals for every game of the first round - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/48217692/espn-2026-tournament-men-bracket-game-odds"
+    },
+    {
       "title": "2026 NFL Mock Draft 1.0: Commanders Lean Into Defensive-Driven Offseason - Hogs Haven",
       "link": "https://www.hogshaven.com/nfl-mock-draft/406282/2026-nfl-mock-draft-1-0-washington-commanders-lean-into-defensive-driven-offseason"
-    },
-    {
-      "title": "More details revealed on arrest of Alabama basketball star Aden Holloway - AL.com",
-      "link": "https://www.al.com/alabamabasketball/2026/03/more-details-revealed-on-arrest-of-alabama-basketball-star-aden-holloway.html"
-    },
-    {
-      "title": "2026 Valspar Championship odds, picks: Proven golf model reveals projected leaderboard, surprising predictions - SportsLine",
-      "link": "https://www.sportsline.com/insiders/2026-valspar-championship-odds-picks-proven-golf-model-reveals-projected-leaderboard-surprising-predictions/"
-    },
-    {
-      "title": "Iran wants World Cup games moved from US to Mexico - DW.com",
-      "link": "https://www.dw.com/en/iran-wants-world-cup-games-moved-from-us-to-mexico/a-76394633"
-    },
-    {
-      "title": "Iranian women's soccer players practice with Australian club after being granted asylum - Fox News",
-      "link": "https://www.foxnews.com/sports/iranian-womens-soccer-players-practice-australian-club-after-being-granted-asylum"
-    },
-    {
-      "title": "Meet the Izzo who won't be in Buffalo for Michigan State's NCAA opener - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/03/17/tom-izzo-michigan-state-basketball-dom-izzo-north-dakota-state-bison-broadcaster-ncaa-tournament/89189751007/"
-    },
-    {
-      "title": "Giants Now: PFF's multi-round mock draft - Giants.com",
-      "link": "https://www.giants.com/news/pro-football-focus-multi-round-2026-nfl-mock-draft-sonny-styles-ohio-state-colton-hood-tennessee"
     }
   ],
   "weather": {
