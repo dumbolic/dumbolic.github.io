@@ -1,9 +1,9 @@
 {
-  "quote": "Life is like a wheel. Sooner or later, it always comes around to where you started again. \u2013 Stephen King",
-  "fact": "Length of beard an average man would grow if he never shaved 27.5 feet",
-  "crypto": "BTC: $70,858 | ETH: $2,153.26",
+  "quote": "Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. \u2013 Albus Dumbledore",
+  "fact": "\"Go.\" is the shortest complete sentence in the English language.",
+  "crypto": "BTC: $70,597 | ETH: $2,141.33",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
+  "joke": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple warns iPhone users to update software after mass hacking campaigns - NBC News",
+      "link": "https://www.nbcnews.com/tech/security/apple-iphone-users-update-software-hacking-campaigns-rcna264199"
+    },
+    {
       "title": "New Cyberpunk TCG becomes the most-funded TCG game in Kickstarter history | News-in-brief - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/new-cyberpunk-tcg-becomes-the-most-funded-tcg-game-in-kickstarter-history-news-in-brief"
+    },
+    {
+      "title": "Devolver Digital and doinksoft announce fantasy action platformer Dark Scrolls for Switch, PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/03/devolver-digital-and-doinksoft-announce-fantasy-action-platformer-dark-scrolls-for-switch-pc"
     },
     {
       "title": "A private space company has a radical new plan to bag an asteroid - Ars Technica",
       "link": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/"
     },
     {
-      "title": "Devolver's New 'Dungeon Scroller', Dark Scrolls, Is Packed With Retro Fantasy Goodness - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/03/devolvers-new-dungeon-scroller-dark-scrolls-is-packed-with-retro-fantasy-goodness"
-    },
-    {
-      "title": "Nvidia CEO says the gamers rejecting the company's controversial AI are 'completely wrong' - Polygon.com",
-      "link": "https://www.polygon.com/nvidia-dlss-5-game-graphics-jensen-huang-ceo-response-backlash-memes/"
+      "title": "Sony Reportedly Issuing Automatic Refunds for Additional Content Bought for Short-Lived Live Service, Highguard - IGN",
+      "link": "https://www.ign.com/articles/sony-reportedly-issuing-automatic-refunds-for-additional-content-bought-for-short-lived-live-service-highguard"
     },
     {
       "title": "Don't Expect Crimson Desert Xbox Series X or S Gameplay Footage Before Launch - IGN",
@@ -36,12 +40,16 @@
       "link": "https://www.nintendolife.com/news/2026/03/shinobi-art-of-vengeance-sega-villains-stage-dlc-arrives-next-month"
     },
     {
-      "title": "PSA: Hackers can raid iOS 18 with an infected link - The Verge",
-      "link": "https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword"
+      "title": "AirPods Max 2 are here, but rumors say a bigger overhaul might be coming - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/18/airpods-max-2-are-here-but-rumors-say-a-bigger-overhaul-might-be-coming/"
     },
     {
       "title": "Double Fine\u2019s Pottery Party Brawler Kiln Arrives April 23 (Plus a Direct Look at the First Public Play Sessions) - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2026/03/18/kiln-release-date/"
+    },
+    {
+      "title": "Share In The Incredible Moment An Indie Dev Discovers His Game Made $250,000 - Kotaku",
+      "link": "https://kotaku.com/tangy-td-cakez-twitch-steam-pc-indie-success-story-2000679960"
     },
     {
       "title": "Available for Xbox Insiders: More Groups on Home, Custom User Colors, Quick Resume Settings, and More - Xbox Wire",
@@ -56,8 +64,12 @@
       "link": "https://www.forbes.com/sites/paultassi/2026/03/18/heres-the-release-time-for-fortnite-chapter-7-season-2-showdown/"
     },
     {
-      "title": "Google might be undoing some controversial changes to the Photos app - Android Authority",
-      "link": "https://www.androidauthority.com/google-photos-redesign-reverse-3650090/"
+      "title": "DLSS 5: Has Nvidia\u2019s AI graphics technology gone too far? - The Verge",
+      "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering"
+    },
+    {
+      "title": "MacBook Neo is just fine with 4K video editing and 59 Chrome tabs - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/18/macbook-neo-is-just-fine-with-4k-video-editing-and-59-chrome-tabs/"
     },
     {
       "title": "Microsoft 365 pauses Copilot creep after admins cry foul - theregister.com",
@@ -66,10 +78,6 @@
     {
       "title": "At $3,999, Could This 1998 Dodge Neon Brighten Your Day? - Jalopnik",
       "link": "https://www.jalopnik.com/2125684/1989-dodge-neon-for-sale-3999/"
-    },
-    {
-      "title": "LLMs Are Manipulating Users with Rhetorical Tricks - Harvard Business Review",
-      "link": "https://hbr.org/2026/03/llms-are-manipulating-users-with-rhetorical-tricks"
     },
     {
       "title": "Riot Games Riftbound: Unleashed Preview \u2013 Inviolus Vox Crashes the Jungle Party - The Outerhaven",
@@ -82,17 +90,37 @@
     {
       "title": "Samsung folds the Galaxy Z TriFold after just a few months - theregister.com",
       "link": "https://www.theregister.com/2026/03/18/samsung_trifold_axed/"
-    },
-    {
-      "title": "PS3 Gets Surprise System Update 4.93 for March 2026 - PlayStation LifeStyle",
-      "link": "https://www.playstationlifestyle.net/2026/03/18/ps3-system-update-4-93-march-2026/"
-    },
-    {
-      "title": "AI chatbots often validate delusions and suicidal thoughts, study finds - Financial Times",
-      "link": "https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068?syn-25a6b1a6\\\\u003d1"
     }
   ],
   "sports_news": [
+    {
+      "title": "March Madness bracket scores: Miami (Ohio) wins first NCAA tournament game since 1999, makes statement against SMU in First Four - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mens-college-basketball/live/march-madness-bracket-scores-miami-ohio-wins-first-ncaa-tournament-game-since-1999-makes-statement-against-smu-in-first-four-210000383.html"
+    },
+    {
+      "title": "2026 March Madness predictions: NCAA bracket expert picks, odds for first-round games on Thursday - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/march-madness-predictions-expert-picks-ncaa-tournament-bracket-2026-first-round-games-thursday/"
+    },
+    {
+      "title": "Fermin Lopez reveals how Hansi Flick change helped Barcelona overcome Newcastle in Champions League - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/115606/fermin-lopez-reveals-how-hansi-flick-change-helped-barcelona-overcome-newcastle-in-champions-league"
+    },
+    {
+      "title": "NCAA bracket predictions: Model releases surprising March Madness 2026 tournament picks to target - CBS Sports",
+      "link": "https://www.cbssports.com/general/news/ncaa-bracket-predictions-model-releases-surprising-march-madness-2026-tournament-picks-to-target/"
+    },
+    {
+      "title": "WNBA, players' union agree to new CBA: Live updates, when season starts, salary info - USA Today",
+      "link": "https://www.usatoday.com/story/sports/wnba/2026/03/18/wnba-players-union-agreement-in-principle-new-cba/87154047007/"
+    },
+    {
+      "title": "Caps beat Senators 4-1 in Cole Hutson\u2019s debut - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/03/18/caps-beat-senators-4-1-in-cole-hutsons-debut/"
+    },
+    {
+      "title": "Prairie View A&M tops Lehigh in First Four, faces Florida next - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48244552/prairie-view-beats-lehigh-first-four-first-ncaa-tournament-win"
+    },
     {
       "title": "NFL officially announces 2026 proposals from Steelers and Browns - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-officially-announces-2026-proposals-from-steelers-and-browns"
@@ -102,24 +130,36 @@
       "link": "https://www.bbc.com/sport/football/articles/c0rj25g225ro"
     },
     {
-      "title": "NFLRA executive director Scott Green is \"surprised\" NFL would consider replacement officials - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflra-executive-director-scott-green-is-surprised-nfl-would-consider-replacement-officials"
+      "title": "Cole tested early, completes scoreless frame in return from Tommy John - MLB.com",
+      "link": "https://www.mlb.com/news/gerrit-cole-pitches-scoreless-inning-in-2026-spring-training-debut"
     },
     {
-      "title": "Browns agree to terms with DE A.J. Epenesa, WR Tylan Wallace - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-agree-to-terms-with-de-a-j-epenesa-wr-tylan-wallace"
+      "title": "NFL seeks list of possible replacement refs if CBA not reached - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48243257/nfl-seeks-list-possible-replacement-refs-cba-not-reached"
     },
     {
-      "title": "Jason Licht: Bucs made Mike Evans \"a significantly higher offer\" than 49ers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-bucs-made-a-significantly-higher-offer-to-mike-evans-than-49ers-did"
+      "title": "Arizona State without coach Molly Miller as NCAA Tournament begins - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaw/2026/03/18/molly-miller-arizona-state-womens-ncaa-tournament-iowa-norman/89215355007/"
     },
     {
-      "title": "Prairie View A&M vs Lehigh Prediction, Time, Odds: Expert NCAA Tournament Pick for Wednesday - Action Network",
-      "link": "https://www.actionnetwork.com/ncaab/prairie-view-am-panthers-vs-lehigh-mountain-hawks-predictions-picks-odds-first-four-wednesday-march-18"
+      "title": "MLB commissioner Rob Manfred teases possible schedule change for the next World Baseball Classic - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/world-baseball-classic-schedule-rob-manfred/"
+    },
+    {
+      "title": "Rory McIlroy's Masters Champions dinner menu: Elk sliders, $2,000 wine - USA Today",
+      "link": "https://www.usatoday.com/story/sports/golf/2026/03/18/rory-mcilroy-masters-champions-dinner-menu-2026/89210354007/"
     },
     {
       "title": "Hockey Hall of Fame fires back at Jack Hughes' Olympic puck claim - New York Post",
       "link": "https://nypost.com/2026/03/18/sports/hockey-hall-of-fame-fires-back-at-jack-hughes-olympic-puck-claim/"
+    },
+    {
+      "title": "The Bucs made a \u2018significantly higher offer\u2019 than the 49ers for Mike Evans - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/157339/the-bucs-made-a-significantly-higher-offer-than-the-49ers-for-mike-evans"
+    },
+    {
+      "title": "Sources: Bucks want to shut down Giannis Antetokounmpo for season - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48242289/sources-bucks-want-shut-giannis-antetokounmpo-season"
     },
     {
       "title": "Logan Wilson retires from the NFL - NBC Sports",
@@ -130,48 +170,8 @@
       "link": "https://sportscar365.com/imsa/iwsc/sebring-wednesday-notebook-11/"
     },
     {
-      "title": "\u2018A crazy game\u2019 - Hansi Flick reacts to Barcelona\u2019s 7-2 Champions League win over Newcastle - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/115586/a-crazy-game-hansi-flick-reacts-to-barcelonas-7-2-champions-league-win-over-newcastle"
-    },
-    {
-      "title": "Reports: Panthers trade Andy Dalton to the Eagles - Panthers.com",
-      "link": "https://www.panthers.com/news/reports-panthers-trade-andy-dalton-to-the-eagles"
-    },
-    {
       "title": "NBA Best Bets Today: Wednesday\u2019s Expert Picks, Predictions & Odds (March 18) - Action Network",
       "link": "https://www.actionnetwork.com/nba/nba-best-bets-today-expert-picks-predictions-odds-for-wednesday-march-18"
-    },
-    {
-      "title": "Alexander Volkanovski leaves out Jon Jones, Khabib Nurmagomedov on top 5 GOAT list - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/477404/alexander-volkanovski-leaves-out-jon-jones-khabib-nurmagomedov-on-top-5-goat-list"
-    },
-    {
-      "title": "Top 100 Outfielders for Fantasy Baseball 2026 - Pitcher List",
-      "link": "http://pitcherlist.com/top-100-outfielders-for-fantasy-baseball-2026/"
-    },
-    {
-      "title": "Senegal slams 'illegal and deeply unjust' decision to strip Africa Cup title and pledges to appeal - AP News",
-      "link": "https://apnews.com/article/afcon-morocco-senegal-overturned-ruling-875e6a4b0756d1fe593d20265b11d52d"
-    },
-    {
-      "title": "TCU Forward David Punch: Horned Frogs Beat Buckeyes \"Nine Times Out of Ten\" - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-basketball/2026/03/161931/tcu-forward-david-punch-horned-frogs-beat-buckeyes-nine-times-out-of-ten"
-    },
-    {
-      "title": "Bucky Brooks' top five 2026 NFL Draft prospects by position 2.0: Garrett Nussmeier rises up QB rankings - NFL.com",
-      "link": "https://www.nfl.com/news/bucky-brooks-top-five-2026-nfl-draft-prospects-by-position-2-0-garrett-nussmeier-rises-up-qb-rankings"
-    },
-    {
-      "title": "Rory McIlroy's menu for the Masters taps into Northern Ireland, New York and the Augusta wine cellar - AP News",
-      "link": "https://apnews.com/article/rory-mcilroy-masters-champion-dinner-menu-f9d15abc48fdac5495c12efb6eb71cbf"
-    },
-    {
-      "title": "Projected Lineup: March 18 at Calgary | St. Louis Blues - NHL.com",
-      "link": "https://www.nhl.com/blues/news/projected-lineup-march-18-at-calgary"
-    },
-    {
-      "title": "There will be no JC Tretter introductory press conference - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/there-will-be-no-jc-tretter-introductory-press-conference"
     }
   ],
   "weather": {
