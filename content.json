@@ -1,9 +1,9 @@
 {
-  "quote": "People do not decide their futures, they decide their habits and their habits decide their futures. \u2013 Gary Keller",
-  "fact": "Dolphins can look in different directions with each eye. They can sleep with one eye open.",
-  "crypto": "BTC: $70,290 | ETH: $2,150.52",
+  "quote": "The moment you stop to think about whether you love someone, you've already stopped loving that person forever. \u2013 Carlos Ruiz Zafon",
+  "fact": "The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.",
+  "crypto": "BTC: $70,176 | ETH: $2,145.75",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What did the left eye say to the right eye? Between us, something smells!",
+  "joke": "Want to hear my pizza joke? Never mind, it's too cheesy.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "This is Microsoft\u2019s plan to fix Windows 11 - The Verge",
+      "link": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes"
+    },
+    {
+      "title": "Google Messages launches group RCS Mentions and Trash folder - 9to5Google",
+      "link": "http://9to5google.com/2026/03/20/google-messages-mentions-trash/"
+    },
+    {
+      "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
+      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
+    },
+    {
+      "title": "New controls can stretch, blur and even reverse quantum time flow - Phys.org",
+      "link": "https://phys.org/news/2026-03-blur-reverse-quantum.html"
+    },
+    {
       "title": "Amazon is reportedly developing an AI-centric smartphone - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/"
+    },
+    {
+      "title": "M5 MacBook Air vs. M5 MacBook Pro Buyer's Guide - MacRumors",
+      "link": "https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/"
+    },
+    {
+      "title": "Crimson Desert developers \"doing our utmost\" to respond to its various launch issues, as game still passes huge one-day sales milestone - Eurogamer",
+      "link": "https://www.eurogamer.net/crimson-desert-sales-milestone-launch-day-issues-fix"
     },
     {
       "title": "iOS 26.4 adds brand new widgets for your iPhone\u2019s Home Screen - 9to5Mac",
@@ -24,154 +48,122 @@
       "link": "https://www.iracing.com/iracing-brings-the-worlds-premier-motorsport-simulation-to-apple-vision-pro/"
     },
     {
+      "title": "Unknown Worlds co-founders' lawyers accuse Krafton of \"intentionally leaking\" Subnautica 2 release date - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/unknown-worlds-co-founders-lawyers-accuse-krafton-of-intentionally-leaking-subnautica-2-release-date"
+    },
+    {
+      "title": "Samsung confirms Galaxy S26 will get AirDrop support via Quick Share \u2018soon\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2026/03/20/samsung-galaxy-s26-airdrop-support-coming/"
+    },
+    {
       "title": "Google Search is now using AI to replace headlines - The Verge",
       "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
+    },
+    {
+      "title": "MS update kills Microsoft account sign-ins in Windows 11 - theregister.com",
+      "link": "https://www.theregister.com/2026/03/20/microsoft_account_not_working_have/"
     },
     {
       "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch - MacRumors",
       "link": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/"
     },
     {
-      "title": "Nintendo reportedly planning Switch 2 revision with replaceable battery for Europe - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-reportedly-planning-switch-2-revision-with-replaceable-battery-for-europe/"
-    },
-    {
-      "title": "After weeks of hype, Crimson Desert debuts to high player counts but \"Mixed\" Steam reviews, citing \"disjointed graphics\", lovable cats, \"awful\" UI and more - Eurogamer",
-      "link": "https://www.eurogamer.net/crimson-desert-hype-mixed-steam-reviews-high-player-counts-disjointed-graphics"
-    },
-    {
-      "title": "Samsung is bringing AirDrop to Galaxy phones soon - Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/03/20/samsung-is-bringing-airdrop-to-galaxy-phones-soon/"
+      "title": "'Energized' Xbox Engineer Talks New Dashboard Update & Its 'Unusually' Fast Turnaround - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/03/energized-xbox-engineer-talks-new-dashboard-update-and-its-unusually-fast-turnaround"
     },
     {
       "title": "10 tried-and-true methods to stay off your phone, according to our readers - NPR",
       "link": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone"
     },
     {
-      "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/"
-    },
-    {
       "title": "Google reverses one of Android\u2019s most annoying UI changes - Android Police",
       "link": "https://www.androidpolice.com/google-reverses-androids-most-annoying-ui-changes/"
     },
     {
+      "title": "Everything New In Fortnite Chapter 7 Season 2 - GameSpot",
+      "link": "https://www.gamespot.com/gallery/everything-new-in-fortnite-chapter-7-season-2/2900-7621/"
+    },
+    {
       "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks - The Hacker News",
       "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
-    },
-    {
-      "title": "Herm\u00e8s Now Sells $1,250+ MagSafe Chargers Wrapped in Calfskin Leather - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/19/hermes-magsafe-chargers/"
-    },
-    {
-      "title": "Xbox's Starfield Rockets to the Top of the PS5's Pre-Order Charts - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/03/xboxs-starfield-rockets-to-the-top-of-the-ps5s-pre-order-charts"
-    },
-    {
-      "title": "User Grabs iBuyPower Gaming PC With Ryzen 9800X3D-RTX 5070 Combo, 32 GB RAM And 2 TB SSD For Just $1000 - Wccftech",
-      "link": "https://wccftech.com/user-grabs-ibuypower-gaming-pc-with-ryzen-9800x3d-rtx-5070-combo-32-gb-ram-and-2-tb-ssd-for-just-1000/"
-    },
-    {
-      "title": "New dispute emerges around Subnautica 2\u2019s early access release - Game File | Stephen Totilo",
-      "link": "https://www.gamefile.news/p/subnautica-2-early-access-may-dispute"
-    },
-    {
-      "title": "Bungie Reveals All Details of Marathon's First Raid, Cryo Archive; Goes Live on March 20 and Weekends Only - IGN",
-      "link": "https://www.ign.com/articles/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-only"
-    },
-    {
-      "title": "Rumor: iPhone Fold may launch months after iPhone 18 Pro - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/19/rumor-iphone-fold-may-launch-months-after-iphone-18-pro/"
-    },
-    {
-      "title": "Switch 2 Handheld Boost Mode Battery Life Sucks But Is Worth It - Kotaku",
-      "link": "https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392"
-    },
-    {
-      "title": "A 32-Year-Old Bug Walks Into A Telnet Server (GNU inetutils Telnetd CVE-2026-32746) - watchTowr Labs",
-      "link": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Andrew Painter Makes Phillies\u2019 Opening Day Rotation - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/andrew-painter-makes-phillies-opening-day-rotation.html"
+    },
+    {
+      "title": "Hofstra Pride vs. Alabama Crimson Tide Live Score and Stats - March 20, 2026 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20260320_HOFSTRA@BAMA/"
+    },
+    {
+      "title": "UCF vs UCLA Odds, Picks, Predictions \u2014 3/20 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/ucf-knights-vs-ucla-bruins-predictions-picks-odds-ncaa-tournament-friday-march-20"
+    },
+    {
+      "title": "2026 NCAA Men's Basketball Tournament: Updated bracket matchups, results, schedule, TV - On3",
+      "link": "https://www.on3.com/news/2026-ncaa-mens-basketball-tournament-updated-bracket-matchups-results-schedule-tv/"
+    },
+    {
+      "title": "Live Now! PFL Madrid \u2018Van Steenis vs. Edwards 2\u2019 play-by-play, results & round scoring - Sherdog",
+      "link": "https://www.sherdog.com/news/news/PFL-Madrid-Van-Steenis-vs-Edwards-2-playbyplay-results-round-scoring-200522"
+    },
+    {
+      "title": "Four-round 2026 NFL mock draft: Four trades shake up Round 1; Jets take quarterback Ty Simpson - NFL.com",
+      "link": "https://www.nfl.com/news/four-round-2026-nfl-mock-draft-four-trades-shake-up-round-1-jets-take-quarterback-ty-simpson"
+    },
+    {
+      "title": "Falcons acquire safety Sydney Brown from Eagles - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48261970/falcons-land-safety-sydney-brown-trade-eagles"
+    },
+    {
+      "title": "UNI vs St. John\u2019s Odds, Picks, Predictions \u2014 3/20 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-st-johns-red-storm-prediction-pick-odds-ncaa-tournament-friday-march-20"
+    },
+    {
+      "title": "Miami (OH) vs Tennessee 2026 NCAA Tournament Odds, Predictions: March Madness Picks (3/20) - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/miami-oh-redhawks-vs-tennessee-volunteers-predictions-picks-odds-ncaa-tournament-friday-march-20"
+    },
+    {
+      "title": "Top 100 Starting Pitchers For 2026 Fantasy Baseball: 3/20 UPDATE - Pitcher List",
+      "link": "http://pitcherlist.com/top-100-starting-pitchers-for-2026-fantasy-baseball-3-20-update/"
+    },
     {
       "title": "Trump orders TV networks to \u2018protect\u2019 Army-Navy football game - The Washington Post",
       "link": "https://www.washingtonpost.com/politics/2026/03/20/trump-army-navy-game/"
     },
     {
-      "title": "2026 March Madness live updates: Men's NCAA Tournament bracket, scores, schedule for first-round games - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/march-madness-2026-first-round-live-updates-scores-bracket-friday/live/"
+      "title": "Vikings add OT depth, sign Ryan Van Demark to one-year deal - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48261049/vikings-add-ot-depth-sign-ryan-van-demark-one-year-deal"
     },
     {
-      "title": "Kentucky's Otega Oweh banks in buzzer-beater to force OT as Wildcats take down Santa Clara in NCAA tournament - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/kentuckys-otega-oweh-banks-in-buzzer-beater-to-force-ot-as-wildcats-take-down-santa-clara-in-ncaa-tournament-183258694.html"
+      "title": "Family of Miller Gardner sues resort over teenager's death - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/48260885/family-miller-gardner-sues-resort-teenager-death"
     },
     {
-      "title": "Hofstra vs Alabama Prediction, Picks & Best Bets for Today's March Madness Game - Covers.com",
-      "link": "https://www.covers.com/ncaab/march-madness/hofstra-vs-alabama-predictions-picks-best-bets-friday-3-20-2026"
+      "title": "Penn State has eight still alive, all in the semifinals after session three of the NCAA Wrestling Championships - On3",
+      "link": "https://www.on3.com/teams/penn-state-nittany-lions/news/live-updates-penn-state-wrestling-results-bracket-updates-more-from-the-quarterfinal-session-of-the-2026-ncaa-championships/"
     },
     {
-      "title": "Akron vs Texas Tech Predictions, Picks, Odds, Best Bets for Today's NCAA Tournament Game \u2014 3/20 - Action Network",
-      "link": "https://www.actionnetwork.com/ncaab/akron-zips-vs-texas-tech-red-raiders-predictions-picks-odds-ncaa-tournament-friday-march-20"
+      "title": "Texas Tech 91-71 Akron (Mar 20, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401856520"
     },
     {
-      "title": "Aitken Beats Blomqvist to 12H Sebring Pole - Sportscar365",
-      "link": "https://sportscar365.com/imsa/iwsc/aitken-beats-blomqvist-to-12h-sebring-pole/"
+      "title": "Report: 49ers won\u2019t exercise Trent Williams\u2019s option bonus, still plan to rework contract - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-wont-exercise-trent-williamss-option-bonus-still-plan-to-rework-contract"
     },
     {
-      "title": "Audi F1 team principal Wheatley leaves 'with immediate effect' - The Race",
-      "link": "https://www.the-race.com/formula-1/audi-f1-team-principal-wheatley-leaves-with-immediate-effect/"
+      "title": "Eddie Hearn: Tom Aspinall\u2019s UFC contract \u2018is a f*cking disgrace\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/477847/eddie-hearn-tom-aspinalls-ufc-contract-is-a-fcking-disgrace"
     },
     {
-      "title": "Tuskegee coach files $1M suit against Morehouse, school officers - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48258590/tuskegee-coach-files-1m-suit-morehouse-school-officers"
+      "title": "Arizona 92-58 Long Island University (Mar 20, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/recap?gameId=401856529"
     },
     {
-      "title": "Projected No. 1 pick AJ Dybantsa speaks on NBA draft decision after BYU\u2019s March Madness exit - New York Post",
-      "link": "https://nypost.com/2026/03/20/sports/projected-top-pick-aj-dybantsa-speaks-on-nba-draft-decision-after-march-madness-exit/"
-    },
-    {
-      "title": "I\u2019m So Sorry To Tell You This But The Lakers Must Be Taken Seriously - Defector",
-      "link": "https://defector.com/im-so-sorry-to-tell-you-this-but-the-lakers-must-be-taken-seriously"
-    },
-    {
-      "title": "Carson Wentz\u2019s return complicates the Vikings\u2019 quarterback depth chart - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-wentzs-return-complicates-the-vikings-quarterback-depth-chart"
-    },
-    {
-      "title": "England squad: Thomas Tuchel's latest Three Lions squad analysed - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/clyrnrgp6k6o"
-    },
-    {
-      "title": "Cross Named Georgia Tech Men\u2019s Basketball Head Coach - Georgia Tech Athletics",
-      "link": "https://ramblinwreck.com/cross-named-georgia-tech-mens-basketball-head-coach/"
-    },
-    {
-      "title": "2026 NFL Draft: Blockbuster trade shakes up Eric Edholm mock draft for NFL.com - On3",
-      "link": "https://www.on3.com/pro/news/2026-nfl-draft-blockbuster-trade-shakes-up-eric-edholm-mock-draft-for-nfl-com/"
-    },
-    {
-      "title": "Pittsburgh public schools will close for the Wednesday to Friday of draft week - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pittsburgh-public-schools-will-close-for-the-wednesday-to-friday-of-draft-week"
-    },
-    {
-      "title": "How to Watch No. 4 Nebraska Basketball vs. No. 5 Vanderbilt in NCAA Tournament with Preview, Breakdown, TV Channel - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/basketball/how-to-watch-no-4-nebraska-basketball-vs-no-5-vanderbilt-in-ncaa-tournament-with-preview-breakdown-tv-channel"
-    },
-    {
-      "title": "High Point Is A Deeply Weird School - Defector",
-      "link": "https://defector.com/high-point-is-a-deeply-weird-school"
-    },
-    {
-      "title": "\u2018What Do You Think Green Bay Said?\u2019 More Reasons to Be Pumped About Kyler Murray - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/onsi/news/what-do-you-think-green-bay-said-more-reasons-to-be-pumped-about-kyler-murray"
-    },
-    {
-      "title": "FIFA World Cup 2026: Security concerns grow in US as funding stalls - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/3/20/fifa-world-cup-2026-security-concerns-grow-in-us-as-funding-stalls"
-    },
-    {
-      "title": "One Game Busted Half of All NCAA Brackets - newser.com",
-      "link": "https://www.newser.com/story/385799/one-game-busted-half-of-all-ncaa-brackets.html"
+      "title": "'The Turchino is a nice climb, no?' - Tadej Poga\u010dar teases about a 150-kilometre Milan-San Remo attack, but is he really joking? - Cyclingnews",
+      "link": "https://www.cyclingnews.com/pro-cycling/racing/the-turchino-is-a-nice-climb-no-tadej-pogacar-teases-about-a-150-kilometre-milan-san-remo-attack-but-is-he-really-joking/"
     }
   ],
   "weather": {
