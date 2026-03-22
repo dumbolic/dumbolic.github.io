@@ -1,9 +1,9 @@
 {
-  "quote": "Don't just sit there. Do something. The answers will follow. \u2013 Mark Manson",
-  "fact": "Golf courses cover 4% of North America.",
-  "crypto": "BTC: $68,624 | ETH: $2,080.75",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\"",
+  "quote": "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. \u2013 Pema Chodron",
+  "fact": "Butte County, South Dakota is the geographical center of the U.S.",
+  "crypto": "BTC: $68,659 | ETH: $2,082.5",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, \u2018No, just leave it in the carton!\u2019",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "The end of the ISS is looming, and the US could have a big problem - CNN",
+      "link": "https://www.cnn.com/2026/03/21/science/nasa-iss-space-station-retires"
+    },
     {
       "title": "iOS 26.3.1 (a): Apple\u2019s Hidden iPhone Update Recommended For Hundreds Of Millions Of Users - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2026/03/21/iphone-alert-why-you-must-check-this-hidden-setting-for-urgent-ios-2631-a-fix/"
@@ -24,32 +28,20 @@
       "link": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302"
     },
     {
-      "title": "There Aren\u2019t a Lot of Reasons to Get Excited About a New Amazon Smartphone - WIRED",
-      "link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/"
+      "title": "iOS 26.4 will automatically turn on strict security feature for all iPhones - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/20/ios-26-4-will-activate-key-theft-prevention-feature-on-all-iphones/"
     },
     {
-      "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
-      "link": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/"
+      "title": "Apple explains why M5 chips have three different core types in new interview - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/20/apple-explains-why-m5-chips-have-three-different-core-types-in-new-interview/"
     },
     {
-      "title": "Baffling Crimson Desert Images Have Ignited A Generative AI Controversy - GameSpot",
-      "link": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/"
-    },
-    {
-      "title": "A new Nintendo Switch 2 could be the poster child for replaceable batteries - The Verge",
-      "link": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Takes 2D Frame and Motion Vectors as Input - TechPowerUp",
-      "link": "https://www.techpowerup.com/347585/nvidia-dlss-5-takes-2d-frame-and-motion-vectors-as-input"
+      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It, Either - WIRED",
+      "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
     },
     {
       "title": "Samsung's Galaxy Z TriFold Replaced My Phone, Tablet, and Laptop\u2014But There's a Big Catch - PCMag",
       "link": "https://www.pcmag.com/reviews/samsung-galaxy-z-trifold"
-    },
-    {
-      "title": "Slay the Spire 2 reveals first major patch, with \"huge\" balance pass, Phobia mode, and adjusted classes and cards - Eurogamer",
-      "link": "https://www.eurogamer.net/slay-the-spire-2-first-patch"
     },
     {
       "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
@@ -58,6 +50,10 @@
     {
       "title": "New controls can stretch, blur and even reverse quantum time flow - Phys.org",
       "link": "https://phys.org/news/2026-03-blur-reverse-quantum.html"
+    },
+    {
+      "title": "Amazon is reportedly developing an AI-centric smartphone - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/"
     },
     {
       "title": "Crimson Desert developers \"doing our utmost\" to respond to its various launch issues, as game still passes huge one-day sales milestone - Eurogamer",
@@ -88,82 +84,78 @@
       "link": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/"
     },
     {
-      "title": "PS5 Update Adds Gorgeous New Animated Theme - PlayStation LifeStyle",
-      "link": "https://www.playstationlifestyle.net/2026/03/20/ps5-update-adds-seven-deadly-sins-origins-theme/"
+      "title": "Galaxy S26 Ultra Enterprise Edition is here with advanced security features - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s26-ultra-enterprise-edition-launched/"
     }
   ],
   "sports_news": [
     {
-      "title": "March Madness scores: See the big shots, moments, highlights in today's first round - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaab/2026/03/20/march-madness-live-scores-bracket-highlights-today-games-ncaa-tournament-first-round/89231653007/"
+      "title": "Milan-San Remo Men LIVE - The race heads to the coast after cresting the Passo del Turchino - Cyclingnews",
+      "link": "https://www.cyclingnews.com/pro-cycling/live/milan-san-remo-men-live-the-first-monument-of-the-year-has-arrived/"
+    },
+    {
+      "title": "What Travis Steele said after Miami's 78-56 loss to Tennessee in the NCAA Tournament - On3",
+      "link": "https://www.on3.com/teams/tennessee-volunteers/news/march-madness-miami-ohio-basketball-coach-travis-steele-press-conference-tennessee-game/"
+    },
+    {
+      "title": "Number of perfect March Madness brackets dwindles into the hundreds after the first round - AP News",
+      "link": "https://apnews.com/article/march-madness-brackets-busted-ncaa-tournament-85ace9f64e9df4c659c8c4c2f04bc6cc"
     },
     {
       "title": "Tennessee basketball vs Virginia game time, TV announced for March Madness game - On3",
       "link": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-basketball-game-time-tv-virginia-march-madness/"
     },
     {
-      "title": "NCAA Wrestling Championships Live Results 2026, Brackets, Updates - FloWrestling",
-      "link": "https://www.flowrestling.org/articles/15660488-ncaa-wrestling-championships-live-results-2026-brackets-updates"
-    },
-    {
       "title": "PFL Madrid \u2018Van Steenis vs. Edwards 2\u2019 play-by-play, results & round scoring - Sherdog",
       "link": "https://www.sherdog.com/news/news/PFL-Madrid-Van-Steenis-vs-Edwards-2-playbyplay-results-round-scoring-200522"
     },
     {
-      "title": "2026 NC women's ice hockey championship: Bracket, schedule, scores - NCAA.com",
-      "link": "https://www.ncaa.com/news/icehockey-women/article/2026-03-20/2026-nc-womens-ice-hockey-championship-bracket-schedule-scores"
+      "title": "Seahawks exercise 5th-year options for WR Jaxon Smith-Njigba, CB Devon Witherspoon - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48265226/seahawks-exercise-5-year-options-wr-jaxon-smith-njigba-cb-devon-witherspoon"
     },
     {
-      "title": "Dom\u00ednguez squeezed out, sent to Triple-A despite strong spring - MLB.com",
-      "link": "https://www.mlb.com/news/jasson-dominguez-optioned-to-triple-a-by-yankees"
+      "title": "St. John\u2019s crushes Northern Iowa for statement win to start March Madness - New York Post",
+      "link": "https://nypost.com/2026/03/20/sports/st-johns-crushes-northern-iowa-for-statement-win-to-start-march-madness/"
+    },
+    {
+      "title": "Prosecutors: 'Drug transactions' found on Alabama guard Aden Holloway's phone - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48264378/prosecutors-drug-transactions-allegedly-found-alabama-guard-aden-holloway-phone"
     },
     {
       "title": "What Sean Payton Just Said About Jaylen Waddle Should Turn Heads - Sports Illustrated",
       "link": "https://www.si.com/nfl/broncos/onsi/news/sean-payton-said-jaylen-waddle-should-turn-heads"
     },
     {
-      "title": "2026 March Madness predictions: NCAA bracket expert picks odds for second round games on Saturday - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/march-madness-predictions-expert-picks-ncaa-tournament-bracket-2026-second-round-games-saturday/"
+      "title": "Scoggins: Amaya Battle helps loosen Gophers up in NCAA tournament opener - Star Tribune",
+      "link": "https://www.startribune.com/gophers-womens-basketball-ncaa-tournament-green-bay-amaya-battle-dawn-plitzuweit/601598719"
+    },
+    {
+      "title": "Yankees Option Jasson Dom\u00ednguez - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/yankees-option-jasson-dominguez.html"
+    },
+    {
+      "title": "Ohio State\u2019s Jesse Mendez, Ben Davino Will Wrestle for National Titles at 2026 NCAA Championships - Eleven Warriors",
+      "link": "https://www.elevenwarriors.com/ohio-state-wrestling/2026/03/161969/ohio-state-s-jesse-mendez-ben-davino-will-wrestle-for-national-championships-on-saturday-night"
     },
     {
       "title": "Begone you Metro Division demons: Capitals beat Devils 2-1 - RMNB",
       "link": "https://russianmachineneverbreaks.com/2026/03/20/begone-you-metro-division-demons-capitals-beat-devils-2-1/"
     },
     {
-      "title": "2026 Women\u2019s NCAA Division I Championships: Day 3 Relay Analysis (400 Medley) - SwimSwam",
-      "link": "https://swimswam.com/2026-womens-ncaa-division-i-championships-day-3-relay-analysis-400-medley/"
-    },
-    {
       "title": "Ryan Sloan shines in Mariners Spring Breakout Game; Yorger Bautista shows off big power - Lookout Landing",
       "link": "https://www.lookoutlanding.com/seattle-mariners-prospects/140503/ryan-sloan-shines-in-mariners-spring-breakout-game-yorger-bautista-shows-off-big-power"
-    },
-    {
-      "title": "WNBA, WNBPA officially announce tentative deal on new CBA - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/48262973/wnba-wnbpa-officially-announce-tentative-deal-new-cba"
     },
     {
       "title": "Andrew Painter Makes Phillies\u2019 Opening Day Rotation - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/03/andrew-painter-makes-phillies-opening-day-rotation.html"
     },
     {
-      "title": "From Spring Breakout to MLB? Here are 8 players who could soon be in The Show - MLB.com",
-      "link": "https://www.mlb.com/news/spring-breakout-prospects-mlb-debuts-2026"
-    },
-    {
       "title": "President Trump signs executive order protecting Army-Navy game - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-signs-executive-order-protecting-army-navy-game"
     },
     {
-      "title": "Alabama 90-70 Hofstra (Mar 20, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/recap?gameId=401856521"
-    },
-    {
       "title": "UCF vs UCLA Odds, Picks, Predictions \u2014 3/20 - Action Network",
       "link": "https://www.actionnetwork.com/ncaab/ucf-knights-vs-ucla-bruins-predictions-picks-odds-ncaa-tournament-friday-march-20"
-    },
-    {
-      "title": "Daily Drop: Hubert Davis & UNC at a Crossroads - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis-ncaa-tournament-278398785/"
     },
     {
       "title": "3 predictions for Michigan Basketball vs Saint Louis in the Round of 32 - Maize n Brew",
@@ -172,6 +164,10 @@
     {
       "title": "Conlan vs Walsh: Kevin Walsh stuns Michael Conlan to secure points win in Belfast - BBC",
       "link": "https://www.bbc.com/sport/boxing/articles/c0kr4l3p4z4o"
+    },
+    {
+      "title": "Missouri vs Miami Predictions, Picks, Odds \u2014 3/20 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/missouri-tigers-vs-miami-hurricanes-predictions-picks-odds-ncaa-tournament-friday-march-20"
     }
   ],
   "weather": {
