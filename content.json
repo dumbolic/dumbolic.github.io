@@ -1,9 +1,9 @@
 {
-  "quote": "The most important thing in communication is to hear what isn't being said. \u2013 Peter Drucker",
-  "fact": "In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.",
-  "crypto": "BTC: $69,249 | ETH: $2,112.42",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
+  "quote": "At every moment where language can't go, that's your mind. \u2013 Bodhidharma",
+  "fact": "The only real person to be a PEZ head was Betsy Ross.",
+  "crypto": "BTC: $69,171 | ETH: $2,115.1",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "It\u2019s hard to explain puns to kleptomaniacs, because they take everything literally.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Open-world adventure game CookieRun: New World announced for console, PC, and mobile - Gematsu",
+      "link": "https://www.gematsu.com/2026/03/open-world-adventure-game-cookierun-new-world-announced-for-console-pc-and-mobile"
+    },
+    {
+      "title": "Google wants to fill Fitbit with AI \u2014 and your medical records - Mashable",
+      "link": "https://mashable.com/article/google-fitbit-ai"
+    },
+    {
       "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
       "link": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302"
     },
     {
       "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
       "link": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/"
-    },
-    {
-      "title": "Baffling Crimson Desert Images Have Ignited A Generative AI Controversy - GameSpot",
-      "link": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/"
     },
     {
       "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
@@ -32,8 +36,16 @@
       "link": "https://www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/"
     },
     {
+      "title": "Crimson Desert Players Debate If The Game Secretly Uses AI Art - Kotaku",
+      "link": "https://kotaku.com/crimson-desert-painting-gen-ai-art-2000680661"
+    },
+    {
       "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It Either - WIRED",
       "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
+    },
+    {
+      "title": "Samsung's Galaxy Z TriFold Replaced My Phone, Tablet, and Laptop\u2014But There's a Big Catch - PCMag",
+      "link": "https://www.pcmag.com/reviews/samsung-galaxy-z-trifold"
     },
     {
       "title": "Google Messages launches group RCS Mentions and Trash folder - 9to5Google",
@@ -48,14 +60,6 @@
       "link": "https://phys.org/news/2026-03-blur-reverse-quantum.html"
     },
     {
-      "title": "Slay the Spire 2: One of the best indie Steam launches of all time - The Alinea Insight newsletter",
-      "link": "https://alineaanalytics.substack.com/p/slay-the-spire-2-one-of-the-best"
-    },
-    {
-      "title": "M5 MacBook Air vs. M5 MacBook Pro Buyer's Guide - MacRumors",
-      "link": "https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/"
-    },
-    {
       "title": "Crimson Desert developers \"doing our utmost\" to respond to its various launch issues, as game still passes huge one-day sales milestone - Eurogamer",
       "link": "https://www.eurogamer.net/crimson-desert-sales-milestone-launch-day-issues-fix"
     },
@@ -64,106 +68,110 @@
       "link": "https://www.iracing.com/iracing-brings-the-worlds-premier-motorsport-simulation-to-apple-vision-pro/"
     },
     {
-      "title": "Unknown Worlds co-founders' lawyers accuse Krafton of \"intentionally leaking\" Subnautica 2 release date - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/unknown-worlds-co-founders-lawyers-accuse-krafton-of-intentionally-leaking-subnautica-2-release-date"
-    },
-    {
       "title": "Google Search is now using AI to replace headlines - The Verge",
       "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
     },
     {
-      "title": "Tim Cook says the Mac just set a new launch record for Apple - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/20/tim-cook-says-the-mac-just-set-a-new-launch-record-for-apple/"
+      "title": "Blocked Intel graphics cards, failed Xbox App booting, and 120GB patches hit Crimson Desert as launch woes continue - Eurogamer",
+      "link": "https://www.eurogamer.net/crimson-desert-blocked-graphics-card-120gb-patch-xbox-app-problem"
+    },
+    {
+      "title": "Feb 2026 USA Sales: PS5 Outsells Nintendo's New Switch 2 for a Second Consecutive Month - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/feb-2026-usa-sales-ps5-outsells-nintendos-new-switch-2-for-a-second-consecutive-month"
     },
     {
       "title": "MS update kills Microsoft account sign-ins in Windows 11 - theregister.com",
       "link": "https://www.theregister.com/2026/03/20/microsoft_account_not_working_have/"
     },
     {
-      "title": "'Energized' Xbox Engineer Talks New Dashboard Update & Its 'Unusually' Fast Turnaround - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/03/energized-xbox-engineer-talks-new-dashboard-update-and-its-unusually-fast-turnaround"
+      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/"
     },
     {
-      "title": "The Danger Behind Meta Killing End-to-End Encryption for Instagram DMs - WIRED",
-      "link": "https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/"
+      "title": "New Slay The Spire 2 patch will \"make infinites harder to achieve\" by letting the Doormaker eat your cards, amongst other surprises - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/new-slay-the-spire-2-patch-will-make-infinites-harder-to-achieve-by-letting-the-doormaker-eat-your-cards-amongst-other-surprises"
     }
   ],
   "sports_news": [
+    {
+      "title": "NCAA Wrestling Championships Live Results 2026, Brackets, Updates - FloWrestling",
+      "link": "https://www.flowrestling.org/articles/15660488-ncaa-wrestling-championships-live-results-2026-brackets-updates"
+    },
+    {
+      "title": "UConn vs. Furman: Live updates as Huskies open March Madness - CT Insider",
+      "link": "https://www.ctinsider.com/sports/uconn-mens-basketball/article/uconn-furman-live-updates-ncaa-tournament-3-20-26-22088520.php"
+    },
+    {
+      "title": "PFL Madrid \u2018Van Steenis vs. Edwards 2\u2019 play-by-play, results & round scoring - Sherdog",
+      "link": "https://www.sherdog.com/news/news/PFL-Madrid-Van-Steenis-vs-Edwards-2-playbyplay-results-round-scoring-200522"
+    },
+    {
+      "title": "2026 NC women's ice hockey championship: Bracket, schedule, scores - NCAA.com",
+      "link": "https://www.ncaa.com/news/icehockey-women/article/2026-03-20/2026-nc-womens-ice-hockey-championship-bracket-schedule-scores"
+    },
+    {
+      "title": "2026 March Madness predictions: NCAA bracket expert picks odds for second round games on Saturday - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdE83aGhhcEtHck5iLW9xWVFzYVB2cU0yazhLWnpkTWRtMGtoWjAwcUZkWU1lMl82TGU5V1ZyQ0NhV2tYNzNYQmItVWZaNE5oTzNzZjRhQ1ZKa3JhTEVkLUtGcjl6R2daTWw3dWdQdnNia09EWkJhY2NFVmFQbTB5WG1EcjcyWXpZd3FqT0xTOHJIaFBiWWlGTGVTWUtxallmcTlyWHpfMC1PeTYtY3lGbmZfTUFVcFpuMXQwRy1YeS1qZWJKWFE1U0FVQkFLalNXN3pmMEk0YTdBMGVpUFFr?oc=5"
+    },
+    {
+      "title": "2026 Women\u2019s NCAA Division I Championships: Day 3 Relay Analysis (400 Medley) - SwimSwam",
+      "link": "https://swimswam.com/2026-womens-ncaa-division-i-championships-day-3-relay-analysis-400-medley/"
+    },
+    {
+      "title": "Mariners\u2019 pitching prospect dominates in Spring Breakout game - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-ryan-sloan-dominates-in-spring-breakout-game-vs-brewers/"
+    },
+    {
+      "title": "WNBA, WNBPA officially announce tentative deal on new CBA - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/48262973/wnba-wnbpa-officially-announce-tentative-deal-new-cba"
+    },
+    {
+      "title": "Villanova coach wildly jokes that he should fire entire staff in middle of March Madness loss - New York Post",
+      "link": "https://nypost.com/2026/03/20/sports/villanova-coach-wildly-jokes-that-he-will-fire-entire-staff/"
+    },
     {
       "title": "Andrew Painter Makes Phillies\u2019 Opening Day Rotation - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/03/andrew-painter-makes-phillies-opening-day-rotation.html"
     },
     {
-      "title": "Hofstra Pride vs. Alabama Crimson Tide Live Score and Stats - March 20, 2026 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20260320_HOFSTRA@BAMA/"
+      "title": "From Spring Breakout to MLB? Here are 8 players who could soon be in The Show - MLB.com",
+      "link": "https://www.mlb.com/news/spring-breakout-prospects-mlb-debuts-2026"
     },
     {
-      "title": "Missouri vs Miami Prediction, Picks & Best Bets for Tonight's March Madness Game - Covers.com",
-      "link": "https://www.covers.com/ncaab/march-madness/missouri-vs-miami-predictions-picks-best-bets-friday-3-20-2026"
+      "title": "President Trump signs executive order protecting Army-Navy game - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-signs-executive-order-protecting-army-navy-game"
+    },
+    {
+      "title": "2026 men's March Madness: Superlatives from the first round - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48262044/2026-mens-march-madness-first-round-tournament-superlatives"
     },
     {
       "title": "UCF vs UCLA Odds, Picks, Predictions \u2014 3/20 - Action Network",
       "link": "https://www.actionnetwork.com/ncaab/ucf-knights-vs-ucla-bruins-predictions-picks-odds-ncaa-tournament-friday-march-20"
     },
     {
+      "title": "Daily Drop: Hubert Davis & UNC at a Crossroads - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis-ncaa-tournament-278398785/"
+    },
+    {
+      "title": "3 predictions for Michigan Basketball vs Saint Louis in the Round of 32 - Maize n Brew",
+      "link": "https://www.maizenbrew.com/michigan-mens-basketball/109065/michigan-basketball-predictions-ncaa-tournament-saint-louis-march-madness"
+    },
+    {
       "title": "Conlan vs Walsh: Kevin Walsh stuns Michael Conlan to secure points win in Belfast - BBC",
       "link": "https://www.bbc.com/sport/boxing/articles/c0kr4l3p4z4o"
+    },
+    {
+      "title": "Missouri vs Miami Predictions, Picks, Odds \u2014 3/20 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/missouri-tigers-vs-miami-hurricanes-predictions-picks-odds-ncaa-tournament-friday-march-20"
     },
     {
       "title": "Iowa vs Clemson Prediction, Time, Pick, Odds for Friday \u2014 2026 NCAA Tournament - Action Network",
       "link": "https://www.actionnetwork.com/ncaab/iowa-hawkeyes-vs-clemson-tigers-predictions-picks-odds-ncaa-tournament-friday-march-20"
     },
     {
-      "title": "2026 NCAA Men's Basketball Tournament: Updated bracket matchups, results, schedule, TV - On3",
-      "link": "https://www.on3.com/news/2026-ncaa-mens-basketball-tournament-updated-bracket-matchups-results-schedule-tv/"
-    },
-    {
-      "title": "Four-round 2026 NFL mock draft: Four trades shake up Round 1; Jets take quarterback Ty Simpson - NFL.com",
-      "link": "https://www.nfl.com/news/four-round-2026-nfl-mock-draft-four-trades-shake-up-round-1-jets-take-quarterback-ty-simpson"
-    },
-    {
-      "title": "Falcons acquire safety Sydney Brown from Eagles - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48261970/falcons-land-safety-sydney-brown-trade-eagles"
-    },
-    {
-      "title": "Ohio State Women's Hockey Demolishes Northeastern, 5-0, to Advance to Fifth Consecutive Frozen Four National Championship Game - Eleven Warriors",
-      "link": "https://www.elevenwarriors.com/ohio-state-athletics/2026/03/161966/ohio-state-womens-hockey-demolishes-northeastern-5-0-to-advance-to-fifth-consecutive-frozen-four-national"
-    },
-    {
-      "title": "U.S. Soccer Reveals 16-Match Schedule for Second Round of 2026 Lamar Hunt U.S. Open Cup - US Soccer",
-      "link": "https://ussoccer.com/stories/2026/03/usoc/us-soccer-reveals-16-match-schedule-for-second-round-of-2026-lamar-hunt-us-open-cup"
-    },
-    {
-      "title": "Miami (OH) vs Tennessee 2026 NCAA Tournament Odds, Predictions: March Madness Picks (3/20) - Action Network",
-      "link": "https://www.actionnetwork.com/ncaab/miami-oh-redhawks-vs-tennessee-volunteers-predictions-picks-odds-ncaa-tournament-friday-march-20"
-    },
-    {
-      "title": "Northern Iowa vs St. John\u2019s Prediction, Picks & Odds for Today's March Madness Game - Covers.com",
-      "link": "https://www.covers.com/ncaab/march-madness/northern-iowa-vs-st-johns-predictions-picks-best-bets-friday-3-20-2026"
-    },
-    {
-      "title": "Top 100 Starting Pitchers For 2026 Fantasy Baseball: 3/20 UPDATE - Pitcher List",
-      "link": "http://pitcherlist.com/top-100-starting-pitchers-for-2026-fantasy-baseball-3-20-update/"
-    },
-    {
-      "title": "Trump orders TV networks to \u2018protect\u2019 Army-Navy football game - The Washington Post",
-      "link": "https://www.washingtonpost.com/politics/2026/03/20/trump-army-navy-game/"
-    },
-    {
-      "title": "Vikings add OT depth, sign Ryan Van Demark to one-year deal - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48261049/vikings-add-ot-depth-sign-ryan-van-demark-one-year-deal"
-    },
-    {
-      "title": "Family of Miller Gardner sues resort over teenager's death - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/48260885/family-miller-gardner-sues-resort-teenager-death"
-    },
-    {
-      "title": "Iowa State All-American Joshua Jefferson goes down with ankle injury in first round - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/joshua-jefferson-ankle-injury-iowa-state-kentucky-ncaa-tournament/"
-    },
-    {
-      "title": "Otega Oweh broke the internet. Even Patrick Mahomes had to react. - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/otega-oweh-broke-the-internet-even-patrick-mahomes-had-to-react/"
+      "title": "Everything Nate Oats said after Alabama beat Hofstra in NCAA tournament - AL.com",
+      "link": "https://www.al.com/alabamabasketball/2026/03/everything-nate-oats-said-after-alabama-beat-hofstra-in-ncaa-tournament.html"
     }
   ],
   "weather": {
