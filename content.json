@@ -1,9 +1,9 @@
 {
-  "quote": "At first dreams seem impossible, then improbable, then inevitable. \u2013 Christopher Reeve",
-  "fact": "Lithuania has the highest suicide rate in the world.",
-  "crypto": "BTC: $71,154 | ETH: $2,157.92",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, \u2018First offender?\u2019 She says, \u2018No, first a Gibson! Then a Fender!\u2019",
+  "quote": "Who you are is defined by what you're willing to struggle for. \u2013 Mark Manson",
+  "fact": "Laredo, Texas is the U.S.'s farthest inland port.",
+  "crypto": "BTC: $70,992 | ETH: $2,156.57",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Did you hear about the two thieves who stole a calendar? They each got six months.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Major PlayStation Store Purge - Sony Removes Over 1000 Games - IXBT.games",
+      "link": "https://ixbt.games/en/news/2026/03/23/bolsaia-zacistka-playstation-store-sony-udalila-bolee-1000-igr.html"
+    },
+    {
+      "title": "I tested ChatGPT vs. Perplexity with the same 5 prompts \u2014 the winner surprised me - Tom's Guide",
+      "link": "https://www.tomsguide.com/ai/i-tested-chatgpt-vs-perplexity-with-the-same-5-prompts-the-winner-surprised-me"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra may not bring major S Pen reforms - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-s27-ultra-not-bring-major-s-pen-reforms/"
+    },
     {
       "title": "The DLSS 5 Backlash Is Still Swirling - Dark Horizons",
       "link": "https://www.darkhorizons.com/the-dlss-5-backlash-is-still-swirling/"
@@ -20,8 +32,12 @@
       "link": "https://www.zdnet.com/article/iphone-17e-vs-google-pixel-10a-vs-samsung-galaxy-a56/"
     },
     {
-      "title": "Samsung reverses big S Pen change for Galaxy S27 Ultra after bold experiment fails - Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/03/22/samsung-reverses-big-s-pen-change-for-galaxy-s27-ultra/"
+      "title": "Microsoft: Removing some Copilots will improve Windows 11 - theregister.com",
+      "link": "https://www.theregister.com/2026/03/23/windows_quality_commitment/"
+    },
+    {
+      "title": "5 Laptops With Better Specs Than The MacBook Neo For The Same Price - bgr.com",
+      "link": "https://www.bgr.com/2126573/laptops-better-specs-macbook-neo-same-price/"
     },
     {
       "title": "The 3DFX Voodoo Lives Again In An FPGA - Hackaday",
@@ -30,6 +46,10 @@
     {
       "title": "Crimson Desert March 23 Update 1.00.03 Released \u2013 Patch Notes - DSOGaming",
       "link": "https://www.dsogaming.com/patches/crimson-desert-mar-23rd-update-1-00-03-released-patch-notes/"
+    },
+    {
+      "title": "Nintendo Switch eShop deals - lowest prices ever for Blossom Tales 2, Crysis 2 and 3 Remastered, Ender Magnolia, more - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-switch-eshop-deals-lowest-prices-ever-for-blossom-tales-2-crysis-2-and-3-remastered-ender-magnolia-more/"
     },
     {
       "title": "These are the best new MacBook deals right now: March 2026 Buyer\u2019s Guide - 9to5Mac",
@@ -64,35 +84,27 @@
       "link": "http://9to5google.com/2026/03/22/new-google-messages-features/"
     },
     {
-      "title": "Apple Store Prices for SanDisk SSDs Are Suddenly Astronomical - Gizmodo",
-      "link": "https://gizmodo.com/apple-store-prices-for-sandisk-ssds-are-suddenly-astronomical-2000736615"
-    },
-    {
       "title": "Pok\u00e9mon Pokopia - The Means Of Pok\u00e9production - The Jimquisition",
       "link": "https://www.thejimquisition.com/post/pok\u00e9mon-pokopia-the-means-of-pok\u00e9production"
     },
     {
       "title": "The OG Four-Door Porsche Sports Sedan Wasn't Even Built By Porsche - Jalopnik",
       "link": "https://www.jalopnik.com/2126955/pre-panamera-porsche-sports-sedan/"
-    },
-    {
-      "title": "Steam Spring Sale 2026 Recommendations For Steam Deck - Part 2 - Steam Deck HQ",
-      "link": "https://steamdeckhq.com/news/steam-spring-sale-2026-steam-deck-part-2/"
-    },
-    {
-      "title": "Crimson Desert dev apologizes for use of AI art - The Verge",
-      "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"
-    },
-    {
-      "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos) - VentureBeat",
-      "link": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
-    },
-    {
-      "title": "Apple\u2019s busy March continues with three notable arrivals this week - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/22/apples-busy-march-continues-with-three-notable-arrivals-this-week/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Iowa's stunning upset of No. 1 Florida caps off thrilling first weekend of March Madness - NBC News",
+      "link": "https://www.nbcnews.com/sports/college-basketball/ncaa-tournament-iowas-stunning-upset-no-1-florida-caps-thrilling-weeke-rcna264669"
+    },
+    {
+      "title": "Late Sunday UNC Basketball Update - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis--278690675/"
+    },
+    {
+      "title": "March Madness Day 4 Recap: Iowa Stuns Florida, UConn Advances to Sweet 16, Alabama Rolls - Sports Illustrated",
+      "link": "https://www.si.com/college-basketball/march-madness-bracket-live-scores-mens-ncaa-tournament-second-round-day-2"
+    },
     {
       "title": "AL East Notes: Gil, Bastardo, Lux - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/03/al-east-notes-gil-bastardo-lux.html"
@@ -100,10 +112,6 @@
     {
       "title": "Wisconsin wins 2026 NC women's hockey championship for second straight year - NCAA.com",
       "link": "https://www.ncaa.com/news/icehockey-women/article/2026-03-22/wisconsin-wins-2026-nc-womens-hockey-championship-second-straight-year"
-    },
-    {
-      "title": "2026 NCAA Tournament: Tip-off times, TV channels announced for Sweet 16 games - On3",
-      "link": "https://www.on3.com/news/2026-ncaa-tournament-tip-off-times-tv-channels-announced-for-sweet-16-games/"
     },
     {
       "title": "NHL Reporter Jessi Pierce and Her Three Children Die in Minnesota House Fire - The Hollywood Reporter",
@@ -118,20 +126,12 @@
       "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/105672/player-ratings-real-madrid-3-2-atletico-madrid"
     },
     {
-      "title": "Marvin Mims Jr. Questions His Role After Broncos Land Jaylen Waddle - Sports Illustrated",
-      "link": "https://www.si.com/nfl/broncos/onsi/news/marvin-mims-jr-questions-role-after-broncos-land-jaylen-waddle"
-    },
-    {
       "title": "Carlos Alcaraz loses to Sebastian Korda in the third round of the Miami Open - AP News",
       "link": "https://apnews.com/article/alcaraz-miami-open-483560829bca8e28f6da25a77241f23d"
     },
     {
-      "title": "Iowa beats No. 1 seed and defending champ Florida in March Madness on Folgueiras' 3 in final seconds - AP News",
-      "link": "https://apnews.com/article/iowa-florida-score-march-madness-aa80c53cb290b3bd6b6d69aa387c44e2"
-    },
-    {
-      "title": "Charles Barkley reacts to final play of St. John\u2019s-Kansas game: \u2018That cannot happen\u2019 - NJ.com",
-      "link": "https://www.nj.com/sports/2026/03/charles-barkley-reacts-to-final-play-of-st-johns-kansas-game-that-cannot-happen.html"
+      "title": "Dylan Darling hits driving layup at buzzer, St. John's beats Kansas 67-65 in March Madness thriller - AP News",
+      "link": "https://apnews.com/article/kansas-st-johns-score-march-madness-582c32938cdf14d2bf0454059f9e10a6"
     },
     {
       "title": "Scoggins: Battle, Braun see their dedication to U rewarded with Sweet 16 trip - Star Tribune",
@@ -150,16 +150,16 @@
       "link": "https://www.espn.com/mens-college-basketball/story/_/id/48282173/joshua-jefferson-hopes-return-iowa-state-sweet-16"
     },
     {
-      "title": "Tyler Reddick wins at Darlington in 4th NASCAR win this season for Michael Jordan\u2019s team - NBC Sports",
-      "link": "https://www.nbcsports.com/nascar/news/tyler-reddick-wins-at-darlington-in-4th-nascar-win-this-season-for-michael-jordans-team"
+      "title": "Tyler Reddick wins at Darlington in 4th NASCAR win this season for Michael Jordan\u2019s team - AP News",
+      "link": "https://apnews.com/article/nascar-darlington-reddick-jordan-3593fdb98d270c2e8b66d69e8a4fe23a"
+    },
+    {
+      "title": "Fitzpatrick goes from disappointment to winning at Valspar Championship - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/fitzpatrick-goes-from-disappointment-to-winning-at-valspar-championship"
     },
     {
       "title": "Reports: Syracuse finalizing deal to hire Siena's Gerry McNamara as head coach - Times Union",
       "link": "https://www.timesunion.com/sports/article/reports-syracuse-finalizing-deal-hire-siena-s-22090564.php"
-    },
-    {
-      "title": "Latest development has things looking gloomy for Hubert Davis' future at UNC - Keeping It Heel",
-      "link": "https://keepingitheel.com/latest-development-has-things-looking-gloomy-for-hubert-davis-future-at-unc"
     },
     {
       "title": "Texas Tech vs Alabama Predictions, Picks, Odds \u2014 3/22 - Action Network",
@@ -170,8 +170,8 @@
       "link": "https://www.espn.com/nba/story/_/id/48281598/luka-doncic-avoids-suspension-16th-tech-rescinded"
     },
     {
-      "title": "Why Matt Fitzpatrick complained to a rules official about playing partner's behavior at the Valspar - hitc.com",
-      "link": "https://www.hitc.com/why-matt-fitzpatrick-complained-to-a-rules-official-about-playing-partners-behavior-at-the-valspar/"
+      "title": "Baseball vs Vanderbilt on 3/22/2026 - Box Score - Mississippi State - Official Athletics Website",
+      "link": "https://hailstate.com/sports/baseball/stats/2026/vanderbilt/boxscore/27395"
     }
   ],
   "weather": {
