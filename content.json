@@ -1,9 +1,9 @@
 {
-  "quote": "The best way to understanding is a few good examples. \u2013 Isaac Newton",
-  "fact": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
-  "crypto": "BTC: $71,665 | ETH: $2,182.2",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I knew i shouldn\u2019t have ate that seafood. Because now i\u2019m feeling a little\u2026 Eel",
+  "quote": "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. \u2013 Spencer Johnson",
+  "fact": "Tigers not only have striped fur, they have striped skin!",
+  "crypto": "BTC: $71,347 | ETH: $2,179.56",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How do you organize a space party? You planet.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Just get a new Samsung phone? Turn off these 6 features immediately - Android Authority",
+      "link": "https://www.androidauthority.com/new-samsung-phone-features-turn-off-immediately-3651052/"
+    },
+    {
+      "title": "We Didn't Expect This Minecraft Spin-Off to Get a PS5 Sequel - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/we-didnt-expect-this-minecraft-spin-off-to-get-a-ps5-sequel"
+    },
+    {
       "title": "Nintendo Cuts Switch 2 Output by Over 30% on Weak US Sales - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2026-03-24/nintendo-cuts-switch-2-output-by-over-30-on-weak-holiday-sales"
     },
     {
       "title": "Android Auto is breaking for Pixel and Samsung users, and no one knows why - Android Authority",
       "link": "https://www.androidauthority.com/android-auto-connection-problem-3651318/"
+    },
+    {
+      "title": "Claude can now automate your entire desktop, but with a serious limitation - XDA",
+      "link": "https://www.xda-developers.com/claude-can-now-automate-your-entire-desktop-but-with-a-serious-limitation/"
     },
     {
       "title": "5 extreme and easy ways to clean your YouTube feed - Axios",
@@ -28,24 +40,20 @@
       "link": "https://www.nintendo.com/us/whatsnew/by-director-mr-sakurai-kirby-air-riders-development-insights-part-5/"
     },
     {
-      "title": "35 Products I Bet You Haven\u2019t Seen Yet, But I Also Bet You\u2019ll *Love* - BuzzFeed",
-      "link": "https://www.buzzfeed.com/danielboan/products-you-havent-seen-yet-but-will-love"
+      "title": "Microsoft hires former Allen Institute for AI CEO under Mustafa Suleyman - Business Insider",
+      "link": "https://www.businessinsider.com/microsoft-hires-ali-farhadi-ai-mustafa-suleyman-2026-3"
     },
     {
-      "title": "Marathon's Cryo Archive Locks Out a Lot of Players, But Bungie Is Listening to Feedback - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/03/marathons-cryo-archive-locks-out-a-lot-of-players-but-bungie-is-listening-to-feedback"
-    },
-    {
-      "title": "Microsoft hires former Ai2 CEO Ali Farhadi and key researchers for Suleyman\u2019s AI team - GeekWire",
-      "link": "https://www.geekwire.com/2026/microsoft-hires-former-ai2-ceo-ali-farhadi-and-key-researchers-for-suleymans-ai-team/"
+      "title": "Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game - Kotaku",
+      "link": "https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185"
     },
     {
       "title": "That Air-Cooled Porsche Engine Isn't Just Cooled By Air, You Know - Jalopnik",
       "link": "https://www.jalopnik.com/2127417/air-cooled-porsche-cools-with-oil-too/"
     },
     {
-      "title": "Anthropic's Claude Can Now Control Your Computer - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/"
+      "title": "PS5 Pro's Acclaimed PSSR 2 Upscaler Runs Faster Than Its Predecessor - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/ps5-pros-acclaimed-pssr-2-upscaler-runs-faster-than-its-predecessor"
     },
     {
       "title": "Microsoft Aims to Supercharge Windows Performance and Cut RAM Waste in 2026 - PCMag",
@@ -72,70 +80,82 @@
       "link": "https://www.dexerto.com/gaming/finishing-a-video-game-can-trigger-post-game-depression-study-finds-3339309/"
     },
     {
-      "title": "\u2018Players\u2019 of an MMORPG for AI Agents Spontaneously Generated Their Own Religion - Gizmodo",
-      "link": "https://gizmodo.com/players-of-an-mmorpg-for-ai-agents-spontaneously-generated-their-own-religion-2000737030"
-    },
-    {
       "title": "Chemistry student develops clear polish that turns your fingernail into a touch-screen stylus - Live Science",
       "link": "https://www.livescience.com/chemistry/chemistry-student-develops-clear-polish-that-turns-your-fingernail-into-a-touch-screen-stylus"
     },
     {
       "title": "Crimson Desert Steam Reviews Jump to 'Mostly Positive' as Latest Patch Makes Significant Improvements - IGN",
       "link": "https://www.ign.com/articles/crimson-desert-steam-reviews-jump-to-mostly-positive-as-latest-patch-makes-significant-improvements"
-    },
-    {
-      "title": "Apple has six new products that could launch soon, per rumors - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/23/apple-has-six-new-products-that-could-launch-soon-per-rumors/"
     }
   ],
   "sports_news": [
+    {
+      "title": "MLB 2026 season preview: Rankings, every team's playoff odds - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/48287373/opening-day-2026-mlb-season-preview-rankings-every-team-playoff-odds-world-series-chances"
+    },
+    {
+      "title": "Syracuse finalizes deal with Gerry McNamara to become next head coach: \u2018I\u2019m ready for it\u2019 - Syracuse.com",
+      "link": "https://www.syracuse.com/orangebasketball/2026/03/syracuse-finalizes-deal-with-gerry-mcnamara-to-become-next-head-coach-report.html"
+    },
+    {
+      "title": "UK booster asks President Capilouto to reverse Mitch Barnhart\u2019s $950K role - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/uk-booster-asks-president-capilouto-to-reverse-mitch-barnharts-950k-role/"
+    },
+    {
+      "title": "Post-Free Agency NFL Power Rankings: Bengals, Commanders Are Contenders Again - Sports Illustrated",
+      "link": "https://www.si.com/nfl/power-rankings-free-agency-bengals-commanders-contenders"
+    },
+    {
+      "title": "'If he'd known what condition the bike was in, he wouldn't have been descending like that' \u2013 Tadej Poga\u010dar won Milan-San Remo on a cracked frame with disc brake rub - Cyclingnews",
+      "link": "https://www.cyclingnews.com/bikes/pro-bikes/if-hed-known-what-condition-the-bike-was-in-he-wouldnt-have-been-descending-like-that-tadej-pogacar-won-milan-san-remo-on-a-cracked-frame-with-disc-brake-rub/"
+    },
+    {
+      "title": "Tiger Woods to make TGL return after 13 months out through injury - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/cx2dyzgln02o"
+    },
     {
       "title": "Bruins Sign James Hagens to AHL Amateur Tryout Agreement - NHL.com",
       "link": "https://www.nhl.com/bruins/news/bruins-sign-james-hagens-to-ahl-amateur-tryout-agreement"
     },
     {
-      "title": "Lady Vols basketball transfer tracker: Who is joining, leaving Kim Caldwell's roster - On3",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/lady-vols-basketball-roster-transfer-portal-kim-caldwell/"
+      "title": "2026 NFL Draft: NFL.com unveils 4-round mock draft with huge shake up, four trades in first round - On3",
+      "link": "https://www.on3.com/pro/news/2026-nfl-draft-nfl-com-unveils-4-round-mock-draft-with-huge-shake-up-four-trades-in-first-round/"
     },
     {
-      "title": "Cincinnati set to hire Utah State's Jerrod Calhoun as next head coach - On3",
-      "link": "https://www.on3.com/news/cincinnati-set-to-hire-utah-states-jerrod-calhoun-as-next-head-coach/"
+      "title": "Still the 1. One perfect women\u2019s March Madness bracket going into Sweet 16 - AP News",
+      "link": "https://apnews.com/article/march-madness-perfect-brackets-busted-eb77e703f3443c55cb77bc5f1a45165a"
+    },
+    {
+      "title": "Spencer Jones\u2019 two homers off bench to cap spring weren\u2019t only thing that impressed Yankees - New York Post",
+      "link": "https://nypost.com/2026/03/24/sports/spencer-jones-ends-his-yankees-spring-camp-with-two-homers/"
     },
     {
       "title": "UNC Basketball, Hubert Davis Late Monday Update - 247Sports",
       "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis--278801465/"
     },
     {
-      "title": "10 players who could reach career milestones in 2026 - MLB.com",
-      "link": "https://www.mlb.com/news/mlb-player-milestones-to-watch-in-2026"
-    },
-    {
       "title": "2026 Women's March Madness live updates: Second-round scores, analysis, bracket - CBS Sports",
       "link": "https://www.cbssports.com/womens-college-basketball/news/2026-womens-march-madness-updates-scores-bracket-analysis-second-round-monday/live/"
     },
     {
-      "title": "Travis Kelce Getting A $57 Million Contract Is Not As Idiotic As It Seems - OutKick",
-      "link": "https://www.outkick.com/sports/travis-kelce-getting-57-million-contract-not-idiotic-seems"
+      "title": "JJ Redick provides injury updates on Rui Hachimura, Marcus Smart - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-injury-report/111729/lakers-injury-report-marcus-smart-rui-hachimura-pistons-pacers-status-update"
     },
     {
-      "title": "No evidence of arson found in White Bear Lake fire that killed Jessi Pierce and 3 children - Star Tribune",
-      "link": "https://www.startribune.com/no-evidence-of-arson-found-in-white-bear-lake-fire-that-killed-jessi-pierce-and-3-children/601631204"
+      "title": "Dylan Darling\u2019s ex-coach had flashbacks as \u2018tough as s\u2013t\u2019 guard he pushed to St. John\u2019s made iconic shot - New York Post",
+      "link": "https://nypost.com/2026/03/23/sports/dylan-darlings-former-coach-urged-st-johns-to-bring-in-march-madness-hero/"
+    },
+    {
+      "title": "Alexander Volkanovski urges Movsar Evloev to not fight him the same way he did Lerone Murphy - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/03/23/alexander-volkanovski-urges-movsar-evloev-to-not-fight-him-the-same-way-he-did-lerone-murphy/"
+    },
+    {
+      "title": "Officials provide update on house fire that killed Jessi Pierce, her 3 children - Bring Me The News",
+      "link": "https://bringmethenews.com/minnesota-news/officials-provide-update-on-house-fire-that-killed-jessi-pierce-her-3-children"
     },
     {
       "title": "Bucks Waiving Cam Thomas - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2026/03/bucks-waiving-cam-thomas.html"
-    },
-    {
-      "title": "2026 March Madness: ESPN ranks all remaining Sweet 16 teams from first to last - On3",
-      "link": "https://www.on3.com/news/2026-march-madness-espn-ranks-all-remaining-sweet-16-teams-from-first-to-last/"
-    },
-    {
-      "title": "Florida hires Rhode Island's Tammi Reiss as next head coach - On3",
-      "link": "https://www.on3.com/her/news/florida-hires-rhode-islands-tammi-reiss-as-next-head-coach/"
-    },
-    {
-      "title": "Mike McCarthy: It\u2019d be a great story to reunite with Aaron Rodgers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-itd-be-a-great-story-to-reunite-with-aaron-rodgers"
     },
     {
       "title": "No. 1 UConn defeats Syracuse 98-45: Live updates as Huskies reach Sweet 16 - CT Insider",
@@ -148,26 +168,6 @@
     {
       "title": "Full breakdown: Details of Seahawks WR JSN\u2019s record-breaking deal - Seattle Sports",
       "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/details-jsn-record-breaking-deal-seattle-seahawks/1843383"
-    },
-    {
-      "title": "College Basketball\u2019s Coaching Carousel: Tracking the Hirings, Firings and Rumored Moves - Sports Illustrated",
-      "link": "https://www.si.com/college-basketball/mens-hoops-coaching-carousel-tracking-hirings-firings-rumored-moves"
-    },
-    {
-      "title": "How the Denver Broncos landed Jaylen Waddle - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-discussion/174256/how-the-denver-broncos-landed-jaylen-waddle"
-    },
-    {
-      "title": "Alabama QB Ty Simpson, who\u2019s on the Browns\u2019 radar, is better than Fernando Mendoza, according to one NFL Draf - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2026/03/alabama-qb-ty-simpson-whos-on-the-browns-radar-is-better-than-fernando-mendoza-according-to-one-nfl-draft-expert.html"
-    },
-    {
-      "title": "Texas Rangers announce former MVP outfielder Andrew McCutchen has made opening day roster - Dallas News",
-      "link": "https://www.dallasnews.com/sports/rangers/2026/03/23/texas-rangers-andrew-mccutchen-opening-day-roster-mark-canha/"
-    },
-    {
-      "title": "Alex Ovechkin seemingly dismisses 1,000 combined goals\u2019 importance in Russian-language interview: \u2018I broke Gretzky\u2019s record, and now, I need to break the record taking into account the playoffs\u2019 - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/03/23/alex-ovechkin-dismissive-1000-combined-goals-milestone/"
     }
   ],
   "weather": {
