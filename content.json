@@ -1,9 +1,9 @@
 {
-  "quote": "You don't have to be great to start, but you have to start to be great.   \u2013 Zig Ziglar",
-  "fact": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
-  "crypto": "BTC: $71,141 | ETH: $2,173.01",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I was in an 80's band called the prevention. We were better than the cure.",
+  "quote": "Falling down is not failure. Failure comes when you stay where you have fallen. \u2013 Socrates",
+  "fact": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
+  "crypto": "BTC: $71,319 | ETH: $2,170.74",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I thought about going on an all-almond diet. But that's just nuts.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Marvel Rivals confirmed for Nintendo Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/marvel-rivals-confirmed-for-nintendo-switch-2/"
+    },
+    {
       "title": "Samsung says AirDrop support is enabled by default after all on Galaxy phones [U] - 9to5Google",
       "link": "http://9to5google.com/2026/03/24/samsung-galaxy-airdrop-disabled/"
     },
     {
-      "title": "Apple releases iOS 26.4 with 8 new emoji and 12 more changes to your iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/24/apple-releases-ios-26-4-with-8-new-emoji-and-12-more-changes-to-your-iphone/"
+      "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/"
+    },
+    {
+      "title": "Apple releases new updates for old versions of iOS, macOS, watchOS, more - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/24/apple-releases-new-updates-for-old-versions-of-ios-macos-watchos-more/"
+    },
+    {
+      "title": "Crimson Desert sells another 1m, as Pearl Abyss pledges more fixes to address launch day struggles - Eurogamer",
+      "link": "https://www.eurogamer.net/crimson-desert-sells-another-1m-as-pearl-abyss-pledges-more-fixes"
     },
     {
       "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful - PCMag",
       "link": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026"
+    },
+    {
+      "title": "Google says Pixel Watch step counts and other stats are fixed, but your data won\u2019t be - 9to5Google",
+      "link": "http://9to5google.com/2026/03/24/google-says-pixel-watch-step-counts-and-other-stats-are-fixed-but-your-data-wont-be/"
+    },
+    {
+      "title": "Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid \u2018Fortnite\u2019 Downturn - Variety",
+      "link": "https://variety.com/2026/gaming/news/epic-games-layoff-1000-fortnite-downturn-500-million-1236697837/"
     },
     {
       "title": "Play the Tiny Takeover drop - Minecraft",
@@ -32,24 +52,24 @@
       "link": "https://www.gamespot.com/articles/new-xbox-ceo-could-make-game-pass-less-expensive-report-says/1100-6538978/"
     },
     {
-      "title": "Claude Code can now take over your computer to complete tasks - Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"
+      "title": "Google\u2019s Android Automotive is moving from the dashboard to the \u2018brain\u2019 of the car - The Verge",
+      "link": "https://www.theverge.com/tech/899034/google-android-automotive-os-software-defined-vehicle"
     },
     {
-      "title": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down - TechCrunch",
-      "link": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/"
+      "title": "You have two days left to get 20 of 2025's best games up to 40% off - Polygon.com",
+      "link": "https://www.polygon.com/best-indies-steam-spring-sale-2026/"
     },
     {
       "title": "Pok\u00e9mon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026"
     },
     {
-      "title": "Exclusive: Samsung Galaxy Z Fold 8 Official CAD Renders & Rumors - Android Headlines",
-      "link": "https://www.androidheadlines.com/samsung-galaxy-z-fold-8"
+      "title": "Anthropic\u2019s Claude Code and Cowork can control your computer - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
     },
     {
-      "title": "\u2018Crimson Desert\u2019 Reviews Go From 51% To 80% Positive In Four Days - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/24/crimson-desert-reviews-go-from-51-to-80-positive-in-four-days/"
+      "title": "High on Life 2's Switch 2 release delayed \"to better meet not only our high standards for gaming, but yours as well\" - Eurogamer",
+      "link": "https://www.eurogamer.net/high-on-life-2s-switch-2-release-delayed"
     },
     {
       "title": "Bank of America revamps Apple price target - thestreet.com",
@@ -60,46 +80,50 @@
       "link": "https://www.trueachievements.com/news/xbox-game-pass-easy-delivery-co"
     },
     {
-      "title": "Nintendo cuts Switch 2 production amid weakening console sales - The Verge",
-      "link": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales"
-    },
-    {
       "title": "Even PC users have caught MacBook Neo fever - Macworld",
       "link": "https://www.macworld.com/article/3096740/pc-users-have-macbook-neo-fever.html"
     },
     {
       "title": "\u2018I Don\u2019t Use AI Much\u2019: Steve Wozniak Expresses Skepticism AI Can Replace Humans - Gizmodo",
       "link": "https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127"
-    },
-    {
-      "title": "Metaverse inventor Neal Stephenson says VR goggles are dead - theregister.com",
-      "link": "https://www.theregister.com/2026/03/24/neal_stephenson_death_of_metaverse/"
-    },
-    {
-      "title": "Android Auto is breaking for Pixel and Samsung users, and no one knows why - Android Authority",
-      "link": "https://www.androidauthority.com/android-auto-connection-problem-3651318/"
-    },
-    {
-      "title": "5 extreme and easy ways to clean your YouTube feed - Axios",
-      "link": "https://www.axios.com/2026/03/24/youtube-feed-algorithim-tips-history"
     }
   ],
   "sports_news": [
     {
-      "title": "Buffalo Bills reveal renders of bison statues at Highmark Stadium\u2019s Family Circle - Buffalo Bills",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-reveal-renders-of-bison-statues-at-highmark-stadium-s-family-circle"
+      "title": "NFL advocates to fix a rule that hurt the Detroit Lions - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-news/160533/2026-nfl-rule-proposals-league-advocates-fix-detroit-lions-dk-metcalf"
     },
     {
-      "title": "Salah to leave Liverpool at end of season - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo"
+      "title": "Baseball ushers in high-tech replay review system for calling balls and strikes - NBC News",
+      "link": "https://www.nbcnews.com/sports/baseball/baseball-ushers-high-tech-replay-review-system-calling-balls-strikes-rcna263971"
+    },
+    {
+      "title": "Mohamed Salah to leave Liverpool at end of the season after 9 years with club - AP News",
+      "link": "https://apnews.com/article/mohamed-salah-liverpool-leaving-81724a3afca1f695e559eca4f76fd01c"
+    },
+    {
+      "title": "Buffalo Bills reveal renders of bison statues at Highmark Stadium\u2019s Family Circle - Buffalo Bills",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-reveal-renders-of-bison-statues-at-highmark-stadium-s-family-circle"
     },
     {
       "title": "Kevin McGonigle Makes Tigers\u2019 Roster; Wenceel P\u00e9rez Optioned - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/03/tigers-top-prospect-kevin-mcgonigle-opening-day-roster-shortstop.html"
     },
     {
+      "title": "March Madness 2026: One reason to root for every team playing in the NCAA Tournament Sweet 16 - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/march-madness-2026-ncaa-tournament-sweet-16/"
+    },
+    {
       "title": "Mikaela Shiffrin wins record 9th World Cup slalom of season, on verge of overall title - NBC Sports",
       "link": "https://www.nbcsports.com/olympics/news/mikaela-shiffrin-world-cup-overall-alpine-skiing-2026"
+    },
+    {
+      "title": "Falcons QB Tua Tagovailoa embracing competition, excited to work with Michael Penix Jr. - NFL.com",
+      "link": "https://www.nfl.com/news/falcons-qb-tua-tagovailoa-embracing-competition-excited-to-work-with-michael-penix-jr"
+    },
+    {
+      "title": "Travis Kelce\u2019s new three-year contract is really a one-year deal - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelces-new-three-year-contract-is-really-a-one-year-deal"
     },
     {
       "title": "Bucky Brooks 2026 NFL mock draft 3.0: Cowboys pounce on Rueben Bain Jr.; Chiefs add tight end - NFL.com",
@@ -110,12 +134,28 @@
       "link": "https://www.mlbtraderumors.com/2026/03/brewers-to-acquire-jake-woodford.html"
     },
     {
+      "title": "Where Seahawks\u2019 salary cap space sits after JSN deal - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-salary-cap-after-jsn-deal/1843464"
+    },
+    {
       "title": "Buccaneers LB Lavonte David announces retirement following 14 seasons, 1,714 tackles - NFL.com",
       "link": "https://www.nfl.com/news/buccaneers-lb-lavonte-david-retirement-14-seasons"
     },
     {
-      "title": "Tua Tagovailoa: My best football is still ahead of me - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-my-best-football-is-still-ahead-of-me"
+      "title": "A Pox Upon Whoever Spared The Rangers From Nine-Shot Ignominy - Defector",
+      "link": "https://defector.com/a-pox-upon-whoever-spared-the-rangers-from-nine-shot-ignominy"
+    },
+    {
+      "title": "2028 Olympics flag football selection procedures are coming later this year - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2028-olympics-flag-football-selection-procedures-are-coming-later-this-year"
+    },
+    {
+      "title": "Jeff Webb, cheerleading entrepreneur and a mentor to Charlie Kirk, dies after accident at 76 - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/jeff-webb-cheerleading-entrepreneur-charlie-kirk-mentor-dies-accident-rcna264901"
+    },
+    {
+      "title": "Steelers head coach Mike McCarthy weighs in on Aaron Rodgers speculation - Behind the Steel Curtain",
+      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/168536/steelers-head-coach-mike-mccarthy-weighs-in-on-aaron-rodgers-speculation-green-bay-packers"
     },
     {
       "title": "Scottie Scheffler withdraws ahead of Houston Open for birth of second child - Golf Channel",
@@ -128,42 +168,6 @@
     {
       "title": "Gophers Fans Are Not Reacting Well to the Brett Larson Hockey Hire - Sports Illustrated",
       "link": "https://www.si.com/college/minnesota/gophers-hockey/gophers-fans-are-not-reacting-well-to-the-brett-larson-hockey-hire"
-    },
-    {
-      "title": "Rangers Will Carry Rule 5 Pick Carter Baumler On Roster - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/rangers-rule-5-carter-baumler-makes-roster.html"
-    },
-    {
-      "title": "Stanley Cup Playoffs Buzz: Blue Jackets can move into 2nd in Metropolitan - NHL.com",
-      "link": "https://www.nhl.com/news/stanley-cup-playoffs-buzz-news-and-notes-march-24-2026"
-    },
-    {
-      "title": "Global soccer icon and World Cup winner Antoine Griezmann to join Orlando City SC - Orlando City",
-      "link": "https://www.orlandocitysc.com/news/global-soccer-icon-and-world-cup-winner-antoine-griezmann-to-join-orlando-city-sc"
-    },
-    {
-      "title": "Favorite, least favorite 2026 free-agency moves for all 32 NFL teams - PFF",
-      "link": "https://www.pff.com/news/nfl-favorite-least-favorite-2026-free-agency-moves-all-32-nfl-teams"
-    },
-    {
-      "title": "Tiger Woods Announces Return To 'Competitive' Golf, But It's Okay If You're Not Excited About It - OutKick",
-      "link": "https://www.outkick.com/sports/tiger-woods-tgl-return-competitive-golf-not-excited"
-    },
-    {
-      "title": "Full MVP MMA: Rousey vs. Carano fight card announced - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/478332/full-mvp-mma-rousey-vs-carano-card-announced"
-    },
-    {
-      "title": "Greg: Larry Brown Offers Support for Hubert Davis - On3",
-      "link": "https://www.on3.com/teams/north-carolina-tar-heels/news/greg-larry-brown-offers-support-for-hubert-davis-unc/"
-    },
-    {
-      "title": "RELEASE: Blackhawks Recall Forward Anton Frondell from Djurg\u00e5rdens IF - NHL.com",
-      "link": "https://www.nhl.com/blackhawks/news/release-blackhawks-recall-forward-anton-frondell-from-djurgardens-if"
-    },
-    {
-      "title": "Gerry McNamara \u201906 Named Head Coach of Syracuse Men's Basketball - Syracuse University Athletics",
-      "link": "https://cuse.com/news/2026/3/24/gerry-mcnamara-06-named-head-coach-of-syracuse-mens-basketball"
     }
   ],
   "weather": {
