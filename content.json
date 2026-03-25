@@ -1,9 +1,9 @@
 {
-  "quote": "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. \u2013 Spencer Johnson",
-  "fact": "Tigers not only have striped fur, they have striped skin!",
-  "crypto": "BTC: $71,347 | ETH: $2,179.56",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "How do you organize a space party? You planet.",
+  "quote": "Intense love does not measure, it just gives. \u2013 Mother Teresa",
+  "fact": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+  "crypto": "BTC: $70,911 | ETH: $2,161.58",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful - PCMag",
+      "link": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026"
+    },
+    {
+      "title": "Fortnite Maker Epic Games Cuts About 1,000 Jobs Across Company - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-24/fortnite-maker-epic-games-cuts-about-1-000-jobs-across-company"
+    },
+    {
+      "title": "Pok\u00e9mon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026"
+    },
+    {
+      "title": "Xbox Game Pass gets a new cozy game with unsettling vibes this week - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/xbox-game-pass-easy-delivery-co"
+    },
+    {
+      "title": "Pok\u00e9mon Pokopia - The Means Of Pok\u00e9production - The Jimquisition",
+      "link": "https://www.thejimquisition.com/post/pok\u00e9mon-pokopia-the-means-of-pok\u00e9production"
+    },
+    {
+      "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push - CNBC",
+      "link": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html"
+    },
+    {
       "title": "Just get a new Samsung phone? Turn off these 6 features immediately - Android Authority",
       "link": "https://www.androidauthority.com/new-samsung-phone-features-turn-off-immediately-3651052/"
     },
     {
+      "title": "\u2018I Don\u2019t Use AI Much\u2019: Steve Wozniak Expresses Skepticism AI Can Replace Humans - Gizmodo",
+      "link": "https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127"
+    },
+    {
       "title": "We Didn't Expect This Minecraft Spin-Off to Get a PS5 Sequel - Push Square",
       "link": "https://www.pushsquare.com/news/2026/03/we-didnt-expect-this-minecraft-spin-off-to-get-a-ps5-sequel"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 specifications leak again - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-z-fold-8-specifications-leak-again/"
     },
     {
       "title": "Nintendo Cuts Switch 2 Output by Over 30% on Weak US Sales - Bloomberg.com",
@@ -28,10 +60,6 @@
       "link": "https://www.androidauthority.com/android-auto-connection-problem-3651318/"
     },
     {
-      "title": "Claude can now automate your entire desktop, but with a serious limitation - XDA",
-      "link": "https://www.xda-developers.com/claude-can-now-automate-your-entire-desktop-but-with-a-serious-limitation/"
-    },
-    {
       "title": "5 extreme and easy ways to clean your YouTube feed - Axios",
       "link": "https://www.axios.com/2026/03/24/youtube-feed-algorithim-tips-history"
     },
@@ -40,8 +68,8 @@
       "link": "https://www.nintendo.com/us/whatsnew/by-director-mr-sakurai-kirby-air-riders-development-insights-part-5/"
     },
     {
-      "title": "Microsoft hires former Allen Institute for AI CEO under Mustafa Suleyman - Business Insider",
-      "link": "https://www.businessinsider.com/microsoft-hires-ali-farhadi-ai-mustafa-suleyman-2026-3"
+      "title": "DarkSword exploit, which affects outdated versions of iOS, leaks on GitHub - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/23/darksword-exploit-which-affects-outdated-versions-of-ios-leaks-on-github/"
     },
     {
       "title": "Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game - Kotaku",
@@ -52,8 +80,8 @@
       "link": "https://www.jalopnik.com/2127417/air-cooled-porsche-cools-with-oil-too/"
     },
     {
-      "title": "PS5 Pro's Acclaimed PSSR 2 Upscaler Runs Faster Than Its Predecessor - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/03/ps5-pros-acclaimed-pssr-2-upscaler-runs-faster-than-its-predecessor"
+      "title": "SP40 Restomod Is Built Around The One Ford That Edsel Actually Got Right - Carscoops",
+      "link": "https://www.carscoops.com/2026/03/sp40-speedster-v8-restomod/"
     },
     {
       "title": "Microsoft Aims to Supercharge Windows Performance and Cut RAM Waste in 2026 - PCMag",
@@ -62,40 +90,28 @@
     {
       "title": "MacBook Neo Silences Critics Over 8GB RAM Being Inadequate; Can Open 60 Apps In Unison While Windows Laptop Powers Off Performing The Same Task - Wccftech",
       "link": "https://wccftech.com/macbook-neo-8gb-ram-stress-test-opens-60-apps-simultaneously/"
-    },
-    {
-      "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/"
-    },
-    {
-      "title": "iOS 26.4 offers two Liquid Glass customization updates - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/23/ios-26-4-offers-two-liquid-glass-customization-updates/"
-    },
-    {
-      "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch",
-      "link": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/"
-    },
-    {
-      "title": "Finishing a video game can trigger \u201cpost-game depression,\u201d study finds - Dexerto",
-      "link": "https://www.dexerto.com/gaming/finishing-a-video-game-can-trigger-post-game-depression-study-finds-3339309/"
-    },
-    {
-      "title": "Chemistry student develops clear polish that turns your fingernail into a touch-screen stylus - Live Science",
-      "link": "https://www.livescience.com/chemistry/chemistry-student-develops-clear-polish-that-turns-your-fingernail-into-a-touch-screen-stylus"
-    },
-    {
-      "title": "Crimson Desert Steam Reviews Jump to 'Mostly Positive' as Latest Patch Makes Significant Improvements - IGN",
-      "link": "https://www.ign.com/articles/crimson-desert-steam-reviews-jump-to-mostly-positive-as-latest-patch-makes-significant-improvements"
     }
   ],
   "sports_news": [
     {
-      "title": "MLB 2026 season preview: Rankings, every team's playoff odds - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/48287373/opening-day-2026-mlb-season-preview-rankings-every-team-playoff-odds-world-series-chances"
+      "title": "Global soccer icon and World Cup winner Antoine Griezmann to join Orlando City SC - Orlando City",
+      "link": "https://www.orlandocitysc.com/news/global-soccer-icon-and-world-cup-winner-antoine-griezmann-to-join-orlando-city-sc"
     },
     {
-      "title": "Syracuse finalizes deal with Gerry McNamara to become next head coach: \u2018I\u2019m ready for it\u2019 - Syracuse.com",
-      "link": "https://www.syracuse.com/orangebasketball/2026/03/syracuse-finalizes-deal-with-gerry-mcnamara-to-become-next-head-coach-report.html"
+      "title": "Full MVP MMA: Rousey vs. Carano fight card announced - MMA Fighting",
+      "link": "https://www.mmafighting.com/latest-news/478332/full-mvp-mma-rousey-vs-carano-card-announced"
+    },
+    {
+      "title": "2026 NFL Draft: Joel Klatt releases new mock with every player in college football available - On3",
+      "link": "https://www.on3.com/pro/news/2026-nfl-draft-joel-klatt-releases-new-mock-with-every-player-in-college-football-available/"
+    },
+    {
+      "title": "Gerry McNamara \u201906 Named Head Coach of Syracuse Men's Basketball - Syracuse University Athletics",
+      "link": "https://cuse.com/news/2026/3/24/gerry-mcnamara-06-named-head-coach-of-syracuse-mens-basketball"
+    },
+    {
+      "title": "2026 MLB Opening Day Power Rankings: Who can stop the Dodgers from a three-peat? - NBC Sports",
+      "link": "https://www.nbcsports.com/mlb/news/2026-mlb-opening-day-power-rankings-who-can-stop-the-dodgers-from-a-three-peat"
     },
     {
       "title": "UK booster asks President Capilouto to reverse Mitch Barnhart\u2019s $950K role - On3",
@@ -110,32 +126,28 @@
       "link": "https://www.cyclingnews.com/bikes/pro-bikes/if-hed-known-what-condition-the-bike-was-in-he-wouldnt-have-been-descending-like-that-tadej-pogacar-won-milan-san-remo-on-a-cracked-frame-with-disc-brake-rub/"
     },
     {
-      "title": "Tiger Woods to make TGL return after 13 months out through injury - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cx2dyzgln02o"
+      "title": "Mike McCarthy: 'It would be a great story' to reunite with Aaron Rodgers - NFL.com",
+      "link": "https://www.nfl.com/news/mike-mccarthy-it-would-be-a-great-story-to-reunite-with-aaron-rodgers"
+    },
+    {
+      "title": "Cincinnati set to hire Utah State's Jerrod Calhoun as next head coach - On3",
+      "link": "https://www.on3.com/news/cincinnati-set-to-hire-utah-states-jerrod-calhoun-as-next-head-coach/"
+    },
+    {
+      "title": "No evidence of arson found in White Bear Lake fire that killed Jessi Pierce and 3 children - Star Tribune",
+      "link": "https://www.startribune.com/no-evidence-of-arson-found-in-white-bear-lake-fire-that-killed-jessi-pierce-and-3-children/601631204"
     },
     {
       "title": "Bruins Sign James Hagens to AHL Amateur Tryout Agreement - NHL.com",
       "link": "https://www.nhl.com/bruins/news/bruins-sign-james-hagens-to-ahl-amateur-tryout-agreement"
     },
     {
-      "title": "2026 NFL Draft: NFL.com unveils 4-round mock draft with huge shake up, four trades in first round - On3",
-      "link": "https://www.on3.com/pro/news/2026-nfl-draft-nfl-com-unveils-4-round-mock-draft-with-huge-shake-up-four-trades-in-first-round/"
-    },
-    {
-      "title": "Still the 1. One perfect women\u2019s March Madness bracket going into Sweet 16 - AP News",
-      "link": "https://apnews.com/article/march-madness-perfect-brackets-busted-eb77e703f3443c55cb77bc5f1a45165a"
-    },
-    {
-      "title": "Spencer Jones\u2019 two homers off bench to cap spring weren\u2019t only thing that impressed Yankees - New York Post",
-      "link": "https://nypost.com/2026/03/24/sports/spencer-jones-ends-his-yankees-spring-camp-with-two-homers/"
+      "title": "Cubs news: Cubs, Pete Crow-Armstrong agree to long-term contract extension - Bleed Cubbie Blue",
+      "link": "https://www.bleedcubbieblue.com/chicago-cubs-news/211201/cubs-news-cubs-pete-crow-armstrong-agree-to-long-term-contract-extension"
     },
     {
       "title": "UNC Basketball, Hubert Davis Late Monday Update - 247Sports",
       "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis--278801465/"
-    },
-    {
-      "title": "2026 Women's March Madness live updates: Second-round scores, analysis, bracket - CBS Sports",
-      "link": "https://www.cbssports.com/womens-college-basketball/news/2026-womens-march-madness-updates-scores-bracket-analysis-second-round-monday/live/"
     },
     {
       "title": "JJ Redick provides injury updates on Rui Hachimura, Marcus Smart - Silver Screen and Roll",
@@ -150,24 +162,16 @@
       "link": "https://bloodyelbow.com/2026/03/23/alexander-volkanovski-urges-movsar-evloev-to-not-fight-him-the-same-way-he-did-lerone-murphy/"
     },
     {
-      "title": "Officials provide update on house fire that killed Jessi Pierce, her 3 children - Bring Me The News",
-      "link": "https://bringmethenews.com/minnesota-news/officials-provide-update-on-house-fire-that-killed-jessi-pierce-her-3-children"
-    },
-    {
       "title": "Bucks Waiving Cam Thomas - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2026/03/bucks-waiving-cam-thomas.html"
     },
     {
+      "title": "McConnell named Head Basketball Coach at St. Mary\u2019s - HoopDirt",
+      "link": "https://hoopdirt.com/mcconnell-named-head-basketball-coach-at-st-marys/"
+    },
+    {
       "title": "No. 1 UConn defeats Syracuse 98-45: Live updates as Huskies reach Sweet 16 - CT Insider",
       "link": "https://www.ctinsider.com/sports/uconn-womens-basketball/article/uconn-syracuse-live-updates-ncaa-tournament-3-23-22092374.php"
-    },
-    {
-      "title": "Red Sox To Carry Connelly Early On Opening Day Roster - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/red-sox-option-payton-tolle-connelly-early-to-break-camp.html"
-    },
-    {
-      "title": "Full breakdown: Details of Seahawks WR JSN\u2019s record-breaking deal - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/details-jsn-record-breaking-deal-seattle-seahawks/1843383"
     }
   ],
   "weather": {
