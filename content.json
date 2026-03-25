@@ -1,9 +1,9 @@
 {
-  "quote": "People tend to complicate their own lives, as if living weren't already complicated enough. \u2013 Carlos Ruiz Zafon",
-  "fact": "The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.",
-  "crypto": "BTC: $70,775 | ETH: $2,160.76",
+  "quote": "If you're waiting until you feel talented enough to make it, you'll never make it. \u2013 Criss Jami",
+  "fact": "You can't kill yourself by holding your breath",
+  "crypto": "BTC: $70,570 | ETH: $2,154.34",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a pig that knows karate? A pork chop!",
+  "joke": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Xbox is getting over 40 new games next week - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/new-xbox-games-march-24-2026"
+    },
+    {
+      "title": "Xbox sale round-up March 24, 2026 - TrueAchievements",
+      "link": "https://www.trueachievements.com/n61880/xbox-sale-roundup-march-24-2026"
+    },
+    {
       "title": "Buy Some 'Woke 2' Merch, Support A Worker-Owned Website - aftermath.site",
       "link": "https://aftermath.site/woke-2-tshirt-hoodie-hat/"
     },
     {
+      "title": "Fortnite Added Peak Skins That Cost Twice As Much As The Actual Indie Game - Kotaku",
+      "link": "https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185"
+    },
+    {
       "title": "Anthropic's Claude Can Now Control Your Computer - CNET",
       "link": "https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/"
+    },
+    {
+      "title": "MacBook Neo Silences Critics Over 8GB RAM Being Inadequate; Can Open 60 Apps In Unison While Windows Laptop Powers Off Performing The Same Task - Wccftech",
+      "link": "https://wccftech.com/macbook-neo-8gb-ram-stress-test-opens-60-apps-simultaneously/"
     },
     {
       "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d - Ars Technica",
@@ -40,12 +56,20 @@
       "link": "https://gizmodo.com/players-of-an-mmorpg-for-ai-agents-spontaneously-generated-their-own-religion-2000737030"
     },
     {
+      "title": "Chemistry student develops clear polish that turns your fingernail into a touch-screen stylus - Live Science",
+      "link": "https://www.livescience.com/chemistry/chemistry-student-develops-clear-polish-that-turns-your-fingernail-into-a-touch-screen-stylus"
+    },
+    {
       "title": "Apple has six new products that could launch soon, per rumors - 9to5Mac",
       "link": "https://9to5mac.com/2026/03/23/apple-has-six-new-products-that-could-launch-soon-per-rumors/"
     },
     {
       "title": "The Big PSSR Interview With Mark Cerny - Digital Foundry",
       "link": "https://www.digitalfoundry.net/news/2026/03/the-big-pssr-interview-with-mark-cerny"
+    },
+    {
+      "title": "Crimson Desert Doesn't Work on Intel GPUs, But Pearl Abyss Is Working On It - IGN",
+      "link": "https://www.ign.com/articles/crimson-desert-doesnt-work-on-intel-gpus-but-pearl-abyss-is-working-on-it"
     },
     {
       "title": "Two of my favorite color e-book readers are the cheapest they\u2019ve been in months - The Verge",
@@ -56,46 +80,42 @@
       "link": "http://9to5google.com/2026/03/23/google-confirms-fix-for-fitbit-calorie-goals-pixel-watch-errors-have-a-workaround/"
     },
     {
+      "title": "Totally Normal Person Gives Video Game A 0/10 For Lack Of LGBTQ+ Representation - OutKick",
+      "link": "https://www.outkick.com/culture/totally-normal-person-gives-video-game-0-10-lack-lgbtq-representation"
+    },
+    {
       "title": "Smart Glasses Are Getting Shamed Into Covering Their Cameras - Gizmodo",
       "link": "https://gizmodo.com/smart-glasses-are-getting-shamed-into-covering-their-cameras-2000736843"
     },
     {
-      "title": "Apple sets June date for WWDC 2026, teasing \u2018AI advancements\u2019 - TechCrunch",
-      "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
-    },
-    {
-      "title": "Long fingernails vs. touchscreens: This nail polish could help - Ars Technica",
-      "link": "https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/"
-    },
-    {
-      "title": "You can now play Legend of Zelda: The Wind Waker on web browser - Dexerto",
-      "link": "https://www.dexerto.com/gaming/you-can-now-play-legend-of-zelda-the-wind-waker-on-web-browser-3339157/"
-    },
-    {
-      "title": "Sony Fights Back Against The Scourge Of Shovelware, Wiping Over 1,000 Games From The PlayStation Store - Kotaku",
-      "link": "https://kotaku.com/sony-playstation-store-shovelware-delisted-nostra-cgi-lab-2000681072"
-    },
-    {
-      "title": "The MacBook Neo proves Apple is leaving a door wide open for Google\u2019s \u2018Aluminium OS\u2019 - Chrome Unboxed",
-      "link": "https://chromeunboxed.com/the-macbook-neo-proves-apple-is-leaving-a-door-wide-open-for-googles-aluminium-os/"
-    },
-    {
-      "title": "Android Auto might be getting these three huge upgrades - Android Police",
-      "link": "https://www.androidpolice.com/android-auto-might-be-getting-these-three-huge-upgrades/"
-    },
-    {
-      "title": "Google Messages for web removing QR code pairing - 9to5Google",
-      "link": "http://9to5google.com/2026/03/23/google-messages-web-qr-removal/"
-    },
-    {
-      "title": "John Ternus was behind one of iPad\u2019s most crucial changes, says report - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/23/john-ternus-was-behind-one-of-ipads-most-crucial-changes-says-report/"
+      "title": "iPhone Fold leaks, rumors, and renders: Everything we know - Mashable",
+      "link": "https://mashable.com/article/iphone-fold-specifications-rumors-leaks-release-date"
     }
   ],
   "sports_news": [
     {
-      "title": "Virginia becomes first First Four team to reach Sweet Sixteen after 83-75 double-OT win over Iowa - NBC News",
-      "link": "https://www.nbcnews.com/sports/college-basketball/virginia-becomes-first-first-four-team-reach-sweet-sixteen-83-75-doubl-rcna264817"
+      "title": "2026 Women's March Madness live updates: Second-round scores, analysis, bracket - CBS Sports",
+      "link": "https://www.cbssports.com/womens-college-basketball/news/2026-womens-march-madness-updates-scores-bracket-analysis-second-round-monday/live/"
+    },
+    {
+      "title": "Mike McCarthy: It\u2019d be a great story to reunite with Aaron Rodgers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-itd-be-a-great-story-to-reunite-with-aaron-rodgers"
+    },
+    {
+      "title": "Carson Benge To Make Mets\u2019 Roster - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/03/carson-benge-to-make-mets-roster.html"
+    },
+    {
+      "title": "Texas Rangers announce former MVP outfielder Andrew McCutchen has made opening day roster - Dallas News",
+      "link": "https://www.dallasnews.com/sports/rangers/2026/03/23/texas-rangers-andrew-mccutchen-opening-day-roster-mark-canha/"
+    },
+    {
+      "title": "Even if Gerry McNamara leaves, Siena basketball donor Adam Weitsman says his support will stay - Times Union",
+      "link": "https://www.timesunion.com/sports/article/adam-weitsman-siena-basketball-gerry-mcnamara-22090853.php"
+    },
+    {
+      "title": "Alex Ovechkin seemingly dismisses 1,000 combined goals\u2019 importance in Russian-language interview: \u2018I broke Gretzky\u2019s record, and now, I need to break the record taking into account the playoffs\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/03/23/alex-ovechkin-dismissive-1000-combined-goals-milestone/"
     },
     {
       "title": "Matt Fitzpatrick\u2019s wife celebrates PGA Tour star\u2019s Valspar Championship win \u2014 one week after $4.5 million heartbreak - New York Post",
@@ -110,20 +130,8 @@
       "link": "https://arizonasports.com/ncaa/arizona-state-basketball/randy-bennett-2/3614865/"
     },
     {
-      "title": "Michael Pittman Jr.: I haven\u2019t spoken to Aaron Rodgers, but think he wants to play - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-pittman-jr-i-havent-spoken-to-aaron-rodgers-but-think-he-wants-to-play"
-    },
-    {
       "title": "Female boxer in medically induced coma after getting knocked out - USA Today",
       "link": "https://www.usatoday.com/story/sports/boxing/2026/03/23/isis-sio-knockout-medically-induced-coma-boxer/89282014007/"
-    },
-    {
-      "title": "McCutchen Makes Rangers Roster; Rocker Wins Rotation Job - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/rangers-andrew-mccutchen-opening-day-roster-kumar-rocker-fifth-starter.html"
-    },
-    {
-      "title": "2026 NFL Draft: Ranking RB prospects, No. 1 to 21 - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-draft-ranking-rb-prospects-no-1-to-21"
     },
     {
       "title": "REPORT: Cincinnati to hire Utah State\u2019s Jerrod Calhoun as next head coach - 247Sports",
@@ -131,11 +139,15 @@
     },
     {
       "title": "Robot strike zone will create winners and losers among pitchers, batters who earned human calls - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjl0R1YxWTAyc3N4RVdZME1hTmdfZWJwd0g5VmRIYW9RVllMejloc2dMRjRlOGlwNGl2VUNvSFhCcWJzSnEyY3VaeDZidWRKeFRFZmo4UVRiRWhORUhHbk5yUXBubXlBaC1QTlJDdlpPSTRXdC13SUg1YkNZR0RuU05WdnNzLWR4el9kQkp5TGFwTWFT?oc=5"
+      "link": "https://apnews.com/article/abs-robot-umpires-who-benefits-23389564b61a52093f4399857f4fc531"
     },
     {
-      "title": "Lady Vols basketball transfer tracker: Who is joining, leaving Kim Caldwell's roster - On3",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/lady-vols-basketball-roster-transfer-portal-kim-caldwell/"
+      "title": "Chiefs and Travis Kelce put pen to paper on \u2018three-year\u2019 contract - Arrowhead Pride",
+      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/197256/chiefs-travis-kelce-pen-paper-three-year-contract"
+    },
+    {
+      "title": "2026 NFL Mock Draft: Where Would Arch Manning, Jeremiah Smith Be Picked in All-CFB Draft? - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-mock-draft-where-would-arch-manning-jeremiah-smith-picked-all-cfb-draft"
     },
     {
       "title": "Florida hires Tammi Reiss as head women\u2019s basketball coach - Florida Gators",
@@ -146,32 +158,20 @@
       "link": "https://www.on3.com/teams/north-carolina-tar-heels/news/greg-larry-brown-offers-support-for-hubert-davis-unc/"
     },
     {
+      "title": "Minnesota\u2019s Buzzer-Beater Sounded Like Home - Defector",
+      "link": "https://defector.com/minnesotas-buzzer-beater-sounded-like-home"
+    },
+    {
       "title": "Charles Barkley reacts to final play of St. John\u2019s-Kansas game: \u2018That cannot happen\u2019 - NJ.com",
       "link": "https://www.nj.com/sports/2026/03/charles-barkley-reacts-to-final-play-of-st-johns-kansas-game-that-cannot-happen.html"
     },
     {
+      "title": "Charlie Kirk Mentor Jeff Webb Dies 2 Weeks After Pickleball Accident - TMZ",
+      "link": "https://www.tmz.com/2026/03/23/charlie-kirk-mentor-jeff-webb-dies/"
+    },
+    {
       "title": "2026 Dan Hodge Trophy Fan Vote Is Open - win-magazine.com",
       "link": "https://www.win-magazine.com/2026/03/23/2026-dan-hodge-trophy-fan-vote/"
-    },
-    {
-      "title": "Cubs Put Seiya Suzuki On 10-Day IL, Option Javier Assad - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/cubs-seiya-suzuki-injured-list-knee-javier-assad-optioned-aaa.html"
-    },
-    {
-      "title": "LA28 unveils floral-inspired visual identity for 2028 Olympics - NBC News",
-      "link": "https://www.nbcnews.com/sports/olympics/la28-unveils-floral-inspired-visual-identity-2028-olympics-rcna264753"
-    },
-    {
-      "title": "Penske boss Diuguid gives update on Sebring team orders, tension between Estre and Nasr - Motorsport.com",
-      "link": "https://www.motorsport.com/imsa/news/penske-boss-diuguid-gives-update-on-sebring-team-orders-tension-between-estre-and-nasr/10807623/"
-    },
-    {
-      "title": "Tottenham Keeps Finding New Lows - Defector",
-      "link": "https://defector.com/tottenham-keeps-finding-new-lows"
-    },
-    {
-      "title": "Bracket Reset: NCAA Tournament down to a Sweet 16 of high-majors - AP News",
-      "link": "https://apnews.com/article/ncaa-tournament-march-madness-ff2f65e021742bab56793df8b6ad9a45"
     }
   ],
   "weather": {
