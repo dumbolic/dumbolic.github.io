@@ -1,39 +1,43 @@
 {
-  "quote": "Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for. \u2013 Socrates",
-  "fact": "Intelligent people have more zinc and copper in their hair.",
-  "crypto": "BTC: $70,008 | ETH: $2,118.65",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Got a new suit recently made entirely of living plants. I wasn\u2019t sure at first, but it\u2019s grown on me",
+  "quote": "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. \u2013 Dan Millman",
+  "fact": "A cat uses its whiskers to determine if a space is too small to squeeze through.",
+  "crypto": "BTC: $70,027 | ETH: $2,120.37",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What is this movie about? It is about 2 hours long.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The Bumpboxx BB-777 is the ultimate in boombox nostalgia - The Verge",
+      "link": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia"
+    },
+    {
+      "title": "Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign - 9to5Google",
+      "link": "http://9to5google.com/2026/03/24/apple-music-5-2-android/"
+    },
+    {
       "title": "Borderlands 4 March patch improves PC performance, native FPS up by 43% - VideoCardz.com",
       "link": "https://videocardz.com/newz/borderlands-4-march-patch-improves-pc-performance-native-fps-up-by-43"
+    },
+    {
+      "title": "PS5 Players Seemingly Skip Marathon as Sales Estimates Look Very Weak - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/03/ps5-players-seemingly-skip-marathon-as-sales-estimates-look-very-weak"
     },
     {
       "title": "Sony\u2019s new PSSR shares FSR Upscaling roots, but uses an INT8 implementation - VideoCardz.com",
       "link": "https://videocardz.com/newz/sonys-new-pssr-shares-fsr-upscaling-roots-but-uses-an-int8-implementation"
     },
     {
-      "title": "New \u2018Marathon\u2019 Sales, Playercount Reports Are Close To Reality - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/03/24/new-marathon-sales-playercount-reports-are-close-to-reality/"
-    },
-    {
       "title": "Samsung says AirDrop support is enabled by default after all on Galaxy phones [U] - 9to5Google",
       "link": "http://9to5google.com/2026/03/24/samsung-galaxy-airdrop-disabled/"
     },
     {
-      "title": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more - The Verge",
-      "link": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update"
-    },
-    {
-      "title": "New Xbox Boss Has Considered 'Pricing Revamp' For Game Pass, Claims Report - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/03/new-xbox-boss-has-considered-pricing-revamp-for-game-pass-claims-report"
+      "title": "Cloudflare\u2019s new Dynamic Workers ditch containers to run AI agent code 100x faster - VentureBeat",
+      "link": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
     },
     {
       "title": "Apple Plans AI Reboot With Siri App, New Look and \u2018Ask Siri\u2019 Button in iOS 27 - Bloomberg.com",
@@ -48,10 +52,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/"
     },
     {
-      "title": "Crimson Desert sells another 1m, as Pearl Abyss pledges more fixes to address launch day struggles - Eurogamer",
-      "link": "https://www.eurogamer.net/crimson-desert-sells-another-1m-as-pearl-abyss-pledges-more-fixes"
-    },
-    {
       "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful - PCMag",
       "link": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026"
     },
@@ -64,8 +64,8 @@
       "link": "https://www.minecraft.net/en-us/article/play-the-tiny-takeover-drop"
     },
     {
-      "title": "Apple takes aim at Google Workspace and Microsoft 365 with new hosted business email - 9to5Mac",
-      "link": "https://9to5mac.com/2026/03/24/apple-takes-aim-at-google-workspace-and-microsoft-365-with-new-hosted-business-email/"
+      "title": "Apple Business Essentials goes free as Apple merges enterprise tools into Apple Business - 9to5Mac",
+      "link": "https://9to5mac.com/2026/03/24/apple-business-essentials-goes-free-as-apple-merges-enterprise-tools-into-apple-business/"
     },
     {
       "title": "You have two days left to get 20 of 2025's best games up to 40% off - Polygon.com",
@@ -80,15 +80,31 @@
       "link": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026"
     },
     {
-      "title": "Anthropic\u2019s Claude Code and Cowork can control your computer - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
+      "title": "G.SKILL showcases DDR5-10000 memory speed on Core Ultra 7 270K Plus - VideoCardz.com",
+      "link": "https://videocardz.com/newz/g-skill-showcases-ddr5-10000-memory-speed-on-core-ultra-7-270k-plus"
     },
     {
-      "title": "Bank of America revamps Apple price target - thestreet.com",
-      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-apple-price-target"
+      "title": "\u2018Crimson Desert\u2019 Reviews Go From 51% To 80% Positive In Four Days - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/03/24/crimson-desert-reviews-go-from-51-to-80-positive-in-four-days/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Team USA's choice for Olympic flag football is obvious - theScore.com",
+      "link": "https://thescore.com/olym/news/3506966"
+    },
+    {
+      "title": "Saints sign QB Zach Wilson - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-sign-qb-zach-wilson"
+    },
+    {
+      "title": "Candidates for UNC's Next Basketball Coach - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis-278927475/"
+    },
+    {
+      "title": "Blackhawks 4, Islanders 3 \u2014 Three Stars, Key Takeaways - Bleacher Nation",
+      "link": "https://www.bleachernation.com/blackhawks/2026/03/24/blackhawks-4-islanders-3-three-stars-key-takeaways/"
+    },
     {
       "title": "Cubs news: Cubs, Pete Crow-Armstrong agree to 6-year, $115 million extension - Bleed Cubbie Blue",
       "link": "https://www.bleedcubbieblue.com/chicago-cubs-news/211201/cubs-news-cubs-pete-crow-armstrong-agree-to-long-term-contract-extension"
@@ -98,8 +114,8 @@
       "link": "https://www.mlbtraderumors.com/2026/03/nick-lodolo-to-open-season-on-injured-list.html"
     },
     {
-      "title": "Sources: USF hires Kristy Curry as next women's basketball coach - On3",
-      "link": "https://www.on3.com/her/news/sources-usf-hires-kristy-curry-as-next-womens-basketball-coach/"
+      "title": "Tua Tagovailoa: Last season wasn\u2019t up to my standard, and I need to play better - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-last-season-wasnt-up-to-my-standard-and-i-need-to-play-better"
     },
     {
       "title": "Jets seven-round 2026 NFL Mock Draft: Gang Green goes hard on defense, adds QB late - New York Post",
@@ -110,8 +126,12 @@
       "link": "https://www.sfgate.com/warriors/article/warriors-insiders-moses-moody-injury-22094533.php"
     },
     {
-      "title": "Ty Simpson is \u2018the best quarterback\u2019 in 2026 NFL Draft: Dan Orlovsky - New York Post",
-      "link": "https://nypost.com/2026/03/24/sports/ty-simpson-is-the-best-qb-in-2026-nfl-draft-dan-orlovsky/"
+      "title": "Kristy Curry Named Head Coach of USF Women's Basketball - USF Athletics",
+      "link": "https://gousfbulls.com/news/2026/3/24/kristy-curry-named-head-coach-of-usf-womens-basketball.aspx"
+    },
+    {
+      "title": "Mohamed Salah to leave Liverpool this summer - NBC Sports",
+      "link": "https://www.nbcsports.com/soccer/news/mohamed-salah-to-leave-liverpool-this-summer"
     },
     {
       "title": "Joey Votto gifts custom clock to Reds, City of Cincinnati - FOX19 | Cincinnati",
@@ -126,16 +146,8 @@
       "link": "https://www.mmafighting.com/boxing/478461/muhammad-ali-american-boxing-revival-act-passes-with-majority-vote-in-house-of-representatives"
     },
     {
-      "title": "Chiefs add No. 1 receiver, Leo Chenal replacement in ESPN mock draft - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-draft/197357/chiefs-add-receiver-leo-chenal-replacement-espn-mock-draft"
-    },
-    {
       "title": "NFL advocates to fix a rule that hurt the Detroit Lions - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-news/160533/2026-nfl-rule-proposals-league-advocates-fix-detroit-lions-dk-metcalf"
-    },
-    {
-      "title": "Top Blackhawks prospect Anton Frondell makes debut at Islanders - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/48297593/top-blackhawks-prospect-anton-frondell-making-debut-islanders"
     },
     {
       "title": "Baseball ushers in high-tech replay review system for calling balls and strikes - NBC News",
@@ -150,24 +162,12 @@
       "link": "https://www.actionnetwork.com/ncaab/saint-josephs-hawks-vs-new-mexico-lobos-predictions-picks-odds-nit-quarterfinals-tuesday-march-24"
     },
     {
+      "title": "MLBits: Opening Night Goes Streaming, Konnor Griffin Waits, Kevin McGonigle Breaks Through, More - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/03/24/kevin-mcgonigle-tigers/"
+    },
+    {
       "title": "Buffalo Bills reveal renders of bison statues at Highmark Stadium\u2019s Family Circle - Buffalo Bills",
       "link": "https://www.buffalobills.com/news/buffalo-bills-reveal-renders-of-bison-statues-at-highmark-stadium-s-family-circle"
-    },
-    {
-      "title": "Frank Thomas sues White Sox, Nike and Fanatics over jersey sales - Chicago Sun-Times",
-      "link": "https://chicago.suntimes.com/white-sox/2026/03/24/frank-thomas-sues-white-sox-jerseys"
-    },
-    {
-      "title": "Kevin McGonigle Makes Tigers\u2019 Roster; Wenceel P\u00e9rez Optioned - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/03/tigers-top-prospect-kevin-mcgonigle-opening-day-roster-shortstop.html"
-    },
-    {
-      "title": "March Madness 2026: One reason to root for every team playing in the NCAA Tournament Sweet 16 - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/march-madness-2026-ncaa-tournament-sweet-16/"
-    },
-    {
-      "title": "Mikaela Shiffrin wins record 9th World Cup slalom of season, on verge of overall title - NBC Sports",
-      "link": "https://www.nbcsports.com/olympics/news/mikaela-shiffrin-world-cup-overall-alpine-skiing-2026"
     }
   ],
   "weather": {
