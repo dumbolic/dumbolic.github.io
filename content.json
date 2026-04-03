@@ -1,9 +1,9 @@
 {
-  "quote": "A needle is not sharp at both ends.  \u2013 Chinese Proverb",
-  "fact": "There are more than 10 million bricks in the Empire State Building.",
-  "crypto": "BTC: $66,976 | ETH: $2,062.49",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What\u2019s the longest word in the dictionary? Smiles. Because there\u2019s a mile between the two S\u2019s.",
+  "quote": "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. \u2013 Honore de Balzac",
+  "fact": "Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.\u00a0 The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.",
+  "crypto": "BTC: $66,682 | ETH: $2,049.4",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why did the house go to the doctor? It was having window panes.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "US Patent Office rejects Nintendo's 'summon subcharacter and let it fight' patent - gamesindustry.biz",
+      "link": "https://www.gamesindustry.biz/us-patent-office-rejects-nintendos-summon-subcharacter-and-let-it-fight-patent"
+    },
+    {
       "title": "Will your Samsung Galaxy device get stable One UI 8.5 update in April 2026 - Sammy Fans",
       "link": "https://www.sammyfans.com/2026/03/31/will-your-samsung-galaxy-device-get-stable-one-ui-8-5-update-in-april-2026/"
     },
     {
-      "title": "Pokemon Home 4.0.0 update released, support for Pokemon Legends: Z-A and Pokemon Champions added - patch notes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/pokemon-home-4-0-0-update-released-support-for-pokemon-legends-z-a-and-pokemon-champions-added-patch-notes/"
-    },
-    {
       "title": "Unlock rewards for starting GameChat\u2014only with Nintendo Switch Online - Nintendo",
       "link": "https://www.nintendo.com/us/whatsnew/unlock-rewards-for-starting-gamechat-only-with-nintendo-switch-online/"
+    },
+    {
+      "title": "Steam On Linux Use Skyrocketed In March - More Than Double The macOS Gaming Marketshare - Phoronix",
+      "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p"
     },
     {
       "title": "Google AI Pro now comes with 5 TB of storage, no price increase - 9to5Google",
@@ -34,6 +38,10 @@
     {
       "title": "Every Video Game Prank From April Fools' Day 2026 - Game Informer",
       "link": "https://gameinformer.com/2026/04/01/every-video-game-prank-from-april-fools-day-2026"
+    },
+    {
+      "title": "Xbox Game Pass Perks and free benefits for April 2026 - trueachievements.com",
+      "link": "https://www.trueachievements.com/news/xbox-game-pass-perks-and-free-benefits-april-2026"
     },
     {
       "title": "Nintendo Switch Gets Free Super Mario Galaxy Downloads Ahead Of Movie Release - GAMINGbible",
@@ -72,30 +80,46 @@
       "link": "https://www.gamespot.com/articles/fortnites-cultural-moment-is-starting-to-fade-expert-says/1100-6539164/"
     },
     {
-      "title": "Nintendo's 'Summon Character To Fight' Patent Rejected By US Patent Office - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/04/nintendos-summon-character-to-fight-patent-rejected-by-us-patent-office"
-    },
-    {
       "title": "YouTube's TV App Is Getting A New Feature That Has Been On Mobile For Years - bgr.com",
       "link": "https://www.bgr.com/2137910/how-use-youtube-tv-ask-button/"
     },
     {
-      "title": "Tim Cook explores rare iPod, iPhone prototypes in new interview [Video] - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/01/tim-cook-explores-rare-ipod-iphone-prototypes-in-new-interview-video/"
-    },
-    {
-      "title": "Vivo X300 Ultra at half price: Importing from China can be worth it - notebookcheck.net",
-      "link": "https://www.notebookcheck.net/Vivo-X300-Ultra-at-half-price-Importing-from-China-can-be-worth-it.1264325.0.html"
-    },
-    {
-      "title": "WWDC 2026 Guide: iOS 27, Siri 2.0, and 5 Big Announcements - Geeky Gadgets",
-      "link": "https://www.geeky-gadgets.com/wwdc-2026-guide/"
+      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/"
     }
   ],
   "sports_news": [
     {
-      "title": "NCAA passes 'blind-transfer' legislation for Division I - on3.com",
-      "link": "https://www.on3.com/news/ncaa-passes-blind-transfer-legislation-for-division-i/"
+      "title": "Kirk Cousins agrees to sign contract with Raiders, agent says - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48376719/kirk-cousins-agrees-sign-contract-raiders-agent-says"
+    },
+    {
+      "title": "World Cup tickets: $11,000 tickets put on sale for final - bbc.com",
+      "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo"
+    },
+    {
+      "title": "Niners LB Dre Greenlaw admits 'I just wasn't happy' during 2025 season with Broncos - NFL.com",
+      "link": "https://www.nfl.com/news/niners-lb-dre-greenlaw-admits-i-just-wasn-t-happy-during-2025-season-with-broncos"
+    },
+    {
+      "title": "Jaden Ivey\u2019s wife breaks silence after \u2018one lie\u2019 sparks drama during NBA star\u2019s sad spiral - New York Post",
+      "link": "https://nypost.com/2026/04/02/sports/jaden-iveys-wife-breaks-silence-after-one-lie-sparks-drama-during-nba-stars-sad-spiral/"
+    },
+    {
+      "title": "Fernando Mendoza on his Pro Day: I wanted to make sure my teammates could showcase themselves - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-on-his-pro-day-i-wanted-to-make-sure-my-teammates-could-showcase-themselves"
+    },
+    {
+      "title": "How Dan Hurley\u2019s mom is dealing with her viral NSFW moment: \u2018It brought the Jersey City out!\u2019 - NJ.com",
+      "link": "https://www.nj.com/sports/2026/04/how-dan-hurleys-mom-is-dealing-with-her-viral-nsfw-moment-it-brought-the-jersey-city-out.html"
+    },
+    {
+      "title": "2026 NFL Draft: Lance Zierlein releases new mock for NFL.com with major risers, a plummet, two big trades - On3",
+      "link": "https://www.on3.com/pro/news/2026-nfl-draft-lance-zierlein-releases-new-mock-for-nfl-com-with-major-risers-a-plummet-two-big-trades/"
+    },
+    {
+      "title": "Taking A Look At The Atlanta Falcons\u2019 Logo, Uniform History - SportsLogos.Net News",
+      "link": "https://news.sportslogos.net/2026/04/02/taking-a-look-at-the-atlanta-falcons-logo-uniform-history/football/"
     },
     {
       "title": "Alcantara Gives Chicago A Ride On The L Train - Razzball",
@@ -106,8 +130,16 @@
       "link": "https://247sports.com/college/north-carolina/article/unc-mens-basketball-coaching-search-280002079/"
     },
     {
+      "title": "Rapper J. Cole signs with Chinese league's Nanjing Monkey Kings - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48374160/rapper-j-cole-signs-chinese-league-nanjing-monkey-kings"
+    },
+    {
       "title": "National Duals Invitational Announces Additional Qualifiers - FloWrestling",
       "link": "https://www.flowrestling.org/articles/15743489-national-duals-invitational-announces-additional-qualifiers"
+    },
+    {
+      "title": "Kentucky Expected to Be Involved With San Francisco SF Tyrone Riley - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-expected-involved-san-francisco-tyrone-riley/"
     },
     {
       "title": "Instant observations: Paul George couldn't be stopped, scoring Sixers career-high in win over Wizards - PhillyVoice",
@@ -116,10 +148,6 @@
     {
       "title": "Brandon Clarke Arrested On Drug, Fleeing Charges - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2026/04/brandon-clarke-arrested-on-drug-fleeing-charges.html"
-    },
-    {
-      "title": "FIFA hikes World Cup prices, again. A finals ticket can now cost as much as $11,000 - NPR",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5770564/fifa-world-cup-ticket-prices"
     },
     {
       "title": "Red Sox\u2019 veteran leader: \u2018This was unacceptable\u2019 - MassLive",
@@ -140,34 +168,6 @@
     {
       "title": "Camera catches SF Giants star Matt Chapman cussing out teammate - SFGATE",
       "link": "https://www.sfgate.com/giants/article/camera-giants-chapman-teammate-22184431.php"
-    },
-    {
-      "title": "Projected Lineup: April 1 at Los Angeles - nhl.com",
-      "link": "https://www.nhl.com/blues/news/projected-lineup-april-1-at-los-angeles"
-    },
-    {
-      "title": "Tiger Woods turns down US Ryder Cup captaincy in 2027, PGA of America says - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cpqxe0qjzyno"
-    },
-    {
-      "title": "Bill Self returning to Kansas: Hall of Fame coach coming back for 24th season after mulling retirement - CBS Sports",
-      "link": "https://www.cbssports.com/college-basketball/news/bill-self-kansas-jayhawks-basketball-coach-returning/"
-    },
-    {
-      "title": "Portland Fire move up in WNBA Draft in deal with Chicago Sky - OregonLive.com",
-      "link": "https://www.oregonlive.com/portland-fire/2026/04/portland-fire-gain-wnba-draft-pick-in-deal-with-chicago-sky.html"
-    },
-    {
-      "title": "Siena hires Nevada Smith as men's basketball coach to replace Gerry McNamara - Times Union",
-      "link": "https://www.timesunion.com/sports/article/siena-basketball-coach-nevada-smith-marquette-22183512.php"
-    },
-    {
-      "title": "Spurs vs Warriors Prediction, Picks & Best Bets for Tonight\u2019s NBA Game - Covers.com",
-      "link": "https://www.covers.com/nba/spurs-vs-warriors-prediction-picks-best-bets-sgp-wednesday-4-1-2026"
-    },
-    {
-      "title": "After Bailey Shoemaker's viral slow-play moment at Augusta National Women's Am, context is important - Golf Channel",
-      "link": "https://www.golfchannel.com/augusta-national/news/after-bailey-shoemakers-viral-slow-play-moment-at-augusta-national-womens-am-context-is-important"
     }
   ],
   "weather": {
