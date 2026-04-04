@@ -1,9 +1,9 @@
 {
-  "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure. \u2013 Colin Powell",
-  "fact": "Mount Olympus Mons on Mars is three times the size of Mount Everest.",
-  "crypto": "BTC: $67,164 | ETH: $2,050.94",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+  "quote": "Life happens in the river, not the shore. \u2013 Maxime Lagace",
+  "fact": "Rape is reported every six minutes in the U.S.",
+  "crypto": "BTC: $67,310 | ETH: $2,054.27",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why didn\u2019t the orange win the race? It ran out of juice.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Revealed: Inside the incredible new Defiler kit - Warhammer Community",
+      "link": "https://www.warhammer-community.com/en-gb/articles/tgz401zu/revealed-inside-the-incredible-new-defiler-kit/"
+    },
+    {
+      "title": "Ratatan\u2019s Nintendo Switch version officially cancelled, dev explains why - Nintendo Everything",
+      "link": "https://nintendoeverything.com/ratatans-nintendo-switch-version-officially-cancelled-dev-explains-why/"
+    },
+    {
+      "title": "I Personally Guarantee You Won't Be Able To Keep A Straight Face While Looking At These 31 Pictures That Are Impossible Not To Laugh At - BuzzFeed",
+      "link": "https://www.buzzfeed.com/daves4/funny-picture-collection-april-3-2026"
+    },
+    {
+      "title": "The Bad Things About \u2018Crimson Desert\u2019 From Someone 200 Hours In - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/04/03/the-bad-things-about-crimson-desert-from-someone-200-hours-in/"
+    },
+    {
+      "title": "GameStop Thought Buying Games Online Was A \u2018Passing Phase,\u2019 Says Former Business Developer - Kotaku",
+      "link": "https://kotaku.com/gamestop-steam-impulse-gdc-larry-kuperman-digital-distribution-2000684593"
+    },
+    {
+      "title": "Review: Super Meat Boy 3D (Switch 2) - Not The Finest Cut, But Still Tasty - Nintendo Life",
+      "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/super-meat-boy-3d"
+    },
+    {
+      "title": "\u2018PlayStation 6 Is Not Many Years Away\u2019: Leaks Suggest Sony Is Working On Imminent Generational Transition With Handheld Support and \u2018PlayGo\u2019 Smart Delivery - Wccftech",
+      "link": "https://wccftech.com/playstation-6-is-not-many-years-away-leaks/"
+    },
+    {
       "title": "Illumination's Mario movies aren't just bad, they're antithetical to Nintendo - AV Club",
       "link": "https://www.avclub.com/nintendo-illumination-super-mario-galaxy-movie-games"
+    },
+    {
+      "title": "Take-Two Lays Off Head of AI and Shakes Up Department - Insider Gaming",
+      "link": "https://insider-gaming.com/take-two-head-of-ai-laid-off-shake-up/"
+    },
+    {
+      "title": "Target and Best Buy celebrate Mario's 40th anniversary with special products (UPDATE) - gonintendo.com",
+      "link": "https://gonintendo.com/contents/59580-target-celebrates-mario-s-40th-anniversary-with-a-100-collectible-gift-card-and"
+    },
+    {
+      "title": "I replaced 7 daily tasks with NotebookLM \u2014 how the mobile app actually saves me time - Tom's Guide",
+      "link": "https://www.tomsguide.com/ai/i-replaced-7-daily-tasks-with-notebooklm-how-the-mobile-app-actually-saves-me-time"
+    },
+    {
+      "title": "Tetris 99's New Crossover Event Celebrates Super Mario Galaxy, Unlock A Special Theme - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/tetris-99s-new-crossover-event-celebrates-super-mario-galaxy-unlock-a-special-theme"
+    },
+    {
+      "title": "Forget Face ID: Why Apple\u2019s Foldable is Bringing Back the Fingerprint Sensor - Geeky Gadgets",
+      "link": "https://www.geeky-gadgets.com/iphone-fold-hinge-durability/"
     },
     {
       "title": "Double Your Nintendo Switch 2's Battery Life With This $20 Amazon Find - bgr.com",
@@ -24,6 +72,10 @@
       "link": "https://www.businessinsider.com/artemis-astronauts-microsoft-outlook-accessing-email-nasa-mission-control-problem-2026-4"
     },
     {
+      "title": "Street Fighter 6's Next DLC Fighter Joins The Battle In \"Late Spring\" 2026 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/street-fighter-6s-next-dlc-fighter-joins-the-battle-in-late-spring-2026"
+    },
+    {
       "title": "If You Identify As A Silly Goose, You Are Going To Love These 26 Products - BuzzFeed",
       "link": "https://www.buzzfeed.com/marielguzman/silly-goose-products"
     },
@@ -32,142 +84,94 @@
       "link": "https://www.gamespot.com/articles/after-peaks-success-its-devs-face-burnout-and-big-decisions/1100-6539195/"
     },
     {
-      "title": "Ingrid teaser trailer released for Street Fighter 6 - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/apr/02/ingrid-teaser-street-fighter/"
-    },
-    {
       "title": "The Raspberry Pi 4 With 3 GB RAM Is No Joke - Hackaday",
       "link": "https://hackaday.com/2026/04/02/the-raspberry-pi-4-with-3-gb-ram-is-no-joke/"
     },
     {
       "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
       "link": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it"
-    },
-    {
-      "title": "Chrome for Android gets Material 3 Expressive Settings - 9to5google.com",
-      "link": "http://9to5google.com/2026/04/02/chrome-material-3-expressive-settings/"
-    },
-    {
-      "title": "Reddit is moving on from r/all - The Verge",
-      "link": "https://www.theverge.com/tech/906314/reddit-r-all-deprecating"
-    },
-    {
-      "title": "Nintendo's entire 2026 launch plans have leaked: Upcoming Switch 2 games, Direct details, 3D Mario, more - 9to5Toys",
-      "link": "http://9to5toys.com/2026/04/02/nintendo-2026-launch-plans-leaked/"
-    },
-    {
-      "title": "Slay The Spire 2 Dev Confirms New Character And Modes Are Coming - Kotaku",
-      "link": "https://kotaku.com/slay-the-spire-2-new-modes-characters-2000684316"
-    },
-    {
-      "title": "iOS 26.4 adds three new ways to customize your iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/02/ios-26-4-adds-three-new-ways-to-customize-your-iphone/"
-    },
-    {
-      "title": "GTA+ Members Can Claim a Free Bravado Buffalo STX Pursuit Law Enforcement Vehicle - Rockstar Games",
-      "link": "https://www.rockstargames.com/newswire/article/1784ak282972ka/gta-members-can-claim-a-free-bravado-buffalo-stx-pursuit-law-enforceme"
-    },
-    {
-      "title": "Singer Will.I.Am Wants To Fix Inner Cities With A Ridiculously Complex $30,000 Trike With Tron Lightcycle Wheels And An AI 'Brain' - The Autopian",
-      "link": "https://www.theautopian.com/singer-will-i-am-wants-to-fix-inner-cities-with-a-ridiculously-complex-30000-trike-with-tron-lightcycle-wheels-and-an-ai-brain/"
-    },
-    {
-      "title": "My New Favorite Way To Watch Classic Movies On VHS - kotaku.com",
-      "link": "https://kotaku.com/retro-rewind-how-to-install-custom-movies-mod-help-handbrake-download-vhs-2000684030"
-    },
-    {
-      "title": "iPhone 18\u2019s biggest design change will be new colors, says leaker - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/02/iphone-18s-biggest-design-change-will-be-new-colors-says-leaker/"
-    },
-    {
-      "title": "Google Meet now on Apple CarPlay, Android Auto coming \u2018soon\u2019 - 9to5Google",
-      "link": "http://9to5google.com/2026/04/02/google-meet-carplay/"
-    },
-    {
-      "title": "Former Nintendo Sales Lead Thinks Switch 2 Price Increase Is \"Inevitable\" - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/04/former-nintendo-sales-lead-thinks-switch-2-price-increase-is-inevitable"
     }
   ],
   "sports_news": [
     {
-      "title": "Penguins Grades: \u2018Outplayed and Outsmarted\u2019 Did Loss Rattle Pens? - Pittsburgh Hockey Now",
-      "link": "https://pittsburghhockeynow.com/pittsburgh-penguins-grades-tampa-bay-outplayed-loss-rattle-team/"
+      "title": "The Opener: Free Agent Power Rankings, Griffin, Fitzgerald - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/the-opener-free-agent-power-rankings-griffin-fitzgerald.html"
     },
     {
-      "title": "New York Mets vs. San Francisco Giants Results, Stats, and Recap - April 2, 2026 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20260402_NYM@SF/"
+      "title": "No excuse: Why Royals rookie catcher was late for work Thursday - Salina Post",
+      "link": "https://salinapost.com/posts/61341742-2414-4e78-a853-d4c10aa87af5"
     },
     {
-      "title": "Braves bats wallop Diamondbacks in 17-2 blowout victory - Battery Power",
-      "link": "https://www.batterypower.com/atlanta-braves-scores/128616/braves-bats-wallop-diamondbacks-in-17-2-blowout-victory"
+      "title": "Roman Tubner fired as Lady Vols basketball assistant coach - On3",
+      "link": "https://www.on3.com/teams/tennessee-volunteers/news/lady-vols-basketball-staff-roman-tubner-kim-caldwell-dismissed/"
     },
     {
-      "title": "Luka Don\u010di\u0107 exits Thunder game with hamstring strain, will undergo MRI on Friday - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/lakers-injury-report/112912/lakers-injury-report-luka-doncic-hamstring-thunder-update-status"
+      "title": "Kyle Dugger excited for chance with Bengals after \"rough two years\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-dugger-excited-for-chance-with-bengals-after-rough-two-years"
+    },
+    {
+      "title": "Italy and Gattuso 'mutually terminate' contract - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo"
+    },
+    {
+      "title": "Aaron Glenn: We\u2019re going to be a little bit of everything on defense - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-were-going-to-be-a-little-bit-of-everything-on-defense"
+    },
+    {
+      "title": "Can UConn pull off another Final Four sweep? What makes this one different - New York Post",
+      "link": "https://nypost.com/2026/04/03/sports/can-uconn-womens-and-mens-teams-pull-off-2026-final-four-sweep/"
+    },
+    {
+      "title": "Flick talks Raphinha, Lamine, De Jong, Lewandowski, Rashford ahead of Atletico Madrid vs Barcelona - Barca Universal",
+      "link": "https://barcauniversal.com/flick-talks-raphinha-lamine-de-jong-lewandowski-rashford-ahead-of-atletico-madrid-vs-barcelona/"
+    },
+    {
+      "title": "Lakers handed one of heaviest defeats by Thunder and hit by Doncic injury - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/4/3/lakers-handed-one-of-heaviest-defeats-by-thunder-and-hit-by-doncic-injury"
+    },
+    {
+      "title": "Blazers introduce Tom Dundon: New owner on NBA players, being liked, staying in Portland, making a big splash - OregonLive.com",
+      "link": "https://www.oregonlive.com/blazers/2026/04/blazers-introduce-tom-dundon-new-owner-on-nba-players-being-liked-staying-in-portland-making-a-big-splash.html"
+    },
+    {
+      "title": "UNC Basketball Search - Day 10 - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coaching-search-280139839/"
     },
     {
       "title": "Reds Notes: Lodolo, Outfield, Friedl - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/reds-notes-lodolo-outfield-friedl.html"
     },
     {
-      "title": "Timberwolves star Anthony Edwards now ineligible for NBA awards - nypost.com",
-      "link": "https://nypost.com/2026/04/02/sports/timberwolves-star-anthony-edwards-now-ineligible-for-nba-awards/"
+      "title": "KU Jayhawks\u2019 Flory Bidunga declares for NBA Draft and enters the transfer portal - Kansas City Star",
+      "link": "https://www.kansascity.com/sports/college/big-12/university-of-kansas/article315284490.html"
     },
     {
       "title": "Brutal beatdown by a team behind them in the standings: Devils beat Capitals 7-3 - RMNB",
       "link": "https://russianmachineneverbreaks.com/2026/04/02/brutal-beatdown-by-a-team-behind-them-in-the-standings-devils-beat-capitals-7-3/"
     },
     {
-      "title": "What Kim Caldwell said about Roman Tubner's firing from Lady Vols basketball staff - on3.com",
-      "link": "https://www.on3.com/teams/tennessee-volunteers/news/roman-tubner-fired-kim-caldwell-lady-vols-basketball/"
-    },
-    {
       "title": "Suns\u2019 defensive identity remains M.I.A. in loss to Hornets - Arizona Sports",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HRzUyVjEwTGtVc3o4VURLRGtGMWVkYXVUS3dBQzUyMVd1SGxnX25TZUtpTG1oRnhPbHRNd29oVC1wSHdYUGFrc05VZjRhYWJWYXRteHNUWmt0VXRwRExzSnl1TDFJNVBIdkZjZEl0YThhY1NzMXlZQkdR?oc=5"
+      "link": "https://arizonasports.com/nba/phoenix-suns/defensive-identity/3616619/"
     },
     {
-      "title": "League meetings offer insight into Jets\u2019 critical draft, offseason plans - New York Post",
-      "link": "https://nypost.com/2026/04/02/sports/league-meetings-offer-insight-in-to-jets-critical-draft-offseason-plans/"
+      "title": "South Carolina women's basketball: Friday's Final Four game against UConn isn't about revenge - On3",
+      "link": "https://www.on3.com/teams/south-carolina-gamecocks/news/south-carolina-womens-basketball-fridays-final-four-game-against-uconn-isnt-about-revenge/"
     },
     {
-      "title": "Royals Rookie Pulled From Lineup Last Minute After Oversleeping - Sports Illustrated",
-      "link": "https://www.si.com/mlb/royals/onsi/news/royals-rookie-pulled-from-lineup-last-minute-after-oversleeping-brian3"
+      "title": "Braves vs Diamondbacks Prediction, Time, Pick, Odds for Tonight\u2019s MLB Game - Action Network",
+      "link": "https://www.actionnetwork.com/mlb/atlanta-braves-vs-arizona-diamondbacks-prediction-pick-odds-mlb-thursday-april-2"
     },
     {
       "title": "Cam Schlittler\u2019s rapid rise embodies ride Yankees hope to be taking - New York Post",
       "link": "https://nypost.com/2026/04/02/sports/cam-schlittlers-rapid-rise-comes-with-unbridled-yankees-promise/"
     },
     {
+      "title": "Rich Gannon Doesn\u2019t Hold Back on Raiders Signing Kirk Cousins - heavy.com",
+      "link": "https://heavy.com/sports/nfl/las-vegas-raiders/rich-gannon-comments-signing-kirk-cousins/"
+    },
+    {
       "title": "Judge makes ruling in Chandler Morris eligibility lawsuit - On3",
       "link": "https://www.on3.com/news/chandler-morris-eligibility-lawsuit-judge-denies-virginia-qb-request-preliminary-injunction/"
-    },
-    {
-      "title": "4/2 Preview - Power-Play Progress, Laferriere's Role + Kuemper To Start, Kopitar Ceremony, Suite Night Tonight! - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2026/04/02/4-2-preview-power-play-progress-laferrieres-role-kuemper-to-start-kopitar-ceremony-suite-night-tonight/"
-    },
-    {
-      "title": "Lakers vs Thunder Prediction, Picks & Odds for Tonight\u2019s NBA Game - Covers.com",
-      "link": "https://www.covers.com/nba/lakers-vs-thunder-prediction-picks-best-bets-sgp-thursday-4-2-2026"
-    },
-    {
-      "title": "Phil Mickelson cites family health matter in pulling out of the Masters - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/phil-mickelson-cites-family-health-matter-in-pulling-out-of-the-masters"
-    },
-    {
-      "title": "Plante, Pohlkamp, Hughes named Hobey Baker finalists - NHL.com",
-      "link": "https://www.nhl.com/news/max-plante-eric-pohlkamp-tj-hughes-named-hobey-baker-finalists"
-    },
-    {
-      "title": "Spurs vs Clippers Predictions, Picks, Odds, Preview 4/2 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/san-antonio-spurs-vs-los-angeles-clippers-prediction-pick-odds-thursday-april-2"
-    },
-    {
-      "title": "Bears plan to make stadium decision by late spring or early summer - Chicago Bears Official Website",
-      "link": "https://www.chicagobears.com/news/bears-plan-to-make-stadium-decision-by-late-spring-or-early-summer"
-    },
-    {
-      "title": "Jalen Hurts trade destinations: 4 teams to watch amid Eagles drama - FanSided",
-      "link": "https://fansided.com/nfl/jalen-hurts-trade-destinations-4-teams-to-watch-amid-eagles-drama-01kn7b844tax"
     }
   ],
   "weather": {
