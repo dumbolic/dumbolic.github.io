@@ -1,9 +1,9 @@
 {
-  "quote": "Everything you've ever wanted is on the other side of fear. \u2013 Brian Tracy",
-  "fact": "There are about 450 types of cheese in the world. 240 come from France.",
-  "crypto": "BTC: $66,969 | ETH: $2,044.27",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
+  "quote": "Closing your eyes and listening to silence is self-care. \u2013 Maxime Lagace",
+  "fact": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the \"1\"encased in the \"shield\" and a spider hidden in the front upper right-hand corner.",
+  "crypto": "BTC: $66,994 | ETH: $2,042.07",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Crimson Desert on PS5 Pro: 30fps Quality Mode Gets A Big Image Quality Upgrade - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/news/2026/04/crimson-desert-on-ps5-pro-30fps-quality-mode-gets-a-big-image-quality-upgrade"
+    },
+    {
+      "title": "Bluetti\u2019s Sora 500 solar panel is incredibly powerful for its size - The Verge",
+      "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ"
+    },
+    {
+      "title": "Microsoft\u2019s Windows Upgrade Deadline\u2014Now Just 8 Weeks Away - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2026/04/04/microsofts-windows-upgrade-deadline-now-just-8-weeks-away/"
+    },
+    {
       "title": "Pokemon Champions Pokemon list, everyone that\u2019s confirmed - Nintendo Everything",
       "link": "https://nintendoeverything.com/pokemon-champions-pokemon-list/"
     },
     {
-      "title": "This RollerCoaster Tycoon 2 Rollercoaster Is So Unfathomably Long That It Looks Like a Motherboard - ign.com",
-      "link": "https://www.ign.com/articles/genius-rollercoaster-tycoon-2-player-makes-longest-rollercoaster-ever-built-manipulates-guests-into-staying-just-happy-enough-to-ride-it-for-1947-x-10-years"
-    },
-    {
-      "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
-      "link": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it"
-    },
-    {
-      "title": "5 3D Printer Accessories You Can 3D Print - SlashGear",
-      "link": "https://www.slashgear.com/2136425/3d-printer-accessories-to-print/"
+      "title": "Super Mario Run Celebrates The Super Mario Galaxy Movie With A New Event - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/super-mario-run-celebrates-the-super-mario-galaxy-movie-with-a-new-event"
     },
     {
       "title": "First Jam Kuradoberi match footage released for Guilty Gear Strive Version 2.00 - EventHubs",
       "link": "https://www.eventhubs.com/news/2026/apr/03/jam-footage-guilty-gear/"
     },
     {
-      "title": "New Apple TV Waiting for Siri: Here's What's Coming When It Launches - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/03/apple-tv-2026-rumors/"
+      "title": "Rising Oil Prices Are Bad News For Fans Who Still Need A Switch 2 - kotaku.com",
+      "link": "https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755"
     },
     {
       "title": "iFixit tears down the new AirPods Max 2, isn\u2019t surprised - 9to5Mac",
@@ -68,12 +72,12 @@
       "link": "https://www.purexbox.com/news/2026/04/xboxs-state-of-decay-3-finally-returns-signups-now-live-for-alpha-playtests"
     },
     {
-      "title": "\u2018I have two Microsoft Outlooks and neither one of those are working\u2019: Astronauts couldn\u2019t open emails - The Seattle Times",
-      "link": "https://www.seattletimes.com/business/boeing-aerospace/moon-bound-artemis-ii-astronauts-get-help-for-microsoft-outlook-glitch/"
+      "title": "Peak Devs Call Out Entitled Gamers Who Want Endless Free Updates - Kotaku",
+      "link": "https://kotaku.com/peakdevs-call-out-entitled-gamers-who-want-endless-free-updates-2000684678"
     },
     {
-      "title": "Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/03/apple-releases-new-ios-26-5-beta-1-build-for-iphone/"
+      "title": "\u2018I have two Microsoft Outlooks and neither one of those are working\u2019: Astronauts couldn\u2019t open emails - The Seattle Times",
+      "link": "https://www.seattletimes.com/business/boeing-aerospace/moon-bound-artemis-ii-astronauts-get-help-for-microsoft-outlook-glitch/"
     },
     {
       "title": "Pokopia takes Pok\u00e9mon's apocalyptic tendencies to their natural endpoint - AV Club",
@@ -84,42 +88,58 @@
       "link": "https://www.ign.com/articles/why-perfect-order-is-actually-the-best-pokemon-investment-in-years"
     },
     {
-      "title": "Goop Kitchen, Gwyneth Paltrow\u2019s Restaurant Concept, Is Coming to the Upper East Side - East Side Feed",
-      "link": "https://eastsidefeed.com/food-and-drink/goop-kitchen-gwyneth-paltrows-restaurant-concept-is-coming-to-the-upper-east-side/"
-    },
-    {
-      "title": "Ghost Of Yotei Devs Used Coins From The Game's Collector's Edition To Test Zeni Hajiki Multiplayer - Kotaku",
-      "link": "https://kotaku.com/ghost-of-yotei-devs-coins-collectors-edition-test-zeni-hajiki-multiplayer-2000684625"
+      "title": "Gemma 4 and what makes an open model succeed - Interconnects AI",
+      "link": "https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model"
     }
   ],
   "sports_news": [
     {
-      "title": "UConn coach Geno Auriemma has heated exchange with Dawn Staley before walking off court - CT Insider",
-      "link": "https://www.ctinsider.com/sports/uconn-womens-basketball/article/ncaa-semifinals-geno-auriemma-officials-final-four-22188348.php"
+      "title": "Trump signs executive order regulating college sports, transfer limits - On3",
+      "link": "https://www.on3.com/news/donald-trump-set-to-sign-executive-order-regulating-college-sports-transfer-limits/"
     },
     {
-      "title": "Undefeated UConn upset by South Carolina in women's Final Four - CBS News",
-      "link": "https://www.cbsnews.com/news/undefeated-uconn-upset-south-carolina-womens-final-four/"
+      "title": "Democrat Gov. Maura Healey, Boston Mayor Michelle Wu booed at Red Sox home opener - New York Post",
+      "link": "https://www.foxnews.com/sports/democrat-governor-mayor-booed-red-sox-home-opener"
+    },
+    {
+      "title": "Defending champion UConn falls to South Carolina in Final Four - CT Insider",
+      "link": "https://www.ctinsider.com/sports/uconn-womens-basketball/article/final-four-ncaa-march-madness-south-carolina-22186524.php"
+    },
+    {
+      "title": "Mavs rookie Cooper Flagg scores 51 points to become first teen to reach 50 in an NBA game - AP News",
+      "link": "https://apnews.com/article/mavericks-cooper-flagg-0c6888023bef5635e9a76047f7950240"
+    },
+    {
+      "title": "Mariners 3-1 Angels (Apr 3, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/mlb/recap?gameId\\\\u003d401814796"
+    },
+    {
+      "title": "College Basketball Picks Today: Greg Peterson Best Bets for Saturday, April 4 - VSiN",
+      "link": "http://vsin.com/college-basketball/college-basketball-picks-today-greg-peterson-best-bets-for-saturday-april-4/"
+    },
+    {
+      "title": "Instant observations: Sixers' stars and role players both step up in impressive win over Timberwolves - PhillyVoice",
+      "link": "https://www.phillyvoice.com/sixers-vs-timberwolves-wolves-box-score-highlights-joel-embiid-tyrese-maxey-vj-edgecombe-paul-george-nick-nurse/"
     },
     {
       "title": "Projected Lineup: April 3 at Anaheim - NHL.com",
       "link": "https://www.nhl.com/blues/news/projected-lineup-april-3-at-anaheim"
     },
     {
-      "title": "Trump signs order aimed at stabilizing college sports with threats to federal funding - pbs.org",
-      "link": "https://www.pbs.org/newshour/politics/trump-signs-order-aimed-at-stabilizing-college-sports-with-threats-to-federal-funding"
+      "title": "Diego Simeone reveals who he thinks Barcelona\u2019s most dangerous player is - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/barcelona-news/116792/diego-simeone-reveals-who-he-thinks-barcelona-most-dangerous-player-is"
     },
     {
       "title": "Yankees have struck gold out of nowhere with Ben Rice, Cam Schlittler - nypost.com",
       "link": "https://nypost.com/2026/04/03/sports/yankees-struck-gold-out-of-nowhere-with-ben-rice-cam-schlittler/"
     },
     {
-      "title": "Guardians fans, go ahead & sing ... \u2018Country roads, take me home!\u2019 \u2013 Terry Pluto - Cleveland.com",
-      "link": "https://www.cleveland.com/guardians/2026/04/guardians-fans-go-ahead-sing-country-roads-take-me-home-terry-pluto.html"
+      "title": "Konnor Griffin Delivers In MLB Debut After Signing Record-Breaking Contract With Pittsburgh Pirates - OutKick",
+      "link": "https://www.outkick.com/sports/konnor-griffin-mlb-debut-pittsburgh-pirates-record-contract-pnc-park-highlights"
     },
     {
-      "title": "Ronda Rousey says the UFC \u2018used to be anti-establishment, and now it\u2019s become the establishment\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/480279/ronda-rousey-says-the-ufc-used-to-be-anti-establishment-and-now-its-become-the-establishment"
+      "title": "Guardians fans, go ahead & sing ... \u2018Country roads, take me home!\u2019 \u2013 Terry Pluto - Cleveland.com",
+      "link": "https://www.cleveland.com/guardians/2026/04/guardians-fans-go-ahead-sing-country-roads-take-me-home-terry-pluto.html"
     },
     {
       "title": "The Exact Reason And Science Behind The Ice Delay At T-Mobile Arena During Golden Knights vs. Flames - SinBin.vegas",
@@ -138,10 +158,6 @@
       "link": "https://www.oregonlive.com/portland-fire/2026/04/better-than-anyone-expected-portland-fire-select-11-players-in-wnba-expansion-draft.html"
     },
     {
-      "title": "Final Four 2026: Why Tommy Lloyd spurned UNC's mega-offer to stay at Arizona: 'The roots are getting pretty deep' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mens-college-basketball/article/final-four-2026-why-tommy-lloyd-spurned-uncs-mega-offer-to-stay-at-arizona-the-roots-are-getting-pretty-deep-211612678.html"
-    },
-    {
       "title": "Maybe Miami Shouldn\u2019t Have Built a Stadium By the Airport - Miami New Times",
       "link": "http://www.miaminewtimes.com/news/maybe-miami-shouldnt-have-built-a-stadium-by-the-airport-40536507/"
     },
@@ -156,22 +172,6 @@
     {
       "title": "Travon Walker agrees to four-year extension with Jaguars - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travon-walker-agrees-to-four-year-extension-with-jaguars"
-    },
-    {
-      "title": "Dodgers 13, Nationals 6: New look leads to a new offense as Dodgers slug 5 homers in rout - Dodgers Digest",
-      "link": "https://dodgersdigest.com/2026/04/03/dodgers-13-nationals-6-new-look-leads-to-a-new-offense-as-dodgers-slug-5-homers-in-rout/"
-    },
-    {
-      "title": "NBA Picks, Predictions: Our 6 Bets for Bucks-Celtics, Mavericks-Magic, More for April 3 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-picks-predictions-our-6-bets-for-bucks-celtics-mavericks-magic-more-for-april-3"
-    },
-    {
-      "title": "How Illinois is staying focused in uncharted territory - The Champaign Room",
-      "link": "https://www.thechampaignroom.com/illinois-fighting-illini-basketball-news/53262/how-illinois-is-staying-focused-in-uncharted-territory"
-    },
-    {
-      "title": "Former Masters Champ Says Quiet Part Out Loud About Tiger Woods After DUI Arrest - Sports Illustrated",
-      "link": "https://www.si.com/golf/nick-faldo-master-comments-tiger-woods-dui-arrest"
     }
   ],
   "weather": {
