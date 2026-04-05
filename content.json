@@ -1,55 +1,43 @@
 {
-  "quote": "A Penny Saved is a Penny Earned \u2013 Benjamin Franklin",
-  "fact": "Dolphins can look in different directions with each eye. They can sleep with one eye open.",
-  "crypto": "BTC: $66,824 | ETH: $2,038.96",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.",
+  "quote": "When angry count to ten before you speak. If very angry, count to one hundred. \u2013 Thomas Jefferson",
+  "fact": "The ZIP in \u201cZIP code\u201d means Zoning Improvement Plan.",
+  "crypto": "BTC: $66,768 | ETH: $2,036.0",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the doctor say to the gingerbread man who broke his leg? Try icing it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
-    },
-    {
-      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI - VentureBeat",
-      "link": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an"
-    },
-    {
-      "title": "This RollerCoaster Tycoon 2 Rollercoaster Is So Unfathomably Long That It Looks Like a Motherboard - IGN",
-      "link": "https://www.ign.com/articles/genius-rollercoaster-tycoon-2-player-makes-longest-rollercoaster-ever-built-manipulates-guests-into-staying-just-happy-enough-to-ride-it-for-1947-x-10-years"
-    },
-    {
       "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
       "link": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it"
+    },
+    {
+      "title": "5 3D Printer Accessories You Can 3D Print - SlashGear",
+      "link": "https://www.slashgear.com/2136425/3d-printer-accessories-to-print/"
     },
     {
       "title": "First Jam Kuradoberi match footage released for Guilty Gear Strive Version 2.00 - EventHubs",
       "link": "https://www.eventhubs.com/news/2026/apr/03/jam-footage-guilty-gear/"
     },
     {
-      "title": "Rising Oil Prices Are Bad News For Fans Who Still Need A Switch 2 - Kotaku",
-      "link": "https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755"
-    },
-    {
       "title": "New Apple TV Waiting for Siri: Here's What's Coming When It Launches - MacRumors",
       "link": "https://www.macrumors.com/2026/04/03/apple-tv-2026-rumors/"
     },
     {
-      "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch - The Verge",
-      "link": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed"
+      "title": "iFixit tears down the new AirPods Max 2, isn\u2019t surprised - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/03/ifixit-tears-down-the-new-airpods-max-2-isnt-surprised/"
     },
     {
       "title": "Cyberpunk, League Of Legends Games Suggest TCGs Are Having A Moment - Kotaku",
       "link": "https://kotaku.com/cyberpunk-tcg-riftbound-magic-the-gathering-mtg-2000684732"
     },
     {
-      "title": "Legal docs reveal Miyamoto originally saw Donkey Kong as \"a human in a gorilla costume,\" disclose other names considered for the game/character - GoNintendo",
-      "link": "https://gonintendo.com/contents/59600-legal-docs-reveal-miyamoto-originally-saw-donkey-kong-as-a-human-in-a-gorilla"
+      "title": "Nintendo's entire 2026 launch plans have leaked: Upcoming Switch 2 games, Direct details, 3D Mario, more - 9to5Toys",
+      "link": "http://9to5toys.com/2026/04/03/nintendo-2026-launch-plans-leaked/"
     },
     {
       "title": "Miyamoto concedes that there\u2019s only so many people to reach through consoles - My Nintendo News",
@@ -68,12 +56,16 @@
       "link": "https://www.purexbox.com/news/2026/04/xboxs-state-of-decay-3-finally-returns-signups-now-live-for-alpha-playtests"
     },
     {
-      "title": "Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/03/apple-releases-new-ios-26-5-beta-1-build-for-iphone/"
+      "title": "Here's Why Starfield Will Be Best on PS5 When It Finally Releases Next Week - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/04/heres-why-starfield-will-be-best-on-ps5-when-it-finally-releases-next-week"
     },
     {
-      "title": "Pokopia takes Pok\u00e9mon's apocalyptic tendencies to their natural endpoint - AV Club",
-      "link": "https://www.avclub.com/pokemon-pokopia-apocalypse"
+      "title": "\u2018I have two Microsoft Outlooks and neither one of those are working\u2019: Astronauts couldn\u2019t open emails - The Seattle Times",
+      "link": "https://www.seattletimes.com/business/boeing-aerospace/moon-bound-artemis-ii-astronauts-get-help-for-microsoft-outlook-glitch/"
+    },
+    {
+      "title": "Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/03/apple-releases-new-ios-26-5-beta-1-build-for-iphone/"
     },
     {
       "title": "Pok\u00e9mon TCG: New Perfect Order Expansion Is an Excellent Investment for Collectors - Here's Why - IGN",
@@ -88,11 +80,23 @@
       "link": "https://kotaku.com/ghost-of-yotei-devs-coins-collectors-edition-test-zeni-hajiki-multiplayer-2000684625"
     },
     {
-      "title": "PlayStation To \"Enhance Gameplay Visuals\" With Buyout Ahead Of PS6 - GameSpot",
-      "link": "https://www.gamespot.com/articles/playstation-to-enhance-gameplay-visuals-with-buyout-ahead-of-ps6/1100-6539211/"
+      "title": "The Best Zelda-Like In Years Gets Close To Perfection - Kotaku",
+      "link": "https://kotaku.com/minishoot-adventures-review-switch-2-xbox-ps5-zelda-2000684608"
+    },
+    {
+      "title": "Marathon Will Put Jennifer English GOTY Effect To The Test - Kotaku",
+      "link": "https://kotaku.com/marathon-goty-jennifer-english-ben-starr-2000684618"
+    },
+    {
+      "title": "Google Issues Zero-Day Attack Alert For 3.5 Billion Chrome Users - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2026/04/03/google-issues-zero-day-attack-alert-for-35-billion-chrome-users/"
     }
   ],
   "sports_news": [
+    {
+      "title": "South Carolina smothers UConn 62-48 to advance to NCAA title game, snaps Huskies\u2019 54-game win streak - AP News",
+      "link": "https://apnews.com/article/march-madness-uconn-south-carolina-score-dde3360dc7558a9d98b573a3d07fe500"
+    },
     {
       "title": "Cooper Flagg Makes NBA History with 1st 50-Point Game for Mavs, Hyped By Fans After Career Night - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25414529-cooper-flagg-makes-nba-history-1st-50-point-game-mavs-hyped-fans-after-career-night"
@@ -102,56 +106,52 @@
       "link": "https://www.nbcnews.com/sports/college-basketball/geno-auriemma-dawn-staley-heated-exchange-gamecocks-upset-huskies-rcna266671"
     },
     {
-      "title": "South Carolina smothers UConn 62-48 to advance to NCAA title game, snaps Huskies\u2019 54-game win streak - NBC Sports",
-      "link": "https://www.nbcsports.com/womens-college-basketball/news/south-carolina-smothers-uconn-62-48-to-advance-to-ncaa-title-game-snaps-huskies-54-game-win-streak"
-    },
-    {
       "title": "Projected Lineup: April 3 at Anaheim - NHL.com",
       "link": "https://www.nhl.com/blues/news/projected-lineup-april-3-at-anaheim"
     },
     {
-      "title": "How Jake Davis rose from mid-major prospect to Final Four starter with Illini: 'He's mastered his job' - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/jake-davis-illinois-fighting-illini-basketball-starter-final-four-indianapolis-cathedral-280193428/"
-    },
-    {
-      "title": "Cubs To Place Cade Horton On Injured List With Forearm Discomfort - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/cubs-cade-horton-injury-exits-start.html"
+      "title": "Trump signs order aimed at stabilizing college sports with threats to federal funding - pbs.org",
+      "link": "https://www.pbs.org/newshour/politics/trump-signs-order-aimed-at-stabilizing-college-sports-with-threats-to-federal-funding"
     },
     {
       "title": "Yankees have struck gold out of nowhere with Ben Rice, Cam Schlittler - nypost.com",
       "link": "https://nypost.com/2026/04/03/sports/yankees-struck-gold-out-of-nowhere-with-ben-rice-cam-schlittler/"
     },
     {
-      "title": "ESPN Personality Calls LeBron A 'Gentrifier' For Disliking Memphis - OutKick",
-      "link": "https://www.outkick.com/sports/espn-personality-calls-out-gentrifier-lebron-james-trashing-memphis"
-    },
-    {
-      "title": "President Trump signs order intended to stabilize college sports, threatens lost federal funding - AP News",
-      "link": "https://apnews.com/article/trump-executive-order-college-sports-561ca318fb9f2e5f147083c736dab308"
-    },
-    {
-      "title": "Super Lib Politicians Get Booed Out Of The Building At Red Sox Home Opener - OutKick",
-      "link": "https://www.outkick.com/sports/super-lib-politicians-get-booed-back-time-red-sox-home-opener"
+      "title": "Guardians fans, go ahead & sing ... \u2018Country roads, take me home!\u2019 \u2013 Terry Pluto - Cleveland.com",
+      "link": "https://www.cleveland.com/guardians/2026/04/guardians-fans-go-ahead-sing-country-roads-take-me-home-terry-pluto.html"
     },
     {
       "title": "Ronda Rousey says the UFC \u2018used to be anti-establishment, and now it\u2019s become the establishment\u2019 - MMA Fighting",
       "link": "https://www.mmafighting.com/latest-news/480279/ronda-rousey-says-the-ufc-used-to-be-anti-establishment-and-now-its-become-the-establishment"
     },
     {
-      "title": "Chiefs WR Rashee Rice will not face NFL discipline after league investigation - NFL.com",
-      "link": "https://www.nfl.com/news/chiefs-wr-rashee-rice-will-not-face-nfl-discipline-after-league-investigation"
+      "title": "The Exact Reason And Science Behind The Ice Delay At T-Mobile Arena During Golden Knights vs. Flames - SinBin.vegas",
+      "link": "https://sinbin.vegas/the-exact-reason-and-science-behind-the-ice-delay-at-t-mobile-arena-during-knights-vs-flames/"
     },
     {
       "title": "Luka Don\u010di\u0107 out for remainder of regular season with left hamstring strain - NBA",
       "link": "https://www.nba.com/news/luka-doncic-out-for-remainder-of-regular-season-with-left-hamstring-strain"
     },
     {
+      "title": "Chiefs WR Rashee Rice faces no NFL discipline over abuse allegations - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations"
+    },
+    {
       "title": "\u2018Better than anyone expected\u2019: Portland Fire select 11 players in WNBA expansion draft - OregonLive.com",
       "link": "https://www.oregonlive.com/portland-fire/2026/04/better-than-anyone-expected-portland-fire-select-11-players-in-wnba-expansion-draft.html"
     },
     {
+      "title": "Final Four 2026: Why Tommy Lloyd spurned UNC's mega-offer to stay at Arizona: 'The roots are getting pretty deep' - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mens-college-basketball/article/final-four-2026-why-tommy-lloyd-spurned-uncs-mega-offer-to-stay-at-arizona-the-roots-are-getting-pretty-deep-211612678.html"
+    },
+    {
       "title": "Maybe Miami Shouldn\u2019t Have Built a Stadium By the Airport - Miami New Times",
       "link": "http://www.miaminewtimes.com/news/maybe-miami-shouldnt-have-built-a-stadium-by-the-airport-40536507/"
+    },
+    {
+      "title": "Final Four notebook: Packed open practice 'why you come to a program like this'; Mirkovic March rolls to April - 247Sports",
+      "link": "https://247sports.com/college/illinois/article/fighting-illini-basketball-final-four-open-practice-illinois-head-coach-brad-underwood-david-mirkovic-tomislav-ivisic-280202897/"
     },
     {
       "title": "Wisconsin volleyball cancels spring match at Sonnentag - WEAU",
@@ -162,16 +162,16 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travon-walker-agrees-to-four-year-extension-with-jaguars"
     },
     {
-      "title": "NBA Picks, Predictions: Our 6 Bets for Bucks-Celtics, Mavericks-Magic, More for April 3 - actionnetwork.com",
-      "link": "https://www.actionnetwork.com/nba/nba-picks-predictions-our-6-bets-for-bucks-celtics-mavericks-magic-more-for-april-3"
-    },
-    {
-      "title": "The noise inside the Eagles\u2019 headquarters needs to stop - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/173165/the-noise-inside-the-eagles-headquarters-needs-to-stop"
-    },
-    {
       "title": "How Illinois is staying focused in uncharted territory - The Champaign Room",
       "link": "https://www.thechampaignroom.com/illinois-fighting-illini-basketball-news/53262/how-illinois-is-staying-focused-in-uncharted-territory"
+    },
+    {
+      "title": "Former Masters Champ Says Quiet Part Out Loud About Tiger Woods After DUI Arrest - Sports Illustrated",
+      "link": "https://www.si.com/golf/nick-faldo-master-comments-tiger-woods-dui-arrest"
+    },
+    {
+      "title": "Illini entirely different ahead of second UConn meeting in Final Four: 'I wouldn't even call it a rematch' - 247Sports",
+      "link": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-uconn-ncaa-tournament-final-four-280193490/"
     }
   ],
   "weather": {
