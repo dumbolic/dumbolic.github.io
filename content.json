@@ -1,9 +1,9 @@
 {
-  "quote": "You can do nothing to change the past, and the future will never come exactly as you plan or hope for. \u2013 Dan Millman",
-  "fact": "Prince Charles and Prince William never travel on the same airplane in case there is a crash.",
-  "crypto": "BTC: $68,981 | ETH: $2,116.79",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "You know that cemetery up the road? People are dying to get in there.",
+  "quote": "The only place success comes before work is in the dictionary. \u2013 Vince Lombardi",
+  "fact": "Your heart beats over 100,000 times a day!",
+  "crypto": "BTC: $69,351 | ETH: $2,138.71",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I was in an 80's band called the prevention. We were better than the cure.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "China's Hypersonic Wind Tunnel Leaves America In The Dust - bgr.com",
+      "link": "https://www.bgr.com/2135521/china-hypersonic-wind-tunnel-jf-22-left-america-dust/"
+    },
+    {
+      "title": "Sony Delists 100s More Crappy PS5, PS4 Games, Including Jesus Simulator - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/04/sony-delists-100s-more-crappy-ps5-ps4-games-including-jesus-simulator"
+    },
+    {
+      "title": "Next Level Games wanted Link in Mario Strikers Charged - Nintendo Everything",
+      "link": "https://nintendoeverything.com/next-level-games-wanted-link-in-mario-strikers-charged/"
+    },
+    {
+      "title": "5 Gadgets You Can Plug Into Your TV's HDMI 2.0 Port - SlashGear",
+      "link": "https://www.slashgear.com/2135865/gadgets-to-plug-into-hdmi-2-0-port/"
+    },
+    {
+      "title": "A folk musician became a target for AI fakes and a copyright troll - The Verge",
+      "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
+    },
+    {
+      "title": "Astonishing never-before-seen Elden Ring deleted cutscene discovered - Eurogamer",
+      "link": "https://www.eurogamer.net/astonishing-never-before-seen-elden-ring-deleted-cutscene-discovered"
+    },
+    {
       "title": "NVIDIA's Neural Texture Compression Cuts VRAM Use From 6.5 GB to 970 MB - TechPowerUp",
       "link": "https://www.techpowerup.com/348003/nvidias-neural-texture-compression-cuts-vram-use-from-6-5-gb-to-970-mb"
     },
     {
-      "title": "Veteran Halo Developer Accuses Studio of \u2018Numerous Unethical and Unlawful Acts\u2019 - Insider Gaming",
-      "link": "https://insider-gaming.com/veteran-halo-developer-accuses-studio-of-numerous-unethical-and-unlawful-acts/"
+      "title": "Open Graphics Card Powers Cyberpunk \u201cLaptop\u201d - Hackaday",
+      "link": "https://hackaday.com/2026/04/04/open-graphics-card-powers-cyberpunk-laptop/"
+    },
+    {
+      "title": "Apple\u2019s latest acquisition is telling sign of where the company is headed - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/04/new-apple-acquisition-telling-sign-of-company-software-direction-spending/"
+    },
+    {
+      "title": "The 10 Best Bluetooth Speakers For Outdoor Use - bgr.com",
+      "link": "https://www.bgr.com/2137539/best-bluetooth-speakers-outdoor-use/"
     },
     {
       "title": "Reducing friction in ARC Raiders - ARC Raiders",
@@ -28,102 +60,82 @@
       "link": "https://kotaku.com/youtube-gaming-historian-steps-back-after-15-years-donkey-kong-2000684905"
     },
     {
+      "title": "Fortnite\u2019s AI-Inspired Ballerina Cappuccina Immediately Becomes Worst-Ranked Skin - Kotaku",
+      "link": "https://kotaku.com/fortnites-ai-inspired-ballerina-cappuccina-immediately-becomes-worst-ranked-skin-brainrot-2000684909"
+    },
+    {
       "title": "With 2025's GOTY Now In The Library, Xbox Game Pass Premium Is Becoming Too Good To Ignore - Pure Xbox",
       "link": "https://www.purexbox.com/features/with-2025s-goty-now-in-the-library-xbox-game-pass-premium-is-becoming-too-good-to-ignore"
     },
     {
-      "title": "8 new Windows 11 features arriving in April that make everyday use a little easier - windowscentral.com",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/8-features-coming-with-the-april-2026-security-update-for-windows-11"
+      "title": "Buy two Nintendo Switch games, get $30 off at Target - The Verge",
+      "link": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal"
+    },
+    {
+      "title": "Zelda: Ocarina Of Time Remake Comparison Footage Has Gamers Stunned - screenrant.com",
+      "link": "https://screenrant.com/zelda-ocarina-of-time-unofficial-remake-comparison/"
+    },
+    {
+      "title": "New WhatsApp Attacks\u2014Microsoft Shares Critical Warning For Users - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2026/04/04/whatsapp-attacks-microsoft-shares-warning-3-billion-users-must-heed/"
+    },
+    {
+      "title": "8 Of The Best Smart Home Gadgets For Minimalists - bgr.com",
+      "link": "https://www.bgr.com/2137317/best-smart-home-gadgets-minimalists/"
+    },
+    {
+      "title": "The more I investigate these Halo Studio allegations, the more I realize something bigger may be hiding behind them - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/halo/threatened-retaliation-on-first-contact-as-i-dig-into-a-former-halo-art-directors-claims-im-left-questioning-what-else-microsoft-didnt-want-anyone-to-see"
     },
     {
       "title": "Here\u2019s how NASA cleared the iPhone 17 Pro Max for astronauts on Artemis II - 9to5Mac",
       "link": "https://9to5mac.com/2026/04/04/heres-how-nasa-cleared-the-iphone-17-pro-max-for-astronauts-on-artemis-ii/"
-    },
-    {
-      "title": "Google Just Released Gemma 4: Why This Open-Source AI is a Game Changer - Geeky Gadgets",
-      "link": "https://www.geeky-gadgets.com/gemma-4-function-calling/"
-    },
-    {
-      "title": "Super Meat Boy 3D makes suffering fun - theverge.com",
-      "link": "https://www.theverge.com/games/904202/super-meat-boy-3d-review"
-    },
-    {
-      "title": "Crimson Desert on PS5 Pro: 30fps Quality Mode Gets A Big Image Quality Upgrade - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/04/crimson-desert-on-ps5-pro-30fps-quality-mode-gets-a-big-image-quality-upgrade"
-    },
-    {
-      "title": "I started using Obsidian as a complete beginner and now I understand why people switch and never go back - MakeUseOf",
-      "link": "https://www.makeuseof.com/using-obsidian-as-beginner-now-understand-why-people-switch/"
-    },
-    {
-      "title": "I compared the Galaxy S26 Ultra to a 13-year-old phone, and I wasn't expecting this - Android Police",
-      "link": "https://www.androidpolice.com/i-compared-the-galaxy-s26-ultra-to-a-13-year-old-phone-and-i-wasnt-expecting-this/"
-    },
-    {
-      "title": "Starfield PS5 Pro Specs Revealed: PSSR Supported, DualSense\u2019s Adaptive Triggers Available - Wccftech",
-      "link": "https://wccftech.com/starfield-ps5pro-specs-pssr-adaptive-triggers/"
-    },
-    {
-      "title": "Pokemon Champions Pokemon list, everyone that\u2019s confirmed - Nintendo Everything",
-      "link": "https://nintendoeverything.com/pokemon-champions-pokemon-list/"
-    },
-    {
-      "title": "\"The Last of Us\" Multiplayer Was 80% Done - darkhorizons.com",
-      "link": "https://www.darkhorizons.com/the-last-of-us-multiplayer-was-80-done/"
-    },
-    {
-      "title": "Super Mario Run Celebrates The Super Mario Galaxy Movie With A New Event - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/04/super-mario-run-celebrates-the-super-mario-galaxy-movie-with-a-new-event"
-    },
-    {
-      "title": "First Jam Kuradoberi match footage released for Guilty Gear Strive Version 2.00 - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/apr/03/jam-footage-guilty-gear/"
-    },
-    {
-      "title": "Is GTA 6's Long Development The Result Of A Complete Engine Rebuild? It's Probably More Complicated Than That - kotaku.com",
-      "link": "https://kotaku.com/is-gta-6s-long-development-the-result-of-a-complete-engine-rebuild-its-probably-more-complicated-than-that-2000684709"
-    },
-    {
-      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/"
-    },
-    {
-      "title": "iFixit tears down the new AirPods Max 2, isn\u2019t surprised - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/03/ifixit-tears-down-the-new-airpods-max-2-isnt-surprised/"
     }
   ],
   "sports_news": [
     {
-      "title": "NASCAR at Rockingham: Key information, links, results throughout race weekend - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/04/04/nascar-at-rockingham-key-information-links-results-throughout-race-weekend-2/"
+      "title": "Illinois vs UConn, title\u2011game pressure. See photos - USA Today",
+      "link": "https://www.usatoday.com/picture-gallery/sports/ncaab/2026/04/04/illinois-uconn-final-four-semifinal/89469891007/"
     },
     {
-      "title": "Derek Chisora vs. Deontay Wilder live updates: Close main event through six rounds - DAZN",
-      "link": "https://www.dazn.com/en-US/news/boxing/derek-chisora-vs-deontay-wilder-live-updates-results-highlights/120pjflpf6nzs1jxptcxelmds7"
+      "title": "Deontay Wilder beats Derek Chisora with entertaining split decision - espn.com",
+      "link": "https://www.espn.com/boxing/story/_/id/48396325/deontay-wilder-beats-derek-chisora-boxing-entertaining-split-decision"
+    },
+    {
+      "title": "Joshua Van out of UFC 327 title fight with Tatsuro Taira - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/480397/joshua-van-out-of-ufc-327-title-fight-with-tatsuro-taira"
+    },
+    {
+      "title": "NASCAR at Rockingham: Key information, links, results throughout race weekend - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/04/04/nascar-at-rockingham-key-information-links-results-throughout-race-weekend-2/"
     },
     {
       "title": "Mikel Arteta reaction \u2014 Arsenal boss on FA Cup shock at Southampton, Gabriel injury, squandered chances - NBC Sports",
       "link": "https://www.nbcsports.com/soccer/news/mikel-arteta-reaction-how-did-arsenal-boss-respond-to-shocking-fa-cup-exit-at-southampton"
     },
     {
-      "title": "Warriors' Curry details his 'new normal' after 'unpredictable' knee rehab - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48397821/warriors-curry-details-new-normal-unpredictable-knee-rehab"
+      "title": "Sabres clinch Stanley Cup Playoff berth for 1st time since 2011 - NHL.com",
+      "link": "https://www.nhl.com/news/buffalo-sabres-clinch-2025-2026-nhl-stanley-cup-playoffs-berth"
     },
     {
-      "title": "'This is the place' | Dahlin, Thompson reflect on journey to playoffs - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-tage-thompson-rasmus-dahlin-playoffs"
+      "title": "Warriors' Curry details his 'new normal' after 'unpredictable' knee rehab - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48397821/warriors-curry-details-new-normal-unpredictable-knee-rehab"
     },
     {
       "title": "Dodgers' Mookie Betts exits in 1st inning with back pain - ESPN",
       "link": "https://www.espn.com/mlb/story/_/id/48397542/dodgers-mookie-betts-exits-1st-inning-back-pain"
     },
     {
-      "title": "Pete Thamel drops bombshell name into UNC coaching search - On3",
-      "link": "https://www.on3.com/news/unc-coaching-search-pete-thamel-adds-uconn-dan-hurley-to-mix-identifies-realistic-list-of-candidates/"
+      "title": "Travon Walker: It\u2019s time to take things to the next level - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travon-walker-its-time-to-take-things-to-the-next-level"
     },
     {
-      "title": "Harry Kane left speechless following Bayern\u2019s stunning 3-2 comeback against SC Freiburg - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-injuries/185026/harry-kane-left-speechless-following-bayerns-stunning-3-2-comeback-against-sc-freiburg"
+      "title": "Michigan vs Arizona Prediction, Odds, Start Time, Pick for 2026 Final Four - Action Network",
+      "link": "https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-arizona-wildcats-predictions-picks-odds-final-four-saturday-april-4"
+    },
+    {
+      "title": "Cubs To Promote Riley Martin - mlbtraderumors.com",
+      "link": "https://www.mlbtraderumors.com/2026/04/cubs-to-promote-riley-martin.html"
     },
     {
       "title": "Ohio State Forward Colin White to Enter Transfer Portal - Eleven Warriors",
@@ -134,12 +146,16 @@
       "link": "https://www.detroitnews.com/story/sports/nhl/2026/04/04/detroit-red-wings-vs-new-york-rangers/89456322007/"
     },
     {
-      "title": "Jos\u00e9 Butt\u00f3 Undergoes Procedure For Blood Clot - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/jose-butto-to-undergo-procedure-for-blood-clot.html"
+      "title": "UNC coaching search: Florida coach Todd Golden pressed on if he was offered Tar Heels job - on3.com",
+      "link": "https://www.on3.com/news/unc-coaching-search-florida-coach-todd-golden-pressed-on-if-he-was-offered-tar-heels-job/"
     },
     {
       "title": "After Fernando Mendoza, 2026 NFL Draft quarterbacks defined by uncertainty - New York Post",
       "link": "https://nypost.com/2026/04/04/sports/after-fernando-mendoza-2026-nfl-draft-qbs-defined-by-uncertainty/"
+    },
+    {
+      "title": "Geno Auriemma apologizes after tense endgame exchange with Dawn Staley in UConn loss - AP News",
+      "link": "https://apnews.com/article/geno-auriemma-dawn-staley-apology-7d0fee601267a9ccfc82cc630b859561"
     },
     {
       "title": "Notebook: Bielema taking in hoops run to Final Four; an effort to reduce 'ghost transfers' - 247Sports",
@@ -150,28 +166,12 @@
       "link": "https://www.mlbtraderumors.com/2026/04/blue-jays-recall-brandon-valenzuela.html"
     },
     {
-      "title": "Geno Auriemma apologizes for behavior after heated exchange with Dawn Staley - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/geno-auriemma-apologizes-behavior-heated-181604211.html"
-    },
-    {
       "title": "Hughes 'super happy' to see Caufield on cusp of 50th goal - NHL.com",
       "link": "https://www.nhl.com/news/jack-hughes-super-happy-to-see-cole-caufield-nearing-50-goals"
     },
     {
       "title": "Juan Soto To Undergo MRI For Possible Calf Injury - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/juan-soto-to-undergo-mri-for-possible-calf-injury.html"
-    },
-    {
-      "title": "Scrimmage 2 Intel: Splash plays and sloppy play - 247Sports",
-      "link": "https://247sports.com/college/florida-state/longformarticle/fsu-football-scrimmage-intel-kevin-sperry-ashton-daniels-280292485/"
-    },
-    {
-      "title": "Spurs vs. Nuggets: Prediction, How to Watch for Free (4/4/26) - Globely News",
-      "link": "https://globelynews.com/sports/spurs-vs-nuggets-prediction-how-to-watch-for-free-4-4-26/"
-    },
-    {
-      "title": "Giannis Antetokounmpo says he is healthy enough to play, rips Bucks as league starts investigation - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/giannis-antetokounmpo-says-he-is-healthy-enough-to-play-rips-bucks-as-league-starts-investigation"
     }
   ],
   "weather": {
