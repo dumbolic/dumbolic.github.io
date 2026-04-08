@@ -1,9 +1,9 @@
 {
-  "quote": "Imagination is more important than knowledge. \u2013 Albert Einstein",
-  "fact": "The average child recognizes over 200 company logos by the time he enters first grade.",
-  "crypto": "BTC: $71,316 | ETH: $2,199.98",
+  "quote": "I was angered, for I had no shoes. Then I met a man who had no feet.  \u2013 Chinese Proverb",
+  "fact": "$283,200 is the absolute highest amount of money you can win on Jeopardy.",
+  "crypto": "BTC: $71,091 | ETH: $2,188.55",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
+  "joke": "What's black and white and read all over? The newspaper.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Valve brings native Steam Link app to Apple's Vision Pro - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/"
+    },
+    {
+      "title": "Nothing\u2019s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today - The Verge",
+      "link": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale"
+    },
+    {
+      "title": "Gemini overlay and Gemini Live start rolling out big Android redesign [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/04/07/gemini-live-redesign-android/"
+    },
+    {
+      "title": "Google Brings Vertical Tabs and Improved Reading Mode to Chrome - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/07/chrome-vertical-tabs/"
+    },
+    {
       "title": "Chris Pratt Gets Roasted For Fumbling Basic Mario Lore - Kotaku",
       "link": "https://kotaku.com/chris-pratt-mario-galaxy-movie-mushroom-planet-kingdom-2000685457"
     },
     {
+      "title": "Review: Cyberpunk 2077's PS5 Pro Patch Goes Heavy On RT And Performance Upgrades - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/reviews/cyberpunk-2077s-ps5-pro-patch-goes-heavy-on-rt-and-performance-upgrades"
+    },
+    {
+      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\" - Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/"
+    },
+    {
       "title": "Play! Pok\u00e9mon Rules and Resources Updated for Q1 2026 - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/play-pokemon-rules-and-resources-updated-for-q1-2026"
+    },
+    {
+      "title": "This clever Shortcut lets you download latest Artemis II images directly from NASA [U: updated shortcut] - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/07/this-clever-shortcut-lets-you-download-hi-res-artemis-ii-images-directly-from-nasa/"
+    },
+    {
+      "title": "Review: Aircalin Business Class Airbus A330neo (CDG-BKK) - One Mile at a Time",
+      "link": "https://onemileatatime.com/reviews/aircalin-business-class-a330neo/"
     },
     {
       "title": "Android 16 April update rolling out: Pixel UI, app crash fixes - 9to5Google",
@@ -32,18 +64,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-04-07/apple-s-foldable-iphone-remains-on-track-for-september-debut"
     },
     {
-      "title": "Chrome is finally getting vertical tabs - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/"
-    },
-    {
-      "title": "Marathon, One Month Later: Everything That Has Happened - Kotaku",
-      "link": "https://kotaku.com/marathon-one-month-later-2000685282"
-    },
-    {
-      "title": "'The Result Is Incredible': Cyberpunk 2077's Big PS5 Pro Update Arrives Tomorrow - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/04/the-result-is-incredible-cyberpunk-2077s-big-ps5-pro-update-arrives-tomorrow"
-    },
-    {
       "title": "Linux kernel maintainers are following through on removing Intel 486 support - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/"
     },
@@ -52,74 +72,78 @@
       "link": "https://nintendoeverything.com/nickelodeon-extreme-tennis-next-announced-for-nintendo-switch/"
     },
     {
+      "title": "Introducing the Star Path Vault - Disney Dreamlight Valley",
+      "link": "https://disneydreamlightvalley.com/en/news/StarPathVault2026"
+    },
+    {
       "title": "The Software Engineers Are Freaking Out - The Free Press",
       "link": "https://www.thefp.com/p/the-software-engineers-are-freaking"
-    },
-    {
-      "title": "Satechi\u2019s 3-in-1 travel stand now wirelessly charges your phone at 25W - The Verge",
-      "link": "https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability"
-    },
-    {
-      "title": "The Moto Pad is Motorola\u2019s first US-bound tablet in over a decade - The Verge",
-      "link": "https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability"
     },
     {
       "title": "Revenge exploit: \u201cstabbed in the back\u201d leaker drops Windows security bomb on GitHub - Cybernews",
       "link": "https://cybernews.com/security/windows-zero-day-exploit-dropped-by-rogue-researcher/"
     },
     {
+      "title": "Google Maps can now write captions for your photos using AI - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
+    },
+    {
       "title": "A Native PC Port Of The Legend of Zelda: Twilight Princess Running At 60FPS Looks Glorious - Kotaku",
       "link": "https://kotaku.com/zelda-twilight-princess-pc-60fps-mod-port-2000685391"
-    },
-    {
-      "title": "Incredible MacBook Neo demand may finish off Apple's A18 Pro stock - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnpxNTBoOWhIV2hRQXVxTnlfQ0RXU2ZwclB1c0lsSDRFTDREaXFyWkwzd3dKeDBRc2k5THRCTzNGOXRQWWdTQVFpNmNrVjRYT1p4NzEyRUlxbDVPbFpTZVJiblJBNUJlbEJfeEZmR0lhUmRpdXdGaU5lWDhTWnVhTDVuY1Z2Y1F3SjBpN1FZSGdkYlJfekYwSDU5T21jT0RDTTdJQ3M1dWVkaW1C?oc=5"
-    },
-    {
-      "title": "Gothic Remake digital pre-orders now available, include Gothic Classic as free bonus on consoles - Gematsu",
-      "link": "https://www.gematsu.com/2026/04/gothic-remake-digital-pre-orders-now-available-include-gothic-classic-as-free-bonus-on-consoles"
-    },
-    {
-      "title": "I\u2019ve Killed The Entire Map In \u2018Crimson Desert,\u2019 And I Want A Patch To Do It Again - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/04/07/ive-killed-the-entire-map-in-crimson-desert-and-i-want-a-patch-to-do-it-again/"
-    },
-    {
-      "title": "Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Mike Vrabel calls characterization of photos with reporter \"laughable\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-calls-characterization-of-photos-with-reporter-laughable"
+    },
+    {
+      "title": "The Masters 2026: Gary Woodland on dealing with PTSD at Augusta - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/cr413wxw3kvo"
+    },
+    {
+      "title": "Kirk Cousins sees his time in Vegas as a chance to \"finish strong\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-sees-his-time-in-vegas-as-a-chance-to-finish-strong"
+    },
+    {
+      "title": "Cade Horton To Undergo Season-Ending UCL Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/cade-horton-to-undergo-season-ending-elbow-surgery.html"
+    },
+    {
+      "title": "Michael Malone\u2019s Full UNC Contract - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/unc-north-carolina-tar-heels-basketball-michael-malone-full-unc-contract-280718394/"
+    },
+    {
+      "title": "Colorado QB Dominiq Ponder's BAC double limit in fatal crash - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/48422979/colorado-qb-dominiq-ponder-bac-double-limit-fatal-crash"
+    },
+    {
+      "title": "Three questions and three answers from Real Madrid 1-2 Bayern Munich - managingmadrid.com",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-champions-league/106178/three-questions-and-three-answers-from-real-madrid-1-2-bayern-munich"
+    },
+    {
+      "title": "Romanian soccer great Mircea Lucescu has died at age 80 - AP News",
+      "link": "https://apnews.com/article/mircea-lucescu-dead-romania-8d80a7bc64e66d57cdd51a139a2c0cc9"
+    },
     {
       "title": "Patriots agree to trade LB Marte Mapu to Texans - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-agree-to-trade-lb-marte-mapu-to-texans"
     },
     {
-      "title": "Carolina Hires Michael Malone As Men\u2019s Basketball Head Coach - University of North Carolina Athletics",
-      "link": "https://goheels.com/news/2026/4/7/mens-basketball-carolina-hires-michael-malone-as-mens-basketball-head-coach"
-    },
-    {
-      "title": "Real Madrid vs Bayern Munich LIVE: Champions League updates, watch live, score, analysis, highlights - NBC Sports",
-      "link": "https://www.nbcsports.com/soccer/news/real-madrid-vs-bayern-munich-live-updates-score-highlights-stats-watch"
+      "title": "Why Wembanyama's injury comes at the second-worst time for the Spurs - San Antonio Express-News",
+      "link": "https://www.expressnews.com/sports/spurs/article/wembanyama-s-injury-comes-second-worst-time-spurs-22193584.php"
     },
     {
       "title": "Michigan to Celebrate 2026 Men's Basketball National Champions on April 11 - University of Michigan Athletics",
       "link": "https://mgoblue.com/news/2026/4/7/michigan-to-celebrate-2026-mens-basketball-national-champions-on-april-11"
     },
     {
-      "title": "Team news: Rice returns to face Sporting - Arsenal.com",
-      "link": "https://www.arsenal.com/news/team-news-rice-returns-face-sporting"
+      "title": "Masters Tee Times Announced And There Are Some Interesting Pairings - OutKick",
+      "link": "https://www.outkick.com/sports/2026-masters-tee-times-round-1-round-2"
     },
     {
       "title": "Ranking the positions of need for Michigan Basketball in the transfer portal - Maize n Brew",
       "link": "https://www.maizenbrew.com/michigan-mens-basketball/111438/michigan-basketball-transfer-portal-needs-dusty-may-yaxel-lendeborg-aday-mara"
-    },
-    {
-      "title": "John Harbaugh: I think prospects are high Dexter Lawrence remains with Giants - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-i-think-prospects-are-high-dexter-lawrence-remains-with-giants"
-    },
-    {
-      "title": "Devils coach, players take blame for firing of Fitzgerald as GM - NHL.com",
-      "link": "https://www.nhl.com/news/sheldon-keefe-players-take-blame-for-firing-of-new-jersey-gm"
     },
     {
       "title": "How the Flyers\u2019 stretch-run surge could change their offseason plans - Daily Faceoff",
@@ -130,40 +154,16 @@
       "link": "https://www.nfl.com/news/rhett-lewis-2026-nfl-mock-draft-1-0-eagles-make-biggest-splash-in-round-1"
     },
     {
-      "title": "The Masters 2026 tee-times: McIlroy, Rahm, Scheffler, DeChambeau & Fleetwood at Augusta - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/crl12d8520eo"
-    },
-    {
-      "title": "Why Fernando Mendoza Reportedly Won't Attend 2026 NFL Draft amid Raiders, No. 1 Pick Rumors - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25415496-why-fernando-mendoza-reportedly-wont-attend-2026-nfl-draft-amid-raiders-no-1-pick-rumors"
+      "title": "Report: Projected No. 1 pick Mendoza won't attend NFL draft - theScore",
+      "link": "https://thescore.com/nfl/news/3517097"
     },
     {
       "title": "Caldwell Adds Assistant Coach Isoken Uzamere To Staff - utsports.com",
       "link": "https://utsports.com/news/2026/4/7/womens-basketball-caldwell-adds-assistant-coach-isoken-uzamere-to-staff"
     },
     {
-      "title": "9 names to watch for Auburn basketball in transfer portal - AL.com",
-      "link": "https://www.al.com/auburnbasketball/2026/04/9-names-to-watch-for-auburn-basketball-in-transfer-portal.html"
-    },
-    {
       "title": "Duke is early favorite to win 2026-27 college basketball national championship - sports.yahoo.com",
       "link": "https://sports.yahoo.com/mens-college-basketball/betting/article/duke-is-early-favorite-to-win-2026-27-college-basketball-national-championship-034500693.html"
-    },
-    {
-      "title": "White Sox Place Austin Hays On IL, Select Dustin Harris - mlbtraderumors.com",
-      "link": "https://www.mlbtraderumors.com/2026/04/white-sox-to-place-austin-hays-on-il-select-dustin-harris.html"
-    },
-    {
-      "title": "Cowboys 'absolutely' open to trading up, down in 2026 NFL Draft - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/cowboys-absolutely-open-to-trading-up-down-in-2026-nfl-draft"
-    },
-    {
-      "title": "A.J. Brown landing spots: Six best NFL team fits/trade packages for Eagles WR - NFL.com",
-      "link": "https://www.nfl.com/news/a-j-brown-landing-spots-best-team-fits-trade-packages-for-eagles-wr"
-    },
-    {
-      "title": "PGA longshot parlay: Get SportsLine's top golf picks for 2026 Masters with a shot at a huge return - SportsLine",
-      "link": "https://www.sportsline.com/insiders/pga-longshot-parlay-get-sportslines-top-golf-picks-for-2026-masters-with-a-shot-at-a-huge-return/"
     }
   ],
   "weather": {
