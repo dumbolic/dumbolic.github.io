@@ -1,9 +1,9 @@
 {
-  "quote": "The future is not a gift. It is an achievement. \u2013 Robert F. Kennedy",
-  "fact": "It has been estimated that humans use only 10% of their brain.",
-  "crypto": "BTC: $70,937 | ETH: $2,180.23",
+  "quote": "We suffer more often in imagination than in reality.   \u2013 Seneca",
+  "fact": "The average American/Canadian will eat about 11.9 pounds of cereal per year!",
+  "crypto": "BTC: $70,775 | ETH: $2,178.71",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I once lost a banana at court but then I appealed. ",
+  "joke": "What do you do on a remote island? Try and find the TV island it belongs to.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,14 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Nickelodeon's All-Star Cast Returns To The Tennis Court Next Month - nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/04/nickelodeons-all-star-cast-returns-to-the-tennis-court-next-month"
+    },
+    {
+      "title": "4 '80s Inspired Retro Gadgets You Can Find On Amazon - bgr.com",
+      "link": "https://www.bgr.com/2137868/80s-inspired-amazon-gadgets/"
+    },
     {
       "title": "Valve brings native Steam Link app to Apple's Vision Pro - Ars Technica",
       "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/"
@@ -20,20 +28,12 @@
       "link": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale"
     },
     {
-      "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"
-    },
-    {
       "title": "Gemini overlay and Gemini Live start rolling out big Android redesign [Gallery] - 9to5Google",
       "link": "http://9to5google.com/2026/04/07/gemini-live-redesign-android/"
     },
     {
       "title": "500 Million Windows PCs Are About to Become Unsafe\u2014Now There's a Free Upgrade to Keep Them Running - inc.com",
       "link": "https://www.inc.com/amaya-nichole/500-million-windows-pcs-are-about-to-become-unsafe-now-theres-a-free-upgrade-to-keep-them-running/91328113"
-    },
-    {
-      "title": "Google Brings Vertical Tabs and Improved Reading Mode to Chrome - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/07/chrome-vertical-tabs/"
     },
     {
       "title": "New PS5 Dashboard Update Leaks And Damn, Sony, That Looks Good - Kotaku",
@@ -56,6 +56,10 @@
       "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/"
     },
     {
+      "title": "FBI warns against foreign mobile apps like CapCut in new PSA - Mashable",
+      "link": "https://mashable.com/article/fbi-warns-against-foreign-mobile-apps-in-psa"
+    },
+    {
       "title": "Play! Pok\u00e9mon Rules and Resources Updated for Q1 2026 - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/play-pokemon-rules-and-resources-updated-for-q1-2026"
     },
@@ -72,30 +76,34 @@
       "link": "http://9to5google.com/2026/04/07/android-16-april-update-pixel/"
     },
     {
-      "title": "The First Reviews Are Going Live For Starfield's Terran Armada Expansion - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/04/the-first-reviews-are-going-live-for-starfields-terran-armada-expansion"
-    },
-    {
       "title": "Apple\u2019s Foldable iPhone Remains on Track for September Debut (AAPL) - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/articles/2026-04-07/apple-s-foldable-iphone-remains-on-track-for-september-debut"
     },
     {
-      "title": "Linux kernel maintainers are following through on removing Intel 486 support - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/"
-    },
-    {
-      "title": "Nickelodeon Extreme Tennis Next announced for Nintendo Switch - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nickelodeon-extreme-tennis-next-announced-for-nintendo-switch/"
+      "title": "Google Chrome rolling out vertical tabs and fullscreen reading mode - 9to5Google",
+      "link": "http://9to5google.com/2026/04/07/google-chrome-vertical-tabs/"
     },
     {
       "title": "The Software Engineers Are Freaking Out - The Free Press",
       "link": "https://www.thefp.com/p/the-software-engineers-are-freaking"
+    },
+    {
+      "title": "Revenge exploit: \u201cstabbed in the back\u201d leaker drops Windows security bomb on GitHub - Cybernews",
+      "link": "https://cybernews.com/security/windows-zero-day-exploit-dropped-by-rogue-researcher/"
     }
   ],
   "sports_news": [
     {
-      "title": "Mike Vrabel calls characterization of photos with reporter \"laughable\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-calls-characterization-of-photos-with-reporter-laughable"
+      "title": "Mike Vrabel: Photos With Dianna Russini Are \u2018Completely Innocent\u2019 - Front Office Sports",
+      "link": "http://frontofficesports.com/mike-vrabel-dianna-russini-deny-photos-inappropriate/"
+    },
+    {
+      "title": "Three Observations from Bayern Munich\u2019s bitter 2-1 win over Real Madrid - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/186256/real-madrid-vs-bayern-munich-three-observations-match-analysis-harry-kane-michael-olise-mbappe-vinicius"
+    },
+    {
+      "title": "Dawn Staley asks for fans to do one thing after speaking to Geno Auriemma following flap - New York Post",
+      "link": "https://nypost.com/2026/04/07/sports/dawn-staley-asks-for-fans-to-turn-the-page-after-speaking-to-geno-auriemma/"
     },
     {
       "title": "Cleetus McFarland denied NASCAR O'Reilly superspeedway approval - Motorsport.com",
@@ -106,20 +114,12 @@
       "link": "https://fantasy.fangraphs.com/mining-the-news-4-7-26/"
     },
     {
-      "title": "The Masters 2026: Gary Woodland on dealing with PTSD at Augusta - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cr413wxw3kvo"
-    },
-    {
-      "title": "Kirk Cousins sees his time in Vegas as a chance to \"finish strong\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-sees-his-time-in-vegas-as-a-chance-to-finish-strong"
+      "title": "Inside Ohio State's transfer portal board: Four key players to watch for the Buckeyes - 247Sports",
+      "link": "https://247sports.com/college/ohio-state/article/inside-ohio-state-basketball-transfer-portal-board-four-key-players-to-watch-for-the-buckeyes-280723537/"
     },
     {
       "title": "Cade Horton To Undergo Season-Ending UCL Surgery - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/cade-horton-to-undergo-season-ending-elbow-surgery.html"
-    },
-    {
-      "title": "Michael Malone\u2019s Full UNC Contract - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/unc-north-carolina-tar-heels-basketball-michael-malone-full-unc-contract-280718394/"
     },
     {
       "title": "Aaron Roussell Named Virginia Head Women\u2019s Basketball Coach - virginiasports.com",
@@ -130,20 +130,16 @@
       "link": "https://www.espn.com/college-football/story/_/id/48422979/colorado-qb-dominiq-ponder-bac-double-limit-fatal-crash"
     },
     {
-      "title": "Three questions and three answers from Real Madrid 1-2 Bayern Munich - managingmadrid.com",
-      "link": "https://www.managingmadrid.com/real-madrid-cf-champions-league/106178/three-questions-and-three-answers-from-real-madrid-1-2-bayern-munich"
-    },
-    {
-      "title": "Caleb Wilson drops major Derek Dixon hint UNC fans would welcome with open arms - Keeping It Heel",
-      "link": "https://keepingitheel.com/caleb-wilson-drops-major-derek-dixon-hint-unc-fans-would-welcome-with-open-arms"
-    },
-    {
       "title": "What Marte Mapu trade to Texans means for the Patriots - Pats Pulpit",
       "link": "https://www.patspulpit.com/new-england-patriots-analysis/125518/marte-mapu-trade-news-roster-salary-cap"
     },
     {
-      "title": "John Harbaugh on Kayvon Thibodeaux: Everybody's tradable, but I'm thinking about him in our defense - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-kayvon-thibodeaux-everybodys-tradable-but-im-thinking-about-him-in-our-defense"
+      "title": "Bubba Watson Jokes About Tiger Woods Blocking Him While Offering Up Words Of Encouragement - OutKick",
+      "link": "https://www.outkick.com/sports/bubba-watson-jokes-about-tiger-woods-blocking-him-masters"
+    },
+    {
+      "title": "IU basketball transfer portal names to know: Duke guard Darren Harris - The Daily Hoosier",
+      "link": "https://www.thedailyhoosier.com/iu-basketball-transfer-portal-names-to-know-duke-guard-darren-harris/"
     },
     {
       "title": "Romanian soccer great Mircea Lucescu has died at age 80 - AP News",
@@ -154,16 +150,16 @@
       "link": "https://www.expressnews.com/sports/spurs/article/wembanyama-s-injury-comes-second-worst-time-spurs-22193584.php"
     },
     {
+      "title": "UNC Announces Hiring of Michael Malone as Basketball Coach - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/unc-mens-basketball-coach-michael-malone-280701044/"
+    },
+    {
       "title": "Michigan to Celebrate 2026 Men's Basketball National Champions on April 11 - University of Michigan Athletics",
       "link": "https://mgoblue.com/news/2026/4/7/michigan-to-celebrate-2026-mens-basketball-national-champions-on-april-11"
     },
     {
       "title": "Former Nebrasketball Players in the Transfer Portal - Sports Illustrated",
       "link": "https://www.si.com/college/nebraska/basketball/former-nebrasketball-players-in-the-transfer-portal-2026"
-    },
-    {
-      "title": "Masters Tee Times Announced And There Are Some Interesting Pairings - OutKick",
-      "link": "https://www.outkick.com/sports/2026-masters-tee-times-round-1-round-2"
     }
   ],
   "weather": {
