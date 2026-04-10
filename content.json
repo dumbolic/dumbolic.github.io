@@ -1,9 +1,9 @@
 {
-  "quote": "Time heals what reason cannot.   \u2013 Seneca",
-  "fact": "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
-  "crypto": "BTC: $71,748 | ETH: $2,192.14",
+  "quote": "Vision is the art of seeing things invisible. \u2013 Jonathan Swift",
+  "fact": "Male bats have the highest rate of homosexuality of any mammal.",
+  "crypto": "BTC: $72,159 | ETH: $2,219.42",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What do you call a cow with no legs? Ground beef.",
+  "joke": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Google\u2019s Gmail Upgrade Decision\u20142 Billion Users Must Act Now - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2026/04/09/googles-gmail-upgrade-decision-2-billion-users-must-act-now/"
+    },
     {
       "title": "iOS 26.4.1 Includes These Two Changes for iPhones - MacRumors",
       "link": "https://www.macrumors.com/2026/04/08/ios-26-4-1-has-two-changes-for-iphones/"
@@ -36,8 +40,16 @@
       "link": "https://www.dust2.us/news/72626/breaking-scream-returns-to-action-six-years-after-hanging-up-the-mouse"
     },
     {
+      "title": "High-precision measurement of the W boson mass with the CMS experiment - Nature",
+      "link": "https://www.nature.com/articles/s41586-026-10168-5"
+    },
+    {
       "title": "Apple Warns All iPhone Users\u2014Do Not Answer These Calls And Texts - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2026/04/08/apple-warns-all-iphone-users-do-not-answer-these-calls-and-texts/"
+    },
+    {
+      "title": "WireGuard VPN developer can\u2019t ship software updates after Microsoft locks account - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
     },
     {
       "title": "YouTube Shorts will use AI to make avatars that look and sound like you - 9to5Google",
@@ -48,12 +60,12 @@
       "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/"
     },
     {
-      "title": "Poke makes AI agents as easy as sending a text - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
-    },
-    {
       "title": "Vaughn Gittin Jr. Accuses Car And Driver Of Using AI After A Negative Review Of His 800 HP Mustang That\u2019s Slower Than A Mustang GT - The Autopian",
       "link": "https://www.theautopian.com/vaughn-gittin-jr-baselessly-suggests-that-car-and-driver-is-using-ai-after-slightly-negative-review-of-his-spec-3-mustang/"
+    },
+    {
+      "title": "Oppo details most powerful phone camera system ever; compares it to iPhone 17 Pro - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Oppo-details-most-powerful-phone-camera-system-ever-compares-it-to-iPhone-17-Pro.1269339.0.html"
     },
     {
       "title": "iOS 26.5: New features, release date, more - 9to5Mac",
@@ -74,18 +86,6 @@
     {
       "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
       "link": "https://www.forbes.com/sites/zakdoffman/2026/04/08/google-offers-free-pc-upgrade-for-500-million-windows-users/"
-    },
-    {
-      "title": "iPhone Ultra's Price Range Revealed - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/08/iphone-ultra-price-range-revealed/"
-    },
-    {
-      "title": "Samson Dev: DLSS 5 Needs Full Pipeline Integration & Broad Hardware Support to Be Viable - Wccftech",
-      "link": "https://wccftech.com/samson-dev-dlss-5-pipeline-integration-hardware-support/"
-    },
-    {
-      "title": "Pok\u00e9mon Fans Blast New \u2018Champions\u2019 Game As Nintendo Stock Erases Gains From \u2018Pokopia\u2019 - Forbes",
-      "link": "https://www.forbes.com/sites/conormurray/2026/04/08/fans-blast-pokmon-champions-game-as-nintendo-wipes-pokopia-stock-gains/"
     }
   ],
   "sports_news": [
@@ -94,12 +94,16 @@
       "link": "https://apnews.com/article/davey-lopes-dies-dodgers-4d3ee219835819e7d9d227d79c86e822"
     },
     {
-      "title": "Mark Calcavecchia kicked out of Masters grounds \u2014 for using his phone - New York Post",
-      "link": "https://nypost.com/2026/04/08/sports/mark-calcavecchia-kicked-out-of-masters-grounds-for-using-his-phone/"
+      "title": "Gameday: Rainiers 3, Space Cowboys 1 Final Score (04/08/2026) - MLB.com",
+      "link": "https://www.milb.com/gameday/rainiers-vs-space-cowboys/2026/04/08/814873/final/box"
     },
     {
-      "title": "2026 NFL Draft: CBS Sports unveils new mock draft, wild predictions after Pro Days - On3",
-      "link": "https://www.on3.com/pro/news/2026-nfl-draft-cbs-sports-unveils-new-mock-draft-wild-predictions-after-pro-days/"
+      "title": "Cavs send message with 122-116 win over Hawks in possible first-round playoff preview - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2026/04/cavs-hold-off-hawks-122-116-in-possible-first-round-playoff-preview.html"
+    },
+    {
+      "title": "Mark Calcavecchia kicked out of Masters grounds \u2014 for using his phone - New York Post",
+      "link": "https://nypost.com/2026/04/08/sports/mark-calcavecchia-kicked-out-of-masters-grounds-for-using-his-phone/"
     },
     {
       "title": "Ron Francis Leaving Seattle Kraken - NHL Rumors - ProHockeyRumors.com",
@@ -110,16 +114,16 @@
       "link": "https://www.mlbtraderumors.com/2026/04/zach-eflin-undergoes-ucl-surgery.html"
     },
     {
+      "title": "Caps beat Leafs 4-0 as Logan Thompson closes out a shutout for once - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/04/08/caps-beat-leafs-4-0-as-logan-thompson-closes-out-a-shutout-for-once/"
+    },
+    {
       "title": "Zay Flowers on Lamar Jackson: He wants to finish; he wants a ring - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zay-flowers-on-lamar-jackson-he-wants-to-finish-he-wants-a-ring"
     },
     {
-      "title": "Cade Cunningham has double-double in return as Pistons rout Bucks - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48434381/cade-cunningham-double-double-return-pistons-rout-bucks"
-    },
-    {
-      "title": "Dana White admits the UFC White House event could be derailed at the last minute despite preparations - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/04/08/dana-white-admits-the-ufc-white-house-event-could-be-derailed-at-the-last-minute-despite-preparations/"
+      "title": "Arne Slot explains why he didn't bring on Mohamed Salah against PSG - Liverpool.com",
+      "link": "https://www.liverpool.com/liverpool-fc-news/features/mohamed-salah-liverpool-arne-slot-33737115"
     },
     {
       "title": "Raiders QB Kirk Cousins ready \u2018to let chips fall where they may\u2019 in Vegas - New York Post",
@@ -142,6 +146,10 @@
       "link": "https://www.sfchronicle.com/sports/article/la-olympics-2028-ticket-prices-22193989.php"
     },
     {
+      "title": "Hagens Reacts to Signing ELC With Bruins, \u2018Means the World to Me\u2019 - NHL.com",
+      "link": "https://www.nhl.com/bruins/news/hagens-reacts-to-signing-elc-with-bruins-means-the-world-to-me"
+    },
+    {
       "title": "What Red Sox\u2019 Sonny Gray told Alex Cora between sixth and seventh innings - MassLive",
       "link": "https://www.masslive.com/redsox/2026/04/what-red-sox-sonny-gray-told-alex-cora-between-sixth-and-seventh-innings.html"
     },
@@ -158,16 +166,8 @@
       "link": "https://apnews.com/article/masters-augusta-national-par-3-contest-89f597f7d988809f67100f8f16474b05"
     },
     {
-      "title": "Pirates sign teenage shortstop Konnor Griffin to a 9-year deal worth at least $140 million - AP News",
-      "link": "https://apnews.com/article/pittsburgh-pirates-konnor-griffin-e31a7c4d4b8a5374c23e79d65926770c"
-    },
-    {
-      "title": "Mariners muster 2 hits to end dreadful road trip - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-dreadful-start-continues-as-rangers-finish-off-sweep/"
-    },
-    {
-      "title": "Ole Miss' Coach Yo Responds to Accusations of Tampering in Landing Lady Vols Transfer Talaysia Cooper - Rocky Top Insider",
-      "link": "https://www.rockytopinsider.com/2026/04/08/ole-miss-coach-yo-responds-to-accusations-of-tampering-in-landing-lady-vols-transfer-talaysia-cooper/"
+      "title": "Head says Scottie Scheffler, stats Bryson DeChambeau but it\u2019s anyone\u2019s Masters - The Times",
+      "link": "https://www.thetimes.com/sport/golf/the-masters/article/scottie-scheffler-bryson-dechambeau-masters-j0wzwtvvj"
     }
   ],
   "weather": {
