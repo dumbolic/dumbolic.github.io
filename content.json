@@ -1,9 +1,9 @@
 {
-  "quote": "Why change? Everyone has his own style. When you have found it, you should stick to it. \u2013 Audrey Hepburn",
-  "fact": "An ostrich\u2019s eye is bigger than its brain.",
-  "crypto": "BTC: $72,804 | ETH: $2,241.3",
+  "quote": "It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. \u2013 Nicolas Chamfort",
+  "fact": "The people of Israel consume more turkeys per capita than any other country.",
+  "crypto": "BTC: $72,750 | ETH: $2,233.71",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why did Dracula lie in the wrong coffin? He made a grave mistake.",
+  "joke": "Remember, the best angle to approach a problem from is the \"try\" angle.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,8 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Mario Kart World 1.6.1 update out now, patch notes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/mario-kart-world-1-6-1-update-out-now-patch-notes/"
+      "title": "Mario Kart World Has Been Updated To Version 1.6.1, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/mario-kart-world-has-been-updated-to-version-1-6-1-here-are-the-full-patch-notes"
     },
     {
       "title": "Forza Horizon 6 Is Every Japanese Driving Fantasy Rolled into One: Hands-On Preview - IGN",
@@ -40,16 +40,12 @@
       "link": "https://www.nintendolife.com/news/2026/04/castlevania-belmonts-curse-lets-you-fight-joan-of-arc-and-explore-notre-dame-in-new-trailer"
     },
     {
-      "title": "How the FBI Extracted Deleted Signal Messages From a Defendant's iPhone - Lifehacker",
-      "link": "https://lifehacker.com/tech/fbi-extracted-deleted-signal-messages-from-a-defendants-iphone"
-    },
-    {
       "title": "'Graveyard Keeper' Is Available To Claim For Free On Xbox For A Limited Time - Pure Xbox",
       "link": "https://www.purexbox.com/news/2026/04/graveyard-keeper-is-available-to-claim-for-free-on-xbox-for-a-limited-time"
     },
     {
-      "title": "Nintendo just dropped a free Yoshi game on Switch and mobile - Polygon.com",
-      "link": "https://www.polygon.com/hello-yoshi-nintendo-switch-mobile-free/"
+      "title": "You can now edit your Instagram comments - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/"
     },
     {
       "title": "Apple Releases macOS Tahoe 26.4.1 With MacBook Air and MacBook Pro Wi-Fi Fix - MacRumors",
@@ -72,6 +68,10 @@
       "link": "https://www.gematsu.com/2026/04/dont-starve-elsewhere-announced-for-pc"
     },
     {
+      "title": "Neverway launches in October; \u2018Prologue\u2019 demo now available for PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/04/neverway-launches-in-october-prologue-demo-now-available-for-pc"
+    },
+    {
       "title": "New iPhone Ultra renders, battery capacity, and thickness details leaked - PhoneArena",
       "link": "https://www.phonearena.com/news/new-iphone-ultra-renders-battery-capacity-thickness-details-leaked_id179582"
     },
@@ -84,26 +84,50 @@
       "link": "https://www.gematsu.com/2026/04/warhammer-survivors-adds-ps5-xbox-series-switch-2-and-switch-versions"
     },
     {
-      "title": "Highly anticipated pirate survival game Windrose lands a release date, and it's setting sail very, very soon - Eurogamer",
-      "link": "https://www.eurogamer.net/pirate-survival-game-windrose-lands-a-release-date"
+      "title": "Frostpunk studio reveals dark and twisted farming thriller Crop - Eurogamer",
+      "link": "https://www.eurogamer.net/11-bit-studios-cursed-farming-game-crop"
+    },
+    {
+      "title": "The MacBook Neo is the best thing to happen to Windows in years - The Verge",
+      "link": "https://www.theverge.com/tech/909140/microsoft-windows-11-fixes-macbook-neo-response-notepad"
     }
   ],
   "sports_news": [
     {
-      "title": "Yankees To Designate Cade Winquest For Assignment - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/yankees-to-designate-cade-winquest-for-assignment.html"
+      "title": "Penguins Clinch Playoff Berth for the First Time Since the 2021-22 Season - NHL.com",
+      "link": "https://www.nhl.com/penguins/news/penguins-clinch-playoff-berth-for-the-first-time-since-the-2021-22-season"
     },
     {
-      "title": "Mike Vrabel-Dianna Russini Photos Were Shopped to Multiple Outlets - Front Office Sports",
-      "link": "http://frontofficesports.com/mike-vrabel-dianna-russini-pics-shopped-multiple-outlets/"
+      "title": "Report: Mike Vrabel-Dianna Russini photos were shopped for \"four figures\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mike-vrabel-dianna-russini-photos-were-shopped-for-four-figures"
+    },
+    {
+      "title": "Joel Embiid Diagnosed With Appendicitis, Undergoes Surgery - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2026/04/joel-embiid-diagnosed-with-appendicitis-will-undergo-surgery.html"
+    },
+    {
+      "title": "Texas A&M guard Pop Isaacs enters NCAA Transfer Portal - On3",
+      "link": "https://www.on3.com/news/texas-am-guard-pop-isaacs-enters-ncaa-transfer-portal/"
     },
     {
       "title": "Justice Department opens antitrust probe into NFL broadcasting deals - The Washington Post",
       "link": "https://www.washingtonpost.com/national-security/2026/04/09/nfl-football-games-antitrust-investigation/"
     },
     {
+      "title": "Belmont Forward Sam Orme Commits to Nebraska Basketball - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/basketball/belmont-forward-sam-orme-commits-to-nebraska-basketball-2026"
+    },
+    {
       "title": "Good, Bad and Ugly Masters Round 1: A Disastrous Day for LIV Golf - Sports Illustrated",
       "link": "https://www.si.com/golf/masters/good-bad-ugly-masters-disastrous-day-liv-golf-2026"
+    },
+    {
+      "title": "Sunny but scary: Masters field bracing for exacting conditions at Augusta National - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/latest/2026/04/09/course-is-hard-and-getting-harder-augusta-national-2026-masters-major-rory-mcilroy-bryson-dechambeau"
+    },
+    {
+      "title": "Video: Top-ranked UFC contender, Daniel Rodriguez, shares Tijuana prison workouts after eight months secretly behind bars - \u2018They created a monster\u2019 - MMA Mania",
+      "link": "https://www.mmamania.com/latest-news/435018/video-top-ranked-ufc-contender-daniel-rodriguez-shares-tijuana-prison-workouts-after-eight-months-secretly-behind-bars-they-created-a-monster"
     },
     {
       "title": "Hansi Flick told Barcelona\u2019s system \u2018depends too heavily on Lamine Yamal and Raphinha\u2019 - Barca Blaugranes",
@@ -114,12 +138,20 @@
       "link": "https://www.oregonlive.com/ducks/2026/04/as-roster-churns-dana-altman-says-oregon-facing-big-reduction-in-nil.html"
     },
     {
-      "title": "NFL announces 16 players will attend the 2026 NFL draft - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-16-players-will-attend-the-2026-nfl-draft"
+      "title": "Jaguars GM asked about potential trade for Giants\u2019 Dexter Lawrence - New York Post",
+      "link": "https://nypost.com/2026/04/09/sports/jaguars-gm-asked-about-potential-trade-for-giants-dexter-lawrence/"
+    },
+    {
+      "title": "2026 NFL Draft: Jeremiyah Love, Ty Simpson among 16 prospects attending this year's event - NFL.com",
+      "link": "https://www.nfl.com/news/2026-nfl-draft-jeremiyah-love-ty-simpson-among-16-prospects-attending-this-year-s-event"
     },
     {
       "title": "Bryson DeChambeau triples No. 11, cards 76 to open Masters - ESPN",
       "link": "https://www.espn.com/golf/story/_/id/48442025/bryson-dechambeau-cards-76-rocky-masters-opening-round"
+    },
+    {
+      "title": "Arvell Reese no longer the betting favorite to be drafted by Jets at 2 - Jets X-Factor",
+      "link": "https://jetsxfactor.com/2026/04/09/jets-arvell-reese-betting-favorite-drafted-jets/"
     },
     {
       "title": "ESPN accused of 'desecrating' The Masters with controversial coverage decision - AOL.com",
@@ -136,34 +168,6 @@
     {
       "title": "Michigan lands coveted SEC transfer out of Transfer Portal - On3",
       "link": "https://www.on3.com/college/michigan-wolverines/news/tennessee-transfer-jp-estrella-commits-to-michigan/"
-    },
-    {
-      "title": "Tyson Fury vs Arslanbek Makhmudov: Briton in high spirits - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/c1krpzrnzgyo"
-    },
-    {
-      "title": "Sixers center Joel Embiid will undergo surgery for appendicitis on Thursday - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-joel-embiid-will-undergo-surgery-appendicitis-thursday-injury-update-report-rumors-nba/"
-    },
-    {
-      "title": "Kansas City introduces $600M funding package for downtown Royals stadium - FOX4KC.com",
-      "link": "https://fox4kc.com/sports/royals/kansas-city-introduces-600m-funding-package-for-downtown-royals-stadium/"
-    },
-    {
-      "title": "Jimmy Kimmel steals thunder from UCLA women's basketball team national champions with Trump jokes - New York Post",
-      "link": "https://www.foxnews.com/sports/jimmy-kimmel-tells-ucla-womens-basketball-team-give-trump-fake-national-championship-trophy"
-    },
-    {
-      "title": "Celtics vs Knicks Predictions, Picks, Odds Tonight 4/9 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/boston-celtics-vs-new-york-knicks-predictions-pick-odds-thursday-april-9"
-    },
-    {
-      "title": "Poll: Is Jordan Walker Finally Breaking Out? - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/poll-is-jordan-walker-finally-breaking-out.html"
-    },
-    {
-      "title": "NBA Picks, Predictions: Our 6 Bets for Knicks-Celtics, Warriors-Lakers, More for April 9 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/nba-picks-predictions-our-6-bets-for-knicks-celtics-warriors-lakers-more-for-april-9"
     }
   ],
   "weather": {
