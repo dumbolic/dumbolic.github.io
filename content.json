@@ -1,9 +1,9 @@
 {
-  "quote": "Confidence is what you have before you understand the problem. \u2013 Woody Allen",
-  "fact": "On average a hedgehog's heart beats 300 times a minute.",
-  "crypto": "BTC: $74,160 | ETH: $2,350.48",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I used to work for a soft drink can crusher. It was soda pressing.",
+  "quote": "We are most nearly ourselves when we achieve the seriousness of the child at play. \u2013 Heraclitus",
+  "fact": "Only female mosquito\u2019s` bite and most are attracted to the color blue twice as much as to any other color.",
+  "crypto": "BTC: $75,026 | ETH: $2,374.02",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Where do young cows eat lunch? In the calf-ateria.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Apple Launches New All-in-One Apple Business Platform for Device Management, Email, and Customer Engagement - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/14/apple-business-platform-launches/"
+    },
+    {
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
+    },
+    {
+      "title": "/dev: Leveling Up Arena - League of Legends",
+      "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-leveling-up-arena/"
+    },
+    {
+      "title": "Hades 2 update 2 out now, patch notes \u2013 bonus content and more - Nintendo Everything",
+      "link": "https://nintendoeverything.com/hades-2-update-2-out-now-patch-notes-bonus-content-and-more/"
+    },
+    {
+      "title": "\u2018Google app for desktop\u2019 launches on Windows - 9to5Google",
+      "link": "http://9to5google.com/2026/04/14/google-app-desktop-windows/"
+    },
+    {
+      "title": "Sony Announces High-End Gaming Monitor for the Uber Sweats - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/04/sony-announces-high-end-gaming-monitor-for-the-uber-sweats"
+    },
+    {
       "title": "Google will begin punishing sites for back button hijacking in June - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/"
     },
     {
-      "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
-      "link": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/"
+      "title": "DaVinci Resolve adds new photo editing tools to take on Lightroom and Photoshop - The Verge",
+      "link": "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support"
+    },
+    {
+      "title": "The RAM Crisis Just Royally Screwed Microsoft Surface PCs - Gizmodo",
+      "link": "https://gizmodo.com/the-ram-crisis-just-royally-screwed-microsoft-surface-pcs-2000746236"
+    },
+    {
+      "title": "Wazdakka Gutsmek rules revealed \u2013 Launch your own Speedwaaagh! - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/g6f0lbmk/wazdakka-gutsmek-rules-revealed-launch-your-own-speedwaaagh"
+    },
+    {
+      "title": "Gorgeous Pixel Art Indie Game Arrives Busted On Xbox Series S After After An 8-Year Wait - Kotaku",
+      "link": "https://kotaku.com/replaced-pixel-art-indie-game-busted-xbox-series-s-crash-2000687498"
     },
     {
       "title": "Apple Wallet keeps getting better, here\u2019s what\u2019s new and coming next - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjdjYl9mTzIwSXhQdmxiazhnQWFkeFNhdkdkNjFsb2k0c3RRdUJSc1dNa1dURkR0YUFZTHo1WFNCWHAwODJDRzBhdF9EaDRLcTBsSTdoOElQN1pEanZVcVFXTU9aaDlPSlpDZl9rNmwzM21iTkVMVmFSdFlabHZ4cTRsUTBQNjdBaEpqSmhZY1Y3WFFlWkJJN2I0bGwtdw?oc=5"
+      "link": "https://9to5mac.com/2026/04/14/apple-wallet-keeps-getting-better-heres-whats-new-and-coming-next/"
+    },
+    {
+      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
     },
     {
       "title": "Lightweight cabriolet with a high-revving naturally aspirated engine and manual transmission - Porsche Newsroom",
       "link": "https://newsroom.porsche.com/en/2026/products/porsche-gt3-sc-world-premiere-lightweight-cabriolet-42136.html"
-    },
-    {
-      "title": "Xbox Game Pass finally gets big day-one game after multiple delays - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/replaced-xbox-achievements"
     },
     {
       "title": "Anbernic\u2019s new handheld is a pocket-friendly Android device with a swiveling screen - The Verge",
@@ -40,62 +76,74 @@
       "link": "https://www.forbes.com/sites/paultassi/2026/04/14/marathon-testing-a-battle-royale-ish-mode-an-offering-to-casuals/"
     },
     {
-      "title": "Ask the Developer Vol. 21: Tomodachi Life: Living the Dream \u2014 Part 1 - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-1/"
+      "title": "Ask the Developer Vol. 21: Tomodachi Life: Living the Dream \u2014 Part 3 - Nintendo",
+      "link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-3/"
     },
     {
-      "title": "GoPro goes bigger and pro-er with support for Micro Four Thirds lenses - The Verge",
-      "link": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs"
+      "title": "GoPro Launches MISSION 1 Action Cinema Cameras With 8K and 50MP 1\u2033 Sensor - Y.M.Cinema Magazine",
+      "link": "https://ymcinema.com/2026/04/14/gopro-mission-1-action-cinema-cameras-8k-1-inch-sensor/"
     },
     {
       "title": "Alienware\u2019s new gaming monitor offers a 240Hz QD-OLED panel for just $350 - The Verge",
       "link": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs"
     },
     {
-      "title": "Analysts believe Apple taking a highly unusual step, may double Mac user base - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/14/analysts-believe-apple-taking-a-highly-unusual-step-may-double-mac-user-base/"
-    },
-    {
       "title": "What trainers actually think about the 12-3-30 workout - vox.com",
       "link": "https://www.vox.com/advice/485581/12-3-30-treadmill-workout-challenge-explained"
-    },
-    {
-      "title": "Microsoft Surface price hikes the latest reason to buy a MacBook Neo - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/14/microsoft-surface-price-hikes-the-latest-reason-to-buy-a-macbook-neo/"
-    },
-    {
-      "title": "Column | Asking Eric: \u2018Very online\u2019 girlfriend shares too much with strangers - The Washington Post",
-      "link": "https://www.washingtonpost.com/advice/2026/04/14/asking-eric-posting-about-relationship/"
-    },
-    {
-      "title": "Xbox Is Having 'Very Big Discussions' About Exclusivity, Says Reporter - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/04/xbox-is-having-very-big-discussions-about-exclusivity-says-reporter"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Rival Launches, Hailed As 'True AAAA Pirate Experience\" - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/pc/assassins-creed-black-flag-rival-pirate-experience-623622-20260414"
-    },
-    {
-      "title": "The new Trump Phone design is here - The Verge",
-      "link": "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website"
-    },
-    {
-      "title": "Introducing: Two Bracelet Updates For Tudor, Including A Full Ceramic Black Bay Bracelet - Hodinkee",
-      "link": "https://www.hodinkee.com/articles/two-bracelet-updates-for-tudor-including-a-full-ceramic-black-bay-bracelet"
-    },
-    {
-      "title": "Google Messages is cooking up a feature Samsung Messages users will love - Android Authority",
-      "link": "https://www.androidauthority.com/google-messages-chat-customization-themes-3657175/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Before a hockey legend walks away, one last ritual with \u2018the boys\u2019 - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2026/04/14/alex-ovechkin-retires-sewer-ball/"
+    },
+    {
+      "title": "Head Coach Javier Mascherano Departs Inter Miami CF - intermiamicf",
+      "link": "https://www.intermiamicf.com/news/head-coach-javier-mascherano-departs-inter-miami-cf"
+    },
+    {
+      "title": "Iowa to vacate four wins from 2023 in McNamara tampering case - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/48484969/iowa-vacate-four-wins-2023-mcnamara-tampering-case"
+    },
+    {
+      "title": "Brewers Place Christian Yelich On Injured List, Select Greg Jones - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/brewers-place-christian-yelich-on-injured-list-select-greg-jones.html"
+    },
+    {
+      "title": "Howie Roseman: I\u2019m not answering the question any differently, A.J. Brown is an Eagle - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-im-not-answering-the-question-any-differently-a-j-brown-is-an-eagle"
+    },
+    {
+      "title": "Secret Lair: Back to School Superdrop - Magic: The Gathering",
+      "link": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop"
+    },
+    {
+      "title": "Missouri lands commitment from Tennessee PF transfer Jaylen Carey - On3",
+      "link": "https://www.on3.com/transfer-portal/news/missouri-lands-commitment-from-tennessee-pf-transfer-jaylen-carey/"
+    },
+    {
+      "title": "Lions GM Brad Holmes is ready to trade up to draft the right guy - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-gm-brad-holmes-is-ready-to-trade-up-to-draft-the-right-guy"
+    },
+    {
+      "title": "Michigan Basketball transfer portal tracker: News, rumors & more - Maize n Brew",
+      "link": "https://www.maizenbrew.com/michigan-mens-basketball-transfer-portal/108587/michigan-basketball-transfer-portal-tracker-juke-harris-john-blackwell"
+    },
+    {
+      "title": "Carlos Prates reveals UFC title fight \u2018plan\u2019 with Ian Machado Garry - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/482468/carlos-prates-reveals-ufc-title-fight-plan-with-ian-machado-garry"
+    },
     {
       "title": "NFL Draft rumors 2026: NY Giants reportedly among teams looking to trade down - Big Blue View",
       "link": "https://www.bigblueview.com/new-york-giants-draft/159277/nfl-draft-rumors-2026-ny-giants-reportedly-among-teams-looking-to-trade-down"
     },
     {
       "title": "Josh Naylor\u2019s First Homers of the Season \u2013 Fantasy Hitting Recap 4/13/2026 - Pitcher List",
-      "link": "https://pitcherlist.com/thats-josh-by-gosh-fantasy-baseball-daily-hitting-recap-4-14-26/"
+      "link": "http://pitcherlist.com/thats-josh-by-gosh-fantasy-baseball-daily-hitting-recap-4-14-26/"
+    },
+    {
+      "title": "Pre-draft picture: Packers looking for better health at running back - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/pre-draft-picture-packers-looking-for-better-health-at-running-back-april-14-2026"
     },
     {
       "title": "Brian Batko\u2019s worst-case Steelers 2026 mock draft: Maybe there\u2019s not a bad catch in the house - Pittsburgh Post-Gazette",
@@ -106,68 +154,24 @@
       "link": "https://www.foxsports.com/stories/soccer/u-s-soccer-sporting-director-matt-crocker-saudi-arabia-2026-world-cup"
     },
     {
+      "title": "Lazar's Patriots Big Board 2026: Top 50 Draft Fits - Official website of the New England Patriots",
+      "link": "https://www.patriots.com/news/lazar-s-patriots-big-board-2026-top-50-draft-fits"
+    },
+    {
       "title": "The Opener: Schultz, Cruz, MLBTR Chat - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/the-opener-schultz-cruz-mlbtr-chat.html"
     },
     {
-      "title": "Did Brad Holmes give any tips about the Detroit Lions\u2019 draft? - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/161742/did-brad-holmes-give-any-tips-about-the-detroit-lions-draft"
+      "title": "Game Preview: 04.14.26 at St. Louis Blues - NHL.com",
+      "link": "https://www.nhl.com/penguins/news/game-preview-04-14-26-at-st-louis-blues"
+    },
+    {
+      "title": "NBA playoffs 2026: Odds for first-round series, play-in games - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nba/betting/article/nba-playoffs-2026-odds-for-first-round-series-play-in-games-032523215.html"
     },
     {
       "title": "Flau\u2019Jae Johnson trade shocks at WNBA Draft as Valkyries GM offers strange explanation - New York Post",
       "link": "https://nypost.com/2026/04/14/sports/flaujae-johnson-trade-shocks-at-wnba-draft-as-valkyries-gm-offers-strange-explanation/"
-    },
-    {
-      "title": "2026 WNBA Draft results, grades for every first-round pick: Azzi Fudd goes No. 1, UCLA makes history - CBS Sports",
-      "link": "https://www.cbssports.com/wnba/news/2026-wnba-draft-updates-results-grades/live/"
-    },
-    {
-      "title": "Dolphins GM must avoid these 3 players at all cost during NFL Draft - Phin Phanatic",
-      "link": "https://phinphanatic.com/miami-dolphins-gm-must-avoid-these-3-players-at-all-cost-during-nfl-draft-01kp3jzrd1zw"
-    },
-    {
-      "title": "Sounds Like the Cubs Are Going With an Opener Tonight - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/04/14/sounds-like-the-cubs-are-going-with-an-opener-tonight/"
-    },
-    {
-      "title": "Augusta National urged to make rule change after Justin Rose misses out on winning The Masters again - HITC Sport",
-      "link": "https://www.hitc.com/augusta-national-urged-to-make-rule-change-after-justin-rose-misses-out-on-winning-the-masters-again/"
-    },
-    {
-      "title": "Retrial over death of Argentina legend Maradona to begin - BBC",
-      "link": "https://www.bbc.com/news/articles/cj377mm7zzvo"
-    },
-    {
-      "title": "49ers well positioned to add a receiver in the NFL draft - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48476241/san-francisco-49ers-nfl-draft-visit-receivers-27th-overall-pick"
-    },
-    {
-      "title": "Cavs vs. Raptors playoff preview: Will Cleveland continue postseason dominance against Toronto? - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2026/04/cavs-vs-raptors-playoff-preview-will-cleveland-continue-historical-dominance-against-toronto.html"
-    },
-    {
-      "title": "Mike Trout vs. Aaron Judge turns into starry slugfest of 3-time MVPs as Yankees edge Angels 11-10 - AP News",
-      "link": "https://apnews.com/article/judge-trout-yankees-angels-home-runs-d9bf3942919c0a8623c0ecc8c8c7ff87"
-    },
-    {
-      "title": "The Sabres win the division for the first time since 2010 - Audacy",
-      "link": "https://www.audacy.com/wgr550/sports/sabres/the-sabres-win-the-division-for-the-first-time-since-2010"
-    },
-    {
-      "title": "UNC lands ACC transfer guard - On3",
-      "link": "https://www.on3.com/college/north-carolina-tar-heels/news/virginia-tech-transfer-guard-neoklis-avdalas-commits-to-north-carolina/"
-    },
-    {
-      "title": "Starting Pitcher Chart \u2013 April 14th, 2026 - FanGraphs",
-      "link": "https://fantasy.fangraphs.com/starting-pitcher-chart-april-14th-2026/"
-    },
-    {
-      "title": "Nine observations: Pirates' loud response says a lot about how they've evolved as a team - MLB.com",
-      "link": "https://www.mlb.com/news/digging-deeper-into-pirates-blowout-win-over-washington"
-    },
-    {
-      "title": "LA Kings Clinch Fifth Consecutive Playoff Berth - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2026/04/13/la-kings-clinch-fifth-consecutive-playoff-berth/"
     }
   ],
   "weather": {
