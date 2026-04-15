@@ -1,9 +1,9 @@
 {
-  "quote": "Pleasure is always derived from something outside you, whereas joy arises from within.  \u2013 Eckhart Tolle",
-  "fact": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
-  "crypto": "BTC: $74,772 | ETH: $2,359.7",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Past, present, and future walked into a bar.... It was tense.",
+  "quote": "Time flies whether you are having fun or not. \u2013 Mary Engelbreit",
+  "fact": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
+  "crypto": "BTC: $74,791 | ETH: $2,361.82",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Two guys walked into a bar, the third one ducked.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Overwatch launches on Nintendo Switch 2 with performance issues, Blizzard confirms patch in the works - Nintendo Everything",
+      "link": "https://nintendoeverything.com/overwatch-launches-on-nintendo-switch-2-with-performance-issues-blizzard-confirms-patch-in-the-works/"
+    },
+    {
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "link": "https://www.marvelrivals.com/balancepost/20260414/41667_1295988.html"
+    },
+    {
+      "title": "Hades II Bonus Content Arrives On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/hades-ii-bonus-content-arrives-on-switch-1-and-2-here-are-the-full-patch-notes"
+    },
+    {
+      "title": "TFT patch 17.1 - Teamfight Tactics",
+      "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-1/"
+    },
+    {
+      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/"
+    },
+    {
+      "title": "Apple TV users get $2/month Peacock, as bundle expands to new places - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/14/apple-tv-users-get-2-month-peacock-as-bundle-expands-to-new-places/"
+    },
+    {
+      "title": "Max Hodak\u2019s Science Corp. is preparing to place its first sensor in a human brain - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
+    },
+    {
+      "title": "Google\u2019s Spotlight-like desktop search bar for Windows is available for everyone - The Verge",
+      "link": "https://www.theverge.com/tech/911741/google-windows-app-launch"
+    },
+    {
       "title": "Apple Launches New All-in-One Apple Business Platform for Device Management, Email, and Customer Engagement - MacRumors",
       "link": "https://www.macrumors.com/2026/04/14/apple-business-platform-launches/"
     },
     {
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
+      "title": "/dev: WASD\u2019s Ranked Release - League of Legends",
+      "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-wasds-ranked-release/"
+    },
+    {
+      "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019 - WIRED",
+      "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/"
     },
     {
       "title": "/dev: Leveling Up Arena - League of Legends",
       "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-leveling-up-arena/"
     },
     {
-      "title": "Hades 2 update 2 out now, patch notes \u2013 bonus content and more - Nintendo Everything",
-      "link": "https://nintendoeverything.com/hades-2-update-2-out-now-patch-notes-bonus-content-and-more/"
+      "title": "Roundup: The Reviews Are In For Replaced On Xbox Game Pass - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/04/roundup-the-reviews-are-in-for-replaced-on-xbox-game-pass"
     },
     {
-      "title": "\u2018Google app for desktop\u2019 launches on Windows - 9to5Google",
-      "link": "http://9to5google.com/2026/04/14/google-app-desktop-windows/"
+      "title": "Sony\u2019s new 1440p OLED gaming monitor seems a lot better than its first - The Verge",
+      "link": "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features"
     },
     {
-      "title": "Sony Announces High-End Gaming Monitor for the Uber Sweats - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/04/sony-announces-high-end-gaming-monitor-for-the-uber-sweats"
+      "title": "Disney quietly delists 15 more games on Steam, including a couple of classic Star Wars titles - PC Guide",
+      "link": "https://www.pcguide.com/news/disney-quietly-delists-15-more-games-on-steam-including-a-couple-of-classic-star-wars-titles/"
     },
     {
       "title": "Google will begin punishing sites for back button hijacking in June - Ars Technica",
@@ -44,134 +80,86 @@
       "link": "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support"
     },
     {
+      "title": "Round Up: Reviews Make MOUSE: P.I. For Hire's Art the Star of the Show - Push Square",
+      "link": "https://www.pushsquare.com/features/round-up-reviews-make-mouse-p-i-for-hires-art-the-star-of-the-show"
+    },
+    {
       "title": "The RAM Crisis Just Royally Screwed Microsoft Surface PCs - Gizmodo",
       "link": "https://gizmodo.com/the-ram-crisis-just-royally-screwed-microsoft-surface-pcs-2000746236"
-    },
-    {
-      "title": "Wazdakka Gutsmek rules revealed \u2013 Launch your own Speedwaaagh! - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/g6f0lbmk/wazdakka-gutsmek-rules-revealed-launch-your-own-speedwaaagh"
-    },
-    {
-      "title": "Gorgeous Pixel Art Indie Game Arrives Busted On Xbox Series S After After An 8-Year Wait - Kotaku",
-      "link": "https://kotaku.com/replaced-pixel-art-indie-game-busted-xbox-series-s-crash-2000687498"
-    },
-    {
-      "title": "Apple Wallet keeps getting better, here\u2019s what\u2019s new and coming next - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/14/apple-wallet-keeps-getting-better-heres-whats-new-and-coming-next/"
-    },
-    {
-      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
-    },
-    {
-      "title": "Lightweight cabriolet with a high-revving naturally aspirated engine and manual transmission - Porsche Newsroom",
-      "link": "https://newsroom.porsche.com/en/2026/products/porsche-gt3-sc-world-premiere-lightweight-cabriolet-42136.html"
-    },
-    {
-      "title": "Anbernic\u2019s new handheld is a pocket-friendly Android device with a swiveling screen - The Verge",
-      "link": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator"
-    },
-    {
-      "title": "\u2018Marathon\u2019 Testing A Battle Royale-ish Mode, An Offering To Casuals - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/04/14/marathon-testing-a-battle-royale-ish-mode-an-offering-to-casuals/"
-    },
-    {
-      "title": "Ask the Developer Vol. 21: Tomodachi Life: Living the Dream \u2014 Part 3 - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-3/"
-    },
-    {
-      "title": "GoPro Launches MISSION 1 Action Cinema Cameras With 8K and 50MP 1\u2033 Sensor - Y.M.Cinema Magazine",
-      "link": "https://ymcinema.com/2026/04/14/gopro-mission-1-action-cinema-cameras-8k-1-inch-sensor/"
-    },
-    {
-      "title": "Alienware\u2019s new gaming monitor offers a 240Hz QD-OLED panel for just $350 - The Verge",
-      "link": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs"
-    },
-    {
-      "title": "What trainers actually think about the 12-3-30 workout - vox.com",
-      "link": "https://www.vox.com/advice/485581/12-3-30-treadmill-workout-challenge-explained"
     }
   ],
   "sports_news": [
     {
-      "title": "Before a hockey legend walks away, one last ritual with \u2018the boys\u2019 - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2026/04/14/alex-ovechkin-retires-sewer-ball/"
+      "title": "D-backs Announce Several Roster Moves - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/dbacks-gabriel-moreno-injured-list-aramis-garcia-merrill-kelly.html"
     },
     {
-      "title": "Head Coach Javier Mascherano Departs Inter Miami CF - intermiamicf",
-      "link": "https://www.intermiamicf.com/news/head-coach-javier-mascherano-departs-inter-miami-cf"
+      "title": "St. John\u2019s March Madness hero Dylan Darling enters transfer portal - New York Post",
+      "link": "https://nypost.com/2026/04/14/sports/st-johns-march-madness-hero-dylan-darling-enters-transfer-portal/"
     },
     {
-      "title": "Iowa to vacate four wins from 2023 in McNamara tampering case - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/48484969/iowa-vacate-four-wins-2023-mcnamara-tampering-case"
+      "title": "Five biggest NFL draft takeaways from Daniel Jeremiah's conference call previewing 2026 event - NFL.com",
+      "link": "https://www.nfl.com/news/five-biggest-nfl-draft-takeaways-from-daniel-jeremiah-s-conference-call-previewing-2026-event"
     },
     {
       "title": "Brewers Place Christian Yelich On Injured List, Select Greg Jones - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/brewers-place-christian-yelich-on-injured-list-select-greg-jones.html"
     },
     {
-      "title": "Howie Roseman: I\u2019m not answering the question any differently, A.J. Brown is an Eagle - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-im-not-answering-the-question-any-differently-a-j-brown-is-an-eagle"
+      "title": "NFL reporter Dianna Russini resigns from The Athletic after photos published of her with Mike Vrabel - AP News",
+      "link": "https://apnews.com/article/russini-vrabel-0e0006364d9d31f8e0fec65ecfb937c0"
     },
     {
-      "title": "Secret Lair: Back to School Superdrop - Magic: The Gathering",
-      "link": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop"
+      "title": "Ex-Michigan coach Sherrone Moore gets probation for misdemeanors - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/48486274/ex-michigan-coach-sherrone-moore-gets-probation-misdemeanors"
     },
     {
-      "title": "Missouri lands commitment from Tennessee PF transfer Jaylen Carey - On3",
-      "link": "https://www.on3.com/transfer-portal/news/missouri-lands-commitment-from-tennessee-pf-transfer-jaylen-carey/"
+      "title": "Late for Work: Potential Fits for the Ravens on Days 2 and 3 of the Draft - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/vega-ioane-ravens-mock-draft-bulldozer-caleb-banks-denzel-boston-malaki-starks-redraft"
     },
     {
-      "title": "Lions GM Brad Holmes is ready to trade up to draft the right guy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-gm-brad-holmes-is-ready-to-trade-up-to-draft-the-right-guy"
+      "title": "Trail Blazers vs Suns Predictions, Odds, NBA Play-In Tournament Picks - Action Network",
+      "link": "https://www.actionnetwork.com/nba/trail-blazers-vs-suns-prediction-pick-odds-for-nba-play-in-tournament"
     },
     {
-      "title": "Michigan Basketball transfer portal tracker: News, rumors & more - Maize n Brew",
-      "link": "https://www.maizenbrew.com/michigan-mens-basketball-transfer-portal/108587/michigan-basketball-transfer-portal-tracker-juke-harris-john-blackwell"
+      "title": "NFL news roundup: Safety Nasir Adderley coming out of retirement to sign with Colts - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-april-14"
     },
     {
-      "title": "Carlos Prates reveals UFC title fight \u2018plan\u2019 with Ian Machado Garry - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/482468/carlos-prates-reveals-ufc-title-fight-plan-with-ian-machado-garry"
+      "title": "Stephen Jones: No one has called about trading for George Pickens - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-no-one-has-called-about-trading-for-george-pickens"
     },
     {
-      "title": "NFL Draft rumors 2026: NY Giants reportedly among teams looking to trade down - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-draft/159277/nfl-draft-rumors-2026-ny-giants-reportedly-among-teams-looking-to-trade-down"
+      "title": "Avalanche Game 81 at Calgary Flames: Final Road Game Before Playoffs, Lines, Notes & How To Watch - Colorado Hockey Now",
+      "link": "https://coloradohockeynow.com/avalanche-game-81-at-calgary-flames-final-road-game-before-playoffs-lines-notes-how-to-watch/"
     },
     {
-      "title": "Josh Naylor\u2019s First Homers of the Season \u2013 Fantasy Hitting Recap 4/13/2026 - Pitcher List",
-      "link": "http://pitcherlist.com/thats-josh-by-gosh-fantasy-baseball-daily-hitting-recap-4-14-26/"
+      "title": "ESPN's latest Chiefs trade idea would send shockwaves through the NFL Draft - Arrowhead Addict",
+      "link": "https://arrowheadaddict.com/espn-latest-chiefs-trade-idea-would-send-shockwaves-through-nfl-draft-01kp61krrkd4"
     },
     {
-      "title": "Pre-draft picture: Packers looking for better health at running back - Green Bay Packers \u2013 packers.com",
-      "link": "https://www.packers.com/news/pre-draft-picture-packers-looking-for-better-health-at-running-back-april-14-2026"
+      "title": "Inside scoop: Why UNC parted ways with five-star CG Dylan Mingo before freshman season - 247Sports",
+      "link": "https://247sports.com/article/unc-parted-ways-five-star-cg-dylan-mingo-281725795/"
     },
     {
-      "title": "Brian Batko\u2019s worst-case Steelers 2026 mock draft: Maybe there\u2019s not a bad catch in the house - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/2026-nfl-draft/2026/04/14/2026-mock-draft-nfl-pittsburgh-makai-lemon-ty-simpson/stories/202604140005"
+      "title": "Official: Barcelona starting lineup against Atletico Madrid \u2013 Gavi in; No De Jong, Rashford - Barca Universal",
+      "link": "https://barcauniversal.com/official-barcelona-starting-lineup-against-atletico-madrid-gavi-in-no-de-jong-rashford/"
     },
     {
-      "title": "Sources: U.S. Soccer's Matt Crocker To Take Saudi Arabia Role Ahead of World Cup - FOX Sports",
-      "link": "https://www.foxsports.com/stories/soccer/u-s-soccer-sporting-director-matt-crocker-saudi-arabia-2026-world-cup"
+      "title": "Albert Breer\u2019s Notes: Predicting the Perfect NFL Draft Fit for the Giants - Sports Illustrated",
+      "link": "https://www.si.com/nfl/albert-breer-predicting-perfect-nfl-draft-fit-for-giants-2026"
     },
     {
-      "title": "Lazar's Patriots Big Board 2026: Top 50 Draft Fits - Official website of the New England Patriots",
-      "link": "https://www.patriots.com/news/lazar-s-patriots-big-board-2026-top-50-draft-fits"
+      "title": "4/14 Preview - Much Still To Play For, Seeding Scenarios + Laferriere Hits 20, Lineup Decisions, Happy Trails 32 - LA Kings Insider",
+      "link": "https://lakingsinsider.com/2026/04/14/4-14-preview-much-still-to-play-for-seeding-scenarios-laferriere-hits-20-lineup-decisions-happy-trails-32/"
     },
     {
-      "title": "The Opener: Schultz, Cruz, MLBTR Chat - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/the-opener-schultz-cruz-mlbtr-chat.html"
+      "title": "Howie Roseman talks Dontayvion Wicks trade and A.J. Brown non-update - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-free-agency/173551/howie-roseman-pre-draft-comments-aj-brown-trade-update-dontayvion-wicks"
     },
     {
-      "title": "Game Preview: 04.14.26 at St. Louis Blues - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/game-preview-04-14-26-at-st-louis-blues"
-    },
-    {
-      "title": "NBA playoffs 2026: Odds for first-round series, play-in games - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/betting/article/nba-playoffs-2026-odds-for-first-round-series-play-in-games-032523215.html"
-    },
-    {
-      "title": "Flau\u2019Jae Johnson trade shocks at WNBA Draft as Valkyries GM offers strange explanation - New York Post",
-      "link": "https://nypost.com/2026/04/14/sports/flaujae-johnson-trade-shocks-at-wnba-draft-as-valkyries-gm-offers-strange-explanation/"
+      "title": "Head Coach Javier Mascherano Departs Inter Miami CF - intermiamicf",
+      "link": "https://www.intermiamicf.com/news/head-coach-javier-mascherano-departs-inter-miami-cf"
     }
   ],
   "weather": {
