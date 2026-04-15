@@ -1,9 +1,9 @@
 {
-  "quote": "The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. \u2013 Criss Jami",
-  "fact": "15 million blood cells are destroyed in the human body every second.",
-  "crypto": "BTC: $75,214 | ETH: $2,373.82",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "My pet mouse 'Elvis' died last night. He was caught in a trap..",
+  "quote": "The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. \u2013 Jim Rohn",
+  "fact": "Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.",
+  "crypto": "BTC: $74,686 | ETH: $2,352.55",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How come the stadium got hot after the game? Because all of the fans left.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/"
+    },
+    {
       "title": "Overwatch launches on Nintendo Switch 2 with performance issues, Blizzard confirms patch in the works - Nintendo Everything",
       "link": "https://nintendoeverything.com/overwatch-launches-on-nintendo-switch-2-with-performance-issues-blizzard-confirms-patch-in-the-works/"
     },
     {
+      "title": "Prime Video Bundles Apple TV With Peacock Premium Plus For $19.99 A Month - Deadline",
+      "link": "http://deadline.com/2026/04/prime-video-bundle-apple-tv-peacock-premium-plus-1236860665/"
+    },
+    {
+      "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/14/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/"
+    },
+    {
+      "title": "Microsoft's massive Patch Tuesday: It's raining bugs - theregister.com",
+      "link": "https://www.theregister.com/2026/04/14/microsofts_massive_patch_tuesday/"
+    },
+    {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
       "link": "https://www.marvelrivals.com/balancepost/20260414/41667_1295988.html"
+    },
+    {
+      "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/"
+    },
+    {
+      "title": "Disney Removes A Bunch More Games From Steam With No Warning - Kotaku",
+      "link": "https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543"
+    },
+    {
+      "title": "I'm Begging You, Please Do Not Buy the Lenovo Legion Go 2 For $2,000 \u2013 There Are Cheaper Handhelds, I Promise - IGN",
+      "link": "https://www.ign.com/articles/do-not-buy-the-lenovo-legion-go-2-for-2000"
+    },
+    {
+      "title": "Starfield has sold 140K copies on PS5 - The Alinea Insight newsletter",
+      "link": "https://alineaanalytics.substack.com/p/starfield-has-sold-140k-copies-on"
     },
     {
       "title": "Hades II Bonus Content Arrives On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
@@ -28,14 +60,6 @@
       "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-1/"
     },
     {
-      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/"
-    },
-    {
-      "title": "Apple TV users get $2/month Peacock, as bundle expands to new places - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/14/apple-tv-users-get-2-month-peacock-as-bundle-expands-to-new-places/"
-    },
-    {
       "title": "Max Hodak\u2019s Science Corp. is preparing to place its first sensor in a human brain - TechCrunch",
       "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
     },
@@ -44,12 +68,12 @@
       "link": "https://www.theverge.com/tech/911741/google-windows-app-launch"
     },
     {
-      "title": "Apple Launches New All-in-One Apple Business Platform for Device Management, Email, and Customer Engagement - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/14/apple-business-platform-launches/"
-    },
-    {
       "title": "/dev: WASD\u2019s Ranked Release - League of Legends",
       "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-wasds-ranked-release/"
+    },
+    {
+      "title": "Apple Releases Second iOS 26.5, iPadOS 26.5, tvOS 26.5 and watchOS 26.5 Public Betas - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/14/apple-seeds-ios-26-5-public-beta-2/"
     },
     {
       "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019 - WIRED",
@@ -60,106 +84,94 @@
       "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-leveling-up-arena/"
     },
     {
+      "title": "Gemini app starts rolling out Personal Intelligence globally - 9to5Google",
+      "link": "http://9to5google.com/2026/04/14/gemini-personal-intelligence-global/"
+    },
+    {
       "title": "Roundup: The Reviews Are In For Replaced On Xbox Game Pass - Pure Xbox",
       "link": "https://www.purexbox.com/news/2026/04/roundup-the-reviews-are-in-for-replaced-on-xbox-game-pass"
-    },
-    {
-      "title": "Sony\u2019s new 1440p OLED gaming monitor seems a lot better than its first - The Verge",
-      "link": "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features"
-    },
-    {
-      "title": "Disney quietly delists 15 more games on Steam, including a couple of classic Star Wars titles - PC Guide",
-      "link": "https://www.pcguide.com/news/disney-quietly-delists-15-more-games-on-steam-including-a-couple-of-classic-star-wars-titles/"
-    },
-    {
-      "title": "Google will begin punishing sites for back button hijacking in June - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/"
-    },
-    {
-      "title": "DaVinci Resolve adds new photo editing tools to take on Lightroom and Photoshop - The Verge",
-      "link": "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support"
-    },
-    {
-      "title": "Round Up: Reviews Make MOUSE: P.I. For Hire's Art the Star of the Show - Push Square",
-      "link": "https://www.pushsquare.com/features/round-up-reviews-make-mouse-p-i-for-hires-art-the-star-of-the-show"
-    },
-    {
-      "title": "The RAM Crisis Just Royally Screwed Microsoft Surface PCs - Gizmodo",
-      "link": "https://gizmodo.com/the-ram-crisis-just-royally-screwed-microsoft-surface-pcs-2000746236"
     }
   ],
   "sports_news": [
     {
-      "title": "D-backs Announce Several Roster Moves - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/dbacks-gabriel-moreno-injured-list-aramis-garcia-merrill-kelly.html"
+      "title": "Padres Place Nick Pivetta On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/padres-place-nick-pivetta-on-injured-list.html"
     },
     {
-      "title": "St. John\u2019s March Madness hero Dylan Darling enters transfer portal - New York Post",
-      "link": "https://nypost.com/2026/04/14/sports/st-johns-march-madness-hero-dylan-darling-enters-transfer-portal/"
+      "title": "Which Top 100 prospects could be called up next? Here are 7 candidates - MLB.com",
+      "link": "https://www.mlb.com/news/top-100-prospects-who-could-be-called-up-to-mlb-2026"
+    },
+    {
+      "title": "NFL reporter Dianna Russini resigns from The Athletic over photos of her with Patriots coach Mike Vrabel - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/nfl-reporter-dianna-russini-resigns-athletic-photos-patriots-coach-mik-rcna331823"
+    },
+    {
+      "title": "Matt Crocker quits as US Soccer Federation sporting director 2 months before World Cup - AP News",
+      "link": "https://apnews.com/article/matt-crocker-us-soccer-46d1047e9c5ba88d221a315e55aabd0b"
+    },
+    {
+      "title": "The SF Giants are barreling toward a major dilemma at catcher - SFGATE",
+      "link": "https://www.sfgate.com/giants/article/sf-giants-catcher-dilemma-22206660.php"
+    },
+    {
+      "title": "Orioles manager Craig Albernaz suffers broken jaw, multiple cheek fractures after getting hit by foul ball - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/orioles-manager-craig-albernaz-foul-ball-broken-jaw-cheek-fractures/"
+    },
+    {
+      "title": "Projected Lineup: April 14 at NY Islanders - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-april-14-at-ny-islanders"
+    },
+    {
+      "title": "Luka Doncic returns to Los Angeles after hamstring treatments in Spain - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/luka-doncic-returns-to-los-angeles-after-hamstring-treatments-in-spain"
+    },
+    {
+      "title": "Ex-Michigan coach Sherrone Moore sentenced to 18 months probation - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ex-michigan-coach-sherrone-moore-sentenced-to-18-months-probation"
+    },
+    {
+      "title": "Projected Lineup: Wild vs. Ducks - NHL.com",
+      "link": "https://www.nhl.com/wild/news/minnesota-wild-projected-lineup-vs-anaheim-ducks-041426"
+    },
+    {
+      "title": "Pre-Gamin\u2019: Cubs vs Phillies (5:40 CT) \u2013 Lineups, Broadcast Info, Game Thread - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/04/14/cubs-lineup-41426/"
     },
     {
       "title": "Five biggest NFL draft takeaways from Daniel Jeremiah's conference call previewing 2026 event - NFL.com",
       "link": "https://www.nfl.com/news/five-biggest-nfl-draft-takeaways-from-daniel-jeremiah-s-conference-call-previewing-2026-event"
     },
     {
+      "title": "The Dallas Wings' two best players are about to have a big gay summer - Chron",
+      "link": "https://www.chron.com/culture/article/azzi-fudd-bueckers-dallas-wings-22205905.php"
+    },
+    {
       "title": "Brewers Place Christian Yelich On Injured List, Select Greg Jones - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/brewers-place-christian-yelich-on-injured-list-select-greg-jones.html"
-    },
-    {
-      "title": "NFL reporter Dianna Russini resigns from The Athletic after photos published of her with Mike Vrabel - AP News",
-      "link": "https://apnews.com/article/russini-vrabel-0e0006364d9d31f8e0fec65ecfb937c0"
-    },
-    {
-      "title": "Ex-Michigan coach Sherrone Moore gets probation for misdemeanors - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/48486274/ex-michigan-coach-sherrone-moore-gets-probation-misdemeanors"
     },
     {
       "title": "Late for Work: Potential Fits for the Ravens on Days 2 and 3 of the Draft - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/vega-ioane-ravens-mock-draft-bulldozer-caleb-banks-denzel-boston-malaki-starks-redraft"
     },
     {
+      "title": "Atl\u00e9tico Madrid vs Barcelona, Champions League: TV & Streaming, Live Thread - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/117548/atletico-madrid-barcelona-live-stream-lineups-time-tv-channel-how-to-watch-champions-league-online"
+    },
+    {
+      "title": "Ted Leonsis expected to attend Alex Ovechkin\u2019s potential final NHL game against Columbus Blue Jackets - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/04/14/ted-leonsis-alex-ovechkin-potential-final-nhl-game-capitals-blue-jackets/"
+    },
+    {
+      "title": "7 interior offensive line fits for the Patriots in the NFL Draft - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-draft/125763/position-fits-guard-center-2026-preview"
+    },
+    {
+      "title": "Sergio Garcia changes tone after breaking driver in Masters meltdown - New York Post",
+      "link": "https://nypost.com/2026/04/14/sports/sergio-garcia-changes-tone-after-breaking-driver-in-masters-meltdown/"
+    },
+    {
       "title": "Trail Blazers vs Suns Predictions, Odds, NBA Play-In Tournament Picks - Action Network",
       "link": "https://www.actionnetwork.com/nba/trail-blazers-vs-suns-prediction-pick-odds-for-nba-play-in-tournament"
-    },
-    {
-      "title": "NFL news roundup: Safety Nasir Adderley coming out of retirement to sign with Colts - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-april-14"
-    },
-    {
-      "title": "Stephen Jones: No one has called about trading for George Pickens - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-no-one-has-called-about-trading-for-george-pickens"
-    },
-    {
-      "title": "Avalanche Game 81 at Calgary Flames: Final Road Game Before Playoffs, Lines, Notes & How To Watch - Colorado Hockey Now",
-      "link": "https://coloradohockeynow.com/avalanche-game-81-at-calgary-flames-final-road-game-before-playoffs-lines-notes-how-to-watch/"
-    },
-    {
-      "title": "ESPN's latest Chiefs trade idea would send shockwaves through the NFL Draft - Arrowhead Addict",
-      "link": "https://arrowheadaddict.com/espn-latest-chiefs-trade-idea-would-send-shockwaves-through-nfl-draft-01kp61krrkd4"
-    },
-    {
-      "title": "Inside scoop: Why UNC parted ways with five-star CG Dylan Mingo before freshman season - 247Sports",
-      "link": "https://247sports.com/article/unc-parted-ways-five-star-cg-dylan-mingo-281725795/"
-    },
-    {
-      "title": "Official: Barcelona starting lineup against Atletico Madrid \u2013 Gavi in; No De Jong, Rashford - Barca Universal",
-      "link": "https://barcauniversal.com/official-barcelona-starting-lineup-against-atletico-madrid-gavi-in-no-de-jong-rashford/"
-    },
-    {
-      "title": "Albert Breer\u2019s Notes: Predicting the Perfect NFL Draft Fit for the Giants - Sports Illustrated",
-      "link": "https://www.si.com/nfl/albert-breer-predicting-perfect-nfl-draft-fit-for-giants-2026"
-    },
-    {
-      "title": "4/14 Preview - Much Still To Play For, Seeding Scenarios + Laferriere Hits 20, Lineup Decisions, Happy Trails 32 - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2026/04/14/4-14-preview-much-still-to-play-for-seeding-scenarios-laferriere-hits-20-lineup-decisions-happy-trails-32/"
-    },
-    {
-      "title": "Howie Roseman talks Dontayvion Wicks trade and A.J. Brown non-update - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-free-agency/173551/howie-roseman-pre-draft-comments-aj-brown-trade-update-dontayvion-wicks"
-    },
-    {
-      "title": "Head Coach Javier Mascherano Departs Inter Miami CF - intermiamicf",
-      "link": "https://www.intermiamicf.com/news/head-coach-javier-mascherano-departs-inter-miami-cf"
     }
   ],
   "weather": {
