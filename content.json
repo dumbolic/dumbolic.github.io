@@ -1,9 +1,9 @@
 {
-  "quote": "He who cannot be a good follower cannot be a good leader. \u2013 Aristotle",
-  "fact": "Al Capone`s business card said he was a used furniture dealer.",
-  "crypto": "BTC: $74,410 | ETH: $2,333.83",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+  "quote": "A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. \u2013 George Bernard Shaw",
+  "fact": "There is actually no danger in swimming right after you eat, though it may feel uncomfortable.",
+  "crypto": "BTC: $74,541 | ETH: $2,335.26",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I am terrified of elevators. I\u2019m going to start taking steps to avoid them.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Starfield's PS5 port manages roughly 140K sales in a week, estimates analyst firm - Eurogamer",
+      "link": "https://www.eurogamer.net/starfield-ps5-port-sales-estimates-first-week"
+    },
+    {
+      "title": "Back button hijacking to be penalised in Google crackdown - bbc.com",
+      "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o"
+    },
+    {
+      "title": "Family advice: My brother found himself a gold digger. She has the wrong idea about me. - Slate",
+      "link": "https://slate.com/advice/2026/04/family-advice-brother-girlfriend-money-gifts.html"
+    },
+    {
+      "title": "Report: God of War Faye Spin-Off Claimed to Feature Tyr and Multiple Mythologies - MP1st",
+      "link": "https://mp1st.com/news/god-of-war-faye-spin-off-feature-tyr-multiple-mythologies"
+    },
+    {
+      "title": "The Trump phone has a new look \u2014 but it's still not clear when it will be released - Business Insider",
+      "link": "https://www.businessinsider.com/trump-phone-gets-new-look-release-date-still-unclear-2026-4"
+    },
+    {
+      "title": "PS Plus Extra Games for April Leak Ahead of Official Announcement - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/04/ps-plus-extra-games-for-april-leak-ahead-of-official-announcement"
+    },
+    {
+      "title": "I replaced ChatGPT with Google's offline AI on my phone for 24 hours \u2014 here's my verdict - Tom's Guide",
+      "link": "https://www.tomsguide.com/ai/i-replaced-chatgpt-with-offline-ai-on-my-phone-heres-what-actually-happened"
+    },
+    {
       "title": "Jump Rope with Bulbasaur in This Limited-Time Pok\u00e9mon Pokopia Event - Pokemon.com",
       "link": "https://www.pokemon.com/us/pokemon-news/jump-rope-with-bulbasaur-in-this-limited-time-pokemon-pokopia-event"
     },
     {
-      "title": "The Porsche 911 GT3 S/C Is A Manual-Only GT3 Convertible - Motor1.com",
-      "link": "https://www.motor1.com/news/792913/porsche-911-gt3-sc-reveal/"
+      "title": "Google rolls out April Android Canary build with experimental features for Pixel devices - Android Authority",
+      "link": "https://www.androidauthority.com/android-canary-april-2026-update-3657604/"
     },
     {
       "title": "Nintendo GameCube \u2013 Nintendo Classics 1.6.1 update out now - Nintendo Everything",
@@ -28,12 +56,16 @@
       "link": "https://www.nintendolife.com/news/2026/04/video-capcom-shares-a-big-surprise-in-its-latest-pragmata-trailer"
     },
     {
-      "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
-      "link": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/"
+      "title": "\u2018Star Trek: Resurgence\u2019 To Be Removed From Digital Storefronts, So Buy It While You Can - TrekMovie.com",
+      "link": "https://trekmovie.com/2026/04/14/star-trek-resurgence-to-be-removed-from-digital-storefronts-so-buy-it-while-you-can/"
     },
     {
-      "title": "Microsoft adds Windows protections for malicious Remote Desktop files - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/"
+      "title": "US PS5 Hardware Sales Hit a 2026 High Prior to Huge Price Increase - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/04/us-ps5-hardware-sales-hit-a-2026-high-prior-to-huge-price-increase"
+    },
+    {
+      "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
+      "link": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/"
     },
     {
       "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May - Ars Technica",
@@ -42,10 +74,6 @@
     {
       "title": "Overwatch launches on Nintendo Switch 2 with performance issues, Blizzard confirms patch in the works - Nintendo Everything",
       "link": "https://nintendoeverything.com/overwatch-launches-on-nintendo-switch-2-with-performance-issues-blizzard-confirms-patch-in-the-works/"
-    },
-    {
-      "title": "M4 MacBook Air 512GB is $300 off at $899, but same M5 model is just $50 more right now - 9to5Toys",
-      "link": "http://9to5toys.com/2026/04/14/m4-macbook-air-512gb-m5/"
     },
     {
       "title": "Prime Video Bundles Apple TV With Peacock Premium Plus For $19.99 A Month - Deadline",
@@ -62,52 +90,56 @@
     {
       "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/"
-    },
-    {
-      "title": "Disney Removes A Bunch More Games From Steam With No Warning - Kotaku",
-      "link": "https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543"
-    },
-    {
-      "title": "I'm Begging You, Please Do Not Buy the Lenovo Legion Go 2 For $2,000 \u2013 There Are Cheaper Handhelds, I Promise - IGN",
-      "link": "https://www.ign.com/articles/do-not-buy-the-lenovo-legion-go-2-for-2000"
-    },
-    {
-      "title": "Someone planted backdoors in dozens of WordPress plugins used in thousands of websites - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/"
-    },
-    {
-      "title": "Hades II Bonus Content Arrives On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/04/hades-ii-bonus-content-arrives-on-switch-1-and-2-here-are-the-full-patch-notes"
-    },
-    {
-      "title": "TFT patch 17.1 - Teamfight Tactics",
-      "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-1/"
-    },
-    {
-      "title": "YouTube livestreams will now hold back ads during peak engagement to protect the vibe - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/"
     }
   ],
   "sports_news": [
     {
-      "title": "Hornets-Heat: 4 takeaways as Charlotte outduels Miami in Play-In classic - NBA",
-      "link": "https://www.nba.com/news/hornets-heat-4-takeaways-play-in"
+      "title": "Vincent Kompany says he\u2019s already planned for a Real Madrid \u2018Remontada\u2019 against Bayern Munich - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-coaches/189495/vincent-kompany-says-hes-already-planned-for-a-real-madrid-remontada-against-bayern-munich"
     },
     {
-      "title": "Spoelstra Fumes Over Ball\u2019s Grab That Injured Adebayo - Hoops Rumors",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkFLV0t6andCZkxhcGdfemw0SldhNExpakh0ZE5wRFNfTUNCemExTC1MV2IxYWtTZlluTjNjWklyeHZqTlVLSEZMWjBQd3dfTWdyc3JmU0NLTTN2dThJNnVHTFhHWk5sVVhWdTkyQS14T2UwVmFSQmNkZW1tajVoMy14VHk2ZXZkdmQ2bktpUXQ2UjJkb0ttcQ?oc=5"
+      "title": "Mike Vrabel emerges unscathed, for now, after resignation of Dianna Russini - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-emerges-unscathed-for-now-after-resignation-of-dianna-russini"
     },
     {
-      "title": "Prominent NFL reporter resigns amid probe into relationship with Patriots coach - The Washington Post",
-      "link": "https://www.washingtonpost.com/business/2026/04/14/dianna-russini-resigns-patriots-coach/"
+      "title": "Three Pittsburgh Steelers Draft Day Trade Scenarios That Make Sense - Steelers Depot",
+      "link": "https://steelersdepot.com/2026/04/three-pittsburgh-steelers-draft-day-trade-scenarios-that-make-sense/"
+    },
+    {
+      "title": "King's strong start, Bogaerts' big hits help Padres win 6th straight - MLB.com",
+      "link": "https://www.mlb.com/news/padres-win-series-opener-over-mariners"
+    },
+    {
+      "title": "Deni Avdjia fuels late comeback as Blazers drop Suns in Play-In to clinch No. 7 seed - NBA",
+      "link": "https://www.nba.com/news/trail-blazers-suns-play-in"
+    },
+    {
+      "title": "Bam Adebayo injured after LaMelo Ball trips him. Heat coach says Ball should have been ejected - AP News",
+      "link": "https://apnews.com/article/heat-bam-adebayo-injury-hornets-cf25f92b776edc3e7f6be31c9a94f42e"
+    },
+    {
+      "title": "Alex Ovechkin on potential retirement after Capitals beat Columbus in season finale: \u2018I hope it\u2019s not my last game. I don\u2019t know what\u2019s going to happen.\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/04/14/alex-ovechkin-undecided-retirement-hope-not-last-game/"
     },
     {
       "title": "Four-star quarterback Kamden Lopati flips commitment from Illinois to Michigan - On3",
       "link": "https://www.on3.com/rivals/news/four-star-quarterback-kamden-lopati-flips-commitment-from-illinois-to-michigan/"
     },
     {
+      "title": "LaMelo Ball's layup, Miles Bridges' block at buzzer give Hornets 127-126 win over Heat in play-in - AP News",
+      "link": "https://apnews.com/article/heat-hornets-score-869a63def0dfcf379df7a96507469386"
+    },
+    {
       "title": "Report: Giants, Dexter Lawrence reach \"an impasse\" - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-dexter-lawrence-reach-an-impasse"
+    },
+    {
+      "title": "Canes To Face Senators In Round 1 Of 2026 Stanley Cup Playoffs - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/canes-to-face-senators-in-round-1-of-2026-stanley-cup-playoffs"
+    },
+    {
+      "title": "Warriors Notes: Kerr, Curry, Porzingis, Horford, Green - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2026/04/warriors-notes-kerr-curry-porzingis-horford-green.html"
     },
     {
       "title": "USWNT vs. Japan: Starting XI & Lineup Notes on Tuesday, April 14 in Seattle, Washington - US Soccer",
@@ -120,6 +152,10 @@
     {
       "title": "Raiders letting teams calling about the first pick know where they stand - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-letting-teams-calling-about-the-first-pick-know-where-they-stand"
+    },
+    {
+      "title": "The daunting NFL draft speed bump Giants likely face to what makes most sense for them - New York Post",
+      "link": "https://nypost.com/2026/04/14/sports/giants-may-be-left-without-nfl-draft-path-to-trade-down/"
     },
     {
       "title": "Tatsuya Imai reveals he\u2019s having trouble adjusting to \u2018American lifestyle\u2019 during brutal Astros start - New York Post",
@@ -136,38 +172,6 @@
     {
       "title": "Four Takeaways From Barcelona\u2019s Latest Champions League Heartbreak - Sports Illustrated",
       "link": "https://www.si.com/soccer/four-takeaways-from-barcelona-latest-champions-league-heartbreak-4-14-26"
-    },
-    {
-      "title": "Ex-Michigan coach Sherrone Moore gets probation for confrontation with woman who disclosed affair - WOODTV.com",
-      "link": "https://www.woodtv.com/ncaa/ncaa-football/ap-ex-michigan-coach-sherrone-moore-faces-sentencing-for-misdemeanors-that-followed-his-firing/"
-    },
-    {
-      "title": "Orioles manager can only eat baby food for six weeks after taking foul ball to face - New York Post",
-      "link": "https://nypost.com/2026/04/14/sports/orioles-craig-albernaz-can-only-eat-baby-food-after-taking-foull-ball-to-face/"
-    },
-    {
-      "title": "Projected Lineup: April 14 at NY Islanders - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/projected-lineup-april-14-at-ny-islanders"
-    },
-    {
-      "title": "Luka Doncic returns to Los Angeles after hamstring treatments in Spain - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/luka-doncic-returns-to-los-angeles-after-hamstring-treatments-in-spain"
-    },
-    {
-      "title": "Jim Nantz admits CBS bungled its Masters coverage - New York Post",
-      "link": "https://nypost.com/2026/04/14/sports/jim-nantz-admits-cbs-bungled-its-masters-coverage/"
-    },
-    {
-      "title": "How Storm were graded for WNBA draft performance | Analysis - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/storm/how-seattle-storm-were-graded-for-wnba-draft-performance-analysis/"
-    },
-    {
-      "title": "Projected Lineup: Wild vs. Ducks - NHL.com",
-      "link": "https://www.nhl.com/wild/news/minnesota-wild-projected-lineup-vs-anaheim-ducks-041426"
-    },
-    {
-      "title": "What is Daniel Jeremiah's 'Home Run' Scenario for Chargers in Round 1 of 2026 NFL Draft? - Los Angeles Chargers Website",
-      "link": "https://www.chargers.com/news/mock-draft-2026-daniel-jeremiah"
     }
   ],
   "weather": {
