@@ -1,9 +1,9 @@
 {
-  "quote": "The world is changed by your example, not by your opinion. \u2013 Paulo Coelho",
-  "fact": "John Lennon`s first girlfriend was named Thelma Pickles.",
-  "crypto": "BTC: $75,104 | ETH: $2,365.48",
+  "quote": "Stop comparing yourself to others and focus on your own improvement. \u2013 Lolly Daskal",
+  "fact": "Hair is made from the same substance as fingernails.",
+  "crypto": "BTC: $75,071 | ETH: $2,357.78",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
+  "joke": "How does a French skeleton say hello? Bone-jour.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Nintendo GameCube \u2013 Nintendo Classics 1.6.1 update out now - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-gamecube-nintendo-classics-1-6-1-update-out-now/"
+    },
+    {
+      "title": "Video: Capcom Shares A Big Surprise In Its Latest Pragmata Trailer - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/video-capcom-shares-a-big-surprise-in-its-latest-pragmata-trailer"
+    },
+    {
+      "title": "Apple threatened to remove Grok from the App Store over sexualized deepfakes, letter says - NBC News",
+      "link": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
+    },
     {
       "title": "Microsoft\u2019s finally giving up on its massive Surface Hub touchscreen displays - The Verge",
       "link": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued"
@@ -28,10 +40,6 @@
       "link": "http://deadline.com/2026/04/prime-video-bundle-apple-tv-peacock-premium-plus-1236860665/"
     },
     {
-      "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/14/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/"
-    },
-    {
       "title": "Microsoft's massive Patch Tuesday: It's raining bugs - theregister.com",
       "link": "https://www.theregister.com/2026/04/14/microsofts_massive_patch_tuesday/"
     },
@@ -44,10 +52,6 @@
       "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/"
     },
     {
-      "title": "Disney Removes A Bunch More Games From Steam With No Warning - Kotaku",
-      "link": "https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543"
-    },
-    {
       "title": "I'm Begging You, Please Do Not Buy the Lenovo Legion Go 2 For $2,000 \u2013 There Are Cheaper Handhelds, I Promise - IGN",
       "link": "https://www.ign.com/articles/do-not-buy-the-lenovo-legion-go-2-for-2000"
     },
@@ -56,12 +60,12 @@
       "link": "https://alineaanalytics.substack.com/p/starfield-has-sold-140k-copies-on"
     },
     {
-      "title": "Hades II Bonus Content Arrives On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/04/hades-ii-bonus-content-arrives-on-switch-1-and-2-here-are-the-full-patch-notes"
+      "title": "Someone planted backdoors in dozens of WordPress plugins used in thousands of websites - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/"
     },
     {
-      "title": "Sony announces INZONE M10S II, 27-inch OLED QHD 540 & HD 720Hz dual mode gaming monitor at $1099 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/sony-announces-inzone-m10s-ii-27-inch-oled-qhd-540-hd-720hz-dual-mode-gaming-monitor-at-1099"
+      "title": "Hades II Bonus Content Arrives On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/hades-ii-bonus-content-arrives-on-switch-1-and-2-here-are-the-full-patch-notes"
     },
     {
       "title": "TFT patch 17.1 - Teamfight Tactics",
@@ -76,54 +80,58 @@
       "link": "https://www.macrumors.com/2026/04/14/apple-seeds-ios-26-5-public-beta-2/"
     },
     {
+      "title": "Microsoft is removing 32GB size limit for FAT32 volumes, this time for real - TechSpot",
+      "link": "https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html"
+    },
+    {
       "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019 - WIRED",
       "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/"
-    },
-    {
-      "title": "/dev: Leveling Up Arena - League of Legends",
-      "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-leveling-up-arena/"
-    },
-    {
-      "title": "Gemini app starts rolling out Personal Intelligence globally - 9to5Google",
-      "link": "http://9to5google.com/2026/04/14/gemini-personal-intelligence-global/"
-    },
-    {
-      "title": "Roundup: The Reviews Are In For Replaced On Xbox Game Pass - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/04/roundup-the-reviews-are-in-for-replaced-on-xbox-game-pass"
     }
   ],
   "sports_news": [
     {
+      "title": "Bam Adebayo injured after LaMelo Ball trips him. Heat coach says Ball should have been ejected - AP News",
+      "link": "https://apnews.com/article/heat-bam-adebayo-injury-hornets-cf25f92b776edc3e7f6be31c9a94f42e"
+    },
+    {
+      "title": "Prominent NFL reporter resigns amid probe into relationship with Patriots coach - The Washington Post",
+      "link": "https://www.washingtonpost.com/business/2026/04/14/dianna-russini-resigns-patriots-coach/"
+    },
+    {
+      "title": "Miami Heat vs. Charlotte Hornets Live Score and Stats - April 14, 2026 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260414_MIA@CHA/"
+    },
+    {
+      "title": "Jarren Duran: Obscene gesture was due to fan crossing line - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/48490369/jarren-duran-obscene-gesture-was-due-fan-crossing-line"
+    },
+    {
+      "title": "Report: Giants, Dexter Lawrence reach \"an impasse\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-dexter-lawrence-reach-an-impasse"
+    },
+    {
       "title": "USWNT vs. Japan: Starting XI & Lineup Notes on Tuesday, April 14 in Seattle, Washington - US Soccer",
       "link": "https://ussoccer.com/stories/2026/04/uswnt-vs-japan-starting-xi-lineup-notes-april-seattle-washington"
+    },
+    {
+      "title": "Tatsuya Imai reveals he\u2019s having trouble adjusting to \u2018American lifestyle\u2019 during brutal Astros start - New York Post",
+      "link": "https://nypost.com/2026/04/14/sports/astros-tatsuya-imai-having-trouble-adjusting-to-american-lifestyle/"
     },
     {
       "title": "Padres Place Nick Pivetta On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/padres-place-nick-pivetta-on-injured-list.html"
     },
     {
-      "title": "Which Top 100 prospects could be called up next? Here are 7 candidates - MLB.com",
-      "link": "https://www.mlb.com/news/top-100-prospects-who-could-be-called-up-to-mlb-2026"
-    },
-    {
       "title": "Four Takeaways From Barcelona\u2019s Latest Champions League Heartbreak - Sports Illustrated",
       "link": "https://www.si.com/soccer/four-takeaways-from-barcelona-latest-champions-league-heartbreak-4-14-26"
     },
     {
-      "title": "NFL reporter Dianna Russini resigns from The Athletic over photos of her with Patriots coach Mike Vrabel - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/nfl-reporter-dianna-russini-resigns-athletic-photos-patriots-coach-mik-rcna331823"
-    },
-    {
-      "title": "Heat vs Hornets Prediction, Picks, Odds for Tonight\u2019s NBA Play-In Game - Action Network",
-      "link": "https://www.actionnetwork.com/nba/heat-vs-hornets-prediction-pick-odds-for-nba-play-in-tournament"
+      "title": "Ex-Michigan coach Sherrone Moore gets probation for confrontation with woman who disclosed affair - WOODTV.com",
+      "link": "https://www.woodtv.com/ncaa/ncaa-football/ap-ex-michigan-coach-sherrone-moore-faces-sentencing-for-misdemeanors-that-followed-his-firing/"
     },
     {
       "title": "Matt Crocker quits as US Soccer Federation sporting director 2 months before World Cup - AP News",
       "link": "https://apnews.com/article/matt-crocker-us-soccer-46d1047e9c5ba88d221a315e55aabd0b"
-    },
-    {
-      "title": "The SF Giants are barreling toward a major dilemma at catcher - SFGATE",
-      "link": "https://www.sfgate.com/giants/article/sf-giants-catcher-dilemma-22206660.php"
     },
     {
       "title": "Orioles manager Craig Albernaz suffers broken jaw, multiple cheek fractures after getting hit by foul ball - CBS Sports",
@@ -138,24 +146,16 @@
       "link": "https://www.nbcsports.com/nba/news/luka-doncic-returns-to-los-angeles-after-hamstring-treatments-in-spain"
     },
     {
-      "title": "Jim Nantz admits CBS bungled its Masters coverage - New York Post",
-      "link": "https://nypost.com/2026/04/14/sports/jim-nantz-admits-cbs-bungled-its-masters-coverage/"
-    },
-    {
-      "title": "Ian Eagle-Stan Van Gundy lead Prime Video\u2019s NBA Playoffs coverage - Awful Announcing",
-      "link": "https://awfulannouncing.com/amazon/prime-video-ian-eagle-stan-van-gundy-booth-nba-playoffs-play-in-tournament.html"
-    },
-    {
-      "title": "Ex-Michigan coach Sherrone Moore sentenced to 18 months probation - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ex-michigan-coach-sherrone-moore-sentenced-to-18-months-probation"
-    },
-    {
       "title": "How Storm were graded for WNBA draft performance | Analysis - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/storm/how-seattle-storm-were-graded-for-wnba-draft-performance-analysis/"
     },
     {
       "title": "Projected Lineup: Wild vs. Ducks - NHL.com",
       "link": "https://www.nhl.com/wild/news/minnesota-wild-projected-lineup-vs-anaheim-ducks-041426"
+    },
+    {
+      "title": "J. Cole\u2019s Chinese Basketball Career Ends After Eight Scoreless Minutes - Consequence of Sound",
+      "link": "https://consequence.net/2026/04/j-cole-chinese-basketball-visa-issues/"
     },
     {
       "title": "Five biggest NFL draft takeaways from Daniel Jeremiah's conference call previewing 2026 event - NFL.com",
@@ -168,10 +168,6 @@
     {
       "title": "Brewers Place Christian Yelich On Injured List, Select Greg Jones - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/brewers-place-christian-yelich-on-injured-list-select-greg-jones.html"
-    },
-    {
-      "title": "New Analytics Model Projects Which 2026 Draft Picks Become Stars - And Who Turns Into Busts - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/04/new-analytics-model-projects-which-2026-draft-picks-become-stars-and-who-turns-into-busts/"
     }
   ],
   "weather": {
