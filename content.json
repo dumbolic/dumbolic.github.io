@@ -1,16 +1,24 @@
 {
-  "quote": "Stop comparing yourself to others and focus on your own improvement. \u2013 Lolly Daskal",
-  "fact": "Hair is made from the same substance as fingernails.",
-  "crypto": "BTC: $75,071 | ETH: $2,357.78",
+  "quote": "If you done it, it ain't bragging. \u2013 Walt Whitman",
+  "fact": "The thyroid cartilage is more commonly known as the adams apple.",
+  "crypto": "BTC: $74,783 | ETH: $2,348.8",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How does a French skeleton say hello? Bone-jour.",
+  "joke": "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Jump Rope with Bulbasaur in This Limited-Time Pok\u00e9mon Pokopia Event - Pokemon.com",
+      "link": "https://www.pokemon.com/us/pokemon-news/jump-rope-with-bulbasaur-in-this-limited-time-pokemon-pokopia-event"
+    },
+    {
+      "title": "The Porsche 911 GT3 S/C Is A Manual-Only GT3 Convertible - Motor1.com",
+      "link": "https://www.motor1.com/news/792913/porsche-911-gt3-sc-reveal/"
+    },
     {
       "title": "Nintendo GameCube \u2013 Nintendo Classics 1.6.1 update out now - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-gamecube-nintendo-classics-1-6-1-update-out-now/"
@@ -20,12 +28,12 @@
       "link": "https://www.nintendolife.com/news/2026/04/video-capcom-shares-a-big-surprise-in-its-latest-pragmata-trailer"
     },
     {
-      "title": "Apple threatened to remove Grok from the App Store over sexualized deepfakes, letter says - NBC News",
-      "link": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
+      "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
+      "link": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/"
     },
     {
-      "title": "Microsoft\u2019s finally giving up on its massive Surface Hub touchscreen displays - The Verge",
-      "link": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued"
+      "title": "Microsoft adds Windows protections for malicious Remote Desktop files - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/"
     },
     {
       "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May - Ars Technica",
@@ -34,6 +42,10 @@
     {
       "title": "Overwatch launches on Nintendo Switch 2 with performance issues, Blizzard confirms patch in the works - Nintendo Everything",
       "link": "https://nintendoeverything.com/overwatch-launches-on-nintendo-switch-2-with-performance-issues-blizzard-confirms-patch-in-the-works/"
+    },
+    {
+      "title": "M4 MacBook Air 512GB is $300 off at $899, but same M5 model is just $50 more right now - 9to5Toys",
+      "link": "http://9to5toys.com/2026/04/14/m4-macbook-air-512gb-m5/"
     },
     {
       "title": "Prime Video Bundles Apple TV With Peacock Premium Plus For $19.99 A Month - Deadline",
@@ -52,12 +64,12 @@
       "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/"
     },
     {
-      "title": "I'm Begging You, Please Do Not Buy the Lenovo Legion Go 2 For $2,000 \u2013 There Are Cheaper Handhelds, I Promise - IGN",
-      "link": "https://www.ign.com/articles/do-not-buy-the-lenovo-legion-go-2-for-2000"
+      "title": "Disney Removes A Bunch More Games From Steam With No Warning - Kotaku",
+      "link": "https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543"
     },
     {
-      "title": "Starfield has sold 140K copies on PS5 - The Alinea Insight newsletter",
-      "link": "https://alineaanalytics.substack.com/p/starfield-has-sold-140k-copies-on"
+      "title": "I'm Begging You, Please Do Not Buy the Lenovo Legion Go 2 For $2,000 \u2013 There Are Cheaper Handhelds, I Promise - IGN",
+      "link": "https://www.ign.com/articles/do-not-buy-the-lenovo-legion-go-2-for-2000"
     },
     {
       "title": "Someone planted backdoors in dozens of WordPress plugins used in thousands of websites - TechCrunch",
@@ -72,38 +84,26 @@
       "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-1/"
     },
     {
-      "title": "/dev: WASD\u2019s Ranked Release - League of Legends",
-      "link": "https://www.leagueoflegends.com/en-us/news/dev/dev-wasds-ranked-release/"
-    },
-    {
-      "title": "Apple Releases Second iOS 26.5, iPadOS 26.5, tvOS 26.5 and watchOS 26.5 Public Betas - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/14/apple-seeds-ios-26-5-public-beta-2/"
-    },
-    {
-      "title": "Microsoft is removing 32GB size limit for FAT32 volumes, this time for real - TechSpot",
-      "link": "https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html"
-    },
-    {
-      "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019 - WIRED",
-      "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/"
+      "title": "YouTube livestreams will now hold back ads during peak engagement to protect the vibe - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/"
     }
   ],
   "sports_news": [
     {
-      "title": "Bam Adebayo injured after LaMelo Ball trips him. Heat coach says Ball should have been ejected - AP News",
-      "link": "https://apnews.com/article/heat-bam-adebayo-injury-hornets-cf25f92b776edc3e7f6be31c9a94f42e"
+      "title": "Hornets-Heat: 4 takeaways as Charlotte outduels Miami in Play-In classic - NBA",
+      "link": "https://www.nba.com/news/hornets-heat-4-takeaways-play-in"
+    },
+    {
+      "title": "Spoelstra Fumes Over Ball\u2019s Grab That Injured Adebayo - Hoops Rumors",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkFLV0t6andCZkxhcGdfemw0SldhNExpakh0ZE5wRFNfTUNCemExTC1MV2IxYWtTZlluTjNjWklyeHZqTlVLSEZMWjBQd3dfTWdyc3JmU0NLTTN2dThJNnVHTFhHWk5sVVhWdTkyQS14T2UwVmFSQmNkZW1tajVoMy14VHk2ZXZkdmQ2bktpUXQ2UjJkb0ttcQ?oc=5"
     },
     {
       "title": "Prominent NFL reporter resigns amid probe into relationship with Patriots coach - The Washington Post",
       "link": "https://www.washingtonpost.com/business/2026/04/14/dianna-russini-resigns-patriots-coach/"
     },
     {
-      "title": "Miami Heat vs. Charlotte Hornets Live Score and Stats - April 14, 2026 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260414_MIA@CHA/"
-    },
-    {
-      "title": "Jarren Duran: Obscene gesture was due to fan crossing line - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/48490369/jarren-duran-obscene-gesture-was-due-fan-crossing-line"
+      "title": "Four-star quarterback Kamden Lopati flips commitment from Illinois to Michigan - On3",
+      "link": "https://www.on3.com/rivals/news/four-star-quarterback-kamden-lopati-flips-commitment-from-illinois-to-michigan/"
     },
     {
       "title": "Report: Giants, Dexter Lawrence reach \"an impasse\" - NBC Sports",
@@ -114,12 +114,24 @@
       "link": "https://ussoccer.com/stories/2026/04/uswnt-vs-japan-starting-xi-lineup-notes-april-seattle-washington"
     },
     {
+      "title": "Projected Lineup: April 14 vs. Pittsburgh - NHL.com",
+      "link": "https://www.nhl.com/blues/news/projected-lineup-april-14-vs-pittsburgh"
+    },
+    {
+      "title": "Raiders letting teams calling about the first pick know where they stand - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-letting-teams-calling-about-the-first-pick-know-where-they-stand"
+    },
+    {
       "title": "Tatsuya Imai reveals he\u2019s having trouble adjusting to \u2018American lifestyle\u2019 during brutal Astros start - New York Post",
       "link": "https://nypost.com/2026/04/14/sports/astros-tatsuya-imai-having-trouble-adjusting-to-american-lifestyle/"
     },
     {
       "title": "Padres Place Nick Pivetta On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/padres-place-nick-pivetta-on-injured-list.html"
+    },
+    {
+      "title": "Major League Baseball Is Sanitizing Jackie Robinson\u2019s Radical Legacy - Talking Points Memo",
+      "link": "http://talkingpointsmemo.com/cafe/major-league-baseball-is-sanitizing-jackie-robinsons-radical-legacy"
     },
     {
       "title": "Four Takeaways From Barcelona\u2019s Latest Champions League Heartbreak - Sports Illustrated",
@@ -130,12 +142,8 @@
       "link": "https://www.woodtv.com/ncaa/ncaa-football/ap-ex-michigan-coach-sherrone-moore-faces-sentencing-for-misdemeanors-that-followed-his-firing/"
     },
     {
-      "title": "Matt Crocker quits as US Soccer Federation sporting director 2 months before World Cup - AP News",
-      "link": "https://apnews.com/article/matt-crocker-us-soccer-46d1047e9c5ba88d221a315e55aabd0b"
-    },
-    {
-      "title": "Orioles manager Craig Albernaz suffers broken jaw, multiple cheek fractures after getting hit by foul ball - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/orioles-manager-craig-albernaz-foul-ball-broken-jaw-cheek-fractures/"
+      "title": "Orioles manager can only eat baby food for six weeks after taking foul ball to face - New York Post",
+      "link": "https://nypost.com/2026/04/14/sports/orioles-craig-albernaz-can-only-eat-baby-food-after-taking-foull-ball-to-face/"
     },
     {
       "title": "Projected Lineup: April 14 at NY Islanders - NHL.com",
@@ -146,6 +154,10 @@
       "link": "https://www.nbcsports.com/nba/news/luka-doncic-returns-to-los-angeles-after-hamstring-treatments-in-spain"
     },
     {
+      "title": "Jim Nantz admits CBS bungled its Masters coverage - New York Post",
+      "link": "https://nypost.com/2026/04/14/sports/jim-nantz-admits-cbs-bungled-its-masters-coverage/"
+    },
+    {
       "title": "How Storm were graded for WNBA draft performance | Analysis - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/storm/how-seattle-storm-were-graded-for-wnba-draft-performance-analysis/"
     },
@@ -154,20 +166,8 @@
       "link": "https://www.nhl.com/wild/news/minnesota-wild-projected-lineup-vs-anaheim-ducks-041426"
     },
     {
-      "title": "J. Cole\u2019s Chinese Basketball Career Ends After Eight Scoreless Minutes - Consequence of Sound",
-      "link": "https://consequence.net/2026/04/j-cole-chinese-basketball-visa-issues/"
-    },
-    {
-      "title": "Five biggest NFL draft takeaways from Daniel Jeremiah's conference call previewing 2026 event - NFL.com",
-      "link": "https://www.nfl.com/news/five-biggest-nfl-draft-takeaways-from-daniel-jeremiah-s-conference-call-previewing-2026-event"
-    },
-    {
-      "title": "The Dallas Wings' two best players are about to have a big gay summer - Chron",
-      "link": "https://www.chron.com/culture/article/azzi-fudd-bueckers-dallas-wings-22205905.php"
-    },
-    {
-      "title": "Brewers Place Christian Yelich On Injured List, Select Greg Jones - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/brewers-place-christian-yelich-on-injured-list-select-greg-jones.html"
+      "title": "What is Daniel Jeremiah's 'Home Run' Scenario for Chargers in Round 1 of 2026 NFL Draft? - Los Angeles Chargers Website",
+      "link": "https://www.chargers.com/news/mock-draft-2026-daniel-jeremiah"
     }
   ],
   "weather": {
