@@ -1,9 +1,9 @@
 {
-  "quote": "Life reflects your own thoughts back to you. \u2013 Napoleon Hill",
-  "fact": "A \u201cjiffy\u201d is the scientific name for 1/100th of a second.",
-  "crypto": "BTC: $76,133 | ETH: $2,357.87",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did the sea say to the sand? \"We have to stop meeting like this.\"",
+  "quote": "It isn't that they can't see the solution. It is that they can't see the problem. \u2013 Gilbert Chesterton",
+  "fact": "98% of Japanese are cremated.",
+  "crypto": "BTC: $76,179 | ETH: $2,357.15",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the feline fail the lie detector test? Because he be lion.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Netflix plans to add a vertical video feed, use AI for recommendations - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/"
+    },
+    {
+      "title": "The creative software industry has declared war on Adobe - The Verge",
+      "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates"
+    },
+    {
+      "title": "Fans Accuse Capcom\u2019s Twitch Badge For Pragmata Of Referencing A Pedo Meme - Kotaku",
+      "link": "https://kotaku.com/pragmata-twitch-chat-badge-loli-uoh-2000688503"
+    },
+    {
       "title": "Pok\u00e9mon & Zelda Rip-Off 'Pickmos' Removed From Steam As Publisher Intervenes - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/04/pokemon-and-zelda-rip-off-pickmos-removed-from-steam-as-publisher-intervenes"
+    },
+    {
+      "title": "Slay the Spire 2 gets its first major update, buffing the Regent, bringing sweeping balance changes, and adding a powerful new card - Eurogamer",
+      "link": "https://www.eurogamer.net/slay-the-spire-2-major-update-1"
+    },
+    {
+      "title": "Microsoft Finally Ups FAT32 Size Limit - Hackaday",
+      "link": "https://hackaday.com/2026/04/17/microsoft-finally-ups-fat32-size-limit/"
+    },
+    {
+      "title": "Asha Sharma Lays Out Plans For 'Deeper Investment' In Xbox's Platform Foundations - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/04/asha-sharma-lays-out-plans-for-deeper-investment-in-xboxs-platform-foundations"
     },
     {
       "title": "iPhone 18 Pro's Four Rumored Colors Revealed, Including 'Dark Cherry' - MacRumors",
@@ -28,8 +52,16 @@
       "link": "https://www.gamespot.com/articles/mouse-pi-for-hire-mission-list/1100-6539374/"
     },
     {
+      "title": "Microsoft Defender 0-Day Vulnerability \u201cRedSun\u201d Enables Full SYSTEM Access - CyberSecurityNews",
+      "link": "https://cybersecuritynews.com/defender-0-day-redsun/"
+    },
+    {
       "title": "Trails in the Sky 2nd Chapter launches September 17 - Gematsu",
       "link": "https://www.gematsu.com/2026/04/trails-in-the-sky-2nd-chapter-launches-september-17"
+    },
+    {
+      "title": "Neo Geo AES Returns as Cartridge-Based Console Without Using Software Emulation - Anime News Network",
+      "link": "https://www.animenewsnetwork.com/news/2026-04-16/neo-geo-aes-returns-as-cartridge-based-console-without-using-software-emulation/.236484"
     },
     {
       "title": "Amazon will reportedly never release another new Android-based Fire TV Stick \u2014 It\u2019s Vega OS only from this point on - AFTVnews",
@@ -38,6 +70,10 @@
     {
       "title": "Homeowners Share The Minimal-Cost Projects That Solved Seriously Annoying Inconveniences - BuzzFeed",
       "link": "https://www.buzzfeed.com/rossyoder/best-low-cost-home-projects-upgrades-fs"
+    },
+    {
+      "title": "iPhone Loyalty Hits 96.4% as Android Users Four Times More Likely to Switch - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/16/iphone-loyalty-survey/"
     },
     {
       "title": "Google working on Pixel \u2018laptop\u2019 and \u2018Pixel Glow\u2019 lights that are also coming to phones - 9to5Google",
@@ -54,45 +90,21 @@
     {
       "title": "EXCLUSIVE: New Lacrosse 26 Details Ahead of April 24 Release - Insider Gaming",
       "link": "https://insider-gaming.com/new-lacrosse-26-details-ahead-of-april-24-release/"
-    },
-    {
-      "title": "Android 17 brings a bit of Pixel Watch whimsy to your notification shade - 9to5Google",
-      "link": "http://9to5google.com/2026/04/16/android-17-brings-a-bit-of-pixel-watch-whimsy-to-your-notification-shade/"
-    },
-    {
-      "title": "Apple's $599 MacBook Neo Sold Out Through April Amid Surging Demand - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/16/macbook-neo-demand-surging/"
-    },
-    {
-      "title": "Arc Raiders Hits A \u2018Dead Game\u2019 Spiral Other Live Shooters Would Kill For - Kotaku",
-      "link": "https://kotaku.com/arc-raiders-hits-a-dead-game-spiral-other-live-shooters-would-kill-for-2000688321"
-    },
-    {
-      "title": "Netflix embraces vertical video with major mobile app update - The Verge",
-      "link": "https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video"
-    },
-    {
-      "title": "The Osmo Pocket 4 Is the First True Victim of the US Government's DJI Ban - PCMag UK",
-      "link": "https://uk.pcmag.com/cameras-1/164463/the-osmo-pocket-4-is-the-first-true-victim-of-the-us-governments-dji-ban"
-    },
-    {
-      "title": "Second Stone \u2013 Galaxies Spring 2026 trailer - Gematsu",
-      "link": "https://www.gematsu.com/2026/04/second-stone-galaxies-spring-2026-trailer"
-    },
-    {
-      "title": "Assassin\u2019s Creed: Black Flag Resynced Releases July 9, 2026 - Insider Gaming",
-      "link": "https://insider-gaming.com/black-flag-resynced-release-date/"
-    },
-    {
-      "title": "The Division Was Originally A World Of Warcraft Clone, Says Ubisoft - Kotaku",
-      "link": "https://kotaku.com/the-division-mmorgp-world-of-warcraft-gameplay-early-look-ubisoft-wow-2000688307"
-    },
-    {
-      "title": "The DaVinci Resolve 21 Photo Editing Tools Show Promise but Are Imperfect - PetaPixel",
-      "link": "https://petapixel.com/2026/04/16/the-davinci-resolve-21-photo-editing-tools-show-promise-but-are-imperfect/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Flyers to host Games 3 & 4 on April 22 & 25 at Xfinity Mobile Arena - NHL.com",
+      "link": "https://www.nhl.com/flyers/news/flyers-to-host-games-3-4-on-april-22-25-at-xfinity-mobile-arena"
+    },
+    {
+      "title": "Ex-NBA player Damon Jones is expected to become first person to plead guilty in gambling sweep - AP News",
+      "link": "https://apnews.com/article/damon-jones-nba-poker-betting-lebron-james-db3d2048d7e826aeec2808fa092d6631"
+    },
+    {
+      "title": "What Mike Trout did to Yankees wasn\u2019t just about home runs | Klapisch - NJ.com",
+      "link": "https://www.nj.com/yankees/2026/04/what-mike-trout-did-to-the-yankees-wasnt-just-about-home-runs-klapisch.html"
+    },
     {
       "title": "Brett Veach: This draft has offensive line talent, but it dries up quickly after Round 1 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brett-veach-this-draft-has-offensive-line-talent-but-it-dries-up-quickly-after-round-1"
@@ -102,20 +114,44 @@
       "link": "https://www.prideofdetroit.com/detroit-lions-draft/161510/2026-nfl-mock-draft-detroit-lions-tj-parker-2nd-round"
     },
     {
+      "title": "Time running out on Bears to decide on new stadium site - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48505331/chicago-bears-stadium-hammond-indiana-arlington-heights-nfl"
+    },
+    {
+      "title": "FIFA \u2018surprised\u2019 by US backlash as transport costs skyrocket at World Cup - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/4/16/fifa-surprised-by-us-backlash-as-transport-costs-skyrocket-at-world-cup"
+    },
+    {
       "title": "Ray Fittipaldo's final Steelers 7-round mock draft: Reading the tea leaves with a new coach in town - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/2026-nfl-draft/2026/04/17/nfl-mock-draft-boston-khan-mccarthy/stories/202604170015"
     },
     {
-      "title": "Sabres announce schedule, tune-in info for Round 1 playoff series vs. Bruins - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/how-to-watch-sabres-bruins-playoff-series-schedule"
+      "title": "Gameday: Mud Hens 10, Bats 5 Final Score (04/16/2026) - MLB.com",
+      "link": "https://www.milb.com/gameday/mud-hens-vs-bats/2026/04/16/816290/final/box"
+    },
+    {
+      "title": "Sabres will open the playoffs Sunday night | WGR Sports Radio Buffalo - Audacy",
+      "link": "https://www.audacy.com/wgr550/sports/sabres/sabres-will-open-the-playoffs-sunday-night"
+    },
+    {
+      "title": "Minnesota Wild First Round Stanley Cup Playoff Schedule Announced - NHL.com",
+      "link": "https://www.nhl.com/wild/news/minnesota-wild-first-round-stanley-cup-playoff-schedule-announced-041626"
+    },
+    {
+      "title": "Giants get a big start from Landen Roupp, beat Reds to snap losing streak - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/giants/article/giants-get-big-start-landen-roupp-beat-reds-end-22210399.php"
     },
     {
       "title": "USA Today fires reporter for Twitter comments about Dianna Russini - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/usa-today-fires-reporter-for-twitter-comments-about-dianna-russini"
     },
     {
-      "title": "Iranian footballers say Australia has given them 'hope' for safe future - BBC",
-      "link": "https://www.bbc.com/news/articles/c624x4xgw6xo"
+      "title": "Mulling retirement, Alex Ovechkin keeps the Capitals (and his kids) guessing - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2026/04/16/alex-ovechkin-retirement-exit-interview/"
+    },
+    {
+      "title": "Thoughts on a 9-6 Rangers win - Lone Star Ball",
+      "link": "https://www.lonestarball.com/game-thoughts/89852/thoughts-on-a-9-6-rangers-win"
     },
     {
       "title": "Refusing to acknowledge Azzi Fudd, Paige Bueckers relationship feeds an ugly narrative - Dallas News",
@@ -130,48 +166,12 @@
       "link": "https://www.baltimoreravens.com/news/ravens-new-uniforms-jerseys-helmets-next-flight-collection-midnight-purple-matte-black-wings-talon-stripes"
     },
     {
+      "title": "Joe Hortiz addresses trade rumors involving Quentin Johnston - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-hortiz-addresses-trade-rumors-involving-quentin-johnston"
+    },
+    {
       "title": "Devils hire top GM candidate, N.J. native - NJ.com",
       "link": "https://www.nj.com/devils/2026/04/devils-hire-top-gm-candidate-nj-native.html"
-    },
-    {
-      "title": "This Mets futility isn\u2019t on Carlos Mendoza - New York Post",
-      "link": "https://nypost.com/2026/04/16/sports/this-mets-futility-isnt-on-carlos-mendoza/"
-    },
-    {
-      "title": "Royals lose a heartbreaker to Tigers, 10-9 - Royals Review",
-      "link": "https://www.royalsreview.com/kansas-city-royals-game-information/97060/royals-lose-a-heartbreaker-to-tigers-10-9"
-    },
-    {
-      "title": "LeBron looks forward to sharing floor with Bronny in playoffs - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48507243/lebron-looks-forward-sharing-floor-bronny-playoffs"
-    },
-    {
-      "title": "Cardinals GM Monti Ossenfort: 'We're not really naming anybody' as starting quarterback - NFL.com",
-      "link": "https://www.nfl.com/news/cardinals-gm-monti-ossenfort-we-re-not-really-naming-anybody-as-starting-quarterback"
-    },
-    {
-      "title": "Trump administration expects Iranian team to travel to U.S. for World Cup - Politico",
-      "link": "https://www.politico.com/news/2026/04/16/trump-administration-expects-iranian-team-to-travel-to-u-s-for-world-cup-00877914"
-    },
-    {
-      "title": "Indiana Pacers and Denver Nuggets to Play Regular-Season Game in Mexico City on Nov. 7 - NBA",
-      "link": "https://pacers.com/news/indiana-pacers-and-denver-nuggets-to-play-regular-season-game-in-mexico-city-on-nov-7"
-    },
-    {
-      "title": "Broncos don't expect to have a rookie starter in 2026, which prompted trade for Jaylen Waddle - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-dont-expect-to-have-a-rookie-starter-in-2026-which-prompted-trade-for-jaylen-waddle"
-    },
-    {
-      "title": "Angels' Mike Trout makes Yankee Stadium history in five-homer series - New York Post",
-      "link": "https://nypost.com/2026/04/16/sports/angels-mike-trout-makes-yankee-stadium-history-in-five-homer-series/"
-    },
-    {
-      "title": "Long Beach Thursday Notebook - Sportscar365",
-      "link": "https://sportscar365.com/imsa/iwsc/long-beach-thursday-notebook-10/"
-    },
-    {
-      "title": "Rays 5, White Sox 3: Unhappy flight - Sox Machine",
-      "link": "https://soxmachine.com/2026/04/rays-5-white-sox-3-unhappy-flight"
     }
   ],
   "weather": {
