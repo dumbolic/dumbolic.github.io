@@ -1,9 +1,9 @@
 {
-  "quote": "You can't build a reputation on what you are going to do.  \u2013 Henry Ford",
-  "fact": "Of all the words in the English language, the word 'set' has the most definitions!",
-  "crypto": "BTC: $77,361 | ETH: $2,423.45",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you get hanging from Apple trees? Sore arms.",
+  "quote": "It is not as important how we start, but how we finish. \u2013 Joyce Meyer",
+  "fact": "Hannibal had only one eye after getting a disease while attacking Rome.",
+  "crypto": "BTC: $77,109 | ETH: $2,408.93",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "My pet mouse 'Elvis' died last night. He was caught in a trap..",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Homeowners Share The Minimal-Cost Projects That Solved Seriously Annoying Inconveniences - BuzzFeed",
+      "link": "https://www.buzzfeed.com/rossyoder/best-low-cost-home-projects-upgrades-fs"
+    },
     {
       "title": "Google working on Pixel \u2018laptop\u2019 and \u2018Pixel Glow\u2019 lights that are also coming to phones - 9to5Google",
       "link": "http://9to5google.com/2026/04/16/pixel-glow-laptop/"
@@ -26,6 +30,22 @@
     {
       "title": "Arc Raiders Hits A \u2018Dead Game\u2019 Spiral Other Live Shooters Would Kill For - Kotaku",
       "link": "https://kotaku.com/arc-raiders-hits-a-dead-game-spiral-other-live-shooters-would-kill-for-2000688321"
+    },
+    {
+      "title": "Apple, Google Offer \u2018Nudify\u2019 Apps Despite Policies Against Them - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/apple-google-offer-nudify-apps-despite-policies-against-them"
+    },
+    {
+      "title": "Android 17 Beta 4 rolling out for Pixel as last scheduled release - 9to5Google",
+      "link": "http://9to5google.com/2026/04/16/android-17-beta-4-pixel/"
+    },
+    {
+      "title": "Second Stone \u2013 Galaxies Spring 2026 trailer - Gematsu",
+      "link": "https://www.gematsu.com/2026/04/second-stone-galaxies-spring-2026-trailer"
+    },
+    {
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/"
     },
     {
       "title": "Assassin\u2019s Creed: Black Flag Resynced Releases July 9, 2026 - Insider Gaming",
@@ -66,32 +86,16 @@
     {
       "title": "Microsoft\u2019s new Xbox chief starts making her mark - The Verge",
       "link": "https://www.theverge.com/tech/913093/microsoft-new-xbox-ceo-asha-sharma-memo-notepad"
-    },
-    {
-      "title": "Spotify rolls out redesigned app for tablets, works on most foldables too [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/04/16/spotify-tablet-foldable-redesign-update/"
-    },
-    {
-      "title": "Battlefield 6 Getting 7 New Maps This Year, Plus A Server Browser And More - Kotaku",
-      "link": "https://kotaku.com/battlefield-6-7-new-maps-ea-season-3-wake-island-prox-server-browser-reworks-2000687562"
-    },
-    {
-      "title": "\"No Emulation, No Compromise, No Comparison\" - The $250 Neo Geo+ AES Aims To Be A 1:1 Replica Of SNK's Classic Console - Time Extension",
-      "link": "https://www.timeextension.com/news/2026/04/no-emulation-no-compromise-no-comparison-the-usd250-neo-geoplus-aes-aims-to-be-a-11-replica-of-snks-classic-console"
-    },
-    {
-      "title": "\u2018Crimson Desert\u2019 Still Isn\u2019t Addressing One Of Its Biggest Problems - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/04/16/crimson-desert-still-isnt-addressing-one-of-its-biggest-problems/"
-    },
-    {
-      "title": "Astra Militarum rules revealed \u2013 Commissar Graves and new vehicles - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/olcxm67r/astra-militarum-rules-revealed-commissar-graves-and-new-vehicles"
     }
   ],
   "sports_news": [
     {
-      "title": "Ravens Unveil New Uniforms. Here\u2019s What Changed. - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-new-uniforms-jerseys-helmets-next-flight-collection-midnight-purple-matte-black-wings-talon-stripes"
+      "title": "Ravens unveil new uniforms - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-unveil-new-uniforms"
+    },
+    {
+      "title": "Refusing to acknowledge Azzi Fudd, Paige Bueckers relationship feeds an ugly narrative - Dallas News",
+      "link": "https://www.dallasnews.com/sports/wings/article/paige-bueckers-azzi-fudd-relationship-dallas-wings-22207574.php"
     },
     {
       "title": "Aston Villa: How Unai Emery turned spectacular European nights into Villa's new normal - BBC",
@@ -102,12 +106,28 @@
       "link": "https://www.nhl.com/devils/news/sunny-mehta-named-devils-general-manager-press-release-4-16-26"
     },
     {
-      "title": "Albernaz's gift upon return to Cleveland? An office of kid-sized furniture, decor - MLB.com",
-      "link": "https://www.mlb.com/news/craig-albernaz-stephen-vogt-facing-off-managers-first-time"
+      "title": "LeBron looks forward to sharing floor with Bronny in playoffs - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48507243/lebron-looks-forward-sharing-floor-bronny-playoffs"
+    },
+    {
+      "title": "Trump administration expects Iranian team to travel to U.S. for World Cup - Politico",
+      "link": "https://www.politico.com/news/2026/04/16/trump-administration-expects-iranian-team-to-travel-to-u-s-for-world-cup-00877914"
     },
     {
       "title": "Broncos don't expect to have a rookie starter in 2026, which prompted trade for Jaylen Waddle - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-dont-expect-to-have-a-rookie-starter-in-2026-which-prompted-trade-for-jaylen-waddle"
+    },
+    {
+      "title": "Giants get revenge on Reds slugger after profanity-laced attack - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWlzeFNYa3JrRVBnUzN2Xy1JeU1LMGRkeXcxYzFLb0FKYlg1MzhwQ2dNM3NsWWx1eFRzU2VKZHpPZ09QdGFGQmdoS2xnWFFBNU9vVkNPbGFYMktSRm9vOFNva2V3X2REeTJNaDJicU1XSDZlUVdLekZMU3NyTEdpVmM0dk91aDhVOUFmT3E4V1hDSzFzTWZXcFdJZGktZERBMmgtcHBR?oc=5"
+    },
+    {
+      "title": "Bayern Munich Did Not Believe In Magic - Defector",
+      "link": "https://defector.com/bayern-munich-did-not-believe-in-magic"
+    },
+    {
+      "title": "Cardinals won\u2019t name a starting quarterback right now - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-wont-name-a-starting-quarterback-right-now"
     },
     {
       "title": "Steph Curry conjures a classic as Warriors rally past Clippers to advance in play-in - San Francisco Chronicle",
@@ -122,6 +142,10 @@
       "link": "https://www.ncaa.org/news/2026/4/16/media-center-fbs-oversight-committee-recommends-standardized-start-to-regular-season.aspx"
     },
     {
+      "title": "Former NBA player Damon Jones requests change-of-plea hearing in gambling case - abcnews.com",
+      "link": "https://abcnews.com/US/former-nba-player-damon-jones-requests-change-plea/story?id\\\\u003d132106203"
+    },
+    {
       "title": "Sharks sign defenseman Eric Pohlkamp - NHL.com",
       "link": "https://www.nhl.com/sharks/news/sharks-sign-defenseman-eric-pohlkamp"
     },
@@ -130,44 +154,20 @@
       "link": "https://apnews.com/article/doncic-cunningham-65-game-rule-nba-2caf8c5044f87b6eeba2dcc0694859db"
     },
     {
-      "title": "World Cup 2026: Football fans outraged by United States transit prices - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/4/16/world-cup-2026-football-fans-outraged-by-united-states-transit-prices"
+      "title": "Top 11 options for the Detroit Lions in Round 2 of our mock - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-draft/161892/nfl-mock-draft-top-11-options-for-detroit-lions-at-pick-50"
     },
     {
-      "title": "Chiefs GM Brett Veach: \u2018Fans will be in for a treat\u2019 on Day 1 of draft - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/198985/chiefs-brett-veach-fans-in-for-treat-day-1-draft"
+      "title": "Ruff provides injury updates, talks playoff history with Boston - NHL.com",
+      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-practice-playoffs-alex-lyon-noah-ostlund"
     },
     {
-      "title": "3 Chicago Bears Players Who Could Be Traded on Draft Night - Sports Illustrated",
-      "link": "https://www.si.com/nfl/bears/onsi/3-chicago-bears-players-who-could-be-traded-on-draft-night"
+      "title": "FIFA, New Jersey governor point fingers over $100-plus World Cup train tickets - NBC News",
+      "link": "https://www.nbcnews.com/sports/soccer/fifa-new-jersey-governor-point-fingers-100-world-cup-train-tickets-rcna332205"
     },
     {
-      "title": "Dallas Wings PR shuts down reporter\u2019s question to Azzi Fudd about relationship with Paige Bueckers - Awful Announcing",
-      "link": "https://awfulannouncing.com/news/dallas-wings-pr-shuts-down-question-pick-azzi-fudd-relationship-paige-bueckers.html"
-    },
-    {
-      "title": "Rick Bowness to return as Blue Jackets head coach in 2026-27 - NHL.com",
-      "link": "https://www.nhl.com/bluejackets/news/blue-jackets-rick-bowness-to-return-as-coach-in-2026-27"
-    },
-    {
-      "title": "Khamzat Chimaev not out to hurt Sean Strickland at UFC 328, but \u2018on the street\u2026 if he dies, he dies\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/483039/khamzat-chimaev-not-out-to-hurt-sean-strickland-at-ufc-328-but-on-the-street-if-he-dies-he-dies"
-    },
-    {
-      "title": "Report: Penix, Njoku, McKinney targets of ex-Bama DE's fraud - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48504890/report-penix-njoku-mckinney-targets-ex-bama-de-fraud"
-    },
-    {
-      "title": "NFL legends, active players to announce selections at 2026 NFL Draft - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-legends-active-players-to-announce-selections-at-2026-nfl-draft"
-    },
-    {
-      "title": "Jets cancel pre-draft meeting with David Bailey \u2014 it could mean a couple of things - New York Post",
-      "link": "https://nypost.com/2026/04/16/sports/jets-cancel-pre-draft-meeting-with-david-bailey-heres-what-it-could-mean/"
-    },
-    {
-      "title": "Flyers-Penguins NHL playoff schedule for 2026 Stanley Cup Playoffs released - CBS News",
-      "link": "https://www.cbsnews.com/philadelphia/news/flyers-penguins-nhl-playoff-2026-schedule/"
+      "title": "Carolina Panthers 2026 Mock Draft Report, version 7.0 - Carolina Panthers",
+      "link": "https://www.panthers.com/news/carolina-panthers-2026-mock-draft-report-version-7-0"
     }
   ],
   "weather": {
