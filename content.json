@@ -1,9 +1,9 @@
 {
-  "quote": "Given the choice between the experience of pain and nothing, I would choose pain. \u2013 William Faulkner",
-  "fact": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
-  "crypto": "BTC: $74,498 | ETH: $2,278.34",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "The other day I was listening to a song about superglue, it\u2019s been stuck in my head ever since.",
+  "quote": "Freedom is the open window through which pours the sunlight of the human spirit and human dignity. \u2013 Herbert Hoover",
+  "fact": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
+  "crypto": "BTC: $74,185 | ETH: $2,267.46",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,26 @@
   "bing_background": "https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/04/metroid-prime-remastered-studio-iron-galaxy-announces-more-layoffs"
+    },
+    {
+      "title": "Steam Beloved RPG Surpasses Even Crimson Desert In Scale, And It's Free - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/steam/steam-rpg-surpasses-crimson-desert-free-060133-20260416"
+    },
+    {
+      "title": "Super Mario-kun manga may finally be ending after more then 30 years - Nintendo Everything",
+      "link": "https://nintendoeverything.com/?p=911790"
+    },
+    {
+      "title": "Sailor Piece Sea 2: Everything You Need To Know - Beebom",
+      "link": "https://beebom.com/sailor-piece-sea-2-guide/"
+    },
+    {
+      "title": "MacBook Neo has a chip supply problem, here\u2019s how Apple could fix it - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/18/macbook-neo-has-a-chip-supply-problem-heres-how-apple-could-fix-it/"
+    },
     {
       "title": "Samsung To Release New Free Upgrade To Millions Of Galaxy Phones - Forbes",
       "link": "https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/"
@@ -28,12 +48,20 @@
       "link": "https://nintendoeverything.com/bayonetta-3-multiverse-ending-explained/"
     },
     {
+      "title": "Gemini app bug removes features, reverts UI on Android - 9to5Google",
+      "link": "http://9to5google.com/2026/04/18/gemini-app-bug/"
+    },
+    {
       "title": "The Neo Geo+ Will Be \"Better Than Emulation\" Says Modding Legend Furrtek - Time Extension",
       "link": "https://www.timeextension.com/news/2026/04/the-neo-geoplus-will-be-better-than-emulation-says-modding-legend-furrtek"
     },
     {
       "title": "Arc Raiders switches up Expeditions and now skill points are earned from damage dealt, not stash value - Eurogamer",
       "link": "https://www.eurogamer.net/arc-raiders-switches-up-expeditions-and-now-skill-points-are-earned-from-damage-dealt-not-stash-value"
+    },
+    {
+      "title": "How Body-In-White 911s Birthed The Seven-Figure Porsche Restomod - Jalopnik",
+      "link": "https://www.jalopnik.com/2146733/body-in-white-porsche-restomod-scene/"
     },
     {
       "title": "5 surreal and striking sci-fi anime to watch while you play Pragmata - Polygon.com",
@@ -44,24 +72,12 @@
       "link": "https://9to5mac.com/2026/04/18/apple-airpods-pro-3-with-ir-cameras-could-have-new-ai-tech/"
     },
     {
-      "title": "China\u2019s DRAM Suppliers Come To The Rescue As They Ramp Up LPDDR4 Production Shortly After Samsung Abandons Customers - Wccftech",
-      "link": "https://wccftech.com/china-dram-suppliers-ramp-up-lpddr4-production-as-samsung-abandons-customers/"
+      "title": "Saturday pre-orders \u2013 Enter the City of Ash - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/9wvklxil/saturday-pre-orders-enter-the-city-of-ash"
     },
     {
       "title": "How Long To Beat Mouse: P.I. For Hire - All Missions List - GameSpot",
       "link": "https://www.gamespot.com/articles/mouse-pi-for-hire-mission-list/1100-6539374/"
-    },
-    {
-      "title": "Crimson Desert's Next Major Patch Adds Difficulty Settings and Inventory Tabs Next Week - IGN",
-      "link": "https://www.ign.com/articles/crimson-deserts-next-major-patch-adds-difficulty-settings-and-inventory-tabs-next-week"
-    },
-    {
-      "title": "14 Cool Gadgets On Amazon That Can Solve Everyday Problems - bgr.com",
-      "link": "https://www.bgr.com/2147539/amazon-gadgets-that-solve-everyday-problems/"
-    },
-    {
-      "title": "Xbox Game Pass leak suggests new tier with capped cloud gaming hours - VideoCardz.com",
-      "link": "https://videocardz.com/newz/xbox-game-pass-leak-suggests-new-tier-with-capped-cloud-gaming-hours"
     },
     {
       "title": "Ditch Your TV Remote For This All-In-One Free App - bgr.com",
@@ -74,104 +90,84 @@
     {
       "title": "Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise \"whimsy\" \u2013 here's what's new - Eurogamer",
       "link": "https://www.eurogamer.net/slay-the-spire-2-roadmap-suggests-we-wont-get-matchmaking-but-does-promise-whimsy-heres-whats-new"
-    },
-    {
-      "title": "\u201cLooking into this\u201d as Xbox\u2019s new CEO steps in after an Insider update reportedly bricks a Series S and raises fresh concerns - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/looking-into-this-as-xboxs-new-ceo-steps-in-after-an-insider-update-reportedly-bricks-a-series-s-and-raises-fresh-concerns"
-    },
-    {
-      "title": "macOS 27 Will Mark the End of an Era - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/18/macos-27-compatibility-change/"
-    },
-    {
-      "title": "Microsoft confirms major Rewards changes in May that may impact daily point earners and frequent redeemers - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/yeah-its-not-so-good-as-microsoft-confirms-major-rewards-changes-in-may-and-what-it-means-for-anyone-who-relies-on-daily-point-earning"
-    },
-    {
-      "title": "My Mac felt slow, but hardware wasn\u2019t the problem. Here\u2019s how I fixed it. - Cult of Mac",
-      "link": "https://www.cultofmac.com/how-to/mac-felt-slow-how-i-fixed-it"
     }
   ],
   "sports_news": [
     {
-      "title": "UFC Winnipeg \u2018Burns vs. Malott\u2019 play-by-play, results & round scoring - Sherdog",
-      "link": "https://www.sherdog.com/news/news/UFC-Winnipeg-Burns-vs-Malott-playbyplay-results-round-scoring-200870"
+      "title": "Offense beats Defense 23-18 in Kentucky's weather-shortened spring game - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-football-spring-game-recap-takeaways/"
     },
     {
-      "title": "Rockets' Kevin Durant out for G1 vs. Lakers with knee contusion - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48526113/rockets-kevin-durant-g1-vs-lakers-knee-contusion"
+      "title": "Rockets All-Star Kevin Durant ruled out for Game 1 vs. Lakers with right knee injury - NBA",
+      "link": "https://www.nba.com/news/kevin-durant-out-game-1"
     },
     {
-      "title": "Carrick silences doubters as Man Utd close on Champions League - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cly67vpyx1jo"
+      "title": "Atlanta Hawks vs. New York Knicks Live Score and Stats - April 18, 2026 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260418_ATL@NY/"
     },
     {
-      "title": "Carlos Mendoza is shouldering the blame for Mets\u2019 ugly slide \u2014 but the biggest flops came above his pay grade - New York Post",
-      "link": "https://nypost.com/2026/04/18/sports/mets-carlos-mendoza-may-be-the-face-to-blame-but-hes-safe-for-now/"
+      "title": "Giants trade Dexter Lawrence to the Bengals - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-trade-dexter-lawrence-to-the-bengals"
     },
     {
-      "title": "Matt Fitzpatrick retains Heritage lead despite Scottie Scheffler surge - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cy0147plzk8o"
+      "title": "TJ Oshie believes Alex Ovechkin will play one more season with Capitals after private conversation in Columbus: \u2018I think he\u2019s coming back\u2019 - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/04/18/tj-oshie-alex-ovechkin-retirement-capitals-one-more-season/"
+    },
+    {
+      "title": "Wild make a Texas-sized statement by routing the Stars in Game 1 - Bring Me The News",
+      "link": "https://bringmethenews.com/minnesota-sports/wild-make-a-texas-sized-statement-by-routing-the-stars-in-game-1"
+    },
+    {
+      "title": "Bitter: First Glimpses Of Change On Display At Spring Game As Franklin, Hokies Try To 'Shock The World' - TechSideline.com",
+      "link": "https://virginiatech.sportswar.com/subscription/2026/04/18/first-glimpses-change-spring-game-hokies-shock-world/"
     },
     {
       "title": "Drive-by-drive results from Auburn's A-Day spring game - 247Sports",
       "link": "https://247sports.com/college/auburn/article/auburn-football-a-day-game-spring-updates-score--282275527/"
     },
     {
+      "title": "Live Now! UFC Winnipeg \u2018Burns vs. Malott\u2019 play-by-play, results & round scoring - Sherdog",
+      "link": "https://www.sherdog.com/news/news/UFC-Winnipeg-Burns-vs-Malott-playbyplay-results-round-scoring-200870"
+    },
+    {
+      "title": "Skydiver rescued after crashing into scoreboard during Virginia Tech football scrimmage - CBS News",
+      "link": "https://www.cbsnews.com/news/skydiver-rescued-crash-scoreboard-virginia-tech-football-scrimmage/"
+    },
+    {
+      "title": "Matt Fitzpatrick retains Heritage lead despite Scottie Scheffler surge - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/cy0147plzk8o"
+    },
+    {
+      "title": "Braylon Mullins is back: UConn G whose epic 3-pointer beat Duke in Elite Eight returning for sophomore season - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/braylon-mullins-uconn-g-duke-elite-eight-returning/"
+    },
+    {
+      "title": "Scottie Scheffler speaks out about Matt Fitzpatrick after firing third round 64 at the RBC Heritage - HITC Sport",
+      "link": "https://www.hitc.com/scottie-scheffler-speaks-out-about-matt-fitzpatrick-after-firing-third-round-64-at-the-rbc-heritage/"
+    },
+    {
       "title": "Ben Whittaker v Braian Suarez: British light-heavyweight knocks out opponent in Liverpool - BBC",
       "link": "https://www.bbc.com/sport/boxing/articles/c0mj2el3p1no"
     },
     {
-      "title": "NHL announces 2026 Draft Lottery date, Washington Capitals have worst odds to move up - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/04/18/nhl-2026-draft-lottery-date-washington-capitals-odds/"
+      "title": "Rockets vs Lakers Predictions, Odds, Picks for NBA Playoffs Game 1 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/rockets-vs-lakers-prediction-pick-nba-playoffs-game-1-odds-for-saturday-april-18"
     },
     {
       "title": "Mets suffer 10th straight loss with season already mired in ugly mess - New York Post",
       "link": "https://nypost.com/2026/04/18/sports/mets-suffer-10th-straight-loss-with-season-already-mired-in-ugly-mess/"
     },
     {
-      "title": "Skydiver rescued after crashing into Virginia Tech scoreboard - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/48524840/skydiver-rescued-crashing-virginia-tech-scoreboard"
+      "title": "Yankees demolish Royals 13-4 - Royals Review",
+      "link": "https://www.royalsreview.com/kansas-city-royals-scores-standings/97165/yankees-demolish-royals-13-4"
     },
     {
-      "title": "Driver dies in N\u00fcrburgring race featuring Max Verstappen - ESPN",
-      "link": "https://www.espn.com/racing/story/_/id/48524261/driver-dies-nurburgring-juha-miettinen-max-verstappen-adac-24h"
+      "title": "Recap from Michigan Football\u2019s Maize vs Blue Spring Game - Maize n Brew",
+      "link": "https://www.maizenbrew.com/football/112516/michigan-wolverines-football-spring-game-recap-highlights-stats-bryce-underwood-tommy-carr-savion-hiter"
     },
     {
-      "title": "Every word Roberto De Zerbi said on Tottenham setback, Xavi, Danso pain, winning every game - Football London",
-      "link": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-every-word-de-zerbi-33796751"
-    },
-    {
-      "title": "Diamondbacks Reinstate Lourdes Gurriel Jr., DFA Luken Baker - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/diamondbacks-reinstate-lourdes-gurriel-jr-dfa-luken-baker.html"
-    },
-    {
-      "title": "Social media reactions from Michigan Football\u2019s spring game - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/112540/michigan-football-spring-game-social-media-reactions"
-    },
-    {
-      "title": "Jhoan Duran to the IL, Otto Kemp to Lehigh - The Good Phight",
-      "link": "https://www.thegoodphight.com/philadelphia-phillies-news/80487/jhoan-duran-to-the-il-otto-kemp-to-lehigh"
-    },
-    {
-      "title": "Hawks vs Knicks Predictions, Odds, Picks for NBA Playoffs Game 1 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/hawks-vs-knicks-prediction-pick-nba-playoffs-game-1-odds-for-saturday-april-18"
-    },
-    {
-      "title": "Kirkwood rises to the top in hectic second Long Beach IndyCar practice - RACER - Racing News",
-      "link": "https://racer.com/2026/04/18/kirkwood-rises-to-the-top-in-hectic-second-long-beach-indycar-practice"
-    },
-    {
-      "title": "Georgia football instant observations as defense gets best of offense on G-Day - DawgNation",
-      "link": "https://www.DawgNation.com/football/spring-updates/georgia-football-instant-observations-2026-g-day-game/GP3EHW4LWZEIBJ4TRMLVDZLR7A/"
-    },
-    {
-      "title": "Will Stein was 'teary eyed' in emotional entrance at Kentucky's spring game - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/will-stein-spring-game-recap-emotional-kentucky-football/"
-    },
-    {
-      "title": "Sabres announce important playoff parking and traffic information - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-playoff-parking-traffic-information"
+      "title": "Tottenham player ratings vs Brighton as Xavi Simons shines but 5/10 struggles - Football London",
+      "link": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-player-ratings-brighton-33795849"
     }
   ],
   "weather": {
