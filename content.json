@@ -1,9 +1,9 @@
 {
-  "quote": "It doesn't matter how much you want. What really matters is how much you want it. \u2013 Ralph Marston",
-  "fact": "More people are killed annually by donkeys than airplane crashes.",
-  "crypto": "BTC: $77,732 | ETH: $2,308.46",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What\u2019s brown and sounds like a bell? Dung!",
+  "quote": "Begin at once to live, and count each separate day as a separate life.   \u2013 Seneca",
+  "fact": "One quarter of the bones in your body, are in your feet!",
+  "crypto": "BTC: $77,934 | ETH: $2,313.92",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "How come a man driving a train got struck by lightning? He was a good conductor.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Ingrid's movelist and mechanics details revealed for Street Fighter 6 with her unique Sun Crest abilities and tons of attacks - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/apr/22/ingrid-movelist-details-sf6/"
+      "title": "Fatal Fury: City of the Wolves \u2018Wolves\u2019 Destiny\u2019 update detailed - Gematsu",
+      "link": "https://www.gematsu.com/2026/04/fatal-fury-city-of-the-wolves-wolves-destiny-update-detailed"
+    },
+    {
+      "title": "Here\u2019s What\u2019s In Crimson Desert\u2019s Biggest Patch Since Launch - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/04/22/heres-whats-in-crimson-deserts-biggest-patch-since-launch/"
+    },
+    {
+      "title": "Tomodachi Life: Living the Dream 1.0.1 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/tomodachi-life-living-the-dream-1-0-1-update-out-now-patch-notes/"
+    },
+    {
+      "title": "Switchable 2D\u20133D display through a metasurface lenticular lens - Nature",
+      "link": "https://www.nature.com/articles/s41586-026-10318-9"
     },
     {
       "title": "Google updates Workspace to make AI your new office intern - TechCrunch",
@@ -32,66 +44,82 @@
       "link": "https://www.bloomberg.com/news/articles/2026-04-22/tim-cook-regrets-maps-flub-sees-apple-watch-as-his-proudest-work"
     },
     {
+      "title": "Google releases Android 17 QPR1 Beta 1 for Pixel - 9to5Google",
+      "link": "http://9to5google.com/2026/04/22/android-17-qpr1-beta-1-pixel/"
+    },
+    {
       "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
       "link": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you"
     },
     {
-      "title": "iOS 26.4.2 Patches Flaw That Let FBI Extract Deleted Signal Messages - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/22/ios-26-4-2-notification-database-security-fix/"
+      "title": "Fallout: New Vegas dev claims Bethesda made a PowerPoint of everything Obsidian did 'wrong' - Polygon.com",
+      "link": "https://www.polygon.com/fallout-new-vegas-chris-avellone-powerpoint-bethesda-wrong-with-rpg/"
     },
     {
-      "title": "Anker Soundcore Space 2 Headphones Are a Top Value Alternative to Bose and Sony - CNET",
-      "link": "https://www.cnet.com/tech/mobile/anker-soundcore-space-two-headphones-review/"
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"
+    },
+    {
+      "title": "Preorders Are Live for the Switch 2-Exclusive Splatoon Raiders and Its Three Accompanying Amiibo Figures - IGN",
+      "link": "https://www.ign.com/articles/splatoon-raiders-switch-2-and-amiibo-where-to-buy"
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"
+    },
+    {
+      "title": "Claude Mythos AI Model Uncovers 271 Zero-Day Vulnerabilities in Firefox - CyberSecurityNews",
+      "link": "https://cybersecuritynews.com/claude-mythos-271-zero-days/"
+    },
+    {
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
+    },
+    {
+      "title": "This hidden Android Auto setting finally fixed my connection lag - Android Police",
+      "link": "https://www.androidpolice.com/hidden-android-auto-setting-stopped-connection-lag/"
+    },
+    {
+      "title": "iPhone 18\u2019s new specs might bring subtle regressions to cut costs - 9to5Mac",
+      "link": "https://9to5mac.com/2026/04/22/iphone-18s-new-specs-might-bring-subtle-regressions-to-cut-costs/"
+    },
+    {
+      "title": "Sayonara Wild Hearts, Lorelei and the Laser Eyes Nintendo Switch 2 Editions have just released - Nintendo Everything",
+      "link": "https://nintendoeverything.com/sayonara-wild-hearts-lorelei-and-the-laser-eyes-nintendo-switch-2-editions-have-just-released/"
     },
     {
       "title": "AMD Stock Jumps on the Launch of the Ryzen 9 9950X3D2 Dual Edition - TipRanks",
       "link": "https://www.tipranks.com/news/amd-stock-jumps-on-the-launch-of-the-ryzen-9-9950x3d2-dual-edition"
-    },
-    {
-      "title": "Leaker shares iPhone 18 Pro\u2019s new camera feature, plus future upgrades - 9to5Mac",
-      "link": "https://9to5mac.com/2026/04/22/leaker-shares-iphone-18-pros-new-camera-feature-plus-future-upgrades/"
-    },
-    {
-      "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways - MacRumors",
-      "link": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/"
-    },
-    {
-      "title": "More Bungie Devs Are Working On \u2018Marathon\u2019 Than \u2018Destiny 2\u2019 Now - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/04/22/more-bungie-devs-are-working-on-marathon-than-destiny-2-now/"
-    },
-    {
-      "title": "Ecco The Dolphin: Complete Announced, Includes Remasters & A Brand New Game - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/04/ecco-the-dolphin-complete-announced-includes-remasters-and-a-brand-new-game"
-    },
-    {
-      "title": "The Expanse: Osiris Reborn closed beta now available - Gematsu",
-      "link": "https://www.gematsu.com/2026/04/the-expanse-osiris-reborn-closed-beta-now-available"
-    },
-    {
-      "title": "Shigeru Miyamoto wants Peach's backstory in The Super Mario Galaxy Movie to remain canon in future Nintendo games - Eurogamer.net",
-      "link": "https://www.eurogamer.net/nintendo-miyamoto-peach-backstory-super-mario-galaxy-movie-canon"
-    },
-    {
-      "title": "Gamers sue Nintendo over tariff refunds, saying consumers should get the money back - Game File | Stephen Totilo",
-      "link": "https://www.gamefile.news/p/gamers-sue-nintendo-over-tariff-refunds"
-    },
-    {
-      "title": "Yoshi and the Mysterious Book gets first gameplay on Nintendo Switch 2 - Nintendo Everything",
-      "link": "https://nintendoeverything.com/yoshi-and-the-mysterious-book-gets-first-gameplay-on-nintendo-switch-2/"
-    },
-    {
-      "title": "2026 has a worthy Blue Prince contender that also plays like Candy Crush - Polygon.com",
-      "link": "https://www.polygon.com/titanium-court-review/"
-    },
-    {
-      "title": "The Gunther Werks 'Project Endgame' Turbo Speedster Is a Truly Marvelous One-Off 911 - Road & Track",
-      "link": "https://www.roadandtrack.com/news/a71088283/gunther-werks-turbo-speedster-porsche-911-project-endgame/"
     }
   ],
   "sports_news": [
     {
-      "title": "Orlando Magic vs. Detroit Pistons Live Score and Stats - April 22, 2026 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260422_ORL@DET/"
+      "title": "Braves To Select JR Ritchie - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/braves-to-select-jr-ritchie.html"
+    },
+    {
+      "title": "Bengals were set to draft Peter Woods if not for Dexter Lawrence trade, per former scout - Cincy Jungle",
+      "link": "https://www.cincyjungle.com/cincinnati-bengals-rumors/190221/peter-woods-dexter-lawrence-giants-trade-clemson-tigers-nfl-draft"
+    },
+    {
+      "title": "Pistons 98-83 Magic (Apr 22, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401869411"
+    },
+    {
+      "title": "Would the Cowboys draft a wide receiver in the first round? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/would-the-cowboys-draft-a-wide-receiver-in-the-first-round"
+    },
+    {
+      "title": "The Steve Kerr situation is a conflicting reports nightmare - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/steve-kerr-conflicting-reports-22221127.php"
+    },
+    {
+      "title": "How the Patriots\u2019 draft capital compares to the rest of the NFL - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-draft/126465/2026-value-chart-capital-comparison-trades"
+    },
+    {
+      "title": "Supercomputer Predicts Premier League Table After Man City Leapfrog Arsenal to Go Top - Sports Illustrated",
+      "link": "https://www.si.com/soccer/supercomputer-predicts-premier-league-table-after-man-city-leapfrog-arsenal-to-go-top"
     },
     {
       "title": "Mariners are useful idiots, walk off series finale 5-4 - Lookout Landing",
@@ -102,16 +130,20 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-york-post-publishes-more-photos-of-mike-vrabel-dianna-russini"
     },
     {
-      "title": "Bill Clinton crashes Cowboys\u2019 pre-draft news conference - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-clinton-crashes-cowboys-pre-draft-news-conference"
+      "title": "Padres \u2018better set up\u2019 in rotation after signing free-agent starter Lucas Giolito - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2026/04/22/padres-sign-free-agent-starter-lucas-giolito/"
+    },
+    {
+      "title": "Line drive gets lodged in Mariners pitcher Logan Gilbert\u2019s jersey - AP News",
+      "link": "https://apnews.com/article/mariners-gilbert-jersey-cortes-c841c1199098f10956a14abef8c5dba3"
     },
     {
       "title": "Daniel Jeremiah's final 2026 NFL mock draft: Eagles, Saints among 4 teams to trade up - NFL.com",
       "link": "https://www.nfl.com/news/daniel-jeremiah-final-2026-nfl-mock-draft"
     },
     {
-      "title": "Mariners P Logan Gilbert accidentally catches line drive in his jersey but doesn't get the out - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mlb/article/mariners-p-logan-gilbert-accidentally-catches-line-drive-in-his-jersey-but-doesnt-get-the-out-215656876.html"
+      "title": "Three Observations from Bayern Munich\u2019s 2-0 win over Bayer Leverkusen - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-dfb-pokal/192904/bayer-leverkusen-vs-bayern-munich-three-observations-match-analysis-harry-kane-olise-musiala-alphonso-davies"
     },
     {
       "title": "Spurs' Keldon Johnson named 2025-26 Kia NBA Sixth Man of the Year - NBA",
@@ -126,48 +158,12 @@
       "link": "https://www.bbc.com/sport/football/articles/cvg4dlpvjd0o"
     },
     {
+      "title": "Jerry Jones shares a moment with old friend Bill Clinton as Cowboys prep for NFL draft - AP News",
+      "link": "https://apnews.com/article/cowboys-bill-clinton-jerry-jones-06d3f5abf14bfb28c5278bc514c1797c"
+    },
+    {
       "title": "Rangers To Place Wyatt Langford On IL With Flexor Strain - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/rangers-to-place-wyatt-langford-on-il-with-flexor-strain.html"
-    },
-    {
-      "title": "Brian Baldinger leans offensive line for the Eagles\u2019 first pick at No. 23 - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/173989/brian-baldinger-leans-offensive-line-for-the-eagles-first-pick-at-no-23"
-    },
-    {
-      "title": "Alabama and football coach Kalen DeBoer agree to new contract extension - On3",
-      "link": "https://www.on3.com/news/alabama-and-football-coach-kalen-deboer-agree-to-contract-extension/"
-    },
-    {
-      "title": "Padres sign free-agent starter Lucas Giolito - San Diego Union-Tribune",
-      "link": "https://www.sandiegouniontribune.com/2026/04/22/padres-sign-free-agent-starter-lucas-giolito/"
-    },
-    {
-      "title": "Royals will build a $1.9B downtown KC ballpark as part of a $3B project with Hallmark Cards - AP News",
-      "link": "https://apnews.com/article/kansas-city-royals-stadium-01d257d5d3a4ee00cb9fecc790ece36a"
-    },
-    {
-      "title": "Rhett Lewis' 7-round 2026 Raiders mock draft - Raiders.com",
-      "link": "https://www.raiders.com/news/2026-nfl-draft-rhett-lewis-7-round-raiders-mock-draft-peter-woods-ted-hurst-skyler-bell"
-    },
-    {
-      "title": "NFL Draft 2026: Leaning in at DT & CB in Packers 7-round mock - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-draft/81915/nfl-draft-2026-leaning-in-at-dt-cb-in-packers-7-round-mock"
-    },
-    {
-      "title": "Florida has Draymond Green to thank for Thomas Haugh's return to college - SFGATE",
-      "link": "https://www.sfgate.com/sports/article/florida-has-draymond-green-to-thank-for-thomas-22220364.php"
-    },
-    {
-      "title": "Jackson Holliday Undergoing MRI For Continued Hand Discomfort - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/jackson-holliday-mri-hand-discomfort-pain.html"
-    },
-    {
-      "title": "What is the dream scenario for the 49ers in Round 1? - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-analysis/158338/what-is-the-dream-scenario-for-the-49ers-in-round-1"
-    },
-    {
-      "title": "Indiana Fever to Feature in WNBA Record 44 out of 44 National Television Games in 2026 - Indiana Fever",
-      "link": "https://fever.wnba.com/news/indiana-fever-to-feature-in-wnba-record-44-out-of-44-national-television-games-in-2026"
     }
   ],
   "weather": {
