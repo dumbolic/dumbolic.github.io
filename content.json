@@ -1,9 +1,9 @@
 {
-  "quote": "Excellence is not an exception, it is a prevailing attitude. \u2013 Colin Powell",
-  "fact": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
-  "crypto": "BTC: $77,349 | ETH: $2,311.27",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What do you call a cow on a trampoline? A milk shake!",
+  "quote": "Little minds have little worries, big minds have no time for worries. \u2013 Ralph Waldo Emerson",
+  "fact": "Every day, 7% of the US eats at McDonald\u2019s.",
+  "crypto": "BTC: $77,519 | ETH: $2,314.67",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I invented a new word! Plagiarism!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Final Fantasy XIV Is Coming To Nintendo Switch 2, But There's A Terrible And Expensive Catch - Game Informer",
+      "link": "https://gameinformer.com/2026/04/24/final-fantasy-xiv-is-coming-to-nintendo-switch-2-but-theres-a-terrible-and-expensive"
+    },
+    {
       "title": "Alice: Madness Returns Dev Put Dildos On A Snail To Shut EA Up - Kotaku",
       "link": "https://kotaku.com/alice-madness-returns-sexy-american-mcgee-ea-snail-2000690452"
+    },
+    {
+      "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/"
+    },
+    {
+      "title": "EXCLUSIVE: FairGames Struggles to \u2018Find The Fun\u2019 in Latest Pre-Alpha Playtest - Insider Gaming",
+      "link": "https://insider-gaming.com/fairgames-struggles-to-find-fun/"
     },
     {
       "title": "Samsung may be bracing for first-ever annual loss in smartphone business - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/"
     },
     {
-      "title": "The Foldable iPhone Is Basically an iPad Mini That Folds in Half - Gizmodo",
-      "link": "https://gizmodo.com/the-foldable-iphone-is-basically-an-ipad-mini-that-folds-in-half-2000750451"
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
+    },
+    {
+      "title": "Famously streaming-averse Nintendo has finally added the Super Mario Galaxy 1 + 2 OST to Spotify, but the big picture makes it look like a very weird move - Eurogamer.net",
+      "link": "https://www.eurogamer.net/super-mario-galaxy-1-2-ost-spotify-weird"
     },
     {
       "title": "Atari acquires emulation studio Implicit Conversions - GamesIndustry.biz",
       "link": "https://www.gamesindustry.biz/atari-acquires-emulation-studio-implicit-conversions"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 celebrates its one-year anniversary with... new haircuts? - Eurogamer.net",
-      "link": "https://www.eurogamer.net/clair-obscur-expedition-33-one-year-anniversary-update"
     },
     {
       "title": "Community painters enter the City of Ash - Warhammer Community",
@@ -40,70 +52,90 @@
       "link": "https://9to5mac.com/2026/04/24/leaker-details-next-years-iphone-20-display-features/"
     },
     {
-      "title": "Samsung Galaxy Z Fold8 to bring a smaller punch hole for the selfie camera - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_front_camera_cutout_dimension-news-72533.php"
+      "title": "Framework says it's selling more Linux laptops than Windows as new Laptop 13 Pro sells out first 7 batches - PC Guide",
+      "link": "https://www.pcguide.com/news/framework-says-its-selling-more-linux-laptops-than-windows-as-new-laptop-13-pro-sells-out-first-7-batches/"
     },
     {
       "title": "Linux 7.1 Removes Drivers For Long Obsolete Input Hardware: Bye Bus Mouse Support - Phoronix",
       "link": "https://www.phoronix.com/news/Linux-7.1-Input"
     },
     {
-      "title": "Disgaea Mayhem launches July 23 in the west - Gematsu",
-      "link": "https://www.gematsu.com/2026/04/disgaea-mayhem-launches-july-23-in-the-west"
+      "title": "Expedition 33 Gets Free PS5 Content Update as It Turns One Year Old and Surpasses 8 Million Sales - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/04/expedition-33-gets-free-ps5-content-update-as-it-turns-one-year-old-and-surpasses-8-million-sales"
     },
     {
-      "title": "Wahoo & COROS Hook Up: Here\u2019s What Happening! - DC Rainmaker",
-      "link": "https://www.dcrainmaker.com/2026/04/coros-wahoo-partnership.html"
+      "title": "Galaxy Z Fold 8 Wide dimensions, aspect ratios of displays leak - SamMobile",
+      "link": "https://www.sammobile.com/news/galaxy-z-fold-8-wide-dimensions-aspect-ratios-displays-leak/"
+    },
+    {
+      "title": "iPhone 18 Pro battery and charging: all expected changes - PhoneArena",
+      "link": "https://www.phonearena.com/news/iphone-18-pro-battery_id179903"
     },
     {
       "title": "Fresh off the news that Xbox is cutting Game Pass pricing, reports emerge of a new \"Starter Edition\" tier that bundles in a Discord sub - Eurogamer.net",
       "link": "https://www.eurogamer.net/xbox-game-pass-starter-edition-discord"
     },
     {
+      "title": "This artificial retina doesn't just aim to restore sight\u2014it opens a hidden channel of vision - Tech Xplore",
+      "link": "https://techxplore.com/news/2026-04-artificial-retina-doesnt-aim-sight.html"
+    },
+    {
       "title": "Microsoft now lets admins uninstall Copilot on enterprise devices - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/"
     },
     {
-      "title": "Nintendo releases Super Mario Galaxy 1 and 2 soundtracks on Spotify - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-releases-super-mario-galaxy-1-and-2-soundtracks-on-spotify/"
-    },
-    {
-      "title": "Gran Turismo 7 Update 1.69 Now Available: More Power Pack Changes & Nurburgring Reverse Circuit Experience - GTPlanet",
-      "link": "https://www.gtplanet.net/gran-turismo-7-update-169-20260423/"
-    },
-    {
       "title": "Roundup: Here's What Was Revealed At The ID@Xbox April 2026 Showcase - Pure Xbox",
       "link": "https://www.purexbox.com/features/roundup-heres-what-was-revealed-at-the-idatxbox-april-2026-showcase"
-    },
-    {
-      "title": "Crimson Desert Community Hits Out at 'Gatekeepers' Who Are Looking Down Their Noses at Easy Mode Players - IGN",
-      "link": "https://www.ign.com/articles/crimson-desert-community-hits-out-at-gatekeepers-who-are-looking-down-their-noses-at-easy-mode-players"
-    },
-    {
-      "title": "Microsoft Gaming reverts to Xbox branding - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/microsoft-gaming-reverts-to-xbox-branding"
-    },
-    {
-      "title": "Michelin-recommended restaurant Roxanne shut down by city over licensing issues - Inquirer.com",
-      "link": "https://www.inquirer.com/food/restaurants/roxanne-philadelphia-shut-down-food-license-michelin-recommendation-20260424.html"
-    },
-    {
-      "title": "SEGA to Revive Old IP Like Outrun, Streets of Rage, and NiGHTS in New SEGA Universe Project - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/04/sega-to-revive-old-ip-like-outrun-streets-of-rage-and-nights-in-new-sega-universe-project"
     }
   ],
   "sports_news": [
+    {
+      "title": "Jim Furyk is returning as US Ryder Cup captain for 2027 with Tiger Woods out - AP News",
+      "link": "https://apnews.com/article/jim-furyk-ryder-cup-captain-6c990bb8d1b6e4b80134e17a3e1cd84a"
+    },
+    {
+      "title": "Cardinals were given the wrong phone number for Jeremiyah Love - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-were-given-the-wrong-phone-number-for-jeremiyah-love"
+    },
+    {
+      "title": "Inside Caleb Downs' first day as a Dallas Cowboy - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/inside-caleb-downs-first-day-as-a-dallas-cowboy"
+    },
+    {
+      "title": "Pablo Torre focuses on the Mike Vrabel-Dianna Russini situation - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pablo-torre-focuses-on-the-mike-vrabel-dianna-russini-situation"
+    },
+    {
+      "title": "Best players available for Bills in NFL Draft | WGR Sports Radio Buffalo - Audacy",
+      "link": "https://www.audacy.com/wgr550/sports/bills/best-players-available-for-bills"
+    },
+    {
+      "title": "Fans deliver high grade for Detroit Lions\u2019 selection of Blake Miller - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-draft/162703/fans-deliver-high-grade-for-detroit-lions-selection-of-blake-miller"
+    },
+    {
+      "title": "Eagles Round 1 draft grade roundup: USC WR Makai Lemon - PhillyVoice",
+      "link": "https://www.phillyvoice.com/eagles-round-1-draft-grade-roundup-usc-wr-makai-lemon/"
+    },
+    {
+      "title": "Broncos mock draft roundup: Day 2 projections for the 2026 NFL Draft - Denver Broncos",
+      "link": "https://www.denverbroncos.com/news/broncos-mock-draft-roundup-day-2-projections-for-the-2026-nfl-draft"
+    },
+    {
+      "title": "Where Did Everybody Go Wrong in Projecting Dillon Thieneman to the Vikings? - Sports Illustrated",
+      "link": "https://www.si.com/nfl/vikings/onsi/where-did-everybody-go-wrong-in-projecting-dillon-thieneman-to-the-vikings"
+    },
     {
       "title": "Browns\u2019 first round was about making the main thing the main thing \u2013 Terry Pluto - Cleveland.com",
       "link": "https://www.cleveland.com/browns/2026/04/browns-first-round-about-making-main-thing-the-main-thing-terry-pluto.html"
     },
     {
-      "title": "Alcaraz won't defend French Open title due to wrist injury - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/48581261/alcaraz-defend-french-open-title-due-wrist-injury"
-    },
-    {
       "title": "Gerry Dulac: Why the Steelers pivoted to Max Iheanachor after a Makai Lemon heist - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/2026-nfl-draft/2026/04/24/nfl-draft-steelers-eagles-makai-lemon-max-iheanachor/stories/202604240060"
+    },
+    {
+      "title": "Giants NFL Draft 2026: Why did New York select Arvell Reese, Francis Mauigoa? - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-draft/160522/giants-nfl-draft-2026-why-did-new-york-select-arvell-reese-francis-mauigoa"
     },
     {
       "title": "Steelers Add Big-Name Talent In Day 2 Mock Drafts From ESPN, The Athletic - Steelers Depot",
@@ -114,16 +146,8 @@
       "link": "https://www.nfl.com/news/2026-nfl-draft-buzz-friday"
     },
     {
-      "title": "New eight-minute limit to pick results in first round finishing in less than three hours - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-eight-minute-limit-to-pick-results-in-first-round-finishing-in-less-than-three-hours"
-    },
-    {
-      "title": "Eagles sniped Makai Lemon from the Steelers in the first round - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/174291/eagles-sniped-makai-lemon-from-the-steelers-in-the-first-round"
-    },
-    {
-      "title": "NY Giants draft grades 2026: Arvell Reese, Francis Mauigoa picks get rave reviews - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-draft/160525/ny-giants-draft-grades-2026-arvell-reese-francis-mauigoa-picks-mel-kiper-experts"
+      "title": "Knicks down, but not out, after Game 3 loss to Hawks: \u2018It should sting\u2019 - New York Daily News",
+      "link": "https://www.nydailynews.com/2026/04/24/knicks-down-but-not-out-after-game-3-loss-to-hawks-it-should-sting/"
     },
     {
       "title": "NFL Draft 2026: Tiering the best available players for the Packers at #52 - Acme Packing Company",
@@ -144,34 +168,6 @@
     {
       "title": "Kenyon Sadiq\u2019s girlfriend celebrates Jets selecting tight end with emotional NFL draft photo - New York Post",
       "link": "https://nypost.com/2026/04/24/sports/kenyon-sadiqs-girlfriend-celebrates-jets-selecting-tight-end-with-emotional-nfl-draft-photo/"
-    },
-    {
-      "title": "Late for Work: Ravens Get A+ Grades for Vega Ioane Pick - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-draft-vega-ioane-pick-grade-a-bill-cowher-steelers-cornerbacks-day-2-prospects"
-    },
-    {
-      "title": "DraftBot\u2019s Best Remaining Prospects for Commanders on Day 2 of the 2026 NFL Draft - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-draft/411839/draftbots-best-remaining-prospects-for-commanders-on-day-2-of-the-2026-nfl-draft"
-    },
-    {
-      "title": "5 Winners and 3 Losers for Chiefs after Day 1 of the 2026 NFL Draft - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-draft/199715/5-winners-3-losers-chiefs-day-1-nfl-draft"
-    },
-    {
-      "title": "VIDEO: Watch Blake Miller and family react to Detroit Lions pick - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-draft/162657/video-watch-blake-miller-and-family-react-to-detroit-lions-pick"
-    },
-    {
-      "title": "NY Giants Draft, Day 2: 3 trade scenarios for the Giants at No. 37 overall - Big Blue View",
-      "link": "https://www.bigblueview.com/nfl-draft/160464/3-trade-scenarios-ny-giants-day-2-kayden-mcdonald-kayvon-thibodeaux-denzel-boston"
-    },
-    {
-      "title": "How Pittsburgh \u2014 host of this year's NFL draft \u2014 became a sports mecca - NPR",
-      "link": "https://www.npr.org/2026/04/24/nx-s1-5794052/nfl-draft-pittsburgh-fans"
-    },
-    {
-      "title": "Seahawks GM John Schneider: Trade opportunities fell apart, Jadarian Price stood alone at No. 32 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-gm-john-schneider-trade-opportunities-fell-apart-jadarian-price-stood-alone-at-no-32"
     }
   ],
   "weather": {
