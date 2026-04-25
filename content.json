@@ -1,27 +1,35 @@
 {
-  "quote": "It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime. \u2013 Steve Maraboli",
-  "fact": "The average chocolate bar has 8 insects' legs in it.",
-  "crypto": "BTC: $77,554 | ETH: $2,315.83",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I got an A on my origami assignment when I turned my paper into my teacher",
+  "quote": "The river that flows in you also flows in me. \u2013 Kabir",
+  "fact": "315 entries in Webster\u2019s 1996 dictionary were misspelled.",
+  "crypto": "BTC: $77,488 | ETH: $2,314.89",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I won an argument with a weather forecaster once. His logic was cloudy...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.SlashPine_EN-US2059787604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Review: Saros on PS5/Pro: Beautiful Visuals, Polished And Approachable - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/reviews/saros-on-ps5pro-beautiful-visuals-polished-and-approachable"
+    },
     {
       "title": "Leak reveals new Xbox Game Pass \u201cStarter Edition\u201d that\u2019s part of Discord Nitro - The Verge",
       "link": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle"
     },
     {
-      "title": "Diablo 4: Lord of Hatred will release earlier than expected in the US, and teams up with Overwatch for some of the coolest skins I've ever seen - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/diablo-4-lord-of-hatred-will-release-earlier-than-expected-in-the-us-and-teams-up-with-overwatch-for-some-of-the-coolest-skins-ive-ever-seen"
-    },
-    {
       "title": "iOS 26.4.2: Apple Fixes iPhone Flaw Used By FBI To Read Deleted Messages - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2026/04/23/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/"
+    },
+    {
+      "title": "Overwatch Is Making Good On A Decade-Old Promise - Kotaku",
+      "link": "https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198"
+    },
+    {
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
     },
     {
       "title": "YouTube TV starts rolling out Multiview upgrade that supports any channel - 9to5Google",
@@ -32,12 +40,16 @@
       "link": "https://www.macrumors.com/2026/04/23/apple-tv-4k-2026-rumors/"
     },
     {
+      "title": "Prepare for the Reckoning: Lord of Hatred Draws Near \u2014 Diablo IV - Blizzard News",
+      "link": "https://news.blizzard.com/en-gb/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near"
+    },
+    {
       "title": "Microsoft\u2019s new Xbox chief is \u2018reevaluating\u2019 exclusive games - The Verge",
       "link": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma"
     },
     {
-      "title": "\"Pulsing Aura\" Set Revealed for \"Pocket\" Featuring Mega Lucario ex! - PokeBeach",
-      "link": "https://www.pokebeach.com/2026/04/pulsing-aura-set-revealed-for-pocket-featuring-mega-lucario"
+      "title": "Yoshi And The Mysterious Book Lets You Rename Classic Mario Critters, But Nintendo Is Adamant It\u2019s Not Canon - Kotaku",
+      "link": "https://kotaku.com/yoshi-and-the-mysterious-book-previews-unhurried-immortal-yoshi-shy-guys-hank-2000690139"
     },
     {
       "title": "ID@Xbox Spring Showcase \u2013 Check Out All of the Amazing Games Announced and Revealed - Xbox Wire",
@@ -50,6 +62,10 @@
     {
       "title": "Solo Leveling: ARISE OVERDRIVE for PS5, Xbox Series launches in Q3 2026 - Gematsu",
       "link": "https://www.gematsu.com/2026/04/solo-leveling-arise-overdrive-for-ps5-xbox-series-launches-in-q3-2026"
+    },
+    {
+      "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/"
     },
     {
       "title": "Welcome Back, Captain \u2013 Here\u2019s What\u2019s New in Assassins Creed Black Flag Resynced - Xbox Wire",
@@ -70,52 +86,48 @@
     {
       "title": "Apple has \u2018six major new product categories\u2019 coming, says Mark Gurman - 9to5Mac",
       "link": "https://9to5mac.com/2026/04/23/apple-has-six-major-new-product-categories-coming-says-mark-gurman/"
-    },
-    {
-      "title": "Exploring The Workloads Where The AMD Ryzen 9 9950X3D2 Makes A Lot Of Sense Review - Phoronix",
-      "link": "https://www.phoronix.com/review/amd-ryzen-9950x3d2-benchmarks"
-    },
-    {
-      "title": "Ace tanks spearhead vehicular carnage with new Armoured Gauntlet rules - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/apbymsj6/ace-tanks-spearhead-vehicular-carnage-with-new-armoured-gauntlet-rules"
-    },
-    {
-      "title": "DJI\u2019s new Lito Series beginner drones start at less than $400 - The Verge",
-      "link": "https://www.theverge.com/tech/917426/dji-drone-lito-1-x1-amateur-4k-obstacle-avoidance-pricing-availability"
-    },
-    {
-      "title": "Famitsu sales (4/13/26 - 4/19/26) - first week sales revealed for Tomodachi Life: Living the Dream, massive debut - Nintendo Everything",
-      "link": "https://nintendoeverything.com/famitsu-sales-4-13-26-4-19-26-first-week-sales-revealed-for-tomodachi-life-living-the-dream-massive-debut/"
-    },
-    {
-      "title": "\"It ended up being pretty much co-development\" - how 80s anime, a legendary Gundam director and It Takes Two talent combined for the Switch 2's next hit Orbitals - Eurogamer.net",
-      "link": "https://www.eurogamer.net/orbitals-80s-anime-legendary-gundam-director-it-takes-two-co-op-preview"
     }
   ],
   "sports_news": [
+    {
+      "title": "Seahawks don't trade pick, select running back - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-draft-notre-dame-rb-jadarian-price/"
+    },
+    {
+      "title": "Mike Vrabel\u2019s Hubris Made Him the Main Character of the NFL Draft - The Ringer",
+      "link": "https://www.theringer.com/2026/04/24/nfl/mike-vrabel-dianna-russini-cheating-scandal-main-character-2026-nfl-draft"
+    },
+    {
+      "title": "Steelers thought they were getting Makai Lemon, didn\u2019t realize Eagles had cut the line - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-thought-they-were-getting-makai-lemon-didnt-realize-eagles-had-cut-the-line"
+    },
+    {
+      "title": "Bears select Oregon DB Dillon Thieneman 25th overall - Chicago Bears Official Website",
+      "link": "https://www.chicagobears.com/news/chicago-bears-select-oregon-db-dillon-thieneman-25th-overall-2026-nfl-draft"
+    },
+    {
+      "title": "Steelers select Iheanachor in first round - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-select-iheanachor-in-first-round"
+    },
+    {
+      "title": "Vikings pick Caleb Banks at 18, hope he's ready for season - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48577590/vikings-pick-caleb-banks-18-hope-ready-season"
+    },
     {
       "title": "NY Giants draft grades 2026: Arvell Reese and Francis Mauigoa - Big Blue View",
       "link": "https://www.bigblueview.com/new-york-giants-draft/159303/ny-giants-draft-grades-2026-arvell-reese-and-francis-mauigoa"
     },
     {
-      "title": "NFL Draft Grades: Eagles score some high marks for their first-round draft pick - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/174268/nfl-draft-grades-eagles-score-some-high-marks-for-their-first-round-draft-pick"
-    },
-    {
-      "title": "2026 NFL Draft Grades: Which Teams Aced Their First-Round Picks? - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-draft-grades"
-    },
-    {
-      "title": "Steelers pick Arizona State tackle Max Iheanachor in the first round of the NFL Draft - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/2026-nfl-draft/2026/04/23/who-did-the-steelers-pick-2026-nfl-draft-pittsburgh-iheanachor/stories/202604230018"
+      "title": "2026 NFL Round 1 Recap: Fernando Mendoza goes No. 1 as expected, chaos follows - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/2026-nfl-round-1-recap-fernando-mendoza-goes-no-1-as-expected-chaos-follows"
     },
     {
       "title": "Browns trade No. 6 pick to the Chiefs in exchange for No. 9 pick - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/browns-trade-no-6-pick-to-the-chiefs-in-exchange-for-no-9-pick"
     },
     {
-      "title": "Seahawks take RB Jadarian Price with final pick of first round - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-take-rb-jadarian-price-with-final-pick-of-first-round"
+      "title": "Instant grades for the Patriots drafting OT Caleb Lomu in Round 1 - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-draft/126652/caleb-lomu-grades-first-round-pick"
     },
     {
       "title": "15 players who make sense for the Eagles in Round 2 of the 2026 NFL Draft - PhillyVoice",
@@ -130,12 +142,8 @@
       "link": "https://www.sfgate.com/49ers/article/49ers-nfl-draft-trade-22223190.php"
     },
     {
-      "title": "Patriots trade up to No. 28, take Caleb Lomu - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-trade-up-to-no-28-take-caleb-lomu"
-    },
-    {
-      "title": "Bears take Oregon S Dillon Thieneman at No. 25 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-take-oregon-s-dillon-thieneman-at-no-25"
+      "title": "Malik Nabers questions Giants\u2019 decision to draft Arvell Reese over Caleb Downs - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-draft/160434/malik-nabers-questions-giants-decision-to-draft-arvell-reese-over-caleb-downs"
     },
     {
       "title": "Buffalo Bills trade 26th overall pick to Houston Texans, receive No. 28 overall in pick-swap - Buffalo Bills",
@@ -152,22 +160,6 @@
     {
       "title": "Lions draft offensive lineman Blake Miller - Detroit Lions",
       "link": "https://www.detroitlions.com/news/detroit-lions-draft-offensive-lineman-blake-miller"
-    },
-    {
-      "title": "SB Nation Reacts: Grade the Vikings\u2019 Selection of Caleb Banks - Daily Norseman",
-      "link": "https://www.dailynorseman.com/minnesota-vikings-draft/95957/sb-nation-reacts-grade-minnesota-vikings-selection-caleb-banks-2026-nfl-draft"
-    },
-    {
-      "title": "What to Make of the Dolphins' Big Gamble with their First Pick - Sports Illustrated",
-      "link": "https://www.si.com/nfl/dolphins/onsi/what-to-make-of-the-dolphins-big-gamble-with-their-first-pick-01kpydcjx34m"
-    },
-    {
-      "title": "Rams take quarterback Ty Simpson at No. 13 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-take-quarterback-ty-simpson-at-no-13"
-    },
-    {
-      "title": "NY Giants NFL Draft 2026: New York selects OL Francis Mauigoa at No. 10 - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-draft/160030/ny-giants-nfl-draft-2026-new-york-selects-ol-francis-mauigoa-at-no-10"
     },
     {
       "title": "Caleb Downs drafted by Cowboys as first-round pick - Dallas Cowboys | Official Site of the Dallas Cowboys",
