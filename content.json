@@ -1,9 +1,9 @@
 {
-  "quote": "an action committed in anger is an action doomed to failure.  \u2013 Genghis Khan",
-  "fact": "The world's youngest parents were 8 and 9 and lived in China in 1910.",
-  "crypto": "BTC: $77,044 | ETH: $2,294.72",
+  "quote": "You may be disappointed if you fail, but you are doomed if you don't try. \u2013 Beverly Sills",
+  "fact": "The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
+  "crypto": "BTC: $77,297 | ETH: $2,299.11",
   "tip": "Keep your software dependencies updated.",
-  "joke": "When will the little snake arrive? I don't know but he won't be long...",
+  "joke": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "I had Claude, ChatGPT, and Gemini each build the same Chrome extension, and only one actually worked - MakeUseOf",
+      "link": "https://www.makeuseof.com/had-claude-chatgpt-and-gemini-each-vibe-code-the-same-chrome-extension/"
+    },
+    {
       "title": "Google\u2019s new gradient icon design is coming to more apps - The Verge",
       "link": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps"
+    },
+    {
+      "title": "New Legend of Zelda Game Reportedly Leaked Ahead of Reveal - comicbook.com",
+      "link": "http://comicbook.com/gaming/news/the-legend-of-zelda-new-2d-game-nintendo-switch-2-release-2027/"
     },
     {
       "title": "Walmart\u2019s new Google TV streamers are now available for some as wide launch nears - 9to5Google",
@@ -44,6 +52,10 @@
       "link": "http://9to5google.com/2026/04/26/google-pixel-voice-to-text-android-app/"
     },
     {
+      "title": "MSI PinSafe motherboards promise smoother PCB backs and fewer cut fingers - VideoCardz.com",
+      "link": "https://videocardz.com/newz/msi-pinsafe-motherboards-promise-smoother-pcb-backs-and-fewer-cut-fingers"
+    },
+    {
       "title": "EA Sports UFC 6 Planned For June Release - Insider Gaming",
       "link": "https://insider-gaming.com/ea-sports-ufc-6-planned-for-june-release/"
     },
@@ -60,8 +72,8 @@
       "link": "https://mynintendonews.com/2026/04/26/natethehate-has-zero-doubt-about-the-new-star-fox-project-announcement/"
     },
     {
-      "title": "Apple\u2019s Cook Gives Ternus a Pipeline of 10 Major New Product Categories - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p"
+      "title": "10 Lowe's Gadgets Under $50 Users Say Are Worth Buying - bgr.com",
+      "link": "https://www.bgr.com/2152226/lowes-gadgets-under-50-dollars-users-say-worth-buying/"
     },
     {
       "title": "Windows 11 users are taking it upon themselves to debloat the OS, because Microsoft isn't trying hard enough - Windows Central",
@@ -78,32 +90,48 @@
     {
       "title": "After three months on Linux, I don\u2019t miss Windows at all - The Verge",
       "link": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows"
-    },
-    {
-      "title": "I left Kindle for a better e-reader a year ago, and I recommend it to everyone - Android Police",
-      "link": "https://www.androidpolice.com/i-left-kindle-a-year-ago-and-have-no-regrets/"
-    },
-    {
-      "title": "Spend Your Tax Return on a Backhoe-Engined Land Rover Defender - The Drive",
-      "link": "http://www.thedrive.com/news/spend-your-tax-return-on-a-backhoe-engined-land-rover-defender"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 appears in Amazon\u2019s top 10 CPU best sellers - VideoCardz.com",
-      "link": "https://videocardz.com/newz/amd-ryzen-9-9950x3d2-appears-in-amazons-top-10-cpu-best-sellers"
     }
   ],
   "sports_news": [
     {
-      "title": "Report: Diego Pavia accepts invitation to Ravens rookie minicamp - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-diego-pavia-accepts-invitation-to-ravens-rookie-minicamp"
+      "title": "Spurs star Wembanyama returns, says he's disappointed with the way his concussion was handled - AP News",
+      "link": "https://apnews.com/article/victor-wembanyama-spurs-trail-blazers-nba-playoffs-ac2c32bf8e9916a453eafad06d21f119"
     },
     {
-      "title": "Nelly Korda wins Chevron Championship to reclaim world No. 1 - ESPN",
-      "link": "https://www.espn.com/golf/story/_/id/48603311/nelly-korda-wins-chevron-championship-reclaim-world-no-1"
+      "title": "Spurs overwhelm Blazers late in Wembanyama's return - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48604109/spurs-overwhelm-blazers-late-wembanyama-return"
     },
     {
-      "title": "Cavs prove loudest critics right in 93-89 Game 4 loss to Raptors - Fear The Sword",
-      "link": "https://www.fearthesword.com/cavs-scores-results/48384/cavs-recap-game-4-nba-playoffs-toronto-raptors-cleveland-cavaliers-donovan-mitchell-james-harden-evan-mobley-scottie-barnes"
+      "title": "'As good as it gets' - Fitzpatricks win PGA pairs event - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/cdrmr6rppe4o"
+    },
+    {
+      "title": "Yankees Option Luis Gil To Triple-A - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/yankees-option-luis-gil-to-triple-a.html"
+    },
+    {
+      "title": "LPGA Chevron Championship: Nelly Korda returns to world number one with Chevron win - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/c9qdqn18741o"
+    },
+    {
+      "title": "At least 25 cars wreck in massive crash, stopping Talladega Cup race - Motorsport.com",
+      "link": "https://www.motorsport.com/nascar-cup/news/over-20-cars-destroyed-in-massive-crash-stopping-talladega-cup-race/10815770/"
+    },
+    {
+      "title": "Decorated Washington linebacker Monte Coleman dead at 68 - WTOP",
+      "link": "https://wtop.com/washington-commanders/2026/04/decorated-washington-linebacker-monte-coleman-dead-at-68/"
+    },
+    {
+      "title": "Winners and losers from the 2026 NFL draft (the college perspective) - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/nfl/nfl-draft-winners-and-losers-from-the-college-perspective/"
+    },
+    {
+      "title": "After winning challenge, Refsnyder's homer lifts Mariners to sweep - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-sweep-cardinals-after-rob-refsnyder-hits-go-ahead-home-run/"
+    },
+    {
+      "title": "Cavs squander fourth-quarter lead, relentless Raptors even first-round series with 93-89 win in Game 4 - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2026/04/cavs-squander-fourth-quarter-lead-as-pesky-raptors-even-first-round-series-with-93-89-win.html"
     },
     {
       "title": "Packers Depth Chart: Projecting a 53-man roster after the 2026 draft - Acme Packing Company",
@@ -122,16 +150,12 @@
       "link": "https://nypost.com/2026/04/26/sports/why-jets-traded-up-for-cade-klubnik-in-2026-nfl-draft/"
     },
     {
-      "title": "What did ESPN\u2019s Mel Kiper Jr. think of Colts 2026 draft class? - Stampede Blue",
-      "link": "https://www.stampedeblue.com/indianapolis-colts-draft/124077/what-did-espns-mel-kiper-jr-think-of-colts-2026-draft-class"
+      "title": "Grading each pick from Jets\u2019 excellent 2026 draft class - Jets X-Factor",
+      "link": "https://jetsxfactor.com/2026/04/26/jets-excellent-2026-draft-class-grading-picks/"
     },
     {
       "title": "Eagles News: Jonathan Greenard says Jalen Hurts told him that Philadelphia is going to win another Super Bowl - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/news/174960/eagles-news-jonathan-greenard-says-jalen-hurts-told-him-that-philadelphia-is-going-to-win-another-super-bowl"
-    },
-    {
-      "title": "Spurs vs Trail Blazers Prediction, Picks, Odds for NBA Playoffs Game 4 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/san-antonio-spurs-vs-portland-trail-blazers-prediction-pick-odds-nba-playoffs-game-4-sunday-april-26"
     },
     {
       "title": "Wolves-Nuggets: NBA Considering Suspensions? DiVincenzo Undergoes Surgery - Sports Illustrated",
@@ -148,30 +172,6 @@
     {
       "title": "Alex Cora firing reaction: What players writers, fans, and others are saying about Red Sox\u2019 shocking move - Boston.com",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/04/25/alex-cora-firing-red-sox-reaction-shocking-tweet-video-espn-writers-boston-mlb-baseball/"
-    },
-    {
-      "title": "Dallas Cowboys to pay a whole lot of money to land a player the NFL forgot to draft - A to Z Sports",
-      "link": "https://atozsports.com/nfl/dallas-cowboys-news/pay-a-whole-lot-of-money-to-land-a-player-the-nfl-forgot-to-draft-michael-trigg/"
-    },
-    {
-      "title": "2027 NFL Draft: ESPN polls NFL scouts, reveals way-too-early quarterback rankings - On3",
-      "link": "https://www.on3.com/pro/news/2027-nfl-draft-espn-polls-nfl-scouts-reveals-way-too-early-quarterback-rankings/"
-    },
-    {
-      "title": "How 6 national analysts graded, rated Dolphins draft. And offensive tackle added - Miami Herald",
-      "link": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article315200669.html"
-    },
-    {
-      "title": "Taylen Green vows to give all he has to the Browns - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/taylen-green-vows-to-give-all-he-has-to-the-browns"
-    },
-    {
-      "title": "R1, G4 Preview - 2 Changes Expected + Kings On Stylistic Approach, Extending Series, Kopitar's Career, Laughton on Role & New Linemates - LA Kings Insider",
-      "link": "https://lakingsinsider.com/2026/04/26/r1-g4-preview-2-changes-expected-kings-on-stylistic-approach-extending-series-kopitars-career-laughton-on-role-new-linemates/"
-    },
-    {
-      "title": "Chicago Bears 2026 Draft Class Grades Roundup - Windy City Gridiron",
-      "link": "https://www.windycitygridiron.com/chicago-bears-draft/115526/chicago-bears-2026-draft-class-grades-roundup"
     }
   ],
   "weather": {
