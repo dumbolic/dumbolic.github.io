@@ -1,9 +1,9 @@
 {
-  "quote": "Night is a more quiet time to work. It aids thought. \u2013 Alexander Graham Bell",
-  "fact": "Almonds are members of the peach family.",
-  "crypto": "BTC: $75,920 | ETH: $2,271.79",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Where do you learn to make banana splits? At sundae school.",
+  "quote": "Your heart is full of fertile seeds, waiting to sprout. \u2013 Morihei Ueshiba",
+  "fact": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+  "crypto": "BTC: $75,419 | ETH: $2,226.97",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you call an eagle who can play the piano? Talonted!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "PlayStation Users Report New Online License Checks For Digital Games - GameSpot",
-      "link": "https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/"
+      "title": "Denuvo Has Been Fully Cracked And 2K Is Fighting Back - Kotaku",
+      "link": "https://kotaku.com/hackers-have-bypassed-denuvo-drm-in-every-game-and-now-2k-is-reportedly-fighting-back-with-14-day-online-check-ins-2000691311"
     },
     {
-      "title": "The Blood of Dawnwalker launches September 3 - Gematsu",
-      "link": "https://www.gematsu.com/2026/04/the-blood-of-dawnwalker-launches-september-3"
+      "title": "I've seen 90 minutes more of The Blood of Dawnwalker and I'm excited - could this be 2026's breakout RPG? - Eurogamer.net",
+      "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-preview-excited-breakout-rpg"
     },
     {
-      "title": "Raid Boss 2 coming May 28 - Borderlands | Official Website",
-      "link": "https://borderlands.2k.com/borderlands-4/news/raid-boss-2-coming-may-28/"
+      "title": "The Sims 4 Update: Hotfix Release Notes (April 28th, 2026) - Sims Community",
+      "link": "https://simscommunity.info/2026/04/28/sims-4-update-hotfix-release-notes-april-28/"
+    },
+    {
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender"
+    },
+    {
+      "title": "Google Home app modernizes camera & media controls, Gemini voice assistant gets speed upgrades - 9to5Google",
+      "link": "http://9to5google.com/2026/04/28/google-home-gemini-update-april-28/"
     },
     {
       "title": "Studio Behind Unique RPGs Steelrising And GreedFall Reportedly Shutting Down After 18 Years - Kotaku",
@@ -32,8 +40,20 @@
       "link": "https://kotaku.com/2025s-worst-reviewed-game-mindseye-gta-is-getting-a-big-price-drop-2000691275"
     },
     {
+      "title": "Hatsune Miku gets glowing fishing rod and reel in wild new collab - Dexerto",
+      "link": "https://www.dexerto.com/entertainment/hatsune-miku-gets-glowing-fishing-rod-and-reel-in-wild-new-collab-3357801/"
+    },
+    {
+      "title": "DJI\u2019s new Mic Mini 2 adds colorful covers to help them blend in - The Verge",
+      "link": "https://www.theverge.com/tech/919553/dji-mic-mini-2-wireless-microphone-transmitter-magnetic-cover"
+    },
+    {
       "title": "Play Thrilling New GTA Online Experiences Built by the Community with the Rockstar Mission Creator - Rockstar Games",
       "link": "https://www.rockstargames.com/newswire/article/39a3412379o79o/play-thrilling-new-gta-online-experiences-built-by-the-community-with"
+    },
+    {
+      "title": "Apple Vision Pro Used in World-First Cataract Surgery - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/28/apple-vision-pro-cataract-surgery/"
     },
     {
       "title": "Apple introduces a cheaper option for App Store subscriptions - TechCrunch",
@@ -52,66 +72,82 @@
       "link": "https://www.forbes.com/sites/paultassi/2026/04/28/diablo-4-lord-of-hatred-fixes-a-core-long-term-problem/"
     },
     {
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
+    },
+    {
+      "title": "PS5 30-Day DRM \u201cConfirmed\u201d by PlayStation Support \u2013 But Sony Denies It - VICE",
+      "link": "http://www.vice.com/en/article/ps5-30-day-drm-confirmed-by-playstation-support-but-sony-denies-it/"
+    },
+    {
+      "title": "Xbox boss Asha Sharma hints memory costs \"will impact\" pricing and availability of next-gen Project Helix console - Eurogamer.net",
+      "link": "https://www.eurogamer.net/xbox-boss-on-project-helix-pricing-and-availability"
+    },
+    {
       "title": "Nintendo has discounted a bunch of its Switch games in new rare sale - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-switch-games-sale-amazon-digital/"
     },
     {
-      "title": "Behold the crown jewel of outrageous gaming laptops - The Verge",
-      "link": "https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review"
-    },
-    {
-      "title": "Orthworm Meta Guide: PvE Weakness and PvP Potential - Pok\u00e9mon GO Hub",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnRZbDJRYm0yV2JaVHFTWU50Y3VDbS12aGlrSThuMEwzaTlac1g0RHdmamRqN3FmMmo4QVdxSEFmSl9HVFI4VVBFVUdvaGs1M01ub1dHYTBIN1Z5UERGaWY3dWpwa0FMQmJXaHRvXzFTSW5ZbnFQc2hDUWsxTmMxX3pNU3pfVzlQeTVtUnN2SQ?oc=5"
-    },
-    {
-      "title": "The Hottest Anti-AI Gadget Is a Cyberdeck - WIRED",
-      "link": "https://www.wired.com/story/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/"
-    },
-    {
-      "title": "Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC - Eurogamer.net",
-      "link": "https://www.eurogamer.net/final-fantasy-vii-remake-demo-switch-2-xbox-pc-save-data"
-    },
-    {
-      "title": "Valve is \"hard at work\" on Steam Deck 2, but the company's idea of \"next-gen\" performance isn't possible yet - Eurogamer.net",
-      "link": "https://www.eurogamer.net/steam-deck-2-comments-next-gen-performance"
-    },
-    {
-      "title": "Lenovo acquires Phoenix Technologies\u2019 BIOS business - VideoCardz.com",
-      "link": "https://videocardz.com/newz/lenovo-acquires-phoenix-technologies-bios-business"
-    },
-    {
-      "title": "Riven Tides - Patch Notes 1.26.0 - ARC Raiders",
-      "link": "https://arcraiders.com/news/riven-tides-patch-notes-1-26-0"
-    },
-    {
-      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/"
+      "title": "NVIDIA Bumps RTX 5070 Laptop GPU To 12GB Using New 3GB GDDR7 Memory, Offers 50% Boost While Tackling Supply Constraints - Wccftech",
+      "link": "https://wccftech.com/nvidia-bumps-rtx-5070-laptop-gpu-to-12gb-gddr7-memory/"
     }
   ],
   "sports_news": [
     {
-      "title": "Former NBA player and coach Damon Jones pleads guilty to selling gamblers inside information - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVgyRC1lSWxobVgyU1ZQd3NMQ2tMMEZLcVhKMGdoQ2pwWkZmRmpKSDlDaUROeXpSYm40c1ZNVWNUeElUMTZ0dG41dWVZR1FaMGNuTDJyaVZ5RUJFZDNQbFIzNWVVc3djMkhjRjg4V1BKZEliQTloVTlnSmhJZkpHaEdpd1RXcFpIeXltdFoyMTJVTU90WWdua1dIaW53RGRNbHVRUVNORVZqSjhEdER4SE1HYjVuNmtfZ2RKQTBOTlhIYmRhb2Q4?oc=5"
+      "title": "Ex-NBA player Damon Jones is 1st to plead guilty in gambling sweep that led to over 30 arrests - AP News",
+      "link": "https://apnews.com/article/damon-jones-nba-poker-betting-lebron-james-53b764b4be1f7d9d09ca480b42f14aa1"
+    },
+    {
+      "title": "Ravens agree to sign QB Diego Pavia - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-sign-qb-diego-pavia"
+    },
+    {
+      "title": "Phillies Fire Rob Thomson, Name Don Mattingly Interim Manager - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/phillies-fire-rob-thomson-name-don-mattingly-interim-manager.html"
+    },
+    {
+      "title": "Ex-Cowboys QB Tony Romo fails to advance in U.S. Open qualifying - ESPN",
+      "link": "https://www.espn.com/golf/story/_/id/48619157/ex-cowboys-qb-tony-romo-fails-advance-us-open-qualifying"
+    },
+    {
+      "title": "49ers WR De\u2019Zhaun Stribling was ranked higher than Makai Lemon by an NFL team - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-analysis/158810/49ers-wr-dezhaun-stribling-was-ranked-higher-than-makai-lemon-by-an-nfl-team"
+    },
+    {
+      "title": "The Magic Are Winning The Beef War - Defector",
+      "link": "https://defector.com/the-magic-are-winning-the-beef-war"
+    },
+    {
+      "title": "The NFL Could Spare Brendan Sorsby From the NCAA\u2019s Gambling Investigation - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rRld5VmVRbUN3TEFWSjM0Sk1GT2RHUFAxSnMtbmZGU3hKanZvX2RvallTM29DZURjT3BxRVQxOUY0cHRTaU41VVA3dFlPQjNmRGFQZGszeEtkU2VKaDRDdmpvWWwwLVc2elhjQQ?oc=5"
+    },
+    {
+      "title": "Steelers Rise In Offseason Power Rankings After 2026 Draft - Steelers Depot",
+      "link": "https://steelersdepot.com/2026/04/steelers-rise-in-offseason-power-rankings-following-2026-draft/"
+    },
+    {
+      "title": "NFL news roundup: Eagles assistant GM Alec Halaby stepping away from role - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-april-28"
     },
     {
       "title": "More aggressive Nikola Jokic puts up triple-double, sparks Nuggets to win, forcing Game 6 - NBC Sports",
       "link": "https://www.nbcsports.com/nba/news/more-aggressive-nikola-jokic-puts-up-triple-double-sparks-nuggets-to-win-forcing-game-6"
     },
     {
-      "title": "Phillies dismiss Rob Thomson; Mattingly named interim manager - MLB.com",
-      "link": "https://www.mlb.com/news/phillies-dismiss-manager-rob-thomson"
+      "title": "Denver Broncos post-draft depth chart - Mile High Report",
+      "link": "https://www.milehighreport.com/denver-broncos-news/176724/denver-broncos-post-draft-depth-chart"
+    },
+    {
+      "title": "Ravens agree to sign UDFA QB Joe Fagnano - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-sign-udfa-qb-joe-fagnano"
     },
     {
       "title": "Steelers apply UFA tender to Aaron Rodgers - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlpHUlBxb0w4eVNMd2ZzbEF5Q0NjcWYyLVIyVkM5S2sxeWhlaUtDV09EWURoN2lQWnRyZ1prWUZ0V0FWYWQxMEVXWTR4aVNQRHNpMzlkQV8ybWhORFFhajNwcUk2WXliUHRuLXJSWWY0QVhkUG5jY3NOUHVfeVpXTVVEdVJzRHJ3Vy1rNm9hbXJIejBmTlZicllPSF9nbmdtNkt2aFFoaw?oc=5"
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-apply-ufa-tender-on-aaron-rodgers"
     },
     {
-      "title": "Man City fixtures: Pep Guardiola's side face pile-up in May - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cm2pn84y1r3o"
-    },
-    {
-      "title": "Texas Tech Transfer QB Brendan Sorsby Leaves School, Enters Gambling Rehab - Defector",
-      "link": "https://defector.com/texas-tech-transfer-qb-brendan-sorsby-leaves-school-enters-gambling-rehab"
+      "title": "Yankees To Recall Elmer Rodr\u00edguez For MLB Debut - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/yankees-to-recall-elmer-rodriguez-for-mlb-debut.html"
     },
     {
       "title": "The draft\u2019s TV ratings don\u2019t match the hype - NBC Sports",
@@ -122,16 +158,8 @@
       "link": "https://www.baltimoreravens.com/news/ravens-draft-class-size-toughness-power-rankings-diego-pavia-minicamp-tryout-lamar-jackson-joe-flacco"
     },
     {
-      "title": "Tim Benz: Steelers\u2019 draft approach doesn\u2019t mesh with attempts to retain Aaron Rodgers - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFRDZlY5dTVfRnQ3Y2NSX1M2NTNPeEVsdUtmTkRiUXp2UUJkZDRDMmlyclFzZThudjZ3YkNXZGM4dVVjS2lXbnRrSmZjdXJsYktwQzZidU90OHBRSHIxMmhWUEp5c2VVVDhQM2FqWWszUG5DeG1vZG5TQklJQUtVdHZLM2ZiYWtZTmZaV01PX2lZUk1uM1FEX0dsZW1vQ3U5enBNMTYtdS10N2hBV3FyZw?oc=5"
-    },
-    {
-      "title": "Paul Zeise: The Steelers\u2019 draft class is growing on me, and I think it will grow on fans, as well - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/paul-zeise/2026/04/28/steelers-nfl-draft-allar-germie-gennings-khan-mccarthy-iheanachor/stories/202604270086"
-    },
-    {
-      "title": "Diego Pavia\u2019s NFL plight is misunderstood \u2014 just like him - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQWZNVkRaZzRWYkJ6T3pwa3JKbE00RWJHeFJsNENFbnVzMDg1REdWOGNkN1loakdrYXRkTTNGZFdET0E1dzYxRmxqWG5DYVpFX3NBS2tVczdDcTJ4ZmJOWmVpMkpEaUVzZktyd0tmY0t1ZVlsQjRpamlBZVpROGZZaElKTGVDa0lDdXFudzZOQWhqWXRyS1BF?oc=5"
+      "title": "Way-too-early Top 25 college basketball rankings 4.0: NBA Draft entry deadline, commitments shift 2026-27 picture - On3",
+      "link": "https://www.on3.com/news/way-too-early-top-25-college-basketball-rankings-4-0-nba-draft-entry-deadline-commitments-shift-2026-27-picture/"
     },
     {
       "title": "Cowboys' Caleb Downs Admits He Got 'Bored' During Ohio State Career, Explains Why - Bleacher Report",
@@ -140,34 +168,6 @@
     {
       "title": "2026 NFL Power Rankings: Which Teams Improved Most With the Draft? - FOX Sports",
       "link": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-which-teams-improved-most-draft"
-    },
-    {
-      "title": "NCAA pushes new five years of eligibility, age-based rules, but it won't impact current seniors - WRAL",
-      "link": "https://www.wral.com/sports/college-sports-ncaa-five-years-of-eligibility-age-based-rules-board-of-directors-april-2026/"
-    },
-    {
-      "title": "Patriots\u2019 2026 draft day trades, analyzed - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-draft/127653/2026-draft-day-trades-analyzed-caleb-lomu"
-    },
-    {
-      "title": "49ers GM John Lynch: Only consensus draft opinion I care about is in this building - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPelJCSHZGLWdVcE9QUlQ0Q25QYlQxOEdYd2oxWFF1STAyaHpLSWtreHdRNzluNi1FME8zT1FNb082NXVaMVo5a3pqZGwxYUFqUmRaNFBrTW56UHpqbU4xMTlzd0tkSTIydGxKOHN5dWl4US1JaC15TzQ1VGtUR2otRHhwM2hwT0hLdnE5Q1pRNkVNTE5pd0VJdFoyN3ZMaUoyeGEtTm1XYkM5X2VJLWhiZHcwU1BIUVp6WFAtRTFFQWRremJ5LWdHdERHR194aHJNRnBkNHpValZ2Nm8?oc=5"
-    },
-    {
-      "title": "New 2026 NBA Mock Draft with Warriors Winning Lottery Simulation - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25422909-new-2026-nba-mock-draft-warriors-winning-lottery-simulation"
-    },
-    {
-      "title": "TWENTYMAN: 5 takeaways from 2026 NFL Draft - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/detroit-lions-5-takeaways-from-2026-nfl-draft-miller-moore-abney"
-    },
-    {
-      "title": "Flyers again can't close out Penguins, come home for massive Game 6 - NBC Sports Philadelphia",
-      "link": "https://www.nbcsportsphiladelphia.com/nhl/philadelphia-flyers/flyers-again-cant-close-out-penguins-come-home-for-massive-game-6/729791/"
-    },
-    {
-      "title": "Adidas\u2019 Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon - WIRED",
-      "link": "https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/"
     }
   ],
   "weather": {
