@@ -1,9 +1,9 @@
 {
-  "quote": "When you can't make them see the light, make them feel the heat. \u2013 Ronald Reagan",
-  "fact": "An American urologist bought Napoleon\u2019s penis for $40,000.",
-  "crypto": "BTC: $78,344 | ETH: $2,303.96",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did the calculator say to the student? You can count on me.",
+  "quote": "The best teacher is experience and not through someone's distorted point of view. \u2013 Jack Kerouac",
+  "fact": "Human thigh bones are stronger than concrete.",
+  "crypto": "BTC: $77,947 | ETH: $2,288.33",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do you call a dad that has fallen through the ice? A Popsicle.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,158 +12,162 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "45-year-old man caught hiding in Best Buy overnight to be early Pokemon card release - Dexerto",
+      "link": "https://www.dexerto.com/pokemon/45-year-old-man-caught-hiding-in-best-buy-overnight-to-be-early-pokemon-card-release-3359072/"
+    },
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
+    },
+    {
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/"
+    },
+    {
+      "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/"
+    },
+    {
       "title": "Apex Legends Season 29 patch notes: New Legend Axle, Deathbox Respawns, buffs and nerfs - Dexerto",
       "link": "https://www.dexerto.com/apex-legends/apex-legends-season-29-patch-notes-3358938/"
     },
     {
-      "title": "Steam's Most Wishlisted Game Is Skipping PS5 for Now - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/04/steams-most-wishlisted-game-is-skipping-ps5-for-now"
+      "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
+    },
+    {
+      "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi - CNBC",
+      "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html"
     },
     {
       "title": "April Xbox Update: Customize Your Console, Manually Add Your Favorite Games on PC, and More - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/"
     },
     {
+      "title": "Teenage Mutant Ninja Turtles: Empire City Review - IGN",
+      "link": "https://www.ign.com/articles/teenage-mutant-ninja-turtles-empire-city-review"
+    },
+    {
       "title": "Wizards of the Coast Is Making a Brand New Trading Card Game - Gizmodo",
       "link": "https://gizmodo.com/magic-the-gathering-mood-swings-reveal-wizards-of-the-coast-2000752647"
     },
     {
-      "title": "Gemini is rolling out to cars with Google built-in - The Verge",
-      "link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade"
+      "title": "Google expands \u2018Preferred Sources\u2019 to everyone so you actually see your favorite sites - 9to5Google",
+      "link": "http://9to5google.com/2026/04/30/google-preferred-sources-global-language-expansion/"
     },
     {
-      "title": "Microsoft\u2019s DLSS competitor is now available on the Xbox Ally X handheld - The Verge",
-      "link": "https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview"
+      "title": "A Bunch Of Underrated Switch Games Are Surprisingly Cheap - Kotaku",
+      "link": "https://kotaku.com/some-of-the-best-nintendo-switch-games-are-on-sale-right-now-2000691769"
+    },
+    {
+      "title": "Subnautica 2 launches soon after lengthy legal dispute - The Verge",
+      "link": "https://www.theverge.com/games/920668/subnautica-2-early-access-release-date-unknown-worlds-krafton"
+    },
+    {
+      "title": "Porsche will contest Laguna Seca in historic colors of the Apple Computer livery - Porsche Newsroom",
+      "link": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html"
     },
     {
       "title": "Free Play Days \u2013 Predator: Hunting Grounds, Railway Empire 2, Dragon Ball FighterZ and NBA Bounce - Xbox Wire",
       "link": "https://news.xbox.com/en-us/2026/04/30/free-play-days-04-30-2026/"
     },
     {
-      "title": "Porsche Penske to Run Apple Retro-Inspired Liveries at Laguna - Sportscar365",
-      "link": "https://sportscar365.com/imsa/iwsc/porsche-penske-to-run-apple-retro-inspired-liveries/"
+      "title": "Light Phone Is Making Its Dumb Phone More Useful With Third-Party \u2018Tools\u2019 - WIRED",
+      "link": "https://www.wired.com/story/exclusive-light-phone-developer-kit/"
+    },
+    {
+      "title": "Greedfall studio Spiders' liquidation is a \"premeditated and deliberate choice by Nacon\u2019s management\" claim union as they call for a boycott - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/greedfall-studio-spiders-liquidation-is-a-premeditated-and-deliberate-choice-by-nacons-management-claim-union-as-they-call-for-a-boycott"
+    },
+    {
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\" - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"
     },
     {
       "title": "Indiana Jones and the Great Circle gets first Nintendo Switch 2 gameplay - Nintendo Everything",
       "link": "https://nintendoeverything.com/indiana-jones-and-the-great-circle-gets-first-nintendo-switch-2-gameplay/"
-    },
-    {
-      "title": "OpenAI talks about not talking about goblins - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins"
-    },
-    {
-      "title": "The New \u2018Diablo 4: Lord Of Hatred\u2019 Skill Trees Have One Weird Problem - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/04/30/the-new-diablo-4-lord-of-hatred-skill-trees-have-one-weird-problem/"
-    },
-    {
-      "title": "The Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Expansion Arrives July 17, 2026 - Pokemon.com",
-      "link": "https://www.pokemon.com/us/pokemon-news/the-pokemon-tcg-mega-evolution-pitch-black-expansion-arrives-july-17-2026"
-    },
-    {
-      "title": "Vehicular action game Truck-kun is Supporting Me From Another World?! announced for Xbox Series, PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/04/vehicular-action-game-truck-kun-is-supporting-me-from-another-world-announced-for-xbox-series-pc"
-    },
-    {
-      "title": "Samsung reportedly prepares Galaxy Book laptops running Android with One UI 9 skin - 9to5Google",
-      "link": "http://9to5google.com/2026/04/30/samsung-galaxy-book-android-laptops-report/"
-    },
-    {
-      "title": "Famitsu sales (4/20/26 - 4/26/26) - first week sales revealed for Pragmata on Nintendo Switch 2 - Nintendo Everything",
-      "link": "https://nintendoeverything.com/famitsu-sales-4-20-26-4-26-26-first-week-sales-revealed-for-pragmata-on-nintendo-switch-2/"
-    },
-    {
-      "title": "Xbox Presents: A Special Look at Stranger Than Heaven Airs Next Wednesday - Here\u2019s Everything You Need to Know - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/04/30/xbox-presents-stranger-than-heaven-details-how-to-watch/"
-    },
-    {
-      "title": "The new Fire TV OS is for Amazon, not you - PCWorld",
-      "link": "https://www.pcworld.com/article/3128166/the-new-fire-tv-os-is-for-amazon-not-you.html"
-    },
-    {
-      "title": "A PvE Analysis of Steeled Resolve: Taken Over - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/meta/a-pve-analysis-of-steeled-resolve-taken-over/"
-    },
-    {
-      "title": "Take-Two Interactive\u2019s Strauss Zelnick on \u2018GTA 6\u2019 Jitters, Zynga\u2019s Turnaround and Investing in Original Properties - Variety",
-      "link": "https://variety.com/2026/gaming/news/gta-6-take-two-strauss-zelnick-zynga-iicon-conference-1236733784/"
     }
   ],
   "sports_news": [
     {
+      "title": "Former Penguins forward Tyler Kennedy believes Evgeni Malkin will sign with Capitals if he does not re-sign with Penguins - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/04/30/evgeni-malkin-capitals-penguins-contract-tyler-kennedy-nhl-free-agency/"
+    },
+    {
+      "title": "Luke Weaver blows lead as miserable Mets take yet another agonizing loss - New York Post",
+      "link": "https://nypost.com/2026/04/30/sports/luke-weaver-blows-lead-as-mets-take-yet-another-agonizing-loss/"
+    },
+    {
+      "title": "LIV Golf to lose investment from Saudi Arabia, fund says - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/GMA/Culture/liv-golf-lose-investment-saudi-arabia-fund/story?id\\\\u003d132070290"
+    },
+    {
+      "title": "Brandon Woodruff Removed From Start After Velocity Dip - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/04/brandon-woodruff-removed-from-start-after-velocity-dip.html"
+    },
+    {
+      "title": "Celtics vs 76ers Predictions, Picks, NBA Playoffs Game 6 Odds 4/30 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/boston-celtics-vs-philadelphia-76ers-prediction-pick-odds-nba-playoffs-game-6-thursday-april-30"
+    },
+    {
+      "title": "Kyle Shanahan: 49ers got what they wanted trading out of the first round - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-49ers-got-what-they-wanted-trading-out-of-the-first-round"
+    },
+    {
+      "title": "George Pickens has one play for 2026: Show up and play well - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-has-one-play-for-2026-show-up-and-play-well"
+    },
+    {
+      "title": "Packers exercise Lukas Van Ness\u2019 fifth-year option - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-exercise-lukas-van-ness-fifth-year-option"
+    },
+    {
+      "title": "Lineup updates as Sabres prepare for Game 6 - NHL.com",
+      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-practice-lines-logan-stanley-update"
+    },
+    {
+      "title": "Jeremiyah Love plans to invest his NFL paychecks, live off endorsement income - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-plans-to-invest-his-nfl-paychecks-live-off-endorsement-income"
+    },
+    {
+      "title": "Bunting in, Myers out as Stars make lineup changes ahead of Game 6 vs. Wild - Dallas News",
+      "link": "https://www.dallasnews.com/sports/stars/article/bunting-in-myers-stars-make-changes-ahead-game-6-22234393.php"
+    },
+    {
+      "title": "Vegas And Utah Are Murder On Early Bedtimes - Defector",
+      "link": "https://defector.com/vegas-and-utah-are-murder-on-early-bedtimes"
+    },
+    {
+      "title": "Seattle Kraken assistant coach Jessica Campbell to explore new NHL coaching opportunities - NHL.com",
+      "link": "https://www.nhl.com/kraken/news/seattle-kraken-assistant-coach-jessica-campbell-to-explore-new-nhl-coaching-opportunities-pr"
+    },
+    {
       "title": "Duke to play UConn, Michigan, Gonzaga next season on Amazon in groundbreaking TV deal - CBS Sports",
       "link": "https://www.cbssports.com/college-basketball/news/duke-amazon-tv-deal-uconn-michigan-gonzaga/"
+    },
+    {
+      "title": "The 10 Most Impactful Rookies Selected in Rounds 2 and 3 of the 2026 NFL Draft - Sports Illustrated",
+      "link": "https://www.si.com/nfl/10-most-impactful-rookies-selected-rounds-two-three-2026-nfl-draft"
+    },
+    {
+      "title": "Drake Maye speaks out on Mike Vrabel after Dianna Russini scandal - New York Post",
+      "link": "https://nypost.com/2026/04/30/sports/drake-maye-speaks-out-on-mike-vrabel-after-dianna-russini-scandal/"
     },
     {
       "title": "NBA Legend John Wall Named President of Basketball Operations at Howard University - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25423906-nba-legend-john-wall-named-president-basketball-operations-howard-university"
     },
     {
+      "title": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Thursday, April 30 - Covers.com",
+      "link": "https://www.covers.com/mlb/home-run-props-parlay-and-odds-thursday-4-30-2026"
+    },
+    {
+      "title": "MLB's Biggest Winners and Losers 30 Games Into 2026 Season - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25423519-mlbs-biggest-winners-and-losers-30-games-2026-season"
+    },
+    {
       "title": "Mets Place Luis Robert Jr. On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/04/mets-to-place-luis-robert-jr-on-injured-list.html"
-    },
-    {
-      "title": "Darius Slayton surgery has no bearing on Giants\u2019 Odell Beckham Jr. interest - New York Post",
-      "link": "https://nypost.com/2026/04/30/sports/darius-slayton-surgery-has-no-bearing-on-giants-odell-beckham-jr-interest/"
-    },
-    {
-      "title": "The NBA\u2019s Lottery Reform Proposal Will Change, But Not Eliminate, Tanking - Defector",
-      "link": "https://defector.com/the-nbas-lottery-reform-proposal-will-change-but-not-eliminate-tanking"
-    },
-    {
-      "title": "Saudi Arabia\u2019s LIV Paid Players Over $3 Billion In Just 4 Years - Forbes",
-      "link": "https://www.forbes.com/sites/maryroeloffs/2026/04/30/heres-how-much-liv-golf-paid-its-players-as-the-saudis-yank-funding/"
-    },
-    {
-      "title": "World\u2019s tallest basketball player, 7-foot-9 Olivier Rioux, signs with UC Irvine - NBC Sports",
-      "link": "https://www.nbcsports.com/mens-college-basketball/news/worlds-tallest-basketball-player-7-foot-9-olivier-rioux-signs-with-uc-irvine"
-    },
-    {
-      "title": "Mark Madden: Penguins\u2019 season was fun, surprising but, ultimately, wasted - TribLIVE.com",
-      "link": "https://triblive.com/sports/mark-madden-penguins-season-was-fun-surprising-but-ultimately-wasted/"
-    },
-    {
-      "title": "Bengals will not pick up Myles Murphy\u2019s fifth-year option - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-will-not-pick-up-myles-murphys-fifth-year-option"
-    },
-    {
-      "title": "College basketball men\u2019s transfer portal\u2019s 4 winners, 3 losers, and 1 wildcard - SB Nation",
-      "link": "https://www.sbnation.com/college-basketball/1112903/college-basketball-transfer-portal-winners-losers-wildcard-unc-kansas-texas"
-    },
-    {
-      "title": "John Spytek: Tom Brady\u2019s empowered us to run Raiders day-to-day as we see fit - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-spytek-tom-bradys-empowered-us-to-run-raiders-day-to-day-as-we-see-fit"
-    },
-    {
-      "title": "Reds Place Brandon Williamson On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/04/reds-place-brandon-williamson-on-injured-list.html"
-    },
-    {
-      "title": "NFL news roundup: Giants sign veteran DL Shelby Harris; Darius Slayton to miss spring after surgery - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-april-30"
-    },
-    {
-      "title": "Browns to hold groundbreaking ceremony for new stadium on Thursday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-to-hold-groundbreaking-ceremony-for-new-stadium-on-thursday"
-    },
-    {
-      "title": "Top NFL Scout Evaluates Packers\u2019 Draft Picks, Including \u2018Gumby,\u2019 Free Agents - Sports Illustrated",
-      "link": "https://www.si.com/nfl/packers/onsi/top-nfl-scout-evaluates-packers-draft-picks-including-gumby-free-agents"
-    },
-    {
-      "title": "Shaquille O'Neal says he's glad Rockets beat Lakers in Game 5: \"I hate watching the Lakers play sometimes\" - Yahoo Sports",
-      "link": "https://www.basketballnetwork.net/latest-news/shaquille-oneal-says-hes-glad-houston-rockets-beat-los-angeles-lakers-in-game-5"
-    },
-    {
-      "title": "Stephen A. Smith reveals origin of LeBron James grudge - Awful Announcing",
-      "link": "https://awfulannouncing.com/nba/stephen-a-smith-origin-lebron-james-grudge.html"
-    },
-    {
-      "title": "Giants vs Phillies Prediction, Picks & Odds for Today's MLB Game 1 - Covers.com",
-      "link": "https://www.covers.com/mlb/giants-vs-phillies-prediction-picks-odds-thursday-4-30-2026"
-    },
-    {
-      "title": "Ky. Derby: Pletcher weighs rail, favoritism for Renegade - Horse Racing Nation",
-      "link": "https://www.horseracingnation.com/news/Kentucky_Derby_Pletcher_weighs_rail_favoritism_for_Renegade_123"
     }
   ],
   "weather": {
