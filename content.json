@@ -1,9 +1,9 @@
 {
-  "quote": "When one does not have what one wants, one must want what one has. \u2013 Sigmund Freud",
-  "fact": "13% of Americans actually believe that some parts of the moon are made of cheese.",
-  "crypto": "BTC: $78,308 | ETH: $2,303.24",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "New atoms frequently lose electrons when they fail to keep an ion them.",
+  "quote": "All I can do is be me, whoever that is. \u2013 Bob Dylan",
+  "fact": "Cats\u2019 urine glows under a black light.",
+  "crypto": "BTC: $78,298 | ETH: $2,305.01",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet - TechCrunch",
+      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/"
+    },
     {
       "title": "World Heroes Perfect \u2018NEO GEO Premium Selection\u2019 edition announced for PC - Gematsu",
       "link": "https://www.gematsu.com/2026/04/world-heroes-perfect-neo-geo-premium-selection-edition-announced-for-pc"
@@ -20,28 +24,32 @@
       "link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"
     },
     {
+      "title": "Apple Expects 'Significantly Higher Memory Costs' in June Quarter and Beyond - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/30/apple-memory-costs-significantly-higher/"
+    },
+    {
       "title": "45-year-old man caught hiding in Best Buy overnight to be early Pokemon card release - Dexerto",
       "link": "https://www.dexerto.com/pokemon/45-year-old-man-caught-hiding-in-best-buy-overnight-to-be-early-pokemon-card-release-3359072/"
     },
     {
-      "title": "Xbox Mode Has Officially Arrived, Aiming To Bring A 'Console-Inspired Experience' To PC Users - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/04/xbox-mode-has-officially-arrived-aiming-to-bring-a-console-inspired-experience-to-pc-users"
+      "title": "\u201cXbox Mode is here\u201d: Microsoft rolls out console-style experience on Windows 11, barely meeting its own deadline - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/xbox-mode-is-here-microsoft-rolls-out-console-style-experience-on-windows-11-barely-meeting-its-own-deadline"
     },
     {
       "title": "The most severe Linux threat to surface in years catches the world flat-footed - Ars Technica",
       "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
     },
     {
+      "title": "Xbox Series X|S and Xbox on PC get big upgrades with Microsoft's new April Update \u2014 here's what's new - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/xboxs-new-april-update-brings-awesome-improvements-to-xbox-and-pc-including-one-ive-wanted-microsoft-to-add-for-years"
+    },
+    {
       "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites - TechCrunch",
       "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/"
     },
     {
-      "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/"
-    },
-    {
-      "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles - TechCrunch",
-      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
+      "title": "Teenage Mutant Ninja Turtles: Empire City Review - Go Ninja Go Ninja Go - UploadVR",
+      "link": "https://www.uploadvr.com/teenage-mutant-ninja-turtles-empire-city-review/"
     },
     {
       "title": "\u201cWin Back Fans\u201d: Microsoft Stock (NASDAQ:MSFT) Plunges as Microsoft Admits It Is Losing - TipRanks",
@@ -52,16 +60,28 @@
       "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html"
     },
     {
-      "title": "April Xbox Update: Customize Your Console, Manually Add Your Favorite Games on PC, and More - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/"
+      "title": "Made in Germany: Volla Phone Plinius launches for \u20ac598 with modular battery - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Made-in-Germany-Volla-Phone-Plinius-launches-for-EUR598-with-modular-battery.1287149.0.html"
+    },
+    {
+      "title": "Some iPhone 17 Pro and iPhone Air Users Experiencing a Charging Issue - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/30/iphone-17-pro-iphone-air-charging-issue/"
     },
     {
       "title": "GTA 6 Won't Have Product Placement, Exec Says - GameSpot",
       "link": "https://www.gamespot.com/articles/gta-6-wont-have-product-placement-exec-says/1100-6539719/"
     },
     {
+      "title": "New ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2026/04/30/rog-xbox-ally-update-docking-library-vibration-auto-sr/"
+    },
+    {
       "title": "GeForce Now update brings RTX 5080 performance to nearly every Ready-to-Play game for Ultimate members - PC Guide",
       "link": "https://www.pcguide.com/news/geforce-now-brings-rtx-5080-performance-to-every-single-ready-to-play-game-for-ultimate-members/"
+    },
+    {
+      "title": "Gemini is rolling out to cars with Google built-in - The Verge",
+      "link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade"
     },
     {
       "title": "April KB5083769 Windows 11 update causes backup software failures - BleepingComputer",
@@ -70,72 +90,64 @@
     {
       "title": "Subnautica 2 launches soon after lengthy legal dispute - The Verge",
       "link": "https://www.theverge.com/games/920668/subnautica-2-early-access-release-date-unknown-worlds-krafton"
-    },
-    {
-      "title": "Porsche will contest Laguna Seca in historic colors of the Apple Computer livery - Porsche Newsroom",
-      "link": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html"
-    },
-    {
-      "title": "Free Play Days \u2013 Predator: Hunting Grounds, Railway Empire 2, Dragon Ball FighterZ and NBA Bounce - Xbox Wire",
-      "link": "https://news.xbox.com/en-us/2026/04/30/free-play-days-04-30-2026/"
-    },
-    {
-      "title": "'He's A Very Sexy Guy': Making A Video Game James Bond In 2026 - Kotaku",
-      "link": "https://kotaku.com/007-first-light-dev-explains-what-makes-it-different-from-a-hitman-game-2000692016"
-    },
-    {
-      "title": "Light Phone Is Making Its Dumb Phone More Useful With Third-Party \u2018Tools\u2019 - WIRED",
-      "link": "https://www.wired.com/story/exclusive-light-phone-developer-kit/"
-    },
-    {
-      "title": "Greedfall studio Spiders' liquidation is a \"premeditated and deliberate choice by Nacon\u2019s management\" claim union as they call for a boycott - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/greedfall-studio-spiders-liquidation-is-a-premeditated-and-deliberate-choice-by-nacons-management-claim-union-as-they-call-for-a-boycott"
     }
   ],
   "sports_news": [
     {
-      "title": "Kozora: What I Did (And Didn\u2019t) Like About The Steelers\u2019 Draft - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/05/kozora-what-i-did-and-didnt-like-about-the-steelers-draft/"
+      "title": "Knicks 140-89 Hawks (Apr 30, 2026) Game Recap - ESPN",
+      "link": "https://www.espn.com/nba/recap?gameId\\\\u003d401869393"
     },
     {
-      "title": "PROJECTED LINEUP: Oilers at Ducks (Game 6) - NHL.com",
-      "link": "https://www.nhl.com/oilers/news/projected-lineup-oilers-at-ducks-game-6-04-30-26"
+      "title": "Connor McDavid says Oilers, ousted by Ducks, were 'average' - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/48644600/connor-mcdavid-says-oilers-ousted-ducks-were-average"
+    },
+    {
+      "title": "Start time for Stanley Cup Playoff game on May 2 announced - NHL.com",
+      "link": "https://www.nhl.com/news/start-time-for-stanley-cup-playoff-game-on-may-2-announced"
+    },
+    {
+      "title": "Live Updates: Wolves and Knicks Advance, Philly Forces a Game 7 - NBA",
+      "link": "https://www.nba.com/news/live-updates-knicks-vs-hawks-on-espn"
     },
     {
       "title": "SCHEDULE: Spurs at home to start second round of playoffs - KSAT",
       "link": "https://www.ksat.com/sports/2026/05/01/schedule-spurs-at-home-to-start-second-round-of-playoffs/"
     },
     {
+      "title": "Cronin Defends Dundon Against Criticism Calling Him Cheap - Blazer's Edge",
+      "link": "https://www.blazersedge.com/trail-blazers-news/112071/portland-trail-blazers-joe-cronin-tom-dundon-cheap-nba-news-rumors-tiago-splitter-exit-interviews"
+    },
+    {
       "title": "Roger Goodell opens the door to a possible Cleveland Super Bowl - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-opens-the-door-to-a-possible-cleveland-super-bowl"
     },
     {
-      "title": "Instant observations: Sixers play most complete game of the year \u2013 by far \u2013 and force a Game 7 vs. Celtics - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-celtics-game-7-highlights-box-score-stats-highlights-joel-embiid-tyrese-maxey-vj-edgecombe-paul-george/"
+      "title": "Instant observations: Sixers stars dominate Celtics in Game 6 - PHLY Sports",
+      "link": "https://allphly.com/sixers-celtics-game-6-paul-george-tyrese-maxey-joel-embiid/"
     },
     {
-      "title": "Hawks' Daniels, Knicks' Robinson ejected for fighting - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48642509/hawks-daniels-knicks-robinson-ejected-fighting"
+      "title": "Luke Weaver blows lead as miserable Mets take yet another agonizing loss - New York Post",
+      "link": "https://nypost.com/2026/04/30/sports/luke-weaver-blows-lead-as-mets-take-yet-another-agonizing-loss/"
+    },
+    {
+      "title": "Raiders sign 17 undrafted free agents - Raiders.com",
+      "link": "https://www.raiders.com/news/raiders-sign-17-undrafted-free-agents-2026-nfl-transactions"
     },
     {
       "title": "Seattle Seahawks confirm 7 undrafted free agent signings - Field Gulls",
       "link": "https://www.fieldgulls.com/seattle-seahawks-news/167503/nfl-news-seattle-seahawks-confirm-7-undrafted-free-agent-signings"
     },
     {
-      "title": "Kyle Shanahan explains why 49ers didn't achieve 1st goal in NFL draft - Niners Wire",
-      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/04/30/nfl-draft-49ers-dezhaun-stribling-1st-round-kyle-shanahan/89877908007/"
-    },
-    {
       "title": "Kei Nishikori announces he will retire at the end of 2026 season - ATP Tour",
       "link": "https://www.atptour.com/en/news/nishikori-retirement-announcement-april-2026"
     },
     {
-      "title": "Joe Cronin interview: Blazers GM on coaching search, Tom Dundon, roster, franchise\u2019s reputation, more - OregonLive.com",
-      "link": "https://www.oregonlive.com/blazers/2026/04/joe-cronin-interview-blazers-gm-on-coaching-search-tom-dundon-roster-franchises-reputation-more.html"
+      "title": "What Avalanche players have been up to while awaiting Wild or Stars in Stanley Cup Playoffs\u2019 next round - The Denver Post",
+      "link": "https://www.denverpost.com/2026/04/30/avalanche-stanley-cup-playoffs-time-off/"
     },
     {
-      "title": "2026 Kentucky Derby picks, odds, predictions, favorites: Best bets by top expert who had $1,045 win last year - CBS Sports",
-      "link": "https://www.cbssports.com/general/news/2026-kentucky-derby-picks-odds-predictions-favorites-best-bets-by-top-expert-who-had-1045-win-last-year/"
+      "title": "No One Is Quite Sure What Will Happen Next for LIV Golfers\u2014Including PGA Tour Players - Sports Illustrated",
+      "link": "https://www.si.com/golf/no-one-knows-what-will-happen-next-liv-golfers-including-pga-tour-players"
     },
     {
       "title": "A\u2019s first baseman breaks one of Barry Bonds\u2019 modern records - New York Post",
@@ -146,28 +158,20 @@
       "link": "https://www.nhl.com/wild/news/reason-to-believe-043026"
     },
     {
-      "title": "Mets standing pat for now as they enter May in middle of prolonged crisis - SNY",
-      "link": "https://sny.tv/articles/mets-standing-pat-for-now-prolonged-crisis"
-    },
-    {
       "title": "Magic's Franz Wagner out with calf injury for Game 6 vs. Pistons - NBA",
       "link": "https://www.nba.com/news/magic-franz-wagner-calf-out-game-6-pistons"
     },
     {
-      "title": "Calais Campbell returns to Ravens, Giants still looking for defensive line help - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-free-agency/161280/calais-campbell-returns-to-ravens-giants-still-looking-for-defensive-line-help"
-    },
-    {
-      "title": "Three Chicago Bears rank in ESPN\u2019s top 100 picks of the 2026 NFL Draft - Windy City Gridiron",
-      "link": "https://www.windycitygridiron.com/chicago-bears-news/115833/three-chicago-bears-rank-in-espns-top-100-picks-of-the-2026-nfl-draft"
+      "title": "Former 49ers GM endorses taking De\u2019Zhaun Stribling over Omar Cooper and Denzel Boston - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/158895/former-49ers-gm-endorses-taking-dezhaun-stribling-over-omar-cooper"
     },
     {
       "title": "Jordan Spieth says how close he really is to his 2015 form after shooting 65 on day one at Doral - hitc.com",
       "link": "https://www.hitc.com/jordan-spieth-says-how-close-he-really-is-to-his-2015-form-after-shooting-65-on-day-one-at-doral/"
     },
     {
-      "title": "No fifth-year option for Colts\u2019 QB Anthony Richardson Sr. - Fox 59",
-      "link": "https://fox59.com/sports/no-fifth-year-option-for-colts-qb-anthony-richardson-sr/"
+      "title": "Jadarian Price Will Wear No. 8 & Other Seahawks Rookie Jersey Number Updates - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/jadarian-price-will-wear-no-8-other-seahawks-rookie-jersey-number-updates"
     }
   ],
   "weather": {
