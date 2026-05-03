@@ -1,9 +1,9 @@
 {
-  "quote": "The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. \u2013 Yanni",
-  "fact": "One in every 4 Americans has appeared on television.",
-  "crypto": "BTC: $78,696 | ETH: $2,318.15",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.",
+  "quote": "Stress happens when the mind resists what is. \u2013 Dan Millman",
+  "fact": "In Japan, watermelons are squared. It's easier to stack them that way.",
+  "crypto": "BTC: $78,163 | ETH: $2,303.4",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you call corn that joins the army? Kernel.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Linux Kernel 0-Day \"Copy Fail\" Roots Every Major Distribution Since 2017 - CyberSecurityNews",
-      "link": "https://cybersecuritynews.com/linux-kernel-0-day-copy-fail/"
-    },
-    {
-      "title": "Despite saying otherwise, Mai Shiranui and Kula Diamond are coming back for Dead or Alive 6: Last Round, but there's a catch - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/may/01/mai-kula-doa6-last-round/"
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/"
     },
     {
       "title": "Warhammer 40,000: Armageddon Unboxing \u2013 The Space Marines - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines"
     },
     {
-      "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene - WSJ",
-      "link": "https://www.wsj.com/tech/ai/chatgpt-became-so-obsessed-with-goblins-that-openai-had-to-intervene-a6644e66"
+      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
+      "link": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit"
+    },
+    {
+      "title": "NASA\u2019s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test - Gizmodo",
+      "link": "https://gizmodo.com/nasas-lithium-fed-nuclear-thruster-flares-to-life-in-first-of-its-kind-test-2000753195"
     },
     {
       "title": "Watch Out For Those Fees - Defector",
       "link": "https://defector.com/watch-out-for-those-fees"
+    },
+    {
+      "title": "Subnautica 2's early access PC system requirements are on the punishing side - Rock Paper Shotgun",
+      "link": "https://www.rockpapershotgun.com/subnautica-2s-early-access-system-requirements-are-on-the-punishing-side"
     },
     {
       "title": "Next year\u2019s iPhone Pro models could get all-new design, quad-curved display - 9to5Mac",
@@ -38,6 +42,10 @@
     {
       "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand - MacRumors",
       "link": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/"
+    },
+    {
+      "title": "Thinner than a hair and stretchy like rubber: New material could shield against radiation in next-gen space tech - Space",
+      "link": "https://www.space.com/technology/thinner-than-a-hair-and-stretchy-like-rubber-new-material-could-shield-against-radiation-in-next-gen-space-tech"
     },
     {
       "title": "Apple plans \u2018aggressive pricing\u2019 for iPhone 18 Pro models, per report - 9to5Mac",
@@ -60,8 +68,8 @@
       "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/"
     },
     {
-      "title": "\"It's Rare For Me To Make Downtime\" - Naoki Hamaguchi Talks Final Fantasy VII's \"Packed And Eventful\" Development - Nintendo Life",
-      "link": "https://www.nintendolife.com/features/its-rare-for-me-to-make-downtime-naoki-hamaguchi-talks-final-fantasy-viis-packed-and-eventful-development"
+      "title": "Asha Sharma Comments On AI Use As Upscaling Tech Rolls Out To ROG Xbox Ally - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/05/asha-sharma-comments-on-ai-use-as-upscaling-tech-rolls-out-to-rog-xbox-ally"
     },
     {
       "title": "Dualsense on PC: This $16 Raspberry Pi Adds Wireless Adaptive Triggers and Haptic Feedback To The PS5 Controller - Digital Foundry",
@@ -78,36 +86,52 @@
     {
       "title": "Indiana Jones and the Great Circle reveals Nintendo Switch 2 frame rate, resolution, and DLSS usage - Nintendo Everything",
       "link": "https://nintendoeverything.com/indiana-jones-and-the-great-circle-nintendo-switch-2-tech-specs-dlss/"
-    },
-    {
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/"
-    },
-    {
-      "title": "A Scientist Says Humans Will Stop Aging by 2029, Here's the Technology That Could Make It Real - Indian Defence Review",
-      "link": "https://indiandefencereview.com/humans-stop-aging-by-2029-technology-could-make-real/"
     }
   ],
   "sports_news": [
+    {
+      "title": "F1 Miami GP: Lando Norris beats Kimi Antonelli to sprint race pole with upgraded McLaren - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/f1-miami-gp-lando-norris-beats-kimi-antonelli-to-sprint-race-pole-with-upgraded-mclaren/10817081/"
+    },
+    {
+      "title": "Premier League relegation battle: Leeds beat Burnley to heap pressure on others - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cx218k4ddp4o"
+    },
     {
       "title": "\u2018Yes\u2019: Malkin Firmly Says He Will Play for Another Team If Penguins Decline - Pittsburgh Hockey Now",
       "link": "https://pittsburghhockeynow.com/pittsburgh-penguins-evgeni-malkin-open-to-playing-for-another-nhl-team/"
     },
     {
-      "title": "Norris seizes pole in Miami Sprint Qualifying - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/norris-seizes-pole-position-in-miami-sprint-qualifying-ahead-of-antonelli-and-piastri.3RVsemdZrx7agWsQaMzrm5"
+      "title": "Report: \"Not the first time\" the Steelers called a prospect early - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-not-the-first-time-the-steelers-called-a-prospect-early"
+    },
+    {
+      "title": "Caleb Downs, receives Cowboys jersey number alongside 2026 rookie class - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/caleb-downs-malachi-lawrence-receive-cowboys-jersey-numbers-alongside-2026-rookie-class"
+    },
+    {
+      "title": "Packers\u2019 draft class full of energy, emotion as NFL journey begins - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/packers-draft-class-full-of-energy-emotion-as-nfl-journey-begins-may-1-2026"
+    },
+    {
+      "title": "Observations From Day 1 of Titans Rookie Minicamp on Friday - Tennessee Titans",
+      "link": "https://www.tennesseetitans.com/news/observations-from-day-1-of-titans-rookie-minicamp-on-friday"
     },
     {
       "title": "Seattle Seahawks rookie minicamp tryout players revealed - Field Gulls",
       "link": "https://www.fieldgulls.com/seattle-seahawks-news/167587/nfl-news-seahawks-rookie-minicamp-tryout-players-revealed"
     },
     {
+      "title": "Lakers vs Rockets Predictions, Picks, NBA Playoffs Game 6 Odds 5/1 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/los-angeles-lakers-vs-houston-rockets-prediction-pick-odds-nba-playoffs-game-6-friday-may-1"
+    },
+    {
       "title": "Official Weigh-In Results | UFC Perth - UFC.com",
       "link": "https://www.ufc.com/news/official-weigh-in-results-ufc-perth-della-maddalena-prates"
     },
     {
-      "title": "Christian Parker talks Caleb Downs, outlook for Cowboys' defense - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/christian-parker-talks-caleb-downs-outlook-for-cowboys-defense"
+      "title": "F1 Miami GP: Charles Leclerc tops practice as Mercedes engine issue hits Kimi Antonelli - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/news/f1-miami-gp-charles-leclerc-tops-practice-as-mercedes-engine-issue-hits-kimi-antonelli/10816989/"
     },
     {
       "title": "First Impressions From Ravens Rookie Minicamp - Baltimore Ravens",
@@ -118,24 +142,20 @@
       "link": "https://www.espn.com/college-football/story/_/id/48648720/minnesota-qb-lindsey-arrested-underage-alcohol-fake-id"
     },
     {
-      "title": "Brewers Place Brandon Woodruff On IL With Shoulder Inflammation - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/brewers-place-brandon-woodruff-on-il-with-shoulder-inflammation.html"
+      "title": "DK Metcalf will not face criminal charges for incident with fan in Detroit - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dk-metcalf-will-not-face-criminal-charges-for-incident-with-fan-in-detroit"
     },
     {
-      "title": "Three Illini invited to 2026 NBA Draft Combine - 247Sports",
-      "link": "https://247sports.com/college/illinois/article/three-illinois-fighting-illini-basketball-players-invited-to-2026-nba-draft-combine-keaton-wagler-kylan-boswell-andrej-stojakovic-283772765/"
+      "title": "Brewers Place Brandon Woodruff On IL With Shoulder Inflammation - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/brewers-place-brandon-woodruff-on-il-with-shoulder-inflammation.html"
     },
     {
       "title": "Friends of late NASCAR star Greg Biffle looted funds shortly after driver's death, investigators say - NBC News",
       "link": "https://www.nbcnews.com/news/us-news/friends-late-nascar-star-greg-biffle-looted-funds-rcna343064"
     },
     {
-      "title": "Ravens officially sign QBs Diego Pavia and Joe Fagnano, 17 other undrafted rookies - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-officially-sign-qbs-diego-pavia-and-joe-fagnano-17-other-undrafted-rookies"
-    },
-    {
-      "title": "FP1: Leclerc leads Verstappen and Piastri during Miami practice as Mercedes hit trouble - Formula 1",
-      "link": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-verstappen-and-piastri-during-miami-practice-as-mercedes-hit-trouble.5DlhsKDvclB0W01S0mk1lB"
+      "title": "Seahawks Sign Seven Undrafted Rookie Free Agents - Seattle Seahawks",
+      "link": "https://www.seahawks.com/news/seahawks-sign-seven-undrafted-rookie-free-agents"
     },
     {
       "title": "Chaotic new video emerges of Mitchell Robinson fight \u2014 and the Knicks should be relieved - New York Post",
@@ -148,26 +168,6 @@
     {
       "title": "The National Disrespect of the Timberwolves Continues After Nuggets Win - Sports Illustrated",
       "link": "https://www.si.com/nba/timberwolves/onsi/the-national-disrespect-of-the-timberwolves-continues-after-nuggets-win"
-    },
-    {
-      "title": "Stearns: No Plans To Make Managerial Change - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/stearns-no-plans-to-make-managerial-change.html"
-    },
-    {
-      "title": "BREAKING | Notre Dame Lands 2027 QB Wonderful Monds IV - Irish Sports Daily",
-      "link": "https://irishsportsdaily.com/s/27452/breaking-notre-dame-lands-2027-qb-wonderful-monds-iv"
-    },
-    {
-      "title": "Tour stars branded 'SELFISH' as LIV Golf bombshell escalates tensions - Today's Golfer",
-      "link": "https://www.todays-golfer.com/news-and-events/tour-news/liv-golf-dp-world-tour-divide/"
-    },
-    {
-      "title": "NFL news roundup: Free-agent WR Chase Claypool trying out for Packers - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-may-1"
-    },
-    {
-      "title": "Lindy Ruff named finalist for Jack Adams Award - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/buffalo-sabres-lindy-ruff-jack-adams-award-finalist"
     }
   ],
   "weather": {
