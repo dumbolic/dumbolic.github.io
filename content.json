@@ -1,16 +1,20 @@
 {
-  "quote": "If you spend too much time thinking about a thing, you'll never get it done.  \u2013 Bruce Lee",
-  "fact": "\"Rhythm\" is the longest English word without a vowel.",
-  "crypto": "BTC: $80,807 | ETH: $2,380.58",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What is the least spoken language in the world?\r\nSign Language",
+  "quote": "The more you know, the more you know you don't know. \u2013 Aristotle",
+  "fact": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+  "crypto": "BTC: $80,970 | ETH: $2,380.55",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I was going to get a brain transplant, but I changed my mind",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Today\u2019s NYT Strands Hints, Spangram, Answers For Monday, May 4 (May The Forest Be With You) - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/05/03/todays-nyt-strands-hints-spangram-answers-for-monday-may-4-may-the-forest-be-with-you/"
+    },
     {
       "title": "Gemini will get new third-party smart speakers, early listing reveals ahead of Google Home Speaker - 9to5Google",
       "link": "http://9to5google.com/2026/05/03/google-gemini-smart-speakers-third-party-walmart/"
@@ -24,12 +28,16 @@
       "link": "https://mynintendonews.com/2026/05/03/leaker-claims-dark-souls-trilogy-remake-in-development/"
     },
     {
-      "title": "Google\u2019s official cases for the entire Pixel 10 series are on sale right now - 9to5Google",
-      "link": "http://9to5google.com/2026/05/03/google-pixel-10-cases-discount/"
+      "title": "Gemini app getting full redesign that overhauls every part of the UI - 9to5Google",
+      "link": "http://9to5google.com/2026/05/03/gemini-full-redesign/"
     },
     {
       "title": "Google Home will roll out Gemini upgrades more widely in Europe, Asia-Pacific this week - 9to5Google",
       "link": "http://9to5google.com/2026/05/03/google-home-gemini-europe-asia-pacific-broader-rollout/"
+    },
+    {
+      "title": "PS6 Early Info on Cloud Streaming, Machine Learning, and New Horror Game Uncovered - MP1st",
+      "link": "https://mp1st.com/news/ps6-early-info-cloud-streaming-machine-learning-new-horror-game-uncovered"
     },
     {
       "title": "IPod Nano Gets Three Monitors - Hackaday",
@@ -60,6 +68,10 @@
       "link": "https://www.cnn.com/2026/05/03/health/same-height-party-oakland-hans-hemmert-wellness"
     },
     {
+      "title": "If Claude Code is going away for Pro users, I can't recommend Claude anymore - XDA",
+      "link": "https://www.xda-developers.com/if-claude-code-is-going-away-for-pro-users-cant-recommend-claude-anymore/"
+    },
+    {
       "title": "Sunday Preview \u2013 Take on the Red Terror - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror"
     },
@@ -78,52 +90,72 @@
     {
       "title": "Registry hack lets you bypass Windows 11 KB5083769, KB5083631 patch that blocks some apps - Neowin",
       "link": "https://www.neowin.net/news/registry-hack-lets-you-bypass-windows-11-kb5083769-kb5083631-patch-that-blocks-some-apps/"
-    },
-    {
-      "title": "MindsEye CEO Apparently Found Time To Vibe Code An AI Feature - Kotaku",
-      "link": "https://kotaku.com/ex-gta-producer-takes-a-break-from-mindseye-mess-to-help-someone-vibe-code-a-game-2000692688"
-    },
-    {
-      "title": "Xbox Game Pass Users Hail Day One Exclusive Game As \"Insane 10/10\" - comicbook.com",
-      "link": "http://comicbook.com/gaming/news/xbox-game-pass-gamepass-ultimate-pc-day-one-game-exclusive/"
-    },
-    {
-      "title": "I love everything about Valve's Steam Controller except this one major flaw - PCGamesN",
-      "link": "https://www.pcgamesn.com/valve/steam-controller-software-flaw"
     }
   ],
   "sports_news": [
     {
-      "title": "Cavaliers finally pull away from Raptors in Game 7 to close out series, set up battle with Pistons - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/breaking-news/article/cavaliers-finally-pull-away-from-raptors-in-game-7-to-close-out-series-set-up-battle-with-pistons-022739271.html"
+      "title": "Charles Leclerc slapped with massive time penalty after Miami GP - racingnews365.com",
+      "link": "https://racingnews365.com/charles-leclerc-slapped-with-massive-time-penalty-after-miami-gp"
     },
     {
-      "title": "Orlando Magic vs. Detroit Pistons Live Score and Stats - May 3, 2026 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260503_ORL@DET/"
+      "title": "Cavs can take a deep breath, Jarrett Allen can take a victor\u2019s bow in the bright playoff lights \u2013 Terry Pluto - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2026/05/cavs-can-take-a-deep-breath-jarrett-allen-can-take-a-victors-bow-in-the-bright-playoff-lights-terry-pluto.html"
+    },
+    {
+      "title": "Giants promote Bryce Eldridge, Jesus Rodriguez from Triple-A to boost flailing offense - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/giants/article/s-f-giants-promoting-bryce-eldridge-jesus-22239436.php"
+    },
+    {
+      "title": "A way too early preview for Cavs vs. Pistons: Things won\u2019t get easier for Cavaliers - Fear The Sword",
+      "link": "https://www.fearthesword.com/cavs-playoffs/48755/cavs-detroit-pistons-cleveland-cavlaiers-preview-nba-playoffs-donovan-mitchell-cade-cunningham-scottie-barnes-jalen-duren"
+    },
+    {
+      "title": "Tobias Harris, Pistons bury Magic in Game 7, 116-94, to complete 3-1 comeback - Detroit Free Press",
+      "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/03/pistons-game-7-magic-tobias-harris-cade-cunningham/89922155007/"
+    },
+    {
+      "title": "What drivers said after Texas Cup win by Chase Elliott - NBC Sports",
+      "link": "https://www.nbcsports.com/nascar/news/what-drivers-said-after-texas-cup-win-by-chase-elliott"
+    },
+    {
+      "title": "RB Duece Jones-Drew continues family legacy with commitment to UCLA - On3",
+      "link": "https://www.on3.com/rivals/news/rb-duece-jones-drew-continues-family-legacy-with-commitment-to-ucla/"
+    },
+    {
+      "title": "Yankees option Anthony Volpe to Triple-A as Jose Caballero continues to thrive at shortstop - Fox News",
+      "link": "https://www.foxnews.com/sports/yankees-option-anthony-volpe-triple-jose-caballero-continues-thrive-shortstop"
     },
     {
       "title": "Current, former NBA coaches break down Knicks-76ers to The Post \u2014 and how to stop Philly\u2019s star duo - New York Post",
       "link": "https://nypost.com/2026/05/03/sports/current-former-nba-coaches-break-down-knicks-76ers-to-the-post/"
     },
     {
-      "title": "Giants To Promote Bryce Eldridge, Jesus Rodriguez - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/giants-to-promote-bryce-eldridge-jesus-rodriguez.html"
+      "title": "Canadiens top Lightning in Game 7 with just 9 shots on goal - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/48671341/montreal-canadiens-win-game-7-just-9-shots-goal"
+    },
+    {
+      "title": "Golden Tempo\u2019s victory in Kentucky Derby most-viewed on record, averaging 19.6 million - AP News",
+      "link": "https://apnews.com/article/kentucky-derby-nbc-1bd95ca0250b8b5af7ebcd355e683f92"
     },
     {
       "title": "Sabres to play Canadiens in Round 2 of Stanley Cup Playoffs - NHL.com",
       "link": "https://www.nhl.com/sabres/news/buffalo-sabres-round-2-opponent-montreal-canadiens"
     },
     {
-      "title": "RB Duece Jones-Drew, son of NFL All-Pro, commits to UCLA - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/48670717/duece-jones-drew-son-former-nfl-all-pro-commits-ucla-bruins-football"
+      "title": "Paolo Banchero unsure of Magic's title prospects after loss - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48671109/paolo-banchero-unsure-magic-title-prospects-loss"
+    },
+    {
+      "title": "Cameron Young finishes off wire-to-wire win at Cadillac Championship - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/daily-wrapup/2026/05/03/cameron-young-wins-cadillac-championship-wire-to-wire-trump-national-doral-blue-monster-scottie-scheffler-wrap-leaderboard"
     },
     {
       "title": "ESPN\u2019s Inside the NBA pokes fun at the Mike Vrabel-Dianna Russini situation - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espns-inside-the-nba-pokes-fun-at-the-mike-vrabel-dianna-russini-situation"
     },
     {
-      "title": "Yankees Option Anthony Volpe To Triple-A - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/yankees-option-anthony-volpe-to-triple-a.html"
+      "title": "Yankees' Jones mashes a 117.4 mph laser AND a grand slam at Triple-A - MLB.com",
+      "link": "https://www.mlb.com/news/yankees-spencer-jones-multihomer-game-at-triple-a"
     },
     {
       "title": "Injured Edwards cleared to return for Wolves, questionable for Game 1 - Star Tribune",
@@ -138,40 +170,8 @@
       "link": "https://www.hoopsrumors.com/2026/05/celtics-notes-offseason-tatum-stevens-mazzulla.html"
     },
     {
-      "title": "Charles Leclerc penalised by Miami Grand Prix stewards amid multiple post-race investigations - F1",
-      "link": "https://www.formula1.com/en/latest/article/leclerc-penalised-by-miami-grand-prix-stewards-amid-multiple-post-race-investigations.2WRnpMfi71Yt8qT07r1eK0"
-    },
-    {
       "title": "Inter Miami criticized for having younger players face media after historic loss - Awful Announcing",
       "link": "https://awfulannouncing.com/mls/inter-miami-criticized-younger-players-media-historic-loss.html"
-    },
-    {
-      "title": "2026 Cadillac Championship purse, payouts: How much did Cameron Young earn for his win at Doral? - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/breaking-news/article/2026-cadillac-championship-purse-payouts-how-much-did-cameron-young-earn-for-his-win-at-doral-204024167.html"
-    },
-    {
-      "title": "MLSE Announces New Toronto Maple Leafs Leadership - NHL.com",
-      "link": "https://www.nhl.com/mapleleafs/news/mlse-announces-new-toronto-maple-leafs-leadership"
-    },
-    {
-      "title": "Kimi Antonelli wins Formula 1 Miami Grand Prix, extending his championship lead - NBC News",
-      "link": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-formula-1-miami-grand-prix-rcna342376"
-    },
-    {
-      "title": "FSU rallies around Link Jarrett ejection, comes back vs. Pitt to earn series sweep - Tomahawk Nation",
-      "link": "https://www.tomahawknation.com/florida-state-seminoles-baseball-team-roster-schedule-jarrett-tallahassee-noles/131716/ejection-win-sweep-pitt-panthers-recap-game-summary-score"
-    },
-    {
-      "title": "Belal Muhammad perfectly predicted former foe Jack Della Maddalena's downfall before Carlos Prates loss - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/05/03/belal-muhammad-perfectly-predicted-former-foe-jack-della-maddalenas-downfall-before-carlos-prates-loss/"
-    },
-    {
-      "title": "Tom Aspinall gives update on injury and return, planning to face winner of Alex Pereira vs. Ciryl Gane - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/486236/tom-aspinall-gives-update-on-injury-and-return-planning-to-face-winner-of-alex-pereira-vs-ciryl-gane"
-    },
-    {
-      "title": "Aston Villa 1-2 Tottenham: Spurs vault out of relegation zone behind Gallagher, Richarlison goals - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-match-reports/70322/aston-villa-1-2-tottenham-spurs-vault-out-of-relegation-zone-behind-gallagher-richarlison-goals"
     }
   ],
   "weather": {
