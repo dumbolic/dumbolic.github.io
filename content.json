@@ -1,9 +1,9 @@
 {
-  "quote": "Your spirit is the true shield. \u2013 Morihei Ueshiba",
-  "fact": "Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.",
-  "crypto": "BTC: $81,045 | ETH: $2,334.65",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "No matter how kind you are, German children are kinder.",
+  "quote": "Force has no place where there is need of skill.  \u2013 Herodotus",
+  "fact": "Pepsi originally contained pepsin, thus the name. ",
+  "crypto": "BTC: $80,236 | ETH: $2,302.37",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,79 +12,143 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "He wrote about their daughter\u2019s sudden death. Then his wife did the same. - The Washington Post",
+      "link": "https://www.washingtonpost.com/style/2026/05/06/dispatches-from-grief-danielle-crittenden-memoir/"
+    },
+    {
+      "title": "Google teases Fitbit Air launch on Thursday, May 7 - 9to5Google",
+      "link": "http://9to5google.com/2026/05/06/fitbit-air-launch-teaser/"
+    },
+    {
+      "title": "Ironmouse claims Neverness to Everness lied to her about AI use and cancels sponsorship - Dexerto",
+      "link": "https://www.dexerto.com/gaming/ironmouse-claims-neverness-to-everness-lied-to-her-about-ai-use-and-cancels-sponsorship-3361516/"
+    },
+    {
+      "title": "Google\u2019s Gemma 4 open AI models use \u201cspeculative decoding\u201d to get up to 3x faster - Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/"
+    },
+    {
+      "title": "Xbox changes continue with new console boot animation - The Verge",
+      "link": "https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation"
+    },
+    {
+      "title": "All Of The Best Cosplay From Lvl Up Expo 2026 - Kotaku",
+      "link": "https://kotaku.com/lvl-up-expo-cosplay-clair-obscur-dispatch-marvel-overwatch-fallout-2000693554"
+    },
+    {
+      "title": "Leaker claims Zelda Ocarina of Time Remake could be split into two parts - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/05/06/leaker-claims-zelda-ocarina-of-time-remake-could-be-split-into-two-parts/"
+    },
+    {
+      "title": "Ars Asks: Share your shell and show us your tricked-out terminals! - Ars Technica",
+      "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/"
+    },
+    {
+      "title": "Google\u2019s AI search summaries will now quote Reddit - The Verge",
+      "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
+    },
+    {
+      "title": "How do you kill a tank-sized monster in Kill Team? - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/ij95ia48/how-do-you-kill-a-tank-sized-monster-in-kill-team"
+    },
+    {
+      "title": "reMarkable\u2019s new Paper Pure tablet goes back to basics with a monochrome screen - TechCrunch",
+      "link": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/"
+    },
+    {
+      "title": "Samsung\u2019s One UI 8.5 Official Rollout Starts May 6 - samsung.com",
+      "link": "https://news.samsung.com/global/samsungs-one-ui-8-5-official-rollout-starts-may-6"
+    },
+    {
+      "title": "iPhone 18 Pro CAD Leak Reignites the Dynamic Island Debate - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/06/iphone-18-pro-cad-smaller-dynamic-island/"
+    },
+    {
+      "title": "Microsoft Says Edge Password Security Vulnerability Is \u2018By Design\u2019\u2014Is It Time To Switch To Chrome? - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2026/05/06/microsoft-says-edge-password-security-vulnerability-is-by-design-is-it-time-to-switch-to-chrome/"
+    },
+    {
+      "title": "Apple may have just made one of the most important new Siri announcements - 9to5Mac",
+      "link": "https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/"
+    },
+    {
+      "title": "'Not Great to Spread Misinformation': Assassin's Creed Leaker Sparks Ubisoft Response After Posting Multiplayer Game Image Edited by AI - IGN",
+      "link": "https://www.ign.com/articles/assassins-creed-multiplayer-leak-criticized-by-ubisoft-after-fan-admits-editing-image-using-ai"
+    },
+    {
+      "title": "Pragmata Gets PS5 Pro Resolution Bump: Version 1.21 Comes With an Undocumented Upgrade - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/features/pragmata-gets-ps5-pro-resolution-bump-version-1-21-comes-with-an-undocumented-upgrade"
+    },
+    {
       "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage - The Verge",
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
     },
     {
-      "title": "Stable One UI 8.5 update is rolling out to the Galaxy S25 series - SamMobile",
-      "link": "https://www.sammobile.com/news/samsung-galaxy-s25-stable-one-ui-8-5-update/"
+      "title": "Newly-appointed CEO Asha Sharma is sunsetting Xbox's wildly unpopular AI tool, Copilot, which was designed to be a gaming sidekick - Eurogamer.net",
+      "link": "https://www.eurogamer.net/xbox-ends-copilot-asha-sharma"
     },
     {
-      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution - The Hacker News",
-      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
-    },
-    {
-      "title": "Galaxy S26 Ultra outsold its predecessor, but still dropped off of 2026\u2019s first top 10 list - 9to5Google",
-      "link": "http://9to5google.com/2026/05/05/galaxy-s26-ultra-outsold-its-predecessor-but-still-dropped-off-of-2026s-first-top-10-list/"
-    },
-    {
-      "title": "Pixel update fixes wireless charging, camera zoom video glitch, and more - Android Police",
-      "link": "https://www.androidpolice.com/pixel-update-fixes-wireless-charging-camera-zoom-and-more/"
-    },
-    {
-      "title": "Google Home\u2019s Gemini AI can handle more complicated requests - The Verge",
-      "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
-    },
-    {
-      "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
-      "link": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone"
-    },
-    {
-      "title": "Microsoft\u2019s Windows 11 update just fixed memory leaks, slow startup, and File Explorer bugs - Windows Latest",
-      "link": "https://www.windowslatest.com/2026/05/06/microsofts-windows-11-update-just-fixed-memory-leaks-slow-startup-and-file-explorer-bugs/"
-    },
-    {
-      "title": "reMarkable Paper Pure leaks as a cheaper e-ink tablet with a 3-week runtime - Notebookcheck",
-      "link": "https://www.notebookcheck.net/reMarkable-Paper-Pure-leaks-as-a-cheaper-e-ink-tablet-with-a-3-week-runtime.1289960.0.html"
-    },
-    {
-      "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
-      "link": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/"
-    },
-    {
-      "title": "The Star Wars: Fate of the Old Republic team has several KotOR and Mass Effect devs from BioWare's golden years - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/star-wars-fate-of-the-old-republic-announced-its-dev-team-and-its-full-of-mass-effect-and-kotor-bioware-talent"
-    },
-    {
-      "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley"
-    },
-    {
-      "title": "iOS 27 Will Let You Pick Claude or Gemini Instead of ChatGPT for Apple Intelligence - MacRumors",
-      "link": "https://www.macrumors.com/2026/05/05/ios-27-third-party-chatbots-apple-intelligence/"
-    },
-    {
-      "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
-      "link": "https://www.ign.com/articles/gta-6-fan-spends-3-months-charting-the-planetary-positions-for-every-rockstar-trailer-drop-since-2007-to-predict-trailer-3-release-date"
-    },
-    {
-      "title": "LG\u2019s Third-Gen Tandem OLED Slashes Power Draw By 18% While Doubling Durability, Hitting 1200 Nits And 15,000-Hour Lifespan - Wccftech",
-      "link": "https://wccftech.com/lg-introduces-third-gen-tandem-oled-panel-and-5k-oled-panel/"
-    },
-    {
-      "title": "Diablo 4's Cow Level Found At Last, And It Rewards The Most Ludicrous Item In Diablo History - GameSpot",
-      "link": "https://www.gamespot.com/articles/diablo-4s-cow-level-found-at-last-and-it-rewards-the-most-ludicrous-item-in-diablo-history/1100-6539788/"
-    },
-    {
-      "title": "Lego Batman's Developers Are Trying To Do It All - Kotaku",
-      "link": "https://kotaku.com/how-the-developers-behind-lego-batman-legacy-of-the-dark-knight-are-building-off-of-batman-arkham-to-make-the-most-ambitious-lego-game-yet-2000693271"
-    },
-    {
-      "title": "CI Games focuses on more risqu\u00e9 female characters in Lords of the Fallen 2 - Gamereactor UK",
-      "link": "https://www.gamereactor.eu/ci-games-focuses-on-more-risque-female-characters-in-lords-of-the-fallen-2-1714603/"
+      "title": "Shigeru Miyamoto Doesn't Rule Out Wario Appearing In A Future Mario Movie - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/05/shigeru-miyamoto-doesnt-rule-out-wario-appearing-in-a-future-mario-movie"
     }
   ],
   "sports_news": [
+    {
+      "title": "Carlos Correa To Undergo Season-Ending Ankle Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/astros-carlos-correa-season-ending-ankle-surgery.html"
+    },
+    {
+      "title": "World Cup hotel bookings are far below expectations - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/world-cup-hotel-bookings-are-far-below-expectations"
+    },
+    {
+      "title": "PROFESSIONAL WOMEN\u2019S HOCKEY LEAGUE EXPANDS TO DETROIT - PWHL",
+      "link": "https://www.thepwhl.com/en/news/2026/may/06/professional-womens-hockey-league-expands-to-detroit"
+    },
+    {
+      "title": "Joe Ryan Hoping To Avoid Injured List; No Structural Damage In Elbow - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/twins-joe-ryan-clean-mri-elbow.html"
+    },
+    {
+      "title": "Vikings request GM interview with Bills assistant GM Terrance Gray - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-request-gm-interview-with-bills-assistant-gm-terrance-gray"
+    },
+    {
+      "title": "The Leafs Fell Ass-Backward Into Gavin McKenna - Defector",
+      "link": "https://defector.com/the-leafs-fell-ass-backward-into-gavin-mckenna"
+    },
+    {
+      "title": "Thunder bench horrified by Jarred Vanderbilt\u2019s gruesome NBA playoff injury - New York Post",
+      "link": "https://nypost.com/2026/05/06/sports/thunder-bench-horrified-by-jarred-vanderbilts-gruesome-nba-playoff-injury/"
+    },
+    {
+      "title": "Coaches group supports earlier CFP finish and proposes changes to accomplish that - AP News",
+      "link": "https://apnews.com/article/cfp-college-football-playoff-afca-178a3073c8af41b21d61d1e01be2d530"
+    },
+    {
+      "title": "Stefon Diggs\u2019 acquittal clears path for return to the field but he could still face NFL discipline - AP News",
+      "link": "https://apnews.com/article/stefon-diggs-acquitted-nfl-discipline-177365c97bb68d4b7e57d983899a88b0"
+    },
+    {
+      "title": "Sean Strickland unloads on Josh Hokit\u2019s persona: \u2018Dude\u2026you\u2019re almost 30\u2019 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/05/06/sean-strickland-unloads-on-josh-hokits-persona-dudeyoure-almost-30/"
+    },
+    {
+      "title": "Four Wild Overreactions From Game 1 of Every Second Round NBA Playoff Series - Sports Illustrated",
+      "link": "https://www.si.com/nba/playoffs/four-wild-overreactions-game-1-every-second-round-series"
+    },
+    {
+      "title": "Graeme McDowell reveals the real reason he signed with LIV Golf as he expresses regret - hitc.com",
+      "link": "https://www.hitc.com/graeme-mcdowell-reveals-the-real-reason-he-signed-with-liv-golf-as-he-expresses-regret/"
+    },
+    {
+      "title": "Hitting fixes everything for the Red Sox - Over the Monster",
+      "link": "https://www.overthemonster.com/red-sox-analysis/100298/hitting-fixes-everything-for-the-red-sox"
+    },
+    {
+      "title": "Luka Doncic Injury Return for Lakers Takes Shocking Twist - heavy.com",
+      "link": "https://heavy.com/sports/nba/los-angeles-lakers/luka-doncic-injury-return-lakers/"
+    },
     {
       "title": "Champions League: Did Arsenal over-celebrate semi-final win over Atletico Madrid? - BBC",
       "link": "https://www.bbc.com/sport/football/articles/cg5py534dvlo"
@@ -94,76 +158,16 @@
       "link": "https://www.jayski.com/2026/05/05/texas-penalties-ryan-preece-penalized-for-ty-gibbs-incident/"
     },
     {
+      "title": "Giants news, 5/6: D.J. Reader signed, which Day 3 pick will have best career - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-news/161494/dj-reader-signed-which-day-3-pick-will-have-best-career"
+    },
+    {
       "title": "Yankees news: Carlos Rod\u00f3n to return from IL for next start, Elmer Rodr\u00edguez optioned - Pinstripe Alley",
       "link": "https://www.pinstripealley.com/yankees-news/186864/yankees-news-carlos-rodon-return-il-elmer-rodriguez-demoted-gerrit-cole-john-sterling-judge-boone-jose-caballero"
     },
     {
-      "title": "4 takeaways: Thunder's bigs balance rare off night for SGA in Game 1 win - NBA",
-      "link": "https://www.nba.com/news/lakers-thunder-2026-playoffs-game-1-takeaways"
-    },
-    {
-      "title": "Minor league hockey fans throw debris on ice, refuse to leave arena after bizarre overtime goal - New York Post",
-      "link": "https://nypost.com/2026/05/06/sports/hershey-bears-fans-throw-debris-refuse-to-leave-arena/"
-    },
-    {
-      "title": "Exclusive | Anthony Volpe has few answers about his murky Yankees future after option decision - New York Post",
-      "link": "https://nypost.com/2026/05/05/sports/yankees-anthony-volpe-tells-the-post-there-are-things-he-cant-control/"
-    },
-    {
-      "title": "Player Grades: Cavs drop Game 1 to Pistons - Turnovers cost Cavaliers - Fear The Sword",
-      "link": "https://www.fearthesword.com/cavs-analysis/48903/cavs-player-grades-game-1-detroit-pistons-cleveland-cavaliers-james-harden-donovan-mitchell-evan-mobley-jarrett-allen-max-strus"
-    },
-    {
-      "title": "Stefon Diggs\u2019s lawyer: \u201cProfessional athletes have a target on their back\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stefon-diggss-lawyer-professional-athletes-have-a-target-on-their-back"
-    },
-    {
-      "title": "Bruins get worst-case outcome, lose out on top-10 pick after Toronto wins draft lottery - Boston.com",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/05/05/boston-bruins-nhl-draft-lottery-toronto-maple-leafs-first-pick-gavin-mckenna/"
-    },
-    {
-      "title": "Khamzat Chimaev hopes biggest career payday at UFC 328 is his last fight at middleweight - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/05/05/khamzat-chimaev-hopes-biggest-career-payday-at-ufc-328-is-his-last-fight-at-middleweight/"
-    },
-    {
-      "title": "The under-the-radar fix Mike Brown knows Knicks need to make against 76ers - New York Post",
-      "link": "https://nypost.com/2026/05/05/sports/the-fix-mike-brown-knows-knicks-need-to-make-against-76ers/"
-    },
-    {
-      "title": "NFL Player Comparisons for Every 2026 Minnesota Vikings Draft Pick - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/onsi/nfl-player-comparisons-for-every-2026-minnesota-vikings-draft-pick"
-    },
-    {
-      "title": "Mets-Rockies postponed Tues.; Wed. game moved to 7:20 p.m. MT - MLB.com",
-      "link": "https://www.mlb.com/news/mets-rockies-may-5-2026-game-postponed"
-    },
-    {
-      "title": "Report: NFLRA schedules ratification vote on new CBA - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-nflra-schedules-ratification-vote-on-new-cba"
-    },
-    {
-      "title": "AFCA Board votes in favor of 24-team CFP, elimination of conference championship games - On3",
-      "link": "https://www.on3.com/news/afca-board-votes-in-favor-24-team-cfp-elimination-conference-championship-games-college-football-playoff/"
-    },
-    {
-      "title": "Graeme McDowell Hopes LIV Golf Can Shift a \u2018Nasty\u2019 Narrative - Sports Illustrated",
-      "link": "https://www.si.com/golf/graeme-mcdowell-hopes-liv-golf-shift-nasty-narrative"
-    },
-    {
-      "title": "Bulls Notes: Graham, Infrastructure, Sweeney, Lewin - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/05/bulls-notes-graham-infrastructure-sweeney-lewin.html"
-    },
-    {
-      "title": "Former Seahawk Bobby Wagner wants to be called a new name - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/seahawks/bobby-wagner-former-seahawks-star-earns-honorary-doctorate-from-utah-state/"
-    },
-    {
-      "title": "Lindsey Vonn used this device to get \u2018snatched\u2019 for the Met Gala red carpet - Page Six",
-      "link": "https://pagesix.com/2026/05/05/style/lindsey-vonn-got-snatched-for-the-met-gala-red-carpet-with-this-skincare-device/"
-    },
-    {
-      "title": "Goodyear utilizing familiar road-course tire setup for Watkins Glen - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/05/05/goodyear-utilizing-familiar-road-course-tire-setup-for-watkins-glen/"
+      "title": "Lindsey Vonn's Olympic crash was a horrific setback. But she's never been one to hide - NPR",
+      "link": "https://www.npr.org/2026/05/06/g-s1-120257/lindsey-vonn-winter-olympics-crash-recovery-cortina"
     }
   ],
   "weather": {
