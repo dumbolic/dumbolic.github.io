@@ -1,9 +1,9 @@
 {
-  "quote": "Life's too mysterious to take too serious. \u2013 Mary Engelbreit",
-  "fact": "John Lennon`s first girlfriend was named Thelma Pickles.",
-  "crypto": "BTC: $81,328 | ETH: $2,349.35",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+  "quote": "Difficulties strengthen the mind, as labor does the body.   \u2013 Seneca",
+  "fact": "Oak trees do not produce acorns until they are fifty years of age or older.",
+  "crypto": "BTC: $81,450 | ETH: $2,362.73",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "ASUS Republic of Gamers Announces Strix OLED XG34WCDMS and Strix XG129C - ASUS Pressroom",
+      "link": "https://press.asus.com/news/press_releases/strix-oled-xg34wcdms-xg129c-gaming-monitors/"
+    },
     {
       "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem - WSJ",
       "link": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a"
@@ -20,16 +24,12 @@
       "link": "https://www.dexerto.com/gaming/immortal-snail-meme-turned-into-desktop-game-where-you-only-get-one-life-3362903/"
     },
     {
-      "title": "Poll: Which Xbox achievements feature would you like to see in the next update? - TrueAchievements",
-      "link": "https://www.trueachievements.com/poll/62297/poll-xbox-achievements-update"
+      "title": "RGB LED TVs show color crosstalk issues in Display Week demo - The Verge",
+      "link": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led"
     },
     {
       "title": "007 First Light needs RTX 4080 or RX 7900 XTX for native 4K 60 FPS - VideoCardz.com",
       "link": "https://videocardz.com/newz/007-first-light-needs-rtx-4080-or-rx-7900-xtx-for-native-4k-60-fps"
-    },
-    {
-      "title": "\u2018Not Available For All\u2019\u2014Apple Changes iPhone Messaging Next Week - Forbes",
-      "link": "https://www.forbes.com/sites/zakdoffman/2026/05/09/not-available-for-all-apple-changes-iphone-messaging-next-week/"
     },
     {
       "title": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it - Nintendo Everything",
@@ -40,16 +40,16 @@
       "link": "https://pitchfork.com/reviews/albums/mahito-yokota-koji-kondo-super-mario-galaxy-super-mario-galaxy-2/"
     },
     {
-      "title": "PSA: You Can Get Star Fox's Switch 2 Physical Release For Just $50 (US) - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/05/psa-you-can-get-star-foxs-switch-2-physical-release-for-just-usd50-us"
+      "title": "Manufacturing qubits that can move - Ars Technica",
+      "link": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/"
+    },
+    {
+      "title": "Double Fine Is Unionizing - Aftermath",
+      "link": "https://aftermath.site/double-fine-union-microsoft-cwa-xbox/"
     },
     {
       "title": "Forza Horizon 6's Launch Trailer Doesn't Make the Wait for PS5 Release Any Easier - Push Square",
       "link": "https://www.pushsquare.com/news/2026/05/forza-horizon-6s-launch-trailer-doesnt-make-the-wait-for-ps5-release-any-easier"
-    },
-    {
-      "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/"
     },
     {
       "title": "The new AirPods prove Apple is still the king of design - PhoneArena",
@@ -58,10 +58,6 @@
     {
       "title": "Darkest Dungeon Dev Would Never Use AI To Copy Deceased Narrator\u2019s Iconic Voice - Kotaku",
       "link": "https://kotaku.com/darkest-dungeon-dev-would-never-use-ai-to-copy-deceased-narrators-iconic-voice-2000694393"
-    },
-    {
-      "title": "Asus chases Elgato with its own secondary touchscreen display - The Verge",
-      "link": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display"
     },
     {
       "title": "Resident Evil Requiem Leon Must Die Forever DLC, explained - Polygon.com",
@@ -80,8 +76,8 @@
       "link": "https://www.extremetech.com/internet/beware-smart-glasses-are-the-new-tool-for-extortion"
     },
     {
-      "title": "The wait is over: Google just released Snapseed 4.0 for Android with a new pro camera - Android Police",
-      "link": "https://www.androidpolice.com/the-wait-is-over-google-just-released-snapseed-40-for-android-with-a-new-pro-camera/"
+      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/"
     },
     {
       "title": "A company tested Claude Mythos Preview. It says the AI found a bug that existed for 20 years - Business Insider",
@@ -90,28 +86,76 @@
     {
       "title": "Zelda 2 Deserves Better - Kotaku",
       "link": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068"
+    },
+    {
+      "title": "Diablo II: Resurrected Ladder Season 14 Coming Soon - Blizzard News",
+      "link": "https://news.blizzard.com/en-us/article/24261478/diablo-ii-resurrected-ladder-season-14-coming-soon"
     }
   ],
   "sports_news": [
+    {
+      "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 5/9 & 5/10 & 5/11 - Pitcher List",
+      "link": "http://pitcherlist.com/starting-pitcher-streamer-ranks-fantasy-baseball-5-9-5-10-5-11/"
+    },
+    {
+      "title": "Bill Belichick can\u2019t, or won\u2019t, put an end to a rash of player driving violations - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-cant-or-wont-put-an-end-to-a-rash-of-player-driving-violations"
+    },
+    {
+      "title": "Guardians Acquire Patrick Bailey - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/guardians-acquire-patrick-bailey.html"
+    },
+    {
+      "title": "Tyreek Hill's court battle with OnlyFans model who accused him of breaking her leg ends with shocking twist - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/tyreek-hills-court-battle-onlyfans-model-accused-breaking-leg-ends-shocking-twist-"
+    },
+    {
+      "title": "El Clasico: How can crisis-hit Real Madrid stop Barcelona clinching La Liga title? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cgrpg7ljy1jo"
+    },
+    {
+      "title": "Saturday NBA Picks & Predictions: 4 Best Bets for Pistons vs Cavaliers, Lakers vs Thunder - Action Network",
+      "link": "https://www.actionnetwork.com/nba/saturday-nba-picks-predictions-4-best-bets-for-pistons-vs-cavaliers-lakers-vs-thunder-may-9"
+    },
     {
       "title": "Dawn Staley controversially calls out WNBA reporter over Kate Martin post - Awful Announcing",
       "link": "https://awfulannouncing.com/wnba/dawn-staley-controversially-calls-out-wnba-reporter-over-kate-martin-post.html"
     },
     {
-      "title": "NBA Mock Draft 2026: Last Look Before the Lottery - heavy.com",
-      "link": "https://heavy.com/sports/nba/golden-state-warriors/nba-mock-draft-2026-last-look-before-the-lottery/"
+      "title": "Khamzat Chimaev vs Sean Strickland: 39% of fans expect the Chechen to lose his '0' at UFC 328 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/05/09/khamzat-chimaev-vs-sean-strickland-39-of-fans-expect-the-chechen-to-lose-his-0-at-ufc-328/"
+    },
+    {
+      "title": "NBA ref has to be restrained as Timberwolves coach calls out \u2018unprofessional behavior\u2019 in tense moment - New York Post",
+      "link": "https://nypost.com/2026/05/09/sports/nba-ref-has-to-be-restrained-as-timberwolves-coach-chris-finch-calls-out-unprofessional-behavior-in-tense-moment/"
+    },
+    {
+      "title": "Mike McDaniel hopes to get QB Justin Herbert to \"own the position\" in a way he never has - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-hopes-to-get-qb-justin-herbert-to-own-the-position-in-a-way-he-never-has"
+    },
+    {
+      "title": "What Bills coach Joe Brady told his nervous rookie WR who had some drops at rookie camp (Observations) - Syracuse.com",
+      "link": "https://www.syracuse.com/buffalo-bills/2026/05/what-bills-coach-joe-brady-told-his-jittery-rookie-wr-who-had-some-drops-at-rookie-camp-observations.html"
     },
     {
       "title": "Liverpool vs. Chelsea, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
       "link": "https://weaintgotnohistory.sbnation.com/premier-league/168462/liverpool-vs-chelsea-premier-league-confirmed-lineups-how-to-watch"
     },
     {
-      "title": "Josh Hokit threatens to send Ilia Topuria into 'hiding' after UFC White House press conference clash - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/05/09/josh-hokit-threatens-to-send-ilia-topuria-into-hiding-after-ufc-white-house-press-conference-clash/"
+      "title": "New York Yankees news: Spencer Jones\u2019 debut - Pinstripe Alley",
+      "link": "https://www.pinstripealley.com/yankees-news/187351/yankees-news-spencer-jones-jasson-dominguez-luis-gil-injury-il-max-fried"
     },
     {
-      "title": "3 things to watch in Spurs-Timberwolves Game 3 - NBA",
-      "link": "https://www.nba.com/news/3-things-to-watch-spurs-timberwolves-game-3"
+      "title": "Detroit Pistons vs Cleveland Cavaliers Picks and Predictions for Saturday, May 9, 2026 - Winners and Whiners",
+      "link": "https://winnersandwhiners.com/free-picks/nba/detroit-pistons-vs-cleveland-cavaliers-picks-and-predictions-for-saturday-may-9-2026"
+    },
+    {
+      "title": "Wemby matches Kareem, Hakeem and Shaq with his superb stat line for Spurs in Game 3 win over Wolves - AP News",
+      "link": "https://apnews.com/article/nba-playoffs-spurs-timberwolves-512819c5abb4cd6cea30ce18f8165589"
+    },
+    {
+      "title": "Padres get one hit in loss to Cardinals, who score six runs in fifth inning - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2026/05/08/padres-get-one-hit-in-loss-to-cardinals-who-score-six-runs-in-fifth-inning/"
     },
     {
       "title": "Braves squander opportunities, fall to Dodgers in series opener - Battery Power",
@@ -120,50 +164,6 @@
     {
       "title": "How Red Sox rookie overcame \u2018really, really bad spot\u2019 to \u2018save the game\u2019 - MassLive",
       "link": "https://www.masslive.com/redsox/2026/05/how-red-sox-rookie-overcame-really-really-bad-spot-to-save-the-game.html"
-    },
-    {
-      "title": "Steelers receive terrible news on Aaron Rodgers meeting - Yahoo Sports",
-      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/05/08/steelers-aaron-rodgers-report-visit/90003868007/"
-    },
-    {
-      "title": "Phillies storm back to force extras, but lose 9-7 to the Rockies in the 11th inning - Inquirer.com",
-      "link": "https://www.inquirer.com/phillies/phillies-rockies-score-justin-crawford-jesus-luzardo-kyle-schwarber-20260508.html"
-    },
-    {
-      "title": "MLB Picks Today: Greg Peterson Best Bets Saturday, May 9 - VSiN",
-      "link": "http://vsin.com/mlb/mlb-picks-today-greg-peterson-best-bets-saturday-may-9/"
-    },
-    {
-      "title": "Dodgers Place Tyler Glasnow On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/dodgers-place-tyler-glasnow-on-injured-list-3.html"
-    },
-    {
-      "title": "Five Key Takeaways From the NFL and NFLRA\u2019s New CBA - Sports Illustrated",
-      "link": "https://www.si.com/nfl/five-key-takeaways-from-nfl-nflra-new-cba"
-    },
-    {
-      "title": "Jets have clear vision for \u2018exciting\u2019 first-rounder David Bailey \u2014 and aren\u2019t buying his pre-draft knock - New York Post",
-      "link": "https://nypost.com/2026/05/08/sports/jets-have-clear-vision-for-first-rounder-david-bailey/"
-    },
-    {
-      "title": "Steelers sign 3 players from 2026 NFL Draft class - TribLIVE.com",
-      "link": "https://triblive.com/sports/steelers-sign-3-players-from-2026-nfl-draft-class/"
-    },
-    {
-      "title": "Atlanta Falcons host 23 tryout players at 2026 rookie minicamp - Atlanta Falcons",
-      "link": "https://www.atlantafalcons.com/news/atlanta-falcons-host-23-tryout-players-2026-rookie-minicamp"
-    },
-    {
-      "title": "Observations from Day 1 of Browns rookie minicamp - Cleveland Browns",
-      "link": "https://www.clevelandbrowns.com/news/observations-from-day-1-of-browns-rookie-minicamp"
-    },
-    {
-      "title": "Vikings Reportedly Beat Several Teams to Jauan Jennings' Signature - Sports Illustrated",
-      "link": "https://www.si.com/nfl/vikings/onsi/vikings-reportedly-beat-several-teams-to-jauan-jennings-signature"
-    },
-    {
-      "title": "Brock\u2019s 3 non-negotiables for next Seahawks owner - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/brock-huard-3-non-negotiables-next-seattle-seahawks-owner"
     }
   ],
   "weather": {
