@@ -1,9 +1,9 @@
 {
-  "quote": "It does not matter how slowly you go so long as you do not stop. \u2013 Confucius",
-  "fact": "Crocodiles and alligators are surprisingly fast on land.\u00a0 Although they are rapid, they are not agile.\u00a0 So, if being chased by one, run in a zigzag line to lose him or her.",
-  "crypto": "BTC: $81,326 | ETH: $2,330.8",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you get when you cross a pig and a pineapple? A porky pine",
+  "quote": "People who say it cannot be done should not interrupt those who are doing it. \u2013 George Bernard Shaw",
+  "fact": "The word \"set\" has more definitions than any other word in the English language.",
+  "crypto": "BTC: $81,954 | ETH: $2,338.02",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What has ears but cannot hear? A field of corn.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,22 @@
   "bing_background": "https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "GTA 6 hopefuls encouraged by Sony to upgrade to PS5 now - Eurogamer",
+      "link": "https://www.eurogamer.net/gta-6-hopefuls-encouraged-by-sony-to-upgrade-to-ps5-now"
+    },
+    {
+      "title": "Google Health kills the Fitbit we knew, but maybe that\u2019s not a bad thing - 9to5Google",
+      "link": "http://9to5google.com/2026/05/10/google-health-kills-the-fitbit-we-knew-but-maybe-thats-not-a-bad-thing/"
+    },
+    {
+      "title": "Warhammer 40,000 Faction Focus: Chaos Space Marines and Chaos Daemons - Warhammer Community",
+      "link": "https://www.warhammer-community.com/en-gb/articles/ztuwo7gs/warhammer-40000-faction-focus-chaos-space-marines-and-chaos-daemons/"
+    },
+    {
+      "title": "Zelda: Twilight Princess unofficially ported to PC with lots of extra features & quality of life - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/05/10/zelda-twilight-princess-unofficially-ported-to-pc-with-lots-of-extra-features-quality-of-life/"
+    },
     {
       "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
       "link": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m"
@@ -32,16 +48,28 @@
       "link": "https://videocardz.com/newz/amd-dgf-supercompression-cuts-geometry-storage-size-by-up-to-22"
     },
     {
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - The Hacker News",
-      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
-    },
-    {
       "title": "PLAYISM and Rusted Moss developer announce \u2018momentum Metroidvania\u2019 game Iron Bramble for PC - Gematsu",
       "link": "https://www.gematsu.com/2026/05/playism-and-rusted-moss-developer-announce-momentum-metroidvania-game-iron-bramble-for-pc"
     },
     {
+      "title": "Deckbuilding autobattler Samurai Bringer: Rampage announced for PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/05/deckbuilding-autobattler-samurai-bringer-rampage-announced-for-pc"
+    },
+    {
+      "title": "3D psychological horror adventure game A Passing in the Night announced for PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/05/3d-psychological-horror-adventure-game-a-passing-in-the-night-announced-for-pc"
+    },
+    {
+      "title": "2D exploration horror adventure game remake Midnight Train: New Moon announced for PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/05/2d-exploration-horror-adventure-game-remake-midnight-train-new-moon-announced-for-pc"
+    },
+    {
       "title": "What Are The Differences Between The Ford And GM 10-Speed Automatic Transmissions? - Jalopnik",
       "link": "https://www.jalopnik.com/2164987/difference-between-ford-gm-10-speed-transmission/"
+    },
+    {
+      "title": "11 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-5-10-26/"
     },
     {
       "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
@@ -62,44 +90,44 @@
     {
       "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance - Phoronix",
       "link": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf"
-    },
-    {
-      "title": "Sony Wants to Turn Your PS5 Gameplay into Highlight Reels - Using AI - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/05/sony-wants-to-turn-your-ps5-gameplay-into-highlight-reels-using-ai"
-    },
-    {
-      "title": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad - bgr.com",
-      "link": "https://www.bgr.com/2163872/cool-usb-c-gadgets-plug-into-with-new-ipad/"
-    },
-    {
-      "title": "Pok\u00e9mon GO Events This Week: 11 \u2013 17 May 2026 - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-11-17-may-2026/"
-    },
-    {
-      "title": "Gigabyte GeForce buyer gets Radeon cooler, five months ago another user got the opposite - VideoCardz.com",
-      "link": "https://videocardz.com/newz/gigabyte-geforce-buyer-gets-radeon-cooler-five-months-ago-another-user-got-the-opposite"
-    },
-    {
-      "title": "New Evidence Supports the New The Witcher 3 DLC - Redanian Intelligence",
-      "link": "https://redanianintelligence.com/2026/05/10/new-evidence-supports-the-new-witcher-3-dlc/"
-    },
-    {
-      "title": "GM's Rare Quadrasteer System For Pickup Trucks Was Innovative (And A Massive Failure) - Jalopnik",
-      "link": "https://www.jalopnik.com/2164412/gm-quadrasteer-innovative-failure/"
-    },
-    {
-      "title": "'Resident Evil: Requiem' gets a cool and free new mode, out now - Mashable",
-      "link": "https://mashable.com/article/resident-evil-requiem-leon-must-die-forever-free-mode-out-now"
     }
   ],
   "sports_news": [
+    {
+      "title": "Ryan Day's Son RJ Joins Ohio State Rival After Making Decision on Big Ten Football Commitment - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25426605-ryan-days-son-rj-joins-ohio-state-rival-after-making-decision-big-ten-football-commitment"
+    },
+    {
+      "title": "Knicks vs 76ers Predictions, Odds, Parlay Picks for NBA Playoffs Game 4 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/new-york-knicks-vs-philadelphia-76ers-prediction-pick-odds-for-nba-playoffs-game-4"
+    },
+    {
+      "title": "CONFIRMED lineups: Barcelona vs Real Madrid, 2026 El Cl\u00e1sico - Managing Madrid",
+      "link": "https://www.managingmadrid.com/107547/barcelona-vs-real-madrid-2026-el-clasico-live-online-stream"
+    },
+    {
+      "title": "Team news: Unchanged team to face West Ham - Arsenal.com",
+      "link": "https://www.arsenal.com/news/team-news-unchanged-team-face-west-ham"
+    },
+    {
+      "title": "Sunday Preview \u2013 March out with the Cities of Sigmar - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/9idi5uub/sunday-preview-march-out-with-the-cities-of-sigmar"
+    },
+    {
+      "title": "Sean Strickland admits he didn't think he would win his belt back against Khamzat Chimaev at UFC 328 - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/05/10/sean-strickland-admits-he-didnt-think-he-would-win-his-belt-back-against-khamzat-chimaev-at-ufc-328/"
+    },
+    {
+      "title": "Fabio Wardley Was Too Brave For His Own Good - Defector",
+      "link": "https://defector.com/fabio-wardley-was-too-brave-for-his-own-good"
+    },
     {
       "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 5/10 & 5/11 & 5/12 - Pitcher List",
       "link": "http://pitcherlist.com/starting-pitcher-streamer-ranks-fantasy-baseball-5-10-5-11-5-12/"
     },
     {
-      "title": "Yankees Reinstate Carlos Rod\u00f3n From Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/yankees-reinstate-carlos-rodon-from-injured-list.html"
+      "title": "3 reasons for Jets fans to buy into Cade Klubnik hype - Jets X-Factor",
+      "link": "https://jetsxfactor.com/2026/05/10/jets-fans-buy-into-cade-klubnik-hype/"
     },
     {
       "title": "Khamzat Chimaev fell to the same 'curse' that got Israel Adesanya and Dricus du Plessis at UFC 328 - Bloody Elbow",
@@ -114,56 +142,32 @@
       "link": "https://www.politico.eu/article/iran-issues-guarantee-demands-for-world-cup/"
     },
     {
+      "title": "Desperation proves to be a helluva drug for the Minnesota Wild - Bring Me The News",
+      "link": "https://bringmethenews.com/minnesota-sports/desperation-proves-to-be-a-helluva-drug-for-the-minnesota-wild"
+    },
+    {
+      "title": "BUF@MTL: What you need to know | Game 3 | Montr\u00e9al Canadiens - NHL.com",
+      "link": "https://www.nhl.com/canadiens/news/buf-mtl-what-you-need-to-know-game-3-may-10-2026"
+    },
+    {
       "title": "MLB Picks, Predictions Today: Best Bets for Rays vs Red Sox, Braves vs Dodgers, More for Sunday, May 10 - Action Network",
       "link": "https://www.actionnetwork.com/mlb/mlb-picks-predictions-today-best-bets-for-rays-vs-red-sox-braves-vs-dodgers-more-for-sunday-may-10"
+    },
+    {
+      "title": "UFC 328 winner who was denied a bonus is set to get a unique reward from Dana White - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/05/10/ufc-328-winner-who-was-denied-a-bonus-is-set-to-get-a-unique-reward-from-dana-white/"
     },
     {
       "title": "NBA Draft Lottery: Execs Fear \u2018Nightmare\u2019 Results - heavy.com",
       "link": "https://heavy.com/sports/nba/milwaukee-bucks/nba-draft-lottery-execs/"
     },
     {
+      "title": "Playoff Game Preview: Knicks at 76ers, Game 4, May 10, 2026 - Posting and Toasting",
+      "link": "https://www.postingandtoasting.com/knicks-game-previews/82430/playoff-game-preview-knicks-at-76ers-game-4-may-10-2026"
+    },
+    {
       "title": "Rory McIlroy\u2019s hopes of winning the PGA Championship appear to have been dealt a big blow - hitc.com",
       "link": "https://www.hitc.com/rory-mcilroys-hopes-of-winning-the-pga-championship-appear-to-have-been-dealt-a-big-blow/"
-    },
-    {
-      "title": "Barcelona squad named for El Cl\u00e1sico - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/barcelona-la-liga/119869/barcelona-real-madrid-la-liga-team-news-squad-list"
-    },
-    {
-      "title": "'Like a frightened dog' \u2013 Jasper Stuyven criticises Giro d'Italia director following handling of stage 2 neutralisation - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/like-a-frightened-dog-jasper-stuyven-criticises-giro-d-italia-director-following-handling-of-stage-2-neutralisation/"
-    },
-    {
-      "title": "'No Denying How Well Drew Allar Spins It': Steelers Rookie QB Showed Off Arm In Steelers Minicamp - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/05/no-denying-how-well-drew-allar-spins-it-steelers-rookie-qb-showed-off-arm-in-steelers-minicamp/"
-    },
-    {
-      "title": "Real Madrid announce squad for El Cl\u00e1sico against Barcelona - Managing Madrid",
-      "link": "https://www.managingmadrid.com/107539/real-madrid-announce-squad-for-el-clasico-against-barcelona"
-    },
-    {
-      "title": "\u2018You\u2019re our guy\u2019: James Harden\u2019s Game 3 redemption began during an off-day chat with Kenny Atkinson - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2026/05/youre-our-guy-james-hardens-game-3-redemption-began-during-an-off-day-chat-with-kenny-atkinson.html"
-    },
-    {
-      "title": "UFC 328 goes on without Trump, Van defends 125-pound crown, Strickland wins middleweight title - AP News",
-      "link": "https://apnews.com/article/ufc-328-chimaev-strickland-cancer-trump-1dbdf4bac8902250b417a502410d1db2"
-    },
-    {
-      "title": "OG Anunoby remains day-to-day for Game 4 as Knicks look to close out series - New York Post",
-      "link": "https://nypost.com/2026/05/10/sports/og-anunoby-remains-day-to-day-for-game-4-as-knicks-look-to-close-out-series/"
-    },
-    {
-      "title": "4 Takeaways: Thunder too deep, threatening to sweep Lakers - NBA",
-      "link": "https://www.nba.com/news/4-takeaways-thunder-lakers-game-3-2026-western-conference-semifinals"
-    },
-    {
-      "title": "10 Takeaways: Bednar Has a Goaltending Decision To Make For Game 4 - Colorado Hockey Now",
-      "link": "https://coloradohockeynow.com/10-takeaways-bednar-has-a-goaltending-decision-to-make-for-game-4/"
-    },
-    {
-      "title": "The Fire are back. Homecoming shows Portland\u2019s passion for its WNBA team never left | Bill Oram - OregonLive.com",
-      "link": "https://www.oregonlive.com/portland-fire/2026/05/the-fire-are-back-homecoming-shows-portlands-passion-for-its-wnba-team-never-left-bill-oram.html"
     }
   ],
   "weather": {
