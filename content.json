@@ -1,9 +1,9 @@
 {
-  "quote": "Be yourself; everyone else is already taken. \u2013 Oscar Wilde",
-  "fact": "Gary, Indiana is the murder capital of the U.S. - probably the world.",
-  "crypto": "BTC: $80,741 | ETH: $2,285.64",
+  "quote": "We are willing to believe anything other than the truth. \u2013 Carlos Ruiz Zafon",
+  "fact": "You burn more calories sleeping than you do watching TV.",
+  "crypto": "BTC: $80,533 | ETH: $2,269.97",
   "tip": "Commit often with meaningful messages.",
-  "joke": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
+  "joke": "Why was the robot angry? Because someone kept pressing his buttons!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Forza Horizon 6 Suffers Disastrous Leak as Steam Preload Files Are Made Available Without Encryption - IGN",
-      "link": "https://www.ign.com/articles/forza-horizon-6-suffers-disastrous-leak-as-steam-preload-files-are-made-available-without-encryption"
+      "title": "Xbox Game Pass quietly adds nine surprise games to its Essential tier - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/xbox-game-pass-quietly-adds-nine-games-essential-tier"
+    },
+    {
+      "title": "Windows 11 is getting a macOS-like speed boost - The Verge",
+      "link": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost"
+    },
+    {
+      "title": "Forza Horizon 6 has been leaked and cracked a week before its release - The Verge",
+      "link": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked"
+    },
+    {
+      "title": "Logitech\u2019s tiny folding mouse improves upon the laptop trackpad - The Verge",
+      "link": "https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images"
+    },
+    {
+      "title": "Men Across the Country Are Artificially Inflating Their Penises. They\u2019re Doing It for a Reason You\u2019d Never Expect. - Slate",
+      "link": "https://slate.com/life/2026/05/penis-size-filler-injections-hyaluronic-acid.html"
+    },
+    {
+      "title": "Steam Machine Buyers Will Face a Queue System For Its 4 Models, as Valve Moves to Prevent Scalper Markups Early - Wccftech",
+      "link": "https://wccftech.com/steam-machine-queue-system-4-models-scalpers/"
+    },
+    {
+      "title": "Xbox Game Pass adds new day-one game Outbound today - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/outbound-xbox-game-pass"
+    },
+    {
+      "title": "ASUS teases ROG 20th anniversary Crosshair motherboard - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-teases-rog-20th-anniversary-crosshair-motherboard"
+    },
+    {
+      "title": "\"Thanks For Destroying Your Own Legacy\" - Quarter-Century Of Online Gaming History Vanishes As Digital Press Forum Goes Dark - Time Extension",
+      "link": "https://www.timeextension.com/news/2026/05/thanks-for-destroying-your-own-legacy-quarter-century-of-online-gaming-history-vanishes-as-digital-press-forum-goes-dark"
+    },
+    {
+      "title": "Crimson Desert Adds Surprise Claw Machine Mini-Game and Lets Pet Dogs Attack Enemies as Part of Update 1.06.00 - IGN",
+      "link": "https://www.ign.com/articles/crimson-desert-adds-surprise-claw-machine-mini-game-and-lets-pet-dogs-attack-enemies-as-part-of-update-10600"
+    },
+    {
+      "title": "\"We currently only support Steam and EGS stores for PC\": A major upcoming sequel ditches Xbox PC and Xbox Play Anywhere \u2014 is this an emerging trend? - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/we-currently-only-support-steam-and-egs-stores-for-pc-a-major-upcoming-sequel-ditches-xbox-pc-and-xbox-play-anywhere"
+    },
+    {
+      "title": "Apple\u2019s Foldable Shock: The iPhone Ultra Fold Leak Reveals a Feature No One Saw Coming - Geeky Gadgets",
+      "link": "https://www.geeky-gadgets.com/inside-the-iphone-ultra-fold/"
     },
     {
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads - The Hacker News",
@@ -24,16 +68,16 @@
       "link": "https://www.forbes.com/sites/zakdoffman/2026/05/11/not-available-for-all-apple-changes-iphone-messaging-next-week/"
     },
     {
-      "title": "Breaking: Samsung starts rolling out stable One UI 8.5 to Galaxy S25 users in the US - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-us-rollout-3665329/"
-    },
-    {
-      "title": "Meet Lamborghini's Most Powerful Convertible Ever: Fenomeno Roadster - Motor1.com",
-      "link": "https://www.motor1.com/news/795292/lamborghini-fenomeno-roadster/"
-    },
-    {
       "title": "GrapheneOS says Google is making life harder for rival operating systems and devices - Android Authority",
       "link": "https://www.androidauthority.com/grapheneos-google-apple-approved-devices-web-warning-3665319/"
+    },
+    {
+      "title": "Global One UI 8.5 update release day is finally here - SamMobile",
+      "link": "https://www.sammobile.com/news/global-samsung-one-ui-8-5-update-release-day/"
+    },
+    {
+      "title": "The size of a credit card: This fully functional computer even packs an e-ink screen - Digital Trends",
+      "link": "https://www.digitaltrends.com/computing/the-size-of-a-credit-card-this-fully-functional-computer-even-packs-an-e-ink-screen/"
     },
     {
       "title": "Survey Sunday: How much home battery backup do YOU need? - Electrek",
@@ -46,53 +90,21 @@
     {
       "title": "Does iPhone need its own MacBook Neo moment? - 9to5Mac",
       "link": "https://9to5mac.com/2026/05/10/should-apple-make-an-even-cheaper-iphone-neo-to-compete/"
-    },
-    {
-      "title": "Porsche knocks off world\u2019s fastest car at the N\u00fcrburgring - Torque cafe",
-      "link": "https://torquecafe.com/porsche-news-taycan-nurburgring-ev-record/"
-    },
-    {
-      "title": "Leaked video shows Galaxy Z Fold 8 and Fold 8 Wide compromises - PhoneArena",
-      "link": "https://www.phonearena.com/news/galaxy-z-fold-8-fold-8-wide_id180254"
-    },
-    {
-      "title": "NVIDIA\u2019s V100, An 8-Year Old GPU, Now Sells for $100 and Crushes Modern Consumer Cards in AI LLM Workloads - Wccftech",
-      "link": "https://wccftech.com/nvidia-v100-an-8-year-old-gpu-now-sells-for-100-us-crushes-modern-consumer-cards-in-ai-llms/"
-    },
-    {
-      "title": "Rumour: Capcom insider spills the beans - My Nintendo News",
-      "link": "https://mynintendonews.com/2026/05/10/rumour-capcom-insider-spills-the-beans/"
-    },
-    {
-      "title": "Fitbit Air has status light & double-tap gesture, gets Whoop size comparison - 9to5Google",
-      "link": "http://9to5google.com/2026/05/10/fitbit-air-whoop-size/"
-    },
-    {
-      "title": "Here\u2019s how Apple could make its Hide My Email feature even better for iCloud+ users - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/10/apple-hide-my-email-icloud-feature-requests-improvements/"
-    },
-    {
-      "title": "I built a working Android app with no coding experience using Google's free tools - MakeUseOf",
-      "link": "https://www.makeuseof.com/i-built-working-android-app-no-coding-experience-free-tools/"
-    },
-    {
-      "title": "PlayStation Emulator Devs Beg People To Stop Spamming AI Code - Kotaku",
-      "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
-    },
-    {
-      "title": "Swatch x Audemars Piguet: \"Royal Pop\" Is Official - WatchTime",
-      "link": "https://www.watchtime.com/brands/automatic-watches/swatch-x-audemars-piguet-royal-pop-is-official"
-    },
-    {
-      "title": "Guerrilla Games co-founder developing European game engine to rival Unreal and Unity - Eurogamer",
-      "link": "https://www.eurogamer.net/guerrilla-games-co-founder-developing-european-game-engine-to-rival-unreal-and-unity"
-    },
-    {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Chargers agree to terms with David Njoku - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-agree-to-terms-with-david-njoku"
+    },
+    {
+      "title": "Albert Breer's Takeaways: Why Steelers (and NFL Fans) Need Another Year from Aaron Rodgers - Sports Illustrated",
+      "link": "https://www.si.com/nfl/albert-breer-takeaways-steelers-nfl-fans-aaron-rodgers"
+    },
+    {
+      "title": "Caufield shines for Canadiens in front of Australian fans in Game 3 win - NHL.com",
+      "link": "https://www.nhl.com/news/cole-caufield-shines-for-canadiens-in-front-of-australian-fans"
+    },
     {
       "title": "Official race results: 2026 NASCAR Cup at Watkins Glen - Motorsport.com",
       "link": "https://www.motorsport.com/nascar-cup/news/official-race-results-2026-nascar-cup-at-watkins-glen/10819832/"
@@ -100,14 +112,6 @@
     {
       "title": "Knicks leave no doubt, blow out 76ers by 30 to sweep Philadelphia out of playoffs - NBC Sports",
       "link": "https://www.nbcsports.com/nba/news/knicks-leave-no-doubt-blow-out-76ers-by-30-to-sweep-Philadelphia-out-of-playoffs"
-    },
-    {
-      "title": "From AJ Dybantsa to Darius Acuff Jr., NBA draft lottery talents make their case - Andscape",
-      "link": "https://andscape.com/features/nba-draft-lottery-darius-acuff-aj-dybantsa-darryn-peterson/"
-    },
-    {
-      "title": "Dodgers To Activate Mookie Betts On Monday - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/dodgers-to-activate-mookie-betts-on-monday.html"
     },
     {
       "title": "AL East Notes: Contreras, Suarez, Barger, Rogers, Cole - MLB Trade Rumors",
@@ -126,6 +130,14 @@
       "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/107598/barcelona-2-0-real-madrid-player-ratings"
     },
     {
+      "title": "Ranking the entire PGA Championship field, Nos. 1-156 - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-tour/news/ranking-the-entire-pga-championship-field-nos-1-156"
+    },
+    {
+      "title": "Rookie Jesus Rodriguez gives Giants a 12th-inning walk-off, series-clinching win against Pirates - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/giants/article/jesus-rodriguez-gives-giants-12th-inning-walk-off-22251785.php"
+    },
+    {
       "title": "Best of the rest: Michael McDowell finishes a distant second at Watkins Glen - NASCAR.com",
       "link": "https://www.nascar.com/news-media/2026/05/10/cup-series-michael-mcdowell-watkins-glen-2026/"
     },
@@ -136,10 +148,6 @@
     {
       "title": "College softball 2026: NCAA tournament scores, schedule, watch - ESPN",
       "link": "https://www.espn.com/college-sports/story/_/id/48734760/college-softball-2026-wcws-ncaa-tournament-watch-schedule-scores"
-    },
-    {
-      "title": "Arman Tsarukyan\u2019s devastated live reaction to Khamzat Chimaev losing caught on camera at UFC 328 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/05/10/arman-tsarukyans-devastated-live-reaction-to-khamzat-chimaev-losing-caught-on-camera-at-ufc-328/"
     },
     {
       "title": "Nebraska Softball to Host Lincoln Regional as No. 4 Overall Seed in NCAA Tournament - Sports Illustrated",
@@ -154,24 +162,16 @@
       "link": "https://www.espn.com/wnba/story/_/id/48736180/kate-martin-lands-sparks-development-roster-spot"
     },
     {
+      "title": "Mookie Betts\u2019 return leaves Dodgers facing \u2018tough decision\u2019 with roster - New York Post",
+      "link": "https://nypost.com/2026/05/10/sports/dodgers-face-tough-roster-decision-amid-mookie-betts-return/"
+    },
+    {
+      "title": "ESPN reportedly offered Steve Kerr $7M annually - Awful Announcing",
+      "link": "https://awfulannouncing.com/espn/steve-kerr-offer-seven-million-annually.html"
+    },
+    {
       "title": "Pacers exec issues stunning apology after NBA draft lottery \u2018risk\u2019 backfires - New York Post",
       "link": "https://nypost.com/2026/05/10/sports/pacers-exec-issues-apology-after-nba-draft-lottery-risk-backfires/"
-    },
-    {
-      "title": "Alex Fitzpatrick admits how he really feels after shooting 73 to lose the lead at the Truist - hitc.com",
-      "link": "https://www.hitc.com/alex-fitzpatrick-admits-how-he-really-feels-after-shooting-73-to-lose-the-lead-at-the-truist/"
-    },
-    {
-      "title": "Golden Knights vs Ducks Prediction, Picks & Odds for Today's NHL Playoffs Game 4 - Covers.com",
-      "link": "https://www.covers.com/nhl/golden-knights-vs-ducks-prediction-picks-best-bets-sgp-today-5-10-2026"
-    },
-    {
-      "title": "World No. 598-ranked golfer nearly ties Tiger Woods record with stunning win - New York Post",
-      "link": "https://nypost.com/2026/05/10/sports/yurav-premlall-nearly-ties-tiger-woods-record-with-stunning-win/"
-    },
-    {
-      "title": "Enhanced Box Score: Rangers 3, Cubs 0 \u2013 May 10, 2026 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/05/10/enhanced-box-score-rangers-3-cubs-0-may-10-2026/"
     }
   ],
   "weather": {
