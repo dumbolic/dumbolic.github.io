@@ -1,9 +1,9 @@
 {
-  "quote": "Where violence reigns, reason is weak. \u2013 Nicolas Chamfort",
-  "fact": "The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.",
-  "crypto": "BTC: $79,520 | ETH: $2,254.69",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I\u2019ll tell you something about German sausages, they\u2019re the wurst",
+  "quote": "The busy man is never wise and the wise man is never busy. \u2013 Lin Yutang",
+  "fact": "Every year 4 people in the UK die putting their trousers on.",
+  "crypto": "BTC: $79,380 | ETH: $2,255.61",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Steam's New Cozy Van Life Sim Gets Engulfed In Review Drama - Kotaku",
+      "link": "https://kotaku.com/dev-behind-van-life-cozy-sim-with-1-5-million-wishlists-apologizes-for-trying-to-get-players-to-delete-their-negative-reviews-2000695350"
+    },
+    {
+      "title": "iOS 27 to Bring Customizable Camera App, Tweaks to Weather, Safari and Liquid Glass - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/12/ios-27-customizable-camera-app/"
+    },
+    {
+      "title": "Fans Waiting for GTA Trailer 3 React to Rockstar's Latest Tweet Exactly as You'd Expect - IGN",
+      "link": "https://www.ign.com/articles/as-gta-6-trailer-3-hype-intensifies-rockstar-tweets-about-red-dead-online-and-the-internets-reaction-is-exactly-as-youd-expect"
+    },
+    {
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/"
+    },
+    {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
       "link": "https://www.marvelrivals.com/balancepost/20260512/41667_1299947.html"
     },
     {
-      "title": "Speed-boosting \"low latency profile\" is one of the improvements coming to Windows 11 - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/"
+      "title": "iOS 26.5\u2019s Apple Maps app has two notable changes, here\u2019s what\u2019s new - 9to5Mac",
+      "link": "https://9to5mac.com/2026/05/12/ios-26-5s-apple-maps-app-has-two-notable-changes-heres-whats-new/"
     },
     {
-      "title": "One GTA 6 Fan Is So Obsessed They\u2019re Tracking Foot Traffic At A Caf\u00e9 Near Rockstar To Predict The Next Trailer Drop - Kotaku",
-      "link": "https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325"
+      "title": "Scuf Omega PS5 performance controller launches at $219.99 with 11 extra inputs and PC support - VideoCardz.com",
+      "link": "https://videocardz.com/newz/scuf-omega-ps5-performance-controller-launches-at-219-99-with-11-extra-inputs-and-pc-support"
     },
     {
       "title": "Android Auto is getting video apps, music updates, and more Gemini smarts - 9to5Google",
@@ -32,63 +48,95 @@
       "link": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp"
     },
     {
-      "title": "The Sims 4 Update: Official Patch Notes (May 12th, 2026 Release) - Sims Community",
-      "link": "https://simscommunity.info/2026/05/12/sims-4-update-patch-notes-may-12-release/"
+      "title": "First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET",
+      "link": "https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/"
     },
     {
-      "title": "Panasonic Announces New LUMIX L10 Fixed Lens Camera - Panasonic",
-      "link": "https://na.panasonic.com/news/panasonic-announces-lumix-l10-fixed-lens-camera"
+      "title": "Android adds a feature to stop you from doomscrolling - TechCrunch",
+      "link": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/"
+    },
+    {
+      "title": "Panasonic\u2019s new Lumix L10 is a compact camera with a focus on photography - The Verge",
+      "link": "https://www.theverge.com/tech/928767/panasonic-lumix-l10-four-thirds-sensor-digital-camera-price-availability"
     },
     {
       "title": "Gamer banned for 7,973 years for leaking Xbox game taunts devs: 'There's nothing they can do' - Polygon.com",
       "link": "https://www.polygon.com/xbox-ban-leak-forza-horizon-6-modder-youtube-dvs-squad-response/"
     },
     {
-      "title": "Minecraft 26.2 Snapshot 7 - Minecraft",
-      "link": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-7"
+      "title": "Friends List for Java Edition - Minecraft",
+      "link": "https://www.minecraft.net/en-us/article/friends-list-for-java-edition"
     },
     {
       "title": "Former Tekken Boss Katsuhiro Harada To Lead New SNK Studio - Game Informer",
       "link": "https://gameinformer.com/2026/05/12/former-tekken-boss-katsuhiro-harada-to-lead-new-snk-studio"
     },
     {
+      "title": "New Software: Introducing Rivian Assistant and Rivian Unified Intelligence - Rivian Stories",
+      "link": "https://stories.rivian.com/software-update-hey-rivian-assistant-connect-ai-2026"
+    },
+    {
       "title": "Stop Chrome Browser From Downloading a Hidden 4GB AI File - MacRumors",
       "link": "https://www.macrumors.com/how-to/stop-chrome-downloading-hidden-4gb-file/"
     },
     {
-      "title": "Google\u2019s Aluminium OS revealed in 16-minute leaked video - The Verge",
-      "link": "https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video"
+      "title": "Warhammer 40,000 Faction Focus: World Eaters - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/ujj4g76g/warhammer-40000-faction-focus-world-eaters"
     },
     {
-      "title": "iPhone 18 Pro May Have 'Aggressive' Starting Price Despite RAM Crisis - MacRumors",
-      "link": "https://www.macrumors.com/2026/05/12/iphone-18-pro-aggressive-pricing-rumor/"
-    },
-    {
-      "title": "Bioshock creator Ken Levine Reveals Why Judas Took a Decade to Develop: \"We Kissed Many Frogs\" - IGN",
-      "link": "https://www.ign.com/articles/bioshock-creator-ken-levine-reveals-why-judas-took-a-decade-to-develop-we-kissed-many-frogs"
-    },
-    {
-      "title": "Massive leak reveals Google\u2019s Aluminium OS with a 16-minute video - Android Authority",
-      "link": "https://www.androidauthority.com/google-aluminium-os-leak-3665979/"
-    },
-    {
-      "title": "iOS 26.5\u2014Update Now Warning Issued To All iPhone Users - Forbes",
-      "link": "https://www.forbes.com/sites/kateoflahertyuk/2026/05/12/ios-265-update-now-warning-issued-to-all-iphone-users/"
-    },
-    {
-      "title": "Nintendo Switch 2: Choose Your Game Bundle launches this summer - News - Nintendo Official Site - Nintendo",
-      "link": "https://www.nintendo.com/us/whatsnew/nintendo-switch-2-choose-your-game-bundle-launches-this-summer/"
-    },
-    {
-      "title": "Can The Jumper Be Hacked? Inside Basketball\u2019s Next Arms Race - Defector",
-      "link": "https://defector.com/can-the-jumper-be-hacked-inside-basketballs-next-arms-race"
-    },
-    {
-      "title": "Samsung Launches One UI 9 Beta for Galaxy S26 Series Users - samsung.com",
-      "link": "https://news.samsung.com/global/samsung-launches-one-ui-9-beta-for-galaxy-s26-series-users"
+      "title": "Long-Awaited PS5 Adventure Game Hits PS Store Today - PlayStation LifeStyle",
+      "link": "https://www.playstationlifestyle.net/2026/05/12/directive-8020-ps5-ps-store-release-today/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Ducks vs Golden Knights Prediction, Picks & Odds for Tonight's NHL Playoffs Game 5 - Covers.com",
+      "link": "https://www.covers.com/nhl/ducks-vs-golden-knights-prediction-picks-best-bets-sgp-tonight-5-12-2026"
+    },
+    {
+      "title": "Grizzlies' Brandon Clarke passes away at 29 - NBA",
+      "link": "https://www.nba.com/news/brandon-clarke-passes-away-29-years-old"
+    },
+    {
+      "title": "Victor Wembanyama, Gregg Popovich Speak in Airport Video After Spurs Star's NBA Playoffs Ejection - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25427247-victor-wembanyama-gregg-popovich-speak-airport-video-after-spurs-stars-nba-playoffs-ejection"
+    },
+    {
+      "title": "NFL announces Chiefs will host Week 1 Monday night game vs. Broncos - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-chiefs-will-host-week-1-monday-night-game-vs-broncos"
+    },
+    {
+      "title": "Athletics Announce Several Roster Moves - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/athletics-announce-several-roster-moves.html"
+    },
+    {
+      "title": "James Maddison says Felix Nmecha never touched the ball in controversial penalty decision vs. Leeds - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/70471/tottenham-hotspur-news-james-maddison-nmecha-penalty-instagram"
+    },
+    {
+      "title": "Yankees To Place Jos\u00e9 Caballero On IL, Recall Anthony Volpe - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/yankees-to-place-jose-caballero-on-il-recall-anthony-volpe.html"
+    },
+    {
+      "title": "Khamzat Chimaev makes RAF debut against Dillon Danis at RAF 10 - MMA Fighting",
+      "link": "https://www.mmafighting.com/raf-wrestling/487973/khamzat-chimaev-makes-raf-debut-against-dillon-danis-at-raf-10"
+    },
+    {
+      "title": "2026 Preakness Stakes horses, odds: Uncanny bettor releases picks for Iron Honor, Taj Mahal, Incredibolt - SportsLine",
+      "link": "https://www.sportsline.com/insiders/2026-preakness-stakes-horses-odds-uncanny-bettor-releases-picks-for-iron-honor-taj-mahal-incredibolt/"
+    },
+    {
+      "title": "Steve Sarkisian goes scorched-earth on college football\u2019s Wild West culture | Exclusive - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/05/12/texas-football-steve-sarkisian-rips-cfp-selection-committee-ncaa-ole-miss-rules-24-team-playoff/90033796007/"
+    },
+    {
+      "title": "From Dani Rojas to the USL: Cristo Fernandez earns an El Paso Locomotive deal - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/Entertainment/wireStory/dani-rojas-usl-cristo-fernandez-earns-el-paso-132889386"
+    },
+    {
+      "title": "Where will College GameDay visit each week of the 2026 season? - FootballScoop.com",
+      "link": "https://www.footballscoop.com/2026/05/12/where-will-college-gameday-visit-each-week-2026-schedule-locations"
+    },
     {
       "title": "Coyle signs 6-year, $36 million contract to stay with Blue Jackets - NHL.com",
       "link": "https://www.nhl.com/news/charlie-coyle-signs-6-year-contract-with-columbus-blue-jackets"
@@ -98,76 +146,28 @@
       "link": "https://www.mlbtraderumors.com/2026/05/braves-place-sean-murphy-on-injured-list.html"
     },
     {
-      "title": "Lane Kiffin apologizes for comments that 'diversity' impacted his ability to recruit at Mississippi: 'It wasn't calculated' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/article/lane-kiffin-apologizes-for-comments-that-diversity-impacted-his-ability-to-recruit-at-mississippi-it-wasnt-calculated-204400521.html"
+      "title": "Brock Rechsteiner, son of WWE legend Scott Steiner, signs with Saints - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/48750999/brock-rechsteiner-signs-new-orleans-saints-scott-steiner-son-wwe"
     },
     {
-      "title": "Steve Sarkisian rips Ole Miss for transfer portal practices, low academic standards - On3",
-      "link": "https://www.on3.com/news/steve-sarkisian-rips-ole-miss-for-transfer-portal-practices-low-academic-standards/"
+      "title": "The NFL doesn\u2019t require schedule-release videos to be submitted for approval - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-doesnt-require-schedule-release-videos-to-be-submitted-for-approval"
     },
     {
-      "title": "LeBron James: \u2018I Don\u2019t Know What The Future Holds For Me\u2019 - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/05/lebron-james-i-dont-know-what-the-future-holds-for-me.html"
+      "title": "Following all the 2026 schedule rumors for Seahawks - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-schedule/167961/nfl-schedule-release-seahawks-rumors-2026-games"
     },
     {
-      "title": "NFLPA head: Players strongly want 'high quality' grass fields - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48750869/nflpa-head-players-strongly-want-high-quality-grass-fields"
+      "title": "Big Ten Conference Announces 2026-27 Men\u2019s Basketball Opponents - Big Ten Conference",
+      "link": "https://bigten.org/mbb/article/60009/"
     },
     {
-      "title": "Following all the 2026 schedule rumors for 49ers - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-schedule/159101/nfl-schedule-release-rumors-2026-49ers-games"
+      "title": "Stephen A. Smith on Lane Kiffin 'segregation' comments about Ole Miss: He 'wasn't lying' - On3",
+      "link": "https://www.on3.com/news/stephen-a-smith-on-lane-kiffin-segregation-comments-about-ole-miss-he-wasnt-lying/"
     },
     {
-      "title": "D-Backs Trade Alek Thomas To Dodgers - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/d-backs-trade-alek-thomas-to-dodgers.html"
-    },
-    {
-      "title": "Rory McIlroy Shares Sharp Opinion on PGA Tour\u2019s Failed Compromise With LIV Golf: \u2018I\u2019m Glad I Was Wrong\u2019 - Sports Illustrated",
-      "link": "https://www.si.com/golf/pga-championship/rory-mcilroy-sharp-opinion-pga-tour-failed-compromise-liv-golf"
-    },
-    {
-      "title": "'Ted Lasso' star turned football pro: Cristo Fern\u00e1ndez signs for USL team - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/48750339/cristo-fernandez-signs-usl-team"
-    },
-    {
-      "title": "What led Ryan Lochte to join Missouri State swimming coaching staff in $34-an-hour shocker - New York Post",
-      "link": "https://nypost.com/2026/05/12/sports/what-led-ryan-lochte-to-join-missouri-state-for-34-an-hour/"
-    },
-    {
-      "title": "Ronda Rousey goes scorched Earth on \u2018chauvinist prick\u2019 Hunter Campbell: \u2018I\u2019m f*cking coming for your job\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/487792/ronda-rousey-goes-scorched-earth-on-chauvinist-prick-hunter-campbell-im-fcking-coming-for-your-job"
-    },
-    {
-      "title": "Lakers eliminated by Thunder after crushing Game 4 loss as LeBron James suffers rare sweep - New York Post",
-      "link": "https://nypost.com/2026/05/12/sports/lakers-eliminated-by-thunder-after-crushing-game-4/"
-    },
-    {
-      "title": "'That is my moment': Carano has an opportunity to pioneer in MMA again - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/48745638/gina-carano-opportunity-pioneer-mma-again-ronda-rousey-mvp-netflix"
-    },
-    {
-      "title": "Injury Update: Owen Tippett | Philadelphia Flyers - NHL.com",
-      "link": "https://www.nhl.com/flyers/news/injury-update-owen-tippett"
-    },
-    {
-      "title": "6 Giannis Antetokounmpo trade packages after Bucks\u2019 ultimatum to superstar - SB Nation",
-      "link": "https://www.sbnation.com/nba/1114194/giannis-antetokounmpo-trades-teams-knicks-cavs-blazers"
-    },
-    {
-      "title": "Hansi Flick gives his verdict on Lamine Yamal waving Palestine flag at Barcelona\u2019s title parade - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/barcelona-la-liga/120127/hansi-flick-gives-his-verdict-on-lamine-yamal-waving-palestine-flag-at-barcelonas-title-parade"
-    },
-    {
-      "title": "Chiefs 2026 schedule tracker: KC will face Broncos in primetime to open season, site TBD - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-schedule/201840/nfl-schedule-2026-chiefs-rumors-tracker"
-    },
-    {
-      "title": "The Biggest Loose Ends of the NFL Offseason - The Ringer",
-      "link": "https://www.theringer.com/2026/05/12/nfl/nfl-aj-brown-trade-baker-mayfield-cj-stroud-offseason-loose-ends"
-    },
-    {
-      "title": "First Call: Recalibrating after last weekend\u2019s Aaron Rodgers speculation; Paul Skenes faces frequent Pirates foe - TribLIVE.com",
-      "link": "https://triblive.com/sports/first-call-recalibrating-after-last-weekends-aaron-rodgers-speculation-paul-skenes-faces-frequent-pirates-foe/"
+      "title": "Super Bowl LIX performer is found guilty of resisting an officer - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-lix-performer-is-found-guilty-of-resisting-an-officer"
     }
   ],
   "weather": {
