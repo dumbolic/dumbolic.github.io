@@ -1,9 +1,9 @@
 {
-  "quote": "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies. \u2013 Emily Dickinson",
-  "fact": "Male bats have the highest rate of homosexuality of any mammal.",
-  "crypto": "BTC: $79,727 | ETH: $2,251.65",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+  "quote": "Progress comes to those who train and train; reliance on secret techniques will get you nowhere. \u2013 Morihei Ueshiba",
+  "fact": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
+  "crypto": "BTC: $81,500 | ETH: $2,307.62",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What is bread's favorite number?  Leaven.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "8 PS Plus Extra, Premium Games for May 2026 Announced - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/05/8-ps-plus-extra-premium-games-for-may-2026-announced"
+    },
+    {
+      "title": "Available for Xbox Insiders: New Xbox Console Updates Bring Updated Boot Up, Gamerscore Badges and More - Xbox Wire",
+      "link": "https://news.xbox.com/en-us/2026/05/13/xbox-insiders-june-2026-console-features/"
+    },
+    {
+      "title": "Warhammer 40,000 Faction Focus: T\u2019au Empire - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/jmtd7k9g/warhammer-40000-faction-focus-tau-empire"
+    },
+    {
+      "title": "Software Developers Say AI Is Rotting Their Brains - 404 Media",
+      "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
+    },
+    {
+      "title": "Here\u2019s the changelog for Samsung\u2019s Android 17 update, One UI 9 - 9to5Google",
+      "link": "http://9to5google.com/2026/05/13/samsung-one-ui-9-android-17-changelog/"
+    },
+    {
+      "title": "Sony Alpha 7R VI Announced \u2013 66.8MP Stacked Sensor, 8K 30p, 4K 120p and Sensor-Level Dual Gain - CineD",
+      "link": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/"
+    },
+    {
+      "title": "PS5 Exclusive Saros Reportedly Selling Worse Than You'd Expect - Kotaku",
+      "link": "https://kotaku.com/analyst-claims-sonys-latest-ps5-exclusive-saros-isnt-selling-great-either-2000695652"
+    },
+    {
       "title": "Nintendo Increased The Switch 2 Price to $500, And It Still Isn't Enough - GameSpot",
       "link": "https://www.gamespot.com/articles/nintendo-increased-the-switch-2-price-to-500-and-it-still-isnt-enough/1100-6539893/"
     },
     {
-      "title": "The Canon EOS R6 V Removes the R6 III\u2019s EVF and Adds an Internal Fan - PetaPixel",
-      "link": "https://petapixel.com/2026/05/13/the-canon-eos-r6-v-removes-the-r6-iiis-evf-and-adds-an-internal-fan/"
+      "title": "Canon\u2019s RF 20-50mm f/4L IS USM PZ Is its First Power Zoom L-Series Lens - PetaPixel",
+      "link": "https://petapixel.com/2026/05/13/canons-rf-20-50mm-f-4l-is-usm-pz-is-its-first-power-zoom-l-series-lens/"
+    },
+    {
+      "title": "Cities of Sigmar rules \u2013 New units - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/m2dw9uao/cities-of-sigmar-rules-new-units"
     },
     {
       "title": "Rivian's New AI Voice Assistant Is Rolling Out. Here's What It Can Do - InsideEVs",
       "link": "https://insideevs.com/news/795539/rivian-assistant-launch-r1-r2-2026/"
+    },
+    {
+      "title": "Steam Controller has no speaker, but it can still \u2018scream\u2019 if dropped - VideoCardz.com",
+      "link": "https://videocardz.com/newz/steam-controller-has-no-speaker-but-it-can-still-scream-if-dropped"
+    },
+    {
+      "title": "Why Valve is Releasing 4 Different Steam Machine Variants - Geeky Gadgets",
+      "link": "https://www.geeky-gadgets.com/steam-machine-2026-pricing-specs/"
     },
     {
       "title": "Forza Horizon 6 will rebalance Wheelspin rewards - Traxion.GG",
@@ -36,78 +76,70 @@
       "link": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer"
     },
     {
+      "title": "Subnautica 2 Gameplay Appears to Have Leaked, Just Days After Forza Horizon 6 and LEGO Batman - IGN",
+      "link": "https://www.ign.com/articles/subnautica-2-gameplay-appears-to-have-leaked-just-days-after-forza-horizon-6-and-lego-batman"
+    },
+    {
       "title": "This 4.9kg Evolve Bike Undercuts Western Brands by Thousands - Outside Magazine",
       "link": "https://velo.outsideonline.com/road/road-gear/4-9kg-evolve-bike-china-undercuts-western-brands/#article"
     },
     {
-      "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - TechRepublic",
-      "link": "https://www.techrepublic.com/article/news-apple-wwdc-2026-ios-27-siri-ai-preview/"
-    },
-    {
-      "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs - The Register",
-      "link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224"
-    },
-    {
-      "title": "Ultralight laptop under 1 kg: Lenovo officially launches ThinkPad X13 Gen 7 - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Ultralight-laptop-under-1-kg-Lenovo-officially-launches-ThinkPad-X13-Gen-7.1295182.0.html"
-    },
-    {
-      "title": "First info about the new Sony A7rVI battery: +15% capacity and more expensive - SonyAlphaRumors",
-      "link": "https://www.sonyalpharumors.com/first-info-about-the-new-sony-a7rvi-battery/"
-    },
-    {
-      "title": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal - MacRumors",
-      "link": "https://www.macrumors.com/2026/05/12/google-previews-android-17/"
-    },
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "link": "https://www.marvelrivals.com/balancepost/20260512/41667_1299947.html"
-    },
-    {
-      "title": "Teamfight Tactics patch 17.3 - Teamfight Tactics",
-      "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-3/"
-    },
-    {
-      "title": "iOS 26.5\u2019s Apple Maps app has two notable changes, here\u2019s what\u2019s new - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/12/ios-26-5s-apple-maps-app-has-two-notable-changes-heres-whats-new/"
-    },
-    {
-      "title": "Google is bringing AirDrop support to many more Android phones, QR cloud share - 9to5Google",
-      "link": "http://9to5google.com/2026/05/12/google-bringing-airdrop-support-most-android-phones-later-this-year/"
-    },
-    {
-      "title": "First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET",
-      "link": "https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/"
-    },
-    {
-      "title": "Google launches new Android security feature to help uncover spyware attacks - TechCrunch",
-      "link": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/"
-    },
-    {
-      "title": "Android Show 2026: Android Auto looks fresh and clean in Google's outlook - Android Central",
-      "link": "https://www.androidcentral.com/apps-software/android-auto/android-auto-preps-a-fresh-take-on-google-maps-navigation-teases-more-gemini-at-the-android-show"
+      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever - BBC",
+      "link": "https://www.bbc.com/news/articles/cj37z8357e5o"
     }
   ],
   "sports_news": [
     {
+      "title": "Saints to play Pittsburgh Steelers in NFL's first Paris game on Oct. 25 - New Orleans Saints",
+      "link": "https://www.neworleanssaints.com/news/nfl-paris-game-saints-vs-steelers-2026-schedule"
+    },
+    {
+      "title": "Patriots seventh-rounder Quintayvious Hutchins charged with assault and battery - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-seventh-rounder-quintayvious-hutchins-charged-with-assault-and-battery"
+    },
+    {
+      "title": "Will players\u2019 push for grass move the needle? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-players-push-for-grass-move-the-needle"
+    },
+    {
+      "title": "Tiger Woods\u2019s Prescription Records Will Be Shielded From The Public - Defector",
+      "link": "https://defector.com/tiger-woodss-prescription-records-will-be-shielded-from-the-public"
+    },
+    {
+      "title": "Steelers, Longing For A Quiet Death, Willing To Wait For Aaron Rodgers - Defector",
+      "link": "https://defector.com/steelers-longing-for-a-quiet-death-willing-to-wait-for-aaron-rodgers"
+    },
+    {
+      "title": "Dylan Harper Is the Spurs\u2019 Ace in the Hole - The Ringer",
+      "link": "https://www.theringer.com/2026/05/13/nba/dylan-harper-san-antonio-spurs-rookie-playoffs"
+    },
+    {
+      "title": "Ohio State Buckeyes Reveal New Home, Road Football Uniforms With \"Heritage Stripes\" - SportsLogos.Net News",
+      "link": "https://news.sportslogos.net/2026/05/13/ohio-state-buckeyes-reveal-new-home-road-uniforms-with-heritage-stripes/college/"
+    },
+    {
+      "title": "NY, NJ reduce World Cup rail and shuttle bus fares - Gothamist",
+      "link": "https://gothamist.com/news/ny-nj-reduce-world-cup-rail-and-shuttle-bus-fares"
+    },
+    {
       "title": "Maple Leafs Relieve Craig Berube of Head Coaching Duties - NHL.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnJRNzZPSXROakpYVWFpSlBySExUUGJQV3MybXFDOWUyTmh3SnVkbDdjQlgzeUtmWVZIMDRFdFc5QUFneWxPNVYxSENqUElsMDdJWnVLOElGSlRPbXVQZUVaUkRNckZhcHI4RFNjcnphYkNRTE9sV2pKTTVuM2RQdE9rSWJyQ1BqYU14WmpOQ1lONHNWYWU0?oc=5"
+      "link": "https://www.nhl.com/mapleleafs/news/maple-leafs-relieve-craig-berube-of-head-coaching-duties"
     },
     {
       "title": "NFL international games 2026: Dates, teams and host cities - BBC",
       "link": "https://www.bbc.com/sport/american-football/articles/c809d5le7mmo"
     },
     {
-      "title": "Italian Open 2026: Iga Swiatek shows signs of best by thrashing Jessica Pegula in Rome - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cpqpv91v225o"
-    },
-    {
-      "title": "Steelers to play Saints in 2026 NFL Paris Game - Steelers.com",
-      "link": "https://www.steelers.com/news/steelers-to-play-saints-in-2026-nfl-paris-game"
+      "title": "49ers to Face Minnesota Vikings in Mexico City in Week 11 'SNF' - 49ers.com",
+      "link": "https://www.49ers.com/news/49ers-to-face-minnesota-vikings-in-mexico-city-in-week-11-snf"
     },
     {
       "title": "2026 NFL schedule release: Dates, times, matchups for nine international games - NFL.com",
       "link": "https://www.nfl.com/news/2026-nfl-schedule-release-nine-international-games-dates-times-matchups"
+    },
+    {
+      "title": "Nate Diaz blasts Charles Oliveira for shutting down his callout but asking for Conor McGregor: \u2018You\u2019re full of sh*t\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/487806/nate-diaz-blasts-charles-oliveira-for-shutting-down-his-callout-but-asking-for-conor-mcgregor-youre-full-of-sht"
     },
     {
       "title": "Commanders will play Indianapolis Colts in Week 4 in London - Washington Commanders",
@@ -122,10 +154,6 @@
       "link": "https://defector.com/victor-wembanyama-must-be-seen-to-be-believed"
     },
     {
-      "title": "Morning Report | Khamzat Chimaev explains why he squashed the beef with Sean Strickland - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/487964/morning-report-khamzat-chimaev-explains-why-he-squashed-the-beef-with-sean-strickland"
-    },
-    {
       "title": "LIV Golf slammed as a \u2018dumb idea\u2019 as Jon Rahm said to be in \u2018worst nightmare\u2019 situation - hitc.com",
       "link": "https://www.hitc.com/liv-golf-slammed-as-a-dumb-idea-as-jon-rahm-said-to-be-in-worst-nightmare-situation/"
     },
@@ -136,34 +164,6 @@
     {
       "title": "Justin Rose disappointed to hear Rory McIlroy's comments about Aronimink before the PGA Championship, 'That's a shame' - hitc.com",
       "link": "https://www.hitc.com/justin-rose-disappointed-to-hear-rory-mcilroys-comments-about-aronimink-before-the-pga-championship-thats-a-shame/"
-    },
-    {
-      "title": "Tim Benz: While discussing salary cap \u2018false flags,\u2019 Kyle Dubas raises red flags about other Penguins issues - TribLIVE.com",
-      "link": "https://triblive.com/sports/tim-benz-while-discussing-salary-cap-false-flags-kyle-dubas-raises-red-flags-about-other-penguins-issues/"
-    },
-    {
-      "title": "23-year-old rookie quits NFL in shock retirement decision costing team thousands - talkSPORT",
-      "link": "http://talksport.com/nfl/4254010/leveon-moss-retires-miami-dolphins-rookie-minicamp-contract/"
-    },
-    {
-      "title": "Jason Collins, first openly gay active NBA player, dies after cancer battle - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle"
-    },
-    {
-      "title": "Ja Morant pays emotional tribute to Brandon Clarke after Memphis Grizzlies star dies aged 29 - talkSPORT",
-      "link": "http://talksport.com/basketball/4253605/ja-morant-tribute-brandon-clarke-death-memphis-grizzlies-nba/"
-    },
-    {
-      "title": "Fantasy Baseball SP Roundup 5/12: Ober Achiever - Pitcher List",
-      "link": "http://pitcherlist.com/sp-roundup-5-12-26/"
-    },
-    {
-      "title": "Starting Pitcher Chart \u2013 May 13th, 2026 - FanGraphs",
-      "link": "https://fantasy.fangraphs.com/starting-pitcher-chart-may-13th-2026/"
-    },
-    {
-      "title": "Eric Haase homers twice, outfielders alter celebration after Giants beat Dodgers again - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/giants/article/sf-giants-backup-catcher-eric-haase-hits-two-22255858.php"
     }
   ],
   "weather": {
