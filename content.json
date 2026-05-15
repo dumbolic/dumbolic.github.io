@@ -1,9 +1,9 @@
 {
-  "quote": "No matter what happens, always be yourself. \u2013 Dale Carnegie",
-  "fact": "The surface of the Earth is about 60% water and 10% ice.",
-  "crypto": "BTC: $79,247 | ETH: $2,214.62",
+  "quote": "If you want to see things just as they are, then you yourself must practice just as you are. \u2013 Dogen",
+  "fact": "John Adams, Thomas Jefferson, and James Monroe died on July 4th.",
+  "crypto": "BTC: $79,204 | ETH: $2,220.36",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"",
+  "joke": "I've just written a song about a tortilla. Well, it is more of a rap really.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Buckle Up for Two Weeks of Motor Madness in GTA Online - Rockstar Games",
+      "link": "https://www.rockstargames.com/newswire/article/4k1a3a13ako84a/buckle-up-for-two-weeks-of-motor-madness-in-gta-online"
+    },
+    {
+      "title": "After numerous delays, new GTA 6 pre-order leaks suggest November release date finally locked in, and further delays unlikely - Eurogamer",
+      "link": "https://www.eurogamer.net/gta-6-pre-order-release-date-leak"
+    },
+    {
+      "title": "AMD FSR Upscaling 4.1 officially coming to Radeon RX 7000 GPUs in July, RX 6000 in 2027 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/amd-fsr-upscaling-4-1-officially-coming-to-radeon-rx-7000-gpus-in-july-rx-6000-in-2027"
+    },
+    {
+      "title": "Insta360\u2019s new viewfinder turns the action cam into a retro shooter - The Verge",
+      "link": "https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory"
+    },
+    {
+      "title": "I\u2019m obsessed with Forza Horizon 6, and I\u2019ve barely even raced - The Verge",
+      "link": "https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc"
+    },
+    {
       "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later - MacRumors",
       "link": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/"
+    },
+    {
+      "title": "Your iPhone Gets Stolen. Then the Hacking Begins - WIRED",
+      "link": "https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/"
     },
     {
       "title": "Why Apple is Putting Cameras in the New AirPods Pro 4 (Ultra) - Geeky Gadgets",
       "link": "https://www.geeky-gadgets.com/why-airpods-pro-have-cameras/"
     },
     {
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/"
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption - The Hacker News",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
     },
     {
-      "title": "5 Virtual Boy games added to Nintendo Classics - My Nintendo News",
-      "link": "https://mynintendonews.com/2026/05/14/5-virtual-boy-games-added-to-nintendo-classics/"
+      "title": "Virtual Boy - Nintendo Classics adds V-Tetris, Jack Bros., Space Invaders Virtual Collection, Virtual Bowling, and Vertical Force - Gematsu",
+      "link": "https://www.gematsu.com/2026/05/virtual-boy-nintendo-classics-adds-v-tetris-jack-bros-space-invaders-virtual-collection-virtual-bowling-and-vertical-force"
     },
     {
       "title": "Microsoft\u2019s multi-agent AI system tops Anthropic\u2019s Mythos on cybersecurity benchmark - GeekWire",
@@ -44,12 +68,8 @@
       "link": "https://9to5mac.com/2026/05/13/apple-warns-eu-against-forcing-google-to-open-android-to-ai-rivals/"
     },
     {
-      "title": "Assassin's Creed Black Flag Resynced: Ubisoft Launches Real-Life $500,000 Treasure Hunt, But You Have To Pay To Participate - Game Informer",
-      "link": "https://gameinformer.com/2026/05/13/assassins-creed-black-flag-resynced-ubisoft-launches-real-life-500000-treasure-hunt-but"
-    },
-    {
-      "title": "Round Up: Mina The Hollower Gets Glowing Comparisons To Zelda & Soulsborne In Final Previews - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/05/round-up-mina-the-hollower-gets-glowing-comparisons-to-zelda-and-soulsborne-in-final-previews"
+      "title": "Microsoft\u2019s Edge Copilot update uses AI to pull information from across your tabs - The Verge",
+      "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"
     },
     {
       "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too - The Verge",
@@ -60,50 +80,58 @@
       "link": "https://www.marvelrivals.com/gameupdate/20260513/41548_1300144.html"
     },
     {
+      "title": "Flash deal: Grab Apple's M4 MacBook Air for just $829 - AppleInsider",
+      "link": "https://appleinsider.com/articles/26/05/13/flash-deal-grab-apples-m4-macbook-air-for-just-829"
+    },
+    {
       "title": "Apple wants apps to integrate with Siri in iOS 27, but one fear holds some back: report - 9to5Mac",
       "link": "https://9to5mac.com/2026/05/13/apple-wants-apps-to-integrate-with-siri-in-ios-27-but-one-fear-holds-some-back-report/"
-    },
-    {
-      "title": "Xbox's Forza Horizon 6 launch times have been announced \u2014 here's exactly when you can play - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/forza/start-your-engines-xboxs-forza-horizon-6-release-dates-launch-times-and-early-access-is-upon-us"
-    },
-    {
-      "title": "Overview of New Features and Fixes: The Sims 4 May Patch Test - Sims Community",
-      "link": "https://simscommunity.info/2026/05/13/sims-4-may-patch-overview-features/"
-    },
-    {
-      "title": "Embark Studios is \u201cBuilding for the Long-Term\u201d by Cutting ARC Raiders Updates Down to Twice a Year for \u201cMore Impactful\u201d Releases - Wccftech",
-      "link": "https://wccftech.com/arc-raiders-embark-studios-building-for-long-term-major-changes/"
-    },
-    {
-      "title": "Instagram hits the copy button again with new disappearing Instants photos - The Verge",
-      "link": "https://www.theverge.com/tech/929958/instagram-instants-photos-disappearing-app"
-    },
-    {
-      "title": "Here\u2019s a First Look at the New Google Fitbit Air - Droid Life",
-      "link": "https://www.droid-life.com/2026/05/13/heres-a-first-look-at-the-new-google-fitbit-air/"
-    },
-    {
-      "title": "\u2018Gemini Intelligence\u2019 reportedly launching with Galaxy Z Fold 8, Flip 8 - 9to5Google",
-      "link": "http://9to5google.com/2026/05/13/samsung-gemini-intelligence-report/"
     }
   ],
   "sports_news": [
+    {
+      "title": "2026 PGA Championship LIVE updates: Leaderboard, scores, results, highlights and news from Round 1 - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-of-america/live/2026-pga-championship-live-updates-leaderboard-scores-results-highlights-and-news-from-round-1"
+    },
+    {
+      "title": "Starting Pitcher Chart \u2013 May 14th, 2026 - FanGraphs",
+      "link": "https://fantasy.fangraphs.com/starting-pitcher-chart-may-14th-2026/"
+    },
+    {
+      "title": "PGA 2026: Garrick Higgo receives 2-shot penalty for arriving late to tee at PGA - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-tour/news/garrick-higgo-receives-2-shot-penalty-for-arriving-late-to-tee-at-pga"
+    },
+    {
+      "title": "New York Giants 2026 schedule release: Leaks, time, opponents - Giants Wire",
+      "link": "https://giantswire.usatoday.com/story/sports/nfl/2026/05/14/new-york-giants-2026-schedule-release-leaks-time-opponents/89936047007/"
+    },
+    {
+      "title": "Chicago Bears set to play on Thanksgiving Day in 2026 - Chicago Bears Official Website",
+      "link": "https://www.chicagobears.com/news/chicago-bears-set-to-play-on-thanksgiving-day-in-2026-detroit-lions"
+    },
     {
       "title": "Report: Panthers will host the Bears in Week 1 - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-panthers-will-host-the-bears-in-week-1"
     },
     {
-      "title": "Schedule leak: Lions\u2019 Week 18 opponent revealed - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-schedule/164371/2026-detroit-lions-schedule-leak-season-finale-opponent-revealed"
+      "title": "Report: Chiefs will visit Bills on Thanksgiving night - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chiefs-will-visit-bills-on-thanksgiving-night"
+    },
+    {
+      "title": "NFL Strength of Schedule for All 32 Teams: Ranking the Easiest, Hardest Slates - Sports Illustrated",
+      "link": "https://www.si.com/fantasy/nfl-strength-of-schedule-32-team-rankings-2026"
+    },
+    {
+      "title": "Fans give their verdict on Ronda Rousey after MVP MMA open workout: 'Better grab Gina...quickly' - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/05/14/fans-give-their-verdict-on-ronda-rousey-after-mvp-mma-open-workout-better-grab-gina-quickly/"
+    },
+    {
+      "title": "Official Yardages for Round 1 - PGA Championship",
+      "link": "https://www.pgachampionship.com/news-media/articles/2026-pga-championship-official-yardages-for-round-1"
     },
     {
       "title": "Three (for) Sheets: Padres slugger\u2019s ninth-inning homer secures latest improbable win - San Diego Union-Tribune",
       "link": "https://www.sandiegouniontribune.com/2026/05/13/three-for-sheets-padres-leftys-ninth-inning-homer-secures-latest-improbable-win/"
-    },
-    {
-      "title": "Player Grades: Cavs vs Pistons Game 5 - Max Strus goes nuclear - Fear The Sword",
-      "link": "https://www.fearthesword.com/cavs-analysis/49393/player-grades-cavs-vs-pistons-game-5-max-strus-goes-nuclear"
     },
     {
       "title": "Eagles schedule leaks: Two primetime games revealed - Bleeding Green Nation",
@@ -118,56 +146,24 @@
       "link": "https://bleacherreport.com/articles/25427657-adam-silver-explains-new-nba-draft-lottery-format-says-league-has-authority-change-odds"
     },
     {
-      "title": "Fan at White Sox game hospitalized after fall into visiting bullpen - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/48764264/fan-white-sox-game-hospitalized-fall-visiting-bullpen"
-    },
-    {
-      "title": "Tracking the Steelers schedule release rumors - Behind the Steel Curtain",
-      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-schedule/170767/nfl-schedule-release-2026-steelers-rumors"
+      "title": "A fan fell from stands into Royals\u2019 bullpen during Wednesday\u2019s game at White Sox - Kansas City Star",
+      "link": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article315747804.html"
     },
     {
       "title": "WNBA, NBA approve Sun sale to Fertitta, relocation to Houston - ESPN",
       "link": "https://www.espn.com/wnba/story/_/id/48763788/wnba-nba-approve-sun-sale-fertitta-relocation-houston"
     },
     {
-      "title": "Dolphins make De'Von Achane the face of the franchise with massive extension - Phin Phanatic",
-      "link": "https://phinphanatic.com/miami-dolphins-make-de-von-achane-the-face-of-the-franchise-with-massive-extension-01krhvyrdm52"
-    },
-    {
-      "title": "Alvaro Cortes reveals what Hansi Flick told him before Barcelona debut - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/barcelona-la-liga/120309/alvaro-cortes-reveals-what-hansi-flick-told-him-before-barcelona-debut"
+      "title": "Dolphins, RB De\u2019Von Achane agree to four-year extension - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-rb-devon-achane-agree-to-four-year-extension"
     },
     {
       "title": "Winners and Losers from 2026 NBA Combine Measurements and Scrimmages - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25427014-winners-and-losers-2026-nba-combine-measurements-and-scrimmages"
     },
     {
-      "title": "Nick Wright calls out NBC for treating Game 5 broadcast as Victor Wembanyama\u2019s \u2018redemption\u2019 - Awful Announcing",
-      "link": "https://awfulannouncing.com/nba/nick-wright-calls-out-nbc-broadcast-victor-wembanyama-redemption.html"
-    },
-    {
-      "title": "What the latest NBA mock drafts are predicting for the Utah Jazz, AJ Dybantsa and Richie Saunders - Deseret News",
-      "link": "https://www.deseret.com/sports/2026/05/13/nba-mock-drafts-post-lottery-utah-jazz-aj-dybantsa-richie-saunders/"
-    },
-    {
-      "title": "Mark your calendars! Seahawks to rematch Patriots in NFL Kickoff 2026 game - Field Gulls",
-      "link": "https://www.fieldgulls.com/nfl-schedule/168082/seattle-seahawks-2026-schedule-vs-patriots-nfl-kickoff-game-super-bowl-rematch"
-    },
-    {
-      "title": "Lakers Notes: LeBron, Reaves, Doncic, Front Office - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/05/lakers-notes-lebron-reaves-doncic-front-office.html"
-    },
-    {
-      "title": "Report: Lions to host Bears on Thanksgiving - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lions-to-host-bears-on-thanksgiving"
-    },
-    {
-      "title": "Pre-Seeds Released for Senior Men\u2019s Freestyle at Senior World Team Trials Challenge Tournament - USA Wrestling",
-      "link": "https://www.themat.com/news/2026/may/13/pre-seeds-released-for-senior-men-s-freestyle-at-senior-world-team-trials-challenge-tournament"
-    },
-    {
-      "title": "Potential cause of death revealed after NBA player dies at 29 - PennLive.com",
-      "link": "https://www.pennlive.com/sports/2026/05/potential-cause-of-death-revealed-after-nba-player-dies-at-29.html"
+      "title": "Report: Seahawks will host Patriots to start the season - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-seahawks-will-host-patriots-to-start-the-season"
     }
   ],
   "weather": {
