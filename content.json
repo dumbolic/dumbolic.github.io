@@ -1,9 +1,9 @@
 {
-  "quote": "We are willing to believe anything other than the truth. \u2013 Carlos Ruiz Zafon",
-  "fact": "The odds of being born male are about 51.2%, according to census.",
-  "crypto": "BTC: $80,500 | ETH: $2,255.7",
+  "quote": "One loyal friend is worth ten thousand relatives. \u2013 Euripides",
+  "fact": "Every acre of American crops harvested contains 100 pounds of insects.",
+  "crypto": "BTC: $80,462 | ETH: $2,253.99",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a fake noodle? An impasta.",
+  "joke": "The other day I was listening to a song about superglue, it\u2019s been stuck in my head ever since.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/"
+    },
+    {
+      "title": "Why Apple is Putting Cameras in the New AirPods Pro 4 (Ultra) - Geeky Gadgets",
+      "link": "https://www.geeky-gadgets.com/why-airpods-pro-have-cameras/"
+    },
+    {
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/"
+    },
+    {
       "title": "5 Virtual Boy games added to Nintendo Classics - My Nintendo News",
       "link": "https://mynintendonews.com/2026/05/14/5-virtual-boy-games-added-to-nintendo-classics/"
+    },
+    {
+      "title": "Microsoft\u2019s multi-agent AI system tops Anthropic\u2019s Mythos on cybersecurity benchmark - GeekWire",
+      "link": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/"
+    },
+    {
+      "title": "Apple counters US smartphone decline as iPhone sales grow: report - 9to5Mac",
+      "link": "https://9to5mac.com/2026/05/13/apple-counters-us-smartphone-decline-as-iphone-sales-grow-report/"
     },
     {
       "title": "ChatGPT Gave Out My Address and Phone Number - Gizmodo",
@@ -24,16 +44,12 @@
       "link": "https://9to5mac.com/2026/05/13/apple-warns-eu-against-forcing-google-to-open-android-to-ai-rivals/"
     },
     {
-      "title": "Microsoft\u2019s Edge Copilot update uses AI to pull information from across your tabs - The Verge",
-      "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"
-    },
-    {
-      "title": "Android rolling out AI-powered \u2018Contextual suggestions\u2019 that learn from your habits - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwcUlNNm43dWF0bXV6Zlh0dnBuRU91ckJlVFBXTmJIcUhqZVhHU0lGcHBxcUR5aXlHM1FLbWVpWkM4ejNyZVVQWHdLN2RPZThvMzI1RzRxMHJFTnN4SDhWNEp3OGpoc0YwOElINVIwOEdhTnc?oc=5"
-    },
-    {
       "title": "Assassin's Creed Black Flag Resynced: Ubisoft Launches Real-Life $500,000 Treasure Hunt, But You Have To Pay To Participate - Game Informer",
       "link": "https://gameinformer.com/2026/05/13/assassins-creed-black-flag-resynced-ubisoft-launches-real-life-500000-treasure-hunt-but"
+    },
+    {
+      "title": "Round Up: Mina The Hollower Gets Glowing Comparisons To Zelda & Soulsborne In Final Previews - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/05/round-up-mina-the-hollower-gets-glowing-comparisons-to-zelda-and-soulsborne-in-final-previews"
     },
     {
       "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too - The Verge",
@@ -52,6 +68,10 @@
       "link": "https://www.windowscentral.com/gaming/forza/start-your-engines-xboxs-forza-horizon-6-release-dates-launch-times-and-early-access-is-upon-us"
     },
     {
+      "title": "Overview of New Features and Fixes: The Sims 4 May Patch Test - Sims Community",
+      "link": "https://simscommunity.info/2026/05/13/sims-4-may-patch-overview-features/"
+    },
+    {
       "title": "Embark Studios is \u201cBuilding for the Long-Term\u201d by Cutting ARC Raiders Updates Down to Twice a Year for \u201cMore Impactful\u201d Releases - Wccftech",
       "link": "https://wccftech.com/arc-raiders-embark-studios-building-for-long-term-major-changes/"
     },
@@ -66,33 +86,21 @@
     {
       "title": "\u2018Gemini Intelligence\u2019 reportedly launching with Galaxy Z Fold 8, Flip 8 - 9to5Google",
       "link": "http://9to5google.com/2026/05/13/samsung-gemini-intelligence-report/"
-    },
-    {
-      "title": "Indiana Jones and the Great Circle Nintendo Switch 2 tech analysis, including frame rate and resolution - Nintendo Everything",
-      "link": "https://nintendoeverything.com/indiana-jones-and-the-great-circle-nintendo-switch-2-tech-analysis-including-frame-rate-and-resolution/"
-    },
-    {
-      "title": "Windows Update is getting better at saving your PC from buggy drivers - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/"
-    },
-    {
-      "title": "Apple Explores Ways to Welcome AI Agents in the App Store - The Information",
-      "link": "https://www.theinformation.com/articles/apple-explores-ways-welcome-ai-agents-app-store"
-    },
-    {
-      "title": "PlayStation Plus Extra/Premium Games For May 2026 Revealed - GameSpot",
-      "link": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-may-2026-revealed/1100-6539910/"
-    },
-    {
-      "title": "Major cybersecurity firm says new AI models uncovered 7x more flaws - Axios",
-      "link": "https://www.axios.com/2026/05/13/palo-alto-networks-mythos-gpt-cybersecurity"
-    },
-    {
-      "title": "Google on its \u2018continued commitment to Chromebooks\u2019 after Googlebooks - 9to5Google",
-      "link": "http://9to5google.com/2026/05/13/google-on-its-continued-commitment-to-chromebooks-after-googlebook/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Report: Panthers will host the Bears in Week 1 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-panthers-will-host-the-bears-in-week-1"
+    },
+    {
+      "title": "Schedule leak: Lions\u2019 Week 18 opponent revealed - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-schedule/164371/2026-detroit-lions-schedule-leak-season-finale-opponent-revealed"
+    },
+    {
+      "title": "Three (for) Sheets: Padres slugger\u2019s ninth-inning homer secures latest improbable win - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2026/05/13/three-for-sheets-padres-leftys-ninth-inning-homer-secures-latest-improbable-win/"
+    },
     {
       "title": "Player Grades: Cavs vs Pistons Game 5 - Max Strus goes nuclear - Fear The Sword",
       "link": "https://www.fearthesword.com/cavs-analysis/49393/player-grades-cavs-vs-pistons-game-5-max-strus-goes-nuclear"
@@ -102,24 +110,28 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/175537/eagles-schedule-leaks-two-primetime-games-revealed"
     },
     {
+      "title": "White Sox 6, Royals 5: Finally .500 - Sox Machine",
+      "link": "https://soxmachine.com/2026/05/white-sox-6-royals-5-finally-500"
+    },
+    {
       "title": "Adam Silver Explains New NBA Draft Lottery Format, Says League Has Authority to Change Odds - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25427657-adam-silver-explains-new-nba-draft-lottery-format-says-league-has-authority-change-odds"
     },
     {
-      "title": "OG Anunoby takes key step for Knicks in hamstring injury recovery - New York Post",
-      "link": "https://nypost.com/2026/05/13/sports/og-anunoby-takes-key-step-for-knicks-in-hamstring-strain-recovery/"
+      "title": "Fan at White Sox game hospitalized after fall into visiting bullpen - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/48764264/fan-white-sox-game-hospitalized-fall-visiting-bullpen"
+    },
+    {
+      "title": "Tracking the Steelers schedule release rumors - Behind the Steel Curtain",
+      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-schedule/170767/nfl-schedule-release-2026-steelers-rumors"
     },
     {
       "title": "WNBA, NBA approve Sun sale to Fertitta, relocation to Houston - ESPN",
       "link": "https://www.espn.com/wnba/story/_/id/48763788/wnba-nba-approve-sun-sale-fertitta-relocation-houston"
     },
     {
-      "title": "Foreign ticket holders from World Cup qualifying countries won't have to pay bonds to enter US - AP News",
-      "link": "https://apnews.com/article/trump-world-cup-visa-bonds-a3a165fb5c2d215c5cd237d7a2e783ad"
-    },
-    {
-      "title": "Dolphins, RB De\u2019Von Achane agree to four-year extension - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-rb-devon-achane-agree-to-four-year-extension"
+      "title": "Dolphins make De'Von Achane the face of the franchise with massive extension - Phin Phanatic",
+      "link": "https://phinphanatic.com/miami-dolphins-make-de-von-achane-the-face-of-the-franchise-with-massive-extension-01krhvyrdm52"
     },
     {
       "title": "Alvaro Cortes reveals what Hansi Flick told him before Barcelona debut - Barca Blaugranes",
@@ -130,44 +142,32 @@
       "link": "https://bleacherreport.com/articles/25427014-winners-and-losers-2026-nba-combine-measurements-and-scrimmages"
     },
     {
-      "title": "Report: Seahawks will host Patriots to start the season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-seahawks-will-host-patriots-to-start-the-season"
-    },
-    {
-      "title": "John Morgan says Rays are headed to Orlando if Tampa stadium deal fails - Tampa Bay Times",
-      "link": "https://www.tampabay.com/sports/rays/2026/05/13/john-morgan-orlando-dreamers-mlb-stadium-desantis/"
+      "title": "Nick Wright calls out NBC for treating Game 5 broadcast as Victor Wembanyama\u2019s \u2018redemption\u2019 - Awful Announcing",
+      "link": "https://awfulannouncing.com/nba/nick-wright-calls-out-nbc-broadcast-victor-wembanyama-redemption.html"
     },
     {
       "title": "What the latest NBA mock drafts are predicting for the Utah Jazz, AJ Dybantsa and Richie Saunders - Deseret News",
       "link": "https://www.deseret.com/sports/2026/05/13/nba-mock-drafts-post-lottery-utah-jazz-aj-dybantsa-richie-saunders/"
     },
     {
-      "title": "From Jayden Daniels to Joe Flacco: 'Quarterback' reveals Season 3 cast - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48762714/netflix-quarterback-season-3-jayden-daniel-joe-flacco-cam-ward-baker-mayfield"
-    },
-    {
-      "title": "For \u2018Ted Lasso\u2019 Star, Football Is \u2014 Now Really \u2014 Life! - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/tv/tv-news/ted-lasso-cristo-fernandez-professional-soccer-team-1236595273/"
+      "title": "Mark your calendars! Seahawks to rematch Patriots in NFL Kickoff 2026 game - Field Gulls",
+      "link": "https://www.fieldgulls.com/nfl-schedule/168082/seattle-seahawks-2026-schedule-vs-patriots-nfl-kickoff-game-super-bowl-rematch"
     },
     {
       "title": "Lakers Notes: LeBron, Reaves, Doncic, Front Office - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2026/05/lakers-notes-lebron-reaves-doncic-front-office.html"
     },
     {
+      "title": "Report: Lions to host Bears on Thanksgiving - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lions-to-host-bears-on-thanksgiving"
+    },
+    {
+      "title": "Pre-Seeds Released for Senior Men\u2019s Freestyle at Senior World Team Trials Challenge Tournament - USA Wrestling",
+      "link": "https://www.themat.com/news/2026/may/13/pre-seeds-released-for-senior-men-s-freestyle-at-senior-world-team-trials-challenge-tournament"
+    },
+    {
       "title": "Potential cause of death revealed after NBA player dies at 29 - PennLive.com",
       "link": "https://www.pennlive.com/sports/2026/05/potential-cause-of-death-revealed-after-nba-player-dies-at-29.html"
-    },
-    {
-      "title": "Netflix, NFL extend current deal through 2029-30 season - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-nfl-extend-current-deal-through-2029-30-season"
-    },
-    {
-      "title": "Best Bets at Aronimink - PGA Championship",
-      "link": "https://www.pgachampionship.com/news-media/articles/2026-pga-championship-best-bets-at-aronimink"
-    },
-    {
-      "title": "Wednesday Waypoint: Chiefs get advantage with early matchup vs. Broncos - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-discussions/202158/wednesday-waypoint-chiefs-advantage-early-matchup-broncos"
     }
   ],
   "weather": {
