@@ -1,9 +1,9 @@
 {
-  "quote": "No matter what happens, always be yourself. \u2013 Dale Carnegie",
-  "fact": "No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.",
-  "crypto": "BTC: $78,148 | ETH: $2,179.49",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
+  "quote": "We are willing to believe anything other than the truth. \u2013 Carlos Ruiz Zafon",
+  "fact": "More people speak English in China than the United States.",
+  "crypto": "BTC: $78,195 | ETH: $2,180.93",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Microsoft Stock (NASDAQ:MSFT) Jumps as Microsoft Plans to Roll Back Faulty Drivers - TipRanks",
-      "link": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-jumps-as-microsoft-plans-to-roll-back-faulty-drivers"
+      "title": "Windows BitLocker 0-Day Vulnerability Enables Access to Encrypted Drives - CyberSecurityNews",
+      "link": "https://cybersecuritynews.com/windows-bitlocker-0-day-vulnerability/"
     },
     {
-      "title": "PS5 Now Tells You Exactly How Many People Play GTA 5 - Kotaku",
-      "link": "https://kotaku.com/it-looks-like-sony-is-bringing-steam-charts-to-ps5-sorta-2000696556"
+      "title": "Xbox is now XBOX - The Verge",
+      "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps"
+    },
+    {
+      "title": "Nintendo president hints they\u2019re preparing to continue support for original Switch - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/05/15/nintendo-president-hints-theyre-preparing-to-continue-support-for-original-switch/"
+    },
+    {
+      "title": "One Diablo 4 Bug Fix Just Completely Shifted The Game's Meta - Kotaku",
+      "link": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580"
+    },
+    {
+      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu - The Verge",
+      "link": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button"
+    },
+    {
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch",
+      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/"
+    },
+    {
+      "title": "The Analogue 3D is finally getting save states - The Verge",
+      "link": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state"
+    },
+    {
+      "title": "Apple will launch 15+ new products this fall, here\u2019s what\u2019s coming - 9to5Mac",
+      "link": "https://9to5mac.com/2026/05/15/apple-will-launch-15-new-products-this-fall-heres-whats-coming/"
     },
     {
       "title": "Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google",
       "link": "http://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/"
+    },
+    {
+      "title": "The biggest iPhone Ultra mystery left to sway my upgrade decision - 9to5Mac",
+      "link": "https://9to5mac.com/2026/05/15/the-biggest-iphone-ultra-mystery-left-to-sway-my-upgrade-decision/"
     },
     {
       "title": "Forza Horizon 6 Makes Cherry Blossom Trees and Shrines Indestructible \u2014 Here's Why - IGN",
@@ -32,12 +60,16 @@
       "link": "https://www.nintendolife.com/news/2026/05/yoshi-and-the-mysterious-book-charms-and-delights-with-new-trailer"
     },
     {
+      "title": "Bill to block publishers from killing online games advances in California - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/"
+    },
+    {
       "title": "Google sidles up to unsuspecting users, asks for their number - The Register",
       "link": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280"
     },
     {
-      "title": "Upcoming Apple Card promo will basically give you free AirPods Pro 3 - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/15/upcoming-apple-card-promo-will-basically-give-you-free-airpods-pro-3/"
+      "title": "Apple Card Promo to Offer Free AirPods Pro 3 - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/15/apple-card-promo-free-airpods-pro-3/"
     },
     {
       "title": "Subnautica 2 Early Access Roadmap - Unknown Worlds",
@@ -48,50 +80,78 @@
       "link": "https://www.sonyalpharumors.com/cined-tested-the-sony-a7rvi-highest-dr-ever-tested-with-a-caveat-and-promising-prospects-for-the-a7siv/"
     },
     {
+      "title": "Meta braces for Android XR, opens Ray-Ban Display glasses to third-party apps - 9to5Google",
+      "link": "http://9to5google.com/2026/05/15/meta-ray-ban-display-glasses-third-party-apps/"
+    },
+    {
+      "title": "PS5 Will Reveal the Most Played Games with Steam-Like Player Numbers - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/05/ps5-will-reveal-the-most-played-games-with-steam-like-player-numbers"
+    },
+    {
       "title": "Googlebook finally delivers a true desktop with app icons and widgets to Google\u2019s laptops - Chrome Unboxed",
       "link": "https://chromeunboxed.com/googlebook-finally-delivers-a-true-desktop-with-app-icons-and-widgets-to-googles-laptops/"
-    },
-    {
-      "title": "Five Xbox Games Are Set To Be Delisted In May & June 2026 - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/05/five-xbox-games-are-set-to-be-delisted-in-may-and-june-2026"
-    },
-    {
-      "title": "14 Cool Mini Gadgets You Can Find On Amazon - bgr.com",
-      "link": "https://www.bgr.com/2169193/cool-mini-gadgets-you-can-find-on-amazon/"
-    },
-    {
-      "title": "Fitbit 4.69 rolls out with redesign of focus stats and logging - 9to5Google",
-      "link": "http://9to5google.com/2026/05/15/fitbit-4-69/"
-    },
-    {
-      "title": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down - Eurogamer",
-      "link": "https://www.eurogamer.net/bioware-swtor-old-republic-reboot-ohlen"
-    },
-    {
-      "title": "\u2018Marathon\u2019 Is Pulling The PvE Trigger In Season 2, A Sign Of Things To Come - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/05/15/marathon-is-pulling-the-pve-trigger-in-season-2-a-sign-of-things-to-come/"
-    },
-    {
-      "title": "One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen"
-    },
-    {
-      "title": "ASUS Reinvents Its 2006 Crosshair Motherboard For ROG\u2019s 20th Anniversary, Wrapping AM5 And X870E In Full Copper Retro Glory - Wccftech",
-      "link": "https://wccftech.com/asus-reinvents-its-2006-crosshair-motherboard-for-rog-20th-anniversary-wrapping-am5-x870e-in-full-copper-retro-glory/"
-    },
-    {
-      "title": "California bill pushing to keep games playable after server shutdowns passes key hurdle, paving way for full assembly vote - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-passes-key-hurdle-paving-way-for-full-assembly-vote"
-    },
-    {
-      "title": "Long-awaited Xbox Elite Series 3 controller leaks in photos from Brazilian government body - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/05/long-awaited-xbox-elite-series-3-controller-leaks-in-photos-from-brazilian-government-body"
     }
   ],
   "sports_news": [
     {
+      "title": "Report: Josh Mauro died of accidental drug overdose - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-josh-mauro-died-of-accidental-drug-overdose"
+    },
+    {
+      "title": "PGA Championship leaderboard, Round 2 updates: Maverick McNealy, Alex Smalley pull ahead as Scottie Scheffler hangs on - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/live/pga-championship-leaderboard-round-2-updates-scottie-scheffler-at-the-top-as-rory-mcilroy-struggles-early-at-aronimink-103000676.html"
+    },
+    {
+      "title": "Dodgers To Place Blake Snell On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/dodgers-to-place-blake-snell-on-injured-list.html"
+    },
+    {
+      "title": "Rays, local leaders celebrate \u2018first step\u2019 in stadium deal talks - Tampa Bay Times",
+      "link": "https://www.tampabay.com/news/hillsborough/2026/05/15/rays-celebrate-non-binding-memorandum-understanding/"
+    },
+    {
+      "title": "Italian Open: Jannik Sinner leading Daniil Medvedev before semi-final postponed because of rain - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/cqxpz2g709po"
+    },
+    {
+      "title": "The NFL isn\u2019t doing the Jets any favors with their schedule - New York Post",
+      "link": "https://nypost.com/2026/05/15/sports/the-nfl-isnt-doing-the-jets-any-favors-with-their-schedule/"
+    },
+    {
+      "title": "Jordan Westburg To Undergo Season-Ending Elbow Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/jordan-westburg-to-undergo-season-ending-elbow-surgery.html"
+    },
+    {
+      "title": "NHL strips Vegas Golden Knights of 2026 second-round pick and fines John Tortorella after team commits \u2018flagrant violation\u2019 of media policy - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/05/15/vegas-golden-knights-nhl-sanctions-second-round-pick-fine-john-tortorella-media-policy/"
+    },
+    {
+      "title": "Trevor Lawrence didn\u2019t get a schedule-release haircut - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-didnt-get-a-schedule-release-haircut"
+    },
+    {
+      "title": "Suspect arrested in shooting of Missouri RB Ahmad Hardy - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/48780471/suspect-arrested-shooting-missouri-rb-ahmad-hardy"
+    },
+    {
+      "title": "Patrick Mahomes is back playing golf - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-is-back-playing-golf"
+    },
+    {
       "title": "Yankees Place Max Fried On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/05/max-fried-injured-list-bone-bruise-elbow-yankees.html"
+    },
+    {
+      "title": "2026 NFL schedule: Execs discuss weekday openers, 49ers' travel, prime-time shutouts, rest disparity - NFL.com",
+      "link": "https://www.nfl.com/news/2026-nfl-schedule-weekday-openers-49ers-travel-mendoza-prime-time-rest-disparity"
+    },
+    {
+      "title": "Charles Woodson Jr. Commits to Michigan, Son of Legendary Wolverines Heisman Trophy Winner - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25428474-charles-woodson-jr-commits-michigan-son-legendary-wolverines-heisman-trophy-winner"
+    },
+    {
+      "title": "Gina Carano reveals she lost 100 pounds for Ronda Rousey fight on Netflix: 'It hurts to say that' - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/article/gina-carano-reveals-she-lost-100-pounds-for-ronda-rousey-fight-on-netflix-it-hurts-to-say-that-190934482.html"
     },
     {
       "title": "2026 Detroit Lions preseason schedule: 3 opponents announced - Pride Of Detroit",
@@ -102,72 +162,16 @@
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-allen-vs-costa-vegas-117"
     },
     {
-      "title": "Charles Woodson Jr. commits to the University of Michigan - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/charles-woodson-jr-commits-to-the-university-of-michigan"
-    },
-    {
-      "title": "2026 PGA Championship LIVE updates: Leaderboard, scores, results, highlights and news from Round 2 - Golf Channel",
-      "link": "https://www.golfchannel.com/pga-of-america/live/2026-pga-championship-live-updates-leaderboard-scores-results-highlights-and-news-from-round-2"
+      "title": "Pair of Incidents Mar Early Portion of Laurel Park Card - BloodHorse",
+      "link": "https://www.bloodhorse.com/horse-racing/articles/291880/pair-of-incidents-mar-early-portion-of-laurel-park-card"
     },
     {
       "title": "Pistons vs Cavaliers Predictions, Odds, Picks for NBA Playoffs Game 6 - Action Network",
       "link": "https://www.actionnetwork.com/nba/detroit-pistons-vs-cleveland-cavaliers-prediction-pick-odds-for-nba-playoffs-game-6"
     },
     {
-      "title": "It\u2019s Time for the NFL World to Move on From the Mike Vrabel\u2013Diana Russini Story - Sports Illustrated",
-      "link": "https://www.si.com/nfl/time-nfl-world-move-on-mike-vrabel-diana-russini"
-    },
-    {
-      "title": "Cooper Flagg, Duke's Arianna Roberson Confirm Relationship in New TikTok Video, Photo - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25428450-cooper-flagg-dukes-arianna-roberson-confirm-relationship-new-tiktok-video-photo"
-    },
-    {
-      "title": "The NFL is slowly killing the Sunday afternoon window - Awful Announcing",
-      "link": "https://awfulannouncing.com/nfl/cbs-fox-slowly-killing-sunday-afternoon-window.html"
-    },
-    {
-      "title": "Ronda Rousey vs. Gina Carano weigh-in video - MMA Fighting",
-      "link": "https://www.mmafighting.com/mvp-mma/488424/ronda-rousey-vs-gina-carano-weigh-in-video-mvp-mma"
-    },
-    {
-      "title": "2026 NFL schedule: Top 10 prime-time games - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-schedule-top-10-prime-time-games"
-    },
-    {
-      "title": "Beyond the Bylines: Pirates attendance; Steelers schedule release; Penguins offseason thoughts - TribLIVE.com",
-      "link": "https://triblive.com/sports/beyond-the-bylines-pirates-attendance-steelers-schedule-release-penguins-offseason-thoughts/"
-    },
-    {
-      "title": "Middlesbrough: Championship club calls for Southampton's expulsion from play-offs - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cwy2dg2w168o"
-    },
-    {
-      "title": "Video: Anatoly Malykhin regains ONE title with revenge knockout of Reug Reug, sparks post-fight brawl - MMA Fighting",
-      "link": "https://www.mmafighting.com/one/488405/video-anatoly-malykhin-regains-one-title-with-revenge-knockout-of-reug-reug-sparks-post-fight-brawl"
-    },
-    {
-      "title": "Ohio State Football Honors Past, Embraces Future via Comprehensive Uniform Evolution and Stadium Turf Modernization - Ohio State | Official Athletics Website",
-      "link": "https://ohiostatebuckeyes.com/news/2026/5/15/ohio-state-football-honors-past-embraces-future-via-comprehensive-uniform-evolution-and-stadium-turf-modernization"
-    },
-    {
-      "title": "10 initial takeaways from the Bills 2026 schedule release - Buffalo Rumblings",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-schedule/134216/buffalo-bills-2026-schedule-10-initial-takeaways-primetime-josh-allen"
-    },
-    {
-      "title": "Late for Work: Pundits Predict Ravens' 2026 Record Following Schedule Release - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/ravens-record-prediction-schedule-takeaways-joe-burrow-primetime-mike-florio-mike-tomlin-lamar-jackson"
-    },
-    {
-      "title": "Friday Cheese Curds: The Packers\u2019 schedule is here and it\u2019s spectacular - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/82841/green-bay-packers-news-the-schedule-is-here-and-its-spectacular"
-    },
-    {
-      "title": "Five takeaways from Josh Harris and Bob Myers' press conference following Daryl Morey's departure - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-josh-harris-press-conference-daryl-morey-bob-myers-hbse-search-executive-nba-rumors/"
-    },
-    {
-      "title": "Eagles News: Philadelphia among \u201cwinners\u201d of the 2026 NFL schedule release - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/175679/eagles-news-philadelphia-among-winners-of-the-2026-nfl-schedule-release"
+      "title": "CBS Is Down On Bucs\u2019 Start, Maybe Their Whole Season - JoeBucsFan.com",
+      "link": "https://www.joebucsfan.com/2026/05/cbs-doesnt-seem-to-think-bucs-start-season-well-or-maybe-even-the-whole-season/"
     }
   ],
   "weather": {
