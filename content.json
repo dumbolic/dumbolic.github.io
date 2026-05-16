@@ -1,9 +1,9 @@
 {
-  "quote": "A zen master's life is one continuous mistake. \u2013 Dogen",
-  "fact": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
-  "crypto": "BTC: $78,074 | ETH: $2,173.85",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Who is the coolest Doctor in the hospital? The hip Doctor!",
+  "quote": "Go confidently in the direction of your dreams! Live the life you've imagined. \u2013 Henry David Thoreau",
+  "fact": "2,000 pounds of space dust and other space debris fall on the Earth every day.",
+  "crypto": "BTC: $78,009 | ETH: $2,176.78",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I got fired from a florist, apparently I took too many leaves.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come"
+    },
+    {
       "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably - CNET",
       "link": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/"
     },
     {
-      "title": "Marathon Reveals New PVE Mode and Big Plans for the Future - IGN",
-      "link": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future"
+      "title": "Google starts rolling out QR code-based Quick Share transfers between Android and iPhone - Android Authority",
+      "link": "https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/"
+    },
+    {
+      "title": "Linux's Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users - Phoronix",
+      "link": "https://www.phoronix.com/news/Linux-ssh-keysign-pwn"
+    },
+    {
+      "title": "Apple's iPhone 18 Modem Switch Comes With a Quiet Privacy Benefit - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/14/iphone-18-pro-modem-benefits/"
+    },
+    {
+      "title": "Dell releases new 16-inch laptop globally with 120 Hz OLED display and Intel Panther Lake - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-120-Hz-OLED-display-and-Intel-Panther-Lake.1297377.0.html"
+    },
+    {
+      "title": "Xbox Elite Series 3 Controller Leaks With Highly Customizable Design and New Controls - TechPowerUp",
+      "link": "https://www.techpowerup.com/349062/xbox-elite-series-3-controller-leaks-with-highly-customizable-design-and-new-controls"
     },
     {
       "title": "BioWare Veteran Says New Sci-Fi RPG Exodus Nearly Killed Him - Kotaku",
@@ -32,8 +52,12 @@
       "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"
     },
     {
-      "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/"
+      "title": "OpenAI says Codex is coming to your phone - TechCrunch",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
+    },
+    {
+      "title": "Marathon Lays Out An Ambitious Blueprint To Save Its Future - Kotaku",
+      "link": "https://kotaku.com/marathon-reveals-an-ambitious-blueprint-for-making-it-a-game-more-people-want-to-play-2000696161"
     },
     {
       "title": "Raid Boss 2 details - Borderlands | Official Website",
@@ -56,10 +80,6 @@
       "link": "http://9to5google.com/2026/05/14/android-canary-2605/"
     },
     {
-      "title": "Sea of Thieves drama explained as prominent creator banned over serious allegations - Dexerto",
-      "link": "https://www.dexerto.com/sea-of-thieves/sea-of-thieves-drama-explained-as-prominent-creator-banned-over-serious-allegations-3364864/"
-    },
-    {
       "title": "Subnautica 2 Lures In Nearly Half a Million Concurrent Players on Steam Within First Hour of Release - IGN",
       "link": "https://www.ign.com/articles/subnautica-2-lures-in-nearly-half-a-million-concurrent-players-on-steam-within-first-hour-of-release"
     },
@@ -70,36 +90,20 @@
     {
       "title": "Moss: The Forgotten Relic announced for Nintendo Switch 2, Switch - Nintendo Everything",
       "link": "https://nintendoeverything.com/moss-the-forgotten-relic-announced-for-nintendo-switch-2-switch/"
-    },
-    {
-      "title": "Google\u2019s Fitbit Air is super comfortable, but its AI coach is already hallucinating - 9to5Google",
-      "link": "http://9to5google.com/2026/05/14/google-fitbit-air-initial-impressions/"
-    },
-    {
-      "title": "Photos of Microsoft's Xbox Cloud Gaming Controller Have Leaked Online Via Brazil - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/05/photos-of-microsofts-xbox-cloud-gaming-controller-have-leaked-online-via-brazil"
-    },
-    {
-      "title": "Nintendo Switch Online adds five more Classics for May - Eurogamer",
-      "link": "https://www.eurogamer.net/nintendo-switch-online-classics-may"
-    },
-    {
-      "title": "Order Of The Sinking Star, From Braid Creator Jonathan Blow, Is Coming To Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/05/order-of-the-sinking-star-from-braid-creator-jonathan-blow-is-coming-to-switch-2"
-    },
-    {
-      "title": "Ancient 20-foot sea predator survived devastating injuries by changing how it ate - Yahoo",
-      "link": "https://www.yahoo.com/news/articles/ancient-20-foot-sea-predator-160000391.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Panthers get more national notice: The 2026 NFL schedule is out - Carolina Panthers",
-      "link": "https://www.panthers.com/news/panthers-get-more-national-notice-the-2026-nfl-schedule-is-out-prime-time-home-opener"
+      "title": "PGA Championship: Jon Rahm apologizes after hitting volunteer in the face with a divot during opening round - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/article/pga-championship-jon-rahm-apologizes-after-hitting-volunteer-in-the-face-with-a-divot-during-opening-round-210515370.html"
     },
     {
-      "title": "Instant predictions for Seahawks\u2019 2026 slate - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-schedule/168078/seahawks-schedule-2026-instant-predictions-picks"
+      "title": "2026 NFL schedule release: How do travel, rest, prime time and outdoor games impact teams? - NFL.com",
+      "link": "https://www.nfl.com/news/2026-nfl-schedule-release-how-do-travel-rest-prime-time-and-outdoor-games-impact-teams"
+    },
+    {
+      "title": "Panthers get more national notice: The 2026 NFL schedule is out - Carolina Panthers",
+      "link": "https://www.panthers.com/news/panthers-get-more-national-notice-the-2026-nfl-schedule-is-out-prime-time-home-opener"
     },
     {
       "title": "Trevor Lawrence gets haircut in Jaguars\u2019 schedule-release video - NBC Sports",
@@ -114,20 +118,24 @@
       "link": "https://www.libertyballers.com/76ers-news/93455/5-takeaways-sixers-bob-myers-josh-harris-presser"
     },
     {
-      "title": "2026 NFL schedule: Cowboys, Seahawks among 5 teams facing toughest slates - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-schedule-cowboys-seahawks-among-5-teams-facing-toughest-slates"
+      "title": "5 takeaways from the Raiders' 2026 schedule - Raiders.com",
+      "link": "https://www.raiders.com/news/5-takeaways-from-the-raiders-2026-schedule-release-nfl"
     },
     {
-      "title": "Despite Patrick Mahomes\u2019 injury, Chiefs have six scheduled primetime games in 2026 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-patrick-mahomes-injury-chiefs-have-six-scheduled-primetime-games-in-2026"
+      "title": "Scottie Scheffler part of 7-way tie for the lead at PGA Championship - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-part-of-7-way-tie-for-the-lead-at-pga-championship"
     },
     {
       "title": "Top 5 matchups of the Browns' 2026 schedule | Schedule Release - Cleveland Browns",
       "link": "https://www.clevelandbrowns.com/news/top-5-matchups-of-the-browns-2026-schedule-schedule-release"
     },
     {
-      "title": "Instant game-by-game predictions for Commanders\u2019 2026 slate - Hogs Haven",
-      "link": "https://www.hogshaven.com/nfl-schedule/415054/nfl-schedule-commanders-2026-picks-predictions"
+      "title": "Instant predictions for Giants\u2019 17-game schedule - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-schedule/161888/giants-schedule-2026-picks-predictions-games"
+    },
+    {
+      "title": "Instant predictions for the Patriots\u2019 2026 schedule - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-schedule/128420/nfl-schedule-2026-patriots-games-picks-predictions"
     },
     {
       "title": "Minnesota Vikings schedule 2026: Takeaways, predictions - ESPN",
@@ -138,8 +146,8 @@
       "link": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48738127/los-angeles-chargers-nfl-schedule-2026-takeaways-predictions"
     },
     {
-      "title": "A game-by-game breakdown of the Raiders' 2026 schedule - Raiders.com",
-      "link": "https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium"
+      "title": "Broncos 2026 regular season schedule announced - Mile High Report",
+      "link": "https://www.milehighreport.com/denver-broncos-schedule/177425/denver-broncos-2026-regular-season-schedule"
     },
     {
       "title": "Top 8 things to know about the Bills 2026 schedule - Buffalo Bills",
@@ -154,10 +162,6 @@
       "link": "https://www.buccaneers.com/news/nfl-schedule-2026-bucs-information-regular-season-opponents-preseason"
     },
     {
-      "title": "NFL announces Cowboys' 2026 complete 17-game schedule - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/nfl-announces-cowboys-2026-complete-17-game-schedule"
-    },
-    {
       "title": "Steelers release 2026 schedule - Steelers.com",
       "link": "https://www.steelers.com/news/steelers-release-2026-schedule"
     },
@@ -168,10 +172,6 @@
     {
       "title": "TWENTYMAN: Breaking down the Lions' 2026 schedule - Detroit Lions",
       "link": "https://www.detroitlions.com/news/breaking-down-detroit-lions-2026-schedule-nfl"
-    },
-    {
-      "title": "Saints 2026 schedule presented by SeatGeek announced - New Orleans Saints | NewOrleansSaints.com",
-      "link": "https://www.neworleanssaints.com/news/saints-schedule-2026-nfl-season-opponents-matchups-key-dates"
     }
   ],
   "weather": {
