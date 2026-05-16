@@ -1,9 +1,9 @@
 {
-  "quote": "Not all those who wander are lost. \u2013 J.R.R. Tolkien",
-  "fact": "\"I am.\" is the shortest complete sentence in the English language.",
-  "crypto": "BTC: $78,036 | ETH: $2,175.41",
+  "quote": "We are all self-made, but only the successful will admit it. \u2013 Earl Nightingale",
+  "fact": "Cats urine glows under a black light.",
+  "crypto": "BTC: $77,930 | ETH: $2,175.36",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I knew a guy who collected candy canes, they were all in mint condition",
+  "joke": "Some people eat light bulbs. They say it's a nice light snack.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The perfect commuter bike? Velotric\u2019s Discover 3 makes its case. - Ars Technica",
+      "link": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/"
+    },
+    {
+      "title": "Xbox achievements on PC finally feel special after latest app update - TrueAchievements",
+      "link": "https://www.trueachievements.com/news/xbox-achievements-pc-update"
+    },
+    {
       "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
       "link": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come"
     },
     {
-      "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/"
+      "title": "Subnautica 2 already has huge concurrent player counts and has swum to 2 million sales, smashing genre records - Eurogamer",
+      "link": "https://www.eurogamer.net/subnautica-2-sales-launch-one-million"
     },
     {
-      "title": "Google starts rolling out QR code-based Quick Share transfers between Android and iPhone - Android Authority",
-      "link": "https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/"
+      "title": "ASUS announces T1 editions of GeForce RTX 5070 and RTX 5060 Ti cards - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-announces-t1-editions-of-geforce-rtx-5070-and-rtx-5060-ti-cards"
+    },
+    {
+      "title": "Google explains why some new Gmail accounts only get 5GB storage - Android Authority",
+      "link": "https://www.androidauthority.com/google-free-15gb-gmail-storage-ending-explanation-3667360/"
     },
     {
       "title": "Linux's Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users - Phoronix",
@@ -34,6 +46,10 @@
     {
       "title": "Dell releases new 16-inch laptop globally with 120 Hz OLED display and Intel Panther Lake - Notebookcheck",
       "link": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-120-Hz-OLED-display-and-Intel-Panther-Lake.1297377.0.html"
+    },
+    {
+      "title": "Marathon Reveals New PVE Mode and Big Plans for the Future - IGN",
+      "link": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future"
     },
     {
       "title": "Xbox Elite Series 3 Controller Leaks With Highly Customizable Design and New Controls - TechPowerUp",
@@ -56,12 +72,12 @@
       "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
     },
     {
-      "title": "Marathon Lays Out An Ambitious Blueprint To Save Its Future - Kotaku",
-      "link": "https://kotaku.com/marathon-reveals-an-ambitious-blueprint-for-making-it-a-game-more-people-want-to-play-2000696161"
-    },
-    {
       "title": "Raid Boss 2 details - Borderlands | Official Website",
       "link": "https://borderlands.2k.com/borderlands-4/news/subjugator-and-thol-details-loot/"
+    },
+    {
+      "title": "Beloved Party Game Gets Review-Bombed Over AI Video Contest - Kotaku",
+      "link": "https://kotaku.com/devs-behind-beloved-party-game-rush-to-apologize-after-getting-review-bombed-over-ai-video-contest-ah-hell-nah-2000696146"
     },
     {
       "title": "Google launches a gorgeous new landing page for the upcoming Googlebook - Chrome Unboxed",
@@ -70,32 +86,20 @@
     {
       "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/"
-    },
-    {
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections - Ars Technica",
-      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/"
-    },
-    {
-      "title": "Android Canary 2605 brings the blur to Pixel system UI - 9to5Google",
-      "link": "http://9to5google.com/2026/05/14/android-canary-2605/"
-    },
-    {
-      "title": "Subnautica 2 Lures In Nearly Half a Million Concurrent Players on Steam Within First Hour of Release - IGN",
-      "link": "https://www.ign.com/articles/subnautica-2-lures-in-nearly-half-a-million-concurrent-players-on-steam-within-first-hour-of-release"
-    },
-    {
-      "title": "Community Celebrations During Pok\u00e9mon GO Fest 2026: Global - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/community-celebrations-during-pokemon-go-fest-2026-global/"
-    },
-    {
-      "title": "Moss: The Forgotten Relic announced for Nintendo Switch 2, Switch - Nintendo Everything",
-      "link": "https://nintendoeverything.com/moss-the-forgotten-relic-announced-for-nintendo-switch-2-switch/"
     }
   ],
   "sports_news": [
     {
+      "title": "5 things to hate about Lions 2026 schedule - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-schedule/164517/6-things-hate-2026-detroit-lions-schedule-nfl"
+    },
+    {
       "title": "PGA Championship: Jon Rahm apologizes after hitting volunteer in the face with a divot during opening round - Yahoo Sports",
       "link": "https://sports.yahoo.com/golf/article/pga-championship-jon-rahm-apologizes-after-hitting-volunteer-in-the-face-with-a-divot-during-opening-round-210515370.html"
+    },
+    {
+      "title": "Rousey vs Carano: Ronda Rousey says Gina Carano fight will 'smash' pay record for women in combat sports - BBC",
+      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/clypl0g3j44o"
     },
     {
       "title": "2026 NFL schedule release: How do travel, rest, prime time and outdoor games impact teams? - NFL.com",
@@ -114,6 +118,10 @@
       "link": "https://www.cincyjungle.com/cincinnati-bengals-schedule/192154/2026-instant-game-score-predictions"
     },
     {
+      "title": "Bills\u2019 2026 NFL schedule release reveals plenty of challenges ahead - Buffalo Rumblings",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134155/buffalo-bills-nfl-schedule-release-2026"
+    },
+    {
       "title": "5 takeaways from the Bob Myers-Josh Harris presser - Liberty Ballers",
       "link": "https://www.libertyballers.com/76ers-news/93455/5-takeaways-sixers-bob-myers-josh-harris-presser"
     },
@@ -122,8 +130,12 @@
       "link": "https://www.raiders.com/news/5-takeaways-from-the-raiders-2026-schedule-release-nfl"
     },
     {
-      "title": "Scottie Scheffler part of 7-way tie for the lead at PGA Championship - NBC Sports",
-      "link": "https://www.nbcsports.com/golf/news/scottie-scheffler-part-of-7-way-tie-for-the-lead-at-pga-championship"
+      "title": "Despite Patrick Mahomes\u2019 injury, Chiefs have six scheduled primetime games in 2026 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-patrick-mahomes-injury-chiefs-have-six-scheduled-primetime-games-in-2026"
+    },
+    {
+      "title": "Rams tie all-time record with seven primetime games - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-tie-all-time-record-with-seven-primetime-games"
     },
     {
       "title": "Top 5 matchups of the Browns' 2026 schedule | Schedule Release - Cleveland Browns",
@@ -134,8 +146,8 @@
       "link": "https://www.bigblueview.com/new-york-giants-schedule/161888/giants-schedule-2026-picks-predictions-games"
     },
     {
-      "title": "Instant predictions for the Patriots\u2019 2026 schedule - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-schedule/128420/nfl-schedule-2026-patriots-games-picks-predictions"
+      "title": "Instant game-by-game predictions for Commanders\u2019 2026 slate - Hogs Haven",
+      "link": "https://www.hogshaven.com/nfl-schedule/415054/nfl-schedule-commanders-2026-picks-predictions"
     },
     {
       "title": "Minnesota Vikings schedule 2026: Takeaways, predictions - ESPN",
@@ -146,32 +158,16 @@
       "link": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48738127/los-angeles-chargers-nfl-schedule-2026-takeaways-predictions"
     },
     {
-      "title": "Broncos 2026 regular season schedule announced - Mile High Report",
-      "link": "https://www.milehighreport.com/denver-broncos-schedule/177425/denver-broncos-2026-regular-season-schedule"
+      "title": "NY Jets officially unveil 2026 schedule: Instant reactions - Jets X-Factor",
+      "link": "https://jetsxfactor.com/2026/05/14/ny-jets-officially-unveil-2026-schedule-instant-reactions/"
     },
     {
-      "title": "Top 8 things to know about the Bills 2026 schedule - Buffalo Bills",
-      "link": "https://www.buffalobills.com/news/top-8-things-to-know-about-the-bills-2026-schedule"
+      "title": "Eagles 2026 schedule: Looking at the pros and cons - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/175643/eagles-2026-schedule-looking-at-the-pros-and-cons"
     },
     {
       "title": "The official 2026 Chicago Bears schedule release and video - Windy City Gridiron",
       "link": "https://www.windycitygridiron.com/chicago-bears-news/116404/the-official-2026-chicago-bears-schedule-release-and-video"
-    },
-    {
-      "title": "Buccaneers' 2026 Schedule Revealed: Playoff Quest Starts in Cincinnati - Tampa Bay Buccaneers",
-      "link": "https://www.buccaneers.com/news/nfl-schedule-2026-bucs-information-regular-season-opponents-preseason"
-    },
-    {
-      "title": "Steelers release 2026 schedule - Steelers.com",
-      "link": "https://www.steelers.com/news/steelers-release-2026-schedule"
-    },
-    {
-      "title": "Five Takeaways From Ravens\u2019 2026 Schedule - Baltimore Ravens",
-      "link": "https://www.baltimoreravens.com/news/five-takeaways-ravens-schedule-release-2026-bills-primetime"
-    },
-    {
-      "title": "TWENTYMAN: Breaking down the Lions' 2026 schedule - Detroit Lions",
-      "link": "https://www.detroitlions.com/news/breaking-down-detroit-lions-2026-schedule-nfl"
     }
   ],
   "weather": {
