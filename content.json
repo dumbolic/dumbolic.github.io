@@ -1,9 +1,9 @@
 {
   "quote": "Where violence reigns, reason is weak. \u2013 Nicolas Chamfort",
-  "fact": "Americans are responsible for about 1/5 of the world\u2019s garbage annually.",
-  "crypto": "BTC: $79,058 | ETH: $2,227.51",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do prisoners use to call each other? Cell phones.",
+  "fact": "Icelanders consume more Coca-Cola per Capita than any other nation.",
+  "crypto": "BTC: $78,963 | ETH: $2,225.06",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What did the mountain climber name his son? Cliff.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Tomodachi Life: Living the Dream 1.0.2 update out now, patch notes - Nintendo Everything",
+      "link": "https://nintendoeverything.com/tomodachi-life-living-the-dream-1-0-2-update-out-now-patch-notes/"
+    },
+    {
       "title": "Yoshi And The Mysterious Book Game Engine Seemingly Revealed - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/05/yoshi-and-the-mysterious-book-game-engine-seemingly-revealed"
+    },
+    {
+      "title": "BioWare Veteran Says New Sci-Fi RPG Exodus Nearly Killed Him - Kotaku",
+      "link": "https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194"
     },
     {
       "title": "Sure Seems Like Subnautica 2\u2019s Developers Are Going To Get Their $250 Million Bonus - Aftermath",
@@ -44,16 +52,16 @@
       "link": "https://kotaku.com/sea-of-thieves-faces-an-exodus-of-content-creators-after-community-fallout-around-serious-sexual-misconduct-allegations-2000696113"
     },
     {
+      "title": "Android Canary 2605 brings the blur to Pixel system UI - 9to5Google",
+      "link": "http://9to5google.com/2026/05/14/android-canary-2605/"
+    },
+    {
       "title": "Subnautica 2 Lures In Nearly Half a Million Concurrent Players on Steam Within First Hour of Release - IGN",
       "link": "https://www.ign.com/articles/subnautica-2-lures-in-nearly-half-a-million-concurrent-players-on-steam-within-first-hour-of-release"
     },
     {
       "title": "Community Celebrations During Pok\u00e9mon GO Fest 2026: Global - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/news/community-celebrations-during-pokemon-go-fest-2026-global/"
-    },
-    {
-      "title": "Google\u2019s Fitbit Air is super comfortable, but its AI coach is already hallucinating - 9to5Google",
-      "link": "http://9to5google.com/2026/05/14/google-fitbit-air-initial-impressions/"
     },
     {
       "title": "Nintendo Switch Online adds five more Classics for May - Eurogamer",
@@ -66,10 +74,6 @@
     {
       "title": "Moss: The Forgotten Relic announced for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
       "link": "https://www.gematsu.com/2026/05/moss-the-forgotten-relic-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
-    },
-    {
-      "title": "Starfield Update 1.16.242 \u2013 May 14, 2026 - Bethesda.net",
-      "link": "https://bethesda.net/en/article/2HBTwuF9g9baAQkEud4WZ9/starfield-update-1-16-242-may-14-2026"
     },
     {
       "title": "Ancient 20-foot sea predator survived devastating injuries by changing how it ate - Yahoo",
@@ -86,28 +90,44 @@
     {
       "title": "Google is quietly turning Gemini into a productivity OS, and it's awesome - Android Police",
       "link": "https://www.androidpolice.com/google-is-quietly-turning-gemini-into-productivity-os/"
-    },
-    {
-      "title": "How to turn off Instagram\u2019s new Instants feature and retract photos you accidentally shared - TechCrunch",
-      "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/"
     }
   ],
   "sports_news": [
     {
-      "title": "Sources: Warriors assistants Stotts, Stackhouse won't return - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48774052/sources-warriors-assistants-stotts-stackhouse-return"
+      "title": "Analyzing all 17 of the Steelers' 2026 regular season games - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2026/05/14/nfl-schedule-release-2026-pittsburgh-afc-north/stories/202605140002"
+    },
+    {
+      "title": "2026 Dallas Cowboys schedule: See dates and times for all regular-season games - Dallas News",
+      "link": "https://www.dallasnews.com/sports/cowboys/article/dallas-cowboys-2026-schedule-dates-times-opponents-22259431.php"
+    },
+    {
+      "title": "Seahawks learn 2026 schedule, starting with Super Bowl rematch - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-learn-2026-schedule-starting-with-super-bowl-rematch/"
+    },
+    {
+      "title": "Game-by-game score predictions for the 2026 Bengals schedule - Cincy Jungle",
+      "link": "https://www.cincyjungle.com/cincinnati-bengals-schedule/192154/2026-instant-game-score-predictions"
+    },
+    {
+      "title": "Bills\u2019 2026 NFL schedule release reveals plenty of challenges ahead - Buffalo Rumblings",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134155/buffalo-bills-nfl-schedule-release-2026"
+    },
+    {
+      "title": "Chargers absolutely cook Vrabel-Russini scandal in schedule release video - New York Post",
+      "link": "https://nypost.com/2026/05/14/sports/chargers-mock-mike-vrabel-dianna-russini-in-viral-2026-schedule-release-video/"
     },
     {
       "title": "2026 NFL Schedule Release: Win-Loss Predictions, Analysis For Every Team - FOX Sports",
       "link": "https://www.foxsports.com/stories/nfl/2026-nfl-schedule-release-win-loss-predictions-analysis-every-team"
     },
     {
-      "title": "Monday Night Football 2026: Seahawks host Bears, Cowboys for marquee MNF matchups - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-2026-seahawks-host-bears-cowboys-for-marquee-mnf-matchups"
+      "title": "Despite Patrick Mahomes\u2019 injury, Chiefs have six scheduled primetime games in 2026 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-patrick-mahomes-injury-chiefs-have-six-scheduled-primetime-games-in-2026"
     },
     {
-      "title": "SCHEDULE - NFL.com",
-      "link": "https://www.nfl.com/schedules/2026/by-team"
+      "title": "Rams tie all-time record with seven primetime games - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-tie-all-time-record-with-seven-primetime-games"
     },
     {
       "title": "Minnesota Vikings schedule 2026: Takeaways, predictions - ESPN",
@@ -122,8 +142,8 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/175643/eagles-2026-schedule-looking-at-the-pros-and-cons"
     },
     {
-      "title": "Top 8 things to know about the Bills 2026 schedule - Buffalo Bills",
-      "link": "https://www.buffalobills.com/news/top-8-things-to-know-about-the-bills-2026-schedule"
+      "title": "The official 2026 Chicago Bears schedule release and video - Windy City Gridiron",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmxtcmVLQ01Gd1UyY0xCM2h6OTVGUHlHUlU5Sk5vV0IxdnA1TDhNUUdOeGlMRUdweVFNT2FaazFfT1pPS2hITmtTdnJudTdXX0g3SEJfYlFTMmRKR2VCQ2RmcEdOMUpaUlJVOEVaUkhveVlHdlI3S2JaemNJOF9GQUREa1NDOU1CeEdsVmpjRHNDMUZBeEx4bmhCYTRJdHo2NVVSaFFWRVpmaHR2SEdOQm13YWY0dkdnbXc?oc=5"
     },
     {
       "title": "Browns announce their 2026 preseason opponents - Cleveland Browns",
@@ -142,14 +162,6 @@
       "link": "https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium"
     },
     {
-      "title": "Steelers release 2026 schedule - Steelers.com",
-      "link": "https://www.steelers.com/news/steelers-release-2026-schedule"
-    },
-    {
-      "title": "NFL announces Cowboys' 2026 complete 17-game schedule - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://www.dallascowboys.com/news/nfl-announces-cowboys-2026-complete-17-game-schedule"
-    },
-    {
       "title": "Five Takeaways From Ravens\u2019 2026 Schedule - Baltimore Ravens",
       "link": "https://www.baltimoreravens.com/news/five-takeaways-ravens-schedule-release-2026-bills-primetime"
     },
@@ -158,20 +170,8 @@
       "link": "https://www.detroitlions.com/news/breaking-down-detroit-lions-2026-schedule-nfl"
     },
     {
-      "title": "2026 Cincinnati Bengals schedule released - Cincy Jungle",
-      "link": "https://www.cincyjungle.com/cincinnati-bengals-news/192151/2026-schedule-dates-times-locations-tv-channels"
-    },
-    {
-      "title": "Seahawks 2026 Schedule Features Six Primetime Games, Including Christmas at Lumen Field - Seattle Seahawks",
-      "link": "https://www.seahawks.com/news/seattle-seahawks-2026-schedule-release-features-six-primetime-games-including-christmas-at-lumen-field"
-    },
-    {
       "title": "Saints 2026 schedule presented by SeatGeek announced - New Orleans Saints | NewOrleansSaints.com",
       "link": "https://www.neworleanssaints.com/news/saints-schedule-2026-nfl-season-opponents-matchups-key-dates"
-    },
-    {
-      "title": "Conference Final schedule scenarios announced - NHL.com",
-      "link": "https://www.nhl.com/news/start-times-for-conference-final-scenarios-announced"
     }
   ],
   "weather": {
