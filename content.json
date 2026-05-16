@@ -1,9 +1,9 @@
 {
-  "quote": "No matter what happens, always be yourself. \u2013 Dale Carnegie",
-  "fact": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
-  "crypto": "BTC: $78,255 | ETH: $2,181.26",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
+  "quote": "Engage in those actions and thoughts that nurture the good qualities you want to have. \u2013 Paramahansa Yogananda",
+  "fact": "Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.",
+  "crypto": "BTC: $78,248 | ETH: $2,181.25",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Atheism is a non-prophet organisation.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Microsoft Stock (NASDAQ:MSFT) Jumps as Microsoft Plans to Roll Back Faulty Drivers - TipRanks",
+      "link": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-jumps-as-microsoft-plans-to-roll-back-faulty-drivers"
+    },
+    {
+      "title": "PS5 Now Tells You Exactly How Many People Play GTA 5 - Kotaku",
+      "link": "https://kotaku.com/it-looks-like-sony-is-bringing-steam-charts-to-ps5-sorta-2000696556"
+    },
+    {
       "title": "Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google",
       "link": "http://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/"
+    },
+    {
+      "title": "Forza Horizon 6 Makes Cherry Blossom Trees and Shrines Indestructible \u2014 Here's Why - IGN",
+      "link": "https://www.ign.com/articles/forza-horizon-6-dev-explains-why-shrines-temples-and-cherry-blossom-trees-are-indestructible"
+    },
+    {
+      "title": "Yoshi And The Mysterious Book Charms And Delights With New Trailer - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/05/yoshi-and-the-mysterious-book-charms-and-delights-with-new-trailer"
+    },
+    {
+      "title": "Google sidles up to unsuspecting users, asks for their number - The Register",
+      "link": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280"
     },
     {
       "title": "Upcoming Apple Card promo will basically give you free AirPods Pro 3 - 9to5Mac",
@@ -28,12 +48,12 @@
       "link": "https://www.sonyalpharumors.com/cined-tested-the-sony-a7rvi-highest-dr-ever-tested-with-a-caveat-and-promising-prospects-for-the-a7siv/"
     },
     {
-      "title": "PS5 Will Reveal the Most Played Games with Steam-Like Player Numbers - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/05/ps5-will-reveal-the-most-played-games-with-steam-like-player-numbers"
-    },
-    {
       "title": "Googlebook finally delivers a true desktop with app icons and widgets to Google\u2019s laptops - Chrome Unboxed",
       "link": "https://chromeunboxed.com/googlebook-finally-delivers-a-true-desktop-with-app-icons-and-widgets-to-googles-laptops/"
+    },
+    {
+      "title": "Five Xbox Games Are Set To Be Delisted In May & June 2026 - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/05/five-xbox-games-are-set-to-be-delisted-in-may-and-june-2026"
     },
     {
       "title": "14 Cool Mini Gadgets You Can Find On Amazon - bgr.com",
@@ -44,12 +64,12 @@
       "link": "http://9to5google.com/2026/05/15/fitbit-4-69/"
     },
     {
-      "title": "Marathon \"overwhelming\" for newcomers, director admits as plans for PvE and PvP-lite modes revealed - Eurogamer",
-      "link": "https://www.eurogamer.net/marathon-future-seasons-pve-pvp-lite"
+      "title": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down - Eurogamer",
+      "link": "https://www.eurogamer.net/bioware-swtor-old-republic-reboot-ohlen"
     },
     {
-      "title": "LEGO 2K Drive Is Being Delisted From Digital Storefronts Next Week - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/05/lego-2k-drive-is-being-delisted-from-digital-storefronts-next-week"
+      "title": "\u2018Marathon\u2019 Is Pulling The PvE Trigger In Season 2, A Sign Of Things To Come - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/05/15/marathon-is-pulling-the-pve-trigger-in-season-2-a-sign-of-things-to-come/"
     },
     {
       "title": "One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen - Push Square",
@@ -60,46 +80,58 @@
       "link": "https://wccftech.com/asus-reinvents-its-2006-crosshair-motherboard-for-rog-20th-anniversary-wrapping-am5-x870e-in-full-copper-retro-glory/"
     },
     {
-      "title": "\"There's No Way I'm Ever Going to Win': Star Wars: The Old Republic Director James Ohlen Discusses BioWare Exit After EA Killed New Republic Reboot - IGN",
-      "link": "https://www.ign.com/articles/star-wars-the-old-republic-director-james-ohlen-discusses-bioware-exit-after-ea-killed-new-republic-reboot"
-    },
-    {
       "title": "California bill pushing to keep games playable after server shutdowns passes key hurdle, paving way for full assembly vote - Rock Paper Shotgun",
       "link": "https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-passes-key-hurdle-paving-way-for-full-assembly-vote"
     },
     {
-      "title": "Xbox achievements on PC finally feel special after latest app update - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/xbox-achievements-pc-update"
-    },
-    {
       "title": "Long-awaited Xbox Elite Series 3 controller leaks in photos from Brazilian government body - Digital Foundry",
       "link": "https://www.digitalfoundry.net/news/2026/05/long-awaited-xbox-elite-series-3-controller-leaks-in-photos-from-brazilian-government-body"
-    },
-    {
-      "title": "Galaxy S24 series gets stable One UI 8.5 update in the US - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s24-stable-one-ui-8-5-update-released-usa/"
-    },
-    {
-      "title": "ASUS ROG NUC 16 (2026) launches with Core Ultra 9 290HX Plus and RTX 5080 Laptop GPU, price over $4000 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/asus-rog-nuc-16-2026-launches-with-core-ultra-9-290hx-plus-and-rtx-5080-laptop-gpu-costs-nearly-4500"
-    },
-    {
-      "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come"
     }
   ],
   "sports_news": [
+    {
+      "title": "Yankees Place Max Fried On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/max-fried-injured-list-bone-bruise-elbow-yankees.html"
+    },
+    {
+      "title": "2026 Detroit Lions preseason schedule: 3 opponents announced - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-news/164493/2026-detroit-lions-preseason-schedule-3-opponents-announced"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Fight Night: Allen vs Costa - UFC.com",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-allen-vs-costa-vegas-117"
+    },
+    {
+      "title": "Charles Woodson Jr. commits to the University of Michigan - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/charles-woodson-jr-commits-to-the-university-of-michigan"
+    },
     {
       "title": "2026 PGA Championship LIVE updates: Leaderboard, scores, results, highlights and news from Round 2 - Golf Channel",
       "link": "https://www.golfchannel.com/pga-of-america/live/2026-pga-championship-live-updates-leaderboard-scores-results-highlights-and-news-from-round-2"
     },
     {
-      "title": "Ronda Rousey, Gina Carano on weight for MVP's inaugural MMA card - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/48779264/ronda-rousey-gina-carano-weight-mvp-inaugural-mma-card"
+      "title": "Pistons vs Cavaliers Predictions, Odds, Picks for NBA Playoffs Game 6 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/detroit-pistons-vs-cleveland-cavaliers-prediction-pick-odds-for-nba-playoffs-game-6"
     },
     {
-      "title": "NFL pushes back on criticism of streaming games - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48778847/nfl-pushes-back-criticism-streaming-games"
+      "title": "It\u2019s Time for the NFL World to Move on From the Mike Vrabel\u2013Diana Russini Story - Sports Illustrated",
+      "link": "https://www.si.com/nfl/time-nfl-world-move-on-mike-vrabel-diana-russini"
+    },
+    {
+      "title": "Cooper Flagg, Duke's Arianna Roberson Confirm Relationship in New TikTok Video, Photo - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25428450-cooper-flagg-dukes-arianna-roberson-confirm-relationship-new-tiktok-video-photo"
+    },
+    {
+      "title": "The NFL is slowly killing the Sunday afternoon window - Awful Announcing",
+      "link": "https://awfulannouncing.com/nfl/cbs-fox-slowly-killing-sunday-afternoon-window.html"
+    },
+    {
+      "title": "Ronda Rousey vs. Gina Carano weigh-in video - MMA Fighting",
+      "link": "https://www.mmafighting.com/mvp-mma/488424/ronda-rousey-vs-gina-carano-weigh-in-video-mvp-mma"
+    },
+    {
+      "title": "2026 NFL schedule: Top 10 prime-time games - NFL.com",
+      "link": "https://www.nfl.com/news/2026-nfl-schedule-top-10-prime-time-games"
     },
     {
       "title": "Beyond the Bylines: Pirates attendance; Steelers schedule release; Penguins offseason thoughts - TribLIVE.com",
@@ -108,6 +140,10 @@
     {
       "title": "Middlesbrough: Championship club calls for Southampton's expulsion from play-offs - BBC",
       "link": "https://www.bbc.com/sport/football/articles/cwy2dg2w168o"
+    },
+    {
+      "title": "Video: Anatoly Malykhin regains ONE title with revenge knockout of Reug Reug, sparks post-fight brawl - MMA Fighting",
+      "link": "https://www.mmafighting.com/one/488405/video-anatoly-malykhin-regains-one-title-with-revenge-knockout-of-reug-reug-sparks-post-fight-brawl"
     },
     {
       "title": "Ohio State Football Honors Past, Embraces Future via Comprehensive Uniform Evolution and Stadium Turf Modernization - Ohio State | Official Athletics Website",
@@ -132,38 +168,6 @@
     {
       "title": "Eagles News: Philadelphia among \u201cwinners\u201d of the 2026 NFL schedule release - Bleeding Green Nation",
       "link": "https://www.bleedinggreennation.com/news/175679/eagles-news-philadelphia-among-winners-of-the-2026-nfl-schedule-release"
-    },
-    {
-      "title": "Starting Pitcher Chart \u2013 May 15th, 2026 - FanGraphs",
-      "link": "https://fantasy.fangraphs.com/starting-pitcher-chart-may-15th-2026/"
-    },
-    {
-      "title": "8 winners and losers from the Patriots\u2019 2026 schedule - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-schedule/128590/winners-losers-new-england-patriots-2026-schedule-release"
-    },
-    {
-      "title": "Deion Sanders: I want to meet Todd Monken to talk about Shedeur\u2014as a coach, not as a dad - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-i-want-to-meet-todd-monken-to-talk-about-shedeur-as-a-coach-not-as-a-dad"
-    },
-    {
-      "title": "Andy Reid on Patrick Mahomes\u2019s health: Didn\u2019t talk to NFL, but he\u2019s doing great - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-on-patrick-mahomess-health-didnt-talk-to-nfl-but-hes-doing-great"
-    },
-    {
-      "title": "Man Says He Won Millions in the Lottery 11 Years Ago, Secretly Stayed \u2018Broke,\u2019 and Never Told His Family - Yahoo",
-      "link": "https://dailydot.com/man-says-he-won-millions-in-the-lottery-11-years-ago-secretly-stayed-broke-and-never-told-his-family/"
-    },
-    {
-      "title": "5 things to hate about Lions 2026 schedule - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-schedule/164517/6-things-hate-2026-detroit-lions-schedule-nfl"
-    },
-    {
-      "title": "The Cavs\u2019 playoff legacy moment is there; will they seize it? \u2013 Terry Pluto - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2026/05/playoff-moment-for-the-cavs-is-there-will-they-seize-it-terry-pluto.html"
-    },
-    {
-      "title": "NFL schedule release: Only the Chargers dared mock the Patriots' Mike Vrabel scandal - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-schedule-release-only-the-chargers-dared-mock-the-patriots-mike-vrabel-scandal-021614331.html"
     }
   ],
   "weather": {
