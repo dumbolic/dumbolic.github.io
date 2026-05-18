@@ -1,9 +1,9 @@
 {
-  "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. \u2013 Margaret Mead",
-  "fact": "Humans and dolphins are the only species that have sex for pleasure.",
-  "crypto": "BTC: $77,420 | ETH: $2,127.87",
+  "quote": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. \u2013 Paulo Coelho",
+  "fact": "The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.",
+  "crypto": "BTC: $76,935 | ETH: $2,119.58",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What kind of award did the dentist receive? A little plaque.",
+  "joke": "There\u2019s a new type of broom out, it\u2019s sweeping the nation.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Ferrari's New Supercar Is An Homage To The Twin-Turbo V8 - Motor1.com",
+      "link": "https://www.motor1.com/news/796044/ferrari-hc25-supercar-price-details/"
+    },
+    {
+      "title": "Google\u2019s new Gemini Intelligence will only be available on a handful of the best current Android flagships for now - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/googles_new_gemini_intelligence_will_only_be_available_on_a_handful_of_the_best_current_android_flag-news-72861.php"
+    },
+    {
+      "title": "After Stumbling From CVE To CVE Will Linux Get A Kill Switch? - Hackaday",
+      "link": "https://hackaday.com/2026/05/16/after-stumbling-from-cve-to-cve-will-linux-get-a-kill-switch/"
+    },
+    {
       "title": "\"Card Party\" Pokemon TCG Fan Conventions Announced for 2026, Emphasizing Community Over Commerce - PokeBeach",
       "link": "https://www.pokebeach.com/2026/05/card-party-pokemon-tcg-fan-conventions-announced-for-2026-emphasizing-community-over-commerce"
     },
     {
+      "title": "EXCLUSIVE: Splitgate Developer 1047 Games is Working on a Spiritual Successor to Titanfall, Dubbed 'Empulse' - Insider Gaming",
+      "link": "https://insider-gaming.com/1047-games-titanfall-empulse/"
+    },
+    {
+      "title": "BlackBerry Blues: Hands-On With The Unihertz Titan 2 Elite Keyboard Phone - SlashGear",
+      "link": "https://www.slashgear.com/2173925/unihertz-titan-2-elite-keyboard-phone-hands-on-look/"
+    },
+    {
+      "title": "What new Google Messages features are rolling out [May 2026] - 9to5Google",
+      "link": "http://9to5google.com/2026/05/16/new-google-messages-features/"
+    },
+    {
+      "title": "GTA 6 Review Copies Won\u2019t Be Distributed, It\u2019s Claimed - Insider Gaming",
+      "link": "https://insider-gaming.com/gta-6-review-copes-codes-wont-be-sent-claim/"
+    },
+    {
+      "title": "The Chinese Lens Boom Continues With a Flood of New Releases - PetaPixel",
+      "link": "https://petapixel.com/2026/05/16/the-chinese-lens-boom-continues-with-a-flood-of-new-releases/"
+    },
+    {
+      "title": "Ban issued for 2XKO's newest and craziest Fuse for Combo Breaker 2026 - EventHubs",
+      "link": "https://www.eventhubs.com/news/2026/may/16/banned-teamfight-fuse-combo-breaker/"
+    },
+    {
       "title": "Prolific Repacker Of Pirated Games Announces They\u2019re Stepping Back To Focus On Law Degree - Kotaku",
       "link": "https://kotaku.com/prolific-repacker-of-pirated-games-announces-theyre-stepping-back-to-focus-on-law-degree-2000696765"
+    },
+    {
+      "title": "Poll: Are You Happy with Your PS Plus Extra, Premium Games for May 2026? - Push Square",
+      "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-may-2026"
+    },
+    {
+      "title": "Microsoft Exchange Active 0-Day Exploit\u2014Enable Emergency Mitigation Now - Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2026/05/16/microsoft-exchange-active-0-day-exploit-enable-emergency-mitigation-now/"
     },
     {
       "title": "Apple\u2019s foldable iPhone Ultra has ran into a hilarious problem - PhoneArena",
@@ -32,146 +76,98 @@
       "link": "https://www.motor1.com/news/796078/brabus-bodo-hyper-gt-supercar-details-price/"
     },
     {
+      "title": "The Legend Of Zelda Officially Returns September 2026 - ScreenRant",
+      "link": "https://screenrant.com/legend-of-zelda-2026-new-amiibo-release/"
+    },
+    {
       "title": "The offline desk gadget that actually got me to sit up straight - TechCrunch",
       "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/"
     },
     {
+      "title": "PlayStation Officially Drops 4 Free Downloads For May, No PS Plus Required - ScreenRant",
+      "link": "https://screenrant.com/playstation-free-downloads-may-2026-uncharted/"
+    },
+    {
       "title": "I used Gemini to restart a hobby I abandoned 20 years ago \u2014 and I found something unsettling - Android Police",
       "link": "https://www.androidpolice.com/ai-skeptic-but-gemini-helped-me-get-back-into-old-hobby/"
-    },
-    {
-      "title": "This rumored MacBook Pro upgrade has me excited, and it has nothing to do with OLED - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/16/macbook-pro-overhaul-later-this-year-one-exciting-upgrade/"
-    },
-    {
-      "title": "Bungie May Transform \u2018Marathon\u2019 Entirely This Year, According To Its New Roadmap - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/05/16/bungie-may-transform-marathon-entirely-this-year-according-to-its-new-roadmap/"
-    },
-    {
-      "title": "Fitbit Air: 24 Hours Later First Impressions - DC Rainmaker",
-      "link": "https://www.dcrainmaker.com/2026/05/fitbit-air-first-24-hours-impressions.html"
-    },
-    {
-      "title": "The Internet Reacts To Xbox Going All Caps For Some Reason - Kotaku",
-      "link": "https://kotaku.com/the-internet-reacts-to-xbox-trying-to-rebrand-as-xbox-2000696758"
-    },
-    {
-      "title": "ASUS Republic of Gamers Announces ROG NUC 16 - ASUS Pressroom",
-      "link": "https://press.asus.com/news/press_releases/rog-nuc-16-compact-gaming-pc-rtx-5080-ai/"
-    },
-    {
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support - TechCrunch",
-      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/"
-    },
-    {
-      "title": "Red Bull Knockout 2XKO results - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/may/16/red-bull-knockout-2xko-results/"
-    },
-    {
-      "title": "Humans in The Andes Have Evolved a Strange Digestive Superpower - ScienceAlert",
-      "link": "https://www.sciencealert.com/humans-in-the-andes-have-evolved-a-strange-digestive-superpower"
-    },
-    {
-      "title": "The app you need to clean up your computer - The Verge",
-      "link": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer"
-    },
-    {
-      "title": "Global GO Fest Mega Raids and 5 Star Raids Have Been Revealed - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/global-go-fest-mega-raids-and-5-star-raids-have-been-revealed/"
-    },
-    {
-      "title": "Dazzling photographs show nature in a new way - CNN",
-      "link": "https://www.cnn.com/2026/05/16/weather/gallery/photographer-discovers-dazzling-patterns-in-nature-climate"
-    },
-    {
-      "title": "The hidden reason why velocity levels keep rising - MLB.com",
-      "link": "https://www.mlb.com/news/pitch-velocity-keeps-rising-with-mlb-pitchers"
-    },
-    {
-      "title": "Majeski feels the No. 88 is \u2018trending up\u2019 after Dover - NASCAR.com",
-      "link": "https://www.nascar.com/videos/franchise/truck-series-post-race-reactions/majeski-feels-the-no-88-is-trending-up-after-dover/"
     }
   ],
   "sports_news": [
     {
-      "title": "2026 PGA Championship LIVE updates: Leaderboard, scores, results, highlights and news from Round 3 - Golf Channel",
-      "link": "https://www.golfchannel.com/pga-of-america/live/2026-pga-championship-live-updates-leaderboard-scores-results-highlights-and-news-from-round-3"
+      "title": "Aaron Rodgers agrees to a 1-year deal to return to the Pittsburgh Steelers, AP sources say - AP News",
+      "link": "https://apnews.com/article/aaron-rodgers-pittsburgh-steelers-return-55a90e238ab6822b7b774cbd5039651e"
     },
     {
-      "title": "FLASH SALE: Marmol buys out RF tickets to keep party going vs. Royals - MLB.com",
+      "title": "Mike Perry batters, bloodies Nate Diaz into corner stoppage - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/48792831/mike-perry-batters-bloodies-nate-diaz-corner-stoppage"
+    },
+    {
+      "title": "Arnold Allen wins scrappy decision over Melquizael Costa in main event of UFC Vegas 117 - Yahoo Sports",
+      "link": "https://www.mmafighting.com/ufc/488975/arnold-allen-wins-scrappy-decision-over-melquizael-costa-in-main-event-of-ufc-vegas-117"
+    },
+    {
+      "title": "Ngannou knocks out Lins, stakes claim as 'best' heavyweight - ESPN",
+      "link": "https://www.espn.com/mma/story/_/id/48792534/ngannou-knocks-lins-stakes-claim-best-heavyweight"
+    },
+    {
+      "title": "McGregor to fight Holloway in UFC return in July - BBC",
+      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cdjpl9d28elo"
+    },
+    {
+      "title": "Big Ten Baseball Tournament Central: Schedule, Results, Bracket - Sports Illustrated",
+      "link": "https://www.si.com/college/nebraska/baseball/big-ten-baseball-tournament-central-schedule-results-bracket-2026"
+    },
+    {
+      "title": "Enhanced Box Score: White Sox 8, Cubs 3 \u2013 May 16, 2026 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/05/16/enhanced-box-score-white-sox-8-cubs-3-may-16-2026/"
+    },
+    {
+      "title": "Ronda Rousey vs. Gina Carano live results: Updates, round-by-round scoring, highlights for Saturday's Netflix fight - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/live/ronda-rousey-vs-gina-carano-live-results-updates-round-by-round-scoring-highlights-for-saturdays-netflix-fight-060000698.html"
+    },
+    {
+      "title": "Napoleon Solo wins the 151st Preakness Stakes at Laurel Park - NBC Sports",
+      "link": "https://www.nbcsports.com/horse-racing/news/napoleon-solo-wins-the-151st-preakness-stakes-at-laurel-park"
+    },
+    {
+      "title": "FLASH SALE: Marmol buys out RF tickets, brings college players into clubhouse - MLB.com",
       "link": "https://www.mlb.com/news/oliver-marmol-gives-out-tarps-off-tickets-to-fans-for-free"
+    },
+    {
+      "title": "Red Sox placing shortstop Trevor Story on injured list - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2026/05/16/sports/red-sox-trevor-story-injured-list/"
+    },
+    {
+      "title": "Ludvig Aberg stunned after day three at the PGA Championship, 'I've never seen anything like this' - hitc.com",
+      "link": "https://www.hitc.com/ludvig-aberg-stunned-after-day-three-at-the-pga-championship-ive-never-seen-anything-like-this/"
+    },
+    {
+      "title": "Giants Place Heliot Ramos On 10-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/giants-place-heliot-ramos-on-injured-list.html"
+    },
+    {
+      "title": "50 Words or Less: Ravens' Schedule Won\u2019t Determine Whether They Return to the Playoffs - Baltimore Ravens",
+      "link": "https://www.baltimoreravens.com/news/ravens-2026-schedule-joe-burrow-lamar-jackson-afc-north"
+    },
+    {
+      "title": "Live Tallahassee Regional Softball Updates: Florida State 11, Jax State 0 - FINAL/5 - 247Sports",
+      "link": "https://247sports.com/college/florida-state/longformarticle/fsu-softball-jacksonville-state-tallahassee-regional-game-updates-285553305/"
+    },
+    {
+      "title": "Frahm strikes out 16 as Nebraska softball knocks off GCU, advances to Regional Final - On3",
+      "link": "https://www.on3.com/teams/nebraska-cornhuskers/news/frahm-strikes-out-14-as-nebraska-softball-knocks-off-gcu-advances-to-regional-final/"
+    },
+    {
+      "title": "Sabres vs Canadiens Game 6 Prediction, Pick, Odds, Tonight - Action Network",
+      "link": "https://www.actionnetwork.com/nhl/buffalo-sabres-vs-montreal-canadiens-game-6-nhl-playoffs-prediction-pick-odds-may-16"
     },
     {
       "title": "Indy 500 qualifying postponed to Sunday with condensed format - Motorsport.com",
       "link": "https://www.motorsport.com/indycar/news/indy-500-qualifying-postponed-to-sunday-with-another-tweak-to-the-format/10821443/"
     },
     {
-      "title": "ABC makes horrendous gaffe promoting Knicks\u2019 Eastern Conference finals Game 1 - New York Post",
-      "link": "https://nypost.com/2026/05/16/sports/abc-makes-gaffe-promoting-knicks-eastern-conference-finals-game-1/"
-    },
-    {
       "title": "Clay Holmes Has Fractured Fibula, Will Be Out \"For A Long Time\" - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/05/clay-holmes-has-fractured-fibula-will-be-out-for-a-long-time.html"
-    },
-    {
-      "title": "PGA Championship: Rory McIlroy storms back as Mother Nature provides a gift - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/article/pga-championship-rory-mcilroy-storms-back-as-mother-nature-provides-a-gift-190800752.html"
-    },
-    {
-      "title": "Red Sox Place Trevor Story On 10-Day Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/red-sox-place-trevor-story-on-10-day-injured-list-2.html"
-    },
-    {
-      "title": "FA Cup final - Chelsea 0-1 Man City: Antoine Semenyo seals fairytale - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cj9pz9rnywzo"
-    },
-    {
-      "title": "Xabi Alonso agrees to join Chelsea as new head coach \u2014 reports - We Ain't Got No History",
-      "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168690/xabi-alonso-agrees-to-join-chelsea-as-new-head-coach-reports"
-    },
-    {
-      "title": "The 34 participants in the Accelerator program include Mike McDaniel, Eric Bieniemy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-34-participants-in-the-accelerator-program-include-mike-mcdaniel-eric-bieniemy"
-    },
-    {
-      "title": "Resilient Celtic time run perfectly to win race after eight-month chase - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c0m24m3nd1vo"
-    },
-    {
-      "title": "Opponent writers predict the Eagles\u2019 2026 record - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/175714/opponent-writers-predict-the-eagles-2026-record"
-    },
-    {
-      "title": "Preakness Day is underway in a quiet scene at Laurel Park, which replaces Pimlico as host this year - AP News",
-      "link": "https://apnews.com/article/preakness-laurel-park-10333548a40dd96d76e73c24f28fa290"
-    },
-    {
-      "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 5/16 & 5/17 & 5/18 - Pitcher List",
-      "link": "http://pitcherlist.com/starting-pitcher-streamer-ranks-fantasy-baseball-5-16-5-17-5-18/"
-    },
-    {
-      "title": "Jose Berrios To Undergo Elbow Surgery - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/jose-berrios-to-undergo-elbow-surgery.html"
-    },
-    {
-      "title": "Three Observations from Bayern Munich\u2019s dominating 5-1 win over FC K\u00f6ln - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/203218/match-analysis-observations-fc-koln-bundesliga-goretzka-kane-neuer"
-    },
-    {
-      "title": "Bryson DeChambeau claimed to be in 'meltdown mode' following LIV developments as he misses the cut at Aronimink - hitc.com",
-      "link": "https://www.hitc.com/bryson-dechambeau-claimed-to-be-in-meltdown-mode-following-liv-developments-as-he-misses-the-cut-at-aronimink/"
-    },
-    {
-      "title": "Yankees Place Max Fried On 10-Day Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/max-fried-injured-list-bone-bruise-elbow-yankees.html"
-    },
-    {
-      "title": "Eagles News: Philadelphia among teams hurt by NFL schedule makers most in 2026 - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/24480935/eagles-news-philadelphia-among-teams-hurt-by-nfl-schedule-makers-most-in-2026"
-    },
-    {
-      "title": "Tarik Skubal Begins Throwing Progression - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/tarik-skubal-begins-throwing-progression.html"
     }
   ],
   "weather": {
