@@ -1,9 +1,9 @@
 {
-  "quote": "Faults are yours to fix, not to curse. \u2013 Colin Powell",
-  "fact": "Proportional to their size, cats have the largest eyes of all mammals.",
-  "crypto": "BTC: $76,274 | ETH: $2,104.4",
+  "quote": "Hope means hoping when everything seems hopeless. \u2013 Gilbert Chesterton",
+  "fact": "American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.",
+  "crypto": "BTC: $76,645 | ETH: $2,106.55",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What time did the man go to the dentist? Tooth hurt-y.",
+  "joke": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google hasn't shown any reason for 'Googlebook' laptops to exist, so why should we be excited? - 9to5Google",
+      "link": "http://9to5google.com/2026/05/17/google-hasnt-shown-any-reason-for-googlebook-laptops-to-exist-so-why-should-we-be-excited/"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 Takes The Top Spot At This Year\u2019s SGDQ - Kotaku",
+      "link": "https://kotaku.com/clair-obscur-expedition-33-takes-the-top-spot-at-this-years-sgdq-pragmata-saros-games-done-quick-2000696827"
+    },
+    {
       "title": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions - 9to5Mac",
       "link": "https://9to5mac.com/2026/05/17/report-apple-to-upgrade-genmoji-in-ios-27-with-new-automatic-suggestions/"
+    },
+    {
+      "title": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus - NBC News",
+      "link": "https://www.nbcnews.com/health/health-news/former-contagion-patients-describe-life-in-quarantine-amid-hantavirus-rcna344946"
+    },
+    {
+      "title": "Amazon Stops Supporting Pre-2013 Kindles Today. Some Owners Turn to Jailbreaking - Slashdot",
+      "link": "https://news.slashdot.org/story/26/05/17/0014220/amazon-stops-supporting-pre-2013-kindles-today-some-owners-turn-to-jailbreaking"
     },
     {
       "title": "10 Gems of Bluesky Today \u2013 Day 343 - Daily Kos",
@@ -40,8 +56,20 @@
       "link": "https://www.eurogamer.net/subnautica-2s-early-access-roadmap-is-here"
     },
     {
+      "title": "Researchers built a switch 1,000 times faster than today's AI chips, and it barely generates any heat - TechSpot",
+      "link": "https://www.techspot.com/news/112430-researchers-built-switch-1000-times-faster-than-today.html"
+    },
+    {
+      "title": "ASUS Demos Its First \u201cROG\u201d DDR5 Memory Running at 8800 MT/s On Its Crosshair X870E APEX Motherboard - Wccftech",
+      "link": "https://wccftech.com/asus-demos-first-rog-ddr5-memory-running-at-8800-mtps-on-its-crosshair-x870e-apex/"
+    },
+    {
       "title": "11 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
       "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-5-17-26/"
+    },
+    {
+      "title": "Open-Source \"low_latency_layer\" Brings Reflex & Anti-Lag 2 To AMD & Intel GPUs On Linux - Phoronix",
+      "link": "https://www.phoronix.com/news/Low-Latency-Layer"
     },
     {
       "title": "Steam Controller gains SDL support for games outside Steam - VideoCardz.com",
@@ -52,50 +80,54 @@
       "link": "https://mashable.com/article/may-16-chatplayground-ai-unlimited-plan-lifetime-subscriptions"
     },
     {
-      "title": "Scientists Uncover an \u201cAlien\u201d Metal Hidden in a 3,000-Year-Old Year-Old Treasure Stash - The Daily Galaxy",
-      "link": "https://dailygalaxy.com/2026/05/space-metal-bronze-age-hoard-villena-spain/"
-    },
-    {
       "title": "Retro Recap: All The Classic Gaming News From The Past Week (May 17th 2026) - Time Extension",
       "link": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-may-17th-2026"
     },
     {
       "title": "Microsoft Confirms Active 0-Day Exploit\u2014Check Emergency Mitigation Now - Forbes",
       "link": "https://www.forbes.com/sites/daveywinder/2026/05/17/microsoft-exchange-active-0-day-exploit-enable-emergency-mitigation-now/"
-    },
-    {
-      "title": "Feature: 15 Years Ago Today, We All Pushed Square to Doubt - Push Square",
-      "link": "https://www.pushsquare.com/features/15-years-ago-today-we-all-pushed-square-to-doubt"
-    },
-    {
-      "title": "This Week in Gaming (Week 21) - TechPowerUp",
-      "link": "https://www.techpowerup.com/349125/this-week-in-gaming-week-21"
-    },
-    {
-      "title": "A measles outbreak crossed into Mexico from Texas. A larger tragedy followed - CNN",
-      "link": "https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam"
-    },
-    {
-      "title": "Corsair explains why 12V-2x6 still needs protection despite revised connector design - VideoCardz.com",
-      "link": "https://videocardz.com/newz/corsair-explains-why-12v-2x6-still-needs-protection-despite-revised-connector-design"
-    },
-    {
-      "title": "The Best Android Auto Apps You're Probably Not Using - SlashGear",
-      "link": "https://www.slashgear.com/2167900/the-best-android-auto-apps-youre-probably-not-using/"
-    },
-    {
-      "title": "GM's LS7 V8: The Corvette Engine That Defied Small-Block Limits - Jalopnik",
-      "link": "https://www.jalopnik.com/2169489/gm-ls7-v8-corvette-engine-defied-small-block-limits/"
-    },
-    {
-      "title": "The best SD cards for Nintendo Switch 2 - Nintendo Everything",
-      "link": "https://nintendoeverything.com/the-best-sd-cards-for-nintendo-switch-2-explained/"
     }
   ],
   "sports_news": [
     {
+      "title": "PGA Championship 2026 LIVE updates: Leaderboard, scores, highlights and news from final round - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-of-america/live/pga-championship-2026-live-updates-leaderboard-scores-highlights-and-news-from-final-round"
+    },
+    {
+      "title": "Cavaliers vs Pistons Prediction, Pick, Odds: Don\u2019t Worry About Home-Court in Game 7 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-detroit-pistons-prediction-pick-odds-for-nba-playoffs-game-7"
+    },
+    {
+      "title": "Despite a little bit of drama, the Steelers still got Aaron Rodgers in the door before OTAs - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2026/05/17/aaron-rodgers-contract-details-nfl-news-pittsburgh/stories/202605170093"
+    },
+    {
+      "title": "Pirates Place Ryan O\u2019Hearn On 10-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/pirates-place-ryan-ohearn-on-10-day-injured-list.html"
+    },
+    {
+      "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 5/17 & 5/18 & 5/19 - Pitcher List",
+      "link": "http://pitcherlist.com/starting-pitcher-streamer-ranks-fantasy-baseball-5-17-5-18-5-19/"
+    },
+    {
+      "title": "Ronda Rousey defeats Gina Carano seconds into joint comeback match - CBS News",
+      "link": "https://www.cbsnews.com/news/ronda-rousey-gina-carano-mma-joint-comeback-match/"
+    },
+    {
+      "title": "LIVE: Indianapolis 500 qualifying minute-by-minute commentary and live updates | Live text - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/live-text/live-indianapolis-500-qualifying-live-commentary-and-updates/1126818/"
+    },
+    {
+      "title": "MotoGP's \u00c1lex M\u00e1rquez, Johann Zarco go to hospital after crashes - ESPN",
+      "link": "https://www.espn.com/racing/story/_/id/48796460/motogp-alex-marquez-johann-zarco-go-hospital-crashes"
+    },
+    {
       "title": "Bruno Fernandes equals Premier League assists record - what do the stats say? - BBC",
       "link": "https://www.bbc.com/sport/football/articles/c78rlgvl9lno"
+    },
+    {
+      "title": "Jim Rome: NFL opening 2026 season with Seahawks-Patriots because of Mike Vrabel controversy - Awful Announcing",
+      "link": "https://awfulannouncing.com/nfl/jim-rome-opening-season-seahawks-patriots-mike-vrabel-controversy.html"
     },
     {
       "title": "Shai Gilgeous-Alexander reportedly wins second straight NBA MVP award - Yahoo Sports",
@@ -106,20 +138,16 @@
       "link": "https://bloodyelbow.com/2026/05/17/nate-diaz-answers-retirement-calls-after-brutal-beatdown-against-mike-perry-on-netflix/"
     },
     {
-      "title": "Nurburgring 24 Hours: Mercedes win as late mechanical failure hits Verstappen Racing - Motorsport.com",
-      "link": "https://www.motorsport.com/endurance/news/nurburgring-24-hours-mercedes-win-as-late-mechanical-failure-hits-verstappen-racing/10821601/"
+      "title": "Mercedes ends Nurburgring win drought, despite Verstappen heartbreak - The Race",
+      "link": "https://www.the-race.com/gt/heartbreak-for-team-verstappen-as-mercedes-ends-nurburgring-win-drought/"
     },
     {
-      "title": "Don\u2019t blame the NFL for Detroit Lions\u2019 lack of post-Germany bye week - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-schedule/164594/dont-blame-nfl-detroit-lions-lack-post-germany-bye-week"
+      "title": "The Xabi Alonso era - Five Chelsea players who could thrive under the Spaniard - Transfermarkt",
+      "link": "https://www.transfermarkt.com/the-xabi-alonso-era-five-chelsea-players-who-could-thrive-under-the-spaniard/view/news/479559"
     },
     {
       "title": "Rory McIlroy overtakes Jack Nicklaus and trails only Tiger Woods on elite list after his 67 at the PGA - hitc.com",
       "link": "https://www.hitc.com/rory-mcilroy-overtakes-jack-nicklaus-and-trails-only-tiger-woods-on-elite-list-after-his-67-at-the-pga/"
-    },
-    {
-      "title": "Eli Manning: Refusing to play for the Chargers was my call, my dad didn\u2019t like it - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eli-manning-refusing-to-play-for-the-chargers-was-my-call-my-dad-didnt-like-it"
     },
     {
       "title": "Morning Briefing: Clay Holmes Does Not Need Surgery - Metsmerized Online",
@@ -130,44 +158,16 @@
       "link": "https://www.hitc.com/golf-fans-slam-shane-lowry-for-his-insufferable-comments-straight-after-his-third-round-at-the-pga/"
     },
     {
-      "title": "Chelsea Officially Announces Xabi Alonso As Manager - The Liverpool Offside",
-      "link": "https://liverpooloffside.sbnation.com/liverpool-fc-transfer-news/80519/chelsea-officially-announces-xabi-alonso-as-manager-arne-slot"
+      "title": "Napoleon Solo holds off Iron Honor by 1 1/4 lengths to win the Preakness at Laurel Park - AP News",
+      "link": "https://apnews.com/article/preakness-laurel-park-10333548a40dd96d76e73c24f28fa290"
     },
     {
       "title": "Spurs Receive Unexpectedly Bad News Before Game 1 vs Thunder - heavy.com",
       "link": "https://heavy.com/sports/nba/san-antonio-spurs/spurs-thunder-game-1/"
     },
     {
-      "title": "49ers News: Another Sunday without NFL football - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/159299/49ers-news-nfl-draft-schedule-release-mexico-australia-sean-mcvay-minnesota-vikings-jauan-jennings-nick-bosa-fred-warner-scheme-dezhaun-stribling-kaelon-edge-trade-raheem-morris-mykel-williams-roster"
-    },
-    {
-      "title": "Ronda Rousey, Jake Paul react to UFC breaking Conor McGregor news in the middle of Netflix MMA debut - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/article/ronda-rousey-jake-paul-react-to-ufc-breaking-conor-mcgregor-news-in-the-middle-of-netflix-mma-debut-085311559.html"
-    },
-    {
-      "title": "Sherman Lewis, longtime NFL assistant coach and college All-American, dies at 83 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sherman-lewis-longtime-nfl-assistant-coach-and-college-all-american-dies-at-83"
-    },
-    {
-      "title": "Mets even Subway Series as ex-Yankee steals the spotlight against former team in win - New York Post",
-      "link": "https://nypost.com/2026/05/16/sports/mets-even-subway-series-as-ex-yankee-steals-the-spotlight-in-win/"
-    },
-    {
-      "title": "Astros Notes: Altuve, Brown, Hader - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/astros-notes-altuve-brown-hader.html"
-    },
-    {
-      "title": "Aaron Rodgers agrees to a 1-year deal to return to the Pittsburgh Steelers, AP sources say - AP News",
-      "link": "https://apnews.com/article/aaron-rodgers-pittsburgh-steelers-return-55a90e238ab6822b7b774cbd5039651e"
-    },
-    {
-      "title": "At the Horn | Sabres 8 - Canadiens 3 - NHL.com",
-      "link": "https://www.nhl.com/sabres/news/sabres-canadiens-game-6-recap-highlights-tage-dahlin-quinn"
-    },
-    {
-      "title": "As \"Dallas Stadium\" moves mountains to install grass, CeeDee Lamb wants it for football - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-dallas-stadium-moves-mountains-to-install-grass-ceedee-lamb-wants-it-for-football"
+      "title": "Yankees news: Bombers shuffle rotation, Cole sharp in rehab outing - Pinstripe Alley",
+      "link": "https://www.pinstripealley.com/yankees-news/188469/yankees-news-rotation-elmer-rodriguez-cole-rehab-outing-jones-progression-schlittler-historic-start"
     }
   ],
   "weather": {
