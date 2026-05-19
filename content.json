@@ -1,9 +1,9 @@
 {
-  "quote": "No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes. \u2013 Alfred Adler",
-  "fact": "More people are killed each year from bees than from snakes.",
-  "crypto": "BTC: $76,824 | ETH: $2,115.58",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, \u2018First offender?\u2019 She says, \u2018No, first a Gibson! Then a Fender!\u2019",
+  "quote": "Patience is not the ability to wait but the ability to keep a good attitude while waiting. \u2013 Joyce Meyer",
+  "fact": "One in fourteen women in America is a natural blonde. Only one in sixteen men is.",
+  "crypto": "BTC: $76,451 | ETH: $2,108.1",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,94 +12,122 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "GTA 6 'About 18 Months Behind the Original Date,' Take-Two Boss Says - IGN",
-      "link": "https://www.ign.com/articles/gta-6-release-date-about-18-months-behind-original-target-take-two-boss-reveals-suggesting-spring-2025-was-once-the-goal-internally"
+      "title": "Hands On: The Classic Zelda Formula Is In Safe Hands With 'The Adventures Of Elliot' - Nintendo Life",
+      "link": "https://www.nintendolife.com/previews/hands-on-the-classic-zelda-formula-is-in-safe-hands-with-the-adventures-of-elliot"
     },
     {
-      "title": "Xbox Game Pass loses another five games in May 2026 - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-may-2026-wave-2"
+      "title": "#New40k rules\u2013 More dakka than you can shake a rig at - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/begrgyld/new40k-rules-more-dakka-than-you-can-shake-a-rig-at"
+    },
+    {
+      "title": "LEGO Batman: Legacy of the Dark Knight Early Access and Full Release Times Confirmed - IGN",
+      "link": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-early-access-and-full-release-times-confirmed"
+    },
+    {
+      "title": "Leaked images reveal Sony\u2019s 10th anniversary \u2018ColleXion\u2019 headphones - The Verge",
+      "link": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks"
+    },
+    {
+      "title": "2027 BMW M3 CS Handschalter Goes RWD And Gets A Manual Only For America - Jalopnik",
+      "link": "https://www.jalopnik.com/2174960/2027-bmw-m3-cs-handschalter-manual-rwd-sedan-only-for-america/"
+    },
+    {
+      "title": "Windows boot partition runs out of space for Microsoft's May security update - The Register",
+      "link": "https://www.theregister.com/oses/2026/05/18/windows-boot-partition-runs-out-of-space-for-microsofts-may-security-update/5241799"
+    },
+    {
+      "title": "The Subnautica 2 fish self-defence debate rages on, as the game\u2019s non-violent themes clash with player desire to fend off underwater threats - Eurogamer",
+      "link": "https://www.eurogamer.net/subnautica-2-self-defence-fish-fighting"
+    },
+    {
+      "title": "Google's new gradient icons for Gmail, Calendar, Drive and more are finally rolling out - Android Central",
+      "link": "https://www.androidcentral.com/apps-software/gmail/google-just-started-rolling-out-its-colorful-new-workspace-icons"
+    },
+    {
+      "title": "Why I'm suddenly obsessed with this Google Keep feature I spent years ignoring - Android Police",
+      "link": "https://www.androidpolice.com/why-im-suddenly-obsessed-with-this-google-keep-feature-i-spent-years-ignoring/"
+    },
+    {
+      "title": "'No One Else in the Business Would Have Done It' \u2014 Take-Two Boss Reveals Borderlands' Last Minute Art Style Change Cost an Extra $50 Million, but Insists the Game Would Have Flopped Without It - IGN",
+      "link": "https://www.ign.com/articles/take-two-boss-says-borderlands-last-minute-art-style-change-cost-50-million-but-without-it-the-game-would-have-flopped"
+    },
+    {
+      "title": "Virtuos eager to port Grand Theft Auto 5 and Red Dead Redemption 2 to the Nintendo Switch 2 - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/05/18/virtuos-eager-to-port-grand-theft-auto-5-and-red-dead-redemption-2-to-the-nintendo-switch-2/"
+    },
+    {
+      "title": "This music streaming app nobody talks about actually beats the giants - Android Police",
+      "link": "https://www.androidpolice.com/this-music-streaming-app-nobody-talks-about-actually-beats-the-giants/"
+    },
+    {
+      "title": "Galaxy S26 series getting new update for One UI 8.5 users - SamMobile",
+      "link": "https://www.sammobile.com/news/samsung-galaxy-s26-plus-ultra-may-2026-update/"
+    },
+    {
+      "title": "I pay for Gemini, ChatGPT, and Claude \u2014 and there's a clear winner - Android Authority",
+      "link": "https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267/"
+    },
+    {
+      "title": "Five Games Are Leaving Xbox Game Pass In Late May 2026 - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/05/five-games-are-leaving-xbox-game-pass-in-late-may-2026"
+    },
+    {
+      "title": "GTA 6 Pre-Orders Set To Arrive Today As PS5 Store Updates Early - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/gta-6-pre-orders-ps5-store-updates-early-660100-20260518"
+    },
+    {
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/"
     },
     {
       "title": "UK Charts: Indiana Jones Commences His Great Circular Crusade On Switch 2 - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/05/uk-charts-indiana-jones-commences-his-great-circular-crusade-on-switch-2"
     },
     {
-      "title": "GEAR UP FOR GUILTY GEAR -STRIVE-\u2019S NEW \u201cBLAZING PASS\u201d - Arc System Works",
-      "link": "https://www.arcsystemworks.com/gear-up-for-guilty-gear-strive-s-new-blazing-pass/"
-    },
-    {
-      "title": "Microsoft Brings Back Windows 10-Style Taskbar and Start Menu Customization in Windows 11 - TechPowerUp",
-      "link": "https://www.techpowerup.com/349132/microsoft-brings-back-windows-10-style-taskbar-and-start-menu-customization-in-windows-11"
-    },
-    {
-      "title": "Puzzle game Namco Legendary Mountains announced for Nintendo Switch 2 and Switch - Nintendo Everything",
-      "link": "https://nintendoeverything.com/puzzle-game-namco-legendary-mountains-announced-for-nintendo-switch-2-and-switch/"
-    },
-    {
-      "title": "Intel\u2019s First Wildcat Lake Laptop Hits Retail at sub-$600, Undercutting Apple\u2019s MacBook Neo, Doubles the RAM and Battery Capacity - Wccftech",
-      "link": "https://wccftech.com/intel-first-wildcat-lake-laptop-hits-retail-sub-600-usd-price-undercutting-apple-macbook-neo/"
-    },
-    {
-      "title": "Jack\u2019s Deli \u2018unexpectedly\u2019 closing for 4-6 months - Cleveland Jewish News",
-      "link": "https://www.clevelandjewishnews.com/features/nosh/jacks-deli-closes/article_ecd6e43a-3b4a-4c4e-8658-20b7e38046e6.html"
-    },
-    {
-      "title": "Report: Cancelled Star Wars KOTOR Remake Version Surfaces With Opening Cinematic - MP1st",
-      "link": "https://mp1st.com/news/report-cancelled-star-wars-kotor-remake-version-surfaces-with-opening-cinematic"
-    },
-    {
-      "title": "What That Line Under The Battery Icon On Your iPhone Lock Screen Is For - bgr.com",
-      "link": "https://www.bgr.com/2170512/what-line-under-battery-icon-on-iphone-lock-screen-is-for/"
-    },
-    {
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/"
-    },
-    {
-      "title": "Microsoft is retiring Teams\u2019 Together Mode - The Verge",
-      "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode"
-    },
-    {
-      "title": "6 Portable Entertainment Gadgets To Buy From Costco (And 5 To Skip) - SlashGear",
-      "link": "https://www.slashgear.com/2173157/costco-gadgets-for-portable-entertainment-to-buy-and-skip/"
-    },
-    {
-      "title": "Apple\u2019s Siri revamp could include auto-deleting chats - TechCrunch",
-      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
-    },
-    {
-      "title": "A 750 HP Mustang Took On A Dodge Demon And The Results Weren't Even Close - SlashGear",
-      "link": "https://www.slashgear.com/2172601/750-hp-ford-mustang-vs-dodge-demon-drag-race/"
-    },
-    {
-      "title": "5 Lexus Engines You Should Steer Clear Of - SlashGear",
-      "link": "https://www.slashgear.com/2172668/lexus-engines-you-should-steer-clear-of/"
-    },
-    {
-      "title": "ASUS shows custom ROG Xbox Ally X Cyberpunk 2077 Edition handheld - VideoCardz.com",
-      "link": "https://videocardz.com/newz/asus-shows-custom-rog-xbox-ally-x-cyberpunk-2077-edition-handheld"
-    },
-    {
-      "title": "I almost gave up on Google Calendar until this Gemini hack fixed my main gripe - Android Police",
-      "link": "https://www.androidpolice.com/i-almost-gave-up-on-google-calendar-until-this-gemini-hack-fixed-my-main-gripe/"
-    },
-    {
-      "title": "Lenovo releases new 16-inch laptop with 96 GB LPCAMM2 and AMD processors sooner than expected - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Lenovo-releases-new-16-inch-laptop-with-96-GB-LPCAMM2-and-AMD-processors-sooner-than-expected.1298942.0.html"
-    },
-    {
-      "title": "Splitgate Developer Making Titanfall Successor Called 'Empulse' - Kotaku",
-      "link": "https://kotaku.com/splitgate-developer-said-he-wanted-titanfall-3-and-it-appears-hes-making-his-own-2000696833"
+      "title": "Your current Galaxy phone may not support Gemini Intelligence - SamMobile",
+      "link": "https://www.sammobile.com/news/your-current-galaxy-phone-may-not-support-gemini-intelligence/"
     }
   ],
   "sports_news": [
     {
-      "title": "Aaron Rai\u2019s wife reveals unseen moment she knew he\u2019d win PGA Championship - Today's Golfer",
-      "link": "https://www.todays-golfer.com/news-and-events/majors/us-pga-championship/aaron-rai-wife-message/"
+      "title": "Pirates To Promote Jhostynxon Garc\u00eda - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/pirates-to-promote-jhostynxon-garcia.html"
     },
     {
-      "title": "Cavaliers' Donovan Mitchell reaches conference finals for first time, matches Kobe with Game 7 stat line - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/donovan-mitchell-conference-finals-first-time/"
+      "title": "Aaron Rodgers has reported to the Steelers facility - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-reports-to-the-steelers-facility-on-monday"
+    },
+    {
+      "title": "Knicks-Cavs conference finals will be determined by a new brand of Cleveland Kryptonite \u2014 Jimmy Watkins - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2026/05/knicks-cavs-conference-finals-will-be-determined-by-a-new-brand-of-cleveland-kryptonite-jimmy-watkins.html"
+    },
+    {
+      "title": "Rory McIlroy defended after having spectator removed as what was shouted at him during round disclosed - hitc.com",
+      "link": "https://www.hitc.com/rory-mcilroy-defended-after-having-spectator-removed-as-what-was-shouted-at-him-during-round-disclosed/"
+    },
+    {
+      "title": "Winners and Losers From the Second Round of the NBA Playoffs - Sports Illustrated",
+      "link": "https://www.si.com/nba/playoffs/winners-and-losers-from-second-round-nba-playoffs"
+    },
+    {
+      "title": "Vote on Nashville hosting Super Bowl LXIV in 2030 is expected this week - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-nashville-hosting-super-bowl-lxiv-in-2030-is-expected-this-week"
+    },
+    {
+      "title": "Alex Marquez undergoes successful surgery after Catalan GP crash - motogp.com",
+      "link": "https://www.motogp.com/en/news/2026/05/17/alex-marquez-injury-update-after-catalan-gp-crash/1069118"
+    },
+    {
+      "title": "Jose Mourinho reaches agreement to become next Real Madrid manager - Football Espana",
+      "link": "https://www.football-espana.net/2026/05/18/jose-mourinho-next-real-madrid-manager"
+    },
+    {
+      "title": "Inside Dan Gilbert\u2019s motivational text message to Jarrett Allen that brought out his alter ego - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2026/05/inside-dan-gilberts-motivational-text-message-to-jarrett-allen-that-brought-out-his-alter-ego.html"
+    },
+    {
+      "title": "Aaron Rai\u2019s wife reveals unseen moment she knew he\u2019d win PGA Championship - Today's Golfer",
+      "link": "https://www.todays-golfer.com/news-and-events/majors/us-pga-championship/aaron-rai-wife-message/"
     },
     {
       "title": "No squad announcement, no hotel visit: Barcelona make unusual change of strategy ahead of Real Betis clash - Barca Universal",
@@ -110,64 +138,32 @@
       "link": "https://www.on3.com/teams/nebraska-cornhuskers/news/nebraska-softball-defeats-gcu-to-take-lincoln-regional-will-host-first-super-in-program-history/"
     },
     {
-      "title": "Nate Diaz admits he felt physically awful in his return to MMA against Mike Perry: \u2018I\u2019m honest\u2019 - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/05/17/nate-diaz-admits-he-felt-physically-awful-in-his-return-to-mma-against-mike-perry-im-honest/"
+      "title": "Jaylen Brown calls for Stephen A. Smith to retire: \u2018He\u2019s the face of clickbait media\u2019 - Awful Announcing",
+      "link": "https://awfulannouncing.com/nba/jaylen-brown-calls-stephen-a-smith-retire.html"
     },
     {
-      "title": "Thunder star Shai Gilgeous-Alexander adds another Kia MVP to his mantel - NBA",
-      "link": "https://www.nba.com/news/thunder-star-shai-gilgeous-alexander-adds-another-kia-mvp-to-his-mantel"
-    },
-    {
-      "title": "Clay Holmes Likely To Avoid Surgery, Could Return In August - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/clay-holmes-likely-to-avoid-surgery-could-return-in-august.html"
-    },
-    {
-      "title": "NBA reveals Cavs vs. Knicks Eastern Conference Finals schedule - Fear The Sword",
-      "link": "https://www.fearthesword.com/cavs-news/49506/nba-cavs-new-york-knicks-cleveland-cavaliers-eastern-conference-finals-playoffs-schedule-espn"
+      "title": "Amanda Nunes fires back with a savage reply to Ronda Rousey\u2019s blink-and-you-miss-it win - Yahoo Sports",
+      "link": "https://www.hitc.com/amanda-nunes-fires-back-with-a-savage-reply-to-ronda-rouseys-blink-and-you-miss-it-win/"
     },
     {
       "title": "Colt Emerson\u2019s arrival not enough to help Mariners prevent sweep by Padres - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/colt-emersons-arrival-not-enough-to-help-mariners-prevent-sweep-against-padres/"
     },
     {
-      "title": "Rousey Vs. Carano Pay: Fight Purses For The Full MVP MMA Card - Forbes",
-      "link": "https://www.forbes.com/sites/trentreinsmith/2026/05/17/rousey-vs-carano-pay-fight-purses-for-the-full-mvp-mma-card/"
+      "title": "IndyCar IOI moves Collet and Harvey to back of Indy 500 field - RACER - Racing News",
+      "link": "https://racer.com/2026/05/17/indycar-ioi-moves-collet-and-harvey-to-back-of-indy-500-field"
     },
     {
-      "title": "Corey Seager To Visit Back Specialist - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/corey-seager-to-visit-back-specialist.html"
+      "title": "WNBA finally admits its Caitlin Clark mistake - Yahoo Sports",
+      "link": "https://thecomeback.com/wnba/wnba-finally-admits-its-caitlin-clark-mistake.html"
     },
     {
-      "title": "Owner Dan Gilbert sends 25 buses of Cavs fans to Detroit for Game 7 - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/48801060/cleveland-cavaliers-dan-gilbert-fans-busses-game-7"
+      "title": "Lionel Messi dazzles in Inter Miami's first win at Nu Stadium - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/history-maker-lionel-messi-dazzles-in-first-inter-miami-win-at-nu-stadium"
     },
     {
-      "title": "Jose Altuve Placed On IL With Oblique Strain - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/jose-altuve-to-be-placed-on-il-with-oblique-strain.html"
-    },
-    {
-      "title": "McIlroy has angry exchange with fan at PGA. Rahm, Smith, Schauffele also fade - AP News",
-      "link": "https://apnews.com/article/mcilroy-pga-championship-d458130f189de8e40c67f3acbdac3ab5"
-    },
-    {
-      "title": "Surging White Sox beat Cubs in 10 on Edgar Quero's walk-off HR - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/48800818/surging-white-sox-beat-cubs-edgar-quero-walk-home-run-10th-inning"
-    },
-    {
-      "title": "Denny Hamlin adds to legacy with million dollar win but mad it doesn't count - Motorsport.com",
-      "link": "https://www.motorsport.com/nascar-cup/news/denny-hamlin-adds-to-legacy-with-million-dollar-win-but-mad-it-doesnt-count/10821790/"
-    },
-    {
-      "title": "Naomi Schiff reveals how GT drivers felt about Max Verstappen's Nurburgring debut - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/naomi-schiff-reveals-how-gt-drivers-felt-about-max-verstappens-nurburgring-debut/10821782/"
-    },
-    {
-      "title": "Rory McIlroy has fan kicked out during PGA Championship final round after 16th hole confrontation - Yahoo Sports",
-      "link": "https://www.hitc.com/rory-mcilroy-has-fan-kicked-out-during-pga-championship-final-round-after-16th-hole-confrontation/"
-    },
-    {
-      "title": "2026 Indy 500 - Full qualifying results - racingnews365.com",
-      "link": "https://racingnews365.com/2026-indy-500---full-qualifying-results"
+      "title": "Caitlin Clark has 21 points with 10 assists to lead Fever to 89-78 win over Storm - NBC Sports",
+      "link": "https://www.nbcsports.com/wnba/news/caitlin-clark-has-21-points-with-10-assists-to-lead-fever-to-89-78-win-over-storm"
     }
   ],
   "weather": {
