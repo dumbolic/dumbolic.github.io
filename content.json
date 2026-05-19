@@ -1,9 +1,9 @@
 {
-  "quote": "Not everything that weighs you down is yours to carry. \u2013 Unknown",
-  "fact": "Spain leads the world in cork production",
-  "crypto": "BTC: $76,853 | ETH: $2,116.25",
+  "quote": "What loneliness is more lonely than distrust? \u2013 George Eliot",
+  "fact": "Van Gogh only sold one painting when he was alive.",
+  "crypto": "BTC: $76,866 | ETH: $2,114.32",
   "tip": "Keep your software dependencies updated.",
-  "joke": "My son is studying to be a surgeon, I just hope he makes the cut.",
+  "joke": "My cat was just sick on the carpet, I don\u2019t think it\u2019s feline well.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "PS Plus Price Increase Announced by Sony for New Members - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/05/ps-plus-price-increase-announced-by-sony-for-new-members"
+      "title": "Introducing XBOX Player Voice: A Simpler Way to Share Feedback - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/05/18/introducing-xbox-player-voice/"
+    },
+    {
+      "title": "The Dory Sign is E ink, smart screen simplicity at its finest - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/"
+    },
+    {
+      "title": "Marvel Cosmic Invasion DLC Adds Two New Fighters Today - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/05/marvel-cosmic-invasion-dlc-adds-two-new-fighters-today"
+    },
+    {
+      "title": "Google is rolling out its redesigned Workspace app icons - The Verge",
+      "link": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign"
+    },
+    {
+      "title": "Sony is raising short-subscription prices for PlayStation Plus - The Verge",
+      "link": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise"
+    },
+    {
+      "title": "Walmart just launched six new Android 16 tablets starting at $97, and they look shockingly decent [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/05/18/walmart-onn-new-android-tablets-2026/"
+    },
+    {
+      "title": "Apple Watch Ultra 4 Could Get Redesign and Blood Pressure Monitoring - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/18/apple-watch-ultra-4-redesign-and-blood-pressure/"
+    },
+    {
+      "title": "CD Projekt Red has enlisted Destiny 2: The Final Shape's narrative lead for The Witcher multiplayer spin-off Project Sirius - Eurogamer",
+      "link": "https://www.eurogamer.net/the-witcher-project-sirius-recruits-destiny-2-narrative-lead"
     },
     {
       "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more) - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/"
+    },
+    {
+      "title": "Don't Panic, But If You\u2019re Old Enough To Recognize Even ONE Of These 35 Pictures, You Are Officially Ancient - buzzfeed.com",
+      "link": "https://www.buzzfeed.com/daves4/if-you-recognize-these-pictures-you-are-old-gen-x"
     },
     {
       "title": "Players Sue Sony Over PS5 Tariff 'Windfall' - Kotaku",
@@ -28,20 +60,24 @@
       "link": "https://9to5mac.com/2026/05/18/new-iphone-ultra-leaks-cover-release-timing-display-breakthrough-more/"
     },
     {
+      "title": "Those GTA 6 Preorder Rumors Appear To Be Another False Alarm - GameSpot",
+      "link": "https://www.gamespot.com/articles/those-gta-6-preorder-rumors-appear-to-be-another-false-alarm/1100-6540008/"
+    },
+    {
       "title": "It's Official, Nintendo Is Heading To Gamescom This Year - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/05/its-official-nintendo-is-heading-to-gamescom-this-year"
     },
     {
-      "title": "MARVEL Cosmic Invasion DLC characters Cyclops and The Thing now available - Gematsu",
-      "link": "https://www.gematsu.com/2026/05/marvel-cosmic-invasion-dlc-characters-cyclops-and-the-thing-now-available"
+      "title": "Nintendo\u2019s Ongoing Pok\u00e9mon Patent Lawsuit Takes Another Hit - Kotaku",
+      "link": "https://kotaku.com/nintendo-pokemon-palworld-lawsuit-patent-touch-screen-2000697059"
     },
     {
       "title": "Batman Games Begin: The Origins of the Dark Knight in Video Games - IGN",
       "link": "https://www.ign.com/articles/batman-games-begin-the-origins-of-the-dark-knight-in-video-games"
     },
     {
-      "title": "Gboard Material 3 Expressive redesign of shortcuts more widely rolling out - 9to5Google",
-      "link": "http://9to5google.com/2026/05/18/gboard-shortcuts-redesign-beta-wide/"
+      "title": "Galaxy Z Fold 8 and \u2018Wide\u2019 specs leak with alleged battery and camera upgrades - 9to5Google",
+      "link": "http://9to5google.com/2026/05/18/samsung-galaxy-z-fold-8-specs-leak/"
     },
     {
       "title": "Linus Torvalds says Linux security list is becoming \u2018unmanageable\u2019 due to AI bug reports - The Verge",
@@ -52,114 +88,90 @@
       "link": "https://www.eurogamer.net/final-fantasy-6-remake-teaser-ai-reaction"
     },
     {
-      "title": "Apple Watch Ultra 4 getting two major new upgrades, per report - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/18/apple-watch-ultra-4-getting-two-major-new-upgrades-per-report/"
-    },
-    {
       "title": "The Adventures of Elliot\u2019s development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it\u2019s done - Eurogamer",
       "link": "https://www.eurogamer.net/the-adventures-of-elliot-minigame-preview"
-    },
-    {
-      "title": "Gradient Google icon redesign starts rolling out - 9to5Google",
-      "link": "http://9to5google.com/2026/05/18/gradient-google-icon-redesign-web/"
-    },
-    {
-      "title": "Microsoft Confirms Active 0-Day Exploit\u2014Check Emergency Mitigation Now - Forbes",
-      "link": "https://www.forbes.com/sites/daveywinder/2026/05/18/microsoft-exchange-active-0-day-exploit-enable-emergency-mitigation-now/"
-    },
-    {
-      "title": "#New40k rules\u2013 More dakka than you can shake a rig at - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/begrgyld/new40k-rules-more-dakka-than-you-can-shake-a-rig-at"
-    },
-    {
-      "title": "Here's Why Switch 2 GameChat Actually Boosts Performance in Pragmata - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/05/heres-why-switch-2-gamechat-actually-boosts-performance-in-pragmata"
-    },
-    {
-      "title": "'The Conversation Around the Ways Fish Die Isn't Over' \u2014 Subnautica 2 Dev Gives Players Hope Amid the Game's First Hot Topic Following Launch - IGN",
-      "link": "https://www.ign.com/articles/subnautica-2-dev-gives-players-hope-amid-the-games-first-hot-topic-following-launch"
-    },
-    {
-      "title": "After United Canceled Her Flight, An Agent Said \u201cNothing\u201d Could Be Done \u2014 But She Heard The Trash Talk In The Background - View from the Wing",
-      "link": "https://viewfromthewing.com/after-united-canceled-her-flight-an-agent-said-nothing-could-be-done-but-she-heard-the-trash-talk-in-the-background/"
-    },
-    {
-      "title": "LEGO Batman: Legacy of the Dark Knight Early Access and Full Release Times Confirmed - IGN",
-      "link": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-early-access-and-full-release-times-confirmed"
     }
   ],
   "sports_news": [
+    {
+      "title": "Sources: The Pirates are considering a Jhostynxon Garcia promotion to help replace Ryan O\u2019Hearn - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/pirates/2026/05/18/mlb-news-jhostynxon-garcia-ryan-ohearn-nick-yorke/stories/202605180029"
+    },
+    {
+      "title": "2026 NCAA Field Of 64 Projections: May 18 - D1Baseball",
+      "link": "https://d1baseball.com/postseason/2026-ncaa-field-of-64-projections-may-18/"
+    },
+    {
+      "title": "Owners will get \u201cspecial briefing\u201d on Bears\u2019 two stadium options - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-will-get-special-briefing-on-bears-two-stadium-options"
+    },
+    {
+      "title": "Trending Topics: Who will win Western Conference Finals & West Finals MVP? - NBA",
+      "link": "https://www.nba.com/news/trending-topics-2026-west-finals-predictions"
+    },
+    {
+      "title": "Canes Announce 2026 Conference Final Schedule - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/canes-announce-2026-conference-final-schedule"
+    },
+    {
+      "title": "Jon Jones: Getting out of UFC contract \u2018very, very possible\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/489220/jon-jones-getting-out-of-ufc-contract-very-very-possible"
+    },
     {
       "title": "Steelers announce the re-signing of Aaron Rodgers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-announce-the-re-signing-of-aaron-rodgers"
     },
     {
-      "title": "Conor McGregor, Max Holloway already engaging in war of words ahead of UFC 329: \u2018I\u2019m gonna son you, child\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/489189/conor-mcgregor-max-holloway-already-engaging-in-war-of-words-ahead-of-ufc-329-im-gonna-son-you-child"
+      "title": "A few reported candidates emerge for Sixers\u2019 president of basketball operations job - Liberty Ballers",
+      "link": "https://www.libertyballers.com/76ers-news/93549/sixers-president-of-basketball-operations-candidates-bob-myers-neil-olshey-vince-rozman-onsi-saleh-jameer-nelson"
     },
     {
-      "title": "Pirates To Promote Jhostynxon Garc\u00eda - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/pirates-to-promote-jhostynxon-garcia.html"
+      "title": "\u2018I trained with Gina Carano\u2019\u2026 Merab Dvalishvili is stunned by Ronda Rousey\u2019s rapid comeback win - Bloody Elbow",
+      "link": "https://bloodyelbow.com/2026/05/18/i-trained-with-gina-carano-merab-dvalishvili-is-stunned-by-ronda-rouseys-rapid-comeback-win/"
     },
     {
-      "title": "Winners and losers from 2026 Nurburgring 24 Hours - The Race",
-      "link": "https://www.the-race.com/gt/winners-losers-from-2026-nurburgring-24-hours/"
+      "title": "Urban Meyer loses his grievance against the Jaguars over unpaid salary - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/urban-meyer-loses-his-grievance-against-the-jaguars-over-unpaid-salary"
+    },
+    {
+      "title": "Rory McIlroy pinpoints the three holes which cost him a chance of winning the PGA Championship - hitc.com",
+      "link": "https://www.hitc.com/rory-mcilroy-pinpoints-the-three-holes-which-cost-him-a-chance-of-winning-the-pga-championship/"
     },
     {
       "title": "NCHSAA releases statement on Mallard Creek (NC) track athlete that was DQ\u2019d at state meet - Yahoo Sports",
       "link": "https://www.on3.com/high-school/news/nchsaa-releases-statement-on-mallard-creek-nc-track-athlete-that-was-dqd-at-state-meet/"
     },
     {
-      "title": "2026 NCAA Baseball Tournament Bracket: Projected Field Of 64 (Conference Tournament Week) - Baseball America",
-      "link": "https://www.baseballamerica.com/stories/2026-ncaa-baseball-tournament-bracket-projected-field-of-64-conference-tournament-week/"
-    },
-    {
       "title": "D1Baseball Top 25: UCLA remains No. 1, Tennessee is lone entrant - D1Baseball",
       "link": "https://d1baseball.com/stories/d1baseball-top-25-2/"
-    },
-    {
-      "title": "Ronda Rousey vs. Gina Carano Report: How do you grade MVP\u2019s first MMA event? - MMA Fighting",
-      "link": "https://www.mmafighting.com/mvp-mma/489030/ronda-rousey-vs-gina-carano-report-how-do-you-grade-mvps-first-mma-event"
     },
     {
       "title": "Predicting final AFC West standings for 2026: can Chiefs reclaim throne? - Arrowhead Pride",
       "link": "https://www.arrowheadpride.com/kansas-city-chiefs-schedule/202542/chiefs-schedule-2026-predicting-final-standings-afc-west"
     },
     {
-      "title": "Daryl Morey Was Always Going to Go Down Swinging - The Ringer",
-      "link": "https://www.theringer.com/2026/05/18/nba/daryl-morey-philadelphia-76ers-legacy-general-manager"
-    },
-    {
       "title": "Pistons Offseason Preview: How Detroit Can Get Cade Cunningham More Help After Playoff Exit - Sports Illustrated",
       "link": "https://www.si.com/nba/pistons/pistons-offseason-preview-how-detroit-can-get-cade-cunningham-help-playoff-exit"
-    },
-    {
-      "title": "Ludvig Aberg says what it was really like to play with Aaron Rai on Sunday at Aronimink - hitc.com",
-      "link": "https://www.hitc.com/ludvig-aberg-says-what-it-was-really-like-to-play-with-aaron-rai-on-sunday-at-aronimink/"
     },
     {
       "title": "Rory McIlroy defended after having spectator removed as what was shouted at him during round disclosed - Yahoo Sports",
       "link": "https://www.hitc.com/rory-mcilroy-defended-after-having-spectator-removed-as-what-was-shouted-at-him-during-round-disclosed/"
     },
     {
-      "title": "Roundtable: The most important stretch of the Lions\u2019 2026 schedule - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/164411/detroit-lions-2026-schedule-most-important-game-stretch-of-the-season"
-    },
-    {
       "title": "Knicks-Cavs conference finals will be determined by a new brand of Cleveland Kryptonite \u2014 Jimmy Watkins - Cleveland.com",
       "link": "https://www.cleveland.com/cavs/2026/05/knicks-cavs-conference-finals-will-be-determined-by-a-new-brand-of-cleveland-kryptonite-jimmy-watkins.html"
     },
     {
-      "title": "Winners and Losers From the Second Round of the NBA Playoffs - Sports Illustrated",
-      "link": "https://www.si.com/nba/playoffs/winners-and-losers-from-second-round-nba-playoffs"
+      "title": "Dodgers notes: Roki Sasaki, Eric Lauer, Ross Stripling - True Blue LA",
+      "link": "https://www.truebluela.com/los-angeles-dodgers-news-notes/116169/roki-sasaki-eric-lauer-ross-stripling"
+    },
+    {
+      "title": "Arsenal\u2019s Huge Win Likelihood vs Burnley, and What Happens When the Opta Supercomputer is Near-Certain - Opta Analyst",
+      "link": "https://theanalyst.com/articles/arsenal-prediction-vs-burnley-opta-supercomputer-huge-favourite"
     },
     {
       "title": "Vote on Nashville hosting Super Bowl LXIV in 2030 is expected this week - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-nashville-hosting-super-bowl-lxiv-in-2030-is-expected-this-week"
-    },
-    {
-      "title": "NFL on opening with Pats-Seahawks: Super Bowl rematch will never be more relevant than in Week 1 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-on-opening-with-pats-seahawks-super-bowl-rematch-will-never-be-more-relevant-than-in-week-1"
     }
   ],
   "weather": {
