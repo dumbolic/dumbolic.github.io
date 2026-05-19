@@ -1,9 +1,9 @@
 {
-  "quote": "Be royal in your own fashion: act like a king to be treated like one. \u2013 Robert Greene",
-  "fact": "Montpelier, Vermont is the only state capital without a McDonalds.",
-  "crypto": "BTC: $77,002 | ETH: $2,133.82",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I went to a Foo Fighters Concert once... It was Everlong...",
+  "quote": "Be yourself; everyone else is already taken. \u2013 Oscar Wilde",
+  "fact": "1 in 8 Americans has worked at a McDonalds restaurant.",
+  "crypto": "BTC: $76,702 | ETH: $2,123.51",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What did the doctor say to the gingerbread man who broke his leg? Try icing it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Report: Cancelled Star Wars KOTOR Remake Version Surfaces With Opening Cinematic - MP1st",
+      "link": "https://mp1st.com/news/report-cancelled-star-wars-kotor-remake-version-surfaces-with-opening-cinematic"
+    },
+    {
+      "title": "Microsoft is retiring Teams\u2019 Together Mode - The Verge",
+      "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode"
+    },
+    {
+      "title": "Thermal Grizzly adds wired WireView Pro II GPU with 40 cm 12V-2x6 cable - VideoCardz.com",
+      "link": "https://videocardz.com/newz/thermal-grizzly-adds-wired-wireview-pro-ii-gpu-with-40-cm-12v-2x6-cable"
+    },
+    {
+      "title": "Apple\u2019s Siri revamp could include auto-deleting chats - TechCrunch",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
+    },
+    {
+      "title": "5 Lexus Engines You Should Steer Clear Of - SlashGear",
+      "link": "https://www.slashgear.com/2172668/lexus-engines-you-should-steer-clear-of/"
+    },
+    {
+      "title": "ASUS shows custom ROG Xbox Ally X Cyberpunk 2077 Edition handheld - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-shows-custom-rog-xbox-ally-x-cyberpunk-2077-edition-handheld"
+    },
+    {
+      "title": "I almost gave up on Google Calendar until this Gemini hack fixed my main gripe - Android Police",
+      "link": "https://www.androidpolice.com/i-almost-gave-up-on-google-calendar-until-this-gemini-hack-fixed-my-main-gripe/"
+    },
+    {
       "title": "Splitgate Developer Making Titanfall Successor Called 'Empulse' - Kotaku",
       "link": "https://kotaku.com/splitgate-developer-said-he-wanted-titanfall-3-and-it-appears-hes-making-his-own-2000696833"
+    },
+    {
+      "title": "Samsung Warns Galaxy Users\u2014Delete \u2018High Risk Apps\u2019 - Forbes",
+      "link": "https://www.forbes.com/sites/zakdoffman/2026/05/17/samsung-warns-galaxy-users-to-delete-high-risk-apps/"
+    },
+    {
+      "title": "Take-Two CEO Reaffirms GTA 6 Release Date Once Again - Insider Gaming",
+      "link": "https://insider-gaming.com/take-two-ceo-reaffirms-gta-6-release-date-once-again/"
+    },
+    {
+      "title": "Sunday Preview \u2013 Mighty war machines in the Age of Darkness - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/cbleac3a/sunday-preview-mighty-war-machines-in-the-age-of-darkness"
+    },
+    {
+      "title": "I connected Gemini with Spotify and elevated my music experience in no time - Android Police",
+      "link": "https://www.androidpolice.com/connected-gemini-with-spotify-and-elevated-music-experience/"
     },
     {
       "title": "First Disney Store Limited Time Location Opening This Week - WDW News Today",
@@ -24,146 +68,102 @@
       "link": "http://9to5google.com/2026/05/17/google-hasnt-shown-any-reason-for-googlebook-laptops-to-exist-so-why-should-we-be-excited/"
     },
     {
-      "title": "Clair Obscur: Expedition 33 Takes The Top Spot At This Year\u2019s SGDQ - Kotaku",
-      "link": "https://kotaku.com/clair-obscur-expedition-33-takes-the-top-spot-at-this-years-sgdq-pragmata-saros-games-done-quick-2000696827"
-    },
-    {
-      "title": "ARC Raiders' World Is About To Get Much Bigger - ScreenRant",
-      "link": "https://screenrant.com/arc-raiders-new-maps-world-expansion-beyond-rust-belt/"
-    },
-    {
       "title": "Xbox Takes #1 Spot In Metacritic's Top 10 Video Games Of 2026 So Far - Pure Xbox",
       "link": "https://www.purexbox.com/news/2026/05/xbox-takes-1-spot-in-metacritics-top-10-video-games-of-2026-so-far"
+    },
+    {
+      "title": "First iPhone 18 Pro and iPhone 18 Pro Max cases revealed; might not fit iPhone 17 Pro - Notebookcheck",
+      "link": "https://www.notebookcheck.net/First-iPhone-18-Pro-and-iPhone-18-Pro-Max-cases-revealed-might-not-fit-iPhone-17-Pro.1298995.0.html"
     },
     {
       "title": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions - 9to5Mac",
       "link": "https://9to5mac.com/2026/05/17/report-apple-to-upgrade-genmoji-in-ios-27-with-new-automatic-suggestions/"
     },
     {
-      "title": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus - NBC News",
-      "link": "https://www.nbcnews.com/health/health-news/former-contagion-patients-describe-life-in-quarantine-amid-hantavirus-rcna344946"
+      "title": "Bank of America resets Google stock forecast before key event - thestreet.com",
+      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event"
     },
     {
       "title": "Amazon Stops Supporting Pre-2013 Kindles Today. Some Owners Turn to Jailbreaking - Slashdot",
       "link": "https://news.slashdot.org/story/26/05/17/0014220/amazon-stops-supporting-pre-2013-kindles-today-some-owners-turn-to-jailbreaking"
-    },
-    {
-      "title": "ASUS Republic of Gamers Announces ROG NUC 16 - ASUS Pressroom",
-      "link": "https://press.asus.com/news/press_releases/rog-nuc-16-compact-gaming-pc-rtx-5080-ai/"
-    },
-    {
-      "title": "Apple\u2019s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr"
-    },
-    {
-      "title": "Poll: So, Will You Be Getting Yoshi And The Mysterious Book For Switch 2? - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/05/poll-so-will-you-be-getting-yoshi-and-the-mysterious-book-for-switch-2"
-    },
-    {
-      "title": "'There's Truth to It': Sony 'Considering' Bringing Back Your Fave Franchises on PS5 - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/05/theres-truth-to-it-sony-considering-bringing-back-your-fave-franchises-on-ps5"
-    },
-    {
-      "title": "Subnautica 2's Early Access roadmap is here - Eurogamer",
-      "link": "https://www.eurogamer.net/subnautica-2s-early-access-roadmap-is-here"
-    },
-    {
-      "title": "Researchers built a switch 1,000 times faster than today's AI chips, and it barely generates any heat - TechSpot",
-      "link": "https://www.techspot.com/news/112430-researchers-built-switch-1000-times-faster-than-today.html"
-    },
-    {
-      "title": "Juufuutei Raden\u2019s Guide for Pixel Museum DLC \u2018Hakone Travelogue\u2019 announced - Gematsu",
-      "link": "https://www.gematsu.com/2026/05/juufuutei-radens-guide-for-pixel-museum-dlc-hakone-travelogue-announced"
-    },
-    {
-      "title": "Walmart Introduces Two New High-End ONN Android Tablets Blending Premium Features with Affordable Pricing - | Cord Cutters News",
-      "link": "https://cordcuttersnews.com/walmart-introduces-two-new-high-end-onn-android-tablets-blending-premium-features-with-affordable-pricing/"
-    },
-    {
-      "title": "ASUS Demos Its First \u201cROG\u201d DDR5 Memory Running at 8800 MT/s On Its Crosshair X870E APEX Motherboard - Wccftech",
-      "link": "https://wccftech.com/asus-demos-first-rog-ddr5-memory-running-at-8800-mtps-on-its-crosshair-x870e-apex/"
-    },
-    {
-      "title": "A woman turned her parents' garage into her apartment to make room for her grandparents in the main house - Yahoo News Malaysia",
-      "link": "https://www.businessinsider.com/woman-moved-into-parents-garage-to-make-room-for-grandparents-2026-5"
     }
   ],
   "sports_news": [
     {
-      "title": "Indy 500 Fast 12 set as Josef Newgarden struggles in qualifying surprise - Motorsport.com",
-      "link": "https://www.motorsport.com/indycar/news/indy-500-fast-12-set-as-josef-newgarden-struggles-in-qualifying-surprise/10821765/"
+      "title": "PGA Championship purse, payouts: How much did Aaron Rai earn for his win this week at Aronimink? - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/breaking-news/article/pga-championship-purse-payouts-how-much-did-aaron-rai-earn-for-his-win-this-week-at-aronimink-134659369.html"
+    },
+    {
+      "title": "Alex Palou delivers crushing final run to claim Indy 500 pole, Rossi second - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/alex-palou-delivers-crushing-final-run-to-claim-indy-500-pole-at-indianapolis/10821792/"
+    },
+    {
+      "title": "Huskers Hold Off Lopes to Advance to Super Regionals - University of Nebraska - Official Athletics Website - huskers.com",
+      "link": "https://huskers.com/news/2026/05/17/huskers-hold-off-lopes-to-advance-to-super-regionals"
+    },
+    {
+      "title": "Cavaliers vs. Pistons odds, line: Proven model reveals picks for NBA Eastern Conference semifinal Game 7 matchup on Sunday, May 17 - SportsLine",
+      "link": "https://www.sportsline.com/insiders/cavaliers-vs-pistons-odds-line-proven-model-reveals-picks-for-nba-eastern-conference-semifinal-game-7-matchup-on-sunday-may-17/"
+    },
+    {
+      "title": "Pre-Gamin\u2019: Cubs vs White Sox (1:10 CT) \u2013 Lineups, Broadcast Info, Game Thread - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/05/17/cubs-lineup-51726/"
+    },
+    {
+      "title": "Columbus Crew relieve Henrik Rydstr\u00f6m of head coaching duties - Columbus Crew",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmdrNlc2U0VpNGpYOHNoWldYNXRSdmFYZUhiWWViR2c3RE5sRUVGZXBhbEo5bUdpX0huYUN4aG1aQW9UWU0tU3VtMUxMUTB1dTcxaXlUM3dpTVlHQjNweWo3UTVIRTNFT0dhMnMyZnFDajhpMWRlSkY2bThCNXN0clkta1BXTm1OeGFMNG1vODA2YVNlSHhVRUtvUQ?oc=5"
+    },
+    {
+      "title": "David Bednar\u2019s blown save leads to crushing Yankees loss in extras - Pinstripe Alley",
+      "link": "https://www.pinstripealley.com/yankees-scores-standings/188541/yankees-subway-series-lose-mets-score-recap-homer-bednar-taylor-walkoff"
+    },
+    {
+      "title": "West Ham: How have the club ended up facing relegation from Premier League? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cj3pj3nzl62o"
+    },
+    {
+      "title": "Shohei Ohtani Adds \"Little League Home Run\" To His R\u00e9sum\u00e9 - Defector",
+      "link": "https://defector.com/shohei-ohtani-adds-little-league-home-run-to-his-resume"
+    },
+    {
+      "title": "Mariners call up 20-year-old No. 1 prospect Colt Emerson - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-promote-colt-emerson-to-majors/"
+    },
+    {
+      "title": "Xabi Alonso wants to \u2018sign and create mentality monsters\u2019 at Chelsea \u2014 report - We Ain't Got No History",
+      "link": "https://weaintgotnohistory.sbnation.com/premier-league/168728/xabi-alonso-wants-to-sign-and-create-mentality-monsters-at-chelsea-report"
+    },
+    {
+      "title": "Brandon Clarke\u2019s Fianc\u00e9e Amber Lorraine Breaks Silence Over Death In Tribute - TMZ",
+      "link": "https://www.tmz.com/2026/05/17/brandon-clarke-fiancee-on-his-death/"
+    },
+    {
+      "title": "Dak Prescott's Ex Sarah Jane Ramos' Bridesmaid Shuts Down Rumors She's Dating Him - TMZ",
+      "link": "https://www.tmz.com/2026/05/17/dak-prescott-not-dating-sarah-janes-bridesmaid/"
+    },
+    {
+      "title": "Diamondbacks Game vs Rockies Delayed Due to Weather - Sports Illustrated",
+      "link": "https://www.si.com/mlb/diamondbacks/onsi/diamondbacks-game-rockies-delayed-weather"
+    },
+    {
+      "title": "Avalanche Practice: New Face on the Blueline; Others Join Full Skate - Colorado Hockey Now",
+      "link": "https://coloradohockeynow.com/avalanche-practice-new-face-on-the-blueline-others-join-full-skate/"
+    },
+    {
+      "title": "NFL couldn't have made a bigger mistake with the Patriots' 2026 schedule than this - Musket Fire",
+      "link": "https://musketfire.com/nfl-couldn-t-have-made-a-bigger-mistake-with-the-patriots-2026-schedule-than-this-01krpbasysy2"
+    },
+    {
+      "title": "Jannik Sinner Breaks 50-Year Drought and Matches Novak Djokovic's Record with Italian Masters Win - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25428850-jannik-sinner-breaks-50-year-drought-and-matches-novak-djokovics-record-italian-masters-win"
     },
     {
       "title": "PGA Championship 2026 LIVE updates: Leaderboard, scores, highlights and news from final round - Golf Channel",
       "link": "https://www.golfchannel.com/pga-of-america/live/pga-championship-2026-live-updates-leaderboard-scores-highlights-and-news-from-final-round"
     },
     {
-      "title": "Cavaliers vs Pistons Prediction, Pick, Odds: Don\u2019t Worry About Home-Court in Game 7 - Action Network",
-      "link": "https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-detroit-pistons-prediction-pick-odds-for-nba-playoffs-game-7"
-    },
-    {
-      "title": "How does Jannik Sinner compare to Djokovic, Nadal and Federer after Italian Open win? - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cn4p7njep5ko"
-    },
-    {
       "title": "Despite a little bit of drama, the Steelers still got Aaron Rodgers in the door before OTAs - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/steelers/2026/05/17/aaron-rodgers-contract-details-nfl-news-pittsburgh/stories/202605170093"
-    },
-    {
-      "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 5/17 & 5/18 & 5/19 - Pitcher List",
-      "link": "http://pitcherlist.com/starting-pitcher-streamer-ranks-fantasy-baseball-5-17-5-18-5-19/"
-    },
-    {
-      "title": "Fun photos of the best costumes from San Francisco's Bay to Breakers race - SFGATE",
-      "link": "https://www.sfgate.com/sf-culture/article/bay-to-breakers-photos-22247285.php"
-    },
-    {
-      "title": "Max Verstappen reacts to saddening N\u00fcrburgring 24 Hours failure - racingnews365.com",
-      "link": "https://racingnews365.com/max-verstappen-reacts-to-saddening-nurburgring-24-hours-failure"
-    },
-    {
-      "title": "As it happened: GC stars put on a show as gap to pink shrinks again after stage 9 of Giro d'Italia 2026 - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/live/giro-d-italia-stage-9-live-big-summit-finish-on-the-menu-at-corno-alle-scale-with-gc-action-almost-certain/"
-    },
-    {
-      "title": "Ronda Rousey defeats Gina Carano seconds into joint comeback match - CBS News",
-      "link": "https://www.cbsnews.com/news/ronda-rousey-gina-carano-mma-joint-comeback-match/"
-    },
-    {
-      "title": "MotoGP's \u00c1lex M\u00e1rquez, Johann Zarco go to hospital after crashes - ESPN",
-      "link": "https://www.espn.com/racing/story/_/id/48796460/motogp-alex-marquez-johann-zarco-go-hospital-crashes"
-    },
-    {
-      "title": "Bruno Fernandes equals Premier League assists record - what do the stats say? - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c78rlgvl9lno"
-    },
-    {
-      "title": "Jim Rome: NFL opening 2026 season with Seahawks-Patriots because of Mike Vrabel controversy - Awful Announcing",
-      "link": "https://awfulannouncing.com/nfl/jim-rome-opening-season-seahawks-patriots-mike-vrabel-controversy.html"
-    },
-    {
-      "title": "Don\u2019t blame the NFL for Detroit Lions\u2019 lack of post-Germany bye week - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-schedule/164594/dont-blame-nfl-detroit-lions-lack-post-germany-bye-week"
-    },
-    {
-      "title": "Five things Syracuse lacrosse did right against UNC to get back to final four - Syracuse.com",
-      "link": "https://www.syracuse.com/orangelacrosse/2026/05/5-things-syracuse-lacrosse-did-right-against-unc-to-get-back-to-final-four.html"
-    },
-    {
-      "title": "Rory McIlroy overtakes Jack Nicklaus and trails only Tiger Woods on elite list after his 67 at the PGA - hitc.com",
-      "link": "https://www.hitc.com/rory-mcilroy-overtakes-jack-nicklaus-and-trails-only-tiger-woods-on-elite-list-after-his-67-at-the-pga/"
-    },
-    {
-      "title": "Morning Briefing: Clay Holmes Does Not Need Surgery - Metsmerized Online",
-      "link": "https://metsmerizedonline.com/morning-briefing-clay-holmes-does-not-need-surgery/"
-    },
-    {
-      "title": "Francis Ngannou gives opponent $100,000 in act of kindness after viciously knocking him out - Bloody Elbow",
-      "link": "https://bloodyelbow.com/2026/05/17/francis-ngannou-gives-opponent-100000-in-act-of-kindness-after-viciously-knocking-him-out/"
-    },
-    {
-      "title": "Golf fans slam Shane Lowry for his 'insufferable' comments straight after his third round at the PGA - hitc.com",
-      "link": "https://www.hitc.com/golf-fans-slam-shane-lowry-for-his-insufferable-comments-straight-after-his-third-round-at-the-pga/"
     }
   ],
   "weather": {
