@@ -1,9 +1,9 @@
 {
-  "quote": "An intelligence test sometimes shows a man how smart he would have been not to have taken it. \u2013 Laurence J. Peter",
-  "fact": "The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.",
-  "crypto": "BTC: $76,718 | ETH: $2,129.22",
+  "quote": "Everything is possible. The impossible just takes longer. \u2013 Dan Brown",
+  "fact": "In ancient Greece \"idiot\" meant a private citizen or layman.",
+  "crypto": "BTC: $76,630 | ETH: $2,112.03",
   "tip": "Commit often with meaningful messages.",
-  "joke": "\"I'll call you later.\" Don't call me later, call me Dad.",
+  "joke": "Why is no one friends with Dracula? Because he's a pain in the neck.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "AirPods with cameras suddenly make a lot more sense after this new reveal - 9to5Mac",
+      "link": "https://9to5mac.com/2026/05/22/airpods-with-cameras-suddenly-make-a-lot-more-sense-after-this-new-reveal/"
+    },
+    {
+      "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees - Fortune",
+      "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
+    },
+    {
       "title": "iPhone 18 Pro leak reveals brand new colors that could be coming - 9to5Mac",
       "link": "https://9to5mac.com/2026/05/22/iphone-18-pro-leak-reveals-brand-new-colors-that-could-be-coming/"
     },
     {
-      "title": "PSA: The Steam Controller\u2019s magnetic charger can be a fire hazard - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/"
+      "title": "iOS 26.5.1 Update for iPhones is Coming Soon - MacRumors",
+      "link": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/"
     },
     {
       "title": "You can no longer Google the word \u2018disregard\u2019 - TechCrunch",
       "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/"
     },
     {
-      "title": "Aliens: Fireteam Elite 2 Adds Exactly What You Wanted: A 4th Player and Smarter Xenos - IGN",
-      "link": "https://www.ign.com/articles/aliens-fireteam-elite-2-the-first-preview-ign-first"
-    },
-    {
       "title": "Random: Nintendo's New Yoshi Game Contains A Galactic Easter Egg - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/05/random-nintendos-new-yoshi-game-contains-a-galactic-easter-egg"
+    },
+    {
+      "title": "Aliens: Fireteam Elite 2 Adds Exactly What You Wanted: A 4th Player and Smarter Xenos - IGN",
+      "link": "https://www.ign.com/articles/aliens-fireteam-elite-2-the-first-preview-ign-first"
     },
     {
       "title": "We tried Google\u2019s AI glasses and they\u2019re almost there - TechCrunch",
@@ -40,16 +48,32 @@
       "link": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-rebirth-dev-regrets-brutal-ps5-platinum-trophy"
     },
     {
+      "title": "Snap\u2019s AR Glasses May Launch Soon With a Jaw-Dropping Pricing - Gizmodo",
+      "link": "https://gizmodo.com/snaps-ar-glasses-may-launch-soon-with-a-jaw-dropping-pricing-2000762457"
+    },
+    {
       "title": "Warhammer 40,000: Chaos Gate \u2013 Deathwatch: Redefined Brutal Turn-Based Tactics on XBOX - XBOX Wire",
       "link": "https://news.xbox.com/en-us/2026/05/22/warhammer-40k-chaos-gate-deathwatch-announcement/"
+    },
+    {
+      "title": "Even If You Hate AI, You Will Use Google AI Search - WIRED",
+      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
     },
     {
       "title": "#New40k rules \u2013 Da biggest and best Orks in da box - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/uwdimgen/new40k-rules-da-biggest-and-best-orks-in-da-box"
     },
     {
+      "title": "Google has apparently ended updates for every Chromecast except one - 9to5Google",
+      "link": "http://9to5google.com/2026/05/22/google-chromecast-updates-ended/"
+    },
+    {
       "title": "Android 17 QPR1 Beta 3 finally enables partial screenshots, but not for everyone - Android Authority",
       "link": "https://www.androidauthority.com/android-17-qpr1-beta-3-partial-screenshot-screen-recording-toolbar-3670201/"
+    },
+    {
+      "title": "PSA \u2013 Valve's Steam Controller Puck Could Try to Charge Your Metal Watch Strap, to Dramatic Effect - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/news/2026/05/psa-n-valves-steam-controller-puck-could-try-to-charge-your-metal-watch-strap-to-dramatic-effect"
     },
     {
       "title": "Meta has released two new apps for iPhone this month - 9to5Mac",
@@ -66,44 +90,44 @@
     {
       "title": "Death from the skies \u2013 Looking back at a legacy of Land Speeders - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/focsgyaf/death-from-the-skies-looking-back-at-a-legacy-of-land-speeders"
-    },
-    {
-      "title": "Valorant's new Vanguard update seems to be bricking cheaters' PCs. Riot's response? \"Congrats on your $6k paperweights\" - PCGamesN",
-      "link": "https://www.pcgamesn.com/valorant/vanguard-update-bricking-pcs-riot-response"
-    },
-    {
-      "title": "Google reveals first Wear OS widget partners and explains how the new system saves battery - Android Authority",
-      "link": "https://www.androidauthority.com/google-wear-os-7-wear-widgets-early-partners-availability-features-3670112/"
-    },
-    {
-      "title": "Why cruise ships are sailing to a phantom destination that doesn\u2019t appear on any map - CNN",
-      "link": "https://www.cnn.com/travel/visiting-null-island-cruises"
-    },
-    {
-      "title": "Google has tripled Gemini usage limits for Antigravity, twice - 9to5Google",
-      "link": "http://9to5google.com/2026/05/21/google-has-tripled-gemini-usage-limits-for-antigravity-twice/"
-    },
-    {
-      "title": "T-Mobile Unveils New Razr Lineup With Big Discounts and a New Fold Model - TmoNews",
-      "link": "https://www.tmonews.com/2026/05/t-mobile-unveils-new-razr-lineup-with-big-discounts-and-a-new-fold-model/"
     }
   ],
   "sports_news": [
+    {
+      "title": "LIVE: F1 Canadian Grand Prix updates - sprint qualifying up next | Live text - Motorsport.com",
+      "link": "https://www.motorsport.com/f1/live-text/f1-canadian-gp-live-commentary-and-updates-sprint-qualifying/1126849/"
+    },
+    {
+      "title": "Giants are having a no good, very bad week - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/general/175931/giants-bad-news-week-injury-updates-malik-nabers-joe-schoen"
+    },
+    {
+      "title": "Mets Designate Craig Kimbrel For Assignment, Recall Jonah Tong - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/mets-designate-craig-kimbrel-for-assignment-recall-jonah-tong.html"
+    },
+    {
+      "title": "NASCAR great Kyle Busch was coughing up blood day before he died, 911 call says - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/US/nascar-great-kyle-busch-coughing-blood-day-died/story?id\\\\u003d133228671"
+    },
+    {
+      "title": "Usyk vs. Rico weigh-in results: Rico Verhoeven 25 pounds heaver than Oleksandr Usyk - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/489975/usyk-vs-rico-weigh-in-results-rico-verhoeven-25-pounds-heaver-than-oleksandr-usyk"
+    },
+    {
+      "title": "Trevor Story Undergoes Hernia Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/05/trevor-story-undergoes-hernia-surgery.html"
+    },
+    {
+      "title": "Schefter Gives Worrying Malik Nabers Injury Update, Talks Timeline for Giants WR's Return in Video - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25430230-schefter-gives-worrying-malik-nabers-injury-update-talks-timeline-giants-wrs-return-video"
+    },
     {
       "title": "Harry Maguire 'very unlucky' to miss out on England squad - Wayne Rooney - BBC",
       "link": "https://www.bbc.com/sport/football/articles/c4g02kdwp4go"
     },
     {
-      "title": "911 call from Concord simulator facility reveals man was 'coughing up blood' the day Kyle Busch reportedly fell ill - WCNC",
-      "link": "https://www.wcnc.com/article/news/local/911-call-from-gm-charlotte-technical-center/275-ed9cd9cd-b24d-4955-8844-c3151c640a73"
-    },
-    {
       "title": "New Jason Kidd Rumors Reveal Mavs' Mindset on 'Potential Power Struggle' After HC's Firing - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25430201-new-jason-kidd-rumors-reveal-mavs-mindset-potential-power-struggle-after-hcs-firing"
-    },
-    {
-      "title": "LIVE: 2026 F1 Canadian Grand Prix - Free Practice - racingnews365.com",
-      "link": "https://racingnews365.com/live-2026-f1-canadian-grand-prix-free-practice"
     },
     {
       "title": "Haslam Sports Group to name Tim Bezbatchenko President of Global Soccer - Columbus Crew",
@@ -122,28 +146,20 @@
       "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo"
     },
     {
-      "title": "Former Steelers Coach Told Broadcaster Why Aaron Rodgers\u2019 Return Was \u2018Needed\u2019 - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/05/former-steelers-coach-told-broadcaster-why-aaron-rodgers-return-was-needed/"
-    },
-    {
       "title": "MLB Insider: What could the Detroit Tigers get in a Tarik Skubal trade? - FanSided",
       "link": "https://fansided.com/mlb/mlb-insider-what-could-the-detroit-tigers-get-in-a-tarik-skubal-trade"
-    },
-    {
-      "title": "Rico Verhoeven explains why he chose boxing Oleksandr Usyk over UFC offer, plans to \u2018shock the world\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/boxing/489761/rico-verhoeven-explains-decision-why-he-chose-boxing-oleksandr-usyk-over-ufc-offer-plans-to-shock-the-world"
     },
     {
       "title": "Ty Simpson Q&A: Ignoring the Noise Around the Rams Drafting Him No. 13 - Sports Illustrated",
       "link": "https://www.si.com/nfl/ty-simpson-qa-ignoring-noise-rams-draft"
     },
     {
-      "title": "Giants\u2019 Roy Robertson-Harris suffers torn Achilles at OTAs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-roy-robertson-harris-suffers-torn-achilles-at-otas"
+      "title": "The Best and Worst \u2018Last Dance\u2019 QB Seasons in NFL History As Aaron Rodgers Enters Final Year - Sports Illustrated",
+      "link": "https://www.si.com/nfl/steelers/best-worst-last-dance-qb-seasons-nfl-history-aaron-rodgers-final-year"
     },
     {
-      "title": "4 takeaways: Knicks' starting lineup delivers in big Game 2 win over Cavaliers - NBA",
-      "link": "https://www.nba.com/news/4-takeaways-cavaliers-knicks-game-2"
+      "title": "John Harbaugh stresses a different kind of competition in non-contact offseason practices - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-stresses-a-different-kind-of-competition-in-non-contact-offseason-practices"
     },
     {
       "title": "Game One of Super Regional to Resume Friday at 4 p.m. - University of Nebraska - Official Athletics Website - huskers.com",
@@ -154,20 +170,8 @@
       "link": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-roster-gozo-richards-mckennie-pulisic"
     },
     {
-      "title": "Recap: Canes Drop Game 1, Suffer First Loss Of The Playoffs - NHL.com",
-      "link": "https://www.nhl.com/hurricanes/news/recap-canes-drop-game-1-suffer-first-loss-of-the-playoffs"
-    },
-    {
-      "title": "It was painful to watch Cavs miss shot after shot, including at the foul line \u2013 Terry Pluto - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2026/05/it-was-painful-to-watch-cavs-miss-shot-after-shot-including-at-the-foul-line-terry-pluto.html"
-    },
-    {
-      "title": "Practice Report (5/21): View from the sideline - Giants.com",
-      "link": "https://www.giants.com/news/practice-report-5-21-view-from-the-sideline"
-    },
-    {
-      "title": "Sean Mannion talks about his vision for the Eagles\u2019 offense - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/175888/sean-mannion-eagles-introductory-press-conference-comments-scheme-jalen-hurts"
+      "title": "Knicks pull away in third, get 26 points from Josh Hart, comfortably win 109-93, take 2-0 series lead - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/knicks-pull-away-in-third-get-26-points-from-josh-hart-comfortably-win-109-93-take-2-0-series-lead"
     }
   ],
   "weather": {
