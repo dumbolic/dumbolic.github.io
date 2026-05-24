@@ -1,9 +1,9 @@
 {
-  "quote": "Success is built sequentially. It's one thing at a time. \u2013 Gary Keller",
-  "fact": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
-  "crypto": "BTC: $76,971 | ETH: $2,116.61",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "The best time on a clock is 6:30--hands down.",
+  "quote": "However difficult life may seem, there is always something you can do and succeed at. \u2013 Stephen Hawking",
+  "fact": "Tigers not only have striped fur, they have striped skin!",
+  "crypto": "BTC: $76,351 | ETH: $2,091.35",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Guy told me today he did not know what cloning is. I told him, \"that makes 2 of us.\"",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "We can now track animal panic from space. Here's why it matters - BBC",
+      "link": "https://www.bbc.com/future/article/20260521-tracking-animal-panic-from-space"
+    },
     {
       "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
       "link": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/"
@@ -20,8 +24,8 @@
       "link": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/"
     },
     {
-      "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/"
+      "title": "Blue Origin completes investigation into New Glenn launch failure - SpaceNews",
+      "link": "http://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/"
     },
     {
       "title": "'It's Nuts': Major PS5 Security Vulnerability Exposed, And We're All At Risk - Push Square",
@@ -32,8 +36,16 @@
       "link": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/"
     },
     {
+      "title": "Gemini app for Mac adding \u2018Spark\u2019 agent and voice control this summer - 9to5Google",
+      "link": "http://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/"
+    },
+    {
       "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019 - TechCrunch",
       "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
+    },
+    {
+      "title": "'The Most Important Thing Is People Can Play at Launch': Gothic PS5 Remake Misses the Mark with Mandated Download - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/05/the-most-important-thing-is-people-can-play-at-launch-gothic-ps5-remake-misses-the-mark-with-mandated-download"
     },
     {
       "title": "CNN Tested 15 Travel Cameras \u2014 And This Fujifilm Model Won the Battle - Fuji Rumors",
@@ -42,10 +54,6 @@
     {
       "title": "Riot Claims Valorant Anti-Cheat Software Isn't Bricking PCs - Kotaku",
       "link": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675"
-    },
-    {
-      "title": "Physical Copies Of A Remake Of A 25-Year-Old RPG Are Unplayable Without A Day-One Update - Kotaku",
-      "link": "https://kotaku.com/gothic-remake-rpg-day-one-physical-internet-connection-update-required-thq-2000698754"
     },
     {
       "title": "Paralives Announces Launch Discount And Post-Release Roadmap - Sims Community",
@@ -78,21 +86,25 @@
     {
       "title": "We tried Google\u2019s AI glasses and they\u2019re almost there - TechCrunch",
       "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
-    },
-    {
-      "title": "Even If You Hate AI, You Will Use Google AI Search - WIRED",
-      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
-    },
-    {
-      "title": "Warhammer 40,000 Fans Will Play Both Dawn of War IV and Total War: Warhammer 40,000, King Art Believes - IGN",
-      "link": "https://www.ign.com/articles/dawn-of-war-iv-dev-doesnt-see-total-war-warhammer-40000-as-direct-competition-reckons-fans-will-play-both-games"
-    },
-    {
-      "title": "Apple Memorial Day sales bring major discounts on MacBooks, AirPods, iPads and more - Yahoo Tech",
-      "link": "https://tech.yahoo.com/deals/breaking-news/article/apple-memorial-day-sales-bring-major-discounts-on-macbooks-airpods-ipads-and-more-134656293.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "North Korean side Naegohyang wins Asian Champions League in South Korea - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cdxpz1p8nw4o"
+    },
+    {
+      "title": "Man Utd\u2019s Fernandes trumps Arsenal to Premier League player of season award - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award"
+    },
+    {
+      "title": "DR Congo players told to isolate before World Cup - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo"
+    },
+    {
+      "title": "SGA Reacts to 'Flopper' Chants From Spurs Fans After Thunder Win WCF Game 3, 'Doesn't Fuel Me' - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25430376-sga-reacts-flopper-chants-spurs-fans-after-thunder-win-wcf-game-3-doesnt-fuel-me"
+    },
     {
       "title": "De'Aaron Fox, Dylan Harper cleared for Game 3, Jalen Williams ruled out - NBA",
       "link": "https://www.nba.com/news/spurs-guards-deaaron-fox-dylan-harper-cleared-to-play-in-game-3-but-thunders-jalen-williams-ruled-out"
@@ -156,22 +168,6 @@
     {
       "title": "Russell grabs pole position in Canada Sprint Qualifying ahead of Antonelli and Norris - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/russell-grabs-pole-position-in-canada-sprint-qualifying-ahead-of-antonelli-and-norris.7Fm9bjk84nwzOysiMriBCs"
-    },
-    {
-      "title": "Women's Lacrosse Races Past Maryland, 16-6, Into NCAA Final - University of North Carolina Athletics",
-      "link": "https://goheels.com/news/2026/5/22/womens-lacrosse-wlax-ncaa-recap-vs-maryland-052226"
-    },
-    {
-      "title": "Video: Brawl breaks out at PFL Brussels ceremonial weigh-ins, Dan Hardy caught in the middle - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/490030/video-brawl-breaks-out-at-pfl-brussels-ceremonial-weigh-ins-dan-hardy-caught-in-the-middle"
-    },
-    {
-      "title": "Jacoby Brissett not close to reworked deal with Cardinals - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48846780/jacoby-brissett-not-close-reworked-deal-cardinals"
-    },
-    {
-      "title": "Florida Governor Ron DeSantis signs \"Teddy Bridgewater Act\" bill into law - On3",
-      "link": "https://www.on3.com/high-school/news/florida-governor-ron-desantis-signs-teddy-bridgewater-act-bill-into-law/"
     }
   ],
   "weather": {
