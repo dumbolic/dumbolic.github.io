@@ -1,9 +1,9 @@
 {
-  "quote": "Fools talk, cowards are silent, wise men listen. \u2013 Carlos Ruiz Zafon",
-  "fact": "The penguin is the only bird that can swim but can't fly.",
-  "crypto": "BTC: $73,542 | ETH: $2,008.94",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What does a female snake use for support? A co-Bra!",
+  "quote": "The most important things are the hardest to say. \u2013 Stephen King",
+  "fact": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
+  "crypto": "BTC: $73,044 | ETH: $1,996.61",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The Outer Worlds 'Free' PS5 Upgrade Has Immediately Turned into a Mess - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess"
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch",
+      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"
+    },
+    {
       "title": "The golden age of handheld gaming is already over - The Verge",
       "link": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era"
+    },
+    {
+      "title": "Anker announces a full Pok\u00e9mon-Themed tech collection for 2026 - Gizmochina",
+      "link": "https://www.gizmochina.com/2026/05/28/anker-pokemon-30th-anniversary-collection-2026-charger-adpater-earphone-pouch/"
+    },
+    {
+      "title": "Square Enix Has \"No Plans\" To Sell A Switch 2 Upgrade For Dragon Quest XI S - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/05/square-enix-has-no-plans-to-sell-a-switch-2-upgrade-for-dragon-quest-xi-s"
     },
     {
       "title": "All 109 \"Paradox Drive\" Cards Revealed for \"Pocket!\" - PokeBeach",
@@ -28,6 +44,14 @@
       "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
     },
     {
+      "title": "31 hours with the spit-shined Mina the Hollower (and 34 with the four games that came before it) - Game File | Stephen Totilo",
+      "link": "https://www.gamefile.news/p/mina-the-hollower-review-plus-shovel-knight"
+    },
+    {
+      "title": "5 Cool Tech Products You Can Find On Amazon Outlet In May 2026 - SlashGear",
+      "link": "https://www.slashgear.com/2180660/cool-products-on-amazon-outlet-may-2026/"
+    },
+    {
       "title": "7 first things you should do with the Google Fitbit Air - Android Central",
       "link": "https://www.androidcentral.com/wearables/fitbit/first-things-you-should-do-with-google-fitbit-air"
     },
@@ -36,8 +60,12 @@
       "link": "https://www.nature.com/articles/s41586-026-10521-8"
     },
     {
+      "title": "CapCut Pad promises \u2018desktop-level\u2019 video editing for Android tablets - 9to5Google",
+      "link": "http://9to5google.com/2026/05/27/capcut-pad-promises-desktop-level-video-editing-for-android-tablets/"
+    },
+    {
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlVYZmJjNjVTM2RwX19MaFRyNlpnWjllc2RSbURJZjJuTGUwUEJzZVdpNzdGVXpEWWp1VHYzZ25QY240cTI3VUVUSkZWalJNMHJMaERPU1VZd0g2Xy1ycEl5RXFkZ2dEd0w1aHVVT1ZYMXQzZGhNR0hod2tnZ1Y5WUl5dzNZT3FDenpKajJKTVpKVzdmRUJMbnF3UkwxNUlLN3NYTnQtZl9hb0hvWi1fT05wMA?oc=5"
+      "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/"
     },
     {
       "title": "Mechanism of age-related accumulation of mtDNA mutations in human blood - Nature",
@@ -48,82 +76,78 @@
       "link": "https://mashable.com/tech/duckduckgo-growth-as-a-result-of-google-io-ai-search-announcements"
     },
     {
+      "title": "How Much Does The Harbor Freight Backhoe Cost & Can You Buy It In-Store Or Only Online? - SlashGear",
+      "link": "https://www.slashgear.com/2180632/how-much-harbor-freight-backhoe-cost-price-can-buy-online-only/"
+    },
+    {
       "title": "Dodge\u2019s New Copperhead SRT Might Not Have a V8, and It\u2019s Not Based on the Charger - The Drive",
       "link": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger"
     },
     {
+      "title": "Google Home can now use what cameras see as automation starters, Android widget improved - 9to5Google",
+      "link": "http://9to5google.com/2026/05/27/google-home-camera-automation-more/"
+    },
+    {
       "title": "Google is bringing Gemini to smart glasses, and they come with one big advantage - Chrome Unboxed",
       "link": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/"
-    },
-    {
-      "title": "No Man's Sky's 'The Swarm' Update Promises Its Biggest Space Battles Yet - UploadVR",
-      "link": "https://www.uploadvr.com/no-mans-skys-the-swarm-update-promises-its-biggest-space-battles-yet/"
-    },
-    {
-      "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll - Eurogamer",
-      "link": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc"
-    },
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "link": "https://www.marvelrivals.com/gameupdate/20260527/41548_1301784.html"
-    },
-    {
-      "title": "Destiny 2 Fans Plan Mass Protest to 'Crash the Servers' and Beat Marathon's All-Time Player Record - IGN",
-      "link": "https://www.ign.com/articles/destiny-2-fans-plan-mass-protest-to-crash-the-servers-and-beat-marathons-all-time-player-record"
-    },
-    {
-      "title": "Bungie's Maligned Shooter Marathon Goes Free-to-Play for a Full Week on PS5 - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/05/bungies-maligned-shooter-marathon-goes-free-to-play-for-a-full-week-on-ps5"
-    },
-    {
-      "title": "Here\u2019s how Google is responding to Fitbit users who don\u2019t like the new Health app - The Verge",
-      "link": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap"
-    },
-    {
-      "title": "iOS 26.5 gave Messages app encrypted RCS, here\u2019s how to check it\u2019s working - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/"
-    },
-    {
-      "title": "Windows 11\u2019s new update actually makes your PC faster. Here\u2019s how to get it - PCWorld",
-      "link": "https://www.pcworld.com/article/3149631/windows-11s-new-update-actually-makes-your-pc-faster-heres-how-to-get-it.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "Worry raised that historic PGA Tour venue will be scrapped from next year\u2019s schedule, 'I'm a little concerned' - hitc.com",
+      "link": "https://www.hitc.com/worry-raised-that-historic-pga-tour-venue-will-be-scrapped-from-next-years-schedule-im-a-little-concerned/"
+    },
+    {
+      "title": "What we've learned about Alpine's $150million Gucci deal - The Race",
+      "link": "https://www.the-race.com/formula-1/what-we-learned-about-alpine-150-million-gucci-deal/"
+    },
+    {
+      "title": "NBA Makes Punishment Decision on Victor Wembanyama After Game 5 - Yahoo Sports",
+      "link": "https://athlonsports.com/nba/nba-makes-punishment-decision-on-victor-wembanyama-after-game-5"
+    },
+    {
+      "title": "Dodgers' MiLB Bat Dog Program Reportedly to Be Suspended After Star Prospect Kendall George's Injury - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25431487-dodgers-milb-bat-dog-program-reportedly-be-suspended-after-star-prospect-kendall-georges-injury"
+    },
+    {
+      "title": "Three storylines to monitor on Draft Withdrawal Deadline Day - On3",
+      "link": "https://www.on3.com/teams/kentucky-wildcats/news/three-storylines-to-monitor-on-draft-withdrawal-deadline-day/"
+    },
     {
       "title": "Arkansas AD calls out SEC, ESPN, wants Georgia game time changed - DawgNation",
       "link": "https://www.dawgnation.com/football/arkansas-ad-calls-out-sec-espn-wants-georgia-game-time-changed/7SWBP4RQJJD3DDMSVJ6BEECIQI/"
     },
     {
-      "title": "Pat Forde: Why an SEC Breakaway Would Be Catastrophic for College Sports - Sports Illustrated",
-      "link": "https://www.si.com/college-football/pat-forde-why-sec-breakaway-would-be-catastrophic-for-college-sports"
+      "title": "Vegas Golden Knights somehow made the Stanley Cup Final despite having fewer wins than six teams that missed the playoffs - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/05/27/vegas-golden-knights-stanley-cup-final-fewer-wins-6-nhl-teams/"
     },
     {
-      "title": "Facing elimination, Spurs look for big response to push series back to OKC - NBA.com",
-      "link": "https://www.nba.com/news/3-things-to-watch-thunder-spurs-game-6"
+      "title": "Red Sox rookie becoming \u2018absolute dog\u2019 after he had to \u2018grow up pretty quick\u2019 - MassLive",
+      "link": "https://www.masslive.com/redsox/2026/05/red-sox-rookie-becoming-absolute-dog-after-he-had-to-grow-up-pretty-quick.html"
+    },
+    {
+      "title": "Kyle Busch's Official Death Certificate Leads To More Anger - Yahoo Sports",
+      "link": "https://thespun.com/nascar/kyle-buschs-official-death-certificate-leads-to-more-anger"
+    },
+    {
+      "title": "Browns\u2019 offense highlights OTA Day 5 with touchdowns | OTAs & Minicamp - Cleveland Browns",
+      "link": "https://www.clevelandbrowns.com/news/browns-offense-highlights-ota-day-5-with-touchdowns-otas-minicamp"
     },
     {
       "title": "Kirby Smart suggests SEC could leave the NCAA - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirby-smart-suggests-sec-could-leave-the-ncaa"
     },
     {
-      "title": "Knicks Will Donate Free NBA Finals Tickets to Local Underprivileged Youth - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25431607-knicks-will-donate-free-nba-finals-tickets-local-underprivileged-youth"
+      "title": "Padres shut out by Phillies ace Cristopher S\u00e1nchez, who continues historic run - San Diego Union-Tribune",
+      "link": "https://www.sandiegouniontribune.com/2026/05/27/padres-shut-out-swept-by-phillies-as-cristopher-sanchez-continues-historic-run/"
     },
     {
       "title": "Kik\u00e9 Hern\u00e1ndez Diagnosed With \"Significant\" Oblique Tear - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/05/kike-hernandez-diagnosed-with-significant-oblique-tear.html"
     },
     {
-      "title": "New York, New Jersey subpoena FIFA over World Cup ticket pricing - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-york-new-jersey-subpoena-fifa-over-world-cup-ticket-pricing"
-    },
-    {
       "title": "MLBPA Releases Details Of Collective Bargaining Proposal - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/05/mlbpa-releases-details-of-collective-bargaining-proposal.html"
-    },
-    {
-      "title": "J.J. McCarthy says Vikings told him it\u2019s a \u2018true competition\u2019 at quarterback with Kyler Murray - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-vikings-news-qb-depth-chart-kyler-murray-jj-mccarthy-update-nfl-ota-schedule-2026-injuries/601847065"
     },
     {
       "title": "Lamar Jackson: Coaching Change Feels Like a \u2018Breath of Fresh Air\u2019 - Baltimore Ravens",
@@ -142,32 +166,12 @@
       "link": "https://apnews.com/article/donald-trump-nba-finals-new-york-knicks-959d26cf5bea1f6086fd6dd7e796949d"
     },
     {
-      "title": "Daniel Jones \"absolutely\" expects to start Week 1 after torn Achilles - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-absolutely-expects-to-start-week-1-after-torn-achilles"
+      "title": "Exclusive | Knicks donate hundreds of NBA Finals tickets to unprivileged fans - New York Post",
+      "link": "https://nypost.com/2026/05/27/sports/knicks-donate-hundreds-of-nba-finals-tickets-to-unprivileged-fans/"
     },
     {
-      "title": "Justin Thomas suggests why a lot of big-name players skip the Charles Schwab Challenge at Colonial - hitc.com",
-      "link": "https://www.hitc.com/justin-thomas-suggests-why-a-lot-of-big-name-players-skip-the-charles-schwab-challenge-at-colonial/"
-    },
-    {
-      "title": "Patriots OTA Notebook: Drake Maye-led offense has up-and-down day - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-offseason-coverage/128924/patriots-ota-recap-may-27-drake-maye-caleb-lomu-mike-vrabel"
-    },
-    {
-      "title": "Key Sens. Cruz, Cantwell look to break college sports logjam in Congress with a bipartisan bill - AP News",
-      "link": "https://apnews.com/article/nil-college-congress-cantwell-cruz-b715ea4cb6ffbc302bfc3fd41b00e157"
-    },
-    {
-      "title": "Jalen Hurts on A.J. Brown: \u2018Nothing can replace all of the greatness we achieved together\u2019 - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/176051/jalen-hurts-comments-eagles-oc-sean-mannion-under-center-aj-brown-trade-rumors"
-    },
-    {
-      "title": "SEC football schedule: 2026 early season kickoff times, TV set - FBSchedules.com",
-      "link": "https://fbschedules.com/sec-football-schedule-2026-early-season-kickoff-times-tv-set/"
-    },
-    {
-      "title": "OTA notebook | Jayden Daniels had strong practice in new offense - Washington Commanders",
-      "link": "https://www.commanders.com/news/commanders-ota-notebook-jayden-daniels-david-blough"
+      "title": "Dan Le Batard: New York media needs to challenge Jaxson Dart over Donald Trump appearance - Awful Announcing",
+      "link": "https://awfulannouncing.com/nfl/dan-le-batard-new-york-media-jaxson-dart-donald-trump.html"
     }
   ],
   "weather": {
