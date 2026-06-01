@@ -1,9 +1,9 @@
 {
-  "quote": "Forgive yourself for your faults and your mistakes and move on. \u2013 Les Brown",
-  "fact": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
-  "crypto": "BTC: $73,668 | ETH: $2,007.22",
+  "quote": "Death smiles at us all. All we can do is smile back. \u2013 Marcus Aurelius",
+  "fact": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
+  "crypto": "BTC: $73,409 | ETH: $1,997.45",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What does a pirate pay for his corn? A buccaneer!",
+  "joke": "Why was the robot angry? Because someone kept pressing his buttons!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Feger tops MARS field at Red Hill, wins $5,000 - Dirt on Dirt",
+      "link": "https://www.dirtondirt.com/racewire9723.html"
+    },
+    {
+      "title": "'007: First Light' is a huge sales hit - Mashable",
+      "link": "https://mashable.com/entertainment/007-first-light-james-bond-game-sales-numbers"
+    },
+    {
+      "title": "LEGO MINECRAFT CHICKEN MOUNTS - Minecraft",
+      "link": "https://www.minecraft.net/en-us/marketplace/pdp"
+    },
+    {
       "title": "Nintendo releases new wave of backwards compatibility fixes for Switch games on Switch 2 - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/"
     },
     {
-      "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs - TechCrunch",
-      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
+      "title": "Intel Arc G3, New Generation Xeon, And Nova Lake, Here\u2019s What We Expect From Intel At Computex 2026 - Wccftech",
+      "link": "https://wccftech.com/intel-computex-2026-what-to-expect/"
     },
     {
-      "title": "Infinity Ward Vows Modern Warfare 4 Stays Grounded, Slams Door on Lady Gaga, Nicki Minaj and Omni-Man Skins - Wccftech",
-      "link": "https://wccftech.com/modern-warfare-4-infinity-ward-grounded-cosmetics/"
+      "title": "Nintendo Switch Online Makes 2025 Game Free to Download for 48 Hours - comicbook.com",
+      "link": "http://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-download/"
+    },
+    {
+      "title": "Modern Warfare 4 aims to fix what Call of Duty players hated years ago - Polygon.com",
+      "link": "https://www.polygon.com/call-of-duty-modern-warfare-4-movement/"
+    },
+    {
+      "title": "Another New Biome Is Coming To Minecraft This Fall - GameSpot",
+      "link": "https://www.gamespot.com/articles/another-new-biome-is-coming-to-minecraft-this-fall/"
+    },
+    {
+      "title": "Poll: Are You Happy with Your PS Plus Essential Games for June 2026? - Push Square",
+      "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-june-2026"
     },
     {
       "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful - TechCrunch",
@@ -30,6 +54,10 @@
     {
       "title": "Sony Is Wrong To Take \u2018Destiny 2\u2019 Support Down To Absolute Zero - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/"
+    },
+    {
+      "title": "A British Icon Returns With 720 Horsepower - Motor1.com",
+      "link": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/"
     },
     {
       "title": "Sony takes final bow as stand-alone TV maker with new Bravia sets - The Seattle Times",
@@ -44,12 +72,12 @@
       "link": "https://www.macrumors.com/2026/05/30/top-stories-ios-27-leaks/"
     },
     {
-      "title": "MSI Claw 8 EX AI+ with Intel Arc G3 Extreme appears in early Computex hands-on - VideoCardz.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjFLSkpIQWJSWnpBWnZhZ0lveUlDSUgyOVdnU1M1VGNfWGZZMkpHd3pncHFFYW1rS2ZFMExSbi1BRXVLZjVId1pSYUd4YldMUE9lY1dtdDVUWDlQQ1NSbUwzRXV3ZTNNbXN5Uk1NSHNRaDJSdW5qN3gwVFNiV1FBXy1MZk5EYzFTdjA5eVNCQzJ4RjYwa0NmUFkwb0JuMVdaZW5ZYjY2bTY?oc=5"
-    },
-    {
       "title": "If Google nails the Googlebook, I'm gonna ditch my Windows laptop - Android Police",
       "link": "https://www.androidpolice.com/if-google-nails-googlebook-gonna-ditch-windows-laptop/"
+    },
+    {
+      "title": "Samsung Releases Free Upgrades To Millions More Galaxy Phones - Forbes",
+      "link": "https://www.forbes.com/sites/jaymcgregor/2026/05/30/samsung-one-ui-85-release-galaxy-a07-m55-galaxy-s25/"
     },
     {
       "title": "4 reasons why the gap between Gemini and ChatGPT is drastically closing - Android Authority",
@@ -58,44 +86,64 @@
     {
       "title": "These Are The States Where You're Stupidest And Smelliest, According To ChatGPT - HuffPost",
       "link": "https://www.huffpost.com/entry/these-are-the-states-where-youre-stupidest-and-smelliest-according-to-chatgpt-goog_n_6a184e30e4b0ddcc84688566"
-    },
-    {
-      "title": "Asking Eric: Memory issues threaten relationship with hairstylist - MLive.com",
-      "link": "https://www.mlive.com/advice/2026/05/asking-eric-memory-issues-threaten-relationship-with-hairstylist.html"
-    },
-    {
-      "title": "Fitbit Air vs. Oura Ring: Wrist or Finger for the Future of Wellness? - PCMag",
-      "link": "https://www.pcmag.com/comparisons/fitbit-air-vs-oura-ring-wrist-or-finger-for-the-future-of-wellness"
-    },
-    {
-      "title": "Last year\u2019s MacBook Pro is now back down to its lowest price in Amazon deal - PC Guide",
-      "link": "https://www.pcguide.com/deals/last-years-macbook-pro-is-now-back-down-to-its-lowest-price-in-amazon-deal/"
-    },
-    {
-      "title": "Mina The Hollower Is Now Metacritic's Highest-Rated Game Of 2026 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-is-now-metacritics-highest-rated-game-of-2026"
-    },
-    {
-      "title": "Four New Console Features Begin Rolling Out Today For Xbox Insiders (May 29) - Pure Xbox",
-      "link": "https://www.purexbox.com/features/four-new-console-features-begin-rolling-out-today-for-xbox-insiders-may-29"
-    },
-    {
-      "title": "Apple Boosts Trade-In Prices for iPhones, iPads, Apple Watches and MacBooks - CNET",
-      "link": "https://www.cnet.com/tech/mobile/apple-boosts-trade-in-prices-iphones-ipads-apple-watches-and-macbooks/"
-    },
-    {
-      "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors",
-      "link": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Spurs' Victor Wembanyama named Western Conference Finals MVP - NBA.com",
+      "link": "https://www.nba.com/news/victor-wembanyama-named-2026-western-conference-finals-mvp"
+    },
+    {
+      "title": "Video: UFC vet Darren Till scores huge KO in BKFC debut - Sherdog",
+      "link": "https://www.sherdog.com/news/news/Video-UFC-vet-Darren-Till-scores-huge-KO-in-BKFC-debut-201378"
+    },
+    {
+      "title": "Updated NBA Finals Ticket Prices for Spurs vs. Knicks After Thunder Eliminated in Game 7 of WCF - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25432398-updated-nba-finals-ticket-prices-spurs-vs-knicks-after-thunder-eliminated-game-7-wcf"
+    },
+    {
+      "title": "Enhanced Box Score: Cubs 6, Cardinals 1 \u2013 May 30, 2026 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/05/30/enhanced-box-score-cubs-6-cardinals-1-may-30-2026/"
+    },
+    {
+      "title": "Claude Lemieux's brain being donated for CTE research, family says - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/48924757/claude-lemieux-brain-being-donated-cte-research-family-says"
+    },
+    {
+      "title": "Former Chicago Blackhawks forward Dennis Hull dies at 81 - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/48924541/former-chicago-blackhawks-forward-dennis-hull-dies-81"
+    },
+    {
+      "title": "Lucas: ECU Rapid Reactions - University of North Carolina Athletics",
+      "link": "https://goheels.com/news/2026/5/30/baseball-lucas-ecu-rapid-reactions"
+    },
+    {
+      "title": "NCAA doubling down on Brendan Sorsby's ban decision: 'His college football career has come to an end' - New York Post",
+      "link": "https://nypost.com/2026/05/30/sports/ncaa-doubling-down-on-brendan-sorsbys-ban-decision-his-college-football-career-has-come-to-an-end/"
+    },
+    {
+      "title": "Thunder to be shorthanded again for Game 7 against Spurs in West finals - AP News",
+      "link": "https://apnews.com/article/spurs-thunder-nba-playoffs-game-7-f670968cb7500d550242ae4973507092"
+    },
+    {
+      "title": "LIVE! RAF 9 Results: Steveson vs. Romanov - MMA Fighting",
+      "link": "https://www.mmafighting.com/raf-wrestling/491173/raf-9-results-steveson-vs-romanov"
+    },
     {
       "title": "President Trump attacks \"jealous\" critics of Jaxson Dart - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-attacks-jealous-critics-of-jaxson-dart"
     },
     {
-      "title": "BKFC 90 results: Darren Till overcomes early knockdown, destroys Aaron Chalmers with monster KO in debut - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/live/bkfc-90-darren-till-vs-aaron-chalmers-live-results-round-by-round-updates-for-birmingham-fight-053000019.html"
+      "title": "Erceg plays Lucy to the Royals\u2019 Charlie Brown; Rangers win 7-6 - Royals Review",
+      "link": "https://www.royalsreview.com/kansas-city-royals-scores-standings/99673/erceg-plays-lucy-to-the-royals-charlie-brown-rangers-win-7-6"
+    },
+    {
+      "title": "Tiafoe jaws with Faria in another five-set win at French Open - ESPN",
+      "link": "https://www.espn.com/tennis/story/_/id/48923394/tiafoe-jaws-faria-another-five-set-win-french-open"
+    },
+    {
+      "title": "Leon Rose brought the Knicks from rock bottom to NBA Finals in 160 moves - New York Post",
+      "link": "https://nypost.com/2026/05/30/sports/leon-rose-brought-the-knicks-from-rock-bottom-to-nba-finals-in-160-moves/"
     },
     {
       "title": "Potapova sends Gauff crashing out - Roland-Garros 2026",
@@ -106,68 +154,16 @@
       "link": "https://www.mlbtraderumors.com/2026/05/luis-severino-placed-on-15-day-il-with-shoulder-strain.html"
     },
     {
-      "title": "LIVE Updates, Score: No. 7 Tennessee Softball vs. No. 11 Texas Tech (WCWS, 1-0 Game) - Rocky Top Insider",
-      "link": "https://www.rockytopinsider.com/2026/05/30/live-updates-score-no-7-tennessee-softball-vs-no-11-texas-tech-wcws-1-0-game/"
+      "title": "PSG wins back-to-back Champions League titles after shootout victory against Arsenal - NPR",
+      "link": "https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal"
     },
     {
-      "title": "If Nolan Teasley is the \"primary football executive\" in Minnesota, Seahawks will get compensatory picks - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-nolan-teasley-is-the-primary-football-executive-in-minnesota-seahawks-will-get-compensatory-picks"
-    },
-    {
-      "title": "Highlights from the 2026 Champions League final: Paris Saint-Germain beats Arsenal 4-3 after penalty shootout - AP News",
-      "link": "https://apnews.com/live/champions-league-final-2026-paris-saint-germain-arsenal-updates"
-    },
-    {
-      "title": "Mikel Arteta reaction: What did Arsenal manager say after heartbreaking defeat in Champions League final? - NBC Sports",
-      "link": "https://www.nbcsports.com/soccer/news/mikel-arteta-reaction-what-did-arsenal-manager-say-after-heartbreaking-defeat-in-champions-league-final"
+      "title": "White Sox 7, Tigers 1: Edgar Quero abhors a vacuum - Sox Machine",
+      "link": "https://soxmachine.com/2026/05/white-sox-7-tigers-1-edgar-quero-abhors-a-vacuum"
     },
     {
       "title": "Finns to face Switzerland for gold - IIHF",
       "link": "https://www.iihf.com/en/events/2026/wm/news/74763/can_fin"
-    },
-    {
-      "title": "Baseball Gameday: 5/30/26 vs. Yale - Oregon State University Athletics",
-      "link": "https://osubeavers.com/news/2026/5/30/baseball-gameday-5-30-26-vs-yale"
-    },
-    {
-      "title": "Exclusive | Extent of Mitchell Robinson\u2019s hand injury revealed as Knicks hope center suits up for NBA Finals - New York Post",
-      "link": "https://nypost.com/2026/05/30/sports/extent-of-knicks-mitchell-robinsons-hand-injury-revealed/"
-    },
-    {
-      "title": "LIVE Updates - Virginia Tech Hokies vs UCLA Baseball, Los Angeles Regional Elimination Game Score - Sports Illustrated",
-      "link": "https://www.si.com/college/virginiatech/live-updates-virginia-tech-hokies-vs-ucla-baseball-los-angeles-regional-elimination-game-score-01kswv20pzw2"
-    },
-    {
-      "title": "Vegas Golden Knights Announce On-Sale Details for 2026 Stanley Cup Final - NHL.com",
-      "link": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-on-sale-details-for-2026-stanley-cup-final"
-    },
-    {
-      "title": "Twins cut struggling pitcher Simeon Woods Richardson, call up John Klein - Star Tribune",
-      "link": "https://www.startribune.com/twins-put-pitcher-simeon-woods-richardson-on-waivers-call-up-john-klein/601851060"
-    },
-    {
-      "title": "Kaitlan Collins Pulls Receipts On Scott Jennings \u2018Fake News\u2019 Claim: 'There's Literally A Memo\u2019 - HuffPost",
-      "link": "https://www.huffpost.com/entry/kaitlan-collins-scott-jennings-dod-waist-height-memo_n_6a1b07f2e4b0ea2d03d15a09"
-    },
-    {
-      "title": "White Sox Place Munetaka Murakami On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/05/white-sox-likely-to-place-munetaka-murakami-on-injured-list.html"
-    },
-    {
-      "title": "Mariners Injury Update: Latest on Carlos Vargas and more - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/mariners-injury-update-latest-on-carlos-vargas-and-more"
-    },
-    {
-      "title": "2026 NCAA baseball tournament: Bracket, schedule, scores for the Men\u2019s College World Series - NCAA.com",
-      "link": "https://www.ncaa.com/news/baseball/article/2026-05-30/2026-ncaa-baseball-tournament-bracket-schedule-scores-mens-college-world-series"
-    },
-    {
-      "title": "Top Picks from the MLB Betting Splits for Saturday May 30th - VSiN",
-      "link": "http://vsin.com/mlb/top-picks-from-the-mlb-betting-splits-for-saturday-may-30th/"
-    },
-    {
-      "title": "Eagles News: NFL insider says A.J. Brown trade \u201cframework is in place\u201d - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/176148/eagles-news-nfl-insider-says-a-j-brown-trade-framework-is-in-place"
     }
   ],
   "weather": {
