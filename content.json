@@ -1,9 +1,9 @@
 {
-  "quote": "Everything that is done in the world is done by hope. \u2013 Martin Luther",
-  "fact": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
-  "crypto": "BTC: $66,666 | ETH: $1,860.53",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "A bartender broke up with her boyfriend, but he kept asking her for another shot.",
+  "quote": "What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. \u2013 Robert Greene",
+  "fact": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
+  "crypto": "BTC: $66,958 | ETH: $1,865.45",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a sheep with no legs? A cloud.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch",
-      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
+      "title": "Stock Market News, June 1, 2026: Nvidia Fuels AI Enthusiasm; Oil Rises - WSJ",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026"
+    },
+    {
+      "title": "Android 17 Beta 4.1 finally fixes the Pixel problems folks have been complaining about - Android Police",
+      "link": "https://www.androidpolice.com/android-17-beta-41-rolls-out-to-pixel/"
     },
     {
       "title": "The Google Pixel Watch 5 may have been spoiled by\u2026 the creator of Borderlands - The Verge",
       "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands"
     },
     {
-      "title": "Google rolling out a final Android 17 Beta 4.1 update for Pixel - 9to5Google",
-      "link": "http://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/"
+      "title": "'All Systems Glow': Apple Teases WWDC 2026 With New Tagline, Playlist, Wallpapers - CNET",
+      "link": "https://www.cnet.com/tech/all-systems-glow-apple-teases-wwdc-2026-with-new-tagline-playlist-wallpapers/"
+    },
+    {
+      "title": "Is it a date? A retailer might've revealed the Google Home Speaker's launch - Android Central",
+      "link": "https://www.androidcentral.com/accessories/smart-home/the-launch-date-for-googles-home-speaker-mightve-broken-cover"
     },
     {
       "title": "At Computex, Dell\u2019s $700 XPS 13 Sets Its Sights on the MacBook Neo - PCMag",
@@ -36,14 +44,6 @@
       "link": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price"
     },
     {
-      "title": "Apple Shares WWDC26 Wallpaper, Playlist, 'Get Ready' Video, and More - MacRumors",
-      "link": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/"
-    },
-    {
-      "title": "Samsung's One UI 9 update forces Android's lockdown mode when you open the power menu - 9to5Google",
-      "link": "http://9to5google.com/2026/06/01/one-ui-updates-lockdown-mode/"
-    },
-    {
       "title": "AMD Wants You To Keep Using Your Old Hardware For A Lot Longer - GameSpot",
       "link": "https://www.gamespot.com/articles/amd-wants-you-to-keep-using-your-old-hardware-for-a-lot-longer/"
     },
@@ -56,50 +56,74 @@
       "link": "https://www.forbes.com/sites/paultassi/2026/06/01/marathons-season-2-launch-and-free-week-is-a-hugely-important-test/"
     },
     {
-      "title": "Galaxy Z Fold 8 leak pits Samsung\u2019s wider foldable against the rumored Ultra - Android Central",
-      "link": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-leak-pits-samsungs-wider-foldable-against-the-rumored-ultra"
+      "title": "Galaxy Z Fold 8\u2019s wider new form factor just showed up in the wild - 9to5Google",
+      "link": "http://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/"
+    },
+    {
+      "title": "Samsung is adding a clever security upgrade to the power menu - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-one-ui-9-power-menu-lockdown-mode-security-3673055/"
     },
     {
       "title": "Valve, the Anticorporate Hero of the Games Industry, Has Its Antitrust Moment - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui"
     },
     {
-      "title": "Google Home Speaker gets June release date from one retailer - 9to5Google",
-      "link": "http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/"
-    },
-    {
       "title": "007 First Light Budget Over $200 Million to Develop; Considered Denmark's Most Expensive Entertainment Project - MP1st",
       "link": "https://mp1st.com/news/007-first-light-cost-over-200-million-develop-denmarks-expensive-entertainment-project"
-    },
-    {
-      "title": "Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote \u2018refresh\u2019 possible - 9to5Mac",
-      "link": "https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/"
-    },
-    {
-      "title": "Your Pixel Can Randomly Reboot Because Of A Glitch That Makes The Tensor Chip Think That The Device Is Overheating - Wccftech",
-      "link": "https://wccftech.com/pixel-randomly-reboot-because-tensor-chip-thinks-its-overheating/"
     }
   ],
   "sports_news": [
     {
-      "title": "Rick Adelman, longtime NBA coach and Hall of Famer, dies at 79 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/breaking-news/article/rick-adelman-longtime-nba-coach-and-hall-of-famer-dies-at-79-225826151.html"
+      "title": "Browns Trade Myles Garrett To Rams - NFL Rumors - ProFootballRumors.com",
+      "link": "https://www.profootballrumors.com/2026/06/browns-to-trade-myles-garrett-to-rams"
     },
     {
-      "title": "A.J. Brown will wear No. 1 with Patriots - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-will-wear-no-1-with-patriots"
+      "title": "Steph Curry signs with Chinese brand Li-Ning after Under Armour split - BBC",
+      "link": "https://www.bbc.com/news/articles/cj9pky3ldddo"
     },
     {
-      "title": "Browns trade 2-time AP Defensive Player of the Year Myles Garrett to Rams - AP News",
-      "link": "https://apnews.com/article/browns-rams-garrrett-verse-trade-d4b1e6a527fe3a5aa808b27a5851caa3"
+      "title": "Pirates\u2019 Carmen Mlodzinski, now off the restricted list, ready to embrace new role - MLB.com",
+      "link": "https://www.mlb.com/news/pirates-carmen-mlodzinski-now-off-the-restricted-list-ready-to-embrace-new-role"
+    },
+    {
+      "title": "Howie Roseman on taking a 2028 first-round pick for A.J. Brown: \"A pick is a pick\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-on-taking-a-2028-first-round-pick-for-a-j-brown-a-pick-is-a-pick"
+    },
+    {
+      "title": "Aspiration co-founder Sanberg sentenced to 14 years in prison - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48942217/aspiration-co-founder-sanberg-sentenced-14-years-prison"
+    },
+    {
+      "title": "Hall of Fame basketball coach Rick Adelman dies at 79 - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/48941923/hall-fame-basketball-coach-rick-adelman-dies-79"
+    },
+    {
+      "title": "Cooper Walls will start vs. Troy in Gainesville Regional Final - On3",
+      "link": "https://www.on3.com/teams/florida-gators/news/florida-rhp-cooper-walls-to-start-gainesville-regional-final-v-troy/"
+    },
+    {
+      "title": "Wetzel: Judge should slam the door on Texas Tech QB Sorsby - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/48941162/judge-slam-door-texas-tech-sorsby"
+    },
+    {
+      "title": "What's next for the Bears after their stadium bill stalls in Springfield - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/bears/2026/06/01/bears-stadium-arlington-heights-hammond-sprinfield-house-senate-bill-kevin-warren-george-mccaskey-nfl"
+    },
+    {
+      "title": "Dallas Mavs choose Valley View site for new arena, entertainment district - NBC 5 Dallas-Fort Worth",
+      "link": "https://www.nbcdfw.com/news/local/dallas-mavericks-choose-valley-view-site-for-new-arena/4030873/"
+    },
+    {
+      "title": "Belmont Stakes 2026: Post draw and morning-line odds - Horse Racing Nation",
+      "link": "https://www.horseracingnation.com/news/Belmont_Stakes_2026_Post_position_draw_and_morning_line_odds_123"
+    },
+    {
+      "title": "Canes To Host Stanley Cup Final Watch Parties | Carolina Hurricanes - NHL.com",
+      "link": "https://www.nhl.com/hurricanes/news/canes-to-host-stanley-cup-final-watch-parties"
     },
     {
       "title": "Serena Williams returns to tennis, announcing 'next chapter' - NPR",
       "link": "https://www.npr.org/2026/06/01/nx-s1-5843168/serena-williams-returns-hsbc-championships"
-    },
-    {
-      "title": "Odell Beckham Jr. Signs Giants Contract, NY's Updated Depth Chart and Salary Cap - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25410700-odell-beckham-jr-signs-giants-contract-nys-updated-depth-chart-and-salary-cap"
     },
     {
       "title": "Game's Greatest Legends Headline 2027 NFF College Football Hall of Fame Ballot - National Football Foundation",
@@ -110,8 +134,12 @@
       "link": "https://apnews.com/article/raymond-berry-dies-colts-f8488f395f03470c8a5010eb2b331b89"
     },
     {
-      "title": "ABC\u2019s exclusive coverage of the 2026 NBA Finals begins June 3: New York Knicks vs. San Antonio Spurs - ESPN Press Room",
-      "link": "https://espnpressroom.com/us/press-releases/2026/06/abcs-exclusive-coverage-of-the-2026-nba-finals-begins-june-3-new-york-knicks-vs-san-antonio-spurs/"
+      "title": "Giants sign Odell Beckham Jr. - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-to-sign-odell-beckham-jr"
+    },
+    {
+      "title": "Knicks vs. Spurs instant prediction for 2026 NBA Finals - SB Nation",
+      "link": "https://www.sbnation.com/nba/1116412/nba-finals-prediction-new-york-knicks-vs-san-antonio-spurs-preview"
     },
     {
       "title": "French Open fines Paraguay's Vallejo $65K for sexist ump remark - ESPN",
