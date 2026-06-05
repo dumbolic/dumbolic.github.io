@@ -1,9 +1,9 @@
 {
-  "quote": "No man ever steps in the same river twice, for it's not the same river and he's not the same man. \u2013 Heraclitus",
-  "fact": "A rhinoceros horn is made of compacted hair.",
-  "crypto": "BTC: $62,824 | ETH: $1,671.93",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Do you know where you can get chicken broth in bulk? The stock market.",
+  "quote": "The wiser you get, the less you care to look like a fool. \u2013 Maxime Lagace",
+  "fact": "Maine is the only state (in USA) whose name is just one syllable. ",
+  "crypto": "BTC: $62,253 | ETH: $1,672.29",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a careful wolf? Aware wolf.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
+      "link": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html"
+    },
+    {
+      "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
+      "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones"
+    },
+    {
+      "title": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
+      "link": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\\\u003d1"
+    },
     {
       "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac",
       "link": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/"
@@ -24,75 +36,99 @@
       "link": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion"
     },
     {
-      "title": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
-      "link": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision"
+      "title": "Control Resonant Early Access Is Exclusive To PS5, But At Least We Get 'Play Anywhere' On Xbox - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox"
     },
     {
-      "title": "High-pulse-energy integrated mode-locked laser using a Mamyshev oscillator - Nature",
-      "link": "https://www.nature.com/articles/s41586-026-10517-4"
+      "title": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
+      "link": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision"
     },
     {
       "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom\u2019s Funniest Memes - Kotaku",
       "link": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119"
     },
     {
-      "title": "Google\u2019s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon - TechCrunch",
-      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/"
-    },
-    {
-      "title": "Ubisoft all but rules out a Rayman 1 remake, says it\u2019s near impossible to do - Nintendo Everything",
-      "link": "https://nintendoeverything.com/ubisoft-all-but-rules-out-a-rayman-1-remake-says-its-near-impossible-to-do/"
-    },
-    {
-      "title": "Kuo: Apple's Vision Pro Successors Off the Table as Focus Shifts to Smart Glasses - MacRumors",
-      "link": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/"
+      "title": "Ubisoft says remaking Rayman 1 is \"near impossible,\" teases \"more adventurous 3D\" Rayman if Rayman Legends Retold succeeds - GoNintendo",
+      "link": "https://gonintendo.com/contents/61418-ubisoft-says-remaking-rayman-1-is-near-impossible-teases-more-adventurous-3d-rayman"
     },
     {
       "title": "In Leaked Document, Microsoft Plots How to Get People \"Addicted\" to Its AI - Futurism",
       "link": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai"
     },
     {
-      "title": "LEGO Batman: Legacy Of The Dark Knight Finally Punches Up Switch 2 Release Date - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/06/lego-batman-legacy-of-the-dark-knight-finally-punches-up-switch-2-release-date"
-    },
-    {
       "title": "GTA 6 Has Turned September Into a Video Game Battle Royale - IGN",
       "link": "https://www.ign.com/articles/gta-6-has-turned-september-into-a-video-game-battle-royale"
+    },
+    {
+      "title": "Corsair shows AX1600i SHIFT and transparent HX1000i SHIFT CRYSTAL power supplies - VideoCardz.com",
+      "link": "https://videocardz.com/newz/corsair-shows-ax1600i-shift-and-transparent-hx1000i-shift-crystal-power-supplies"
     },
     {
       "title": "'Galaxy Z Fold 8 Ultra' confirmed, likely leaving Samsung's most interesting foldable with a boring name - 9to5Google",
       "link": "http://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/"
     },
     {
-      "title": "Control Resonant Early Access Is Exclusive To PS5, Even Though It Costs The Same On Xbox - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox"
-    },
-    {
       "title": "\u2018Destiny 2\u2019 Fans Drown PlayStation\u2019s State Of Play In \u2018Destiny 3\u2019 Demands - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2026/06/03/destiny-2-fans-drown-playstations-state-of-play-in-destiny-3-demands/"
     },
     {
-      "title": "EA SPORTS\u2122 launch the 2026 Season Pack on F1\u00ae 25 worldwide today - Formula One World Championship Limited",
-      "link": "https://corp.formula1.com/ea-sports-launch-the-2026-season-pack-on-f1-25-worldwide-today/"
+      "title": "LEGO Batman: Legacy of the Dark Knight reveals Nintendo Switch 2 release date, new trailer - Nintendo Everything",
+      "link": "https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/"
     },
     {
-      "title": "Pixel 11 leak reveals all the official wallpapers arriving with this year's phone series - Android Authority",
-      "link": "https://www.androidauthority.com/pixel-11-series-wallpapers-3673921/"
+      "title": "May's top PlayStation games by copies sold - The Alinea Insight newsletter",
+      "link": "https://alineaanalytics.substack.com/p/mays-top-playstation-games-by-copies"
     },
     {
-      "title": "Microsoft AI chief Mustafa Suleyman says there are three labs that matter \u2014 and he wants Microsoft to be the fourth. - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
+      "title": "Google is reportedly buying Android app code from Play Store devs to train AI models - 9to5Google",
+      "link": "http://9to5google.com/2026/06/03/google-android-app-code-ai-models/"
     },
     {
-      "title": "Pok\u00e9mon Champions Comes to Android and iOS on June 17 - Pokemon.com",
-      "link": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-comes-to-android-and-ios-on-june-17"
-    },
-    {
-      "title": "Coming to XBOX Game Pass: Starseeker: Astroneer Expeditions, Beastro, Undisputed, and More - XBOX Wire",
-      "link": "https://news.xbox.com/en-us/2026/06/03/xbox-game-pass-june-2026-wave-1/"
+      "title": "\u2018Marathon\u2019 Season 2 Launch Was Fumbled At The Worst Possible Moment - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/06/03/marathon-season-2-launch-was-fumbled-at-the-worst-possible-moment/"
     }
   ],
   "sports_news": [
+    {
+      "title": "The Eagles fleeced the Patriots in the A.J. Brown trade - PhillyVoice",
+      "link": "https://www.phillyvoice.com/eagles-fleeced-patriots-aj-brown-trade-howie-roseman/"
+    },
+    {
+      "title": "Jared Verse: I can play free with Carson Schwesinger behind me - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-i-can-play-free-with-carson-schwesinger-behind-me"
+    },
+    {
+      "title": "Selfie-taking fan storms court in surreal NBA Finals Game 1 scene - New York Post",
+      "link": "https://nypost.com/2026/06/03/sports/selfie-taking-fan-storms-court-in-surreal-nba-finals-game-1-scene/"
+    },
+    {
+      "title": "Cooper Kupp told Aaron Donald: You\u2019re not allowed to unretire - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cooper-kupp-told-aaron-donald-youre-not-allowed-to-unretire"
+    },
+    {
+      "title": "NFL: Quarterback Russell Wilson retires at 37 to take up media role with CBS - BBC",
+      "link": "https://www.bbc.com/sport/american-football/articles/c042w66qqleo"
+    },
+    {
+      "title": "World Cup 2026: What you need to know about all 48 teams - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/48871263/world-cup-2026-key-players-facts-expectations-fixtures-odds-all-48-teams"
+    },
+    {
+      "title": "Shohei Ohtani delivers latest two-way masterpiece in Dodgers\u2019 rout of Dbacks - New York Post",
+      "link": "https://nypost.com/2026/06/04/sports/shohei-ohtanis-magical-two-way-performance-leads-dodgers-past-dbacks/"
+    },
+    {
+      "title": "Senate hearing on \u201cProtect College Sports Act\u201d didn\u2019t plow much new ground - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senate-hearing-on-protect-college-sports-act-didnt-plow-much-new-ground"
+    },
+    {
+      "title": "All the celebrities at the NBA Finals 2026: Knicks vs. Spurs - Page Six",
+      "link": "https://pagesix.com/2026/06/03/photos/all-the-celebrities-at-the-nba-finals-2026-knicks-vs-spurs/"
+    },
+    {
+      "title": "Blue Jays To Acquire Simeon Woods Richardson From Twins - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/06/twins-to-trade-simeon-woods-richardson-to-blue-jays.html"
+    },
     {
       "title": "Odell Beckham: I never wanted to the leave the Giants, and I\u2019m grateful to be back - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-i-never-wanted-to-the-leave-the-giants-and-im-grateful-to-be-back"
@@ -102,8 +138,8 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-te-darnell-washington-agree-to-a-four-year-extension"
     },
     {
-      "title": "Commissioner Adam Silver on NBA expansion: \u2018discussions are ongoing\u2019 - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/sonics/commissioner-adam-silver-on-nba-expansion-discussions-are-ongoing/"
+      "title": "50.2: Phillies 3, Padres 2 - The Good Phight",
+      "link": "https://www.thegoodphight.com/phillies-scores-standings/82456/50-2-phillies-3-padres-2"
     },
     {
       "title": "Aaron Judge\u2019s injury looming large as Yankees brace for clearer diagnosis - New York Post",
@@ -112,18 +148,6 @@
     {
       "title": "Scheduling and streaming could limit NBA Finals viewership - Awful Announcing",
       "link": "https://awfulannouncing.com/nba/scheduling-and-streaming-could-limit-finals-viewership.html"
-    },
-    {
-      "title": "Lindy Ruff loses Jack Adams Award to Jon Cooper - Audacy",
-      "link": "https://www.audacy.com/wgr550/sports/sabres/ruff-lost-jack-adams-award-to-jon-cooper"
-    },
-    {
-      "title": "Russell Wilson announces his retirement - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/russell-wilson-announces-his-retirement"
-    },
-    {
-      "title": "2026 World Cup Predictions - Silver Bulletin",
-      "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions"
     },
     {
       "title": "Top-ranked Aryna Sabalenka: \u2018just want to quit tennis\u2019 after French Open quarterfinal defeat - AP News",
@@ -138,36 +162,8 @@
       "link": "https://www.espn.com/mlb/story/_/id/48959766/manfred-admits-concern-mlb-labor-talks-end-lockout"
     },
     {
-      "title": "Letting Nick Castellanos go not a fix for Padres\u2019 offense, just a shift in the dynamic - San Diego Union-Tribune",
-      "link": "https://www.sandiegouniontribune.com/2026/06/03/letting-nick-castellanos-go-not-a-fix-for-padres-offense-just-a-shift-in-the-dynamic/"
-    },
-    {
-      "title": "Wemby\u2019s first NBA Finals: What makes a generational talent? - Andscape",
-      "link": "https://andscape.com/features/victor-wembanyama-generational-player-spurs-nba-finals-legacy/"
-    },
-    {
-      "title": "Vegas Golden Knights to Host Official Watch Party at T-Mobile Arena for Stanley Cup Final Game 2 - NHL.com",
-      "link": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-to-host-official-watch-party-at-t-mobile-arena-for-the-stanley-cup-final-x5619"
-    },
-    {
-      "title": "Micah Parsons discusses rehab and recovery timeline - Green Bay Packers",
-      "link": "https://www.packers.com/news/micah-parsons-discusses-rehab-and-recovery-timeline-june-3-2026"
-    },
-    {
-      "title": "Indiana Fever Revoke Beat Writer\u2019s Press Credentials Over Caitlin Clark Injury Report - Defector",
-      "link": "https://defector.com/indiana-fever-revoke-beat-writers-press-credentials-over-caitlin-clark-injury-report"
-    },
-    {
-      "title": "Jared Verse: Trade was upsetting at first, but happy that the Browns believe in me - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-trade-was-upsetting-at-first-but-happy-that-the-browns-believe-in-me"
-    },
-    {
-      "title": "Nick Saban lends support to college sports bill as SEC, Big Ten push back - AP News",
-      "link": "https://apnews.com/article/college-sports-saban-congress-870efb48cfe80cf766aff594a3f6164d"
-    },
-    {
-      "title": "Alvin Kamara: No bad blood with Saints, I\u2019m going to be ready and we\u2019ll see what happens - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-no-bad-blood-with-saints-im-going-to-be-ready-and-well-see-what-happens"
+      "title": "Padres Designate Nick Castellanos For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/06/padres-designate-nick-castellanos-for-assignment.html"
     }
   ],
   "weather": {
