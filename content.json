@@ -1,9 +1,9 @@
 {
-  "quote": "Lack of emotion causes lack of progress and lack of motivation. \u2013 Tony Robbins",
-  "fact": "Right-handed people live, on average; nine years longer than left handed people.",
-  "crypto": "BTC: $60,874 | ETH: $1,569.83",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.",
+  "quote": "The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. \u2013 Ming-Dao Deng",
+  "fact": "The U.S. Post Office handles 43 percent of the world\u2019s mail.",
+  "crypto": "BTC: $61,795 | ETH: $1,594.44",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,114 +12,154 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Guild Wars 3, Modern Evolution of the MMORPG, Announced at Summer Game Fest for PC and PlayStation 5 - Newswire Canada",
-      "link": "https://www.newswire.ca/news-releases/guild-wars-3-modern-evolution-of-the-mmorpg-announced-at-summer-game-fest-for-pc-and-playstation-5-868340273.html"
+      "title": "Monster Hunter Wilds confirmed for Nintendo Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/monster-hunter-wilds-confirmed-for-nintendo-switch-2/"
     },
     {
-      "title": "Teenage Mutant Ninja Turtles: The Last Ronin Is in Development at PlatinumGames - IGN",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmdmOWNZWDJNOERDQllnaHdvN3NDa3J2SUZFY0F1Tkhya2h4bXZsWXRBeFF2dXRTcmNjOTFIbk4wcFRPakgwT2l4RW5TWjVUcm1iMl9YTUlWYWVtNFdocEh2dmNRVkJ3MDZUQXpsNG1xalN5TXNxYjNhSGtiRGdXR2FkY1MzNFFwMmszZVYybE5paVRQejljNXZ0a3E3cXgxS3FvbTZ6Z3dHRkU?oc=5"
+      "title": "Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer",
+      "link": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase"
     },
     {
-      "title": "Stranger Than Heaven Resurrects Tupac Shakur - Kotaku",
-      "link": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097"
+      "title": "Welcome Back, 47: HITMAN Classic Trilogy Remastered Revealed \u2013 Coming 2027 - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/06/05/hitman-classic-trilogy-remastered-sgf-announce/"
     },
     {
-      "title": "Summer Game Fest Stream Overrun with Calls for Destiny 3 - IGN",
-      "link": "https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3"
+      "title": "Capcom Shines Bright With Massive Reveals at Summer Game Fest 2026 - Games Press",
+      "link": "https://www.gamespress.com/Capcom-Shines-Bright-With-Massive-Reveals-at-Summer-Game-Fest-2026"
     },
     {
-      "title": "New hand-animated Cuphead game and 8-bit action platformer Mighty Cuphead Adventure announced - Gematsu",
-      "link": "https://www.gematsu.com/2026/06/new-hand-animated-cuphead-game-and-8-bit-action-platformer-mighty-cuphead-adventure-announced"
+      "title": "Stellar Blade Blood Rain Revealed With Debut Trailer - IGN",
+      "link": "https://www.ign.com/articles/stellar-blade-bloodrain-revealed-with-debut-trailer"
     },
     {
-      "title": "Capcom Announces Resident Evil: Code Veronica Remake, Just Named Resident Evil Veronica - IGN",
-      "link": "https://www.ign.com/articles/resident-evil-veronica-announced-coming-2027"
+      "title": "Grand Theft Auto VI is warping the video game release calendar - The Verge",
+      "link": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest"
+    },
+    {
+      "title": "\u2018Final Fantasy VII: Revelation\u2019 Set to Conclude Remake Game Trilogy in 2027, First Trailer Revealed - Variety",
+      "link": "https://variety.com/2026/gaming/news/final-fantasy-7-revelation-trailer-release-matthew-mercer-1236768349/"
+    },
+    {
+      "title": "Street Fighter 6 Year 4 DLC characters Yasmine, Arjun, Tifa, and Bosch announced - Gematsu",
+      "link": "https://www.gematsu.com/2026/06/street-fighter-6-year-4-dlc-characters-yasmine-arjun-tifa-and-bosch-announced"
+    },
+    {
+      "title": "The Wolf Among Us Remastered announced for PS5, Xbox Series, Switch 2, Xbox One, Switch, and PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/06/the-wolf-among-us-remastered-announced-for-ps5-xbox-series-switch-2-xbox-one-switch-and-pc"
+    },
+    {
+      "title": "16 years in the making, Assassin Creed's spiritual successor goes full witchcraft - Polygon.com",
+      "link": "https://www.polygon.com/1666-amsterdam-trailer-prologue-demo/"
+    },
+    {
+      "title": "Guild Wars 3, Modern Evolution of the MMORPG, Announced at Summer Game Fest for PC and PlayStation 5 - PR Newswire",
+      "link": "https://www.prnewswire.com/news-releases/guild-wars-3-modern-evolution-of-the-mmorpg-announced-at-summer-game-fest-for-pc-and-playstation-5-302793119.html"
+    },
+    {
+      "title": "Virtua Fighter Crossroads announced - Gematsu",
+      "link": "https://www.gematsu.com/2026/06/virtua-fighter-crossroads-announced"
+    },
+    {
+      "title": "Control Resonant Deals With Trauma And Redemption - GameSpot",
+      "link": "https://www.gamespot.com/articles/control-resonant-deals-with-trauma-and-redemption/"
+    },
+    {
+      "title": "Crossfire Is a Single Player PS5 Shooter with Soul from Ex-Naughty Dog Devs - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/06/crossfire-is-a-single-player-ps5-shooter-with-soul-from-ex-naughty-dog-devs"
+    },
+    {
+      "title": "Mighty Cuphead Adventure announced, new Cuphead game on the way - Nintendo Everything",
+      "link": "https://nintendoeverything.com/mighty-cuphead-adventure-announced-new-cuphead-game-on-the-way/"
+    },
+    {
+      "title": "Epic Games Publishing and genDESIGN announce gen ATLAS - Gematsu",
+      "link": "https://www.gematsu.com/2026/06/epic-games-publishing-and-gendesign-announce-gen-atlas"
+    },
+    {
+      "title": "PS Plus Adds This Iconic RPG to Extra's Catalogue in September - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/06/ps-plus-adds-this-iconic-rpg-to-extras-catalogue-in-september"
+    },
+    {
+      "title": "Alien: Isolation 2 announced for PS5, Xbox Series, Switch 2, and PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/06/alien-isolation-2-announced-for-ps5-xbox-series-switch-2-and-pc"
     },
     {
       "title": "How a USB-connected speaker can infect a PC without ever being touched - Ars Technica",
       "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/"
-    },
-    {
-      "title": "TV Questions: Which Not Suitable For Work 'Ship Is Best? And More! - TVLine",
-      "link": "https://www.tvline.com/2188370/not-suitable-for-work-relationships-pop-culture-jeopardy-semi-final-tv-questions/"
-    },
-    {
-      "title": "No Rest for the Wicked dev explains why the Nintendo Switch 2 version is coming later - Nintendo Everything",
-      "link": "https://nintendoeverything.com/no-rest-for-the-wicked-dev-explains-why-the-nintendo-switch-2-version-is-coming-later/"
-    },
-    {
-      "title": "Persona 6 Will Be At Xbox Games Showcase, Leaker Suggests - GameSpot",
-      "link": "https://www.gamespot.com/articles/persona-6-will-be-at-xbox-games-showcase-leaker-suggests/"
-    },
-    {
-      "title": "Touch ID coming to iPhone Ultra this fall, here\u2019s why - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/"
-    },
-    {
-      "title": "YouTube Premium price hike kicks in this month \u2013 will you cancel? [Poll] - 9to5Google",
-      "link": "http://9to5google.com/2026/06/05/youtube-premium-price-hikes-cancel-poll/"
-    },
-    {
-      "title": "The Fitbit Air is great, but Google's AI is too nice to be your \"coach\" - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/"
-    },
-    {
-      "title": "Last Chance To Get These Discounted Switch Gems In Nintendo's eShop 'Indie Sale' (North America) - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/last-chance-to-get-these-discounted-switch-gems-in-nintendos-eshop-indie-sale-north-america"
-    },
-    {
-      "title": "Will Apple Launch New Hardware at WWDC Next Week? - MacRumors",
-      "link": "https://www.macrumors.com/2026/06/05/will-apple-launch-new-hardware-at-wwdc-next-week/"
-    },
-    {
-      "title": "Tomb Raider: Legacy of Atlantis PC requirements list RTX 3080 and RX 6800 XT - VideoCardz.com",
-      "link": "https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt"
-    },
-    {
-      "title": "Here's an early look at the Steam Frame Welcome Tour after Valve officially announces summer release window - PC Guide",
-      "link": "https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/"
-    },
-    {
-      "title": "Destiny 2\u2019s Last Trailer Ever Is Heartbreaking - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/"
-    },
-    {
-      "title": "macOS 27 could grant two wishes that longtime Mac users want most - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/"
-    },
-    {
-      "title": "The Top 10 Nintendo Switch 2 Games - Game Informer",
-      "link": "https://gameinformer.com/2026/06/05/the-top-10-nintendo-switch-2-games"
     }
   ],
   "sports_news": [
     {
-      "title": "UFC's White: Pereira surpasses Jones as GOAT with win vs. Gane - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/48978261/ufc-white-pereira-surpasses-jones-goat-win-vs-gane"
+      "title": "Knicks-Spurs was most-watched NBA Finals Game 1 since 2018 - NBA.com",
+      "link": "https://www.nba.com/news/nba-finals-2026-spurs-knicks-game-1-viewership"
     },
     {
-      "title": "When will Aaron Judge be back? How can Yankees replace him? Answering five big questions about his injury - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/aaron-judge-injury-yankees-questions/"
+      "title": "Caleb Williams pays homage to Michael Jordan on Madden 27 cover - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-pays-homage-to-michael-jordan-on-madden-27-cover"
     },
     {
-      "title": "Tehrangeles has a World Cup team to root against - Politico",
-      "link": "https://www.politico.com/news/2026/06/05/iranian-americans-la-world-cup-00952056"
+      "title": "Live Updates: Knicks, Spurs vying for control - NBA.com",
+      "link": "https://www.nba.com/news/live-updates-nba-finals-game-2-knicks-spurs"
+    },
+    {
+      "title": "Spain 4-0 England: World champions expose Lionesses' flaws - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c33230637gno"
+    },
+    {
+      "title": "Gio Ruggiero takes third victory of 2026 in rain-shortened Henry Ford Health 200 at Michigan - arcaracing.com",
+      "link": "https://www.arcaracing.com/2026/06/05/gio-ruggiero-wins-michigan-henry-ford-health-200/"
+    },
+    {
+      "title": "World Cup 2026: Fifa says disposable water bottles can be brought into stadiums - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c79490e8g37o"
+    },
+    {
+      "title": "Heightened security for Trump attending NBA Finals includes ban on all bags at Madison Square Garden - CBS News",
+      "link": "https://www.cbsnews.com/news/security-trump-madison-square-garden-nba-finals-knicks-spurs/"
+    },
+    {
+      "title": "Ram\u00f3n Laureano Undergoes Hip Surgery, Most Likely Done For Season - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/06/ramon-laureano-undergoes-hip-surgery-most-likely-done-for-season.html"
+    },
+    {
+      "title": "What I\u2019m Hearing About Dylan Larkin, Steve Yzerman, and the Red Wings\u2019 Next Move - shapshotshockey.com",
+      "link": "https://www.shapshotshockey.com/p/what-im-hearing-about-dylan-larkin"
+    },
+    {
+      "title": "DI Cabinet modifies age-based eligibility concept - NCAA.org",
+      "link": "https://www.ncaa.org/news/2026/6/5/media-center-di-cabinet-modifies-age-based-eligibility-concept.aspx"
+    },
+    {
+      "title": "Scottie Scheffler makes comment about Ted Scott after day two at Memorial following clash - hitc.com",
+      "link": "https://www.hitc.com/scottie-scheffler-makes-comment-about-ted-scott-after-day-two-at-memorial-following-clash/"
+    },
+    {
+      "title": "Yankees' Aaron Judge Talks 'Made Up' Rib Injury Return Timetable, Spencer Jones Recalled - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25434229-yankees-aaron-judge-talks-made-rib-injury-return-timetable-spencer-jones-recalled"
+    },
+    {
+      "title": "Seattle mayor shifts stance, agrees to turn on cameras - The Seattle Times",
+      "link": "https://www.seattletimes.com/seattle-news/politics/mayor-wilson-agrees-to-turn-on-stadium-area-cameras-ahead-of-world-cup/"
+    },
+    {
+      "title": "Woman spends $5,500 for her birthday party in Las Vegas nightclub. Then she sees the bottle of Mo\u00ebt they bring her: \u2018Too heavy for me to lift\u2019 - Yahoo",
+      "link": "https://www.thebiglead.com/las-vegas-5500-dollar-birthday-bash/"
     },
     {
       "title": "Frahm Joins Husker Coaching Staff - University of Nebraska - Official Athletics Website - huskers.com",
       "link": "https://huskers.com/news/2026/06/5/frahm-joins-husker-coaching-staff"
     },
     {
-      "title": "Arnaldi withdrawal sends Cobolli through to first Slam final - Roland-Garros 2026",
-      "link": "https://www.rolandgarros.com/en-us/article/2026-edition-arnaldi-illness-sends-cobolli-through-to-first-slam-final"
+      "title": "Andre Agassi stunned by Matteo Arnaldi\u2019s French Open withdrawal: \u2018Better be unimaginable\u2019 - Awful Announcing",
+      "link": "https://awfulannouncing.com/tennis/andre-agassi-matteo-arnaldi-french-open.html"
+    },
+    {
+      "title": "Ned Jarrett, NASCAR Hall of Famer and CBS announcer, dies at 93 - CBS News",
+      "link": "https://www.cbsnews.com/news/ned-jarrett-dies-age-93-nascar-hall-of-fame/"
     },
     {
       "title": "Tarik Skubal To Begin Rehab Assignment, Could Be Reinstated After One Start - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/06/tarik-skubal-to-begin-rehab-assignment-could-be-reinstated-after-one-start.html"
-    },
-    {
-      "title": "\u2018Why Does Donald Trump Always Have to Ruin a Good Thing?\u2019 \u2014 Congressman Rips President for Making Knicks\u2019 NBA Finals Run About Him - Yahoo Sports",
-      "link": "https://www.profootballnetwork.com/nba/congressman-rips-president-for-making-knicks-nba-finals-run-about-him/?utm_medium=rss&amp;utm_source=nordot"
     },
     {
       "title": "UFC Vegas 118 weigh-in results: Short-notice fighter misses weight on 1st attempt - MMA Fighting",
@@ -128,46 +168,6 @@
     {
       "title": "It's Indiana: Bears' board of directors votes to push stadium to Hammond - Chicago Sun-Times",
       "link": "https://chicago.suntimes.com/bears/2026/06/05/bears-hammond-indiana-board-directors-vote-stadium-arlington-heights-nfl"
-    },
-    {
-      "title": "Exclusive | Fan accused of harassing Knicks\u2019 Jalen Brunson banned from courtside for rest of NBA Finals - New York Post",
-      "link": "https://nypost.com/2026/06/05/sports/fan-in-jalen-brunson-incident-banned-from-courtside-for-rest-of-nba-finals/"
-    },
-    {
-      "title": "Here\u2019s a trade idea that actually makes sense for the Mariners - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/trading-for-tarik-skubal-doesnt-make-sense-for-mariners-heres-a-move-that-does/"
-    },
-    {
-      "title": "Baker Mayfield says contract talks \u2018not close,\u2019 sets deadline for deal - Tampa Bay Times",
-      "link": "https://www.tampabay.com/sports/bucs/2026/06/05/baker-mayfield-contract-negotiations-deadline-training-camp-mike-evans/"
-    },
-    {
-      "title": "Ex-Alabama State players were paid to fix 2024 game, NCAA says - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48976578/ex-alabama-state-players-were-paid-fix-2024-game-ncaa-says"
-    },
-    {
-      "title": "Jared Verse to wear No. 8 with Browns, Dillon Gabriel will change his number - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-to-wear-no-8-with-browns-dillon-gabriel-will-change-his-number"
-    },
-    {
-      "title": "Broncos LB Jonathon Cooper arrested on domestic violence charges - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/48976390/broncos-lb-jonathon-cooper-arrested-domestic-violence-charges"
-    },
-    {
-      "title": "Ned Jarrett, two-time Cup Series champion, dies at age 93 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/06/05/ned-jarrett-two-time-cup-series-champion-dies-at-age-93/"
-    },
-    {
-      "title": "Samantha Busch releases statement - Jayski",
-      "link": "https://www.jayski.com/2026/06/05/samantha-busch-releases-statement/"
-    },
-    {
-      "title": "Report: FIFA Insiders Warned Against Rule on Water Bottles - Newser",
-      "link": "https://www.newser.com/story/390516/report-fifa-insiders-warned-against-rule-on-water-bottles.html"
-    },
-    {
-      "title": "LIVE: 2026 F1 Monaco Grand Prix - Free Practice 2 - racingnews365.com",
-      "link": "https://racingnews365.com/live-2026-f1-monaco-grand-prix-free-practice-2"
     }
   ],
   "weather": {
