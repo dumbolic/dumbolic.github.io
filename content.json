@@ -1,9 +1,9 @@
 {
-  "quote": "Give more than you think you can, trusting that you are richer than you think. \u2013 Jon Kabat-Zinn",
-  "fact": "In Japan, watermelons are squared. It's easier to stack them that way.",
-  "crypto": "BTC: $63,228 | ETH: $1,686.72",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
+  "quote": "The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. \u2013 George Bernard Shaw",
+  "fact": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
+  "crypto": "BTC: $62,643 | ETH: $1,654.74",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call an elephant that doesn\u2019t matter? An irrelephant.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Bloober Team announces psychological thriller Star Trek: Shadow Frontier for PS5, Xbox Series, Switch 2, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc"
+      "title": "Hideo Kojima Says He's No Longer Interested In AI - Kotaku",
+      "link": "https://kotaku.com/hideo-kojima-says-hes-not-interested-in-ai-maybe-ai-could-create-art-but-while-i-live-i-dont-think-ill-see-it-2000703473"
+    },
+    {
+      "title": "Vampire Survivors Announces Switch 2 Version, New DLC And Name Update - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update"
+    },
+    {
+      "title": "Wyoming Sheriff Orders \"Clint Eastwood High Plains Drifter\" Look For New Cruiser - Cowboy State Daily",
+      "link": "https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/"
     },
     {
       "title": "Stellar Blade: Blood Rain's Reveal Is Allegedly Riddled with Generative AI - pushsquare.com",
       "link": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai"
+    },
+    {
+      "title": "The dataminers were right \u2013 Monster Hunter Wilds is coming to Nintendo Switch 2 - Eurogamer",
+      "link": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2"
     },
     {
       "title": "Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November - pushsquare.com",
@@ -28,114 +40,130 @@
       "link": "https://www.digitalfoundry.net/features/nintendo-switch-2-year-one-the-digital-foundry-verdict"
     },
     {
-      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch",
-      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+      "title": "Arizona Sunshine announced for Nintendo Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/arizona-sunshine-announced-for-nintendo-switch-2/"
     },
     {
       "title": "The first Story-Rich showcase was packed with narrative-driven games - The Verge",
       "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers"
     },
     {
+      "title": "I Tested All 4 of Microsoft's New AI Models. Here's the Brutal Truth - PCMag",
+      "link": "https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth"
+    },
+    {
       "title": "Bungie Fixes Marathon Mess by Giving Away Full Game to Fans Who Purchased Due to Misleading PS5 Store Description - Push Square",
       "link": "https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description"
     },
     {
-      "title": "Monster Hunter Wilds Is So Back With Big Ascendance Expansion - Kotaku",
-      "link": "https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218"
+      "title": "iOS 27: Seven new iPhone features are coming soon - 9to5Mac",
+      "link": "https://9to5mac.com/2026/06/06/ios-27-seven-new-features-are-coming-soon/"
     },
     {
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration - The Hacker News",
-      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
+      "title": "007 First Light Dev IO Interactive Says It's Now Sold 3 Million Copies, Tracking 'Well Above Our Forecasts at This Point' - IGN",
+      "link": "https://www.ign.com/articles/007-first-light-dev-io-interactive-says-its-now-sold-3-million-copies-tracking-well-above-our-forecasts-at-this-point"
+    },
+    {
+      "title": "4 Windows 11 tools from Build 2026 that signal what\u2019s coming next for the OS - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026"
     },
     {
       "title": "All Confirmed & Rumored Games For XBOX Games Showcase 2026 - Insider Gaming",
       "link": "https://insider-gaming.com/all-confirmed-rumored-games-for-xbox-games-showcase-2026/"
     },
     {
-      "title": "I used the Motorola Razr Ultra (2026) and the Galaxy Z Flip 7, and I only want one in my pocket - Android Authority",
-      "link": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/"
-    },
-    {
       "title": "Yooka-Laylee is back in a SNES-style kart racer from some of the team behind Diddy Kong Racing - Eurogamer",
       "link": "https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic"
+    },
+    {
+      "title": "Intel Arc G3 Extreme Performance Benchmarks Show Clear Disruption In The Handled Segment, Offers Double The Battery At Same Performance As Z2 Extreme - Wccftech",
+      "link": "https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/"
     },
     {
       "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs - The Hacker News",
       "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html"
     },
     {
-      "title": "RuneScape: Dragonwilds Soars onto XBOX on September 15, 2026 - XBOX Wire",
-      "link": "https://news.xbox.com/en-us/2026/06/05/runescape-dragonwilds-sgf-reveal/"
+      "title": "You can choose to resurrect Bosch in Street Fighter 6's World Tour mode, kind of like the Season 4 DLC announcement that happened today - EventHubs",
+      "link": "https://www.eventhubs.com/news/2026/jun/05/bosch-resurrect-street-fighter-6/"
     },
     {
       "title": "Sonic Racing: CrossWorlds Season Pass 2 Announced, Includes Six New DLC Packs - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/06/sonic-racing-crossworlds-season-pass-2-announced-includes-six-new-dlc-packs"
-    },
-    {
-      "title": "Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer",
-      "link": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase"
-    },
-    {
-      "title": "Welcome Back, 47: HITMAN Classic Trilogy Remastered Revealed \u2013 Coming 2027 - XBOX Wire",
-      "link": "https://news.xbox.com/en-us/2026/06/05/hitman-classic-trilogy-remastered-sgf-announce/"
-    },
-    {
-      "title": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content - Eurogamer",
-      "link": "https://www.eurogamer.net/io-interactives-james-bond-game-007-first-light-sells-27-million-copies-in-its-first-week-as-dev-reiterates-free-year-one-content"
-    },
-    {
-      "title": "Capcom Shines Bright With Massive Reveals at Summer Game Fest 2026 - Games Press",
-      "link": "https://www.gamespress.com/Capcom-Shines-Bright-With-Massive-Reveals-at-Summer-Game-Fest-2026"
-    },
-    {
-      "title": "Here's When You Can Play Fortnite CH7S3 - GameRant",
-      "link": "https://gamerant.com/fortnite-chapter-7-season-3-downtime-end-time/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Simone Biles reveals she had a health scare and describes \u2018almost dying\u2019 - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/simone-biles-reveals-health-scare-describes-almost-dying-rcna348833"
+    },
+    {
+      "title": "Gabriel Bonfim dominates Belal Muhammad at UFC Fight Night - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/48988672/gabriel-bonfim-dominates-belal-muhammad-ufc-fight-night"
+    },
+    {
+      "title": "Mitch Marner Makes NHL History with Stanley Cup Final Hat Trick in 2nd Period of Game 3 - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25434936-mitch-marner-makes-nhl-history-stanley-cup-final-hat-trick-2nd-period-game-3"
+    },
+    {
+      "title": "USWNT vs. Brazil Score, Highlights, Stats and Reaction - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25434920-uswnt-vs-brazil-score-highlights-stats-and-reaction"
+    },
+    {
+      "title": "Finals MVP Ladder: Karl-Anthony Towns tops list after Knicks take 2-0 lead - NBA.com",
+      "link": "https://www.nba.com/news/finals-mvp-ladder-karl-anthony-towns-tops-list-after-knicks-take-2-0-lead"
+    },
+    {
+      "title": "UFC Vegas 118 video: Bryce Mitchell scores dramatic submission in final seconds - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/492788/ufc-vegas-118-video-bryce-mitchell-scores-dramatic-submission-in-final-seconds"
+    },
+    {
+      "title": "SoFi Stadium workers vote to authorize strike ahead of World Cup - NPR",
+      "link": "https://www.npr.org/2026/06/06/nx-s1-5848682/sofi-stadium-strike-world-cup"
+    },
+    {
+      "title": "Knicks issue warning ahead of President Trump\u2019s attendance to NBA Finals - Yahoo Sports",
+      "link": "https://thecomeback.com/nba/knicks-issue-warning-ahead-of-president-trumps-attendance-to-nba-finals.html"
+    },
     {
       "title": "How to watch today's Argentina vs Honduras Friendly game: Live stream, TV channel, and start time - Goal.com",
       "link": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-argentina-v-honduras/bltde33b8c3bb5a8407"
     },
     {
-      "title": "World Cup 2026: England & Thomas Tuchel must get serious after New Zealand game - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o"
+      "title": "Golden Tempo wins the 2026 Belmont Stakes, month after its historic Kentucky Derby win - CBS News",
+      "link": "https://www.cbsnews.com/news/2026-belmont-stakes-winner-golden-tempo/"
     },
     {
-      "title": "Rays Move Steven Matz To Bullpen - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/06/rays-move-steven-matz-to-bullpen.html"
+      "title": "Diamond Heels Hold on With 4-0 Win Against USC, Force Game Three in Supers - 247Sports",
+      "link": "https://247sports.com/college/north-carolina/article/diamond-heels-hold-on-with-4-0-win-against-usc-force-game-three-in-supers-287534976/"
     },
     {
-      "title": "\u2018I don\u2019t want him there\u2019: Donald Trump receives a message from Stephen A. Smith before NBA Finals - Yahoo Sports",
-      "link": "https://thecomeback.com/nba/donald-trump-receives-a-message-from-stephen-a-smith-before-nba-finals.html"
+      "title": "England player ratings vs New Zealand: | Goal.com US - Goal.com",
+      "link": "https://www.goal.com/en-us/lists/england-player-ratings-vs-new-zealand-harry-kane/bltf9971e41b6cab87d"
     },
     {
-      "title": "USA 1-2 Germany (Jun 6, 2026) Game Analysis - ESPN",
-      "link": "https://www.espn.com/soccer/report/_/gameId/762260"
+      "title": "Enhanced Box Score: Cubs 3, Giants 2 \u2013 June 6, 2026 - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/06/06/enhanced-box-score-cubs-3-giants-2-june-6-2026/"
     },
     {
-      "title": "\u2018Mass casualty event\u2019 reported at West Virginia ball park - The Hill",
-      "link": "https://thehill.com/homenews/nexstar_media_wire/5913430-mass-casualty-event-reported-at-west-virginia-ball-park/"
+      "title": "Pope Leo XIV acknowledges stiff competition with Bad Bunny in Spain and weighs in on soccer rivalry - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/International/wireStory/pope-acknowledges-stiff-competition-bad-bunny-weekend-spain-133643311"
     },
     {
       "title": "Projected Lineup: SCF, Game 3 at Vegas - NHL.com",
       "link": "https://www.nhl.com/hurricanes/news/projected-lineup-scf-game-3-at-vegas"
     },
     {
-      "title": "NBA Finals: 'Drive, kick, make the right reads:' The Knicks vs. Victor Wembanyama, summed up in one play - Yahoo Sports UK",
+      "title": "Knicks\u2019 must keep refusing to take foot off gas as they stare down NBA Finals recipe for relaxation - New York Post",
+      "link": "https://nypost.com/2026/06/06/sports/knicks-must-keep-refusing-to-take-foot-off-gas-in-nba-finals/"
+    },
+    {
+      "title": "Russell bemused by pace deficit to F1 title rival Antonelli - Autosport",
+      "link": "https://www.autosport.com/f1/news/george-russell-bemused-by-pace-deficit-to-f1-title-rival-kimi-antonelli/10827617/"
+    },
+    {
+      "title": "NBA Finals: 'Drive, kick, make the right reads' \u2014 The Knicks vs. Victor Wembanyama, summed up in one play - Yahoo Sports",
       "link": "https://sports.yahoo.com/nba/article/nba-finals-drive-kick-make-the-right-reads--the-knicks-vs-victor-wembanyama-summed-up-in-one-play-210427025.html"
-    },
-    {
-      "title": "Fever vs Liberty Prediction, Picks & Odds for Tonight\u2019s WNBA Game - Covers.com",
-      "link": "https://www.covers.com/wnba/fever-vs-liberty-prediction-picks-best-bets-parlay-saturday-6-6-2026"
-    },
-    {
-      "title": "USWNT vs. Brazil: Starting XI & Lineup Notes on Saturday, June 6 in S\u00e3o Paulo, Brazil - US Soccer",
-      "link": "https://ussoccer.com/stories/2026/06/uswnt-vs-brazil-starting-xi-lineup-notes-june-sao-paulo"
-    },
-    {
-      "title": "UFC Fight Night 278 live updates: Muhammad-Bonfim results each fight - MMA Junkie",
-      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/06/06/ufc-fight-night-las-vegas-belal-muhammad-vs-gabriel-bonfim-live-updates-results--live/90425643007/"
     },
     {
       "title": "Iran says soccer staff denied visas for World Cup - Politico",
@@ -144,30 +172,6 @@
     {
       "title": "Lewis Hamilton and Max Verstappen steal show after Kimi Antonelli Monaco GP pole with viral moment - Motorsport.com",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-steal-show-after-kimi-antonelli-monaco-gp-pole-with-viral-moment/10827682/"
-    },
-    {
-      "title": "Richard Childress: Kyle Busch was set to return to RCR in 2027 - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/06/06/cup-series-2026-richard-childress-press-conference-michigan/"
-    },
-    {
-      "title": "French Open 2026 results: Maja Chwalinska reflects on 'unforgettable three weeks' at Roland Garros - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/c8e2r7ezwkko"
-    },
-    {
-      "title": "Denzel Ward says he wants to stay with the Browns - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-says-he-wants-to-stay-with-the-browns"
-    },
-    {
-      "title": "NASCAR at Michigan: Key info, links, results for race weekend - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/06/06/nascar-at-michigan-key-info-links-results-for-race-weekend/"
-    },
-    {
-      "title": "How the Browns could get another 1st-rounder in the Myles Garrett trade; Eagles never made a play: Mary Kay C - Cleveland.com",
-      "link": "https://www.cleveland.com/browns/2026/06/how-the-rams-would-have-to-give-the-browns-another-1st-rounder-in-the-myles-garrett-trade-eagles-never-made-a-play-mary-kay-cabot.html"
-    },
-    {
-      "title": "Steelers would need to pay hefty price for polarizing QB Brendan Sorsby - Behind the Steel Curtain",
-      "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/171535/steelers-would-need-to-pay-hefty-price-for-polarizing-qb-brendan-sorsby-will-howard"
     }
   ],
   "weather": {
