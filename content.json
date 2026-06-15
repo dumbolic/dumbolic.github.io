@@ -1,9 +1,9 @@
 {
-  "quote": "Intelligent men are cruel. Stupid men are monstrously cruel. \u2013 Jack London",
-  "fact": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-  "crypto": "BTC: $66,628 | ETH: $1,820.14",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "My boss told me to have a good day. So I went home...",
+  "quote": "Because a thing seems difficult for you, do not think it impossible. \u2013 Marcus Aurelius",
+  "fact": "Giraffes have no vocal cords.",
+  "crypto": "BTC: $66,172 | ETH: $1,789.24",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransaction - Eurogamer",
+      "link": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions"
+    },
+    {
+      "title": "Pilots And Flight Attendants Reveal What Passengers Do That's Way More Risky Than You Think - BuzzFeed",
+      "link": "https://www.buzzfeed.com/jake_farrington/pilots-flight-attendants-important-tips-reddit"
+    },
+    {
       "title": "Report: Unannounced The Witcher Multiplayer Game Slated for PC & Mobile; Gameplay Details Revealed - MP1st",
       "link": "https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile"
+    },
+    {
+      "title": "Sunday Preview \u2013 Hedonites head into battle along with a new General\u2019s Handbook - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook"
+    },
+    {
+      "title": "Microsoft released the Windows 11 Secure Boot update for all PCs, how to verify yours - Windows Latest",
+      "link": "https://www.windowslatest.com/2026/06/14/microsoft-released-the-windows-11-secure-boot-update-for-all-pcs-how-to-verify-yours/"
     },
     {
       "title": "Nintendo maintenance schedule \u2013 June 14, 2026 \u2013 Wii and 3DS session incoming - Nintendo Everything",
       "link": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-14-2026/"
     },
     {
+      "title": "I updated to One UI 8.5 and immediately changed 5 settings - MakeUseOf",
+      "link": "https://www.makeuseof.com/one-ui-8-5-settings-to-change/"
+    },
+    {
       "title": "The \u2018Galaxy Z Fold 8 Ultra\u2019 has the potential to be a cruel joke - 9to5Google",
       "link": "http://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/"
+    },
+    {
+      "title": "Apple's big Siri update is here. Now the real challenge begins - KSL News",
+      "link": "https://www.ksl.com/article/51510780/apples-big-siri-update-is-here-now-the-real-challenge-begins"
     },
     {
       "title": "Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics - Phoronix",
@@ -40,16 +64,20 @@
       "link": "https://mashable.com/tech/ai-startup-founder-attempts-to-vibe-code-grand-theft-auto-game"
     },
     {
-      "title": "Apple\u2019s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook"
-    },
-    {
       "title": "The new Sonos Play has become my go-to desk and kitchen speaker - TechCrunch",
       "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
     },
     {
-      "title": "GeIL AQUARIUS Diamond RGB DDR5-6000 32GB kit launches for $354 in China - VideoCardz.com",
-      "link": "https://videocardz.com/newz/geil-aquarius-diamond-rgb-ddr5-6000-32gb-kit-launches-for-354-in-china"
+      "title": "PowerA teases Project X-Ray Flight Deck Wireless Controller for Xbox - Notebookcheck",
+      "link": "https://www.notebookcheck.net/PowerA-teases-Project-X-Ray-Flight-Deck-Wireless-Controller-for-Xbox.1321304.0.html"
+    },
+    {
+      "title": "The Head Of Capcom Explains How It Entered A New Golden Age - Kotaku",
+      "link": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227"
+    },
+    {
+      "title": "10+ Games That Have Been Revealed For Xbox Game Pass In 2027 Already - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/06/10plus-games-that-have-been-revealed-for-xbox-game-pass-in-2027-already"
     },
     {
       "title": "\u201cWhy do I need an account for this\u201d Windows 11 users call out new requirements - Windows Central",
@@ -58,80 +86,56 @@
     {
       "title": "Momochi and Team Zeta evaluate Ingrid's place on the Street Fighter 6 tier list - EventHubs",
       "link": "https://www.eventhubs.com/news/2026/jun/14/momochi-zeta-ingrid-placement-sf6/"
-    },
-    {
-      "title": "PS5 Controller's Best Features Are Finally Working Over Bluetooth on PC - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/06/ps5-controllers-best-features-are-finally-working-over-bluetooth-on-pc"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Release Date: How WWDC 2026 Clues Signal September Launch Details - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2026/06/14/apple-iphone-18-pro-release-date-september-2026/"
-    },
-    {
-      "title": "6 Android automation features already on your phone that most people do not know exist - Android Police",
-      "link": "https://www.androidpolice.com/android-automation-features-already-on-your-phone-that-most-people-do-not-know-exist/"
-    },
-    {
-      "title": "Sunday Preview \u2013 Dawn of the new edition - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition"
-    },
-    {
-      "title": "I deleted most Android Auto apps, but only 6 earned a permanent spot on my dashboard - Android Police",
-      "link": "https://www.androidpolice.com/deleted-most-android-auto-apps-only-six-permanent-spot-on-dashboard/"
-    },
-    {
-      "title": "15 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-6-14-26/"
-    },
-    {
-      "title": "Intel Raptor Lake \u201cNext\u201d Desktop CPUs To Come In Core 7, Core 5, Core 3 Flavors With Up To 20 Cores But Retain 8 P-Cores On LGA 1700 Socket - Wccftech",
-      "link": "https://wccftech.com/intel-raptor-lake-next-desktop-cpus-core-7-core-5-core-3-up-to-20-cores-lga-1700-socket/"
-    },
-    {
-      "title": "Galaxy S27 Ultra Could Finally Address Endless Customer Complaints Of Older Flagships As Samsung Plans Three Upgrades Next Year - Wccftech",
-      "link": "https://wccftech.com/galaxy-s27-ultra-feature-three-upgrades-to-address-numerous-customer-complaints/"
     }
   ],
   "sports_news": [
     {
+      "title": "Brewers To Promote Cooper Pratt - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/06/brewers-to-promote-cooper-pratt.html"
+    },
+    {
+      "title": "Will Weather Or Bugs Spoil Trump\u2019s UFC Fight? This Is The Forecast - Forbes",
+      "link": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/ufc-freedom-250-final-forecast-large-hail-damaging-winds-and-bug-swarms-possible/"
+    },
+    {
+      "title": "Three in a row! Denny Hamlin wins Cup Series race at Pocono - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/06/14/2026-cup-series-pocono-race-recap/"
+    },
+    {
       "title": "Germany hit Curacao for seven to open their World Cup - Al Jazeera",
       "link": "https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup"
+    },
+    {
+      "title": "Barcelona-Catalunya Grand Prix: Lewis Hamilton's first Ferrari win a statement to himself and the rest of F1 - BBC",
+      "link": "https://www.bbc.com/sport/formula1/articles/c621q2l6lz5o"
+    },
+    {
+      "title": "Inside a Knicks celebration a half-century in the making - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49061940/inside-new-york-knicks-celebration-53-years-making-2026-nba-finals-san-antonio-spurs"
     },
     {
       "title": "Netherlands vs. Japan odds, predictions: 2026 World Cup picks from proven soccer expert - SportsLine",
       "link": "https://www.sportsline.com/insiders/netherlands-vs-japan-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/"
     },
     {
-      "title": "Khamzat Chimaev breaks his silence after chaotic brawl with \u2018idiot\u2019 Dillon Danis: \u2018Stupid guys do stupid things\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/494157/khamzat-chimaev-breaks-his-silence-after-chaotic-brawl-with-idiot-dillon-danis-stupid-guys-do-stupid-things"
+      "title": "Rideshare users bore the brunt of World Cup\u2019s opening-night travel mess. Organizers say the plan worked. - NJ.com",
+      "link": "https://www.nj.com/sports/2026/06/rideshare-users-bore-the-brunt-of-world-cups-opening-night-travel-mess-organizers-say-the-plan-worked.html"
     },
     {
-      "title": "Trump, bald eagles and Zac Brown Band: Inside the UFC Freedom 250 Fan Fest - NBC News",
-      "link": "https://www.nbcnews.com/sports/mixed-martial-arts/ufc-freedom-250-in-photos-trump-white-house-event-rcna350013"
+      "title": "The Knicks spent years looking for a giant. Jalen Brunson became something bigger. - NBC News",
+      "link": "https://www.nbcnews.com/sports/nba/jalen-brunson-key-to-knicks-championship-run-rcna349979"
     },
     {
       "title": "Spencer Strider will be evaluated further by Dr. Keith Meister, per report - Battery Power",
       "link": "https://www.batterypower.com/atlanta-braves-injuries/133692/spencer-strider-dr-keith-meister-evaluation-arm-shoulder"
     },
     {
-      "title": "Knicks NBA title gives many NFL fan bases a reason to keep dreaming - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/knicks-nba-title-gives-many-nfl-fan-bases-a-reason-to-keep-dreaming"
-    },
-    {
-      "title": "How Jalen Brunson\u2019s $113 Million Sacrifice Helped Knicks Win the NBA Finals - Forbes",
-      "link": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/jalen-brunson-sacrificed-over-100-million-to-help-build-the-knicks-championship-winning-team/"
-    },
-    {
       "title": "World Cup referee Omar Artan will receive full fee from FIFA despite being denied entry to the US - AP News",
       "link": "https://apnews.com/article/world-cup-somali-referee-omar-artan-9f98cd220db4c08656d0055e09839249"
     },
     {
-      "title": "F1 Barcelona GP: Lewis Hamilton takes maiden Ferrari win as Kimi Antonelli retires late - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/f1-barcelona-gp-race-report/10830256/"
-    },
-    {
-      "title": "Le Mans 24h: Toyota beats BMW, Cadillac for first win in four years - Motorsport.com",
-      "link": "https://www.motorsport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830254/"
+      "title": "A king with 3 teams - Politico",
+      "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/netherlands-curacao-Argentina -00961574"
     },
     {
       "title": "Giants acknowledge how player actions on Pride Night caused \u2018pain and anger\u2019 - The San Francisco Standard",
@@ -154,16 +158,8 @@
       "link": "https://bleacherreport.com/articles/25440307-everything-victor-wembanyama-said-after-spurs-2026-nba-finals-loss-vs-knicks"
     },
     {
-      "title": "Georgia wins the 2026 DI women's outdoor track and field championship - NCAA.com",
-      "link": "https://www.ncaa.com/live-updates/trackfield-outdoor-women/d1/georgia-wins-2026-di-womens-outdoor-track-and-field-championship"
-    },
-    {
       "title": "U.S. debut in World Cup generates 24.886 million viewers - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-debut-in-world-cup-generates-24-886-million-viewers"
-    },
-    {
-      "title": "Sea of red seen in World Cup low fan turnout in Santa Clara - New York Post",
-      "link": "https://nypost.com/2026/06/13/sports/low-fan-turnout-seen-in-fifa-world-cup-matchup-in-santa-clara/"
     },
     {
       "title": "How to watch Knicks vs. Spurs in Game 5 of 2026 NBA Finals live for free - New York Post",
