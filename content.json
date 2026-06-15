@@ -1,9 +1,9 @@
 {
-  "quote": "He is richest who is content with the least, for content is the wealth of nature. \u2013 Socrates",
-  "fact": "There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).",
-  "crypto": "BTC: $66,239 | ETH: $1,763.68",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Did you know that ghosts call their true love their ghoul-friend?",
+  "quote": "Life can be the scariest and most beautiful thing simultaneously. \u2013 Maxime Lagace",
+  "fact": "In most advertisements, including newspapers, the time displayed on a watch is 10:10.",
+  "crypto": "BTC: $66,840 | ETH: $1,829.95",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do I look like? A JOKE MACHINE!?",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,154 +12,158 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The \u2018Galaxy Z Fold 8 Ultra\u2019 has the potential to be a cruel joke - 9to5Google",
+      "link": "http://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/"
+    },
+    {
+      "title": "Nintendo says Zelda: Ocarina of Time Switch 2 remake has \"stunning visuals, updated designs, and timeless gameplay\" - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-says-zelda-ocarina-of-time-switch-2-remake-has-stunning-visuals-updated-designs-and-timeless-gameplay/"
+    },
+    {
+      "title": "Apple still has three unannounced iOS 27 features in the pipeline: report - 9to5Mac",
+      "link": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/"
+    },
+    {
+      "title": "Apple\u2019s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook"
+    },
+    {
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker - TechCrunch",
+      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
+    },
+    {
+      "title": "GeIL AQUARIUS Diamond RGB DDR5-6000 32GB kit launches for $354 in China - VideoCardz.com",
+      "link": "https://videocardz.com/newz/geil-aquarius-diamond-rgb-ddr5-6000-32gb-kit-launches-for-354-in-china"
+    },
+    {
+      "title": "Momochi and Team Zeta evaluate Ingrid's place on the Street Fighter 6 tier list - EventHubs",
+      "link": "https://www.eventhubs.com/news/2026/jun/14/momochi-zeta-ingrid-placement-sf6/"
+    },
+    {
+      "title": "PS5 Controller's Best Features Are Finally Working Over Bluetooth on PC - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/06/ps5-controllers-best-features-are-finally-working-over-bluetooth-on-pc"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Release Date: How WWDC 2026 Clues Signal September Launch Details - Forbes",
+      "link": "https://www.forbes.com/sites/davidphelan/2026/06/14/apple-iphone-18-pro-release-date-september-2026/"
+    },
+    {
+      "title": "6 Android automation features already on your phone that most people do not know exist - Android Police",
+      "link": "https://www.androidpolice.com/android-automation-features-already-on-your-phone-that-most-people-do-not-know-exist/"
+    },
+    {
+      "title": "Sunday Preview \u2013 Dawn of the new edition - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition"
+    },
+    {
+      "title": "I deleted most Android Auto apps, but only 6 earned a permanent spot on my dashboard - Android Police",
+      "link": "https://www.androidpolice.com/deleted-most-android-auto-apps-only-six-permanent-spot-on-dashboard/"
+    },
+    {
+      "title": "Intel Raptor Lake \u201cNext\u201d Desktop CPUs To Come In Core 7, Core 5, Core 3 Flavors With Up To 20 Cores But Retain 8 P-Cores On LGA 1700 Socket - Wccftech",
+      "link": "https://wccftech.com/intel-raptor-lake-next-desktop-cpus-core-7-core-5-core-3-up-to-20-cores-lga-1700-socket/"
+    },
+    {
+      "title": "SAMA launches Black Hole Turbo case with sound-damping panels for around $44 - VideoCardz.com",
+      "link": "https://videocardz.com/newz/sama-launches-black-hole-turbo-case-with-sound-damping-panels-for-around-44"
+    },
+    {
+      "title": "I let Claude audit my messy Home Assistant setup, and it was a massive wake-up call - Android Authority",
+      "link": "https://www.androidauthority.com/using-claude-fix-home-assistant-smart-home-3674998/"
+    },
+    {
+      "title": "All Android Users Can Now Update Android Auto to Version 17.1 - autoevolution",
+      "link": "https://www.autoevolution.com/news/all-android-users-can-now-update-android-auto-to-version-171-271461.html"
+    },
+    {
       "title": "5 hidden features I didn't know my Samsung phone had - Android Authority",
       "link": "https://www.androidauthority.com/hidden-features-samsung-phone-3672514/"
     },
     {
-      "title": "Intel to launch Core 200 \"Raptor Lake Next\" in 2027 for LGA-1700 socket - VideoCardz.com",
-      "link": "https://videocardz.com/newz/intel-to-launch-core-200-raptor-lake-next-in-2027-for-lga-1700-socket"
+      "title": "ONEXPLAYER drops Ryzen AI Max+ 395 for 388, $2,399 base model costs more than five Switch 2 consoles - VideoCardz.com",
+      "link": "https://videocardz.com/newz/onexplayer-drops-ryzen-ai-max-395-for-388-2399-base-model-costs-more-than-five-switch-2-consoles"
     },
     {
-      "title": "Rayman Legends Retold interview: developer on origins, engine, new content, Kung Foot's big return, and more - Nintendo Everything",
-      "link": "https://nintendoeverything.com/rayman-legends-retold-interview/"
-    },
-    {
-      "title": "Side-by-side size comparison of Samsung's upcoming foldable lineup leaked - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Side-by-side-size-comparison-of-Samsung-s-upcoming-foldable-lineup-leaked.1321370.0.html"
-    },
-    {
-      "title": "Mega Man Star Force: Legacy Collection Is Getting A New Update Early Next Week - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/06/mega-man-star-force-legacy-collection-is-getting-a-new-update-early-next-week"
-    },
-    {
-      "title": "Bambuddy Says Bye To Bambu Lab Cloud Services - Hackaday",
-      "link": "https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/"
-    },
-    {
-      "title": "iOS 27 adds an all-new app to your iPhone\u2019s Home Screen - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/"
-    },
-    {
-      "title": "AirPods Pro 3 are getting even better with iOS 27, order them today at their lowest price ever - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/13/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/"
-    },
-    {
-      "title": "Google has a free flight simulator you can pilot - USA Today",
-      "link": "https://www.usatoday.com/story/money/2026/06/13/google-free-flight-simulator/90539296007/"
-    },
-    {
-      "title": "iPhone Ultra Price: Why Apple\u2019s First Foldable Needs To Be Expensive - Forbes",
-      "link": "https://www.forbes.com/sites/ewanspence/2026/06/13/iphone-18-pro-ultra-pricing-strategy-apple-intelligence/"
-    },
-    {
-      "title": "Famitsu review scores - June 13, 2026 - first score for The Adventures of Elliot: The Millennium Tales - Nintendo Everything",
-      "link": "https://nintendoeverything.com/famitsu-review-scores-june-14-2026-first-score-for-the-adventures-of-elliot-the-millennium-tales/"
-    },
-    {
-      "title": "Send Crimson Desert your \"fun and incredible videos\", and you could win an all-expenses-paid trip to South Korea - Eurogamer",
-      "link": "https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea"
-    },
-    {
-      "title": "Microsoft released Windows 11 KB5094149 / KB5095971 / KB5094156 Setup, Recovery updates - Neowin",
-      "link": "https://www.neowin.net/news/microsoft-released-windows-11-kb5094149--kb5095971--kb5094156-setup-recovery-updates/"
-    },
-    {
-      "title": "Gemini's Daily Brief replaced my morning routine, and I'm shocked how well it works - Android Police",
-      "link": "https://www.androidpolice.com/gemini-daily-brief-replaced-morning-routine-shocked-well-works/"
-    },
-    {
-      "title": "Bungie\u2019s Last \u2018Destiny 2\u2019 Update Is a Bittersweet Blast - Gizmodo",
-      "link": "https://gizmodo.com/bungies-last-destiny-2-update-is-a-bittersweet-blast-2000771352"
-    },
-    {
-      "title": "DJI and Insta360 go to war in the U.S. over its action gimbal cameras - Mashable",
-      "link": "https://mashable.com/tech/dji-insta360-action-gimbal-cameras-patent-lawsuits"
-    },
-    {
-      "title": "Sealed Super Mario Bros. sells for a record $3 million - The Verge",
-      "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction"
-    },
-    {
-      "title": "\"We Have The Means To Fight This Case To The End\" - Gaming's Most Infamous Trademark Troll Is Back - Time Extension",
-      "link": "https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back"
-    },
-    {
-      "title": "Little Nightmares 3 \u2013 The Backstage wants you to meet the super chill and not at all terrifying Puppeteer - Eurogamer",
-      "link": "https://www.eurogamer.net/little-nightmares-3-backstage-dlc"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Release Date: How WWDC 2026 Clues Signal September Launch Details - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2026/06/13/apple-iphone-18-pro-release-date-september-2026/"
+      "title": "What Makes International Google Pixels Different From American Ones? - bgr.com",
+      "link": "https://www.bgr.com/2191335/google-pixel-international-different-from-american/"
     }
   ],
   "sports_news": [
     {
-      "title": "A king with three teams - Politico",
-      "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/king-three-teams-netherlands-curacao-00961574"
+      "title": "Knicks Receive Disrespectful News Hours After Winning NBA Title - heavy.com",
+      "link": "https://heavy.com/sports/nba/new-york-knicks/knicks-nba-title-odds/"
     },
     {
-      "title": "White House hosting \"UFC Freedom 250\" fight on Trump's 80th birthday tonight - CBS News",
-      "link": "https://www.cbsnews.com/news/white-house-ufc-freedom-250-fight-trump-80th-birthday/"
+      "title": "Shock twist: Dana White\u2019s UFC Freedom 250 may be forced to pivot after tonight\u2019s alarming weather update - Yahoo Sports",
+      "link": "https://www.hitc.com/shock-twist-dana-whites-ufc-freedom-250-may-be-forced-to-pivot-after-tonights-alarming-weather-update/"
     },
     {
-      "title": "Former San Francisco 49ers defensive star Aldon Smith dies at 36 - SFGATE",
-      "link": "https://www.sfgate.com/49ers/article/49ers-aldon-smith-dies-22304309.php"
+      "title": "Spencer Strider will be evaluated further by Dr. Keith Meister, per report - Battery Power",
+      "link": "https://www.batterypower.com/atlanta-braves-injuries/133692/spencer-strider-dr-keith-meister-evaluation-arm-shoulder"
     },
     {
-      "title": "Knicks vs. Spurs NBA Finals: It all started with Jalen Brunson, and it all ended with him as well \u2014 as NBA champion - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/knicks-vs-spurs-nba-finals-it-all-started-with-jalen-brunson-and-it-all-ended-with-him-as-well--as-nba-champion-085511747.html"
+      "title": "Knicks NBA title gives many NFL fan bases a reason to keep dreaming - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/knicks-nba-title-gives-many-nfl-fan-bases-a-reason-to-keep-dreaming"
     },
     {
-      "title": "'It was amazing': Patrick Beach repays Popovic's faith in win over T\u00fcrkiye - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49059143/fifa-world-cup-australia-socceroos-goalkeeper-patrick-beach-repays-tony-popovic-faith-win-turkiye"
+      "title": "Lewis Hamilton wins his first Formula 1 Grand Prix for Ferrari - NBC News",
+      "link": "https://www.nbcnews.com/sports/formula-1/lewis-hamilton-wins-first-formula-1-grand-prix-ferrari-rcna350010"
+    },
+    {
+      "title": "How Jalen Brunson\u2019s $113 Million Sacrifice Helped Knicks Win the NBA Finals - Forbes",
+      "link": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/jalen-brunson-sacrificed-over-100-million-to-help-build-the-knicks-championship-winning-team/"
+    },
+    {
+      "title": "Royals Place Vinnie Pasquantino On IL With Hamate Fracture - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/06/royals-place-vinnie-pasquantino-on-il-with-hamate-fracture.html"
+    },
+    {
+      "title": "Jalen Brunson still won\u2019t clap back at his \u20181A\u2019 haters - New York Post",
+      "link": "https://nypost.com/2026/06/14/sports/jalen-brunson-still-wont-clap-back-at-his-1a-haters/"
+    },
+    {
+      "title": "Le Mans 24h: Toyota beats BMW, Cadillac for first win in four years - Motorsport.com",
+      "link": "https://www.motorsport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830254/"
+    },
+    {
+      "title": "Teen shot in foot amid unruly crowds as NYC fans celebrate Knicks championship - Fox News",
+      "link": "https://www.foxnews.com/live-news/knicks-championship-celebration-nyc-chaos-06-14-26"
+    },
+    {
+      "title": "A king with 3 teams - Politico",
+      "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/netherlands-curacao-Argentina -00961574"
+    },
+    {
+      "title": "Giants acknowledge how player actions on Pride Night caused \u2018pain and anger\u2019 - The San Francisco Standard",
+      "link": "https://sfstandard.com/2026/06/14/sf-giants-pride-night-pain-anger-social-media/"
+    },
+    {
+      "title": "NBA mock draft 2026: Updated projection after NBA Finals ends - SB Nation",
+      "link": "https://www.sbnation.com/nba/1118156/nba-mock-draft-2026-updated-projection-after-nba-finals-ends"
+    },
+    {
+      "title": "Pocono Raceway moves start time for NASCAR race - WFMZ.com",
+      "link": "https://www.wfmz.com/news/area/pennsylvania/pocono-raceway-moves-start-time-for-nascar-race/article_735d9df0-5773-417b-a95a-7f65b3a94a01.html"
+    },
+    {
+      "title": "\u2018We\u2019re having a party!\u2019: Inside a school bus with Scottish soccer fans headed to the World Cup - WGBH",
+      "link": "https://www.wgbh.org/news/local/2026-06-14/were-having-a-party-inside-a-school-bus-with-scottish-soccer-fans-headed-to-the-world-cup"
+    },
+    {
+      "title": "Knicks news: Jalen Brunson makes painful admission on Victor Wembanyama no-call - ClutchPoints",
+      "link": "https://clutchpoints.com/nba/new-york-knicks/knicks-news-jalen-brunson-makes-painful-admission-on-victor-wembanyama-no-call"
+    },
+    {
+      "title": "4 Takeaways From Australia's Stunning World Cup Win vs. T\u00fcrkiye To Upend Group D - FOX Sports",
+      "link": "https://www.foxsports.com/stories/soccer/australia-stuns-turkiye-2-0-upend-group-d-4-takeaways"
     },
     {
       "title": "Everything Victor Wembanyama Said After Spurs' 2026 NBA Finals Loss vs. Knicks - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25440307-everything-victor-wembanyama-said-after-spurs-2026-nba-finals-loss-vs-knicks"
     },
     {
-      "title": "U.S. debut in World Cup generates 24.886 million viewers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-debut-in-world-cup-generates-24-886-million-viewers"
-    },
-    {
-      "title": "Travel disaster strands N.J. World Cup fans for hours: \u2018It\u2019s hard to believe we\u2019re in America right now\u2019 - NJ.com",
-      "link": "https://www.nj.com/news/2026/06/travel-disaster-strands-nj-world-cup-fans-for-hours-its-hard-to-believe-were-in-america-right-now.html"
-    },
-    {
-      "title": "Khamzat Chimaev, Dillon Danis get into huge brawl after lightning quick match in RAF 10 main event - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/494119/khamzat-chimaev-dillon-danis-get-into-huge-brawl-after-lighting-quick-match-in-raf-10-main-event"
-    },
-    {
-      "title": "Brazil player ratings vs Morocco: Vinicius Jr rescues the Selecao as dreary Casemiro display leaves Carlo Ancelotti with more World Cup questions than answers - Goal.com",
-      "link": "https://www.goal.com/en-us/lists/brazil-ratings-vs-morocco-vinicius-jr-casemiro-performance-carlo-ancelotti/bltcc0b58ccd98a662c"
-    },
-    {
-      "title": "What to Watch: Pocono opens summer stretch filled with variety - NASCAR.com",
-      "link": "https://www.nascar.com/news-media/2026/06/13/cup-series-pocono-what-to-watch-info/"
-    },
-    {
-      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic - BBC",
-      "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo"
-    },
-    {
-      "title": "Qatar net late goal against Swiss to secure historic first World Cup point - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland"
-    },
-    {
-      "title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium - NPR",
-      "link": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium"
-    },
-    {
-      "title": "Knicks hope to close out Finals in Game 5 vs. Spurs \u2014 Here\u2019s how to watch for free - Page Six",
-      "link": "https://pagesix.com/2026/06/13/entertainment/heres-how-to-watch-knicks-vs-spurs-nba-finals-game-5-for-free/"
-    },
-    {
-      "title": "Jacob Misiorowski\u2019s One-Hit Masterpiece Belongs in the Kerry Wood Conversation - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/06/13/jacob-misiorowski-gem/"
-    },
-    {
-      "title": "Knicks' MSG Watch Party Returning for NBA Finals Game 5, Full Details Revealed - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25440131-knicks-msg-watch-party-returning-nba-finals-game-5-full-details-revealed"
+      "title": "Georgia wins the 2026 DI women's outdoor track and field championship - NCAA.com",
+      "link": "https://www.ncaa.com/live-updates/trackfield-outdoor-women/d1/georgia-wins-2026-di-womens-outdoor-track-and-field-championship"
     }
   ],
   "weather": {
