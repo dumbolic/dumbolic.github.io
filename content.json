@@ -1,9 +1,9 @@
 {
-  "quote": "Be willing to be a beginner every single morning. \u2013 Meister Eckhart",
-  "fact": "No piece of square dry paper can be folded in half more than 7 times",
-  "crypto": "BTC: $60,959 | ETH: $1,623.47",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do you call a magician who has lost their magic? Ian.",
+  "quote": "Your happiness is what truly matters most. Do what you have to do in order to be happy. \u2013 Brian Tracy",
+  "fact": "John Adams, Thomas Jefferson, and James Monroe died on July 4th.",
+  "crypto": "BTC: $59,699 | ETH: $1,573.79",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a pig that knows karate? A pork chop!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "The 35 Best Gaming Deals in the Prime Day Sales \u2014 Hand-Picked by Our Deals Experts - IGN",
+      "link": "https://www.ign.com/articles/best-video-game-deals-prime-day-2026"
+    },
     {
       "title": "Prime Day deals are live: Shop today\u2019s best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech",
       "link": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-live-shop-todays-best-tech-sales-from-apple-sony-bose-anker-and-others-184252541.html"
@@ -20,8 +24,16 @@
       "link": "https://www.hodinkee.com/articles/grand-seiko-updates-the-core-evolution-9-collection-with-tapered-bracelets-and-micro-adjustment-clas"
     },
     {
-      "title": "Monster Fantasy announced for PC \u2013 action RPG with cozy life simulation elements - Gematsu",
-      "link": "https://www.gematsu.com/2026/06/monster-fantasy-announced-for-pc-action-rpg-with-cozy-life-simulation-elements"
+      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Updated] - 9to5Google",
+      "link": "http://9to5google.com/2026/06/24/best-prime-day-deals-pixel-galaxy/"
+    },
+    {
+      "title": "Google Home Speaker unboxed early, revealing an unfortunate hardware decision - Android Authority",
+      "link": "https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/"
+    },
+    {
+      "title": "Monster Fantasy Combines the Thrill of Monster Hunter with the Cosy Chill of Animal Crossing - IGN",
+      "link": "https://www.ign.com/articles/monster-fantasy-combines-the-thrill-of-monster-hunter-with-the-cosy-chill-of-animal-crossing-ign-preview"
     },
     {
       "title": "Star Fox Nintendo Switch 2 reviews roundup - Nintendo Everything",
@@ -32,20 +44,32 @@
       "link": "https://www.ign.com/articles/the-rayneo-air-4-pro-ar-glasses-drop-to-a-new-low-price-for-prime-day-2026"
     },
     {
-      "title": "Someone got a Google Home Speaker early, and the big downside is a fixed power cable - 9to5Google",
-      "link": "http://9to5google.com/2026/06/23/google-home-speaker-early-purchase-impressions/"
-    },
-    {
       "title": "Sega Announces Two Sonic Game Collections For Switch - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/06/sega-announces-two-sonic-game-collections-for-switch"
     },
     {
-      "title": "Android 17 QPR1 Beta 5 is out now for your Pixel phone to test - Android Authority",
-      "link": "https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/"
+      "title": "Gemini Intelligence makes brief Pixel 10 series appearance on Android 17 QPR1 Beta - 9to5Google",
+      "link": "http://9to5google.com/2026/06/23/gemini-intelligence-android-17-qpr1-beta-pixel/"
     },
     {
-      "title": "Marathon\u2019s New PvE Mode Isn\u2019t Really an Extraction Mode At All - Insider Gaming",
-      "link": "https://insider-gaming.com/marathon-pve-mode-not-really-extraction/"
+      "title": "Marathon Confirms New PvE Mode Release Date, Season 3 Begins September 2026 - IGN",
+      "link": "https://www.ign.com/articles/marathon-confirms-new-pve-mode-release-date-season-3-begins-september-2026"
+    },
+    {
+      "title": "Adobe\u2019s AI Assistant Wants to Give Photographers More Time for Actual Creative Tasks - PetaPixel",
+      "link": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/"
+    },
+    {
+      "title": "Apple Releases Updated AirPods Beta Firmware With iOS 27 Features - MacRumors",
+      "link": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/"
+    },
+    {
+      "title": "Meta Thinks \u2018Social Learning\u2019 Can Fix Smart Glasses\u2019 Privacy Problems - Gizmodo",
+      "link": "https://gizmodo.com/meta-thinks-social-learning-can-fix-smart-glasses-privacy-problems-2000776162"
+    },
+    {
+      "title": "Xbox's Halo: Campaign Evolved's PC system requirements and specs are here \u2014 I hope you have SSD space - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/halo/xbox-announced-halo-campaign-evolveds-pc-system-requirements-and-recommended-specs"
     },
     {
       "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature - BleepingComputer",
@@ -62,40 +86,28 @@
     {
       "title": "DeepMind Chief Demis Hassabis says Google\u2019s still winning AI talent - Semafor",
       "link": "https://www.semafor.com/article/06/23/2026/deepmind-chief-demis-hassabis-says-googles-still-winning-ai-talent"
-    },
-    {
-      "title": "iOS 27 Wallet App Gets 7 New Features - MacRumors",
-      "link": "https://www.macrumors.com/guide/ios-27-wallet/"
-    },
-    {
-      "title": "Prime Day has served up several great deals on 4K TVs - The Verge",
-      "link": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale"
-    },
-    {
-      "title": "iPhone 18 Pro: Three new features that already have me excited - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/"
-    },
-    {
-      "title": "Sonic Racing: CrossWorlds free character updates Classic Sonic, Axel, and Amigo announced - Gematsu",
-      "link": "https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced"
-    },
-    {
-      "title": "Hyundai has a few tricks up its sleeve for its next \u2018N\u2019 EVs - Electrek",
-      "link": "http://electrek.co/2026/06/23/hyundai-few-tricks-next-n-evs/"
-    },
-    {
-      "title": "Pre-RAMpocalypse Steam Machine Pricing was ~30% Cheaper - TechPowerUp",
-      "link": "https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper"
     }
   ],
   "sports_news": [
+    {
+      "title": "Cavs trade No. 29 pick in 2026 NBA Draft to Sacramento Kings - Cleveland.com",
+      "link": "https://www.cleveland.com/cavs/2026/06/cavs-trade-no-29-pick-in-2026-nba-draft-to-sacramento-kings.html"
+    },
+    {
+      "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Mexico, More - FOX Sports",
+      "link": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-times-tv-streaming-brazil-mexico-more"
+    },
+    {
+      "title": "What Denver Nuggets trade down in NBA Draft means for second round, rest of offseason - Mile High Sports",
+      "link": "https://milehighsports.com/what-denver-nuggets-trade-down-means-for-second-round-rest-of-offseason-nba-draft/"
+    },
     {
       "title": "2026 NBA draft: Round 1 winners, surprise picks, questions - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49085674/2026-nba-draft-round-1-winners-surprises-teams-picks-questions-washington-jazz-memphis"
     },
     {
-      "title": "What Mike Dunleavy told Joe Lacob in viral Warriors draft-room interaction - NBC Sports Bay Area & California",
-      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/mike-dunleavy-joe-lacob-draft-room/1945354/"
+      "title": "Sleeper Picks: Travelers Championship - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/sleeper-picks/2026/06/23/2026-travelers-championship-sleeper-under-the-radar-picks-bets-odds-wagers-tpc-river-highlands"
     },
     {
       "title": "Fans chew out SF Giants for team's 'weak' response to Pride Night saga - SFGATE",
@@ -106,28 +118,40 @@
       "link": "https://www.cbssports.com/nba/news/five-lingering-questions-after-nba-draft-okc-wemby-stopper-ja-morant/"
     },
     {
-      "title": "5 takeaways: College players rule 1st round of 2026 NBA Draft - NBA.com",
-      "link": "https://www.nba.com/news/five-takeaways-2026-draft-1st-round"
-    },
-    {
       "title": "Brad Stevens Directly Addresses Jaylen Brown Situation After Giannis Antetokounmpo Chase - Sports Illustrated",
       "link": "https://www.si.com/nba/celtics/onsi/brad-stevens-directly-addresses-jaylen-brown-situation-after-giannis-antetokounmpo-chase-01kvvx4kp0v5"
+    },
+    {
+      "title": "Why the Spurs rolled the dice on a pair of big men in Tuesday's draft - San Antonio Express-News",
+      "link": "https://www.expressnews.com/sports/spurs/article/spurs-roll-dice-kentucky-big-man-no-20-22315467.php"
+    },
+    {
+      "title": "Grading the Bowen Byram trade: Sabres cash in on Blackhawks\u2019 costly gamble - Daily Faceoff",
+      "link": "https://www.dailyfaceoff.com/news/grading-the-bowen-byram-trade-sabres-blackhawks-reid-nhl-draft"
     },
     {
       "title": "Lopez becomes NBA's 1st Mexico-born 1st-rounder, traded to Grizzlies - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49161309/lopez-becomes-nba-1st-mexico-born-1st-rounder-traded-grizzlies"
     },
     {
+      "title": "Warriors keep draft pick, select Michigan's Yaxel Lendeborg No. 11 overall - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/warriros-yaxel-lendeborg-draft-22317973.php"
+    },
+    {
+      "title": "AJ Dybantsa a beacon of light for Wizards fans, next up in rich D.C. basketball tradition - Andscape",
+      "link": "https://andscape.com/features/aj-dybantsa-a-beacon-of-light-for-wizards-fans-next-up-in-rich-d-c-basketball-tradition/"
+    },
+    {
       "title": "Cubs To Place Edward Cabrera On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/06/cubs-to-place-edward-cabrera-on-injured-list.html"
     },
     {
-      "title": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/knicks-parade-attendee-dumped-trash-sidewalk-identified-jpmorgan-chase-dei-exec-promptly-fired"
+      "title": "Celtics draft Houston big Chris Cenac Jr. with No. 27 overall pick - MassLive",
+      "link": "https://www.masslive.com/celtics/2026/06/celtics-draft-houston-big-chris-cenac-jr-with-no-27-overall-pick.html"
     },
     {
-      "title": "Top knee doctor confident Jayden Quaintance's injury not a long-term concern, but clean-up procedure possible - On3",
-      "link": "https://www.on3.com/teams/kentucky-wildcats/news/top-knee-doctor-confident-jayden-quaintances-injury-not-a-long-term-concern-but-clean-up-procedure-possible/"
+      "title": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/knicks-parade-attendee-dumped-trash-sidewalk-identified-jpmorgan-chase-dei-exec-promptly-fired"
     },
     {
       "title": "A special trip to Ohio by Jazz decision makers sealed the deal on selecting Darryn Peterson - Deseret News",
@@ -138,36 +162,12 @@
       "link": "https://allphly.com/sixers-draft-labaron-philon-22-pick-2026-nba-draft/"
     },
     {
+      "title": "The Mavericks picked Michigan Man Morez Johnson Jr. at #9 \u2014 and the reactions are pouring in - Mavs Moneyball",
+      "link": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/60003/mavericks-picked-michigan-man-morez-johnson-jr-9th-reactions"
+    },
+    {
       "title": "NFL calls Brendan Sorsby's issues 'too significant,' declines 2026 supplemental draft - USA Today",
       "link": "https://www.usatoday.com/story/sports/nfl/2026/06/23/brendan-sorbys-nfl-supplemental-draft-denied/90661966007/"
-    },
-    {
-      "title": "Johnson reunites with Mavs' May, leads U-M trio in draft lottery - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/49160374/johnson-reunites-mavs-leads-u-m-trio-draft-lottery"
-    },
-    {
-      "title": "Bulls Select Dailyn Swain With the No. 15 Overall Pick in the 2026 NBA Draft - Bleacher Nation",
-      "link": "https://www.bleachernation.com/bulls/2026/06/23/dailyn-swain-bulls/"
-    },
-    {
-      "title": "Jac Caglianone make puny ball go very far in Royals win - Royals Review",
-      "link": "https://www.royalsreview.com/kansas-city-royals-scores-standings/101139/jac-caglianone-make-puny-ball-go-very-far-in-royals-win"
-    },
-    {
-      "title": "Portland mayor lambasts critics of Moda Center deal as county questions investment - OregonLive.com",
-      "link": "https://www.oregonlive.com/politics/2026/06/portland-mayor-lambasts-critics-of-moda-center-deal-as-county-questions-investment.html"
-    },
-    {
-      "title": "Colombia 1-0 DR Congo Stats: Mu\u00f1oz Steps Up Again to Secure Knockout Spot - Opta Analyst",
-      "link": "https://theanalyst.com/articles/colombia-vs-dr-congo-stats-world-cup-2026"
-    },
-    {
-      "title": "NBA Draft: Bucks select Arizona\u2019s Brayden Burries with No. 10 pick - Brew Hoop",
-      "link": "https://www.brewhoop.com/nba-draft/66869/bucks-select-arizonas-brayden-burries-with-no-10-pick"
-    },
-    {
-      "title": "Blackhawks acquire Byram, Greenway for picks, Crevier - Daily Faceoff",
-      "link": "https://www.dailyfaceoff.com/news/bowen-byram-trade-chicago-blackhawks-buffalo-sabres-nhl-draft-4th-overall-pick"
     }
   ],
   "weather": {
