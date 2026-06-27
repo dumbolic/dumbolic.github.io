@@ -1,9 +1,9 @@
 {
-  "quote": "One loses many laughs by not laughing at oneself. \u2013 Mary Engelbreit",
-  "fact": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
-  "crypto": "BTC: $60,025 | ETH: $1,577.42",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
+  "quote": "Be confident, not certain. \u2013 Eleanor Roosevelt",
+  "fact": "The name Jeep comes from \u201cGP\u201d, the army abbreviation for General Purpose.",
+  "crypto": "BTC: $60,305 | ETH: $1,580.56",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "The shovel was a ground-breaking invention.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech",
+      "link": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-live-shop-todays-best-tech-sales-from-apple-sony-bose-anker-and-others-184252541.html"
+    },
+    {
       "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
       "link": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/"
     },
     {
-      "title": "Valve Quietly Walks Back Steam Machine 4K 60 FPS Performance Claims - TechPowerUp",
-      "link": "https://www.techpowerup.com/350313/valve-quietly-walks-back-steam-machine-4k-60-fps-performance-claims"
+      "title": "Brand New, Retail Boxed Nintendo Switch 2 Gaming Consoles Are Going for as Low as $399 for Amazon Prime Day - IGN",
+      "link": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day"
+    },
+    {
+      "title": "Valve Removes \u20184K Gaming At 60 FPS\u2019 From Steam Machine Page After Early Review Backlash - Kotaku",
+      "link": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663"
+    },
+    {
+      "title": "Android 17\u2019s new foldable gaming mode could make flippy phones more fun - The Verge",
+      "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller"
+    },
+    {
+      "title": "\u2018Grand Theft Auto VI\u2019 Going Digital-Only Is a Car Crash for Physical Media - The Hollywood Reporter",
+      "link": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/"
     },
     {
       "title": "Best Prime Day laptop deals: Save up to $970 on MacBooks, Windows PCs - Mashable",
       "link": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026"
     },
     {
-      "title": "Prime Day ends soon: We narrowed down the best 150+ deals from Apple, Lego, Kindle, and more - Mashable",
-      "link": "https://mashable.com/tech/best-amazon-prime-day-deals-2026-live"
-    },
-    {
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026 - Ars Technica",
-      "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
+      "title": "Microsoft adds another year to Windows 10 extended update program - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
     },
     {
       "title": "Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC",
@@ -40,24 +52,16 @@
       "link": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/"
     },
     {
-      "title": "Microsoft extends Windows 10 extended security updates program amid RAMpocalypse - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely"
-    },
-    {
-      "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line - Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead"
-    },
-    {
-      "title": "Star Fox Players Are Up To Debauchery With Its VTuber Avatars - Kotaku",
-      "link": "https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547"
+      "title": "Star Fox Routes Walkthrough And Alternate Routes Map For Every Stage - Nintendo Life",
+      "link": "https://www.nintendolife.com/guides/star-fox-walkthrough-routes-map-alternate-paths-switch-2"
     },
     {
       "title": "Bungie Is Laying Off 'Most Of' The Destiny 2 Development Team - Game Informer",
       "link": "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team"
     },
     {
-      "title": "Galaxy Z Fold 8 release date leaks, hands-on impressions make \u2018Ultra\u2019 seem pointless - 9to5Google",
-      "link": "http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/"
+      "title": "Google Finance gets a dedicated app for Android - TechCrunch",
+      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/"
     },
     {
       "title": "Samsung\u2019s new budget phone costs $50 more despite downgrades - The Verge",
@@ -68,22 +72,70 @@
       "link": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/"
     },
     {
-      "title": "Framework Laptop 13 Pro Intel mainboard now starts at $449 with optional LPCAMM2 memory from $439 - VideoCardz.com",
-      "link": "https://videocardz.com/newz/framework-laptop-13-pro-intel-mainboard-now-starts-at-449-with-optional-lpcamm2-memory-from-439"
-    },
-    {
       "title": "Porsche unveils the new 911 GT4 R for global customer motorsport - Porsche Newsroom",
       "link": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html"
+    },
+    {
+      "title": "Samsung accidentally confirms Galaxy Z Flip 8 chip choice - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/"
     }
   ],
   "sports_news": [
     {
-      "title": "MLB proposes contract length limits, no deferrals - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-25/mlb-proposes-contract-length-limits-no-deferrals"
+      "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32? - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/26/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32"
+    },
+    {
+      "title": "Cadeau plans to remain at Michigan after May's exit - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/49182673/cadeau-plans-remain-michigan-exit"
+    },
+    {
+      "title": "Iran and FIFA refuse to answer questions about Seattle\u2019s World Cup \u2018Pride Match\u2019 vs. Egypt - AP News",
+      "link": "https://apnews.com/article/world-cup-seattle-iran-egypt-gay-pride-lgbtq-c8243854034c3500b0a5663cb174f101"
+    },
+    {
+      "title": "Tunisia vs Netherlands LIVE: Watch FIFA World Cup Group F TV stream, score, commentary & updates - BBC",
+      "link": "https://www.bbc.com/sport/football/live/c2ly7jz75x0t"
+    },
+    {
+      "title": "Tempo's Marina Mabrey ties WNBA records with 53 points and 9 3-pointers in rout of Sparks - Yahoo Sports",
+      "link": "https://sports.yahoo.com/wnba/article/tempos-marina-mabrey-ties-wnba-records-with-53-points-and-9-3-pointers-in-rout-of-sparks-011429438.html"
+    },
+    {
+      "title": "World Cup 2026: USMNT set to face Bosnia and Herzegovina in Round of 32 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/soccer/article/world-cup-2026-usmnt-set-to-face-bosnia-and-herzegovina-in-round-of-32-205943100.html"
+    },
+    {
+      "title": "Diamondbacks miffed about preventable rainout. Kepler talks PED ban - azcentral.com and The Arizona Republic",
+      "link": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/06/25/diamondbacks-cardinals-score-updates-news/90678195007/"
+    },
+    {
+      "title": "Laura Albanese: 6 errors, David Peterson traded, chants of 'Pete Alonso.' Have the wheels fallen off for the Mets? - Newsday",
+      "link": "https://www.newsday.com/sports/columnists/laura-albanese/mets-season-gone-awry-negm9b31"
+    },
+    {
+      "title": "Ecuador shock Germany, seal spot in World Cup knockout stage - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49179704/ecuador-germany-fifa-world-cup-2026-knockout-stage-group-e"
+    },
+    {
+      "title": "Starting XI & Lineup Notes: USMNT vs. T\u00fcrkiye - U.S. Soccer",
+      "link": "https://ussoccer.com/stories/2026/06/usmnt/starting-xi-lineup-notes-vs-turkiye-world-cup"
     },
     {
       "title": "It\u2019s look less and less likely that Brendan Sorsby will be suing the NFL - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/its-look-less-and-less-likely-that-brendan-sorsby-will-be-suing-the-nfl"
+    },
+    {
+      "title": "Is anyone advising Brandon Aiyuk? - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/is-anyone-advising-brandon-aiyuk"
+    },
+    {
+      "title": "Giants president Larry Baer tries to reassure fans after Buster Posey avoids Pride Night questions - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/giants/article/giants-ceo-larry-baer-tries-reassure-fans-posey-22321081.php"
+    },
+    {
+      "title": "Brighton father and son lose thousands on World Cup trip after not receiving tickets - 13wham.com",
+      "link": "https://13wham.com/news/local/brighton-father-and-son-lose-thousands-on-world-cup-trip-after-not-receiving-tickets"
     },
     {
       "title": "Parents allege excessive force in death of ex-NFL player Martin - ESPN",
@@ -94,64 +146,12 @@
       "link": "https://www.mlb.com/news/all-star-ballot-2026-finalists"
     },
     {
-      "title": "Ecuador shock Germany, seal spot in World Cup knockout stage - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49179704/ecuador-germany-fifa-world-cup-2026-knockout-stage-group-e"
-    },
-    {
       "title": "The Hoffmann family wants Mario Lemieux involved with the Penguins - TribLIVE.com",
       "link": "https://triblive.com/sports/the-hoffmann-family-wants-mario-lemieux-involved-with-the-penguins/"
     },
     {
       "title": "Trade Deadline Outlook: New York Yankees - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/06/trade-deadline-outlook-new-york-yankees-2.html"
-    },
-    {
-      "title": "WNBA suspends Alyssa Thomas 1 game for hit to Caitlin Clark\u2019s throat - AP News",
-      "link": "https://apnews.com/article/alyssa-thomas-caitlin-clark-suspension-3ffbce6a061e328ab9df17c31ced8300"
-    },
-    {
-      "title": "Trade rumor rankings: Jaylen Brown, Kyrie Irving, Trey Murphy, more - HoopsHype",
-      "link": "https://www.hoopshype.com/story/sports/nba/2026/06/25/nba-trade-rumor-rankings-jaylen-brown-kyrie-irving-trey-murphy-more/90694530007/"
-    },
-    {
-      "title": "Blue Jackets acquire RW Valeri Nichushkin from Colorado - NHL.com",
-      "link": "https://www.nhl.com/bluejackets/news/blue-jackets-acquire-valeri-nichushkin-from-colorado"
-    },
-    {
-      "title": "Dianna Russini waited two days after learning of the Sedona photos to inform her bosses - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dianna-russini-waited-two-days-after-learning-of-the-sedona-photos-to-inform-her-bosses"
-    },
-    {
-      "title": "Lions CB Terrion Arnold arrested, faces possibility of life in prison on kidnapping, robbery charges - USA Today",
-      "link": "https://www.usatoday.com/story/sports/nfl/lions/2026/06/24/terrion-arnold-arrest-lions-felony-charges-prison/90687475007/"
-    },
-    {
-      "title": "Bode Miller\u2019s drug charges dismissed after new information emerges - New York Post",
-      "link": "https://nypost.com/2026/06/25/sports/bode-millers-drug-charges-dismissed-after-new-information-emerges/"
-    },
-    {
-      "title": "USMNT World Cup Lineup vs. T\u00fcrkiye: Balogun, Jedi, Adams, Richards Won't Start - FOX Sports",
-      "link": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-starting-lineup-pulisic-turkiye"
-    },
-    {
-      "title": "Tennis Hall of Famer Chris Evert announces she'll miss Wimbledon due to return of ovarian cancer - Yahoo Sports",
-      "link": "https://sports.yahoo.com/tennis/article/tennis-hall-of-famer-chris-evert-announces-shell-miss-wimbledon-due-to-return-of-ovarian-cancer-193735919.html"
-    },
-    {
-      "title": "Live: Timberwolves trade Naz Reid to Charlotte Hornets in deal for LaMelo Ball - Star Tribune",
-      "link": "https://www.startribune.com/lamelo-ball-traded-naz-reid-minnesota-timberwolves-charlotte/601861480"
-    },
-    {
-      "title": "Trade Rumors: Brown, Ball, LeBron, Morant, Pistons, Herro - HoopsRumors.com",
-      "link": "https://www.hoopsrumors.com/2026/06/trade-rumors-brown-ball-lebron-morant-pistons-herro.html"
-    },
-    {
-      "title": "The Lakers were negotiating hard with Austin Reaves on his new deal - Silver Screen and Roll",
-      "link": "https://www.silverscreenandroll.com/lakers-rumors/120280/lakers-rumors-austin-reaves-contract-nba-free-agency"
-    },
-    {
-      "title": "Micah Nori addresses concern over his Trail Blazers contract: \u2018I really don\u2019t care\u2019 - KOIN.com",
-      "link": "https://www.koin.com/sports/micah-nori-press-conference-trail-blazers-new-head-coach/"
     }
   ],
   "weather": {
