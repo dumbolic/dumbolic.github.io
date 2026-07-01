@@ -1,9 +1,9 @@
 {
-  "quote": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. \u2013 Dale Carnegie",
-  "fact": "The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.",
-  "crypto": "BTC: $58,632 | ETH: $1,573.61",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why can't eggs have love? They will break up too soon.",
+  "quote": "You will not do incredible things without an incredible dream. \u2013 John Eliot",
+  "fact": "\"Stewardesses\" is the longest word typed with only the left hand.",
+  "crypto": "BTC: $58,622 | ETH: $1,570.23",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What did the pirate say on his 80th birthday? Aye Matey!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,48 +12,68 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "The Best Deals on Tech Essentials Still Available After Prime Day - Lifehacker",
-      "link": "https://lifehacker.com/tech/prime-day-deals-tech-essentials-june-29-2026"
+      "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
+      "link": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/"
     },
     {
-      "title": "People Revealed Their Most Embarrassing ER Trips, And They're Worse Than Any Cartoon Injury - BuzzFeed",
-      "link": "https://www.buzzfeed.com/jake_farrington/weird-funny-reasons-emergency-room-threads"
+      "title": "GTA 6 Could Skip 60 FPS Entirely, as Rockstar\u2019s Insane Detail Forces a 30 FPS Lock Even on PS5 Pro - Wccftech",
+      "link": "https://wccftech.com/gta-6-skip-60-fps-entirely-insane-detail-ps5-pro/"
     },
     {
-      "title": "Apple Is Moving The iPhone 18 Pro\u2019s IR Flooder To The Side, As A CT Scan Exposes A Huge Vapor Chamber Stretching To The Top, And A Smaller Dynamic Island - Wccftech",
-      "link": "https://wccftech.com/apple-is-moving-the-iphone-18-pros-ir-flooder-to-the-side-as-a-ct-scan-exposes-a-huge-vapor-chamber-stretching-to-the-top-and-a-smaller-dynamic-island/"
+      "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
+      "link": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours"
+    },
+    {
+      "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
+      "link": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/"
+    },
+    {
+      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources - Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources"
+    },
+    {
+      "title": "Dead or Alive 6 sales reach 1 million copies while Last Round hits 'Mostly Negative' reviews on Steam for myriad of complaints - EventHubs",
+      "link": "https://www.eventhubs.com/news/2026/jun/29/dead-alive-6-sales-negative/"
     },
     {
       "title": "Samsung\u2019s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
       "link": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/"
     },
     {
+      "title": "Gmail Live now in testing on Android and iOS - 9to5Google",
+      "link": "http://9to5google.com/2026/06/29/gmail-live-testing/"
+    },
+    {
       "title": "How the Slinky became a classic American toy - ABC News - Breaking News, Latest News and Videos",
       "link": "https://abcnews.com/GMA/Culture/slinky-classic-american-toy/story?id\\\\u003d134258070"
     },
     {
-      "title": "Rumour: State of Decay 3 Dev Also Facing Xbox Axe, Just Weeks After Game Was Revealed for PS5 - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/06/rumour-state-of-decay-3-dev-also-facing-xbox-axe-just-weeks-after-game-was-revealed-for-ps5"
+      "title": "What\u2019s new in Android\u2019s June 2026 Google System Updates [U] - 9to5Google",
+      "link": "http://9to5google.com/2026/06/29/june-2026-google-system-updates/"
     },
     {
-      "title": "Mammoth Structure Found in Deep Space Challenges Our Understanding of The Universe - ScienceAlert",
-      "link": "https://www.sciencealert.com/impossible-structure-in-deep-space-challenges-our-understanding-of-the-universe"
+      "title": "Future OLED Macs and iPads could support a much wider color gamut, per report - 9to5Mac",
+      "link": "https://9to5mac.com/2026/06/29/future-oled-macs-and-ipads-could-support-a-much-wider-color-gamut-per-report/"
     },
     {
-      "title": "WhatsApp usernames arrive later this year, but the handle land grab starts now - Android Police",
-      "link": "https://www.androidpolice.com/whatsapp-username-reservation-live/"
+      "title": "State of Decay 3\u2019s Undead Labs named as another Xbox studio facing closure - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/state-of-decay-3s-undead-labs-named-as-another-xbox-studio-facing-closure/"
+    },
+    {
+      "title": "The CEO behind Grand Theft Auto VI doesn\u2019t play video games, but analysts say he has put $1.5 billion behind the biggest game launch of the decade - Forex Factory",
+      "link": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt"
     },
     {
       "title": "Dbrand Forced To Pull Steam Machine Companion Cube - TechPowerUp",
       "link": "https://www.techpowerup.com/350392/dbrand-forced-to-pull-steam-machine-companion-cube"
     },
     {
-      "title": "Report: Xbox Has No 'Blanket Plans' To End Funding For Third-Party Game Pass Titles - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/06/report-xbox-has-no-blanket-plans-to-end-funding-for-third-party-game-pass-titles"
-    },
-    {
       "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
       "link": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483"
+    },
+    {
+      "title": "Gemini\u2019s personalized AI image generation is now free for US users - TechCrunch",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
     },
     {
       "title": "Celebrate America's 250th and the World Cup 2026 With a New Hisense TV Under $1,000 Right Now at Best Buy - IGN",
@@ -62,52 +82,56 @@
     {
       "title": "Google VP explains why Googlebook is launching with premium hardware first - Chrome Unboxed",
       "link": "https://chromeunboxed.com/google-vp-explains-why-googlebook-is-launching-with-premium-hardware-first/"
-    },
-    {
-      "title": "Celebrity esthetician loses her license after client says she was left \u2018permanently scarred\u2019 - New York Post",
-      "link": "https://nypost.com/2026/06/29/health/celeb-esthetician-loses-license-after-client-says-she-was-left-permanently-scarred/"
-    },
-    {
-      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival - TechCrunch",
-      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
-    },
-    {
-      "title": "OpenAI is teasing new hardware\u2026 for Codex - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
-    },
-    {
-      "title": "The Folks Behind Beloved Hacker Tool Flipper Zero Have a New Device for Focus - Gizmodo",
-      "link": "https://gizmodo.com/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus-2000778999"
     }
   ],
   "sports_news": [
     {
+      "title": "Stein/Fischer\u2019s Latest: Kawhi, Raptors, Brown, Westbrook, More - HoopsRumors.com",
+      "link": "https://www.hoopsrumors.com/2026/06/stein-fischers-latest-kawhi-raptors-brown-westbrook-more.html"
+    },
+    {
+      "title": "Nick Saban sent letter to judge vouching for Terrion Arnold\u2019s character - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-saban-sent-letter-to-judge-vouching-for-terrion-arnolds-character"
+    },
+    {
+      "title": "Paraguay\u2019s shock win against Germany headlines all-time World Cup upsets - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/30/paraguays-shock-win-against-germany-headlines-all-time-world-cup-upsets"
+    },
+    {
       "title": "Astros To Place Jeremy Pe\u00f1a On Injured List - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/06/astros-to-place-jeremy-pena-on-injured-list.html"
+    },
+    {
+      "title": "2026 World Cup: 5 things to know about Bosnia and Herzegovina ahead of the Round of 32 matchup vs. the USMNT - Yahoo Sports",
+      "link": "https://sports.yahoo.com/soccer/article/2026-world-cup-5-things-to-know-about-bosnia-and-herzegovina-ahead-of-the-round-of-32-matchup-vs-the-usmnt-054632779.html"
     },
     {
       "title": "The ultimate Late Night NBA trade and free agency Intel compilation - The Stein Line | Substack",
       "link": "https://marcstein.substack.com/p/the-ultimate-late-night-nba-trade"
     },
     {
-      "title": "World Cup 2026: The first 4 games in the Round of 32, with penalty shootouts and 3 late goals, have been incredible - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/article/world-cup-2026-the-first-4-games-in-the-round-of-32-with-penalty-shootouts-and-3-late-goals-have-been-incredible-042623008.html"
-    },
-    {
       "title": "Jaylen Brown Likes IG Comment Calling for Celtics to Trade Star to a 'City Who Respects Him' - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25448160-jaylen-brown-likes-ig-comment-calling-celtics-trade-star-city-who-respects-him"
     },
     {
-      "title": "How Germany were handed a World Cup humbling and what it means to Paraguay - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/30/how-germany-were-handed-a-world-cup-humbling-and-what-it-means-to-paraguay"
+      "title": "Reports: Landry Shamet, Knicks agree to 4-year deal - NBA.com",
+      "link": "https://www.nba.com/news/landry-shamet-knicks-free-agency-2026"
+    },
+    {
+      "title": "Look at Springer's wheels! Blue Jays DH turns bloop into Little League HR - MLB.com",
+      "link": "https://www.mlb.com/news/george-springer-blue-jays-mets-little-league-homer"
     },
     {
       "title": "Reds Planning To Activate Hunter Greene This Weekend - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/06/reds-planning-to-activate-hunter-greene-this-weekend.html"
     },
     {
-      "title": "Winners, losers from Ja Morant trade to Portland Trail Blazers - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/winners-losers-from-ja-morant-trade-to-portland-trail-blazers"
+      "title": "NHL Power Rankings: Where Every Team Stands After the 2026 Draft - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25447472-nhl-power-rankings-where-every-team-stands-after-2026-draft"
+    },
+    {
+      "title": "What Red Sox\u2019 Willson Contreras, umpire said about ejection for helmet tap - MassLive",
+      "link": "https://www.masslive.com/redsox/2026/06/what-red-sox-willson-contreras-umpire-said-about-ejection-for-helmet-tap.html"
     },
     {
       "title": "Netherlands and Morocco head to extra time tied at 1-1 in World Cup Round of 32 - AP News",
@@ -118,44 +142,28 @@
       "link": "https://sanjosehockeynow.com/san-jose-sharks-zach-werenski-columbus-blue-jackets-trade-2/"
     },
     {
-      "title": "Despite sign-and-trade rumors, Pistons committed to retaining free agent Jalen Duren - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/nba/pistons/2026/06/29/detroit-pistons-committed-to-re-signing-jalen-duren-in-nba-free-agency/90747189007/"
+      "title": "A heat dome will engulf World Cup games in the eastern US this week. Here's what to expect - AP News",
+      "link": "https://apnews.com/article/world-cup-extreme-heat-9d3bc20785bc731c5e78362c4bb2e26c"
+    },
+    {
+      "title": "White Sox 8, Orioles 2: Up to the challenge - Sox Machine",
+      "link": "https://soxmachine.com/2026/06/white-sox-8-orioles-2-up-to-the-chllanege"
+    },
+    {
+      "title": "Sources: Restricted free agent Duren to meet with Lakers, Kings - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49220996/sources-restricted-free-agent-duren-meet-lakers-kings"
+    },
+    {
+      "title": "Portland Trail Blazers Acquire Two-Time All-Star Ja Morant - NBA.com",
+      "link": "https://blazers.com/news/portland-trail-blazers-acquire-two-time-nba-all-star-ja-morant"
     },
     {
       "title": "With heavy heart for Venezuela, Contreras' emotions on display after HR, ejection - MLB.com",
       "link": "https://www.mlb.com/news/willson-contreras-emotional-after-home-run-vs-nationals"
     },
     {
-      "title": "Watch Willson Contreras Get Ejected in Video as Red Sox Star Taps Helmet After Strikeout - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25448117-watch-willson-contreras-get-ejected-video-red-sox-star-taps-helmet-after-strikeout"
-    },
-    {
       "title": "Kristaps Porzingis agrees to 2-year, $40M deal with Warriors - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49220120/kristaps-porzingis-agrees-2-year-40m-deal-warriors"
-    },
-    {
-      "title": "Warriors cap breakdown: Draymond Green, Kristaps Porzingis, and salary gymnastics - The San Francisco Standard",
-      "link": "https://sfstandard.com/2026/06/29/warriors-cap-breakdown-lebron-james-salary/"
-    },
-    {
-      "title": "Dustin Johnson to miss first Open since 2009 - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/cx2jwvjqjl3o"
-    },
-    {
-      "title": "Ex-Lion Terrion Arnold accused of luring victims in kidnapping case - The Detroit News",
-      "link": "https://www.detroitnews.com/story/sports/nfl/lions/2026/06/29/detroit-lions-terrion-arnold-tampa-kidnapping-robbery/90733097007/"
-    },
-    {
-      "title": "Why Didn't Neymar Play vs. Japan? Brazil Coach Says 'We Did Not Need Him' - FOX Sports",
-      "link": "https://www.foxsports.com/stories/soccer/why-didnt-neymar-play-vs-japan-brazil-coach-says-we-did-not-need-him"
-    },
-    {
-      "title": "King Abdullah II of Jordan visits Richardson restaurant during World Cup visit - FOX 4 News Dallas-Fort Worth",
-      "link": "https://www.fox4news.com/news/king-abdullah-ii-jordan-visits-richardson-restaurant-during-world-cup-visit"
-    },
-    {
-      "title": "Power Rankings: John Deere Classic - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/power-rankings/2026/06/29/power-rankings-john-deere-classic-tpc-deere-run-odds-betting-fantasy-picks"
     }
   ],
   "weather": {
