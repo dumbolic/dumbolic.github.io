@@ -1,9 +1,9 @@
 {
-  "quote": "The journey is what brings us happiness not the destination. \u2013 Dan Millman",
-  "fact": "Buckingham Palace in England has over six hundred rooms.",
-  "crypto": "BTC: $61,301 | ETH: $1,695.88",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
+  "quote": "Successful people are not without problems. They're simply people who've learned to solve their problems. \u2013 Earl Nightingale",
+  "fact": "On average, 12 newborns will be given to the wrong parents every day.",
+  "crypto": "BTC: $61,492 | ETH: $1,697.34",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you call an alligator in a vest? An in-vest-igator!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,12 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "You won\u2019t be able to buy new PlayStation games on discs starting in 2028 - The Washington Post",
-      "link": "https://www.washingtonpost.com/entertainment/video-games/2026/07/01/you-wont-be-able-buy-new-playstation-games-discs-starting-2028/"
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "title": "Sony to end physical PlayStation game discs for new releases starting in 2028 - Fox Business",
+      "link": "https://www.foxbusiness.com/lifestyle/sony-end-physical-playstation-game-discs-new-releases-starting-2028"
     },
     {
       "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection - The Verge",
@@ -24,12 +28,8 @@
       "link": "https://nintendoeverything.com/rumor-metroid-ravenous-leaked-for-nintendo-switch-2/"
     },
     {
-      "title": "My favorite Kindle alternative is $30 off after a recent price increase - The Verge",
-      "link": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale"
-    },
-    {
-      "title": "Google Gemini Spark Comes to Mac With Local File Automation - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/"
+      "title": "Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus"
     },
     {
       "title": "The Blood of Dawnwalker Quest Gameplay - IGN",
@@ -40,16 +40,24 @@
       "link": "https://www.pushsquare.com/news/2026/07/ps-plus-essential-games-for-july-2026-announced"
     },
     {
-      "title": "The PlayStation Stores On PlayStation 3 And Vita Are Shutting Down - Game Informer",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmUzMDI4dlZBVzVWVUUtdFE1SWtpb1N3bVZzWWh2ZVRudm0xMVN5MDZwUWFRYXVfTjZIdEVpR3hIcWdiS3NqSHFScXlRNUhXRDRYV25jTWN6Q2JlRC1VTFpMZkpJck9Sa29LYXJrbWY3NTBuS1BMYlFyMWZHTHBPcHFnSG1ubGt3LXNaUUw2N3ZBQ3Zqc0daQ09vMWdkSUhheHFMcA?oc=5"
+      "title": "Oregon store suspends Yu-Gi-Oh tournaments due to hygiene concerns - upi.com",
+      "link": "https://www.upi.com"
     },
     {
-      "title": "Krafton Agrees to Pay \u2018Subnautica 2\u2019 Bonuses as Developer\u2019s CEO Resigns - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFh6azl5SFRXM1d2T1NDRXRNNENyUGplQ0o4NkE1Q21hblhNTG9sYTJhZ2ZSN29QdzJRbWVkSEtFMFY2RjZuQWR3dVhDMVpzTWc0dUVtcncyVzFJUnNwZ291ZEdYT3gwcm1kbklNRGlaSG50ZjZsQmpTWk5HSDVqVzVzYmp4VnI1d0FfRU9jUTlubVJkTExyRGMwR2VtR1cxNFFWaWFnN0x5UTVSWC1EUlE5cEx0MUhWQ3Blcw?oc=5"
+      "title": "The PlayStation Stores On PlayStation 3 And Vita Are Shutting Down - Game Informer",
+      "link": "https://gameinformer.com/2026/07/01/the-playstation-stores-on-playstation-3-and-vita-are-shutting-down"
+    },
+    {
+      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
     },
     {
       "title": "DOOM: The Dark Ages Goes Supersonic With New DLC Chain Spear - XBOX Wire",
       "link": "https://news.xbox.com/en-us/2026/07/01/doom-the-dark-ages-revelations-chain-spear-preview/"
+    },
+    {
+      "title": "Meta Is Slapping Subscriptions on Its Smart Glasses - Gizmodo",
+      "link": "https://gizmodo.com/meta-is-slapping-subscriptions-on-its-smart-glasses-2000780073"
     },
     {
       "title": "iPhone 18 Pro to offer only these three colors, per leaker - 9to5Mac",
@@ -82,52 +90,56 @@
     {
       "title": "ESA clarifies views on private servers after saying Minecraft servers are \u2018illegal\u2019 and \u2018considered piracy\u2019 - Video Games Chronicle",
       "link": "https://www.videogameschronicle.com/news/esa-clarifies-views-on-private-servers-after-saying-minecraft-servers-are-illegal-and-considered-piracy/"
-    },
-    {
-      "title": "Rockstar accused of ignoring pay inequity, mandating crunch, and weaponizing bonuses - Game Developer",
-      "link": "https://www.gamedeveloper.com/production/rockstar-accused-of-disregarding-pay-inequity-mandating-crunch-and-weaponising-bonuses"
-    },
-    {
-      "title": "Weak hands and blurry vision: Are you getting a 'phone body'? - BBC",
-      "link": "https://www.bbc.com/future/article/20260630-is-your-tech-giving-you-phone-body"
     }
   ],
   "sports_news": [
     {
-      "title": "Harry Kane breaks Pel\u00e9 World Cup goals total - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-tally"
+      "title": "England 2-1 Congo DR: Harry Kane saves Three Lions to set up Mexico World Cup clash - as it happened - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49236312/england-congo-dr-live-world-cup-2026-latest-updates-commentary-score-result"
+    },
+    {
+      "title": "NBA Free Agency 2026 Tracker: Live Updates and Analysis\u2014Lakers Make Walker Kessler Trade, West Power in on LeBron - Sports Illustrated",
+      "link": "https://www.si.com/nba/free-agency-tracker-updates-analysis-every-signing-rumor"
+    },
+    {
+      "title": "Pacers, Kelly Oubre Jr. agree to two-year deal, sources say - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49239804/pacers-kelly-oubre-jr-agree-two-year-deal-sources-say"
+    },
+    {
+      "title": "Celtics pry Mitchell Robinson away from Knicks on three-year deal - Posting and Toasting",
+      "link": "https://www.postingandtoasting.com/knicks-free-agency-rumors-news/87072/celtics-pry-mitchell-robinson-away-from-knicks-on-three-year-deal"
+    },
+    {
+      "title": "Nationals pitcher Cade Cavalli apologizes for calling Willson Contreras 'boy' after strikeout: 'It'll never happen again' - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/article/nationals-pitcher-cade-cavalli-apologizes-for-calling-willson-contreras-boy-after-strikeout-itll-never-happen-again-180418316.html"
+    },
+    {
+      "title": "Jalen Duren standoff with Pistons continues, but his leverage is dry - Detroit Free Press",
+      "link": "https://www.freep.com/story/sports/nba/pistons/2026/07/01/jalen-duren-pistons-news-nba-free-agency/90769063007/"
     },
     {
       "title": "Foerster signs 8-year, $56.8 million contract with Flyers - NHL.com",
       "link": "https://www.nhl.com/news/tyson-foerster-signs-eight-year-contract-with-philadelphia-flyers"
     },
     {
-      "title": "Mexico into the top six: Re-ranking the 48 World Cup teams after day 20 - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEVvWWlYZURjWm91RmNiUkpZUUtPWnV2aXhQMENGQzhaOGFIcDFzbmNfaWRINWNMd2oyTGhKSTJfWVFhT2NwdkVfZWVwVUN4NHVZSC1Gb3JIQy1XWFZFaDd4T3RkRm4ycGgwbnZ2aDU5cHdUdFBQU3lJWEMwd2VvZ0tUVkhtQ00?oc=5"
+      "title": "Mountain West announces eat-what-you-kill streamer, paying schools based on subscriptions driven - Awful Announcing",
+      "link": "https://awfulannouncing.com/streaming/mountain-west-announces-streamer-paying-schools-based-subscriptions.html"
     },
     {
-      "title": "Reports: Lakers agree to deals with Sandro Mamukelashvili, Collin Sexton and Quentin Grimes - NBA.com",
-      "link": "https://www.nba.com/news/sandro-mamukelashvili-collin-sexton-quentin-grimes-free-agency-2026"
+      "title": "Lakers trade for center Walker Kessler from Utah, make their big swing with rush of signings - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/lakers-trade-for-center-walker-kessler-from-utah-make-their-big-swing-with-rush-of-signings"
     },
     {
-      "title": "Jalen Duren\u2019s market has disappeared - Detroit Bad Boys",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0lhX3RBTHdfRl9aRG8tVDVrd0YzZWNxRnNOVEJUNEREa1RJR3VzUWV2QWZNamd1VHRtek1NenhrYlRraWNpWG45TUlxTXRxb1lqckFiYVluN3cySW9FSTZsSFN4TVRmQXZTZlRJLWtiQmI0Wklnd3ptRzkzMEpMX1V5UVRhcTR4OEVBT0p1Zld5enByRzE1V0s0SnlyblBTMEJHUll1UQ?oc=5"
+      "title": "Red Sox Place Connelly Early On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/red-sox-connelly-early-injured-list-elbow.html"
     },
     {
-      "title": "Cade Cavalli \u2018extremely torn up\u2019 about perception of \u2018sit down, boy\u2019 comment toward Willson Contreras - MassLive",
-      "link": "https://www.masslive.com/redsox/2026/07/cade-cavalli-extremely-torn-up-about-perception-of-sit-down-boy-comment-toward-willson-contreras.html"
+      "title": "Live updates: Heat free agency, LeBron tracker. Who\u2019s available, who\u2019s gone - Miami Herald",
+      "link": "https://www.miamiherald.com/sports/nba/miami-heat/article315486478.html"
     },
     {
-      "title": "WTA pivots, moves Finals from Riyadh to Indian Wells - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/49236863/wta-pivots-moves-finals-riyadh-indian-wells"
-    },
-    {
-      "title": "Naomi Osaka shows off another fashion creation before reaching 3rd round at Wimbledon - AP News",
-      "link": "https://apnews.com/article/wimbledon-day-3-results-osaka-sinner-djokovic-c4b1638934ca49362b3dd71e6adbf3c1"
-    },
-    {
-      "title": "Reports: Lakers add Walker Kessler in trade with Jazz - NBA.com",
-      "link": "https://www.nba.com/news/walker-kessler-trade-los-angeles-lakers"
+      "title": "Breaking: WTA Finals Leaving Saudi Arabia Immediately - Bounces | Ben Rothenberg",
+      "link": "https://www.benrothenberg.com/p/breaking-wta-finals-leaving-saudi"
     },
     {
       "title": "Rangers To Place Corey Seager On Injured List - MLB Trade Rumors",
@@ -138,36 +150,20 @@
       "link": "https://www.nhl.com/blues/news/blues-announce-front-office-changes-new-hires"
     },
     {
-      "title": "Mitchell Robinson leaving Knicks to sign with Celtics - SNY",
-      "link": "https://sny.tv/articles/mitchell-robinson-knicks-free-agency-2026"
-    },
-    {
-      "title": "NBA free agency news 2026: Lakers land Walker Kessler after LeBron James' exit; Mitchell Robinson leaves Knicks for Celtics - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-news-trade-rumors-contracts-signings-live-updates-lebron-james-kawhi-leonard-jaylen-brown-144958712.html"
-    },
-    {
       "title": "Americans are showing up for the World Cup in record-breaking numbers - NPR",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjRSYmt1clE5SDM0a2ZaRngyUmJFTFY4N3BiX0RacXpOaUd1b0pZTHExMG1WOHVPekFodWZHT29ab1llY0NhVXJTczVOMTNzTTBmX3JYb01VRzB3eXN2UnlBcmx5TGQ5cFYxZnA4ZGhSYW04ZndkcWdRcEtIc2h5aHVLaW9OZw?oc=5"
-    },
-    {
-      "title": "ESPN retracts its latest Mike Pennel story, admits \"errors\" in the reporting - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-retracts-its-latest-mike-pennel-story-admits-errors-in-the-reporting"
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo"
     },
     {
       "title": "Sources: Conley to Celtics, becomes 14th to reach 20 NBA seasons - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49236921/conley-celtics-becomes-12th-reach-20-nba-seasons"
     },
     {
-      "title": "Naomi Osaka's latest Wimbledon cultural fashion statement turns heads. It's far from the first time. - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRmVJSE53RnlsRGJrSVZmU2hjaUNON0tzNEVtOXktdGo2dnhTT29pMkNIODZlQ0tUY1lrMUZvb0laemZtT2x6ZTZkZmM0b1dOdUVIVXBMUnAwVjRYZ05uVDhQSDBEcWgteThFaVVoSXRzNzI1WkR5bGhEdWFBVUlTLXkydlVXaTFILU42b1R3LVhFUmttWkNaRUVFbGY4VV9SZnJhMHdqaGsyS2QtMUJ6Mi1TVzd4ZC04T0wxZXhoQlpRcHpMLXhQUUFJNk43Sl9ybEFqc0Z4MU1jWGJQSDdKYmxxWGt6NWxwdFVac3BrMG1IcjFVQll2Yw?oc=5"
-    },
-    {
-      "title": "Red Sox place Connelly Early (elbow) on injured list, make series of roster moves - MassLive",
-      "link": "https://www.masslive.com/redsox/2026/07/red-sox-place-connelly-early-elbow-on-injured-list-make-series-of-roster-moves.html"
-    },
-    {
       "title": "Steve Cohen says David Stearns' job is safe amid possible Mets changes: 'It won't be David' - SNY",
       "link": "https://sny.tv/articles/steve-cohen-david-stearns-job-safe"
+    },
+    {
+      "title": "Orioles Activate Dean Kremer Amid Series Of Roster Moves - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/orioles-activate-dean-kremer-option-trey-gibson.html"
     },
     {
       "title": "In Germany, everything looks like a crisis of governance - Politico",
