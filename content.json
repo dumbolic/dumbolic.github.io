@@ -1,9 +1,9 @@
 {
-  "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. \u2013 Lao Tzu",
-  "fact": "The Simpsons is the longest running animated series on TV.",
-  "crypto": "BTC: $63,143 | ETH: $1,772.28",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How do you fix a broken pizza? With tomato paste.",
+  "quote": "Wake up and smile! Wake up and be grateful! \u2013 Steve Harvey",
+  "fact": "There is approximately one chicken for every human being in the world.",
+  "crypto": "BTC: $63,692 | ETH: $1,791.64",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "A book just fell on my head. I only have my shelf to blame.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "We Posted a $100 Mario 64 Bounty 30 Years Ago. It's Time to Settle Our Debt! - IGN",
+      "link": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle"
+    },
+    {
       "title": "Topdown Dialectic: False LP A Album Review - Pitchfork",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81bzVzOHhCTmtZdFlmN3pLaEVKZVQ5MFpoeFRCRHhPVkZrVTNvOEZEWnk3TVY3RVlweEZrSHVSWUhPUTNMWlJEZmNWemw0YURaa1dYSGJrTmp2VU1YcW9rV0JESVhKOEpqM2xXQVhwUHpnQWRS?oc=5"
+      "link": "https://pitchfork.com/reviews/albums/topdown-dialectic-false-lp-a/"
+    },
+    {
+      "title": "Xbox Exclusive Game Delisted and Now Gone Forever - ComicBook.com",
+      "link": "http://comicbook.com/gaming/news/xbox-360-one-series-x-exclusive-game-delisted/"
     },
     {
       "title": "Famitsu's most wanted games - July 5, 2026 - Xenoblade Genesis makes first appearance, Zelda moves up - Nintendo Everything",
@@ -78,36 +86,28 @@
     {
       "title": "Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku",
       "link": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659"
-    },
-    {
-      "title": "Flipper Zero firmware development continues with community help - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/"
-    },
-    {
-      "title": "New guest character revealed to be coming to Guilty Gear Strive in Winter 2026 for Season 5 - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/jul/05/new-guest-guilty-gear-strive/"
     }
   ],
   "sports_news": [
+    {
+      "title": "U.S. lead scorer Folarin Balogun's red card suspension lifted after Trump called FIFA president, sources say - CBS News",
+      "link": "https://www.cbsnews.com/news/folarin-balogun-red-card-world-cup-us-mens-team-belgium/"
+    },
+    {
+      "title": "4 shot in East L.A. following Mexico\u2019s elimination from World Cup - KTLA",
+      "link": "https://ktla.com/news/local-news/east-la-gunfire-three-scenes-four-hospitalized/"
+    },
     {
       "title": "Mexico\u2019s World Cup run ends with loss to England at Estadio Azteca - NPR",
       "link": "https://www.npr.org/2026/07/06/g-s1-132079/mexico-world-cup-ends-loss-england"
     },
     {
-      "title": "FIFA lifts US star striker Balogun\u2019s red card suspension at World Cup after Trump calls Infantino - AP News",
-      "link": "https://apnews.com/article/falorin-balogun-suspension-world-cup-e5a5cab5731a916808601be93cb36832"
-    },
-    {
-      "title": "Points and payouts: See what players took home from John Deere Classic - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/betting-dfs/2026/07/05/prize-money-purse-payouts-breakdown-fund-john-deere-classic-tpc-deere-run"
+      "title": "World Cup What to Watch: USMNT faces Belgium; Cristiano Ronaldo, Portugal take on Spain in Round of 16 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/soccer/article/world-cup-what-to-watch-usmnt-faces-belgium-cristiano-ronaldo-portugal-take-on-spain-in-round-of-16-044204384.html"
     },
     {
       "title": "NASCAR Cup Series Chicagoland race live updates, highlights, leaderboard - The Tennessean",
       "link": "https://www.tennessean.com/story/sports/nascar/2026/07/05/nascar-chicagoland-race-leaderboard-live-updates-highlights-cup-series-2026-race/90803151007/"
-    },
-    {
-      "title": "Erling Haaland cements superstar status, scores twice in Norway\u2019s 2-1 win over Brazil - NBC News",
-      "link": "https://www.nbcnews.com/sports/soccer/erling-haaland-norway-brazil-world-cup-soccer-rcna353080"
     },
     {
       "title": "Eury P\u00e9rez pulled after seven perfect innings - NBC Sports",
@@ -126,24 +126,32 @@
       "link": "https://soxmachine.com/2026/07/white-sox-7-guardians-6-splitting-the-hard-way"
     },
     {
+      "title": "Atlantic Notes: J. Brown, Tatum, James, M. Brown - HoopsRumors.com",
+      "link": "https://www.hoopsrumors.com/2026/07/atlantic-notes-j-brown-tatum-james-m-brown.html"
+    },
+    {
+      "title": "Brad Dalke WITB 2026 (July) - GolfWRX",
+      "link": "https://golfwrx.com/781239/brad-dalke-witb-2026-july/"
+    },
+    {
+      "title": "The Viking Stuns A Giant: 4 Takeaways From Norway's Historic World Cup Win Over Brazil - FOX Sports",
+      "link": "https://www.foxsports.com/stories/soccer/norway-vs-mexico-4-takeaways-2026-world-cup-erling-haaland-brace"
+    },
+    {
       "title": "The get-in price for US World Cup knockout match in Seattle - Seattle Sports",
       "link": "https://sports.mynorthwest.com/seattle-sports-pit/get-in-price-us-belgium-world-cup-knockout-match-seattle"
     },
     {
-      "title": "Chris Gotterup\u2019s winning WITB: 2026 John Deere Classic - GolfWRX",
-      "link": "https://golfwrx.com/781248/chris-gotterups-winning-witb-2026-john-deere-classic/"
+      "title": "Naomi Osaka overpowers Aryna Sabalenka to reach the Wimbledon quarterfinals - AP News",
+      "link": "https://apnews.com/article/wimbledon-results-djokovic-record-sinner-sabalenka-osaka-37a2f45610f2b71aa834c4265a0b6362"
     },
     {
-      "title": "Cape Verde's soccer team returns home to huge welcome. The basketball team also has World Cup hopes - AP News",
-      "link": "https://apnews.com/article/cape-verde-world-cup-return-home-03122aef492218bb83af1dcb81df6fce"
+      "title": "After becoming the smallest nation ever to advance to the Knockout Stage of a FIFA World Cup, Cape Verde was welcomed home with a parade in the nation's capital \ud83c\udde8\ud83c\uddfb (via X/liberta___depre) - FOX Sports",
+      "link": "https://www.foxsports.com/watch-vertical/fmc-44kreg411hjqr670"
     },
     {
-      "title": "VeeKay wows with Mid-Ohio form for JHR - RACER - Racing News",
-      "link": "https://racer.com/2026/07/05/veekay-wows-with-mid-ohio-form-for-jhr"
-    },
-    {
-      "title": "Naomi Osaka beats Aryna Sabalenka to reach Wimbledon quarters - ESPN",
-      "link": "https://www.espn.com/tennis/story/_/id/49278057/naomi-osaka-overpowers-aryna-sabalenka-reach-wimbledon-quarterfinals"
+      "title": "Mexico fans' serenata outside England hotel woke me up, and probably Three Lions too - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49277501/mexico-fans-serenata-england-hotel-world-cup-match-woke-probably-three-lions-too"
     },
     {
       "title": "Djokovic Breaks Federer's Record in Win vs. Safiullin, Updated Wimbledon Tennis Bracket and Results - Bleacher Report",
@@ -158,8 +166,8 @@
       "link": "https://bleacherreport.com/articles/25451274-did-lebron-fuel-cavs-rumors-trending-photo-high-school-teammates-nba-fans-sound"
     },
     {
-      "title": "Sixers film study: The aspects of Jaylen Brown's game worth being worried about - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-film-jaylen-brown-trade-news-analysis-interview-stream-twitch-stats-highlights-nba-rumors/"
+      "title": "For France, a sticky win over Paraguay was too close for comfort - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2026/07/04/france-sticky-win-over-paraguay-was-too-close-comfort/"
     }
   ],
   "weather": {
