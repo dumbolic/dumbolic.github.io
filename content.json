@@ -1,9 +1,9 @@
 {
-  "quote": "Winning isn't always championships. \u2013 Michael Jordan",
-  "fact": "The U.S. bought Alaska for 2 cents an acre from Russia.",
-  "crypto": "BTC: $63,658 | ETH: $1,790.99",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I\u2019ll tell you something about German sausages, they\u2019re the wurst",
+  "quote": "Faith is taking the first step even when you don't see the whole staircase. \u2013 Martin Luther King, Jr.",
+  "fact": "Georgia's state motto is \"Wisdom, Justice and Moderation.\"",
+  "crypto": "BTC: $64,079 | ETH: $1,804.18",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you call a fat psychic? A four-chin teller.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,154 +12,118 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Founder Asks 'How Much' As Xbox Looks To Cut Arkane Loose - Kotaku",
+      "link": "https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945"
+    },
+    {
+      "title": "iOS 27 beta 3 now available as Apple tests major Siri AI upgrade - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/06/ios-27-beta-3/"
+    },
+    {
+      "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out. - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
+    },
+    {
+      "title": "Apple starts offering free 4K upgrades for purchased TV shows - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/"
+    },
+    {
+      "title": "Mint Mobile cuts all plans to $15/month as its Google Pixel phones have vanished - 9to5Google",
+      "link": "http://9to5google.com/2026/07/06/mint-mobile-15-dollar-plan-deal/"
+    },
+    {
+      "title": "The Ferrari 12Cilindri Manuale's Stick-Shift Might Not Be 'Real' But You've Gotta Stop Freaking Out About It - Jalopnik",
+      "link": "https://www.jalopnik.com/2208594/ferrari-12cilindri-manuale-stick-shift-stop-freaking-out/"
+    },
+    {
+      "title": "Clip-Ons Are Wireless Earbuds\u2019 Next Inescapable Trend - Gizmodo",
+      "link": "https://gizmodo.com/clip-ons-are-wireless-earbuds-next-inescapable-trend-2000781703"
+    },
+    {
+      "title": "Xbox CEO Asha Sharma wants the company to \"entertain more than a billion people\" every day: here's why that's a deeply unrealistic thing to say - Eurogamer.net",
+      "link": "https://www.eurogamer.net/xbox-ceo-asha-sharma-one-billion"
+    },
+    {
+      "title": "A World Of Warcraft Plague Kills Players And Fills Inns With Nasty Contagious Goo - Kotaku",
+      "link": "https://kotaku.com/world-of-warcraft-wow-corrupted-blood-withering-contagion-spreading-infection-2000712838"
+    },
+    {
+      "title": "AMD Ryzen AI Halo Is An Excellent & Powerful Mini PC With Fully Open-Source Software Review - Phoronix",
+      "link": "https://www.phoronix.com/review/amd-ryzen-ai-halo"
+    },
+    {
+      "title": "\"I Was Making Fixes Right Up Until The Deadline\" - The Story Of Hudson Soft's Bizarre Super Mario Bros. \"Spin-Off\" - Time Extension",
+      "link": "https://www.timeextension.com/features/i-was-making-fixes-right-up-until-the-deadline-the-story-of-hudson-softs-bizarre-super-mario-bros-spin-off"
+    },
+    {
+      "title": "Nintendo Will Stop Selling The Original Switch From February 2027 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/07/nintendo-will-stop-selling-the-original-switch-from-february-2027"
+    },
+    {
+      "title": "State Of Decay And Hellblade Devs Are Being Sold, But Buyers Remain Mysterious For Now - GameSpot",
+      "link": "https://www.gamespot.com/articles/state-of-decay-and-hellblade-devs-are-being-sold-but-buyers-remain-mysterious-for-now/"
+    },
+    {
+      "title": "Get Ready for Pok\u00e9mon GO Fest 2026: Global - Pokemon.com",
+      "link": "https://www.pokemon.com/us/features/get-ready-for-pokemon-go-fest-2026-global"
+    },
+    {
+      "title": "Original Switch consoles are being discontinued in Europe as Nintendo details how EU battery laws will impact its retail strategy for Switch 2 - Eurogamer.net",
+      "link": "https://www.eurogamer.net/nintendo-switch-2-replaceable-batteries-revision-plans-detailed"
+    },
+    {
+      "title": "Here's How the iPhone 18 Pro Max Will Compare to the iPhone 18 Pro - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/"
+    },
+    {
+      "title": "This Is Supposedly the iPhone Air 2 in Lavender - Gizmodo",
+      "link": "https://gizmodo.com/this-is-supposedly-the-iphone-air-2-in-lavender-2000781690"
+    },
+    {
+      "title": "Samsung\u2019s new Galaxy Watch app leaks with Pixel Watch vibes and features [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/07/06/samsungs-new-galaxy-watch-app-leaks-with-pixel-watch-vibes-and-features-gallery/"
+    },
+    {
       "title": "Indie Dev Says Game Refunded 55,000 Times Via Steam Loophole - Kotaku",
       "link": "https://kotaku.com/steam-indie-short-pc-refund-paddle-paddle-paddle-zoroarts-2000712822"
     },
     {
-      "title": "Nintendo officially announces revisions for Switch 2 and more in Europe in light of new battery regulations - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-officially-announces-revisions-for-switch-2-and-more-in-europe-in-light-of-new-battery-regulations/"
-    },
-    {
-      "title": "iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/"
-    },
-    {
-      "title": "At $5,000, Could This Project 1999 Porsche Boxster Boxster Get You To Roll Up Your Sleeves? - Jalopnik",
-      "link": "https://www.jalopnik.com/2208278/1999-porsche-boxster-for-sale-5000/"
-    },
-    {
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced Global Release and Preload Times Confirmed - IGN",
-      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-global-release-and-preload-times-confirmed"
-    },
-    {
-      "title": "Here\u2019s how to turn any iPhone into a dumb phone for you or your kids - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/"
-    },
-    {
-      "title": "These 15+ PS5 and PS Plus Games Are Coming Out This Week (6th-12th July) - Push Square",
-      "link": "https://www.pushsquare.com/guides/these-15plus-ps5-and-ps-plus-games-are-coming-out-this-week-6th-12th-july"
-    },
-    {
-      "title": "These 5 Android apps are so good, I'm surprised they're free - Android Authority",
-      "link": "https://www.androidauthority.com/best-free-android-apps-2026-3683259/"
-    },
-    {
-      "title": "Rumour: Xbox Still Evaluating Whether Project Helix Will Support Physical Discs - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/07/rumour-xbox-still-evaluating-whether-project-helix-will-support-physical-discs"
-    },
-    {
-      "title": "Should Palworld Players Wipe Their Data for 1.0 This Week? Pocketpair Offers Official Advice - IGN",
-      "link": "https://www.ign.com/articles/palworld-dev-offers-approximate-release-time-for-10-update-says-players-do-not-need-to-wipe-their-data-but-they-really-should"
-    },
-    {
-      "title": "I Can\u2019t Afford This T. Rex up for Auction at Sotheby\u2019s. Starting Bid is $19 Million - Gizmodo",
-      "link": "https://gizmodo.com/i-cant-afford-this-t-rex-up-for-auction-at-sothebys-starting-bid-is-19-million-2000781233"
-    },
-    {
-      "title": "First Look: The New, Bolder and Sharper Herm\u00e8s Cape Cod in Titanium - Monochrome Watches",
-      "link": "https://monochrome-watches.com/2026-hermes-cape-cod-titanium-automatic-review-price/"
-    },
-    {
-      "title": "We Posted a $100 Mario 64 Bounty 30 Years Ago. It's Time to Settle Our Debt! - IGN",
-      "link": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle"
-    },
-    {
-      "title": "Valve updates SteamOS to improve your WiFi download speeds, and it's available on Steam Deck with a couple of caveats - Eurogamer.net",
-      "link": "https://www.eurogamer.net/steam-os-update-3-8-14-wifi-speed-fix"
-    },
-    {
-      "title": "Halo: Campaign Evolved\u2019s boxed version will come with physical discs so that players can \u2018have tangible items to add to your collection\u2019 - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/halo-campaign-evolveds-boxed-version-will-come-with-physical-discs-so-that-players-can-have-tangible-items-to-add-to-your-collection/"
-    },
-    {
-      "title": "Nintendo Shares Statement After Being Voted Famitsu's Number One Developer - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/07/nintendo-shares-statement-after-being-voted-famitsus-number-one-developer"
-    },
-    {
-      "title": "Ferrari just invented a new gearbox for the 12Cilindri that's both manual and automatic - supercarblondie.com",
-      "link": "https://supercarblondie.com/ferrari-12cilindri-manuale-transmission-system-launch/"
-    },
-    {
-      "title": "Sony clarifies re-order support for existing PlayStation discs - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/sony-clarifies-re-order-support-for-existing-playstation-discs"
-    },
-    {
-      "title": "Cyberpunk 2077 Storms Past 40 Million Sales, a Stunning Comeback After Its Disastrous 2020 Launch - Wccftech",
-      "link": "https://wccftech.com/cyberpunk-2077-40-million-sales-comeback/"
+      "title": "Niantic Games Team Now Officially Called Scopely Explore - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/news/niantic-games-team-now-officially-called-scopely-explore/"
     }
   ],
   "sports_news": [
     {
-      "title": "World Cup Daily live: Harry Kane loses voice in hilarious interview, USMNT prepares for Belgium - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49284373/world-cup-daily-live-usmnt-belgium-spain-portugal-cristiano-ronaldo-round-16"
+      "title": "Why FIFA\u2019s Balogun red card suspension after Trump call is so controversial - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/6/why-fifas-balogun-red-card-suspension-after-trump-call-is-so-controversial"
     },
     {
-      "title": "Jordan Henderson to reportedly undergo wrist surgery, miss rest of World Cup after injuring himself while celebrating England's win over Mexico - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/article/jordan-henderson-to-reportedly-undergo-wrist-surgery-miss-rest-of-world-cup-after-injuring-himself-while-celebrating-englands-win-over-mexico-041544262.html"
+      "title": "Keir Starmer helped stop earlier England vs. Mexico kickoff - Politico",
+      "link": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/breathing-room-for-england-00987645"
     },
     {
-      "title": "Edd Straw's 2026 British Grand Prix F1 driver rankings - The Race",
-      "link": "https://www.the-race.com/formula-1/f1-2026-british-grand-prix-driver-rankings-edd-straw/"
+      "title": "Ranking the top 25 MLB trade deadline candidates: Tarik Skubal, Freddy Peralta, Luis Arraez and more - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/ranking-mlb-trade-deadline-candidates-tarik-skubal-freddy-peralta-luis-arraez-taylor-ward-sandy-alcantara/"
     },
     {
-      "title": "NBA Executives React to Jaylen Brown Trade - HoopsRumors.com",
-      "link": "https://www.hoopsrumors.com/2026/07/nba-executives-react-to-jaylen-brown-trade.html"
+      "title": "NASCAR winner's pro-America message will make the left fume, Bubba Wallace's Fourth of July memo & fans fight! - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/nascar-winners-pro-america-message-make-left-fume-bubba-wallace-fourth-july-memo-fans-fight"
     },
     {
-      "title": "Sources: Kawhi Leonard hires new agent to oversee next Raptors deal - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/49285660/sources-kawhi-leonard-hires-new-agent-oversee-next-raptors-deal"
+      "title": "What Chris Gotterup became the first player to do in 40 years on the PGA Tour with his John Deere Classic win - hitc.com",
+      "link": "https://www.hitc.com/what-chris-gotterup-became-the-first-player-to-do-in-40-years-on-the-pga-tour-with-his-john-deere-classic-win/"
+    },
+    {
+      "title": "NBA execs react: Celtics trade Jaylen Brown to 76ers - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers"
     },
     {
       "title": "Inside the sterile dissolution of the LeBron-Lakers marriage - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49278305/inside-passive-aggressive-sterile-dissolution-lebron-james-los-angeles-lakers-marriage-luka-doncic"
     },
     {
-      "title": "4 shot in East L.A. following Mexico\u2019s elimination from World Cup - KTLA",
-      "link": "https://ktla.com/news/local-news/east-la-gunfire-three-scenes-four-hospitalized/"
-    },
-    {
-      "title": "Red Sox reactions: Series sweep marred by starter\u2019s injury - MassLive.com",
-      "link": "https://www.masslive.com/redsox/2026/07/red-sox-reactions-series-sweep-marred-by-starters-injury.html"
-    },
-    {
-      "title": "World Cup What to Watch: USMNT faces Belgium; Cristiano Ronaldo, Portugal take on Spain in Round of 16 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/soccer/article/world-cup-what-to-watch-usmnt-faces-belgium-cristiano-ronaldo-portugal-take-on-spain-in-round-of-16-044204384.html"
-    },
-    {
-      "title": "Neymar quits international football after Brazil\u2019s World Cup knockout loss - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss"
-    },
-    {
-      "title": "Brazil left to second-guess penalty kick choice after earliest World Cup exit since 1990 - AP News",
-      "link": "https://apnews.com/article/world-cup-brazil-loss-norway-a9f993fdb5b0a3ab4be9116fba642119"
-    },
-    {
-      "title": "What\u2019s really at stake between Mexico and England - Politico",
-      "link": "https://www.politico.com/live-updates/2026/07/05/world-cup-2026/mexico-v-england-trade-edition-whats-really-at-stake-00987125"
-    },
-    {
-      "title": "The get-in price for US World Cup knockout match in Seattle - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/seattle-sports-pit/get-in-price-us-belgium-world-cup-knockout-match-seattle"
-    },
-    {
-      "title": "Naomi Osaka overpowers Aryna Sabalenka to reach the Wimbledon quarterfinals - AP News",
-      "link": "https://apnews.com/article/wimbledon-results-djokovic-record-sinner-sabalenka-osaka-37a2f45610f2b71aa834c4265a0b6362"
-    },
-    {
-      "title": "Chris Gotterup\u2019s winning WITB: 2026 John Deere Classic - GolfWRX",
-      "link": "https://golfwrx.com/781248/chris-gotterups-winning-witb-2026-john-deere-classic/"
-    },
-    {
-      "title": "Cape Verde's soccer team returns home to huge welcome. The basketball team also has World Cup hopes - AP News",
-      "link": "https://apnews.com/article/cape-verde-world-cup-return-home-03122aef492218bb83af1dcb81df6fce"
-    },
-    {
-      "title": "The 10 Biggest Snubs From the 2026 MLB All-Star Game - Sports Illustrated",
-      "link": "https://www.si.com/mlb/biggest-snubs-from-2026-mlb-all-star-game"
+      "title": "Mexico\u2019s World Cup run ends with loss to England at Estadio Azteca - NPR",
+      "link": "https://www.npr.org/2026/07/06/g-s1-132079/mexico-world-cup-ends-loss-england"
     }
   ],
   "weather": {
