@@ -1,9 +1,9 @@
 {
-  "quote": "Life would be tragic if it weren't funny. \u2013 Stephen Hawking",
-  "fact": "Emus and kangaroos can't walk backwards.",
-  "crypto": "BTC: $63,327 | ETH: $1,769.48",
+  "quote": "As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. \u2013 Kabir",
+  "fact": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:\u00a0 `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`\u00a0 `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`",
+  "crypto": "BTC: $62,985 | ETH: $1,760.91",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why do you never see elephants hiding in trees? Because they're so good at it.",
+  "joke": "Why are fish easy to weigh? Because they have their own scales.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Everything New in iOS 27 Beta 3 - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/"
+      "title": "12 Gadgets Under $25 That Deserve A Spot In Your Home Office - SlashGear",
+      "link": "https://www.slashgear.com/2208816/gadgets-under-25-dollars-that-deserve-spot-in-home-office/"
+    },
+    {
+      "title": "Pok\u00e9mon GO Developer Niantic Changes Its Name And Logo - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/07/pokemon-go-developer-niantic-changes-its-name-and-logo"
+    },
+    {
+      "title": "Renting makes robots affordable for work and play - BBC",
+      "link": "https://www.bbc.com/news/articles/c4gymkg9lr2o"
+    },
+    {
+      "title": "This MacBook Pro packs premium features for under $400 - Mashable",
+      "link": "https://mashable.com/tech/july-6-apple-macbook-pro-i5-2ghz-2020-16gb-ram-512gb-ssd-silver-refurbished"
     },
     {
       "title": "You Can Build a More Powerful Steam Machine for Less, It'll Just Be Much Bigger - IGN",
@@ -28,36 +40,36 @@
       "link": "https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations"
     },
     {
-      "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27 - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/"
+      "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness - Venturebeat",
+      "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
     },
     {
-      "title": "Apple will launch two new products this year that could reshape iPad\u2019s future - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/06/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/"
+      "title": "iPhone 18 Pro Logic Board\u2019s High-Resolution Images Show A20 Pro Occupying Larger Die Area With Next-Generation Packaging & Qualcomm 5G Modem - Wccftech",
+      "link": "https://wccftech.com/iphone-18-pro-logic-board-high-resolution-images-showing-larger-a20-pro-die/"
     },
     {
-      "title": "watchOS 27 adds three new Health upgrades for Apple Watch - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/06/watchos-27-adds-three-new-health-upgrades-for-apple-watch/"
+      "title": "Hoto\u2019s PixelDrive screwdriver is down to $60, matching its best price - The Verge",
+      "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale"
+    },
+    {
+      "title": "Resident Evil Requiem Officially Returns July 30 With New DLC - ScreenRant",
+      "link": "https://screenrant.com/resident-evil-requiem-amiibo-weapon-skins-july-2026/"
+    },
+    {
+      "title": "Major Pok\u00e9mon Go 10th Anniversary Broadcast Announced - IGN",
+      "link": "https://www.ign.com/articles/pokmon-go-hosting-major-10th-anniversary-broadcast-this-week"
     },
     {
       "title": "The rise of computer chips \u2014 and the race to control them - Nature",
       "link": "https://www.nature.com/articles/d41586-026-02099-y"
     },
     {
-      "title": "Game of the Month: The Adventures of Elliot: The Millennium Tales (June 2026) - Push Square",
-      "link": "https://www.pushsquare.com/features/game-of-the-month-the-adventures-of-elliot-the-millennium-tales-june-2026"
-    },
-    {
-      "title": "All Android backup data now counts toward your Google Account storage, but it won't take up much space - 9to5Google",
-      "link": "http://9to5google.com/2026/07/06/android-backup-data-update/"
+      "title": "Apple adds new popup for AI features that send data to Google Cloud - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/"
     },
     {
       "title": "Game Pass Is Reportedly Back Down To 30 Million Subscribers - Kotaku",
       "link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971"
-    },
-    {
-      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/"
     },
     {
       "title": "Founder Asks 'How Much' As Xbox Looks To Cut Arkane Loose - Kotaku",
@@ -72,82 +84,62 @@
       "link": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character"
     },
     {
-      "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out. - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
-    },
-    {
-      "title": "'Galaxy Buds On' surface alongside more Galaxy Watch 9 leaks - 9to5Google",
-      "link": "http://9to5google.com/2026/07/06/samsung-galaxy-buds-on-able-leak/"
+      "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/"
     },
     {
       "title": "Here\u2019s Where to Preorder The Elder Scrolls IV: Oblivion Remastered on Nintendo Switch 2 - IGN",
       "link": "https://www.ign.com/articles/elder-scrolls-iv-oblivion-remastered-nintendo-switch-2-where-to-buy"
-    },
-    {
-      "title": "Mint Mobile cuts all plans to $15/month as its Google Pixel phones have vanished - 9to5Google",
-      "link": "http://9to5google.com/2026/07/06/mint-mobile-15-dollar-plan-deal/"
-    },
-    {
-      "title": "A Windows 11 bug can eat 500GB of your storage. Here\u2019s how to check - PCWorld",
-      "link": "https://www.pcworld.com/article/3185240/a-windows-11-bug-can-eat-500gb-of-your-storage-heres-how-to-check.html"
     }
   ],
   "sports_news": [
     {
-      "title": "USA vs. Belgium LIVE: World Cup 2026 updates from intriguing round of 16 clash - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49290217/usa-belgium-live-world-cup-2026-latest-updates-commentary-score-result"
+      "title": "Belgium Ends Team USA\u2019s World Cup Run After Political Firestorm - WSJ",
+      "link": "https://www.wsj.com/sports/soccer/belgium-usa-world-cup-balogun-d619c63f"
+    },
+    {
+      "title": "\u2018MAGA agenda on display\u2019: FIFA, Trump slammed amid Balogun red card row - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/7/maga-agenda-on-display-fifa-trump-slammed-amid-balogun-red-card-row"
     },
     {
       "title": "Celtics' Stevens cites 'challenging' path to explain Brown trade - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49290824/celtics-stevens-cites-challenging-path-explain-brown-trade"
     },
     {
-      "title": "Trump says he asked FIFA head to review red card but \u2018didn\u2019t tell him what to do\u2019 - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2026/07/06/trumps-request-before-reprieve-us-star-casts-pall-over-world-cup-match/"
-    },
-    {
       "title": "Mikel Merino's late goal sends Spain to quarterfinals and ends Cristiano Ronaldo's World Cup career - AP News",
       "link": "https://apnews.com/article/world-cup-portugal-spain-score-38ab465c7d5734bb504d3e44292d5a6a"
     },
     {
-      "title": "Terrion Arnold clears waivers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-clears-waivers"
+      "title": "Terrion Arnold\u2019s hearing regarding monitoring device was postponed until Friday - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnolds-hearing-regarding-monitoring-device-was-postponed-until-friday"
     },
     {
-      "title": "Kevin Guskiewicz to stay at MSU - The State News",
-      "link": "https://statenews.com/article/2026/07/kevin-guskiewicz-to-stay-at-msu"
+      "title": "Why Paramount is keeping Conor McGregor\u2019s UFC return off CBS - Awful Announcing",
+      "link": "https://awfulannouncing.com/ufc/paramount-conor-mcgregors-return-cbs.html"
     },
     {
-      "title": "World Cup live bracket, projected quarterfinal games: Who plays who? - USA Today",
-      "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/world-cup-quarterfinal-projected-matchups-bracket/90816498007/"
+      "title": "Newly named Clemson president opts to stay at Michigan State - WSPA 7NEWS",
+      "link": "https://www.wspa.com/news/newly-named-clemson-president-opts-to-stay-at-michigan-state/"
     },
     {
       "title": "Socialist mayor Katie Wilson silent amid protests over \u2018human dumping ground\u2019 ahead of US World Cup match - Fox News",
       "link": "https://www.foxnews.com/politics/socialist-mayor-katie-wilson-silent-protests-human-dumping-ground-us-world-cup-match"
     },
     {
-      "title": "DeMar DeRozan, waived by Kings, hits free agency - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/49288211/sources-demar-derozan-cut-kings-hits-free-agency"
-    },
-    {
-      "title": "Former UK guard Kerr Kriisa allegedly operated $2.2 million online scam, indictment says - WKYT",
-      "link": "https://www.wkyt.com/2026/07/06/former-uk-guard-kerr-kriisa-accused-operating-22-million-online-scam-indictment-says/"
-    },
-    {
-      "title": "Live Heat updates/Giannis tracker: Trade official; Giannis talks; Herro says thank you - Miami Herald",
-      "link": "https://www.miamiherald.com/sports/nba/miami-heat/article315485244.html"
+      "title": "Ex-NCAA hoops player Kerr Kriisa indicted on alleged $2.2M fraud scam - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/49287753/ex-ncaa-hoops-player-kerr-kriisa-indicted-22m-fraud-scheme"
     },
     {
       "title": "Keir Starmer helped stop earlier England vs. Mexico kickoff - Politico",
       "link": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/breathing-room-for-england-00987645"
     },
     {
-      "title": "Ranking the top 25 MLB trade deadline candidates: Tarik Skubal, Freddy Peralta, Luis Arraez and more - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/ranking-mlb-trade-deadline-candidates-tarik-skubal-freddy-peralta-luis-arraez-taylor-ward-sandy-alcantara/"
+      "title": "Inside the sterile dissolution of the LeBron-Lakers marriage - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49278305/inside-passive-aggressive-sterile-dissolution-lebron-james-los-angeles-lakers-marriage-luka-doncic"
     },
     {
-      "title": "New LeBron Rumors Reveal Teams 'in the Dark' as Cavs Eyed as Top Landing Spot After Lakers Exit - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25451502-new-lebron-rumors-reveal-teams-dark-cavs-eyed-top-landing-spot-after-lakers-exit"
+      "title": "Spain vs. Portugal Prediction, Odds, Picks For World Cup Match - FOX Sports",
+      "link": "https://www.foxsports.com/stories/soccer/spain-vs-portugal-prediction-odds-picks-world-cup-match"
     }
   ],
   "weather": {
