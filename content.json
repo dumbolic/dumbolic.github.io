@@ -1,9 +1,9 @@
 {
-  "quote": "It's the little things done consistently over time, straight from your heart, that have the greatest impact. \u2013 Unknown",
-  "fact": "Nutmeg is extremely poisonous if injected intravenously.",
-  "crypto": "BTC: $64,572 | ETH: $1,873.53",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why do fish live in salt water? Because pepper makes them sneeze!",
+  "quote": "Success is a poor teacher. \u2013 Robert Kiyosaki",
+  "fact": "Truck driving is the most dangerous occupation by accidental deaths (799 in 2001).",
+  "crypto": "BTC: $64,867 | ETH: $1,883.84",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "How do you find Will Smith in the snow?  Look for fresh prints.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer - The Verge",
+      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch"
+    },
+    {
+      "title": "First macOS Golden Gate Public Beta Now Available - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/"
+    },
+    {
+      "title": "Someone Trapped Zelda: Tears Of The Kingdom's Ganondorf Inside A Hamster Wheel - Kotaku",
+      "link": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325"
+    },
+    {
+      "title": "Pok\u00e9mon GO Water Festival 2026 Guide \u2013 Arrokuda, Cramorant, Bonuses and GO Pass - Pok\u00e9mon GO Hub",
+      "link": "https://pokemongohub.net/post/event/water-festival-2026/"
+    },
+    {
+      "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations - IGN",
+      "link": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations"
+    },
+    {
+      "title": "The First Final Fantasy Game With HD-2D Graphics Is Up for Preorder \u2014 Here's What Comes in Each Edition - IGN",
+      "link": "https://www.ign.com/articles/final-fantasy-resonance-where-to-buy"
+    },
+    {
       "title": "Pok\u00e9mon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
       "link": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/"
     },
     {
-      "title": "Pixel 11\u2019s Tensor G6 chip beats the iPhone 18 to TSMC\u2019s 2nm process - 9to5Google",
-      "link": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/"
+      "title": "Kingdom Hearts Fans Are On High Alert After Disney Announces A D23 Panel For The RPG Series - Kotaku",
+      "link": "https://kotaku.com/kingdom-hearts-4-d23-disney-panel-date-time-2000715294"
     },
     {
-      "title": "\u2018Deep Dive Into Kingdom Hearts\u2019 event set for D23 2026 - Gematsu",
-      "link": "https://www.gematsu.com/2026/07/deep-dive-into-kingdom-hearts-event-set-for-d23-2026"
+      "title": "Pixel 11\u2019s Tensor G6 chip beats the iPhone 18 to TSMC\u2019s 2nm process - 9to5Google",
+      "link": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/"
     },
     {
       "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
@@ -36,6 +60,10 @@
       "link": "https://www.tomsguide.com/ai/someone-created-a-ghost-font-that-humans-can-read-but-ai-cant-i-had-to-try-it-for-myself"
     },
     {
+      "title": "Apple releases iOS 26.6 beta 5 for iPhone, here\u2019s what to expect - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/13/apple-releases-ios-26-6-beta-5-for-iphone-heres-what-to-expect/"
+    },
+    {
       "title": "Microsoft unveils major Windows 11 search experience overhaul that it promises will fix search - Windows Central",
       "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-announces-major-windows-11-search-overhaul-that-prioritizes-clearer-local-results-and-removes-ads"
     },
@@ -44,58 +72,74 @@
       "link": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/"
     },
     {
-      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\" - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/"
+      "title": "AI companies are creating \"generative ghosts\" of deceased loved ones - CBS News",
+      "link": "https://www.cbsnews.com/news/ai-ghost-chatbots-deceased-loved-ones/"
     },
     {
-      "title": "Dining critic's notebook: Recent standouts, from unexpected tavern bites to a Pittsburgh classic - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/life/dining/2026/07/13/best-dishes-pittsburgh/stories/202607100050"
+      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\" - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/"
     },
     {
       "title": "Halo Studios reportedly cancels Halo multiplayer project Ekur, which had customisable Spartans and Elites and large player battles - Eurogamer.net",
       "link": "https://www.eurogamer.net/halo-studios-project-ekur-cancelled-certain-affinity"
     },
     {
-      "title": "The GoldenEye and Perfect Dark inspired Agent 64: Spies Never Die is coming to PC next month - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/the-goldeneye-and-perfect-dark-inspired-agent-64-spies-never-die-is-coming-to-pc-next-month/"
+      "title": "Beast of Reincarnation Preview - Parrying Helps Your Dog - Game Informer",
+      "link": "https://gameinformer.com/preview/2026/07/13/parrying-helps-your-dog"
     },
     {
       "title": "New Cerv\u00e9lo Soloist closes the aero gap on the S5 but retains its more affordable price tag - BikeRadar",
       "link": "https://www.bikeradar.com/news/2026-cervelo-soloist"
-    },
-    {
-      "title": "I got obliterated in the Pok\u00e9mon team's new Soulslike \u2014 and I can\u2019t wait to play more - Polygon.com",
-      "link": "https://www.polygon.com/beast-of-reincarnation-preview-demo-impressions/"
-    },
-    {
-      "title": "Destiny 2\u2019s Demise Is \u2018Existentially Threatening,\u2019 Says \u2018Warframe\u2019 Creative Director - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/07/13/destiny-2s-demise-is-existentially-threatening-says-warframe-creative-director/"
-    },
-    {
-      "title": "DOOM PS5 DLC Quietly Becomes One of 2026's Best-Rated Releases - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/07/doom-ps5-dlc-quietly-becomes-one-of-2026s-best-rated-releases"
-    },
-    {
-      "title": "Dragon's Dogma 2 devs on the big fast travel U-turn, and wanting to \"win back the trust\" of RPG fans with the Dark Arisen DLC - Eurogamer.net",
-      "link": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-interview-performance-microtransactions"
-    },
-    {
-      "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I\u2019m Sending It Back - 404 Media",
-      "link": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/"
-    },
-    {
-      "title": "Waze adds new AI-powered features and customization updates - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
-    },
-    {
-      "title": "Xbox Seems To Be Making A Fortune On The New Black Ops Ports For PS5 - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/07/xbox-seems-to-be-making-a-fortune-on-the-new-black-ops-ports-for-ps5"
     }
   ],
   "sports_news": [
     {
-      "title": "The 2026 MLB All-Star Lineups Have Been Announced! - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/07/13/the-2026-mlb-all-star-lineups-have-been-announced/"
+      "title": "Bryce Harper addresses FanDuel video - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-harper-addresses-fanduel-video"
+    },
+    {
+      "title": "Power Rankings: British Open 2026 - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/power-rankings/2026/07/13/rankings-british-open-2026-royal-birkdale-odds-betting-fantasy-picks"
+    },
+    {
+      "title": "Poll: Who Will Win The 2026 Home Run Derby? - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/poll-who-will-win-the-2026-home-run-derby.html"
+    },
+    {
+      "title": "New contract in tow, Austin Reaves ready for Lakers' new era - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49352570/new-contract-tow-austin-reaves-ready-lakers-new-era"
+    },
+    {
+      "title": "Sources: Brown HC Mike Martin takes job as Michigan assistant - ESPN",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/49352528/sources-brown-hc-mike-martin-takes-job-michigan-assistant"
+    },
+    {
+      "title": "2026 MLB All-Star Game Starting Lineups Unveiled for Trout, AL vs. Schwarber, NL Rosters - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25454602-2026-mlb-all-star-game-starting-lineups-unveiled-trout-al-vs-schwarber-nl-rosters"
+    },
+    {
+      "title": "Erling Haaland Brings a Brand New Bag\u2014and a Taxidermied Raccoon\u2014Home to Norway - Vogue",
+      "link": "https://www.vogue.com/article/erling-haaland-norway-world-cup-dolce-and-gabanna-bag-taxidermied-raccoon"
+    },
+    {
+      "title": "Seahawks sale: Get to know family buying team - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-sale-get-to-know-family-buying-team/"
+    },
+    {
+      "title": "Walker Kessler says he'll 'run through a brick wall' for Lakers - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49352392/walker-kessler-says-run-brick-wall-lakers"
+    },
+    {
+      "title": "President Donald Trump meets with IndyCar drivers in special White House event - Motorsport.com",
+      "link": "https://www.motorsport.com/indycar/news/president-donald-trump-meets-indycar-drivers-in-special-white-house-event/10838670/"
+    },
+    {
+      "title": "NBA Execs Split on Where LeBron James Will End Up - Front Office Sports",
+      "link": "http://frontofficesports.com/lebron-james-free-agency-cleveland-golden-state/"
+    },
+    {
+      "title": "Packers sign LB Isaiah McDuffie to contract extension - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension"
     },
     {
       "title": "Braves 2026 MLB Draft Recap - Battery Power",
@@ -106,68 +150,28 @@
       "link": "https://www.mlbtraderumors.com/2026/07/athletics-fire-pitching-coach-scott-emerson.html"
     },
     {
-      "title": "Is There Any Limit To Zack Wheeler\u2019s Spite? - Defector",
-      "link": "https://defector.com/is-there-any-limit-to-zack-wheelers-spite"
+      "title": "France vs Spain: The 2026 World Cup\u2019s Best Attack Meets Its Best Defence - Opta Analyst",
+      "link": "https://theanalyst.com/articles/france-spain-world-cup-semi-final-2026-attack-vs-defence"
     },
     {
       "title": "Ja Morant: The Glass Half Full - Blazer's Edge",
       "link": "https://www.blazersedge.com/trail-blazers-analysis/114365/portland-trail-blazers-ja-morant-nba-trade-analysis-damian-lillard-deni-avdija-micah-nori"
     },
     {
+      "title": "Rams' Jackson won't face felony; case assigned for diversion - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49351981/rams-alaric-jackson-face-felony-charge-june-arrest"
+    },
+    {
       "title": "Phillies' Kyle Schwarber to lead off for NL in All-Star Game - ESPN",
       "link": "https://www.espn.com/mlb/story/_/id/49351976/phillies-kyle-schwarber-lead-nl-all-star-game"
     },
     {
+      "title": "\u2018Confederate Clark\u2019: Caitlin Clark faces criticism after support from Riley Gaines, Republicans - Yahoo Sports",
+      "link": "https://thecomeback.com/wnba/ccaitlin-clark-faces-criticism-after-support-from-riley-gaines-republicans.html"
+    },
+    {
       "title": "Exclusive: Warde Manuel says he's staying at UM despite contrary reports - The Detroit News",
       "link": "https://www.detroitnews.com/story/news/local/michigan/2026/07/13/athletic-director-warde-manuel-stay-michigan-near-term-what-else-we-know/90900198007/"
-    },
-    {
-      "title": "Vote on Seahawks ownership change will happen in August - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-seahawks-ownership-change-will-happen-in-august"
-    },
-    {
-      "title": "For Ireland, the silence around Conor McGregor's UFC 329 comeback spoke volumes - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/articles/for-ireland-the-silence-around-conor-mcgregors-ufc-329-comeback-spoke-volumes-171455449.html"
-    },
-    {
-      "title": "Meet the Nation\u2019s 12 Best High School Athletes - Sports Illustrated",
-      "link": "https://www.si.com/sports-illustrated/gatorade-national-players-of-the-year-2026-digital-cover"
-    },
-    {
-      "title": "LeBron James' Free Agency Decision Could Come During Live Podcast with Tyrese Haliburton - Sports Illustrated",
-      "link": "https://www.si.com/nba/pacers/onsi/lebron-james-free-agency-decision-could-come-during-live-podcast-with-tyrese-haliburton-01kxe35g7f4q"
-    },
-    {
-      "title": "The Full 2026 Chicago Cubs Draft, and Some Thoughts on the Approach - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/07/13/the-full-2026-chicago-cubs-draft-and-some-thoughts-on-the-approach/"
-    },
-    {
-      "title": "Bryce Harper responds to controversy over his video that went to a FanDuel customer with a gambling addiction - Inquirer.com",
-      "link": "https://www.inquirer.com/phillies/harper-fanduel-video-response-instagram-gambling-addiction-20260713.html"
-    },
-    {
-      "title": "Peyton Krebs signs four-year contract with Sabres, avoids arbitration - Audacy",
-      "link": "https://www.audacy.com/wgr550/sports/sabres/krebs-signs-a-four-year-deal-to-avoid-arbitration"
-    },
-    {
-      "title": "\u2018Corrupt to the core\u2019: Reporting exposes truth about Donald Trump\u2019s World Cup move and sparks outrage - Yahoo Sports",
-      "link": "https://thecomeback.com/soccer/folarin-balogun-decision-made-by-one-person.html"
-    },
-    {
-      "title": "Josh Allen ranked No. 1 QB by ESPN for 2026: \"The most singularly unstoppable player at the position\" - Buffalo Bills",
-      "link": "https://www.buffalobills.com/news/josh-allen-ranked-no-1-qb-by-espn-s-league-poll-for-2026-the-most-singularly-unstoppable-player-at-the-position"
-    },
-    {
-      "title": "Dutch referee dies weeks after being dropped from World Cup - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cy06ej10n3xo"
-    },
-    {
-      "title": "Brendon McCullum: Sacked England Test coach apologises for results - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/crkvg5y2y0zo"
-    },
-    {
-      "title": "2026 NBA Summer League Stock Report: Second-Year standouts and question marks from Vegas' opening weekend - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/2026-nba-summer-league-stock-report-second-year-standouts-and-question-marks-from-vegas-opening-weekend-144712523.html"
     }
   ],
   "weather": {
