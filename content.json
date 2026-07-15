@@ -1,9 +1,9 @@
 {
-  "quote": "She who loves roses must be patient and not cry out when she is pierced by thorns. \u2013 Kenji Miyazawa",
-  "fact": "Most collect calls are made on father`s day.",
-  "crypto": "BTC: $65,367 | ETH: $1,930.26",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
+  "quote": "If you're not making mistakes, then you're not doing anything. \u2013 John Wooden",
+  "fact": "PEZ candy even comes in a Coffee flavor.",
+  "crypto": "BTC: $64,988 | ETH: $1,923.23",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,46 @@
   "bing_background": "https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Crunchyroll Store to Become Exclusive to Mega/Ultimate Fan Tiers in August - Anime News Network",
+      "link": "https://www.animenewsnetwork.com/news/2026-07-14/crunchyroll-store-to-become-exclusive-to-mega-ultimate-fan-tiers-in-august/.239593"
+    },
+    {
+      "title": "Google announces Gemma 4 optimized for the Pixel 10\u2019s TPU - 9to5Google",
+      "link": "http://9to5google.com/2026/07/14/pixel-10-gemma-4/"
+    },
+    {
+      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone - CNBC",
+      "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html"
+    },
+    {
+      "title": "Sony's FlexStrike PS5 Fight Stick Delayed Indefinitely, Now Launches After Marvel Tokon - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/07/sonys-flexstrike-ps5-fight-stick-delayed-indefinitely-now-launches-after-marvel-tokon"
+    },
+    {
+      "title": "This Amazon Deal Might Be Your Last Chance to Save on a Nintendo Switch 2 Before the Price Hike - IGN",
+      "link": "https://www.ign.com/articles/nintendo-switch-2-choose-your-game-bundle-is-50-off-ahead-of-september-price-hike"
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"
+    },
+    {
+      "title": "Xbox Helix May Only Sell 2 Million Consoles In Its Launch Year, Says Analyst - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/07/14/xbox-helix-may-only-sell-2-million-consoles-in-its-launch-year-says-analyst/"
+    },
+    {
+      "title": "Google Maps appears to be rolling out 'Immersive Navigation' redesign \u2013 do you have it yet? [Poll] - 9to5Google",
+      "link": "http://9to5google.com/2026/07/14/google-maps-immersive-navigation-rollout-poll/"
+    },
+    {
+      "title": "Xbox Has Another Potential GOTY Candidate On Its Hands, Even Though It's Just DLC - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/07/xbox-has-another-potential-goty-candidate-on-its-hands-even-though-its-just-dlc"
+    },
+    {
+      "title": "PS5 Emulator Making Big Progress, Can Boot Up GTA V Menus And Play Some 3D Games - Kotaku",
+      "link": "https://kotaku.com/ps5-emulator-making-big-progress-can-boot-up-gta-v-menus-and-play-some-3d-games-2000715799"
+    },
     {
       "title": "One of 2026's Most Addictive PS5 Games Is Even Bigger and Better with Latest Free Update - Push Square",
       "link": "https://www.pushsquare.com/news/2026/07/one-of-2026s-most-addictive-ps5-games-is-even-bigger-and-better-with-latest-free-update"
@@ -28,94 +68,74 @@
       "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes"
     },
     {
-      "title": "How the 20th anniversary iPhone will provide a \u2018single slab of glass\u2019 look - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/14/how-the-20th-anniversary-iphone-will-provide-a-single-slab-of-glass-look/"
-    },
-    {
       "title": "Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch - Digital Foundry",
       "link": "https://www.digitalfoundry.net/news/2026/07/dying-light-the-beast-cancelled-for-ps4-and-xbox-one-consoles-10-months-after-current-gen-launch"
-    },
-    {
-      "title": "How Cycling Solved Sleep - Defector",
-      "link": "https://defector.com/how-cycling-solved-sleep"
     },
     {
       "title": "Microsoft Entra ID gets passkeys default authentication starting September - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/"
     },
     {
+      "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/"
+    },
+    {
+      "title": "Upcoming OLED iPad Mini Allegedly Uses 60Hz 8.4-Inch Display Panel - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/14/oled-ipad-mini-has-60hz-display/"
+    },
+    {
       "title": "Massive Pixel 11 leak just revealed almost everything about Google's next phones - Android Central",
       "link": "https://www.androidcentral.com/phones/google-pixel/massive-pixel-11-leak-just-revealed-almost-everything-about-googles-next-phones"
-    },
-    {
-      "title": "Exclusive: Galaxy Z Fold 8, Flip 8, Watch 9 & Watch Ultra 2 Family Photos \u2014 Plus Two Online-Exclusive Colors - Android Headlines",
-      "link": "https://www.androidheadlines.com/galaxy-z-fold-8-ultra"
-    },
-    {
-      "title": "Report: Nintendo mulling Switch 2 OLED with Samsung Display panel - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/07/report-nintendo-mulling-switch-2-oled-with-samsung-display-panel"
-    },
-    {
-      "title": "Before you connect another smart TV, tablet or phone, lock it down - Fox News",
-      "link": "https://www.foxnews.com/tech/before-you-connect-another-smart-tv-tablet-phone-lock-it-down"
-    },
-    {
-      "title": "Sony faces an anti-trust complaint in Mexico over ending PlayStation physical media - Eurogamer.net",
-      "link": "https://www.eurogamer.net/sony-killing-discs-anti-trust-complaint-mexico"
-    },
-    {
-      "title": "Days after leaving Xbox, South of Midnight developer Compulsion Games broadcasts that it's looking for work - Eurogamer.net",
-      "link": "https://www.eurogamer.net/compulsion-games-looking-for-work-xbox-cuts"
-    },
-    {
-      "title": "All Unreleased GTA Online The Kortz Center Heist Vehicles And Prices - RockstarINTEL",
-      "link": "https://rockstarintel.com/all-unreleased-gta-online-the-kortz-center-heist-vehicles-and-prices/"
-    },
-    {
-      "title": "Silicon Valley has a science fiction problem - Aeon",
-      "link": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem"
-    },
-    {
-      "title": "Pok\u00e9mon GO Fest 2026: Raid Make-Up Event - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/"
-    },
-    {
-      "title": "Chrome on Android is getting a navigation bar redesign to make room for Gemini - Android Authority",
-      "link": "https://www.androidauthority.com/chrome-android-navigation-bar-gemini-3687175/"
-    },
-    {
-      "title": "One UI 9.0 Beta 4 update is out now for the Galaxy S26 series - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-0-beta-4-update-released/"
     }
   ],
   "sports_news": [
     {
+      "title": "Where did Erling Haaland get that raccoon holding a bottle of booze? - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2026/07/14/where-did-erling-haaland-get-that-raccoon-holding-bottle-booze/"
+    },
+    {
+      "title": "Report: At least five teams have checked in on Stefon Diggs - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-at-least-five-teams-have-checked-in-on-stefon-diggs"
+    },
+    {
+      "title": "World Cup 2026: Folarin Balogun expected \"a lot of controversy\" for ban suspension - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cx262x3rmx2o"
+    },
+    {
+      "title": "Golfers eye 'unprecedented' Open conditions at Royal Birkdale - ESPN",
+      "link": "https://www.espn.com/golf/story/_/id/49359259/golfers-eye-unprecedented-open-conditions-royal-birkdale"
+    },
+    {
       "title": "France vs. Spain odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 run - CBS Sports",
       "link": "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-line-time-2026-world-cup-semifinal-picks-best-bets/"
+    },
+    {
+      "title": "Suni Lee Announces Gymnastics Return in Social Media Video Ahead of 2028 Olympics, 'I'm Back' - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25454912-suni-lee-announces-gymnastics-return-social-media-video-ahead-2028-olympics-im-back"
+    },
+    {
+      "title": "MLB commissioner refutes MLBPA criticism of salary cap ads - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/49358929/mlbpa-head-criticizes-mlb-salary-cap-ad-campaign-perverse"
     },
     {
       "title": "Tour de France: Tadej Poga\u010dar shreds challengers with solo climbing charge on stage 10 and adds more time to his advantage with victory - Cyclingnews",
       "link": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacar-shreds-challengers-with-solo-climbing-charge-on-stage-10-and-adds-more-time-to-his-advantage-with-victory/"
     },
     {
+      "title": "Sharks' Macklin Celebrini to be on EA Sports' 'NHL 27' cover - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/49358795/sharks-macklin-celebrini-ea-sports-nhl-27-cover"
+    },
+    {
       "title": "Live: LaMelo Ball takes center stage as Timberwolves introduce new star - Star Tribune",
       "link": "https://www.startribune.com/lamelo-ball-minnesota-timberwolves-press-conference-time-how-to-watch-live-updates/601866625"
     },
     {
-      "title": "Macklin Celebrini on Sharks contract talks, Sidney Crosby and more - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/49356690/nhl-27-cover-athlete-macklin-celebrini-sidney-crosby-lebron-james-warriors"
+      "title": "Trump Beams After He's Gifted \"Special Helmet,\" But The Mockery Is Instantaneous And Hilarious - Bored Panda",
+      "link": "https://www.boredpanda.com/donald-trump-beams-special-helmet-gift-memes/"
     },
     {
       "title": "Paige Bueckers bemoans WNBA's lack of Black women head coaches - ESPN",
       "link": "https://www.espn.com/wnba/story/_/id/49358494/paige-bueckers-bemoans-wnba-lack-black-women-head-coaches"
-    },
-    {
-      "title": "Suni Lee Announces Gymnastics Comeback - TMZ",
-      "link": "https://www.tmz.com/2026/07/14/suni-lee-returning-to-gymnastics/"
-    },
-    {
-      "title": "New MLB Rumors on 2028 Olympics Talks Between Players, Owners Ahead of LA Games - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25454855-new-mlb-rumors-2028-olympics-talks-between-players-owners-ahead-la-games"
     },
     {
       "title": "WATCH: Kamala Harris torched over \u2018zero sense\u2019 WNBA pep talk in latest \u2018word salad\u2019 moment - Fox News",
@@ -126,10 +146,6 @@
       "link": "https://apnews.com/article/home-run-derby-all-star-game-5dcc1b03ebb96723a9e1b74cc362cc59"
     },
     {
-      "title": "Erling Haaland's insane $10K Western purchases in private shopping spree during World Cup revealed - Yahoo Sports",
-      "link": "https://www.sportingnews.com/us/culture/trending/news/erling-haalands-insane-10k-western-purchases-private-shopping-spree-during-world-cup-revealed/7c10fc9c16a7d39e8a4349c6"
-    },
-    {
       "title": "Matt Brown reacts to Conor McGregor\u2019s injury, plans to return for \u2018final fight\u2019 in UFC: \u2018The motherf*cker was nervous\u2019 - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/499348/matt-brown-reacts-to-conor-mcgregors-injury-plans-to-return-for-final-fight-in-ufc-the-motherfcker-was-nervous"
     },
@@ -138,36 +154,20 @@
       "link": "https://www.espn.com/nba/story/_/id/49357704/tyler-herro-wants-move-bam-adebayo-altercation"
     },
     {
-      "title": "John Harbaugh: Jaxson Dart can live in a lot of different worlds offensively - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-jaxson-dart-can-live-in-a-lot-of-different-worlds-offensively"
-    },
-    {
       "title": "8 NBA players who are way too good for Las Vegas Summer League 2026 - Yahoo Sports",
       "link": "https://www.sbnation.com/nba/1122277/nba-players-summer-league-too-good-for-las-vegas-2026"
-    },
-    {
-      "title": "Morning Report | Israel Adesanya: Conor McGregor \u2018owes\u2019 Michael Chandler final UFC fight - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/499282/morning-report-israel-adesanya-conor-mcgregor-owes-michael-chandler-final-ufc-fight"
-    },
-    {
-      "title": "DONE DEAL: Luka Vuskovic completes \u00a348m Brighton move - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-transfers-rumors/72113/tottenham-hotspur-transfer-news-rumors-luka-vuskovic-brighton-done-deal"
     },
     {
       "title": "Diversion program for Alaric Jackson would likely result in another suspension - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/diversion-program-for-alaric-jackson-would-likely-result-in-another-suspension"
     },
     {
-      "title": "DeChambeau has 'zero strategy' for links, Faldo says ahead of The Open - ESPN",
-      "link": "https://www.espn.com/golf/story/_/id/49357332/bryson-dechambeau-zero-strategy-links-golf-nick-faldo-open"
-    },
-    {
       "title": "New Seahawks owners are billionaires behind an 18-year Bay Area beach fight - SFGATE",
       "link": "https://www.sfgate.com/49ers/article/seahawks-bay-area-beach-22343620.php"
     },
     {
-      "title": "Matching World Cup Teams With NFL Squads: Why England Is the Seahawks of Soccer - Sports Illustrated",
-      "link": "https://www.si.com/nfl/matching-world-cup-teams-with-nfl-squads-england-seahawks-cowboys-bills"
+      "title": "NY Giants news: John Harbaugh \u2014 players handled Dart-Carter situation - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-news/165255/njohn-harbaugh-players-handled-dart-carter-situation"
     }
   ],
   "weather": {
