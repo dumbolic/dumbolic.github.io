@@ -1,9 +1,9 @@
 {
-  "quote": "The road to success and the road to failure are almost exactly the same. \u2013 Colin R. Davis",
-  "fact": "Mongolia is the largest landlocked country.",
-  "crypto": "BTC: $64,049 | ETH: $1,868.85",
+  "quote": "Nothing ever goes away until it has taught us what we need to know. \u2013 Pema Chodron",
+  "fact": "You spend 7 years of your life in the bathroom.",
+  "crypto": "BTC: $64,191 | ETH: $1,873.5",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What animal is always at a game of cricket? A bat.",
+  "joke": "Dad I\u2019m hungry\u2019 \u2026 \u2018Hi hungry I\u2019m dad",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
+      "link": "http://9to5google.com/2026/07/15/pixel-11-first-tease/"
+    },
+    {
+      "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
+      "link": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267"
+    },
+    {
+      "title": "Halo's Physical PS5 Disc Won't Play without a Download - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/07/halos-physical-ps5-disc-wont-play-without-a-download1"
+    },
+    {
+      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/"
+    },
+    {
+      "title": "Pok\u00e9mon Drops Underdog Spin-Off From Its World Championships - Kotaku",
+      "link": "https://kotaku.com/pokemon-world-championships-2026-2027-unite-worlds-go-2000716258"
+    },
+    {
+      "title": "Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop - Phoronix",
+      "link": "https://www.phoronix.com/review/razer-blade18-windows-linux"
+    },
+    {
+      "title": "Hit Superhero Comedy Game Dispatch Finally Lands on Xbox This Month, Uncensored Scenes and All - IGN",
+      "link": "https://www.ign.com/articles/hit-superhero-comedy-game-dispatch-finally-lands-on-xbox-this-month-uncensored-scenes-and-all"
+    },
+    {
+      "title": "OnePlus shutdown reportedly goes beyond US & Europe next year, Realme exiting China - 9to5Google",
+      "link": "http://9to5google.com/2026/07/15/oneplus-shutdown-report-details-realme-oppo/"
+    },
+    {
       "title": "OpenAI finally launches hardware\u2026 for Codex - The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch"
     },
     {
-      "title": "Game Dev Explains Why Pictures Of His Sleeping Wife\u2019s Face Became An RPG Boss Fight Monstrosity: \u2018Mutual Trolling\u2019 - Kotaku",
-      "link": "https://kotaku.com/game-dev-explains-why-pictures-of-his-sleeping-wifes-face-became-an-rpg-boss-fight-monstrosity-mutual-trolling-2000716194"
+      "title": "ASUS launches 27-inch and 32-inch Tandem RGB OLED monitors with 4K 240Hz and FHD 480Hz - VideoCardz.com",
+      "link": "https://videocardz.com/newz/asus-launches-27-inch-and-32-inch-tandem-rgb-oled-monitors-with-4k-240hz-and-fhd-480hz"
     },
     {
       "title": "9 PS Plus Extra, Premium Games for July 2026 Announced - Push Square",
       "link": "https://www.pushsquare.com/news/2026/07/9-ps-plus-extra-premium-games-for-july-2026-announced"
     },
     {
-      "title": "OnePlus, Once Popular with Tech Fans, to Pull Out of US and Europe - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe"
+      "title": "Thermodynamic Computers Go With the (Energy) Flow - Quanta Magazine",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/"
     },
     {
-      "title": "Samsung\u2019s New Foldables Will Fix the Worst Thing About Their Screens - Gizmodo",
-      "link": "https://gizmodo.com/samsungs-new-foldables-will-fix-the-worst-thing-about-their-screens-2000785774"
+      "title": "Ratchet & Clank: Ranger Rumble pre-registration now available - Gematsu",
+      "link": "https://www.gematsu.com/2026/07/ratchet-clank-ranger-rumble-pre-registration-now-available"
+    },
+    {
+      "title": "Xbox removed a game it owns from Game Pass despite promising it would stay, raising concerns - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-removes-a-previously-promised-first-party-game-it-owns"
     },
     {
       "title": "Google Health outage breaks device sync for \u2018all\u2019 Fitbit & Pixel Watch users - 9to5Google",
@@ -52,42 +88,34 @@
       "link": "https://www.bgr.com/2211255/best-devices-for-2-4-5-ghz-wifi/"
     },
     {
-      "title": "The Siege of Death Mire ends \u2013 who won? - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/qbmycfzj/the-siege-of-death-mire-ends-who-won"
-    },
-    {
-      "title": "Holy crap, someone else finally made an Android phone with Qi2 magnets built-in - 9to5Google",
-      "link": "http://9to5google.com/2026/07/15/android-qi2-magnets-motorola-edge-70-max/"
-    },
-    {
-      "title": "Will Halo: Campaign Evolved's New Missions Continue The Series' Ambitious, Troubled Expanded Universe? - IGN",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-new-missions-expanded-universe"
-    },
-    {
-      "title": "Skullgirls Dev Accused Of Misconduct Working On Avatar Fighter - Kotaku",
-      "link": "https://kotaku.com/developer-accused-of-past-sexual-harassment-confirmed-to-be-working-on-new-avatar-legends-the-fighting-game-2000716173"
-    },
-    {
-      "title": "Dead Space series co-creator and industry veteran Glen Schofield announces his retirement in emotional video - Eurogamer.net",
-      "link": "https://www.eurogamer.net/glen-schofield-retiring-after-35-years"
-    },
-    {
-      "title": "Wide Open: Redeem Alaska Points For Starlux Business Class - One Mile at a Time",
-      "link": "https://onemileatatime.com/news/redeem-alaska-points-starlux/"
-    },
-    {
-      "title": "SEGA\u2019s \u201cLegendary\u201d Games Are Coming To NVIDIA RTX Spark 30 Years After NV1 Powered The First Virtua Fighter on PC - Wccftech",
-      "link": "https://wccftech.com/sega-games-coming-to-nvidia-rtx-spark-30-years-after-nv1-powered-first-virtua-fighter-on-pc/"
-    },
-    {
-      "title": "The PS6 sure sounds like a handheld - The Verge",
-      "link": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs"
+      "title": "ZeniMax Designer Morgan Goin Says Elder Scrolls Online Can\u2019t Match Its Content Pace After Xbox Layoffs Gutted the Studio - Wccftech",
+      "link": "https://wccftech.com/zenimax-eso-xbox-layoffs-content-pace/"
     }
   ],
   "sports_news": [
     {
+      "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 15 - Mashable",
+      "link": "https://mashable.com/entertainment/fifa-world-cup-schedule-today-kickoff-livestream-july-15"
+    },
+    {
       "title": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll - CBS Sports",
       "link": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-betting-line-2026-world-cup-semifinal-picks/"
+    },
+    {
+      "title": "Tour de France results: Soren Waerenskjold makes long-range sprint to win fastest-ever stage - BBC",
+      "link": "https://www.bbc.com/sport/cycling/articles/c78y88pndeqo"
+    },
+    {
+      "title": "How will Trade Deadline go down? All-Stars give their takes - MLB.com",
+      "link": "https://www.mlb.com/news/all-stars-talk-2026-trade-deadline"
+    },
+    {
+      "title": "Did Caleb Wilson Shade AJ Dybantsa, Darryn Peterson in Summer League Video? NBA Fans Sound Off - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25455239-did-caleb-wilson-shade-aj-dybantsa-darryn-peterson-summer-league-video-nba-fans-sound"
+    },
+    {
+      "title": "2026 MLB Draft Reviews For All 30 Teams - Baseball America",
+      "link": "https://www.baseballamerica.com/stories/2026-mlb-draft-reviews-for-all-30-teams/"
     },
     {
       "title": "Quade Green out, Archie Goodwin delayed as La Familia chases big names ahead of TBT opener - On3",
@@ -96,6 +124,10 @@
     {
       "title": "Geno Smith told police his accuser tried to steal $20 million in jewlery from him - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-told-police-his-accuser-tried-to-steal-20-million-in-jewlery-from-him"
+    },
+    {
+      "title": "Rangers find out their opponent for season opener - New York Post",
+      "link": "https://nypost.com/2026/07/15/sports/rangers-find-out-their-opponent-for-season-opener/"
     },
     {
       "title": "Astros To Trade Lance McCullers Jr. To Brewers - MLB Trade Rumors",
@@ -126,44 +158,20 @@
       "link": "https://www.mmafighting.com/ufc/499552/ufc-paris-adds-several-bouts-including-michael-pages-surprising-middleweight-return"
     },
     {
-      "title": "Mantha signs 2-year, $9.5 million contact with Devils - NHL.com",
-      "link": "https://www.nhl.com/news/topic/free-agency/anthony-mantha-signs-2-year-deal-with-new-jersey"
-    },
-    {
       "title": "Wings' Yzerman steps down as GM, search begins for replacement - The Detroit News",
       "link": "https://www.detroitnews.com/story/sports/nhl/red-wings/2026/07/15/steve-yzerman-steps-down-as-gm-search-begins-for-replacement/90927121007/"
     },
     {
+      "title": "Hilton Grand Vacations employee who sent racial slur to Las Vegas Aces' Chelsea Gray is fired - CBS News",
+      "link": "https://www.cbsnews.com/news/hilton-grand-vacations-employee-fired-chelsea-gray-wnba-racial-slur/"
+    },
+    {
       "title": "Ben Askren admits double-lung transplant almost feels like a \u2018bad dream\u2019 now that he\u2019s wrestling again just one year later - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYWV4NVVrTHVNS1JVaGxyTll5OXlRV3NObm9Wd0E1bHdoTVpGS1pROS1rUXlvcnhQNGVNS19GUXQ1RjI4MjJONGtDQV9qbmx3ZUJwMVlJcHZINHh5QjZ6NFdUZ0JoX2kzT0Fvem1SMEV5UWlCaFlTdFF2bTI2bWNPSEM3ZWgweUJ4NGt0Z19wYjJaRjlTWUR5bFRLSV9QVmJtTmR4aThZQzFGYnlzY3R5dTd5eXpMWERLV3NfWEZvUGxLZzEyUlZpcndTaEtHakhWUG4xSXVUWjBIOHprSUhMaFRubG5vVVNQcmIzVnhmcw?oc=5"
+      "link": "https://www.mmafighting.com/ufc/499473/ben-askren-admits-double-lung-transplant-almost-feels-like-a-bad-dream-now-that-hes-wrestling-again-just-one-year-later"
     },
     {
-      "title": "Crash footage of ESPN analyst who had arm amputated raises uncomfortable questions about GoFundMe - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/crash-footage-espn-analyst-arm-amputated-raises-uncomfortable-questions-gofundme"
-    },
-    {
-      "title": "Didier Deschamps Pointing Finger at Referee Masks Real Reason France Lost to Spain - Sports Illustrated",
-      "link": "https://www.si.com/soccer/didier-deschamps-pointing-finger-referee-real-reason-france-lost-spain"
-    },
-    {
-      "title": "Grading Every NBA Team's Rookie Class at 2026 Summer League So Far - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25454850-grading-every-nba-teams-rookie-class-2026-summer-league-so-far"
-    },
-    {
-      "title": "The Open: England reaching World Cup final may mean time change for Sunday's final round - BBC",
-      "link": "https://www.bbc.com/sport/golf/articles/c8d2d31yn04o"
-    },
-    {
-      "title": "2026 Open Championship: Experts' picks and betting tips - ESPN",
-      "link": "https://www.espn.com/golf/story/_/page/ExpertPicks2026Britishopen/2026-open-championship-experts-picks-betting-tips-rory-mcilroy-scottie-scheffler"
-    },
-    {
-      "title": "Inside access as White Sox make Cholowsky No. 1 MLB draft pick - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49358788/2026-mlb-draft-chicago-white-sox-no-1-overall-pick-decision-roch-cholowsky-grady-emerson"
-    },
-    {
-      "title": "Execs, coaches, scouts rank top NFL wide receivers for 2026 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49252915/ranking-nfl-top-10-wide-receivers-2026-execs-coaches-scouts"
+      "title": "Seahawks sale: 3 reasons Khosla family won\u2019t be moving team | Analysis - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-sale-3-reasons-khosla-family-wont-be-moving-team-analysis/"
     }
   ],
   "weather": {
