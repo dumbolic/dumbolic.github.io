@@ -1,9 +1,9 @@
 {
-  "quote": "To accomplish big things, I am convinced you must first dream big dreams. \u2013 Conrad Hilton",
-  "fact": "There are 240 dots on an arcade Pac-Man game",
-  "crypto": "BTC: $63,085 | ETH: $1,829.36",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did the late tomato say to the early tomato? I\u2019ll ketch up",
+  "quote": "Don't cry because it's over. Smile because it happened. \u2013 Dr. Seuss",
+  "fact": "Humans and dolphins are the only species that have sex for pleasure.",
+  "crypto": "BTC: $63,255 | ETH: $1,823.02",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The Xbox Ultimate Game Sale 2026 is live \u2014 here's the full list - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/the-xbox-ultimate-game-sale-2026-is-live-it-might-be-one-of-microsofts-best-ever-here-are-all-of-the-deals"
+    },
+    {
+      "title": "The privacy problems hidden in your period tracker - BBC",
+      "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details"
+    },
+    {
       "title": "OnePlus officially gives up on the US and Europe - The Verge",
       "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme"
     },
     {
-      "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
-      "link": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch"
+      "title": "Pre-order page for HTC VIVE Eagle smart glasses reveals release date before it's taken down - PhoneArena",
+      "link": "https://www.phonearena.com/news/htc-vive-eagle-smart-glasses-pre-order-page-taken-down-by-amazon_id181888"
+    },
+    {
+      "title": "Final Fantasy Resonance \u2018Pixel\u2019 trailer, latest details and screenshots - Gematsu",
+      "link": "https://www.gematsu.com/2026/07/final-fantasy-resonance-pixel-trailer-latest-details-and-screenshots"
     },
     {
       "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
@@ -32,10 +44,6 @@
       "link": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/"
     },
     {
-      "title": "Skullcandy\u2019s New Wireless Headphones Have So Much Bose in Them - Gizmodo",
-      "link": "https://gizmodo.com/skullcandys-new-wireless-headphones-have-so-much-bose-in-them-2000785885"
-    },
-    {
       "title": "PlayStation\u2019s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less - Kotaku",
       "link": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362"
     },
@@ -44,16 +52,8 @@
       "link": "https://www.gamefile.news/p/zenimax-online-studio-head-out"
     },
     {
-      "title": "Google is opening the floodgates to third-party app stores on Android next week - 9to5Google",
-      "link": "http://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/"
-    },
-    {
       "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing - MacRumors",
       "link": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/"
-    },
-    {
-      "title": "Xbox Summer Sale 2026 Now Live, 2000+ Games Discounted - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/07/xbox-summer-sale-2026-now-live-2000plus-games-discounted"
     },
     {
       "title": "Google teases gold Pixel 11 with mysterious Pixel Glow in action - Android Police",
@@ -86,20 +86,52 @@
     {
       "title": "Sex advice: I read my ex's texts with her new man. What I saw has ruined my confidence in bed. - Slate Magazine",
       "link": "https://slate.com/advice/2026/07/sex-advice-ex-exploration-text-messages.html"
-    },
-    {
-      "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/"
     }
   ],
   "sports_news": [
     {
-      "title": "British Open Thursday live updates, leaderboard: Scottie Scheffler, Rory McIlroy are big favorites early at Royal Birkdale - Yahoo Sports",
+      "title": "British Open Thursday live updates, leaderboard: Scottie Scheffler in the hunt early - Yahoo Sports",
       "link": "https://sports.yahoo.com/golf/live/british-open-thursday-live-updates-leaderboard-scottie-scheffler-is-on-a-heater-early-053000601.html"
+    },
+    {
+      "title": "Astros trade McCullers, Gordon to Brewers for OF prospect Fielder - MLB.com",
+      "link": "https://www.mlb.com/news/lance-mccullers-jr-brewers-astros-trade"
+    },
+    {
+      "title": "Norris set for grid penalty at Belgian GP after exceeding power unit allocation - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/norris-set-for-grid-penalty-at-belgian-gp-after-exceeding-power-unit-allocation.2YSZ3zB2b4J1puh8rqsLKo"
+    },
+    {
+      "title": "Messi's World Cup farewell comes full circle against Spain - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49373339/messis-world-cup-farewell-comes-full-circle-spain"
+    },
+    {
+      "title": "Why you should care about World Cup third-place play-off - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cly5we2lgq4o"
+    },
+    {
+      "title": "UK calls for FIFA inquiry into \u2018Falklands are Argentine\u2019 banner - politico.eu",
+      "link": "https://www.politico.eu/article/uk-calls-for-fifa-inquiry-into-falklands-are-argentine-banner/"
+    },
+    {
+      "title": "The practical window for trading George Pickens has closed, too - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-practical-window-for-trading-george-pickens-has-closed-too"
+    },
+    {
+      "title": "Jayson Tatum makes honest admission on Jaylen Brown trade - MassLive",
+      "link": "https://www.masslive.com/celtics/2026/07/jayson-tatum-makes-honest-admission-on-jaylen-brown-trade.html"
+    },
+    {
+      "title": "Best challenge ruined? Why F1 drivers fear Spa will be 'painful' - The Race",
+      "link": "https://www.the-race.com/formula-1/why-f1-drivers-feat-spa-will-be-awful-belgian-gp/"
     },
     {
       "title": "Fever's Caitlin Clark sounds off on non-call in loss to Valkyries - ESPN",
       "link": "https://www.espn.com/wnba/story/_/id/49373763/fever-star-caitlin-clark-sounds-missed-call-loss-valkyries"
+    },
+    {
+      "title": "The ESPYS honor top athletes and sports moments, in photos - AP News",
+      "link": "https://apnews.com/photo-gallery/espys-honor-top-athletes-sports-moments-photos-166692696b91406080b120874d0d5943"
     },
     {
       "title": "Will these three issues stand in the way of the Sonics' return? - The Seattle Times",
@@ -110,68 +142,32 @@
       "link": "https://sports.yahoo.com/mlb/article/top-25-mlb-trade-candidates-will-teams-part-with-tarik-skubal-joe-ryan-sonny-gray-in-wide-open-al-030125964.html"
     },
     {
+      "title": "Steve Kerr tells fans the Golden State Warriors got LeBron James - The Big Lead",
+      "link": "https://www.thebiglead.com/steve-kerr-tells-fans-the-golden-state-warriors-got-lebron-james/"
+    },
+    {
       "title": "4 takeaways as Celtics make history in Summer League win over Kings - MassLive",
       "link": "https://www.masslive.com/celtics/2026/07/4-takeaways-as-celtics-make-history-in-summer-league-win-over-kings.html"
+    },
+    {
+      "title": "Watch: England fans in New York City lament loss to Argentina - BBC",
+      "link": "https://www.bbc.com/news/videos/cy4klvz2wlko"
     },
     {
       "title": "Jude Bellingham explains viral confrontation with Lionel Messi in World Cup semifinal - USA Today",
       "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/jude-bellingham-lionel-messi-exchange-england-argentina-world-cup/90937668007/"
     },
     {
-      "title": "2026 ESPYs: Eileen Gu, Simone Biles, Alysa Liu and more hit the red carpet - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://abcnews.com/GMA/Culture/2026-ESPYS-red-carpet-arrivals/story?id\\\\u003d134756417"
+      "title": "Indiana basketball represents USA with 98-64 win vs Canadian college team: highlights, stats - IndyStar",
+      "link": "https://www.indystar.com/story/sports/college/indiana/2026/07/15/where-to-watch-indiana-basketball-game-vs-canada-live-score-timeline-stats-box-score-roster/90936386007/"
     },
     {
       "title": "Thomas Tuchel\u2019s Changes Out of Fear Weren\u2019t Nearly England\u2019s Biggest World Cup Problem - Sports Illustrated",
       "link": "https://www.si.com/soccer/thomas-tuchel-changes-fear-werent-england-biggest-world-cup-problem"
     },
     {
-      "title": "Lionel Messi once bathed a baby Lamine Yamal for a photoshoot. Now they'll meet again in the World Cup final. - Yahoo",
-      "link": "https://www.yahoo.com/news/world/article/lionel-messi-once-bathed-a-baby-lamine-yamal-for-a-photoshoot-now-theyll-meet-again-in-the-world-cup-final-230650313.html"
-    },
-    {
-      "title": "The World Cup final is set, with Messi and Argentina facing Yamal and Spain for the title on Sunday - AP News",
-      "link": "https://apnews.com/article/argentina-messi-spain-yamal-world-cup-final-55077ce5c4728c4207a39cc4aa8a41a1"
-    },
-    {
-      "title": "Tyrese Haliburton Adds Fuel Onto LeBron James\u2019 Free Agency Speculation - Deadspin",
-      "link": "https://deadspin.com/tyrese-haliburton-adds-fuel-onto-lebron-james-free-agency-speculation/"
-    },
-    {
-      "title": "Report: Alvin Kamara finalizing a deal to keep him in New Orleans - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-finalizing-a-deal-to-keep-him-in-new-orleans"
-    },
-    {
-      "title": "OKC United announced as Oklahoma City\u2019s new soccer team - News 9",
-      "link": "https://www.news9.com/sports/okc-united-announced-as-oklahoma-citys-new-soccer-team"
-    },
-    {
-      "title": "NHL Mailbag: Does Yzerman stepping down change Larkin\u2019s future in Detroit? - Daily Faceoff",
-      "link": "https://www.dailyfaceoff.com/news/nhl-mailbag-questions-offseason-rumors-trades-contracts-dylan-larkin-steve-yzerman-trevor-zegras-jamie-drysdale-red-wings-flyers"
-    },
-    {
-      "title": "Why less horsepower is actually better for NASCAR at superspeedways - Motorsport.com",
-      "link": "https://www.motorsport.com/nascar-cup/news/why-less-power-is-actually-better-for-nascar-at-superspeedways/10839030/"
-    },
-    {
-      "title": "Carolina Panthers quarterback retires a week before training camp begins - Charlotte Observer",
-      "link": "https://www.charlotteobserver.com/sports/nfl/carolina-panthers/article316524882.html"
-    },
-    {
-      "title": "North Wilkesboro Speedway announces honorary dignitary lineup - Jayski",
-      "link": "https://www.jayski.com/2026/07/15/north-wilkesboro-speedway-announces-honorary-dignitary-lineup/"
-    },
-    {
-      "title": "Astros trade playoff hero Lance McCullers Jr. to Brewers in salary dump - USA Today",
-      "link": "https://www.usatoday.com/story/sports/mlb/2026/07/15/lance-mccullers-trade-astros-brewers/90929655007/"
-    },
-    {
-      "title": "Cowboys' George Pickens to play on $27.3M tag as deadline passes - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49367546/cowboys-george-pickens-play-273m-tag-deadline-passes"
-    },
-    {
-      "title": "Attention Turns to Caitlin Clark After Indiana Fever Repeats Decision Around Her for the 15th Time - EssentiallySports",
-      "link": "https://www.essentiallysports.com/wnba-basketball-news-attention-turns-to-caitlin-clark-after-indiana-fever-repeats-decision-around-her-for-the-fifteenth-time/"
+      "title": "Messi once bathed baby Lamine Yamal. Now they're meeting in a World Cup final - USA Today",
+      "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/lionel-messi-lamine-yamal-baby-bath-picture-unicef-world-cup-final/90935505007/"
     }
   ],
   "weather": {
