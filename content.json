@@ -1,9 +1,9 @@
 {
-  "quote": "The best way to predict your future is to create it. \u2013 Abraham Lincoln",
-  "fact": "The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).",
-  "crypto": "BTC: $63,859 | ETH: $1,839.76",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
+  "quote": "Don't be afraid that you do not know something. Be afraid of not learning about it. \u2013 Zen Proverb",
+  "fact": "What is called a \"French kiss\" in the English speaking world is known as an \"English kiss\" in France.",
+  "crypto": "BTC: $63,901 | ETH: $1,841.68",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why does Superman get invited to dinners? Because he is a Supperhero.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iOS 27 adds an all-new app to your iPhone\u2019s Home Screen - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/16/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/"
+    },
+    {
+      "title": "'Extremely Happy' \u2014 Microsoft Restores Player's 25-Year-Old Account After Deleting It Due to Hacker - IGN",
+      "link": "https://www.ign.com/articles/microsoft-restores-players-25-year-old-account-with-sons-baby-photos-after-nuking-it-due-to-hacker"
+    },
+    {
+      "title": "It\u2019s official: EU will force Google to share search data and open up AI on Android - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/"
+    },
+    {
+      "title": "GameStop CEO Ryan Cohen Insists Sony Killing Physical Discs Doesn't Matter at All to His Company - IGN",
+      "link": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-insists-sony-killing-physical-discs-doesnt-matter-at-all-because-video-game-sales-make-up-so-little-of-his-business"
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\" - Ars Technica",
       "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
     },
     {
-      "title": "GameStop CEO Says Games Are \"Irrelevant\" To Company - Insider Gaming",
-      "link": "https://insider-gaming.com/gamestop-ceo-says-games-irrelevant/"
+      "title": "Google Vids now lets you star in your own AI videos - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
     },
     {
       "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion - Kotaku",
       "link": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733"
+    },
+    {
+      "title": "Inside the Art of Campaign Evolved - Halo Waypoint",
+      "link": "https://www.halowaypoint.com/news/inside-the-art-of-campaign-evolved"
     },
     {
       "title": "Marathon Promises An Even Bigger PvE Mode In The Fall - Kotaku",
@@ -32,24 +52,24 @@
       "link": "http://9to5google.com/2026/07/16/customize-gemini-voices/"
     },
     {
+      "title": "Apple Sued Over Reported 'Hide My Email' Flaw - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/"
+    },
+    {
       "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Is Now Available in Pok\u00e9mon TCG Live - Pokemon.com",
       "link": "https://www.pokemon.com/us/news/pokemon-tcg-mega-evolution-pitch-black-is-now-available-in-pokemon-tcg-live"
-    },
-    {
-      "title": "Google is better than Apple at playing the AI regulations game - The Verge",
-      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai"
-    },
-    {
-      "title": "I'm Glad That Moss Is On Console Now, But It's Not The Same - Kotaku",
-      "link": "https://kotaku.com/moss-console-not-same-vr-2000716668"
     },
     {
       "title": "Google is renaming NotebookLM to Gemini Notebook - The Verge",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
     },
     {
-      "title": "Google AI Mode adds more Connected Apps, including YouTube Music - 9to5Google",
-      "link": "http://9to5google.com/2026/07/16/google-ai-mode-youtube-music/"
+      "title": "First Impressions: Nintendo's Latest 'Switch 2 Edition' Is Here, And It'll Really Make You Sweat - nintendolife.com",
+      "link": "https://www.nintendolife.com/previews/first-impressions-nintendos-latest-switch-2-edition-is-here-and-itll-really-make-you-sweat"
+    },
+    {
+      "title": "Google Pixel 11 Rumor Roundup: New Colors, Higher Prices and Lots of Leaks - CNET",
+      "link": "https://www.cnet.com/tech/mobile/google-pixel-11-rumor-roundup-new-colors-higher-prices-and-lots-of-leaks/"
     },
     {
       "title": "\u2018The Game Doesn\u2019t End When You Run Out of Time\u2019 \u2013 How The Blood of Dawnwalker\u2019s 30 Day Countdown Works - IGN",
@@ -64,35 +84,39 @@
       "link": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/"
     },
     {
-      "title": "Why is OpenAI selling a ChatGPT basketball? - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
-    },
-    {
       "title": "Apple\u2019s OLED iPad Mini upgrade is on the way as prices continue to rise - The Verge",
       "link": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor"
     },
     {
-      "title": "Siri AI beta available now: 7 things to try - Mashable",
-      "link": "https://mashable.com/tech/siri-ai-new-features"
-    },
-    {
-      "title": "2026 Soulslike Selling Out Proves PS5 Players Still Want Discs - Kotaku",
-      "link": "https://kotaku.com/ps5-physical-editions-of-mortal-shell-2-are-selling-out-and-players-are-telling-sony-to-take-note-2000716627"
-    },
-    {
       "title": "Hone your skills with the Warhammer Academy - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/htyubijb/hone-your-skills-with-the-warhammer-academy"
-    },
-    {
-      "title": "EA Is Salivating At The Prospect Of Loading Games Up With Ads - Kotaku",
-      "link": "https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639"
-    },
-    {
-      "title": "AC Black Flag Resynced Update 1.04 Available to Download Now - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-available-to-download-now"
     }
   ],
   "sports_news": [
+    {
+      "title": "Portland sends first term sheet to Trail Blazers days after NBA says talks 'off track' - KATU",
+      "link": "https://katu.com/sports/trail-blazers/portland-to-send-first-term-sheet-to-trail-blazers-this-week-as-talks-heat-up-nba-basketball-business-city-council-negotiation-renovation-moda-center-local-sports-community-economy"
+    },
+    {
+      "title": "NBA's Silver says Fever's Clark has become 'political football' - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/49380710/nba-silver-says-fever-clark-become-political-football"
+    },
+    {
+      "title": "What did Kareem Abdul-Jabbar say about Caitlin Clark? Debate explained - USA Today",
+      "link": "https://www.usatoday.com/story/sports/wnba/2026/07/16/kareem-abdul-jabbar-caitlin-clark-debate-explained/90941149007/"
+    },
+    {
+      "title": "Kamaru Usman: \u2018It\u2019s either Sean Strickland or Islam\u2019 Makhachev next with UFC Oklahoma City upset win - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/499677/kamaru-usman-its-either-sean-strickland-or-islam-makhachev-next-with-ufc-oklahoma-city-upset-win"
+    },
+    {
+      "title": "Pat Riley Hints at Heat's LeBron James Pursuit in NBA Free Agency After Giannis Trade with Bucks - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25455636-pat-riley-hints-heats-lebron-james-pursuit-nba-free-agency-after-giannis-trade-bucks"
+    },
+    {
+      "title": "4 notable moments from the Mavericks\u2019 97-87 Summer League win over the Oklahoma City Thunder - Mavs Moneyball",
+      "link": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/60847/mavericks-vs-thunder-summer-league-recap-sergio-de-larrea-wows-in-dallas-97-87-win-over-oklahoma-city"
+    },
     {
       "title": "McMichael signs 6-year deal with Blues - NHL.com",
       "link": "https://www.nhl.com/blues/news/mcmichael-signs-6-year-deal-with-blues"
@@ -114,6 +138,10 @@
       "link": "https://www.bbc.com/sport/golf/articles/c4g4xjj052zo"
     },
     {
+      "title": "Phillies-Mets game moved up an hour due to air quality concerns - NBC10 Philadelphia",
+      "link": "https://www.nbcphiladelphia.com/mlb/philadelphia-phillies/phillies-mets-game-moved-up-an-hour-due-to-air-quality-concerns/4434422/"
+    },
+    {
       "title": "Phillies Place Brad Keller On IL With UCL Tear - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/phillies-place-brad-keller-on-il-with-ucl-tear.html"
     },
@@ -122,56 +150,24 @@
       "link": "https://bleacherreport.com/articles/25455612-british-open-leaderboard-2026-review-top-scorecards-and-player-stats-day-1"
     },
     {
-      "title": "Nationals Trade Robert Hassell III To Pirates - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/nationals-trade-robert-hassell-iii-pirates.html"
-    },
-    {
-      "title": "Here's a look at Mariners' 2027 schedule - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/seattle-mariners-2027-schedule-released-key-dates-to-know/"
+      "title": "Alex Ovechkin\u2019s potential final home game and NHL regular-season game set after Capitals schedule release - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/07/16/alex-ovechkin-potential-final-home-game-capitals-schedule-release-nhl/"
     },
     {
       "title": "UFC 329 draws nearly 16 million viewers for the return of Conor McGregor - MMA Fighting",
       "link": "https://www.mmafighting.com/latest-news/499695/ufc-329-draws-nearly-16-million-viewers-for-the-return-of-conor-mcgregor"
     },
     {
-      "title": "\u2018We Are Rip City\u2019 launches to back Moda Center renovation, keep Trail Blazers in Portland - OregonLive.com",
-      "link": "https://www.oregonlive.com/blazers/2026/07/local-coalition-launches-to-back-moda-center-renovation-keep-blazers-in-portland.html"
+      "title": "NASCAR legends to take part in Window World 450 pre-race driver introductions - Jayski",
+      "link": "https://www.jayski.com/2026/07/16/nascar-legends-to-take-part-in-window-world-450-pre-race-driver-introductions/"
     },
     {
-      "title": "U-M pays another $200K for investigation it doesn't want to release - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/university-michigan/wolverines/2026/07/16/university-michigan-investigation-athletics-department-costs/90937307007/"
+      "title": "Robert Smith Does Not Have World Cup Halftime Show Fever - Stereogum",
+      "link": "https://stereogum.com/2505484/robert-smith-does-not-have-world-cup-halftime-show-fever/news"
     },
     {
       "title": "British Open Thursday live updates, leaderboard: Bryson DeChambeau does have a clue; Scottie Scheffler in the hunt - Yahoo Sports UK",
       "link": "https://sports.yahoo.com/golf/live/british-open-thursday-live-updates-leaderboard-scottie-scheffler-is-on-a-heater-early-053000601.html"
-    },
-    {
-      "title": "Washington Capitals release full 2026-27 regular-season schedule - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/07/16/washington-capitals-2026-27-regular-season-schedule-nhl/"
-    },
-    {
-      "title": "NBA Looking Into Bucks\u2019 Deal With Gary Trent Jr. - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/07/nba-looking-into-bucks-deal-with-gary-trent-jr.html"
-    },
-    {
-      "title": "NHL releases expanded 84-game schedule for 2026-27 season - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/49376073/nhl-releases-expanded-84-game-schedule-2026-27-season"
-    },
-    {
-      "title": "James Franklin set for 2026 after Virginia Tech 'won the offseason' - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49377480/james-franklin-set-2026-virginia-tech-won-offseason"
-    },
-    {
-      "title": "England midfielder Bellingham slaps Argentina's Barco on the head after World Cup semifinal exit - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49377186/england-jude-bellingham-slap-argentina-valentin-barco-world-cup-semifinal-defeat"
-    },
-    {
-      "title": "Scheffler recovers awry ball in first round of Open Championship - ESPN",
-      "link": "https://www.espn.com/golf/story/_/id/49377419/scheffler-recovers-awry-ball-first-round-open-championship"
-    },
-    {
-      "title": "PTI podcast title implies LeBron James is joining Steph Curry and Warriors - Awful Announcing",
-      "link": "https://awfulannouncing.com/nba/pti-podcast-lebron-james-steph-curry-warriors.html"
     }
   ],
   "weather": {
