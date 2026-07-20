@@ -1,16 +1,20 @@
 {
-  "quote": "Success is liking yourself, liking what you do, and liking how you do it. \u2013 Maya Angelou",
-  "fact": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
-  "crypto": "BTC: $63,768 | ETH: $1,845.51",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Our wedding was so beautiful, even the cake was in tiers.",
+  "quote": "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. \u2013 Robert Kiyosaki",
+  "fact": "The \"Dull Men's Hall of Fame\" is located in Carroll, Wisconsin.",
+  "crypto": "BTC: $64,159 | ETH: $1,863.44",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "iOS 26 vs iOS 27: How Apple Is Completely Replacing Siri With Next-Gen AI - Geeky Gadgets",
+      "link": "https://www.geeky-gadgets.com/ios-26-vs-ios-27/"
+    },
     {
       "title": "Boy band BTS' J-Hope teases the Samsung Galaxy Z Fold8 ahead of launch - GSMArena.com news - GSMArena.com",
       "link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_bts_teaser-news-73786.php"
@@ -22,6 +26,10 @@
     {
       "title": "5 Classic PS1 Games That Are Unplayable Today - svg.com",
       "link": "https://www.svg.com/2217998/classic-ps1-games-unplayable-today/"
+    },
+    {
+      "title": "Here's the real reason KFC stopped going by Kentucky Fried Chicken nearly four decades ago - New York Post",
+      "link": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die"
     },
     {
       "title": "Valve Reportedly Sells 12-15K Steam Machine Units Per Week - TechPowerUp",
@@ -36,20 +44,32 @@
       "link": "https://supercarblondie.com/1990-c4-corvette-grandpa-cries-cleaning-wd-detailing/"
     },
     {
-      "title": "Poll: Are You Hyped for These 9 New PS Plus Games? - Push Square",
-      "link": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-9-new-ps-plus-games"
+      "title": "PS Plus Already Has 12 Upcoming Monthly Games Confirmed for the Rest of 2026 - GameRant",
+      "link": "https://gamerant.com/ps-plus-free-essential-extra-premium-coming-soon-2026/"
     },
     {
       "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
       "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak"
     },
     {
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/"
+    },
+    {
+      "title": "Scalpers Selling 'Times Square Mewtwo' For $10,000 On eBay - Kotaku",
+      "link": "https://kotaku.com/scalpers-selling-pokemon-gos-times-square-mewtwo-for-five-figures-on-ebay-after-invite-only-raid-2000717429"
+    },
+    {
       "title": "Lego Strikes Back Against Screens\u2014With Chips in Bricks - WSJ",
       "link": "https://www.wsj.com/business/lego-smart-play-interactive-toys-865907e5"
     },
     {
-      "title": "Why KFC stopped calling itself Kentucky Fried Chicken \u2014 and the myths that still won't die - Fox News",
-      "link": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die"
+      "title": "Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff - IGN",
+      "link": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff"
+    },
+    {
+      "title": "Google is open-sourcing its 3D emoji - The Verge",
+      "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji"
     },
     {
       "title": "Talking Point: So, Are You Getting The Premium Upgrade For Halo: Campaign Evolved? - Pure Xbox",
@@ -68,28 +88,8 @@
       "link": "https://rockstarintel.com/new-gta-online-update-fixes-kortz-center-heist-update-issues/"
     },
     {
-      "title": "\"There has to be a reason for people to buy an Xbox\": Making sense of Microsoft's messy return to console exclusivity - GamesRadar+",
-      "link": "https://www.gamesradar.com/games/xbox-return-to-console-exclusivity-report/"
-    },
-    {
       "title": "Column | Say More: I\u2019m heartbroken my in-laws have chosen guns over grandkid visits - The Washington Post",
       "link": "https://www.washingtonpost.com/advice/2026/07/18/say-more-heartbroken-in-laws-have-chosen-guns-over-grandkid-visits/"
-    },
-    {
-      "title": "Pixelated 108: Rerun of a rerun - 9to5Google",
-      "link": "http://9to5google.com/2026/07/18/pixelated-108-rerun-of-a-rerun/"
-    },
-    {
-      "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold - Phys.org",
-      "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html"
-    },
-    {
-      "title": "Spidery Drone Goes Near-invisible By Spinning Really, Really Fast - Hackaday",
-      "link": "https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/"
-    },
-    {
-      "title": "Security News This Week: Your Period Tracker Is (Probably) Spying on You - WIRED",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/"
     }
   ],
   "sports_news": [
@@ -102,24 +102,20 @@
       "link": "https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115"
     },
     {
-      "title": "Dodgers Change Pitching Order After Rain Rescheduling - Dodgers Nation",
-      "link": "https://dodgersnation.com/dodgers-change-pitching-order-after-rain-rescheduling/2026/07/18/"
+      "title": "Dricus du Plessis overwhelms Kamaru Usman in UFC Oklahoma City main event - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/500186/dricus-du-plessis-overwhelms-kamaru-usman-in-ufc-oklahoma-city-main-event"
+    },
+    {
+      "title": "Racing Insights: North Wilkesboro to yield latest first-time winner in 2026? - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/07/18/racing-insights-2026-north-wilkesboro-speedway-projected-results/"
     },
     {
       "title": "\u2018Spanish style\u2019 wins over New York\u2019s die-hard World Cup fans ahead of final - Al Jazeera",
       "link": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final"
     },
     {
-      "title": "UFC OKC live updates: Du Plessis-Usman round-by-round results - MMA Junkie",
-      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/18/ufc-oklahoma-city-dricus-du-plessis-vs-kamaru-usman-live-updates-results--live/90965771007/"
-    },
-    {
       "title": "Murphy's rocky start continues to highlight Braves' need for starting pitching - MLB.com",
       "link": "https://www.mlb.com/news/owen-murphy-makes-first-mlb-start-in-braves-loss-to-rangers"
-    },
-    {
-      "title": "England deliver World Cup third-place match for the ages in win over France - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49395836/england-deliver-world-cup-third-place-match-ages-win-france"
     },
     {
       "title": "RAF 11: Arman Tsarukyan vs. Colby Covington live results and round-by-round updates - Yahoo Sports",
@@ -130,20 +126,40 @@
       "link": "https://www.bbc.com/news/articles/cwyr498vqqpo"
     },
     {
+      "title": "Dodgers-Yankees Saturday game postponed; split DH Sunday - MLB.com",
+      "link": "https://www.mlb.com/news/dodgers-yankees-saturday-july-18-2026-postponed-due-to-weather"
+    },
+    {
       "title": "Latest On LeBron James - Hoops Rumors",
       "link": "https://www.hoopsrumors.com/2026/07/latest-on-lebron-james-5.html"
     },
     {
-      "title": "Tempo coach Sandy Brondello suspended 1 game by WNBA for 'protected species' remark about Angel Reese - Yahoo Sports",
-      "link": "https://sports.yahoo.com/wnba/article/tempo-coach-sandy-brondello-suspended-1-game-by-wnba-for-protected-species-remark-about-angel-reese-174917502.html"
+      "title": "Bryson DeChambeau\u2019s unusual request declined by R&A in surprise Open twist - Today's Golfer",
+      "link": "https://www.todays-golfer.com/news-and-events/majors/the-open-championship/bryson-dechambeau-rules-official-request/"
+    },
+    {
+      "title": "Aaron Judge transferred to 60-day IL, will need another scan - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/49394737/aaron-judge-transferred-60-day-il-need-another-scan"
+    },
+    {
+      "title": "World Cup final tickets near $2.3m mark on FIFA\u2019s resale platform - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform"
     },
     {
       "title": "Cubs Acquire Aaron Civale - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/cubs-acquire-aaron-civale.html"
     },
     {
+      "title": "Saka\u2019s hat trick lifts England past Mbapp\u00e9 and France 6-4 in wild World Cup third-place game - AP News",
+      "link": "https://apnews.com/article/world-cup-england-france-third-place-score-52f94eda6ff6d268d38aaefbc446c525"
+    },
+    {
       "title": "Enhanced Box Score: Cubs 6, Twins 2 \u2013 July 18, 2026 - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2026/07/18/enhanced-box-score-cubs-6-twins-2-july-18-2026/"
+    },
+    {
+      "title": "Wildfire Smoke In New Jersey Expected To Wane Ahead Of World Cup Final - Forbes",
+      "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/18/world-cup-air-quality-heres-the-forecast-for-sundays-game-as-canada-wildfires-rage/"
     },
     {
       "title": "The 154th Open Championship: Round 4 tee times, groupings and featured groups at Royal Birkdale - NBC Sports",
@@ -152,26 +168,6 @@
     {
       "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile - NPR",
       "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time"
-    },
-    {
-      "title": "Burns (-10) holds Open lead; Fox, Kim in the hunt two shots back - ESPN",
-      "link": "https://www.espn.com/golf/story/_/id/49393130/burns-10-holds-open-lead-fox-kim-hunt-two-shots-back"
-    },
-    {
-      "title": "Mariners Activate Julio Rodriguez, Designate Miles Mastrobuoni - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/mariners-activate-julio-rodriguez-designate-miles-mastrobuoni.html"
-    },
-    {
-      "title": "All to know about Canadian wildfire smoke, air quality and World Cup final - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final"
-    },
-    {
-      "title": "How Antonelli found half a second to thwart Verstappen in Belgian GP qualifying - Autosport",
-      "link": "https://www.autosport.com/f1/news/how-antonelli-found-half-a-second-to-thwart-verstappen-in-belgian-gp-qualifying/10839988/"
-    },
-    {
-      "title": "Spain-Argentina World Cup final last-minute tickets start at $10,000 - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49392880/spain-argentina-world-cup-final-last-minute-tickets-start-10k"
     }
   ],
   "weather": {
