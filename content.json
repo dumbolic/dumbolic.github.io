@@ -1,9 +1,9 @@
 {
-  "quote": "Too many of us are not living our dreams because we are living our fears. \u2013 Les Brown",
-  "fact": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning \"containing arsenic.\" \u00a0",
-  "crypto": "BTC: $65,401 | ETH: $1,897.2",
+  "quote": "A loving heart is the truest wisdom. \u2013 Charles Dickens",
+  "fact": "The word \"set\" has more definitions than any other word in the English language.",
+  "crypto": "BTC: $65,245 | ETH: $1,899.34",
   "tip": "Keep your software dependencies updated.",
-  "joke": "The other day I was listening to a song about superglue, it\u2019s been stuck in my head ever since.",
+  "joke": "Have you heard about the owl sanctuary job opening? It\u2019s all night shifts but they\u2019re all a hoot over there.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,166 +12,158 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Once-Thriving Burger Chain Hangs On at LA's Airport - Newser",
+      "link": "https://www.newser.com/story/392802/once-thriving-burger-chain-hangs-on-at-las-airport.html"
+    },
+    {
+      "title": "Cliff Bleszinski Blames Personal Ego And Alcohol Issues For Boss Key\u2019s Failure - Kotaku",
+      "link": "https://kotaku.com/cliff-bleszinski-blames-personal-ego-and-alcohol-issues-for-boss-keys-failure-2000717494"
+    },
+    {
+      "title": "Testing imminent for 2028 IndyCar - RACER - Racing News",
+      "link": "https://racer.com/2026/07/19/testing-imminent-for-2028-indycar"
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired - Phoronix",
+      "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired"
+    },
+    {
+      "title": "Windows 11 version 26H2 lands soon, and these are 10 things you need to know before upgrading - Windows Central",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-version-26h2-2026-update-10-things-to-know"
+    },
+    {
       "title": "Xbox Promises A Third Upcoming Exclusive As It Tries To Explain A Confusing Reversal - Kotaku",
       "link": "https://kotaku.com/xbox-promises-a-third-upcoming-exclusive-as-it-tries-to-explain-a-confusing-reversal-2000717484"
+    },
+    {
+      "title": "I was one click away from paying for Google Photos, then I found this hidden setting - Android Police",
+      "link": "https://www.androidpolice.com/turned-on-google-photos-features-ignored-for-years-storage-panic-went-away/"
+    },
+    {
+      "title": "The Clapper was a bad smart home gadget \u2014 and a viral sensation - The Verge",
+      "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history"
+    },
+    {
+      "title": "Todd Howard confirms to Windows Central that Fallout 5 and The Elder Scrolls VI will run on Creation Engine 3 - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/zenimax-bethesda/bethesda-confirms-fallout-5-and-the-elder-scrolls-vi-are-built-on-new-creation-engine-3"
+    },
+    {
+      "title": "Halo: Campaign Evolved Release Date, Release Times & Early Access Details For Xbox & PC - Pure Xbox",
+      "link": "https://www.purexbox.com/guides/halo-campaign-evolved-release-date-release-times-and-early-access-details-for-xbox-and-pc"
+    },
+    {
+      "title": "OnePlus died with a whimper, not a bang - 9to5Google",
+      "link": "http://9to5google.com/2026/07/19/oneplus-died-with-a-whimper-not-a-bang/"
+    },
+    {
+      "title": "I Hate To Break It To You, But If You Recognize Literally ONE Of These 35 Pictures, You Are Officially Older Than Dirt - BuzzFeed",
+      "link": "https://www.buzzfeed.com/daves4/if-you-recognize-these-pics-you-are-old"
+    },
+    {
+      "title": "Marathon\u2019s director confirms he\u2019s quit Bungie, four months after launch - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/"
+    },
+    {
+      "title": "I wanted to love the Galaxy Z Fold 8, but Samsung already ruined it for me - Android Police",
+      "link": "https://www.androidpolice.com/wanted-love-galaxy-z-fold-8-samsung-ruined-it/"
     },
     {
       "title": "FedEx Delivery Driver Falling Into a Front Yard Pool Outside a Georgia Home Shows What Seconds of Screen Distraction Can Do - Yahoo",
       "link": "https://guessingheadlights.com/fedex-delivery-driver-falling-into-a-front-yard-pool-outside-a-georgia-home-shows-what-seconds-of-screen-distraction-can-do/"
     },
     {
+      "title": "8 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-7-19-26/"
+    },
+    {
+      "title": "20 New Watches You Missed from Seiko, Swatch, Citizen, Casio and More - Gear Patrol",
+      "link": "https://www.gearpatrol.com/watches/watches-you-missed-july-19-2026/"
+    },
+    {
+      "title": "Garmin CIRQA to launch at a significantly lower price than expected, according to Garmin\u2019s official database - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Garmin-CIRQA-to-launch-at-a-significantly-lower-price-than-expected-according-to-Garmin-s-official-database.1346669.0.html"
+    },
+    {
       "title": "Why Xbox pushed ahead with Game Pass even though studio heads \"detest\" it - Windows Central",
       "link": "https://www.windowscentral.com/gaming/xbox/some-xbox-studio-leads-reportedly-detest-game-pass-so-why-did-xbox-push-ahead-with-it-it-felt-like-a-race-to-zero"
-    },
-    {
-      "title": "25 Discounted Games You Should Buy In The Xbox Summer Sale 2026 - Pure Xbox",
-      "link": "https://www.purexbox.com/features/25-discounted-games-you-should-buy-in-the-xbox-summer-sale-2026"
-    },
-    {
-      "title": "I replaced my notebook with an AI pen for a month \u2014 here's what happened - Tom's Guide",
-      "link": "https://www.tomsguide.com/ai/i-replaced-my-notebook-with-an-ai-pen-for-a-month-heres-what-happened"
-    },
-    {
-      "title": "5 Powerful Laptops Cheaper Than MacBook Air After The Price Hike - bgr.com",
-      "link": "https://www.bgr.com/2215557/powerful-laptops-cheaper-than-macbook-air-after-price-hike/"
-    },
-    {
-      "title": "Google and Apple are clashing with the EU over the future of AI assistants - CNN",
-      "link": "https://www.cnn.com/2026/07/19/tech/apple-google-ai-eu-regulations"
-    },
-    {
-      "title": "Fix AI Mode or get Google out of classrooms, advocates say - Mashable",
-      "link": "https://mashable.com/tech/is-google-search-ai-mode-safe-for-students"
-    },
-    {
-      "title": "T-Mobile is handing over the Apple iPhone 17 for free \u2014 how to claim yours - Mashable",
-      "link": "https://mashable.com/tech/july-18-free-apple-iphone-deal"
-    },
-    {
-      "title": "Google Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade - Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-xl-vs-pixel-10-pro-xl"
-    },
-    {
-      "title": "iOS 26 vs iOS 27: How Apple Is Completely Replacing Siri With Next-Gen AI - Geeky Gadgets",
-      "link": "https://www.geeky-gadgets.com/ios-26-vs-ios-27/"
-    },
-    {
-      "title": "The Nintendo Switch 2 Pro Controller is worth buying \u2013 here\u2019s why you should get it - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-switch-2-pro-controller-is-worth-it/"
-    },
-    {
-      "title": "Tales of Eternia Remastered gets huge list of new features and improvements - Nintendo Everything",
-      "link": "https://nintendoeverything.com/tales-of-eternia-remastered-gets-huge-list-of-new-features-and-improvements/"
-    },
-    {
-      "title": "Why Are Nothing's New 'B' Series Phones So Much Cheaper? - bgr.com",
-      "link": "https://www.bgr.com/2215230/why-nothing-b-series-so-much-cheaper/"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced sells over 3 million copies, New Game+ is coming - TweakTown",
-      "link": "https://www.tweaktown.com/news/112684/assassins-creed-black-flag-resynced-sells-over-3-million-copies-new-game-plus-is-coming/index.html"
-    },
-    {
-      "title": "Galaxy Watch 9 is \u2018Powered by Snapdragon Wear Elite,\u2019 leaked images confirm [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/"
-    },
-    {
-      "title": "\"During the training sequence, we make a false promise\": IO Interactive on the ensemble James Bond game that 007 First Light never was - Rock Paper Shotgun",
-      "link": "https://www.rockpapershotgun.com/during-the-training-sequence-we-make-a-false-promise-io-interactive-on-the-ensemble-james-bond-game-that-007-first-light-never-was"
-    },
-    {
-      "title": "Steam freebie is Zelda-style RPG oozing with Stardew Valley charm - GAMINGbible",
-      "link": "https://www.gamingbible.com/news/platform/steam/steam-freebie-zelda-rpg-stardew-valley-charm-forge-fae-966450-20260715"
-    },
-    {
-      "title": "Windows 11 KB5121767 out to fix system performance issues caused by KB5101650, KB5095093 - Neowin",
-      "link": "https://www.neowin.net/news/windows-11-kb5121767-out-to-fix-system-performance-issues-caused-by-kb5101650-kb5095093/"
-    },
-    {
-      "title": "YouTube picture-in-picture (PiP) mode is broken on iPhone, Android - 9to5Google",
-      "link": "http://9to5google.com/2026/07/18/youtube-pip-broken/"
     }
   ],
   "sports_news": [
     {
-      "title": "Eagles' Saquon Barkley, family OK after attempted burglary of home - ESPN",
+      "title": "World Cup Daily live: Final countdown as Spain, Argentina get ready to take New York - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal"
+    },
+    {
+      "title": "Mother Nature cooperates with FIFA for World Cup finale - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mother-nature-cooperates-with-fifa-for-world-cup-finale"
+    },
+    {
+      "title": "The Open 2026 live updates: Leaderboard, scores, highlights, news from final round - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-tour/live/british-open-2026-live-updates-leaderboard-scores-highlights-news-from-final-round"
+    },
+    {
+      "title": "Reports: Thunder trade Lu Dort to Hawks in 3-team deal - NBA.com",
+      "link": "https://www.nba.com/news/hawks-trade-for-lu-dort-thunder-mavericks"
+    },
+    {
+      "title": "New Shohei Ohtani Injury Update as Dodgers Star Shut Down Indefinitely from Pitching - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25456344-new-shohei-ohtani-injury-update-dodgers-star-shut-down-indefinitely-pitching"
+    },
+    {
+      "title": "Winners and losers from the 2026 Belgian GP - The Race",
+      "link": "https://www.the-race.com/formula-1/winners-and-losers-from-the-2026-belgian-gp/"
+    },
+    {
+      "title": "2026 Open Championship final round live updates: Leaderboard, scores, highlights, results - NBC Sports",
+      "link": "https://www.nbcsports.com/golf/live/2026-british-open-live-updates-leaderboard-scores-highlights-results-from-round-4-july-19"
+    },
+    {
+      "title": "Conor McGregor Reveals Injury Diagnosis & Return Timeline, 'Knee is F--ked Up,' Says UFC's White - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25456281-conor-mcgregor-reveals-injury-diagnosis-return-timeline-knee-f-ked-says-ufcs-white"
+    },
+    {
+      "title": "Jonas Vingegaard crashes out of Tour de France - Cyclingnews",
+      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/jonas-vingegaard-crashes-out-of-tour-de-france/"
+    },
+    {
+      "title": "A Great Day, Better Days Ahead? Hoerner Heat Up, Trade Chips, and Other Cubs Bullets - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/07/19/a-great-day-better-days-ahead-hoerner-heat-up-trade-chips-and-other-cubs-bullets/"
+    },
+    {
+      "title": "Duane Ward, star reliever on Blue Jays' 1990s championship teams, dies at 62 - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/49399456/duane-ward-star-reliever-blue-jays-1990s-championship-teams-dies-62"
+    },
+    {
+      "title": "Stefanos Tsitsipas: Greek lands Swiss Open for first ATP title in 16 months - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/c9w0r80gkv2o"
+    },
+    {
+      "title": "Eagles' Saquon Barkley, family OK after attempted home burglary - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49399314/eagles-saquon-barkley-family-ok-attempted-burglary-home"
-    },
-    {
-      "title": "Argentina vs. Spain odds, prediction, time: 2026 World Cup final picks from expert on 20-9 roll - CBS Sports",
-      "link": "https://www.cbssports.com/betting/news/argentina-spain-odds-prediction-start-time-2026-world-cup-final-picks-soccer-best-bets/"
-    },
-    {
-      "title": "Qatar was Messi\u2019s coronation. This World Cup is his masterpiece. - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2026/07/19/how-lionel-messi-dominated-2026-world-cup/"
     },
     {
       "title": "Spanish goalkeeper doesn't 'want to go to prison' for refusing to shake Trump's hand if team wins World Cup - New York Post",
       "link": "https://www.foxnews.com/sports/world-cup-goalkeeper-expresses-reluctance-shake-trumps-hand-spain-win-tournament"
     },
     {
-      "title": "The 2026 FIFA World Cup is handing out record cash \u2014 here's who gets what - Fox Business",
-      "link": "https://www.foxbusiness.com/sports/2026-fifa-world-cup-handing-out-record-cash-heres-who-gets-what"
+      "title": "Braves Select Elieser Hern\u00e1ndez - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/braves-select-elieser-hernandez.html"
     },
     {
       "title": "The Opener: Red Sox, Abreu, Orioles, McGonigle - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/the-opener-red-sox-abreu-orioles-mcgonigle.html"
     },
     {
-      "title": "Caitlin Clark's former teammate calls out WNBA for suspending Tempo head coach over 'protected species' remark - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-former-teammate-calls-out-wnba-suspending-tempo-head-coach-protected-species-remark"
+      "title": "Ben Askren Wrestles 1 Year After Double Lung Transplant Surgery, 1st Match Since Jake Paul TKO Loss - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25456277-ben-askren-wrestles-1-year-after-double-lung-transplant-surgery-1st-match-jake-paul-tko-loss"
     },
     {
-      "title": "The Open Championship final round live updates, leaderboard: Scottie Scheffler is heating up early - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/live/the-open-championship-final-round-live-updates-leaderboard-sam-burns-out-in-front-entering-sunday-at-royal-birkdale-063000749.html"
-    },
-    {
-      "title": "F1 LIVE: Belgian Grand Prix 2026 start time, grid, commentary and updates from Spa-Francorchamps - BBC",
-      "link": "https://www.bbc.com/sport/formula1/live/cvg3mr9vmpvt"
+      "title": "Lionel Messi Shows His True Colors With Pre-World Cup Final Message - Sports Illustrated",
+      "link": "https://www.si.com/soccer/lionel-messi-shows-true-colors-pre-world-cup-final-message"
     },
     {
       "title": "Colby Covington's next RAF match against another UFC star already booked after Arman Tsarukyan win - Bloody Elbow",
       "link": "https://bloodyelbow.com/2026/07/19/colby-covingtons-next-raf-match-against-another-ufc-star-already-booked-after-arman-tsarukyan-win/"
-    },
-    {
-      "title": "Messi has work to catch Mbapp\u00e9 for the Golden Boot. A 3rd Golden Ball is in reach in World Cup final - AP News",
-      "link": "https://apnews.com/article/world-cup-golden-boot-awards-messi-mbappe-2036d505bc97ce3a116f20dd67db43e5"
-    },
-    {
-      "title": "F1 2026 Belgian GP starting grid after five penalties - The Race",
-      "link": "https://www.the-race.com/formula-1/f1-2026-belgian-gp-starting-grid-after-four-grid-penalties/"
-    },
-    {
-      "title": "FIFA\u2019s World Cup Halftime Show Puts American-Style Spectacle on the World Stage - WIRED",
-      "link": "https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/"
-    },
-    {
-      "title": "American boxer Hannah Rapp, 26, dies after being hit by car while cycling - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/cj63kzl1zw0o"
-    },
-    {
-      "title": "Is Fifa\u2019s hyper-commercialised World Cup here to stay? - Financial Times",
-      "link": "https://www.ft.com/content/99279482-ffdb-44db-bab0-e13790b3b525?syn-25a6b1a6\\\\u003d1"
-    },
-    {
-      "title": "Liberty crushed by Caitlin Clark, Fever after unraveling in pitiful third quarter - New York Post",
-      "link": "https://nypost.com/2026/07/18/sports/liberty-crushed-by-fever-after-unraveling-in-pitiful-third-quarter/"
-    },
-    {
-      "title": "Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team - AP News",
-      "link": "https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115"
-    },
-    {
-      "title": "Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-smacked-face-wnba-legend-after-getting-foul-could-trigger-fine-big-win"
-    },
-    {
-      "title": "He nearly died a year ago. Ben Askren still got one more chance to wrestle - Milwaukee Journal Sentinel",
-      "link": "https://www.jsonline.com/story/sports/2026/07/18/ben-askren-final-wrestling-match-after-lung-transplant-in-milwaukee-real-american-freestyle/90953987007/"
-    },
-    {
-      "title": "RAF 11 Results: Colby Covington edges Arman Tsarukyan to claim inaugural crossover belt - MMA Fighting",
-      "link": "https://www.mmafighting.com/raf-wrestling/500149/raf-11-results-colby-covington-edges-arman-tsarukyan-to-claim-inaugural-crossover-belt"
     }
   ],
   "weather": {
