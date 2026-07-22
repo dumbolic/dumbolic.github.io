@@ -1,9 +1,9 @@
 {
-  "quote": "We run to win, not just to be in the race. \u2013 Vince Lombardi",
-  "fact": "It is illegal to eat oranges while bathing in California.",
-  "crypto": "BTC: $65,873 | ETH: $1,922.61",
+  "quote": "Nourish the mind like you would your body. The mind cannot survive on junk food. \u2013 Brian Tracy",
+  "fact": "About 500 movies are made in the US and 800 in India annually.",
+  "crypto": "BTC: $65,982 | ETH: $1,925.35",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
+  "joke": "What\u2019s the difference between an African elephant and an Indian elephant? About 5000 miles.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA, UK - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/07/sales-data-paints-a-very-grim-picture-for-physical-ps5-games-in-the-usa-uk"
+    },
+    {
+      "title": "Samsung Galaxy Unpacked 2026 launch live: Z Fold 8 Ultra, Z Fold 8, Z Flip 8, Galaxy Glasses, and all the news - Android Central",
+      "link": "https://www.androidcentral.com/phones/live/samsung-galaxy-unpacked-2026-launch-live-z-fold-8-ultra-z-fold-8-z-flip-8-galaxy-glasses-and-all-the-news"
+    },
+    {
+      "title": "Former Left 4 Dead Writer Pans PlayStation Backlash Over Physical Media - TechPowerUp",
+      "link": "https://www.techpowerup.com/350907/former-left-4-dead-writer-pans-playstation-backlash-over-physical-media"
+    },
+    {
       "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style - Motor1.com",
       "link": "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/"
     },
     {
       "title": "Donkey Kong Arcade LEGO Set Official Images Surface, Already In-Store - nintendolife.com",
-      "link": "http://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-official-images-surface-already-in-store"
+      "link": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-official-images-surface-already-in-store"
     },
     {
       "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here\u2019s how it works - 9to5Mac",
       "link": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/"
+    },
+    {
+      "title": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff - IGN",
+      "link": "https://www.ign.com/articles/kingdom-hearts-missing-link-leak-has-fans-wishing-square-enix-hadnt-canceled-its-mobile-spinoff"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B\u2013$30B valuation - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/"
     },
     {
       "title": "A $33,700 Tiny Home That Finally Gets the Floor Plan Right - Yanko Design",
@@ -40,20 +60,12 @@
       "link": "http://9to5google.com/2026/07/20/google-photos-classic-search-toggle/"
     },
     {
-      "title": "Garmin CIRQA leaks in four colors with outdated sensor - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Garmin-CIRQA-leaks-in-four-colors-with-outdated-sensor.1347560.0.html"
+      "title": "Attackers pummel critical WordPress vuln to create all sorts of mischief - The Register",
+      "link": "https://www.theregister.com/security/2026/07/20/attackers-pummel-critical-wordpress-vuln-to-create-all-sorts-of-mischief/5275265"
     },
     {
       "title": "iPhone 18 Pro Release Date: Apple\u2019s 15-Year Event Timeline Signals Exact Date - Forbes",
       "link": "https://www.forbes.com/sites/davidphelan/2026/07/20/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/"
-    },
-    {
-      "title": "Activision Confirms Call of Duty: Modern Warfare 4 Beta Dates for August - IGN",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-dates-confirmed"
-    },
-    {
-      "title": "Samsung is betting big that you\u2019ll want the wide Galaxy Z Fold 8, report details - 9to5Google",
-      "link": "http://9to5google.com/2026/07/20/samsung-galaxy-z-fold-8-wide-production-reports/"
     },
     {
       "title": "Samsung Is Under Serious Pressure. Here\u2019s Why It Needs to Nail Its Next Z Fold Phone - CNET",
@@ -62,6 +74,10 @@
     {
       "title": "5DEV Introduces the Jumpline Pedal - Pinkbike",
       "link": "https://www.pinkbike.com/news/5dev-introduces-the-jumpline-pedal.html"
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/"
     },
     {
       "title": "WhatsApp rolling out Liquid Glass revamp to its Mac app - 9to5Mac",
@@ -74,44 +90,32 @@
     {
       "title": "iOS 27 Code References iPhone With Two Batteries - MacRumors",
       "link": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/"
-    },
-    {
-      "title": "The Pixel 11 Pro showed up on one of Google\u2019s websites - 9to5Google",
-      "link": "http://9to5google.com/2026/07/20/pixel-11-pro-shows-up-on-one-of-googles-websites/"
-    },
-    {
-      "title": "REI Is Quietly Selling Arc\u2019teryx\u2019s Super Light Trail Jacket Way Below Retail - Gear Patrol",
-      "link": "https://www.gearpatrol.com/deals/arcteryx-beta-sl-jacket-rei-sale/"
-    },
-    {
-      "title": "Google releases Android 17 QPR2 Beta 1 for Pixel - 9to5Google",
-      "link": "http://9to5google.com/2026/07/20/android-17-qpr2-beta-1-pixel/"
-    },
-    {
-      "title": "Our PlayStation price analysis shows why physical games still matter - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Spain's World Cup champions return home for parade in front of almost 2 million - NPR",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home"
+    },
     {
       "title": "Rich Paul: No rush on LeBron decision; teams have done enough - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49415142/rich-paul-says-there-no-rush-lebron-james-make-free-agency-decision"
     },
     {
-      "title": "Seattle Mariners injury updates on Julio Rodr\u00edguez, J.P. Crawford - Seattle Sports",
-      "link": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-injury-concerns-julio-rodriguez-jp-crawford"
-    },
-    {
-      "title": "Julio Rodr\u00edguez exits Mariners game with apparent injury - The Seattle Times",
-      "link": "https://www.seattletimes.com/sports/mariners/mariners-julio-rodriguez-leaves-game-vs-san-francisco-giants/"
+      "title": "Jon Stewart Says the World Cup Final Was the 'Reverse Super Bowl' - Variety",
+      "link": "https://variety.com/2026/tv/news/jon-stewart-world-cup-final-halftime-show-trump-1236817023/"
     },
     {
       "title": "Top Blazers official trashes Portland\u2019s draft term sheet: \u2018If they don\u2019t want us, then that\u2019s fine\u2019 - OregonLive.com",
       "link": "https://www.oregonlive.com/blazers/2026/07/top-blazers-official-trashes-portlands-draft-term-sheet-if-they-dont-want-us-then-thats-fine.html"
     },
     {
-      "title": "ESPN reportedly lays off analyst Ryan Clark during broadcast of 'NFL Live' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/sports-business/article/espn-reportedly-lays-off-analyst-ryan-clark-during-broadcast-of-nfl-live-235827886.html"
+      "title": "Track\u2019s once-mythical record falls after 27 years \u2014 and hardly anyone noticed - New York Post",
+      "link": "https://nypost.com/2026/07/20/sports/tracks-mythical-record-falls-after-27-years-and-hardly-anyone-noticed/"
+    },
+    {
+      "title": "Red Sox reactions: Caleb Durbin\u2019s homer in the eighth pushes streak to 14 straight - MassLive",
+      "link": "https://www.masslive.com/redsox/2026/07/red-sox-reactions-caleb-durbins-homer-in-the-eighth-pushes-streak-to-14-straight.html"
     },
     {
       "title": "FBI says Seattle World Cup security efforts will have lasting impact on city - KOMO",
@@ -138,16 +142,8 @@
       "link": "https://bleacherreport.com/articles/25456344-new-shohei-ohtani-injury-update-dodgers-star-shut-down-indefinitely-has-not-gotten-better"
     },
     {
-      "title": "Dustin Poirier calls for Michael Chandler to retire: \u2018What are you doing?\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/500330/dustin-poirier-calls-for-michael-chandler-to-retire-what-are-you-doing"
-    },
-    {
-      "title": "As World Cup ends and SEC football media days begin, the specter of recent Big Ten dominance looms - CNN",
-      "link": "https://www.cnn.com/2026/07/20/sport/sec-football-big-ten-dominace"
-    },
-    {
-      "title": "New coach Stein says Kentucky will win big 'because of me' - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49412824/new-coach-stein-says-kentucky-win-big-me"
+      "title": "Kentucky football coach channels Curt Cignetti, delivers SEC Media Days quote everyone will remember - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/kentucky-will-stein-channels-curt-cignetti-delivers-sec-media-days-quote-everyone-will-remember"
     },
     {
       "title": "Starting with Yaxel Lendeborg, summer league was smashing success for Warriors - NBC Sports Bay Area & California",
@@ -168,6 +164,14 @@
     {
       "title": "Power Rankings: 3M Open - PGA Tour",
       "link": "https://www.pgatour.com/article/news/power-rankings/2026/07/20/rankings-3m-open-tpc-twin-cities-odds-betting-fantasy-picks"
+    },
+    {
+      "title": "18 Parting Thoughts from the 154th Open Championship at Royal Birkdale - Skratch Golf",
+      "link": "https://www.skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction"
+    },
+    {
+      "title": "Dave Portnoy Slams Tom Brady\u2019s Post-NFL Image: \u2018Downfall of an Icon\u2019 - Yahoo",
+      "link": "https://www.mandatory.com/celebrities/1815081-dave-portnoy-rips-tom-brady-new-image"
     }
   ],
   "weather": {
