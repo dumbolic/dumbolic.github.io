@@ -1,9 +1,9 @@
 {
-  "quote": "Obstacles are those frightful things you see when you take your eyes off your goals. \u2013 Sydney Smith",
-  "fact": "A cat's jaw cannot move sideways.",
-  "crypto": "BTC: $64,149 | ETH: $1,862.03",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Coffee has a tough time at my house, every morning it gets mugged.",
+  "quote": "Great things are not done by impulse, but by a series of small things brought together. \u2013 Vincent van Gogh",
+  "fact": "The thyroid cartilage is more commonly known as the adams apple.",
+  "crypto": "BTC: $64,137 | ETH: $1,859.54",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Why did the man put his money in the freezer? He wanted cold hard cash!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
+    },
     {
       "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung\u2019s Passport Foldable - CNET",
       "link": "https://www.cnet.com/news-live/my-galaxy-z-fold-8-ongoing-review-as-i-live-with-the-samsungs-passport-foldable/"
@@ -20,32 +24,24 @@
       "link": "https://www.phoronix.com/review/amd-epyc-9006-venice"
     },
     {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+    },
+    {
       "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
       "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/"
+    },
+    {
+      "title": "Halo Support 'Investigating' Issues With Premium Upgrade For Campaign Evolved - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/07/this-issue-should-be-resolved-halo-premium-upgrade-seemingly-fixed-for-campaign-evolved"
     },
     {
       "title": "Google will now let you sign in to your account with a selfie video - TechCrunch",
       "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"
     },
     {
-      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
-      "link": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed"
-    },
-    {
       "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge",
       "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming"
-    },
-    {
-      "title": "Halo: Campaign Evolved Comparison Shows Difference Between Xbox Series X And Series S - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/07/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-series-s"
-    },
-    {
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/"
-    },
-    {
-      "title": "Amazon Adds Video Games Into Prime Video in Expansion Push - The Hollywood Reporter",
-      "link": "http://www.hollywoodreporter.com/business/digital/amazon-prime-video-games-luna-1236653286/"
     },
     {
       "title": "Xbox 360 games might already be backward compatible on PC, and that bodes extremely well for the program's future - Windows Central",
@@ -56,6 +52,14 @@
       "link": "http://9to5google.com/2026/07/23/samsung-galaxy-watch-9-five-years-wear-os-updates/"
     },
     {
+      "title": "Samsung & Google's Android XR glasses privacy light works like Meta Ray-Bans, core features detailed [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/07/23/samsung-google-android-xr-glasses-features-privacy-light-details/"
+    },
+    {
+      "title": "Framework\u2019s premium laptop is shipping with less RAM - The Verge",
+      "link": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates"
+    },
+    {
       "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs - The Hacker News",
       "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
     },
@@ -64,22 +68,74 @@
       "link": "https://www.nature.com/articles/d41586-026-02295-w"
     },
     {
+      "title": "Splatoon Raiders Switch 2 Launch Update Out Now, Here Are The Patch Notes - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-switch-2-launch-update-out-now-here-are-the-patch-notes"
+    },
+    {
       "title": "The Legend of Zelda Officially Returns With New Release Spring 2027 - Comic Book Resources",
       "link": "https://www.cbr.com/legend-of-zelda-official-return-new-release-spring-2027/"
     },
     {
-      "title": "Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/07/22/google-pixel-11-series-leaked-images-angles/"
+      "title": "New Pixel 11 Images Show Us Google\u2019s Fun Frame Colors - Droid Life",
+      "link": "https://www.droid-life.com/2026/07/22/new-pixel-11-images-show-us-googles-fun-frame-colors/"
     },
     {
-      "title": "Splatoon Raiders 1.1.0 update out now, patch notes - Nintendo Everything",
-      "link": "https://nintendoeverything.com/splatoon-raiders-1-1-0-update-out-now-patch-notes/"
+      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments - The Verge",
+      "link": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27"
     }
   ],
   "sports_news": [
     {
-      "title": "Red Sox win 15th straight, matching longest in club history, with 6-3 victory over Orioles - AP News",
-      "link": "https://apnews.com/article/orioles-red-sox-score-streak-70de33c882eb9b53d06e090d6b674714"
+      "title": "Trump will welcome the World Series champion Dodgers to the White House - AP News",
+      "link": "https://apnews.com/article/trump-dodgers-white-house-visit-0daaeadffe276338e5d45ad77663fcb0"
+    },
+    {
+      "title": "Commonwealth Games: King Charles III emerges from the Tardis as Glasgow 2026 Games begin - BBC",
+      "link": "https://www.bbc.com/sport/articles/cvg79z237yvo"
+    },
+    {
+      "title": "Now in pole position, Brewers 'definitely active' heading into Deadline - MLB.com",
+      "link": "https://www.mlb.com/news/brewers-potential-approach-to-2026-trade-deadline"
+    },
+    {
+      "title": "Winners and losers of LeBron James' long free agency: Prediction markets cash in as NBA schedule makers wait - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-winners-losers-nba-rich-paul-heat/"
+    },
+    {
+      "title": "Alex Bowman retiring after 2027 season - Jayski",
+      "link": "https://www.jayski.com/2026/07/23/alex-bowman-retiring-after-2027-season/"
+    },
+    {
+      "title": "Pirates Acquire Ron Marinaccio, Designate Dennis Santana For Assignment - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/pirates-acquire-ron-marinaccio-designate-dennis-santana-for-assignment.html"
+    },
+    {
+      "title": "WNBA player Sophie Cunningham won\u2019t stop talking about trans athletes - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/2026/07/23/wnba-player-sophie-cunningham-wont-stop-talking-about-trans-athletes/"
+    },
+    {
+      "title": "Ravens waive rookie Diego Pavia to make room for Ethan Pocic - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49434956/ravens-waive-rookie-diego-pavia-make-room-ethan-pocic"
+    },
+    {
+      "title": "These 10 teams have the prospects to make a big splash at the Trade Deadline - MLB.com",
+      "link": "https://www.mlb.com/news/teams-with-prospects-to-trade-at-trade-deadline-2026"
+    },
+    {
+      "title": "Panthers agree to terms with OLB Cam Gill after Nic Scourton\u2019s injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-agree-to-terms-with-olb-cam-gill-after-nic-scourtons-injury"
+    },
+    {
+      "title": "Anthony Joshua vs Kristian Prenga: Briton embraces comeback spotlight before fight in Saudi Arabia - BBC",
+      "link": "https://www.bbc.com/sport/boxing/articles/cqx79102n4xo"
+    },
+    {
+      "title": "Blackhawks reunite with Patrick Kane, signing him to two-year contract - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/blackhawks/2026/07/23/blackhawks-patrick-kane-returns-nhl-free-agency"
+    },
+    {
+      "title": "A Seahawks 53-man roster projection: Pre-training camp edition - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-roster/170849/seattle-seahawks-53-man-roster-projection-pre-training-camp-edition"
     },
     {
       "title": "Kamaru Usman contemplating \u2018whether it\u2019s worth continuing to do this\u2019 after lopsided loss to Dricus du Plessis - MMA Fighting",
@@ -88,10 +144,6 @@
     {
       "title": "Everything we learned on day one at F1's 2026 Hungarian GP - The Race",
       "link": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-at-f1s-2026-hungarian-gp/"
-    },
-    {
-      "title": "White House defends WNBA star Sophie Cunningham after she speaks out in support of protecting women's sports - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/white-house-defends-wnba-star-sophie-cunningham-speaks-support-protecting-womens-sports"
     },
     {
       "title": "10 players you HAVE to watch at 2026 Detroit Lions training camp - Pride Of Detroit",
@@ -106,56 +158,12 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-signs-rookie-contract"
     },
     {
-      "title": "Free Agent Rumors: LeBron, Hezonja, Cavs, Kuminga, Hawks - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/07/free-agent-rumors-lebron-hezonja-cavs-kuminga-hawks.html"
-    },
-    {
-      "title": "Kiffin focused on QB Leavitt's transition into LSU offense - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49433767/kiffin-focused-qb-leavitt-transition-lsu-offense"
+      "title": "Fantasy Football: Jaguars, Seahawks backfield battles, Jonathon Brooks' role among biggest RB questions for NFL training camps - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-jaguars-seahawks-backfield-battles-jonathon-brooks-role-among-biggest-rb-questions-for-nfl-training-camps-164459154.html"
     },
     {
       "title": "Yankees' Jos\u00e9 Caballero targeted by MLB for crackdown on plate routine of waiting to engage pitcher - AP News",
       "link": "https://apnews.com/article/caballero-pitch-clock-mlb-violation-c440bc11651b40450b720379ecbc4419"
-    },
-    {
-      "title": "Buy or sell? Breaking down the case for seven bubble teams ahead of the 2026 MLB trade deadline - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-bubble-teams-orioles-tigers-cardinals-padres-mariners-blue-jays-nationals/"
-    },
-    {
-      "title": "Panthers pass rusher injured, carted off field during first training camp practice - Charlotte Observer",
-      "link": "https://www.charlotteobserver.com/sports/nfl/carolina-panthers/article316589782.html"
-    },
-    {
-      "title": "LSU coach Lane Kiffin says he regrets messy Ole Miss exit - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49433472/lsu-coach-lane-kiffin-says-regrets-messy-ole-miss-exit"
-    },
-    {
-      "title": "Tyson Fury weighs in 26 pounds lighter than Mariusz Wach for expected Anthony Joshua tune-up fight - MMA Fighting",
-      "link": "https://www.mmafighting.com/boxing/500695/tyson-fury-weighs-in-26-pounds-lighter-than-mariusz-wach-for-expected-anthony-joshua-tune-up-fight"
-    },
-    {
-      "title": "Tour de France Stage 18: Carapaz Gives EF Education-Easypost A Huge Tour Stage Win - Outside Magazine",
-      "link": "https://velo.outsideonline.com/road/road-racing/tour-de-france/stage-18-results-carapaz-big-tour-stage-win/#article"
-    },
-    {
-      "title": "Matthew Berry's 2026 Draft Day Manifesto: The 7 Habits Of Highly Effective Drafters - Matthew Berry's Fantasy Life",
-      "link": "https://www.fantasylife.com/articles/fantasy/matthew-berrys-2026-draft-day-manifesto-7-habits"
-    },
-    {
-      "title": "Trade Deadline Outlook: Boston Red Sox - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-boston-red-sox-2.html"
-    },
-    {
-      "title": "Trump embraces Braves fans\u2019 controversial Native American gesture at rally: \u2018Do it\u2019 - NJ.com",
-      "link": "https://www.nj.com/politics/2026/07/trump-embraces-braves-fans-controversial-native-american-gesture-at-rally-do-it.html"
-    },
-    {
-      "title": "Dana White: New UFC superstars will emerge but \u2018there\u2019s never going to be another Conor McGregor\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/500563/dana-white-new-superstars-will-emerge-in-ufc-but-theres-never-going-to-be-another-conor-mcgregor"
-    },
-    {
-      "title": "Dodgers Superstar Regrets Trump White House Decision After Political Backlash - Forbes",
-      "link": "https://www.forbes.com/sites/peterchawaga/2026/07/23/dodgers-superstar-regrets-trump-white-house-decision-after-political-backlash/"
     }
   ],
   "weather": {
