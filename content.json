@@ -1,23 +1,31 @@
 {
-  "quote": "Life is like playing the violin in public and learning the instrument as one goes on. \u2013 Samuel Butler",
-  "fact": "Prince Charles and Prince William never travel on the same airplane in case there is a crash.",
-  "crypto": "BTC: $64,071 | ETH: $1,858.96",
+  "quote": "Confuse them with your silence and amaze them with your actions. \u2013 Unknown",
+  "fact": "Winston Churchill was born in a ladies room during a dance.",
+  "crypto": "BTC: $63,967 | ETH: $1,856.57",
   "tip": "Keep your software dependencies updated.",
-  "joke": "I used to think I was indecisive, but now I'm not sure.",
+  "joke": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
+      "title": "Xenoblade Chronicles 2 \u2013 Nintendo Switch 2 Edition \u2018Overview\u2019 trailer - Gematsu",
+      "link": "https://www.gematsu.com/2026/07/xenoblade-chronicles-2-nintendo-switch-2-edition-overview-trailer"
     },
     {
-      "title": "Microsoft is replacing OpenAI image models in PowerPoint, Bing - The Seattle Times",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing"
+      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
+      "link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai"
+    },
+    {
+      "title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
+      "link": "https://www.macrumors.com/guide/ios-27-performance-improvements/"
+    },
+    {
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
     },
     {
       "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung\u2019s Passport Foldable - CNET",
@@ -28,6 +36,10 @@
       "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
     },
     {
+      "title": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/"
+    },
+    {
       "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
       "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/"
     },
@@ -36,12 +48,12 @@
       "link": "https://www.purexbox.com/news/2026/07/this-issue-should-be-resolved-halo-premium-upgrade-seemingly-fixed-for-campaign-evolved"
     },
     {
-      "title": "Google will now let you sign in to your account with a selfie video - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"
-    },
-    {
       "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge",
       "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming"
+    },
+    {
+      "title": "Disney\u2019s Former CEO Seems To Have No Memory Of Approving Kingdom Hearts - GameSpot",
+      "link": "https://www.gamespot.com/articles/disneys-former-ceo-seems-to-have-no-memory-of-approving-kingdom-hearts/"
     },
     {
       "title": "Hasbro's The Legend of Zelda Figures Have Been Revealed, and They Look Amazing | Comic Con 2026 - IGN",
@@ -52,12 +64,16 @@
       "link": "https://www.fox13seattle.com/news/microsoft-outage-hits-teams-outlook"
     },
     {
-      "title": "Two new Macs might skip M5 chips and go straight to M6 - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/"
+      "title": "Apple prepares new MacBook Neo with more RAM and color options, report says - Mashable",
+      "link": "https://mashable.com/tech/apple-prepares-next-generation-mac-imac-macbook-pro-macbook-neo"
     },
     {
       "title": "Amazon Adds Video Games Into Prime Video in Expansion Push - The Hollywood Reporter",
       "link": "http://www.hollywoodreporter.com/business/digital/amazon-prime-video-games-luna-1236653286/"
+    },
+    {
+      "title": "Google introduces new \u2018selfie video\u2019 sign-in method - 9to5Google",
+      "link": "http://9to5google.com/2026/07/23/google-account-selfie-video/"
     },
     {
       "title": "Xbox 360 games might already be backward compatible on PC, and that bodes extremely well for the program's future - Windows Central",
@@ -74,48 +90,56 @@
     {
       "title": "Firefox 153 contains itself while Thunderbird 153 fixes almost everything - The Register",
       "link": "https://www.theregister.com/software/2026/07/23/firefox-153-contains-itself-while-thunderbird-153-fixes-almost-everything/5276390"
-    },
-    {
-      "title": "Framework\u2019s premium laptop is shipping with less RAM - The Verge",
-      "link": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates"
-    },
-    {
-      "title": "Breathalyser can tell if you are burning fat from a single exhalation - Nature",
-      "link": "https://www.nature.com/articles/d41586-026-02295-w"
-    },
-    {
-      "title": "Xenoblade Chronicles 2 version 3.0.0 is now live, adding support for the Switch 2 Edition - RPG Site",
-      "link": "https://www.rpgsite.net/news/20961-xenoblade-chronicles-2-version-3-0-0-update-patch-notes-switch-2-edition-support-download-size"
-    },
-    {
-      "title": "Splatoon Raiders Switch 2 Launch Update Out Now, Here Are The Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-switch-2-launch-update-out-now-here-are-the-patch-notes"
     }
   ],
   "sports_news": [
+    {
+      "title": "Trump officials tout Sophie Cunningham as role model on trans issues - The Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2026/07/23/white-house-says-wnba-sophie-cunningham-is-right-trans-issues/"
+    },
+    {
+      "title": "These 20 players will likely be wearing new unis after Trade Deadline - MLB.com",
+      "link": "https://www.mlb.com/news/predicting-players-to-be-moved-2026-mlb-trade-deadline"
+    },
+    {
+      "title": "Tampa\u2019s redevelopment agency cuts Rays stadium vote from August agenda - Tampa Bay Times",
+      "link": "https://www.tampabay.com/news/2026/07/23/tampa-bay-rays-stadium-city-council-vote/"
+    },
+    {
+      "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season - NFL.com",
+      "link": "https://www.nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026"
+    },
+    {
+      "title": "Noah Lyles, Sha\u2019Carri Richardson advance in 100m at USATF Outdoor Championships - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/noah-lyles-shacarri-richardson-100-meters-usa-track-and-field-championships"
+    },
     {
       "title": "Sick soldiers and mixed messages \u2013 What's really going on at UAE Team Emirates-XRG and how will it change the last days of the Tour de France? - Cyclingnews",
       "link": "https://www.cyclingnews.com/pro-cycling/racing/sick-soldiers-and-mixed-messages-whats-really-going-on-at-uae-team-emirates-xrg-and-how-will-it-change-the-last-days-of-the-tour-de-france/"
     },
     {
-      "title": "Fernando Mendoza officially signs rookie contract - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-23/fernando-mendoza-officially-signs-rookie-contract"
+      "title": "Scottie Scheffler addresses growing rivalry between Rory McIlroy, Bryson DeChambeau after The Open - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/scottie-scheffler-addresses-growing-rivalry-rory-mcilroy-bryson-dechambeau-open"
+    },
+    {
+      "title": "Brianna Turner: Fever fired employee for sexual harassment - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/49436011/brianna-turner-fever-fired-employee-sexual-harassment"
+    },
+    {
+      "title": "Raiders sign No. 1 pick Fernando Mendoza to a 4-year, $57.27 million contract - NBC News",
+      "link": "https://www.nbcnews.com/sports/nfl/raiders-sign-no-1-pick-fernando-mendoza-contract-rcna588989"
     },
     {
       "title": "Action News' chief meteorologist Cecily Tynan to retire after more than 30 years with 6abc/WPVI-TV - 6abc Philadelphia",
       "link": "https://6abc.com/post/cecily-tynan-retirement-announcement-6abc-action-news-wpvi/19562769/"
     },
     {
+      "title": "Trump honors Dodgers at White House; one star absent - KTLA",
+      "link": "https://ktla.com/news/dodgers-white-house-trump-world-series-title/"
+    },
+    {
       "title": "PFL Washington D.C. loses one half of main event, replacement stepping into title fight - MMA Fighting",
       "link": "https://www.mmafighting.com/pfl/500820/pfl-washington-d-c-loses-one-half-of-main-event-replacement-stepping-into-title-fight"
-    },
-    {
-      "title": "Brianna Turner alleges Fever \u2018encouraged\u2019 team to keep quiet after staffer got fired for sexual harassment - New York Post",
-      "link": "https://nypost.com/2026/07/23/sports/brianna-turner-alleges-fever-told-team-to-keep-quiet-about-fired-staffer/"
-    },
-    {
-      "title": "Trump will welcome the World Series champion Dodgers to the White House - AP News",
-      "link": "https://apnews.com/article/trump-dodgers-white-house-visit-0daaeadffe276338e5d45ad77663fcb0"
     },
     {
       "title": "Fox reveals the U.S. cities that watched the World Cup the most - Awful Announcing",
@@ -130,48 +154,24 @@
       "link": "https://www.bbc.com/news/articles/cm2g3053ejko"
     },
     {
-      "title": "Tour de France Stage 18: Carapaz Gives EF Education-Easypost A Huge Tour Stage Win - Outside Magazine",
-      "link": "https://velo.outsideonline.com/road/road-racing/tour-de-france/stage-18-results-carapaz-big-tour-stage-win/#article"
+      "title": "LeBron James reportedly not waiting for NBA free-agency suitors to make moves - NBC Sports Bay Area & California",
+      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/lebron-james-free-agency-decision-4/1951784/"
     },
     {
       "title": "Alex Bowman To Race For Hendrick In 2027 And Then Retire - FOX Sports",
       "link": "https://www.foxsports.com/stories/nascar/alex-bowman-driver-hendrick-2027-retire"
     },
     {
+      "title": "Tyreek Hill says he has \"no power\" in left leg - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-23/tyreek-hill-says-he-has-no-power-in-left-leg"
+    },
+    {
+      "title": "Manning taking ownership at Texas after season of adversity - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49435141/manning-taking-ownership-texas-season-adversity"
+    },
+    {
       "title": "Pirates Acquire Ron Marinaccio, Designate Dennis Santana For Assignment - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/pirates-acquire-ron-marinaccio-designate-dennis-santana-for-assignment.html"
-    },
-    {
-      "title": "Panthers Edge Rusher Nic Scourton Reportedly Out For 2026 After Training Camp Injury - FOX Sports",
-      "link": "https://www.foxsports.com/stories/nfl/panthers-edge-rusher-nic-scourton-reportedly-out-2026-after-training-camp-injury"
-    },
-    {
-      "title": "Ravens waive rookie Diego Pavia to make room for Ethan Pocic - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49434956/ravens-waive-rookie-diego-pavia-make-room-ethan-pocic"
-    },
-    {
-      "title": "John Meredith expected to reclassify: Nation's No. 1 CB to enroll at Texas ahead of 2026 season - 247Sports",
-      "link": "https://247sports.com/college/texas/article/john-meredith-reclassify-cb-enroll-texas-2026-season-288451830/"
-    },
-    {
-      "title": "Red Sox win 15th straight, matching longest in club history, with 6-3 victory over Orioles - AP News",
-      "link": "https://apnews.com/article/orioles-red-sox-score-streak-70de33c882eb9b53d06e090d6b674714"
-    },
-    {
-      "title": "USA Today Reporter apologizes for invoking Emmett Till in column about Caitlin Clark after upsetting the woke - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/usa-today-reporter-apologizes-invoking-emmett-till-column-caitlin-clark-upsetting-woke"
-    },
-    {
-      "title": "Giants WR Malik Nabers is expected to avoid PUP list - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-wr-malik-nabers-is-expected-to-avoid-pup-list"
-    },
-    {
-      "title": "Anthony Joshua vs Kristian Prenga: Briton embraces comeback spotlight before fight in Saudi Arabia - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/cqx79102n4xo"
-    },
-    {
-      "title": "Patrick Kane news: NHL Stanley Cup champion signs 2-year contract with Chicago Blackhawks; fans hope to see him with Connor Bedard - ABC7 Chicago",
-      "link": "https://abc7chicago.com/post/patrick-kane-returning-chicago-blackhawks/19562510/"
     }
   ],
   "weather": {
