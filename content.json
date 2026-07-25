@@ -1,9 +1,9 @@
 {
-  "quote": "Don't let making a living prevent you from making a life. \u2013 John Wooden",
-  "fact": "Leonardo Da Vinci invented the scissors.",
-  "crypto": "BTC: $64,156 | ETH: $1,865.82",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
+  "quote": "If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form. \u2013 Paramahansa Yogananda",
+  "fact": "A duck's quack doesn't echo, and no one knows why.",
+  "crypto": "BTC: $64,205 | ETH: $1,870.37",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Classic Skaven miniatures return via Made to Order - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/kmgdy8ll/classic-skaven-miniatures-return-via-made-to-order"
+      "title": "Pixel 11 \"Exclusive Offer\" is Getting Teased Everywhere - Droid Life",
+      "link": "https://www.droid-life.com/2026/07/24/pixel-11-exclusive-offer-is-getting-teased-everywhere/"
+    },
+    {
+      "title": "Boox\u2019s New Tiny E-Reader Could Shake Up the Market - Gizmodo",
+      "link": "https://gizmodo.com/booxs-new-tiny-e-reader-could-shake-up-the-market-2000790361"
+    },
+    {
+      "title": "5 Galaxy Z Fold 8 features the iPhone Ultra Fold will struggle to top - Mashable",
+      "link": "https://mashable.com/tech/samsung-galaxy-z-fold-8-features-iphone-fold-cant-top"
+    },
+    {
+      "title": "Apple Wallet driver\u2019s licenses coming to two more states soon: report - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/"
+    },
+    {
+      "title": "New Macs are coming soon, here\u2019s everything we know - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/24/new-macs-are-coming-soon-heres-everything-we-know/"
     },
     {
       "title": "Playstation Network down, as tens of thousands of players queue to play Marvel Tokon Fighting Souls newly-launched beta - Eurogamer.net",
       "link": "https://www.eurogamer.net/psn-network-down-login-failure"
     },
     {
-      "title": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/"
-    },
-    {
       "title": "Facebook considers giving up and becoming TikTok - The Verge",
       "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates"
     },
     {
-      "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
-      "link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown"
+      "title": "Asking Eric: I found out they used my photo for this AI nonsense - The Mercury News",
+      "link": "https://www.mercurynews.com/2026/07/24/asking-eric-thomas-photos-ai/"
     },
     {
-      "title": "If PlayStation kills physical media, it should \"get rid of the hardware\" too, says the creator of popular RPG series Disgaea - Eurogamer.net",
-      "link": "https://www.eurogamer.net/playstation-physical-media-hardware-disgaea-creator"
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
+      "link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown"
     },
     {
       "title": "\"Storm Emeralda\" All 76 Main Set Cards Revealed! - PokeBeach",
@@ -48,8 +60,24 @@
       "link": "https://www.fratellowatches.com/the-top-5-omega-x-swatch-moonswatch-models/"
     },
     {
-      "title": "Xenoblade Chronicles 2 - Switch 2 Edition Overview Reveals New Pyra & Mythra Outfits, Merc Assault And Momo - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-switch-2-edition-overview-reveals-new-pyra-and-mythra-outfits-merc-assault-and-momo"
+      "title": "Tetris 99 Discounts 41 Collab Themes In New Limited-Time Event - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/07/tetris-99-discounts-41-collab-themes-in-new-limited-time-event"
+    },
+    {
+      "title": "Xenoblade Chronicles 2 \u2013 Nintendo Switch 2 Edition \u2018Overview\u2019 trailer - Gematsu",
+      "link": "https://www.gematsu.com/2026/07/xenoblade-chronicles-2-nintendo-switch-2-edition-overview-trailer"
+    },
+    {
+      "title": "Batman\u2019s Wayne Manor hits market for $32 million \u2014 but Hollywood history comes with hidden costs - New York Post",
+      "link": "https://nypost.com/2026/07/23/real-estate/pasadena-mansion-of-batman-fame-hits-market-for-32m/"
+    },
+    {
+      "title": "The Grade A Refurb Nintendo Switch 2 Mario Kart World Console Bundle Just Dropped to $419 at Woot - IGN",
+      "link": "https://www.ign.com/articles/nintendo-switch-2-mario-kart-world-gaming-console-deal-july-2026"
+    },
+    {
+      "title": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/"
     },
     {
       "title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
@@ -58,48 +86,76 @@
     {
       "title": "Aston Martin\u2019s New Stunning GT Will Even Make 007 Come out of Hibernation - Gear Patrol",
       "link": "https://www.gearpatrol.com/cars/aston-martin-reveals-celebratory-vanquish-v12-coupe-volante/"
-    },
-    {
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions - The Verge",
-      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
-    },
-    {
-      "title": "iPhone Driver's Licenses May Soon Expand to New State - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/"
-    },
-    {
-      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/"
-    },
-    {
-      "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026 - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/"
-    },
-    {
-      "title": "AMD EPYC Zen 7 \"Florence\" Confirmed With ACE, Next-Gen Memory - Phoronix",
-      "link": "https://www.phoronix.com/news/AMD-EPYC-Zen-7-Florence-Zen-8"
-    },
-    {
-      "title": "Anthropic updates Claude voice mode with more capable models - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Diego Pavia, Heisman Trophy finalist, waived by Ravens. What to know - USA Today",
+      "link": "https://www.usatoday.com/story/sports/nfl/ravens/2026/07/23/diego-pavia-ravens-waived/91028005007/"
+    },
+    {
+      "title": "Bryson DeChambeau Reflects on British Open Penalty, Falling Short After Controversy - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25457612-bryson-dechambeau-reflects-british-open-penalty-falling-short-after-controversy"
+    },
+    {
+      "title": "LeBron chooses 76ers, will sign 2-year, $8 million contract - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49440164/lebron-chooses-76ers-sign-2-year-8-million-contract"
+    },
+    {
+      "title": "Clay Holmes Might Return in Time to Be Dealt, But Barely - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/07/24/clay-holmes-return-cubs/"
+    },
+    {
+      "title": "Former President Barack Obama surprises WNBA All-Stars at their practice at his Presidential Center - AP News",
+      "link": "https://apnews.com/article/obama-wnba-all-stars-fe5ff9d58d8cf87816b3dfe48bfacc07"
+    },
+    {
+      "title": "Panthers owner David Tepper: We are a playoff team this year - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-owner-david-tepper-we-are-a-playoff-team-this-year"
+    },
+    {
+      "title": "Tour de France stage 19 LIVE: Martinez, Carapaz, Paret-Peintre and Yates among those in large break on Alpe d'Huez day - Cyclingnews",
+      "link": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-19-live-the-tour-heads-to-the-the-iconic-alpe-dhuez/"
+    },
+    {
+      "title": "Dave Portnoy says USA Today writer belongs in 'insane asylum' over Caitlin Clark-Emmett Till comparison - Fox Business",
+      "link": "https://www.foxbusiness.com/media/dave-portnoy-usa-today-writer-belongs-insane-asylum-caitlin-clark-emmett-till-comparison"
+    },
+    {
+      "title": "Panthers put Nic Scourton on injured reserve - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-put-nic-scourton-on-injured-reserve"
+    },
+    {
+      "title": "Robelis Despaigne re-signs with UFC after first-round KO on Netflix - MMA Junkie",
+      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/24/ufc-re-signs-heavyweight-robelis-despaigne-after-just-one-win/91034609007/"
+    },
+    {
+      "title": "Bogdan Guskov offers hilarious prediction for \u2018big chance\u2019 against Magomed Ankalaev at UFC Abu Dhabi - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/500593/bogdan-guskov-offers-hilarious-prediction-for-big-chance-against-magomed-ankalaev-at-ufc-abu-dhabi"
+    },
     {
       "title": "Duke-Michigan game in Miami called off; Blue Devils will instead face Texas Tech at MSG on Dec. 21 - CBS Sports",
       "link": "https://www.cbssports.com/college-basketball/news/duke-michigan-miami-called-off-texas-tech-madison-square-garden/"
     },
     {
-      "title": "Jesse Minter: There aren\u2019t 68 better players than Lamar Jackson - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-there-arent-68-better-players-than-lamar-jackson"
+      "title": "F1 Hungarian GP: Leclerc tops FP1, Stroll suffers suspected suspension failure with upgraded Aston Martin - Autosport",
+      "link": "https://www.autosport.com/f1/news/f1-hungarian-gp-fp1-report-/10841359/"
+    },
+    {
+      "title": "Two concessions German FA had to make to steal Jurgen Klopp from Red Bull - Liverpool.com",
+      "link": "https://www.liverpool.com/liverpool-fc-news/features/two-concessions-german-fa-make-34344959"
+    },
+    {
+      "title": "49ers star celebrates ESPN cutting ties with NFL analyst - Niners Wire",
+      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/07/24/49ers-nick-bosa-celebrates-espn-cutting-ties-with-ryan-clark/91033811007/"
     },
     {
       "title": "Spain\u2019s De la Fuente slams Argentina\u2019s World Cup conduct as \u2018unacceptable\u2019 - Al Jazeera",
       "link": "https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable"
     },
     {
-      "title": "F1 practice LIVE: Hungarian Grand Prix 2026 times, results & commentary from the Hungaroring - BBC",
-      "link": "https://www.bbc.com/sport/formula1/live/c0rxn9v8e81t"
+      "title": "Three players the Brewers should trade for at the trade deadline - Brew Crew Ball",
+      "link": "https://www.brewcrewball.com/milwaukee-brewers-analysis/86529/three-players-the-brewers-should-trade-for-at-the-trade-deadline"
     },
     {
       "title": "LeBron James' storybook ending? Why it's in Miami, not Cleveland - ESPN",
@@ -110,60 +166,8 @@
       "link": "https://www.espn.com/nba/story/_/id/49359567/free-agency-nba-power-rankings-2026-offseason-all-30-teams"
     },
     {
-      "title": "WNBA's future is bright, but will Cathy Engelbert be there to lead it? - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/49436321/wnba-2026-cathy-engelbert-commissioner-future-all-star-break"
-    },
-    {
-      "title": "Nick Bosa breaks extended Twitter silence to express agreement with Ryan Clark\u2019s ouster - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-breaks-extended-twitter-silence-to-express-agreement-with-ryan-clarks-ouster"
-    },
-    {
-      "title": "Jurgen Klopp: Germany boss threatens to quit new job if media invade family's privacy - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cqjxd0n4gd2o"
-    },
-    {
-      "title": "Fears of chaos of L'Alpe d'Huez as crowds pack Alpine climb for Tour de France showdown - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/fears-of-chaos-of-lalpe-dhuez-as-crowds-pack-alpine-climb-for-tour-de-france-showdown/"
-    },
-    {
-      "title": "'We're all going to die.' OK, but can Arch Manning, Texas redeem themselves in CFP first? - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/07/24/arch-manning-texas-football-predictions-lane-kiffin-sec/90980658007/"
-    },
-    {
-      "title": "Scotland's Gunn concedes four in San Jose debut defeat - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cqlxyvq7n93o"
-    },
-    {
-      "title": "Latest On Phillies\u2019 Rotation Search - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/latest-on-phillies-rotation-search.html"
-    },
-    {
-      "title": "Woody Kincaid Closes in 25.95 to Outkick Grant Fisher for US 10,000m Title - LetsRun.com",
-      "link": "https://www.letsrun.com/news/2026/07/woody-kincaid-outkicks-grant-fisher-in-slowest-us-10000m-final-since-1959/"
-    },
-    {
-      "title": "Trump officials tout Sophie Cunningham as role model on trans issues - The Washington Post",
-      "link": "https://www.washingtonpost.com/politics/2026/07/23/white-house-says-wnba-sophie-cunningham-is-right-trans-issues/"
-    },
-    {
-      "title": "Trump fetes Dodgers at the White House again, saying the team is 'one of the great brands' - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://abcnews.com/Politics/wireStory/trump-world-series-champion-dodgers-white-house-135023469"
-    },
-    {
-      "title": "Top Red Sox prospect Franklin Arias promoted to Triple-A Worcester - The Boston Globe",
-      "link": "https://www.bostonglobe.com/2026/07/23/sports/red-sox-prospect-franklin-arias-triple-a/"
-    },
-    {
-      "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season - NFL.com",
-      "link": "https://www.nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026"
-    },
-    {
-      "title": "Boeheim\u2019s Army vs. Hall In in the TBT: Game 2 box score - Syracuse.com",
-      "link": "https://www.syracuse.com/sports/2026/07/boeheims-army-vs-hall-in-in-the-tbt-game-2-box-score.html"
-    },
-    {
-      "title": "Action News' chief meteorologist Cecily Tynan to retire after more than 30 years with 6abc/WPVI-TV - 6abc Philadelphia",
-      "link": "https://6abc.com/post/cecily-tynan-retirement-announcement-6abc-action-news-wpvi/19562769/"
+      "title": "Countdown to Men\u2019s College Basketball: 100 Things to Know About the 2026 Season - Sports Illustrated",
+      "link": "https://www.si.com/college-basketball/100-things-to-know-about-mens-hoops-2026-season-digital-cover"
     }
   ],
   "weather": {
