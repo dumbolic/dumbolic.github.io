@@ -1,31 +1,59 @@
 {
-  "quote": "The time is always right to do what is right. \u2013 Martin Luther King, Jr.",
-  "fact": "The most common name in world is Mohammed.",
-  "crypto": "BTC: $65,258 | ETH: $1,945.35",
+  "quote": "Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice. \u2013 Naval Ravikant",
+  "fact": "Lizards can self-amputate their tails for protection. It grows back after a few months.",
+  "crypto": "BTC: $65,367 | ETH: $1,968.13",
   "tip": "Keep your software dependencies updated.",
-  "joke": "Why is it so windy inside an arena? All those fans.",
+  "joke": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Walmart is selling a $529 2-in-1 touchscreen laptop for 52% off - thestreet.com",
+      "link": "https://www.thestreet.com/deals/hyyuo-touchscreen-laptop-2-in-1-tablet-hybrid-walmart-sale-july-2026"
+    },
+    {
+      "title": "What Is An HDMI Coupler Used For? - SlashGear",
+      "link": "https://www.slashgear.com/2220538/what-is-hdmi-coupler-used-for/"
+    },
+    {
+      "title": "How The MacBook Pro Has Changed In The Last Five Years - bgr.com",
+      "link": "https://www.bgr.com/2219271/how-macbook-pro-changed-last-five-years/"
+    },
+    {
+      "title": "Apple's First Water-Resistant iPad to Launch Later This Year - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/"
+    },
+    {
+      "title": "One UI 9 makes 13 a very unlucky number for Samsung Galaxy phone users - PhoneArena",
+      "link": "https://www.phonearena.com/news/one-ui-9-protects-samsung-galaxy-phone-users_id182122"
+    },
     {
       "title": "'If People Want That, I Think Companies Should Provide It' \u2014 Rockstar Co-Founder Shares His Thoughts on the Conversation Around Physical Game Releases - IGN",
       "link": "https://www.ign.com/articles/rockstar-co-founder-says-if-people-want-physical-game-releases-then-companies-should-provide-it"
     },
     {
-      "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
-      "link": "https://www.forbes.com/sites/davidphelan/2026/07/25/sony-reon-pocket-pro-plus-air-conditioner-arrives-in-us-to-beat-summer-heatwaves/"
+      "title": "Deals: Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 go on pre-order - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/deals_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_go_on_preorder-news-73864.php"
     },
     {
       "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors - Kotaku",
       "link": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331"
     },
     {
-      "title": "Mattel Brick Shop Warthog - Halo Waypoint",
-      "link": "https://www.halowaypoint.com/news/mattel-brick-shop-warthog"
+      "title": "Samsung Confirms New Amazon Freebie For Millions Of Galaxy Users - Forbes",
+      "link": "https://www.forbes.com/sites/jaymcgregor/2026/07/25/samsung-amazon-music-freebie-galaxy-s25-galaxy-s26-galaxy-tab-s11/"
+    },
+    {
+      "title": "\u2018EverQuest Legends\u2019 Unveils Cat Race Kerran as Playable Characters for Video Game Franchise\u2019s Reboot (EXCLUSIVE) - Variety",
+      "link": "https://variety.com/2026/gaming/news/everquest-legends-kerran-playable-characters-1236820731/"
+    },
+    {
+      "title": "What's the difference between closed, open\u2011source and open-weight AI? A researcher explains - PBS",
+      "link": "https://www.pbs.org/newshour/science/whats-the-difference-between-closed-open%e2%80%91source-and-open-weight-ai-a-researcher-explains"
     },
     {
       "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
@@ -36,74 +64,58 @@
       "link": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317"
     },
     {
-      "title": "iPhone 18 won\u2019t debut this fall, here\u2019s why - 9to5Mac",
-      "link": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/"
+      "title": "New Official Borderlands Release Confirmed for July 30 - GameRant",
+      "link": "https://gamerant.com/borderlands-4-bounty-pack-4-release-date/"
+    },
+    {
+      "title": "iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales - Forbes",
+      "link": "https://www.forbes.com/sites/ewanspence/2026/07/25/iphone-18-release-date-spring-delay-iphone-18-pro-sales-siri-ai/"
     },
     {
       "title": "The Nintendo Switch 2 has finally justified its existence - Polygon.com",
       "link": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/"
     },
     {
-      "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
-    },
-    {
       "title": "Six Years Ago, I Indulged My Husband\u2019s Biggest Fantasy. Now It\u2019s Eating Me Alive. - Slate",
       "link": "https://slate.com/advice/2026/07/male-advice-fantasy-men-lingerie-cross-dressing.html"
     },
     {
-      "title": "Castlevania: Belmont's Curse Will Run At 30fps On Switch - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/07/castlevania-belmonts-curse-will-run-at-30fps-on-switch"
+      "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
     },
     {
       "title": "AirPods, AirTag 2, and iPads Hit Low Prices This Week - MacRumors",
       "link": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/"
-    },
-    {
-      "title": "10 Desk Gadgets That Just Work - bgr.com",
-      "link": "https://www.bgr.com/2220363/desk-gadgets-just-work/"
-    },
-    {
-      "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
-      "link": "https://www.sfgate.com/tech/article/chatgpt-health-lawsuit-22359513.php"
-    },
-    {
-      "title": "Samsung's new smartwatch is packed with new modes; there are 3 I'm dying to test - Android Police",
-      "link": "https://www.androidpolice.com/samsungs-new-smartwatch-has-loads-of-new-modes/"
-    },
-    {
-      "title": "Final Fantasy XIV Online Releases For Switch 2 On 4th August 2026 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/07/final-fantasy-xiv-online-releases-for-switch-2-on-4th-august-2026"
-    },
-    {
-      "title": "\u2018God Of War: Laufey\u2019 And \u2018Fable\u2019 Play PS5-Xbox Release Date Chicken - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/07/25/god-of-war-laufey-and-fable-play-ps5-xbox-release-date-chicken/"
-    },
-    {
-      "title": "I\u2019m using my phone way less, and it\u2019s making me happier - 9to5Google",
-      "link": "http://9to5google.com/2026/07/25/im-using-my-phone-way-less-and-its-making-me-happier/"
-    },
-    {
-      "title": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More - MacRumors",
-      "link": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/"
     }
   ],
   "sports_news": [
     {
-      "title": "Trey McBride regrets offseason comments about Cardinals fans - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-mcbride-regrets-offseason-comments-about-cardinals-fans"
+      "title": "Red Sox ship starter Connelly Early to Nationals for Curtis Mead - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2026/07/25/sports/red-sox-nationals-trade/"
     },
     {
-      "title": "2026 WNBA All-Star Game score: Live updates as Caitlin Clark, A'ja Wilson team up in Chicago - CBS Sports",
-      "link": "https://www.cbssports.com/wnba/news/2026-wnba-all-star-game-score-live-updates/live/"
+      "title": "Grading every player at the 2026 WNBA All-Star Game - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/49443133/wnba-all-star-2026-grades-3-point-shooting-contest-shooting-stars"
+    },
+    {
+      "title": "Spence Vs. Tzsyu Live: Results From Australia - Boxing News 24/7",
+      "link": "https://www.boxing247.com/boxing-news/spence-vs-tzsyu-live-results-from-australia/308590"
+    },
+    {
+      "title": "Mark Madden\u2019s Hot Take: WNBA reaches new level of self-sabotage - TribLIVE.com",
+      "link": "https://triblive.com/sports/mark-maddens-hot-take-wnba-reaches-new-level-of-self-sabatoge/"
+    },
+    {
+      "title": "Mary Oliver recaps a 7-1 Mariners loss to the Rangers - Lookout Landing",
+      "link": "https://www.lookoutlanding.com/seattle-mariners-scores-standings/146792/mary-oliver-recaps-a-7-1-mariners-loss-to-the-rangers"
     },
     {
       "title": "Shohei Ohtani Skips Bullpen Session With Knee \"Regression\" - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/shohei-ohtani-skips-bullpen-session-with-knee-regression.html"
     },
     {
-      "title": "Phillies kick the ball around, drop 11th straight from fifth rotation spot - NBC Sports Philadelphia",
-      "link": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/phillies-yankees-fifth-rotation-spot-defense-brian-keller/743845/"
+      "title": "2026 Seattle Seahawks training camp: Latest intel, updates - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates"
     },
     {
       "title": "Carlos Beltran becomes Hall of Famer after years as scandal's scapegoat - USA Today",
@@ -114,60 +126,48 @@
       "link": "https://www.baltimoreravens.com/news/nnamdi-madubuike-travis-jones-teddye-buchanan-john-jenkins-pup-list-training-camp"
     },
     {
-      "title": "Andoni Iraola change evident as two Liverpool signings make instant impression - 5 talking points - Liverpool.com",
-      "link": "https://www.liverpool.com/liverpool-fc-news/features/talking-points-ndiaye-ndukwe-iraola-34352936"
-    },
-    {
       "title": "Rangers Place Josh Jung On IL, Recall Josh Smith - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/rangers-place-josh-jung-on-il-recall-josh-smith.html"
     },
     {
-      "title": "KCP Reportedly Set to Join 76ers After LeBron James' Contract, Updated Roster, Salary Cap - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25458012-kcp-reportedly-set-join-76ers-after-lebron-james-contract-updated-roster-salary-cap"
+      "title": "Rich Paul Provides Inside Look At LeBron James\u2019 Free Agency Decision - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2026/07/rich-paul-provides-inside-look-at-lebron-james-free-agency-decision.html"
     },
     {
-      "title": "Atlanta Braves fan taunts The Freeze with a blown kiss and gets passed in spectacular fashion - Fox News",
-      "link": "https://www.foxnews.com/sports/atlanta-braves-fan-taunts-freeze-blown-kiss-passed-spectacular-fashion"
+      "title": "Patriots owner Robert Kraft says team has offered CB Christian Gonzalez 'the highest contract' in franchise history - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/patriots-owner-robert-kraft-says-team-has-offered-cb-christian-gonzalez-the-highest-contract-in-franchise-history-222201141.html"
     },
     {
       "title": "Anthony Joshua vs. Kristian Prenga live results, round-by-round updates, ring walks for today's Joshua fight - Yahoo Sports",
       "link": "https://sports.yahoo.com/boxing/live/anthony-joshua-vs-kristian-prenga-live-results-round-by-round-updates-ring-walks-for-todays-joshua-fight-053000077.html"
     },
     {
-      "title": "Sophie Cunningham\u2019s podcast co-host defends trans athletes - Awful Announcing",
-      "link": "https://awfulannouncing.com/wnba/sophie-cunningham-podcast-cohost-west-wilson-defends-trans-athletes.html"
-    },
-    {
       "title": "A look at 7 of the worst and most ridiculous takes from Ryan Clark during his time at ESPN - Fox News",
       "link": "https://www.foxnews.com/outkick-sports/look-7-worst-most-ridiculous-takes-ryan-clark-during-his-time-espn"
     },
     {
-      "title": "Given the limits of the acclimation period, the NFLPA will check video of Nic Scourton ACL tear - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/given-the-limits-of-the-acclimation-period-the-nflpa-will-check-video-of-nic-scourton-acl-tear"
-    },
-    {
-      "title": "Astros Place Spencer Arrighetti On 15-Day IL - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/astros-place-spencer-arrighetti-on-15-day-il.html"
-    },
-    {
-      "title": "Pre-Gamin\u2019: Cubs vs Pirates (5:40 CT) \u2013 Lineups, Broacast Info, Game Thread - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/07/25/cubs-lineup-72526/"
-    },
-    {
-      "title": "LeBron James rode 'emotional roller coaster' before decision - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/49448932/lebron-james-rode-emotional-roller-coaster-decision"
-    },
-    {
-      "title": "Seahawks training camp starts, and Tory Horton is BACK! - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-injury-report/170967/seahawks-training-camp-tory-horton-returns-nfl-news"
-    },
-    {
-      "title": "49ers' Kyle Shanahan suffered major injuries in Bay Area car crash - SFGATE",
-      "link": "https://www.sfgate.com/49ers/article/49ers-shanahan-car-accident-22360170.php"
+      "title": "49ers coach Kyle Shanahan badly injured in car crash. Here\u2019s the plan for his recovery - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/49ers/article/kyle-shanahan-car-crash-22360159.php"
     },
     {
       "title": "Adjusted starting grid for 2026 F1 Hungarian Grand Prix after Hamilton, Antonelli penalties - racingnews365.com",
       "link": "https://racingnews365.com/adjusted-starting-grid-for-2026-f1-hungarian-grand-prix-after-lewis-hamilton-penalty"
+    },
+    {
+      "title": "Soto (left calf) goes on IL for 2nd time this season - MLB.com",
+      "link": "https://www.mlb.com/news/juan-soto-left-calf-strain"
+    },
+    {
+      "title": "Retired Donald in 'regimented process' for possible Rams return - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49448508/retired-donald-regimented-process-possible-rams-return"
+    },
+    {
+      "title": "5 performances of note from the Patriots\u2019 first training camp practice - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/131674/winners-losers-patriots-training-camp-2026-first-practice"
+    },
+    {
+      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates"
     }
   ],
   "weather": {
