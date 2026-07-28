@@ -1,9 +1,9 @@
 {
-  "quote": "Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. \u2013 Estee Lauder",
-  "fact": "The state of Maryland has no natural Lakes.",
-  "crypto": "BTC: $63,869 | ETH: $1,920.63",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What did one nut say as he chased another nut?  I'm a cashew!",
+  "quote": "You miss 100% of the shots you don't take. \u2013 Wayne Gretzky",
+  "fact": "You can't kill yourself by holding your breath",
+  "crypto": "BTC: $63,681 | ETH: $1,908.13",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I used to work in a shoe recycling shop. It was sole destroying.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,102 +12,126 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/"
+    },
+    {
+      "title": "Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/07/27/ubisoft-xbox-pc/"
+    },
+    {
+      "title": "Aviate, Android\u2019s answer to Flighty, is now available to download - 9to5Google",
+      "link": "http://9to5google.com/2026/07/27/aviate-androids-answer-to-flighty-is-now-available-to-download/"
+    },
+    {
+      "title": "Game Pass Was Supposed To Save Xbox \u2013 Instead, It\u2019s Killing the Company - IGN",
+      "link": "https://www.ign.com/articles/game-pass-was-supposed-to-save-xbox-instead-its-killing-the-company"
+    },
+    {
+      "title": "Samsung\u2019s entire 2027 Galaxy flagship lineup leaks with TriFold return, more - 9to5Google",
+      "link": "http://9to5google.com/2026/07/27/samsung-galaxy-flagship-2027-leaks/"
+    },
+    {
+      "title": "Poll: What Review Score Would You Give Splatoon Raiders? - Nintendo Life",
+      "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-splatoon-raiders"
+    },
+    {
       "title": "Cleanse the Mortal Realms with the new Warhammer Heroes - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes"
+    },
+    {
+      "title": "Tons of Peoples\u2019 Claude Chats and Creations are Exposed on Google - 404 Media",
+      "link": "https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/"
     },
     {
       "title": "Xbox service is down, with outages meaning players can't play any digital or physical games, after similar PlayStation Network issues last week - Eurogamer.net",
       "link": "https://www.eurogamer.net/xbox-outage-july-2026"
     },
     {
+      "title": "Fit For a Spartan: Win a 1:18 Replica of a Special Halo-Inspired Ride - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/07/27/halo-master-chief-inspired-car-replica-sweepstakes-giveaway/"
+    },
+    {
+      "title": "Snapchat now lets you share what you\u2019re listening to in real time - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/"
+    },
+    {
       "title": "Big STALKER 2 Overhaul Coming 20th August in 2.0 Patch and First DLC - Push Square",
       "link": "https://www.pushsquare.com/news/2026/07/big-stalker-2-overhaul-coming-20th-august-in-2-0-patch-and-first-dlc"
     },
     {
+      "title": "Claude Cowork escaped sandbox on Mac, gain full access to all files - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/27/claude-cowork-escaped-sandbox-on-mac-gain-full-access-to-all-files/"
+    },
+    {
       "title": "AI wearable watches you to predict what you need - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KR01kQkRVSm0yZFR6d2NHaE51U193NmJWQUdjVG9rYnlLQmxMTEVCREdYOW1UMU9mTVZTTVZscExDV1RZRF9ZU2d0NHU3UzZhcUVPbE1lLU4ydGwwbHh0SFQ0dlEwYWNwdDBiY2130gFzQVVfeXFMUFBidlc3UURBWmN4aEg2dlhxS3JkMEtVR19TY0xiaWFnQm9TRGxLQzZaQWRUcnhsVHZEYnVIZHZ6RjE5Sk5VYWwzOUhpOHo4bWxvQjVJQVZhSldqY3VQVDNiWi1Mb3B2M2N2SGlQVmpYREE0QQ?oc=5"
+      "link": "https://www.foxnews.com/tech/ai-wearable-watches-predict-need"
+    },
+    {
+      "title": "Sorry, Dragon Age Fans, Don't Expect Another One Anytime Soon - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/07/sorry-dragon-age-fans-dont-expect-another-one-anytime-soon"
     },
     {
       "title": "August\u2019s Miniature of the Month and Collectable Coin Revealed - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/t8wdopoj/augusts-miniature-of-the-month-and-collectable-coin-revealed"
     },
     {
-      "title": "'The Way It Was Meant to Be Heard': Tone-Deaf Sony Pushes Vinyl Turntable After Killing Physical Games - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/07/the-way-it-was-meant-to-be-heard-tone-deaf-sony-pushes-vinyl-turntable-after-killing-physical-games"
-    },
-    {
       "title": "\"4 or maybe even 5 instalments\" If you want Remakes of older Final Fantasy games, prepare for them to be even bigger than the FF7 Remake trilogy - Eurogamer.net",
       "link": "https://www.eurogamer.net/final-fantasy-remakes-multiple-installments-hamaguchi-yoshida"
     },
     {
+      "title": "Timex Taps an Old Friend for a Gorgeous $200 Daily-Wearing Watch - Gear Patrol",
+      "link": "https://www.gearpatrol.com/watches/timex-todd-snyder-marlin-mesh-2/"
+    },
+    {
       "title": "PlayStation \u2018Blackout\u2019 Planned In August To Protest Discless Future - Kotaku",
       "link": "https://kotaku.com/fans-try-to-mount-playstation-blackout-week-to-protest-sonys-disc-less-future-2000719435"
-    },
-    {
-      "title": "EXCLUSIVE: A New Ambitious FAR CRY Game Enters Development at Ubisoft - Insider Gaming",
-      "link": "https://insider-gaming.com/far-cry-new-game/"
-    },
-    {
-      "title": "Column | I\u2019m a doctor. Here\u2019s why I wear sunblock indoors. - The Washington Post",
-      "link": "https://www.washingtonpost.com/wellness/2026/07/27/doctor-heres-why-i-wear-sunblock-indoors/"
-    },
-    {
-      "title": "UK Charts: Splatoon Raiders Knocks Assassin's Creed Down A Peg - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/07/uk-charts-splatoon-raiders-knocks-assassins-creed-down-a-peg"
-    },
-    {
-      "title": "Halo: Campaign Evolved glitch makes its hardest Xbox achievements super easy - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/halo-campaign-evolved-laso-glitch"
-    },
-    {
-      "title": "Everything You Need to Know Before Installing the iOS 26.6 Update - Geeky Gadgets",
-      "link": "https://www.geeky-gadgets.com/ios-26-6-update-features/"
-    },
-    {
-      "title": "Samsung\u2019s Galaxy Z Fold 8 \u2018Passport\u2019 Design Is the Next Big Smartphone Trend - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/features/2026-07-27/samsung-galaxy-z-fold-8-review-foldable-model-to-compete-with-google-apple"
-    },
-    {
-      "title": "I found more than 10GB of wasted storage on my phone with this free Google app - Android Police",
-      "link": "https://www.androidpolice.com/found-10gb-wasted-storage-on-my-phone-with-this-free-google-app/"
-    },
-    {
-      "title": "Baldur's Gate 3 True Third-Person Camera Mod Goes Viral, Sparks Debate About Whether It Erases the Game's Identity - IGN",
-      "link": "https://www.ign.com/articles/baldurs-gate-3-true-third-person-camera-mod-goes-viral-sparks-debate-about-whether-it-erases-the-games-identity"
-    },
-    {
-      "title": "Minecraft Java Edition raises recommended memory to 16GB ahead of Vulkan transition - VideoCardz.com",
-      "link": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition"
-    },
-    {
-      "title": "PS5 makes a mockery of Xbox's multi-plat push with God of War launch date - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/playstation-makes-a-mockery-of-xboxs-multi-plat-push-by-dropping-god-of-war-one-day-before-fable"
-    },
-    {
-      "title": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country - Eurogamer.net",
-      "link": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date"
-    },
-    {
-      "title": "Warhammer 40,000 July Update \u2013 what you need to know! - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/rgqanids/warhammer-40000-july-update-what-you-need-to-know"
     }
   ],
   "sports_news": [
+    {
+      "title": "Munetaka Murakami Hit Two Homers For His Parents And They Still Prefer Their Dogs - Defector",
+      "link": "https://defector.com/munetaka-murakami-hit-two-homers-for-his-parents-and-they-still-prefer-their-dogs"
+    },
+    {
+      "title": "UNC football GM Michael Lombardi placed on paid administrative leave - WRAL",
+      "link": "https://www.wral.com/sports/unc-football-gm-michael-lombardi-placed-paid-administrative-leave-july-2026/"
+    },
+    {
+      "title": "Braves Activate Ronald Acu\u00f1a Jr. - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/braves-activate-ronald-acuna-jr.html"
+    },
+    {
+      "title": "Commanders fire TE coach Ben Steele following DWI charge - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49462862/commanders-fire-te-coach-ben-steele-following-dwi-charge"
+    },
+    {
+      "title": "The Trade Deadline is 1 week away! Here's the latest on MLB's buzziest trade candidates - MLB.com",
+      "link": "https://www.mlb.com/news/mlb-trade-rumors-on-top-candidates-one-week-before-trade-deadline"
+    },
+    {
+      "title": "Sixers officially announce signing of LeBron James - PhillyVoice",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-reaction-nba-press-conference-release-mike-gansey-josh-harris-bob-myers/"
+    },
+    {
+      "title": "Bryan: 2026 Steelers 53-Man Roster Prediction: Pre-Training Camp Edition - Steelers Depot",
+      "link": "https://steelersdepot.com/2026/07/bryan-2026-steelers-53-man-roster-prediction-pre-training-camp-edition/"
+    },
     {
       "title": "Bills release new alternate \"Nickel City\" uniform - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-release-new-alternate-nickel-city-uniform"
     },
     {
-      "title": "Report: Commanders dismissed TE coach Ben Steele for violating team policy - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-commanders-dismissed-te-coach-ben-steele-for-violating-team-policy"
+      "title": "Ryan Clark called out by LeSean McCoy over crying \u2018for clicks\u2019 after ESPN firing - New York Post",
+      "link": "https://nypost.com/2026/07/27/sports/ryan-clark-called-out-by-lesean-mccoy-for-crying-for-clicks-after-espn-firing/"
     },
     {
       "title": "Sources: Wife of Chiefs' Eric Bieniemy shot at couple's home - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49462234/sources-wife-chiefs-eric-bieniemy-shot-couple-home"
     },
     {
-      "title": "New LeBron Rumors on Knicks Interest and 'Significant Bonus Lure' for 76ers to Land Contract - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25458305-new-lebron-rumors-knicks-interest-and-significant-bonus-lure-76ers-land-contract"
+      "title": "Myles Garrett\u2019s first Rams training camp practice \u201cdefinitely lived up to\u201d expectations - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garretts-first-rams-training-camp-practice-definitely-lived-up-to-expectations"
     },
     {
       "title": "Mets trot out a Korean pop star with an amazing windup for first pitch duties, Wemby plays soccer & Rosie - Fox News",
@@ -118,60 +142,32 @@
       "link": "https://www.mmafighting.com/ufc/501617/islam-makhachev-reveals-his-game-plan-for-ian-machado-garry-at-ufc-330-i-have-to-follow-him-he-runs-too-much"
     },
     {
+      "title": "Former NFL linebacker deported by ICE - Cleveland.com",
+      "link": "https://www.cleveland.com/sports/2026/07/former-nfl-linebacker-deported-by-ice.html"
+    },
+    {
       "title": "NASCAR race looks pathetic with empty seats, driver gives the finger & the most embarrassing command ever? - Fox News",
       "link": "https://www.foxnews.com/outkick-sports/nascar-race-looks-pathetic-empty-seats-driver-gives-finger-most-embarrassing-command-ever"
     },
     {
-      "title": "North Carolina places general manager Mike Lombardi on paid administrative leave - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/breaking-news/article/north-carolina-places-general-manager-mike-lombardi-on-paid-administrative-leave-122140089.html"
+      "title": "MLB Power Rankings: (Almost) everyone is a contender as the trade deadline nears - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/mlb-power-rankings-trade-deadline-contenders/"
+    },
+    {
+      "title": "5 records Tadej Poga\u010dar set during the 2026 Tour de France \u2013 and one he\u2019s yet to beat - BikeRadar",
+      "link": "https://www.bikeradar.com/features/racing/tadej-pogacar-2026-tour-de-france-records"
     },
     {
       "title": "Morning Report: Chael Sonnen claims security guard asked him to arrange Dana White meeting, UFC fight - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/501536/morning-report-chael-sonnen-claims-security-guard-asked-him-to-arrange-dana-white-meeting-ufc-fight"
     },
     {
+      "title": "7 NBA stars who could be traded next - SB Nation",
+      "link": "https://www.sbnation.com/nba/1123187/nba-stars-trade-candidates-rumors-kyrie-durant-anthony-davis"
+    },
+    {
       "title": "Fifa\u2019s Gianni Infantino lashes out at World Cup critics \u2018consumed by hate\u2019 - Financial Times",
       "link": "https://www.ft.com/content/7c4d9335-6ead-4231-8e74-a55c82a7734c?syn-25a6b1a6\\\\u003d1"
-    },
-    {
-      "title": "30 things I'll be watching at 2026 Eagles training camp - PhillyVoice",
-      "link": "https://www.phillyvoice.com/30-things-ill-be-watching-2026-eagles-training-camp-jalen-hurts-sean-mannion/"
-    },
-    {
-      "title": "Seven MLB GMs Under the Most Pressure at Trade Deadline - Sports Illustrated",
-      "link": "https://www.si.com/mlb/trade-deadline-seven-mlb-gms-under-the-most-pressure"
-    },
-    {
-      "title": "MLB 2026 trade deadline: What NL contenders need to beat Dodgers - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49457076/mlb-2026-trade-deadline-nl-contenders-dodgers-brewers-cubs-braves-phillies"
-    },
-    {
-      "title": "US deports Kenyan former NFL player Daniel Adongo - BBC",
-      "link": "https://www.bbc.com/news/articles/c74gzg27v8no"
-    },
-    {
-      "title": "Eight conclusions from the Tour de France \u2013 A new Poga\u010dar, Evenepoel's next challenge and questions over racing in July - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/eight-conclusions-from-the-tour-de-france-a-new-pogacar-evenepoels-next-challenge-and-questions-over-racing-in-july/"
-    },
-    {
-      "title": "Stanford football players join push for collective bargaining - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49441655/stanford-football-players-join-push-collective-bargaining"
-    },
-    {
-      "title": "Tadej Poga\u010dar's winning time sees 2026 Tour de France set new record for fastest-ever edition - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-winning-time-sees-2026-tour-de-france-set-new-record-for-fastest-ever-edition/"
-    },
-    {
-      "title": "Real Madrid set to sign Yan Diomande in \u20ac135M deal - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49460425/real-madrid-set-sign-yan-diomande-135m-deal-rb-leipzig-transfer"
-    },
-    {
-      "title": "Report: Cardinals, Brissett agree to terms on deal - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-26/report-cardinals-brissett-agree-on-reworked-deal"
-    },
-    {
-      "title": "Nuggets' Updated NBA Salary Cap After Spencer Jones Contract Pushes Team Into Second Apron - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25458283-nuggets-updated-nba-salary-cap-after-spencer-jones-contract-pushes-team-second-apron"
     }
   ],
   "weather": {
