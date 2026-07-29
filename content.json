@@ -1,9 +1,9 @@
 {
-  "quote": "Because a thing seems difficult for you, do not think it impossible. \u2013 Marcus Aurelius",
-  "fact": "In every episode of \u201cSeinfeld\u201d there is a Superman picture or reference somewhere.",
-  "crypto": "BTC: $63,947 | ETH: $1,906.09",
+  "quote": "If you want peace, accept. If you want suffering, expect. \u2013 Maxime Lagace",
+  "fact": "The original name for butterfly was flutterby.",
+  "crypto": "BTC: $63,928 | ETH: $1,909.51",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why did the sentence fail the driving test? It never came to a full stop.",
+  "joke": "Why do fish live in salt water? Because pepper makes them sneeze!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Double Fine Announces Layoffs Following Split From Xbox - Game Informer",
+      "link": "https://gameinformer.com/2026/07/28/double-fine-announces-layoffs-following-split-from-xbox"
+    },
+    {
       "title": "Nexus Mods New Boss Wants To Make Modding As Easy As Using Spotify - Kotaku",
       "link": "https://kotaku.com/the-biggest-modding-site-around-wants-to-make-installing-mods-as-easy-as-using-spotify-2000719879"
     },
     {
-      "title": "Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox - Kotaku",
-      "link": "https://kotaku.com/double-fine-lays-off-employees-amid-xbox-separation-2000719885"
+      "title": "Ozlo\u2019s Sleepbuds 2 build on Bose\u2019s sleep earbud legacy - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
+    },
+    {
+      "title": "Halo: Campaign Evolved Scales Well from PS5 Pro to Xbox Series S Despite Its Full-Throated Unreal Engine 5 Features - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/features/halo-campaign-evolved-scales-well-from-ps5-pro-to-xbox-series-s-despite-its-full-throated-unreal-engine-5-features"
     },
     {
       "title": "Xbox announces Gamescom 2026 plans - Gematsu",
@@ -26,10 +34,6 @@
     {
       "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13 - Gematsu",
       "link": "https://www.gematsu.com/2026/07/crazy-taxi-world-tour-closed-network-test-set-for-september-11-to-13"
-    },
-    {
-      "title": "\"Storm Emeralda\" Secret Rares Revealed! - PokeBeach",
-      "link": "https://www.pokebeach.com/2026/07/storm-emeralda-secret-rares-revealed"
     },
     {
       "title": "Apple to lease iPhones, other products to users through Klarna partnership - Fox Business",
@@ -44,12 +48,16 @@
       "link": "https://nintendoeverything.com/pokemon-pokopia-dlc-part-1-bubbly-basin-release-date-announced/"
     },
     {
-      "title": "Galaxy Z Fold 8\u2019s wide new design is reportedly selling faster than Samsung expected - 9to5Google",
-      "link": "http://9to5google.com/2026/07/28/galaxy-z-fold-8-selling-faster-than-samsung-expected/"
+      "title": "Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence - Kotaku",
+      "link": "https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771"
     },
     {
-      "title": "Clair Obscur: Expedition 33 devs talk about the challenges of a Nintendo Switch 2 port - Nintendo Everything",
-      "link": "https://nintendoeverything.com/clair-obscur-expedition-33-devs-talk-about-the-challenges-of-a-nintendo-switch-2-port/"
+      "title": "All-New Apple Home Hub Reportedly Launching as Soon as October - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/"
+    },
+    {
+      "title": "PlayStation Plus Extra drops 4 free games available to play now - GAMINGbible",
+      "link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-games-july-28-326112-20260728"
     },
     {
       "title": "iPhone 18 Pro could be a no-brainer upgrade for lots of users - 9to5Mac",
@@ -60,118 +68,110 @@
       "link": "https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html"
     },
     {
-      "title": "The Best GTA Missions - IGN",
-      "link": "https://www.ign.com/articles/best-gta-missions"
+      "title": "It Sure Looks Like the Dodge Charger Super Bee Is Coming Back With a Turbocharged Inline-Six - The Drive",
+      "link": "https://www.thedrive.com/news/it-sure-looks-like-the-dodge-charger-super-bee-is-coming-back-with-a-turbocharged-inline-six"
     },
     {
       "title": "9 R.I.P. sequel launches October 27 in the west - Gematsu",
       "link": "https://www.gematsu.com/2026/07/9-rip-sequel-launches-october-27-in-the-west"
     },
     {
+      "title": "Flamecraft adds PS5, Xbox Series, and Switch versions; demo now available - Gematsu",
+      "link": "https://www.gematsu.com/2026/07/flamecraft-adds-ps5-xbox-series-and-switch-versions-demo-now-available"
+    },
+    {
       "title": "Tesla's 2026.26 Summer Update Lets You Video Conference on Google Meet, Teams & Discord - Not a Tesla App",
       "link": "https://www.notateslaapp.com/news/4498/teslas-202626-summer-update-lets-you-video-conference-on-google-meet-teams-discord"
     },
     {
-      "title": "Microsoft is rolling out big Windows 11 improvements in August and here\u2019s everything you should know - Windows Central",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/biggest-changes-microsoft-is-rolling-out-in-august-for-windows-11"
+      "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week - MacRumors",
+      "link": "https://www.macrumors.com/2026/07/28/sonos-sony-anker-more-school-deals/"
     },
     {
-      "title": "WhatsApp launches web calling alongside new features: call transfer, waiting room - 9to5Google",
-      "link": "http://9to5google.com/2026/07/28/whatsapp-web-calling-new-features/"
-    },
-    {
-      "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Watch Ultra2 and Galaxy Watch9 - Samsung Global Newsroom",
-      "link": "https://news.samsung.com/uk/galaxy-unpacked-july-2026-a-first-look-at-galaxy-watch-ultra2-and-galaxy-watch9"
-    },
-    {
-      "title": "New data suggests layoffs will affect 14,259 people by the end of 2026, up 78% from first forecast of the year - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/new-data-suggests-layoffs-will-affect-14259-people-by-the-end-of-2026-up-78-from-first-forecast-of-the-year"
-    },
-    {
-      "title": "Google Pixel 11 leak details battery sizes & where some prices will technically drop - 9to5Google",
-      "link": "http://9to5google.com/2026/07/28/google-pixel-11-battery-size-uk-price-leak/"
+      "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom",
+      "link": "https://news.samsung.com/uk/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8"
     }
   ],
   "sports_news": [
     {
-      "title": "UEFA Considering Boycott of FIFA Tournaments in Brewing Feud - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-28/uefa-considering-boycott-of-fifa-tournaments-in-brewing-feud"
+      "title": "Why Mike McCarthy's first Steelers training camp will be much different than how Mike Tomlin did it - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2026/07/28/mccarthy-training-camp-latrobe-tomlin-changes/stories/202607280050"
     },
     {
-      "title": "Report: Tony Romo \"might step back\" from spotlight in short term - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tony-romo-might-step-back-from-spotlight-in-short-term"
+      "title": "Commanders tab ex-All-Pro WR Wes Welker to coach tight ends - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49474991/commanders-tab-ex-all-pro-wr-wes-welker-coach-tight-ends"
     },
     {
-      "title": "Top 50 Deadline Trade Candidates - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/top-50-deadline-trade-candidates.html"
+      "title": "Casey Schmitt Placed On IL With Torn Meniscus - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/casey-schmitt-placed-on-il-with-torn-meniscus.html"
     },
     {
-      "title": "Tigers Designate Jake Rogers For Assignment - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/tigers-dfa-jake-rogers-catcher.html"
+      "title": "Notre Dame gets an even better jersey patch deal than Ohio State - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-gets-an-even-better-jersey-patch-deal-than-ohio-state"
     },
     {
-      "title": "MLB rumors: Tarik Skubal market crystallizes; why Padres would consider Mason Miller trade; a CJ Abrams catch - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-luis-torrens-red-sox-shortstop-rays-tarik-skubal-zach-neto-cubs-white-sox/"
+      "title": "Jerry Jones is willing to give up a top pick for a defensive playmaker - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-is-willing-to-give-up-a-top-pick-for-a-defensive-playmaker"
     },
     {
-      "title": "No Live Tackling: Mike McCarthy Confirms Major Change To Steelers Training Camp - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/07/no-live-tackling-mike-mccarthy-confirms-major-change-to-steelers-training-camp/"
+      "title": "As Deadline looms, Skubal prepares for potential final start as a Tiger - MLB.com",
+      "link": "https://www.mlb.com/news/tarik-skubal-faces-orioles-in-final-start-before-trade-deadline"
     },
     {
-      "title": "Vikings suspend defensive backs coach Gerald Alexander after DUI arrest: \u2018Disappointed is the word\u2019 - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-vikings-assistant-coach-gerald-alexander-arrest-suspension-dui-nfl-training-camp-news/601872811"
+      "title": "Anthony Smith arrested on felony charges for domestic violence, terroristic threats, and false imprisonment - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/501961/anthony-smith-arrested-on-felony-charges-for-domestic-violence-terroristic-threats-and-false-imprisonment"
     },
     {
-      "title": "With NCAA rules set to change on Saturday, Notre Dame and Ohio State sign 8-figure jersey sponsorship deals - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/breaking-news/article/with-ncaa-rules-set-to-change-on-saturday-notre-dame-and-ohio-state-sign-8-figure-jersey-sponsorship-deals-175144096.html"
+      "title": "2026 New York Jets training camp: Latest intel, updates - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates"
     },
     {
-      "title": "2026 U.S. National Championships: Day 1 Prelims Live Recap - SwimSwam",
-      "link": "https://swimswam.com/2026-u-s-national-championships-day-1-prelims-live-recap/"
+      "title": "Jets' Smith rues being 'distraction' after dispute with girlfriend - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49474294/jets-smith-rues-being-distraction-dispute-girlfriend"
     },
     {
-      "title": "Vikings sign Brian O\u2019Neill to four-year contract extension - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-brian-oneill-to-four-year-contract-extension"
+      "title": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment"
     },
     {
-      "title": "Kyle Shanahan not at fault for car crash, California Highway Patrol records show - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49471218/kyle-shanahan-not-fault-car-crash-california-highway-patrol-records-show"
+      "title": "Sources: Browns, Denzel Ward agree to 2-year, $62.2M extension - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49474182/sources-browns-denzel-ward-agree-2-year-622m-extension"
     },
     {
-      "title": "Eagles, DT Jalen Carter agree to four-year, $152M extension - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49471129/eagles-dt-jalen-carter-agree-four-year-152m-extension"
+      "title": "Sources: Red Sox to place newly acquired infielder Curtis Mead on injured list - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2026/07/28/sports/curtis-mead-injured-list-red-sox/"
     },
     {
-      "title": "Steelers' Aaron Rodgers: 'Zero debate' 2026 will be last season - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49470931/steelers-aaron-rodger-zero-debate-2026-last-season"
+      "title": "Packers put Micah Parsons on PUP list - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-put-micah-parsons-on-pup-list"
     },
     {
-      "title": "Athlete who vanished during Houston tournament located safe in Illinois, no foul play suspected - KHOU",
-      "link": "https://www.khou.com/article/news/local/missing-athlete-rice-university-found-illinois/285-55fff50d-9d13-4e45-8ed4-1b526812970d"
+      "title": "6 performances of note from the Patriots\u2019 fourth training camp practice - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/132019/winners-losers-patriots-training-camp-2026-fourth-practice"
     },
     {
-      "title": "Baker Mayfield to play 2026 season without new contract with Bucs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-to-play-2026-season-without-new-contract-with-bucs"
+      "title": "2026 Chicago Bears training camp: Latest intel, updates - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates"
     },
     {
-      "title": "The IndyCar paddock reacts to unveiling of next-gen IR-28 chassis - Motorsport.com",
-      "link": "https://www.motorsport.com/indycar/news/the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis/10842732/"
+      "title": "UNC Picked 15th in Preseason ACC Poll - On3",
+      "link": "https://www.on3.com/teams/north-carolina-tar-heels/news/unc-picked-15th-in-preseason-acc-poll/"
     },
     {
-      "title": "What we\u2019re hearing on Red Sox trade deadline plans after the Connelly Early-for-Curtis Mead deal - MassLive",
-      "link": "https://www.masslive.com/redsox/2026/07/what-were-hearing-on-red-sox-trade-deadline-plans-after-the-connelly-early-for-curtis-mead-deal.html"
+      "title": "Bam Adebayo Reveals NSFW Text to LeBron James After Star Chose 76ers over Heat in NBA Free Agency - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25458744-bam-adebayo-reveals-nsfw-text-lebron-james-after-star-chose-76ers-over-heat-nba-free-agency"
     },
     {
-      "title": "Why Your Team Sucks 2026: Tennessee Titans - Defector",
-      "link": "https://defector.com/why-your-team-sucks-2026-tennessee-titans"
+      "title": "49ers\u2019 Kyle Shanahan accepts blame for car crash, says he swerved when phone fell - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/49ers/article/49ers-kyle-shanahan-takes-blame-crash-phone-22363858.php"
     },
     {
-      "title": "Power Rankings: Rocket Classic - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/power-rankings/2026/07/27/power-rankings-rocket-classic-detroit-golf-club-ranking-the-field-who-ranks-first-fedexcup-playoffs"
+      "title": "Big Ten commissioner pushes back on 'breakaway' talks with SEC - The Seattle Times",
+      "link": "https://www.mercurynews.com/2026/07/28/big-ten-breakaway-cfp-expansion-tony-petitti/"
     },
     {
-      "title": "Packers Sign German-Born Kicker, Create Three-Man Competition - Sports Illustrated",
-      "link": "https://www.si.com/nfl/packers/onsi/packers-sign-german-born-kicker-create-three-man-competition"
+      "title": "Cousins gets nod over Fernando Mendoza to open Raiders camp - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49472920/cousins-gets-nod-fernando-mendoza-open-raiders-camp"
     }
   ],
   "weather": {
