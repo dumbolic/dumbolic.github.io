@@ -1,9 +1,9 @@
 {
-  "quote": "Many people will walk in and out of your life, but only true friends will leave footprints in your heart. \u2013 Eleanor Roosevelt",
-  "fact": "You spend 7 years of your life in the bathroom.",
-  "crypto": "BTC: $64,495 | ETH: $1,917.46",
+  "quote": "Every experience is a lesson. Every loss is a gain. \u2013 Sathya Sai Baba",
+  "fact": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
+  "crypto": "BTC: $64,821 | ETH: $1,924.78",
   "tip": "Commit often with meaningful messages.",
-  "joke": "So a duck walks into a pharmacy and says \u201cGive me some chap-stick\u2026 and put it on my bill\u201d",
+  "joke": "What do you call an eagle who can play the piano? Talonted!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Tentpole Xbox release Halo: Campaign Evolved performs better on the PlayStation 5, with the PS5 Pro providing the best experience - Eurogamer.net",
+      "link": "https://www.eurogamer.net/halo-campaign-evolved-performs-better-ps5"
+    },
+    {
+      "title": "Samsung\u2019s Galaxy Z Fold 8 feels like the future - The Verge",
+      "link": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review"
+    },
+    {
+      "title": "Cities: Skylines meets Balatro in a frighteningly good new Steam roguelike - Polygon.com",
+      "link": "https://www.polygon.com/combolands-demo-impressions/"
+    },
+    {
       "title": "White Dwarf 527: The Inside Scoop on Warhammer 40,000 - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/qx3hqwpl/white-dwarf-527-the-inside-scoop-on-warhammer-40000"
     },
     {
       "title": "Tested: Google SynthID works great, but labeling AI content may be a losing game - Ars Technica",
       "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
+    },
+    {
+      "title": "Xbox outage shouldn\u2019t have affected games on disc, Microsoft confirms - The Verge",
+      "link": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue"
+    },
+    {
+      "title": "Capcom Says a Pragmata Sequel is Looking Likely After Celebrating Its Sales Success - IGN",
+      "link": "https://www.ign.com/articles/pragmata-2-likely-after-sales-success-publisher-capcom-says"
     },
     {
       "title": "Dancing dots: The motion-sickness cure hidden in iPhone settings - BBC",
@@ -32,16 +52,20 @@
       "link": "https://www.eurogamer.net/silent-hill-townfall-preview-massively-subvert-expectations-okamoto-screen-burn-interview"
     },
     {
+      "title": "Lightspeed LA Announces Creative Shift of Last Sentinel's Direction to 'Deliver the Experience Players Expect' - IGN",
+      "link": "https://www.ign.com/articles/lightspeed-la-lays-off-staff-as-it-shifts-last-sentinels-creative-direction"
+    },
+    {
       "title": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift - Financial Times",
       "link": "https://www.ft.com/content/61b2953d-ee0d-45de-af6e-a9c1cf524b33?syn-25a6b1a6\\\\u003d1"
     },
     {
-      "title": "Galaxy S25 Ultra and S24 Ultra owners report severe battery drain and overheating issues after July update - Notebookcheck",
-      "link": "https://www.notebookcheck.net/Galaxy-S25-Ultra-and-S24-Ultra-owners-report-severe-battery-drain-and-overheating-issues-after-July-update.1353452.0.html"
+      "title": "Pok\u00e9mon Pokopia 'Bubbly Basin' Expansion Pass DLC Locks In Switch 2 Release Date - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/07/pokemon-pokopia-bubbly-basin-expansion-pass-dlc-locks-in-switch-2-release-date"
     },
     {
-      "title": "Amidst Sony's Disc Debacle, Capcom Sales Data Is a Brutal Reality Check for Fans of Physical Media - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/07/amidst-sonys-disc-debacle-capcom-sales-data-is-a-brutal-reality-check-for-fans-of-physical-media"
+      "title": "Galaxy S25 Ultra and S24 Ultra owners report severe battery drain and overheating issues after July update - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Galaxy-S25-Ultra-and-S24-Ultra-owners-report-severe-battery-drain-and-overheating-issues-after-July-update.1353452.0.html"
     },
     {
       "title": "Windows 11 KB5101684 out with a speed boost, direct download links for offline installer (.msu) - Windows Latest",
@@ -52,8 +76,8 @@
       "link": "https://www.androidauthority.com/generate-edit-visuals-gemini-google-docs-3692149/"
     },
     {
-      "title": "Claude Chats Popped Up in Google Search Results. How to See If Yours Are Public - PCMag",
-      "link": "https://www.pcmag.com/news/claude-chats-popped-up-in-google-search-results-see-if-yours-are-public"
+      "title": "Pixel Watch 5 shows up early in an official Google app - Android Authority",
+      "link": "https://www.androidauthority.com/pixel-watch-5-google-health-app-3692125/"
     },
     {
       "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors",
@@ -62,40 +86,48 @@
     {
       "title": "Double Fine Announces Layoffs Following Split From Xbox - Game Informer",
       "link": "https://gameinformer.com/2026/07/28/double-fine-announces-layoffs-following-split-from-xbox"
-    },
-    {
-      "title": "Google\u2019s Pixel Watch 5 Shows Up in Google Health - Droid Life",
-      "link": "https://www.droid-life.com/2026/07/28/googles-pixel-watch-5-shows-up-in-google-health/"
-    },
-    {
-      "title": "Android\u2019s Find Hub app now lets you remove old Bluetooth headphones & earbuds - 9to5Google",
-      "link": "http://9to5google.com/2026/07/28/android-find-hub-remove-bluetooth-headphones-update/"
-    },
-    {
-      "title": "Ozlo\u2019s Sleepbuds 2 build on Bose\u2019s sleep earbud legacy - TechCrunch",
-      "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
-    },
-    {
-      "title": "Halo: Campaign Evolved Scales Well from PS5 Pro to Xbox Series S Despite Its Full-Throated Unreal Engine 5 Features - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/features/halo-campaign-evolved-scales-well-from-ps5-pro-to-xbox-series-s-despite-its-full-throated-unreal-engine-5-features"
-    },
-    {
-      "title": "I Hate Adobe - Aftermath",
-      "link": "https://aftermath.site/i-hate-adobe/"
-    },
-    {
-      "title": "Xbox announces Gamescom 2026 plans - Gematsu",
-      "link": "https://www.gematsu.com/2026/07/xbox-announces-gamescom-2026-plans"
-    },
-    {
-      "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13 - Gematsu",
-      "link": "https://www.gematsu.com/2026/07/crazy-taxi-world-tour-closed-network-test-set-for-september-11-to-13"
     }
   ],
   "sports_news": [
     {
+      "title": "FIFA's Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan - AP News",
+      "link": "https://apnews.com/article/world-cup-fifa-investors-kushner-infantino-uefa-e66dc5d5f9907f9ea5323716b7e49ca2"
+    },
+    {
+      "title": "Tua Tagovailoa won\u2019t practice after injury \u201cflared up,\u201d Michael Penix won\u2019t do team drills - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-wont-practice-after-injury-flared-up-michael-penix-wont-do-team-drills"
+    },
+    {
+      "title": "Sydney FC 1(2)-1(4) Tottenham Hotspur: Spurs take pulsating encounter on penalties - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-match-reports/72377/sydney-fc-12-14-tottenham-hotspur-spurs-take-pulsating-encounter-on-penalties"
+    },
+    {
+      "title": "Eagles training camp preview: 53-man roster prediction - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-roster/178055/eagles-training-camp-preview-53-man-roster-prediction"
+    },
+    {
+      "title": "Brandon Aiyuk's social media post mocking Kyle Shanahan's car crash draws backlash and could cost him a job - Fox News",
+      "link": "https://www.foxnews.com/sports/brandon-aiyuk-social-media-post-mocking-kyle-shanahan-car-crash-draws-backlash-cost-job"
+    },
+    {
+      "title": "What now after this Curtis Mead injury news? - Audacy",
+      "link": "https://www.audacy.com/weei/sports/red-sox/what-now-after-this-curtis-mead-injury-news"
+    },
+    {
+      "title": "MLB trade deadline 2026: Teams desperate to make a move - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/49473814/mlb-2026-trade-deadline-contenders-moves-yankees-phillies-cubs-red-sox"
+    },
+    {
+      "title": "Inside LeBron James' decision to join the Philadelphia 76ers - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49470047/inside-lebron-james-decision-join-philadelphia-76ers"
+    },
+    {
       "title": "8 Detroit Lions thoughts prior to training camp - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-analysis/167795/8-detroit-lions-thoughts-prior-to-training-camp"
+    },
+    {
+      "title": "With Jalen Carter and Jordan Davis signing long-term deals with the Eagles, who's next? - PhillyVoice",
+      "link": "https://www.phillyvoice.com/jalen-carter-and-jordan-davis-signing-long-term-deals-eagles-who-is-next/"
     },
     {
       "title": "Dom Canzone homers twice, Mariners hold on for dramatic win over Dodgers - The Seattle Times",
@@ -106,8 +138,8 @@
       "link": "https://www.overthemonster.com/red-sox-game-information/105361/red-sox-blow-a-golden-opportunity-to-extend-hot-streak-in-4-3-loss-to-the-as"
     },
     {
-      "title": "Report: Curtis Mead to IL with fractured wrist - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/report-curtis-mead-to-il-with-fractured-wrist"
+      "title": "Caitlin Clark erupts for 32 points as Fever hold off Storm to complete season-series sweep - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-erupts-32-points-fever-hold-off-storm-complete-season-series-sweep"
     },
     {
       "title": "\u2018Boycott this league\u2019: Outrage after fan forced to remove sign supporting Sophie Cunningham - Yahoo Sports",
@@ -122,56 +154,20 @@
       "link": "https://www.mlbtraderumors.com/2026/07/twins-to-buy-at-deadline-targeting-bullpen-help.html"
     },
     {
-      "title": "Harrison Bader\u2019s scooter crash adds farcical twist to Giants\u2019 nightmare season - New York Post",
-      "link": "https://nypost.com/2026/07/28/sports/giants-outfielder-harrison-bader-suffers-injury-in-scooter-accident/"
+      "title": "Bodycam video shows Tony Romo arrest on suspicion of impaired driving - NBC 5 Dallas-Fort Worth",
+      "link": "https://www.nbcdfw.com/news/sports/bodycam-video-shows-tony-romo-arrest-on-suspicion-of-impaired-driving/4055358/"
     },
     {
-      "title": "Bodycam video of Tony Romo arrest is released - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bodycam-video-of-tony-romo-arrest-is-released"
+      "title": "Harrison Bader\u2019s scooter crash adds farcical twist to Giants\u2019 nightmare season - New York Post",
+      "link": "https://nypost.com/2026/07/28/sports/giants-outfielder-harrison-bader-suffers-injury-in-scooter-accident/"
     },
     {
       "title": "Seahawks\u2019 QB Jalen Milroe showing progress at training camp | Notebook - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/seahawks/seahawks-qb-jalen-milroe-showing-progress-at-training-camp-notebook/"
     },
     {
-      "title": "Why Mike McCarthy's first Steelers training camp will be much different than how Mike Tomlin did it - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2026/07/28/mccarthy-training-camp-latrobe-tomlin-changes/stories/202607280050"
-    },
-    {
-      "title": "Ole Miss sues LSU's Umanmielen, Harper for breach of contract - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49475144/ole-miss-sues-former-players-princewill-umanmielen-devin-harper-now-lsu-breach-contract"
-    },
-    {
-      "title": "Casey Schmitt Placed On IL With Torn Meniscus - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/casey-schmitt-placed-on-il-with-torn-meniscus.html"
-    },
-    {
-      "title": "Iowa's Ferentz warns of growing 'imbalance' in college game - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49475106/iowa-ferentz-warns-growing-imbalance-college-game"
-    },
-    {
-      "title": "Notre Dame gets an even better jersey patch deal than Ohio State - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-gets-an-even-better-jersey-patch-deal-than-ohio-state"
-    },
-    {
-      "title": "Highlights from Commanders\u2019 HC Dan Quinn, GM Adam Peters pre-training camp presser - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-news/426649/highlights-dan-quinn-adam-peters-training-camp-presser-2026-brandon-aiyuk-jayden-daniels"
-    },
-    {
-      "title": "Jerry Jones is willing to give up a top pick for a defensive playmaker - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-is-willing-to-give-up-a-top-pick-for-a-defensive-playmaker"
-    },
-    {
-      "title": "Tigers' Tarik Skubal set to face O's as trade deadline nears - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49474508/tigers-ace-tarik-skubal-schedule-face-orioles-wednesday-trade-deadline-approaching"
-    },
-    {
-      "title": "Commanders fire TE coach Ben Steele following DWI arrest in Virginia, replace him with Wes Welker - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/commanders-fire-te-coach-ben-steele-following-dwi-arrest-in-virginia-replace-him-with-wes-welker-143018254.html"
-    },
-    {
-      "title": "2026 New York Jets training camp: Latest intel, updates - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates"
+      "title": "Should the Raiders trade for Vita Vea - Silver And Black Pride",
+      "link": "https://www.silverandblackpride.com/las-vegas-raiders-odds/135425/raiders-reacts-survey"
     }
   ],
   "weather": {
