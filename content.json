@@ -1,9 +1,9 @@
 {
-  "quote": "Intelligence is the ability to adapt to change. \u2013 Stephen Hawking",
-  "fact": "Cats have over 100 vocal sounds; dogs only have 10.",
-  "crypto": "BTC: $62,927 | ETH: $1,861.92",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I gave all my dead batteries away today, free of charge.",
+  "quote": "You can have the mind or you can have the moment. \u2013 Naval Ravikant",
+  "fact": "\"Underground\" is the only word in the English language that begins and ends with the letters \"und\"",
+  "crypto": "BTC: $62,899 | ETH: $1,864.48",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Tim Cook says Apple may charge for AI Siri - Axios",
-      "link": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri"
+      "title": "Nintendo Expands Switch 2's GameCube Library With Another Game In August - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/07/nintendo-expands-switch-2s-gamecube-library-with-another-game-in-august"
+    },
+    {
+      "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon' - CNBC",
+      "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html"
+    },
+    {
+      "title": "Big Terminator Vibes in Bethesda's New Logo - IGN",
+      "link": "https://www.ign.com/articles/bethesda-has-a-new-logo-to-celebrate-its-40th-anniversary-and-it-harkens-back-to-the-studios-old-terminator-games"
     },
     {
       "title": "Xbox CEO says the team has one year to start growing again - The Verge",
@@ -24,8 +32,8 @@
       "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/"
     },
     {
-      "title": "Casio\u2019s Tiny Ring Watch Is Now a Full-Blown Oura Alternative - Gizmodo",
-      "link": "https://gizmodo.com/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative-2000793116"
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
     },
     {
       "title": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report - 9to5Mac",
@@ -36,24 +44,16 @@
       "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
     },
     {
-      "title": "Pixel Watch 5 leaks in official-looking images with same charging system - 9to5Google",
-      "link": "http://9to5google.com/2026/07/30/pixel-watch-5-angles-leak/"
-    },
-    {
       "title": "Apple is about to launch Home product overhaul I\u2019ve wanted for years - 9to5Mac",
       "link": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/"
-    },
-    {
-      "title": "Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/07/30/pixel-11-series-leaks-with-seemingly-official-renders-includes-all-matte-pixel-11-pro-gallery/"
     },
     {
       "title": "Do Not Buy The War Crime N64 - Aftermath",
       "link": "https://aftermath.site/war-crime-n64-palmer-luckey-m64-modretro/"
     },
     {
-      "title": "The New Friend AI Pendant Can Now Talk Back to You - WIRED",
-      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event - The Verge",
+      "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event"
     },
     {
       "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks - BleepingComputer",
@@ -86,16 +86,44 @@
     {
       "title": "iOS 27 will bring five new features not yet announced, per rumors - 9to5Mac",
       "link": "https://9to5mac.com/2026/07/30/ios-27-will-bring-five-new-features-not-yet-announced-per-rumors/"
-    },
-    {
-      "title": "Halo: Campaign Evolved PC Looks Stunning - But Requires Further Optimisation - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/features/halo-campaign-evolved-pc-looks-stunning-but-requires-further-optimisation"
     }
   ],
   "sports_news": [
     {
+      "title": "Latest Chatter On Tarik Skubal - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/latest-chatter-on-tarik-skubal.html"
+    },
+    {
+      "title": "What happened as Seahawks put pads on for first time since Super Bowl - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/what-happened-as-seahawks-put-pads-on-for-first-time-since-super-bowl/"
+    },
+    {
+      "title": "Sparks' Kelsey Plum says she's not taking trade talk personal - espn.com",
+      "link": "https://www.espn.com/wnba/story/_/id/49493080/sparks-kelsey-plum-says-not-taking-trade-talk-personal"
+    },
+    {
+      "title": "Sources: Deebo Samuel returning to 49ers on 1-year deal - espn.com",
+      "link": "https://www.espn.com/nfl/story/_/id/49493047/sources-deebo-samuel-returning-49ers-1-year-deal"
+    },
+    {
+      "title": "Dak Prescott, Cowboys nickname their offense \"Greatest Offense There Is\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-cowboys-nickname-offense-greatest-offense-there-is"
+    },
+    {
       "title": "Steelers camp observations: Aaron Rodgers and DK Metcalf light up practice on Day 2 - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/steelers/2026/07/30/trainingcamp-metcalf-rodgers-practice-observations-nfl/stories/202607300047"
+    },
+    {
+      "title": "Jeff Ulbrich\u2019s wife, Cristina, dies after a battle with cancer - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-ulbrichs-wife-cristina-dies-after-a-battle-with-cancer"
+    },
+    {
+      "title": "George Pickens appreciates Jerry Jones\u2019 kind words - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-appreciates-jerry-jones-kind-words"
+    },
+    {
+      "title": "New details emerge from Harrison Bader\u2019s late-night scooter crash - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/giants/article/new-details-emerge-harrison-bader-s-late-night-22367593.php"
     },
     {
       "title": "Ravens RB Derrick Henry has no thoughts of retirement - NBC Sports",
@@ -106,8 +134,32 @@
       "link": "https://sny.tv/articles/mets-marlins-game-delayed-weather-73026"
     },
     {
+      "title": "Here\u2019s the Red Sox lineup as they go for 7th straight series win Thursday - MassLive",
+      "link": "https://www.masslive.com/redsox/2026/07/heres-the-red-sox-lineup-as-they-go-for-7th-straight-series-win-thursday.html"
+    },
+    {
+      "title": "Bucs Camp Studs And Duds: 7/30 - Pewter Report",
+      "link": "https://www.pewterreport.com/bucs-camp-studs-and-duds-7-30/"
+    },
+    {
+      "title": "Cubs 4, Cardinals 2: Doubles by Alex Bregman and Ian Happ win it in extras - Bleed Cubbie Blue",
+      "link": "https://www.bleedcubbieblue.com/chicago-cubs-scores/227553/cubs-cardinals-score-alex-bregman-ian-happ-mlb"
+    },
+    {
+      "title": "LPGA Golfer Faces Backlash for 'Cruel' Prank on Caddie - Newser",
+      "link": "https://www.newser.com/story/393816/lpga-golfer-faces-backlash-for-cruel-prank-on-caddie.html"
+    },
+    {
+      "title": "NY Giants training camp report: Abdul Carter, Giants fans win the day - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-training-camp/166252/training-camp-report-winners-losers-more-takeaways-from-day-2"
+    },
+    {
       "title": "Orioles Acquire Jake Rogers From Tigers - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/07/orioles-acquire-jake-rogers-from-tigers.html"
+    },
+    {
+      "title": "White Sox 2, Yankees 1 (11 innings): Shrimp in Chicago - Sox Machine",
+      "link": "https://soxmachine.com/2026/07/white-sox-2-yankees-1-11-innings-shrimp-in-chicago"
     },
     {
       "title": "Trail Blazers demand more than arena funding in Portland City Council appearance - opb.org",
@@ -116,62 +168,6 @@
     {
       "title": "Bucs offered Baker Mayfield a two-year deal - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-30/bucs-offered-baker-mayfield-a-two-year-deal"
-    },
-    {
-      "title": "Saints' Chris Olave signing four-year extension worth up to $132M - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49491421/saints-chris-olave-signing-four-year-extension-worth-132m"
-    },
-    {
-      "title": "Police: 49ers coach not charged in crash because of officer's discretion - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49491100/49ers-coach-not-charged-crash-officer-discretion"
-    },
-    {
-      "title": "Undrafted rookie QB Jack Strand working with Falcons\u2019 first-team offense - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/undrafted-rookie-qb-jack-strand-working-with-falcons-first-team-offense"
-    },
-    {
-      "title": "3 Training Camp Notes from Day 3 of 49ers practice: What\u2019s Deebo Samuel up to? - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-analysis/160825/3-training-camp-notes-from-day-3-of-49ers-practice-whats-deebo-samuel-up-to"
-    },
-    {
-      "title": "MLB Mailbag: Phillies, Hancock, Padres, Prospects, Sellers - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/07/mlb-mailbag-phillies-hancock-padres-prospects-sellers.html"
-    },
-    {
-      "title": "Twins 4, Royals 3: Kody Clemens Turns Disaster Into Miracle With Walk-Off Grand Slam - Twins Daily",
-      "link": "https://twinsdaily.com/news-rumors/minnesota-twins/twins-4-royals-3-kody-clemens-turns-disaster-into-miracle-with-walk-off-grand-slam-r20838/"
-    },
-    {
-      "title": "2026 Big Ten Media Days takeaways: Curt Cignetti torches SEC, hometown Northwestern arrives with swagger - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/2026-big-ten-curt-cignetti-sec-northwestern/"
-    },
-    {
-      "title": "7 performances of note from the Patriots\u2019 fifth training camp practice - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/132146/winners-losers-patriots-training-camp-2026-fifth-practice"
-    },
-    {
-      "title": "Malik Nabers: When I\u2019m ready, I\u2019m ready - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-when-im-ready-im-ready"
-    },
-    {
-      "title": "NY Giants training camp 2026: Live updates, Day 2 \u2014 the fans are here! - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-training-camp/166228/training-camp-2026-live-updates-highlights-news-day-2-fans-west-virginia"
-    },
-    {
-      "title": "Florida collector pulls 1-of-1 Ohtani card, then sells for $10M+ - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49490740/florida-collector-pulls-1-1-ohtani-card-sells-10m+"
-    },
-    {
-      "title": "Eagles 2026 training camp practice notes, Day 2: The running backs found daylight - PhillyVoice",
-      "link": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-2-running-backs-found-daylight-saquon-barkley/"
-    },
-    {
-      "title": "Sending ace pitcher Tarik Skubal to the Los Angeles Dodgers would officially ruin baseball - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/sending-ace-pitcher-tarik-skubal-los-angeles-dodgers-would-officially-ruin-baseball"
-    },
-    {
-      "title": "Bill Belichick says Tar Heels adjusting duties with GM on paid leave and under school investigation - AP News",
-      "link": "https://apnews.com/article/unc-football-belichick-lombardi-8923ab388080d0bd86868b0ff7d65518"
     }
   ],
   "weather": {
