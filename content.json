@@ -1,9 +1,9 @@
 {
-  "quote": "Integrity is telling myself the truth. And honesty is telling the truth to other people. \u2013 Spencer Johnson",
-  "fact": "In the average lifetime, a person will walk the equivalent of 5 times around the equator.",
-  "crypto": "BTC: $62,790 | ETH: $1,846.36",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the banana go to the doctor? He was not \"peeling\" well.",
+  "quote": "Don't let your learning lead to knowledge. Let your learning lead to action. \u2013 Jim Rohn",
+  "fact": "President John F Kennedy could read 4 newspapers in 20 minutes.",
+  "crypto": "BTC: $62,770 | ETH: $1,843.36",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What's black and white and read all over? The newspaper.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Google Earth\u2019s AI deepfake tool only lasted one day - The Verge",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+      "title": "Google Earth releases, swiftly retracts AI feature to make fake satellite images - Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
     },
     {
-      "title": "Meet the Pixel Tag, Google's answer to the AirTag - Android Authority",
-      "link": "https://www.androidauthority.com/pixel-tag-leak-3693436/"
+      "title": "Google rolling out Android 17 QPR1 Beta 8 for Pixel - 9to5Google",
+      "link": "http://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/"
     },
     {
-      "title": "Sony acknowledges backlash, will \u201ccautiously\u201d move forward with end of discs - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/"
+      "title": "Google might launch a \u2018Pixel Tag\u2019 - The Verge",
+      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"
+    },
+    {
+      "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale - IGN",
+      "link": "https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals"
     },
     {
       "title": "Inside Tencent\u2019s Failed Attempt to Take On \u2018Grand Theft Auto\u2019 - Bloomberg.com",
       "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto"
     },
     {
-      "title": "First Googlebooks from Lenovo leak: Two sizes and 2-in-1 tablet - 9to5Google",
-      "link": "http://9to5google.com/2026/07/31/googlebook-lenovo-leak/"
+      "title": "12 Interesting Mini Gadgets You Can Buy From Ace Hardware - SlashGear",
+      "link": "https://www.slashgear.com/2224790/mini-ace-hardware-gadgets-cool-finds-buy/"
+    },
+    {
+      "title": "Google\u2019s Pixel 11 Glow might be called \u2018HiLight\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2026/07/31/pixel-glow-hilight/"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users - TechCrunch",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/"
     },
     {
       "title": "Game Devs Put Together An Itch.io Bundle Of Over 100 Games With Proceeds Going To Help Laid-Off Colleagues - Kotaku",
       "link": "https://kotaku.com/itchio-game-developer-hardship-bundle-necrosoft-games-layoffs-unionization-2000720782"
+    },
+    {
+      "title": "Here's an early look at Lenovo's inaugural Googlebooks - Android Authority",
+      "link": "https://www.androidauthority.com/lenovo-googlebook-leak-3693356/"
+    },
+    {
+      "title": "\u2018Antizuck\u2019 iOS app that claims to detect nearby smart glasses tops App Store chart - 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/31/antizuck-ios-app-that-claims-to-detect-nearby-smart-glasses-tops-app-store-chart/"
     },
     {
       "title": "Xbox Cloud Gaming update expands Game Pass access to more smart TVs - TrueAchievements",
@@ -44,16 +64,8 @@
       "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/"
     },
     {
-      "title": "In A 'Who Could Have Possibly Seen This Coming' Event, Ubisoft Will Shut Down Its NFT Game - kotaku.com",
-      "link": "https://kotaku.com/ubisoft-nft-game-shut-down-champions-tactics-might-and-magic-fates-2000720757"
-    },
-    {
       "title": "List of new voice actors for Xenoblade Chronicles 2 \u2013 Nintendo Switch 2 Edition - Nintendo Everything",
       "link": "https://nintendoeverything.com/list-of-new-voice-actors-for-xenoblade-chronicles-2-nintendo-switch-2-edition/"
-    },
-    {
-      "title": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Videos - 404 Media",
-      "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/"
     },
     {
       "title": "Weekly deals roundup: Galaxy Z Fold 8/Z Fold 8 Ultra/Z Flip 8 launch offers plus a whole lot more - PhoneArena",
@@ -64,42 +76,54 @@
       "link": "https://news.xbox.com/en-us/2026/07/31/next-week-on-xbox-new-games-for-august-3-to-7/"
     },
     {
+      "title": "Grand Theft Auto \u2013 The Legacy Review - IGN",
+      "link": "https://www.ign.com/articles/grand-theft-auto-the-legacy-review"
+    },
+    {
       "title": "Northern Lights Forecast: 10 States May See Aurora This Weekend - Forbes",
       "link": "https://www.forbes.com/sites/jamiecartereurope/2026/07/31/northern-lights-forecast-10-states-may-see-aurora-this-weekend/"
     },
     {
-      "title": "\"We will not live on past successes or be trapped by past failures\" \u2013 Xbox CEO outlines priorities to turn platform around in FY27 - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/we-will-not-live-on-past-successes-or-be-trapped-by-past-failures-xbox-ceo-outlines-priorities-to-turn-platform-around-in-fy27"
-    },
-    {
       "title": "Pathogenic review: Damn, it feels good to be a virus - Ars Technica",
       "link": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/"
-    },
-    {
-      "title": "New set of leaked Pixel 11 marketing images reveals Google's real selling point - PhoneArena",
-      "link": "https://www.phonearena.com/news/new-set-of-leaked-pixel-11-marketing-images-reveals-googles-real-selling-point_id182273"
-    },
-    {
-      "title": "This tattoo is permanent, pain-free, and might soon come in the mail - The Verge",
-      "link": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches"
-    },
-    {
-      "title": "Corsair Cove Is Available Today With Xbox Game Pass, And Here's What The Reviews Are Saying - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/07/corsair-cove-is-available-today-with-xbox-game-pass-and-heres-what-the-reviews-are-saying"
     }
   ],
   "sports_news": [
     {
-      "title": "Sophie Cunningham fan who was confronted by Storm co-owner opens up on incident and facing trans athletes - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-fan-confronted-storm-co-owner-opens-incident-facing-trans-athletes"
+      "title": "Inside Miami's Historic Five-Star Haul: How the Hurricanes Built College Football's Most Loaded Class - 247Sports",
+      "link": "https://247sports.com/college/miami/article/inside-miami-hurricanes-football-recruiting-historic-five-star-recruiting-haul-class-of-2027-288614950/"
+    },
+    {
+      "title": "Mets Scratch Freddy Peralta From Start Due To Increasing Trade Interest - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/07/mets-scratch-freddy-peralta-from-start-due-to-increasing-trade-interest.html"
+    },
+    {
+      "title": "Mike Evans: Deebo Samuel is a hell of a pickup for us - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-deebo-samuel-is-a-hell-of-a-pickup-for-us"
+    },
+    {
+      "title": "Tony Romo put on leave at CBS Sports following arrest - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/GMA/Culture/tony-romo-put-leave-cbs-sports-arrest/story?id\\\\u003d135262615"
+    },
+    {
+      "title": "Former NFL Pro Bowl WR DeAndre Hopkins expected to join Georgia Tech's offensive coaching staff - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/deandre-hopkins-georgia-tech-coaching-staff-nfl-free-agent-ravens/"
     },
     {
       "title": "Former Atlanta Dream star Brittney Griner files for divorce, court records show - AJC.com",
       "link": "https://www.ajc.com/news/2026/07/former-atlanta-dream-star-brittney-griner-files-for-divorce-court-records-show/"
     },
     {
+      "title": "NBA Offseason Winners and Losers: LeBron James\u2019s Impact, What to Make of Miami - Sports Illustrated",
+      "link": "https://www.si.com/nba/nba-offseason-winners-and-losers-lebron-james-impact-what-to-make-of-miami"
+    },
+    {
       "title": "Three questions facing the Mariners at MLB\u2019s trade deadline - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/three-questions-facing-the-mariners-at-mlbs-trade-deadline/"
+    },
+    {
+      "title": "The Harrison Bader scooter crash story keeps getting messier - SFGATE",
+      "link": "https://www.sfgate.com/giants/article/harrison-bader-scooter-crash-22369180.php"
     },
     {
       "title": "Chris Foerster on 49ers practice scuffles: Things happen on first day in pads - NBC Sports",
@@ -110,16 +134,12 @@
       "link": "https://www.mlbtraderumors.com/2026/07/tarik-skubal-trade-rumors-brewers-pay-full-salary.html"
     },
     {
-      "title": "Tony Romo placed on leave by CBS Sports 'until further notice' following OWI arrest, JJ Watt to replace him in booth - Yahoo Sports Canada",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/tony-romo-placed-on-leave-by-cbs-sports-until-further-notice-following-owi-arrest-jj-watt-to-replace-him-in-booth-153055123.html"
+      "title": "Terry Rozier uncovers text message he says clears him in NBA gambling scandal - New York Post",
+      "link": "https://nypost.com/2026/07/31/sports/terry-rozier-uncovers-text-message-he-says-clears-him-in-nba-gambling-scandal/"
     },
     {
       "title": "MLB trade deadline notebook: What we're hearing on the Red Sox, Giants, George Springer and more - CBS Sports",
       "link": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-notebook-red-sox-jarren-duran-giants-blue-jays-george-springer-nationals-luis-garcia/"
-    },
-    {
-      "title": "Giants\u2019 Harrison Bader out for season following scooter crash that worsened foot injury - NBC News",
-      "link": "https://www.nbcnews.com/sports/mlb/giants-harrison-bader-season-scooter-crash-worsened-foot-injury-rcna590267"
     },
     {
       "title": "What happens with the Bucs and Baker Mayfield in 2027? - NBC Sports",
@@ -130,44 +150,24 @@
       "link": "https://www.mlbtraderumors.com/2026/07/rays-to-place-shane-mcclanahan-on-injured-list.html"
     },
     {
-      "title": "Report: DeAndre Hopkins to join Georgia Tech coaching staff - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-deandre-hopkins-to-join-georgia-tech-coaching-staff"
-    },
-    {
       "title": "Ryu leads Open in pursuit of third straight major - BBC",
       "link": "https://www.bbc.com/sport/golf/articles/c0qvlle2348o"
     },
     {
-      "title": "Patriots training camp notebook: Drake Maye stacks another strong practice - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/132181/patriots-training-camp-recap-drake-maye-stacks-another-strong-performance"
+      "title": "Bedard: Patriots Practice Report 07.31.26 - Maye, offense sharp as Brown goes deep - Boston Sports Journal",
+      "link": "https://www.bostonsportsjournal.com/2026/07/31/bedard-patriots-practice-report-073126---maye-offense-sharp-as-brown-goes-deep"
     },
     {
-      "title": "Peralta scratched by Mets with Trade Deadline looming on Monday (sources) - mlb.com",
-      "link": "https://www.mlb.com/news/freddy-peralta-scratched-by-mets-before-trade-deadline"
+      "title": "NFL coordinator\u2019s wife dies following battle with cancer - NJ.com",
+      "link": "https://www.nj.com/sports/2026/07/nfl-coordinators-wife-dies-following-battle-with-cancer.html"
     },
     {
       "title": "Toronto Tempo get Aneesah Morrow in deal with Connecticut - ESPN",
       "link": "https://www.espn.com/wnba/story/_/id/49498176/connecticut-trade-morrow-tempo-kliundikova-second-rounder"
     },
     {
-      "title": "TB unhappy with how Baker spoke about organization - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-31/tb-unhappy-with-how-baker-spoke-about-organization"
-    },
-    {
       "title": "Chiefs training camp notebook Day 3: Two rookies are stealing the show - Arrowhead Pride",
       "link": "https://www.arrowheadpride.com/kansas-city-chiefs-analysis/206582/chiefs-training-camp-notebook-day-3-two-rookies-stealing-show"
-    },
-    {
-      "title": "FIFA COO Lamour says staff deceived over Infantino\u2019s World Cup plan - Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan"
-    },
-    {
-      "title": "Training Camp Practice 3 Observations: Willis Emerges, Douglas Busy, More - Sports Illustrated",
-      "link": "https://www.si.com/nfl/dolphins/onsi/training-camp-practice-3-observations-willis-emerges-douglas-busy-more-01kywk33meq4"
-    },
-    {
-      "title": "ESPN story says 49ers stopped Kyle Shanahan from releasing crash report - SFGATE",
-      "link": "https://www.sfgate.com/49ers/article/espn-shanahan-crash-49ers-22368967.php"
     }
   ],
   "weather": {
