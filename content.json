@@ -1,9 +1,9 @@
 {
-  "quote": "Hold yourself responsible for a higher standard than anybody else expects of you. \u2013 Henry Ward Beecher",
-  "fact": "The \"save\" icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
-  "crypto": "BTC: $63,974 | ETH: $1,863.67",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I ordered a chicken and an egg from Amazon. I'll let you know.",
+  "quote": "Tension is who you think you should be. Relaxation is who you are. \u2013 Chinese Proverb",
+  "fact": "What is called a \"French kiss\" in the English speaking world is known as an \"English kiss\" in France.",
+  "crypto": "BTC: $64,099 | ETH: $1,865.02",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What kind of award did the dentist receive? A little plaque.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Does The Dog Die In Beast Of Reincarnation? - Kotaku",
+      "link": "https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239"
+    },
+    {
       "title": "Lamborghini Honors A Legendary Supercar With Some Fancy Paint - Motor1.com",
       "link": "https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/"
     },
     {
+      "title": "The studio behind Pok\u00e9mon struggles to find its voice in Beast of Reincarnation - The Verge",
+      "link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox"
+    },
+    {
       "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call - TechCrunch",
       "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/"
+    },
+    {
+      "title": "Microsoft denies Windows 11 is spying on desktop PCs, reveals what the service actually does - Windows Latest",
+      "link": "https://www.windowslatest.com/2026/08/04/microsoft-denies-windows-11-is-spying-on-desktop-pcs-reveals-what-the-service-actually-does/"
     },
     {
       "title": "Fans Discovered A Chaotic Secret In Divinity's Reveal Trailer - Kotaku",
@@ -26,6 +38,10 @@
     {
       "title": "Microsoft warns hackers are targeting hotel Wi-Fi networks: What to know, how to protect yourself - ABC News - Breaking News, Latest News and Videos",
       "link": "https://abcnews.com/GMA/News/microsoft-warns-hackers-targeting-hotel-wi-fi-networks/story?id\\\\u003d135320517"
+    },
+    {
+      "title": "Your Fitbit data can now connect directly to Apple Health - The Verge",
+      "link": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing"
     },
     {
       "title": "Google Pixel 11 Pro marketing materials leak confirming some specs - GSMArena.com news - GSMArena.com",
@@ -40,16 +56,16 @@
       "link": "https://www.forbes.com/sites/davidphelan/2026/08/03/apple-iphone-18-pro-september-release-date-signaled-in-keynote-update/"
     },
     {
+      "title": "Here\u2019s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/"
+    },
+    {
       "title": "Apple\u2019s Incoming CEO John Ternus Rehires Retired Executive Laura Legros - Bloomberg",
       "link": "https://www.bloomberg.com/news/articles/2026-08-03/apple-s-new-ceo-taps-retired-hardware-executive-for-management-team"
     },
     {
-      "title": "Midnight Club 5 Was Possibly Set In London But Was Canceled In 2010 - Kotaku",
-      "link": "https://kotaku.com/former-dev-says-midnight-club-5-was-canceled-because-the-series-was-rockstars-red-headed-stepchild-2000721232"
-    },
-    {
-      "title": "This 1979 Mercedes-Benz 280TE Was Trapped Inside An Italian Garage For 38 Years, Now It's Probably The Most Valuable W123 Ever - Jalopnik",
-      "link": "https://www.jalopnik.com/2229411/1979-mercedes-benz-280te-auction-probably-most-valuable-w123-ever/"
+      "title": "Magic just revealed 25 wild cards in Mystery Booster Commander - Polygon.com",
+      "link": "https://www.polygon.com/magic-just-revealed-25-wild-cards-in-mystery-booster-commander/"
     },
     {
       "title": "New details on Pok\u00e9mon Pokopia's DLC update reveal an anti-motion sickness feature - Polygon.com",
@@ -60,39 +76,63 @@
       "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
     },
     {
-      "title": "Outernet turns your saved posts into real-world adventures - TechCrunch",
-      "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/"
+      "title": "A New LG TV Picture Mode Could Be A Major Upgrade For OLED Users - bgr.com",
+      "link": "https://www.bgr.com/2226508/lg-tv-creator-orignal-picture-mode-oled-users/"
+    },
+    {
+      "title": "41 Signs That Are Funny Enough To Make You Stop Replaying That Cringey Thing You Did Last Week - BuzzFeed",
+      "link": "https://www.buzzfeed.com/kristatorres/funny-signs-july-2026"
     },
     {
       "title": "2064: Read Only Memories Studio Files For Bankruptcy - Kotaku",
       "link": "https://kotaku.com/2064-read-only-memories-midbossbankruptcy-over-800000-in-debt-2000721229"
     },
     {
-      "title": "The back-to-school smart home upgrade I cannot live without - USA Today",
-      "link": "https://www.usatoday.com/story/shopping/deals/retailers/amazon/2026/08/03/amazon-echo-show-back-to-school-must-have/91150443007/"
-    },
-    {
       "title": "Garmin Cirqa Accuracy Deep-Dive Review (vs Whoop 5.0, Fitbit Air, Amazfit Helio, Polar Loop) - dcrainmaker.com",
       "link": "https://www.dcrainmaker.com/2026/08/accuracy-deep-dive-garmin-cirqa-whoop-fitbit-air-amazfit-helio-polar-loop-testing.html"
-    },
-    {
-      "title": "Galaxy S27 Ultra reportedly ditches a telephoto camera for the sake of cost-cutting - 9to5Google",
-      "link": "http://9to5google.com/2026/08/03/samsung-galaxy-s27-ultra-telephoto-camera-report/"
-    },
-    {
-      "title": "AC Black Flag Resynced Improved with 5GB PS5 Patch This Week - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/08/ac-black-flag-resynced-improved-with-5gb-ps5-patch-this-week"
-    },
-    {
-      "title": "Microsoft is bringing Xbox 360 games to PC - The Verge",
-      "link": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program"
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts - The Hacker News",
-      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "Phillies land Luis Arraez in five-player trade - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/phillies-land-luis-arraez-in-five-player-trade"
+    },
+    {
+      "title": "Notre Dame-USC rivalry returns in 2030, for at least four years - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-usc-rivalry-returns-in-2030-for-at-least-four-years"
+    },
+    {
+      "title": "Greg Olsen could be the eventual successor to Tony Romo - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-olsen-could-be-the-eventual-successor-to-tony-romo"
+    },
+    {
+      "title": "Reds To Promote H\u00e9ctor Rodr\u00edguez - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/reds-to-promote-hector-rodriguez.html"
+    },
+    {
+      "title": "Winners, Losers After Packers\u2019 First Full-Pads Practice of Training Camp - Sports Illustrated",
+      "link": "https://www.si.com/nfl/packers/onsi/winners-losers-after-packers-first-full-pads-practice-of-training-camp"
+    },
+    {
+      "title": "Red Sox, Giants Swap Marcelo Mayer For Erik Miller - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/red-sox-giants-nearing-swap-of-marcelo-mayer-for-erik-miller.html"
+    },
+    {
+      "title": "Guardians Acquire Foster Griffin - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/guardians-acquire-foster-griffin.html"
+    },
+    {
+      "title": "Alex Anthopoulos maintains that Braves \u201cgot better\u201d despite underwhelming 2026 Trade Deadline - Battery Power",
+      "link": "https://www.batterypower.com/atlanta-braves-analysis/137434/alex-anthopoulos-trade-deadline-press-conference-starting-pitching-lack-therof"
+    },
+    {
+      "title": "Deshaun Watson vs. Shedeur Sanders: Who won Day 5 of Browns training camp - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2026/08/deshaun-watson-vs-shedeur-sanders-who-won-day-5-of-browns-training-camp.html"
+    },
+    {
+      "title": "St. Louis Cardinals 2026 Trade Grades - Viva El Birdos",
+      "link": "https://www.vivaelbirdos.com/mlb-news/73830/st-louis-cardinals-2026-trade-grades"
+    },
     {
       "title": "Padres add another starting pitcher at trade deadline\u2019s buzzer - San Diego Union-Tribune",
       "link": "https://wpdash.medianewsgroup.com/2026/08/03/padres-add-another-starting-pitcher-at-trade-deadlines-buzzer/"
@@ -102,36 +142,20 @@
       "link": "https://www.lookoutlanding.com/mlb-news/147248/grading-the-seattle-mariners-trade-deadline"
     },
     {
-      "title": "David Stearns breaks down why Mets moved Luke Weaver, Huascar Brazoban ahead of trade deadline - SNY",
-      "link": "https://sny.tv/articles/david-stearns-explains-mets-move-luke-weaver-huascar-brazoban-trade-deadline"
-    },
-    {
-      "title": "UFC Fighter Allan Nascimento Dies at Age 34 - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25461303-ufc-fighter-allan-nascimento-dies-age-34"
-    },
-    {
-      "title": "MLB Trade Deadline: Kevin Gausman fills a Cubs need, and other deals made Monday - bleedcubbieblue.com",
-      "link": "https://www.bleedcubbieblue.com/chicago-cubs-analysis/227957/mlb-trade-deadline-kevin-gausman-cubs"
-    },
-    {
-      "title": "Commanders\u2019 offense gets cooking and other observations from Monday\u2019s practice - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2026/08/03/commanders-offense-gets-cooking-other-observations-mondays-practice/"
+      "title": "Aaron Rodgers Will Be Like No Other NFL QB Post-Career - Sports Illustrated",
+      "link": "https://www.si.com/nfl/aaron-rodgers-will-be-like-no-other-nfl-qb-post-career"
     },
     {
       "title": "Live: MLB trade deadline: Mariners appear to stay pat after Taylor Ward trade - seattletimes.com",
       "link": "https://www.seattletimes.com/sports/mariners/mlb-trade-deadline-live-updates-will-mariners-make-more-moves/"
     },
     {
+      "title": "UFC fighter Allan Nascimento, 34, found dead of apparent heart attack - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mma/article/ufc-fighter-allan-nascimento-34-found-dead-of-apparent-heart-attack-215855767.html"
+    },
+    {
       "title": "MLB trade deadline 2026: Biggest winners and losers - ESPN",
       "link": "https://www.espn.com/mlb/story/_/id/49521556/mlb-trade-deadline-2026-reaction-biggest-winners-losers-dodgers-orioles-phillies-brewers"
-    },
-    {
-      "title": "Diamondbacks To Acquire Lars Nootbaar - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/cardinals-trade-lars-nootbaar-diamondbacks.html"
-    },
-    {
-      "title": "SF Giants make 5 trades in final 24 hours before MLB trade deadline - SFGATE",
-      "link": "https://www.sfgate.com/giants/article/sfgiants-trade-deadline-22371586.php"
     },
     {
       "title": "6 performances of note from the Patriots\u2019 eighth training camp practice - Pats Pulpit",
@@ -142,28 +166,8 @@
       "link": "https://nypost.com/2026/08/03/sports/freddy-peraltas-candid-mets-admission-after-rays-trade/"
     },
     {
-      "title": "BREAKING NEWS: Guardians Trade for Foster Griffin from the Nationals - coveringthecorner.com",
-      "link": "https://www.coveringthecorner.com/cleveland-guardians-news/72279/breaking-news-guardians-trade-for-foster-griffin-from-the-nationals"
-    },
-    {
-      "title": "Twins To Acquire Jeff Hoffman - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/blue-jays-trade-jeff-hoffman-twins.html"
-    },
-    {
       "title": "Steelers 2026 Training Camp Diary: Day Five - Steelers Depot",
       "link": "https://steelersdepot.com/2026/08/steelers-2026-training-camp-diary-day-five/"
-    },
-    {
-      "title": "Caitlin Clark Breaks Her Silence on Sophie Cunningham\u2019s Controversial Anti-Transgender Comments - AOL.com",
-      "link": "https://people.com/caitlin-clark-breaks-her-silence-on-sophie-cunninghams-controversial-anti-transgender-comments-12032612"
-    },
-    {
-      "title": "Yankees Working To Acquire Heliot Ramos - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/yankees-working-to-acquire-heliot-ramos.html"
-    },
-    {
-      "title": "Cubs To Acquire Clay Holmes, Tyrone Taylor From Mets For Jefferson Rojas - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/cubs-to-acquire-clay-holmes-tyrone-taylor-from-mets-for-jefferson-rojas.html"
     }
   ],
   "weather": {
