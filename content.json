@@ -1,16 +1,20 @@
 {
-  "quote": "Everybody has talent, but ability takes hard work. \u2013 Michael Jordan",
-  "fact": "Virginia Woolf wrote all her books standing.",
-  "crypto": "BTC: $64,970 | ETH: $1,916.38",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did the green grape say to the purple grape?\r\nBREATH!!",
+  "quote": "Short cuts make long delays. \u2013 J.R.R. Tolkien",
+  "fact": "A horse can look forward with one eye and back with the other.",
+  "crypto": "BTC: $64,918 | ETH: $1,913.43",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I made a belt out of watches once... It was a waist of time.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "New Gemini overlay for Wear OS rolling out to Pixel Watch - 9to5Google",
+      "link": "http://9to5google.com/2026/08/06/gemini-overlay-wear-os/"
+    },
     {
       "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
       "link": "https://nintendoeverything.com/splatoon-raiders-1-1-1-update-out-now-patch-notes/"
@@ -36,10 +40,6 @@
       "link": "https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290"
     },
     {
-      "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
-      "link": "https://www.axios.com/2026/08/06/openai-chatgpt-upgrades-luna-free-paid"
-    },
-    {
       "title": "Fading Echo coming to Switch 2 - Gematsu",
       "link": "https://www.gematsu.com/2026/08/fading-echo-coming-to-switch-2"
     },
@@ -56,6 +56,10 @@
       "link": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141"
     },
     {
+      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+    },
+    {
       "title": "Review: Pok\u00e9mon Pokopia Expansion Pass - Part 1: Bubbly Basin (Switch 2) - A Great First Dive From The DLC - Nintendo Life",
       "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/pokemon-pokopia-expansion-pass"
     },
@@ -68,6 +72,10 @@
       "link": "https://www.techspot.com/news/113381-google-ai-told-people-flock-cameras-full-gold.html"
     },
     {
+      "title": "Infrared glasses could push the boundaries of human eyesight - Currently.com",
+      "link": "https://www.popsci.com/technology/infrared-glasses-human-eyesight/"
+    },
+    {
       "title": "Ghost Recon: Future Soldier is free to claim on PC for the next week - Video Games Chronicle",
       "link": "https://www.videogameschronicle.com/news/ghost-recon-future-soldier-is-free-to-claim-on-pc-for-the-next-week/"
     },
@@ -76,54 +84,46 @@
       "link": "https://gameinformer.com/2026/08/03/ghost-recon-25th-anniversary-video-reveals-free-wildlands-story-and-gameplay-updates"
     },
     {
-      "title": "Seann William Scott asks $17.5M for his dream Malibu surfing compound - New York Post",
-      "link": "https://nypost.com/2026/08/06/real-estate/seann-william-scott-asks-17-5m-for-malibu-surfing-compound/"
-    },
-    {
       "title": "It looks like Dell\u2019s initial Googlebook will be the XPS 13 - Chrome Unboxed",
       "link": "https://chromeunboxed.com/it-looks-like-dells-initial-googlebook-will-be-the-xps-13/"
     },
     {
       "title": "Sony's Looking to Bring More Ads to PlayStation, and Fans Won't Like It - Push Square",
       "link": "https://www.pushsquare.com/news/2026/08/sonys-looking-to-bring-more-ads-to-playstation-and-fans-wont-like-it"
-    },
-    {
-      "title": "MachineGames and id Software celebrate Quake\u2122\u2019s 30th Anniversary with a brand-new episode - slayersclub.bethesda.net",
-      "link": "https://slayersclub.bethesda.net/news/quake-dawn-of-the-machine-available-now"
     }
   ],
   "sports_news": [
     {
-      "title": "Gray's buzzer 3s lift Aces over Fever after Clark's miscues - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/49550041/gray-buzzer-3s-lift-aces-fever-clark-miscues"
+      "title": "Report: Leonard had undisclosed sponsorship deal with Daktronics - espn.com",
+      "link": "https://www.espn.com/nba/story/_/id/49550010/report-leonard-had-undisclosed-sponsorship-deal-daktronics"
     },
     {
-      "title": "Not one but TWO Marlins outfielders helped this Acu\u00f1a HR over the wall - MLB.com",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-home-run-after-it-deflects-off-two-marlins-players"
+      "title": "Aces star targets heckling Fever fans in Indy before Chelsea Gray stuns Caitlin Clark in OT thriller - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/aces-star-targets-heckling-fever-fans-indy-chelsea-gray-stuns-caitlin-clark-ot-thriller"
     },
     {
-      "title": "Carson Beck passed every test in NFL debut, here's why history says it doesn't matter - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/carson-beck-passed-every-test-heres-why-history-says-it-doesnt-matter/"
+      "title": "Carson Beck throws for 188 yards, TD in impressive preseason debut - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-throws-for-188-yards-td-in-impressive-preseason-debut"
     },
     {
-      "title": "Lions held firm at a bump above Bijan Robinson for Jahmyr Gibbs - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-held-firm-at-a-bump-above-bijan-robinson-for-jahmyr-gibbs"
+      "title": "\u2018Are you serious?\u2019: Megan Rapinoe wants \u2018accountability\u2019 from Sophie Cunningham - Yahoo Sports",
+      "link": "https://thecomeback.com/wnba/megan-rapinoe-sophie-cunningham-trans-comments.html"
     },
     {
-      "title": "Kyle Dubas Provides Insight into Ville Koivunen Contract - NHL.com",
-      "link": "https://www.nhl.com/penguins/news/kyle-dubas-provides-insight-into-ville-koivunen-contract"
+      "title": "2026 NFL Hall of Fame Game Recap: Immediate fantasy football takeaways from Panthers vs. Cardinals - PFF",
+      "link": "https://www.pff.com/news/fantasy-football-2026-nfl-hall-of-fame-game"
     },
     {
       "title": "Aaron Donald decision could be made in the coming days - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-decision-could-be-made-in-the-coming-days"
     },
     {
-      "title": "Multnomah County Approves Plan to Further Moda Center Renovation - Blazer's Edge",
-      "link": "https://www.blazersedge.com/trail-blazers-news/114968/multnomah-county-approves-plan-moda-center-portland-trail-blazers-arena"
+      "title": "Pittsburgh Penguins sign forward with just 14 career points to an 8-year, $32 million contract extension - RMNB",
+      "link": "https://russianmachineneverbreaks.com/2026/08/06/pittsburgh-penguins-ville-koivunen-contract-extension-8-year-32-million-14-points/"
     },
     {
-      "title": "2026 NFL Hall of Fame Game: Who's playing, live updates, more as Panthers and Cardinals face off in preseason opener - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/live/2026-nfl-hall-of-fame-game-whos-playing-live-updates-more-as-panthers-and-cardinals-face-off-in-preseason-opener-230000800.html"
+      "title": "Multnomah County Approves Plan to Further Moda Center Renovation - Blazer's Edge",
+      "link": "https://www.blazersedge.com/trail-blazers-news/114968/multnomah-county-approves-plan-moda-center-portland-trail-blazers-arena"
     },
     {
       "title": "Georgia top performers - Day Two - On3",
@@ -138,40 +138,40 @@
       "link": "https://www.patspulpit.com/new-england-patriots-training-camp/132717/winners-losers-patriots-training-camp-practice-thursday"
     },
     {
+      "title": "Postgame Pontifications: This is depressing - Sounder at Heart",
+      "link": "https://www.sounderatheart.com/2026/08/postgame-pontifications-this-is-depressing/"
+    },
+    {
       "title": "Day 6 News and Notes from Broncos Camp - Mile High Report",
       "link": "https://www.milehighreport.com/denver-broncos-training-camp/180716/2026-denver-broncos-training-camp-day-6-news-and-notes-courtland-sutton-pat-bryant-jahdae-barron-hall-of-fame-game"
-    },
-    {
-      "title": "Camp takeaways for all 32 teams: Who's turning heads? - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-training-camp-early-takeaways-for-all-32-teams"
-    },
-    {
-      "title": "Saints WR suspended for the first six games of his rookie season - Saints Wire",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/08/06/saints-player-suspended-brock-rechsteiner-nfl-rookie/91205617007/"
     },
     {
       "title": "Alex Bregman and PCA Steal a Win! Cubs 3, Blue Jays 2 \u2013 August 6, 2026 - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2026/08/06/alex-bregman-and-pca-steal-a-win-cubs-3-blue-jays-2-august-6-2026/"
     },
     {
-      "title": "Liberty surprisingly release Betnijah Laney-Hamilton after benching - Yahoo Sports",
-      "link": "https://sports.yahoo.com/wnba/article/liberty-surprisingly-release-betnijah-laney-hamilton-after-benching-211142013.html"
+      "title": "Lions, RB Jahmyr Gibbs agree to 3-year, $67.5M extension - espn.com",
+      "link": "https://www.espn.com/nfl/story/_/id/49547879/lions-rb-jahmyr-gibbs-agree-3-year-675m-extension"
     },
     {
       "title": "Woman struck in head by bat at Yankees game suing for $10M: Complaint - ABC News - Breaking News, Latest News and Videos",
       "link": "https://abcnews.com/US/woman-struck-head-bat-yankees-game-suing-10m/story?id\\\\u003d135430454"
     },
     {
-      "title": "Steelers 2026 Training Camp Diary: Day Seven - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/08/steelers-2026-training-camp-diary-day-seven/"
-    },
-    {
       "title": "Training Camp Notebook 8/6: Kirk Cousins, Fernando Mendoza showcase their strengths - Las Vegas Raiders",
       "link": "https://raiders-frontend.pocket.nfl.com/news/training-camp-notebook-8-6-kirk-cousins-fernando-mendoza-showcase-their-strengths"
     },
     {
-      "title": "Darren Elkins explains decision to retire after UFC Vegas 120, rules out going to BKFC: \u2018I\u2019d probably die\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/503445/darren-elkins-explains-decision-to-retire-after-ufc-vegas-120-rules-out-going-to-bkfc-id-probably-die"
+      "title": "Photo Gallery: Notre Dame Kicks Off Fall Camp - 247Sports",
+      "link": "https://247sports.com/college/notre-dame/longformarticle/photo-gallery-notre-dame-kicks-off-fall-camp-august-6-2026-288746949/"
+    },
+    {
+      "title": "Former NFL player Stedman Bailey and woman were arrested for getting it on in the bar area of a mall arcade - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/former-nfl-player-stedman-bailey-woman-arrested-getting-bar-area-mall-arcade"
+    },
+    {
+      "title": "Duane Kuiper weighs in on Mike Krukow retiring from the Giants\u2019 broadcast booth: \u2018Friendship never ends\u2019 - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/giants/article/duane-kuiper-weighs-mike-krukow-retiring-22377818.php"
     }
   ],
   "weather": {
