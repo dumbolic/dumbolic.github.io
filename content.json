@@ -1,9 +1,9 @@
 {
-  "quote": "Turn your wounds into wisdom. \u2013 Oprah Winfrey",
-  "fact": "Mr. Rogers is an ordained minister.",
-  "crypto": "BTC: $64,066 | ETH: $1,878.22",
+  "quote": "It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has. \u2013 Henry Ward Beecher",
+  "fact": "On average, 100 people choke to death on ball-point pens every year.",
+  "crypto": "BTC: $63,916 | ETH: $1,871.84",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Why is no one friends with Dracula? Because he's a pain in the neck.",
+  "joke": "I used to work for an origami company but they folded.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "How Does Your Samsung Galaxy Watch Measure Antioxidant Levels? - bgr.com",
+      "link": "https://www.bgr.com/2229118/how-samsung-galaxy-watch-antioxidant-sensor-works/"
+    },
     {
       "title": "7 Common Issues With The Toyota GR Corolla Hot Hatch - SlashGear",
       "link": "https://www.slashgear.com/2230733/common-issues-toyota-gr-corolla/"
@@ -26,10 +30,6 @@
     {
       "title": "The next year Call of Duty will introduce a new sub-series to replace Black Ops and Modern Warfare - GameGPU",
       "link": "https://en.gamegpu.com/news/igry/v-sleduyushchem-godu-call-of-duty-predstavit-novuyu-podseriiyu-vmesto-black-ops-i-modern-warfare"
-    },
-    {
-      "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week - Phoronix",
-      "link": "https://www.phoronix.com/news/Linux-7.2-rc7-Released"
     },
     {
       "title": "Sony Will Remain Mum On PlayStation Disc Making Process - Kotaku",
@@ -52,12 +52,24 @@
       "link": "https://gizmodo.com/rumored-never-to-be-released-apple-feature-may-have-been-too-much-truth-for-most-consumers-2000796260"
     },
     {
-      "title": "CachyOS August 2026 Release Preps For Upcoming Server Edition - Phoronix",
-      "link": "https://www.phoronix.com/news/CachyOS-August-2026"
+      "title": "What Is J-B Weld Used For And What Should It Not Be Used On? - SlashGear",
+      "link": "https://www.slashgear.com/2230710/jb-weld-what-used-for/"
+    },
+    {
+      "title": "4 Reasons Why People Ditch Their Alexa Devices - SlashGear",
+      "link": "https://www.slashgear.com/2230607/reasons-people-ditching-alexa-devices/"
     },
     {
       "title": "iPhone 17 set to break a record no flagship has touched in 15 years - 9to5Mac",
       "link": "https://9to5mac.com/2026/08/09/iphone-17-availability/"
+    },
+    {
+      "title": "Modder bypasses GeForce NOW interface to reach the Windows desktop - Neowin",
+      "link": "https://www.neowin.net/news/modder-bypasses-geforce-now-interface-to-reach-the-windows-desktop/"
+    },
+    {
+      "title": "Nintendo maintenance schedule \u2013 August 9, 2026 \u2013 Switch Online downtime coming soon - Nintendo Everything",
+      "link": "https://nintendoeverything.com/nintendo-maintenance-schedule-august-9-2026/"
     },
     {
       "title": "I used Gemini to plan and budget my vacation; I'm never doing it any other way - Android Police",
@@ -74,21 +86,13 @@
     {
       "title": "Steam Deck can now do something Sony usually charges \u00a3200 for thanks to this new cloud-streaming app - Eurogamer.net",
       "link": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi"
-    },
-    {
-      "title": "Amazon\u2019s $86 2-in-1 laptop and tablet has fully-integrated AI features - thestreet.com",
-      "link": "https://www.thestreet.com/shopping/aiprotablet-10-inch-android-16-tablet-amazon"
-    },
-    {
-      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays - MacRumors",
-      "link": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/"
-    },
-    {
-      "title": "This Battlefield 6 player somehow got a full refund with 470 hours on the clock - Eurogamer.net",
-      "link": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode"
     }
   ],
   "sports_news": [
+    {
+      "title": "Hezly Rivera repeats as U.S. all-around gymnastics champion with historic comeback - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/hezly-rivera-gymnastics-national-championships-2026"
+    },
     {
       "title": "Kyler Murray, J.J. McCarthy have rough spots in Vikings\u2019 night practice - Star Tribune",
       "link": "https://www.startribune.com/minnesota-vikings-training-camp-practice-live-updates-august-9-jj-mccarthy-kyler-murray-tco-stadium/601873728"
@@ -106,8 +110,12 @@
       "link": "https://nypost.com/2026/08/09/sports/ex-pga-golfer-matt-mcquillan-dead-at-45/"
     },
     {
-      "title": "Aces coach Becky Hammon benches 3 starters in what looks like WNBA scheduling protest in national TV game - Fox News",
-      "link": "https://www.foxnews.com/sports/aces-coach-becky-hammon-benches-3-starters-wnba-scheduling-protest-national-tv-game"
+      "title": "Sue Bird, Cheryl Miller give insight on narratives surrounding WNBA, Sophie Cunningham conversation - NBC Sports",
+      "link": "https://www.nbcsports.com/wnba/news/sue-bird-cheryl-miller-give-insight-on-narratives-surrounding-wnba-sophie-cunningham-conversation"
+    },
+    {
+      "title": "LIV Golf\u2019s product only mere background noise against tour\u2019s unfolding drama - nypost.com",
+      "link": "https://nypost.com/2026/08/09/sports/liv-golfs-product-only-mere-background-noise-against-tours-drama/"
     },
     {
       "title": "Aaron Donald decision is currently expected this week - NBC Sports",
@@ -120,6 +128,10 @@
     {
       "title": "Mariners reach new low in sweep by Rays to close homestand - The Seattle Times",
       "link": "https://www.seattletimes.com/sports/mariners/mariners-swept-by-rays-to-close-miserable-homestand/"
+    },
+    {
+      "title": "Buffalo Bills fans at the brand new $2.2 billion Highmark Stadium are finding their views are obstructed - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/buffalo-bills-fans-brand-new-2-2-billion-highmark-stadium-finding-views-obstructed"
     },
     {
       "title": "Bears Camp Report: New starting safety, another injury, Ruben Hyppolite shines, and more! - Windy City Gridiron",
@@ -154,20 +166,8 @@
       "link": "https://www.bbc.com/sport/golf/articles/c4gjqyw1zy3o"
     },
     {
-      "title": "WNBA media defends DiJonai Carrington after dangerous Sophie Cunningham hit reveals glaring bias - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/wnba-media-defends-dijonai-carrington-dangerous-sophie-cunningham-hit-reveals-glaring-bias"
-    },
-    {
       "title": "Lions will sign Josh Dobbs to replace Teddy Bridgewater - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-will-sign-josh-dobbs-to-replace-teddy-bridgewater"
-    },
-    {
-      "title": "Brooks Koepka misses FedExCup Playoffs in first season back from LIV Golf: 'It's pretty pathetic' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/golf/article/brooks-koepka-misses-fedexcup-playoffs-in-first-season-back-from-liv-golf-its-pretty-pathetic-195841011.html"
-    },
-    {
-      "title": "Packers training camp recap from closed practice, new injuries - Milwaukee Journal Sentinel",
-      "link": "https://www.jsonline.com/story/sports/nfl/packers/2026/08/09/packers-training-camp-live-updates-from-practice-injury-report--live/91233965007/"
     }
   ],
   "weather": {
