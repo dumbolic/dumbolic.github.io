@@ -1,9 +1,9 @@
 {
-  "quote": "Mind is the creator of everything. You should therefore guide it to create only good. \u2013 Paramahansa Yogananda",
-  "fact": "There was once an undersea post office in the Bahamas.",
-  "crypto": "BTC: $63,487 | ETH: $1,884.84",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Where does astronauts hangout after work? At the spacebar.",
+  "quote": "Elegance does not consist in putting on a new dress. \u2013 Coco Chanel",
+  "fact": "The \"Dull Men's Hall of Fame\" is located in Carroll, Wisconsin.",
+  "crypto": "BTC: $63,444 | ETH: $1,879.01",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Have you heard about the film \"Constipation\", you probably haven't because it's not out yet.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,54 @@
   "bing_background": "https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
+    },
+    {
+      "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
+      "link": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2"
+    },
+    {
+      "title": "\u2018Everyone\u2019 at Apple uses iPhone Ultra name, says Mark Gurman - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/"
+    },
+    {
+      "title": "King's Field IV Will Kill You, And Some Of You Will Like It - Kotaku",
+      "link": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569"
+    },
+    {
+      "title": "AirPods Pro 3 and more just got new public beta firmware - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/"
+    },
+    {
+      "title": "In Protest Of Mass Layoffs, Bethesda Devs Greet Xbox Leadership With A Giant Inflatable Rat - Kotaku",
+      "link": "https://kotaku.com/xbox-protests-zenimax-studios-maryland-scabby-cwa-2000723471"
+    },
+    {
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/"
+    },
+    {
+      "title": "Stop Killing Games Joins Lawsuit Against Sony Over Its \u2018Total Control Of PlayStation Store Pricing\u2019 - Kotaku",
+      "link": "https://kotaku.com/stop-killing-games-joins-lawsuit-against-sony-over-its-total-control-of-playstation-store-pricing-2000723377"
+    },
+    {
+      "title": "Tesla's New 'Preferred Routes' Doesn't Require the Summer Update - notateslaapp.com",
+      "link": "https://www.notateslaapp.com/news/4566/teslas-new-preferred-routes-doesnt-require-the-summer-update"
+    },
+    {
+      "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/"
+    },
+    {
+      "title": "Lord Of The Rings Xbox 360 Game Gets Surprise Shadow Drop For Modern Platforms - Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/08/lord-of-the-rings-xbox-360-game-gets-surprise-shadow-drop-for-modern-platforms"
+    },
+    {
+      "title": "Dive Beneath the Surface in Grounded 2\u2019s Biggest Update Yet: Into the Abyss - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/08/11/grounded-2-into-the-abyss-update-xbox/"
+    },
     {
       "title": "Google\u2019s upcoming Pixel phones are for the fans, even if its launch event isn\u2019t - The Verge",
       "link": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led"
@@ -24,8 +72,12 @@
       "link": "https://www.nintendolife.com/news/2026/08/elden-ring-for-switch-2-is-looking-pretty-slick-in-new-story-trailer"
     },
     {
-      "title": "The Lord of the Rings: War in the North - Legacy Edition now available for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/08/the-lord-of-the-rings-war-in-the-north-legacy-edition-now-available-for-ps5-xbox-series-switch-2-switch-and-pc"
+      "title": "Someone Drained All Water From Pokopia's Undersea Town - Kotaku",
+      "link": "https://kotaku.com/pokopia-bubbly-basin-drained-water-2000723399"
+    },
+    {
+      "title": "Much-wishlisted 100-player shooter Wardogs gets an early access release date and promises refunds for anyone unhappy with the closed beta - Eurogamer.net",
+      "link": "https://www.eurogamer.net/wardogs-steam-early-access-release-date-closed-beta"
     },
     {
       "title": "Control Resonant Wants 'To Challenge' What\u2019s Come Before In Action Games - IGN",
@@ -38,136 +90,88 @@
     {
       "title": "The Gears of War: E-Day Beta Shows UE5 Visuals at Their Best, Despite Sometimes Shaky Performance on Series X/S - Digital Foundry",
       "link": "https://www.digitalfoundry.net/previews/the-gears-of-war-e-day-beta-shows-ue5-visuals-at-their-best-despite-sometimes-shaky-performance-on-series-xs"
-    },
-    {
-      "title": "Marvel's Wolverine Limited Edition PS5 Consoles, Controllers Announced, Pre-Orders Next Week - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/08/marvels-wolverine-limited-edition-ps5-consoles-controllers-announced-pre-orders-next-week"
-    },
-    {
-      "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage - MacRumors",
-      "link": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/"
-    },
-    {
-      "title": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/"
-    },
-    {
-      "title": "Overwatch Battle Pass Revamp Is Helping With The FOMO - Kotaku",
-      "link": "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394"
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
-    },
-    {
-      "title": "One of the best AirPods Pro features is finally coming to Galaxy Buds - PhoneArena",
-      "link": "https://www.phonearena.com/news/best-airpods-feature-comes-to-galaxy-buds_id182519"
-    },
-    {
-      "title": "Supermassive Games announces layoffs, up to 75 workers may be affected - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected"
-    },
-    {
-      "title": "Super Mario Bros. Speedrunners Are 0.1 Seconds Away From Perfection - Kotaku",
-      "link": "https://kotaku.com/super-mario-bros-speedrunners-lekukie-kosmic-perfect-run-2000723375"
-    },
-    {
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call - WIRED",
-      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/"
-    },
-    {
-      "title": "Knights Of The Old Republic Was Censored In The Weirdest Way - Kotaku",
-      "link": "https://kotaku.com/star-wars-knights-of-the-old-republic-damn-lucasfilm-bioware-2000723372"
-    },
-    {
-      "title": "'A Must-Have Day One Purchase': You Only Need to Buy Control Resonant in September, Remedy Reckons - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/08/a-must-have-day-one-purchase-you-only-need-to-buy-control-resonant-in-september-remedy-reckons"
-    },
-    {
-      "title": "Latest iOS 27 Beta References Six Unreleased iPhone Models - MacRumors",
-      "link": "https://www.macrumors.com/2026/08/11/ios-27-beta-codenames-iphone-18-lineup/"
     }
   ],
   "sports_news": [
     {
-      "title": "Jets' Qwan'tez Stiggers Hospitalized After Leaving Practice in Ambulance - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25470219-jets-qwantez-stiggers-hospitalized-after-leaving-practice-ambulance"
+      "title": "Brewers Re-Sign Bryse Wilson - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/brewers-re-sign-bryse-wilson.html"
     },
     {
-      "title": "Yankees' Triple-A affiliate set to say goodbye to RailRiders name - MLB.com",
-      "link": "https://www.mlb.com/news/swb-railriders-to-change-name"
+      "title": "Jets CB Qwan\u2019tez Stiggers transported to the hospital after passing out at practice - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-cb-qwantez-stiggers-transported-to-the-hospital-after-passing-out-at-practice"
     },
     {
-      "title": "Cooper Flagg\u2019s 1-of-1 NBA rookie card found in Rhode Island - NBC News",
-      "link": "https://www.nbcnews.com/sports/nba/cooper-flagg-rookie-card-nba-dallas-mavericks-rcna591964"
+      "title": "Patriots training camp notebook: Drake Maye ends strong Colts joint practice on sour note - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/133049/patriots-training-camp-recap-drake-maye-colts-joint-practice"
     },
     {
-      "title": "Colts hold joint workout with New England Patriots, including a brief fight - IndyStar",
-      "link": "https://www.indystar.com/story/sports/nfl/colts/2026/08/11/colts-vs-patriots-all-the-highlights-from-joint-practice--live/91229275007/"
+      "title": "Yesavage has surgery on left knee, could still return this season - MLB.com",
+      "link": "https://www.mlb.com/news/trey-yesavage-surgery-left-knee"
     },
     {
-      "title": "Power Rankings: SB champs at 3; Pats outside top 10 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-power-rankings-rams-enter-preseason-on-top-seahawks-at-no-3-patriots-outside-top-10"
+      "title": "Cristiano Ronaldo, Georgina Rodr\u00edguez Get Married in Portugal, Share Photos of Rings - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25470286-cristiano-ronaldo-georgina-rodriguez-get-married-portugal-share-photos-rings"
     },
     {
-      "title": "Vikings name Kyler Murray starting QB, sources say - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49583297/vikings-name-kyler-murray-starting-qb-sources-say"
+      "title": "Why latest Coby Bryant injury news is bad for both Bears, Seahawks - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-nfl-draft/172202/why-chicago-bears-coby-bryant-injury-news-bad-seattle-seahawks-comp-picks"
     },
     {
-      "title": "What potential Bezos deal would mean for Liverpool - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cvgx311g1zko"
+      "title": "Notes and observations from Cowboys-Rams joint practice in Southern California - star-telegram.com",
+      "link": "https://www.star-telegram.com/sports/nfl/dallas-cowboys/article316844263.html"
     },
     {
-      "title": "Former NFL MVP Boomer Esiason goes scorched Earth on DiJonai Carrington following her 'white privilege' post - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/former-nfl-mvp-boomer-esiason-goes-scorched-earth-dijonai-carrington-following-white-privilege-post"
+      "title": "CBS is \"still assessing\" the \"evolving\" Tony Romo situation - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-is-still-assessing-the-evolving-tony-romo-situation"
     },
     {
-      "title": "Boerne Little League bypasses court-ordered replay, heads directly to World Series - WOAI",
-      "link": "https://news4sanantonio.com/news/local/boerne-little-leagues-world-series-trip-put-on-hold-after-stunning-court-ruling"
+      "title": "The Kyler Murray Project, Part I: Liberated - golongtd.com",
+      "link": "https://www.golongtd.com/p/the-kyler-murray-project-part-i-liberated"
     },
     {
-      "title": "Payton Talbott targeted to fight former UFC champion at UFC 332 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/504291/payton-talbott-targeted-to-fight-former-ufc-champion-at-ufc-332"
+      "title": "What Kyler Murray as QB1 means for Vikings, J.J. McCarthy - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49582977/new-minnesota-vikings-kyler-murray-jj-mccarthy-starter-qb1"
     },
     {
-      "title": "Jeff Hafley on De'Von Achane workload: He 'better be in good shape' - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49582399/jeff-hafley-devon-achane-workload-better-good-shape"
+      "title": "Dana White teases another UFC mega-event possibly in the works: \u2018I love it\u2019 - mmafighting.com",
+      "link": "https://www.mmafighting.com/ufc/504389/dana-white-teases-another-ufc-mega-event-possibly-in-the-works-i-love-it"
     },
     {
-      "title": "News roundup: Latest signings, cuts, injury updates - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-aug-11"
+      "title": "49ers, Titans Have 4 Fights in 10 Minutes at 1st Joint Practice Ahead of NFL Preseason Game - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25470260-49ers-titans-have-4-fights-10-minutes-1st-joint-practice-ahead-nfl-preseason-game"
     },
     {
-      "title": "Browns HC Monken Shuts Down Question on Shedeur Sanders, Deshaun Watson QB Battle in Funny Video - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25470172-browns-hc-monken-shuts-down-question-shedeur-sanders-deshaun-watson-qb-battle-funny-video"
+      "title": "Exclusive / Inside Trump\u2019s college sports lobbying push - Semafor",
+      "link": "https://www.semafor.com/article/08/11/2026/trump-runs-point-on-senates-college-sports-bill"
     },
     {
-      "title": "Bills address obstructed-view complaints after stadium debut - Democrat and Chronicle",
-      "link": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/08/11/buffalo-bills-respond-to-complaints-about-new-highmark-stadium/91254288007/"
+      "title": "Eagles 2026 training camp practice notes, Day 10: Depth in the trenches is looking good - phillyvoice.com",
+      "link": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-10-depth-in-trenches-looking-good/"
     },
     {
-      "title": "NBA tips off season on NBC and Peacock with tripleheader featuring LeBron, 76ers at New York on ring night - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/nba-tips-off-season-on-nbc-with-triple-header-featuring-lebron-philadelphia-at-new-york-on-ring-night"
+      "title": "Angels Fire Mike Maddux, Darryl Scott, Dom Chiti - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/angels-fire-mike-maddux-darryl-scott-dom-chiti.html"
     },
     {
-      "title": "Sleeper Picks: Who's a value play at FedEx St. Jude Championship? - PGA Tour",
-      "link": "https://www.pgatour.com/article/news/sleeper-picks/2026/08/11/sleeper-picks-fedex-st-jude-championship-tpc-southwind-odds-bets-fantasy-advice-long-shots-jackson-koivun"
+      "title": "WNBA becomes magnet for culture wars - The Hill",
+      "link": "https://thehill.com/policy/sports-gaming/6023157-wnba-culture-wars-politics/"
     },
     {
-      "title": "3 MLB Teams Already Regretting Their Trade Deadline Decisions - Deadspin",
-      "link": "https://deadspin.com/3-mlb-teams-already-regretting-their-trade-deadline-decisions/"
+      "title": "Eagles QB Jalen Hurts' speed in camp drawing rave reviews - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49584056/eagles-qb-jalen-hurts-speed-camp-drawing-rave-reviews"
     },
     {
-      "title": "EXCLUSIVE: Father Who Carried Injured Daughter in Viral Little League Moment Recalls His \u2018Dad Instincts\u2019 - TODAY.com",
-      "link": "https://www.today.com/parents/dads/dad-carries-daughter-little-league-softball-viral-video-interview-rcna591809"
+      "title": "Chiefs' Rashee Rice says jail sentence was 'learning experience' - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49584035/chiefs-rashee-rice-says-jail-sentence-was-learning-experience"
     },
     {
-      "title": "Eagles News: Jalen Hurts looks \u201cquicker and faster\u201d - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/179171/eagles-news-jalen-hurts-looks-quicker-and-faster"
+      "title": "Fantasy Baseball SP Roundup 8/10: Kremer The Crop - Pitcher List",
+      "link": "http://pitcherlist.com/sp-roundup-8-10-26/"
     },
     {
-      "title": "WNBA Power Rankings: Lynx, Aces, Fever, Valkyries lead way - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/49575389/wnba-power-rankings-2026-lynx-aces-fever-valkyries"
+      "title": "Ravens starting CB Nate Wiggins injures leg in 1-on-1 drills - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49583973/ravens-starting-cb-nate-wiggins-injures-leg-1-1-drills"
     }
   ],
   "weather": {
