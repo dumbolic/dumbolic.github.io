@@ -1,9 +1,9 @@
 {
-  "quote": "Unless a man is master of his soul, all other kinds of mastery amount to little. \u2013 Theodore Roosevelt",
-  "fact": "Ninety percent of all species that have become extinct have been birds.",
-  "crypto": "BTC: $63,102 | ETH: $1,883.55",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
+  "quote": "It's the possibility of having a dream come true that makes life interesting. \u2013 Paulo Coelho",
+  "fact": "Sharkskin has tiny tooth-like scales all over.",
+  "crypto": "BTC: $63,038 | ETH: $1,880.91",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Two peanuts were walking down the street. One was a salted.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,162 +12,166 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Microsoft is combining its Copilot apps ahead of a \u2018super app\u2019 - The Verge",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience"
+      "title": "Google\u2019s Pixel Tag picks a bold strategy in a sea of AirTag clones [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/08/13/google-pixel-tag-airtag-moto-tag/"
     },
     {
-      "title": "Pokemon Bank is shutting down, announcement released - Nintendo Everything",
-      "link": "https://nintendoeverything.com/pokemon-bank-is-shutting-down-announcement-released/"
+      "title": "GTA 6 Netflix Extended Look Could be Three Episodes - Insider Gaming",
+      "link": "https://insider-gaming.com/gta-6-netflix-extended-look-could-be-three-episodes/"
     },
     {
-      "title": "20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave - Eurogamer.net",
-      "link": "https://www.eurogamer.net/fire-emblem-fortunes-weave-preview"
+      "title": "Instagram Unveils \u2018More Modern\u2019 New Logo, and People Are Already Making Fun of It - Variety",
+      "link": "https://variety.com/2026/digital/news/instagram-unveils-new-logo-1236833931/"
+    },
+    {
+      "title": "There Is No Reason Not To Play South Of Midnight Anymore - Kotaku",
+      "link": "https://kotaku.com/south-of-midnight-compulsion-games-bds-xbox-2000724140"
+    },
+    {
+      "title": "'Halo Studios Went Too Far in the Wrong Direction' \u2014 Co-Creator of Halo Hits Out at the Main Menu Ring in Xbox's New Remake - IGN",
+      "link": "https://www.ign.com/articles/halo-studios-went-too-far-in-the-wrong-direction-co-creator-of-halo-hits-out-at-the-main-menu-ring-in-xboxs-new-remake"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version and Pok\u00e9mon LeafGreen Version Link with Pok\u00e9mon HOME This October - Pokemon.com",
+      "link": "https://www.pokemon.com/uk/news/pokemon-firered-version-and-pokemon-leafgreen-version-link-with-pokemon-home-this-october"
+    },
+    {
+      "title": "Free Play Days \u2013 Gears of War: E-Day Open Beta, Sunderfolk and Asdivine Cross - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/08/13/template-free-play-days-08-13-2026/"
+    },
+    {
+      "title": "The Porsche 911 Carrera S Adds a 6-Speed Stick, But Only for North American Buyers - Road & Track",
+      "link": "https://www.roadandtrack.com/news/a73395818/2027-porsche-911-carrera-s-manual/"
+    },
+    {
+      "title": "Should \u2018The Downfall Of ARC Raiders\u2019 Be Studied? - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/08/13/should-the-downfall-of-arc-raiders-be-studied/"
+    },
+    {
+      "title": "Google\u2019s Tensor G6 in Pixel 11 isn\u2019t the first 2nm smartphone chip after all - 9to5Google",
+      "link": "http://9to5google.com/2026/08/13/google-pixel-11-tensor-g6-chip-report/"
+    },
+    {
+      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event? - macrumors.com",
+      "link": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/"
+    },
+    {
+      "title": "Twitch Admits \u2018Nobody Would Opt-In\u2019 To AI Training, Here\u2019s How To Opt-Out - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/08/13/twitch-admits-nobody-would-opt-in-to-ai-training-heres-how-to-opt-out/"
+    },
+    {
+      "title": "Samsung\u2019s $1,900 Z Fold 8 is still vulnerable to pocket lint - The Verge",
+      "link": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge"
+    },
+    {
+      "title": "\u201cBack to the roots of endurance riding\u201d \u2013 new Trek Domane ditches IsoSpeed and in-frame storage to save 305 grams - BikeRadar",
+      "link": "https://www.bikeradar.com/news/2027-trek-domane"
+    },
+    {
+      "title": "GeForce NOW On Linux Native App Exits Beta - Phoronix",
+      "link": "https://www.phoronix.com/news/GeForce-NOW-Linux-Exits-Beta"
+    },
+    {
+      "title": "Google Has a Secret Weapon It Didn\u2019t Use on the Pixel 11, and I Don\u2019t Know Why - CNET",
+      "link": "https://www.cnet.com/tech/mobile/google-has-a-secret-weapon-it-didnt-use-on-the-pixel-11-and-i-dont-know-why/"
+    },
+    {
+      "title": "Switch 2 Mouse Controls Get Weird in \u2018Fire Emblem: Fortune\u2019s Weave\u2019 - Gizmodo",
+      "link": "https://gizmodo.com/switch-2-mouse-controls-get-weird-in-fire-emblem-fortunes-weave-2000797801"
     },
     {
       "title": "After this week's Elder Scrolls 6 tease, fans think they've figured out its full name - and it was hidden in Starfield all along - Eurogamer.net",
       "link": "https://www.eurogamer.net/the-elder-scrolls-6-subtitle-fan-theory-starfield"
     },
     {
-      "title": "Google Pixel 11 Can Cost Less Than Pixel 10 With Amazon\u2019s Pre-Order Perks - Gizmodo",
-      "link": "https://gizmodo.com/google-pixel-11-can-cost-less-than-pixel-10-with-amazons-pre-order-perks-2000798107"
-    },
-    {
-      "title": "Bethesda finally \"looking into\" patching Oblivion Remastered on PC, PS5 and Xbox amid praise for Switch 2 release - Eurogamer.net",
-      "link": "https://www.eurogamer.net/the-elder-scrolls-4-oblivion-remastered-performance-patch-switch-2"
-    },
-    {
-      "title": "iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - forbes.com",
-      "link": "https://www.forbes.com/sites/davidphelan/2026/08/13/iphone-18-pro-event-tipped-as-apple-shifts-key-release-schedule-date/"
-    },
-    {
-      "title": "Apple TV just added a bunch of classic movies to stream for free - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/"
-    },
-    {
-      "title": "10th Anniversary Celebration: Guaranteed Hundo Mewtwo Timed Research - pokemongohub.net",
-      "link": "https://pokemongohub.net/post/event/10th-anniversary-celebration-timed-research-guaranteed-hundo-mewtwo/"
-    },
-    {
-      "title": "Limited Run Announces Lord Of The Rings: War In The North Physical Release - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/08/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release"
-    },
-    {
-      "title": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ",
-      "link": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b"
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now - Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
-    },
-    {
-      "title": "Immortality Studio's Next Game Was Once An FMV Metroid Idea - Kotaku",
-      "link": "https://kotaku.com/sam-barlow-half-mermaid-immortality-precognition-fmv-metroid-2000723521"
-    },
-    {
-      "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
-      "link": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers"
-    },
-    {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor - The Hacker News",
-      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
-    },
-    {
-      "title": "iPhone Ultra\u2019s cameras might get very unorthodox placement, per leak - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/"
-    },
-    {
-      "title": "Phantom Blade Zero PS5 Demo Leaks Before Next Week's State of Play - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/08/phantom-blade-zero-ps5-demo-leaks-before-next-weeks-state-of-play"
-    },
-    {
-      "title": "Saber Interactive CEO responds to claims that a writer was replaced with AI - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/saber-interactive-denies-replacing-writer-with-ai"
-    },
-    {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/"
+      "title": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro - MacRumors",
+      "link": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/"
     }
   ],
   "sports_news": [
+    {
+      "title": "PFT\u2019s 2026 preseason power rankings - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-2026-preseason-power-rankings"
+    },
+    {
+      "title": "Kevin Warren: Bears\u2019 \u201csole focus\u201d is new stadium in Hammond, Indiana - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-warren-bears-sole-focus-is-new-stadium-in-hammond-indiana"
+    },
+    {
+      "title": "10 Lions who can improve their stock vs. Bengals in preseason - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-preseason/169075/10-lions-who-can-improve-their-stock-vs-bengals-in-preseason"
+    },
+    {
+      "title": "DJ Pickett\u2019s father responds to Jayden Daniels\u2019 cease and desist letter to LSU over jersey No. 5 - NOLA.com",
+      "link": "https://www.nola.com/sports/lsu/jayden-daniels-dj-pickett-lsu-football-jersey-five-father/article_9b2e5daf-493f-4417-a26e-18df300c11d3.html"
+    },
+    {
+      "title": "DiJonai Carrington hits two players across the face, receives technical foul after Sophie Cunningham drama - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/dijonai-carrington-hits-two-players-across-face-receives-technical-foul-sophie-cunningham-drama"
+    },
+    {
+      "title": "Red Sox To Place Garrett Whitlock On Injured List - mlbtraderumors.com",
+      "link": "https://www.mlbtraderumors.com/2026/08/red-sox-garrett-whitlock-injured-list-elbow.html"
+    },
+    {
+      "title": "Watch Paige Bueckers\u2019 \u2018funny\u2019 reaction to being held scoreless in first half for Dallas Wings - hitc.com",
+      "link": "https://www.hitc.com/watch-paige-bueckers-funny-reaction-to-being-held-scoreless-in-first-half-for-dallas-wings/"
+    },
+    {
+      "title": "Lakers sold at $12.5 billion valuation: NBA execs, agents react - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/49599895/los-angeles-lakers-sold-125-billion-valuation-nba-execs-agents-reaction-walter-kushner-iger-luka"
+    },
+    {
+      "title": "Mike Perry vs. Dillon Danis PPV price revealed - MMA Fighting",
+      "link": "https://www.mmafighting.com/latest-news/504622/mike-perry-vs-dillon-danis-ppv-price-revealed"
+    },
+    {
+      "title": "Week 1 of the preseason will have viewers scrambling to find the games - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/week-1-of-the-preseason-will-have-viewers-scrambling-to-find-the-games"
+    },
+    {
+      "title": "After 51.0 Split on Mixed Medley, Kate Douglass Scratches 100 Free Prelims on Thursday - SwimSwam",
+      "link": "https://swimswam.com/after-51-0-split-on-mixed-medley-kate-douglass-scratches-100-free-prelims-on-thursday/"
+    },
+    {
+      "title": "Jon Rahm's LIV Golf Future Reportedly In Doubt Years After Landing 9-Figure Contract - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25470709-jon-rahms-liv-golf-future-reportedly-doubt-years-after-landing-9-figure-contract"
+    },
     {
       "title": "5 things to watch in the Steelers\u2019 preseason opener against the Packers - Pittsburgh Post-Gazette",
       "link": "https://www.post-gazette.com/sports/steelers/2026/08/13/nfl-preseason-packers-germie-roman-wilson-allar-howard/stories/202608120032"
     },
     {
-      "title": "Jayden Daniels, LSU at odds over issuance of No. 5 to DJ Pickett - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-lsu-at-odds-over-issuance-of-no-5-to-dj-pickett"
+      "title": "8 Patriots to watch in the preseason opener vs. Colts - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-preseason/133143/players-to-watch-patriots-preseason-opener-colts"
     },
     {
-      "title": "Australia v Bangladesh: Steve Smith benefits from reprieve but tourists dominate day one of first Test - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/c86ndx87e8eo"
+      "title": "Ricky Pearsall has \"no regrets\" after surgery, expects nine-month recovery - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ricky-pearsall-has-no-regrets-after-surgery-expects-nine-month-recovery"
+    },
+    {
+      "title": "Doc Rivers still fighting for NBA coaches as he enters Basketball Hall of Fame - Andscape",
+      "link": "https://andscape.com/features/doc-rivers-basketball-hall-of-fame-induction-coach-celtics/"
+    },
+    {
+      "title": "Charlie Villanueva Reminisces on Russell Westbrook Feud in Video Congratulating Star on Retirement - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25470708-charlie-villanueva-reminisces-russell-westbrook-feud-video-congratulating-star-retirement"
+    },
+    {
+      "title": "49ers-Titans preview: 5 players with something to prove tonight - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-preseason/161230/49ers-titans-preview-5-players-with-something-to-prove-tonight"
     },
     {
       "title": "Vikings QB McCarthy: 'This is place I want to be' - NFL.com",
       "link": "https://www.nfl.com/news/vikings-j-j-mccarthy-after-losing-qb-battle-this-is-place-i-want-to-be"
     },
     {
-      "title": "TUF 34\u2019s Xavier Franklin calls Herb Dean a \u2018lying bastard\u2019 after controversial fight restart - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/504578/tuf-34s-xavier-franklin-calls-herb-dean-a-lying-bastard-after-controversial-fight-restart"
-    },
-    {
-      "title": "Lake Travis ISD confirms death of Lake Travis High School senior - KXAN Austin",
-      "link": "https://www.kxan.com/news/local/lake-travis-isd-confirms-death-of-lake-travis-high-school-senior/"
-    },
-    {
-      "title": "Hodgkinson into 800m final after dramatic Werro fall - BBC",
-      "link": "https://www.bbc.com/sport/athletics/articles/cgq5pd4n0y5o"
-    },
-    {
-      "title": "NFL preseason 2026: Eight teams that need August reps the most, from Dolphins to Browns - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/nfl-2026-preseason-dolphins-browns/"
-    },
-    {
-      "title": "Final preseason college football SP+ rankings, takeaways for 2026 - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49593338/final-preseason-college-football-sp+-rankings-takeaways-2026"
-    },
-    {
-      "title": "How to watch Lions vs. Bengals preseason: TV, time, online streaming - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-information/169052/how-to-watch-lions-vs-bengals-preseason-tv-time-online-streaming"
-    },
-    {
-      "title": "Matt Bowen's favorite fantasy football draft targets of 2026 - ESPN",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/49576653/fantasy-football-draft-targets-picks-fliers-breakouts-matt-bowen-2026"
-    },
-    {
-      "title": "Cadillac's shock F1 team boss sacking - our verdict - The Race",
-      "link": "https://www.the-race.com/formula-1/cadillac-shock-f1-team-boss-sacking-our-verdict/"
-    },
-    {
-      "title": "Travis Kelce wants to be a better leader for the Chiefs in 2026 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-wants-to-be-a-better-leader-for-the-chiefs-in-2026"
-    },
-    {
-      "title": "Dodgers 1B Freddie Freeman day-to-day with 'total body soreness' after scary fall down dugout steps - sports.yahoo.com",
-      "link": "https://sports.yahoo.com/mlb/article/dodgers-1b-freddie-freeman-day-to-day-with-total-body-soreness-after-scary-fall-down-dugout-steps-044700491.html"
-    },
-    {
-      "title": "2026 Pan Pacific Championships: Day 1 Finals Live Recap - SwimSwam",
-      "link": "https://swimswam.com/2026-pan-pacific-championships-day-1-finals-live-recap/"
-    },
-    {
-      "title": "Toronto Tempo vs. Dallas Wings Live Score and Stats - August 12, 2026 Gametracker - CBS Sports",
-      "link": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20260812_TOR@DAL/"
-    },
-    {
-      "title": "Not your average underdog, Ryder Cowan takes down Miles Russell with chip-in - Golf Channel",
-      "link": "https://www.golfchannel.com/usga/news/not-your-average-underdog-ryder-cowan-takes-down-miles-russell-with-chip-in"
-    },
-    {
-      "title": "Eighth-inning rally provides support for Soriano's stellar home debut - MLB.com",
-      "link": "https://www.mlb.com/news/jose-soriano-makes-first-home-start-for-blue-jays"
-    },
-    {
-      "title": "Padres finish homestand with walk-off win, sweep of Brewers - San Diego Union-Tribune",
-      "link": "https://wpdash.medianewsgroup.com/2026/08/12/padres-finish-homestand-sweep-with-walkoff-win-over-brewers/"
-    },
-    {
-      "title": "White Sox 5, Reds 0: Pitching proofs of concept - Sox Machine",
-      "link": "https://soxmachine.com/2026/08/white-sox-5-reds-0-pitching-proofs-of-concept"
+      "title": "Eagles practice updates: Live from training camp Day 11 - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/179289/eagles-practice-updates-live-from-training-camp-day-11"
     }
   ],
   "weather": {
