@@ -1,9 +1,9 @@
 {
-  "quote": "Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. \u2013 Alfred Adler",
-  "fact": "The average cough comes out of your mouth at 60 miles (96.5 km) per hour.",
-  "crypto": "BTC: $64,147 | ETH: $1,896.12",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.",
+  "quote": "I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. \u2013 Tony Robbins",
+  "fact": "The longest recorded flight  of a chicken is 13 seconds",
+  "crypto": "BTC: $64,316 | ETH: $1,903.19",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "When Dad drops a pea off of his plate \u2018oh dear I\u2019ve pee\u2019d on the table!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,72 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "10 Years Later, This is Still the Hardest Platinum Trophy I\u2019ve Ever Earned - IGN",
+      "link": "https://www.ign.com/articles/10-years-later-this-is-still-the-hardest-platinum-trophy-ive-ever-earned"
+    },
+    {
+      "title": "Intel tests 24-core and 28-core Nova Lake-S desktop CPUs with AVX-512 enabled - VideoCardz.com",
+      "link": "https://videocardz.com/newz/intel-tests-24-core-and-28-core-nova-lake-s-desktop-cpus-with-avx-512-enabled"
+    },
+    {
+      "title": "What will TV look like in three years? Media insiders share their predictions - CNBC",
+      "link": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
+    },
+    {
+      "title": "Apple Devices That Are Reaching The End Of Software Support In 2026 - bgr.com",
+      "link": "https://www.bgr.com/2234786/apple-devices-that-are-reaching-end-of-software-support-2026/"
+    },
+    {
+      "title": "Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned - Eurogamer",
+      "link": "https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games"
+    },
+    {
+      "title": "I moved back in with my parents at 31. These are the 3 things I wasn't prepared for. - Business Insider",
+      "link": "https://www.businessinsider.com/moved-back-in-with-parents-30s-not-prepared-surprising-things-2026-8#article"
+    },
+    {
+      "title": "What happens to the secrets you share with AI - Axios",
+      "link": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic"
+    },
+    {
+      "title": "Best Buy Customer Support Removed A 32GB DDR5 RAM Stick From Gaming Laptop After Charging Full Amount For The 64GB Configuration; Says Upgraded RAM Incompatible - Wccftech",
+      "link": "https://wccftech.com/best-buy-removes-ram-64gb-gaming-laptop-incompatibility-claim/"
+    },
+    {
       "title": "Video: Digital Foundry Breaks Down Oblivion's \"Frustrating Performance\" On Switch 2 - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/08/video-digital-foundry-breaks-down-oblivions-frustrating-performance-on-switch-2"
     },
     {
-      "title": "Intel confirms Nova Lake\u2019s new CPU core will debut on desktop first - videocardz.com",
-      "link": "https://videocardz.com/newz/intel-confirms-nova-lakes-new-cpu-core-will-debut-on-desktop-first"
+      "title": "Android 17 QPR 2 Beta 3 takes cell network security to the next level - Android Authority",
+      "link": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/"
     },
     {
       "title": "I\u2019m hooked on Peak Design\u2019s new City bags - The Verge",
       "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review"
     },
     {
+      "title": "SAPPHIRE unveils Radeon RX 9070 XT NITRO+ VCT CN 2026 edition - VideoCardz.com",
+      "link": "https://videocardz.com/newz/sapphire-unveils-radeon-rx-9070-xt-nitro-vct-cn-2026-edition"
+    },
+    {
+      "title": "Acer intros new MacBook Neo rival with 120Hz display and Thunderbolt 4 ports - Notebookcheck",
+      "link": "https://www.notebookcheck.net/Acer-intros-new-MacBook-Neo-rival-with-120Hz-display-and-Thunderbolt-4-ports.1370359.0.html"
+    },
+    {
       "title": "No Sony Characters in Fortnite's Big Gaming Celebration Season - pushsquare.com",
       "link": "https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season"
     },
     {
+      "title": "Land Rover Defender Dakar: 626Hp Rally Beast You Can Drive - Motor1.com",
+      "link": "https://www.motor1.com/news/805100/2027-land-rover-defender-dakar/"
+    },
+    {
       "title": "Sony's Purge on PS5 Shovelware May Now Have Hit a Legit Indie Dev - Push Square",
       "link": "https://www.pushsquare.com/news/2026/08/sonys-purge-on-ps5-shovelware-may-now-have-hit-a-legit-indie-dev"
+    },
+    {
+      "title": "Switch 2 Games Drop to All-Time Low Prices for 24-Hours Using This Promo Code - ign.com",
+      "link": "https://www.ign.com/articles/woot-promo-code-switch-2-game-deals"
     },
     {
       "title": "Google quietly resurrects a Pixel gesture we first spotted over a year ago - Android Authority",
@@ -42,76 +90,36 @@
     {
       "title": "TSURUGIHIME combat-focused closed beta test set for August 25 to September 6 - Gematsu",
       "link": "https://www.gematsu.com/2026/08/tsurugihime-combat-focused-closed-beta-test-set-for-august-25-to-september-6"
-    },
-    {
-      "title": "CEO 2026 results - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/aug/14/ceo-2026-results/"
-    },
-    {
-      "title": "Final UI for Googlebook \u2018Desktop Camera\u2019 app revealed [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/08/16/googlebooks-desktop-camera/"
-    },
-    {
-      "title": "Who Owns Commodore? The Retro PC Brand Still Exists, But A Lot Has Changed - bgr.com",
-      "link": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/"
-    },
-    {
-      "title": "24 Clean Memes That Are Actually Hilarious - Yahoo",
-      "link": "https://www.buzzfeed.com/andyneuenschwander/memes-from-this-week-that-are-clean-but-still-funny?origin=bf-yahoo"
-    },
-    {
-      "title": "I think the real choice comes down to iPhone 18 Pro or iPhone Ultra this year - PhoneArena",
-      "link": "https://www.phonearena.com/news/iphone-18-pro-iphone-ultra-launch-price-demand_id182609"
-    },
-    {
-      "title": "Nintendo Switch eShop latest sales: lowest prices ever for Front Mission remakes, New Super Lucky's Tale, more - Nintendo Everything",
-      "link": "https://nintendoeverything.com/nintendo-switch-eshop-latest-sales-lowest-prices-ever-for-front-mission-remakes-new-super-luckys-tale-more/"
-    },
-    {
-      "title": "Here's How Much A 2021 Ford Mustang Mach 1 Has Depreciated In 5 Years - Jalopnik",
-      "link": "https://www.jalopnik.com/2234582/2021-ford-mustang-mach-1-5-year-depreciation/"
-    },
-    {
-      "title": "Satellite operators emphasize launch deals in a constrained market - SpaceNews",
-      "link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/"
-    },
-    {
-      "title": "Linux Kernel 7.2 Officially Released, This Is What\u2019s New - 9to5Linux",
-      "link": "https://9to5linux.com/linux-kernel-7-2-officially-released-this-is-whats-new"
-    },
-    {
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/"
-    },
-    {
-      "title": "Code faster with Microsoft Visual Studio 2026 for $30 - Mashable",
-      "link": "https://mashable.com/tech/aug-16-microsoft-visual-studio-professional-2026"
-    },
-    {
-      "title": "The Citizen Series 8 880 GMT Turns You Into a Local, Twice Over - Fratello Watches",
-      "link": "https://www.fratellowatches.com/?p=382297"
     }
   ],
   "sports_news": [
     {
+      "title": "NFL Future Power Rankings: 2027-29 projections for 32 teams - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49582613/2026-nfl-future-power-rankings-projections-32-teams-roster-coaching-quarterback"
+    },
+    {
+      "title": "Albert Breer\u2019s Takeaways: Caleb Williams\u2019s Humbling Process Helped Him Become a Confident QB Today - si.com",
+      "link": "https://www.si.com/nfl/albert-breer-takeaways-training-camp-caleb-williams-humbling-process"
+    },
+    {
       "title": "Von Miller calls signing with the Cowboys \"a dream within a dream\" - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-calls-signing-with-the-cowboys-a-dream-within-a-dream"
+    },
+    {
+      "title": "College Football Rankings: Where All 138 FBS Teams Stand Ahead Of 2026 Kickoff - FOX Sports",
+      "link": "https://www.foxsports.com/stories/college-football/rankings-2026-preseason-138"
     },
     {
       "title": "Jordan Spieth\u2019s late meltdown cost him guaranteed chance at $20 million events in 2027 - New York Post",
       "link": "https://nypost.com/2026/08/16/sports/jordan-spieths-fedex-st-jude-meltdown-could-come-with-heavy-2027-price/"
     },
     {
-      "title": "Fever defeat Dream in OT to secure key win as season winds down - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/49634789/fever-defeat-dream-ot-secure-key-win-season-winds-down"
+      "title": "2026 NFL Preseason Week 1 Winners and Losers - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25472388-2026-nfl-preseason-week-1-winners-and-losers"
     },
     {
       "title": "From saying he\u2019s being \u2018punished\u2019 to vowing to \u2018attack\u2019 latest \u2018challenge,\u2019 Packers cornerback Keisean Nixon faces questions - Channel 3000",
       "link": "https://www.channel3000.com/news/top-stories/from-saying-he-s-being-punished-to-vowing-to-attack-latest-challenge-packers-cornerback-keisean/article_97e2f964-3c49-415f-83c3-967d78821e69.html"
-    },
-    {
-      "title": "Steelers inside the ropes: Tempers flare in what was most physical practice yet - triblive.com",
-      "link": "https://triblive.com/sports/steelers-inside-the-ropes-tempers-flare-in-what-was-most-physical-practice-yet/"
     },
     {
       "title": "Sources: Cardinals RB Love likely to sit rest of preseason - ESPN",
@@ -126,6 +134,10 @@
       "link": "https://www.post-gazette.com/sports/pirates/2026/08/16/pirates-cherington-paul-skenes-cruz-griffin-rodriguez/stories/202608160077"
     },
     {
+      "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller"
+    },
+    {
       "title": "Minnesota Vikings lose Adams for season due to knee injury - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49633559/minnesota-vikings-lose-adams-season-due-knee-injury"
     },
@@ -134,16 +146,16 @@
       "link": "https://www.sfchronicle.com/sports/giants/article/sf-giants-pitchers-issue-10-walks-loss-rockies-22390547.php"
     },
     {
+      "title": "6 performances of note from the Patriots\u2019 16th training camp practice - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/133589/winners-losers-patriots-training-camp-practice-monday"
+    },
+    {
       "title": "Points and Payouts: See what each player takes home from FedEx St. Jude Championship - PGA Tour",
       "link": "https://www.pgatour.com/article/news/betting-dfs/2026/08/16/points-and-payouts-see-what-each-player-brings-home-from-fedex-st-jude-championship-tpc-southwind"
     },
     {
-      "title": "ESPN reporter updates Browns QB battle between Deshaun Watson, Shedeur Sanders - Dawgs By Nature",
-      "link": "https://www.dawgsbynature.com/cleveland-browns-news/130420/espn-browns-qb-competition-deshaun-watson-shedeur-sanders"
-    },
-    {
-      "title": "\"Naturally,\" JJ McCarthy Wants Out of MN ASAP, Reports Insider - minnesotasportsfan.com",
-      "link": "https://www.minnesotasportsfan.com/minnesota-vikings/report-jj-mccarthy-wants-trade-asap-destinations/"
+      "title": "Shedeur Sanders gets the full first half vs. the Bills \u2014 here's what he needs to do to win the Browns' starting job - Cleveland.com",
+      "link": "https://www.cleveland.com/browns/2026/08/how-shedeur-sanders-can-make-a-case-to-beat-out-deshaun-watson-in-sanders-biggest-week-of-camp-mary-kay-cabot.html"
     },
     {
       "title": "Player Ratings: Schalke 0 - 3 Real Madrid - Managing Madrid",
@@ -154,24 +166,12 @@
       "link": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
     },
     {
+      "title": "A\u2019s Place Tyler Soderstrom On 10-Day IL Due To Hip Impingement - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/as-place-tyler-soderstrom-on-10-day-injured-list-due-to-hip-impingement.html"
+    },
+    {
       "title": "How Witherspoon deal impacts Seahawks\u2019 salary cap space - Seattle Sports",
       "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/how-devon-witherspoon-deal-impacts-seattle-seahawks-salary-cap-space"
-    },
-    {
-      "title": "Aaron Donald worked out at Rams facility for a second time - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-worked-out-at-rams-facility-for-a-second-time"
-    },
-    {
-      "title": "Takeaways as Bohm leads Phillies' fightback after Painter's early trouble - NBC Sports Philadelphia",
-      "link": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/alec-bohm-andrew-painter-jhoan-duran-road-trip/747025/"
-    },
-    {
-      "title": "White Sox 7, Tigers 5: Digging deep to secure a sweep - Sox Machine",
-      "link": "https://soxmachine.com/2026/08/white-sox-7-tigers-5-digging-deep-to-secure-a-sweep"
-    },
-    {
-      "title": "Red Sox Notes: Yoshida, Slaten, Anthony, Story, IKF - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/red-sox-notes-yoshida-slaten-anthony-story-ikf.html"
     }
   ],
   "weather": {
