@@ -1,9 +1,9 @@
 {
-  "quote": "If you don't like something change it; if you can't change it, change the way you think about it. \u2013 Mary Engelbreit",
-  "fact": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
-  "crypto": "BTC: $72,283 | ETH: $2,322.26",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "I\u2019ve just been reading a book about anti-gravity, it\u2019s impossible to put down!",
+  "quote": "All our dreams can come true, if we have the courage to pursue them. \u2013 Walt Disney",
+  "fact": "Greece's national anthem has 158 verses.",
+  "crypto": "BTC: $72,707 | ETH: $2,341.68",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google\u2019s Pixel 11 Pro Fold feels like the end of an era - The Verge",
+      "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review"
+    },
+    {
+      "title": "Subnautica 2 Buddy System Update - Unknown Worlds",
+      "link": "https://unknownworlds.com/news/subnautica-2-buddy-system-update"
+    },
+    {
+      "title": "Apple iPhone 18 event \u2014 all the new products expected to launch in September - tomsguide.com",
+      "link": "https://www.tomsguide.com/phones/iphones/apple-iphone-18-event-all-the-new-products-expected-to-launch-in-september"
+    },
+    {
+      "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update - MacRumors",
+      "link": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/"
+    },
+    {
+      "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI - MacRumors",
+      "link": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/"
+    },
+    {
+      "title": "\u2018GTA VI\u2019 Leaker Reveals Their Motivations, Promises More To Come - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/08/19/gta-vi-leaker-reveals-their-motivations-promises-more-to-come/"
+    },
+    {
+      "title": "Nightdive Studio's Next Remaster Joins A Jam-Packed September - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/08/nightdive-studios-next-remaster-joins-a-jam-packed-september"
+    },
+    {
+      "title": "STALKER 2: Cost of Hope Review\u2014The Zone Will Never Be The Same After This - insider-gaming.com",
+      "link": "https://insider-gaming.com/reviews/stalker-2-cost-of-hope-review-zone-never-be-the-same/"
+    },
+    {
       "title": "6 Ways PS5's Tides of Annihilation Blew Me Away After 2 Hours of Play - Push Square",
       "link": "https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play"
     },
     {
-      "title": "PlayStation Reboots \u2018Horizon Hunters Gathering\u2019 as Live-Service Strategy Struggles - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-19/playstation-reboots-horizon-hunters-gathering-as-live-service-strategy-struggles"
+      "title": "\"We chose the worst time in history\" \u2013 Harvey Smith on starting his own studio after Arkane - GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane"
     },
     {
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6 - Eurogamer",
-      "link": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date"
+      "title": "PlayStation Reboots \u2018Horizon Hunters Gathering\u2019 as Live-Service Strategy Struggles - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/playstation-reboots-horizon-hunters-gathering-as-live-service-strategy-struggles"
     },
     {
       "title": "Wolverine PS5 Consoles, Accessories Available to Pre-Order Now - Push Square",
@@ -32,12 +64,12 @@
       "link": "https://videocardz.com/newz/nvidia-geforce-now-adds-official-firefox-support-up-to-1440p-120-fps"
     },
     {
-      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar - Eurogamer",
-      "link": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek"
-    },
-    {
       "title": "4 Cool New Anker Accessories You Should Check Out In 2026 - bgr.com",
       "link": "https://www.bgr.com/2236562/cool-new-anker-accessories-2026/"
+    },
+    {
+      "title": "5 smartwatches you should buy instead of the Google Pixel Watch 5 - Android Authority",
+      "link": "https://www.androidauthority.com/google-pixel-watch-5-alternatives-3696512/"
     },
     {
       "title": "Gran Turismo 7 Update Confirmed for August 20: Three Performance Sedans, Caterham Returns - GTPlanet",
@@ -56,46 +88,54 @@
       "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest"
     },
     {
-      "title": "With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels - Android Authority",
-      "link": "https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/"
-    },
-    {
-      "title": "Gboard Rambler has a usage limit, and here's what happens when you reach it (Update) - Android Authority",
-      "link": "https://www.androidauthority.com/gboard-rambler-usage-limit-3699660/"
-    },
-    {
-      "title": "Googlebooks are finally getting their big reveal on September 15 - Android Authority",
-      "link": "https://www.androidauthority.com/googlebook-launch-date-3700141/"
-    },
-    {
-      "title": "Pixel Watch 1 not losing Google Health sleep, workout support - 9to5Google",
-      "link": "http://9to5google.com/2026/08/18/pixel-watch-1-support/"
-    },
-    {
-      "title": "Into the Dead: Our Darkest Days launches in March 2027 for PS5, Xbox Series, Switch 2, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/08/into-the-dead-our-darkest-days-launches-in-march-2027-for-ps5-xbox-series-switch-2-and-pc"
-    },
-    {
-      "title": "Microsoft admits its Windows 11 right-click menu needs fixing \u2014 but there is already a better option - makeuseof.com",
-      "link": "https://www.makeuseof.com/windows-11-right-click-menu-update-and-better-option/"
-    },
-    {
-      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
-      "link": "https://www.macrumors.com/guide/iphone-18-release-schedule/"
-    },
-    {
-      "title": "Claude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding. - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981739/claude-gmail-google-drive-connector-cowork-mobile-web"
+      "title": "HP's Googlebook leak highlights support for 'Continue On,' Google's version of Handoff - Android Authority",
+      "link": "https://www.androidauthority.com/hp-googlebook-leak-handoff-3700179/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Report: Tyler Biadasz out indefinitely with ACL damage, more injuries to left knee - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tyler-biadasz-out-indefinitely-with-acl-damage-more-injuries-to-left-knee"
+    },
+    {
+      "title": "Braves Temporarily Move To Six-Man Rotation - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/braves-temporarily-move-to-six-man-rotation.html"
+    },
+    {
+      "title": "DHS taunts detained Padres coach in fiery social media post - Chron",
+      "link": "https://www.chron.com/news/article/padres-coach-ice-detainment-22394509.php"
+    },
+    {
+      "title": "Sources: Giants agree to trade Daniel Faalele to Jaguars - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49659019/sources-giants-agree-trade-daniel-faalele-jaguars"
+    },
+    {
+      "title": "Brewers' 22-0 blowout of the Mariners headlined by brutal Julio Rodr\u00edguez mental gaffe - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/brewers-mariners-blowout-julio-rodriguez/"
+    },
+    {
+      "title": "Mourinho fires Real Madrid shot at Barcelona saying he \u2018didn\u2019t need\u2019 Rodri - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri"
+    },
+    {
+      "title": "Sophie Cunningham sent a loud and clear message after getting viciously booed in Canada - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-sent-loud-clear-message-viciously-booed-canada"
+    },
     {
       "title": "Carlos Sainz agrees new multi-year contract with Williams as team complete 2027 driver line-up - Formula 1",
       "link": "https://www.formula1.com/en/latest/article/sainz-agrees-new-multi-year-contract-with-williams-as-team-complete-2027-driver-line-up.66fBQTFaXXt7oIUfzi8NiO"
     },
     {
-      "title": "8 Fantasy Football Breakout Players for 2026 - FantasyPros",
-      "link": "https://www.fantasypros.com/2026/08/8-fantasy-football-breakout-players-for-2026/"
+      "title": "2026 Rotoworld Fantasy Football Mock Draft: Full results, best picks and biggest reaches - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/2026-rotoworld-fantasy-football-mock-draft-full-results-best-picks-and-biggest-reaches"
+    },
+    {
+      "title": "Stars and stripes everywhere as IndyCar teams adopt special liveries ahead of Freedom 250 - RACER - Racing News",
+      "link": "https://racer.com/2026/08/19/stars-and-stripes-everywhere-as-indycar-teams-adopt-special-liveries-ahead-of-freedom-250"
+    },
+    {
+      "title": "The Texans\u2019 Defensive Stars Are Chasing More Than Just the Franchise\u2019s First Super Bowl - Sports Illustrated",
+      "link": "https://www.si.com/nfl/texans-defensive-stars-chasing-first-super-bowl-digital-cover"
     },
     {
       "title": "Najee Harris: I know I have a lot to prove coming off a torn Achilles - NBC Sports",
@@ -110,8 +150,8 @@
       "link": "https://www.espn.com/mlb/story/_/id/49648813/2026-national-league-mvp-shohei-ohtani-pete-crow-armstrong-pca-award"
     },
     {
-      "title": "\u2018Rodri had doubts\u2019 - Jose Mourinho says Real Madrid made \u2018very good offer\u2019 to Man City star before Barcelona transfer - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/129570/rodri-doubts-jose-mourinho-says-real-madrid-very-good-offer"
+      "title": "One bet for every CFB team in the AP preseason poll -- and three bonus bets to keep an eye on - ESPN",
+      "link": "https://www.espn.com/espn/betting/story/_/id/49651815/college-football-betting-2026-ap-preseason-poll-best-bets-odds"
     },
     {
       "title": "Preseason college football Bottom 10: Jayden Daniels' number is up - ESPN",
@@ -122,52 +162,16 @@
       "link": "https://www.phillyvoice.com/six-players-well-be-watching-eagles-patriots-joint-practices-jalen-hurts-dontayvion-wicks-a-j-brown/"
     },
     {
-      "title": "Canadian powerlifting champion April Hutchinson leads first Sophie Cunningham rally outside the US - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/canadian-powerlifting-champion-april-hutchinson-leads-first-sophie-cunningham-rally-outside-us"
-    },
-    {
       "title": "Alvin Kamara exits scrimmage with knee injury - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-18/alvin-kamara-exits-scrimmage-with-knee-injury"
     },
     {
-      "title": "How to watch, listen to and livestream Raiders at Texans - Raiders.com",
-      "link": "https://raiders-frontend.pocket.nfl.com/news/how-to-watch-listen-to-and-livestream-las-vegas-raiders-at-houston-texans-espn-2026-preseason-082026"
+      "title": "Dante Moore wins QB debate as USA TODAY Sports reveals 2026 Preseason All-America Team - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/08/19/college-foootball-all-america-team-usa-today-sports-2026-preseason/91338275007/"
     },
     {
-      "title": "The QB Indiana left behind is ready for his own Mendoza Moment at Georgia Tech - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/acc/2026/08/19/alberto-mendoza-fernando-brother-georgia-tech-indiana-transfer-curt-cignetti/91363278007/"
-    },
-    {
-      "title": "Kellen Moore on practice fights with Cowboys: Not ideal, but we got the work we need - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-on-practice-fights-with-cowboys-not-ideal-but-we-got-the-work-we-need"
-    },
-    {
-      "title": "RSL to Crystal Palace: Zavier Gozo achieves marquee transfer - MLSsoccer.com",
-      "link": "https://www.mlssoccer.com/news/rsl-to-crystal-palace-zavier-gozo-achieves-marquee-transfer"
-    },
-    {
-      "title": "Enhanced Box Score: Cubs 4, White Sox 3 \u2013 August 18, 2026 - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/08/19/enhanced-box-score-cubs-4-white-sox-3-august-18-2026/"
-    },
-    {
-      "title": "Sydney Swans ban 5 players for rest of AFL season over hotel misconduct and a police investigation - AP News",
-      "link": "https://apnews.com/article/sydney-swans-bans-australian-rules-afl-6697b76c928fb35c72ca47ec21b882ba"
-    },
-    {
-      "title": "Rodr\u00edguez's gaffe a microcosm of worst loss in Mariners history - MLB.com",
-      "link": "https://www.mlb.com/news/julio-rodriguez-throws-ball-into-stands-in-mariners-loss-to-brewers"
-    },
-    {
-      "title": "The Fernando Tatis Jr. Show carries Padres past Mets - San Diego Union-Tribune",
-      "link": "https://wpdash.medianewsgroup.com/2026/08/18/the-fernando-tatis-jr-show-carries-padres-past-mets/"
-    },
-    {
-      "title": "Shohei Ohtani Reaches Another HR Milestone, Latest Box Score Stats & Highlights from Dodgers-Rockies - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25474617-shohei-ohtani-reaches-another-hr-milestone-latest-box-score-stats-highlights-dodgers-rockies"
-    },
-    {
-      "title": "Jamal Musiala collapses once again during Bayern Munich friendly - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-injuries/244798/jamal-musiala-collapses-once-again-during-friendly"
+      "title": "Highest-graded NFL rookies after Week 1 of the 2026 preseason - PFF",
+      "link": "https://www.pff.com/news/nfl-preseason-rookie-rankings-2026"
     }
   ],
   "weather": {
