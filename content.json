@@ -1,9 +1,9 @@
 {
-  "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. \u2013 Albus Dumbledore",
-  "fact": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
-  "crypto": "BTC: $71,853 | ETH: $2,279.87",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why are ghosts bad liars? Because you can see right through them!",
+  "quote": "What one does is what counts. Not what one had the intention of doing. \u2013 Pablo Picasso",
+  "fact": "Tehran is the most expensive city on earth.",
+  "crypto": "BTC: $71,998 | ETH: $2,306.21",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why do ducks make great detectives? They always quack the case.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,40 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Feeling restless? Level up your life by starting a side quest - NPR",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest"
+    },
+    {
+      "title": "With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels - Android Authority",
+      "link": "https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/"
+    },
+    {
       "title": "Gboard Rambler has a usage limit, and here's what happens when you reach it (Update) - Android Authority",
       "link": "https://www.androidauthority.com/gboard-rambler-usage-limit-3699660/"
     },
     {
-      "title": "Ninja Baseball League-Man: Bases Loaded announced for Nintendo Switch 2 - 1993 game returns with new content and features - Nintendo Everything",
-      "link": "https://nintendoeverything.com/ninja-baseball-league-man-bases-loaded-announced-for-nintendo-switch-2-1993-game-returns-with-new-content-and-features/"
+      "title": "Googlebooks are finally getting their big reveal on September 15 - Android Authority",
+      "link": "https://www.androidauthority.com/googlebook-launch-date-3700141/"
+    },
+    {
+      "title": "Into the Dead: Our Darkest Days launches in March 2027 for PS5, Xbox Series, Switch 2, and PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/08/into-the-dead-our-darkest-days-launches-in-march-2027-for-ps5-xbox-series-switch-2-and-pc"
+    },
+    {
+      "title": "Vibes Around GTA VI Continue To Be Rancid As Gameplay Footage Leaks And Fired Devs Ask Fans Not To Boycott - Aftermath",
+      "link": "https://aftermath.site/gta-6-leak-2026-rockstar-union-no-boycott/"
     },
     {
       "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
       "link": "https://www.macrumors.com/guide/iphone-18-release-schedule/"
     },
     {
+      "title": "Claude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding. - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981739/claude-gmail-google-drive-connector-cowork-mobile-web"
+    },
+    {
       "title": "Samsung Galaxy owners just got a care and repair hub right in their phone settings - Android Police",
       "link": "https://www.androidpolice.com/samsung-galaxy-owners-just-got-a-care-and-repair-hub-right-in-their-phone-settings/"
-    },
-    {
-      "title": "Apple Wallet driver\u2019s licenses coming to these states next - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/"
-    },
-    {
-      "title": "Google just set the date for its big Googlebook event in New York - Android Central",
-      "link": "https://www.androidcentral.com/chromebooks-laptops/google-announces-in-person-nyc-event-for-googlebooks-in-september"
-    },
-    {
-      "title": "GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero - The Drive",
-      "link": "https://www.thedrive.com/news/gta-6-leaked-gameplay-shows-off-chaos-in-a-knockoff-ranchero"
     },
     {
       "title": "Deus Ex, Epic Mickey Creator Warren Spector Retires From Game Development After Over 40 Years - Game Informer",
@@ -52,8 +60,20 @@
       "link": "https://www.bgr.com/2239495/reasons-skip-iphone-18-pros-cons-iphone-17/"
     },
     {
-      "title": "NBA 2K27 Just Rewrote The Sports Game Story Mode - GameSpot",
-      "link": "https://www.gamespot.com/articles/nba-2k27-just-rewrote-the-sports-game-story-mode/"
+      "title": "The latest Galaxy Tab S12 Ultra reveals that Samsung doesn\u2019t want to change anything at all - PhoneArena",
+      "link": "https://www.phonearena.com/news/the-latest-galaxy-tab-s12-ultra-reveals-that-samsung-doesnt-want-to-change-anything-at-all_id182660"
+    },
+    {
+      "title": "Apple pulls AI \u2018nudify\u2019 app promoted in Meta ads - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/"
+    },
+    {
+      "title": "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy - notebookcheck.net",
+      "link": "https://www.notebookcheck.net/GTA-6-gameplay-and-map-leaks-see-DMCA-strikes-as-confidence-grows-in-their-legitimacy.1372162.0.html"
+    },
+    {
+      "title": "NBA 2K27 Announces New Gameplay Features in Videos from Global Game Reveal - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25474443-nba-2k27-announces-new-gameplay-features-videos-global-game-reveal"
     },
     {
       "title": "Irate Physical Game Fans Prepare for Their Big PS5 Blackout - Push Square",
@@ -62,32 +82,44 @@
     {
       "title": "Thieves Discover A Completely Unique Way To Steal High-End GPUs - Kotaku",
       "link": "https://kotaku.com/gpu-gtx-5080-3060-wuhan-police-esports-hotel-theft-heist-2000725380"
-    },
-    {
-      "title": "PlayStation\u2019s wireless gaming speakers launch in November - The Verge",
-      "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder"
-    },
-    {
-      "title": "You can get an unlocked Google Pixel 11 for as little as $99 at Best Buy (sort of) \u2014 here's how - Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/you-can-get-an-unlocked-google-pixel-11-for-as-little-as-usd99-at-best-buy-sort-of-heres-how"
-    },
-    {
-      "title": "Metal Gear Solid Master Collection Vol. 2 has apparently removed MGS4's PS3 on Nintendo Switch 2 and Switch - Nintendo Everything",
-      "link": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-has-apparently-removed-mgs4s-ps3-on-nintendo-switch-2-and-switch/"
-    },
-    {
-      "title": "55 Memes That Will Be Very, Very Funny For Anyone Over 30 - BuzzFeed",
-      "link": "https://www.buzzfeed.com/mjs538/old-lady-nostlagia-meme"
-    },
-    {
-      "title": "Video: Elden Ring Gameplay Showcase Released Ahead Of Switch 2 Launch - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/08/video-elden-ring-gameplay-showcase-released-ahead-of-switch-2-launch"
     }
   ],
   "sports_news": [
     {
+      "title": "Hadjar to miss Dutch GP through injury, Lawson in at Red Bull - RACER - Racing News",
+      "link": "https://racer.com/2026/08/19/hadjar-set-to-miss-dutch-gp-due-to-wrist-injury"
+    },
+    {
+      "title": "Najee Harris: I know I have a lot to prove coming off a torn Achilles - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/najee-harris-i-know-i-have-a-lot-to-prove-coming-off-a-torn-achilles"
+    },
+    {
+      "title": "\u2018Rodri had doubts\u2019 - Jose Mourinho says Real Madrid made \u2018very good offer\u2019 to Man City star before Barcelona transfer - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/129570/rodri-doubts-jose-mourinho-says-real-madrid-very-good-offer"
+    },
+    {
+      "title": "How to watch, listen to and livestream Raiders at Texans - Raiders.com",
+      "link": "https://raiders-frontend.pocket.nfl.com/news/how-to-watch-listen-to-and-livestream-las-vegas-raiders-at-houston-texans-espn-2026-preseason-082026"
+    },
+    {
+      "title": "Tennis star Nick Kyrgios provisionally suspended for cocaine use - CNN",
+      "link": "https://www.cnn.com/2026/08/19/sport/nick-kyrgios-provisionally-suspended-cocaine"
+    },
+    {
       "title": "Man accused of breaking into homes after Cobb murder, NASCAR driver\u2019s plane crash death - WSB-TV",
       "link": "https://www.wsbtv.com/news/local/cobb-county/man-accused-breaking-into-homes-after-cobb-murder-nascar-champions-plane-crash-death/MCOMICM75BCSZNAEC2UVGXQGMM/"
+    },
+    {
+      "title": "Kellen Moore on practice fights with Cowboys: Not ideal, but we got the work we need - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-on-practice-fights-with-cowboys-not-ideal-but-we-got-the-work-we-need"
+    },
+    {
+      "title": "RSL to Crystal Palace: Zavier Gozo achieves marquee transfer - MLSsoccer.com",
+      "link": "https://www.mlssoccer.com/news/rsl-to-crystal-palace-zavier-gozo-achieves-marquee-transfer"
+    },
+    {
+      "title": "Sydney Swans ban 5 players for rest of AFL season over hotel misconduct and a police investigation - AP News",
+      "link": "https://apnews.com/article/sydney-swans-bans-australian-rules-afl-6697b76c928fb35c72ca47ec21b882ba"
     },
     {
       "title": "Shohei Ohtani Reaches Another HR Milestone, Latest Box Score Stats & Highlights from Dodgers-Rockies - Bleacher Report",
@@ -98,68 +130,40 @@
       "link": "https://www.seattletimes.com/sports/mariners/brewers-deal-mariners-worst-loss-in-franchise-history/"
     },
     {
-      "title": "Report: Dodgers placing closer Edwin D\u00edaz on IL - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/report-dodgers-placing-closer-edwin-diaz-on-il"
+      "title": "Vikings Stock Market Report After First Preseason Game - Daily Norseman",
+      "link": "https://www.dailynorseman.com/minnesota-vikings-preseason/98203/vikings-stock-market-report-after-first-preseason-game"
     },
     {
-      "title": "Multiple fights mar Cowboys-Saints joint practice - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-fights-mar-cowboys-saints-joint-practice"
+      "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/chargers-torch-49ers-4-takeaways-from-san-francisco-los-angeles-joint-practice"
+    },
+    {
+      "title": "Kelsey Mitchell scores 29 before sitting out 4th in Fever win - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/49654028/fever-kelsey-mitchell-scores-29-points-sitting-4th-quarter-combines-caitlin-clark-wnba-duo-record"
+    },
+    {
+      "title": "Red Sox\u2019 Roman Anthony hits 108 mph homer over bleachers to football field; \u2018Playing like a kid again\u2019 - MassLive.com",
+      "link": "https://www.masslive.com/redsox/2026/08/red-sox-roman-anthony-hits-108-mph-homer-over-bleachers-to-football-field-playing-like-a-kid-again.html"
     },
     {
       "title": "DWCS Results: Season 10, Week 2 - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/505732/dwcs-results-season-10-week-2"
     },
     {
-      "title": "Dodgers\u2019 $309M flushing down the toilet as key acquisitions turn into dumpster fires - New York Post",
-      "link": "https://nypost.com/2026/08/18/sports/dodgers-309-million-flushing-down-the-toilet-as-key-acquisitions-turn-into-dumpster-fires/"
-    },
-    {
       "title": "Tyler Soderstrom To Undergo Hip Surgery - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/08/tyler-soderstrom-to-undergo-hip-surgery.html"
     },
     {
-      "title": "Rockies Place Hunter Goodman On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/rockies-place-hunter-goodman-on-injured-list.html"
+      "title": "Caitlin Clark helps WNBA shatter another TV ratings record as Fever-Dream draws massive audience - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-helps-wnba-shatter-another-tv-ratings-record-fever-dream-draws-massive-audience"
     },
     {
-      "title": "Giants sign Najee Harris to one-year deal - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-18/giants-sign-najee-harris-to-one-year-deal"
+      "title": "President Trump reportedly will go on a lap of honor around the Freedom 250 Grand Prix street circuit - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/president-trump-lap-honor-freedom-250-grand-prix-street-circuit-report"
     },
     {
       "title": "Pre-Gamin\u2019: Cubs vs White Sox (7:05 CT) \u2013 Lineups, Broadcast Info, Game Thread - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2026/08/18/cubs-lineup-81826/"
-    },
-    {
-      "title": "Bayern midfielder Musiala reveals 'neurological' issue after collapse during game for 2nd time - AP News",
-      "link": "https://apnews.com/article/jamal-musiala-bayern-munich-5ce624985d097154b2b166c3f320d162"
-    },
-    {
-      "title": "Two men in drag attend WNBA game amid trans controversy, leave security in hysterics - New York Post",
-      "link": "https://nypost.com/2026/08/18/sports/two-men-attend-las-vegas-aces-game-in-drag-amid-wnba-trans-controversy/"
-    },
-    {
-      "title": "Training Camp Notebook 8/18: Improvements made in physical joint practice with Houston Texans - Raiders.com",
-      "link": "https://raiders-frontend.pocket.nfl.com/news/training-camp-notebook-8-18-physical-joint-practice-with-houston-texans-2026-preseason"
-    },
-    {
-      "title": "Adam Schein torches Jayden Daniels over legal threat: \u2018You\u2019re now dead to LSU\u2019 - Awful Announcing",
-      "link": "https://awfulannouncing.com/college-football/adam-schein-jayden-daniels-legal-threat-youre-now-dead-lsu.html"
-    },
-    {
-      "title": "Exclusive | Trump to take lap of honor ahead of IndyCar Freedom 250 Grand Prix along National Mall - New York Post",
-      "link": "https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/"
-    },
-    {
-      "title": "Scottie Scheffler claimed to have exposed a problem on the PGA Tour with his performance at the FedEx St. Jude - hitc.com",
-      "link": "https://www.hitc.com/scottie-scheffler-claimed-to-have-exposed-a-problem-on-the-pga-tour-with-his-performance-at-the-fedex-st-jude/"
-    },
-    {
-      "title": "5 things we learned about the Steelers at their training camp in Latrobe - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2026/08/18/trainingcamp-mccarthy-rodgers-allar-analysis/stories/202608180043"
-    },
-    {
-      "title": "Anthony Joshua and Tyson Fury close to November 20 fight in New York - BoxingScene",
-      "link": "https://www.boxingscene.com/articles/anthony-joshua-and-tyson-fury-sign-contracts-for-november-20-fight-in-new-york"
     }
   ],
   "weather": {
