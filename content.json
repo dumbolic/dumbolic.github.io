@@ -1,9 +1,9 @@
 {
-  "quote": "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. \u2013 Jonathan Swift",
-  "fact": "A cockroach can live several weeks with its head cut off!",
-  "crypto": "BTC: $73,100 | ETH: $2,326.6",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
+  "quote": "The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities. \u2013 Charles Dickens",
+  "fact": "There is no solid proof of who built the Taj Mahal.",
+  "crypto": "BTC: $73,914 | ETH: $2,343.23",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,20 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "We Think We Found \u2018Human Printer\u2019 Natalie Harp\u2019s Printer Setup. It\u2019s Bulky - Gizmodo",
+      "link": "https://gizmodo.com/we-think-we-found-human-printer-natalie-harps-printer-setup-its-bulky-2000800705"
+    },
+    {
+      "title": "Apple\u2019s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak"
+    },
+    {
       "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/"
+    },
+    {
+      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
+      "link": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/"
     },
     {
       "title": "Pixel 11 introduces unified \u2018Pixel search,\u2019 hides it in the drawer - 9to5Google",
       "link": "http://9to5google.com/2026/08/19/pixel-11-search/"
     },
     {
-      "title": "Dire Forecast Predicts Big Drop In Console Sales If PS6 Is $1,000 - Kotaku",
-      "link": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914"
+      "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
+      "link": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan"
     },
     {
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
-      "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
+    },
+    {
+      "title": "Dire Forecast Predicts Big Drop In Console Sales If PS6 Is $1,000 - Kotaku",
+      "link": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914"
     },
     {
       "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
@@ -44,16 +60,16 @@
       "link": "http://9to5google.com/2026/08/19/pixel-weather-new-icon/"
     },
     {
-      "title": "Best Buy removes 32GB RAM worth $600 to \"repair\" customer's 64GB gaming laptop - TechSpot",
-      "link": "https://www.techspot.com/news/113533-best-buy-removes-32gb-ram-worth-600-repair.html"
+      "title": "Meta AI is getting a Mac app - The Verge",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
+    },
+    {
+      "title": "Best Buy 'Repaired' a 64GB Laptop by Making It 32GB - extremetech.com",
+      "link": "https://www.extremetech.com/computing/best-buy-repaired-a-64gb-laptop-by-making-it-32gb"
     },
     {
       "title": "Google rolling out new gradient AI ring for subscribers on Android, web - 9to5Google",
       "link": "http://9to5google.com/2026/08/19/google-account-gradient-ring/"
-    },
-    {
-      "title": "Yes, the Pixelsnap magnets on Pixel 11 are stronger this year - 9to5Google",
-      "link": "http://9to5google.com/2026/08/19/pixel-11-magnets-stronger/"
     },
     {
       "title": "Google Pixel 11 series review: Is the magic fading? - Ars Technica",
@@ -64,86 +80,70 @@
       "link": "https://news.xbox.com/en-us/2026/08/19/xbox-insiders-october-2026-console-features-2/"
     },
     {
-      "title": "Google\u2019s Pixel Watch 5 is promising \u2014 but it isn\u2019t finished - The Verge",
-      "link": "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
-    },
-    {
       "title": "\u2018You Don\u2019t Get XP, But Zones Do\u2019 \u2014 How Control Resonant Is Rewriting the Action RPG Rule Book - IGN",
       "link": "https://www.ign.com/articles/you-dont-get-xp-but-zones-do-how-control-resonant-is-rewriting-the-action-rpg-rule-book"
     },
     {
-      "title": "Subnautica 2 Buddy System Update - Unknown Worlds",
-      "link": "https://unknownworlds.com/news/subnautica-2-buddy-system-update"
-    },
-    {
-      "title": "Apple will launch 10+ new products soon, with September event coming - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/"
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required - TechCrunch",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
-    },
-    {
-      "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI - MacRumors",
-      "link": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/"
+      "title": "Google\u2019s Pixel Watch 5 is promising \u2014 but it isn\u2019t finished - The Verge",
+      "link": "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
     }
   ],
   "sports_news": [
+    {
+      "title": "Nuggets To Trade Peyton Watson To Cavaliers In Three-Team Deal - Hoops Rumors",
+      "link": "https://www.hoopsrumors.com/2026/08/nuggets-to-trade-peyton-watson-to-cavaliers-in-three-team-deal.html"
+    },
+    {
+      "title": "Multiple first-year NFL players win TRO for fifth-year of college football - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-first-year-nfl-players-win-tro-for-fifth-year-of-college-football"
+    },
+    {
+      "title": "Giants Claim Philip Abner - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/giants-claim-philip-abner.html"
+    },
+    {
+      "title": "Report: One-year extension for Bucs DT Vita Vea - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-one-year-extension-for-bucs-dt-vita-vea"
+    },
     {
       "title": "Arman Tsarukyan picks surprising name for Ilia Topuria\u2019s next opponent - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/505974/arman-tsarukyan-picks-surprising-name-for-ilia-topurias-next-opponent"
     },
     {
-      "title": "6 performances of note from the first Patriots-Eagles joint practice - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-training-camp/133849/winners-losers-first-joint-practice-eagles"
+      "title": "Eagles-Patriots Joint Training Camp Practice Notes: Day 1 - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/179845/eagles-patriots-joint-training-camp-practice-notes-day-1"
+    },
+    {
+      "title": "Lakers Rumor Roundup: Jeanie Buss open to buying out family shares, Shams Charania fires back - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-rumors/125284/lakers-rumor-roundup-jeanie-buss-mark-walter-sale-bob-iger-josh-kushner-shams-charania"
     },
     {
       "title": "4 takeaways from Lions training camp Day 15: Derrick Moore breaks out - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-training-camp/169889/4-takeaways-from-lions-training-camp-day-15-derrick-moore-breaks-out"
     },
     {
-      "title": "Trevon Diggs: I\u2019m looking to show I\u2019m still the best - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevon-diggs-im-looking-to-show-im-still-the-best"
+      "title": "White Sox 3, Cubs 0: The weather was here. Wish the game had been beautiful - bleedcubbieblue.com",
+      "link": "https://www.bleedcubbieblue.com/chicago-cubs-scores/230003/cubs-white-sox-score-clay-holmes-tyrone-taylor-mlb"
     },
     {
-      "title": "Welcome to the Latest Chapter of the Buss Family Circus - The Ringer",
-      "link": "https://www.theringer.com/2026/08/19/nba/jeanie-buss-lakers-sale-legal-battle"
-    },
-    {
-      "title": "Albert Breer Empties His Commanders Notebook From Training Camp - Sports Illustrated",
-      "link": "https://www.si.com/nfl/albert-breer-empties-his-commanders-notebook-training-camp-2026"
-    },
-    {
-      "title": "Pregame Concert Featuring Shaquille O\u2019Neal Set for Week 0 - virginiasports.com",
-      "link": "https://virginiasports.com/news/2026/08/19/pregame-concert-featuring-shaquille-oneal-set-for-week-0"
-    },
-    {
-      "title": "Ex-Ole Miss starters granted restraining order for 5th year - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49662242/ex-ole-miss-starters-granted-restraining-order-5th-year"
-    },
-    {
-      "title": "Mass. high court allows White Stadium rebuild to continue, sides with city of Boston - WBUR",
-      "link": "https://www.wbur.org/news/2026/08/19/sjc-white-stadium-wu-boston"
+      "title": "U.S. names U20 Women's World Cup roster with 'upsetting' absences - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49662865/usa-u20-womens-world-cup-roster"
     },
     {
       "title": "Yair Rodriguez out of UFC Noche main event, Jean Silva gets new opponent - mmafighting.com",
       "link": "https://www.mmafighting.com/ufc/505976/jean-silva-gets-new-opponent-for-noche-ufc-main-event-with-yair-rodriguez-out"
     },
     {
-      "title": "Barcelona 0-0 Al Ahly, Joan Gamper Trophy: Recap - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/fc-barcelona-preseason/129620/barcelona-al-ahly-joan-gamper-trophy-final-score-match-report-recap-reactions"
-    },
-    {
-      "title": "NFL Network: Bucs Haven\u2019t Talked Contract Extension With Vita Vea - JoeBucsFan.com",
-      "link": "https://www.joebucsfan.com/2026/08/nfl-network-bucs-havent-talked-contract-extension-with-vita-vea/"
-    },
-    {
-      "title": "Nick Kyrgios suspended from tennis after testing positive for cocaine - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2026/08/19/nick-kyrgios-suspended-tennis-after-testing-positive-cocaine/"
+      "title": "Exclusive: Diamondbacks GM Mike Hazen to meet with Ketel Marte with hope he returns - Arizona Sports",
+      "link": "https://arizonasports.com/mlb/arizona-diamondbacks/exclusive-diamondbacks-gm-mike-hazen-to-meet-with-ketel-marte-with-hope-he-returns"
     },
     {
       "title": "Aaron Glenn regrets his approach to the media in his first year - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-regrets-his-approach-to-the-media-in-his-first-year"
+    },
+    {
+      "title": "Rory McIlroy questions what value Rahm and DeChambeau have brought to LIV - AP News",
+      "link": "https://apnews.com/article/liv-golf-mcilroy-scheffler-oneil-pga-tour-f1804609e7b4d4137837ca955e624628"
     },
     {
       "title": "Fantasy Football: 7 players Justin Boone thinks could be league winners in 2026 - Yahoo Sports",
@@ -154,20 +154,16 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-center-danny-pinter-carted-off-the-field-at-joint-practice-with-vikings"
     },
     {
-      "title": "McIlroy questions value of LIV players returning to PGA Tour - ESPN",
-      "link": "https://www.espn.com/golf/story/_/id/49661783/mcilroy-questions-value-liv-players-returning-pga-tour"
+      "title": "Source: CB Trevon Diggs signing 1-year deal with Seahawks - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49661802/source-seahawks-sign-former-pro-bowl-cb-trevon-diggs"
     },
     {
-      "title": "England vs Pakistan: Joe Root era given ideal start by Ollie Robinson and Josh Tongue - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/c62vyw663gvo"
+      "title": "LIV CEO says league is ready for 2.0. First, it has to survive 1.0 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/article/liv-ceo-says-league-is-ready-for-20-first-it-has-to-survive-10-183915813.html"
     },
     {
-      "title": "6 international NFL landing spots, ranked - SB Nation",
-      "link": "https://www.sbnation.com/nfl/1125423/nfl-international-city-home-team-landing-spots-mexico-london"
-    },
-    {
-      "title": "\u2018Bear was very sharp\u2019: BYU offensive coordinator Aaron Roderick on Saturday\u2019s scrimmage and why the offense was able to get the upper hand - Deseret News",
-      "link": "https://www.deseret.com/sports/2026/08/19/byu-football-aaron-roderick-kelly-poppinga-kalani-sitake-scrimmage-first/"
+      "title": "Patrick Beverley rips Enes Kanter\u2019s WNBA trans stunt: \u201cYou ain\u2019t even from here\u201d - New York Post",
+      "link": "https://nypost.com/2026/08/19/sports/patrick-beverley-criticizes-enes-kanter-freedom-2027-wnba-draft-bid/"
     }
   ],
   "weather": {
