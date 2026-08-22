@@ -1,9 +1,9 @@
 {
-  "quote": "Trust your instincts: my first reaction is almost invariably the right one. \u2013 Estee Lauder",
-  "fact": "Venus is the only planet that rotates clockwise.",
-  "crypto": "BTC: $77,036 | ETH: $2,414.66",
+  "quote": "The dream is free, but the hustle is sold separately. \u2013 Steve Harvey",
+  "fact": "Average life span of a major league baseball: 7 pitches.",
+  "crypto": "BTC: $76,990 | ETH: $2,415.44",
   "tip": "Keep your software dependencies updated.",
-  "joke": "What do Alexander the Great and Winnie the Pooh have in common? Same middle name.",
+  "joke": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer - Kotaku",
+      "link": "https://kotaku.com/pokemon-champions-turn-based-real-time-battles-winds-waves-2000726753"
+    },
+    {
+      "title": "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot - Kotaku",
+      "link": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706"
+    },
+    {
+      "title": "Apple is laying off staffers working on the Vision Pro and Siri - The Verge",
+      "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "title": "Motorola\u2019s GrapheneOS phones will launch in 2027 priced higher than Pixels - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/"
+    },
+    {
       "title": "Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included - Push Square",
       "link": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included"
     },
     {
       "title": "Psychonauts Dev Now Owns All Its Games And Publishing Rights - Kotaku",
       "link": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713"
-    },
-    {
-      "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams"
     },
     {
       "title": "AMD Ryzen 7 5800X3D 10th Anniversary Review - TechPowerUp",
@@ -34,6 +50,14 @@
     {
       "title": "Metal Gear Solid: Master Collection Vol. 2 updates MGS4 joke, even brings back original voice actor - Nintendo Everything",
       "link": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-updates-mgs4-joke-even-brings-back-original-voice-actor/"
+    },
+    {
+      "title": "ARC Raiders Cancels Expeditions Until Early 2027 - Insider Gaming",
+      "link": "https://insider-gaming.com/arc-raiders-cancels-expeditions-until-early-2027/"
+    },
+    {
+      "title": "Pixel 11 Pro Fold is changing how I multitask on a foldable with \u2018App Handles\u2019 [Gallery] - 9to5Google",
+      "link": "http://9to5google.com/2026/08/21/google-pixel-11-pro-fold-android-app-handles-multitasking-feature/"
     },
     {
       "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks - The Verge",
@@ -56,20 +80,8 @@
       "link": "http://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/"
     },
     {
-      "title": "The Ultimate Guide to The Hobbit Draft - Draftsim",
-      "link": "https://draftsim.com/mtg-hob-draft-guide/"
-    },
-    {
-      "title": "Pixel 11 Pro vs. iPhone 17 Pro: Can a re-run contend with a re-do [Video] - 9to5Google",
-      "link": "http://9to5google.com/2026/08/21/pixel-11-pro-vs-iphone-17-pro-can-a-re-run-contend-with-a-re-do-video/"
-    },
-    {
       "title": "Dev TFT: SPACE GODS Reviewed - Teamfight Tactics",
       "link": "https://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-space-gods-reviewed/"
-    },
-    {
-      "title": "Here\u2019s everything we learned about AirPods with cameras this week - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/21/airpods-pro-with-cameras-biggest-leak-yet-features/"
     },
     {
       "title": "FromSoftware Closes The Duskbloods' First Closed Network Test Session Due To Rampant Server Issues - Game Informer",
@@ -78,40 +90,36 @@
     {
       "title": "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro - Push Square",
       "link": "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro"
-    },
-    {
-      "title": "Here\u2019s how iPhone 18 Pro will differentiate itself from prior models - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/"
-    },
-    {
-      "title": "GrapheneOS phone from Motorola arrives next year, 'higher end' compared to Pixel with a price to match - 9to5Google",
-      "link": "http://9to5google.com/2026/08/21/motorola-grapheneos-phone-2027-spec-tease/"
-    },
-    {
-      "title": "Pixel Watch 5\u2019s AI watch face generator keeps the same form factor feeling fresh [Gallery] - 9to5Google",
-      "link": "http://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/"
     }
   ],
   "sports_news": [
     {
-      "title": "Klay Thompson Reportedly to Sign with Heat After Agreeing to Mavericks Contract Buyout - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25300442-klay-thompson-reportedly-sign-heat-after-agreeing-mavericks-contract-buyout"
+      "title": "Timberwolves, Lynx have a new controlling owner. Here\u2019s what Marc Stad\u2019s takeover means. - Star Tribune",
+      "link": "https://www.startribune.com/minnesota-timberwolves-sale-marc-stad-mn-lynx-marc-lore-majority-stake-alex-rodriguez-glen-taylor/601881156"
     },
     {
-      "title": "See a map of the Freedom 250 Grand Prix circuit in D.C. - The Washington Post",
-      "link": "https://www.washingtonpost.com/dc-md-va/2026/08/21/indycars-race-past-iconic-dc-sites-this-weekend/"
+      "title": "Arsenal 3-0 Coventry: How the players rated - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/crl7g4e4pdno"
+    },
+    {
+      "title": "Raiders' Klint Kubiak not ready to name Week 1 QB, says 'reps' key for Fernando Mendoza's development - NFL.com",
+      "link": "https://www.nfl.com/news/raiders-klint-kubiak-not-ready-to-name-week-1-qb-fernando-mendoza"
+    },
+    {
+      "title": "All eyes on Lions\u2019 offensive line heading into Commanders preseason game - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-discussion/170020/all-eyes-on-lions-offensive-line-heading-into-commanders-preseason-game"
     },
     {
       "title": "Massachusetts to investigate Cardinals exec's alleged betting - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49683212/massachusetts-investigate-cardinals-exec-alleged-betting"
     },
     {
-      "title": "Vuelta a Espa\u00f1a stage 1 time trial start times - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stage-1-time-trial-start-times-when-jay-vine-wout-van-aert-tadej-pogacar-and-others-take-turns-on-twisting-9-6km-route-in-monaco/"
+      "title": "Newest WNBA Dildo Thrower Arrested and Banned - Front Office Sports",
+      "link": "http://frontofficesports.com/sex-toy-thrown-at-dream-sparks-game-reviving-wnbas-2025-issue/"
     },
     {
-      "title": "Federal appeals court halts ruling allowing thousands of college players extra year of eligibility - AP News",
-      "link": "https://apnews.com/article/ncaa-eligibility-lawsuit-a0ba388e1f7a2cbd3bad9d6b1e0dc3cc"
+      "title": "Vuelta a Espa\u00f1a stage 1 time trial start times - Cyclingnews",
+      "link": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stage-1-time-trial-start-times-when-jay-vine-wout-van-aert-tadej-pogacar-and-others-take-turns-on-twisting-9-6km-route-in-monaco/"
     },
     {
       "title": "Kentucky Could Add an NFL Running Back to the Roster - On3",
@@ -126,48 +134,40 @@
       "link": "https://www.bbc.com/sport/cricket/articles/czrj545d34mo"
     },
     {
-      "title": "FIFA hands out multiple suspensions to Argentina for World Cup Final post-game fracas - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fifa-hands-out-multiple-suspensions-to-argentina-for-world-cup-final-post-game-fracas"
-    },
-    {
-      "title": "Rashod Bateman, Ronnie Stanley say new Ravens coaching staff values details more than previous one - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashod-bateman-ronnie-stanley-say-new-ravens-coaching-staff-values-details-more-than-previous-one"
+      "title": "Kurt Busch shares emotional last moments with late brother Kyle - ESPN",
+      "link": "https://www.espn.com/racing/nascar/story/_/id/49682551/kurt-busch-shares-emotional-last-moments-late-brother-kyle"
     },
     {
       "title": "Winners and losers from sprint qualifying at F1's Dutch GP - The Race",
       "link": "https://www.the-race.com/formula-1/winners-and-losers-sprint-qualifying-dutch-gp/"
     },
     {
+      "title": "What to know about the Freedom 250 Grand Prix, Trump\u2019s capital car race - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race"
+    },
+    {
       "title": "Mark Mitchell's temporary restraining order in Kentucky has been GRANTED - On3",
       "link": "https://www.on3.com/teams/kentucky-wildcats/news/mark-mitchells-temporary-restraining-order-in-kentucky-has-been-granted/"
+    },
+    {
+      "title": "NCAA granted stay in Colorado lawsuit, denying fifth-year eligibility for some Class of 2022 athletes - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/ncaa-lawsuit-stay-colorado-2022-college-athletes-ineligible/"
     },
     {
       "title": "Bryson DeChambeau hopes LIV Golf is given 'one more shot' - ESPN",
       "link": "https://www.espn.com/golf/story/_/id/49682070/bryson-dechambeau-hopes-liv-golf-given-one-more-shot"
     },
     {
+      "title": "Jim Harbaugh was not happy with punter JK Scott\u2019s performance on touchdown return - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-was-not-happy-with-punter-jk-scotts-performance-on-touchdown-return"
+    },
+    {
+      "title": "Exclusive: The Media Company Suing LIV Speaks Out - MyGolfSpy",
+      "link": "https://mygolfspy.com/?p=308151"
+    },
+    {
       "title": "Social Media Thinks They've Discovered \"The Greatest High School Running Back Of All Time\" - The Highlights Don't Lie [VIDEO] - Yahoo Sports",
       "link": "https://www.totalprosports.com/general/fans-discover-greatest-high-school-running-back-baylor/"
-    },
-    {
-      "title": "Cavs\u2019 Koby Altman shares initial thoughts on five-team trade for Peyton Watson - Cleveland.com",
-      "link": "https://www.cleveland.com/cavs/2026/08/cavs-koby-altman-shares-thoughts-on-five-team-trade-for-peyton-watson.html"
-    },
-    {
-      "title": "US Open 2026: Jannik Sinner withdraws from Flushing Meadows event with a knee injury - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cvgw2qg3e70o"
-    },
-    {
-      "title": "SR\u2019s FAB 5: Vita Vea\u2019s Return Makes Bucs D-Line Elite - Pewter Report",
-      "link": "https://www.pewterreport.com/bucs-vita-vea-return-defensive-line-elite/"
-    },
-    {
-      "title": "Olympic medalist Simpson: Running chapter over after collapse - ESPN",
-      "link": "https://www.espn.com/olympics/story/_/id/49680958/olympic-medalist-simpson-running-chapter-collapse"
-    },
-    {
-      "title": "Another sex toy was thrown during a WNBA game, and Dream's Angel Reese absolutely lost it - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/sex-toy-thrown-wnba-game-dreamangel-reese-lost-it"
     }
   ],
   "weather": {
