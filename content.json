@@ -1,9 +1,9 @@
 {
-  "quote": "Don't try to be young. Just open your mind. Stay interested in stuff. \u2013 Betty White",
-  "fact": "US Dollar bills are made out of cotton and linen.",
-  "crypto": "BTC: $78,158 | ETH: $2,451.87",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
+  "quote": "They say love is the best investment; the more you give, the more you get in return. \u2013 Audrey Hepburn",
+  "fact": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
+  "crypto": "BTC: $78,249 | ETH: $2,458.81",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call an eagle who can play the piano? Talonted!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,72 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Android 17 QPR2 adds Status bar customization for notification, system icons - 9to5Google",
+      "link": "http://9to5google.com/2026/08/28/android-17-qpr2-status-bar/"
+    },
+    {
+      "title": "Xbox CEO calls Project Helix a \u2018family of devices\u2019 - The Verge",
+      "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices"
+    },
+    {
+      "title": "26 GTA 6 Screenshot Comparisons Showing How Much Things Have Changed Since Vice City - Kotaku",
+      "link": "https://kotaku.com/26-gta-6-screenshot-comparisons-showing-how-much-things-have-changed-since-vice-city-2000729444"
+    },
+    {
+      "title": "TCRF Accuses AI-Bro After Site Taken Offline By DDoS Attack - Kotaku",
+      "link": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335"
+    },
+    {
+      "title": "Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase - IGN",
+      "link": "https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase"
+    },
+    {
+      "title": "Game Developers Devastated By Gamescom Laptop Theft Spree - Aftermath",
+      "link": "https://aftermath.site/gamescom-laptop-theft-spree-iam8bit-mimic/"
+    },
+    {
+      "title": "Here\u2019s how Apple Watch Ultra 4 will differentiate itself from prior models - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/"
+    },
+    {
       "title": "ER doctors say popular hair accessory is a death trap: \u2018They get embedded in your skull\u2019 - New York Post",
       "link": "https://nypost.com/2026/08/28/lifestyle/er-docs-say-claw-clip-is-a-death-trap/"
     },
     {
       "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be coming next - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5"
+      "link": "https://mashable.com/entertainment/grand-theft-auto-vi-cyberleek-leaks-everything-posted-so-far"
     },
     {
       "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/"
     },
     {
+      "title": "Here\u2019s Your New Trade-in Values Towards the Pixel 11 Series - Droid Life",
+      "link": "https://www.droid-life.com/2026/08/28/new-trade-in-values-towards-pixel-11-series/"
+    },
+    {
+      "title": "An unofficial PC port of Blue Dragon, a JRPG from the creators of Final Fantasy and Dragon Ball, is now available - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/an-unofficial-pc-port-of-blue-dragon-a-jrpg-from-the-creators-of-final-fantasy-and-dragon-ball-is-now-available/"
+    },
+    {
       "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything - The Verge",
       "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai"
     },
     {
-      "title": "Indie Dev Releases Tearful Message After Multiple Laptops Are Stolen At Gamescom - Kotaku",
-      "link": "https://kotaku.com/indie-dev-releases-tearful-message-after-multiple-laptops-are-stolen-at-gamescom-2000729338"
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers - The Hacker News",
+      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html"
+    },
+    {
+      "title": "Xbox Anniversary Consoles Sell for Thousands on eBay as Scalpers Cash In on X25 - IGN",
+      "link": "https://www.ign.com/articles/xbox-anniversary-consoles-sell-for-thousands-on-ebay-as-scalpers-cash-in-on-x25"
+    },
+    {
+      "title": "Elden Ring Tarnished Edition New Content Locations: All New Weapons, Armour Sets, NPC Invasions & Horse Armour - Nintendo Life",
+      "link": "https://www.nintendolife.com/guides/elden-ring-tarnished-edition-weapons-armor-npc-invasions-steed-attire-content"
+    },
+    {
+      "title": "Video: The Witcher 3 Remastered Handheld Gameplay On Switch 2 - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/08/video-the-witcher-3-remastered-handheld-gameplay-on-switch-2"
     },
     {
       "title": "Dev Calls Steam Branding His Adventure Game Porn 'Humiliating' - Kotaku",
@@ -38,132 +86,88 @@
     {
       "title": "Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears - Eurogamer.net",
       "link": "https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak"
-    },
-    {
-      "title": "Why do people get so weird about Grand Theft Auto? - A.V. Club",
-      "link": "https://www.avclub.com/game-theory-grand-theft-auto-vi"
-    },
-    {
-      "title": "iPhone 18 Pro pre-orders could kick off slightly later than usual - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/"
-    },
-    {
-      "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode - Eurogamer.net",
-      "link": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s"
-    },
-    {
-      "title": "STRANGER THAN HEAVEN Gamescom 2026 demo playthrough - Gematsu",
-      "link": "https://www.gematsu.com/2026/08/stranger-than-heaven-gamescom-2026-demo-playthrough"
-    },
-    {
-      "title": "84 Switch 1 & 2 Games To Check Out In Nintendo's Blockbuster eShop Sale (US) - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/84-switch-1-and-2-games-to-check-out-in-nintendos-blockbuster-eshop-sale-us"
-    },
-    {
-      "title": "Apple's M6 Mac Mini Gets First Pre-Order Discounts at Amazon - MacRumors",
-      "link": "https://www.macrumors.com/2026/08/28/m6-mac-mini-first-discounts/"
-    },
-    {
-      "title": "'The Entire Supply Chain Is Collapsing' - Xbox Disc Drive Situation Gets More Awkward - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/08/the-entire-supply-chain-is-collapsing-xbox-disc-drive-situation-gets-more-awkward"
-    },
-    {
-      "title": "Star Citizen's Squadron 42 Delayed Yet Again To, Er, Avoid GTA 6 - Kotaku",
-      "link": "https://kotaku.com/star-citizen-squadron-42-delay-gta-6-chris-roberts-rockstar-billion-dollars-2000729284"
-    },
-    {
-      "title": "GTA 6 extended look: What we know after Netflix preview - BBC",
-      "link": "https://www.bbc.com/news/articles/c3d7exngd5no"
-    },
-    {
-      "title": "The Funniest Posts From Women This Week (Aug. 22-28) - HuffPost",
-      "link": "https://www.huffpost.com/entry/the-funniest-posts-from-women-this-week-aug-22-28_n_6a8bbaf6e4b0a833ba42fee7"
-    },
-    {
-      "title": "I replaced 13 apps with one Gemini feature; now my Android productivity is 10 times better - Android Police",
-      "link": "https://www.androidpolice.com/i-replaced-13-apps-with-gemini-feature-now-my-android-is-ten-times-better/"
-    },
-    {
-      "title": "I was planning to skip the Pixel 11. These 5 upgrades changed my mind - Android Authority",
-      "link": "https://www.androidauthority.com/pixel-11-vs-pixel-9-3702125/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Good Good Golf's very bad, bad week amid backlash over Callaway ad - CBS News",
+      "link": "https://www.cbsnews.com/news/good-good-golf-callaway-backlash-ad/"
+    },
+    {
+      "title": "San Francisco 49ers roster cuts: Tracking path to 53 players for 2026 - Niners Wire",
+      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/08/28/san-francisco-49ers-53-man-roster-cuts-tracker/91511233007/"
+    },
+    {
+      "title": "J.J. McCarthy won\u2019t play for Vikings in preseason finale, due to ankle injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-wont-play-for-vikings-in-preseason-finale-due-to-ankle-injury"
+    },
+    {
+      "title": "Tour Championship: Viktor Hovland in tie for lead heading into weekend - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/c20lnlpx714o"
+    },
+    {
+      "title": "Spencer Schwellenbach, Hurston Waldrep To Undergo Elbow Surgery - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/spencer-schwellenbach-hurston-waldrep-to-undergo-elbow-surgery.html"
+    },
+    {
+      "title": "\u2018Forever starts now:\u2019 Hillsborough approves final Rays stadium deal - Tampa Bay Times",
+      "link": "https://www.tampabay.com/news/2026/08/28/rays-stadium-vote-hillsborough-county-commission-cit-tax-tampa/"
+    },
+    {
+      "title": "Reds 10, Cubs 8: In which I question a Craig Counsell managing decision - Bleed Cubbie Blue",
+      "link": "https://www.bleedcubbieblue.com/chicago-cubs-scores/231203/cubs-reds-score-craig-counsell-pedro-ramirez-mlb"
+    },
+    {
+      "title": "Jerry Sandusky speaks from Pennsylvania prison ahead of court hearing: 'I am an innocent man' | EXCLUSIVE - 6abc Philadelphia",
+      "link": "https://6abc.com/post/jerry-sandusky-speaks-pennsylvania-prison-ahead-court-hearing-am-innocent-man-exclusive/19753051/"
+    },
+    {
+      "title": "Avalanche's Makar agrees to record deal worth $20.4 annually - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/49756170/avalanc-makar-agrees-record-deal-worth-204-annually"
+    },
+    {
+      "title": "Transgender Canadian golfer sends a blunt message to critics as victories over women pile up - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/transgender-canadian-golfer-sends-blunt-message-critics-victories-women-pile-up"
+    },
+    {
+      "title": "New Seahawks owner Vinod Khosla bristles at reaction to his Steelers fandom - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-seahawks-owner-vinod-khosla-bristles-at-reaction-to-his-steelers-fandom"
+    },
+    {
+      "title": "Crystal Palace v Manchester City: How the players rated - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c1j4ryr777yo"
+    },
+    {
+      "title": "What\u2019s going on with Julian Alvarez after Atletico block transfer to Barcelona? - Barca Blaugranes",
+      "link": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130736/whats-going-on-with-julian-alvarez"
+    },
+    {
+      "title": "Our final Bills 53-man roster prediction ahead of Sunday's deadline - Democrat and Chronicle",
+      "link": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/08/28/bills-roster-projection-53-man-cutdown-day/91505443007/"
+    },
+    {
+      "title": "Pok\u00e9mon is booming as World Championships open in S.F. So are card thefts - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/bayarea/article/pokemon-world-championships-card-theft-22403731.php"
+    },
+    {
+      "title": "Is the Bill Belichick era at North Carolina already coming to a close? - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49713517/north-carolina-bill-belichick-lombardi-preview-2026"
+    },
+    {
+      "title": "US Open 2026: Carlos Alcaraz had 'intrusive thoughts' over when he would return from wrist injury - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/c3rexy3jllyo"
+    },
+    {
+      "title": "Coco Gauff Defends Mom's Statement on Rejecting US Open Ticket Requests, 'Honestly, It Was Needed' - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25493714-coco-gauff-defends-moms-statement-rejecting-us-open-ticket-requests-honestly-it-was-needed"
+    },
     {
       "title": "Ruling: SEC can't sanction teams using players with NFL ties - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/49753638/ruling-sec-sanction-teams-using-players-nfl-ties"
     },
     {
-      "title": "Cleveland Browns 53-man roster cuts tracker - Dawgs By Nature",
-      "link": "https://www.dawgsbynature.com/cleveland-browns-roster-players/131359/cleveland-browns-53-man-roster-cuts-tracker"
-    },
-    {
-      "title": "Are surprise cuts coming? Ray Fittipaldo's final Steelers 53-man roster projection - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2026/08/28/steelers-roster-projection-camp-cuts/stories/202608280041"
-    },
-    {
-      "title": "Sources: MLB suspends prospect over false identity, age plot - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49754483/sources-mlb-suspends-dominican-prospect-age-fraud-plot"
-    },
-    {
-      "title": "Man who posed as 49ers player is arrested for fraud - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/man-who-posed-as-49ers-player-is-arrested-for-fraud"
-    },
-    {
-      "title": "England vs Pakistan: Ollie Robinson and Jofra Archer give hosts control at Lord's - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/c9w4rneng8lo"
-    },
-    {
-      "title": "Patriots 53-man roster projection: Multiple questions left unanswered ahead of NFL cuts - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-analysis/135068/patriots-final-53-man-roster-projection"
-    },
-    {
-      "title": "Itauma vs Hrgovic: Briton shoves opponent off stage, who responds with a slap - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/cly4v9qg7l4o"
-    },
-    {
-      "title": "Agent Explains Why Jonathan Kuminga Chose Timberwolves - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/08/agent-explains-why-jonathan-kuminga-chose-minnesota.html"
-    },
-    {
-      "title": "Deshaun Watson and the moral dilemma at the forefront of Cleveland Browns football - Andscape",
-      "link": "https://andscape.com/features/deshaun-watson-controversy-cleveland-browns-lawsuits-shedeur-sanders/"
-    },
-    {
-      "title": "Mike Perry reacts to Dillon Danis withdrawing from fight: \u2018This was always their plan\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/latest-news/507480/mike-perry-reacts-to-dillon-danis-withdrawing-from-fight-this-was-always-their-plan"
-    },
-    {
-      "title": "Hillsborough County Commission Approves Rays\u2019 Stadium Proposal - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/rays-new-stadium-approved-2029-opening.html"
-    },
-    {
-      "title": "Projecting the Bills 53-man roster ahead of roster cuts - Buffalo Rumblings",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/139156/buffalo-bills-53-man-roster-projection-at-conclusion-of-preseason-before-roster-cuts"
-    },
-    {
-      "title": "'I didn't have confidence in myself' \u2013 Wout van Aert bags green jersey but regrets missed opportunity in Vuelta a Espa\u00f1a breakaway - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-didnt-have-confidence-in-myself-wout-van-aert-bags-green-jersey-but-regrets-missed-opportunity-in-vuelta-a-espana-breakaway/"
-    },
-    {
-      "title": "FBS Oversight Committee approves legislation to modify football calendar - NCAA.org",
-      "link": "https://www.ncaa.org/fbs-oversight-committee-approves-legislation-to-modify-football-calendar/"
-    },
-    {
-      "title": "College football's battle for LA: As USC and Lincoln Riley run out of excuses, Bob Chesney has UCLA dreaming big again: 'We've awoken the masses' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/article/college-footballs-battle-for-la-as-usc-and-lincoln-riley-run-out-of-excuses-bob-chesney-has-ucla-dreaming-big-again-weve-awoken-the-masses-162700618.html"
-    },
-    {
-      "title": "10 fascinating Eagles questions as training camp ends - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/180987/10-fascinating-eagles-questions-as-training-camp-ends"
-    },
-    {
-      "title": "Louisiana Christian Makes History as 1st NAIA Team to Beat NCAA D-I Team, HC Talks Upset on Video - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25493615-louisiana-christian-makes-history-1st-naia-team-beat-ncaa-d-i-team-hc-talks-upset-video"
-    },
-    {
-      "title": "2026 Fantasy Football Draft Kit: Strategy, cheat sheets, mock drafts, rankings \u2014 everything you need to win your league - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-draft-kit-strategy-cheat-sheets-mock-drafts-rankings-2026-204834810.html"
+      "title": "Browns start slashing roster, cut 15 players from active roster - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-start-cutting-roster-part-ways-with-15-players"
     }
   ],
   "weather": {
