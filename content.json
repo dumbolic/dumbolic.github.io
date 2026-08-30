@@ -1,9 +1,9 @@
 {
-  "quote": "He is richest who is content with the least, for content is the wealth of nature. \u2013 Socrates",
-  "fact": "\"Go.\" is the shortest complete sentence in the English language.",
-  "crypto": "BTC: $78,856 | ETH: $2,502.38",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "Why did the man put his money in the freezer? He wanted cold hard cash!",
+  "quote": "Only the educated are free. \u2013 Epictetus",
+  "fact": "Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.",
+  "crypto": "BTC: $78,579 | ETH: $2,475.95",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking"
+    },
+    {
+      "title": "\u201cWe\u2019re aware,\u201d Microsoft on Windows 11 KB5120998 breaking the mouse cursor - Windows Latest",
+      "link": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/"
+    },
+    {
+      "title": "State of Decay 3 Hands-On: This Could Be the Punchier, Deeper Entry the Zombie Survival Series Needs - IGN",
+      "link": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval"
+    },
+    {
+      "title": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable",
+      "link": "https://mashable.com/tech/apple-iphone-ios-27-everything-we-know"
+    },
+    {
+      "title": "Apple will be launching its first pair of smart glasses next year: Here\u2019s what\u2019s coming - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/"
+    },
+    {
       "title": "The \u2018Iron Man\u2019 Game Lives, And Its First Look Leaked - Gizmodo",
       "link": "https://gizmodo.com/the-iron-man-game-lives-and-its-first-look-leaked-2000804575"
     },
     {
-      "title": "The Galaxy Z Flip 8 is at its best when there\u2019s friction - The Verge",
-      "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review"
+      "title": "GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix - Eurogamer.net",
+      "link": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix"
+    },
+    {
+      "title": "Why Rockstar Has Said Nothing About \u2018GTA 6 Online\u2019 So Far - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/08/29/why-rockstar-has-said-nothing-about-gta-6-online-so-far/"
+    },
+    {
+      "title": "Gamescom's Response To Stolen Laptops Gets Community Noted - Kotaku",
+      "link": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563"
+    },
+    {
+      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio - MacRumors",
+      "link": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/"
+    },
+    {
+      "title": "INTERVIEW: Mega Man Dual Override devs discuss Proto Man\u2019s return, and lessons from Mega Man 11 - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/features/interviews/interview-mega-man-dual-override-devs-discuss-proto-mans-return-and-lessons-from-mega-man-11/"
+    },
+    {
+      "title": "The Biggest Booths And Coolest Sights Of Gamescom 2026 - Game Informer",
+      "link": "https://gameinformer.com/photo-gallery/2026/08/29/the-biggest-booths-and-coolest-sights-of-gamescom-2026"
     },
     {
       "title": "Total War: Warhammer 40,000 is aiming to be the \"definitive\" game for the setting, and I think it might be exactly that - Eurogamer.net",
       "link": "https://www.eurogamer.net/total-war-warhammer-40000-impressions-gamescom"
+    },
+    {
+      "title": "The new CD Projekt Red logo just sparked the weirdest backlash graphic design has ever seen - Creative Bloq",
+      "link": "https://www.creativebloq.com/design/logos-icons/the-new-cd-projekt-red-logo-has-sparked-the-weirdest-backlash-graphic-design-has-seen"
     },
     {
       "title": "\u2018Force Restart\u2019\u2014Microsoft Changes Windows Update Next Month - Forbes",
@@ -32,134 +76,94 @@
       "link": "https://www.otakustudy.com/video-game/2026/08/playstation-plus-monthly-games-locked-in-for-september-2026/"
     },
     {
+      "title": "Brand-New Pokemon Pokopia Code Takes You to Special Cloud Island - gamerant.com",
+      "link": "https://gamerant.com/pokemon-pokopia-codes-cloud-island-world-championship/"
+    },
+    {
       "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out - Mashable",
       "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-memecoin-crash"
-    },
-    {
-      "title": "All iRacing content will be available in career mode at \u2018zero extra cost\u2019 - Traxion.GG",
-      "link": "https://traxion.gg/all-iracing-content-will-be-available-in-career-mode-at-zero-extra-cost/"
-    },
-    {
-      "title": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help - IGN",
-      "link": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help"
-    },
-    {
-      "title": "Google further buries search results under AI mode - The Verge",
-      "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
-    },
-    {
-      "title": "Fatal Fury: City of the Wolves is free to play for the weekend though only on one platform, Standard Edition on sale for just $10 - EventHubs",
-      "link": "https://www.eventhubs.com/news/2026/aug/28/fatal-fury-free-sale/"
-    },
-    {
-      "title": "Android 17 QPR2 adds Status bar customization for notification, system icons - 9to5Google",
-      "link": "http://9to5google.com/2026/08/28/android-17-qpr2-status-bar/"
-    },
-    {
-      "title": "Xbox CEO calls Project Helix a \u2018family of devices\u2019 - The Verge",
-      "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices"
-    },
-    {
-      "title": "NBA 2K27 Review So Far - IGN",
-      "link": "https://www.ign.com/articles/nba-2k27-review"
-    },
-    {
-      "title": "10 Cool New Features Coming Soon to Your iPhone - Gear Patrol",
-      "link": "https://www.gearpatrol.com/tech/ios-27-best-new-iphone-features/"
-    },
-    {
-      "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard - Kotaku",
-      "link": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419"
-    },
-    {
-      "title": "Brave\u2019s browser one-ups Chrome with its new support for email aliases - TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
-    },
-    {
-      "title": "Samsung Galaxy S26 series receives seventh One UI 9 beta with Galaxy Z Fold8 series' features - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_7_update-news-74387.php"
-    },
-    {
-      "title": "Turn-Based-Tactics Fans Are Suddenly Eating Very Well - GameSpot",
-      "link": "https://www.gamespot.com/articles/turn-based-tactics-fans-are-suddenly-eating-very-well/"
     }
   ],
   "sports_news": [
     {
-      "title": "UNC vs TCU football live updates: Week 0 game score, highlights from Dublin - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/08/29/unc-tcu-north-carolina-live-score-updates--live/91495249007/"
+      "title": "Steelers trade Broderick Jones to Cowboys - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-trade-broderick-jones-to-cowboys"
     },
     {
-      "title": "NFL cut tracker: Team-by-team breakdown of players who are subject to waivers - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/nfl-cut-tracker-team-by-team-breakdown/"
+      "title": "Hamilton West Side falls in Little League World Series U.S. final - Cincinnati Enquirer",
+      "link": "https://www.cincinnati.com/story/sports/2026/08/29/hamilton-nevada-llws-u-s-championship-game--live/91513041007/"
     },
     {
-      "title": "Tadej Poga\u010dar abandons the Vuelta a Espa\u00f1a after crash on stage 8 - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-abandons-the-vuelta-a-espana-after-crash-on-stage-8/"
+      "title": "Steelers release 13 players in first round of roster cuts - WTAE",
+      "link": "https://www.wtae.com/article/steelers-roster-cuts-august-28/73555358"
     },
     {
-      "title": "NFL news, live updates: Packers RB Josh Jacobs charged on 2 misdemeanor counts; Raiders not ready to name starting QB between Kirk Cousins, Fernando Mendoza - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-preseason-week-3-schedule-whos-playing-starters-tv-channels-143714619.html"
+      "title": "Panthers part ways with seven players in advance of roster deadline - Carolina Panthers",
+      "link": "https://panthers-frontend.pocket.nfl.com/news/panthers-part-ways-with-seven-players-in-advance-of-roster-deadline"
     },
     {
-      "title": "Florida high school football game delivers one of the most stunning Hail Marys of all time - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/florida-high-school-football-game-delivers-one-most-stunning-hail-marys-all-time"
+      "title": "NFL roster cuts 2026: Look at how 53-man rosters are taking shape at the cutdown deadline - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-roster-cuts-2026-look-at-how-53-man-rosters-are-taking-shape-at-the-cutdown-deadline-160435884.html"
     },
     {
-      "title": "Fantasy football rankings 2026: Top sleepers, breakouts, busts by model that hit Daniel Jones' surprise year - CBS Sports",
-      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-top-sleepers-breakouts-busts-by-model-that-hit-daniel-jones-surprise-year/"
+      "title": "Dolphins trade QB Quinn Ewers to Jaguars: Miami, Jacksonville earn middling grades - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/dolphins-trade-qb-quinn-ewers-jaguars/"
     },
     {
-      "title": "Packers roster cuts live tracker today following final preseason game - Milwaukee Journal Sentinel",
-      "link": "https://www.jsonline.com/story/sports/nfl/packers/2026/08/29/green-bay-packers-roster-cuts-live-tracker--live/91473572007/"
+      "title": "For at least 1 week, Bill Belichick has quieted the noise at UNC \u2014 and even cracked a smile - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/article/for-at-least-1-week-bill-belichick-has-quieted-the-noise-at-unc--and-even-cracked-a-smile-210110717.html"
     },
     {
-      "title": "Giants Notes: Adames, Mayer, Bullpen - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/08/giants-notes-adames-mayer-bullpen.html"
+      "title": "Florida State releases first depth chart of the season ahead of Week 0 meeting with New Mexico State - 247Sports",
+      "link": "https://247sports.com/college/florida-state/longformarticle/florida-state-depth-chart-new-mexico-state-game-289141563/"
     },
     {
-      "title": "Song Yadong KOs Umar Nurmagomedov in massive UFC upset in Shanghai - ESPN",
-      "link": "https://www.espn.com/mma/story/_/id/49762250/song-yadong-kos-umar-nurmagomedov-massive-ufc-upset-shanghai"
+      "title": "Former Lions cornerback Terrion Arnold officially signs with Seahawks - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-news/173473/terrion-arnold-officially-signs-seahawks-commissioners-exempt-list"
     },
     {
-      "title": "Seahawks Droppings: Jason Myers meltdown cements Seattle\u2019s winless preseason - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-game-analysis/173431/seahawks-analysis-jason-myers-meltdown-cements-winless-preseason"
+      "title": "De Zerbi: Richarlison, Danso, Sarr have asked to leave Tottenham - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-transfers-rumors/73302/de-zerbi-richarlison-danso-sarr-have-asked-to-leave-tottenham"
     },
     {
-      "title": "Ravens agree to trade DL C.J. Okoye to the Giants - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-trade-dl-c-j-okoye-to-the-giants"
+      "title": "Patriots Acquire RB Corey Kiner in a Trade with Arizona; Release RB Hassan Haskins - New England Patriots",
+      "link": "https://patriots-frontend.pocket.nfl.com/news/patriots-acquire-rb-corey-kiner-in-a-trade-with-arizona-release-rb-hassan-haskins"
     },
     {
-      "title": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/ckgwnnj281no"
+      "title": "Bill Belichick starts Year Two 1-0 as North Carolina beats TCU - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-starts-year-two-1-0-as-north-carolina-beats-tcu"
     },
     {
-      "title": "Detroit Lions updated depth chart: Preseason Game 3 vs. Colts - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-depth-chart/170833/detroit-lions-updated-depth-chart-preseason-game-3-vs-colts"
+      "title": "Riley Herbst to miss Daytona race, Harrison Burton to sub - Jayski",
+      "link": "https://www.jayski.com/2026/08/29/riley-herbst-to-miss-daytona-race-harrison-burton-to-sub/"
     },
     {
-      "title": "Eagles 53-man roster projection ahead of 2026 final cuts - NBC Sports Philadelphia",
-      "link": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-53-man-roster-projection-ahead-of-2026-final-cuts/748602/"
+      "title": "2026 Tour Championship leaderboard: Live updates, FedEx Cup Playoffs highlights from Round 3 - CBS Sports",
+      "link": "https://www.cbssports.com/golf/news/tour-championship-leaderboard-2026-live-updates-fedex-cup-playoffs-round-3/live/"
     },
     {
-      "title": "Washington Commanders roster cuts tracker: Rumors, news, updates, trades, and more - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-roster/435031/washington-commanders-roster-cuts-tracker-rumors-news-updates-trades"
+      "title": "Panthers agree to sign Bobby Okereke, waive seven players - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-agree-to-sign-bobby-okereke-waive-seven-players"
     },
     {
-      "title": "One detail of Lando Norris' McLaren extension has F1 fans talking - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/one-detail-of-lando-norris-mclaren-extension-has-f1-fans-talking/10850406/"
+      "title": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c93e8qv2qq0o"
     },
     {
-      "title": "Projecting the Falcons final 53-man roster and practice squad - The Falcoholic",
-      "link": "https://www.thefalcoholic.com/atlanta-falcons-roster/95406/projecting-the-falcons-final-53-man-roster-and-practice-squad-nfl-2026"
+      "title": "Game ball, three stars, and snap count analysis: Preseason Week 3, Eagles vs. Bengals - PhillyVoice",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-preseason-week-3-eagles-vs-bengals/"
     },
     {
-      "title": "49ers News: Roster cuts begin - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-preseason/161821/49ers-news-preseason-roster-pleasants-nugent-injured-reserve-ir-connor-colby-australia-week-1-kurtis-rourke-lowe-practice-squad-pff-grade-blocking-pass-run-jordan-watkins-nick-martin-predictions-proje"
+      "title": "'It's a sad way to end it' - exit of Tadej Poga\u010dar sparks wave of sympathy and regret in the Vuelta a Espa\u00f1a peloton - Cyclingnews",
+      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-a-sad-way-to-end-it-exit-of-tadej-pogacar-sparks-wave-of-sympathy-and-regret-in-the-vuelta-a-espana-peloton/"
     },
     {
-      "title": "Roster Complete? Josh Green Swapped for Cody Williams - Canis Hoopus",
-      "link": "https://www.canishoopus.com/timberwolves-news/68624/nba-trade-jonathan-kuminga-josh-green-cody-williams"
+      "title": "NFL roster cuts tracker: Eagles news, updates, trades, more - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/news/179547/nfl-roster-cuts-tracker-eagles-news-updates-trades-more"
+    },
+    {
+      "title": "Patriots make first reported cuts ahead of 53-man roster deadline - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-news/135189/patriots-first-reported-cut-ahead-of-53-man-roster-deadline"
     }
   ],
   "weather": {
