@@ -1,9 +1,9 @@
 {
-  "quote": "Only the educated are free. \u2013 Epictetus",
-  "fact": "Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.",
-  "crypto": "BTC: $78,579 | ETH: $2,475.95",
+  "quote": "Care about what other people think and you will always be their prisoner. \u2013 Lao Tzu",
+  "fact": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
+  "crypto": "BTC: $77,508 | ETH: $2,411.4",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+  "joke": "I'm glad I know sign language, it's pretty handy.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,10 @@
   "bing_background": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Sonic Team head talks possibility of Sonic Mania 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/sonic-team-head-talks-possibility-of-sonic-mania-2/"
+    },
     {
       "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
       "link": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking"
@@ -56,16 +60,20 @@
       "link": "https://www.videogameschronicle.com/features/interviews/interview-mega-man-dual-override-devs-discuss-proto-mans-return-and-lessons-from-mega-man-11/"
     },
     {
-      "title": "The Biggest Booths And Coolest Sights Of Gamescom 2026 - Game Informer",
-      "link": "https://gameinformer.com/photo-gallery/2026/08/29/the-biggest-booths-and-coolest-sights-of-gamescom-2026"
-    },
-    {
       "title": "Total War: Warhammer 40,000 is aiming to be the \"definitive\" game for the setting, and I think it might be exactly that - Eurogamer.net",
       "link": "https://www.eurogamer.net/total-war-warhammer-40000-impressions-gamescom"
     },
     {
       "title": "The new CD Projekt Red logo just sparked the weirdest backlash graphic design has ever seen - Creative Bloq",
       "link": "https://www.creativebloq.com/design/logos-icons/the-new-cd-projekt-red-logo-has-sparked-the-weirdest-backlash-graphic-design-has-seen"
+    },
+    {
+      "title": "TARAE: The Unbound Gamescom 2026 \u2018Gameplay Preview\u2019 trailer - Gematsu",
+      "link": "https://www.gematsu.com/2026/08/tarae-the-unbound-gamescom-2026-gameplay-preview-trailer"
+    },
+    {
+      "title": "Dragon\u2019s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026 - IGN",
+      "link": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-will-send-you-on-a-chilly-loot-grind-gamescom-2026"
     },
     {
       "title": "\u2018Force Restart\u2019\u2014Microsoft Changes Windows Update Next Month - Forbes",
@@ -78,28 +86,56 @@
     {
       "title": "Brand-New Pokemon Pokopia Code Takes You to Special Cloud Island - gamerant.com",
       "link": "https://gamerant.com/pokemon-pokopia-codes-cloud-island-world-championship/"
-    },
-    {
-      "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out - Mashable",
-      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-memecoin-crash"
     }
   ],
   "sports_news": [
     {
-      "title": "Steelers trade Broderick Jones to Cowboys - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-trade-broderick-jones-to-cowboys"
+      "title": "Tour Championship: Viktor Hovland leads as Rory McIlroy and Scottie Scheffler impress - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/ckgx9y2dr1no"
     },
     {
-      "title": "Hamilton West Side falls in Little League World Series U.S. final - Cincinnati Enquirer",
-      "link": "https://www.cincinnati.com/story/sports/2026/08/29/hamilton-nevada-llws-u-s-championship-game--live/91513041007/"
+      "title": "Giants cut eight, including WR Isaiah Hodgins - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-cut-eight-including-wr-isaiah-hodgins"
+    },
+    {
+      "title": "Jazz trade Cody Williams, John Konchar to Timberwolves for Josh Green - NBA.com",
+      "link": "https://www.nba.com/news/jazz-trade-cody-williams-john-konchar-to-timberwolves-for-josh-green"
+    },
+    {
+      "title": "2026 Detroit Lions roster cuts tracker: Latest news, moves to 53-man roster - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-roster/170900/2026-detroit-lions-roster-cuts-tracker-latest-news-53-man-roster"
+    },
+    {
+      "title": "William Jewell College RB dies after medical emergency during game - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49766584/william-jewell-college-rb-dies-medical-emergency-game"
+    },
+    {
+      "title": "Itauma vs Hrgovic: Briton punches himself out and is stopped in round nine - BBC",
+      "link": "https://www.bbc.com/sport/boxing/articles/cpd0n46we13o"
+    },
+    {
+      "title": "USC football ripped for pathetic crowd at home opener: 'Absolutely embarrassing' - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/usc-football-ripped-pathetic-crowd-home-opener-absolutely-embarrassing"
+    },
+    {
+      "title": "Sources: Cowboys acquire OT Jones in exchange for two draft picks - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks"
+    },
+    {
+      "title": "Mets Place Luis Robert Jr. On Waivers - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/mets-place-luis-robert-jr-on-waivers.html"
+    },
+    {
+      "title": "Pete Crow-Armstrong adds to his NL MVP case with three-homer showcase in Cubs win over Reds - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/pete-crow-armstrong-nl-mvp-cubs-reds/"
     },
     {
       "title": "Steelers release 13 players in first round of roster cuts - WTAE",
       "link": "https://www.wtae.com/article/steelers-roster-cuts-august-28/73555358"
     },
     {
-      "title": "Panthers part ways with seven players in advance of roster deadline - Carolina Panthers",
-      "link": "https://panthers-frontend.pocket.nfl.com/news/panthers-part-ways-with-seven-players-in-advance-of-roster-deadline"
+      "title": "Fery beaten by Buse in Winston-Salem final - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/cnvl3m06j6po"
     },
     {
       "title": "NFL roster cuts 2026: Look at how 53-man rosters are taking shape at the cutdown deadline - Yahoo Sports",
@@ -114,56 +150,24 @@
       "link": "https://sports.yahoo.com/college-football/article/for-at-least-1-week-bill-belichick-has-quieted-the-noise-at-unc--and-even-cracked-a-smile-210110717.html"
     },
     {
+      "title": "Ron Wotus ejected during lineup-card exchange before Giants vs. D-backs game - NBC Sports Bay Area & California",
+      "link": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/ron-wotus-ejection-alan-porter/1959510/"
+    },
+    {
       "title": "Florida State releases first depth chart of the season ahead of Week 0 meeting with New Mexico State - 247Sports",
       "link": "https://247sports.com/college/florida-state/longformarticle/florida-state-depth-chart-new-mexico-state-game-289141563/"
     },
     {
-      "title": "Former Lions cornerback Terrion Arnold officially signs with Seahawks - Field Gulls",
-      "link": "https://www.fieldgulls.com/seattle-seahawks-news/173473/terrion-arnold-officially-signs-seahawks-commissioners-exempt-list"
+      "title": "5 takeaways from the Lions\u2019 preseason finale vs. Colts - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/171044/5-takeaways-detroit-lions-preseason-finale-indianapolis-colts"
     },
     {
-      "title": "De Zerbi: Richarlison, Danso, Sarr have asked to leave Tottenham - Cartilage Free Captain",
-      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-transfers-rumors/73302/de-zerbi-richarlison-danso-sarr-have-asked-to-leave-tottenham"
+      "title": "Buffalo Bills roster cuts tracker as team gets to 53 players - Democrat and Chronicle",
+      "link": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/08/29/bills-roster-cuts-live-tracker-as-team-gets-to-53-players--live/91528888007/"
     },
     {
       "title": "Patriots Acquire RB Corey Kiner in a Trade with Arizona; Release RB Hassan Haskins - New England Patriots",
       "link": "https://patriots-frontend.pocket.nfl.com/news/patriots-acquire-rb-corey-kiner-in-a-trade-with-arizona-release-rb-hassan-haskins"
-    },
-    {
-      "title": "Bill Belichick starts Year Two 1-0 as North Carolina beats TCU - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-starts-year-two-1-0-as-north-carolina-beats-tcu"
-    },
-    {
-      "title": "Riley Herbst to miss Daytona race, Harrison Burton to sub - Jayski",
-      "link": "https://www.jayski.com/2026/08/29/riley-herbst-to-miss-daytona-race-harrison-burton-to-sub/"
-    },
-    {
-      "title": "2026 Tour Championship leaderboard: Live updates, FedEx Cup Playoffs highlights from Round 3 - CBS Sports",
-      "link": "https://www.cbssports.com/golf/news/tour-championship-leaderboard-2026-live-updates-fedex-cup-playoffs-round-3/live/"
-    },
-    {
-      "title": "Panthers agree to sign Bobby Okereke, waive seven players - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-agree-to-sign-bobby-okereke-waive-seven-players"
-    },
-    {
-      "title": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c93e8qv2qq0o"
-    },
-    {
-      "title": "Game ball, three stars, and snap count analysis: Preseason Week 3, Eagles vs. Bengals - PhillyVoice",
-      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-preseason-week-3-eagles-vs-bengals/"
-    },
-    {
-      "title": "'It's a sad way to end it' - exit of Tadej Poga\u010dar sparks wave of sympathy and regret in the Vuelta a Espa\u00f1a peloton - Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-a-sad-way-to-end-it-exit-of-tadej-pogacar-sparks-wave-of-sympathy-and-regret-in-the-vuelta-a-espana-peloton/"
-    },
-    {
-      "title": "NFL roster cuts tracker: Eagles news, updates, trades, more - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/179547/nfl-roster-cuts-tracker-eagles-news-updates-trades-more"
-    },
-    {
-      "title": "Patriots make first reported cuts ahead of 53-man roster deadline - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-news/135189/patriots-first-reported-cut-ahead-of-53-man-roster-deadline"
     }
   ],
   "weather": {
