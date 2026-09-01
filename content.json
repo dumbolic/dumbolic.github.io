@@ -1,9 +1,9 @@
 {
-  "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. \u2013 Colin R. Davis",
-  "fact": "Cats have over 100 vocal sounds; dogs only have 10.",
-  "crypto": "BTC: $77,525 | ETH: $2,432.15",
+  "quote": "Unless someone truly has the power to say no, they never truly have the power to say yes. \u2013 Dan Millman",
+  "fact": "Cats have over one hundred vocal sounds; dogs only have about ten.",
+  "crypto": "BTC: $77,267 | ETH: $2,415.96",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Did you hear the joke about the wandering nun? She was a roman catholic.",
+  "joke": "Why did the tree go to the dentist? It needed a root canal.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
+      "link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html"
+    },
+    {
+      "title": "iPhone Ultra release timing: Here\u2019s what the latest reporting says - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/"
+    },
+    {
+      "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio - MacRumors",
+      "link": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/"
+    },
+    {
+      "title": "'Don't Let Your Husband Play GTA 6' - Angry Spouses Are Threatening to Break Up With Their Partners If They Play GTA 6 - IGN",
+      "link": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses"
+    },
+    {
+      "title": "Apple Watch will reportedly get a big redesign, but not this year - Mashable",
+      "link": "https://mashable.com/tech/apple-watch-series-12-rumors-upgrades"
+    },
+    {
+      "title": "AC Black Flag Resynced Update 1.0.7 Live Tomorrow on PS5, Get the Patch Notes Here - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/08/ac-black-flag-resynced-update-1-0-7-live-tomorrow-on-ps5-get-the-patch-notes-here"
+    },
+    {
+      "title": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
+      "link": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/"
+    },
+    {
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues - BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/"
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet Has Finished Shooting its Performance Capture, Confirms Naughty Dog - IGN",
+      "link": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-has-finished-shooting-its-performance-capture-confirms-naughty-dog"
+    },
+    {
+      "title": "Fans Think Ubisoft Just Accidentally Revealed The Date Of The Next Nintendo Direct - Kotaku",
+      "link": "https://kotaku.com/ubisoft-leaked-nintendo-direct-date-2000729913"
+    },
+    {
+      "title": "Leaked DLSS 5 is Being Tested on RTX 20-series \"Turing\" GPUs, Now Runs on Emulators and Old DirectX Titles - TechPowerUp",
+      "link": "https://www.techpowerup.com/352181/leaked-dlss-5-is-being-tested-on-rtx-20-series-turing-gpus-now-runs-on-emulators-and-old-directx-titles"
+    },
+    {
       "title": "Fake Chrome update scam could infect your computer - Fox News",
       "link": "https://www.foxnews.com/tech/fake-chrome-update-scam-infect-computer"
+    },
+    {
+      "title": "Roundup: Here's What The Critics Are Saying About The Blood Of Dawnwalker - purexbox.com",
+      "link": "https://www.purexbox.com/news/2026/08/roundup-heres-what-the-critics-are-saying-about-the-blood-of-dawnwalker"
+    },
+    {
+      "title": "AirPods 5: Here\u2019s what rumors say will launch next week - 9to5Mac",
+      "link": "https://9to5mac.com/2026/08/31/airpods-5-heres-what-rumors-say-will-launch-next-week/"
     },
     {
       "title": "Stellar Blade dev confirms Nintendo Switch 2 frame rate and resolution, explains how DLSS is being used - Nintendo Everything",
@@ -24,142 +76,94 @@
       "link": "https://gameinformer.com/review/onimusha-way-of-the-sword/excellent-action-with-some-aging-elements"
     },
     {
-      "title": "iPhone 18 Pro is coming: Here\u2019s what\u2019s new with each model - 9to5Mac",
-      "link": "https://9to5mac.com/2026/08/31/iphone-18-pro-is-coming-heres-whats-new-with-each-model/"
+      "title": "\"Aggressively\" Selling PS5s Isn't Needed, As Sony Focuses On Making More From Existing Owners - GameSpot",
+      "link": "https://www.gamespot.com/articles/aggressively-selling-ps5s-isnt-needed-as-sony-focuses-on-making-more-from-existing-owners/"
     },
     {
-      "title": "The Blood of Dawnwalker: Benchmarks of Graphics Cards and Processors - GameGPU",
-      "link": "https://en.gamegpu.com/test-gpu/action-fps-tps/the-blood-of-dawnwalker-benchmarki-videokart-i-protsessorov-na-pk"
-    },
-    {
-      "title": "Sony Says It No Longer Needs To 'Aggressively Sell' The PS5 - Kotaku",
-      "link": "https://kotaku.com/sony-says-selling-more-ps5s-is-now-secondary-to-getting-its-players-to-spend-more-2000729852"
-    },
-    {
-      "title": "Housemarque co-founder Ilari Kuittinen steps down after 31 years - Gematsu",
-      "link": "https://www.gematsu.com/2026/08/housemarque-co-founder-ilari-kuittinen-steps-down-after-31-years"
-    },
-    {
-      "title": "Vitamin C 101: Dermatologist-Recommended Products From Cetaphil, Medicube, More - TODAY.com",
-      "link": "https://www.today.com/shop/vitamin-c-skin-care-products-2026-rcna594814"
-    },
-    {
-      "title": "Instagram cracks down on AI accounts pretending to be human - The Verge",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
-    },
-    {
-      "title": "Sony's next PlayStation State of Play coming this Thursday, followed by a Japan and Asia-dedicated showcase - Eurogamer.net",
-      "link": "https://www.eurogamer.net/sony-playstation-state-of-play-september-date-time"
-    },
-    {
-      "title": "\u2018GTA 5\u2019 Actor Says Fans Are \u2018Out Of Their Minds\u2019 Saying \u2018GTA 6\u2019 Looks Worse - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/08/31/gta-5-actor-says-fans-are-out-of-their-minds-saying-gta-6-looks-worse/"
-    },
-    {
-      "title": "Take-Two says its investigation into the GTA 6 leaker is \u2018rapidly evolving\u2019 as it requests another Discord subpoena - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/take-two-says-its-investigation-into-the-gta-6-leaker-is-rapidly-evolving-as-it-requests-another-discord-subpoena/"
-    },
-    {
-      "title": "September\u2019s Miniature of the Month and Collectible Coin revealed - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/qgmvkomp/septembers-miniature-of-the-month-and-collectible-coin-revealed"
-    },
-    {
-      "title": "GO Battle League: Twilight Trails Schedule, Cups & Rewards - pokemongohub.net",
-      "link": "https://pokemongohub.net/post/pvp/go-battle-league-twilight-trails-schedule-cups-events/"
-    },
-    {
-      "title": "OpenClaw that Sam Altman spent billions on and claims to have beaten GTA 6 gets 'largest update in its hi - The Times of India",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/openclaw-that-sam-altman-spent-billions-on-and-claims-to-have-beaten-gta-6-gets-largest-update-in-its-history/articleshow/133650412.cms"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Fixes Shadows Kingdom Come: Deliverance 2 Couldn\u2019t Render, as Daniel V\u00e1vra Says Characters Finally Look As Intended - Wccftech",
-      "link": "https://wccftech.com/nvidia-dlss-5-fixes-shadows-kingdom-come-deliverance-2-look-as-intended/"
-    },
-    {
-      "title": "Amazon makes Alexa+ free on compatible Fire TVs - Fox News",
-      "link": "https://www.foxnews.com/tech/amazon-makes-alexa-free-compatible-fire-tvs"
-    },
-    {
-      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings - BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/"
-    },
-    {
-      "title": "The Witcher 4 already runs on all target platforms - CD Projekt Red not taking any chances after Cyberpunk 2077 - Eurogamer.net",
-      "link": "https://www.eurogamer.net/the-witcher-4-runs-on-pc-ps5-xbox-cyberpunk-2077-lessons"
+      "title": "Xbox\u2019s \u2018Fable\u2019 Is Reportedly As Long As \u2018Avowed\u2019 - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/08/31/xboxs-fable-is-reportedly-as-long-as-avowed/"
     }
   ],
   "sports_news": [
     {
-      "title": "Eagles practice squad tracker news: Signings, waiver claims, roster updates, and more - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/news/181465/eagles-practice-squad-tracker-news-signings-waiver-claims-roster-updates-and-more"
+      "title": "2026 Detroit Lions practice squad, waiver wire tracker - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-roster/24481030/2026-detroit-lions-practice-squad-waiver-wire-tracker"
     },
     {
-      "title": "Chiefs practice squad and waiver wire tracker - arrowheadpride.com",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-news/209177/chiefs-practice-squad-waiver-wire-tracker"
+      "title": "NFL practice squad signings tracker 2026: Rosters for all 32 teams - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-practice-squad-signings-tracker-2026-rosters-for-all-32-teams/"
     },
     {
-      "title": "NFL roster cuts 2026: 6 waiver wire targets that would make sense for the Patriots - patspulpit.com",
-      "link": "https://www.patspulpit.com/new-england-patriots-analysis/135727/nfl-roster-cuts-2026-6-waiver-wire-targets-that-would-make-sense-for-the-patriots"
+      "title": "Schottenheimer: Jones, Steele to compete for Cowboys' RT job - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49785579/schottenheimer-jones-steele-compete-cowboys-rt-job"
     },
     {
-      "title": "Dolphins\u2019 initial 53-man roster is youngest in the league - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-initial-53-man-roster-is-youngest-in-the-league"
+      "title": "Red Sox Place Willson Contreras On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/red-sox-willson-contreras-injured-list.html"
     },
     {
-      "title": "USC issues statement regarding poor attendance at home opener - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/usc-issues-statement-regarding-poor-attendance-at-home-opener"
+      "title": "White Sox To Acquire Tommy Pham - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/08/white-sox-to-acquire-tommy-pham.html"
     },
     {
-      "title": "Top storylines following the Falcons initial 53-man roster - The Falcoholic",
-      "link": "https://www.thefalcoholic.com/atlanta-falcons-depth-chart/95615/top-storylines-following-the-falcons-initial-53-man-roster-billy-bowman-tyler-goodson"
+      "title": "Eagles have a league-high four players released Sunday claimed on waivers - NBC Sports Philadelphia",
+      "link": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-lose-four-players-nfl-waivers-after-releasing-them-day-before/748941/"
     },
     {
-      "title": "Barcola joins Liverpool from PSG in \u00a3123m move - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c9qrj4p58j4o"
+      "title": "San Francisco 49ers' 2026 practice squad tracker - ninerswire.usatoday.com",
+      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/08/31/san-francisco-49ers-2026-practice-squad-tracker/91544034007/"
     },
     {
-      "title": "Grading the 2026 Detroit Lions initial 53-man roster - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/171391/grading-2026-detroit-lions-initial-53-man-roster"
+      "title": "SEC school leaders exploring extreme steps over LSU's plan to sign former pro athletes, including potential expulsion, competition boycott and federal lawsuit - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/sec-school-leaders-exploring-extreme-steps-over-lsus-plan-to-sign-former-pro-athletes-including-potential-expulsion-competition-boycott-and-federal-lawsuit-174813936.html"
     },
     {
-      "title": "T\u00e9rence Atmane feuds with trainer after being denied treatment in heated US Open scene - New York Post",
-      "link": "https://nypost.com/2026/08/31/sports/terence-atmane-feuds-with-trainer-denied-treatment-in-heated-us-open-scene/"
+      "title": "Scottie Scheffler celebrates FedEx Cup title with a rare beer, offers warm praise for Brandel Chamblee - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/scottie-scheffler-celebrates-fedex-cup-title-rare-beer-warm-praise-brandel-chamblee"
     },
     {
-      "title": "NY Jets make 3 puzzling decisions with initial 53-man roster - Jets X-Factor",
-      "link": "https://jetsxfactor.com/2026/08/31/ny-jets-make-puzzling-decisions-initial-53-man-roster/"
+      "title": "Chiefs claim LB Jack Pyburn, DT Bryson Eason - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-claim-lb-jack-pyburn-dt-bryson-eason"
     },
     {
-      "title": "Packers smartly solve offensive questions with three cutdown day trades - Packers Wire",
-      "link": "https://packerswire.usatoday.com/story/sports/nfl/packers/2026/08/31/green-bay-packers-trades-roster-cuts-2026/91544000007/"
+      "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets (source) - MLB.com",
+      "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers"
     },
     {
-      "title": "Players the Washington Commanders could pursue after the roster deadline - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-roster/435575/washington-commanders-waiver-claim-53-man-roster-cuts-lucas-patrick-evan-neal-kenny-moore"
+      "title": "Lionel Messi announces retirement from Argentina national soccer team - NBC News",
+      "link": "https://www.nbcnews.com/sports/soccer/lionel-messi-argentina-soccer-national-team-world-cup-retire-rcna595342"
     },
     {
-      "title": "Waiver wire: 5 players the Giants should consider - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-roster/169606/waiver-wire-5-players-the-giants-should-consider"
+      "title": "Mark Mitchell returning to Missouri: Star forward will not attend Kentucky as he seeks fifth year - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/mark-mitchell-returning-to-missouri/"
     },
     {
-      "title": "The Biggest Surprises and Shocks from 2026 NFL Roster Cuts - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25494819-biggest-surprises-and-shocks-2026-nfl-roster-cuts"
+      "title": "NFL cutdown day was unkind to Maryland football alums - 247Sports",
+      "link": "https://247sports.com/college/maryland/article/nfl-cutdown-day-was-unkind-to-maryland-football-alums-289352497/"
     },
     {
-      "title": "College football coaching carousel 2026: Who to watch for the next big job opening - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49742747/college-football-coaching-hot-seats-2026-next-big-jobs"
+      "title": "Okay, Here We Go: Cubs vs Brewers \u2014 Pitching Matchups, What's at Stake, Who's Hot, Broadcast Info, More - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/08/31/cubs-vs-brewers/"
     },
     {
-      "title": "Why Success for the Bengals in 2026 Feels \u2018Inevitable\u2019 for Joe Burrow - Sports Illustrated",
-      "link": "https://www.si.com/nfl/success-for-bengals-2026-feels-inevitable-for-joe-burrow"
+      "title": "Red Sox Broadcaster Blasts Jazz Chisholm Jr. as 'Bush League,' Wonders If SP Should Hit Yankees Star - bleacherreport.com",
+      "link": "https://bleacherreport.com/articles/25494880-red-sox-broadcaster-blasts-jazz-chisholm-jr-bush-league-wonders-if-sp-should-hit-yankees-star"
     },
     {
-      "title": "MLB 2026: August winners, losers -- and what to watch in September - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49773653/mlb-2026-august-winners-losers-watch-september-playoff-race-wild-card-pca-ohtani-alvarez"
+      "title": "Seahawks\u2019 Emmanwori chimes in on Rams\u2019 Aaron Donald signing - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-emmanwori-chimes-in-rams-aaron-donald-signing"
     },
     {
-      "title": "Preseason NFL Power Rankings 2026: How all 32 teams stack up - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49754534/2026-nfl-power-rankings-preseason-milestones"
+      "title": "Predicting the 2026 Bengals practice squad - Cincy Jungle",
+      "link": "https://www.cincyjungle.com/197715/2026-bengals-practice-squad-prediction"
+    },
+    {
+      "title": "Heath Cummings' Fantasy football quarterback tiers 3.0: Brock Purdy emerges as a favorite draft-day value - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/heath-cummings-2026-fantasy-football-quarterback-tiers-3-0/"
+    },
+    {
+      "title": "Freshman Tommy Carr named Michigan's QB2 entering season - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49783355/freshman-tommy-carr-named-michigan-qb2-entering-season"
     }
   ],
   "weather": {
