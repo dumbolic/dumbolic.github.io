@@ -1,9 +1,9 @@
 {
-  "quote": "Sometimes you have to shut your eyes, so you can see the real beauty. \u2013 Kilian Jornet",
-  "fact": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-  "crypto": "BTC: $79,810 | ETH: $2,456.07",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "The other day I was listening to a song about superglue, it\u2019s been stuck in my head ever since.",
+  "quote": "Treat everyone with politeness and kindness, not because they are nice, but because you are. \u2013 Roy T. Bennett",
+  "fact": "Frank Lloyd Wright's son invented Lincoln Logs.",
+  "crypto": "BTC: $79,682 | ETH: $2,453.85",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "They laughed when I said I wanted to be a comedian \u2013 they\u2019re not laughing now.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,24 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "How to check if Motion Assist has rolled out to your Android 17 phone - 9to5Google",
+      "link": "http://9to5google.com/2026/09/03/android-motion-assist-rollout/"
+    },
+    {
+      "title": "Tesla Introduces 'Automatic Collision Evasion' for Manual Drives - Not a Tesla App",
+      "link": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+    },
+    {
+      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/"
+    },
+    {
       "title": "Metagame Mentor: The Top Standard Decks for September 2026's RCQs - magic.gg",
       "link": "https://www.magic.gg/news/metagame-mentor-the-top-standard-decks-for-september-2026s-rcqs"
+    },
+    {
+      "title": "UK PS5 and Xbox sales jumped by a third following GTA 6\u2019s Netflix reveal - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/uk-ps5-and-xbox-sales-tripled-following-gta-6s-netflix-reveal/"
     },
     {
       "title": "1Password Users Flee Platform After $300,000 Donation. Should You Run, Too? - All About Cookies",
@@ -24,32 +40,20 @@
       "link": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html"
     },
     {
-      "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs - The Verge",
-      "link": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications"
-    },
-    {
-      "title": "Google rolling out Gmail Live, Docs Live, and Keep Live - 9to5Google",
-      "link": "http://9to5google.com/2026/09/03/gmail-docs-keep-live/"
-    },
-    {
-      "title": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699 - 9to5Google",
-      "link": "http://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/"
+      "title": "Lenovo\u2019s new MacBook Neo competitor comes in two sizes and seven colors - theverge.com",
+      "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs"
     },
     {
       "title": "Motorola is finally making a new Wear OS watch and it\u2019s not called the Moto 360 - 9to5Google",
       "link": "http://9to5google.com/2026/09/03/moto-watch-ultra-wear-os-smartwatch-motorola/"
     },
     {
-      "title": "Nvidia PAIR Speeds Up AI Agents by Annexing PCs on Your Network - CNET",
-      "link": "https://www.cnet.com/tech/services-and-software/nvidia-pair-speeds-ai-agents-by-annexing-pcs-on-your-network/"
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
     },
     {
       "title": "How often should you be cleaning your reusable water bottle? Here\u2019s what experts had to say - NBC News",
       "link": "https://www.nbcnews.com/select/shopping/how-to-clean-water-bottle-rcna595888"
-    },
-    {
-      "title": "Walmart's \u2018Bricktember\u2019 LEGO Sale Page Is a Mess, So I've Picked Out the Best Actual Deals - IGN",
-      "link": "https://www.ign.com/articles/walmart-bricktember-sale-best-lego-set-deals-september-2026"
     },
     {
       "title": "Everything Announced At The September 2026 PlayStation State Of Play - Game Informer",
@@ -60,31 +64,47 @@
       "link": "https://www.anno-union.com/gamescom-recap-dawn-of-the-delta-and-echoes-of-kassandra/"
     },
     {
+      "title": "Free Play Days \u2013 EA Sports College Football 27, The Survivalists, The Lonesome Guild, and Under The Waves - XBOX Wire",
+      "link": "https://news.xbox.com/en-us/2026/09/03/free-play-days-09-03-2026/"
+    },
+    {
       "title": "Gran Turismo 7 Spec IV: Autumn Ring, Sugo Circuit, 12 Cars, Shuffle Racing, and More - GTPlanet",
       "link": "https://www.gtplanet.net/gran-turismo-7-spec-iv-autumn-ring-sugo-circuit-12-cars-shuffle-racing-and-more-20260903/"
     },
     {
-      "title": "Final Fantasy Resonance: How Square Enix Turned a Dead Gacha Game Into a Must-Play Console RPG - PCMag",
-      "link": "https://www.pcmag.com/news/final-fantasy-resonance"
+      "title": "iPhone Ultra's Very High Price and Features Revealed in New Report - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/"
     },
     {
       "title": "Final Fantasy 7: Revelation Release Date Confirmed - IGN",
       "link": "https://www.ign.com/articles/final-fantasy-7-revelation-release-date-confirmed"
-    },
-    {
-      "title": "Sony's discless PlayStation PR disaster isn't going away as State of Play once again flooded with protests - Eurogamer.net",
-      "link": "https://www.eurogamer.net/sony-state-of-play-no-disc-no-buy-destiny-3"
-    },
-    {
-      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN",
-      "link": "https://www.ign.com/articles/grand-theft-auto-6-is-getting-a-pair-of-limited-edition-ps5-controllers"
-    },
-    {
-      "title": "Fate/EXTRA Record launches January 28, 2027 for PS5, Switch 2, PS4, Switch, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/fate-extra-record-launches-january-28-2027-for-ps5-switch-2-ps4-switch-and-pc"
     }
   ],
   "sports_news": [
+    {
+      "title": "Lombardi out as UNC investigators probe allegations of drug use, sex among players, staff - WRAL",
+      "link": "https://www.wral.com/sports/north-carolina-lombardi-out-general-manager-tar-heels-september-2026/"
+    },
+    {
+      "title": "Mark Sanchez agrees to plead guilty in stabbing case - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-sanchez-agrees-to-plead-guilty-in-stabbing-case"
+    },
+    {
+      "title": "Anthony Joshua vs Tyson Fury: London mayor Sadiq Khan wants fight at Wembley - BBC",
+      "link": "https://www.bbc.com/sport/boxing/articles/cz6zdd8yjzzo"
+    },
+    {
+      "title": "Team USA ranked: Which players can help deliver FIBA World Cup gold - USA Today",
+      "link": "https://www.usatoday.com/story/sports/wnba/2026/09/03/team-usa-world-cup-roster-2026-ranking/91580825007/"
+    },
+    {
+      "title": "Von Miller Trades Equity in Chicken Company to Land No. 40 Cowboys Jersey from Hunter Luepke - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25495924-von-miller-trades-equity-chicken-company-land-no-40-cowboys-jersey-hunter-luepke"
+    },
+    {
+      "title": "US Open 2026 results: Naomi Osaka overcomes blip as Iga Swiatek also progresses - BBC",
+      "link": "https://www.bbc.com/sport/tennis/articles/cj4j55dxyveo"
+    },
     {
       "title": "US Open: Felix Auger-Aliassime beaten by Karen Khachanov in second round - BBC",
       "link": "https://www.bbc.com/sport/tennis/articles/cy0zxxk3y62o"
@@ -98,28 +118,28 @@
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-03/beat-sure-49ers-limit-kittles-achilles-snaps"
     },
     {
-      "title": "SEC sues LSU, Lane Kiffin in federal court over NFL transfer issue - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-sues-lsu-lane-kiffin-in-federal-court-over-nfl-transfer-issue"
+      "title": "Pennsylvania youth football coaches charged following on-field fight - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/US/pennsylvania-youth-football-coaches-charged-field-fight/story?id\\\\u003d136174962"
+    },
+    {
+      "title": "Giants' Cam Skattebo says he mulled retiring after 2025 injury - espn.com",
+      "link": "https://www.espn.com/nfl/story/_/id/49816937/giants-cam-skattebo-says-mulled-retiring-2025-injury"
     },
     {
       "title": "Morgan Riddle weighs in as US Open influencer drama ramps up - New York Post",
       "link": "https://nypost.com/2026/09/03/sports/morgan-riddle-weighs-in-as-us-open-influencer-drama-ramps-up/"
     },
     {
-      "title": "Giants' Cam Skattebo Says He Considered Retiring After Gruesome Season-Ending Injury as Rookie - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25495836-giants-cam-skattebo-says-he-considered-retiring-after-gruesome-season-ending-injury-rookie"
-    },
-    {
       "title": "Everything we learned on day one at F1's Italian GP - The Race",
       "link": "https://www.the-race.com/formula-1/everything-we-learned-f1-2026-italian-gp-day-one/"
     },
     {
-      "title": "Ukrainian LSU women\u2019s basketball player leaves team over signing of Russian recruit - NBC News",
-      "link": "https://www.nbcnews.com/sports/college-basketball/kate-koval-lsu-basketball-kim-mulkey-ukraine-russia-rcna595808"
+      "title": "SEC files lawsuit against LSU, Lane Kiffin in wake of push to bring back former NFL players - on3.com",
+      "link": "https://www.on3.com/news/sec-files-lawsuit-against-lsu-lane-kiffin-in-wake-of-push-to-bring-back-former-nfl-players/"
     },
     {
-      "title": "Vuelta a Espana: Enric Mas extends lead as Jakob Omrzel wins on stage 12 - BBC",
-      "link": "https://www.bbc.com/sport/cycling/articles/c770n8jez7ko"
+      "title": "Can Cards hold off the Dodgers for all-time National League supremacy? - MLB.com",
+      "link": "https://www.mlb.com/news/cardinals-have-more-world-series-titles-than-dodgers-for-now"
     },
     {
       "title": "NFL's Top 100 Players of 2026: Five things voters got wrong - NFL.com",
@@ -130,40 +150,16 @@
       "link": "https://www.nbcnews.com/news/us-news/probe-dianna-russini-mike-vrabel-athletic-rcna595918"
     },
     {
+      "title": "NFL Player Alphonso Smith Jr. Dead at 40 After Heartbreaking Final Post - E! News",
+      "link": "https://www.eonline.com/news/1435712/nfl-player-alphonso-smith-jr-dead-at-40"
+    },
+    {
       "title": "Kawhi investigation fallout: How the Clippers' roster is affected - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49814576/kawhi-investigation-fallout-how-clippers-roster-affected"
     },
     {
       "title": "Sources: Cardinals, Michael Wilson reach 3-year, $75M extension - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49815820/sources-cardinals-wr-michael-wilson-agree-3-year-extension"
-    },
-    {
-      "title": "NFL players, coaches, GMs under the most pressure in 2026 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49784757/2026-nfl-season-players-coaches-gms-pressure-most-gain-lose"
-    },
-    {
-      "title": "Brendan Sorsby has \"a ton of regret\" over betting scandal - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsby-has-a-ton-of-regret-over-betting-scandal"
-    },
-    {
-      "title": "Matthew Berry's 10 Lists Of 10 For The 2026 Fantasy Football Season - FantasyLife",
-      "link": "https://www.fantasylife.com/articles/fantasy/matthew-berrys-10-lists-of-10-for-2026-fantasy-football-season"
-    },
-    {
-      "title": "3 coaches charged in Carnegie youth football brawl - triblive.com",
-      "link": "https://triblive.com/local/3-coaches-to-face-charges-in-carnegie-youth-football-brawl/"
-    },
-    {
-      "title": "Wolfe: Falcons plan to start Penix \u2018eventually\u2019 - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-02/wolfe-falcons-plan-to-start-penix-eventually"
-    },
-    {
-      "title": "Anthony Richardson is the Colts\u2019 No. 2 quarterback - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-is-the-colts-no-2-quarterback"
-    },
-    {
-      "title": "Former NFL player Alphonso Smith Jr. dies at age 40 - USA Today",
-      "link": "https://www.usatoday.com/story/sports/nfl/2026/09/02/alphonso-smith-jr-nfl-player-dies-broncos-lions/91586021007/"
     }
   ],
   "weather": {
