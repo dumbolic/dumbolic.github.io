@@ -1,9 +1,9 @@
 {
-  "quote": "Your only limitations are those you set up in your mind or permit others to set up for you. \u2013 Og Mandino",
-  "fact": "If one spells out numbers, they would have to count to One Thousand before coming across the letter \"A\".",
-  "crypto": "BTC: $79,871 | ETH: $2,499.66",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Yesterday I confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia.",
+  "quote": "Don't look for meaning in the words. Listen to the silences. \u2013 Samuel Beckett",
+  "fact": "By raising your legs slowly and lying on your back, you cannot sink into quicksand.",
+  "crypto": "BTC: $79,610 | ETH: $2,477.08",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "No, Sony isn't cutting PlayStation disc production by 90 percent, just 10 - eurogamer.net",
+      "link": "https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90"
+    },
+    {
+      "title": "Microsoft\u2019s latest moves suggest Xbox Cloud Gaming is slipping out of the spotlight \u2014 and the strategy shift feels impossible to ignore - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-clearly-doesnt-see-much-of-a-future-for-xbox-cloud-gaming"
+    },
+    {
+      "title": "Gamescom says sorry after backlash over how it handled equipment thefts from indie developers - Eurogamer.net",
+      "link": "https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response"
+    },
+    {
+      "title": "The best time to buy an iPhone may be right this minute - The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/"
+    },
+    {
+      "title": "IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - cnet.com",
+      "link": "https://www.cnet.com/news-live/ifa-berlin-2026-live-the-biggest-announcements-from-samsung-lg-and-more/"
+    },
+    {
+      "title": "Samsung Galaxy S27 Pro, S27 Ultra certification reveals 60W charging speed - Gizmochina",
+      "link": "https://www.gizmochina.com/2026/09/05/samsung-galaxy-s27-pro-s27-ultra-3c-certified/"
+    },
+    {
       "title": "Maushold, Morpeko, Moltres, Salamence ex Illustration Rares Revealed from \"30th Celebration!\" - pokebeach.com",
       "link": "https://www.pokebeach.com/2026/09/maushold-illustration-rare-revealed-from-30th-celebration"
-    },
-    {
-      "title": "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures - IGN",
-      "link": "https://www.ign.com/articles/gamescom-apologizes-for-its-initial-response-to-thefts-promises-improved-security-measures"
-    },
-    {
-      "title": "Double Fine Boss Says 'We Never Actively Tried To Make A Game We Thought Was Going To Lose Money' - Kotaku",
-      "link": "https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429"
     },
     {
       "title": "Mario Kart 8 Deluxe online now seems to have an advantage for Nintendo Switch 1 players vs. Switch 2 - Nintendo Everything",
       "link": "https://nintendoeverything.com/mario-kart-8-deluxe-online-now-seems-to-have-an-advantage-for-nintendo-switch-1-players-vs-switch-2/"
     },
     {
-      "title": "Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/"
+      "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview - MacRumors",
+      "link": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/"
+    },
+    {
+      "title": "Apple\u2019s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One - CNET",
+      "link": "https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/"
+    },
+    {
+      "title": "Tim Schafer Calls Double Fine Leaving Xbox A 'Creative Awakening': 'Asha\u2019s Not Going To Shoot My Dog' - kotaku.com",
+      "link": "https://kotaku.com/tim-schafer-calls-double-fine-leaving-xbox-a-creative-awakening-ashas-not-going-to-shoot-my-dog-2000731428"
+    },
+    {
+      "title": "ASUS Shows RTX Spark Mini PCs and Laptop Designs at IFA 2026 - TechPowerUp",
+      "link": "https://www.techpowerup.com/352353/asus-shows-rtx-spark-mini-pcs-and-laptop-designs-at-ifa-2026"
+    },
+    {
+      "title": "HP\u2019s latest OmniBooks get RTX Spark, 128 GB LPDDR5X RAM and 3K OLED displays - Notebookcheck",
+      "link": "https://www.notebookcheck.net/HP-s-latest-OmniBooks-get-RTX-Spark-128-GB-LPDDR5X-RAM-and-3K-OLED-displays.1388848.0.html"
     },
     {
       "title": "Nvidia Wants to Turn Your Idle PCs Into a Personal Home Data Center With 'PAIR' - PCMag",
@@ -52,126 +84,90 @@
       "link": "https://www.rpgsite.net/feature/21299-final-fantasy-resonance-switch-2-vs-ps5-pro-steam-deck-rog-ally-comparison-visuals-graphics-performance-demo"
     },
     {
-      "title": "Microsoft confirms Windows 11 age verification to heavily limit features starting with Teams - Neowin",
-      "link": "https://www.neowin.net/news/microsoft-confirms-windows-11-age-verification-to-heavily-limit-features-starting-with-teams/"
-    },
-    {
-      "title": "Miami wants to turn the city into a real-life GTA 6 and cops aren\u2019t happy about it - Polygon.com",
-      "link": "https://www.polygon.com/gta-6-miami-dade-rockstar-marketing-proposal-where-is-located/"
-    },
-    {
       "title": "Blood Of Dawnwalker's Most Popular Mod Changes The Story Timer As Players Try To Remove Friction From The RPG - Kotaku",
       "link": "https://kotaku.com/blood-of-dawnwalkers-most-popular-mod-changes-the-story-timer-as-players-try-to-remove-friction-from-the-rpg-2000731368"
     },
     {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers - Ars Technica",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
-    },
-    {
-      "title": "Let\u2019s Stop Saying \u201cMetroidvania\u201d - GameSpot",
-      "link": "https://www.gamespot.com/articles/lets-stop-saying-metroidvania/"
-    },
-    {
-      "title": "Astonishia Story coming west on February 11, 2027 for PS5, Switch 2, Switch, and PC - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/astonishia-story-coming-west-on-february-11-2027-for-ps5-switch-2-switch-and-pc"
-    },
-    {
-      "title": "Onimusha: Way of the Sword Gets a Launch Day Discount at Fanatical - IGN",
-      "link": "https://www.ign.com/articles/onimusha-way-of-the-sword-pc-steam-sale-september-2026"
-    },
-    {
-      "title": "Leaked iPhone roadmap reveals plans for larger foldable, \u2018biggest overhaul,\u2019 more - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/"
-    },
-    {
-      "title": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X - macrumors.com",
-      "link": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/"
-    },
-    {
-      "title": "Apple Planning to Update MacBook Neo in Three Ways - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/"
+      "title": "This Hiking Exoskeleton May Actually Help Your Bad Knees, Finally - Gizmodo",
+      "link": "https://gizmodo.com/this-hiking-exoskeleton-may-actually-help-your-bad-knees-finally-2000807563"
     }
   ],
   "sports_news": [
     {
-      "title": "Andy Ruiz Wastes His Comeback Against Damian Knyba - Boxing News 24/7",
-      "link": "https://www.boxing247.com/boxing-news/andy-ruiz-wastes-his-comeback-against-damian-knyba/309576"
+      "title": "New Seahawks owners prompt painful look at Seattle\u2019s ownership changes - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/seahawks/new-seahawks-owners-prompt-painful-look-at-seattles-ownership-changes/"
     },
     {
-      "title": "Benches clear in Red Sox-Orioles after Blaze Alexander's hard slide - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/49831106/benches-clear-orioles-red-sox-blaze-alexander-hard-slide"
+      "title": "Lane Kiffin: Leaving former NFL players off roster in best interest of LSU - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-kiffin-leaving-former-nfl-players-off-roster-in-best-interest-of-lsu"
     },
     {
-      "title": "John Isner speculates on the tennis tournament Carlos Alcaraz may never play again after his recent comments - Tennishead",
-      "link": "https://tennishead.net/john-isner-speculates-on-the-tennis-tournament-carlos-alcaraz-may-never-play-again-after-his-recent-comments/"
+      "title": "Chelsea 1-1 Aston Villa: Blues' WSL title hopes already under scrutiny - bbc.com",
+      "link": "https://www.bbc.com/sport/football/articles/crr4704xvgpo"
     },
     {
-      "title": "No Andi, no problem: Nebraska volleyball's bench empties in DePaul sweep; Justin Frommer's 3 takes - Omaha World-Herald",
-      "link": "https://omaha.com/sports/huskers/volleyball/article_b1899fbe-928a-4225-89b3-13fd7c944bfb.html"
+      "title": "ESPN ripped by fans for horrific 'College GameDay' decision: 'Ruined the show!' - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/espn-ripped-fans-horrific-college-gameday-decision-ruined-show"
     },
     {
-      "title": "Diamondbacks To Activate Corbin Burnes On Tuesday - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/09/diamondbacks-to-activate-corbin-burnes-on-tuesday.html"
+      "title": "F1 qualifying LIVE: Reaction as Pierre Gasly takes Italian Grand Prix pole - bbc.com",
+      "link": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt"
     },
     {
-      "title": "4-ton potato rolls into town, combining charity and carbs - KATU",
-      "link": "https://katu.com/news/local/4-ton-potato-rolls-into-town-combining-charity-and-carbs"
+      "title": "New Sox Park? Future owner announces proposal for riverside stadium at 'The Railyards' - Chicago Sun-Times",
+      "link": "https://chicago.suntimes.com/white-sox/2026/09/05/new-sox-park-future-owner-announces-proposal-for-riverside-stadium-at-the-railyards"
     },
     {
-      "title": "Witnesses changed their stories. Evidence is missing. Now Shilo Sanders awaits verdict - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/09/04/shilo-sanders-bankruptcy-trial-ends-deion-sanders-colorado-football-john-darjean/91616382007/"
+      "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 9/5 & 9/6 & 9/7 - Pitcher List",
+      "link": "http://pitcherlist.com/starting-pitcher-streamer-ranks-fantasy-baseball-9-5-9-6-9-7/"
     },
     {
-      "title": "OU football vs UTEP live updates: Week 1 game score, highlights for Sooners-Miners - The Oklahoman",
-      "link": "https://www.oklahoman.com/story/sports/college/sooners/2026/09/04/oklahoma-utep-game-score-live-updates-highlights-college-football--live/91616386007/"
+      "title": "College football odds, picks, predictions for Week 1, 2026: Computer backing Auburn, Cincinnati - CBS Sports",
+      "link": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-for-week-1-2026/"
     },
     {
-      "title": "Ongoing UNC investigation could take out Bill Belichick, for cause - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ongoing-unc-investigation-could-take-out-bill-belichick-with-cause"
+      "title": "Oregon State vs. No. 23 Houston football: Live updates today - oregonlive.com",
+      "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-vs-no-23-houston-football-live-updates-today.html"
     },
     {
-      "title": "Fresno State vs USC Prediction, Odds, Expert Picks Today: NCAAF Week 1 - actionnetwork.com",
-      "link": "https://www.actionnetwork.com/ncaaf/fresno-state-bulldogs-vs-usc-trojans-prediction-pick-odds-college-football-friday-september-4"
+      "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cr4vzr9n2nyo"
     },
     {
-      "title": "Toledo vs Michigan State Prediction, Odds, Time, Expert Picks for College Football Week 1 - Action Network",
-      "link": "https://www.actionnetwork.com/ncaaf/toledo-rockets-vs-michigan-state-spartans-prediction-pick-odds-college-football-friday-september-4"
+      "title": "Ominous prediction has Tony Romo \u201895 percent\u2019 finished at CBS after arrest - New York Post",
+      "link": "https://nypost.com/2026/09/05/sports/ominous-prediction-has-tony-romo-95-percent-finished-at-cbs/"
     },
     {
-      "title": "Digging Deeper Into Liverpool\u2019s Comfortable 2-0 Victory Over Ipswich Town - The Liverpool Offside",
-      "link": "https://liverpooloffside.sbnation.com/liverpool-fc-match-coverage/83384/digging-deeper-liverpool-comfortable-2-0-victory-ipswich-town-epl-2026"
+      "title": "Deion Sanders didn\u2019t have to testify in the Shilo Sanders bankruptcy trial - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-didnt-have-to-testify-in-the-shilo-sanders-bankruptcy-trial"
     },
     {
-      "title": "USA vs. China winners, losers: Caitlin Clark sets record, Cathy Engelbert's timing - USA Today",
-      "link": "https://www.usatoday.com/story/sports/wnba/2026/09/04/world-cup-usa-china-winners-losers-caitlin-clark-paige-bueckers-engelbert/91616094007/"
+      "title": "Russell goes fastest in busy final practice at Monza - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-hamilton-and-verstappen-in-final-italy-practice.6i9o4gazCqUo3UtLVRgoe8"
     },
     {
-      "title": "Mark Walter's Dodgers purchase under new scrutiny after Pablo Torre report - USA Today",
-      "link": "https://www.usatoday.com/story/sports/mlb/dodgers/2026/09/04/mark-walter-self-dealing-dodgers-finances-pablo-torre-report/91613157007/"
+      "title": "Richard Hughes steps down as Liverpool sporting director - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c3d7483rv82o"
     },
     {
-      "title": "Two Indiana players get TRO to return for 2026 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-indiana-players-get-tro-to-return-for-2026"
+      "title": "FIA court of appeal refutes Flavio Briatore impartiality claims - bbc.com",
+      "link": "https://www.bbc.com/sport/formula1/articles/c4g56x1xxn3o"
     },
     {
-      "title": "Pro Football Hall of Fame makes sweeping changes after Bill Belichick fiasco - patspulpit.com",
-      "link": "https://www.patspulpit.com/new-england-patriots-news/136159/pro-football-hall-of-fame-sweeping-bill-belichick-fiasco"
+      "title": "Ajla Tomljanovic reacts as Nick Kyrgios' ban is reduced to one month, 'I just don't understand' - Tennishead",
+      "link": "https://tennishead.net/ajla-tomljanovic-reacts-as-nick-kyrgios-ban-is-reduced-to-one-month-i-just-dont-understand/"
     },
     {
-      "title": "FIBA World Cup 2026 Results, Day 1 Group Box Scores, Highlights & Day 2 Schedule Before KO Bracket - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25496009-fiba-world-cup-2026-results-day-1-group-box-scores-highlights-day-2-schedule-ko-bracket"
+      "title": "Staff Predictions: Florida State Seminoles vs. No. 19 SMU Mustangs - Tomahawk Nation",
+      "link": "https://www.tomahawknation.com/florida-state-football/136179/score-predictions-fsu-smu-odds-game"
     },
     {
-      "title": "Chicago Sky fire back at Enes Kanter lawsuit with ardent defense of \u2018the truth\u2019 - New York Post",
-      "link": "https://nypost.com/2026/09/04/sports/chicago-sky-fire-back-at-enes-kanter-lawsuit-with-ardent-defense-of-the-truth/"
+      "title": "Pat Fitzgerald sets tone as gambling man in Michigan State debut - mlive.com",
+      "link": "https://www.mlive.com/spartans/football/2026/09/pat-fitzgerald-sets-tone-as-gambling-man-in-michigan-state-debut.html"
     },
     {
-      "title": "Pirates Reinstate Konnor Griffin, Designate Christian Bethancourt For Assignment - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/09/pirates-reinstate-konnor-griffin-designate-christian-bethancourt-for-assignment.html"
-    },
-    {
-      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 1 - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-against-the-spread-odds-betting-lines-for-top-25-games-in-week-1/"
+      "title": "UFC Paris Results: Hooker vs. Parnasse - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/508481/ufc-paris-results-hooker-vs-parnasse"
     }
   ],
   "weather": {
