@@ -1,31 +1,51 @@
 {
-  "quote": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. \u2013 Lao Tzu",
-  "fact": "If you keep a goldfish in the dark room, it will eventually turn white.",
-  "crypto": "BTC: $79,847 | ETH: $2,510.45",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.",
+  "quote": "Time heals what reason cannot. \u2013 Seneca",
+  "fact": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
+  "crypto": "BTC: $79,413 | ETH: $2,490.82",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Nintendo",
+      "link": "https://www.nintendo.com/us/nintendo-direct/9-8-2026/"
+    },
+    {
+      "title": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported - techpowerup.com",
+      "link": "https://www.techpowerup.com/352395/new-dlss-5-swapper-tool-brings-neural-rendering-to-games-nvidia-never-supported"
+    },
     {
       "title": "Walmart is selling a 2-in-1 laptop and tablet for just $75 - thestreet.com",
       "link": "https://www.thestreet.com/deals/aeezo-2-in-1-laptop-tablet-walmart-sale-september-2026"
     },
     {
-      "title": "Rumor: New Smash Bros. game on the way, Nintendogs returning, more - Nintendo Everything",
-      "link": "https://nintendoeverything.com/rumor-new-smash-bros-game-on-the-way-nintendogs-returning-more/"
+      "title": "Super Smash Bros. Ultimate Switch 2 sequel leaks before September Nintendo Direct - Notebookcheck",
+      "link": "https://www.notebookcheck.net/New-Super-Smash-Bros-Switch-2-game-leaks-before-September-Nintendo-Direct.1390056.0.html"
+    },
+    {
+      "title": "The Blood of Dawnwalker Sells 1 Million Copies Days After Launch - techpowerup.com",
+      "link": "https://www.techpowerup.com/352397/the-blood-of-dawnwalker-sells-1-million-copies-days-after-launch"
     },
     {
       "title": "Acer's tiny RTX Spark PC takes aim at Mac Studio with Blackwell and 128GB unified memory - TweakTown",
       "link": "https://www.tweaktown.com/news/113423/acers-tiny-rtx-spark-pc-takes-aim-at-mac-studio-with-blackwell-and-128gb-unified-memory/index.html"
     },
     {
+      "title": "Sid Meier\u2019s Civilization VII major update \u2018Arc of Tomorrow\u2019 and paid expansion \u2018Earthrise\u2019 announced - Gematsu",
+      "link": "https://www.gematsu.com/2026/09/sid-meiers-civilization-vii-major-update-arc-of-tomorrow-and-paid-expansion-earthrise-announced"
+    },
+    {
       "title": "iPhone Handoff will seamlessly share one number between two phones - The Verge",
       "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27"
+    },
+    {
+      "title": "Deals: Galaxy Z Fold8 Ultra and Z Flip8 get first big price cuts, Galaxy S26 FE launches - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/deals_galaxy_z_fold8_ultra_and_z_flip8_get_first_big_price_cuts_galaxy_s26_fe_launches-news-74474.php"
     },
     {
       "title": "Here\u2019s how iPhone Ultra\u2019s form factor could compare to other Apple products - 9to5Mac",
@@ -36,98 +56,102 @@
       "link": "https://www.slashgear.com/2247541/best-practical-usb-c-gadgets/"
     },
     {
-      "title": "DLSS 5 was launched in Medal of Honor European Assault using the PCSX2 emulator on an RTX 4070 Super. - GameGPU",
-      "link": "https://en.gamegpu.com/news/igry/dlss-5-zapustili-v-medal-of-honor-european-assault-cherez-emulyator-pcsx2-na-rtx-4070-super"
+      "title": "I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026 - CNET",
+      "link": "https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/"
+    },
+    {
+      "title": "Study finds that smartwatches are \u2018lying to you\u2019 about how many calories you burned - KTLA",
+      "link": "https://ktla.com/news/consumer-business/study-finds-that-smartwatches-are-lying-to-you-about-how-many-calories-you-burned/"
     },
     {
       "title": "Fall\u2019s Video Game Release Slate Is Intimidatingly Good And Completely Doomed - GameSpot",
       "link": "https://www.gamespot.com/articles/falls-video-game-release-slate-is-intimidatingly-good-and-completely-doomed/"
     },
     {
+      "title": "Following Pok\u00e9mon , Stern Lets Fallout Pinball Machine Out Of The Vault - Kotaku",
+      "link": "https://kotaku.com/following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault-2000731561"
+    },
+    {
+      "title": "Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it - eurogamer.net",
+      "link": "https://www.eurogamer.net/xbox-cloud-gaming-hourly-cap-break-even-point"
+    },
+    {
       "title": "Think Mice Are Nesting Inside Your Home? Look for These Telltale Signs - marthastewart.com",
       "link": "https://www.marthastewart.com/signs-mice-are-nesting-in-your-home-12076887"
     },
     {
+      "title": "Global Timekeepers May Swap 'Leap Second' for 'Leap Hour' - Newser",
+      "link": "https://www.newser.com/story/395633/global-timekeepers-may-swap-leap-second-for-leap-hour.html"
+    },
+    {
+      "title": "Amazon\u2019s $30 solar power bank makes wall outlets obsolete for phone charging - thestreet.com",
+      "link": "https://www.thestreet.com/shopping/blavor-solar-power-bank-amazon-sale"
+    },
+    {
       "title": "No, Sony isn't cutting PlayStation disc production by 90 percent, just 10 - eurogamer.net",
       "link": "https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90"
-    },
-    {
-      "title": "The Blood of Dawnwalker has sold 1 million copies worldwide - RPG Site",
-      "link": "https://www.rpgsite.net/news/21303-the-blood-of-dawnwalker-sales-numbers-1-million-copies-new"
-    },
-    {
-      "title": "Sonos Arc Ultra Dolby Atmos Soundbar Drops Back to a Record Low With Hundreds Off for Labor Day - Gizmodo",
-      "link": "https://gizmodo.com/sonos-arc-ultra-dolby-atmos-soundbar-drops-back-to-a-record-low-with-hundreds-off-for-labor-day-2000807167"
-    },
-    {
-      "title": "'Overwatch' Won't Get Its Most Exciting New Feature In Years Until Next Season - Polygon.com",
-      "link": "https://www.polygon.com/overwatch-unvaulted-passes-delay/"
-    },
-    {
-      "title": "10 Desk Gadgets Under $100 That Deserve A Spot In Your Home Office - bgr.com",
-      "link": "https://www.bgr.com/2249292/desk-gadgets-under-100-dollars-worth-having-home-office/"
-    },
-    {
-      "title": "Bethesda Officially Announces Brand-New $13,999 Fallout Release - GameRant",
-      "link": "https://gamerant.com/fallout-stern-pinball-price-release-date/"
-    },
-    {
-      "title": "Microsoft\u2019s latest moves suggest Xbox Cloud Gaming is slipping out of the spotlight \u2014 and the strategy shift feels impossible to ignore - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/microsoft-clearly-doesnt-see-much-of-a-future-for-xbox-cloud-gaming"
-    },
-    {
-      "title": "The Pixel 11 Pro should be a disappointment, but after 3 weeks with the phone I can't put it down - Android Authority",
-      "link": "https://www.androidauthority.com/google-pixel-11-pro-review-3703549/"
-    },
-    {
-      "title": "There May Not Be an iPhone 18 This Year - WIRED",
-      "link": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/"
-    },
-    {
-      "title": "14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct - IGN",
-      "link": "https://www.ign.com/articles/14-predictions-for-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct"
-    },
-    {
-      "title": "Mario Kart 8 Deluxe online now seems to have an advantage for Nintendo Switch 1 players vs. Switch 2 - Nintendo Everything",
-      "link": "https://nintendoeverything.com/mario-kart-8-deluxe-online-now-seems-to-have-an-advantage-for-nintendo-switch-1-players-vs-switch-2/"
     }
   ],
   "sports_news": [
     {
-      "title": "Lane Kiffin's LSU era begins with easy victory over Clemson - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49845288/lane-kiffin-lsu-era-begins-easy-victory-clemson"
+      "title": "LSU had a revival, Clemson was at a funeral: Lane Kiffin\u2019s debut sends a loud message to college football - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/lsu-revival-clemson-funeral-lane-kiffin-debut-sends-loud-message-college-football"
     },
     {
-      "title": "Lane Kiffin at halftime of 31-3 blowout: \"Imagine if we had pro players\" - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-kiffin-at-halftime-of-31-3-blowout-imagine-if-we-had-pro-players"
+      "title": "How Gasly and Alpine beat Mercedes, Ferrari, McLaren and Red Bull to Italian GP pole - Autosport",
+      "link": "https://www.autosport.com/f1/news/how-gasly-and-alpine-beat-mercedes-ferrari-mclaren-and-red-bull-to-italian-gp-pole/10852889/"
+    },
+    {
+      "title": "Iva Jovic reacts to how the US Open crowd treated her during her match with Alex Eala - Tennishead",
+      "link": "https://tennishead.net/iva-jovic-reacts-to-how-the-us-open-crowd-treated-her-during-her-match-with-alex-eala/"
+    },
+    {
+      "title": "\u2018College GameDay\u2019 forced indoors due to lightning at Baton Rouge - Awful Announcing",
+      "link": "https://awfulannouncing.com/espn/college-gameday-forced-indoors-due-to-lightning-at-baton-rouge.html"
+    },
+    {
+      "title": "Bayern Munich\u2019s Vincent Kompany explains his decision for benching Harry Kane, Michael Olise - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/252682/vincent-kompany-explains-his-decision-for-benching-harry-kane-michael-olise"
+    },
+    {
+      "title": "Cardinals, Rockies players tilt caps a day after umpire Eddings' comments to St. Louis rookie - AP News",
+      "link": "https://apnews.com/article/cardinals-tilted-hats-eddings-7f9895ea8e4f08700593a4abf6b1c030"
+    },
+    {
+      "title": "Mariners suffer through another painful loss to Athletics - seattletimes.com",
+      "link": "https://www.seattletimes.com/sports/mariners/mariners-suffer-through-another-painful-loss-to-athletics/"
+    },
+    {
+      "title": "Preview: Storylines, trends to follow as Cup Series Chase opens at Darlington - NASCAR.com",
+      "link": "https://www.nascar.com/news-media/2026/09/05/2026-cup-series-chase-storylines-preview-darlington/"
+    },
+    {
+      "title": "Dodgers Notes: Ohtani, Rushing, Hernandez, Wrobleski - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/dodgers-notes-ohtani-rushing-hernandez-wrobleski.html"
     },
     {
       "title": "3 takeaways from BYU\u2019s dominant win over Utah Tech - Deseret News",
       "link": "https://www.deseret.com/sports/2026/09/05/byu-football-defeats-utah-tech-2026-3-takeaways/"
     },
     {
-      "title": "Michigan football stuns WMU with miracle Hail Mary after game seemed over - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/09/05/michigan-football-game-score-recap-wmu-upset-bryce-underwood/91631436007/"
-    },
-    {
-      "title": "Five Observations from Bayern Munich\u2019s dour 0-0 draw vs Schalke 04 - Bavarian Football Works",
-      "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/252630/five-observations-from-bayerns-dour-0-0-draw-vs-schalke-04"
+      "title": "Michigan wins on second-chance Hail Mary; Big Ten stands by review - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49843963/michigan-wins-second-chance-hail-mary-big-ten-stands-review"
     },
     {
       "title": "College football winners, losers in Week 1: Is this the year of the WR? New-look Oklahoma State falls flat - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-1-year-of-wr-oklahoma-state/"
     },
     {
+      "title": "Cal students signal boiling hatred for UCLA as rivalry is renewed - New York Post",
+      "link": "https://nypost.com/2026/09/05/sports/cal-students-dont-hold-back-in-their-lingering-ucla-hatred/"
+    },
+    {
+      "title": "Vikings' legend Harrison Smith returning to Minnesota on a one-year deal, per report - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/vikings-legend-harrison-smith-returning-to-minnesota-on-a-one-year-deal-per-report/"
+    },
+    {
       "title": "Florida's 'gator bait' cheer, banned in '20, revived at opener - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/49842172/florida-gator-bait-cheer-banned-20-revived-opener"
-    },
-    {
-      "title": "Steelers' Aaron Rodgers hopes to be 'supporting my pregnant wife' by next year after final NFL season - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/steelers-aaron-rodgers-hopes-supporting-pregnant-wife-next-year-final-nfl-season"
-    },
-    {
-      "title": "'One of the best' - boxing world reacts to Taylor's farewell win - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/czxzygrgd19o"
     },
     {
       "title": "Oklahoma State football embarrassed by Tulsa to start Eric Morris era: Replay, highlights - The Oklahoman",
@@ -142,36 +166,8 @@
       "link": "https://www.bbc.com/sport/tennis/articles/cvgy7jxwzg6o"
     },
     {
-      "title": "Harrison Smith returning to Vikings on one-year deal - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harrison-smith-returning-to-vikings-on-one-year-deal"
-    },
-    {
-      "title": "Leistikow's 4 thoughts after Iowa football steamrolls NIU, 40-0 - Hawk Central",
-      "link": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/09/05/thoughts-iowa-football-northern-illinois-tony-diaz-kamari-moulton-quarterbacks/91545278007/"
-    },
-    {
-      "title": "Rule's big day, some sloppiness and a new QB look: Amie Just's takes from Nebraska vs. Ohio - Omaha World-Herald",
-      "link": "https://omaha.com/sports/huskers/football/article_01ec86a3-0a8b-4b51-b617-2997f8a32e72.html"
-    },
-    {
-      "title": "Brian Kelly on Lane Kiffin's LSU gamble: 'At least you know what you're getting' - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/04/brian-kelly-lane-kiffin-lsu-sec-eligibility-nfl-players-lawsuit/91615765007/"
-    },
-    {
-      "title": "UFC Paris results: Salahdine Parnasse lives up to the hype, demolishes Dan Hooker in star-making debut - Yahoo Sports",
-      "link": "https://sports.yahoo.com/mma/live/ufc-paris-live-results-dan-hooker-vs-salahdine-parnasse-updates-round-by-round-scoring-for-todays-fight-063000135.html"
-    },
-    {
-      "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5? - bolavip.com",
-      "link": "https://bolavip.com/en/soccer/why-is-kickoff-for-inter-miami-vs-atlanta-united-delayed-today-sep-5"
-    },
-    {
-      "title": "Rafael Devers hits two of Giants' six homers in win, has eyes on franchise first - NBC Sports Bay Area & California",
-      "link": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/rafael-devers-homers-new-york-mets/1961039/"
-    },
-    {
-      "title": "UFC Paris: Michael 'Venom' Page wins in underwhelming UFC farewell - BBC",
-      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c0m3rx8jzkjo"
+      "title": "CFB Game Finishes in Tie Due to Extremely Hot Weather Conditions in Kansas, Full Details Revealed - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25496566-cfb-game-finishes-tie-due-extremely-hot-weather-conditions-kansas-full-details-revealed"
     }
   ],
   "weather": {
