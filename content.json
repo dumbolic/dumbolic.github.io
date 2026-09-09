@@ -1,9 +1,9 @@
 {
-  "quote": "In youth we run into difficulties. In old age difficulties run into us. \u2013 Beverly Sills",
-  "fact": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
-  "crypto": "BTC: $78,454 | ETH: $2,480.25",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Why was ten scared of seven? Because seven ate nine.",
+  "quote": "Better to light a candle than to curse the darkness. \u2013 Chinese Proverb",
+  "fact": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
+  "crypto": "BTC: $78,446 | ETH: $2,485.05",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "\u2018Put the cat out\u2019 \u2026 \u2018I didn\u2019t realize it was on fire",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
+      "link": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07"
+    },
+    {
+      "title": "Arjun's gameplay trailer for Street Fighter 6, releases in October - EventHubs",
+      "link": "https://www.eventhubs.com/news/2026/sep/07/arjun-gameplay-trailer-sf6-reveal/"
+    },
+    {
+      "title": "Amal Clooney Stuns in a Plunging Red-Hot Strapless Gown and a Colorful Beaded Necklace - instyle.com",
+      "link": "https://www.instyle.com/amal-clooney-plunging-red-strapless-dress-beaded-necklace-cartier-venice-film-festival-12110550"
+    },
     {
       "title": "'Next This Game Will Make You File Tax Returns' \u2014 Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate - IGN",
       "link": "https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate"
@@ -22,10 +34,6 @@
     {
       "title": "Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande - eurogamer.net",
       "link": "https://www.eurogamer.net/final-fantasy-resonance-mod-ariana-grande-mobile-game"
-    },
-    {
-      "title": "Forza Horizon 6 PS5 Release Window Confirmed - insider-gaming.com",
-      "link": "https://insider-gaming.com/forza-horizon-6-ps5-release-window-confirmed/"
     },
     {
       "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America - Digital Foundry",
@@ -46,14 +54,6 @@
     {
       "title": "It\u2019s 10 p.m., and your kids want to know where you are - The Washington Post",
       "link": "https://www.washingtonpost.com/style/2026/09/07/parents-are-tracking-their-kids-kids-are-tracking-them-right-back/"
-    },
-    {
-      "title": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch"
-    },
-    {
-      "title": "Officials want to turn Miami into Vice City for 'GTA 6.' Police disagree. - Mashable",
-      "link": "https://mashable.com/entertainment/miami-dade-gta-6-rockstar-partnership"
     },
     {
       "title": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code - MacRumors",
@@ -86,40 +86,60 @@
     {
       "title": "Pok\u00e9mon TCG First Partner Collection Series 3 Is Back in Stock at Amazon - IGN",
       "link": "https://www.ign.com/articles/pokemon-tcg-first-partner-series-3-amazon-restock"
-    },
-    {
-      "title": "Google Messages slowly rolling out fix for bug that randomly sends old texts to other people - 9to5Google",
-      "link": "http://9to5google.com/2026/09/07/google-messages-old-texts-bug-fix/"
     }
   ],
   "sports_news": [
     {
+      "title": "19-year-old USC tight end and Cross high grad arrested in Moncks Corner - WCIV",
+      "link": "https://abcnews4.com/news/local/19-year-old-usc-tight-end-and-cross-high-grad-arrested-in-moncks-corner-crime-berkeley-county-sheriffs-office-moncks-corner-police-alleged-street-racing"
+    },
+    {
+      "title": "Yankees Activate Aaron Judge From 60-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/yankees-activate-aaron-judge-from-60-day-injured-list.html"
+    },
+    {
       "title": "US Open 2026 results: Elena Rybakina sweeps aside Naomi Osaka to close in world number one ranking - BBC",
       "link": "https://www.bbc.com/sport/tennis/articles/crk368k4e42o"
+    },
+    {
+      "title": "Brewers 4, Cubs 3: In which Craig Counsell again leaves his starting pitcher in one batter too long - Bleed Cubbie Blue",
+      "link": "https://www.bleedcubbieblue.com/chicago-cubs-scores/232536/cubs-brewers-score-pete-crow-armstrong-matthew-boyd-mlb"
     },
     {
       "title": "Charbonnet on track to meet return timetable - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-07/charbonnet-on-track-to-meet-return-timetable"
     },
     {
-      "title": "Giants cut Darius Slayton - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-cut-darius-slayton"
+      "title": "Bill Belichick, to no surprise, has little to say about expanding UNC investigation - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-to-no-surprise-has-little-to-say-about-expanding-unc-investigation"
+    },
+    {
+      "title": "Kyle Shanahan disappointed that NFL took away \u2018home game in LA\u2019 for Australia game - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/162237/san-francisco-49ers-news-kyle-shanahan-disappointed-nfl-took-away-home-game-los-angeles-rams"
+    },
+    {
+      "title": "Giants release WR Darius Slayton, team's longest-tenured player - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49862543/giants-release-wr-darius-slayton-team-longest-tenured-player"
     },
     {
       "title": "Florida State releases update depth chart ahead of Labor Day game with No. 19 SMU - 247Sports",
       "link": "https://247sports.com/college/florida-state/longformarticle/florida-state-depth-chart-smu-game-289638110/"
     },
     {
+      "title": "USA vs. Czechia Box Score, Reaction for Clark, More from FIBA Women's World Cup Ahead of KO Bracket - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25497106-usa-vs-czechia-box-score-reaction-clark-more-fiba-womens-world-cup-ahead-ko-bracket"
+    },
+    {
       "title": "Detroit Lions make several roster moves ahead of Week 1 vs. Saints - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-news/171988/detroit-lions-several-roster-moves-week-1-vs-saints"
     },
     {
-      "title": "Champions League 202-27 predictions: Who will win the title? - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c17j5lr8kkqo"
+      "title": "Giardi: Can the Patriots offensive line hold up their end of the bargain in Seattle? - bostonsportsjournal.com",
+      "link": "https://www.bostonsportsjournal.com/2026/09/07/giardi-can-the-patriots-offensive-line-hold-up-their-end-of-the-bargain-in-seattle"
     },
     {
-      "title": "Schefter: Nacua could avoid discipline this season - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-07/schefter-nacua-could-avoid-discipline-this-season"
+      "title": "Austin Reaves and his bikini rocking girlfriend have themselves a Labor Day Weekend on a boat - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/austin-reaves-bikini-rocking-girlfriend-labor-day-weekend-boat"
     },
     {
       "title": "Cowboys guard Tyler Smith to have thumb surgery, headed for IR - ESPN",
@@ -130,10 +150,6 @@
       "link": "https://www.bbc.com/sport/golf/articles/cvgyn4z70jlo"
     },
     {
-      "title": "Bill Belichick insists he's in control at UNC. The investigation could test that claim - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/acc/2026/09/07/bill-belichick-contract-unc-investigation-michael-lombardi-resigns-north-carolina/91650403007/"
-    },
-    {
       "title": "Brooks (soreness) working with trainers Monday - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-07/brooks-soreness-working-with-trainers-monday"
     },
@@ -142,32 +158,12 @@
       "link": "https://www.nbcnews.com/sports/college-sports/college-volleyball-players-keep-wrigley-field-crowd-entertained-game-e-rcna596472"
     },
     {
-      "title": "US Open 2026 results: Zheng Qinwen shocks Iga Swiatek to reach quarter-finals - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cm2ml7xxg80o"
+      "title": "Horrible Scenes at US Open as Anastasia Potapova Breaks Down in Tears After Injury - athlonsports.com",
+      "link": "https://athlonsports.com/tennis/horrible-scenes-at-us-open-as-anastasia-potapova-breaks-down-in-tears-after-injury"
     },
     {
       "title": "Alex Pereira seeking Ciryl Gane rematch for his next fight: \u2018From what I\u2019m seeing, it\u2019s something that\u2019s going to happen\u2019 - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/509132/alex-pereira-seeking-ciryl-gane-rematch-for-his-next-fight-from-what-im-seeing-its-something-thats-going-to-happen"
-    },
-    {
-      "title": "Falcons name Tagovailoa as starter vs. Steelers - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-07/falcons-name-tagovailoa-as-starter-vs-steelers"
-    },
-    {
-      "title": "Matt Suhey Dies at 68, NFL Legend Won Super Bowl with Bears in 1985 - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25497053-matt-suhey-dies-68-nfl-legend-won-super-bowl-bears-1985"
-    },
-    {
-      "title": "Beat: Rhamondre Stevenson \u2018the clear-cut starter\u2019 - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-06/beat-rhamondre-stevenson-the-clear-cut-starter"
-    },
-    {
-      "title": "Rhule Discusses Game One, Looks Ahead to Bowling Green - University of Nebraska - Official Athletics Website - huskers.com",
-      "link": "https://huskers.com/news/2026/09/7/rhule-discusses-game-one-looks-ahead-to-bowling-green"
-    },
-    {
-      "title": "Lynx sign former No. 3 overall pick. With the playoffs looming, here\u2019s what she could add. - Star Tribune",
-      "link": "https://www.startribune.com/minnesota-lynx-aari-mcdonald-signing-free-agency-indiana-fever-stats-wnba-playoffs-2026/601887053"
     }
   ],
   "weather": {
