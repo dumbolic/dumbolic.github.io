@@ -1,9 +1,9 @@
 {
-  "quote": "You can easily judge the character of a man by how he treats those who can do nothing for him. \u2013 Johann Wolfgang von Goethe",
-  "fact": "166,875,000,000 pieces of mail are delivered each year in the US",
-  "crypto": "BTC: $78,136 | ETH: $2,461.42",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a cow with no legs? Ground beef.",
+  "quote": "Identification with our mind causes thought to become compulsive. \u2013 Eckhart Tolle",
+  "fact": "People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.",
+  "crypto": "BTC: $77,942 | ETH: $2,450.99",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "Never Trust Someone With Graph Paper...\r\n\r\nThey're always plotting something.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,32 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Apple releases iOS 26.6.2 for iPhone, here\u2019s what\u2019s new - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/"
+      "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/"
     },
     {
-      "title": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/"
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/"
+    },
+    {
+      "title": "Microsoft patches a record 972 vulnerabilities, 112 of them critical - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+    },
+    {
+      "title": "Exclusive: Two of gaming\u2019s biggest names are making a big investment in gaming\u2019s future - Game File | Stephen Totilo",
+      "link": "https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley"
+    },
+    {
+      "title": "Sonos just launched \u2018Sonos 27\u2019 app update, here\u2019s what\u2019s new - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/"
+    },
+    {
+      "title": "How to watch Apple\u2019s foldable iPhone announcement - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
     },
     {
       "title": "Next Apple TV's Chip Revealed in Latest Leak - MacRumors",
       "link": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/"
     },
     {
-      "title": "The Legend of Zelda getting Link and Epona LEGO set, playable Ocarina, more - Nintendo Everything",
-      "link": "https://nintendoeverything.com/the-legend-of-zelda-getting-link-and-epona-lego-set-playable-ocarina-more/"
+      "title": "Nintendo isn\u2019t scared of GTA VI - The Verge",
+      "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6"
     },
     {
-      "title": "Chinese giants Xiaomi, Huawei race to get ahead of Apple\u2019s rumored foldable iPhone - CNBC",
-      "link": "https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html"
+      "title": "Preview: BlizzCon 2026 feels like a turning point as Blizzard prepares updates for every major franchise - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/blizzard/blizzcon-2026-preview-what-to-expect-for-warcraft-starcraft-overwatch-diablo"
+    },
+    {
+      "title": "Sony is reportedly preparing a big update for the PS5 and PS5 Pro with improvements to PSSR 2.0 upscaling - PC Guide",
+      "link": "https://www.pcguide.com/news/sony-is-reportedly-preparing-a-big-update-for-the-ps5-and-ps5-pro-with-improvements-to-pssr-2-0-upscaling/"
+    },
+    {
+      "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box Preorder Requests Are Live at Amazon - IGN",
+      "link": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-etb-amazon-preorder"
     },
     {
       "title": "The combat demo for Free Stars: Children of Infinity is out, and it\u2019s free - Ars Technica",
       "link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/"
     },
     {
-      "title": "Apple to Introduce All-New 'Readiness' App Tomorrow - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/"
+      "title": "Lego announces its third Legend of Zelda set, this time featuring Link on Epona - Video Games Chronicle",
+      "link": "https://www.videogameschronicle.com/news/lego-announces-its-third-legend-of-zelda-set-this-time-featuring-link-on-epona/"
     },
     {
       "title": "Rebel Wolves Already Working On \u2018Next Chapter in The Dawnwalker Saga\u2019 - Insider Gaming",
@@ -48,16 +76,8 @@
       "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
     },
     {
-      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
-      "link": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07"
-    },
-    {
       "title": "Nintendo\u2019s Ocarina of Time remake launches in November - The Verge",
       "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time remake launches November 5 - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/the-legend-of-zelda-ocarina-of-time-remake-launches-november-5"
     },
     {
       "title": "Apple Arcade unveils five new games being added soon - 9to5Mac",
@@ -68,110 +88,90 @@
       "link": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/"
     },
     {
-      "title": "A word with a woman who\u2019s trying to pull off a crossbody phone strap - The Verge",
-      "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style"
-    },
-    {
-      "title": "Microsoft breaks another patch Tuesday record - The Verge",
-      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad"
-    },
-    {
-      "title": "\u2018Destiny\u2019 Has Inspired A 10-Year Plan For \u2018ARC Raiders\u2019 - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/09/08/destiny-has-inspired-a-10-year-plan-for-arc-raiders/"
-    },
-    {
-      "title": "Galaxy S25 gets My FanCam, Call Brief, and more features with new One UI 9 beta update - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s25-four-new-galaxy-ai-features-one-ui-9-beta-2-update/"
-    },
-    {
-      "title": "Walking an extra 1,000 steps a day may help your heart, study finds - The Washington Post",
-      "link": "https://www.washingtonpost.com/wellness/2026/09/08/new-science-why-you-should-take-an-extra-1000-steps-today/"
-    },
-    {
-      "title": "Apple\u2019s new CEO John Ternus expected to debut foldable iPhone at event Wednesday - Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/apples-new-ceo-john-ternus-expected-to-debut-foldable-iphone-at-event-wednesday-132214684.html"
+      "title": "SteelSeries\u2019 pro-grade, wireless Xbox controller sure is expensive - The Verge",
+      "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features"
     }
   ],
   "sports_news": [
     {
-      "title": "College Football Rankings: AP Poll Top 25 after Week 1 released - on3.com",
-      "link": "https://www.on3.com/news/college-football-rankings-ap-poll-top-25-after-week-1-released/"
+      "title": "BREAKING: Hawkeye Marching Band member dies after game-day heat stroke - thegazette.com",
+      "link": "https://www.thegazette.com/news/breaking-hawkeye-marching-band-member-dies-after-game-day-heat-stroke/article_0088ce8b-510e-4346-9c7e-4475f09997a6.html"
     },
     {
-      "title": "GB's Brennan wins his fourth stage of 2026 Vuelta - BBC",
-      "link": "https://www.bbc.com/sport/cycling/articles/c804dl8m544o"
+      "title": "Baker Mayfield agrees to three-year extension with Buccaneers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-agrees-to-three-year-extension-with-buccaneers"
     },
     {
-      "title": "Member of Iowa marching band is removed from life support after suffering cardiac arrest at game - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/member-of-iowa-marching-band-is-removed-from-life-support-after-suffering-cardiac-arrest-at-game"
+      "title": "LIV Golf files for Chapter 11 bankruptcy - CNBC",
+      "link": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html"
     },
     {
-      "title": "2026 NFL season predictions for Super Bowl winner, MVP, top surprises and disappointments - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-season-predictions-for-super-bowl-winner-mvp-top-surprises-and-disappointments-163716464.html"
+      "title": "Aston Villa: Champions League victory in Brugge gives Villa lift-off with first win of season - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c62j655pe81o"
     },
     {
-      "title": "All over a hat: MLB umpire turns memorable debut into entry point into America - Andscape",
-      "link": "https://andscape.com/features/hancel-rincon-hat-umpire-doug-eddings-cardinals-rookie/"
+      "title": "Love behind Allgeier on Cards\u2019 depth chart - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-08/love-behind-allgeier-on-cards-depth-chart"
     },
     {
-      "title": "Jerry Sandusky appears remotely in court as lawyers prepare a federal court bid to seek a new trial - AP News",
-      "link": "https://apnews.com/article/jerry-sandusky-penn-state-football-sexual-abuse-6ff53f8b1925f6057676552301b1bc7e"
+      "title": "Sources: CFP leaders trigger 30-day negotiating window with ESPN, furthering consideration for playoff expansion - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/sources-cfp-leaders-trigger-30-day-negotiating-window-with-espn-furthering-consideration-for-playoff-expansion-201431827.html"
     },
     {
-      "title": "SEC files amendment for authority to expel LSU from conference - espn.com",
-      "link": "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference"
+      "title": "Aaron Donald will not play against the 49ers - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-will-not-play-against-the-49ers"
     },
     {
-      "title": "College football bowl, CFP projections after Week 1: Miami, LSU look the part as national title threats - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-cfp-bracket-miami-lsu-week-1/"
+      "title": "Instant Analysis: How Will Notre Dame Adjust to Brauntae Johnson, Jason Onye Injuries? - 247Sports",
+      "link": "https://247sports.com/college/notre-dame/article/instant-analysis-how-will-notre-dame-fighting-irish-college-football-team-adjust-to-brauntae-johnson-jason-onye-injuries-289684789/"
     },
     {
-      "title": "Brian Schottenheimer: We have \"great confidence\" in T.J. Bass replacing Tyler Smith - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-we-have-great-confidence-in-t-j-bass-replacing-tyler-smith"
+      "title": "Southeastern Conference leaders to discuss expelling LSU over player eligibility dispute - AP News",
+      "link": "https://apnews.com/article/ncaa-lsu-lawsuit-sec-kick-out-6dcea392c8d266d456bfc23c5627cc1e"
     },
     {
-      "title": "Todd Monken: Deshaun Watson\u2019s rant against fans was a \u201cspeed bump\u201d with confidence - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-deshaun-watsons-rant-against-fans-was-a-speed-bump-with-confidence"
+      "title": "Judge is back! Yanks' captain playing RF tonight after 3 months on IL - MLB.com",
+      "link": "https://www.mlb.com/news/aaron-judge-returns-from-injured-list"
     },
     {
-      "title": "Tom Fornelli's CFP Vibe Check, Week 1: Big Ten shows cracks, while LSU sends a loud message - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-playoff-vibe-check-week-1-big-ten-lsu/"
+      "title": "Jerry Sandusky, former Penn State coach convicted of sex abuse, seeks new trial after victim recants - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/jerry-sandusky-former-penn-state-coach-convicted-sex-abuse-seeks-new-t-rcna596600"
     },
     {
-      "title": "Michael Page's hopes for new UFC contract head in the wrong direction - MMA Junkie",
-      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/08/ufc-michael-page-new-contract-rankings-ineligible/91655869007/"
+      "title": "Mid-American Conference appeals to have Western Michigan recognized as winner of game against Michigan - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mid-american-conference-appeals-to-have-western-michigan-recognized-as-winner-of-game-against-michigan"
     },
     {
-      "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbapp\u00e9 lead 30-man shortlist - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49866841/ballon-dor-2026-nominees-harry-kane-kylian-mbappe-lead-30-man-shortlist"
+      "title": "US Open 2026 results: Aryna Sabalenka fights back against Linda Noskova to keep title defence alive - bbc.com",
+      "link": "https://www.bbc.com/sport/tennis/articles/c3v43p9r2qdo"
     },
     {
-      "title": "Top Week 1 Start 'Em, Sit 'Em Matchup Plays and Sleepers for Opening Games - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25497083-top-week-1-start-em-sit-em-matchup-plays-and-sleepers-opening-games"
+      "title": "Exclusive | Bears Super Bowl champion Matt Suhey\u2019s cause of death revealed - New York Post",
+      "link": "https://nypost.com/2026/09/08/sports/chicago-bears-legend-matt-suheys-cause-of-death-revealed/"
     },
     {
-      "title": "PFT\u2019s Week 1 2026 NFL power rankings - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-1-2026-nfl-power-rankings"
+      "title": "AP Top 25 poll: LSU climbs, while Michigan falls out and Oregon tumbles in Week 2 college football rankings - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/ap-top-25-poll-week-2-lsu-michigan-oregon/"
     },
     {
-      "title": "Ranking all 16 matchups in Week 1 of the NFL season - thescore.com",
-      "link": "https://www.thescore.com/nfl/news/3454492/ranking-all-16-matchups-in-week-1-of-the-nfl-season"
+      "title": "DK Metcalf, Aaron Rodgers bonded over their mutual embrace of conspiracy theories - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dk-metcalf-aaron-rodgers-bonded-over-their-mutual-collection-of-conspiracy-theories"
     },
     {
-      "title": "Minor foot injury sidelines Notre Dame safety Brauntae Johnson, per source - South Bend Tribune",
-      "link": "https://www.southbendtribune.com/story/sports/college/football/2026/09/08/notre-dame-safety-brauntae-johnson-gets-positive-news-on-injured-foot/91616772007/"
+      "title": "Week 1 fantasy quarterback rankings: Top QB streamers, starts - USA Today",
+      "link": "https://www.usatoday.com/story/sports/fantasy/football/2026/09/08/week-1-fantasy-football-qb-rankings-start-sit/91655049007/"
     },
     {
-      "title": "Kubiak: George Kittle \u2018looks good\u2019 for Week 1 - nbcsports.com",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-07/kubiak-george-kittle-looks-good-for-week-1"
+      "title": "Andy Reid: Patrick Mahomes will \"most likely\" start Week 1 - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-will-most-likely-start-week-1"
     },
     {
-      "title": "The Rams Play In Australia In Two Days And They Haven\u2019t Left Yet - Defector",
-      "link": "https://defector.com/the-rams-play-in-australia-in-two-days-and-they-havent-left-yet"
+      "title": "Grizzlies, Pelicans agree to 4-player trade - NBA.com",
+      "link": "https://www.nba.com/news/pelicans-grizzlies-hawkins-johnson-trade"
     },
     {
-      "title": "Matt Brown argues UFC \u2018might ruin Ilia Topuria\u2019s life\u2019 with another savage beatdown from Justin Gaethje - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/509146/matt-brown-argues-ufc-might-ruin-ilia-topurias-life-with-another-savage-beatdown-from-justin-gaethje"
+      "title": "Eagles' Brandon Graham announces he is retiring from NFL for 2nd time - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49870106/eagles-brandon-graham-announces-retires-nfl-2nd"
     }
   ],
   "weather": {
