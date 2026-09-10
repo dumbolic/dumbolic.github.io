@@ -1,9 +1,9 @@
 {
-  "quote": "Experience is simply the name we give our mistakes. \u2013 Oscar Wilde",
-  "fact": "Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.",
-  "crypto": "BTC: $77,967 | ETH: $2,468.11",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+  "quote": "No matter how great the talent or efforts, some things just take time. \u2013 Warren Buffett",
+  "fact": "Marilyn Monroe had six toes.",
+  "crypto": "BTC: $77,286 | ETH: $2,438.53",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I was wondering why the frisbee was getting bigger, then it hit me.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,28 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "New Apple CEO to unveil latest iPhone lineup - AP News",
-      "link": "https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2"
+      "title": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/"
     },
     {
-      "title": "Kingdom Hearts 4's Disney Worlds May Have Been Revealed By Massive Steam Leak - kotaku.com",
-      "link": "https://kotaku.com/kingdom-hearts-4-disney-worlds-coco-zootopia-star-wars-2000732471"
+      "title": "Samsung \u2018advice\u2019 to Apple suggests it fears the build quality of the iPhone Duo - 9to5mac.com",
+      "link": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/"
     },
     {
-      "title": "Apple\u2019s foldable \u2018iPhone Duo\u2019 will reportedly start at $2,000 - The Verge",
-      "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable"
+      "title": "Massive achievement leak seemingly stemming from Steam reveals info on Persona 6, Kingdom Hearts 4, and multiple unreleased PC games - Eurogamer.net",
+      "link": "https://www.eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam"
+    },
+    {
+      "title": "Apple\u2019s (AAPL) \u201cSurprise and Shine\u201d Event Tests Its Foldable iPhone Against Huawei and Xiaomi - Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html"
+    },
+    {
+      "title": "The new Apple Watch will use microphone and other sensors to generate AI recaps of your day - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks - bleepingcomputer.com",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/"
+    },
+    {
+      "title": "OM System PEN review: Get the F out! This camera isn't a PEN-F II \u2013 but it's better in every single way - Digital Camera World",
+      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/om-system-pen-review"
     },
     {
       "title": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database"
     },
     {
-      "title": "First Real Canon EOS R8 Mark II Images Surface Alongside Full Specs & Pricing - Canon Rumors",
-      "link": "https://www.canonrumors.com/first-real-canon-eos-r8-mark-ii-images-surface/"
+      "title": "Valheim 1.0 Launches After 5 Years in Early Access - TechPowerUp",
+      "link": "https://www.techpowerup.com/352474/valheim-1-0-launches-after-5-years-in-early-access"
+    },
+    {
+      "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge - The Register",
+      "link": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
     },
     {
       "title": "Xbox\u2019s Disc\u2011to\u2011Digital program just got a major boost as Ubisoft signs on with more publishers expected soon - Windows Central",
       "link": "https://www.windowscentral.com/gaming/xbox/ubisoft-joins-xboxs-disc-to-digital-program-with-more-publishers-to-follow"
+    },
+    {
+      "title": "From Wearables to Robots to Tabletop Trinkets, the AI Hardware Scene Is Booming - CNET",
+      "link": "https://www.cnet.com/tech/computing/ifa-2026-dedicated-ai-devices-new-product-category/"
     },
     {
       "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
@@ -44,16 +68,20 @@
       "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/"
     },
     {
-      "title": "Microsoft patches a record 972 vulnerabilities, 112 of them critical - Ars Technica",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
-    },
-    {
       "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit - BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/"
     },
     {
+      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
+      "link": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07"
+    },
+    {
       "title": "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year - Kotaku",
       "link": "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391"
+    },
+    {
+      "title": "The Galaxy Z Fold 8 is outselling Samsung's record-breaking Fold 7 by a wide margin - phonearena.com",
+      "link": "https://www.phonearena.com/news/galaxy-z-fold-8-is-outselling-samsungs-record-breaking-fold-7-by-a-wide-margin_id183159"
     },
     {
       "title": "Sonos just launched \u2018Sonos 27\u2019 app update, here\u2019s what\u2019s new - 9to5Mac",
@@ -62,108 +90,88 @@
     {
       "title": "OpenAI releases ChatGPT Images 2.5 with \u2018sharper details\u2019 and \u2018more precise editing\u2019 - 9to5Mac",
       "link": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/"
-    },
-    {
-      "title": "Apple releases iOS 26.6.2 for iPhone, here\u2019s what\u2019s new - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/"
-    },
-    {
-      "title": "SteelSeries Aeon Pro: The Infinite Battery Life, Dual-System Xbox and PC Controller Impresses, Despite Its High Price - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/reviews/steelseries-aeon-pro-the-infinite-battery-life-dual-system-xbox-and-pc-controller-impresses-despite-its-high-price"
-    },
-    {
-      "title": "Nintendo isn\u2019t scared of GTA VI - The Verge",
-      "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6"
-    },
-    {
-      "title": "I found 5 ways to use my Android camera that have nothing to do with photos - androidpolice.com",
-      "link": "https://www.androidpolice.com/ways-to-use-android-camera-that-have-nothing-to-do-with-photos/"
-    },
-    {
-      "title": "Preview: BlizzCon 2026 feels like a turning point as Blizzard prepares updates for every major franchise - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/blizzard/blizzcon-2026-preview-what-to-expect-for-warcraft-starcraft-overwatch-diablo"
-    },
-    {
-      "title": "Attack on Titan 3 opening animation key visual revealed - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/attack-on-titan-3-opening-animation-key-visual-revealed"
     }
   ],
   "sports_news": [
+    {
+      "title": "The Radical Experiments for the NFL\u2019s Global Expansion to Australia - WSJ",
+      "link": "https://www.wsj.com/sports/football/nfl-travel-49ers-rams-australia-ea2b4bc9"
+    },
+    {
+      "title": "Predicting the 2026 NFL playoff field, plus Super Bowl pick - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49865081/2026-nfl-season-14-playoff-teams-field-super-bowl-pick-barnwell"
+    },
+    {
+      "title": "Shelton ends Alcaraz\u2019s title reign in late-night marathon, will face Tiafoe in US Open semis - AP News",
+      "link": "https://apnews.com/article/us-open-mens-quarterfinals-tiafoe-shelton-alcaraz-072007b80b81b54e5a86e377ffdbb048"
+    },
+    {
+      "title": "Kyle Shanahan: I thought Aaron Donald would play, never been more excited to be wrong - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-i-thought-aaron-donald-would-play-never-been-more-excited-to-be-wrong"
+    },
+    {
+      "title": "LSU Gets Stunning Lane Kiffin Punishment Prediction Ahead of SEC Decision - Yahoo Sports",
+      "link": "https://heavy.com/sports/college-football/lsu-tigers/lane-kiffin-sec-punishment-expulsion-vote/"
+    },
     {
       "title": "Elly De La Cruz Makes History with 105.3 MPH Throw to Stop Inside-the-Park HR in Reds vs. Dodgers - Bleacher Report",
       "link": "https://bleacherreport.com/articles/25497534-elly-de-la-cruz-makes-history-1053-mph-throw-stop-inside-park-hr-reds-vs-dodgers"
     },
     {
-      "title": "49ers have 3 options to replace Alfred Collins after brutal injury - Niners Wire",
-      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/09/08/49ers-rams-injury-update-alfred-collins-replacement/91668808007/"
+      "title": "NCAA says it can\u2019t overturn Michigan\u2019s win over Western Michigan after MAC appeals outcome - WOODTV.com",
+      "link": "https://www.woodtv.com/sports/ap-sports/ap-mac-appeals-michigan-western-michigan-result-asks-ncaa-and-cfp-to-recognize-broncos/"
+    },
+    {
+      "title": "49ers DT Alfred Collins out for season with knee injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-dt-alfred-collins-out-for-season-with-knee-injury"
     },
     {
       "title": "Enhanced Box Score: Brewers 4, Cubs 3 \u2014 September 8, 2026 - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2026/09/08/enhanced-box-score-brewers-4-cubs-3-september-8-2026/"
     },
     {
+      "title": "Love behind Allgeier on Cards\u2019 depth chart - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-08/love-behind-allgeier-on-cards-depth-chart"
+    },
+    {
       "title": "Dana White confirms Michael \u2018Venom\u2019 Page\u2019s tenure with the UFC is over - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/509329/dana-white-confirms-michael-venom-pages-tenure-with-the-ufc-is-over"
     },
     {
-      "title": "Report says Australian study finds 31 rugby league players with brain disease CTE - apnews.com",
-      "link": "https://apnews.com/article/cte-australia-rugby-league-035e2409955cb074ac54ff13f21ffcdc"
+      "title": "Exclusive | Details of Dianna Russini\u2019s sports media comeback revealed after Mike Vrabel scandal - Page Six",
+      "link": "https://pagesix.com/2026/09/08/celebrity-news/details-of-dianna-russinis-sports-media-comeback-revealed/"
     },
     {
       "title": "Player Ratings: Real Madrid 2\u20131 Inter Milan - Managing Madrid",
       "link": "https://www.managingmadrid.com/real-madrid-cf-champions-league/112648/player-ratings-real-madrid-2-1-inter-milan"
     },
     {
-      "title": "US Open 2026 results: Francis Tiafoe beats Alex Michelsen after trailing by two sets and break - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/c33k6zl5m87o"
-    },
-    {
-      "title": "Reshuffled college football rankings see Oregon tumble, LSU rise in US LBM Coaches Poll - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/09/08/college-football-rankings-top-25-coaches-poll-oregon-lsu/91651963007/"
-    },
-    {
-      "title": "Cardinals list Tyler Allgeier as RB1, Jeremiyah Love as RB2 on Week 1 depth chart - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-list-tyler-allgeier-as-rb1-jeremiyah-love-as-rb2-on-week-1-depth-chart"
-    },
-    {
-      "title": "Buccaneers extend Baker Mayfield: Key intel and a grade - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49872406/key-intel-grade"
-    },
-    {
-      "title": "Hawkeye Marching Band member dies after collapsing during Iowa football game - KCCI",
-      "link": "https://www.kcci.com/article/iowa-football-hawkeye-marching-band-derek-phillips-life-support/73643443"
-    },
-    {
-      "title": "Nick Bosa, George Kittle limited participants in practice - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-george-kittle-limited-participants-in-practice"
-    },
-    {
       "title": "2026 NFL Season Predictions from Bedard & Giardi - Where do the Patriots land? - Boston Sports Journal",
       "link": "https://www.bostonsportsjournal.com/2026/09/08/2026-nfl-season-predictions-from-bedard--giardi---where-do-the-patriots-land"
+    },
+    {
+      "title": "Baker Mayfield and Buccaneers go from being at odds at start of camp to a monster contract to start season - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/baker-mayfield-buccaneers-odds-start-camp-monster-contract-season"
+    },
+    {
+      "title": "A new starter pops up on the 49ers injury report - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-injuries/162295/a-new-starter-pops-up-on-the-49ers-injury-report"
     },
     {
       "title": "Steelers first-rounder Max Iheanachor\u2019s house was burglarized last month - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-first-rounder-max-iheanachors-house-was-burglarized-last-month"
     },
     {
+      "title": "Jerry Sandusky, former Penn State coach convicted of sex abuse, seeks new trial after victim recants - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/jerry-sandusky-former-penn-state-coach-convicted-sex-abuse-seeks-new-t-rcna596600"
+    },
+    {
       "title": "Red Sox Notes: Crochet, Houck, Slaten, - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/09/red-sox-rumors-garrett-crochet-bullpen-playoffs.html"
     },
     {
-      "title": "'That Was an Eye-Opening Experience for Us': Rob Aurich on Correcting Nebraska's Defense After First Play - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/rob-aurich-on-correcting-huskers-defense-after-blown-first-play-01m2175gn0a4"
-    },
-    {
-      "title": "LIV Golf files for bankruptcy with at least $500mn in liabilities - Financial Times",
-      "link": "https://www.ft.com/content/08da69fa-ee6e-4667-b039-8d9c2d1538a0?syn-25a6b1a6\\\\u003d1"
-    },
-    {
-      "title": "Patriots get bad news in final injury report before season opener vs. Seahawks - Boston Herald",
-      "link": "https://www.bostonherald.com/2026/09/08/patriots-get-bad-news-in-final-injury-report-before-season-opener-vs-seahawks/"
-    },
-    {
-      "title": "Swinney Reacts to Criticism from Former Players - The Clemson Insider",
-      "link": "https://www.theclemsoninsider.com/2026/09/08/swinney-reacts-to-criticism-from-former-players/"
+      "title": "Wilson calls ending Jets' playoff drought 'very realistic' - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49872695/wilson-calls-ending-jets-playoff-drought-very-realistic"
     }
   ],
   "weather": {
