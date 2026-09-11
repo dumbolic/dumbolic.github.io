@@ -1,9 +1,9 @@
 {
-  "quote": "The soul is neither born, and nor does it die. \u2013 Bhagavad Gita",
-  "fact": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
-  "crypto": "BTC: $77,515 | ETH: $2,560.78",
+  "quote": "Maybe you are searching among the branches, for what only appears in the roots. \u2013 Rumi",
+  "fact": "The first streetlights in America were installed in Philadelphia around 1757.",
+  "crypto": "BTC: $77,096 | ETH: $2,538.28",
   "tip": "Commit often with meaningful messages.",
-  "joke": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
+  "joke": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,150 +12,154 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale - Eurogamer.net",
-      "link": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale"
+      "title": "Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day - IGN",
+      "link": "https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam"
     },
     {
-      "title": "GTA 6 DualSense pre-orders LIVE \u2014 limited-edition PS5 controllers are now available at Best Buy, Walmart and more - Tom's Guide",
-      "link": "https://www.tomsguide.com/news/live/gta-6-ps5-dualsense-controller-pre-orders-live-updates"
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
     },
     {
-      "title": "Professor Layton and the Curious Village Remake revealed for Nintendo Switch 2, Switch - Nintendo Everything",
-      "link": "https://nintendoeverything.com/professor-layton-and-the-curious-village-remake-revealed-for-nintendo-switch-2-switch/"
+      "title": "Apple Watch Ultra 4 Hands-On: A Closer Look at Its Biggest Upgrades - CNET",
+      "link": "https://www.cnet.com/tech/mobile/apple-watch-ultra-4-hands-on/"
     },
     {
-      "title": "We\u2019re Tracking Every Zelda Switch 2 Restock for You - CNET",
-      "link": "https://www.cnet.com/deals/legend-of-zelda-40th-anniversary-nintendo-switch-2-console-preorder-restock/"
+      "title": "Apple\u2019s big goal after foldable iPhone - Financial Times",
+      "link": "https://www.ft.com/content/cc99c301-8c5d-4014-889e-8eb374d993f9?syn-25a6b1a6\\\\u003d1"
     },
     {
-      "title": "Apple Watch Series 12 and Apple Watch Ultra 4 Have Increased RAM Without Price Increase - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-ultra-4-increased-ram/"
+      "title": "Google brings Gemini for desktop app to Windows - 9to5google.com",
+      "link": "http://9to5google.com/2026/09/10/gemini-windows-app/"
     },
     {
-      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
-      "link": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html"
+      "title": "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct - Eurogamer.net",
+      "link": "https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer"
+    },
+    {
+      "title": "Nintendo Having A Sale\u2014Instead Of Giving Refunds\u2014Thanks To Tariff Rebates, Company Says - Forbes",
+      "link": "https://www.forbes.com/sites/maryroeloffs/2026/09/10/nintendo-offers-rare-discounts-for-american-customers-thanks-to-tariff-refunds-company-says/"
+    },
+    {
+      "title": "Android rolling out passkey transfers between password managers - 9to5google.com",
+      "link": "http://9to5google.com/2026/09/10/android-passkey-password-transfer/"
+    },
+    {
+      "title": "Professor Layton and the Curious Village Remake Announced, Coming to Multiple Platforms in 2027 - IGN",
+      "link": "https://www.ign.com/articles/professor-layton-and-the-curious-village-remake-announced-coming-to-multiple-platforms-in-2027"
+    },
+    {
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - kotaku.com",
+      "link": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219"
+    },
+    {
+      "title": "Someone recreated the iPhone Duo\u2019s mesmerizing open animation on the Galaxy Z Fold 8 - 9to5google.com",
+      "link": "http://9to5google.com/2026/09/10/iphone-duo-unfold-animation-recreated-for-galaxy-z-fold-8/"
+    },
+    {
+      "title": "Xbox Will Now Publish Hideo Kojima\u2019s Action Espionage Game Physint After PlayStation Partnership Ends - Game Informer",
+      "link": "https://gameinformer.com/2026/09/10/xbox-will-now-publish-hideo-kojimas-action-espionage-game-physint-after-playstation"
+    },
+    {
+      "title": "iPhone 17 Pro vs. iPhone 18 Pro: 35+ Upgrades Compared - MacRumors",
+      "link": "https://www.macrumors.com/guide/iphone-17-pro-vs-18-pro/"
+    },
+    {
+      "title": "Snapchat takes aim at Partiful with new event-planning features - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time and GTA 6: The video game industry\u2019s Barbenheimer moment - The Game Business",
+      "link": "https://www.thegamebusiness.com/p/the-legend-of-zelda-ocarina-of-time-6e9"
     },
     {
       "title": "'Final Fantasy 7 Revelation' Interview: Hands-On Preview - Deadline",
       "link": "http://deadline.com/2026/09/final-fantasy-vii-revelation-interview-naoki-hamaguchi-1237073176/"
     },
     {
-      "title": "Muramasa: Revenant Blades launches February 4, 2027 - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/muramasa-revenant-blades-launches-february-4-2027"
-    },
-    {
-      "title": "Xbox picks up Kojima\u2019s Physint after PlayStation dropped it - The Verge",
-      "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox"
-    },
-    {
-      "title": "Apple Announces macOS Golden Gate Release Date - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date/"
-    },
-    {
-      "title": "Mario Kart World Has Been Updated To Version 1.8.0, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/09/mario-kart-world-has-been-updated-to-version-1-8-0-here-are-the-full-patch-notes"
-    },
-    {
-      "title": "Apple shares more details about Apple Intelligence usage limits and terms - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/"
-    },
-    {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy - The Verge",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
-    },
-    {
-      "title": "You Can Get Up to $1,200 Towards an iPhone 18 Pro with Apple's New Carrier Trade-in Incentives - PCMag",
-      "link": "https://www.pcmag.com/explainers/get-up-to-1200-toward-iphone-18-pro-trade-in-values-tips-apple-event"
-    },
-    {
-      "title": "Apple launches new iPhone 18 Pro and iPhone Duo Cases - AppleInsider",
-      "link": "https://appleinsider.com/articles/26/09/09/apples-new-iphone-cases-include-a-129-folio-for-iphone-duo"
-    },
-    {
-      "title": "Konami Announces Yu-Gi-Oh! Tag Force GX Game for Switch 2, Switch, PC - Anime News Network",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/konami-announces-yu-gi-oh-tag-force-gx-game-for-switch-2-switch-pc/.241575"
-    },
-    {
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation - techcrunch.com",
-      "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/"
+      "title": "The Trump phone just got a $250 price hike - The Verge",
+      "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike"
     }
   ],
   "sports_news": [
+    {
+      "title": "Tua Tagovailoa appears to suffer back discomfort during individual drills - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-appears-to-suffer-back-discomfort-during-individual-drills"
+    },
+    {
+      "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-a-j-brown-still-undergoing-tests-unsure-of-week-2-availability"
+    },
+    {
+      "title": "Suzy Kolber shares heartbreaking details from ESPN firing \u2014 and the moment she \u2018lost it\u2019 on exec - New York Post",
+      "link": "https://nypost.com/2026/09/10/sports/suzy-kolber-opens-up-on-espn-firing-and-the-moment-she-lost-it-on-exec/"
+    },
+    {
+      "title": "Aaron Rodgers blasts Danica Patrick for being 'depressed' during their relationship - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/aaron-rodgers-blasts-danica-patrick-depressed-relationship"
+    },
+    {
+      "title": "49ers' visit a dream come true for Australian Niners fans - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49893214/san-francisco-49ers-los-angeles-rams-melbourne-australia-fans-most-popular"
+    },
+    {
+      "title": "Sources: Seahawks' Sam Darnold expected to miss Week 2 - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49893507/sources-seahawks-sam-darnold-expected-miss-week-2"
+    },
+    {
+      "title": "Schefter: 1-2 week projection is from Bowers\u2019 camp - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/schefter-1-2-week-projection-is-from-bowers-camp"
+    },
+    {
+      "title": "What drivers expect from F1's new hardest track - The Race",
+      "link": "https://www.the-race.com/formula-1/what-drivers-expect-from-f1s-new-hardest-track/"
+    },
+    {
+      "title": "Yankees Place Jazz Chisholm Jr. On Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/yankees-to-place-jazz-chisholm-jr-on-injured-list.html"
+    },
+    {
+      "title": "Vuelta a Espana: Primoz Roglic closes gap on leader Enrico Mas with in the stage 18 time trial - BBC",
+      "link": "https://www.bbc.com/sport/cycling/articles/cy5z0r9z4g9o"
+    },
+    {
+      "title": "Red Berenson disputes allegations in Michigan hockey hazing lawsuit - MLive.com",
+      "link": "https://www.mlive.com/wolverines/2026/09/red-berenson-disputes-allegations-in-michigan-hockey-hazing-lawsuit.html"
+    },
+    {
+      "title": "How to Watch Nebraska Football vs. Bowling Green with Preview, Breakdown, TV Channel - si.com",
+      "link": "https://www.si.com/college/nebraska/football/huskers-bowling-green-preview-breakdown-tv-info-01m25t6829tg"
+    },
+    {
+      "title": "Frances Tiafoe, Ben Shelton \u2014 win or lose \u2014 are heroes at US Open - Andscape",
+      "link": "https://andscape.com/features/frances-tiafoe-ben-shelton-us-open-black-tennis-2026-arthur-ashe/"
+    },
+    {
+      "title": "Matthew Berry's 10 Facts For Week 1 Of The 2026 Fantasy Football Season - FantasyLife",
+      "link": "https://www.fantasylife.com/articles/fantasy/matthew-berrys-10-facts-for-week-1-of-the-2026-fantasy-football"
+    },
+    {
+      "title": "Staff Picks: Cy-Hawk Edition - Cyclone Fanatic",
+      "link": "https://cyclonefanatic.com/2026/09/staff-picks-cy-hawk-edition-2/"
+    },
+    {
+      "title": "Eagles vs. Commanders Game Preview: 5 questions and answers with the Week 1 enemy - Bleeding Green Nation",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/182306/eagles-vs-commanders-game-preview-5-questions-and-answers-with-the-week-1-enemy"
+    },
+    {
+      "title": "FIFA: 2030 World Cup final host country decision to be made 'in due course' - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/49892754/fifa-decision-morocco-vs-spain-host-2030-world-cup-final-made-due-course"
+    },
     {
       "title": "Solheim Cup 2026: Charley Hull to face Nelly Korda in opening foursomes match - BBC",
       "link": "https://www.bbc.com/sport/golf/articles/cx2zrp0ye5yo"
     },
     {
-      "title": "Two NFL teams, two vastly different strategies to defeat jet lag in Australia - The Washington Post",
-      "link": "https://www.washingtonpost.com/sports/2026/09/10/49ers-rams-left-australia-week-apart/"
+      "title": "NaVorro Bowman Jr. commits to UConn: Son of former NFL All-Pro gives Dan Hurley another five-star recruit - CBS Sports",
+      "link": "https://www.cbssports.com/college-basketball/news/navorro-bowman-jr-commits-uconn-former-nfl-all-pro-dan-hurley/"
     },
     {
-      "title": "Aaron Rodgers unsure if Packers would ever invite him to return - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49892248/aaron-rodgers-unsure-packers-ever-invite-return"
-    },
-    {
-      "title": "Report: A.J. Brown believed to have a high-ankle sprain - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-a-j-brown-believed-to-have-a-high-ankle-sprain"
-    },
-    {
-      "title": "Report: Emmanuel Acho comments spark NFL investigation of Dom DiSandro - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-emmanuel-acho-comments-spark-nfl-investigation-of-dom-disandro"
-    },
-    {
-      "title": "3 bold predictions for Michigan Football vs Oklahoma - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/122074/michigan-wolverines-football-oklahoma-bold-predictions-bryce-underwood-kyle-whittingham"
-    },
-    {
-      "title": "Dodgers To Place Shohei Ohtani On 15-Day IL - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/09/dodgers-to-place-shohei-ohtani-on-15-day-il.html"
-    },
-    {
-      "title": "Will Anderson on facing the Bills: An AFC Championship matchup - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-anderson-on-facing-the-bills-an-afc-championship-matchup"
-    },
-    {
-      "title": "Angel Reese-Caitlin Clark connection tops USA vs Hungary winners and losers - USA Today",
-      "link": "https://www.usatoday.com/story/sports/wnba/2026/09/10/angel-reese-caitlin-clark-usa-vs-hungary-winners-and-losers-fiba-world-cup/91686710007/"
-    },
-    {
-      "title": "Lions Week 1 preview: Breaking down Saints\u2019 offensive, defensive schemes - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-game-preview/172012/detroit-lions-week-1-preview-new-orleans-saints-schemes-tendencies"
-    },
-    {
-      "title": "Packers RB Josh Jacobs due in court Thursday - wbay.com",
-      "link": "https://www.wbay.com/2026/09/10/packers-rb-josh-jacobs-due-court-thursday/"
-    },
-    {
-      "title": "Vets on the bubble: Who needs a good camp for the Penguins - PensBurgh",
-      "link": "https://www.pensburgh.com/general/80558/vets-on-the-bubble-who-needs-a-good-camp-for-the-penguins"
-    },
-    {
-      "title": "6 Fantasy Football Smash Starts: Week 1 (2026) - FantasyPros",
-      "link": "https://www.fantasypros.com/2026/09/6-fantasy-football-smash-starts-week-1-2026/"
-    },
-    {
-      "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - AP News",
-      "link": "https://apnews.com/article/patriots-seahawks-score-9f41059f1e5fa19f70eb94929b401d54"
-    },
-    {
-      "title": "The McVay-Verse: How One Coaching Tree Took Over the NFL - Sports Illustrated",
-      "link": "https://www.si.com/nfl/mcvay-verse-coaching-tree-took-over-nfl-digital-cover"
-    },
-    {
-      "title": "Week 2 GameDay Kickoff: QB issues for Michigan, Buckeyes-Horns and more - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/page/gamedaykickoff091026/2026-gameday-kickoff-week-2-preview-top-games-ohio-state-texas-michigan"
-    },
-    {
-      "title": "Barcelona\u2019s new tactics turn Feyenoord into spectators and make them Champions League contenders - Barca Blaugranes",
-      "link": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/132029/new-tactics-turn-feyenoord-into-spectators"
-    },
-    {
-      "title": "US Open 2026: Aryna Sabalenka, Jessica Pegula, Coco Gauff & Elena Rybakina make up historic semi-final line-up - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cx2z3zl90eno"
-    },
-    {
-      "title": "Drew Lock on TD pass to Jaxon Smith-Njigba: Definitely never practiced that play - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-lock-on-td-pass-to-jaxon-smith-njigba-definitely-never-practiced-that-play"
+      "title": "'They Are Unserious,' Lane Kiffin's LSU Ripped by SEC Insider After Trying to Roster Ex-NFL Players - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25497989-they-are-unserious-lane-kiffins-lsu-ripped-sec-insider-after-trying-roster-ex-nfl-players"
     }
   ],
   "weather": {
