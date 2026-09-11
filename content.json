@@ -1,9 +1,9 @@
 {
-  "quote": "Trust your instincts: my first reaction is almost invariably the right one. \u2013 Estee Lauder",
-  "fact": "The phrase \"rule of thumb\" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
-  "crypto": "BTC: $77,283 | ETH: $2,532.56",
+  "quote": "It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do. \u2013 Ryan Holiday",
+  "fact": "Every day, 7% of the US eats at McDonald\u2019s.",
+  "crypto": "BTC: $77,164 | ETH: $2,512.56",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did the sea say to the sand? \"We have to stop meeting like this.\"",
+  "joke": "How do you fix a broken pizza? With tomato paste.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,26 @@
   "bing_background": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/"
+    },
+    {
+      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/"
+    },
+    {
+      "title": "Does the iPhone Duo have MagSafe? Everything to know. - Mashable",
+      "link": "https://mashable.com/tech/iphone-duo-magsafe-charging"
+    },
+    {
+      "title": "LG defends smart-TV features amid audio surveillance allegations - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations"
+    },
+    {
+      "title": "Google\u2019s hyper-personalized \u2018Dreambeans\u2019 feed is now free to test [U] - 9to5Google",
+      "link": "http://9to5google.com/2026/09/10/google-dreambeans-free/"
+    },
     {
       "title": "The C63 is back... sort of: this is the new Merc-AMG CLE 646, a RWD V8 super coupe - Top Gear",
       "link": "https://www.topgear.com/car-news/first-look/c63-back-sort-new-merc-amg-cle-646-a-rwd-v8-super-coupe"
@@ -24,12 +44,8 @@
       "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
     },
     {
-      "title": "Apple Stock Alert: UBS Issues Urgent Message After $1,999 Foldable iPhone Launch - Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-alert-ubs-issues-172753768.html"
-    },
-    {
-      "title": "Xbox Makes 6 Games Free to Play This Weekend - Polygon.com",
-      "link": "https://www.polygon.com/xbox-free-play-weekend-september-2026/"
+      "title": "Apple Watch Ultra 4 Hands-On: A Closer Look at Its Biggest Upgrades - CNET",
+      "link": "https://www.cnet.com/tech/mobile/apple-watch-ultra-4-hands-on/"
     },
     {
       "title": "Google brings Gemini for desktop app to Windows - 9to5google.com",
@@ -44,12 +60,24 @@
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/09/10/nintendo-offers-rare-discounts-for-american-customers-thanks-to-tariff-refunds-company-says/"
     },
     {
-      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - kotaku.com",
-      "link": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219"
+      "title": "Saudis Weigh Merging EA With Savvy to Create Global Gaming Giant - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-10/saudis-weigh-merging-ea-with-savvy-to-create-global-gaming-giant"
+    },
+    {
+      "title": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited - IGN",
+      "link": "https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy"
+    },
+    {
+      "title": "Verizon will give you an iPhone 18 Pro on them with trade-in - and Duo deals are coming soon - ZDNET",
+      "link": "https://www.zdnet.com/tech/verizon-iphone-duo-iphone-18-pro-deal/"
     },
     {
       "title": "AirPods 5 and Apple Watch Series 12 Pre-Orders Open on Amazon, With Early Discount - MacRumors",
       "link": "https://www.macrumors.com/2026/09/10/amazon-pre-order-airpods-watch/"
+    },
+    {
+      "title": "iPhone Duo Has Similar Main Camera to iPhone 17e - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/10/iphone-duo-has-similar-main-camera-to-iphone-17e/"
     },
     {
       "title": "Xbox Will Now Publish Hideo Kojima\u2019s Action Espionage Game Physint After PlayStation Partnership Ends - Game Informer",
@@ -58,52 +86,68 @@
     {
       "title": "Professor Layton and the Curious Village Remake announced for PS5, Switch 2, Switch, and PC - Gematsu",
       "link": "https://www.gematsu.com/2026/09/professor-layton-and-the-curious-village-remake-announced-for-ps5-switch-2-switch-and-pc"
-    },
-    {
-      "title": "Snapchat takes aim at Partiful with new event-planning features - TechCrunch",
-      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time and GTA 6: The video game industry\u2019s Barbenheimer moment - The Game Business",
-      "link": "https://www.thegamebusiness.com/p/the-legend-of-zelda-ocarina-of-time-6e9"
-    },
-    {
-      "title": "'Final Fantasy 7 Revelation' Interview: Hands-On Preview - Deadline",
-      "link": "http://deadline.com/2026/09/final-fantasy-vii-revelation-interview-naoki-hamaguchi-1237073176/"
-    },
-    {
-      "title": "iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/10/iphone-18-pro-max-benchmarks-reveal-a20-pro-speed/"
     }
   ],
   "sports_news": [
     {
+      "title": "Source: Patriots' A.J. Brown likely out at least 4 weeks - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49897884/sources-patriots-aj-brown-likely-least-4-weeks"
+    },
+    {
       "title": "NFL Week 1 Australia game prediction, odds, time: 49ers vs. Rams picks by expert on 19-5 run - CBS Sports",
-      "link": "https://www.cbssports.com/betting/news/2026-nfl-week-1-australia-game-prediction-odds-time-49ers-rams-best-bets/"
+      "link": "https://www.cbssports.com/betting/news/2026-nfl-week-1-australia-game-prediction-odds-time-49ers-rams-spread-best-bets/"
+    },
+    {
+      "title": "SEC says conference is working 'toward an appropriate resolution' after fight surrounding LSU's pursuit of ex-NFL players - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/sec-says-conference-is-working-toward-an-appropriate-resolution-after-fight-surrounding-lsus-pursuit-of-ex-nfl-players-220240718.html"
+    },
+    {
+      "title": "Pirates Place Braxton Ashcraft On 15-Day Injured List - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/pirates-place-braxton-ashcraft-on-15-day-injured-list.html"
+    },
+    {
+      "title": "After Further Review: Drake Maye breakdown, Patriots defense review, and quick-hit film notes from the loss to the Seahawks - New England Patriots",
+      "link": "https://patriots-frontend.pocket.nfl.com/news/after-further-review-drake-maye-breakdown-patriots-defense-review-and-quick-hit-film-notes-from-the-loss-to-the-seahawks"
     },
     {
       "title": "Jets' Breece Hall says he's ready to face Titans in opener - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49895714/jets-breece-hall-says-ready-face-titans-opener"
     },
     {
-      "title": "Falcons QB Tua Tagovailoa suffers oblique injury in practice - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49895564/falcons-qb-tua-tagovailoa-suffers-oblique-injury-practice"
+      "title": "Schefter: Malik Nabers (knee) \u2018on track to play\u2019 - nbcsports.com",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/schefter-malik-nabers-knee-on-track-to-play"
+    },
+    {
+      "title": "Lions, Saints injury report: 3 limited on Thursday - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-injuries/172172/lions-saints-injury-report-3-limited-on-thursday"
     },
     {
       "title": "NBA, Nike announces new 'Specter' uniforms for league's oldest teams - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49885469/nba-nike-specter-uniforms-2026-knicks-lakers-celtics-warriors-pistons-76ers-hawks-kings"
     },
     {
+      "title": "Falcons say Tua Tagovailoa has an oblique injury - nbcsports.com",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-say-tua-tagovailoa-has-an-oblique-injury"
+    },
+    {
       "title": "Underhill: Kamara will play, barring a setback - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/underhill-kamara-will-play-barring-a-setback"
+    },
+    {
+      "title": "Packers RB Josh Jacobs to remain on Commissioner's Exempt List, NFL says in statement - WISN",
+      "link": "https://www.wisn.com/article/nfl-packers-josh-jacobs-commissioners-exempt-list/73670330"
+    },
+    {
+      "title": "Fantasy Football Week 1 Rankings: Hayden Winks' WR2/3 (ranked 13-36) wide receiver projections - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-1-rankings-hayden-winks-wr23-ranked-13-36-wide-receiver-projections-184526457.html"
     },
     {
       "title": "Kentucky's Will Stein encourages Wildcats fans to 'sneak a flask' into game vs. No. 12 Alabama - CBS Sports",
       "link": "https://www.cbssports.com/college-football/news/kentucky-will-stein-fans-sneak-flask-alabama/"
     },
     {
-      "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-a-j-brown-still-undergoing-tests-unsure-of-week-2-availability"
+      "title": "2026 Fantasy Football Full-PPR Rankings: Justin Boone's top running backs for Week 1 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-rankings-ppr-nfl-week-1-justin-boone-jeremiyah-love-ashton-jeanty-170730179.html"
     },
     {
       "title": "Suzy Kolber shares heartbreaking details from ESPN firing \u2014 and the moment she \u2018lost it\u2019 on exec - New York Post",
@@ -124,38 +168,6 @@
     {
       "title": "The latest on Seahawks QB Sam Darnold\u2019s hip injury - Seattle Sports",
       "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/the-latest-seattle-seahawks-sam-darnold-hip-injury"
-    },
-    {
-      "title": "What drivers expect from F1's new hardest track - The Race",
-      "link": "https://www.the-race.com/formula-1/what-drivers-expect-from-f1s-new-hardest-track/"
-    },
-    {
-      "title": "Yankees Place Jazz Chisholm Jr. On Injured List - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/09/yankees-to-place-jazz-chisholm-jr-on-injured-list.html"
-    },
-    {
-      "title": "Vuelta a Espana: Primoz Roglic closes gap on leader Enrico Mas with in the stage 18 time trial - BBC",
-      "link": "https://www.bbc.com/sport/cycling/articles/cy5z0r9z4g9o"
-    },
-    {
-      "title": "Drake Maye struggles, Jaxon Smith-Njigba eats despite Sam Darnold injury and more fantasy football takeaways from Patriots-Seahawks opener - sports.yahoo.com",
-      "link": "https://sports.yahoo.com/fantasy/article/drake-maye-struggles-jaxon-smith-njigba-eats-despite-sam-darnold-injury-and-more-fantasy-football-takeaways-from-patriots-seahawks-opener-163840779.html"
-    },
-    {
-      "title": "How to Watch Nebraska Football vs. Bowling Green with Preview, Breakdown, TV Channel - si.com",
-      "link": "https://www.si.com/college/nebraska/football/huskers-bowling-green-preview-breakdown-tv-info-01m25t6829tg"
-    },
-    {
-      "title": "Frances Tiafoe, Ben Shelton \u2014 win or lose \u2014 are heroes at US Open - Andscape",
-      "link": "https://andscape.com/features/frances-tiafoe-ben-shelton-us-open-black-tennis-2026-arthur-ashe/"
-    },
-    {
-      "title": "Noche UFC 4\u2019s loose cannon, Tommy McMillen, asks to replace Movsar Evloev at UFC 333: \u2018F**k wrestlers, dude\u2019 - MMA Mania",
-      "link": "https://www.mmamania.com/ufc-news/470840/tommy-mcmillen-asks-to-replace-movsar-evloev-at-ufc-333-fk-wrestlers-dude"
-    },
-    {
-      "title": "Matthew Berry's 10 Facts For Week 1 Of The 2026 Fantasy Football Season - FantasyLife",
-      "link": "https://www.fantasylife.com/articles/fantasy/matthew-berrys-10-facts-for-week-1-of-the-2026-fantasy-football"
     }
   ],
   "weather": {
