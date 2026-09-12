@@ -1,9 +1,9 @@
 {
-  "quote": "The quieter you become, the more you are able to hear. \u2013 Rumi",
-  "fact": "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
-  "crypto": "BTC: $77,192 | ETH: $2,525.61",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "What do computers and air conditioners have in common? They both become useless when you open windows.",
+  "quote": "There is no absolute success in the world, only constant progress. \u2013 Jonathan Swift",
+  "fact": "Ancient Egyptian priests would pluck every hair from their bodies.",
+  "crypto": "BTC: $77,169 | ETH: $2,521.22",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,52 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iOS 27.1 release date: Here\u2019s when to expect the new iPhone update - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/"
+    },
+    {
+      "title": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/11/apple-sets-cutoff-time-for-getting-faster-iphone-18-pro-pre-order/"
+    },
+    {
+      "title": "PlayStation\u2019s Future Has Never Looked Bleaker - IGN",
+      "link": "https://www.ign.com/articles/playstations-future-has-never-looked-bleaker"
+    },
+    {
+      "title": "Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list' - BBC",
+      "link": "https://www.bbc.com/news/articles/cjrx5xlz83jo"
+    },
+    {
+      "title": "Here\u2019s why I left T-Mobile for an MVNO - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/"
+    },
+    {
+      "title": "Meta may have leaked the first look at its slim \u2018Project Phoenix\u2019 headset - The Verge",
+      "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak"
+    },
+    {
       "title": "Fans Are Reportedly Getting $20 Off Ocarina of Time Preorders With a Hidden Coupon at Walmart - IGN",
       "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-walmart-coupon-deal"
     },
     {
-      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/"
+      "title": "\u2018Lenovo Googlebook 15\u2019 specs leak in full with \u2018Google facial authentication\u2019 - 9to5Google",
+      "link": "http://9to5google.com/2026/09/11/lenovo-googlebook-15-specs-leak/"
     },
     {
       "title": "Real-life nudist resort forced to speak out after appearing in GTA VI leak - GAMINGbible",
       "link": "https://www.gamingbible.com/news/gta-6-cypress-creek-nudist-resort-respond-fake-reviews-301101-20260911"
     },
     {
-      "title": "PlayStation Ditched Hideo Kojima\u2019s \u2018Physint\u2019 on Budget Concerns, Missed Deadlines - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox"
+      "title": "The Samsung Galaxy Buds On clip-on earphones have appeared in renders - Mezha",
+      "link": "https://mezha.ua/en/news/samsung-galaxy-buds-on-first-render-315121/"
     },
     {
-      "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/"
+      "title": "Here\u2019s PS5\u2019s First \u2018Fairgames\u2019 Trailer In 3 Years, Which Still Seems Doomed - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/09/11/heres-ps5s-first-fairgames-trailer-in-3-years-which-still-seems-doomed/"
+    },
+    {
+      "title": "PlayStation Ditched Hideo Kojima\u2019s \u2018Physint\u2019 on Budget Concerns, Missed Deadlines - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox"
     },
     {
       "title": "Nintendo Secures Legal Victory Against Sale of Switch Game Piracy Devices - IGN",
@@ -44,130 +72,98 @@
       "link": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/"
     },
     {
+      "title": "iPhone Duo vs. Pixel 11 Pro Fold: 2 Durable Foldables Face Off - CNET",
+      "link": "https://www.cnet.com/tech/mobile/iphone-duo-vs-pixel-11-pro-fold-two-durable-foldables-face-off/"
+    },
+    {
       "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\" - Eurogamer.net",
       "link": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved"
     },
     {
-      "title": "Meta\u2019s Next-gen MR Headset Appears to Have Leaked Ahead of Connect - Road to VR",
-      "link": "https://roadtovr.com/meta-next-gen-mr-headset-phoenix-leak-connect-2026/"
-    },
-    {
-      "title": "Metroid Dread Dev MercurySteam Seemingly Confirms Work On Ravenous With Ninja And Love Heart Emojis - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/09/metroid-dread-dev-mercurysteam-seemingly-confirms-work-on-ravenous-with-ninja-and-love-heart-emojis"
+      "title": "Retroid Pocket Duo Pre-orders Open Tomorrow; Pricing Starts at Just $135 - Retro Handhelds",
+      "link": "https://retrohandhelds.gg/heres-how-much-the-retroid-pocket-duo-and-pocket-duo-lite-will-cost/"
     },
     {
       "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
       "link": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs"
-    },
-    {
-      "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
-      "link": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan"
-    },
-    {
-      "title": "Is This a New Google Fitbit Device With a Screen? - Droid Life",
-      "link": "https://www.droid-life.com/2026/09/10/is-this-a-new-google-fitbit-device-with-a-screen/"
-    },
-    {
-      "title": "LG defends smart-TV features amid audio surveillance allegations - Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations"
-    },
-    {
-      "title": "Under Night In-Birth II Sys:Celes DLC character Zohar launches September 15 for PS5, PS4, and PC, September 23 for Switch - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/under-night-in-birth-ii-sysceles-dlc-character-zohar-launches-september-15-for-ps5-ps4-and-pc-september-23-for-switch"
-    },
-    {
-      "title": "Wardogs\u2019 Massive Start On Steam Undercut By Brutal Server Queues [Update] - GameSpot",
-      "link": "https://www.gamespot.com/articles/wardogs-has-a-massive-start-on-steam-but-players-face-brutal-sever-queues/"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The 'Fidelity' And 'Quality' - Kotaku",
-      "link": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319"
-    },
-    {
-      "title": "Mercedes-AMG's New Super Coupe Is A 637-HP Track Car For The Road - Motor1.com",
-      "link": "https://www.motor1.com/news/807883/mercedes-amg-cle-636-mythos-specs-horsepower-details/"
     }
   ],
   "sports_news": [
     {
+      "title": "Tagovailoa out, Rush to start at QB for Falcons vs. Steelers - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49905536/tagovailoa-rush-start-qb-falcons-vs-steelers"
+    },
+    {
+      "title": "Patriots to put A.J. Brown on injured reserve - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patriots-to-put-a-j-brown-on-injured-reserve"
+    },
+    {
+      "title": "Vuelta a Espana 2026: Eddie Dunbar wins stage 19 as Enric Mas maintains overall lead - BBC",
+      "link": "https://www.bbc.com/sport/cycling/articles/ce8x4xe9ze8o"
+    },
+    {
       "title": "Weinfuss: Love (ankle) expected to play vs. LAC - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-11/weinfuss-love-ankle-expected-to-play-vs-lac"
+    },
+    {
+      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes - Autosport",
+      "link": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/"
     },
     {
       "title": "49ers easily defeat \u2018withered\u2019 Rams in battle of competing Australian jet lag strategies - NBC News",
       "link": "https://www.nbcnews.com/sports/nfl/49ers-easily-defeat-withered-rams-battle-competing-australian-jet-lag-rcna597196"
     },
     {
+      "title": "KSL Sports Pick'em: Staff picks for Week 2 of college football - KSL.com",
+      "link": "https://www.ksl.com/article/51622463/ksl-sports-pickem-staff-picks-for-week-2-of-college-football"
+    },
+    {
       "title": "The Honolulu Blueprint: 4 predictions for a Lions victory over the Saints in Week 1 - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-analysis/172150/detroit-lions-new-orleans-saints-preview-4-predictions-honolulu-blueprint"
+    },
+    {
+      "title": "Dylan Larkin to attend Red Wings camp despite trade request - ESPN",
+      "link": "https://www.espn.com/nhl/story/_/id/49904172/dylan-larkin-attend-red-wings-camp-trade-request"
     },
     {
       "title": "Fantasy Football Start 'Em, Sit 'Em: Justin Boone's Week 1 lineup picks - sports.yahoo.com",
       "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-start-em-sit-em-justin-boones-week-1-lineup-picks-142129166.html"
     },
     {
+      "title": "Dana White shoots down Francis Ngannou UFC return talk: \u2018I just don\u2019t want to do business with bad guys\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/509550/dana-white-shoots-down-francis-ngannou-ufc-return-talk-i-just-dont-want-to-do-business-with-bad-guys"
+    },
+    {
       "title": "\u2018Drowning myself\u2019: Puka Nacua tells Netflix about his decision to enter rehab - Deseret News",
       "link": "https://www.deseret.com/sports/2026/09/11/puka-nacua-talks-decision-to-enter-rehab-la-rams-san-francisco-49ers/"
     },
     {
-      "title": "Rap: A.J. Brown (ankle) out at least four weeks - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/rap-a-j-brown-ankle-out-at-least-four-weeks"
+      "title": "Evan Silva\u2019s Matchups: Week 1 - Establish The Run",
+      "link": "https://establishtherun.com/evan-silvas-matchups-week-1-8/"
+    },
+    {
+      "title": "Miami's awkward 70-point beatdown of Florida A&M serves as indictment against FCS buy games - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/miami-70-point-beatdown-florida-a-m-indictment-fcs-buy-games/"
     },
     {
       "title": "Good news on Darnold, Seahawks comfortable moving forward - KOMO",
       "link": "https://komonews.com/sports/nikos-sports-zone/seahawks-quarterback-sam-darnold-hip-injury-updates-good-news-no-fracture-subsitute-drew-lock-coach-mike-macdonald-defending-world-champs-nfl-football"
     },
     {
+      "title": "12 Injuries to Know for Week 1 (2026 Fantasy Football) - FantasyPros",
+      "link": "https://www.fantasypros.com/2026/09/12-injuries-to-know-for-week-1-2026-fantasy-football/"
+    },
+    {
+      "title": "ISD Game Predictions: Rice - Irish Sports Daily",
+      "link": "https://irishsportsdaily.com/s/28160/isd-game-predictions-rice"
+    },
+    {
       "title": "Pre-Snap Reads: Takeaways from Seahawks\u2019 opening season win, Darnold injury - Field Gulls",
       "link": "https://www.fieldgulls.com/seattle-seahawks-news/174540/seahawks-news-takeaways-from-seahawks-opening-season-win-darnold-injury"
     },
     {
-      "title": "F1 Spanish GP: George Russell tops FP1 as Lewis Hamilton impedes several drivers - Motorsport.com",
-      "link": "https://www.motorsport.com/f1/news/f1-spanish-gp-fp1-report/10854498/"
-    },
-    {
-      "title": "Packers DC Jonathan Gannon: Kyler Murray can wreck games if you\u2019re not coordinated - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-dc-jonathan-gannon-kyler-murray-can-wreck-games-if-youre-not-coordinated"
-    },
-    {
-      "title": "Washington Commanders vs Philadelphia Eagles Week 1: Five Questions with Bleeding Green Nation - Hogs Haven",
-      "link": "https://www.hogshaven.com/washington-commanders-analysis/438594/washington-commanders-vs-philadelphia-eagles-week-1-five-questions-bleeding-green-nation"
-    },
-    {
-      "title": "Palou wraps up promising first speedway test for new IndyCar IR-28 - RACER - Racing News",
-      "link": "https://racer.com/2026/09/11/palou-wraps-up-promising-first-speedway-test-for-new-indycar-ir-28"
-    },
-    {
-      "title": "Urban Meyer gives his take on Michigan Football\u2019s QB situation - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/122388/michigan-football-bryce-underwood-urban-meyer-kyle-whittingham-triple-option-podcast"
-    },
-    {
-      "title": "Bill Connelly's Week 2 preview: Big Ten-SEC challenge, early conference tests - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49893574/connelly-college-football-week-2-ohio-state-texas-oklahoma-michigan-more"
-    },
-    {
-      "title": "Aaron Rodgers makes bombshell claims about Shailene Woodley split - Fox News",
-      "link": "https://www.foxnews.com/entertainment/aaron-rodgers-bombshell-claims-shailene-woodley-split"
-    },
-    {
-      "title": "NFL players, coaches, execs remember 9/11 on 25th anniversary - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49873166/remembering-25th-anniversary-9-11-new-york-jets-giants-washington-buffalo-bills"
-    },
-    {
-      "title": "Myles Garrett: \u201cThis was the worst version of myself that I\u2019ve put out there\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-this-was-the-worst-version-of-myself-that-ive-put-out-there"
-    },
-    {
-      "title": "No. 1 Nebraska Volleyball Dominates New Mexico in Devaney Center Grand Reopening - hurrdatsports.com",
-      "link": "https://hurrdatsports.com/hailvarsity/volleyball/no-1-nebraska-volleyball-dominates-new-mexico-in-devaney-center-grand-reopening/"
-    },
-    {
-      "title": "Former hockey players at University of Michigan sue, say they were sexually abused decades ago - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/former-hockey-players-university-michigan-sue-say-sexually-abused-rcna597178"
-    },
-    {
-      "title": "No. 7 Miami crushes FCS Florida A&M 77-7 in home opener - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49900347/no-7-miami-crushes-fcs-florida-home-opener-77-7"
+      "title": "Former Michigan hockey players allege coaches ignored years of abusive hazing rituals - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/former-michigan-hockey-players-allege-coaches-ignored-years-abusive-hazing-rituals"
     }
   ],
   "weather": {
