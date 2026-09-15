@@ -1,9 +1,9 @@
 {
-  "quote": "Never take your position for granted and never let any favors you receive go to your head. \u2013 Robert Greene",
-  "fact": "Maine is the only state that has borders with only one other state.",
-  "crypto": "BTC: $75,896 | ETH: $2,402.62",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you do when you see a space man?\r\nPark your car, man.",
+  "quote": "Successful people ask better questions, and as a result, they get better answers. \u2013 Tony Robbins",
+  "fact": "Length of beard an average man would grow if he never shaved 27.5 feet",
+  "crypto": "BTC: $75,685 | ETH: $2,398.16",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,18 @@
   "bing_background": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+    },
+    {
+      "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts - Kotaku",
+      "link": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361"
+    },
+    {
+      "title": "The best deals from Nintendo\u2019s \u2018customer appreciation\u2019 sale - The Verge",
+      "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
+    },
     {
       "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\" - Eurogamer.net",
       "link": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root"
@@ -20,16 +32,24 @@
       "link": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/"
     },
     {
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+    },
+    {
       "title": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data - Push Square",
       "link": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data"
     },
     {
-      "title": "Marathon Development Update - Nightfall Refresh and Symbiosis - Bungie.net",
-      "link": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis"
+      "title": "Marathon Makes Major Changes Amidst Bungie Struggles, Delays Next Big Update to December - IGN",
+      "link": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles"
     },
     {
-      "title": "iOS 26.7 now available for iPhone, here\u2019s what\u2019s new - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/"
+      "title": "Apple Releases iOS 26.7 With Security Fixes - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/"
+    },
+    {
+      "title": "Samsung reportedly considers early \u2018Galaxy Z TriFold 2\u2019 release in wake of iPhone Duo - 9to5Google",
+      "link": "http://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/"
     },
     {
       "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
@@ -40,16 +60,8 @@
       "link": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/"
     },
     {
-      "title": "Googlebook pre-orders start on September 21 - 9to5Google",
-      "link": "http://9to5google.com/2026/09/14/googlebook-pre-order/"
-    },
-    {
-      "title": "tvOS 27 available now for Apple TV 4K, here\u2019s everything new - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/14/tvos-27-available-now-for-apple-tv-4k-heres-everything-new/"
-    },
-    {
-      "title": "Valve's Steam Frame is excellent - but at over \u00a31,000 is VR still too expensive? - bbc.com",
-      "link": "https://www.bbc.com/news/articles/cn8m1113ym1o"
+      "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
+      "link": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone"
     },
     {
       "title": "'We\u2019re Still Looking at It in the Same Way' \u2013 Valve Says the RAM Crisis Hasn\u2019t Affected Its Plans for Steam Deck 2 - IGN",
@@ -60,74 +72,90 @@
       "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review"
     },
     {
+      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/"
+    },
+    {
+      "title": "Google\u2019s official Pixel 11 series cases are already on sale - 9to5Google",
+      "link": "http://9to5google.com/2026/09/14/google-pixel-11-cases-discount/"
+    },
+    {
       "title": "Rayman Legends Retold delayed to December 3 - Gematsu",
       "link": "https://www.gematsu.com/2026/09/rayman-legends-retold-delayed-to-december-3"
     },
     {
       "title": "Google rolls out Motion Assist bubbles to Pixel, Samsung - 9to5Google",
       "link": "http://9to5google.com/2026/09/14/android-motion-assist-pixel-samsung/"
-    },
-    {
-      "title": "Metroid Dread Drops in Price for Nintendo Switch Following the Metroid Ravenous Reveal - IGN",
-      "link": "https://www.ign.com/articles/metroid-dread-discount-nintendo-switch-customer-appreciation-sale"
-    },
-    {
-      "title": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark - Eurogamer.net",
-      "link": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark"
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting - TechCrunch",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/"
-    },
-    {
-      "title": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/"
-    },
-    {
-      "title": "Last Of Us Part 2 Multiplayer Mod Shut Down By Sony After Months Of Work - Kotaku",
-      "link": "https://kotaku.com/last-of-us-part-2-multiplayer-mod-sony-naughty-dog-canceled-2000734244"
-    },
-    {
-      "title": "Microsoft patches Windows and Excel \u2013 breaks audio, remote access, and paste - The Register",
-      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085"
     }
   ],
   "sports_news": [
+    {
+      "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c6790xr3wvr7o"
+    },
+    {
+      "title": "Suddenly, Steve Sarkisian is singing a completely different tune about playing Ohio State - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/steve-sarkisian-singing-different-tune-playing-ohio-state"
+    },
+    {
+      "title": "Inside Oklahoma State's upset of No. 6 Oregon - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49941960/college-football-oklahoma-state-oregon-upset"
+    },
+    {
+      "title": "Lions at Bills practice report: Sept. 14 - Detroit Lions",
+      "link": "https://lions-frontend.pocket.nfl.com/news/lions-at-bills-practice-report-sept-14-mahogany-miller-scruggs"
+    },
+    {
+      "title": "Vikings' O'Connell doesn't fault Packers for hit on QB Murray - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49942479/vikings-oconnell-fault-packers-hit-qb-murray"
+    },
     {
       "title": "Clippers, Raptors complete Kawhi Leonard trade, sources say - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49941983/clippers-raptors-complete-kawhi-leonard-trade-sources-say"
     },
     {
-      "title": "Kevin O\u2019Connell: Kyler Murray feels \u201cpretty good,\u201d we\u2019ll take it a day at a time - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-kyler-murray-feels-pretty-good-well-take-it-a-day-at-a-time"
+      "title": "Kevin Stefanski: No decision made on Falcons starting QB for Week 2 vs. Panthers - The Falcoholic",
+      "link": "https://www.thefalcoholic.com/atlanta-falcons-depth-chart/96202/kevin-stefanski-tua-tagovailoa-michael-penix-jr-cooper-rush-quarterback-injuries-starter"
     },
     {
-      "title": "Schefter Provides Update On Joey Porter Jr.: \u2018There Has Not Been A Lot Of Trade Interest\u2019 - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/09/schefter-provides-update-on-joey-porter-jr-there-has-not-been-a-lot-of-trade-interest/"
+      "title": "Top Teams Showcasing Their Strength in Stats Perform FCS Top 25 Poll - Opta Analyst",
+      "link": "https://theanalyst.com/articles/fcs-top-25-poll-stats-perform-following-week-2-2026-football-season"
     },
     {
-      "title": "Conor Benn Wasn\u2019t Ready For Ryan Garcia - Defector",
-      "link": "https://defector.com/conor-benn-wasnt-ready-for-ryan-garcia"
+      "title": "Michael Alford's fall, Mike Norvell's future and the financial problems still facing Florida State - 247Sports",
+      "link": "https://247sports.com/college/florida-state/article/michael-alfords-fall-mike-norvells-future-and-the-financial-problems-still-facing-florida-state-289958115/"
     },
     {
       "title": "2026 NFL fantasy football waiver wire, Week 2: WR Jalen Coker, RB Kaelon Black among top targets - NFL.com",
       "link": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-2-wr-jalen-coker-rb-kaelon-black-among-top-targets"
     },
     {
+      "title": "Sunday Aftermath: The Chargers\u2019 despair, the Bears\u2019 dominance, and much more - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/sunday-aftermath-the-chargers-despair-the-bears-dominance-and-much-more"
+    },
+    {
       "title": "Watch: Flash flooding interrupts half-marathon, submerges cars - BBC",
       "link": "https://www.bbc.com/news/videos/cqdj48mpw8mro"
     },
     {
-      "title": "Rams' McVay: Won't have timeline on Garrett until after surgery - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49941221/rams-mcvay-line-garrett-surgery"
+      "title": "The NY Jet who stepped up the most in Week 1 win - jetsxfactor.com",
+      "link": "https://jetsxfactor.com/2026/09/14/ny-jet-stepped-up-most-week-1-win/"
+    },
+    {
+      "title": "Kirby Smart brushes off prior verbal jab from Arkansas coach Ryan Silverfield - DawgNation",
+      "link": "https://www.dawgnation.com/football/kirby-smart-responds-verbal-jab-arkansas-coach-ryan-silverfield/S76IZWHYTZGRVPIJOJZGPJTLUQ/"
+    },
+    {
+      "title": "'A win is a win' says athlete who didn't let a little diarrhea keep her from finishing in first place - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/win-is-win-says-athlete-who-didnt-let-little-diarrhea-keep-her-finishing-first-place"
+    },
+    {
+      "title": "Detroit Lions stock report: 13 risers, 7 fallers vs. Saints - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/173022/detroit-lions-stock-report-13-risers-7-fallers-vs-saints"
     },
     {
       "title": "Chiefs-Broncos Week 1 game and score predictions from Arrowhead Pride - arrowheadpride.com",
       "link": "https://www.arrowheadpride.com/kansas-city-chiefs-analysis/210107/chiefs-broncos-week-1-game-score-predictions"
-    },
-    {
-      "title": "Kellen Moore stands by decision to go for two at end of overtime vs. Lions - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-stands-by-decision-to-go-for-two-at-end-of-overtime-vs-lions"
     },
     {
       "title": "Bills learn from past mistakes in victory over Texans - Buffalo Rumblings",
@@ -136,42 +164,6 @@
     {
       "title": "Michigan's Whittingham regrets not running Underwood earlier - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/49940723/michigan-whittingham-regrets-not-running-underwood-earlier"
-    },
-    {
-      "title": "Deshaun Watson says he\u2019ll \u201ckeep smiling, regardless of who\u2019s against me or who\u2019s with me\u201d - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-says-hell-keep-smiling-regardless-of-whos-against-me-or-whos-with-me"
-    },
-    {
-      "title": "Caitlin Clark snaps at Angel Reese question: \u2018Don\u2019t try to do that\u2019 - New York Post",
-      "link": "https://nypost.com/2026/09/14/sports/caitlin-clark-snaps-at-angel-reese-question-dont-try-to-do-that/"
-    },
-    {
-      "title": "CBS announces next two weeks of broadcasters, with no Tony Romo - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-announces-next-two-weeks-of-broadcasters-with-no-tony-romo"
-    },
-    {
-      "title": "Florida State fires athletic director Michael Alford - 247Sports",
-      "link": "https://247sports.com/college/florida-state/article/florida-state-fires-athletic-director-michael-alford-289947223/"
-    },
-    {
-      "title": "New York Jets Week 1 Stock Up, Stock Down - Gang Green Nation",
-      "link": "https://www.ganggreennation.com/new-york-jets-analysis/96436/jets-week-1-stock-up-stock-down"
-    },
-    {
-      "title": "Mark Madden: Steelers start Mike McCarthy era with a win, but questions remain - TribLIVE.com",
-      "link": "https://triblive.com/sports/mark-madden-steelers-start-mike-mccarthy-era-with-a-win-but-questions-remain/"
-    },
-    {
-      "title": "Three MLB teams whose remaining schedules could help them in the playoff hunt and three whose could hurt - CBS Sports",
-      "link": "https://www.cbssports.com/mlb/news/mlb-playoff-races-strength-of-schedule-white-sox-mariners-blue-jays-yankees-red-sox-phillies/"
-    },
-    {
-      "title": "Lions vs. Saints snap counts: Several defensive rotations unveiled - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/172934/detroit-lions-week-1-snap-counts-new-orleans-saints"
-    },
-    {
-      "title": "Examining the 'questionable' Dallas Goedert touchdown reception - PhillyVoice",
-      "link": "https://www.phillyvoice.com/examining-questionable-dallas-goedert-touchdown-reception/"
     }
   ],
   "weather": {
