@@ -1,94 +1,146 @@
 {
-  "quote": "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. \u2013 Celestine Chua",
-  "fact": "Camels chew in a figure 8 pattern.",
-  "crypto": "BTC: $75,840 | ETH: $2,402.53",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a fish with no eyes? A fsh.",
+  "quote": "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. \u2013 George Bernard Shaw",
+  "fact": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
+  "crypto": "BTC: $75,854 | ETH: $2,401.41",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What cheese can never be yours? Nacho cheese.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Diablo IV Switch 2 Performance And Resolution Officially Revealed - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed"
+    },
+    {
+      "title": "50 New Things Your iPhone Can Do in iOS 27 - Out Now! - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/"
+    },
+    {
+      "title": "Top 20 best-selling GameCube games of all time in the U.S. revealed - nintendoeverything.com",
+      "link": "https://nintendoeverything.com/top-20-best-selling-gamecube-games-of-all-time-in-the-u-s-revealed/"
+    },
+    {
+      "title": "Higurashi no Naku Koro ni Jong REMASTER announced for PS5, Switch, and PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/09/higurashi-no-naku-koro-ni-jong-remaster-announced-for-ps5-switch-and-pc"
+    },
+    {
+      "title": "The Fujifilm Instax Pal 2 Digicam Looks Nothing Like its Weird Predecessor - PetaPixel",
+      "link": "https://petapixel.com/2026/09/14/the-fujifilm-instax-pal-2-digicam-looks-nothing-like-its-weird-predecessor/"
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed"
+    },
+    {
+      "title": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US) - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us"
+    },
+    {
+      "title": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo) - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/"
+    },
+    {
+      "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - Digital Foundry",
+      "link": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone"
+    },
     {
       "title": "IGN Ownership Chooses Busiest Time For Games Media In Years To Lay A Bunch Of People Off - Aftermath",
       "link": "https://aftermath.site/ign-layoffs-altano-macy/"
     },
     {
-      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/"
+      "title": "Filed an Xbox Customer Support Ticket Recently? Xbox CEO Asha Sharma Might've Personally Responded to It - IGN",
+      "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-may-have-personally-responded-to-your-customer-support-ticket"
+    },
+    {
+      "title": "OpenRGB 1.0 Launches for Open-Source RGB Customization on Windows, Linux, and macOS - techpowerup.com",
+      "link": "https://www.techpowerup.com/352691/openrgb-1-0-launches-for-open-source-rgb-customization-on-windows-linux-and-macos"
     },
     {
       "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
       "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
     },
     {
+      "title": "Apple releases macOS 27 Golden Gate: 7 new features to try - mashable.com",
+      "link": "https://mashable.com/tech/macos27-golden-gate-release-features"
+    },
+    {
+      "title": "Googlebook pre-orders finally have a date: Here's when you can buy one - Android Central",
+      "link": "https://www.androidcentral.com/chromebooks-laptops/googlebook-pre-orders-begin-sept-21"
+    },
+    {
+      "title": "Apple Just Launched Its New iPhones. Here Are 16 More Products Coming Soon - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/upcoming-apple-products-what-to-expect-in-late-2026-and-early-2027"
+    },
+    {
       "title": "The best deals from Nintendo\u2019s \u2018customer appreciation\u2019 sale - The Verge",
       "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
+    },
+    {
+      "title": "Wardogs Is a Massive Hit on Steam, and It\u2019s Already on Sale for $33 - IGN",
+      "link": "https://www.ign.com/articles/wardogs-is-a-hit-on-steam-and-its-already-on-sale-for-33"
     },
     {
       "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\" - Eurogamer.net",
       "link": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root"
     },
     {
-      "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/"
-    },
-    {
-      "title": "Apple just released new AirPods Pro 3 firmware, more for iOS 27 - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/14/apple-just-released-new-airpods-pro-3-firmware-more-for-ios-27/"
-    },
-    {
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves - TechCrunch",
-      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
-    },
-    {
-      "title": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data"
-    },
-    {
-      "title": "Samsung reportedly considers early \u2018Galaxy Z TriFold 2\u2019 release in wake of iPhone Duo - 9to5Google",
-      "link": "http://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/"
-    },
-    {
-      "title": "Marathon Delays New Content And Ditches Seasons As Bungie's Extraction Shooter Fights For Its Life - Kotaku",
-      "link": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322"
-    },
-    {
-      "title": "Apple Releases watchOS 27 With Siri AI, New Watch Face, Smart Stack Improvements and More - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/14/apple-releases-watchos-27/"
-    },
-    {
-      "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame - The Verge",
-      "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port"
-    },
-    {
-      "title": "'We\u2019re Still Looking at It in the Same Way' \u2013 Valve Says the RAM Crisis Hasn\u2019t Affected Its Plans for Steam Deck 2 - IGN",
-      "link": "https://www.ign.com/articles/valve-says-ram-crisis-hasnt-affected-plans-for-steam-deck-2"
-    },
-    {
-      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/"
-    },
-    {
-      "title": "Google\u2019s official Pixel 11 series cases are already on sale - 9to5Google",
-      "link": "http://9to5google.com/2026/09/14/google-pixel-11-cases-discount/"
-    },
-    {
-      "title": "Rayman Legends Retold delayed to December 3 - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/rayman-legends-retold-delayed-to-december-3"
-    },
-    {
-      "title": "HP and Lenovo laptops are the latest victims of a Windows 11 update - PCWorld",
-      "link": "https://www.pcworld.com/article/3234625/hp-and-lenovo-laptops-are-the-latest-victims-of-a-windows-11-update.html"
-    },
-    {
-      "title": "\u2018StarCraft\u2019 Is No \u2018Destiny 2\u2019 Live-Service Replacement, Blizzard Confirms - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/09/14/starcraft-is-no-destiny-2-live-service-replacement-blizzard-confirms/"
+      "title": "Physicist: Famed 'Picard Maneuver' on Star Trek Works - Newser",
+      "link": "https://www.newser.com/story/396413/physicist-famed-picard-maneuver-on-star-trek-works.html"
     }
   ],
   "sports_news": [
+    {
+      "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49947028/kenneth-walker-iii-patrick-mahomes-power-chiefs-win-vs-broncos"
+    },
+    {
+      "title": "NFL ties Week 1 scoring record for Super Bowl era - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-ties-week-1-scoring-record-for-super-bowl-era"
+    },
+    {
+      "title": "Aaron Judge, Yankees Clinch 2026 MLB Playoff Berth, Updated Bracket Picture and Standings - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25497108-aaron-judge-yankees-clinch-2026-mlb-playoff-berth-updated-bracket-picture-and-standings"
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 2: Which Teams Suffered The Worst Opening Losses? - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-2-which-teams-suffered-worst-opening-losses"
+    },
+    {
+      "title": "NFL Week 1 Recap: Immediate fantasy football takeaways from Broncos-Chiefs - PFF",
+      "link": "https://www.pff.com/news/fantasy-football-broncos-recap-chiefs-week-1"
+    },
+    {
+      "title": "Arch Manning laughing at AI video of coach slapping woman reporter is a foot-in-mouth moment - SB Nation",
+      "link": "https://www.sbnation.com/college-football/1128521/arch-manning-sark-holly-rowe-video-ai-press-conference-clip"
+    },
+    {
+      "title": "Travis Kelce now second all-time in receiving yards for a TE - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-now-second-all-time-in-receiving-yards-for-a-te"
+    },
+    {
+      "title": "One last look back at BYU\u2019s Big 12 opening win over Arizona \u2014 and what you may have missed - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/09/14/byu-arizona-big-12-opener-what-you-may-have-missed-video/"
+    },
+    {
+      "title": "College sports bill opposition brews despite Cruz, Cantwell optimism - politico.com",
+      "link": "https://www.politico.com/live-updates/2026/09/14/congress/college-sports-outlook-unclear-01076303"
+    },
+    {
+      "title": "Oklahoma State might have known which plays Oregon Ducks were running during upset win - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/oklahoma-state-might-known-which-plays-oregon-ducks-were-running-during-upset-win"
+    },
+    {
+      "title": "The latest on Seahawks QB Sam Darnold\u2019s \u2018unique\u2019 injury - Seattle Sports",
+      "link": "https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-latest-on-sam-darnolds-unique-injury"
+    },
+    {
+      "title": "Fantasy football waiver wire, Week 2 picks: Players to target include Devaughn Vele and Emari Demercado - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-waiver-wire-week-2-picks-players-to-target-include-devaughn-vele-and-emari-demercado/"
+    },
     {
       "title": "Sources: Drew Brees mulled playing for Broncos in AFC title game - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/49927602/sources-drew-brees-mulled-playing-broncos-afc-title-game"
@@ -98,20 +150,16 @@
       "link": "https://www.espn.com/nfl/story/_/id/49944451/philadelphia-eagles-placing-guard-landon-dickerson-injured-reserve"
     },
     {
-      "title": "Seahawks give more details of Sam Darnold\u2019s \u2018very unique\u2019 injury - seattletimes.com",
-      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-give-more-details-of-sam-darnolds-very-unique-injury/"
-    },
-    {
       "title": "Monday Night Football: No surprises among the Chiefs-Broncos inactives - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-no-surprises-among-the-inactives"
     },
     {
-      "title": "With 42 points in Broncos-Chiefs, the Week 1 scoring record will be broken - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-42-points-in-broncos-chiefs-the-week-1-scoring-record-will-be-broken"
-    },
-    {
       "title": "Myles Garrett: Los Angeles Rams star needs knee operation - bbc.com",
       "link": "https://www.bbc.com/sport/american-football/articles/cm7803q8gglgo"
+    },
+    {
+      "title": "Hyrox race goes viral after top athlete soils herself, shares equipment in win - USA Today",
+      "link": "https://www.usatoday.com/story/sports/2026/09/14/hyrox-athlete-soils-herself-what-happened-in-hyrox-china/91759299007/"
     },
     {
       "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle - BBC",
@@ -122,52 +170,8 @@
       "link": "https://www.pgatour.com/article/news/power-rankings/2026/09/14/rankings-biltmore-championship-the-cliffs-at-walnut-cove-odds-betting-fantasy-picks"
     },
     {
-      "title": "Forde-Yard Dash: The SEC Is Back on Top of College Football\u2019s Power Rankings - Sports Illustrated",
-      "link": "https://www.si.com/college-football/forde-yard-dash-sec-back-on-top-of-college-football-power-rankings"
-    },
-    {
-      "title": "Steve Ballmer says he, Clippers will comply with NBA\u2019s penalties, not pursue legal action - NBC Sports",
-      "link": "https://www.nbcsports.com/nba/news/steve-ballmer-says-he-clippers-will-comply-with-nbas-penalties-not-pursue-legal-action"
-    },
-    {
-      "title": "Sarkisian says Ohio State should be rewarded for playing Texas - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49942112/sarkisian-says-ohio-state-rewarded-playing-texas"
-    },
-    {
-      "title": "Vikings\u2019 Brian O\u2019Neill: I wish I took a shot at Javon Bullard after his hit on Kyler Murray - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-brian-oneill-i-wish-i-took-a-shot-at-javon-bullard-after-his-hit-on-kyler-murray"
-    },
-    {
-      "title": "Ella Langley, distractions and Lane Kiffin: Pete Golding calls Ole Miss-LSU \u2018high school homecoming\u2019 - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/ella-langley-distractions-lane-kiffin-pete-golding-calls-ole-miss-lsu-high-school-homecoming"
-    },
-    {
-      "title": "B/R Experts Week 2 NFL Power Rankings - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25499437-br-experts-week-2-nfl-power-rankings"
-    },
-    {
-      "title": "Clippers, Raptors complete Kawhi Leonard trade, sources say - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/49941983/clippers-raptors-complete-kawhi-leonard-trade-sources-say"
-    },
-    {
-      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight' - NPR",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight"
-    },
-    {
-      "title": "PFF grades for the NY Giants\u2019 28-20 victory over the Dallas Cowboys - Big Blue View",
-      "link": "https://www.bigblueview.com/new-york-giants-analysis/171244/pff-grades-for-the-ny-giants-28-20-victory-over-the-dallas-cowboys"
-    },
-    {
-      "title": "Top Teams Showcasing Their Strength in Stats Perform FCS Top 25 Poll - Opta Analyst",
-      "link": "https://theanalyst.com/articles/fcs-top-25-poll-stats-perform-following-week-2-2026-football-season"
-    },
-    {
-      "title": "Conor Benn Wasn\u2019t Ready For Ryan Garcia - Defector",
-      "link": "https://defector.com/conor-benn-wasnt-ready-for-ryan-garcia"
-    },
-    {
-      "title": "Texas replaces Notre Dame at No. 1 in college football's NCAA Re-Rank 1-138 - USA Today",
-      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/09/14/college-football-re-rank-ncaa-week-2/91746149007/"
+      "title": "Dave Canales: Panthers need to 'play way better football' - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49942333/dave-canales-carolina-panthers-defense-need-play-way-better-football-week-1-loss-bears"
     }
   ],
   "weather": {
