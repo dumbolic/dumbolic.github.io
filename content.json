@@ -1,9 +1,9 @@
 {
-  "quote": "Successful people ask better questions, and as a result, they get better answers. \u2013 Tony Robbins",
-  "fact": "Length of beard an average man would grow if he never shaved 27.5 feet",
-  "crypto": "BTC: $75,685 | ETH: $2,398.16",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
+  "quote": "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. \u2013 Celestine Chua",
+  "fact": "Camels chew in a figure 8 pattern.",
+  "crypto": "BTC: $75,840 | ETH: $2,402.53",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you call a fish with no eyes? A fsh.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+      "title": "IGN Ownership Chooses Busiest Time For Games Media In Years To Lay A Bunch Of People Off - Aftermath",
+      "link": "https://aftermath.site/ign-layoffs-altano-macy/"
     },
     {
-      "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts - Kotaku",
-      "link": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361"
+      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/"
+    },
+    {
+      "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
     },
     {
       "title": "The best deals from Nintendo\u2019s \u2018customer appreciation\u2019 sale - The Verge",
@@ -28,8 +32,12 @@
       "link": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root"
     },
     {
-      "title": "Apple Releases New AirPods Firmware With iOS 27 Features - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/"
+      "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/"
+    },
+    {
+      "title": "Apple just released new AirPods Pro 3 firmware, more for iOS 27 - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/14/apple-just-released-new-airpods-pro-3-firmware-more-for-ios-27/"
     },
     {
       "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves - TechCrunch",
@@ -40,36 +48,24 @@
       "link": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data"
     },
     {
-      "title": "Marathon Makes Major Changes Amidst Bungie Struggles, Delays Next Big Update to December - IGN",
-      "link": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles"
-    },
-    {
-      "title": "Apple Releases iOS 26.7 With Security Fixes - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/"
-    },
-    {
       "title": "Samsung reportedly considers early \u2018Galaxy Z TriFold 2\u2019 release in wake of iPhone Duo - 9to5Google",
       "link": "http://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/"
     },
     {
-      "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
-      "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
+      "title": "Marathon Delays New Content And Ditches Seasons As Bungie's Extraction Shooter Fights For Its Life - Kotaku",
+      "link": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322"
     },
     {
-      "title": "watchOS 27 now available for Apple Watch, here\u2019s what\u2019s new - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/"
+      "title": "Apple Releases watchOS 27 With Siri AI, New Watch Face, Smart Stack Improvements and More - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/14/apple-releases-watchos-27/"
     },
     {
-      "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
-      "link": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone"
+      "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame - The Verge",
+      "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port"
     },
     {
       "title": "'We\u2019re Still Looking at It in the Same Way' \u2013 Valve Says the RAM Crisis Hasn\u2019t Affected Its Plans for Steam Deck 2 - IGN",
       "link": "https://www.ign.com/articles/valve-says-ram-crisis-hasnt-affected-plans-for-steam-deck-2"
-    },
-    {
-      "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo - The Verge",
-      "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review"
     },
     {
       "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year - MacRumors",
@@ -84,86 +80,94 @@
       "link": "https://www.gematsu.com/2026/09/rayman-legends-retold-delayed-to-december-3"
     },
     {
-      "title": "Google rolls out Motion Assist bubbles to Pixel, Samsung - 9to5Google",
-      "link": "http://9to5google.com/2026/09/14/android-motion-assist-pixel-samsung/"
+      "title": "HP and Lenovo laptops are the latest victims of a Windows 11 update - PCWorld",
+      "link": "https://www.pcworld.com/article/3234625/hp-and-lenovo-laptops-are-the-latest-victims-of-a-windows-11-update.html"
+    },
+    {
+      "title": "\u2018StarCraft\u2019 Is No \u2018Destiny 2\u2019 Live-Service Replacement, Blizzard Confirms - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/09/14/starcraft-is-no-destiny-2-live-service-replacement-blizzard-confirms/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Sources: Drew Brees mulled playing for Broncos in AFC title game - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49927602/sources-drew-brees-mulled-playing-broncos-afc-title-game"
+    },
+    {
+      "title": "Eagles placing LG Landon Dickerson (knee) on injured reserve - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49944451/philadelphia-eagles-placing-guard-landon-dickerson-injured-reserve"
+    },
+    {
+      "title": "Seahawks give more details of Sam Darnold\u2019s \u2018very unique\u2019 injury - seattletimes.com",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-give-more-details-of-sam-darnolds-very-unique-injury/"
+    },
+    {
+      "title": "Monday Night Football: No surprises among the Chiefs-Broncos inactives - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-no-surprises-among-the-inactives"
+    },
+    {
+      "title": "With 42 points in Broncos-Chiefs, the Week 1 scoring record will be broken - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-42-points-in-broncos-chiefs-the-week-1-scoring-record-will-be-broken"
+    },
+    {
+      "title": "Myles Garrett: Los Angeles Rams star needs knee operation - bbc.com",
+      "link": "https://www.bbc.com/sport/american-football/articles/cm7803q8gglgo"
+    },
     {
       "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle - BBC",
       "link": "https://www.bbc.com/sport/football/articles/c6790xr3wvr7o"
     },
     {
-      "title": "Suddenly, Steve Sarkisian is singing a completely different tune about playing Ohio State - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/steve-sarkisian-singing-different-tune-playing-ohio-state"
+      "title": "Power Rankings: Biltmore Championship Asheville - PGA Tour",
+      "link": "https://www.pgatour.com/article/news/power-rankings/2026/09/14/rankings-biltmore-championship-the-cliffs-at-walnut-cove-odds-betting-fantasy-picks"
     },
     {
-      "title": "Inside Oklahoma State's upset of No. 6 Oregon - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49941960/college-football-oklahoma-state-oregon-upset"
+      "title": "Forde-Yard Dash: The SEC Is Back on Top of College Football\u2019s Power Rankings - Sports Illustrated",
+      "link": "https://www.si.com/college-football/forde-yard-dash-sec-back-on-top-of-college-football-power-rankings"
     },
     {
-      "title": "Lions at Bills practice report: Sept. 14 - Detroit Lions",
-      "link": "https://lions-frontend.pocket.nfl.com/news/lions-at-bills-practice-report-sept-14-mahogany-miller-scruggs"
+      "title": "Steve Ballmer says he, Clippers will comply with NBA\u2019s penalties, not pursue legal action - NBC Sports",
+      "link": "https://www.nbcsports.com/nba/news/steve-ballmer-says-he-clippers-will-comply-with-nbas-penalties-not-pursue-legal-action"
     },
     {
-      "title": "Vikings' O'Connell doesn't fault Packers for hit on QB Murray - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49942479/vikings-oconnell-fault-packers-hit-qb-murray"
+      "title": "Sarkisian says Ohio State should be rewarded for playing Texas - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/49942112/sarkisian-says-ohio-state-rewarded-playing-texas"
+    },
+    {
+      "title": "Vikings\u2019 Brian O\u2019Neill: I wish I took a shot at Javon Bullard after his hit on Kyler Murray - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-brian-oneill-i-wish-i-took-a-shot-at-javon-bullard-after-his-hit-on-kyler-murray"
+    },
+    {
+      "title": "Ella Langley, distractions and Lane Kiffin: Pete Golding calls Ole Miss-LSU \u2018high school homecoming\u2019 - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/ella-langley-distractions-lane-kiffin-pete-golding-calls-ole-miss-lsu-high-school-homecoming"
+    },
+    {
+      "title": "B/R Experts Week 2 NFL Power Rankings - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25499437-br-experts-week-2-nfl-power-rankings"
     },
     {
       "title": "Clippers, Raptors complete Kawhi Leonard trade, sources say - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/49941983/clippers-raptors-complete-kawhi-leonard-trade-sources-say"
     },
     {
-      "title": "Kevin Stefanski: No decision made on Falcons starting QB for Week 2 vs. Panthers - The Falcoholic",
-      "link": "https://www.thefalcoholic.com/atlanta-falcons-depth-chart/96202/kevin-stefanski-tua-tagovailoa-michael-penix-jr-cooper-rush-quarterback-injuries-starter"
+      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight' - NPR",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight"
+    },
+    {
+      "title": "PFF grades for the NY Giants\u2019 28-20 victory over the Dallas Cowboys - Big Blue View",
+      "link": "https://www.bigblueview.com/new-york-giants-analysis/171244/pff-grades-for-the-ny-giants-28-20-victory-over-the-dallas-cowboys"
     },
     {
       "title": "Top Teams Showcasing Their Strength in Stats Perform FCS Top 25 Poll - Opta Analyst",
       "link": "https://theanalyst.com/articles/fcs-top-25-poll-stats-perform-following-week-2-2026-football-season"
     },
     {
-      "title": "Michael Alford's fall, Mike Norvell's future and the financial problems still facing Florida State - 247Sports",
-      "link": "https://247sports.com/college/florida-state/article/michael-alfords-fall-mike-norvells-future-and-the-financial-problems-still-facing-florida-state-289958115/"
+      "title": "Conor Benn Wasn\u2019t Ready For Ryan Garcia - Defector",
+      "link": "https://defector.com/conor-benn-wasnt-ready-for-ryan-garcia"
     },
     {
-      "title": "2026 NFL fantasy football waiver wire, Week 2: WR Jalen Coker, RB Kaelon Black among top targets - NFL.com",
-      "link": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-2-wr-jalen-coker-rb-kaelon-black-among-top-targets"
-    },
-    {
-      "title": "Sunday Aftermath: The Chargers\u2019 despair, the Bears\u2019 dominance, and much more - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/sunday-aftermath-the-chargers-despair-the-bears-dominance-and-much-more"
-    },
-    {
-      "title": "Watch: Flash flooding interrupts half-marathon, submerges cars - BBC",
-      "link": "https://www.bbc.com/news/videos/cqdj48mpw8mro"
-    },
-    {
-      "title": "The NY Jet who stepped up the most in Week 1 win - jetsxfactor.com",
-      "link": "https://jetsxfactor.com/2026/09/14/ny-jet-stepped-up-most-week-1-win/"
-    },
-    {
-      "title": "Kirby Smart brushes off prior verbal jab from Arkansas coach Ryan Silverfield - DawgNation",
-      "link": "https://www.dawgnation.com/football/kirby-smart-responds-verbal-jab-arkansas-coach-ryan-silverfield/S76IZWHYTZGRVPIJOJZGPJTLUQ/"
-    },
-    {
-      "title": "'A win is a win' says athlete who didn't let a little diarrhea keep her from finishing in first place - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/win-is-win-says-athlete-who-didnt-let-little-diarrhea-keep-her-finishing-first-place"
-    },
-    {
-      "title": "Detroit Lions stock report: 13 risers, 7 fallers vs. Saints - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/173022/detroit-lions-stock-report-13-risers-7-fallers-vs-saints"
-    },
-    {
-      "title": "Chiefs-Broncos Week 1 game and score predictions from Arrowhead Pride - arrowheadpride.com",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-analysis/210107/chiefs-broncos-week-1-game-score-predictions"
-    },
-    {
-      "title": "Bills learn from past mistakes in victory over Texans - Buffalo Rumblings",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140116/buffalo-bills-learn-from-past-mistakes-in-victory-over-houston-texans"
-    },
-    {
-      "title": "Michigan's Whittingham regrets not running Underwood earlier - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49940723/michigan-whittingham-regrets-not-running-underwood-earlier"
+      "title": "Texas replaces Notre Dame at No. 1 in college football's NCAA Re-Rank 1-138 - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/09/14/college-football-re-rank-ncaa-week-2/91746149007/"
     }
   ],
   "weather": {
