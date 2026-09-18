@@ -1,9 +1,9 @@
 {
-  "quote": "There is peace even in the storm. \u2013 Vincent van Gogh",
-  "fact": "A snail can sleep for 3 years.",
-  "crypto": "BTC: $76,550 | ETH: $2,449.78",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "Where do rabbits go after they get married? On a bunny-moon.",
+  "quote": "Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable. \u2013 Bhagavad Gita",
+  "fact": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
+  "crypto": "BTC: $77,459 | ETH: $2,483.02",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America) - Nintendo Life",
+      "link": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america"
+    },
+    {
+      "title": "Final Fantasy Resonance TGS 2026 trailer - gematsu.com",
+      "link": "https://www.gematsu.com/2026/09/final-fantasy-resonance-tgs-2026-trailer"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses - techcrunch.com",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+    },
+    {
       "title": "Lollipop Chainsaw 2 Back2Back announced for PS5 - Gematsu",
       "link": "https://www.gematsu.com/2026/09/lollipop-chainsaw-2-back2back-announced-for-ps5"
     },
     {
-      "title": "Everything New in iOS 27.2 Beta 1 - MacRumors",
-      "link": "https://www.macrumors.com/guide/ios-27-2-beta-features/"
+      "title": "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours - IGN",
+      "link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours"
     },
     {
-      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce - CNBC",
-      "link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html"
+      "title": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/"
     },
     {
       "title": "Google rolling out Android 17 QPR2 Beta 5 for Pixel - 9to5Google",
@@ -32,12 +44,12 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/"
     },
     {
-      "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera - TechCrunch",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
-    },
-    {
       "title": "'Nearly Everyone' Laid Off As Hyper Light Drifter Studio Risks Closing: 'I'm Not Sure Yet How Or If Heart Machine Survives' - Kotaku",
       "link": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172"
+    },
+    {
+      "title": "\"I apologised\" - Wardogs studio CEO issues new response to backlash after saying his studio won't hire people who \"constantly tweet anti-crunch messaging\" - Eurogamer.net",
+      "link": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement"
     },
     {
       "title": "Super Ugly Mew Cards Are The Chase For Pok\u00e9mon\u2019s 30th Anniversary, And One\u2019s Already Sold For $20k - kotaku.com",
@@ -56,16 +68,20 @@
       "link": "https://www.windowscentral.com/gaming/xbox/xbox-speaks-out-on-rumors-of-xbox-game-pass-dropping-day-one-games-in-a-purported-2027-restructure-heres-what-we-know"
     },
     {
-      "title": "Google confirms Pixel phones were exploited in \u2018targeted\u2019 attack related to modem - 9to5Google",
-      "link": "http://9to5google.com/2026/09/16/google-pixel-targeted-zero-day-modem-attack/"
+      "title": "Your AI agents can now control your Google Home devices - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
     },
     {
-      "title": "Wardogs CEO Says Workers Who Speak Out Against Crunch Won't 'Be Happy Here' - Aftermath",
-      "link": "https://aftermath.site/wardogs-brammer-crunch-bulkhead/"
+      "title": "Claude comes for Gemini with its own take on Docs and Slides - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
     },
     {
       "title": "macOS 27 Golden Gate: The Ars Technica review - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/"
+    },
+    {
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation - The Hacker News",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"
     },
     {
       "title": "Monster Hunter Wilds expansion \u2018Ascendance\u2019 reveals Teostra - Gematsu",
@@ -74,32 +90,28 @@
     {
       "title": "Toward A Proper Definition Of \u201cOverrated\u201d - Defector",
       "link": "https://defector.com/toward-a-proper-definition-of-overrated"
-    },
-    {
-      "title": "MindsEye Developer Seemingly Shutting Down after New Round of Layoffs - Polygon.com",
-      "link": "https://www.polygon.com/mindseye-developer-build-a-rocket-boy-layoffs-studio-shutdown/"
-    },
-    {
-      "title": "Samsung starts rolling out Android 17 with One UI 9, confirms initial list of Galaxy devices - 9to5Google",
-      "link": "http://9to5google.com/2026/09/16/samsung-android-17-one-ui-9-update-list/"
-    },
-    {
-      "title": "Why Does Trying To Buy A Video Game T-Shirt Suck So Much? - Kotaku",
-      "link": "https://kotaku.com/why-does-trying-to-buy-a-video-game-t-shirt-suck-so-much-2000730574"
-    },
-    {
-      "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says - Eurogamer.net",
-      "link": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games"
     }
   ],
   "sports_news": [
     {
-      "title": "LSU lists QB Sam Leavitt as 'doubtful' on first injury report ahead of top-10 showdown with Ole Miss - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/lsu-qb-sam-leavitt-doubtful-injury-ole-miss/"
+      "title": "UNC football players cited after a traffic stop, one on gun charge. Now they\u2019re out against Clemson - WRAL",
+      "link": "https://www.wral.com/sports/northcarolina-players-cited-speeding-carrying-concealed-weapon-september-2026/"
     },
     {
-      "title": "James Wiseman, Bruce Brown among veterans joining Knicks on Exhibit 9 deal - SNY",
-      "link": "https://sny.tv/articles/james-wiseman-bruce-brown-veterans-joining-knicks-exhibit-9-deal"
+      "title": "Dodgers Notes: Snell, Sasaki, Walter - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/dodgers-notes-snell-sasaki-walter.html"
+    },
+    {
+      "title": "Report: Keenan Allen\u2019s BAC was measured at 0.224 percent - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-keenan-allens-bac-was-measured-at-0-224-percent"
+    },
+    {
+      "title": "The Packers sparked an NFL memo on ineligible players - acmepackingcompany.com",
+      "link": "https://www.acmepackingcompany.com/green-bay-packers-news/86561/the-packers-sparked-an-nfl-memo-on-ineligible-players"
+    },
+    {
+      "title": "LSU lists QB Sam Leavitt as 'doubtful' on first injury report ahead of top-10 showdown with Ole Miss - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/lsu-qb-sam-leavitt-doubtful-injury-ole-miss/"
     },
     {
       "title": "Messi nets 100th Miami goal en route to Campeones Cup win - espn.com",
@@ -126,6 +138,18 @@
       "link": "https://www.bbc.com/sport/football/articles/cmwyzr576y9zo"
     },
     {
+      "title": "Rate Field\u2019s Owners Blindsided By Plans To Build Amtrak Facility Nearby, Don\u2019t Want Sox To Move - Block Club Chicago",
+      "link": "https://blockclubchicago.org/2026/09/16/rate-fields-owners-blindsided-by-plans-to-build-amtrak-facility-nearby-dont-want-sox-to-move/"
+    },
+    {
+      "title": "Chelsea: Clearlake Capital acquires full control as Todd Boehly, Mark Walter and Hansjorg Wyss sell stakes - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cvrl6egl1254o"
+    },
+    {
+      "title": "Fantasy Football Start 'Em, Sit 'Em WR in Week 2: Davante Adams back to must start, nervous about Drake London - cbssports.com",
+      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-start-em-sit-em-lineup-decisions-jamey-eisenberg-week-2/"
+    },
+    {
       "title": "Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 2 - Yahoo Sports",
       "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-rb-blueprint-for-week-2-220933595.html"
     },
@@ -148,26 +172,6 @@
     {
       "title": "Aaron Judge exits early against Twins in concerning Yankees moment - New York Post",
       "link": "https://nypost.com/2026/09/16/sports/aaron-judge-exits-early-against-twins-in-concerning-yankees-moment/"
-    },
-    {
-      "title": "Pre-Gamin\u2019: Cubs vs Braves (6:40 CT) \u2013 Lineups, Broadcast Info, Game Thread - Bleacher Nation",
-      "link": "https://www.bleachernation.com/cubs/2026/09/16/cubs-lineup-91626/"
-    },
-    {
-      "title": "League won\u2019t allow Dae\u2019Quan Wright or Zxavian Harris to sign with NFL teams - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-wont-allow-daequan-wright-or-zxavian-harris-to-sign-with-nfl-teams"
-    },
-    {
-      "title": "\u2018I\u2019m back\u2019: Ilia Topuria reveals he\u2019s been cleared to return to action after brutal UFC White House loss; Justin Gaethje responds - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/510574/im-back-ilia-topuria-reveals-hes-been-cleared-to-return-to-action-after-brutal-ufc-white-house-loss"
-    },
-    {
-      "title": "Zay Flowers (hamstring) not spotted at practice - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-16/zay-flowers-hamstring-not-spotted-at-practice"
-    },
-    {
-      "title": "NFL QB rankings, Week 2: Caleb Williams, Lamar Jackson and Trevor Lawrence soar into top five - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-qb-rankings-index-week-2-2026-nfl-season"
     }
   ],
   "weather": {
