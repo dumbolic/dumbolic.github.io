@@ -1,9 +1,9 @@
 {
-  "quote": "Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner. \u2013 Arnold Schwarzenegger",
-  "fact": "There are over 58 million dogs in the US",
-  "crypto": "BTC: $76,427 | ETH: $2,446.79",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What has ears but cannot hear? A field of corn.",
+  "quote": "There is peace even in the storm. \u2013 Vincent van Gogh",
+  "fact": "A snail can sleep for 3 years.",
+  "crypto": "BTC: $76,550 | ETH: $2,449.78",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "Where do rabbits go after they get married? On a bunny-moon.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "I wore Snap\u2019s $2,200 smart glasses - theverge.com",
-      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses"
+      "title": "Lollipop Chainsaw 2 Back2Back announced for PS5 - Gematsu",
+      "link": "https://www.gematsu.com/2026/09/lollipop-chainsaw-2-back2back-announced-for-ps5"
+    },
+    {
+      "title": "Everything New in iOS 27.2 Beta 1 - MacRumors",
+      "link": "https://www.macrumors.com/guide/ios-27-2-beta-features/"
+    },
+    {
+      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce - CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html"
     },
     {
       "title": "Google rolling out Android 17 QPR2 Beta 5 for Pixel - 9to5Google",
@@ -36,16 +44,8 @@
       "link": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148"
     },
     {
-      "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone - 9to5mac.com",
-      "link": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/"
-    },
-    {
-      "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home - 9to5Google",
-      "link": "http://9to5google.com/2026/09/16/google-home-mcp/"
-    },
-    {
-      "title": "iOS 27.2 expands Siri AI to these new languages - 9to5mac.com",
-      "link": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/"
+      "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders - The Verge",
+      "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale"
     },
     {
       "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App - MacRumors",
@@ -56,8 +56,8 @@
       "link": "https://www.windowscentral.com/gaming/xbox/xbox-speaks-out-on-rumors-of-xbox-game-pass-dropping-day-one-games-in-a-purported-2027-restructure-heres-what-we-know"
     },
     {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
+      "title": "Google confirms Pixel phones were exploited in \u2018targeted\u2019 attack related to modem - 9to5Google",
+      "link": "http://9to5google.com/2026/09/16/google-pixel-targeted-zero-day-modem-attack/"
     },
     {
       "title": "Wardogs CEO Says Workers Who Speak Out Against Crunch Won't 'Be Happy Here' - Aftermath",
@@ -66,6 +66,14 @@
     {
       "title": "macOS 27 Golden Gate: The Ars Technica review - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/"
+    },
+    {
+      "title": "Monster Hunter Wilds expansion \u2018Ascendance\u2019 reveals Teostra - Gematsu",
+      "link": "https://www.gematsu.com/2026/09/monster-hunter-wilds-expansion-ascendance-reveals-teostra"
+    },
+    {
+      "title": "Toward A Proper Definition Of \u201cOverrated\u201d - Defector",
+      "link": "https://defector.com/toward-a-proper-definition-of-overrated"
     },
     {
       "title": "MindsEye Developer Seemingly Shutting Down after New Round of Layoffs - Polygon.com",
@@ -82,24 +90,48 @@
     {
       "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says - Eurogamer.net",
       "link": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games"
-    },
-    {
-      "title": "Valve Explains Why Steam Frame Uses Half-Life: Alyx Instead of a New VR Game - 80 Level",
-      "link": "https://80.lv/articles/valve-explains-why-steam-frame-uses-half-life-alyx-instead-of-a-new-vr-game"
-    },
-    {
-      "title": "Exclusive: Here Are Googlebooks From Acer, ASUS, and Lenovo - Android Headlines",
-      "link": "https://www.androidheadlines.com/googlebooks-acer-asus-lenovo"
     }
   ],
   "sports_news": [
+    {
+      "title": "LSU lists QB Sam Leavitt as 'doubtful' on first injury report ahead of top-10 showdown with Ole Miss - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/lsu-qb-sam-leavitt-doubtful-injury-ole-miss/"
+    },
+    {
+      "title": "James Wiseman, Bruce Brown among veterans joining Knicks on Exhibit 9 deal - SNY",
+      "link": "https://sny.tv/articles/james-wiseman-bruce-brown-veterans-joining-knicks-exhibit-9-deal"
+    },
+    {
+      "title": "Messi nets 100th Miami goal en route to Campeones Cup win - espn.com",
+      "link": "https://www.espn.com/soccer/story/_/id/49958765/messi-opens-campeones-cup-scoring-100th-goal-miami"
+    },
+    {
+      "title": "FBS oversight committee says it can't overturn WMU's loss - espn.com",
+      "link": "https://www.espn.com/college-football/story/_/id/49961280/fbs-oversight-committee-says-overturn-wmu-loss"
+    },
+    {
+      "title": "Travis Kelce was among the victims of a man\u2019s multimillion-dollar Ponzi scheme - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/travis-kelce-victim-multi-million-dollar-ponzi-scheme-rcna598243"
+    },
+    {
+      "title": "Vikings place RB Mason (thumb) on injured reserve - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-16/vikings-place-rb-mason-thumb-on-injured-reserve"
+    },
     {
       "title": "Ken Zampese: Browns \"mucked it up\" with Baker Mayfield - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ken-zampese-browns-mucked-it-up-with-baker-mayfield"
     },
     {
-      "title": "EFL Cup LIVE: Text commentary from four games in the third round - score, team news & match stats - BBC",
-      "link": "https://www.bbc.com/sport/football/live/cj3v4we7q2x2t"
+      "title": "Man Utd 2-3 Brighton: Michael Carrick 'not bothered' by pressure after loss - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cmwyzr576y9zo"
+    },
+    {
+      "title": "Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 2 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-rb-blueprint-for-week-2-220933595.html"
+    },
+    {
+      "title": "Fantasy Football Trading Guide: 2026 NFL Week 2 - Fantasy Points",
+      "link": "https://www.fantasypoints.com/nfl/articles/2026/fantasy-football-trading-guide-2026-nfl-week-2"
     },
     {
       "title": "Penix (knee) \u2018not yet ready\u2019 for game action - NBC Sports",
@@ -118,56 +150,24 @@
       "link": "https://nypost.com/2026/09/16/sports/aaron-judge-exits-early-against-twins-in-concerning-yankees-moment/"
     },
     {
+      "title": "Pre-Gamin\u2019: Cubs vs Braves (6:40 CT) \u2013 Lineups, Broadcast Info, Game Thread - Bleacher Nation",
+      "link": "https://www.bleachernation.com/cubs/2026/09/16/cubs-lineup-91626/"
+    },
+    {
       "title": "League won\u2019t allow Dae\u2019Quan Wright or Zxavian Harris to sign with NFL teams - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-wont-allow-daequan-wright-or-zxavian-harris-to-sign-with-nfl-teams"
+    },
+    {
+      "title": "\u2018I\u2019m back\u2019: Ilia Topuria reveals he\u2019s been cleared to return to action after brutal UFC White House loss; Justin Gaethje responds - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/510574/im-back-ilia-topuria-reveals-hes-been-cleared-to-return-to-action-after-brutal-ufc-white-house-loss"
     },
     {
       "title": "Zay Flowers (hamstring) not spotted at practice - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-16/zay-flowers-hamstring-not-spotted-at-practice"
     },
     {
-      "title": "Week 2 Start \u2019Em, Sit \u2019Em Fantasy Running Backs - Sports Illustrated",
-      "link": "https://www.si.com/fantasy/week-2-start-em-sit-em-running-backs"
-    },
-    {
-      "title": "Travis Kelce Named Victim In Fraudster\u2019s Multi-Million Dollar Ponzi Scheme - Forbes",
-      "link": "https://www.forbes.com/sites/zacharyfolk/2026/09/16/travis-kelce-named-victim-in-fraudsters-multi-million-dollar-ponzi-scheme/"
-    },
-    {
-      "title": "Fox News host calls Holly Rowe \u2018embarrassing\u2019 over Arch Manning situation - pennlive.com",
-      "link": "https://www.pennlive.com/sports/2026/09/fox-news-host-calls-holly-rowe-embarrassing-over-arch-manning-situation.html"
-    },
-    {
-      "title": "Seahawks rule Sam Darnold out for Week 2 - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rule-sam-darnold-out-for-week-2"
-    },
-    {
-      "title": "Alex Ovechkin, all-time NHL goal scorer, appears in ad supporting Vladimir Putin - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/alex-ovechkin-time-nhl-goal-scorer-appears-ad-supporting-vladimir-puti-rcna598173"
-    },
-    {
-      "title": "Ranking the Top 10 Quarterbacks in College Football Through Two Weeks - Sports Illustrated",
-      "link": "https://www.si.com/college-football/ranking-top-10-quarterbacks-through-two-weeks"
-    },
-    {
-      "title": "Vikings RB Jordan Mason put on IR after having surgery on thumb - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49959077/vikings-rb-jordan-mason-put-ir-having-surgery-thumb"
-    },
-    {
-      "title": "Kyler Murray will be a limited participant in Wednesday\u2019s practice - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-will-be-a-limited-participant-in-wednesdays-practice"
-    },
-    {
-      "title": "Joe Burrow dealing with injury ahead of Texans game but plans to play Sunday - Cincy Jungle",
-      "link": "https://www.cincyjungle.com/cincinnati-bengals-news/199130/joe-burrow-injury-update-qb-texans"
-    },
-    {
-      "title": "Eagles vs. Commanders: 14 winners, 5 losers, 5 IDKs - Bleeding Green Nation",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/182991/eagles-vs-commanders-14-winners-5-losers-5-idks"
-    },
-    {
-      "title": "ACC announces 2027 conference opponents amid move to 9 games - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/49958723/acc-announces-2027-conference-opponents-amid-move-9-games"
+      "title": "NFL QB rankings, Week 2: Caleb Williams, Lamar Jackson and Trevor Lawrence soar into top five - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-qb-rankings-index-week-2-2026-nfl-season"
     }
   ],
   "weather": {
