@@ -1,9 +1,9 @@
 {
-  "quote": "Just get out and do it. You will be very, very glad that you did. \u2013 Christopher McCandless",
-  "fact": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-  "crypto": "BTC: $80,957 | ETH: $2,612.29",
+  "quote": "Getting lost along your path is a part of finding the path you are meant to be on. \u2013 Robin Sharma",
+  "fact": "Rubber bands last longer when refrigerated. ",
+  "crypto": "BTC: $81,159 | ETH: $2,621.71",
   "tip": "Commit often with meaningful messages.",
-  "joke": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
+  "joke": "What do you call a boy who stopped digging holes? Douglas.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Diablo 5 Has Officially Been Confirmed For PC - Kotaku",
+      "link": "https://kotaku.com/diablo-5-pc-starcraft-xbox-confirmed-2000735382"
+    },
+    {
+      "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop' - Kotaku",
+      "link": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358"
+    },
+    {
+      "title": "Google announces new experimental \"CC\" AI agent for families - Ars Technica",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
+    },
+    {
+      "title": "15 Useful Tech Devices You Can Buy for Under $50 - Lifehacker",
+      "link": "https://lifehacker.com/tech/best-tech-devices-under-50-dollars"
+    },
+    {
       "title": "Wolverine Player Breaks Free Of Its Levels To Explore Its Larger, Unfinished World - Kotaku",
       "link": "https://kotaku.com/marvels-wolverine-open-world-level-bug-glitch-explore-2000735344"
     },
     {
-      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/"
+      "title": "Photographer Austin Mann reviews the iPhone 18 Pro camera - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/17/photographer-austin-mann-reviews-the-iphone-18-pro-camera/"
+    },
+    {
+      "title": "\u2018Halloween: The Game\u2019 Developers Tease What\u2019s Next\u2026 - Bloody Disgusting",
+      "link": "https://bloody-disgusting.com/video-games/3968083/halloween-the-game-developers-tease-whats-next/"
     },
     {
       "title": "Snap's Specs AR glasses are now on pre-order, Verizon is offering data plans for them - GSMArena.com news - GSMArena.com",
@@ -40,16 +60,12 @@
       "link": "https://news.xbox.com/en-us/2026/09/17/gears-of-war-e-day-gone-gold-pre-install-pc-specs/"
     },
     {
-      "title": "Android Bench 2.0 focuses on long-horizon tasks, agent evaluations - 9to5Google",
-      "link": "http://9to5google.com/2026/09/17/android-bench-2-0/"
-    },
-    {
       "title": "Xbox\u2019s clever disc-to-digital feature was 15 years in the making - The Verge",
       "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad"
     },
     {
-      "title": "Psikyo Memories announced for PS5, Switch 2 - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/psikyo-memories-announced-for-ps5-switch-2"
+      "title": "Dragon Slayer: The Legend of Heroes I & II announced for PS5, PS4, Switch, and PC - Gematsu",
+      "link": "https://www.gematsu.com/2026/09/dragon-slayer-the-legend-of-heroes-i-ii-announced-for-ps5-ps4-switch-and-pc"
     },
     {
       "title": "Celebrate Pok\u00e9ween with Play! Pok\u00e9mon Events - Pokemon.com",
@@ -60,114 +76,98 @@
       "link": "https://www.thestreet.com/retail/t-mobile-adds-monthly-fee-to-iphone-handoff-feature-for-customers"
     },
     {
-      "title": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn - Eurogamer.net",
-      "link": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season"
-    },
-    {
       "title": "Metroid Prime 4: Beyond On Switch Drops to $35 During Nintendo\u2019s Customer Appreciation Sale - IGN",
       "link": "https://www.ign.com/articles/metroid-prime-4-beyond-on-switch-drops-to-35-during-nintendos-customer-appreciation-sale"
     },
     {
-      "title": "Bungie Denies Rumor It Plans to Merge the Destiny and Marathon IPs - IGN",
-      "link": "https://www.ign.com/articles/bungie-denies-rumor-it-plans-to-merge-the-destiny-and-marathon-ips-confirms-marathon-december-and-march-2027-updates-are-free"
+      "title": "'Going With This Price Point Will Help Us Be an 'And' Game' \u2014 Valor Mortis Publisher Explains Decision to Go With $40 for Promising Soulslike Amid Fall Crush - IGN",
+      "link": "https://www.ign.com/articles/valor-mortis-costs-40-because-of-the-craziest-fall-in-the-history-of-this-business"
     },
     {
-      "title": "Introducing The Information\u2019s 50 Most Influential People in Tech - The Information",
-      "link": "https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech"
+      "title": "Pok\u00e9mon TCG's 30th Celebration Set Has Incredible Pull Rates, And It's Demolishing Resale Prices - Kotaku",
+      "link": "https://kotaku.com/pokemon-tgc-30th-celebration-set-pull-rates-rarity-rgb-mew-2000735250"
     },
     {
-      "title": "Bose Unveils $199 Sports Earbuds With Cuff-Shaped Wraparound Design - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/bose-unveils-199-bose-sport-open-earbuds-second-gen-ultra-open-earbuds"
-    },
-    {
-      "title": "Space Marines detachments \u2013 Salamanders, Raven Guard, and more - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/dhwqtqkc/space-marines-detachments-salamanders-raven-guard-and-more"
-    },
-    {
-      "title": "There's a New Ni no Kuni Game, Kind of, and It's Now Confirmed for PS5 - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/09/theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5"
-    },
-    {
-      "title": "Roku Adds 30 New Bundles To Premium Subscriptions, Offering Combos With AMC+, Fox One, Starz & More - Deadline",
-      "link": "http://deadline.com/2026/09/roku-adds-30-new-streaming-bundles-1237105830/"
+      "title": "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny - Eurogamer.net",
+      "link": "https://www.eurogamer.net/marathon-destiny-merger-bungie-response"
     }
   ],
   "sports_news": [
     {
-      "title": "Chargers didn't play up to 'vision' in loss, Mike McDaniel says - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49967540/chargers-offense-match-vision-mike-mcdaniel-says"
+      "title": "Thursday Night Football live updates: Bills vs Lions score, highlights, TV channel - USA Today",
+      "link": "https://www.usatoday.com/story/sports/nfl/2026/09/17/bills-lions-score-updates-highlights-thursday-night-football--live/91801907007/"
     },
     {
-      "title": "Phillies Claim Jos\u00e9 Urquidy - mlbtraderumors.com",
-      "link": "https://www.mlbtraderumors.com/2026/09/phillies-claim-jose-urquidy.html"
-    },
-    {
-      "title": "Ole Miss Staff Reportedly Doubts Lane Kiffin's LSU Is 'Sincere' with Sam Leavitt's Injury Report - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25500240-ole-miss-staff-reportedly-doubts-lane-kiffins-lsu-sincere-sam-leavitts-injury-report"
-    },
-    {
-      "title": "UNC Receiver Keeyun Chapman Suspended Following Arrest - 247Sports",
-      "link": "https://247sports.com/college/north-carolina/article/unc-receiver-keeyun-chapman-suspended-following-arrest-290043243/"
-    },
-    {
-      "title": "Texas Longhorns' co-defensive coordinator charged with DWI after Austin crash - KVUE",
-      "link": "https://www.kvue.com/article/sports/ncaa/longhorns/texas-johnny-nansen-arrest-dwi-longhorns-sark/269-6e98dd81-0d2d-4673-ac7e-f39e12617d2b"
-    },
-    {
-      "title": "Georgetown Basketball Great and DMV Native Mike Sweetney Passes Away - The MoCo Show -",
-      "link": "https://mocoshow.com/2026/09/17/georgetown-basketball-great-and-dmv-native-mike-sweetney-passes-away/"
-    },
-    {
-      "title": "Patriots' TreVeyon Henderson says he's 'ready to go' for Week 2 - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/49966375/patriots-treveyon-henderson-says-ready-go-week-2"
-    },
-    {
-      "title": "Texas coach Steve Sarkisian addresses postgame incident with Holly Rowe, Arch Manning's apology - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/steve-sarkisian-holly-rowe-espn-texas-arch-manning-apology/"
-    },
-    {
-      "title": "Ex-USWNT coach Andonovski named Chicago Stars soccer chief - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/49965805/vlatko-andonovski-chicago-stars-chief-soccer-officer-usa-women"
-    },
-    {
-      "title": "Bill Belichick Calls Out 'Ridiculous' Rumors on Jordon Hudson's Role with UNC Football Team - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25500390-bill-belichick-calls-out-ridiculous-rumors-jordon-hudsons-role-unc-football-team"
-    },
-    {
-      "title": "Fearless Forecasters: Our picks for Auburn vs. Florida - 247sports.com",
-      "link": "https://247sports.com/college/auburn/longformarticle/auburn-florida-prediction-picks-2026-290038157/"
-    },
-    {
-      "title": "Knicks pause ticket sales after error leads to higher prices - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/49966211/knicks-pause-ticket-sales-error-leads-higher-prices"
-    },
-    {
-      "title": "Joey Porter Jr. exits Thursday practice early with medical staff - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-exits-thursday-practice-early-with-medical-staff"
-    },
-    {
-      "title": "PFT\u2019s Week 2 2026 NFL picks - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-2-2026-nfl-picks"
-    },
-    {
-      "title": "Dylan Larkin on Red Wings trade request: 'Personal stuff' - Detroit Free Press",
-      "link": "https://www.freep.com/story/sports/nhl/red-wings/2026/09/17/dylan-larkin-detroit-red-wings-trade-request-captain/91790260007/"
-    },
-    {
-      "title": "Fantasy football rankings Week 2: Dave Richard makes tough decisions who to start, sit and flex - CBS Sports",
-      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-2-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/"
-    },
-    {
-      "title": "GM: 'Door open' for star goalie Hellebuyck to remain with Jets - ESPN",
-      "link": "https://www.espn.com/nhl/story/_/id/49965861/gm-door-open-star-goalie-hellebuyck-remain-jets"
-    },
-    {
-      "title": "UNC's Steve Belichick to resign; investigation finds 'a disregard for Carolina\u2019s values' - WRAL",
+      "title": "UNC's Steve Belichick to resign; investigation finds 'a disregard for Carolina\u2019s values' - wral.com",
       "link": "https://www.wral.com/sports/northcarolina-steve-belichick-resign-investigation-concludes-september-2026/"
     },
     {
-      "title": "Bucs assistant on Baker Mayfield's past with Browns: 'They had the guy and they gave him up' - NFL.com",
-      "link": "https://www.nfl.com/news/bucs-assistant-on-baker-mayfield-s-past-with-browns-they-had-the-guy-and-they-gave-him-up"
+      "title": "Bills WR DJ Moore questionable to return after injuring shoulder - nbcsports.com",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-wr-dj-moore-questionable-to-return-after-injuring-shoulder"
+    },
+    {
+      "title": "NCAA acknowledges Michigan Hail Mary vs WMU should not have happened - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/09/16/michigan-football-hail-mary-wmu-ncaa/91801676007/"
+    },
+    {
+      "title": "Young taken to hospital after scary collision with McLean - MLB.com",
+      "link": "https://www.mlb.com/news/jared-young-injured-in-collision-with-nolan-mclean"
+    },
+    {
+      "title": "Inside Scoop: 2026.27 Training Camp Begins - NHL.com",
+      "link": "https://www.nhl.com/penguins/news/inside-scoop-2026-27-training-camp-begins"
+    },
+    {
+      "title": "Hall of Fame announces its new group of voters - nbcsports.com",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-announces-its-new-group-of-voters"
+    },
+    {
+      "title": "Nico Collins (hamstring) not spotted at practice - nbcsports.com",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-17/nico-collins-hamstring-not-spotted-at-practice"
+    },
+    {
+      "title": "Browns Hit With Troubling Deshaun Watson Locker Room Report - Yahoo Sports",
+      "link": "https://heavy.com/sports/nfl/cleveland-browns/troubling-deshaun-watson-locker-room-report/"
+    },
+    {
+      "title": "Sophie Cunningham gives her \u2018hot take\u2019 on the Sydney Sweeney ad - Yahoo Sports",
+      "link": "https://www.hitc.com/sophie-cunningham-gives-her-hot-take-on-the-sydney-sweeney-ad/"
+    },
+    {
+      "title": "Zay Flowers (hamstring) absent again on Thursday - nbcsports.com",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-17/zay-flowers-hamstring-absent-again-on-thursday"
+    },
+    {
+      "title": "McConkey (ribs) working off to side Thursday - nbcsports.com",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-17/mcconkey-ribs-working-off-to-side-thursday"
+    },
+    {
+      "title": "Phillies Claim Jos\u00e9 Urquidy - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/phillies-claim-jose-urquidy.html"
+    },
+    {
+      "title": "Thursday Night Football: Bills DL Ed Oliver won\u2019t play after injuring hip in pregame - nbcsports.com",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bills-dl-ed-oliver-wont-play-after-injuring-hip-in-pregame"
+    },
+    {
+      "title": "Here\u2019s what\u2019s being banned from Ole Miss student section; Violators \u2018will be removed\u2019 - AL.com",
+      "link": "https://www.al.com/sec/2026/09/heres-whats-being-banned-from-ole-miss-student-section-violators-will-be-removed.html"
+    },
+    {
+      "title": "Lions Week 2 inactives: D.J. Reed WILL PLAY, Bills DT Ed Oliver OUT - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/173495/detroit-lions-inactives-buffalo-bills-injuries-dj-reed-ed-oliver"
+    },
+    {
+      "title": "Protect College Sports Act crosses another major hurdle, but House fight remains - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/article/protect-college-sports-act-crosses-another-major-hurdle-but-house-fight-remains-221425085.html"
+    },
+    {
+      "title": "'Just the beginning' - Samba, 17, steals Man City show - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cqr7d30p1vjmo"
+    },
+    {
+      "title": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 2 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-2-214100482.html"
     }
   ],
   "weather": {
