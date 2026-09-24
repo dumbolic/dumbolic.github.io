@@ -1,9 +1,9 @@
 {
-  "quote": "Hope and fear come from feeling that we lack something; they come from a sense of poverty. \u2013 Pema Chodron",
-  "fact": "It takes about 142.18 licks to reach the center of a Tootsie pop.",
-  "crypto": "BTC: $84,403 | ETH: $2,683.85",
+  "quote": "Those who attain the middle Dominate the whole. \u2013 Ming-Dao Deng",
+  "fact": "You can't kill yourself by holding your breath",
+  "crypto": "BTC: $84,351 | ETH: $2,686.04",
   "tip": "Commit often with meaningful messages.",
-  "joke": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
+  "joke": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,48 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Can Everybody In Fire Emblem: Fortune\u2019s Weave Please Shut The Hell Up A Little Bit? - Kotaku",
+      "link": "https://kotaku.com/fire-emblem-fortunes-weave-too-much-dialogue-tutorials-2000736807"
+    },
+    {
+      "title": "iOS 27.2: New features, release date, more - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/23/ios-27-2-new-features-release-date/"
+    },
+    {
+      "title": "Zuckerberg to unveil new AI products as Meta\u2019s Muse app tops charts - Financial Times",
+      "link": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6\\\\u003d1"
+    },
+    {
+      "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are - theverge.com",
+      "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"
+    },
+    {
+      "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more - The Verge",
+      "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"
+    },
+    {
+      "title": "Xbox\u2019s Mythic Achievements sound like PlayStation\u2019s Platinum trophy - The Verge",
+      "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature"
+    },
+    {
+      "title": "Xbox's Latest Merger Means 'Forza Motorsport' Is Almost Certainly Done - Jalopnik",
+      "link": "https://www.jalopnik.com/2266533/xbox-latest-merger-means-forza-motorsport-almost-certainly-done/"
+    },
+    {
       "title": "Dragon Age Director Finally Says What Fans Have Been Thinking For Years: The Fade Needs To Go - Kotaku",
       "link": "https://kotaku.com/dragon-age-origins-the-fade-mark-darrah-2000736731"
     },
     {
-      "title": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character? - Nintendo Life",
-      "link": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character"
+      "title": "YouTube Music gets more conversational with new AI features - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
+    },
+    {
+      "title": "\u2018Wolverine\u2019 Review (PS5): Sharp Claws That Dull In Time - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/09/23/wolverine-review-ps5-sharp-claws-that-dull-in-time/"
+    },
+    {
+      "title": "Marvel Rivals Has Suffered From Poor Balancing and Toxic Player Behaviour for Too Long \u2013 It\u2019s Time for an Intervention - ign.com",
+      "link": "https://www.ign.com/articles/marvel-rivals-needs-an-intervention"
     },
     {
       "title": "Next year\u2019s iPhone Pro models have \u2018near-borderless\u2019 design: report - 9to5mac.com",
@@ -28,150 +64,114 @@
       "link": "https://www.macrumors.com/2026/09/23/att-on-ios-27-iphone-handoff/"
     },
     {
+      "title": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/"
+    },
+    {
+      "title": "Discord's Controversial Age Checks Are Back: Here's What the Backlash Changed - PCMag UK",
+      "link": "https://uk.pcmag.com/security/167451/discords-controversial-age-checks-are-back-heres-what-the-backlash-changed"
+    },
+    {
+      "title": "Stellar Blade will let players turn off frame generation on Nintendo Switch 2 - Nintendo Everything",
+      "link": "https://nintendoeverything.com/stellar-blade-will-let-players-turn-off-frame-generation-on-nintendo-switch-2/"
+    },
+    {
       "title": "More Information About Bungie\u2019s \u2018Destiny 2\u2019 Content Unvaulting Plans - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2026/09/23/more-information-about-bungies-destiny-2-content-unvaulting-plans/"
+    },
+    {
+      "title": "Bethesda President Says Obsidian Will Retain \u2018Creative Identity\u2019 Despite Becoming Part Of Bethesda - Aftermath",
+      "link": "https://aftermath.site/xbox-bethesda-obsidian-fallout/"
     },
     {
       "title": "Spotify's is giving you the keys to its recommendation algorithm with US launch of 'Taste Profile' - TechCrunch",
       "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
     },
     {
-      "title": "Xiaomi\u2019s new 18 Pro phones improve on Samsung\u2019s privacy display - theverge.com",
-      "link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china"
-    },
-    {
-      "title": "PC version ControlResonant leaked a day before its official release. - GameGPU",
-      "link": "https://en.gamegpu.com/news/igry/pk-versiya-control-resonant-utekla-za-sutki-do-ofitsialnogo-reliza"
-    },
-    {
-      "title": "Unlocking Xbox's New Mythic Achievement Sounds Incredible, And Here's How It Might Work - Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/09/unlocking-xboxs-new-mythic-achievement-sounds-incredible-and-heres-how-it-might-work"
-    },
-    {
-      "title": "Tiny Violins At The Ready, Pok\u00e9mon Scalpers Are Upset About New Expansion's Profitability - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/09/tiny-violins-at-the-ready-pokemon-scalpers-are-upset-about-new-expansions-profitability"
-    },
-    {
-      "title": "Discord re-launches age verification following backlash over privacy concerns - GamesIndustry.biz",
-      "link": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns"
-    },
-    {
-      "title": "My Husband Wants Us to Hire His Brother for Our Business. Uh, What He Did to His Last Employer Landed Him in Jail. - Slate Magazine",
-      "link": "https://slate.com/advice/2026/09/family-advice-husband-small-business-hiring.html"
-    },
-    {
-      "title": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch - Eurogamer.net",
-      "link": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware - thehackernews.com",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
-    },
-    {
-      "title": "Wider One UI 9 rollout starts for the Galaxy S26 series - SamMobile",
-      "link": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-stable-wider-rollout/"
-    },
-    {
-      "title": "I put the iPhone 18 Pro Max vs. iPhone 17 Pro Max through a 7-round face-off \u2014 here\u2019s the winner - Tom's Guide",
-      "link": "https://www.tomsguide.com/phones/iphones/i-put-the-iphone-18-pro-max-vs-iphone-17-pro-max-through-a-7-round-face-off-heres-the-winner"
-    },
-    {
-      "title": "These 3 Major Upgrades Could Be Heading to Your Next Flagship Android Phone - CNET",
-      "link": "https://www.cnet.com/tech/mobile/qualcomm-snapdragon-8-elite-extreme-gen-6-upgrade-android-flagships/"
-    },
-    {
-      "title": "CS2 Chicken Egg Drops Spotted by Players on Reddit - Skin.Club Community",
-      "link": "https://community.skin.club/en/news/cs2-chicken-egg-drops-spotted-by-players-on-reddit"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Nintendo Switch 2 pre-order bonus guide - Nintendo Everything",
-      "link": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-pre-order-bonus-guide/"
-    },
-    {
-      "title": "Microsoft kills 35-year-old Office app Oct. 1 - thestreet.com",
-      "link": "https://www.thestreet.com/technology/microsoft-kills-35-year-old-office-app-publisher-oct-1"
+      "title": "Gears of War: E-Day gets Liquid Death collaboration in the US - trueachievements.com",
+      "link": "https://www.trueachievements.com/news/gears-of-war-e-day-liquid-death"
     }
   ],
   "sports_news": [
     {
-      "title": "Sources: Jaxson Dart to have season-ending knee surgery - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50013861/sources-jaxson-dart-season-ending-knee-surgery"
+      "title": "Mike Macdonald: I apologized to Sean Payton, comments weren\u2019t intended for public use - nbcsports.com",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-i-apologized-to-sean-payton-comments-werent-intended-for-public-use"
     },
     {
-      "title": "Packers unsure if Reed (neck) plays this season - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-22/packers-unsure-if-reed-neck-plays-this-season"
+      "title": "Seattle Seahawks place starting guard Anthony Bradford on injured reserve - Field Gulls",
+      "link": "https://www.fieldgulls.com/seattle-seahawks-injury-report/175502/seahawks-injury-update-anthony-bradford-injured-reserve-nfl-news"
     },
     {
-      "title": "Chris Spatola, ESPN college basketball analyst, dies suddenly at 47 - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/chris-spatola-espn-college-basketball-analyst-dies-suddenly-47-rcna599385"
+      "title": "Deion Sanders kicks players off team after blowout loss. Then came a public apology - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/09/22/deion-sanders-dismisses-players-colorado-football-northwestern-apology/91891641007/"
+    },
+    {
+      "title": "Five QB trades the Giants could make with Jaxson Dart out for season, including two with ties to John Harbaugh - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors-jaxson-dart-injury/"
+    },
+    {
+      "title": "Vikings RB Aaron Jones working through knee injury - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50014807/vikings-rb-aaron-jones-working-knee-injury"
+    },
+    {
+      "title": "Sources: Extension unlikely as Knicks, Karl-Anthony Towns talks stall - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/50014705/sources-knicks-karl-anthony-towns-contract-talks-standstill"
+    },
+    {
+      "title": "President Trump plans to attend Tennessee vs Texas football game in Knoxville - Knoxville News Sentinel",
+      "link": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2026/09/23/president-trump-attend-tennessee-vs-texas-football-game-knoxville-neyland-stadium/91308500007/"
+    },
+    {
+      "title": "Mets close to hiring former Twins president of baseball ops to front office role (sources) - MLB.com",
+      "link": "https://www.mlb.com/news/mets-derek-falvey-front-office-role"
+    },
+    {
+      "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Quarterbacks for Week 3 - NFL.com",
+      "link": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-quarterbacks-for-week-3"
+    },
+    {
+      "title": "Coen: Jags looking to get Hunter more involved - nbcsports.com",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-23/coen-jags-looking-to-get-hunter-more-involved"
+    },
+    {
+      "title": "Source: Red Sox and Cubs to play doubleheader Friday ahead of rainy weekend - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2026/09/23/sports/red-sox-cubs-weather-forecast/"
+    },
+    {
+      "title": "What is the Protect College Sports Act? What would the bill do? - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/50001346/protect-college-sports-act-truths-myths-congress"
+    },
+    {
+      "title": "With Jaxson Dart Out For The Year, Giants Should Ride The Jameis Winston Wave - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nfl/why-giants-should-ride-jameis-winston-wave-until-jaxson-dart-returns"
     },
     {
       "title": "Steelers-Bengals Broadcast Unavailable In Many TV Markets Across Country - Steelers Depot",
       "link": "https://steelersdepot.com/2026/09/steelers-bengals-broadcast-unavailable-in-many-tv-markets-across-country/"
     },
     {
-      "title": "2026 Trade Value Charts \u2014 Justin Boone's fantasy football wide receiver breakdown for Week 3 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/2026-trade-value-charts--justin-boones-fantasy-football-wide-receiver-breakdown-for-week-3-142746855.html"
+      "title": "Dan Quinn: Jayden Daniels seeing specialist today; Nick Cross OUT after surgery - Hogs Haven",
+      "link": "https://www.hogshaven.com/pressers/441400/dan-quinn-jayden-daniels-seeing-specialist-today-nick-cross-out-after-surgery"
     },
     {
-      "title": "Latest On NBA\u2019s Probe Into Bucks\u2019 Deal With Gary Trent Jr. - Hoops Rumors",
-      "link": "https://www.hoopsrumors.com/2026/09/latest-on-nbas-probe-into-bucks-deal-with-gary-trent-jr.html"
+      "title": "Deshaun Watson \"ready for support\" from Browns fans this weekend - nbcsports.com",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-ready-for-support-from-browns-fans-this-weekend"
     },
     {
-      "title": "Pro football is coming to Utah. UFL announces Utah franchise will begin play in 2028. - The Salt Lake Tribune",
-      "link": "https://www.sltrib.com/sports/2026/09/23/ufl-expansion-team-is-coming-utah/"
+      "title": "Antonio Brown avoids 30-year prison sentence for attempted murder by accepting 'an offer he couldn't refuse' - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/antonio-brown-avoids-30-year-prison-sentence-attempted-murder-accepting-offer-he-couldnt-refuse"
     },
     {
-      "title": "The Protect College Sports Act Reveals The Dark Heart Of Management - Defector",
-      "link": "https://defector.com/the-protect-college-sports-act-reveals-the-dark-heart-of-management"
+      "title": "Stephen Daley, Kellan Wyatt get injunction to play for Hoosiers - ESPN",
+      "link": "https://www.espn.com/college-football/story/_/id/50013970/stephen-daley-kellan-wyatt-get-injunction-play-hoosiers"
     },
     {
-      "title": "The 2024 Seahawks did indeed have one specific Michigan influence - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-2024-seahawks-did-indeed-have-one-specific-michigan-influence"
+      "title": "F1 drivers braced for 'super unnatural' challenge in Baku - The Race",
+      "link": "https://www.the-race.com/formula-1/f1-drivers-braced-for-super-unnatural-challenge-in-baku/"
     },
     {
-      "title": "College football odds, predictions: Texas vs. Tennessee, USC vs. Oregon fuel loaded Week 4 schedule - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-odds-predictions-week-4-texas-tennessee-usc-oregon/"
-    },
-    {
-      "title": "As NFL quarterbacks go down, here are some potential targets for teams in need - NFL.com",
-      "link": "https://www.nfl.com/news/as-nfl-quarterbacks-go-down-here-are-some-potential-targets-for-teams-in-need"
-    },
-    {
-      "title": "Week 3 NFL odds, picks, predictions: Computer model backs Lions and 49ers - CBS Sports",
-      "link": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-lines-spreads-week-3-2026/"
-    },
-    {
-      "title": "Ireland Going Ahead With Israel Matches Against Everybody\u2019s Wishes - Defector",
-      "link": "https://defector.com/ireland-going-ahead-with-israel-matches-against-everybodys-wishes"
-    },
-    {
-      "title": "Simone Biles says 3 masked men stole luxury sports car from Chicago-area home - abcnews.com",
-      "link": "https://abcnews.com/GMA/News/simone-biles-3-masked-men-stole-luxury-sports/story?id\\\\u003d136682772"
-    },
-    {
-      "title": "Penn State Football Assistant Coach Charged With DUI - StateCollege.com",
-      "link": "https://www.statecollege.com/articles/local-news/police-crime/penn-state-football-assistant-coach-charged-with-dui/"
-    },
-    {
-      "title": "Three five-stars, a top-five safety and a LB who loves Georgia: what Athens looks like Saturday - On3",
-      "link": "https://www.on3.com/rivals/news/three-five-stars-a-top-five-safety-and-a-lb-who-loves-georgia-what-athens-looks-like-saturday/"
-    },
-    {
-      "title": "Sources: Panthers RB Jonathon Brooks set for surgery, put on IR - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50012387/sources-panthers-rb-jonathon-brooks-set-surgery-ir-move"
-    },
-    {
-      "title": "George Kittle on 2-0 49ers' offense: It's 'a dream come true' - NFL.com",
-      "link": "https://www.nfl.com/news/george-kittle-on-2-0-49ers-offense-it-s-a-dream-come-true"
-    },
-    {
-      "title": "Rounding up the NFL's Week 2 injuries, and how they affect the Eagles - PhillyVoice",
-      "link": "https://www.phillyvoice.com/rounding-nfl-week-2-injuries-and-how-they-affect-eagles-jaxson-dart-caleb-williams-jayden-daniels-tyson-bagent/"
-    },
-    {
-      "title": "Full final 2026 regular-season grades for all 30 MLB teams - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/50006945/mlb-2026-full-season-final-grades-all-30-teams-brewers-rays-braves-dodgers-yankees"
+      "title": "Eagles-Bears preview: 5 things to watch - PhillyVoice",
+      "link": "https://www.phillyvoice.com/eagles-bears-preview-5-things-watch-2026-case-keenum-devonta-smith/"
     }
   ],
   "weather": {
