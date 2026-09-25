@@ -1,9 +1,9 @@
 {
-  "quote": "Life is the dancer and you are the dance. \u2013 Eckhart Tolle",
-  "fact": "The average American works 24,000 hours in their lifetime just to pay their taxes",
-  "crypto": "BTC: $85,170 | ETH: $2,736.55",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What do you call a pig with three eyes? Piiig",
+  "quote": "The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome. \u2013 Tony Robbins",
+  "fact": "The average chocolate bar has 8 insects' legs in it.",
+  "crypto": "BTC: $83,393 | ETH: $2,671.08",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "What do birds give out on Halloween? Tweets.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,16 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "10 Things I Wish I Knew When I Started \u2018Control Resonant\u2019 - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/09/24/10-things-i-wish-i-knew-when-i-started-control-resonant/"
+    },
+    {
       "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Review (Switch 2) - Nintendo Life",
       "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition"
+    },
+    {
+      "title": "Digital Foundry: Fire Emblem Fortune\u2019s Weave is 720p docked, 540p handheld and 30fps, but uses DLSS - My Nintendo News",
+      "link": "https://mynintendonews.com/2026/09/24/digital-foundry-fire-emblem-fortunes-weave-is-720p-docked-540p-handheld-and-30-fps-but-uses-dlss/"
     },
     {
       "title": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users - Nintendo Life",
@@ -36,12 +44,24 @@
       "link": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/"
     },
     {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
+    },
+    {
+      "title": "Snap Specs Hands-On: Minimum Viable Consumer True AR Glasses - UploadVR",
+      "link": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/"
+    },
+    {
       "title": "Nikon unveils Z5IIC camera, aimed at making photography less intimidating - mashable.com",
       "link": "https://mashable.com/tech/nikon-z5iic-announced-scene-mode-fish"
     },
     {
       "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - CNBC",
       "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html"
+    },
+    {
+      "title": "Phoenix Wright Ace Attorney: Dual Destinies VR Announced For Meta VR Glasses & Quest - UploadVR",
+      "link": "https://www.uploadvr.com/phoenix-wright-ace-attorney-dual-destinies-vr-announced-for-meta-vr-glasses-quest/"
     },
     {
       "title": "Verizon\u2019s Pixel 11 Pro Deal Drops $620 Off With No Trickery - droid-life.com",
@@ -52,24 +72,16 @@
       "link": "https://www.ign.com/articles/double-fine-founder-tim-schafer-questions-economics-of-the-game-industry-amid-mass-layoffs-and-studio-closures"
     },
     {
-      "title": "The iPhone 4 \u2018Antennagate\u2019 Press Conference Q&A \u2014 Finally - Daring Fireball",
-      "link": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a"
-    },
-    {
       "title": "Microsoft is killing an Office app you\u2019ve used for decades - thestreet.com",
       "link": "https://www.thestreet.com/technology/microsoft-kills-35-year-old-office-app-publisher-oct-1"
     },
     {
-      "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming Laptop Deals - IGN",
-      "link": "https://www.ign.com/articles/the-walmart-geforce-week-sale-has-black-friday-worthy-gaming-laptop-deals"
+      "title": "Apple\u2019s ChatGPT tools \u2018dramatically underperformed\u2019, OpenAI claims - Financial Times",
+      "link": "https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6\\\\u003d1"
     },
     {
       "title": "iPhone 18 Pro vs. iPhone Duo: Comparing Apple\u2019s New Pro Phone Against Its First Foldable - CNET",
       "link": "https://www.cnet.com/tech/mobile/apple-iphone-18-pro-vs-iphone-duo/"
-    },
-    {
-      "title": "iPhone 18 Pro Review: The Best Camera Smartphone Of 2026 - bgr.com",
-      "link": "https://www.bgr.com/2267077/iphone-18-pro-review/"
     },
     {
       "title": "The First Ace Combat Game In Seven Years Is Playing For Keeps - Kotaku",
@@ -78,32 +90,56 @@
     {
       "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus - The Verge",
       "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
-    },
-    {
-      "title": "13 Cool Tractor Supply Gadgets You Might Not Realize Exist - slashgear.com",
-      "link": "https://www.slashgear.com/2261948/cool-lesser-known-tractor-supply-gadgets/"
-    },
-    {
-      "title": "This $630 Scratch-Resistant Adventure Watch Leans on Classic Omega Vibes - Gear Patrol",
-      "link": "https://www.gearpatrol.com/watches/heron-continental-launch/"
     }
   ],
   "sports_news": [
     {
-      "title": "Fury vs Joshua: Cardiff to host heavyweight fight on 11 December - BBC",
-      "link": "https://www.bbc.com/sport/boxing/articles/c89n188d53no"
+      "title": "Week 3 NFL straight up, against the spread, and survivor pool picks - PhillyVoice",
+      "link": "https://www.phillyvoice.com/week-3-nfl-straight-against-spread-and-survivor-pool-picks-2026/"
     },
     {
-      "title": "As expected, media mocks Jaxson Dart injury because he dared to introduce Trump on stage - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/expected-media-mocks-jaxson-dart-injury-because-he-dared-introduce-trump-stage"
+      "title": "Aaron Judge Calls Out Yankees' Aaron Boone For Comments on Injury, Status for 2026 MLB Playoffs - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25502551-aaron-judge-calls-out-yankees-aaron-boone-comments-injury-status-2026-mlb-playoffs"
+    },
+    {
+      "title": "Gregg Popovich shocks NBA world with marriage to former assistant Mike Budenholzer's ex-wife - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/gregg-popovich-shocks-nba-world-marriage-former-assistant-mike-budenholzers-ex-wife"
+    },
+    {
+      "title": "Fury vs Joshua: Cardiff to host heavyweight fight on 11 December - BBC",
+      "link": "https://www.bbc.com/sport/boxing/articles/c89n188d53no"
     },
     {
       "title": "NBA Rank 2026: The new top 10 features a razor-thin race for No. 1 - ESPN",
       "link": "https://www.espn.com/nba/story/_/id/50015167/nba-rank-2026-players-10-1-featuring-wembanyama-sga-jokic-brunson-luka-more"
     },
     {
+      "title": "Former NC State sports medicine director arrested in Florida, facing dozens of sexual abuse charges - WRAL",
+      "link": "https://www.wral.com/news/local/former-nc-state-sports-medicine-director-arrested-florida-sexual-abuse-september-2026/"
+    },
+    {
       "title": "Ranking eight winless NFL teams: Texans, Bucs, others at 0-2 - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/50006560/ranking-winless-two-loss-teams-playoffs-barnwell-2026"
+    },
+    {
+      "title": "Ben Rice tops Aaron Boone's preseason prediction, passes 40 HRs - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/50018839/ben-rice-tops-aaron-boone-preseason-prediction-passes-40-hrs"
+    },
+    {
+      "title": "Tennessee issues warning ahead of President Trump\u2019s attendance at Texas game - Yahoo Sports",
+      "link": "https://thecomeback.com/college-football/tennessee-issues-warning-ahead-of-president-trumps-attendance-at-texas-game.html"
+    },
+    {
+      "title": "Matt Verderame\u2019s Notes: Patrick Mahomes\u2019s Resurgence Among Best Storylines for NFL Week 3 - Sports Illustrated",
+      "link": "https://www.si.com/nfl/matt-verderame-notes-patrick-mahomes-resurgence-among-best-storylines-week-3"
+    },
+    {
+      "title": "Northwestern Reveals Concession Menu Items, Prices at New $875M Stadium Set for Debut vs. Penn State - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25502477-northwestern-reveals-concession-menu-items-prices-new-875m-stadium-set-debut-vs-penn-state"
+    },
+    {
+      "title": "Kurt Warner: I played through a dislocated left elbow, Jayden Daniels can if he wants to - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kurt-warner-i-played-through-a-dislocated-left-elbow-jayden-daniels-can-if-he-wants-to"
     },
     {
       "title": "Longtime Lakers public address announcer Lawrence Tanter dies - ESPN",
@@ -114,36 +150,20 @@
       "link": "https://www.sounderatheart.com/2026/09/sounders-vs-rsl-recap-3/"
     },
     {
+      "title": "Atlanta Braves News: Ronald Acuna injury update, Robert Suarez returns, more - Battery Power",
+      "link": "https://www.batterypower.com/atlanta-braves-news/140224/atlanta-braves-news-ronald-acuna-injury-update-robert-suarez-returns-more"
+    },
+    {
       "title": "UFC BJJ 11 Results: Musumeci vs. Mitchell - MMA Fighting",
       "link": "https://www.mmafighting.com/ufc/512181/ufc-bjj-11-results-musumeci-vs-mitchell"
     },
     {
-      "title": "Ex-NC State sports medicine director arrested after indictment - ESPN",
-      "link": "https://www.espn.com/college-sports/story/_/id/50017566/ex-nc-state-sports-medicine-director-arrested-indictment"
+      "title": "Angel Reese injury update: What we know as Dream star exits early after being hit in face - USA Today",
+      "link": "https://www.usatoday.com/story/sports/wnba/dream/2026/09/23/angel-reese-injury-update-dream-liberty-flagrant-foul-sabrina-ionescu/91914708007/"
     },
     {
       "title": "Enhanced Box Score: Marlins 3, Cubs 2 \u2014 September 23, 2026 - Bleacher Nation",
       "link": "https://www.bleachernation.com/cubs/2026/09/23/enhanced-box-score-marlins-3-cubs-2-september-23-2026/"
-    },
-    {
-      "title": "Gregg Popovich marries ex-wife of his former longtime Spurs assistant coach - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/gregg-popovich-wife-spurs-assistant-coach-mike-budenholzer/"
-    },
-    {
-      "title": "WNBA to Announce Punishment Decision After Angel Reese Incident - Athlon Sports",
-      "link": "https://athlonsports.com/wnba/punishment-decision-angel-reese-sabrina-ionescu-flagrant-dream-liberty"
-    },
-    {
-      "title": "Packers Wire staff predictions: Week 3 vs. Falcons - Packers Wire",
-      "link": "https://packerswire.usatoday.com/story/sports/nfl/packers/2026/09/23/packers-wire-staff-predictions-week-3-vs-falcons/91913855007/"
-    },
-    {
-      "title": "Jacoby Brissett: No one has lost confidence in Marvin Harrison Jr. - nbcsports.com",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-no-one-has-lost-confidence-in-marvin-harrison-jr"
-    },
-    {
-      "title": "Antonio Brown plans to take plea deal in attempted murder case - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/antonio-brown-plans-to-take-plea-deal-in-attempted-murder-case"
     },
     {
       "title": "Darrell Waltrip diagnosed with frontotemporal degeneration, stepping away from limelight - USA Today",
@@ -152,22 +172,6 @@
     {
       "title": "Jenkintown ends varsity football season due to player safety concerns: Officials - NBC10 Philadelphia",
       "link": "https://www.nbcphiladelphia.com/news/local/jenkintown-ends-varsity-football-season-due-to-player-safety-concerns-officials/4468328/"
-    },
-    {
-      "title": "Mike Tomlin Explains Where He Would Begin Fixing Steelers\u2019 Offense - Steelers Depot",
-      "link": "https://steelersdepot.com/2026/09/mike-tomlin-explains-where-he-would-begin-fixing-steelers-offense/"
-    },
-    {
-      "title": "Blue Jays succumb to baseball's chaos, eliminated from postseason contention - MLB.com",
-      "link": "https://www.mlb.com/news/blue-jays-eliminated-from-2026-postseason-contention"
-    },
-    {
-      "title": "Sources on extension talks between Karl-Anthony Towns and Knicks - SNY",
-      "link": "https://sny.tv/articles/sources-extension-talks-between-karl-anthony-towns-knicks"
-    },
-    {
-      "title": "Dan Quinn: Jayden Daniels seeing specialist; Nick Cross OUT vs. Seattle - Hogs Haven",
-      "link": "https://www.hogshaven.com/pressers/441400/dan-quinn-jayden-daniels-seeing-specialist-today-nick-cross-out-after-surgery"
     }
   ],
   "weather": {
