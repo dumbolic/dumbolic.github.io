@@ -1,9 +1,9 @@
 {
-  "quote": "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. \u2013 Sun Tzu",
-  "fact": "It takes about 142.18 licks to reach the center of a Tootsie pop.",
-  "crypto": "BTC: $84,021 | ETH: $2,683.08",
-  "tip": "Keep your software dependencies updated.",
-  "joke": "What type of music do balloons hate? Pop music!",
+  "quote": "If what you're doing is not your passion, you have nothing to lose. \u2013 Celestine Chua",
+  "fact": "The Michelin man is known as Mr. Bib. His name was Bibendum in the company\u2019s first ads in 1896.",
+  "crypto": "BTC: $84,255 | ETH: $2,687.38",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What do you call an Argentinian with a rubber toe? Roberto",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,20 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google ads caught delivering convincing scareware ads to unsuspecting users - Ars Technica",
+      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/"
+    },
+    {
+      "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/"
+    },
+    {
       "title": "Cover Reveal \u2013 Grand Theft Auto VI - Game Informer",
       "link": "https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi"
     },
     {
-      "title": "watchOS 27 upgrades popular Apple Watch face with new options - 9to5Mac",
-      "link": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/"
+      "title": "T-Mobile quietly plans new perks to keep customers from switching - thestreet.com",
+      "link": "https://www.thestreet.com/retail/t-mobile-quietly-plans-eight-new-free-perks-for-customers"
     },
     {
       "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder - Kotaku",
@@ -28,6 +36,14 @@
       "link": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k"
     },
     {
+      "title": "Resident Evil Requiem Analysis Shows 8.6% of Sales Were on Xbox - IGN",
+      "link": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam"
+    },
+    {
+      "title": "Tesla patent shows new Roadster with a hidden 700 kg-downforce rear wing - Electrek",
+      "link": "http://electrek.co/2026/09/25/tesla-patent-new-roadster-hidden-active-rear-wing-700-kg-downforce/"
+    },
+    {
       "title": "Google Messages rolls out new swipe for timestamps & reply gesture - 9to5Google",
       "link": "http://9to5google.com/2026/09/25/google-messages-timestamps-reply/"
     },
@@ -36,20 +52,20 @@
       "link": "https://kotaku.com/ace-combat-8-wings-of-thieve-review-roundup-2000737168"
     },
     {
+      "title": "Nintendo Switch 2 Sale Goes Live at Woot \u2014 Here's How to Get an Extra 30% Off Today - IGN",
+      "link": "https://www.ign.com/articles/woots-fall-in-love-with-video-games-sale-early-prime-day-deals"
+    },
+    {
       "title": "After seven years, a spacecraft company is releasing its Otters into the wild - Ars Technica",
       "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/"
     },
     {
+      "title": "Microsoft quietly ending \u2018Copilot+ PC\u2019 branding for Windows laptops - 9to5Google",
+      "link": "http://9to5google.com/2026/09/25/microsoft-quietly-ending-copilot-pc-branding-for-windows-laptops/"
+    },
+    {
       "title": "15 early October Prime Day tech deals, hand-picked by our gadget experts - Mashable",
       "link": "https://mashable.com/tech/best-early-amazon-october-prime-day-tech-deals-2026"
-    },
-    {
-      "title": "Exclusive: First Look at HomePod Mini 2 in Three New Colors - MacRumors",
-      "link": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/"
-    },
-    {
-      "title": "A Delivery Worker Followed the Upper West Side Stabbing Suspect Home, and Got an Unexpected Goodbye - iLovetheUpperWestSide.com",
-      "link": "https://www.ilovetheupperwestside.com/a-delivery-worker-followed-the-upper-west-side-stabbing-suspect-home-and-got-an-unexpected-goodbye/"
     },
     {
       "title": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off - Nintendo Life",
@@ -70,28 +86,40 @@
     {
       "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
       "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
-    },
-    {
-      "title": "Microsoft warns against disabling Windows legacy feature that can unlock huge performance - Neowin",
-      "link": "https://www.neowin.net/news/microsoft-warns-against-disabling-windows-legacy-feature-that-can-unlock-huge-performance/"
-    },
-    {
-      "title": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible - Eurogamer.net",
-      "link": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding"
-    },
-    {
-      "title": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary"
-    },
-    {
-      "title": "New army rules from Codex: Adeptus Custodes - warhammer-community.com",
-      "link": "https://www.warhammer-community.com/articles/vygelghy/new-army-rules-from-codex-adeptus-custodes"
     }
   ],
   "sports_news": [
     {
+      "title": "Raiders list Brock Bowers questionable for Week 3 - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-25/raiders-list-brock-bowers-questionable-for-week-3"
+    },
+    {
+      "title": "JC Tretter: Field condition in Brazil \"reinforces\" NFLPA concerns about international games - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jc-tretter-field-condition-in-brazil-reinforces-nflpa-concerns-about-international-games"
+    },
+    {
+      "title": "\u2018Where The Hell\u2019s My Left Tackle?\u2019: Jon Gruden Can\u2019t Understand Steelers\u2019 OL Plan - Steelers Depot",
+      "link": "https://steelersdepot.com/2026/09/where-the-hells-my-left-tackle-jon-gruden-cant-understand-steelers-ol-plan/"
+    },
+    {
+      "title": "Rams' Puka Nacua doubtful for Broncos game, expected to return in Week 4 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/rams-puka-nacua-doubtful-for-broncos-game-expected-to-return-in-week-4-145255371.html"
+    },
+    {
       "title": "Jalen Coker (ankle) questionable vs. Browns - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-25/jalen-coker-ankle-questionable-vs-browns"
+    },
+    {
+      "title": "Presidents Cup Friday live scores, updates: Scottie Scheffler, Sam Burns again leading U.S. team in foursomes matches at Medinah - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-friday-live-scores-updates-scottie-scheffler-sam-burns-again-leading-us-team-in-foursomes-matches-at-medinah-173239386.html"
+    },
+    {
+      "title": "Former voice of the Sonics gets a new NBA broadcasting job - The Seattle Times",
+      "link": "https://www.seattletimes.com/sports/sonics/former-sonics-broadcaster-kevin-calabro-to-join-timberwolves/"
+    },
+    {
+      "title": "49ers\u2019 Nick Bosa out multiple weeks with calf injury, adding to \u2018horror show\u2019 of D-line attrition - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/49ers/article/49ers-nick-bosa-multiple-weeks-calf-injury-22449026.php"
     },
     {
       "title": "Packers tight end Tucker Kraft hears boos from Lambeau Field fans and offers tone deaf response - Fox News",
@@ -102,10 +130,6 @@
       "link": "https://www.bbc.com/sport/formula1/articles/cqd0885k3d28o"
     },
     {
-      "title": "MLB Playoff Picture 2026 and Predictions for Final Postseason Bracket - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25502715-mlb-playoff-picture-2026-and-predictions-final-postseason-bracket"
-    },
-    {
       "title": "Jets' No. 1 TE Mason Taylor (thumb) out vs. high-scoring Lions - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/50027962/jets-no-1-te-mason-taylor-thumb-vs-high-scoring-lions"
     },
@@ -114,28 +138,24 @@
       "link": "https://www.nbcnews.com/sports/nfl/49ers-kyle-juszczyk-fined-nearly-15k-nfl-says-pretended-chug-beer-fiel-rcna599683"
     },
     {
-      "title": "Report: Nick Bosa out for a few weeks with pulled calf - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-nick-bosa-out-for-a-few-weeks-with-pulled-calf"
+      "title": "Inbox: This team\u2019s in a tough spot - Green Bay Packers \u2013 packers.com",
+      "link": "https://www.packers.com/news/inbox-this-team-s-in-a-tough-spot-sept-25-2026"
     },
     {
       "title": "Exclusive | Jaxson Dart getting early surgery as he shoots for Patrick Mahomes-like return - New York Post",
       "link": "https://nypost.com/2026/09/25/sports/jaxson-dart-getting-early-surgery-as-he-shoots-for-patrick-mahomes-like-return/"
     },
     {
-      "title": "KSL Sports Pick'em: Staff picks for Week 4 of college football - KSL.com",
-      "link": "https://www.ksl.com/article/51628456/ksl-sports-pickem-staff-picks-for-week-4-of-college-football"
-    },
-    {
-      "title": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 3 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-3-193541436.html"
+      "title": "3 things to watch at Knicks training camp, including Karl-Anthony Towns extension talks - SNY",
+      "link": "https://sny.tv/articles/3-things-to-watch-knicks-training-camp-karl-anthony-towns-extension"
     },
     {
       "title": "Fantasy Football Week 3 Start 'Em Sit 'Em: Justin Boone's lineup advice - Yahoo Sports",
       "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-3-start-em-sit-em-justin-boones-lineup-advice-145043310.html"
     },
     {
-      "title": "Work continues on field for Ravens-Cowboys - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/work-continues-on-field-for-ravens-cowboys"
+      "title": "College Football Predictions: McMurphy's best Week 4 trades - On3",
+      "link": "https://www.on3.com/pro/news/college-football-predictions-mcmurphys-best-week-4-trades/"
     },
     {
       "title": "10 bold fantasy hockey predictions for 2026-27 - Daily Faceoff",
@@ -144,26 +164,6 @@
     {
       "title": "Week 3 NFL odds, picks, predictions: Computer model backs Lions and 49ers - CBS Sports",
       "link": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-lines-spreads-best-bets-week-3-2026/"
-    },
-    {
-      "title": "Five-star forward Moussa Kamissoko commits to Syracuse - ESPN",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/50027443/five-star-forward-moussa-kamissoko-commits-syracuse"
-    },
-    {
-      "title": "WNBA playoffs 2026: Matchups, bracket, full schedule and how to watch - Yahoo Sports",
-      "link": "https://sports.yahoo.com/wnba/breaking-news/article/wnba-playoffs-2026-matchups-bracket-full-schedule-and-how-to-watch-141426723.html"
-    },
-    {
-      "title": "Lions vs. Jets predictions: 4 keys to victory in Week 3 - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-gambling-odds/174380/lions-vs-jets-predictions-week-3-picks"
-    },
-    {
-      "title": "Oregon's look for USC trip tops best uniforms of college football Week 4 - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50023373/college-football-best-uniforms-week-4-oregon"
-    },
-    {
-      "title": "Drake London welcomes back Penix with 9-194 line - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-24/drake-london-welcomes-back-penix-with-9-194-line"
     }
   ],
   "weather": {
