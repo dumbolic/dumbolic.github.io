@@ -1,9 +1,9 @@
 {
-  "quote": "There are no shortcuts to any place worth going. \u2013 Beverly Sills",
-  "fact": "It's against the law to burp, or sneeze in a church in Nebraska, USA.",
-  "crypto": "BTC: $83,581 | ETH: $2,681.01",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "We all know where the Big Apple is but does anyone know where the Minneapolis?",
+  "quote": "To lead the people, walk behind them. \u2013 Lao Tzu",
+  "fact": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.\u00a0 He died at 13 minutes from midnight on Friday the 13th.",
+  "crypto": "BTC: $83,192 | ETH: $2,672.77",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why did the half blind man fall in the well? Because he couldn't see that well!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,166 +12,158 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "AEW's Brian Cage Defends PED Use - Wrestling Inc.",
+      "link": "https://www.wrestlinginc.com/2264455/aew-brian-cage-defends-ped-use/"
+    },
+    {
+      "title": "Linux project gets a new name because not many people knew about it - Neowin",
+      "link": "https://www.neowin.net/news/linux-project-gets-a-new-name-because-not-many-people-knew-about-it/"
+    },
+    {
+      "title": "Experimental Emulator Brings Nintendo Switch Games to Jailbroken PS5 Consoles - TechPowerUp",
+      "link": "https://www.techpowerup.com/353135/experimental-emulator-brings-nintendo-switch-games-to-jailbroken-ps5-consoles"
+    },
+    {
+      "title": "Here Are All Fortnite\u2019s \u2018Five Nights At Freddy\u2019s\u2019 Skins, Plus A Release Date - Forbes",
+      "link": "https://www.forbes.com/sites/paultassi/2026/09/27/here-are-all-fortnites-five-nights-at-freddys-skins-plus-a-release-date/"
+    },
+    {
+      "title": "Instagram has a new feature that\u2019s bad news for creepers \u2014 and it\u2019s got people vowing to quit the app - New York Post",
+      "link": "https://nypost.com/2026/09/27/lifestyle/instagrams-new-3-99-plus-subscription-slammed-as-a-new-low-that-lets-users-torture-themselves/"
+    },
+    {
+      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro - MacRumors",
+      "link": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/"
+    },
+    {
       "title": "Users find a default, mandatory Windows feature freezes your PC when you use internet - neowin.net",
       "link": "https://www.neowin.net/news/users-find-a-default-mandatory-windows-feature-freezes-your-pc-when-you-use-internet/"
     },
     {
-      "title": "Meta\u2019s VR Glasses Are What the Apple Vision Pro Should Have Been - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6"
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises - TechCrunch",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
+    },
+    {
+      "title": "Report: Apple working on new Vision Pro, with different form factors on the table - 9to5mac.com",
+      "link": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/"
+    },
+    {
+      "title": "No, Xbox isn't actually paying $400 million for Hideo Kojima's Physint, reports say - Eurogamer.net",
+      "link": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million"
+    },
+    {
+      "title": "Modder Squeezes 74% More Performance Out of DLSS 5 on AMD Radeon in One Day - TechPowerUp",
+      "link": "https://www.techpowerup.com/353131/modder-squeezes-74-more-performance-out-of-dlss-5-on-amd-radeon-in-one-day"
+    },
+    {
+      "title": "Walmart\u2019s Vintage-Inspired Table Lamp Adds a \u2018Timeless Touch of Character\u2019 to Any Room - dengarden.com",
+      "link": "https://dengarden.com/shopping/walmart-xiaojuande-vintage-ceramic-table-lamp"
+    },
+    {
+      "title": "Microsoft shares new Edge tools to fill key performance gaps to improve slow web apps - neowin.net",
+      "link": "https://www.neowin.net/news/microsoft-shares-new-edge-tools-to-fill-key-performance-gaps-to-improve-slow-web-apps/"
     },
     {
       "title": "How much should you actually tip on a 'free' walking tour? - BBC",
       "link": "https://www.bbc.com/travel/article/20260924-how-much-should-you-actually-pay-on-a-free-walking-tour"
     },
     {
+      "title": "Google Pixel can use Tensor as long as it wants; it\u2019s all the other specs I\u2019m jealous of - 9to5Google",
+      "link": "http://9to5google.com/2026/09/27/google-pixel-tensor-snapdragon-mediatek-newsletter/"
+    },
+    {
       "title": "Googlebooks might be the real deal - The Verge",
       "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse"
     },
     {
-      "title": "25+ Of The Best Discounted Games From Xbox's Open World Sale - purexbox.com",
-      "link": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-open-world-sale"
+      "title": "13 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-9-27-26/"
     },
     {
       "title": "Terrell Williams is back with the Patriots after beating prostate cancer. He has a message for everyone. - The Boston Globe",
       "link": "https://www.bostonglobe.com/2026/09/27/sports/patriots-terrell-williams-prostate-cancer/"
-    },
-    {
-      "title": "Today\u2019s NYT Strands Hints, Spangram, Answers: Sunday, September 27 (It\u2019s Skin Deep) - forbes.com",
-      "link": "https://www.forbes.com/sites/paultassi/2026/09/26/todays-nyt-strands-hints-spangram-answers-sunday-september-20-its-skin-deep/"
-    },
-    {
-      "title": "Microsoft CEO Says Xbox's \"Streamlining\" Is \"Great To See\" Following Recent Layoffs - techpowerup.com",
-      "link": "https://www.techpowerup.com/353123/microsoft-ceo-says-xboxs-streamlining-is-great-to-see-following-recent-layoffs"
-    },
-    {
-      "title": "Video shows a southpaw using the iPhone Duo with one hand - phonearena.com",
-      "link": "https://www.phonearena.com/news/iphone-duo-used-left-handed-in-video_id183618"
-    },
-    {
-      "title": "Silent Hill: Townfall compared on RTX 5080 and PS5 Pro with DLSS 4.5 and PSSR 2 in 4K - GameGPU",
-      "link": "https://en.gamegpu.com/news/igry/silent-hill-townfall-sravnili-na-rtx-5080-i-ps5-pro-s-dlss-4-5-i-pssr-2-v-4k"
-    },
-    {
-      "title": "Sony may reconsider plans to phase out physical discs for PlayStation. - GameGPU",
-      "link": "https://en.gamegpu.com/news/zhelezo/kompaniya-sony-mozhet-peresmotret-plany-po-otkazu-ot-fizicheskikh-diskov-dlya-playstation"
-    },
-    {
-      "title": "World Market's 'Beautifully Crafted' Stoneware Dinner Plate Is 'Perfect for Your Thanksgiving Table' - Dengarden",
-      "link": "https://dengarden.com/shopping/world-market-willow-embossed-dinner-plate"
-    },
-    {
-      "title": "Deals: Galaxy Z Fold7 vs. Galaxy Z Fold8 and Z Fold8 Ultra, plus Galaxy S26 FE alternatives - GSMArena.com news - GSMArena.com",
-      "link": "https://www.gsmarena.com/deals_galaxy_z_fold7_vs_galaxy_z_fold8_and_z_fold8_ultra_plus_galaxy_s26_fe_alternatives-news-74767.php"
-    },
-    {
-      "title": "Forget The Next MacBook Pro, Apple Has Something Much More Desirable - Forbes",
-      "link": "https://www.forbes.com/sites/ewanspence/2026/09/26/macbook-ultra-oled-touchscreen-pricing-strategy/"
-    },
-    {
-      "title": "Minecraft Dungeons II\u2019s New Dimension Coming to Minecraft Java & Bedrock Edition - news.xbox.com",
-      "link": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/"
-    },
-    {
-      "title": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint"
-    },
-    {
-      "title": "Ace Combat 8 \u200b\u200bWings of Theve requires at least 32GB of RAM to play comfortably. - GameGPU",
-      "link": "https://en.gamegpu.com/news/igry/ace-combat-8-wings-of-theve-trebuet-minimum-32-gb-ozu-dlya-komfortnoj-igry"
-    },
-    {
-      "title": "The Witcher 3 Remastered Download Size, Global Release Times and Review Embargo Lift Dates Revealed - MP1st",
-      "link": "https://mp1st.com/news/the-witcher-3-remastered-download-size-global-release-times-review-embargo-lift-dates"
-    },
-    {
-      "title": "Insomniac lets players turn off the dreaded \"fart trail\" from Marvel's Wolverine - A.V. Club",
-      "link": "https://www.avclub.com/insomniac-toggle-off-feature-update-marvels-wolverine-fart-gas"
-    },
-    {
-      "title": "Behold the horrors of DLSS 5, NVidia's real-time AI graphics improver - Boing Boing",
-      "link": "https://boingboing.net/2026/09/26/behold-the-horrors-of-dlss-5-nvidias-real-time-ai-graphics-improver.html"
     }
   ],
   "sports_news": [
     {
-      "title": "Oregon coach Dan Lanning blasts \"disgusting play\" by USC that injured Dante Moore - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/oregon-coach-dan-lanning-blasts-disgusting-play-by-usc-that-injured-dante-moore"
+      "title": "Presidents Cup Sunday results: U.S. clinches victory with huge rally - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-sunday-results-us-clinches-victory-with-huge-rally-145731096.html"
     },
     {
-      "title": "DJ Moore will play for the Bills on Sunday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dj-moore-will-play-for-the-bills-on-sunday"
+      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
     },
     {
-      "title": "Lions Week 3 Inactives: Devin White, Tyler Conklin won\u2019t play vs. Jets - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-injuries/174615/detroit-lions-week-3-inactives-devin-white-tyler-conklin-vs-jets"
+      "title": "Mike Evans injury update as 49ers WR exits Week 3 game vs Cardinals - USA Today",
+      "link": "https://www.usatoday.com/story/sports/nfl/49ers/2026/09/27/mike-evans-injury-update-49ers/91977313007/"
     },
     {
-      "title": "Manchester City charges: What punishment could club face after Premier League verdict and will they appeal? - bbc.com",
-      "link": "https://www.bbc.com/sport/football/articles/cw3d77ne44k5o"
+      "title": "South Carolina suspends Dylan Stewart indefinitely - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/south-carolina-suspends-dylan-stewart-indefinitely"
     },
     {
-      "title": "Billie Jean King Cup: Czech Republic thrash Ukraine to win 12th title - bbc.com",
-      "link": "https://www.bbc.com/sport/tennis/articles/cqdj4vgxn1g1o"
+      "title": "Phillies avoid disaster, clinch NL's final wild-card spot after near-collapse ahead of D-backs - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/article/phillies-avoid-disaster-clinch-nls-final-wild-card-spot-after-near-collapse-ahead-of-d-backs-212001139.html"
     },
     {
-      "title": "CFB Overtime: Florida's Jon Sumrall is making every right move, coaching pressure mounts, top Week 4 takeaways - 247Sports",
-      "link": "https://247sports.com/article/cfb-overtime-jon-sumrall-coaching-pressure-top-week-4-takeaways-290524627/"
+      "title": "Trevor Lawrence on odd kneeldown: I was just trying to help Bhayshul Tuten fantasy owners - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-on-odd-kneeldown-i-was-just-trying-to-help-bhayshul-tuten-fantasy-owners"
     },
     {
-      "title": "A'ja Wilson wins AP WNBA Player of the Year for 3rd straight year; Angel Reese top defensive player - AP News",
-      "link": "https://apnews.com/article/ap-wnba-awards-wilson-miles-clark-c21ff7df22f226b0826adb3594f53808"
+      "title": "Scottie Scheffler's classy move offsets gallery shouting at Presidents Cup - Yahoo Sports",
+      "link": "https://sports.yahoo.com/golf/article/scottie-schefflers-classy-move-offsets-gallery-shouting-at-presidents-cup-205904892.html"
     },
     {
-      "title": "Stephen Curry Leaves $20 Million In His Work Clothes - defector.com",
-      "link": "https://defector.com/stephen-curry-leaves-20-million-in-his-work-clothes"
+      "title": "Houston Texans vs. Indianapolis Colts Live Score and Stats - September 27, 2026 Gametracker - cbssports.com",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20260927_HOU@IND/"
     },
     {
-      "title": "The Opener: NL Wild Card Battle, AL West Race, Goodman - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/09/the-opener-nl-wild-card-battle-al-west-race-goodman.html"
+      "title": "Wilson won't be back as Mariners' manager in 2027 (sources) - MLB.com",
+      "link": "https://www.mlb.com/news/dan-wilson-won-t-return-mariners-manager-2027"
     },
     {
-      "title": "Report: Caleb Williams has a Grade 2 hamstring strain - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-caleb-williams-has-a-grade-2-hamstring-strain"
+      "title": "Cincinnati Bengals vs. Pittsburgh Steelers Live Score and Stats - September 27, 2026 Gametracker - cbssports.com",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20260927_CIN@PIT/"
     },
     {
-      "title": "Giants set game plan with Jameis Winston, mull options to add QB - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50037942/giants-set-gameplan-jameis-winston-mull-options-add-qb"
+      "title": "NFL Week 3: Instant analysis from Patriots\u2019 35-6 loss to Jaguars - patspulpit.com",
+      "link": "https://www.patspulpit.com/new-england-patriots-news/138520/nfl-week-3-instant-analysis-patriots-jaguars"
     },
     {
-      "title": "2026 WNBA playoffs: Key questions, takeaways from Sunday's Game 1s - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/50039651/2026-wnba-playoffs-key-questions-takeaways-sunday-game-1-fever-lynx-aces-liberty"
+      "title": "MLB postseason: Wild Card Series playoff schedule released, including Chicago Cubs at Padres, White Sox at Astros or Rangers - ABC7 Chicago",
+      "link": "https://abc7chicago.com/post/mlb-postseason-wild-card-series-playoff-schedule-released-including-chicago-cubs-padres-white-sox-astros-rangers/19880874/"
     },
     {
-      "title": "Report: Lions have inquired about a Joey Porter Jr. trade - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/174601/joey-porter-trade-rumors-detroit-lions-contacted-steelers"
+      "title": "Israel 0-3 Republic of Ireland: Irish impress in Debrecen victory - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cqlyk0141lelo"
     },
     {
-      "title": "Blood brothers? Fleck, senior Baranowski share 'great moment' - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50041646/fleck-gophers-baranowski-share-bloody-good-moment-win"
+      "title": "UCI Road World Championships: Brandon McNulty becomes first American winner in 33 years - BBC",
+      "link": "https://www.bbc.com/sport/cycling/articles/cqe8xr05dj1no"
     },
     {
-      "title": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-sweating"
+      "title": "6 winners, 4 losers from the Lions\u2019 win over the Jets - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/174665/6-winners-4-losers-detroit-lions-win-new-york-jets"
     },
     {
-      "title": "Raoni Barcelos Hospitalized After Leaving UFC Fight Night Main Event on Stretcher - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25503396-raoni-barcelos-hospitalized-after-leaving-ufc-fight-night-main-event-stretcher"
+      "title": "Tennessee Titans vs. New York Giants Live Score and Stats - September 27, 2026 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20260927_TEN@NYG/"
     },
     {
-      "title": "Berlin Marathon: Tigst Assefa wins but injury halts world record time - BBC",
-      "link": "https://www.bbc.com/sport/athletics/articles/c6rr4y59n0r0o"
+      "title": "Kansas City Chiefs vs. Miami Dolphins Live Score and Stats - September 27, 2026 Gametracker - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20260927_KC@MIA/"
     },
     {
-      "title": "Cavan Sullivan: The 16-year-old US debutant primed for the Premier League - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c6vgyy4v938no"
+      "title": "Chelsea: Resilience is back so can Blues regain the WSL title this season? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/ckwyz477nl57o"
     },
     {
-      "title": "UCI Whacks Demi Vollering with Massive Fine After Sensational World Championship Win - velo.outsideonline.com",
-      "link": "https://velo.outsideonline.com/road/road-racing/uci-whacks-vollering-with-whopper-fine-after-worlds/#article"
+      "title": "In Knoxville, cheers for Trump \u2014 and some quiet doubts - The Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2026/09/27/knoxville-cheers-trump-some-quiet-doubts/"
     },
     {
-      "title": "Sources: Myles Garrett faces 6-week timeline from knee surgery - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50038925/sources-myles-garrett-faces-6-week-line-knee-surgery"
+      "title": "Raoni Barcelos\u2019 coach shares medical update after scary UFC Vegas 121 fight ending - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/512936/raoni-barcelos-coach-shares-medical-update-after-scary-ufc-vegas-121-fight-ending"
     }
   ],
   "weather": {
