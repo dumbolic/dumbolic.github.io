@@ -1,9 +1,9 @@
 {
-  "quote": "You are not what you think you are, You are not what others think you are, You are what you think others think you are. \u2013 Unknown",
-  "fact": "Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.",
-  "crypto": "BTC: $84,609 | ETH: $2,694.38",
-  "tip": "Commit often with meaningful messages.",
-  "joke": "I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.",
+  "quote": "Intelligence is the ability to adapt to change. \u2013 Stephen Hawking",
+  "fact": "The average person laughs 10 times a day!",
+  "crypto": "BTC: $84,792 | ETH: $2,705.53",
+  "tip": "Use keyboard shortcuts to save time.",
+  "joke": "What's red and bad for your teeth? A Brick.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Google Home update rolling out with better 'Find My Phone' voice commands, smart home improvements - 9to5Google",
+      "link": "http://9to5google.com/2026/09/30/google-home-update-find-my-phone-improvements/"
+    },
+    {
+      "title": "The Disney protests were a wake-up call about the risks of streaming mergers - arstechnica.com",
+      "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/"
+    },
+    {
+      "title": "Vincent D'Onofrio Shuts Down God Of War Laufey Gooner Complaints: 'Buddy Got Bodied By Kingpin' - Kotaku",
+      "link": "https://kotaku.com/vincent-donofrio-shuts-down-god-of-war-laufey-gooner-complaints-buddy-got-bodied-by-kingpin-2000738728"
+    },
+    {
+      "title": "The AI Tamagotchis are coming - The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+    },
+    {
       "title": "Blizzard Survey Suggests New Classes Coming To WoW: Forever - Kotaku",
       "link": "https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699"
+    },
+    {
+      "title": "ICYMI: Ocarina of Time remake website has tons of footage showing areas, dungeons, items, and more - Nintendo Wire",
+      "link": "https://nintendowire.com/news/2026/09/30/icymi-ocarina-of-time-remake-website-has-tons-of-footage-showing-areas-dungeons-items-and-more/"
+    },
+    {
+      "title": "'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games - IGN",
+      "link": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games"
+    },
+    {
+      "title": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders"
+    },
+    {
+      "title": "Borderless Gaming\u2019s DLSS 5 Implementation Runs Without Touching NVIDIA\u2019s Software, Quantized to Work Well Even on Unsupported GPUs - Wccftech",
+      "link": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/"
+    },
+    {
+      "title": "You can now play the original Halo in your browser, 128-player multiplayer included - techspot.com",
+      "link": "https://www.techspot.com/news/114042-you-can-now-play-original-halo-browser-128.html"
     },
     {
       "title": "\u201cXbox is not for sale\u201d says Microsoft\u2019s gaming chief - The Verge",
       "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"
     },
     {
+      "title": "GTA 6: Everything the New Screenshots Tell Us - IGN",
+      "link": "https://www.ign.com/articles/gta-6-everything-the-new-screenshots-tell-us"
+    },
+    {
+      "title": "Apple Watch Series 12, Ultra 4 adding two new features soon - 9to5Mac",
+      "link": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/"
+    },
+    {
       "title": "Dawn of War IV \u2013 Blood Ravens and Dark Angels team up in new trailer - Warhammer Community",
       "link": "https://www.warhammer-community.com/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer"
+    },
+    {
+      "title": "Microsoft Jewel Comes to Mobile with XBOX Achievements and Game Pass Benefits - news.xbox.com",
+      "link": "https://news.xbox.com/en-us/2026/09/30/microsoft-jewel-game-pass-achievements-xbox/"
     },
     {
       "title": "Google details Gems to skills migration, including free access - 9to5Google",
@@ -32,138 +80,98 @@
       "link": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced"
     },
     {
-      "title": "The PS5 hacking scene just took a big leap forward - Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/"
+      "title": "Xbox Disc-To-Digital Program Now Available For All Players - Game Informer",
+      "link": "https://gameinformer.com/2026/09/30/xbox-disc-to-digital-program-now-available-for-all-players"
     },
     {
-      "title": "Dark clouds appear over 'Xbox Cloud Gaming' as it retires apps on some TVs \u2014 and the reasons are poorly explained - Windows Central",
-      "link": "https://www.windowscentral.com/gaming/xbox/dark-clouds-appear-over-xbox-cloud-gaming-as-it-retires-apps-on-some-tvs-and-the-reasons-are-poorly-explained"
+      "title": "Windows 11 26H2 update has known issues. You might want to wait - PCWorld",
+      "link": "https://www.pcworld.com/article/3247667/windows-11-26h2-update-has-known-issues-you-might-want-to-wait.html"
     },
     {
-      "title": "Apple stock pops on report it will unveil all-new smart home hub at Oct. 13 event - Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/apple-stock-pops-on-report-it-will-unveil-all-new-smart-home-hub-at-oct-13-event-150002671.html"
-    },
-    {
-      "title": "Bethesda Maps Fallout 76\u2019s Biggest Year Yet, Expanding the Map toward Fallout 3\u2019s Capital Wasteland by Summer 2027 - Wccftech",
-      "link": "https://wccftech.com/fallout-76-roadmap-capital-wasteland-map-expansion-summer-2027/"
-    },
-    {
-      "title": "'Absolutely Massive' God of War Laufey Pre-Orders as PS5 Exclusive Starts Strong - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/09/absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-exclusive-starts-strong"
-    },
-    {
-      "title": "Samsung\u2019s Galaxy SmartTag 3 works with iPhones, but not Android Find Hub - 9to5Google",
-      "link": "http://9to5google.com/2026/09/30/samsungs-galaxy-smarttag-3-works-with-iphones-but-not-android-find-hub/"
-    },
-    {
-      "title": "Windows 11 26H2 update arrives: What\u2019s inside and who should install it ASAP - ZDNET",
-      "link": "https://www.zdnet.com/tech/windows-11-version-26h2-update/"
-    },
-    {
-      "title": "\u2018Deadlock\u2019 Shatters Playercount Records After \u2018City Never Sleeps\u2019 Update - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/09/30/deadlock-shatters-playercount-records-after-city-never-sleeps-update/"
-    },
-    {
-      "title": "Switch 2 players Can Claim a Free Copy of The Witcher 3 Thanks to a Loophole - Polygon.com",
-      "link": "https://www.polygon.com/the-witcher-3-remastered-switch-2-loophole-explained/"
-    },
-    {
-      "title": "Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition + Mega Dimension Bundle Coming Soon - Pokemon.com",
-      "link": "https://www.pokemon.com/us/news/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-bundle-coming-soon"
-    },
-    {
-      "title": "Grasshopper Manufacture splits from NetEase Games - Gematsu",
-      "link": "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games"
-    },
-    {
-      "title": "WhatsApp introduces optional parental controls for teenagers - BBC",
-      "link": "https://www.bbc.com/news/articles/cm986x65we88o"
-    },
-    {
-      "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time - The Verge",
-      "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review"
-    },
-    {
-      "title": "Pok\u00e9mon Pokopia Gets Spooky With A Limited-Time Halloween In-Game Event - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event"
+      "title": "'This Is Your Dreamcast Moment' \u2014 Former PlayStation Boss Offers New Xbox CEO Some Words of Advice - IGN",
+      "link": "https://www.ign.com/articles/this-is-your-dreamcast-moment-former-playstation-boss-offers-new-xbox-ceo-some-words-of-advice"
     }
   ],
   "sports_news": [
+    {
+      "title": "Phillies force Game 3 as Kyle Schwarber, Bryce Harper go back-to-back and Alec Bohm homers in 10th vs Braves - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/phillies-force-game-3-kyle-schwarber-bryce-harper-back-to-back-alec-bohm-homers-10th-braves"
+    },
+    {
+      "title": "Jim Harbaugh, to no surprise, spoke to John Harbaugh before J.J. McCarthy trade - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-to-no-surprise-spoke-to-john-harbaugh-before-j-j-mccarthy-trade"
+    },
+    {
+      "title": "ASU hockey coach is put on leave; hospitalized player is unlikely to recover, family attorney says - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/asu-hockey-coach-put-leave-hospitalized-player-unlikely-recover-family-rcna600720"
+    },
+    {
+      "title": "Phil Mickelson entered treatment facility for 'family trauma and addiction,' representative says - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/phil-mickelson-entered-treatment-facility-family-trauma-addiction-representative-says"
+    },
+    {
+      "title": "Tom Brady makes Brock Purdy declaration following 3-0 start - ninersnation.com",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-news/163513/tom-brady-makes-brock-purdy-declaration-following-3-0-start"
+    },
+    {
+      "title": "'If we can get a decent deal, we are definitely going to 24' \u2014 CFP leaders discussing logistics of 24-team playoff - Yahoo Sports",
+      "link": "https://sports.yahoo.com/college-football/breaking-news/article/if-we-can-get-a-decent-deal-we-are-definitely-going-to-24--cfp-leaders-discussing-logistics-of-24-team-playoff-213416221.html"
+    },
+    {
+      "title": "Here's why Judge wasn't on the field for intros before Game 1 - MLB.com",
+      "link": "https://www.mlb.com/news/aaron-judge-misses-yankees-pregame-introductions-for-treatment"
+    },
+    {
+      "title": "2026 MLB Wild Card Game 2 scores, live updates: Phillies vs Braves highlights, results, Tied 1-1 after Olson RBI single - NBC Sports",
+      "link": "https://www.nbcsports.com/mlb/live/2026-mlb-wild-card-scores-live-updates-phillies-vs-braves-preview-predictions-how-to-watch-on-nbc-and-peacock"
+    },
+    {
+      "title": "Giants' Harbaugh explains reasoning for releasing Beckham - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUZ6N1EwV1BkTGszWTh3STE5cmZrX3VNd196R3ZoaVMzR0NxZmtnVVJkaWF6VkhXaHdOQnItSjUyUm9FQ01NVDhjWnVYemJuTmllUVZYY3pLb2t1OURaYUJmRmdWSjJwb3pZZ2Joc3FET2ViU3E2ZXM5Z3drUjRVU0t4STg0SE14cV80enJqejFuRDhoNzJrcTd5SlREQQ?oc=5"
+    },
+    {
+      "title": "Red Sox To Remove Roman Anthony From Roster With Hand Injury - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/09/red-sox-to-remove-roman-anthony-from-roster-with-hand-injury.html"
+    },
+    {
+      "title": "Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 4 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-rb-blueprint-for-week-4-201929870.html"
+    },
+    {
+      "title": "White Sox vs. Astros live updates, news, starting pitchers for Game 2: Hunter Brown, Sean Burke take the mound as Houston looks to keep season alive - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mlb/live/astros-white-sox-box-score-live-updates-starting-pitchers-highlights-stats-where-to-watch-wild-card-game-2-200000200.html"
+    },
+    {
+      "title": "Nebraska's recruiting weekend: a 4-0 record, several Rivals300 prospects coming for Maryland game - On3",
+      "link": "https://www.on3.com/rivals/news/nebraskas-recruiting-weekend-a-4-0-record-several-rivals300-prospects-coming-for-maryland-game/"
+    },
+    {
+      "title": "King, dingers power Padres in G1 rout at frenzied Petco - MLB.com",
+      "link": "https://www.mlb.com/news/padres-win-nl-wild-card-game-1-2026"
+    },
+    {
+      "title": "Would NFL players take a test to diagnose CTE in the living? - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
+    },
+    {
+      "title": "Tyson Fury's uncle Peter Fury helping Anthony Joshua before fight in Cardiff - ESPN",
+      "link": "https://www.espn.com/boxing/story/_/id/50069995/tyson-fury-anthony-joshua-boxing-heavyweight-cardiff"
+    },
     {
       "title": "Mike Vrabel downplays report of issues between him and Drake Maye - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-downplays-report-of-issues-between-him-and-drake-maye"
     },
     {
-      "title": "Texas AD calls Longhorns' vulgar celebrations 'embarrassing' - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50068724/texas-ad-calls-longhorns-vulgar-celebrations-embarrassing"
+      "title": "Brad Keselowski-RFK Split Leaves Both Sides With Futures In Limbo - FOX Sports",
+      "link": "https://www.foxsports.com/stories/nascar/brad-keselowski-rfk-split-leaves-both-sides-futures-limbo"
     },
     {
-      "title": "Sonny Styles wins first NFC defensive player of the week award - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sonny-styles-wins-first-nfc-defensive-player-of-the-week-award"
+      "title": "The Line: 7 Most Surprising Regionals Results - Ultiworld",
+      "link": "https://ultiworld.com/2026/09/30/the-line-7-most-surprising-regionals-results/"
     },
     {
-      "title": "Packers WR Jayden Reed to undergo season-ending neck surgery - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50068583/sources-packers-put-wr-jayden-reed-ir-due-neck-injury"
-    },
-    {
-      "title": "2026 Trade Value Charts \u2014 Justin Boone's fantasy football running back breakdown for Week 4 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/2026-trade-value-charts--justin-boones-fantasy-football-running-back-breakdown-for-week-4-155845493.html"
-    },
-    {
-      "title": "One NFL team is facing a nightmare early schedule not seen in the last 40 seasons - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/miami-dolphins-schedule-2026-nfl-history/"
-    },
-    {
-      "title": "Panthers CBs Jaycee Horn, Mike Jackson placed on IR - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50068364/panthers-cbs-jaycee-horn-mike-jackson-placed-ir"
-    },
-    {
-      "title": "White Sox look to close out Houston Astros in two games after dominant playoff opener - foxnews.com",
-      "link": "https://www.foxnews.com/outkick-betting/white-sox-close-houston-astros-two-games-dominant-playoff-opener"
-    },
-    {
-      "title": "Commanders' Jayden Daniels limited at practice, status up in air - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50068247/commanders-jayden-daniels-limited-practice-status-air"
-    },
-    {
-      "title": "How to Watch the Philadelphia Phillies vs. Atlanta Braves MLB Wild Card Game (Even for Free) - PCMag",
-      "link": "https://www.pcmag.com/news/how-to-watch-phillies-vs-braves-for-free-mlb-wild-card-series-game-2"
-    },
-    {
-      "title": "Green Bay Packers News: Packers trying to dig out of a hole - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87341/green-bay-packers-news-packers-trying-to-dig-out-of-a-hole"
-    },
-    {
-      "title": "Djokovic wins first match since Wimbledon in China - BBC",
-      "link": "https://www.bbc.com/sport/tennis/articles/cq20vxxdxk54o"
-    },
-    {
-      "title": "5 Lions vs. Panthers thoughts after watching Carolina\u2019s loss to Browns - Pride Of Detroit",
-      "link": "https://www.prideofdetroit.com/detroit-lions-analysis/175090/5-lions-vs-panthers-thoughts-after-watching-carolinas-loss-to-browns"
-    },
-    {
-      "title": "The Packers\u2019 offensive line renovation is wild and unprecedented - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87345/the-packers-offensive-line-renovation-is-wild-and-unprecedented"
-    },
-    {
-      "title": "Pep Guardiola Reacts to Manchester City's Guilty Verdict in Premier League Financial Rules Case - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25504978-pep-guardiola-reacts-manchester-citys-guilty-verdict-premier-league-financial-rules-case"
-    },
-    {
-      "title": "Could the 49ers be a trade fit for former 1st round WR? - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/163482/san-francisco-49ers-news-trade-fit-jacksonville-jaguars-wide-receiver-brian-thomas-proposal"
-    },
-    {
-      "title": "Vikings Insiders Dish on 'Brutal' J.J. McCarthy Era, 'Eye-Rolls' About 'Nine' Nickname - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25504986-vikings-insiders-dish-brutal-jj-mccarthy-era-eye-rolls-about-nine-nickname"
-    },
-    {
-      "title": "College football odds, predictions: Ohio State vs. Iowa, Alabama vs. Mississippi State lead Week 5 - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-odds-predictions-week-5-ohio-state-iowa-alabama-mississippi-state/"
-    },
-    {
-      "title": "Kevin Zeitler agrees to sign with Packers - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-zeitler-agrees-to-sign-with-packers"
+      "title": "Packers receiver Jayden Reed gets bad news about neck injury after leaving Week 2 game on spine board - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/packers-receiver-jayden-reed-bad-news-neck-injury-leaving-week-2-game-spine-board"
     }
   ],
   "weather": {
