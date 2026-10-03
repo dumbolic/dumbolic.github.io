@@ -1,9 +1,9 @@
 {
-  "quote": "Sometimes it is more important to discover what one cannot do, than what one can do. \u2013 Lin Yutang",
-  "fact": "The sperm of a mouse is actually longer than the sperm of an elephant.",
-  "crypto": "BTC: $84,830 | ETH: $2,681.03",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
+  "quote": "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. \u2013 Sydney Smith",
+  "fact": "Samuel Clemens (Mark Twain) was born on and died on days when Halley\u2019s Comet can be seen.",
+  "crypto": "BTC: $84,935 | ETH: $2,684.72",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,28 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
+    },
+    {
+      "title": "Miami Heat to Celebrate Grand Theft Auto VI Release with 'A Night in Vice City' Promotion vs. Bucks - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25505865-miami-heat-celebrate-grand-theft-auto-vi-release-night-vice-city-promotion-vs-bucks"
+    },
+    {
+      "title": "Only one browser has this really helpful search tool - The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox/"
+    },
+    {
       "title": "Home Assistant renames Home Assistant Cloud to Link - The Verge",
       "link": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out"
+    },
+    {
+      "title": "NVIDIA\u2019s 64 GB DGX Spark \u201cAI Supercomputer\u201d Launches This Month For $4999, While The 128 GB Spark Jumps Past $6000 - Wccftech",
+      "link": "https://wccftech.com/nvidia-64-gb-dgx-spark-this-month-for-4999-usd-128-gb-spark-jumps-past-6000/"
+    },
+    {
+      "title": "How to find compromised passwords on iPhone and Android - Fox News",
+      "link": "https://www.foxnews.com/tech/how-find-compromised-passwords-iphone-android"
     },
     {
       "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch - Eurogamer.net",
@@ -24,24 +44,40 @@
       "link": "https://www.cleveland.com/news/2026/10/a-familiar-android-feature-is-disappearing-and-users-have-plenty-to-say.html"
     },
     {
-      "title": "GTA 6 Rating Officially Confirms Sex Will Indeed Be in the Game - Polygon.com",
-      "link": "https://www.polygon.com/grand-theft-auto-gta-6-sex-scenes-rating-mature/"
+      "title": "Warhammer 40k: Space Marine 2 Marches on with Massive Free Update, Year 3 Roadmap - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/10/warhammer-40k-space-marine-2-marches-on-with-massive-free-update-year-3-roadmap"
+    },
+    {
+      "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei - Eurogamer.net",
+      "link": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei"
+    },
+    {
+      "title": "'Everyone Liked That' \u2014 Bethesda Cease and Desist Forces Viral AI-Generated Fallout: New York Game Offline - IGN",
+      "link": "https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist"
     },
     {
       "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately' - MacRumors",
       "link": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/"
     },
     {
+      "title": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board - IGN",
+      "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes"
+    },
+    {
+      "title": "Amazon redesigns Kindle lineup and announces new accessories - 9News",
+      "link": "https://www.9news.com/article/news/nation-world/amazon-redesign-kindle-lineup-new-accessories/507-c904947e-ef0f-4735-93c9-3dbed6bb059a"
+    },
+    {
       "title": "Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video - The Verge",
       "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
     },
     {
-      "title": "Apple Shares Photos Shot on iPhone Duo - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/"
+      "title": "New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/"
     },
     {
-      "title": "List of Xbox games not awarding a Mythic Achievement - TrueAchievements",
-      "link": "https://www.trueachievements.com/news/xbox-games-without-mythic-achievement"
+      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer' - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/"
     },
     {
       "title": "ChatGPT can now virtually try on clothes for you - TechCrunch",
@@ -50,37 +86,33 @@
     {
       "title": "G-Shock\u2019s New Stunner Is Eight Times the Price of a Rolex Submariner - Gear Patrol",
       "link": "https://www.gearpatrol.com/watches/casio-g-shock-mr-g-mrgd5000/"
-    },
-    {
-      "title": "Apple says iPhone Duo has \u2018replaceable\u2019 folding display layer to minimize crease - 9to5Mac",
-      "link": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/"
-    },
-    {
-      "title": "Make unknown callers explain why they're calling - Fox News",
-      "link": "https://www.foxnews.com/tech/make-unknown-callers-explain-why-theyre-calling"
-    },
-    {
-      "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells) - TechCrunch",
-      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
-    },
-    {
-      "title": "Twelve South launches tiny new \u2018Airfly Drive\u2019 wireless CarPlay adapter - 9to5Mac",
-      "link": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/"
-    },
-    {
-      "title": "Minior Showers in Pok\u00e9mon GO: Dates, Cores & Bonuses - Pok\u00e9mon GO Hub",
-      "link": "https://pokemongohub.net/post/guide/minior-showers/"
-    },
-    {
-      "title": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium"
-    },
-    {
-      "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update"
     }
   ],
   "sports_news": [
+    {
+      "title": "Tony Romo, CBS Sports agree to part after ex-QB's DWI arrest - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50085245/tony-romo-cbs-sports-agree-part-ex-qb-owi-arrest"
+    },
+    {
+      "title": "After another early exit, Caitlin Clark\u2019s career is still lacking playoff success - NBC News",
+      "link": "https://www.nbcnews.com/sports/wnba/another-early-exit-caitlin-clarks-career-still-lacking-playoff-success-rcna601106"
+    },
+    {
+      "title": "Jets rule out RB Hall, WR Mitchell, TE Taylor, LG Parham vs. Bears - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50085069/jets-rule-rb-hall-wr-mitchell-te-taylor-lg-parham-vs-bears"
+    },
+    {
+      "title": "Fantasy Football Week 4 Start 'Em, Sit 'Em: Justin Boone's lineup advice - sports.yahoo.com",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-4-start-em-sit-em-justin-boones-lineup-advice-151326832.html"
+    },
+    {
+      "title": "Here's how the pitching might line up for the Yankees-Rays ALDS - MLB.com",
+      "link": "https://www.mlb.com/news/yankees-rays-pitching-matchups-for-2026-alds"
+    },
+    {
+      "title": "2026 MLB playoff predictions: Expert picks for Dodgers vs. Braves, Yankees vs. Rays and every LDS matchup - CBS Sports",
+      "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-expert-picks-league-division-series/"
+    },
     {
       "title": "Signs point to Tyson Bagent for the Bears on Sunday - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/signs-point-to-tyson-bagent-for-the-bears-on-sunday"
@@ -90,76 +122,52 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-after-beating-steelers-i-dont-have-respect-for-anybody-who-plays-dirty"
     },
     {
-      "title": "Fever player violently thrown to the ground, and what the horrible WNBA refs did next will shock you - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/fever-player-violently-thrown-ground-horrible-wnba-refs-did-next-shock-you"
+      "title": "Commanders QB Jayden Daniels (elbow) ruled out vs. Colts - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50084552/commanders-qb-jayden-daniels-elbow-ruled-vs-colts"
     },
     {
-      "title": "What we learned from Friday practice at the 2026 Bahrain GP in Malaysia - Autosport",
-      "link": "https://www.autosport.com/f1/news/what-we-learned-from-friday-practice-at-the-2026-bahrain-gp-in-malaysia/10861078/"
+      "title": "Glover Teixeira reveals what caused Raoni Barcelos\u2019 health scare at UFC Vegas 121 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/513711/glover-teixeira-reveals-what-caused-raoni-barcelos-health-scare-at-ufc-vegas-121"
+    },
+    {
+      "title": "Phillies make Don Mattingly decision immediately after loss to Braves - Yahoo Sports",
+      "link": "https://www.thebiglead.com/phillies-don-mattingly-decision-playoff-loss-braves-2026/"
+    },
+    {
+      "title": "Robot umpires flip 54% of challenged calls as Reds lead way - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/50084448/robot-umpires-flip-54-challenged-calls-reds-lead-way"
+    },
+    {
+      "title": "Igor Shesterkin Caught His White Whale And Scored A Goalie Goal - Defector",
+      "link": "https://defector.com/igor-shesterkin-caught-his-white-whale-and-scored-a-goalie-goal"
+    },
+    {
+      "title": "Manchester City Verdict Strains UK-UAE Diplomatic Relations - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/man-city-verdict-puts-uk-uae-diplomatic-relations-under-strain"
+    },
+    {
+      "title": "Week 4 Best And Worst WR, TE Matchups: Keenan Allen in a good spot, Makai Lemon could finally get going - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/news/week-4-best-and-worst-wr-te-matchups-keenan-allen-in-a-good-spot-makai-lemon-could-finally-get-going"
+    },
+    {
+      "title": "Al Michaels glosses over Deshaun Watson's two dozen sexual misconduct lawsuits, calls them a 'thing' - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/al-michaels-glosses-over-deshaun-watsons-two-dozen-sexual-misconduct-lawsuits-calls-them-thing"
     },
     {
       "title": "NFL predictions: 4 keys to a Lions victory over the Panthers in Week 4 - Pride Of Detroit",
       "link": "https://www.prideofdetroit.com/detroit-lions-analysis/175079/lions-vs-panthers-predictions-week-3-picks"
     },
     {
-      "title": "George Russell can\u2019t keep cool for 60C race as Mercedes put car first - The Times",
-      "link": "https://www.thetimes.com/sport/formula-one/article/george-russell-cant-keep-cool-for-60c-race-as-mercedes-put-car-first-gqrtfp7xp"
+      "title": "Why Roger Goodell and Pat Ryan\u2019s involvement could save the Bears in Illinois - CHGO Sports",
+      "link": "https://allchgo.com/bears/roger-goodell-pat-ryan-involvement-save-bears-illinois/"
     },
     {
-      "title": "Man City appeal guilty verdict in Premier League breaches case - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/50083711/man-city-financial-breaches-appeal-guilty-verdict-premier-league"
-    },
-    {
-      "title": "Report: Eagles WR DeVonta Smith unlikely to play vs. Rams - PhillyVoice",
-      "link": "https://www.phillyvoice.com/report-eagles-wr-devonta-smith-unlikely-play-vs-rams/"
+      "title": "Phillies News: Elimination, Aaron Nola, John Kruk - The Good Phight",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjd3NExBNzQ1cHNVZ0JleUpGUVR5cDdJU3plTEVUYnhrbXprZ21KUl9hTjVWbGllbURzQnFFUkxNU1k2YVdybjEzejUwekg1WTl3MEtLaHUzeFpFYlB0VElpTmFFamlieURTVGNJY2lRelhzNU5lVnB0RjVjdVRmZjhRMEJyUk5WN0ltZ211cVgzUlFOTUJ4XzQ1OGh6ZXlFbXlQZnJDbENGdG5hbUE?oc=5"
     },
     {
       "title": "A'ja Wilson's mom freaks out when asked to explain her 'Love Beats Hate' sign after Game 3 win vs Fever - Fox News",
       "link": "https://www.foxnews.com/outkick-sports/aja-wilson-mom-freaks-out-explain-love-beats-hate-sign-game-3-win-vs-fever"
-    },
-    {
-      "title": "Angry Red Sox veterans put Chad Tracy in an awkward spot heading into next season - MassLive.com",
-      "link": "https://www.masslive.com/redsox/2026/10/angry-red-sox-veterans-put-chad-tracy-in-an-awkward-spot-heading-into-next-season.html"
-    },
-    {
-      "title": "Analytics vs. players: Red Sox tensions boil over - MassLive.com",
-      "link": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-in-wake-of-early-playoff-exit-team-needs-to-repair-rift-with-players.html"
-    },
-    {
-      "title": "Phillies' latest early playoff exit puts veteran core at crossroads - MLB.com",
-      "link": "https://www.mlb.com/news/phillies-lose-to-braves-in-2026-nl-wild-card-series"
-    },
-    {
-      "title": "Steelers' McCarthy regrets angry exchange with Rodgers in loss - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50082783/steelers-mccarthy-regrets-angry-exchange-rodgers-loss"
-    },
-    {
-      "title": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 4 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-4-211724629.html"
-    },
-    {
-      "title": "Stop piling on Drake Maye. A deep dive look at his struggles, what's failing around him and why Patriots should believe he'll bounce back - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/article/stop-piling-on-drake-maye-a-deep-dive-look-at-his-struggles-whats-failing-around-him-and-why-patriots-should-believe-hell-bounce-back-052355810.html"
-    },
-    {
-      "title": "BBQ tears redux: Sounders grab late winner - Sounder at Heart",
-      "link": "https://www.sounderatheart.com/2026/10/bbq-tears-redux-sounders-grab-late-winner/"
-    },
-    {
-      "title": "Trail Blazers fire new announcer hours after hiring him over social media posts he made as a teen - CBS Sports",
-      "link": "https://www.cbssports.com/nba/news/blazers-fire-new-announcer-hours-after-hiring-him-braiden-bell/"
-    },
-    {
-      "title": "2026 NFL Week 4 Biggest Takeaways for Every Team - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25505696-2026-nfl-week-4-biggest-takeaways-every-team"
-    },
-    {
-      "title": "A'ja Wilson stars as Aces oust Fever from WNBA playoffs - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/50082146/aja-wilson-stars-aces-oust-fever-wnba-playoffs"
-    },
-    {
-      "title": "Phillies\u2019 weaknesses on display in season-ending loss to Braves: \u2018Just as frustrating as last year\u2019 - inquirer.com",
-      "link": "https://www.inquirer.com/phillies/wild-card-game-3-score-braves-nola-wheeler-20261001.html"
     }
   ],
   "weather": {
