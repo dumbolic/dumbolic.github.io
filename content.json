@@ -1,9 +1,9 @@
 {
-  "quote": "The meaning of life is that it stops. \u2013 Franz Kafka",
-  "fact": "Michigan was the first state to have roadside picnic tables.",
-  "crypto": "BTC: $83,436 | ETH: $2,571.39",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+  "quote": "A Quitter never wins - and - a Winner never quits. \u2013 Napoleon Hill",
+  "fact": "40,000 Americans are injured by toilets each year.",
+  "crypto": "BTC: $83,249 | ETH: $2,571.19",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I fear for the calendar, its days are numbered.\n",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,60 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Xbox has secured exclusive GTA 6 streaming rights - The Verge",
+      "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
+    },
+    {
+      "title": "Apple\u2019s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg"
+    },
+    {
+      "title": "This popular buffet chain may be headed back to California - KTLA",
+      "link": "https://ktla.com/news/california/this-popular-buffet-chain-may-be-headed-back-to-california/"
+    },
+    {
+      "title": "Google rolling out \u2018massive\u2019 Pixel Buds Pro, Pro 2, and 2a update - 9to5Google",
+      "link": "http://9to5google.com/2026/10/06/pixel-buds-pro-update-oct-2026/"
+    },
+    {
+      "title": "Three Years of 80% Charge Limits on iPhone: The Results - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/"
+    },
+    {
+      "title": "The hotel TV privacy mistake that can follow you home - Fox News",
+      "link": "https://www.foxnews.com/tech/hotel-tv-privacy-mistake-follow-you-home"
+    },
+    {
       "title": "Apple killed the Mac mini\u2019s best hidden feature [Video] - 9to5Mac",
       "link": "https://9to5mac.com/2026/10/06/apple-killed-the-mac-minis-best-hidden-feature-video/"
+    },
+    {
+      "title": "Deals: Prime Big Deal Days brings big discounts on flagships, foldables and other phones - GSMArena.com news - GSMArena.com",
+      "link": "https://www.gsmarena.com/deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930.php"
     },
     {
       "title": "Android 17 October update rolling out with three Pixel fixes - 9to5Google",
       "link": "http://9to5google.com/2026/10/06/android-17-october-pixel-update/"
     },
     {
-      "title": "Forza Horizon 6's Community Is Fed Up With Playground Games, and the Studio Has Finally Responded - IGN",
-      "link": "https://www.ign.com/articles/forza-horizon-6s-community-is-fed-up-with-playground-games-and-the-studio-has-finally-responded"
+      "title": "Razer\u2019s Wolverine V4 Controller Is Overkill For Most Gamers, And That\u2019s The Point - GameSpot",
+      "link": "https://www.gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point/"
     },
     {
       "title": "Our first five impressions of Googlebooks \u2014 exciting but underbaked - The Verge",
       "link": "https://www.theverge.com/tech/1005745/google-googlebook-android-laptops-dell-acer-asus-lenovo-hp-impressions"
     },
     {
-      "title": "We Found the 157 Best Live Prime Day Tech Deals From Apple, Dell, HP, Samsung, Sony, and More - PCMag",
-      "link": "https://www.pcmag.com/news/best-tech-deals-sales-prime-day-2026-day-1"
+      "title": "\ud83d\udde3\ufe0f Sights & Sounds: 'All that matters is right now' | Giants vs. Cardinals Week 4 - Giants.com",
+      "link": "https://www.giants.com/video/sights-and-sounds-all-that-matters-is-right-now"
+    },
+    {
+      "title": "Warship Game Steals Nonsensical Aircraft Design And Then Tries To Sell It In-Game For $700 - Kotaku",
+      "link": "https://kotaku.com/modern-warships-artstorm-plagiarism-alex-brady-war-thunder-2000740997"
+    },
+    {
+      "title": "Battlefield 6 Teases Dead Space Crossover After Skins Leak - IGN",
+      "link": "https://www.ign.com/articles/battlefield-6-resurrects-dead-space"
     },
     {
       "title": "EXCLUSIVE: Xbox CEO Asha Sharma speaks at internal town hall on the future - Windows Central",
@@ -40,138 +76,98 @@
       "link": "https://www.theverge.com/gadgets/1004339/anker-nano-100w-universal-travel-charger-prime-day-deal-sale"
     },
     {
+      "title": "Our favorite headphones and earbuds are cheaper during October Prime Day - The Verge",
+      "link": "https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale"
+    },
+    {
+      "title": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach' - Push Square",
+      "link": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach"
+    },
+    {
       "title": "The Best Taylor Sheridan Shows By Rotten Tomatoes Score, From \u2018Tulsa King\u2019 To \u2018Mayor Of Kingstown\u2019 - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2026/10/06/the-best-taylor-sheridan-shows-by-rotten-tomatoes-score-from-tulsa-king-to-mayor-of-kingstown/"
     },
     {
-      "title": "Premium Galaxy Z Flip 8 drops by $210 for Prime Day - PhoneArena",
-      "link": "https://www.phonearena.com/news/galaxy-z-flip-8-210-usd-off_id183707"
-    },
-    {
-      "title": "Apple has a new MacBook Pro coming soon, here's what we know - 9to5Mac",
-      "link": "https://9to5mac.com/2026/10/06/apples-huge-macbook-pro-overhaul-is-coming-soon-heres-what-we-know/"
-    },
-    {
-      "title": "Google could soon solve Pixel's biggest face unlock flaw - Android Authority",
-      "link": "https://www.androidauthority.com/google-pixel-face-active-illumination-apk-teardown-3719647/"
-    },
-    {
-      "title": "New leaks reveal more details about the Fitbit Edge including its price - The Verge",
-      "link": "https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features"
-    },
-    {
-      "title": "Gears Of War: E-Day\u2019s Performance Could Dictate The Future Of Xbox - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/10/06/gears-of-war-e-days-performance-could-dictate-the-future-of-xbox/"
-    },
-    {
-      "title": "The Official Sonic Discord Server\u2019s Launch Went About As Poorly As You\u2019d Expect - Kotaku",
-      "link": "https://kotaku.com/sonic-hedgehog-discord-server-mod-team-rules-messages-2000740928"
-    },
-    {
-      "title": "Googlebook\u2019s Android-integrated features won\u2019t work with Samsung phones at launch - 9to5Google",
-      "link": "http://9to5google.com/2026/10/06/googlebook-android-sync-features-samsung-delay/"
-    },
-    {
-      "title": "Claim Two Major PS4 Games for Free Right Now, No PS Plus Required - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required"
-    },
-    {
-      "title": "Try the new demo for Warhammer Survivors now! - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now"
-    },
-    {
-      "title": "Amazon Prime Big Deal Days Offers Major Discounts on AirPods, iPads, and Much More - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/06/amazon-prime-big-deal-days-mega/"
-    },
-    {
-      "title": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6"
-    },
-    {
-      "title": "Amazon Prime Big Deal Days 2026 sale live, best Nintendo deals - Nintendo Everything",
-      "link": "https://nintendoeverything.com/amazon-prime-big-deal-days-2026-sale-live-best-nintendo-deals/"
+      "title": "Score 50% off Select Final Fantasy Games at Amazon During Prime Big Deal Days - IGN",
+      "link": "https://www.ign.com/articles/final-fantasy-prime-big-deal-days-discount-rebirth"
     }
   ],
   "sports_news": [
     {
-      "title": "Eagles All-Pro RT Lane Johnson retires, ending 14-season NFL career - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50119122/eagles-all-pro-rt-lane-johnson-reties-ending-14-season-nfl-career"
+      "title": "Roberts moves struggling Ohtani to No. 5 spot for NLDS Game 3 - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/50119827/roberts-moves-struggling-ohtani-no-5-spot-nlds-game-3"
+    },
+    {
+      "title": "Maxx Crosby claims Patrick Mahomes moans when he gets tackled - New York Post",
+      "link": "https://nypost.com/2026/10/06/sports/maxx-crosby-claims-patrick-mahomes-moans-when-he-gets-tackled/"
+    },
+    {
+      "title": "Celebrini Injury Update: Sharks Have Been Managing LBI for \"A Little Bit\" - San Jose Hockey Now",
+      "link": "https://sanjosehockeynow.com/san-jose-sharks-macklin-celebrini-injury-update/"
+    },
+    {
+      "title": "Dan Campbell gets passionate about offense \u2018mediocrity,\u2019 defensive fixes - Pride Of Detroit",
+      "link": "https://www.prideofdetroit.com/detroit-lions-news/176071/dan-campbell-passionate-radio-detroit-lions-offense-defense-mediocrity"
+    },
+    {
+      "title": "England player ratings: How Three Lions played rated v Czech Republic - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cx7vp3lqv985o"
+    },
+    {
+      "title": "Penn State fired James Franklin to join college football's elite -- instead, it became a cautionary tale - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/penn-state-fired-james-franklin-cautionary-tale/"
+    },
+    {
+      "title": "Southern Miss vs Troy Prediction, Odds, Picks Today: College Football Week 6 - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/southern-miss-golden-eagles-vs-troy-trojans-prediction-pick-odds-college-football-tuesday-october-6"
+    },
+    {
+      "title": "Eagles RT Lane Johnson announces retirement - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-rt-lane-johnson-announces-retirement"
+    },
+    {
+      "title": "How the Sixers can add another backup center after Ariel Hukporti\u2019s Achilles injury - Liberty Ballers",
+      "link": "https://www.libertyballers.com/76ers-analysis/98765/sixers-ariel-hukporti-achilles-injury-knicks-adem-bona-joel-embid-tacko-fall"
+    },
+    {
+      "title": "College Football Playoff tiers: Where every Power Four team sits entering Week 6 - 247Sports",
+      "link": "https://247sports.com/article/college-football-playoff-tiers-every-power-four-team-week-6-290904752/"
+    },
+    {
+      "title": "Eddie Hearn admits he doesn\u2019t care if TKO produces Tyson Fury vs. Anthony Joshua, trashes Zuffa Boxing\u2019s \u2018abysmal\u2019 start - MMA Fighting",
+      "link": "https://www.mmafighting.com/boxing/514468/eddie-hearn-admits-he-doesnt-care-if-tko-produces-tyson-fury-vs-anthony-joshua-trashes-zuffa-boxings-abysmal-start"
+    },
+    {
+      "title": "Cristiano Ronaldo Reportedly Gives 'Ultimatum' to Portugal National Team amid Jorge Jesus Rift - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25507371-cristiano-ronaldo-reportedly-gives-ultimatum-portugal-national-team-amid-jorge-jesus-rift"
     },
     {
       "title": "A \u2018nightmare\u2019 scenario in play with possible hurricane hitting Alabama-Georgia, James Spann says - AL.com",
       "link": "https://www.al.com/alabamafootball/2026/10/a-nightmare-scenario-in-play-with-possible-hurricane-hitting-alabama-georgia-james-spann-says.html"
     },
     {
-      "title": "Missouri OL Jones in need of heart transplant, Drinkwitz says - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50118595/missouri-ol-jones-need-heart-transplant-drinkwitz-says"
+      "title": "Dave Richard's Week 5 trade chart and rest of season rankings: Jaxon Smith-Njigba takes over No. 1 WR spot - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/dave-richards-2026-week-5-trade-chart/"
+    },
+    {
+      "title": "The Yankees Look Meek And Flubby - Defector",
+      "link": "https://defector.com/the-yankees-look-meek-and-flubby"
     },
     {
       "title": "Michigan's Zack Marshall apologizes for criticizing OC Jason Beck - ESPN",
       "link": "https://www.espn.com/college-football/story/_/id/50118485/michigan-zack-marshall-apologizes-criticizing-oc-jason-beck"
     },
     {
-      "title": "Fantasy Football Waiver Wire, Week 5: Emanuel Wilson, Keaton Mitchell among top pickups - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-5-emanuel-wilson-keaton-mitchell-among-top-pickups-170404257.html"
-    },
-    {
-      "title": "Report: Seahawks will not sign Joe Mixon to practice squad after a physical - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-seahawks-opt-not-to-sign-joe-mixon-to-practice-squad-after-a-physical"
-    },
-    {
-      "title": "Sophie Cunningham must leave Fever 'circus' so team can focus on basketball, The Athletic columnist says - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-must-leave-fever-circus-team-focus-basketball-athletic-columnist-says"
+      "title": "Seahawks decide not to sign Joe Mixon - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-06/seahawks-decide-not-to-sign-joe-mixon"
     },
     {
       "title": "Garafolo: Jayden Daniels expected to start Week 5 - NBC Sports",
       "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-06/garafolo-jayden-daniels-expected-to-start-week-5"
     },
     {
-      "title": "NFL Referees Association to challenge officials' suspensions - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50117945/nfl-referees-association-challenge-officials-suspensions"
-    },
-    {
-      "title": "Former UFC security guard reacts to Dana White\u2019s admitted bias ahead of DWCS bout: \u2018It\u2019s completely blocked out\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/514292/former-ufc-security-guard-reacts-to-dana-whites-admitted-bias-ahead-of-dwcs-bout-its-completely-blocked-out"
-    },
-    {
-      "title": "Sam McDowell Passes Away - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/10/sam-mcdowell-passes-away.html"
-    },
-    {
-      "title": "Cristiano Ronaldo won't return to Portugal team while Jesus remains coach - sources - ESPN",
-      "link": "https://www.espn.com/soccer/story/_/id/50117654/cristiano-ronaldo-return-portugal-team-jesus-remains-coach-sources"
-    },
-    {
-      "title": "Manchester City: Rival clubs want more than relegation from the Premier League - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c623d8707k5lo"
-    },
-    {
-      "title": "Lionel Messi Delivers Video Message Ahead of Argentina Farewell, 'Thank You For Loving Me So Much' - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25507309-lionel-messi-delivers-video-message-ahead-argentina-farewell-thank-you-loving-me-so-much"
-    },
-    {
-      "title": "'It\u2019s been a very strange year on LIV': LIV Golf to get $300 million investment to help the circuit emerge from bankruptcy - Fortune",
-      "link": "https://fortune.com/2026/10/06/liv-golf-300-million-investment-bankruptcy/"
-    },
-    {
-      "title": "IOC confirms India, Qatar among 7 bidders who want to host 2036 Olympics - AP News",
-      "link": "https://apnews.com/article/olympics-2036-india-qatar-ioc-068ed1d22ce0d2fa29495a3bb7acf12f"
-    },
-    {
-      "title": "Red Sox's Sonny Gray Reportedly Was Investigated by MLB Over Potential Use of Sticky Substance - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25507286-red-soxs-sonny-gray-reportedly-was-investigated-mlb-over-potential-use-sticky-substance"
-    },
-    {
-      "title": "Kentucky hosts LSU with a major flip target, top-2 QB and several blue-chippers coming to root on Will Stein and the Wildcats - On3",
-      "link": "https://www.on3.com/rivals/news/kentucky-hosts-lsu-with-a-major-flip-target-top-2-qb-and-several-blue-chippers-coming-to-root-on-will-stein-and-the-wildcats/"
-    },
-    {
-      "title": "What channel is Brewers vs Padres tonight in NLDS? Time, TV, streaming - Milwaukee Journal Sentinel",
-      "link": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/06/watch-brewers-vs-padres-playoff-game-tonight-tv-channel-start-time/92113805007/"
-    },
-    {
-      "title": "NFL Power Rankings, Week 5: Cowboys, Pats rising at quarter mark; unbeaten Vikings fall out of top 10 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-power-rankings-week-5-2026-nfl-season"
+      "title": "Indiana Fever GM Offers 1-Word Take on Sophie Cunningham\u2019s Future - Just Women's Sports",
+      "link": "https://justwomenssports.com/reads/sophie-cunningham-free-agency-indiana-fever-gm-comments/"
     }
   ],
   "weather": {
