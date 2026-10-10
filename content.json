@@ -1,9 +1,9 @@
 {
-  "quote": "Be yourself; everyone else is already taken. \u2013 Oscar Wilde",
-  "fact": "The praying mantis is the only insect that can turn its head",
-  "crypto": "BTC: $82,842 | ETH: $2,495.45",
+  "quote": "You are the average of the five people you spend most time with. \u2013 Jim Rohn",
+  "fact": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
+  "crypto": "BTC: $82,925 | ETH: $2,507.09",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
+  "joke": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,24 +12,64 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
-      "title": "Arc Raiders Jumps to Six-Month High Player Count With 2.0 Update and Free Weekend - TechPowerUp",
-      "link": "https://www.techpowerup.com/353541/arc-raiders-jumps-to-six-month-high-player-count-with-2-0-update-and-free-weekend"
+      "title": "A week with Googlebooks: four notes from our testing so far - The Verge",
+      "link": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable"
+    },
+    {
+      "title": "Pok\u00e9mon TCG's Delta Reign Expansion Is Finally Up For Preorder at Amazon and Target - IGN",
+      "link": "https://www.ign.com/articles/pokemon-tcg-delta-reign-amazon-preorders"
+    },
+    {
+      "title": "COVID is back, but it\u2019s not what it used to be - The Boston Globe",
+      "link": "https://www.bostonglobe.com/2026/10/09/metro/covid-massachusetts-variants-flu-pandemic-vaccine/"
+    },
+    {
+      "title": "The Witcher 3 Remastered's New Patch Adds Highly Requested Graphics Fix - Polygon.com",
+      "link": "https://www.polygon.com/the-witcher-3-wild-hunt-remastered-update-patch-notes-bloom-remove/"
+    },
+    {
+      "title": "Southern Tier hunter gets his crossbow buck - Syracuse.com",
+      "link": "https://www.syracuse.com/news/2026/10/southern-tier-hunter-gets-his-crossbow-buck.html"
+    },
+    {
+      "title": "Secret of Orange Cats Finally Revealed After 60-Year Search - ScienceAlert",
+      "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search"
+    },
+    {
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits - The Verge",
+      "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+    },
+    {
+      "title": "Huawei Mate 90 series wallpapers are now up for download - Huawei Central",
+      "link": "https://www.huaweicentral.com/huawei-mate-90-series-wallpapers-are-now-up-for-download/"
     },
     {
       "title": "Margaret Hamilton dies at 90. Her programming helped astronauts reach the moon. - The Washington Post",
       "link": "https://www.washingtonpost.com/obituaries/2026/10/08/margaret-hamilton-dies-90-her-programming-helped-astronauts-reach-moon/"
     },
     {
-      "title": "I Played 6 Hours of Phantom Blade Zero and Can\u2019t Stop Thinking About It | IGN Preview - IGN",
-      "link": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview"
+      "title": "Phantom Blade Zero Hands-On Preview: Six Hours With One of 2026\u2019s Most Exciting Action Games - The Outerhaven",
+      "link": "https://www.theouterhaven.net/phantom-blade-zero-hands-on-preview/"
     },
     {
       "title": "Dell launches Nvidia RTX Spark laptop with 18-core CPU, 3.2K 120Hz OLED display and 99 Wh battery - Notebookcheck",
       "link": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html"
     },
     {
+      "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones - 9to5Mac",
+      "link": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/"
+    },
+    {
       "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink - Ars Technica",
       "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+    },
+    {
+      "title": "AMD will bring FSR 4 to handhelds by the end of 2026 - The Verge",
+      "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
+    },
+    {
+      "title": "PhoneBot gives old smartphones a new job on two legs - Tech Xplore",
+      "link": "https://techxplore.com/news/2026-10-phonebot-smartphones-job-legs.html"
     },
     {
       "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October - Bloomberg.com",
@@ -44,62 +84,78 @@
       "link": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11"
     },
     {
-      "title": "Another Critical Role Actor Joins The Final Fantasy VII Revelation Cast As Shiva (But Not The Shiva You Think) - Kotaku",
-      "link": "https://kotaku.com/another-critical-role-actor-joins-the-final-fantasy-vii-revelation-cast-as-shiva-but-not-the-shiva-you-think-2000742683"
-    },
-    {
       "title": "No More Missed Zygarde Cells! 5 Big Quality of Life Changes Are Coming to Pok\u00e9mon GO - Pok\u00e9mon GO Hub",
       "link": "https://pokemongohub.net/post/news/no-more-missed-zygarde-cells-5-big-quality-of-life-changes-are-coming-to-pokemon-go/"
     },
     {
-      "title": "Latest 'Grand Theft Auto VI' Leak Features 25 Minutes of Gameplay and Jason's Concealed Weapon - Gizmodo",
-      "link": "https://gizmodo.com/latest-grand-theft-auto-vi-leak-features-25-minutes-of-gameplay-and-jasons-concealed-weapon-2000823553"
-    },
-    {
-      "title": "Patagonia's Sneaky Fall Sale Is an Embarrassment of Cozy Riches - GQ",
-      "link": "https://www.gq.com/story/patagonia-october-sale-2026"
-    },
-    {
-      "title": "Mafia III: Definitive Edition now available for PS5, Xbox Series - Gematsu",
-      "link": "https://www.gematsu.com/2026/10/mafia-iii-definitive-edition-now-available-for-ps5-xbox-series"
-    },
-    {
-      "title": "Microsoft cuts M365 Family and Premium OneDrive cloud storage from 6TB to just 2TB - Neowin",
-      "link": "https://www.neowin.net/news/microsoft-cuts-m365-family-and-premium-onedrive-cloud-storage-from-6tb-to-just-2tb/"
-    },
-    {
-      "title": "Amazon is phasing out Fire Tablets because they weren\u2019t \u2018giving customers what they were asking for\u2019 - The Verge",
-      "link": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay"
-    },
-    {
-      "title": "Someone just rebuilt Adobe Creative Cloud with AI \u2013 then gave it away for free - Creative Bloq",
-      "link": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free"
-    },
-    {
-      "title": "Testing 6 Completely Different Gravel Bikes Head to Head to Find the Future of Gravel - Outside Magazine",
-      "link": "https://velo.outsideonline.com/gravel/gravel-gear/velo-field-test-future-gravel-bikes-6-tested/#article"
-    },
-    {
-      "title": "Apple Product Launch Announced for October 13: 'Welcome Home' - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/08/apple-product-launch-october-13/"
-    },
-    {
-      "title": "Blizzard Is Making WoW Forever's Controversial Skyborne Race Look Worse On Purpose, And That's A Good Thing - Kotaku",
-      "link": "https://kotaku.com/blizzard-is-making-wow-forevers-controversial-skyborne-race-look-worse-on-purpose-and-thats-a-good-thing-2000742025"
-    },
-    {
-      "title": "Samsung\u2019s over-ear headphones might be called \u2018Galaxy Studio\u2019 - 9to5Google",
-      "link": "http://9to5google.com/2026/10/08/samsungs-over-ear-headphones-might-be-called-galaxy-studio/"
+      "title": "Tim Cook on his first month after Apple CEO transition: \u2018I\u2019m not meddling\u2019 - 9to5Mac",
+      "link": "https://9to5mac.com/2026/10/08/tim-cook-on-his-first-month-after-apple-ceo-transition-im-not-meddling/"
     }
   ],
   "sports_news": [
     {
-      "title": "Buccaneers 24-16 Cowboys (Oct 8, 2026) Game Recap - ESPN",
-      "link": "https://www.espn.com/nfl/recap?gameId\\\\u003d401872980"
+      "title": "Brian Schottenheimer considers staff changes after Cowboys' loss, Jerry Jones responds to embarrassing loss - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/cowboys-brian-schottenheimer-considers-staff-changes-jerry-jones/"
     },
     {
-      "title": "Guardians force decisive ALDS Game 5 as White Sox miss chance to reach first ALCS since 2005 - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/guardians-force-decisive-alds-game-5-white-sox-miss-chance-reach-first-alcs-since-2005"
+      "title": "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule - USA Today",
+      "link": "https://www.usatoday.com/story/sports/ncaaf/2026/10/09/college-football-bold-predictions-week-6-upset-picks/92135851007/"
+    },
+    {
+      "title": "F1 Singapore GP live commentary and updates: Sprint qualifying | Live text - Autosport",
+      "link": "https://www.autosport.com/f1/live-text/f1-singapore-gp-follow-sprint-qualifying-at-marina-bay-circuit-with-live-timing/1127984/"
+    },
+    {
+      "title": "Manchester United vs. Tottenham Hotspur Premier League Preview - Cartilage Free Captain",
+      "link": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-previews/74229/manchester-united-vs-tottenham-hotspur-preview-restart-take-two"
+    },
+    {
+      "title": "Manchester City charges: Enzo Maresca says 'titles absolutely not tainted' - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cmzxjdvv784xo"
+    },
+    {
+      "title": "Friday Insider: Tying a bow on Joey Porter Jr. ... Notes on Penguins' first weeks ... Henry Davis' off-field value - DK Pittsburgh Sports",
+      "link": "https://www.dkpittsburghsports.com/team/steelers/feed/topic/friday-insider-100926-joey-porter-jr-steelers-penguins-pirates-news-nfl-nhl-mlb-cah"
+    },
+    {
+      "title": "Sean Payton explains why he\u2019s taking over Broncos play-calling - Mile High Report",
+      "link": "https://www.milehighreport.com/denver-broncos-news/188071/sean-payton-explains-why-hes-taking-back-broncos-play-calling"
+    },
+    {
+      "title": "After Jalon Daniels leads Bucs over Cowboys, NFL teams are 8-4 when starting a backup QB - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-jalon-daniels-leads-bucs-over-cowboys-nfl-teams-are-8-4-when-starting-a-backup-qb"
+    },
+    {
+      "title": "'Longest week of my life' - how are Manchester City fans feeling after charges verdict? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cm040l634249o"
+    },
+    {
+      "title": "Yankees news: The ALDS loss autopsy - Pinstripe Alley",
+      "link": "https://www.pinstripealley.com/yankees-news/211296/yankees-postseason-analysis-playoffs-alds-rays-sweep-boone-chisholm-mlb"
+    },
+    {
+      "title": "What can the USWNT learn from World Cup champions Spain? - ESPN",
+      "link": "https://www.espn.com/soccer/story/_/id/50136992/what-uswnt-learn-world-cup-champions-spain"
+    },
+    {
+      "title": "Dak Prescott on Cowboys loss to Bucs: 'We were supposed to win' - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://www.dallascowboys.com/news/dak-prescott-on-cowboys-loss-to-bucs-we-were-supposed-to-win"
+    },
+    {
+      "title": "Luka Don\u010di\u0107, Sandro Mamukelashvili shine as Lakers down Kings - Silver Screen and Roll",
+      "link": "https://www.silverscreenandroll.com/lakers-scores-results/127131/lakers-vs-kings-recap-box-score-stats-final-luka-doncic-austin-reaves"
+    },
+    {
+      "title": "LeBron James scores 10 points in 18 minutes in 76ers debut - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
+    },
+    {
+      "title": "Guardians beat White Sox, 9-5, bring ALDS home for winner-take-all Game 5 - Cleveland.com",
+      "link": "https://www.cleveland.com/guardians/2026/10/guardians-beat-white-sox-9-5-bring-alds-home-for-winner-take-all-game-5.html"
+    },
+    {
+      "title": "CRAWFORD | A long day with Pat Kelsey, a billionaire and a little perspective - WDRB",
+      "link": "https://www.wdrbwave.com/2026/10/09/crawford-long-day-with-pat-kelsey-billionaire-little-perspective/"
     },
     {
       "title": "No. 1 Nebraska volleyball stays perfect, sweeps No. 15 Indiana - On3",
@@ -110,68 +166,12 @@
       "link": "https://steelersdepot.com/2026/10/this-is-not-rocket-science-analyst-sees-clear-path-for-steelers-to-have-success-against-colts/"
     },
     {
-      "title": "LeBron James, Sixers' starters show massive upside, with a lot of work still to do - PhillyVoice",
-      "link": "https://www.phillyvoice.com/sixers-vs-nets-box-score-lebron-james-debut-highlights-joel-embiid-tyrese-maxey-jaylen-brown-vj-edgecombe-nba-ny/"
+      "title": "Brewers vs Dodgers game times released, see full NLCS schedule - Milwaukee Journal Sentinel",
+      "link": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/08/brewers-dodgers-start-times-nlcs/92157700007/"
     },
     {
-      "title": "Who is Jalon Daniels? What to know about rookie filling in for Baker Mayfield - USA Today",
-      "link": "https://www.usatoday.com/story/sports/nfl/buccaneers/2026/10/08/jalon-daniels-buccaneers-baker-mayfield-injury/92133989007/"
-    },
-    {
-      "title": "Report: Capitals and Alex Ovechkin discussed possibility of two-year contract over the offseason - RMNB",
-      "link": "https://russianmachineneverbreaks.com/2026/10/08/alex-ovechkin-capitals-discussed-two-year-contract-nhl-report/"
-    },
-    {
-      "title": "Jazz Chisholm Jr. Wants To Stay With Yankees - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/10/jazz-chisholm-jr-wants-to-stay-with-yankees.html"
-    },
-    {
-      "title": "What signing Mike Brown to the 53-man roster means for the Patriots - Pats Pulpit",
-      "link": "https://www.patspulpit.com/new-england-patriots-analysis/139919/mike-brown-promotion-signing-53-man-roster-impact-analysis"
-    },
-    {
-      "title": "Leistikow's Iowa-Washington prediction, an opportunity for DJ Vonnahme - Hawk Central",
-      "link": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/10/08/iowa-football-washington-prediction-pick-dj-vonnahme/92133031007/"
-    },
-    {
-      "title": "McCarthy: Pittman (foot) will miss multiple weeks - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-08/mccarthy-pittman-foot-will-miss-multiple-weeks"
-    },
-    {
-      "title": "Tony Romo Disqualified from Korn Ferry Golf Qualifying Tournament After Scorecard Mix-Up - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25508223-tony-romo-disqualified-korn-ferry-golf-qualifying-tournament-after-scorecard-mix"
-    },
-    {
-      "title": "SCHEDULE: First pitch times announced for NLCS between Brewers and Dodgers - WISN",
-      "link": "https://www.wisn.com/article/mlb-nlcs-brewers-dodgers-game-start-time-schedule/74085253"
-    },
-    {
-      "title": "Ashton Jeanty downgraded to limited practice on Thursday - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-downgraded-to-limited-practice-on-thursday"
-    },
-    {
-      "title": "Staley perplexed by Aikman's calls on Saints' D: 'They're not true' - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50135736/staley-perplexed-aikman-saints-d"
-    },
-    {
-      "title": "College football odds, picks, predictions for Week 6, 2026: Computer likes Arkansas and Nebraska - CBS Sports",
-      "link": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-top-bets-lines-week-6-2026/"
-    },
-    {
-      "title": "What you need to know about Friday\u2019s BYU-Iowa State game - Deseret News",
-      "link": "https://www.deseret.com/sports/2026/10/08/byu-cougars-football-how-to-watch-iowa-state-2026/"
-    },
-    {
-      "title": "End of season brings sadness, uncertainty for Padres\u2019 soon-to-be free agents - San Diego Union-Tribune",
-      "link": "https://wpdash.medianewsgroup.com/2026/10/08/end-of-season-brings-uncertainty-for-padres-soon-to-be-free-agents/"
-    },
-    {
-      "title": "Alabama modifies game-day plans ahead of Georgia game due to expected weather conditions - WBMA",
-      "link": "https://abc3340.com/news/local/alabama-modifies-game-day-plans-ahead-of-georgia-game-due-to-expected-weather-conditions-tuscaloosa-kalen-deboer-nick-saban-game-time-kickoff-james-spann"
-    },
-    {
-      "title": "South Florida vs UTSA Prediction, Top Picks & Odds Tonight: College Football Week 6 - Covers.com",
-      "link": "https://www.covers.com/ncaaf/south-florida-vs-utsa-prediction-picks-best-bets-tonight-oct-8-2026"
+      "title": "4 takeaways as Celtics newcomer shines in win over Cavs in preseason opener - MassLive.com",
+      "link": "https://www.masslive.com/celtics/2026/10/4-takeaways-as-celtics-newcomer-shines-in-win-over-cavs-in-preseason-opener.html"
     }
   ],
   "weather": {
