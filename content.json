@@ -1,9 +1,9 @@
 {
-  "quote": "I have lived with several Zen masters -- all of them cats. \u2013 Eckhart Tolle",
-  "fact": "On average, Americans eat 18 acres of pizza everyday.",
-  "crypto": "BTC: $81,700 | ETH: $2,434.37",
+  "quote": "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. \u2013 Kahlil Gibran",
+  "fact": "Slugs have four noses.",
+  "crypto": "BTC: $81,722 | ETH: $2,415.33",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "Why did the teddy bear say \u201cno\u201d to dessert? Because she was stuffed.",
+  "joke": "I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,44 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
+      "link": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/"
+    },
+    {
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+    },
+    {
+      "title": "iOS 27.2 beta 4 no longer includes Apple\u2019s overhauled Health app - 9to5Mac",
+      "link": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/"
+    },
+    {
+      "title": "AI Designs Computer Chips We Can\u2019t Understand \u2014 But They Seem to Work Really Well - ZME Science",
+      "link": "https://www.zmescience.com/science/computer-chips-made-by-ai-rep/"
+    },
+    {
+      "title": "Apple Just Declared War on Smart Home Security - CNET",
+      "link": "https://www.cnet.com/home/smart-home/apple-just-declared-war-on-smart-home-security/"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+    },
+    {
       "title": "EXCLUSIVE: EA Sports College Football\u2019s Future in Jeopardy, Sources Fear - Insider Gaming",
       "link": "https://insider-gaming.com/ea-sports-college-football-future/"
     },
     {
-      "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail - Mashable",
-      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-returns-24-minute-video"
-    },
-    {
       "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy - Eurogamer.net",
       "link": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6"
+    },
+    {
+      "title": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves - Nintendo Life",
+      "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition"
+    },
+    {
+      "title": "PS5 games are now booting on Xbox hardware thanks to emulation, because apparently anything is possible now - Windows Central",
+      "link": "https://www.windowscentral.com/gaming/ps5-games-booting-on-xbox-thanks-to-emulation"
     },
     {
       "title": "Grand Theft Auto's Iconic Cover Design Only Exists Because Of 9/11 And Was Created At The Last Minute - Kotaku",
@@ -32,74 +60,58 @@
       "link": "https://www.pcmag.com/news/exclusive-iphone-duo-18-pro-cooling-system-apple-engineers-reveal-trick"
     },
     {
+      "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter - IGN",
+      "link": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter"
+    },
+    {
       "title": "The \u2018GTA 6\u2019 PC Release Date Window Revealed, Says New Report - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2026/10/13/the-gta-6-pc-release-date-window-revealed-says-new-report/"
     },
     {
-      "title": "Apple\u2019s new smart home line-up includes a smart lock, thermostat and video doorbells - TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month - The Verge",
+      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
     },
     {
-      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI - CNBC",
-      "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+      "title": "Sony Reveals Gorgeous New Playstation 5 Hardware - Polygon.com",
+      "link": "https://www.polygon.com/playstation-5-midnight-black-japan-exclusive-console-controller-revealed/"
     },
     {
       "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands - TechCrunch",
       "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"
     },
     {
-      "title": "\u2018I Got That Completely Wrong\u2019 \u2014 Dan Houser Considers Rockstar\u2019s Max Payne 3 a Failure - IGN",
-      "link": "https://www.ign.com/articles/i-got-that-completely-wrong-dan-houser-considers-rockstars-max-payne-3-a-failure"
-    },
-    {
-      "title": "NVIDIA Unveils \"Preset C \"DLSS Frame Generation with up to 35% Faster Generation - TechPowerUp",
-      "link": "https://www.techpowerup.com/353670/nvidia-unveils-preset-c-dlss-frame-generation-with-up-to-35-faster-generation"
-    },
-    {
-      "title": "Apple announces the HomePod Mini 2, but it isn\u2019t ready for Siri AI at launch - The Verge",
-      "link": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai"
-    },
-    {
-      "title": "Bungie Drops Hint About \u2018Destiny 1\u2019 Remaster And PC Release - Forbes",
-      "link": "https://www.forbes.com/sites/paultassi/2026/10/13/bungie-drops-hint-about-destiny-1-remaster-and-pc-release/"
-    },
-    {
-      "title": "Apple Explains Why Chrome Users Should 'Switch to Safari' - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/13/apple-switch-to-safari-vs-chrome/"
-    },
-    {
-      "title": "Casual game store Legacy Games is shutting down, purchases won\u2019t be re-downloadable despite \u2018keep forever\u2019 slogan - Video Games Chronicle",
-      "link": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
-    },
-    {
-      "title": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest - Push Square",
-      "link": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2"
-    },
-    {
-      "title": "Garmin MARQ Gen3 In-Depth Review: Worth $3,100? - DC Rainmaker",
-      "link": "https://www.dcrainmaker.com/2026/10/garmin-marq-gen3-in-depth-review.html"
-    },
-    {
-      "title": "After a year of layoffs and uncertainty, Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\" - Eurogamer.net",
-      "link": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip"
-    },
-    {
-      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI - BBC",
-      "link": "https://www.bbc.com/news/articles/cvj6j812dg4no"
+      "title": "Pok\u00e9mon \u00d7 Beats Pill Wireless Bluetooth\u00ae Speaker Coming Soon - Pokemon.com",
+      "link": "https://www.pokemon.com/us/news/pokemon-beats-pill-wireless-bluetooth-speaker-coming-soon"
     }
   ],
   "sports_news": [
+    {
+      "title": "Micah Parsons: \"Jayden Daniels probably cost Dan Quinn his job\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-jayden-daniels-probably-cost-dan-quinn-his-job"
+    },
+    {
+      "title": "49ers report card, grades: The defensive line saved their best game in years for the Seahawks - Niners Nation",
+      "link": "https://www.ninersnation.com/san-francisco-49ers-injuries/164163/49ers-report-card-grades-the-defensive-line-saved-their-best-game-in-years-for-the-seahawks"
+    },
+    {
+      "title": "Source - Patriots lineman Will Campbell out with MCL sprain - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50175463/source-patriots-lineman-campbell-mcl-sprain"
+    },
+    {
+      "title": "NFL Network: Rams releasing kicker Harrison Mevis, signing K Blake Grupe off Jets' practice squad - NFL.com",
+      "link": "https://www.nfl.com/news/rams-releasing-kicker-harrison-mevis-signing-k-blake-grupe-off-jets-practice-squad"
+    },
     {
       "title": "Highly touted FSU CB Chuck Kennon dismissed from Seminoles' football program - On3",
       "link": "https://www.on3.com/teams/florida-state-seminoles/news/highly-touted-fsu-cb-chuck-kennon-dismissed-from-seminoles-football-program/"
     },
     {
-      "title": "Sources: Rams release kicker Mevis after miscues in loss, sign Grupe from Jets - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50175234/rams-release-kicker-mevis-miscues-ot-loss"
+      "title": "Controversial Search Firm Memo on Brian Flores Unsealed by Court - Front Office Sports",
+      "link": "http://frontofficesports.com/article/brian-flores-korn-ferry-memo-unsealed/"
     },
     {
-      "title": "Atlanta Dream WNBA Finals home Games 3 and 4 moved to larger arena - USA Today",
-      "link": "https://www.usatoday.com/story/sports/wnba/2026/10/13/atlanta-dream-wnba-finals-state-farm-arena/92222973007/"
+      "title": "WNBA Finals Games 3, 4 move to State Farm Arena to accommodate more fans - ESPN",
+      "link": "https://www.espn.com/wnba/story/_/id/50174735/wnba-finals-games-3-4-held-atlanta-state-farm-arena"
     },
     {
       "title": "Mariners Granted Permission To Interview Joe Espada For Managerial Opening - MLB Trade Rumors",
@@ -110,20 +122,20 @@
       "link": "https://www.nfl.com/news/nfl-power-rankings-week-6-2026-nfl-season"
     },
     {
-      "title": "Key Korn Ferry document in Brian Flores case becomes public - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/key-korn-ferry-document-in-brian-flores-case-becomes-public"
-    },
-    {
       "title": "Sabres head to Montreal short three defensemen - Audacy",
       "link": "https://www.audacy.com/wgr550/sports/sabres/sabres-head-to-montreal-short-three-defensemen"
     },
     {
-      "title": "Man City charges: Football regulator will quit if independence compromised - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cjkge245n0gzo"
+      "title": "Jackson Koivun joining three major champions in Skins Game - Golf Channel",
+      "link": "https://www.golfchannel.com/pga-tour/news/jackson-koivun-joining-three-major-champions-in-skins-game"
     },
     {
-      "title": "Bills report card: Monday night thriller reveals heroes, glaring weakness - Democrat and Chronicle",
-      "link": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/10/13/buffalo-bills-report-card-after-overtime-win-over-la-rams/92228168007/"
+      "title": "What changes could the Flyers make if their season continues to spiral? - Daily Faceoff",
+      "link": "https://www.dailyfaceoff.com/news/what-changes-could-philadelphia-flyers-make-season-struggles-zegras-tippett-michkov"
+    },
+    {
+      "title": "Man City charges: Football regulator will quit if independence compromised - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/cjkge245n0gzo"
     },
     {
       "title": "Christian Parker seems to be getting Sean Desai\u2019d by the Cowboys - Bleeding Green Nation",
@@ -134,8 +146,12 @@
       "link": "https://www.nbcsports.com/fantasy/football/news/2026-fantasy-football-week-6-defense-dst-rankings-and-streamers"
     },
     {
-      "title": "Did Jayden Daniels think overtime would continue after the first period ended? - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/did-jayden-daniels-think-overtime-would-continue-after-the-first-period-ended"
+      "title": "2026-27 Fantasy Basketball: 7 players we\u2019re fading in drafts - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/basketball/news/2026-27-fantasy-basketball-7-players-were-fading-in-drafts"
+    },
+    {
+      "title": "Puka Nacua\u2019s latest career night foiled as Rams fall to Bills in overtime thriller - Deseret News",
+      "link": "https://www.deseret.com/sports/2026/10/13/puka-nacua-receptions-record-los-angeles-rams-loss-buffalo-bills-monday-night-football/"
     },
     {
       "title": "2026 College Football Playoff bracket projection: UCLA just misses cut, Notre Dame into top four - CBS Sports",
@@ -146,28 +162,8 @@
       "link": "https://www.cbssports.com/mlb/news/shohei-ohtani-dodgers-struggles-benching-2026-mlb-playoffs-nlcs/"
     },
     {
-      "title": "Sources: Patriots' TreVeyon Henderson out multiple weeks with high ankle sprain - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50173985/sources-patriots-treveyon-henderson-high-ankle-sprain"
-    },
-    {
-      "title": "Brian Branch precedent points to a suspension for Alaric Jackson - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-branch-precedent-points-to-a-suspension-for-alaric-jackson"
-    },
-    {
-      "title": "Alex Pereira says UFC used \u2018influencers\u2019 like Daniel Cormier to push for Ciryl Gane vs. Josh Hokit: \u2018It was all kind of manipulated\u2019 - MMA Fighting",
-      "link": "https://www.mmafighting.com/ufc/515436/alex-pereira-says-ufc-used-influencers-like-daniel-cormier-to-push-for-ciryl-gane-vs-josh-hokit-it-was-all-kind-of-manipulated"
-    },
-    {
-      "title": "University of Maryland club tennis team suspended after sharing racist imagery - NBC News",
-      "link": "https://www.nbcnews.com/news/us-news/university-maryland-club-tennis-team-suspended-sharing-racist-imagery-rcna603163"
-    },
-    {
-      "title": "South Africa vs Australia: The questions posed after Proteas' heavy defeat - BBC",
-      "link": "https://www.bbc.com/sport/cricket/articles/cmd7qv2pg333o"
-    },
-    {
-      "title": "Netflix Scores Exclusive 2030 FIFA World Cup Rights in Spain and Andorra in Landmark Deal - Variety",
-      "link": "https://variety.com/2026/tv/markets-festivals/netflix-2030-fifa-world-cup-rights-spain-andorra-1236910014/"
+      "title": "Ketlen Vieira releases statement after 6-month suspension for failed drug test - MMA Fighting",
+      "link": "https://www.mmafighting.com/pfl/515455/ketlen-vieira-releases-statement-after-6-month-suspension-for-failed-drug-test"
     }
   ],
   "weather": {
