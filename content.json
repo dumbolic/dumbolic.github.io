@@ -1,9 +1,9 @@
 {
-  "quote": "Just living is not enough... one must have sunshine, freedom, and a little flower. \u2013 Hans Christian Andersen",
-  "fact": "Daniel Boone hated coonskin caps.",
-  "crypto": "BTC: $82,097 | ETH: $2,451.5",
+  "quote": "No one ever said life was fair. Just Eventful. \u2013 Carol Burnett",
+  "fact": "The \"pound\" key on your keyboard (#) is called an octotroph. ",
+  "crypto": "BTC: $82,312 | ETH: $2,473.84",
   "tip": "Commit often with meaningful messages.",
-  "joke": "A magician was driving down the street and then he turned into a driveway.",
+  "joke": "How does a scientist freshen their breath? With experi-mints!",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,16 +12,36 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations - CNBC",
+      "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
+    },
+    {
+      "title": "Apple Now Inviting Media to October 28 'Launch Experience' - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzdlc2JrdWVnZ3dtOGs5RENyNUhjZGpPTkRSTmowN0VhQVJxOVhZSEVGV2ZnNkZMWG9zdG8yUWkzbjdmYVhnQTVmVHhjdnVWcGhwYmJhMVJ2WGN1aE1wX19Uclo3cHZwZmJFcnYwaFhzcVdESHNWWFZMdW9Nc1Q5eXAzMFdqOHYzQmVJ?oc=5"
+    },
+    {
+      "title": "Scientists are finding AI may make us remember things that never happened - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUp6RVZiZmYxYjBWLWFpNldiYlY1NWFFenNFVFNUaVZxVUo4LTRDZW15Yy1CeU9Wa0N5bjhobUNGVk1STzBtQ3NYeUtrb1drM0d6QUFDMFJoM3ZWQTh4U1ZKX2ZtaEVSeDYwTUg3QUU3WHdLa2pINWZQcnd5bVd1VldacV9OaGhKdVh0Ti02c0RueGxnQ2FKMmpnUzg5N2dzU1I1bW9yMENMSDEyOGdIblVlS013cnlMbEZ0N0dYSmc?oc=5"
+    },
+    {
+      "title": "Big Walk Isn't On Xbox Because Of The 'Palestinian-Led BDS Movement' - Aftermath",
+      "link": "https://aftermath.site/big-walk-xbox-bds-palestine-boycott/"
+    },
+    {
+      "title": "Ubisoft to reduce workforce across D\u00fcsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\" - GamesIndustry.biz",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWVoY2RrYXhrMGMxOTl2eWlXSjVHa2EwTEp2V28tZkVCV3JpbW1JcjBKUTJQUDVKbzFoaUZGc0dtdzlxU29kdHlwQVI4NzJBbmpQNmpfZ1ZLbENZRHR0RHluejB6aTdnQWpON2F5N241OHgzcC1ybUs5RHRjZzdjdGJGb0R3eWx6djJrQjBMS1JScGFXRkJoRHhTdU0zYnVRMlRNT0Y5S004d3NqLUtBMDF4NENRUUR4QmNfVHlPaUdVaS1kQ0Fic080QUNKVU53M3A4?oc=5"
+    },
+    {
       "title": "AI Controls IPhone Via ESP32 - Hackaday",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SN2NUNmhNTnBTWTloU1VmbTZMUEhmcFdJSkxTa3JzblV3NU1VX00wR2pjRTBUSmQwR3pXVmdmcGZoSk1kRko1YVp6d2otVG5TU1BiM21PQnFqNTI2Y3FLS0hIalozOUZDNENndzRB?oc=5"
+      "link": "https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/"
     },
     {
       "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
       "link": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today"
     },
     {
-      "title": "Modelling mouse embryogenesis from chemically induced totipotent stem cells - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVDVpaUUyYXQ2UEtJZEZUV2JraDZzTkF5Z0VBYm05SFcxY3REYlJVcDA1X0hocUdOdkhVblFNbWhKTTVHeGpXWC1YWFc5ZFdOYUxaYktNbHUwU3ltRWNN?oc=5"
+      "title": "Galaxy S27 and S27 Plus rumored to miss on an exciting camera upgrade - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWtUWkpCZlNKcUkwUlh4SnhQOEZBYkpRX1VpMnQ5VHhBemtQZjdZMzQ5YmhKREplU0M0ZjlKSWRrbTdrSHJPcE9OR0swdUJnbDVxNGhrM01lYTRRRU04eGdlYzhDbnJfamFIalB3clRBMHp1T0E4THNnT1U3ampzNV85Ri1aTmZzVWJ1VEJKZ3NXMHoxNXZjeGhrbkdIdVc0Y0ZqY3Q5LTV0U2VybV9B?oc=5"
     },
     {
       "title": "Old Google Home and Nest speakers getting big firmware update - 9to5Google",
@@ -30,6 +50,14 @@
     {
       "title": "Apple and Schneider\u2019s new smart thermostat could help cut your electric bill - Electrek",
       "link": "http://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/"
+    },
+    {
+      "title": "Gemini AI Plus subscribers will lose access to Pro models next month - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51SU1Cd0ZISHVIRTRHVWxPd3pSaXFmam1uNVBIWnRGOXhvSGpKNGd0a01nWjJReXZOLUpoY1BrM0xFTW51ZTZBUGVXSmRzQU9DRUU3V2ZqemVrS0dHNWFzbGlRcGpZemtaWjdYb0RFcHZ3YWwtTkZr?oc=5"
+    },
+    {
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office - Decrypt",
+      "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office"
     },
     {
       "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
@@ -56,46 +84,42 @@
       "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"
     },
     {
+      "title": "Microsoft is gauging interest in Fallout, Elder Scrolls, and Minecraft becoming Xbox exclusives \u2014 yes, really - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUhRWXdMWjJzalUwRE5wZnp1UlBBcTU0bkk4YzFhVHJHZm00LUFqeWxKb2t1ZzY4Ymktdms4TTVkR0drUnBrV1NTbkoxWVR5VkRoTHY5M2YyNmYtdS1BTE9BSVFlUkdvSUJnbmp4ekxjenR1U3VPX0UyUFJuTG84VGFBemh3bGRtLWZiS1VMMXhmMG1ud2NkU0ZaSmlHb0F1a2o5NF9VZ1ByRllEelZSbVNib25Da0ZVd2M0RWZkek52WTBuTGxHU2tnNzdJOUN6c1FTbEZnWENMd3NDaEZIUVhSRFp1SWtWRG5kTk05RVU?oc=5"
+    },
+    {
       "title": "GTA 6 Reviews Will Be Released Before Launch - Insider Gaming",
       "link": "https://insider-gaming.com/gta-6-reviews-released-before-launch/"
-    },
-    {
-      "title": "YouTube sticks new labels on AI-generated songs - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
-    },
-    {
-      "title": "Study Finds Almost Half of PS5 Disc Backlash Came from Fake Accounts - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/10/study-finds-almost-half-of-ps5-disc-backlash-came-from-fake-accounts"
-    },
-    {
-      "title": "As Microsoft kills off Publisher, LibreOffice steps in with free support for your PUB files - XDA",
-      "link": "https://www.xda-developers.com/as-microsoft-kills-off-publisher-libreoffice-steps-in-with-free-support-for-your-pub-files/"
-    },
-    {
-      "title": "Samsung Galaxy phones can't tell if they're connected to Bluetooth or not - Android Authority",
-      "link": "https://www.androidauthority.com/samsung-galaxy-phone-volume-icon-bug-3723386/"
-    },
-    {
-      "title": "Zero Escape And Hundred Line Director's New Game Canceled Before He Could Announce New Studio [UPDATE: Something's Off] - Kotaku",
-      "link": "https://kotaku.com/kotaro-uchikoshi-hundred-line-zero-escape-crash-keys-2000745989"
-    },
-    {
-      "title": "Researchers use AI to design proteins that cut up other proteins - Ars Technica",
-      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
-    },
-    {
-      "title": "New Xbox Nano Controller is designed for \"younger players, smaller hands, or anyone seeking something portable\" - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/news/2026/10/new-xbox-nano-controller-is-designed-for-younger-players-smaller-hands-or-anyone-seeking-something-portable"
-    },
-    {
-      "title": "Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks \"Humbling\" Reality Of Indie Dev - GameSpot",
-      "link": "https://www.gamespot.com/articles/jeff-kaplan-was-an-industry-icon-now-peers-ignore-his-emails-ex-overwatch-director-talks-humbling-reality-of-indie-dev/"
     }
   ],
   "sports_news": [
     {
-      "title": "'We're Playing Like S--t,' Dodgers' Max Muncy Reacts to 3-0 NLCS Deficit vs. Brewers - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25510399-were-playing-s-t-dodgers-max-muncy-reacts-3-0-nlcs-deficit-vs-brewers"
+      "title": "Australia edge New Zealand in epic World Cup opener - BBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OaHFDSWhHTFczejFVcXBxcWVjd2oyN3YxSHRQY2R0QkktRFJaTDF2MTBpUFpIRjhnUmFyWmR4eGNoSWVjNWx6bGwyYUhXOTlrNzJKb21WRWJpVEJDdVlPYTA1Y25Qc3N5STMtLWpB?oc=5"
+    },
+    {
+      "title": "A Harbaugh in trouble, problems in the City of Angels and a London showdown: What to watch in Week 6 of the NFL - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53ZDIxNElJYnJESEQtbTRQbW1oVFB6Y25xSjlaLXRZdHJtTXF6aHJacnEtbHFucUdaZmpESGxmWVNiTS1uUHBfZGl3TnZYbmJzenJPSEhQR0lzQzZBOFcwaDQtbDZHSEplX2p6WUVGOWNqazBh?oc=5"
+    },
+    {
+      "title": "What NBA preseason has revealed about the Lakers, 76ers, Celtics and every team - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmFVZkNfVjd5RVZWZVRmREZmVFJfRlMyRGFqblNnVjdGal9CUkZITEtlYkhxUENsWE1oSEgzN1dmX0szTndvdlB0Q3N0VkJpeXVWOG1ZTnFucU1oWVNob1F1ajVpR1FjMVZTWHNHTWRfeFAyU1hpaFRBeXY3TGhHRVlCTE5NZy1pdXFUUnJWOEplQQ?oc=5"
+    },
+    {
+      "title": "Lisandro Martinez: Roy Keane says Man Utd 'like a circus' - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/c3n04gy12r91o"
+    },
+    {
+      "title": "Tyler Shough: We can\u2019t let Gayle Benson\u2019s comments affect our daily process - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-we-cant-let-gayle-bensons-comments-affect-our-daily-process"
+    },
+    {
+      "title": "Brewers-Dodgers NLCS Game 4 FAQ (8 ET, FS1/FOX One) - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnpQZHdfUjdrdFExamQ3WEdDRnFJc3NhdWRWLTJBLWlfTGdZenR1NXdGRVRZSnd1N18wdG9ocmQwclhoREFUZ09WbklKZjZaWVdCMEEwNzNKalVWMXFwX1ZnaWZYMjRKNHhqS0o4RUZTaE8zZHdRQi1KOF8xQ0g3YVRheUZlc29wWjJ1N3ZVVS1UNTBWUXQ0eGdZQWJXeTZyc05WaGlpZ0ducUtw?oc=5"
+    },
+    {
+      "title": "Penn State has more than 90,000 season ticket holders. The real story\u2019s in the empty seats - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjU0THdRbjcyaE9jd2FOTFl2TlpWaVRZMTg2OExJaWxnaXZBVGMxbXIyMmU3eWY1U2FwanRqaVd0cnp0cUZCTUc2aHVvVGZfZXRnVjlZSVRwN1U2aUszTWR5RXBvTHB4b2FHX2ZsMDFlSmVTaVJQNHRFXzNYV0xtalZGdjdtTXZEVmZLUVBXU1Aya2lyZVJTNHdTSTJpb3ZLakxPaWFycXE?oc=5"
     },
     {
       "title": "Bauers blast has Brewers on the brink of World Series - Brew Crew Ball",
@@ -122,12 +146,12 @@
       "link": "https://www.mlbtraderumors.com/2026/10/white-sox-to-pursue-starting-pitching.html"
     },
     {
-      "title": "NFL Week 6 injury report: Broncos' Patrick Surtain, Talanoa Hufanga ruled out - CBS Sports",
-      "link": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-broncos-patrick-surtain-talanoa-hufanga-ruled-out/"
+      "title": "Bradley Chubb explains his side of altercation with Alaric Jackson - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVlyZG5BdWZ6bGJwS2w1Rml4M0hZMC1sZEtHdGpNNzY4TnZNNGU4emV3SnplNFViVWNYeGNMRmNfcW9HRVBVZ3ZMS2RUajJIcUVmNWJoc3V4RUwyc2FQQ3V5SGxXN2VtYnd3dVBiUGlrYjE5NE92Q0JQVmt0Q3lxaWhrZEVxZG41ZUFqc29ncmRqY0J6RkVyNXkwb1ZJZnJPRlRvVWxUbTZBd2hvV2VUS09uZWd5WUhqT2pzNWZwOU03bzF0ZFNn?oc=5"
     },
     {
-      "title": "Mike Tomlin offers blunt take on NFL players-only meetings: \u2018I think you\u2019re dead\u2019 - Fox News",
-      "link": "https://www.foxnews.com/outkick-sports/mike-tomlin-offers-blunt-take-nfl-players-only-meetings-think-youre-dead"
+      "title": "In ALCS Game 2, Jos\u00e9 Ram\u00edrez let the Guardians down. He won't stay there for long - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQand6U3F2SkNva0pNOTB1TTBqOE0xTm5jWm1pRnQ0SGQzZ0xRV3VBLUJpX3pSTGlqaWdfdjU4VXVMMVlsUGZ1alItNGNpdjh1VDEzNXQwQVRxUGE5Zi1yS3RfT1pnUmphVktpUW1pSUhSSWZObndjR0ZIekdkcjR6WE9tcDZsdG11NEVTT285NTByZ09xeXBSMlJxVmkxaFExOWp0Qk85OTEtTnY0OXF6WDRJQThGZw?oc=5"
     },
     {
       "title": "WA cross-country runners protest transgender teammate's participation - The Seattle Times",
@@ -144,26 +168,6 @@
     {
       "title": "Nick Caserio: Marvin Harrison Jr. trade was finalized on Friday - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3JuVmpaMXplVllTZ1V6V254R3R1dWtsT1hxbXBLVG5mdEVhemZfQWZYZ3BONU42NHhJWFQtMk5pdDlLWXczMncyQ1hROHpiRG5nYnNXOWg5M1htcXNGNmw4VWlzdmhlbmh4eVJBTHYyeXJFOTUydDh0MlNrams1aU51N2dVQmpvalMtTGY0M0JqMzB5SUtoYjB0c1JXRXNBZkJFejlrWkpva2gyOFY1M2lMTHZ4eEowX0lPWnY2SUE?oc=5"
-    },
-    {
-      "title": "Klint Kubiak takes hard stance on Ashton Jeanty\u2019s playing status - Silver And Black Pride",
-      "link": "https://www.silverandblackpride.com/las-vegas-raiders-news/142866/raiders-news-ashton-jeanty-play-week-6-bills"
-    },
-    {
-      "title": "Gymnastics coach who recorded girls in Mississippi gym's bathroom sentenced to 90 years in prison - CBS News",
-      "link": "https://www.cbsnews.com/news/sean-gardner-mississippi-gymnastics-coach-prison-sentence/"
-    },
-    {
-      "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2FUVng2dEFaRlRPdDF2OUwyMmVQaXlhc24zWlA3ZzBGQ0R1RUlNUU9nNi1hOUxoVXF4bkhEWHpLeU1pR2pxNmZETkRzR2dYR3R4N0JMajNTYzF5dnh4a0NGdjdGc0pyQUNKWGNfTTFjaU9oNEZlNVF5cWlHSDByM2pENkRXR0NUUzBxWmVBQTlvY25wX09RZmx5dw?oc=5"
-    },
-    {
-      "title": "Bedard's Breakdown: Drake Maye was great again vs. a low-rated pass defense, how does that compare to others? - Boston Sports Journal",
-      "link": "https://www.bostonsportsjournal.com/2026/10/14/bedards-breakdown-drake-maye-was-great-again-vs-a-low-rated-pass-defense-how-does-that-compare-to-others"
-    },
-    {
-      "title": "Infantino faces showdown with internal critics as deadline for challengers nears - Politico",
-      "link": "https://www.politico.com/news/2026/10/14/infantino-faces-fifa-council-internal-critics-deadline-challengers-nears-01119591"
     }
   ],
   "weather": {
