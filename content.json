@@ -1,9 +1,9 @@
 {
-  "quote": "The most important thing in communication is to hear what isn't being said. \u2013 Peter Drucker",
-  "fact": "In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.",
-  "crypto": "BTC: $81,951 | ETH: $2,401.56",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I used to work for an origami company but they folded.",
+  "quote": "Some people want it to happen, some wish it would happen, others make it happen. \u2013 Michael Jordan",
+  "fact": "James Bond`s car had three different license plates in Goldfinger",
+  "crypto": "BTC: $82,007 | ETH: $2,401.92",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "Why did the clown have neck pain? - Because he slept funny",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,12 +12,56 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "New Tools Let Users Edit and Load Modified VBIOS on GeForce RTX GPUs Without Flashing - TechPowerUp",
+      "link": "https://www.techpowerup.com/353849/new-tools-let-users-edit-and-load-modified-vbios-on-geforce-rtx-gpus-without-flashing"
+    },
+    {
+      "title": "Apple Expected to Release New Products on Next Four Fridays - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
+    },
+    {
+      "title": "Apple\u2019s HomeViews Reportedly Collected Dust in Warehouses \u2018For the Better Part of a Year\u2019 - Gizmodo",
+      "link": "https://gizmodo.com/apples-homeviews-reportedly-collected-dust-in-warehouses-for-the-better-part-of-a-year-2000827427"
+    },
+    {
+      "title": "Latest On AEW Status of Keith Lee - 411MANIA",
+      "link": "https://411mania.com/wrestling/latest-aew-status-keith-lee/"
+    },
+    {
+      "title": "Video game ownership bill introduced in Congress - The Verge",
+      "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act"
+    },
+    {
+      "title": "Apple and T-Mobile oversight lets you finance iPhone 18 Pro or Duo on a prepaid plan - PhoneArena",
+      "link": "https://www.phonearena.com/news/iphone-18-pro-duo-prepaid-financing_id184131"
+    },
+    {
+      "title": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/"
+    },
+    {
+      "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/"
+    },
+    {
+      "title": "AI-Generated Content Can Plant Fake Memories, Researchers Say - Gizmodo",
+      "link": "https://gizmodo.com/ai-generated-content-can-plant-fake-memories-researchers-say-2000826459"
+    },
+    {
+      "title": "Google debuts $180 Fitbit Edge tracker in continued health push - The Seattle Times",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6"
+    },
+    {
       "title": "Show us your clutter, and we\u2019ll tell you which generation you come from - The Washington Post",
       "link": "https://www.washingtonpost.com/home/2026/10/18/hallmarks-boomers-gen-x-millennials-seen-their-clutter/"
     },
     {
-      "title": "\"I Regretted It After Two Weeks\": Homeowners Are Revealing The Popular Home Fads That Aren't Worth Trying Out - BuzzFeed",
-      "link": "https://www.buzzfeed.com/dannicaramirez/design-trends-homeowners-followed-and-regret-fs2"
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy - CNBC",
+      "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html"
+    },
+    {
+      "title": "Hot Wheels' female executive wants more girls to be part of the brand - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/Business/hot-wheels-female-executive-girls-part-brand/story?id\\\\u003d137287611"
     },
     {
       "title": "Frustrated Windows 11 user makes free app that fixes OLED burn-in. Works on YouTube too - Neowin",
@@ -29,15 +73,15 @@
     },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJycFRPeUdfNnlxcWtWXzB2RXZVNFVfTFRCLUs3ZWJxdVplX3J1LUJwbEpZT3dDWHA4bWljVEVqbTJtV3RfNjhjem1PTTBzRXprVmJYbEttTGdvVXFfRExZUTFiYTRmMEw3dnJHaElTeUsxcjR5bl9XWXNxRkFoSk9rcWw?oc=5"
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"
     },
     {
       "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework - MarkTechPost",
       "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/"
     },
     {
-      "title": "Walmart\u2019s AI-enabled 2-in-1 laptop and tablet is on sale for $100 - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdld1QzdNaTkyTV8xNVA0aDlxTkJXVnhZVzFfQnhXRlR3YVBZMS1mLTVQakNkM0RDWTJNaTZPdzV2NXhOMjdHS01icU02WHh2SC1NeVBTZUMwWE1LNU9EOG1MazRsakx2MkpfejBEdDJpU3Y3TWh5N09vMmd4T3M4U25nQjBpOXppWXVSMTZSeWZlckZkTUtjTEJMMjVvcHV6SFdsTUdIU1I2WVFB?oc=5"
+      "title": "Riot Games reveals Agent 31 Hush as VALORANT\u2019s new Duelist - Sheep Esports",
+      "link": "https://www.sheepesports.com/en/articles/riot-games-reveals-agent-31-hush-as-valorant-s-new-duelist/en"
     },
     {
       "title": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development - Nintendo Life",
@@ -46,132 +90,88 @@
     {
       "title": "NYT Strands hints, answers for October 17, 2026 - Mashable",
       "link": "https://mashable.com/entertainment/strands-nyt-hint-october-17-2026"
-    },
-    {
-      "title": "Every Major USB-C Cable Brand Ranked Worst To Best - SlashGear",
-      "link": "https://www.slashgear.com/2286694/every-major-usb-c-cable-brand-ranked-worst-best/"
-    },
-    {
-      "title": "Three Important MacBook Pro Touch Release Dates - Forbes",
-      "link": "https://www.forbes.com/sites/ewanspence/2026/10/17/apple-macbook-pro-touchscreen-oled-macos-touch-release-date-launch-pre-orders/"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 Gets a Warm Steam Welcome With 90% Positive Reviews - TechPowerUp",
-      "link": "https://www.techpowerup.com/353835/call-of-duty-modern-warfare-4-gets-a-warm-steam-welcome-with-90-positive-reviews"
-    },
-    {
-      "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler - Push Square",
-      "link": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler"
-    },
-    {
-      "title": "25 Wild Things Only The Ultra Wealthy Can Buy - BuzzFeed",
-      "link": "https://www.buzzfeed.com/lizmrichardson/wild-things-rich-people-buy"
-    },
-    {
-      "title": "Zelda: Ocarina of Time remake reveals new display modes, other settings, controls - Nintendo Everything",
-      "link": "https://nintendoeverything.com/zelda-ocarina-of-time-remake-reveals-new-display-modes-other-settings/"
-    },
-    {
-      "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/"
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\" - Eurogamer.net",
-      "link": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale"
-    },
-    {
-      "title": "SF tech bro pulls plug on controversial video game that let players kill \u2018homeless people\u2019 - New York Post",
-      "link": "https://nypost.com/2026/10/17/tech/sf-tech-developer-shuts-down-controversial-tenderloin-video-game-amid-outrage/"
-    },
-    {
-      "title": "AI slop websites rise fivefold with GEO optimization - Axios",
-      "link": "https://www.axios.com/2026/10/17/ai-slop-geo-content-farm-recommendations"
-    },
-    {
-      "title": "EE announces iPhone Handoff pricing details for UK customers - 9to5Mac",
-      "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/"
     }
   ],
   "sports_news": [
     {
-      "title": "\u2018Heartbreaking day for Wichita\u2019: Truck drives through soccer field, killing 2, injuring 10 - NewsNation",
-      "link": "https://www.newsnationnow.com/us-news/midwest/police-mass-casualty-incident-at-wichita-sports-complex/"
+      "title": "Browns vault into first place with last-second field goal, as Ravens blow yet another double-digit lead - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSFlFMnhGZGVJSXNZZWhoTlpHT2x5Z05qWVBwS2lVdXdXV3N0aFoxcTlDa3RUSF9ZU25RWGtTaThNY0VndGJWX0M2Yk5ScjRCRVNrWGJ2OGVHQkxSTlFjUVJiTGQyYXVtcEJ5UzFkbWw0aW5JUVpyci1ubW1SS0lRdTl4UnZVZExJSjBTaTByNng5NzNmZmFvRW9MbG5aVUlfVi1ucGZ5WXRrbUwxd0RNRnNORjVwQkxabXZJSUpLN1UxYkRZbmNvVzlWbjBHaktTajA3NFJVeEdBcjBJYmVaWkxZVWRjWVhrX2c?oc=5"
     },
     {
-      "title": "Gerry Dulac\u2019s 2026 NFL predictions: Week 6 - Pittsburgh Post-Gazette",
-      "link": "https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037"
+      "title": "Steelers coach Mike McCarthy injures himself and it was serious enough he never got to halftime locker room - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQlF2X2JKYzNDM1pKdWpaS2x1TTVkb2ZfcURMRXVkV1JPSUxyNDRNMTVOZFRITzQzNnJFQmpOazd1SjN3RjllbXhWZFU0Sm9relVWU1JEeVBTdUZMRVRnMGpWeWZpdjNZUWJPSV9RcVdkQzdmaWQzUFVySVViX2dwNUo3R0ptZUpvYkthblBpS29QRm1ZbGRXeXhIZ0h2VHBZU09IamE5Y2NtWDNsUk1fQVR1QWZlSWhBd2VuQ3l2SUtBTkpfeTNRcQ?oc=5"
     },
     {
-      "title": "Wuhan Open final: Sonay Kartal misses out on WTA 1,000 title, losing to Maja Chwalinska - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90dUtkNm9nd0tKclAxZFB0YkRQWUxEQTUtZnFsRnJfNXl5N3FsdTUtaGI4Q1R2UXl3a3pQVGJNa0lTeGYxN2FrWG1HbS1oZ0FNVUFfbUdkWjQ0d1FEcDFfYXJyMnBzZw?oc=5"
+      "title": "Travis Hunter stars in Jaguars' loss, is 1st with INT and TD catch since 2002 - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50212108/travis-hunter-interception-td-catch-jaguars-loss"
     },
     {
-      "title": "Fantasy football rankings, projections, lineups, sleepers for Week 6 from proven model - CBS Sports",
-      "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-lineups-projections-top-sleepers-streamers-picks-start-sit-advice-for-week-6-2026/"
+      "title": "Falcons LB Kendal Daniels taken off field on stretcher - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-lb-kendal-daniels-taken-off-field-on-stretcher"
     },
     {
-      "title": "Big 12 admits clock error at end of Notre Dame-BYU game - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-12-admits-clock-error-at-end-of-notre-dame-byu-game"
+      "title": "Service member dies after falling from Alamodome rafters in skills demo before UTSA game - San Antonio Express-News",
+      "link": "https://www.expressnews.com/news/article/air-force-service-member-dies-fall-alamodome-utsa-22482478.php"
     },
     {
-      "title": "Air Force - Service member died from fall before Navy-UTSA game - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50209514/air-force-service-member-died-fall-navy-utsa-game"
+      "title": "Week 6 NFL schedule, scores, live updates: Tyler Warren, Quinshon Judkins inactive; Caleb Williams, A.J. Brown return from injury - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/live/nfl-week-6-scores-news-live-updates-schedule-highlights-stats-where-to-watch-130000137.html"
     },
     {
-      "title": "Premier League: Three games coming up as Man Utd's Martinez starts against Leeds - BBC",
+      "title": "BYU jumps to No. 2 in latest AP top 25 poll following Notre Dame win - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUW55QWZaRlFNenktQjZJZDdOSGpsOVJHUGtCSHA2eU5LMlo5NTBfc3B4Q044bWJ2WjJhbGh0VUVyREtSNi1oamlxR3VMXzBERDcyNXpra05fbE1LM3QwX2ZBQktleHdRaFl1WEhSNWV4bVpyYXlkSXhzckJtT1lOOVNQTUtTQWtzVmNN?oc=5"
+    },
+    {
+      "title": "BSJ Live Coverage: New York Jets (2-3) at Patriots (3-2), 1 p.m. - A.J. Brown activated - Boston Sports Journal",
+      "link": "https://www.bostonsportsjournal.com/live/bsj-live-coverage-new-york-jets-2-3-at-patriots-3-2-1-pm---aj-brown-activated"
+    },
+    {
+      "title": "Coaches Poll Top 25 rankings: Georgia drops from No. 1 spot after home loss - DawgNation",
+      "link": "https://www.dawgnation.com/football/coaches-poll-top-25-rankings-georgia-drops-no-1-spot-after-home-loss/N6VG6OIXBRGVFMFLJPIRLUXPMU/"
+    },
+    {
+      "title": "World Gymnastics Championships: Skye Blakely leads U.S. women in qualifying - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/gymnastics-world-championships-womens-qualifying-usa"
+    },
+    {
+      "title": "Coaches Poll top 25: Georgia, Alabama, Texas slide; Miami No. 1 in Week 8 college football rankings - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-week-8-georgia-alabama-texas-miami-college-football-rankings/"
+    },
+    {
+      "title": "Premier League LIVE: Arsenal beat Forest after Man Utd & Leeds draw, Brighton and Bournemouth win - BBC",
       "link": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt"
     },
     {
-      "title": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand"
+      "title": "Steelers vs Buccaneers Predictions, Week 6 Picks, Odds - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmxKdUx4VXNlb2txNUNzTE9qLTFCSkpURGtxYjVpeF9Bcmprc3I1OXpteTdqSm0wS0xqLWlNRVV0UGN6bnZRTHo0SE1xdzZrcHJkdkVmbGx4RU5kQ09UTEl1czlrVmxzeXFrbzdKQ1NBS0NpQXQxQ0dXTFhNQ2NPVHdDbU5wb2hDdmVZN0xYa1FpV0hNUFJROXNSeWJ6ckM5MVFJSzR5bVpCT2NZQzc4eHdUM3NfMnpMV01MbQ?oc=5"
     },
     {
-      "title": "Texans vs Jaguars Predictions, Picks, Odds, NFL London Best Bets - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVF0WUJ0TFg1MFltaGpzNVZGbnM5cEFjb3R3OEVXRFFZbks5SkxnbUZqWDdSelVNMUxYVmNVLXU2TGhqQ0VfNGQ3TUdPc3ZKNS0yZVNnbnJxZl9lak5mM1l1MHFEYi0tdnR4ZER5alpJdzNXQTNJb3BWTlBldEFGeDNCSHZmZ3F1bGxDeDB5MVh5TXUwSmF2ZjhtRjhsdmNBSVdkb0JwQUtxN2lCeTBzNU9Lc2E5UQ?oc=5"
+      "title": "Steelers inactives for Week 6 at Buccaneers - Steelers.com",
+      "link": "https://www.steelers.com/news/steelers-inactives-for-week-6-at-buccaneers"
     },
     {
-      "title": "3 winners, 3 losers from Michigan Football\u2019s win vs Penn State - Maize n Brew",
-      "link": "https://www.maizenbrew.com/football/125365/michigan-football-penn-state-winners-losers-bryce-underwood-andrew-marsh-tommy-carr-rod-moore-chris-bracy"
+      "title": "Patriots vs. Jets inactives: Offense gets a significant boost - Pats Pulpit",
+      "link": "https://www.patspulpit.com/new-england-patriots-news/141059/patriots-vs-jets-inactives-nfl-week-6"
     },
     {
-      "title": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDNDMFdXV21FU25oMkxpZjFSWTdKZGxCN19nb3dZSlBFQTY4elhYOHJZTm9zc0dVZjlSUHk4UXAwUHZuTTdBeVdyVks0bXA5b3dDbFVSRWFfb0hRRkZWNTFiY1o1Tm5QbVNlUEdqN1cyaW8wRmM2ZUhZWEhEZDVlTVpMTkwzNnVaY0xuTGphNU1RN3owZG9RVy1R?oc=5"
+      "title": "After UFC Edmonton pre-fight silence, Joaquin Buckley ready to talk after KO loss - MMA Junkie",
+      "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/18/ufc-edmonton-joaquin-buckley-post-fight-knockout-reaction-video-plugs-social-media-followers/92317193007/"
     },
     {
-      "title": "College Football Rankings: Historic Upset-Filled Week 7 Flips Top 25 Upside Down - FOX Sports",
-      "link": "https://www.foxsports.com/stories/college-football/rankings-top-25-upsets-georgia-alabama-texas-ohio-state"
+      "title": "Race to Dubai: Eugenio Chacarra seals two-stroke win in India to lead standings from Patrick Reed and Rory McIlroy - BBC",
+      "link": "https://www.bbc.com/sport/golf/articles/cw98zlldrpj0o"
     },
     {
-      "title": "Dubois Destroys Wardley, Records 2nd-Round TKO In Rematch - The Ring",
-      "link": "https://www.ringmagazine.com/news/dubois-destroys-wardley-records-2nd-round-tko-in-rematch-3714XFJqZQaoj60YKJVGMN"
+      "title": "NFL Week 6 inactives, injury tracker: Texans' David Montgomery is inactive - CBS Sports",
+      "link": "https://www.cbssports.com/nfl/news/nfl-week-6-inactives-injury-tracker-updates/live/"
     },
     {
-      "title": "Three Things We Learned in Nebraska's 17-14 Loss to Oregon - Sports Illustrated",
-      "link": "https://www.si.com/college/nebraska/football/three-things-learned-huskers-oregon-2026-01m56pn97233"
+      "title": "Leeds vs Man Utd player ratings: Dominic Calvert-Lewin denies Man Utd - who rated highest? - BBC",
+      "link": "https://www.bbc.com/sport/football/articles/ckvg7v43x1xyo"
     },
     {
-      "title": "Misery Index: Arch Manning, Steve Sarkisian and Texas don't seem to have answers and are running out of time - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/article/misery-index-arch-manning-steve-sarkisian-and-texas-are-running-out-of-time-and-dont-seem-to-have-answers-054034036.html"
-    },
-    {
-      "title": "Race results: Diamond Desert Casino West Valley 100 at Phoenix Raceway - arcaracing.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmtDd3JCcnVlVW1rdzRTYmxobXdQZDI0aS03Z204QVRhZmVhOHc1MF9JVklwbmNFdnk0aWZUNENOa1pVdUg5VXpLNGg1enF0NXhEUlNGT2lINEVkU1pTeExybTFGTU56UTFwUTA5UUIwS0NoMjlTNWZRcFNXRldSWW5JbnhtcFhGN2xlQWhIbVQzcTh4SGJpVi1rZ3h4YVdtYk1UOHM1LS1vZU1J?oc=5"
-    },
-    {
-      "title": "Watch Sebastian Fundora Get Last-Second KO to Beat Ermal Hadribeaj in Trending Videos - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25512582-watch-sebastian-fundora-get-last-second-ko-beat-ermal-hadribeaj-trending-videos"
-    },
-    {
-      "title": "College football bowl projections: Slotting all 46 games after Week 7's historic run of upsets - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-cfp-upsets/"
-    },
-    {
-      "title": "Guardians lose. Tampa's bats boom. Time to panic? Nah \u2013 Terry Pluto - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDNxbjB3WHVFeDhiMlh2YXFnRGw4ZFhFUkxfa3R6eTQ0VWJLYlZSN1cwTEppeWdPT1JUb0V6WU9xMDBITzIwd0I5XzgwM2dmZlV4eTJzZTlXVzNCbGFRTWlfcmhiVUZ6S05rWTNWSjQ2emZxaXBiUHktbVE0Z050M1JkSkUtcmg2bkd1ZVJ0cF9SQnNZd0tzMXFvX3hndWk3MVZMdkttSTdOYXFoRXFF?oc=5"
-    },
-    {
-      "title": "Three Stars: Miami vs FSU - State of The U",
-      "link": "https://www.stateoftheu.com/miami-hurricanes-football/88715/three-stars-miami-vs-fsu"
+      "title": "Tom Fornelli's CFP Vibe Check: No matter how big playoff field gets, no game will ever be meaningless - CBS Sports",
+      "link": "https://www.cbssports.com/college-football/news/tom-fornellis-cfp-vibe-check-no-matter-how-big-playoff-field-gets-no-game-will-ever-be-meaningless/"
     }
   ],
   "weather": {
