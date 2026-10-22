@@ -1,9 +1,9 @@
 {
-  "quote": "The only thing we have to fear is fear itself. \u2013 Franklin D. Roosevelt",
-  "fact": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
-  "crypto": "BTC: $81,351 | ETH: $2,384.84",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "I think circles are pointless.",
+  "quote": "The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves. \u2013 Brian Tracy",
+  "fact": "A female ferret will die if it goes into heat and cannot find a mate.",
+  "crypto": "BTC: $81,285 | ETH: $2,382.05",
+  "tip": "Keep your software dependencies updated.",
+  "joke": "What do you do when you see a space man?\r\nPark your car, man.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -11,6 +11,26 @@
   "bing_background": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "PlayStation Store \u201cPlanet of the Deals\u201d Sale Now Live With Over 3,500 Entries - MP1st",
+      "link": "https://mp1st.com/news/playstation-store-planet-of-the-deals-sale-now-live-with-over-3500-entries"
+    },
+    {
+      "title": "What 32,000 Folds Did to the iPhone Duo's Hinge - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/"
+    },
+    {
+      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/"
+    },
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+    },
+    {
+      "title": "iPhone Duo's Hidden FaceTime Camera Takes 'Trash' Photos - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/21/iphone-duo-facetime-camera/"
+    },
     {
       "title": "Xbox mandates a four-day return to office - The Verge",
       "link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days"
@@ -24,16 +44,12 @@
       "link": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/"
     },
     {
-      "title": "Electronic Arts Laying Off 3% of Employees in Studios Restructuring: BioWare Shutting Down, Respawn and DICE to Team on \u2018Star Wars: Battlefront 3\u2019 - Variety",
-      "link": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/"
+      "title": "The Sims Project Rene IS PAUSED \u2013 The Sims Project Evergreen / Project X IS NEXT! - Sims Community",
+      "link": "https://simscommunity.info/2026/10/21/the-sims-project-evergreen-x-rene/"
     },
     {
-      "title": "Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed"
-    },
-    {
-      "title": "Set Your Calendar, T-Mobile Giving Out Free iPads For One Day Only - The Mobile Report",
-      "link": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/"
+      "title": "Warhammer Tone Pro: One paint, many techniques - Warhammer Community",
+      "link": "https://www.warhammer-community.com/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques"
     },
     {
       "title": "Google Maps on CarPlay rolling out Gemini when navigating - 9to5Google",
@@ -44,70 +60,86 @@
       "link": "https://www.digitalfoundry.net/features/inside-call-of-duty-modern-warfare-4-the-new-game-changing-tech-powering-every-mode"
     },
     {
-      "title": "Smash Bros and Kirby creator Masahiro Sakurai says AI usage will lead to unoriginal and \"unprofitable\" games - PC Guide",
-      "link": "https://www.pcguide.com/news/smash-bros-and-kirby-creator-masahiro-sakurai-says-ai-usage-will-lead-to-unoriginal-and-unprofitable-games/"
-    },
-    {
       "title": "Google Pixel\u2019s solution to using Face Unlock in the dark seems to be just blinding you - 9to5Google",
       "link": "http://9to5google.com/2026/10/21/google-pixel-face-unlock-illumination-code-leaks/"
-    },
-    {
-      "title": "iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/21/iphone-duo-accessories-roundup/"
     },
     {
       "title": "Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers - MacRumors",
       "link": "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/"
     },
     {
+      "title": "iPhone Duo will add Reachability feature \u2018later this year\u2019 - 9to5Mac",
+      "link": "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/"
+    },
+    {
       "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game - Eurogamer.net",
       "link": "https://www.eurogamer.net/stranger-than-heaven-preview"
     },
     {
+      "title": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6 - GameSpot",
+      "link": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/"
+    },
+    {
       "title": "Microsoft Projects The Next Xbox May Cost $1,200 To $1,800, Says Report - Forbes",
       "link": "https://www.forbes.com/sites/paultassi/2026/10/21/microsoft-projects-the-next-xbox-may-cost-1200-to-1800-says-report/"
-    },
-    {
-      "title": "65 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Screaming Deals' Sale (North America) - Nintendo Life",
-      "link": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america"
-    },
-    {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands - The Hacker News",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
-    },
-    {
-      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games - The Verge",
-      "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support"
-    },
-    {
-      "title": "Xbox Game Pass Heading For A Massive Shakeup, Report Says - GameSpot",
-      "link": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/"
     }
   ],
   "sports_news": [
+    {
+      "title": "Man United captain Fernandes slams Carrick\u2019s tactics after Como hammering - Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering"
+    },
+    {
+      "title": "As Porzingis mulls quitting, Warriors trade will hinge on his expiring contract - SFGATE",
+      "link": "https://www.sfgate.com/warriors/article/warriors-porzingis-trade-absence-22487719.php"
+    },
+    {
+      "title": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7"
+    },
+    {
+      "title": "Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 7 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-rb-blueprint-for-week-7-204854603.html"
+    },
+    {
+      "title": "Longtime Cincinnati and West Virginia men's basketball coach Bob Huggins dealing with 'progressive cognitive condition' - Yahoo Sports",
+      "link": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/longtime-cincinnati-and-west-virginia-mens-basketball-coach-bob-huggins-dealing-with-progressive-cognitive-condition-203927575.html"
+    },
+    {
+      "title": "Champions League: Kane gives Bayern lead against Arsenal, Villa lead Viking - BBC",
+      "link": "https://www.bbc.com/sport/football/live/cwm2m2v4d5pvt"
+    },
+    {
+      "title": "Red Wings exec says Dylan Larkin and team made up \u2013 but trade request stands - Detroit Free Press",
+      "link": "https://www.freep.com/story/sports/nhl/red-wings/2026/10/21/dylan-larkin-trade-request-red-wings-jimmy-devellano/92367224007/"
+    },
+    {
+      "title": "Vols fans set noise record and terrify Alabama's Kalen DeBoer, Tiff Ann's Halloween costume & Danica stumps! - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/vols-fans-set-noise-record-terrify-alabama-kalen-deboer-tiff-ann-halloween-costume-danica-stumps"
+    },
     {
       "title": "John Harbaugh: Starting J.J. McCarthy is the plan going forward - NBC Sports",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-starting-j-j-mccarthy-is-the-plan-going-forward"
     },
     {
-      "title": "NFL, Roger Goodell 'welcome' NFLPA inquiry into Jalen Hurts' blood clot care - USA Today",
-      "link": "https://www.usatoday.com/story/sports/nfl/eagles/2026/10/21/jalen-hurts-blood-clots-investigation-medical-care-nfl-nflpa/92364118007/"
+      "title": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37 - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37"
+    },
+    {
+      "title": "Timberwolves vs. Heat preview: Why the under 238.5 could be the play in tonight's matchup - Fox News",
+      "link": "https://www.foxnews.com/outkick-sports/timberwolves-vs-heat-preview-why-under-238-5-could-be-play-tonights-matchup"
     },
     {
       "title": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears"
     },
     {
-      "title": "Kristaps Porzi\u0146\u0123is weighing NBA future amid recurring health condition, Warriors exploring trades: report - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/kristaps-porzingis-reportedly-dealing-with-recurring-pots-symptoms-as-warriors-explore-trade-options-182650464.html"
+      "title": "Fantasy Football Trade Tips: Why the timing is right to deal Jonathan Taylor and 3 other veteran RBs - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-tips-why-the-timing-is-right-to-deal-jonathan-taylor-and-3-other-veteran-rbs-185034252.html"
     },
     {
       "title": "Angels Decline 2027 Option On Manager Kurt Suzuki - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/10/angels-decline-option-manager-kurt-suzuki.html"
-    },
-    {
-      "title": "Former Chiefs lineman Allen Bailey dies at 37 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/former-chiefs-lineman-allen-bailey-dies-at-37-172205460.html"
     },
     {
       "title": "Sam LaPorta Says He Broke His 'F--king Back' for Lions, Sounds Off on Lack of New Contract - Bleacher Report",
@@ -126,44 +158,12 @@
       "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-paul-george-delivers-vintage-performance-plus-more-takeaways-from-2026-27-nba-opening-night-171432875.html"
     },
     {
-      "title": "Luka Don\u010di\u0107 asks Lakers fans to support 'special team' in full-page ad - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/50238836/luka-don\u010di\u0107-asks-lakers-fans-support-special-team"
+      "title": "First Day of USAU Club Nationals Postponed to Friday - Ultiworld",
+      "link": "https://ultiworld.com/2026/10/21/first-day-of-usau-club-nationals-postponed-to-friday/"
     },
     {
-      "title": "Texas bans fan who made obscene gesture at Florida players - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50238721/texas-bans-fan-made-obscene-gesture-florida-players"
-    },
-    {
-      "title": "Moves to Make Before Week 7 Fantasy Football: Buy Parker Washington, sell Bryce Young - NBC Sports",
-      "link": "https://www.nbcsports.com/fantasy/football/news/moves-to-make-before-week-7-fantasy-football-buy-parker-washington-sell-bryce-young"
-    },
-    {
-      "title": "NFL has \"no concern\" about Joe Buck/Troy Aikman booth issues - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-no-concern-about-joe-buck-troy-aikman-booth-issues"
-    },
-    {
-      "title": "'You could just tell there's a disconnect:' What's next for Bryce Underwood after Michigan benching - 247Sports",
-      "link": "https://247sports.com/article/disconnect-bryce-underwood-michigan-benching-291572949/"
-    },
-    {
-      "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Quarterbacks for Week 7 - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-quarterbacks-for-week-7"
-    },
-    {
-      "title": "Maryland fires Mike Locksley after 2-5 start as Terrapins become first Power Four opening - CBS Sports",
-      "link": "https://www.cbssports.com/college-football/news/mike-locksley-fired-maryland/"
-    },
-    {
-      "title": "Yankees, Brian Cashman reach contract; owner blames players for playoff exit - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/50238406/yankees-gm-brian-cashman-agree-new-contract"
-    },
-    {
-      "title": "49ers news: Kyle Shanahan explains playcalling at end of Commanders win - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/164633/san-francisco-49ers-news-kyle-shanahan-explains-playcalling-end-game-washington-commanders-brock-purdy"
-    },
-    {
-      "title": "Week 7 AP NFL Power Rankings: Rams and Eagles are in a free fall - Arrowhead Pride",
-      "link": "https://www.arrowheadpride.com/kansas-city-chiefs-power-rankings/213520/week-7-ap-nfl-power-rankings-rams-eagles-free-fall"
+      "title": "Goodell says NFL welcomes investigation into Eagles QB Hurts' medical care - ESPN",
+      "link": "https://www.espn.com/nfl/story/_/id/50239029/roger-goodell-nfl-welcomes-probe-hurts-medical-care"
     }
   ],
   "weather": {
