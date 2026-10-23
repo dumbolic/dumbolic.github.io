@@ -1,97 +1,133 @@
 {
-  "quote": "When we allow negative messages to fester in our head, they take on a life of their own. \u2013 Lolly Daskal",
-  "fact": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
-  "crypto": "BTC: $81,853 | ETH: $2,405.82",
+  "quote": "Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. \u2013 Nicolas Chamfort",
+  "fact": "Every time you lick a stamp you consume 1/10 of a calorie.",
+  "crypto": "BTC: $81,604 | ETH: $2,400.01",
   "tip": "Use keyboard shortcuts to save time.",
-  "joke": "How do you know if there\u2019s an elephant under your bed? Your head hits the ceiling!",
+  "joke": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
   },
-  "bing_background": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "bing_background": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
+    {
+      "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List - Phoronix",
+      "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities"
+    },
+    {
+      "title": "Does the Fitbit Edge have NFC? Here's what Google says - Android Authority",
+      "link": "https://www.androidauthority.com/does-fitbit-edge-have-nfc-3726486/"
+    },
+    {
+      "title": "NYT Strands hints, answers for October 21, 2026 - Mashable",
+      "link": "https://mashable.com/entertainment/strands-nyt-hint-october-21-2026"
+    },
+    {
+      "title": "BioWare closed by EA after 30 years of influential, genre-defining games - The Washington Post",
+      "link": "https://www.washingtonpost.com/entertainment/video-games/2026/10/21/bioware-closed-by-ea-after-30-years-influential-genre-defining-games/"
+    },
+    {
+      "title": "T-Mobile Is Giving Away Free iPad A16s For One Day Only - The Mobile Report",
+      "link": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/"
+    },
     {
       "title": "Phantom Blade Zero launch trailer, PS5 physical editions launch in 2027 - Gematsu",
       "link": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027"
     },
     {
-      "title": "iPhone Duo Reviewers Really Miss Face ID - MacRumors",
-      "link": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/"
+      "title": "YouTube says it isn\u2019t testing hiding the dislike button - The Verge",
+      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos"
+    },
+    {
+      "title": "China biotech RiboX reveals first data of circular RNA therapies in people - Endpoints News",
+      "link": "https://endpoints.news/china-biotech-ribox-reveals-first-data-of-circular-rna-therapies-in-people/"
     },
     {
       "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac",
       "link": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/"
     },
     {
+      "title": "Octupole-driven spin torque switching of antiferromagnetic tunnel junctions - Nature",
+      "link": "https://www.nature.com/articles/s41586-026-11172-5"
+    },
+    {
+      "title": "SonicFox Cancels Contract With Gaming Convention After Event Uses Likeness in AI-Generated Poster - IGN",
+      "link": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster"
+    },
+    {
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought - Ars Technica",
       "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
     },
     {
-      "title": "Bose acquires Skullcandy to help it reach a wider audience - The Verge",
-      "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers"
+      "title": "What 32,000 Folds Did to the iPhone Duo's Hinge - MacRumors",
+      "link": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/"
     },
     {
       "title": "iOS 27.2 reveals Apple\u2019s Messages app could soon get highly requested change - 9to5Mac",
       "link": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/"
     },
     {
-      "title": "The new human-crafted Apple Music brand matters in an AI world - Ars Technica",
-      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
+      "title": "GTA 6 Preorders Are Up to $11 Off If You Follow These 3 Simple Steps (Today Only) - IGN",
+      "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only"
     },
     {
-      "title": "'Fallout 4' Is Officially Making A Comeback A Decade After Release - Polygon.com",
-      "link": "https://www.polygon.com/fallout-4-dlc-expansion-fever-dreams-fathomless-command-overdrive-what-are/"
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
-    },
-    {
-      "title": "Xbox mandates a four-day return to office - The Verge",
-      "link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days"
-    },
-    {
-      "title": "EA Sports Is Working on a Brand New Open-World Football Game - IGN",
-      "link": "https://www.ign.com/articles/ea-sports-confirms-its-developing-an-open-world-football-game"
+      "title": "Nintendo offering those who purchase Zelda: Ocarina of Time digitally a free wallpaper for a limited time - GoNintendo",
+      "link": "https://gonintendo.com/contents/66342-nintendo-offering-those-who-purchase-zelda-ocarina-of-time-digitally-a-free"
     },
     {
       "title": "Does opting out of smart TV tracking work? Research finds \u201csuspicious\u201d traffic. - Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/"
     },
     {
-      "title": "You Have a Couple More Days to Play WoW Forever as Blizzard Extends Beta to October 23 - IGN",
-      "link": "https://www.ign.com/articles/wow-forever-beta-extended-to-friday-name-reservations-go-live-tuesday"
+      "title": "Tesla Launches iPad and iPhone Duo App - Not a Tesla App",
+      "link": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo"
     },
     {
-      "title": "I\u2019ve Taken a Necessary Measure to Protect Myself During Sex. Uh, It\u2019s Going to Be Hard to Explain. - Slate",
-      "link": "https://slate.com/advice/2026/10/sex-advice-protection-sti-prep.html"
-    },
-    {
-      "title": "Warhammer Tone Pro: One paint, many techniques - Warhammer Community",
-      "link": "https://www.warhammer-community.com/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques"
-    },
-    {
-      "title": "Electronic Arts Laying Off 3% of Employees in Studios Restructuring: BioWare Shutting Down, Respawn and DICE to Team on \u2018Star Wars: Battlefront 3\u2019 - Variety",
-      "link": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/"
-    },
-    {
-      "title": "Review: Final Fantasy Resonance: Impressive 2D-HD Visuals, Excellent Performance on Every Platform - Digital Foundry",
-      "link": "https://www.digitalfoundry.net/reviews/final-fantasy-resonance-impressive-2d-hd-visuals-excellent-performance-on-every-platform"
-    },
-    {
-      "title": "After 32,000 folds, iPhone Duo\u2019s hinge serves up a big surprise - Cult of Mac",
-      "link": "https://www.cultofmac.com/news/hingey-iphone-duo-hinge-fold-test"
-    },
-    {
-      "title": "Nintendo Switch Sports Resort Has Been Updated To Ver. 1.1.0, Here Are The Full Patch Notes - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes"
+      "title": "Samsung launches Certified Re-Newed Galaxy phones on Amazon starting at $489 - Android Authority",
+      "link": "https://www.androidauthority.com/samsung-certified-re-newed-phones-amazon-3726236/"
     }
   ],
   "sports_news": [
     {
-      "title": "JC Latham on incident with Jordan Elliott: It was just an unfortunate situation - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jc-latham-on-incident-with-jordan-elliott-it-was-just-an-unfortunate-situation"
+      "title": "Ranking top players in Brewers-Rays World Series - ESPN",
+      "link": "https://www.espn.com/mlb/story/_/id/50238330/ranking-world-series-players-rays-brewers"
+    },
+    {
+      "title": "NFL business partners aren\u2019t pulling punches as to the handling of Jalen Hurts - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-business-partners-arent-pulling-punches-as-to-the-handling-of-jalen-hurts"
+    },
+    {
+      "title": "Warriors' Yaxel Lendeborg: 'Lost all respect' for Luka Doncic - ESPN",
+      "link": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic"
+    },
+    {
+      "title": "NBA winners and losers: Giannis gets nothing from new Heat teammates; Steph Curry could be in for a long year - CBS Sports",
+      "link": "https://www.cbssports.com/nba/news/nba-opening-night-winners-losers-giannis-heat-anthony-edwards-lamelo-ball-timberwolves/"
+    },
+    {
+      "title": "Dodgers Notes: Ohtani, Klein, Coaching Staff - MLB Trade Rumors",
+      "link": "https://www.mlbtraderumors.com/2026/10/dodgers-notes-ohtani-klein-coaching-staff.html"
+    },
+    {
+      "title": "Angel Reese Makes History as Dream Beat Valkyries in WNBA Finals Game 3, Box Score Stats, Highlights - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25518790-angel-reese-makes-history-dream-beat-valkyries-wnba-finals-game-3-box-score-stats-highlights"
+    },
+    {
+      "title": "LaMelo Ball opens Timberwolves career with 21 points and 6 assists, plus an outrageously bad missed travel - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nba/article/lamelo-ball-opens-timberwolves-career-with-21-points-and-6-assists-plus-an-outrageously-bad-missed-travel-022619245.html"
+    },
+    {
+      "title": "Three Observations from Bayern Munich\u2019s quirky 2-2 draw with Arsenal - Bavarian Football Works",
+      "link": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/271057/bayern-munich-vs-arsenal-three-observations-match-analysis-champions-league-harry-kane-alphonso-davies-kompany"
+    },
+    {
+      "title": "Beyond the Buzzer: Louisville\u2019s 89-83 win at Kansas doesn\u2019t count, but it does mean something - WDRB",
+      "link": "https://www.wdrbwave.com/2026/10/22/beyond-buzzer-louisvilles-89-83-win-kansas-doesnt-count-it-does-mean-something/"
+    },
+    {
+      "title": "In their SoFi Stadium incident, Troy Aikman's position to Joe Buck was: \"You f\u2014ked me over!\" - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-their-sofi-stadium-incident-troy-aikmans-position-to-joe-buck-was-you-f-ked-me-over"
     },
     {
       "title": "Joel Klatt: SEC-Big Ten scheduling agreement expected once CFP expands to 24 - FootballScoop.com",
@@ -102,28 +138,20 @@
       "link": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-ravens-lamar-jackson-jets-breece-hall/"
     },
     {
-      "title": "Nick Sirianni reportedly fined $250K for conduct toward officials - NBC Sports Philadelphia",
-      "link": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/nick-sirianni-reportedly-fined-250k-for-conduct-toward-officials/760496/"
+      "title": "Oregon Ducks unveil uniforms for Week 8 game vs. Illinois - Ducks Wire",
+      "link": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/10/21/oregon-football-ducks-unveil-uniforms-illinois/92371410007/"
     },
     {
-      "title": "Bob Huggins\u2019 family says he is living with a progressive cognitive condition - WLWT",
-      "link": "https://www.wlwt.com/article/bob-huggins-progressive-cognitive-condition/74208685"
+      "title": "Dallas Mavericks vs Houston Rockets Oct 21, 2026 Box Scores - NBA.com",
+      "link": "https://www.nba.com/game/dal-vs-hou-0022600091/box-score"
     },
     {
-      "title": "Angels To Hire General Manager For 2027 Season - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/10/angels-to-hire-general-manager-for-2027-season.html"
+      "title": "NBA Predictions, Picks for Wednesday, October 21 - Action Network",
+      "link": "https://www.actionnetwork.com/nba/nba-picks-predictions-spreads-moneylines-totals-props-for-wednesday-october-21"
     },
     {
       "title": "'One of my favorites': Former Chiefs player dead at 37, Andy Reid confirms - KMBC",
       "link": "https://www.kmbc.com/article/allen-bailey-kansas-city-chiefs-dead/74206870"
-    },
-    {
-      "title": "Dream arrange suite for Enes Kanter Freedom to address his safety concerns - ESPN",
-      "link": "https://www.espn.com/wnba/story/_/id/50242728/dream-arrange-suite-enes-kanter-freedom-game-3-wnba-finals-address-safety-concerns"
-    },
-    {
-      "title": "Senator Lisa Blunt Rochester seeks answers from Roger Goodell regarding the Jalen Hurts situation - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senator-lisa-blunt-rochester-seeks-answers-from-roger-goodell-regarding-the-jalen-hurts-situation"
     },
     {
       "title": "Packers' Josh Jacobs says he is trying to learn from 'mistake,' move forward - ESPN",
@@ -134,36 +162,12 @@
       "link": "https://www.deseret.com/sports/2026/10/21/byu-basketball-big-12-media-days-kansas-city-kevin-young-absent-tim-fanning/"
     },
     {
-      "title": "Dodgers' Shohei Ohtani won't require surgery, expected to pitch in 2027 - ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/50242196/dodgers-shohei-ohtani-not-require-surgery-expected-pitch-2027"
+      "title": "New Mexico State vs Sam Houston Prediction, Odds, Time: Wednesday Expert NCAAF Picks - Action Network",
+      "link": "https://www.actionnetwork.com/ncaaf/new-mexico-state-aggies-vs-sam-houston-bearkats-prediction-pick-odds-ncaaf-wednesday-oct-21"
     },
     {
-      "title": "Albert Breer\u2019s Owners\u2019 Meeting Notes: Televising the NFL Replay Process Could Come Very Soon - Sports Illustrated",
-      "link": "https://www.si.com/nfl/albert-breer-owners-meeting-notes-televising-nfl-replay-process-could-come-soon"
-    },
-    {
-      "title": "5 final observations from 49ers win over Commanders: A new part of the offense is starting to blossom - Niners Nation",
-      "link": "https://www.ninersnation.com/san-francisco-49ers-news/164657/san-francisco-49ers-news-5-final-observations-win-washington-commanders-brock-purdy"
-    },
-    {
-      "title": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7"
-    },
-    {
-      "title": "Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 7 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-rb-blueprint-for-week-7-204854603.html"
-    },
-    {
-      "title": "Nick Bosa misses practice Wednesday, but 49ers hope he will return this week - NBC Sports Bay Area & California",
-      "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/nick-bosa-injury-update-week-7/1972932/"
-    },
-    {
-      "title": "Cowboys-Packers generates 24.656 million on Sunday night - NBC Sports",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-packers-generates-24-656-million-on-sunday-night"
-    },
-    {
-      "title": "LeBron James has heated exchange with Knicks fan as MSG crowd reminds him: 'We don't want you!' - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/lebron-james-has-heated-exchange-with-knicks-fan-as-msg-crowd-reminds-him-we-dont-want-you-123116826.html"
+      "title": "World Gymnastics Championships: China edges U.S. for women\u2019s team title - NBC Sports",
+      "link": "https://www.nbcsports.com/olympics/news/gymnastics-world-championships-2026-womens-team-final"
     }
   ],
   "weather": {
