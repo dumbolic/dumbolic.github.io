@@ -1,9 +1,9 @@
 {
-  "quote": "Where words fail, music speaks. \u2013 Hans Christian Andersen",
-  "fact": "Seattle\u2019s Fremont Bridge rises up and down more than any drawbridge in the world.",
-  "crypto": "BTC: $80,687 | ETH: $2,367.75",
-  "tip": "Use keyboard shortcuts to save time.",
-  "joke": "What did the big flower say to the littler flower? Hi, bud!",
+  "quote": "Things cannot forever go downward. There are limits to everything\u2014even the cold, and the darkness, and the wind, and the dying. \u2013 Ming-Dao Deng",
+  "fact": "The skeleton of Jeremy Bentham is present at all important meetings of the University of London",
+  "crypto": "BTC: $80,801 | ETH: $2,377.76",
+  "tip": "Commit often with meaningful messages.",
+  "joke": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
   "word_of_the_day": {
     "word": "effervescent",
     "definition": "Vivacious and enthusiastic."
@@ -12,8 +12,32 @@
   "youtube_music": "https://www.youtube.com/embed/3JZ4pnNtyxQ?autoplay=1",
   "tech_news": [
     {
+      "title": "Switch 2 jailbreak gives hackers new ways to run homebrew and mod games - Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
+    },
+    {
+      "title": "YouTube removing \u2018Subscriptions\u2019 bottom bar tab on Android, iOS after nearly a decade - 9to5Google",
+      "link": "http://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/"
+    },
+    {
+      "title": "A Mass Effect 5 Trailer Featuring Liara Appears To Have Leaked Following BioWare's Closure - Game Informer",
+      "link": "https://gameinformer.com/report/2026/10/22/a-mass-effect-5-trailer-featuring-liara-appears-to-have-leaked-following-biowares"
+    },
+    {
       "title": "All My Hobbies Are Getting Slopped Up, And It\u2019s Exhausting - Aftermath",
       "link": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/"
+    },
+    {
+      "title": "Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player - Kotaku",
+      "link": "https://kotaku.com/sony-continues-its-march-towards-an-all-digital-future-as-it-reportedly-kills-off-its-last-4k-uhd-player-2000748873"
+    },
+    {
+      "title": "iOS 27 adds new Phone app feature that\u2019s an instant favorite - 9to5Mac",
+      "link": "https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/"
+    },
+    {
+      "title": "Gemini app expands Google Maps Personal Intelligence, replacing Deep Think - 9to5Google",
+      "link": "http://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/"
     },
     {
       "title": "Valve Employee Accidentally Mentions Half-Life 3 Codename For The First Time Ever - Kotaku",
@@ -24,12 +48,8 @@
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
     },
     {
-      "title": "Delta can turn the iPhone Duo into your favorite folding handheld - The Verge",
-      "link": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update"
-    },
-    {
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown - The Verge",
-      "link": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea"
+      "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019 - TechCrunch",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
     },
     {
       "title": "Survive the Pitch: Five Nights at Freddy's Haunts Rocket League - Rocket League \u00ae",
@@ -44,24 +64,8 @@
       "link": "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802"
     },
     {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
-    },
-    {
       "title": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism - Push Square",
       "link": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism"
-    },
-    {
-      "title": "Nintendo Switch 2 Gets Its First Software-Only Jailbreak, With Help From OpenAI Codex - TechPowerUp",
-      "link": "https://www.techpowerup.com/354036/nintendo-switch-2-gets-its-first-software-only-jailbreak-with-help-from-openai-codex"
-    },
-    {
-      "title": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2 - Nintendo Life",
-      "link": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2"
-    },
-    {
-      "title": "Arc browser is shutting down - The Verge",
-      "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down"
     },
     {
       "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes - The Hacker News",
@@ -90,36 +94,76 @@
   ],
   "sports_news": [
     {
+      "title": "Patriots vs. Bears live updates, inactives, where to watch: Drake Maye, Caleb Williams in showdown of the 2024 draft class - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/live/patriots-bears-score-live-updates-inactives-highlights-stats-where-to-watch-week-7-thursday-night-football-221855929.html"
+    },
+    {
+      "title": "Hall of Famer Marshall Faulk reveals he's been diagnosed with Parkinson's disease - Yahoo Sports",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-hall-of-famer-marshall-faulk-reveals-hes-been-diagnosed-with-parkinsons-disease-232113004.html"
+    },
+    {
+      "title": "ESPN: Several teams interested in trading for JT - NBC Sports",
+      "link": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-22/espn-several-teams-interested-in-trading-for-jt"
+    },
+    {
+      "title": "Atlanta Falcons show off new profile pic on social media that some fans say resembles Nazi imagery - NBC News",
+      "link": "https://www.nbcnews.com/news/us-news/atlanta-falcons-show-eyebrow-raising-retro-image-social-media-rcna605083"
+    },
+    {
+      "title": "Puka Nacua leaves practice early with calf injury - NBC Sports",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-leaves-practice-early-with-calf-injury"
+    },
+    {
+      "title": "Steelers fans, unfazed by French unrest, find Paris to be far from terrible - Pittsburgh Post-Gazette",
+      "link": "https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044"
+    },
+    {
       "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
       "link": "https://apnews.com/article/lebron-james-donald-trump-anthem-1853de6e80e3cce83b6452c7513f67c2"
     },
     {
-      "title": "United States Grand Prix: Kimi Antonelli intends to 'have fun' as he stands on brink of title - BBC",
-      "link": "https://www.bbc.com/sport/formula1/articles/cjr4y3y9zy2zo"
+      "title": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 7 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-7-205847115.html"
     },
     {
-      "title": "Patriots Place G Alijah Vera-Tucker on Injured Reserve; Announce Additional Roster Moves - Patriots.com",
-      "link": "https://www.patriots.com/news/patriots-place-g-alijah-vera-tucker-on-injured-reserve-announce-additional-roster-moves"
+      "title": "Ex-Luka Don\u010di\u0107 teammate sends warning to Yaxel Lendeborg after trash-talk - NBC Sports Bay Area & California",
+      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/ex-luka-doncic-teammate-warning-yaxel-lendeborg/1973316/"
+    },
+    {
+      "title": "Villanova Exits Philadelphia's Big 5, New Scheduling Format Announced for 2027-28 Season - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25518960-villanova-exits-philadelphias-big-5-new-scheduling-format-announced-2027-28-season"
+    },
+    {
+      "title": "'It would be a dream' \u2013 Antonelli targets 'perfect weekend' in Austin to claim maiden F1 title - Formula 1",
+      "link": "https://www.formula1.com/en/latest/article/it-would-be-a-dream-antonelli-targets-perfect-weekend-in-austin-to-claim-maiden-f1-title.39LQkTCcrGsLcfcPGgd4ud"
+    },
+    {
+      "title": "NBA finally reveals if LaMelo Ball travelled on viral play - Yahoo Sports",
+      "link": "https://www.sportingnews.com/us/nba/minnesota-timberwolves/news/nba-finally-reveals-if-lamelo-ball-travelled-viral-play/7e64e1f8ace50baad9540e37"
     },
     {
       "title": "Benzinger, 1990 WS champion with Reds, passes away at 63 - MLB.com",
       "link": "https://www.mlb.com/news/todd-benzinger-passes-away"
     },
     {
-      "title": "LaMelo Ball obviously traveled on way to 3-pointer, NBA refs confirm - ESPN",
-      "link": "https://www.espn.com/nba/story/_/id/50250900/lamelo-ball-really-did-travel-en-route-3-point-attempt-nba-refs-confirm"
+      "title": "Arman Tsarukyan confirms lightweight title shot is next, told it will be \u2018beginning of next year\u2019 - MMA Fighting",
+      "link": "https://www.mmafighting.com/ufc/517009/arman-tsarukyan-confirms-lightweight-title-shot-is-next-told-it-will-be-beginning-of-next-year"
+    },
+    {
+      "title": "Anthony Edwards Calls Out Heat Reserve for 'Talking Pretty Crazy' During T-Wolves' Blowout Win - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25519122-anthony-edwards-calls-out-heat-reserve-talking-pretty-crazy-during-t-wolves-blowout-win"
     },
     {
       "title": "Seahawks RB Zach Charbonnet activated off PUP list - ESPN",
       "link": "https://www.espn.com/nfl/story/_/id/50250887/seahawks-rb-zach-charbonnet-activated-pup-list"
     },
     {
-      "title": "Official: Starting XIs for Bournemouth vs. AC Milan \u2013 six changes from Atalanta win - SempreMilan",
-      "link": "https://sempremilan.com/official-starting-xis-bournemouth-milan-2026-27"
+      "title": "Where Will Troy Aikman Go if He Leaves ESPN? - Front Office Sports",
+      "link": "http://frontofficesports.com/article/troy-aikman-options-after-jj-watt-cbs-deal/"
     },
     {
-      "title": "Women's Club World Cup: United States to host inaugural edition in 2028 - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/c6n9r7wgp9q0o"
+      "title": "Official: Starting XIs for Bournemouth vs. AC Milan \u2013 six changes from Atalanta win - SempreMilan",
+      "link": "https://sempremilan.com/official-starting-xis-bournemouth-milan-2026-27"
     },
     {
       "title": "Chiefs placing LT Josh Simmons on IR with disc issue - NBC Sports",
@@ -128,42 +172,6 @@
     {
       "title": "Rangers Putting Sebastian Walcott Through Outfield Drills - MLB Trade Rumors",
       "link": "https://www.mlbtraderumors.com/2026/10/rangers-putting-sebastian-walcott-through-outfield-drills.html"
-    },
-    {
-      "title": "NFL Week 7 picks: Upset and score predictions, matchup breakdowns for every game - NFL.com",
-      "link": "https://www.nfl.com/news/nfl-picks-week-7-2026-nfl-season"
-    },
-    {
-      "title": "Steelers fan event in Paris canceled following recent civil unrest in capital - ESPN",
-      "link": "https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest"
-    },
-    {
-      "title": "Mike Locksley 'at peace' with Maryland firing, open to NFL, college OC jobs - ESPN",
-      "link": "https://www.espn.com/college-football/story/_/id/50250293/mike-locksley-says-peace-firing-maryland"
-    },
-    {
-      "title": "Green Bay Packers News: The Packers\u2019 path is getting steeper - Acme Packing Company",
-      "link": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88526/green-bay-packers-news-the-packers-path-is-getting-steeper"
-    },
-    {
-      "title": "Preview & Picks: Oregon at Illinois - 247Sports",
-      "link": "https://247sports.com/college/illinois/longformarticle/illinois-fighting-illini-football-oregon-ducks-preview-keys-to-the-game-illini-inquirer-staff-score-predictions-291574424/"
-    },
-    {
-      "title": "Basketball Game Interrupts Shit-Talk Session Between Luka Doncic And Yaxel Lendeborg - Defector",
-      "link": "https://defector.com/basketball-game-interrupts-shit-talk-session-between-luka-doncic-and-yaxel-lendeborg"
-    },
-    {
-      "title": "Poll: Who Will Win The World Series? - MLB Trade Rumors",
-      "link": "https://www.mlbtraderumors.com/2026/10/poll-who-will-win-the-world-series-6.html"
-    },
-    {
-      "title": "Bruno Fernandes to remain Man Utd captain despite outburst - BBC",
-      "link": "https://www.bbc.com/sport/football/articles/cqe8rglz8p90o"
-    },
-    {
-      "title": "Utah defensive lineman suspended after rape allegation, arrest on multiple counts of distributing an intimate image - Yahoo Sports",
-      "link": "https://sports.yahoo.com/college-football/breaking-news/article/utah-defensive-lineman-suspended-after-rape-accusation-arrest-on-multiple-counts-of-distributing-an-intimate-image-160215188.html"
     }
   ],
   "weather": {
